@@ -13,9 +13,7 @@ git push<br>
 
 ## Choix du mot
 
-Nous avons choisi le mot "méli-mélo".
-Ce mot a un rapport à la nourriture et veut dire "quelque chose de mélangé, dans le désordre".
-Nous avons choisi ce mot car Liza faisait des recherches sur le mot "brainstorming" et a trouvé sur internet "méli-mélo d'idées".
+Nous avons choisi le mot "méli-mélo". Ce mot a un rapport à la nourriture et veut dire "quelque chose de mélangé, dans le désordre". Nous avons choisi ce mot car Liza faisait des recherches sur le mot "brainstorming" et a trouvé sur internet "méli-mélo d'idées".
 
 ---
 
@@ -93,7 +91,7 @@ Le mot s'utilise en gastronomie<br>
 
 ### Espagnol
 
-revoltijo
+revoltijo<br>
 
 - Analyse sémantique et morphologique :<br>
 C'est le nom d'un plat.<br>
