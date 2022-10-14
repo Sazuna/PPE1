@@ -15,6 +15,8 @@ git push<br>
 
 Nous avons choisi le mot "méli-mélo". Ce mot a un rapport à la nourriture et veut dire "quelque chose de mélangé, dans le désordre". Nous avons choisi ce mot car Liza faisait des recherches sur le mot "brainstorming" et a trouvé sur internet "méli-mélo d'idées".
 
+Léna : Au début de ce projet, le choix du mot était loin d'être unanime. En effet, j'étais quelque peu sceptique, car je ne voyais pas en quoi l'étude du terme "méli-mélo" pouvait s'avérer intéressante d'un point de vue linguistique. C'est en cherchant les possibles traductions du mot en italien puis en espagnol avec des dictionnaires de contexte (notamment Reverso), que j'ai finalement été conquise par les différents usages du terme, qui se retrouvent d'une langue à une autre. C'est plus particulièrement ce retour constant des différentes traductions à la cuisine qui m'a intriguée.
+
 ---
 
 ### Français
@@ -80,18 +82,32 @@ mishmash<br>
 
 ### Italien
 
-guazzabuglio<br>
+On note plusieurs traductions  possibles pour l'idée française de "méli-mélo" : 
+- *miscuglio* (n.m.) : le mélange, la mixture. /mi'skuʎʎo/
+	- définition : "*Mescolanza di elementi eterogenei, per lo più malamente assortiti: un miscuglio di odori, di sapori; un miscuglio di gente d'ogni condizione sociale; un miscuglio d'interessi.*"
+	- "miscuglio" vient du verbe "mischiare" qui signifie mélanger. dérive également du verbe "mescolare". 
+	- terme s'applique à tous les domaines : chimie, cuisine etc...
+D'un point de vue sémantique, on retrouve bien le phonème "me", "mi" qu'on retrouve également dans les mots français. Cependant, *miscuglio* ne traduit pas la notion de désordre de méli-mélo. 
 
-- Analyse sémantique et morphologique :<br>
-Le mot s'utilise en gastronomie<br>
+- *guazzabuglio* (n.m.) : ensemble désordonné d'éléments, fourre-tout, méli-mélo. /gwattsa'buʎʎo/
+	- *guazza* vient d'*acqua* (eau), tandis que *buglio* vient de *bollire* qui signifie bouillir.
+	- *guazzabuglio* a un rapport plus fort avec la cuisine : on trouve facilement des recettes portant ce nom là. s'applique également à la vie de tous les jours, pour décrire le désorde, le basar... le méli-mélo.
+- Exemples : "Guazzabuglio di carrotte e zucchine", il guazzabuglio del cuore umano" (Manzoni, 1785-1873)
+- source : https://unaparolaalgiorno.it/significato/guazzabuglio
 
-- Exemple : "Guazzabuglio de carrotte"<br>
+Sur les deux traductions ci-dessus, ce serait "guazzabuglio" qui nous intéresserait d'avantages, car sa définition et son usage courant concordonne parfaitement avec l'usage de méli-mélo.
 
 ---
 
 ### Espagnol
 
-revoltijo<br>
+L'espagnol propose plusieurs traductions également : 
 
-- Analyse sémantique et morphologique :<br>
-C'est le nom d'un plat.<br>
+- *mezcla*, *mezcolanza* : du verbe *mezclar* qui signifie mélanger. Usage commun, s'applique de nombreux domaines. Ne traduit pas cependant la notion de désordre, de fourre-tout.
+- *revoltijo* (n.m.) : fouillis, mélange, pêle-mêle. esp.: *Conjunto o compuesto de muchas cosas , sin orden ni método.*
+	- usage commun. Il s'agit également du nom d'un plat mexicain (*tambien se llamas Romeritos. se trada de un mezcla de verduras, es una tradicion decembrina.*) (mélange de légume dont le romarin est l'ingédient phare. repas de fête.)
+	- source : https://dle.rae.es/revoltijo
+- *batiburrillo* (n.m.) : fatras, mélange, fouillis, méli-mélo. 
+	- étimologie : de *baturillo* (signification similaire)du latin *battuere* (frapper, battre) et *zurriburri* (confusion, désordre...), racine du verbe espagnol _zumbar_ mais qui s'explique comme une onomatopée. 
+	- un plat typique du Paraguay porte également ce nom (ragoût à base d'abats de viande) : *el batiburrillo paraguayo se trata de un guiso con menudencias de carne.* 
+	- source : http://etimologias.dechile.net/?batiburrillo
