@@ -1,16 +1,3 @@
-﻿# Journal de bord du projet encadré
-
-## Ajout du journal de bord
-touch journal-de-bord.md<br>
-git add journal-de-bord.md<br>
-git commit -m "Ajout du journal de bord"<br>
-git push<br>
-
-## Formation du groupe
-- Yingzi - Français (ou Anglais)
-- Liza - Chinois
-- Léna - Anglais (ou Italien ou Espagnol)
-
 ## Choix du mot
 
 Nous avons choisi le mot "méli-mélo". Ce mot a un rapport à la nourriture et veut dire "quelque chose de mélangé, dans le désordre". Nous avons choisi ce mot car Liza faisait des recherches sur le mot "brainstorming" et a trouvé sur internet "méli-mélo d'idées".
