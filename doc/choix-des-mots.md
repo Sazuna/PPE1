@@ -27,21 +27,31 @@ gargouillou, salade mêlée<br>
 
 ### Chinois
 
-Chinois simplifié : 一锅粥<br>
-Chinois traditionnel : 一鍋粥<br>
-Pinyin : yī guō zhōu<br>
-POS : article indéfini + quantificateur + nom<br>
-Traduction littérale : Une casserole de porridge<br>
+- 一锅粥
 
- - Définition :
-"(lit.) a pot of porridge / (fig.) a complete mess"<br>
-Source : [omgchinese.com](https://www.omgchinese.com/dictionary/chinese/%E4%B8%80%E9%94%85%E7%B2%A5)<br>
+	- Chinois simplifié : 一锅粥<br>
+	- Chinois traditionnel : 一鍋粥<br>
+	- Pinyin : yī guō zhōu<br>
+	- POS : article indéfini + quantificateur + nom<br>
+	- Traduction littérale : Une casserole de porridge<br>
 
-- Analyse sémantique et morphologique :<br>
-Il s'agit de 3 mots différents : "une" + "marmite/casserole" + "porridge". Il y a donc un lien direct avec le porridge, qui est une forme de soupe mélangeant de nombreux ingrédients.<br>
+	- Définition : "(lit.) a pot of porridge / (fig.) a complete mess"<br>
+	- Source : [omgchinese.com](https://www.omgchinese.com/dictionary/chinese/%E4%B8%80%E9%94%85%E7%B2%A5)<br>
+	- Analyse sémantique et morphologique : Il s'agit de 3 mots différents : "une" + "marmite/casserole" + "porridge". Il y a donc un lien direct avec le porridge, qui est une forme de soupe mélangeant de nombreux ingrédients.<br>
+	- Synonymes:<br>
+	乱成一团, 一窝蜂, 一塌糊涂<br>
 
-- Synonymes:<br>
-乱成一团, 一窝蜂, 一塌糊涂<br>
+
+- 大杂烩
+
+	- Chinois simplifié : 大杂烩<br>
+	- Chinois traditionnel : 大雜燴<br>
+	- Pinyin : dà záhuì <br>
+	- POS : adjectif + nom<br>
+	- Traduction littérale : Grand mélange<br>
+
+	- Définition : " mix-up / mish-mash / potpourri"<br>
+	- Source : [omgchinese.com](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A7%E6%9D%82%E7%83%A9)<br>
 
 ---
 
