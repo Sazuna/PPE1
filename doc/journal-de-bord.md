@@ -19,3 +19,6 @@ Nous nous sommes mises d'accord sur quel mot nous allions étudier : méli-mélo
 ## 2022-10-16
 ### Changement de mot chinois
 Liza : J'ai changé de mot en chinois parce que yiguozhou 一锅粥 est un mot péjoratif. J'ai trouvé le nouveau mot en consultant le dictionnaire chinois-anglais-français, Pleco.
+
+### Choix des problématiques
+En cherchant des mots dans le corpus, on a trouvé des idées de problématiques qui pourraient être intéressantes.
