@@ -15,3 +15,7 @@ git push<br>
 ## 2022-10-12
 ### Choix des mots
 Nous nous sommes mises d'accord sur quel mot nous allions étudier : méli-mélo, mais pas encore sur les langues. Nous avons fait des recherches sur chacune des langues qui pourraient nous intéressé et trouvé des équivalences.
+
+## 2022-10-16
+### Changement de mot chinois
+Liza : J'ai changé de mot en chinois parce que yiguozhou 一锅粥 est un mot péjoratif. J'ai trouvé le nouveau mot en consultant le dictionnaire chinois-anglais-français, Pleco.
