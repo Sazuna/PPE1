@@ -1,6 +1,4 @@
-### Français
-Yingzi
-### Italien
-Léna
-### Chinois
-Liza
+- #### Yingzi : 
+- #### Liza Fretel : 
+- #### Léna Gaubert : 
+	- italien : *guazzabuglio*
