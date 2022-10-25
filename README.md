@@ -1,4 +1,5 @@
 - #### Yingzi : 
+    - Français : *méli-mélo*
 - #### Liza Fretel : 
 - #### Léna Gaubert : 
 	- italien : *guazzabuglio*
