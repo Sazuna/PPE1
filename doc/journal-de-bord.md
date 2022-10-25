@@ -8,9 +8,10 @@ git commit -m "Ajout du journal de bord"<br>
 git push<br>
 
 ### Formation du groupe
-- Yingzi - Français (ou Anglais)
+- Yingzi - Français 
 - Liza - Chinois
-- Léna - Anglais (ou Italien ou Espagnol)
+- Léna - Italien
+Langue pivot : anglais.
 
 ## 2022-10-12
 ### Choix des mots
@@ -22,3 +23,7 @@ Liza : J'ai changé de mot en chinois parce que yiguozhou 一锅粥 est un mot p
 
 ### Choix des problématiques
 En cherchant des mots dans le corpus, on a trouvé des idées de problématiques qui pourraient être intéressantes.
+
+## 2022-10-19
+### Choix définitif des langues
+Après réflexions, nous nous sommes enfin décidés sur les langues dans lesquels nous allons étudier notre mot. Nous nous sommes limités à une langue par membre du groupe (français, chinois, italien), plus une langue pivot, qui sera ici l'anglais. Le choix des langues s'est fait de façon à ce qu'aucun locuteur n'étudie sa langue maternelle, ce qui nous permettra au fil des semaines de progresser chacune dans les langues étudiées. 
