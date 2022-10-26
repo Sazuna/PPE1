@@ -5,4 +5,7 @@
 - [ ] Expliquer comment on a trouvé nos traductions
 - [x] Trouver une problématique commune
 - [ ] Définir quel type de données nous analyserons dans chaque langue
-- [ ] Faire nos corpus avec SketchEngine
+- [ ] Faire nos listes de liens dans plusieurs fichier texte en fonction du contexte
+## 26/10
+- [ ] Faire trois scripts qui utilisent curl pour chaque langue
+- [ ] Mettre en commun notre script pour le rendre multilingue
