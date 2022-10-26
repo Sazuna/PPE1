@@ -10,7 +10,7 @@ git push<br>
 ### Formation du groupe
 - Yingzi - Français 
 - Liza - Chinois
-- Léna - Italien
+- Léna - Espagnol
 Langue pivot : anglais.
 
 ## 2022-10-12
@@ -27,3 +27,10 @@ En cherchant des mots dans le corpus, on a trouvé des idées de problématiques
 ## 2022-10-19
 ### Choix définitif des langues
 Après réflexions, nous nous sommes enfin décidés sur les langues dans lesquels nous allons étudier notre mot. Nous nous sommes limités à une langue par membre du groupe (français, chinois, italien), plus une langue pivot, qui sera ici l'anglais. Le choix des langues s'est fait de façon à ce qu'aucun locuteur n'étudie sa langue maternelle, ce qui nous permettra au fil des semaines de progresser chacune dans les langues étudiées. 
+
+## 2022-10-26
+### Changement de langue (Léna)
+Suite à diverses discussions avec des locuteurs natifs italiens (notamment, Diego, de notre  classe) et espagnol, j'ai pu tirer des informations qu'il ne m'était pas possible de trouver avec des outils de traductiques (Reverso, dictionnaires en ligne...) : 
+- *guazzabuglio* est (malheureusement) trop ancien, et trop peu utilisé dans le langage courant. La plupart de ses occurences sont dans la littérature classique italienne, ce qui pose problème quant à l'homogénéité de nos corpus (on veut des données ***comparables***).
+- les traductions trouvées en espagnol au début du projet (*revoltijo* et *batiburrillo*) s'avèrerait être plus intéressantes pour ce projet car leur usage est plus courant à l'oral comme à l'écrit, ce qui élargit le pannel de corpus constituables.
+Ainsi, nous décrété qu'il était préférable de prendre l'espagnol plutôt que l'italien comme langue d'étude pour la suite de ce projet. Reste à décider de la traduction à choisir (les deux sont bonnes, mais leur usage dépend de la zone géographique des locuteurs.)
