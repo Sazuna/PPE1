@@ -1,5 +1,6 @@
-- #### Yingzi : 
-    - Français : *méli-mélo*
-- #### Liza Fretel : 
-- #### Léna Gaubert : 
-	- espagnol : *revoltijo* ou *batiburrillo*
+- #### Yingzi
+	- Français : *méli-mélo*
+- #### Liza Fretel 
+	- Chinois : *da zahui* 大杂烩 ou *yi guo zhou* 一锅粥
+- #### Léna Gaubert
+	- Espagnol : *revoltijo* ou *batiburrillo*
