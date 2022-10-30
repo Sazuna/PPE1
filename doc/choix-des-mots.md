@@ -51,7 +51,8 @@ gargouillou, salade mêlée<br>
 	- Traduction littérale : Grand mélange<br>
 
 	- Définition : " mix-up / mish-mash / potpourri"<br>
-	- Source : [omgchinese.com](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A7%E6%9D%82%E7%83%A9)<br>
+	- Analyse sémantique et morphologique : Grand + ragoût. Lien avec la nourriture au sens propre, et utilisé au sens figuré pour parler d'un regroupement disparate d'objets.<br>
+	- Sources : [omgchinese.com](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A7%E6%9D%82%E7%83%A9), [baike.baidu.com](https://baike.baidu.com/item/%E5%A4%A7%E6%9D%82%E7%83%A9/7288679)<br>
 
 ---
 
