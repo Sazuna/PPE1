@@ -21,7 +21,9 @@ En français, "méli-mélo" peut venir de "mélange" et effectue un dédoublemen
 
 - Synonymes :<br>
 bric-à-brac, micmac, pêle-mêle (mots qui connaissent le même phénomène de dédoublement de phonème et le sens du désordre)<br>
-gargouillou, salade mêlée<br>
+gargouillou, salade mêlée, fatras, confusion, fouillis, gâchis, imbroglio, salmigondis, capharnaüm (Ce mot est surtout utilisé au sens figuré pour qualifier un lieu de grande pagaille, renfermant beaucoup d'objets entassés pêle-mêle, un endroit en désordrenote 1 et par métonymie un amas de ces objets.)<br>
+Source : [linternaute.fr](https://www.linternaute.fr/dictionnaire/fr/synonyme/meli-melo/)<br>
+
 
 ---
 
