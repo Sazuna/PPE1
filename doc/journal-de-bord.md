@@ -34,3 +34,11 @@ Suite à diverses discussions avec des locuteurs natifs italiens (notamment, Die
 - *guazzabuglio* est (malheureusement) trop ancien, et trop peu utilisé dans le langage courant. La plupart de ses occurences sont dans la littérature classique italienne, ce qui pose problème quant à l'homogénéité de nos corpus (on veut des données ***comparables***).
 - les traductions trouvées en espagnol au début du projet (*revoltijo* et *batiburrillo*) s'avèrerait être plus intéressantes pour ce projet car leur usage est plus courant à l'oral comme à l'écrit, ce qui élargit le pannel de corpus constituables.
 Ainsi, nous décrété qu'il était préférable de prendre l'espagnol plutôt que l'italien comme langue d'étude pour la suite de ce projet. Reste à décider de la traduction à choisir (les deux sont bonnes, mais leur usage dépend de la zone géographique des locuteurs.)
+
+## 2022-11-02
+### Chercher le corpus (Liza)
+Après avoir finalisé le choix de "一锅粥 （yiguozhou）" comme le mot chinois d'étude, j'ai commencé une recherche approfondie du corpus pour ce mot et sélectionné les listes d'url que j'ai trouvés dans les quatre catégories de sens suivantes：
+- Apparaissant dans le titre
+- Ayant un sens hors contexte
+- Ayant un sens figure
+- Ayant un sens propre
