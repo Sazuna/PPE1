@@ -37,8 +37,13 @@ Ainsi, nous décrété qu'il était préférable de prendre l'espagnol plutôt q
 
 ## 2022-11-02
 ### Chercher le corpus (Liza)
-Après avoir finalisé le choix de "一锅粥 （yiguozhou）" comme le mot chinois d'étude, j'ai commencé une recherche approfondie du corpus pour ce mot et sélectionné les listes d'url que j'ai trouvés dans les quatre catégories de sens suivantes：
+Après avoir finalisé le choix de "大杂烩（da zahui）" et "一锅粥 （yi guo zhou）" comme les mots chinois d'étude, j'ai commencé tout d'abord une recherche approfondie du corpus pour le mot "大杂烩 (da za hui)" et sélectionné les listes d'URL que j'ai trouvés dans les quatre catégories de sens suivantes：
 - Apparaissant dans le titre
 - Ayant un sens hors contexte
 - Ayant un sens figure
 - Ayant un sens propre
+### Chercher le corpus (Yingzi)
+Ayant identifié toutes les formes du mot "méli-mélo" dans le dictionnaire, j'ai commencé une recherche dans le corpu. Actuellement, j'ai trouvé 45 articles contenant le mot "méli(s)-mélo(s)" et j'ai collecté des URL vers le site de ces articles. En suite，je les ai classés en fonction du type d'article dans lequel le mot se trouve. Les types d'articles sont les suivants: 
+- Littérature
+- Presse
+- Théâtre
