@@ -7,5 +7,8 @@
 - [ ] Définir quel type de données nous analyserons dans chaque langue
 - [ ] Faire nos listes de liens dans plusieurs fichiers texte en fonction du contexte
 ## 26/10
-- [ ] Faire trois scripts qui utilisent curl pour chaque langue
-- [ ] Mettre en commun notre script pour le rendre multilingue
+- [x] Faire un script qui utilise curl pour chaque langue
+- [x] Mettre en commun notre script pour le rendre multilingue
+## 3/11
+- [ ] Analyser la réponse HTTP de la commande curl (code retour + encodage)
+- [ ] Effectuer une conversion automatique des pages encodées en non UTF-8
