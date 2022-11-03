@@ -8,7 +8,7 @@ git commit -m "Ajout du journal de bord"<br>
 git push<br>
 
 ### Formation du groupe
-- Yingzi - Français 
+- Yingzi - Français
 - Liza - Chinois
 - Léna - Espagnol
 Langue pivot : anglais.
@@ -26,24 +26,29 @@ En cherchant des mots dans le corpus, on a trouvé des idées de problématiques
 
 ## 2022-10-19
 ### Choix définitif des langues
-Après réflexions, nous nous sommes enfin décidés sur les langues dans lesquels nous allons étudier notre mot. Nous nous sommes limités à une langue par membre du groupe (français, chinois, italien), plus une langue pivot, qui sera ici l'anglais. Le choix des langues s'est fait de façon à ce qu'aucun locuteur n'étudie sa langue maternelle, ce qui nous permettra au fil des semaines de progresser chacune dans les langues étudiées. 
+Après réflexions, nous nous sommes enfin décidés sur les langues dans lesquels nous allons étudier notre mot. Nous nous sommes limités à une langue par membre du groupe (français, chinois, italien), plus une langue pivot, qui sera ici l'anglais. Le choix des langues s'est fait de façon à ce qu'aucun locuteur n'étudie sa langue maternelle, ce qui nous permettra au fil des semaines de progresser chacune dans les langues étudiées.
 
 ## 2022-10-26
 ### Changement de langue (Léna)
-Suite à diverses discussions avec des locuteurs natifs italiens (notamment, Diego, de notre  classe) et espagnol, j'ai pu tirer des informations qu'il ne m'était pas possible de trouver avec des outils de traductiques (Reverso, dictionnaires en ligne...) : 
+Suite à diverses discussions avec des locuteurs natifs italiens (notamment, Diego, de notre  classe) et espagnol, j'ai pu tirer des informations qu'il ne m'était pas possible de trouver avec des outils de traductiques (Reverso, dictionnaires en ligne...) :
 - *guazzabuglio* est (malheureusement) trop ancien, et trop peu utilisé dans le langage courant. La plupart de ses occurences sont dans la littérature classique italienne, ce qui pose problème quant à l'homogénéité de nos corpus (on veut des données ***comparables***).
 - les traductions trouvées en espagnol au début du projet (*revoltijo* et *batiburrillo*) s'avèrerait être plus intéressantes pour ce projet car leur usage est plus courant à l'oral comme à l'écrit, ce qui élargit le pannel de corpus constituables.
 Ainsi, nous décrété qu'il était préférable de prendre l'espagnol plutôt que l'italien comme langue d'étude pour la suite de ce projet. Reste à décider de la traduction à choisir (les deux sont bonnes, mais leur usage dépend de la zone géographique des locuteurs.)
 
 ## 2022-11-02
-### Chercher le corpus (Liza)
-Après avoir finalisé le choix de "大杂烩（da zahui）" et "一锅粥 （yi guo zhou）" comme les mots chinois d'étude, j'ai commencé tout d'abord une recherche approfondie du corpus pour le mot "大杂烩 (da za hui)" et sélectionné les listes d'URL que j'ai trouvés dans les quatre catégories de sens suivantes：
+### Recherche de corpus (Liza)
+Après avoir finalisé le choix de "大杂烩"*da zahui* et "一锅粥" *yi guo zho* comme les mots chinois d'étude, j'ai commencé tout d'abord une recherche de corpus dans google actualités pour le mot "大杂烩 (da za hui)" et trié les listes d'URL que j'ai trouvés dans les quatre catégories de sens suivantes：
 - Apparaissant dans le titre
 - Ayant un sens hors contexte
 - Ayant un sens figure
 - Ayant un sens propre
-### Chercher le corpus (Yingzi)
-Ayant identifié toutes les formes du mot "méli-mélo" dans le dictionnaire, j'ai commencé une recherche dans le corpu. Actuellement, j'ai trouvé 45 articles contenant le mot "méli(s)-mélo(s)" et j'ai collecté des URL vers le site de ces articles. En suite，je les ai classés en fonction du type d'article dans lequel le mot se trouve. Les types d'articles sont les suivants: 
+
+### Recherche de corpus (Yingzi)
+Ayant identifié toutes les formes du mot "méli-mélo" dans le dictionnaire, j'ai commencé une recherche de corpus. Actuellement, j'ai trouvé 45 articles contenant le mot "méli(s)-mélo(s)" et j'ai collecté des URL vers le site de ces articles. En suite，je les ai classés en fonction du type d'article dans lequel le mot se trouve. Les types d'articles sont les suivants:
 - Littérature
 - Presse
 - Théâtre
+
+## 2022-11-03
+### Recherche de corpus (Liza)
+Ajout des liens pour le nouveau mot "大杂烩" *da zahui*, trouvés sur google actualités.
