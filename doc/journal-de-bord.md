@@ -56,3 +56,11 @@ Ajout des liens pour le nouveau mot "大杂烩" *da zahui*, trouvés sur google 
 ### Première tentative d'utilisation de curl (Liza)
 Création de deux fichiers bash, l'un pour boucler sur tous les fichiers contenant les urls, l'autre pour boucler sur les urls. Le second est un fichier caché car il n'est pas destiné à être utilisé, il s'agit davantage d'une fonction qu'appelle le premier script. Il stocke le résultat de la commande curl dans un fichier ./premier-argument/N.txt (N est un itérateur, premier-argument est le nom du dossier qu'on veut créer, on peut écrire le mot analysé par exemple).
 Pour lancer le premier script, on donne en arguments : 1) le nom du dossier 2) la liste de fichiers contenant les urls.
+
+## 2022-11-08
+### Recherche de corpus (Léna)
+Ajout des liens pour les mots *"batiburrillo"* et "*revoltijo*", trouvé sur Google News. Recherches : 
+- "revoltijo"
+- "batiburrillo"
+- "el batiburrillo"
+- "el batiburrillo receta" (pour sens figuré : articles sur la recette, la tradition gastronomique)
