@@ -64,3 +64,4 @@ Ajout des liens pour les mots *"batiburrillo"* et "*revoltijo*", trouvé sur Goo
 - "batiburrillo"
 - "el batiburrillo"
 - "el batiburrillo receta" (pour sens figuré : articles sur la recette, la tradition gastronomique)
+Petite trouvaille : expression couramment utilisée dans la presse **espagnole** -> *batiburrillo rancio de izquierdas* (trad. lit. mélange rance/vieux des gauches), désigne le "bazar" politique de l'union des partis de gauche en Espagne (IU = Izquierda Unida ~ NUPES en France). J'ai réussi à trouvé plusieurs articles de presses reprenant systématiquement cette expression (avec citations de politiques -> expression donc utilisée dans le langage courrant, expression actuelle)
