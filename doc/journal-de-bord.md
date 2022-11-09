@@ -56,6 +56,7 @@ Ajout des liens pour le nouveau mot "大杂烩" *da zahui*, trouvés sur google 
 ### Première tentative d'utilisation de curl (Liza)
 Création de deux fichiers bash, l'un pour boucler sur tous les fichiers contenant les urls, l'autre pour boucler sur les urls. Le second est un fichier caché car il n'est pas destiné à être utilisé, il s'agit davantage d'une fonction qu'appelle le premier script. Il stocke le résultat de la commande curl dans un fichier ./premier-argument/N.txt (N est un itérateur, premier-argument est le nom du dossier qu'on veut créer, on peut écrire le mot analysé par exemple).
 Pour lancer le premier script, on donne en arguments : 1) le nom du dossier 2) la liste de fichiers contenant les urls.
+Le problème est que ce qui est sorti par le deuxième script dans les fichiers ne contient pas la réponse de la requête HTTP.
 
 ## 2022-11-08
 ### Recherche de corpus (Léna)
