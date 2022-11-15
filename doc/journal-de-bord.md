@@ -66,3 +66,7 @@ Ajout des liens pour les mots *"batiburrillo"* et "*revoltijo*", trouvé sur Goo
 - "el batiburrillo"
 - "el batiburrillo receta" (pour sens figuré : articles sur la recette, la tradition gastronomique)
 Petite trouvaille : expression couramment utilisée dans la presse **espagnole** -> *batiburrillo rancio de izquierdas* (trad. lit. mélange rance/vieux des gauches), désigne le "bazar" politique de l'union des partis de gauche en Espagne (IU = Izquierda Unida ~ NUPES en France). J'ai réussi à trouvé plusieurs articles de presses reprenant systématiquement cette expression (avec citations de politiques -> expression donc utilisée dans le langage courrant, expression actuelle)
+
+## 2022-11-15
+### Ecriture de scripts
+J'ai ajouté des commentaires dans les scripts. Avec la commande curl -i, je voulais récupérer à la fois le header et le corps de la réponse HTTP et ensuite découper le résultat en deux avec cut, en sachant que ce qui sépare le header du corps de la réponse est une ligne vide : (egrep -n "^$" | cut -d':' -f1). Je n'ai finalement pas commité cette version, parce qu'elle me paraît inutilement compliquée.
