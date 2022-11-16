@@ -72,6 +72,7 @@ Petite trouvaille : expression couramment utilisée dans la presse **espagnole**
 J'ai ajouté des commentaires dans les scripts. Avec la commande curl -i, je voulais récupérer à la fois le header et le corps de la réponse HTTP et ensuite découper le résultat en deux avec cut, en sachant que ce qui sépare le header du corps de la réponse est une ligne vide : (egrep -n "^$" | cut -d':' -f1). Je n'ai finalement pas commité cette version, parce qu'elle me paraît inutilement compliquée.
 
 ## 2022-11-16
-En testant les commandes une à une dans le terminal, nous nous sommes rendues comptes que la ligne `RESPONSE=$(curl -I $URL)` dans `get_url.sh` ne nous donne pas les mêmes informations que si on utilise la commande `curl` dans le terminal sans la stocker dans une variable. 
+- En testant les commandes une à une dans le terminal, nous nous sommes rendues comptes que la ligne `RESPONSE=$(curl -I $URL)` dans `get_url.sh` ne nous donne pas les mêmes informations que si on utilise la commande `curl` dans le terminal sans la stocker dans une variable. 
 ![[Pasted image 20221116095431.png]]
-Cela nous pose problème pour récupérer les codes HTTP et le charset de chaque site web de nos corpus. À revoir. 
+- Cela nous pose problème pour récupérer les codes HTTP et le charset de chaque site web de nos corpus. À revoir. 
+- Création du script `table.sh`. On a commencé à réfléchir à comment créer le site web à partir de scripts bash + création & complétion des tableaux HTML. Script sert de base à retravailler.
