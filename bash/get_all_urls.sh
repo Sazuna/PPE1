@@ -26,6 +26,6 @@ do
 		echo "$FILE does not exist."
 		echo "It should be a file containing a list of urls."
 	else
-		./.get_url.sh $WORD $FILE
+		./get_url.sh $WORD $FILE
 	fi
 done
