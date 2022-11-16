@@ -12,3 +12,7 @@
 ## 3/11
 - [ ] Analyser la réponse HTTP de la commande curl (code retour + encodage)
 - [ ] Effectuer une conversion automatique des pages encodées en non UTF-8
+## 16/11
+- [x] Générer des tables HTML en bash
+- [ ] Générer la structure de la page web en bash
+- [ ] Complétion des tables HTML avec données récupérées avec curl
