@@ -76,3 +76,15 @@ J'ai ajouté des commentaires dans les scripts. Avec la commande curl -i, je vou
 ![[Pasted image 20221116095431.png]]
 - Cela nous pose problème pour récupérer les codes HTTP et le charset de chaque site web de nos corpus. À revoir. 
 - Création du script `table.sh`. On a commencé à réfléchir à comment créer le site web à partir de scripts bash + création & complétion des tableaux HTML. Script sert de base à retravailler.
+
+## 2022-11-16
+### Recherche de corpus (Yingzi)
+Ajout des urls pour le mots "méli-mélo" et ses autres formes comme "méli mélo"，"méli et mélo"（ Noms de personnages d'animation ）. 
+J'ai changé la façon de classer les urls, car j'ai trouvé que cela n'avait pas de sens pour approfondir ma recherche，je les ai donc re-catégorisés sémantiquement en fonction du mot "méli-mélo" dans les sens suivantes：
+- dans titre
+- noms de livres
+- noms de films
+- noms d'aliments
+- noms de personnages animés
+- sens figure
+- sens propre
