@@ -10,7 +10,7 @@
 - [x] Faire un script qui utilise curl pour chaque langue
 - [x] Mettre en commun notre script pour le rendre multilingue
 ## 3/11
-- [ ] Analyser la réponse HTTP de la commande curl (code retour + encodage)
+- [x] Analyser la réponse HTTP de la commande curl (code retour + encodage)
 - [ ] Effectuer une conversion automatique des pages encodées en non UTF-8
 ## 16/11
 - [x] Générer des tables HTML en bash

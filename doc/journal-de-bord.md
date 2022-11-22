@@ -88,3 +88,18 @@ J'ai changé la façon de classer les urls, car j'ai trouvé que cela n'avait pa
 - noms de personnages animés
 - sens figure
 - sens propre
+
+## 2022-11-22
+### Scripts bash : code réponse HTTP
+Impossible de stocker le résultat de la commande dans une variable pour des raisons qui m'échappent encore (consulter les profs à ce sujet???). 
+Idée de script à faire valider par Liza : 
+```bash
+(curl -I https://example.com | head -n 1 | cut -d ' ' -f2) > reponse_code.txt
+echo "\n" > reponse_code.txt # saut de ligne ?
+```
+Comme ça : on combine deux scripts en un seul. plus concis et direct.
+### charset/encodage
+pour récupérer encodage des pages web, il faudrait exécuter la commande suivante (à implémenter dans nos scripts demain avec Liza & Yingzi)
+```bash
+(curl -I https://example.com | head -n 4 | cut -d '=' -f2 | tail -n 1) > site_encoding.txt
+```
