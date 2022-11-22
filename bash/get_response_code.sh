@@ -5,5 +5,9 @@
 # (200, 404...)
 
 RESPONSE=$1
-CODE=
+CODE=$(head -n 1 | cut -d ' ' -f2) # on pourrait rassembler le tout dans une seule et même commande. (minus un script)
 echo $CODE
+
+# commande idéale pour récupérer code réponse HTTP (dans boucle for) : 
+# (curl -I http.example.com | head -n 1 | cut -d ' ' -f2) > response_code.txt
+# echo "\n" > response_code.txt
