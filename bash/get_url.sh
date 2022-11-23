@@ -33,6 +33,14 @@ do
 	if [[ $CODE -eq 200 ]]
 	then
 		echo "200 OK"
+		DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
+		if [[ $CHARSET -ne "UTF-8" && $CHARSET -ne "utf-8" && -n "$DUMP" ]]
+		then
+			DUMP=$(echo $DUMP | iconv -f $CHARSET -t UTF-8//IGNORE)
+		fi
+	else
+		DUMP=""
+		CHARSET=""
 	fi
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
