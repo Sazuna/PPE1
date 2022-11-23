@@ -103,3 +103,8 @@ pour récupérer encodage des pages web, il faudrait exécuter la commande suiva
 ```bash
 (curl -I https://example.com | head -n 4 | cut -d '=' -f2 | tail -n 1) > site_encoding.txt
 ```
+
+## 2022-11-23
+### Scripts bash : récupération du code HTTP et du charset
+Le problème de la réponse HTTP (header) a été résolu par tr -d "\r".
+On stocke les résultats des commande dans un fichier \_head.txt.
