@@ -20,3 +20,4 @@
 - [ ] Dumper les pages (commande lynx -dump ...)
 - [ ] Mettre les pages dumpées dans un fichier dumps/mot-lineno.txt
 - [ ] Aspirer les pages dans un dossier aspirations/mot-lineno.txt
+- [ ] Réorganiser les dossiers pour faciliter la génération des fichiers
