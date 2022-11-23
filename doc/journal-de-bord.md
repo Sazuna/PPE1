@@ -106,5 +106,7 @@ pour récupérer encodage des pages web, il faudrait exécuter la commande suiva
 
 ## 2022-11-23
 ### Scripts bash : récupération du code HTTP et du charset
-Le problème de la réponse HTTP (header) a été résolu par tr -d "\r".
+Le problème de la réponse HTTP (header) de la commande curl a été résolu par tr -d "\r". La commande curl renvoie une chaîne de caractères inexploitable si on la redirige dans une variable. Notre objectif est d'écrire uniquement des petits fichiers articulés autour d'un bloc de code principal. De cette façon, le code sera plus clair et divisé en petites tâches. C'est aussi plus facile pour un travail de groupe. De plus, les fonctions sont testables individuellement.
+La difficulté est de passer à chaque fois les bons arguments aux bons scripts, d'où le bug avec la réponse de la commande curl.
 On stocke les résultats des commande dans un fichier \_head.txt.
+Quand je teste les commandes avec le corpus en chinois, j'obtiens cependant des réponses HTTP/1.1, donc il faut que la recherche de la réponse HTTP dans le grep le prenne en compte. J'ai dû transformer le . en .\* dans le grep.
