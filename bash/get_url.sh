@@ -23,7 +23,7 @@ do
 		# tr -d "\r" corrige les erreurs d'affichage
 		RESPONSE=$(curl -ILs $URL | tr -d "\r")
 		CODE=$(./get_response_code.sh "$RESPONSE")
-		CHARSET=$(./get_charset_code.sh "$RESPONSE")
+		CHARSET=$(./get_response_charset.sh "$RESPONSE")
 		echo "$CODE,$CHARSET" > $OUTPUT_FILE
 	else
 		echo "$URL is not a valid url."
