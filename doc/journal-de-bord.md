@@ -110,3 +110,9 @@ Le problème de la réponse HTTP (header) de la commande curl a été résolu pa
 La difficulté est de passer à chaque fois les bons arguments aux bons scripts, d'où le bug avec la réponse de la commande curl.
 On stocke les résultats des commande dans un fichier \_head.txt.
 Quand je teste les commandes avec le corpus en chinois, j'obtiens cependant des réponses HTTP/1.1, donc il faut que la recherche de la réponse HTTP dans le grep le prenne en compte. J'ai dû transformer le . en .\* dans le grep.
+
+## 2022-11-28
+### Génération du site web
+La navbar est responsive. J'ai créé un dossier js pour le code en javascript. Toutes les pages web générées seront à ranger dans un dossier /html à la racine.
+### Idées pour la suite
+Pour générer les tables html, nous voudrions passer par une étape intermédiaire, qui serait de ranger les données récoltées dans un fichier csv. Cela permettra de diviser le code davantage.
