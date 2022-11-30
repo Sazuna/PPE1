@@ -15,7 +15,7 @@
 ## 16/11
 - [x] Générer des tables HTML en bash
 - [x] Générer la structure de la page web en bash
-- [ ] Complétion des tables HTML avec données récupérées avec curl
+- [x] Complétion des tables HTML avec données récupérées avec curl
 ## 23/11
 - [ ] Dumper les pages (commande lynx -dump ...)
 - [ ] Mettre les pages dumpées dans un fichier dumps/mot-lineno.txt
@@ -23,3 +23,5 @@
 - [ ] Réorganiser les dossiers pour faciliter la génération des fichiers
 ## 28/11
 - [ ] Générer des fichiers csv qui seront transformés en tables html
+## 30/11
+- [ ] générer table HTML concordances à partir des fichiers dans le dossier contexte
