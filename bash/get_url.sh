@@ -81,10 +81,8 @@ do
 		# In some contexts, the word is cut in two lines.
 		if [[ $NO_SPACES -eq 1 ]]
 		then
-			echo "NO SPACE HERE !!!!!!!!!!!!!!!!!!"
 			CONTEXT=$(echo $DUMP | tr -d '\n\r '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
 		else
-			echo "SPACE HERE..."
 			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
 		fi
 	else
@@ -110,4 +108,4 @@ do
 done
 
 # Create the HTML table from CSV
-./table.sh $CSV > "../html/$WORD.html"
+./table.sh $CSV > "../html/$WORD-table.html"
