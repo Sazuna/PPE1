@@ -120,6 +120,8 @@ Pour générer les tables html, nous voudrions passer par une étape intermédia
 ## 2022-11-30
 ### script `table.sh`
 Modification du script `table.sh`. Il faut trouver comment gérer le header du fichier .csv (tail, end etc...). 
+### script `main.sh`
+Script qui récupère les URLs pour chaque mot/langue à partir du script `get_all_urls.txt`. Choix des données : presse. On prend sens figuré & sens propre.
 
 ### point cours
 Quelques points faits pendant la séance :

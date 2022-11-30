@@ -4,7 +4,7 @@
 - [x] Se mettre d'accord sur nos langues et sur une langue pivot
 - [x] Expliquer comment on a trouvé nos traductions
 - [x] Trouver une problématique commune
-- [ ] Définir quel type de données nous analyserons dans chaque langue
+- [x] Définir quel type de données nous analyserons dans chaque langue
 - [x] Faire nos listes de liens dans plusieurs fichiers texte en fonction du contexte
 ## 26/10
 - [x] Faire un script qui utilise curl pour chaque langue
