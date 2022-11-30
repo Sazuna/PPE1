@@ -136,3 +136,6 @@ Quelques points faits pendant la séance :
 Pour trouver le mot dans les corpus, nous avons un dossier regex dans lequel nous avons mis les expressions régulières de chacune des trois langues.
 J'ai essayé de faire fonctionner le comptage d'occurrences et l'extraction des contextes à partir de ces regexp, mais ça ne marche pas encore très bien, je vais essayer de débuguer cela pour la prochaine séance.
 Il y a un autre problème avec le chinois. Le mot est parfois coupé en deux lignes. Le grep ne fonctionne pas. Je vais essayer de supprimer les retours à la ligne.
+### Suppression retours a la ligne
+Pour résoudre le problème précédent, j'ai ajouté une option -n aux commandes principales (get_url.sh et get_all_url.sh). En effet, le chinois n'utilise pas l'espace, mais en espagnol ou en français, le saut a la ligne fait parfois office d'espace.
+Une autre solution que j'avais essayée a été de modifier l'expression régulière pour le mot chinois en ajoutant des \b? entre chaque caractère, mais c'est compliqué pour récupérer le contexte (ça marche pour grepper mais pas pour remplacer le texte).

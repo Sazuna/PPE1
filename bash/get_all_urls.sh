@@ -8,8 +8,19 @@ if [[ $# -lt 2 ]]
 then
 	echo "Minimum two argument."
 	echo "Use :"
-	echo "    ./get_all_urls.sh [WORD] [FILES...]"
+	echo "    ./get_all_urls.sh [[-n]] [WORD] [FILES...]"
+	echo "    --n is for the context dump: \\n will be removed and not replaced by spaces."
 	exit 1
+fi
+
+echo "premier argument = $1"
+
+NO_SPACES=
+if [[ $1 -eq "-n" ]]
+then
+	echo $1
+	NO_SPACES=$1
+	shift
 fi
 
 # WORD will be the name of the directory to store the generated data
@@ -26,6 +37,6 @@ do
 		echo "$FILE does not exist."
 		echo "It should be a file containing a list of urls."
 	else
-		./get_url.sh $WORD $FILE
+		./get_url.sh $NO_SPACES $WORD $FILE
 	fi
 done

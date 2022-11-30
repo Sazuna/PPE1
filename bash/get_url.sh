@@ -1,13 +1,40 @@
 #!/bin/bash
-WORD=$1
-OUTPUT_NUMBER=0
+
+if [[ $# -lt 2 ]]
+then
+	echo "Minimum two arguments."
+	echo "Use :"
+	echo "    ./get_url.sh [[-n]] [WORD] [FILE]"
+        echo "    -n is for the context dump: \\n will be removed and not replaced by spaces."
+	exit 1
+fi
 
 # If the directories does not exist yet
 ./mkdirs.sh
 
+# When we dump Chinese, there must be no space when collapsing two lines.
+NO_SPACES=0
+if [[ "$1" -eq "-n" ]]
+then
+	NO_SPACES=1
+	shift # Remove one argument
+fi
+
+if [[ $# -lt 2 ]]
+then
+	echo "Minimum two arguments."
+	echo "Use :"
+	echo "	  ./get_url.sh [[--no-space]] [WORD] [FILE]"
+        echo "    --no-spaces is for the context dump: \\n will be removed and not replaced by spaces."
+	exit 1
+fi
+
+
+WORD=$1
+OUTPUT_NUMBER=0
+
 # This is the regular expression that will be used to search for the word in the pages
 EXPR_REG=$(cat "../expreg/$WORD.txt" | tr -d '\n')
-echo $EXPR_REG
 if [[ ! $EXPR_REG ]]
 then
 	EXPR_REG=$WORD
@@ -51,20 +78,21 @@ do
 			DUMP=$(echo $DUMP | iconv -f $CHARSET -t UTF-8//IGNORE)
 			ASPIRATION=$(echo $ASPIRATION | iconv -f $CHARSET -t UTF-8//IGNORE)
 		fi
-		echo "$DUMP"
-		# In some contexts, the word is cut in two lines
-		CONTEXT_NO_CUT=$(echo $DUMP | tr '\n' ' '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
-		CONTEXT_CUT=$(echo $DUMP | tr -d '\n' | egrep -io ".{0,20}$EXPR_REG.{0,20}")
-		CONTEXT="$CONTEXT_NO_CUT$CONTEXT_CUT"
-		echo "context : $CONTEXT context_CUT : $CONTEXT_CUT"
+		# In some contexts, the word is cut in two lines.
+		if [[ $NO_SPACES -eq 1 ]]
+		then
+			echo "NO SPACE HERE !!!!!!!!!!!!!!!!!!"
+			CONTEXT=$(echo $DUMP | tr -d '\n\r '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
+		else
+			echo "SPACE HERE..."
+			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
+		fi
 	else
 		DUMP=""
 		CHARSET=""
 		CONTEXT=""
 		ASPIRATION=""
 	fi
-
-	echo "$CHARSET : code ok"
 
 	# File names
 	DUMP_F="../dump-texts/$WORD-$OUTPUT_NUMBER.txt"
