@@ -2,11 +2,21 @@
 WORD=$1
 OUTPUT_NUMBER=0
 
-# If the directory does not exist yet
-if [ ! -d $WORD ]
+# If the directories does not exist yet
+./mkdirs.sh
+
+# This is the regular expression that will be used to search for the word in the pages
+EXPR_REG=$(cat "../expreg/$WORD.txt" | tr -d '\n')
+echo $EXPR_REG
+if [[ ! $EXPR_REG ]]
 then
-	mkdir $WORD
+	EXPR_REG=$WORD
 fi
+
+CSV="../csv/$WORD.csv"
+
+CATEGORIES="Ligne, CodeHTTP, URL, DumpHTML, DumpText, Occurrences, Context, Concordances"
+echo $CATEGORIES > $CSV
 
 echo "getting URLs of $2..."
 
@@ -16,7 +26,7 @@ do
 	echo "getting $URL..."
 	if [[ "$URL" =~ ^https?:// ]]
 	then 
-		OUTPUT_FILE=$WORD/$OUTPUT_NUMBER"_head.txt"
+		CODES_F="../codes/$WORD-$OUTPUT_NUMBER-head.txt"
 		# curl -i to get the header of the response before the body response
 		# curl -I to get only the header of the response
 		#curl -ILs $URL > $OUTPUT_FILE
@@ -24,7 +34,7 @@ do
 		RESPONSE=$(curl -ILs $URL | tr -d "\r")
 		CODE=$(./get_response_code.sh "$RESPONSE")
 		CHARSET=$(./get_response_charset.sh "$RESPONSE")
-		echo "$CODE,$CHARSET" > $OUTPUT_FILE
+		echo "$CODE $CHARSET" > $CODES_F
 	else
 		echo "$URL is not a valid url."
 		continue
@@ -32,15 +42,44 @@ do
 
 	if [[ $CODE -eq 200 ]]
 	then
-		echo "200 OK"
-		DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
-		if [[ $CHARSET -ne "UTF-8" && $CHARSET -ne "utf-8" && -n "$DUMP" ]]
+		# lynx does not work for chinese pages
+		#DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
+		DUMP=$(w3m -cookie $URL)
+		ASPIRATION=$(curl $URL)
+		if [[ $CHARSET -ne "UTF-8" && $CHARSET -ne "utf-8" && $CHARSET -ne "" && -n "$DUMP" ]]
 		then
 			DUMP=$(echo $DUMP | iconv -f $CHARSET -t UTF-8//IGNORE)
+			ASPIRATION=$(echo $ASPIRATION | iconv -f $CHARSET -t UTF-8//IGNORE)
 		fi
+		echo "$DUMP"
+		# In some contexts, the word is cut in two lines
+		CONTEXT_NO_CUT=$(echo $DUMP | tr '\n' ' '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
+		CONTEXT_CUT=$(echo $DUMP | tr -d '\n' | egrep -io ".{0,20}$EXPR_REG.{0,20}")
+		CONTEXT="$CONTEXT_NO_CUT$CONTEXT_CUT"
+		echo "context : $CONTEXT context_CUT : $CONTEXT_CUT"
 	else
 		DUMP=""
 		CHARSET=""
+		CONTEXT=""
+		ASPIRATION=""
 	fi
+
+	echo "$CHARSET : code ok"
+
+	# File names
+	DUMP_F="../dump-texts/$WORD-$OUTPUT_NUMBER.txt"
+	ASPIRATION_F="../dump-html/$WORD-$OUTPUT_NUMBER.txt"
+	CONTEXT_F="../contexts/$WORD-$OUTPUT_NUMBER.txt"
+	echo "$DUMP" > $DUMP_F
+	echo "$ASPIRATION" > $ASPIRATION_F
+	echo "$CONTEXT" > $CONTEXT_F
+
+	# Count of occurrences
+	COUNT=$(echo $CONTEXT | egrep -ci "$EXPR_REG")
+	echo "count : $COUNT"
+	echo "$OUTPUT_NUMBER, $CODE, <a href=\"$URL\">$URL</a>, <a href=\"$ASPIRATION_F\">HTML aspiré</a>, <a href=\"$DUMP_F\">Texte aspiré</a>, $COUNT, <a href=\"$CONTEXT_F\">Contexte</a>, concordance" >> $CSV
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
+
+# Create the HTML table from CSV
+./table.sh $CSV > "../html/$WORD.html"

@@ -14,11 +14,12 @@ echo "<table>"
 while read line; do
     echo "<tr>"
 	#echo $line 
-	line=$(echo $line | tr "," " " | tr -d "\r")
+	line=$(echo $line | tr " " "@" | tr "," " " | tr -d "\r")
 	#echo $line
     for item in $line 
 	do
 		#echo "  $item"
+	item=$(echo $item | tr "@" " ")
         echo "<td>$item</td>"
 	done 
 	echo "</tr>"

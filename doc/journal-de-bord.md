@@ -135,3 +135,4 @@ Quelques points faits pendant la séance :
 ### regexp
 Pour trouver le mot dans les corpus, nous avons un dossier regex dans lequel nous avons mis les expressions régulières de chacune des trois langues.
 J'ai essayé de faire fonctionner le comptage d'occurrences et l'extraction des contextes à partir de ces regexp, mais ça ne marche pas encore très bien, je vais essayer de débuguer cela pour la prochaine séance.
+Il y a un autre problème avec le chinois. Le mot est parfois coupé en deux lignes. Le grep ne fonctionne pas. Je vais essayer de supprimer les retours à la ligne.
