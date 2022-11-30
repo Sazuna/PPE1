@@ -1,21 +1,27 @@
 #!/bin/bash
 
-# COMM.: table.sh < url.txt 
-
-#VÉRIFIER NB ARGUMENTS
-if [[ $# -lt 2 ]]
+# CHECK ARG. NUMBER
+if [[ $# -lt 1 ]]
 then
-	echo "Minimum two argument."
+	echo "Minimum one argument."
 	echo "Use :"
-	echo "./table.sh url.txt"
+	echo "./table.sh table.csv"
 	exit 1
 fi
 
-# CRÉER TABLE HTML DEPUIS SCRIPT BASH
-echo \<table\>
-echo \<tr\>\<th\>COL1\<\/th\> \<th\>COL2\<\/th\> \<\/tr\>
+# CREATE HTML TABLE FROM CSV FILE. (WITHOUT HEADER)
+echo "<table>"
 while read line; do
-    echo \<tr\>
-    for item in $line; do
-        echo \<td\>$item\<\/td\>
-echo \<\/table\>
+    echo "<tr>"
+	#echo $line 
+	line=$(echo $line | tr "," " " | tr -d "\r")
+	#echo $line
+    for item in $line 
+	do
+		#echo "  $item"
+        echo "<td>$item</td>"
+	done 
+	echo "</tr>"
+done < $1
+echo "</table>"
+
