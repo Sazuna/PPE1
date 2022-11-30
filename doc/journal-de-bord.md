@@ -116,3 +116,16 @@ Quand je teste les commandes avec le corpus en chinois, j'obtiens cependant des 
 La navbar est responsive. J'ai créé un dossier js pour le code en javascript. Toutes les pages web générées seront à ranger dans un dossier /html à la racine.
 ### Idées pour la suite
 Pour générer les tables html, nous voudrions passer par une étape intermédiaire, qui serait de ranger les données récoltées dans un fichier csv. Cela permettra de diviser le code davantage.
+
+## 2022-11-30
+### script `table.sh`
+Modification du script `table.sh`. Il faut trouver comment gérer le header du fichier .csv (tail, end etc...). 
+
+### point cours
+Quelques points faits pendant la séance :
+- le site doit être *fonctionnel*. (donc *menu* opérationnel, pages s'affichent etc... il faut tester le site en conditions réelles)
+- la suite du site : 
+	- présentation du projet et du mot + traductions (reprendre contenu des fichiers dans `doc`)
+	- présentation scripts
+	- e-tramer (extraction textuelle + statistiques sur corpus)
+	- + autre outil pour récupérer résultats & autres statistiques sur nos corpus.
