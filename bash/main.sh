@@ -4,14 +4,14 @@
 # for each word in each language
 
 # FRENCH
-urlsListFR=$(ls urls/presse/francais/sens_*)
+urlsListFR=$(ls ../url/presse/francais/test*)
 ./get_all_urls.sh "méli-mélo" $urlsListFR
 
 # SPANISH
-urlsListSP=$(ls urls/presse/espagnol/sens_*)
+urlsListSP=$(ls ../url/presse/espagnol/sens_*)
 ./get_all_urls.sh "batiburrillo" $urlsListSP
 
 # CHINESE
-urlsListCN=$(ls urls/presse/chinois/sens_*)
+urlsListCN=$(ls ../url/presse/chinois/sens_*)
 ./get_all_urls.sh -n "dazahui" $urlsListCN
 # -n because we want to remove spaces and \n in the context.

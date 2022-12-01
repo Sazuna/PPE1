@@ -42,7 +42,7 @@ fi
 
 CSV="../csv/$WORD.csv"
 
-CATEGORIES="Ligne, CodeHTTP, URL, DumpHTML, DumpText, Occurrences, Context, Concordances"
+CATEGORIES="Ligne, CodeHTTP, URL, DumpHTML, DumpText, Occurrences, Context, Concordances gauche, Cible, Concordances droit"
 echo $CATEGORIES > $CSV
 
 echo "getting URLs of $2..."
@@ -70,7 +70,7 @@ do
 	if [[ $CODE -eq 200 ]]
 	then
 		# lynx does not work for chinese pages
-		#DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
+		# DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
 		DUMP=$(w3m -cookie $URL)
 		ASPIRATION=$(curl $URL)
 		if [[ $CHARSET -ne "UTF-8" && $CHARSET -ne "utf-8" && $CHARSET -ne "" && -n "$DUMP" ]]
@@ -85,11 +85,14 @@ do
 		else
 			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
 		fi
+		# CONCORDANCES
+		CONCORDANCES=$(echo $DUMP | grep -E -o "(\w+\W+){0,5}$EXPR_REG(\W+\w+){0,5}" | sed -r "s/(.*)($EXPR_REG)(.*)/\"\1\", \"\2\", \"\3\"/")
 	else
 		DUMP=""
 		CHARSET=""
 		CONTEXT=""
 		ASPIRATION=""
+		CONCORDANCES=""
 	fi
 
 	# File names
@@ -103,7 +106,7 @@ do
 	# Count of occurrences
 	COUNT=$(echo $CONTEXT | egrep -ci "$EXPR_REG")
 	echo "count : $COUNT"
-	echo "$OUTPUT_NUMBER, $CODE, <a href=\"$URL\">$URL</a>, <a href=\"$ASPIRATION_F\">HTML aspiré</a>, <a href=\"$DUMP_F\">Texte aspiré</a>, $COUNT, <a href=\"$CONTEXT_F\">Contexte</a>, concordance" >> $CSV
+	echo "$OUTPUT_NUMBER, $CODE, <a href=\"$URL\">$URL</a>, <a href=\"$ASPIRATION_F\">HTML aspiré</a>, <a href=\"$DUMP_F\">Texte aspiré</a>, $COUNT, <a href=\"$CONTEXT_F\">Contexte</a>, $CONCORDANCES" >> $CSV
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
 
