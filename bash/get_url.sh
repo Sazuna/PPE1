@@ -29,7 +29,6 @@ then
 	exit 1
 fi
 
-
 WORD=$1
 OUTPUT_NUMBER=0
 
@@ -43,10 +42,6 @@ fi
 # File where we will save the Table
 CSV="../generated/csv/$WORD.csv"
 HTML_F="../html/$WORD-table.html"
-
-# Header of the CSV and the Table
-#CATEGORIES="Ligne\tCodeHTTP\tURL\tDumpHTML\tDumpText\tOccurrences\tContext"
-#echo -e $CATEGORIES > $CSV
 
 echo "getting URLs of $2..."
 
@@ -109,6 +104,7 @@ do
 	# Count of occurrences
 	COUNT=$(echo $CONTEXT | egrep -ci "$EXPR_REG")
 	echo "count : $COUNT"
+	# On écrit
 	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td></tr>" >> $HTML_F
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
