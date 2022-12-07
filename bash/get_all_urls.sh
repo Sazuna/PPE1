@@ -16,7 +16,7 @@ fi
 echo "premier argument = $1"
 
 NO_SPACES=
-if [[ "$1" -eq "-n" ]]
+if [ "$1" = "-n" ]
 then
 	echo $1
 	NO_SPACES=$1
@@ -30,6 +30,9 @@ WORD=$1
 shift
 
 # For every arguments after WORD
+HTML_F="../html/$WORD-table.html"
+CATEGORIES="<tr><th>Ligne</th><th>CodeHTTP</th><th>URL</th><th>DumpHTML</th><th>DumpText</th><th>Occurrences</th><th>Context</th></tr>"
+echo "<table>$CATEGORIES" > $HTML_F
 for FILE in $@
 do
 	if [ ! -f $FILE ]
@@ -40,3 +43,5 @@ do
 		./get_url.sh $NO_SPACES $WORD $FILE
 	fi
 done
+
+echo "</table>" >> $HTML_F

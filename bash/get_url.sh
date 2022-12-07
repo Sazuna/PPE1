@@ -14,7 +14,7 @@ fi
 
 # When we dump Chinese, there must be no space when collapsing two lines.
 NO_SPACES=0
-if [[ "$1" -eq "-n" ]]
+if [ "$1" = "-n" ]
 then
 	NO_SPACES=1
 	shift # Remove one argument
@@ -40,12 +40,13 @@ then
 	EXPR_REG=$WORD
 fi
 
-# File where we will save the csv informations of the Table
+# File where we will save the Table
 CSV="../generated/csv/$WORD.csv"
+HTML_F="../html/$WORD-table.html"
 
 # Header of the CSV and the Table
-CATEGORIES="Ligne, CodeHTTP, URL, DumpHTML, DumpText, Occurrences, Context, Concordances gauche, Cible, Concordances"
-echo $CATEGORIES > $CSV
+#CATEGORIES="Ligne\tCodeHTTP\tURL\tDumpHTML\tDumpText\tOccurrences\tContext"
+#echo -e $CATEGORIES > $CSV
 
 echo "getting URLs of $2..."
 
@@ -108,9 +109,6 @@ do
 	# Count of occurrences
 	COUNT=$(echo $CONTEXT | egrep -ci "$EXPR_REG")
 	echo "count : $COUNT"
-	echo "$OUTPUT_NUMBER, $CODE, <a href=\"$URL\">$URL</a>, <a href=\"$ASPIRATION_F\">HTML aspiré</a>, <a href=\"$DUMP_F\">Texte aspiré</a>, $COUNT, <a href=\"$CONTEXT_F\">Contexte</a>, $CONCORDANCES" >> $CSV
+	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td></tr>" >> $HTML_F
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
-
-# Create the HTML table from CSV
-./table.sh $CSV > "../generated/html/$WORD-table.html"

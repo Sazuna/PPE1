@@ -36,9 +36,9 @@ then
 	mkdir -p "../generated/occurrences"
 fi
 
-if [ ! -d "../generated/html" ]
+if [ ! -d "../html" ]
 then
-	mkdir -p "../generated/html"
+	mkdir -p "../html"
 fi
 
 if [ ! -d "../generated/itramer" ]
