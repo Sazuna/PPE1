@@ -16,7 +16,7 @@ fi
 echo "premier argument = $1"
 
 NO_SPACES=
-if [[ $1 -eq "-n" ]]
+if [[ "$1" -eq "-n" ]]
 then
 	echo $1
 	NO_SPACES=$1

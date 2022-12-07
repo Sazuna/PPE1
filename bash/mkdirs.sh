@@ -1,42 +1,47 @@
 #!/bin/bash
 
 # If the directory does not exist yet
-if [ ! -d "../codes" ]
+if [ ! -d "../generated/codes" ]
 then
-	mkdir "../codes"
+	mkdir -p "../generated/codes"
 fi
 
-if [ ! -d "../csv" ]
+if [ ! -d "../generated/csv" ]
 then
-	mkdir "../csv"
+	mkdir -p "../generated/csv"
 fi
 
-if [ ! -d "../aspirations" ]
+if [ ! -d "../generated/aspirations" ]
 then
-	mkdir "../aspirations"
+	mkdir -p "../generated/aspirations"
 fi
 
-if [ ! -d "../contexts" ]
+if [ ! -d "../generated/contexts" ]
 then
-	mkdir "../contexts"
+	mkdir -p "../generated/contexts"
 fi
 
-if [ ! -d "../dump-html" ]
+if [ ! -d "../generated/dump-html" ]
 then
-	mkdir "../dump-html"
+	mkdir -p "../generated/dump-html"
 fi
 
-if [ ! -d "../dump-texts" ]
+if [ ! -d "../generated/dump-texts" ]
 then
-	mkdir "../dump-texts"
+	mkdir -p "../generated/dump-texts"
 fi
 
-if [ ! -d "../occurrences" ]
+if [ ! -d "../generated/occurrences" ]
 then
-	mkdir "../occurrences"
+	mkdir -p "../generated/occurrences"
 fi
 
-if [ ! -d "../html" ]
+if [ ! -d "../generated/html" ]
 then
-	mkdir "../html"
+	mkdir -p "../generated/html"
+fi
+
+if [ ! -d "../generated/itramer" ]
+then
+	mkdir -p "../generated/itramer"
 fi

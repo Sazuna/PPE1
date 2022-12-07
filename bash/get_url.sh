@@ -40,9 +40,11 @@ then
 	EXPR_REG=$WORD
 fi
 
-CSV="../csv/$WORD.csv"
+# File where we will save the csv informations of the Table
+CSV="../generated/csv/$WORD.csv"
 
-CATEGORIES="Ligne, CodeHTTP, URL, DumpHTML, DumpText, Occurrences, Context, Concordances gauche, Cible, Concordances droit"
+# Header of the CSV and the Table
+CATEGORIES="Ligne, CodeHTTP, URL, DumpHTML, DumpText, Occurrences, Context, Concordances gauche, Cible, Concordances"
 echo $CATEGORIES > $CSV
 
 echo "getting URLs of $2..."
@@ -53,7 +55,7 @@ do
 	echo "getting $URL..."
 	if [[ "$URL" =~ ^https?:// ]]
 	then 
-		CODES_F="../codes/$WORD-$OUTPUT_NUMBER-head.txt"
+		CODES_F="../generated/codes/$WORD-$OUTPUT_NUMBER-head.txt"
 		# curl -i to get the header of the response before the body response
 		# curl -I to get only the header of the response
 		#curl -ILs $URL > $OUTPUT_FILE
@@ -96,9 +98,9 @@ do
 	fi
 
 	# File names
-	DUMP_F="../dump-texts/$WORD-$OUTPUT_NUMBER.txt"
-	ASPIRATION_F="../dump-html/$WORD-$OUTPUT_NUMBER.txt"
-	CONTEXT_F="../contexts/$WORD-$OUTPUT_NUMBER.txt"
+	DUMP_F="../generated/dump-texts/$WORD-$OUTPUT_NUMBER.txt"
+	ASPIRATION_F="../generated/dump-html/$WORD-$OUTPUT_NUMBER.txt"
+	CONTEXT_F="../generated/contexts/$WORD-$OUTPUT_NUMBER.txt"
 	echo "$DUMP" > $DUMP_F
 	echo "$ASPIRATION" > $ASPIRATION_F
 	echo "$CONTEXT" > $CONTEXT_F
@@ -111,4 +113,4 @@ do
 done
 
 # Create the HTML table from CSV
-./table.sh $CSV > "../html/$WORD-table.html"
+./table.sh $CSV > "../generated/html/$WORD-table.html"
