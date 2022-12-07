@@ -27,3 +27,4 @@
 - [ ] Faire une tokenisation du chinois pour avoir des contextes intéressants
 - [ ] Script pour les itramers
 - [ ] Faire un joli style css pour le site <3
+- [ ] Tokenizer les contextes et garder n mots au lieu de n caractères
