@@ -11,17 +11,19 @@
 - [x] Mettre en commun notre script pour le rendre multilingue
 ## 3/11
 - [x] Analyser la réponse HTTP de la commande curl (code retour + encodage)
-- [ ] Effectuer une conversion automatique des pages encodées en non UTF-8
+- [x] Effectuer une conversion automatique des pages encodées en non UTF-8
 ## 16/11
 - [x] Générer des tables HTML en bash
 - [x] Générer la structure de la page web en bash
 - [x] Complétion des tables HTML avec données récupérées avec curl
 ## 23/11
-- [ ] Dumper les pages (commande lynx -dump ...)
-- [ ] Mettre les pages dumpées dans un fichier dumps/mot-lineno.txt
-- [ ] Aspirer les pages dans un dossier aspirations/mot-lineno.txt
-- [ ] Réorganiser les dossiers pour faciliter la génération des fichiers
-## 28/11
-- [ ] Générer des fichiers csv qui seront transformés en tables html
+- [x] Dumper les pages (commande lynx -dump ...)
+- [x] Mettre les pages dumpées dans un fichier dumps/mot-lineno.txt
+- [x] Aspirer les pages dans un dossier aspirations/mot-lineno.txt
+- [x] Réorganiser les dossiers pour faciliter la génération des fichiers
 ## 30/11
 - [ ] générer table HTML concordances à partir des fichiers dans le dossier contexte
+## 07/12
+- [ ] Faire une tokenisation du chinois pour avoir des contextes intéressants
+- [ ] Script pour les itramers
+- [ ] Faire un joli style css pour le site <3
