@@ -139,3 +139,22 @@ Il y a un autre problème avec le chinois. Le mot est parfois coupé en deux lig
 ### Suppression retours a la ligne
 Pour résoudre le problème précédent, j'ai ajouté une option -n aux commandes principales (get_url.sh et get_all_url.sh). En effet, le chinois n'utilise pas l'espace, mais en espagnol ou en français, le saut a la ligne fait parfois office d'espace.
 Une autre solution que j'avais essayée a été de modifier l'expression régulière pour le mot chinois en ajoutant des \b? entre chaque caractère, mais c'est compliqué pour récupérer le contexte (ça marche pour grepper mais pas pour remplacer le texte).
+
+## 2022-12-07
+à compléter !!! (@ liza & annie)
+
+## 2022-12-9
+### ébauches du site web (léna)
+Pour le moment, j'ai créé l'arborescence nécessaire pour la réalisation de notre site web (page github) : 
+- dossier `html` : fichiers html (un fichier par page)
+	- une page html par mot (pour les tableaux, format `mot-table.html`
+	- `apropos.html` : pour une page à propos (se présenter en quelques mots, faire des mini profils en quelques sortes)
+	- `itrameur.html` : pour résultats itrameur
+	- `mot-et-trad.html` : pour présenter plus en détail nos choix de traductions ! (on se basera sur le contenu écrit au début du projet)
+- dossier `css` : fichier `style.css`
+Les scripts sont pour l'instant tous vides (je les compléterai au fur et à mesure), mais cela nous donne une idée plus claire des choses à faire.
+
+Par ailleurs :
+Premiers essais sur Bulma.io : on va avoir de beaux tableaux ! À implémenter dans notre script get_urls.sh par la suite. Je commence à pas trop mal me familiariser avec la syntaxe HTML.
+Note à moi-même : il faudrait aussi trouver une icône sympa pour le site (à décider entre nous-trois)
+
