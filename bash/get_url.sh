@@ -42,6 +42,7 @@ fi
 # File where we will save the Table
 CSV="../generated/csv/$WORD.csv"
 HTML_F="../html/$WORD-table.html"
+HTML_C="../html/$WORD-concordances_table.html"
 
 echo "getting URLs of $2..."
 
@@ -68,8 +69,8 @@ do
 	if [[ $CODE -eq 200 ]]
 	then
 		# lynx does not work for chinese pages
-		# DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
-		DUMP=$(w3m -cookie $URL)
+		DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
+		# DUMP=$(w3m -cookie $URL)
 		ASPIRATION=$(curl $URL)
 		if [[ $CHARSET -ne "UTF-8" && $CHARSET -ne "utf-8" && $CHARSET -ne "" && -n "$DUMP" ]]
 		then
@@ -84,7 +85,8 @@ do
 			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
 		fi
 		# CONCORDANCES
-		CONCORDANCES=$(echo $DUMP | grep -E -o "(\w+\W+){0,5}$EXPR_REG(\W+\w+){0,5}" | sed -r "s/(.*)($EXPR_REG)(.*)/\"\1\", \"\2\", \"\3\"/")
+		CONCORDANCES=$(echo "$DUMP" | grep -E -o "(\w+\W+){0,5}$EXPR_REG(\W+\w+){0,5}" | sed -r "s/(.*)($EXPR_REG)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/")
+		echo "$CONCORDANCES" >> $HTML_C
 	else
 		DUMP=""
 		CHARSET=""
