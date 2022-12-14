@@ -104,7 +104,7 @@ do
 	echo "$CONTEXT" > $CONTEXT_F
 
 	# Count of occurrences
-	COUNT=$(echo $CONTEXT | egrep -ci "$EXPR_REG")
+	COUNT=$(echo $CONTEXT | tr ' ' '\n' | egrep -ci "$EXPR_REG")
 	echo "count : $COUNT"
 	# On écrit
 	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td></tr>" >> $HTML_F
