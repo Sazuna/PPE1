@@ -141,7 +141,7 @@ Pour résoudre le problème précédent, j'ai ajouté une option -n aux commande
 Une autre solution que j'avais essayée a été de modifier l'expression régulière pour le mot chinois en ajoutant des \b? entre chaque caractère, mais c'est compliqué pour récupérer le contexte (ça marche pour grepper mais pas pour remplacer le texte).
 
 ## 2022-12-07
-à compléter !!! (@ liza & annie)
+Pour l'itrameur, il faudra l'adapter pour utiliser d'autres dossiers (le nom du dossier doit pouvoir être passé en paramètre).
 
 ## 2022-12-9
 ### ébauches du site web (léna)
@@ -158,3 +158,6 @@ Par ailleurs :
 Premiers essais sur Bulma.io : on va avoir de beaux tableaux ! À implémenter dans notre script get_urls.sh par la suite. Je commence à pas trop mal me familiariser avec la syntaxe HTML.
 Note à moi-même : il faudrait aussi trouver une icône sympa pour le site (à décider entre nous-trois)
 
+## 2022-12-14
+### Tokenization et contexte en fonction des mots (Liza)
+Pour le chinois, on utilise le script python. Il ajoute des espaces entre chaque mot. Pour l'espagnol et le français, on peut utiliser les espaces comme séparateurs de mots. De cette façon, la même expression permet de créer les contextes (20 mots avant, 20 mots après)

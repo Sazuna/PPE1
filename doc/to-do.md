@@ -24,7 +24,7 @@
 ## 30/11
 - [ ] générer table HTML concordances à partir des fichiers dans le dossier contexte
 ## 07/12
-- [ ] Faire une tokenisation du chinois pour avoir des contextes intéressants
+- [x] Faire une tokenisation du chinois pour avoir des contextes intéressants
 - [ ] Script pour les itramers
 - [ ] Faire un joli style css pour le site <3
-- [ ] Tokenizer les contextes et garder n mots au lieu de n caractères
+- [x] Tokenizer les contextes et garder n mots au lieu de n caractères

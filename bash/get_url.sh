@@ -69,9 +69,12 @@ do
 	if [[ $CODE -eq 200 ]]
 	then
 		# lynx does not work for chinese pages
-		DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
-		# DUMP=$(w3m -cookie $URL)
+		# DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
+		DUMP=$(w3m -cookie $URL)
 		ASPIRATION=$(curl $URL)
+		# We must create the file now so that we can tokenize it (tokenizer words with file, not raw text)
+		DUMP_F="../generated/dump-texts/$WORD-$OUTPUT_NUMBER.txt"
+		echo "$DUMP" > $DUMP_F
 		if [[ $CHARSET -ne "UTF-8" && $CHARSET -ne "utf-8" && $CHARSET -ne "" && -n "$DUMP" ]]
 		then
 			DUMP=$(echo $DUMP | iconv -f $CHARSET -t UTF-8//IGNORE)
@@ -80,9 +83,11 @@ do
 		# In some contexts, the word is cut in two lines.
 		if [[ $NO_SPACES -eq 1 ]]
 		then
-			CONTEXT=$(echo $DUMP | tr -d '\n\r '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
+			CONTEXT=$(./tokenize_chinese.py $DUMP_F)
+			# Keep 20 words (punctuation counts as words with the Chinese tokenizer)
+			CONTEXT=$(echo $CONTEXT | egrep -io "([^ ]* ){0,20}$EXPR_REG( [^ ]*){0,20}")
 		else
-			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io ".{0,20}$EXPR_REG.{0,20}")
+			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io "([^ ]* ){0,20}$EXPR_REG( [^ ]*){0,20}")
 		fi
 		# CONCORDANCES
 		CONCORDANCES=$(echo "$DUMP" | grep -E -o "(\w+\W+){0,5}$EXPR_REG(\W+\w+){0,5}" | sed -r "s/(.*)($EXPR_REG)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/")
@@ -96,10 +101,8 @@ do
 	fi
 
 	# File names
-	DUMP_F="../generated/dump-texts/$WORD-$OUTPUT_NUMBER.txt"
 	ASPIRATION_F="../generated/dump-html/$WORD-$OUTPUT_NUMBER.txt"
 	CONTEXT_F="../generated/contexts/$WORD-$OUTPUT_NUMBER.txt"
-	echo "$DUMP" > $DUMP_F
 	echo "$ASPIRATION" > $ASPIRATION_F
 	echo "$CONTEXT" > $CONTEXT_F
 
