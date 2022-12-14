@@ -31,8 +31,10 @@ shift
 
 # For every arguments after WORD
 HTML_F="../html/$WORD-table.html"
+CLASS='<div class="container">
+    <table class="table is-striped is-hoverable", style="text-align:center">'
 CATEGORIES="<tr><th>Ligne</th><th>CodeHTTP</th><th>URL</th><th>DumpHTML</th><th>DumpText</th><th>Occurrences</th><th>Context</th></tr>"
-echo "<table>$CATEGORIES" > $HTML_F
+echo "$CLASS $CATEGORIES" > $HTML_F
 for FILE in $@
 do
 	if [ ! -f $FILE ]
@@ -44,4 +46,4 @@ do
 	fi
 done
 
-echo "</table>" >> $HTML_F
+echo "</table></div>" >> $HTML_F
