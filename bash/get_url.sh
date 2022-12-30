@@ -42,7 +42,6 @@ fi
 # File where we will save the Table
 CSV="../generated/csv/$WORD.csv"
 HTML_F="../html/$WORD-table.html"
-HTML_C="../html/$WORD-concordances_table.html"
 
 echo "getting URLs of $2..."
 
@@ -91,7 +90,7 @@ do
 		fi
 		# CONCORDANCES
 		CONCORDANCES=$(echo "$DUMP" | grep -E -o "(\w+\W+){0,5}$EXPR_REG(\W+\w+){0,5}" | sed -r "s/(.*)($EXPR_REG)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/")
-		echo "$CONCORDANCES" >> $HTML_C
+		
 	else
 		DUMP=""
 		CHARSET=""
@@ -103,13 +102,17 @@ do
 	# File names
 	ASPIRATION_F="../generated/dump-html/$WORD-$OUTPUT_NUMBER.txt"
 	CONTEXT_F="../generated/contexts/$WORD-$OUTPUT_NUMBER.txt"
+	CONCORDANCE_F="../generated/concordances/$WORD-$OUTPUT_NUMBER.html"
 	echo "$ASPIRATION" > $ASPIRATION_F
 	echo "$CONTEXT" > $CONTEXT_F
+	echo "<table><thead><tr><th>Gauche</th><th>Cible</th><th>Droite</th></tr></thead><tbody>" > $CONCORDANCE_F
+	echo "$CONCORDANCES" >> $CONCORDANCE_F
+	echo "</tbody></table>" >> $CONCORDANCE_F
 
 	# Count of occurrences
 	COUNT=$(echo $CONTEXT | tr ' ' '\n' | egrep -ci "$EXPR_REG")
 	echo "count : $COUNT"
 	# On écrit
-	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td></tr>" >> $HTML_F
+	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td><td><a href=\"$CONCORDANCE_F\">Concordances</a></td></tr>" >> $HTML_F
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
