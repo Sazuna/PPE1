@@ -30,7 +30,7 @@ then
 fi
 
 WORD=$1
-OUTPUT_NUMBER=0
+OUTPUT_NUMBER=1
 
 # This is the regular expression that will be used to search for the word in the pages
 EXPR_REG=$(cat "../expreg/$WORD.txt" | tr -d '\n')
@@ -105,9 +105,20 @@ do
 	CONCORDANCE_F="../generated/concordances/$WORD-$OUTPUT_NUMBER.html"
 	echo "$ASPIRATION" > $ASPIRATION_F
 	echo "$CONTEXT" > $CONTEXT_F
-	echo "<table><thead><tr><th>Gauche</th><th>Cible</th><th>Droite</th></tr></thead><tbody>" > $CONCORDANCE_F
+	CLASS='<div class="container">
+    <table class="table is-striped is-hoverable", style="text-align:center">'
+	echo '<!DOCTYPE html>
+		<html>
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>Hello Bulma!</title>
+			<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+		</head>
+		<body>' > $CONCORDANCE_F
+	echo "$CLASS<thead><tr><th>Gauche</th><th>Cible</th><th>Droite</th></tr></thead><tbody>" >> $CONCORDANCE_F
 	echo "$CONCORDANCES" >> $CONCORDANCE_F
-	echo "</tbody></table>" >> $CONCORDANCE_F
+	echo "</tbody></table></div></body></html>" >> $CONCORDANCE_F
 
 	# Count of occurrences
 	COUNT=$(echo $CONTEXT | tr ' ' '\n' | egrep -ci "$EXPR_REG")
