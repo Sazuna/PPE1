@@ -162,6 +162,10 @@ Note à moi-même : il faudrait aussi trouver une icône sympa pour le site (à 
 ### Tokenization et contexte en fonction des mots (Liza)
 Pour le chinois, on utilise le script python. Il ajoute des espaces entre chaque mot. Pour l'espagnol et le français, on peut utiliser les espaces comme séparateurs de mots. De cette façon, la même expression permet de créer les contextes (20 mots avant, 20 mots après)
 
+## 2022-12-29
+### Ajout de la concordance au tableau (Yingzi)
+En utilisant les scripts donnés dans la classe, on a ajouté les concordances au tableau pour notre projet.
+
 ## 2023-01-02
 ### Génération de la table et des données pour le chinois (Liza)
 Lancement du script main.sh en mettant le français et l'espagnol en commentaire. Le script fut très, très long à s'exécuter, en raison des sites chinois qui sont stockés sur des serveurs distants. Beaucoup de pages n'ont pas été trouvées, beaucoup de problèmes liés au serveur... Pour résoudre le problème du script qui tourne en boucle, j'ai dû le relancer plusieurs fois en suivant cette procédure :
