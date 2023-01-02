@@ -163,8 +163,14 @@ Note à moi-même : il faudrait aussi trouver une icône sympa pour le site (à 
 Pour le chinois, on utilise le script python. Il ajoute des espaces entre chaque mot. Pour l'espagnol et le français, on peut utiliser les espaces comme séparateurs de mots. De cette façon, la même expression permet de créer les contextes (20 mots avant, 20 mots après)
 
 ## 2022-12-29
-### Ajout de la concordance au tableau (Yingzi)
+### Ajout des concordance au tableau (Yingzi)
 En utilisant les scripts donnés dans la classe, on a ajouté les concordances au tableau pour notre projet.
+
+## 2022-12-30
+### Création de css (Yingzi)
+- Création de plusieurs pages html
+- Recherche et téléchargement d'images d'arrière-plan css 
+- Ajout de styles css avec bulma.
 
 ## 2023-01-02
 ### Génération de la table et des données pour le chinois (Liza)
