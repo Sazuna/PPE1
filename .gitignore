@@ -1,5 +1,5 @@
 generated/.DS_Store
-generated/codes/méli-mélo-0-head.txt
+generated/*
 generated/codes/méli-mélo-1-head.txt
 generated/concordances/méli-mélo-0.html
 generated/concordances/méli-mélo-1.html
@@ -9,5 +9,4 @@ generated/dump-html/méli-mélo-0.txt
 generated/dump-html/méli-mélo-1.txt
 generated/dump-texts/méli-mélo-0.txt
 generated/dump-texts/méli-mélo-1.txt
-html/*.html
 .DS_Store

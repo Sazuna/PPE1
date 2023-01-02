@@ -8,12 +8,12 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
     />
-    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+    ></script>
   </head>
-  <body class="has-text-centered">
-    <figure class="image">
-      <img src="img/bg-2.jpg">
-    </figure>
+  <body>
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item has-text-weight-bold">
@@ -38,7 +38,8 @@
         </div>
       </div>
     </nav>
-    
-    <script src="js/index.js"></script>
+    <div class="container">
+      <zero-md src="https://raw.githubusercontent.com/Sazuna/PPE1/main/doc/journal-de-bord.md"></zero-md>
+    </div>
   </body>
 </html>
