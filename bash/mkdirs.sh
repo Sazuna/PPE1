@@ -36,6 +36,11 @@ then
 	mkdir -p "../generated/occurrences"
 fi
 
+if [ ! -d "../generated/concordances" ]
+then
+	mkdir -p "../generated/concordances"
+fi
+
 if [ ! -d "../html" ]
 then
 	mkdir -p "../html"

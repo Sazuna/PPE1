@@ -7,6 +7,8 @@
 #urlsListFR=$(ls ../url/presse/francais/test*)
 #./get_all_urls.sh "méli-mélo" $urlsListFR
 
+./all_tables.sh
+
 # # SPANISH
 # urlsListSP=$(ls ../url/presse/espagnol/batiburrillo/sens_*)
 # ./get_all_urls.sh "batiburrillo" $urlsListSP
