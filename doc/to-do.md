@@ -25,6 +25,9 @@
 - [ ] générer table HTML concordances à partir des fichiers dans le dossier contexte
 ## 07/12
 - [x] Faire une tokenisation du chinois pour avoir des contextes intéressants
-- [ ] Script pour les itramers
+- [x] Script pour les itramers
 - [ ] Faire un joli style css pour le site <3
 - [x] Tokenizer les contextes et garder n mots au lieu de n caractères
+## 02/01
+- [ ] Générer les données pour batiburrillo (Léna)
+- [ ] Générer les données pour méli-mélo (Yingzi)
