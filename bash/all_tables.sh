@@ -1,5 +1,6 @@
 #!/bin/bash
-PATH='../html/tables.html'
+
+TABLE='../html/tables.html'
 
 echo '<!DOCTYPE html>
 <html>
@@ -9,11 +10,22 @@ echo '<!DOCTYPE html>
     <title>Hello Bulma!</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
   </head>
-  <body>' > $PATH
+  <body>' > $TABLE
 
-cat "../html/batiburrillo-table.html" >> $PATH
-cat ../html/dazahui-table.html >> $PATH
-cat ../html/méli-mélo-table.html >> $PATH
+echo "<h3>Espagnol - batiburrillo</h3>" >> $TABLE
+echo "<div class='box'>" >> $TABLE
+cat "../html/batiburrillo-table.html" >> $TABLE
+echo "</div>" >> $TABLE
+
+echo "<h3>Chinois - 大杂烩</h3>" >> $TABLE
+echo "<div class='box'>" >> $TABLE
+cat "../html/dazahui-table.html" >> $TABLE
+echo "</div>" >> $TABLE
+
+echo "<h3>Français - Méli-mélo</h3>" >> $TABLE
+echo "<div class='box'>" >> $TABLE
+cat "../html/méli-mélo-table.html" >> $TABLE
+echo "</div>" >> $TABLE
 
 echo '</body>
-</html>' >> $PATH
+</html>' >> $TABLE
