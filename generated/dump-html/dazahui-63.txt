@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>﻿自由谈/当“家”作为神话时\赖秀俞 _大公网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Keywords" content="大公網" />
+<meta name="Description" content="大公网大公园" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta name="format-detection" content="telephone=no">
+<link href="http://r2d2.takungpao.com/cn/common/images/tkp.ico" rel="shortcut icon">
+<link type="text/css" rel="stylesheet" href="http://r2d2.takungpao.com/cn/common/css/head.css" />
+<link type="text/css" rel="stylesheet" href="http://r2d2.takungpao.com/cn/lib/mediaelement/mediaelementplayer.css" />
+<link type="text/css" rel="stylesheet" href="http://r2d2.takungpao.com/cn/common/css/content.css" />
+<script type="text/javascript" src="http://r2d2.takungpao.com/cn/lib/jquery/jquery-1.9.1.min.js"></script>
+<!--[if lt IE 9]>
+    <script src="http://r2d2.takungpao.com/cn/lib/ie/html5.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+    <script src="http://r2d2.takungpao.com/cn/lib/ie/ie6-png.js"></script>
+    <script>DD_belatedPNG.fix('div, ul, li, p, a, h3, img, span, b, dd');</script>
+<![endif]-->
+<script>
+window.tkp_aid=801674;window.tkp_at=1;
+</script>
+</head>
+<body>
+<!--ad_1200_100-->
+<div class="ad_1200_100 ad-wrapper" id="ad1"><a href="#" target="_blank"></a></div>
+<!--/ad_1200_100-->
+<!--头部-->
+<div class="header_wrap">
+    <div class="header">
+        <div class="head clearfix">
+            <h1 class="logo"><a href="http://www.takungpao.com/" title="大公网"><img src="http://r2d2.takungpao.com/cn/common/images/logo_tkp.png" alt="大公网" /></a></h1>
+            <div class="epaper"><a href="http://www.takungpao.com/paper/index.html" target="_blank" title="大公报电子版"><img src="http://r2d2.takungpao.com/cn/common/images/epaper.jpg" alt="大公报电子版" /></a></div>
+            <div class="search"><a href="http://search.takungpao.com/" target="_blank" class="btn" title="搜索">搜索</a></div>
+            <ul class="date">
+            	<li>
+                    <script type="text/javascript">
+                    (function(){
+                        var d = new Date();
+                        document.write(d.getFullYear() + "年" + (d.getMonth()+1) + "月" + d.getDate() + "日 星期" + "日一二三四五六".charAt(d.getDay()));
+                    })();
+                    </script>
+                </li>
+            	<li class="link">
+                    <a href="http://www.takungpao.com/corp/about.html" target="_blank">关于大公网</a><span>|</span>
+                    <em class="setWebLangue"><a href="http://www.takungpao.com.hk/index.html" target="_blank">香港站</a></em>
+                </li>
+            </ul>
+            
+            <ul class="menu_mobile">
+                <li class="btn_open_menu"></li>
+                <li class="btn_close_menu"></li>
+                <li class="paper"><a href="http://s.takungpao.com/paper/bz.html" target="_blank" title="数字报">数字报</a></li>
+            </ul>
+        </div>
+        <!--导航20-->
+        <div class="nav_wrap">
+            <ul class="nav_mobile clearfix">
+                <li><a href="http://passport.takungpao.com/?link=takung" class="login" title="登录">登录</a></li>
+                <li><a href="http://search.takungpao.com/" target="_blank" class="search" title="搜索">搜索</a></li>
+                <li class="setWebLangue"><a href="http://www.takungpao.com.hk/index.html" target="_blank" class="fanti" title="香港站">香港站</a></li>
+            </ul>
+            <ul class="nav_list clearfix">
+                <li class="item hide"><a href="#" target="_blank" class="link" title="大公报">大公报</a></li>
+                <li class="item">
+                    <a href="http://www.takungpao.com/news/index.html" target="_blank" class="link" title="新闻">新闻</a>
+                    <!--新闻-->
+                    <div class="subnav">
+                        <ul class="list clearfix">
+                       		<li><a href="http://www.takungpao.com/news/232108/index.html" target="_blank">内地</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/news/232109/index.html" target="_blank">港闻</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/news/232110/index.html" target="_blank">两岸</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/news/232111/index.html" target="_blank">国际</a></li>
+                            <li class="line">/</li>
+							<li><a href="http://www.takungpao.com/news/232112/index.html" target="_blank">军事</a></li>
+						    <li class="line">/</li>
+							<li><a href="http://www.takungpao.com/news/232113/index.html" target="_blank">大公访谈</a></li>
+                        </ul>
+                    </div>
+                    <!--/新闻-->
+                </li>
+                <li class="item">
+                    <a href="http://www.takungpao.com/opinion/index.html" target="_blank" class="link" title="评论">评论</a>
+                    <!--评论-->
+                    <div class="subnav">
+                        <ul class="list clearfix">
+                            <li><a href="http://www.takungpao.com/opinion/233114/index.html" target="_blank">社评</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/opinion/233115/index.html" target="_blank">北京观察</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/opinion/233116/index.html" target="_blank">隔海观澜</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/opinion/233117/index.html" target="_blank">纵横谈</a></li>
+                            <li class="line">/</li>
+							<li><a href="http://www.takungpao.com/opinion/233161/index.html" target="_blank">点击香江</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/opinion/233123/index.html" target="_blank">公评世界</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/opinion/233119/index.html" target="_blank">大公评论</a></li>
+							<li class="line">/</li>
+							<li><a href="http://www.takungpao.com/opinion/233124/index.html" target="_blank">妍之有理</a></li>
+                        </ul>
+                    </div>
+                    <!--/评论-->
+                </li>
+                <li class="item">
+                    <a href="http://www.takungpao.com/lens/index.html" target="_blank" class="link" title="视频">视频</a>      
+                    <!--影像-->
+                    <div class="subnav">
+                        <ul class="list clearfix">
+                            <li><a href="http://www.takungpao.com/lens/235128/index.html" target="_blank">大公视频</a></li>
+                            <li class="line">/</li>
+							<li><a href="http://www.takungpao.com/lens/235123/index.html" target="_blank">图片</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/lens/235131/index.html" target="_blank">艾问人物</a></li>
+                        </ul>
+                    </div>
+                    <!--/影像-->
+                </li>
+                <li class="item">
+					<a href="http://www.takungpao.com/finance/index.html" target="_blank" class="link" title="财经">财经</a> 
+                    <!--财经-->
+                    <div class="subnav">
+                        <ul class="list clearfix">
+							<li><a href="http://www.baufortune.com" target="_blank">紫荆财智</a></li>
+							<li class="line">/</li>
+							<li><a href="http://www.takungpao.com/house/index.html" target="_blank">房产</a></li>
+							<li class="line">/</li>
+							<li><a href="http://www.takungpao.com/consume/index.html" target="_blank">快消</a></li>
+							<li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/finance/236134/index.html" target="_blank">经济观察家</a></li>
+							<li class="line">/</li>
+							<li><a href="http://www.takungpao.com/finance/236161/index.html" target="_blank">田湾点经</a></li>
+                            <li class="line">/</li>
+							<li><a href="http://www.takungpao.com/travel/index.html" target="_blank">大公文旅</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/finance/236135/index.html" target="_blank">港股</a></li>
+                            <li class="line">/</li>
+							<li><a href="http://www.takungpao.com/finance/236137/index.html" target="_blank">商业</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://auto.takungpao.com/" target="_blank">汽车</a></li>
+                        </ul>
+                    </div>
+                    <!--/财经-->
+                </li>
+                <li class="item">
+                    <a href="http://www.takungpao.com/culture/index.html" target="_blank" class="link" title="艺文">艺文</a>      
+                    <!--文化-->
+                    <div class="subnav">
+                        <ul class="list clearfix">
+                            <li><a href="http://www.takungpao.com/culture/237140/index.html" target="_blank">大公园</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/culture/237141/index.html" target="_blank">小公园</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/culture/237144/index.html" target="_blank">艺术赏析</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/culture/237146/index.html" target="_blank">有料历史</a></li>
+                            <li class="line">/</li>
+                            <li><a href="http://www.takungpao.com/culture/237142/index.html" target="_blank">大公故事</a></li>
+							<li class="line">/</li>
+							<li><a href="http://www.takungpao.com/life/238151/index.html" target="_blank">养生堂</a></li>
+                        </ul>
+                    </div>
+                    <!--/文化-->
+                </li>
+                <li class="item">
+                <a href="http://event.takungpao.com/special/index.html" target="_blank" class="link" title="专题">专题</a>
+                </li>
+                <li class="mobile_more">更多</li>
+            	<li class="mobile_slideup">收起</li>
+            </ul>
+        </div>
+        <!--/导航-->
+    </div>
+</div>
+<!--/头部--><div class="article_path">
+	<div class="path">
+	<a href="http://www.takungpao.com/" target="_blank">首页</a> > <a href="http://www.takungpao.com/culture/index.html" target="_blank">艺文</a> > <a href="http://www.takungpao.com/culture/237140/index.html" target="_blank">大公园</a> > 正文	</div>
+</div>
+<!--包裹开始-->
+<div class="wrapper clearfix">
+	<!--左侧-->
+    <div class="wrap_left">
+		    	<h2 class="tkp_con_title">﻿自由谈/当“家”作为神话时\赖秀俞</h2>
+		        <div class="tkp_con_info">
+            <div class="tkp_con_author"><span>2022-12-26 04:24:48</span><span>大公报</span> </div>
+            <dl class="tkp_con_fontsize">
+            	<dt>字号</dt>
+                <dd onClick="$('.tkp_content,.tkp_con_author').addClass('zoom')">放大</dd>
+                <dd onClick="$('.tkp_content,.tkp_con_author').removeClass('zoom')">标准</dd>
+            </dl>
+        </div>
+        <div class="tkp_con_share bdsharebuttonbox clearfix">
+        	<span>分享</span>
+            <a href="javascript:void(0);" class="ico_weixin" data-cmd="weixin" title="分享到微信"></a> 
+            <a href="javascript:void(0);" class="ico_weibo" data-cmd="tsina" title="分享到微博"></a>
+            <a href="javascript:void(0);" class="ico_facebook" target="_blank" title="分享到facebook"></a>
+            <a href="javascript:void(0);" class="ico_twitter" target="_blank" title="分享到twitter"></a>
+        </div>
+        <div class="tkp_content">
+            <p><center><img src="http://img.takungpao.com/2022/1226/20221226042448364.jpg"/></center></p><p></p><p>　　图：《阿凡达2：水之道》电影海报。\资料图片</p><p></p><p>　　时间已经来到二○二二年末，不少影院将最后的筹码放在《阿凡达2：水之道》上。怎料上映短短几天，救市神话就破碎了。不只中国市场，这部电影的全球票房低得出乎意料。《阿凡达》的昔日光辉到底不再。技术的光环能风光一时，却毕竟不是百试百灵的灵丹妙药。阿凡达花了二十多亿打造的肉身，最后还是倒在疲弱的故事上。</p><p>　　十几年前的《阿凡达》象征着电影技术的革命，十几年后世界变了，占士金马伦也开始眷恋家庭温暖。和大量美国战争电影一样，纳美人顶着一张蓝皮，上演的却是白人中产阶级家庭的团圆叙事。除了讽刺日本人捕鲸破坏生态环境之外，整部电影有且仅有“一家人要齐齐整整”。占士金马伦自己消解了上一部开发的诸多议题，例如殖民与反殖民、健全与残疾等等思考。杰克从原本背叛民族的反殖民英雄变成了只会让孩子隐忍苟活的父亲。曾经有多么激进，如今就有多么保守。占士金马伦在电影中谴责抓捕图鲲的人类，反复用特写刻画人类的丑恶嘴脸，但是在杰克与他的大儿子共同拥有的“田园牧歌”式回忆片段中，他们同样在捕鱼──只是那条鱼不是图鲲，而是无名的普通鱼类。捕获普通鱼类是少年成长的勋章，而图鲲被杀则是生态灾难。从这个角度来看，“水之道”的确是当今西方社会诸多意识形态的镜子。虽然“水之道”和图鲲的设定都有相当强烈的东方色彩，我们甚至不难读出庄子的味道，但东方哲学未能弥补故事苍白无力的缺陷，反而使人物的行为动机更加虚无。占士金马伦念兹在兹的“水之道”，让我们不由得想起六十年代欧美世界对禅宗哲学的追捧。只是昔日的“魅影战士”，如今的父亲杰克，相对于六十年代的嬉皮士而言务实得多。这也让这个人物变得更加难以让人信服，最后走向“人设”崩塌。</p><p>　　上半年的《奇异女侠玩救宇宙》（Everything Everywhere All at Once）同样讲述了一个关于家的故事。不过和《阿凡达2：水之道》不同的是，这次我们看到的是一个东亚家庭，而聚光灯所聚焦的不是父亲，而是母亲。就像回家过圣诞是所有美国英雄故事的终极诉求一样，家就是东亚社会永恒不灭的神话。不然是枝裕和的《小偷家族》就不会如此“叫座”又“叫好”。《奇异女侠玩救宇宙》和《小偷家族》一样都讲述了一个与幻想息息相关的故事，仿佛意味着东亚家庭的出路只有依靠乌托邦的力量。《小偷家族》里各个社会边缘人之间的羁绊比是枝裕和的另一部以家为题的电影《海街日记》还要魔幻，但无碍于我们领会是枝裕和的核心精神：血缘并不是组建家庭的必需品。甚至可以说，血缘反而是绑架情感的枷锁。因为《小偷家族》里的每个人都是被血缘家庭驱逐的人，而他们在非血缘的类家庭关系中获得幸福。</p><p>　　《奇异女侠玩救宇宙》是一个从头到尾都围绕血缘家庭讲述的故事，而这一点实际上具有非常浓厚的华人文化色彩。从华人到加拿大修铁路的历史开始，血缘就是华人社会的根。杨紫琼在《奇异女侠玩救宇宙》中饰演一个穿梭于各个宇宙之间，变换各种人生角色的女性，她曾一度是拯救世界的女侠，然而最后还是要做和女儿、丈夫和解的母亲及妻子。这部电影的叙事形式体现出蓬勃的想像力──虽然从后现代文化的角度来看，一切并不新奇。然而这部电影尽管有一个新颖的外壳，它的内核依然保守。东亚家庭所寄托的解放，从来都不是解放家庭，而是解放内心。杨紫琼透过平行宇宙中的穿梭，活过了不同的人生，最终仍是温水煮青蛙，无法抵达任何革命性的力量。影片所讲述的华裔家庭故事，早就是六七十年代华人创作的小说中常见的主题。穿越宇宙，变换身份更像是一种阿Q精神胜利法，和《阿凡达2：水之道》中的杰克一样，均呈现出一种对尖锐的现实问题的逃避。</p><p>　　《饭戏攻心》是另一个关于家的故事。这个故事发生在香港，扮演“父亲”角色的“大哥”一再坚持守住旧屋，守住父母留下的“家产”，实际上也是守住记忆，召唤昔日香港文化与精神的坚持。不过，影片在篇幅过长的三角恋和大量段子、笑话中游移不定。这让家的故事成为一个局限于“小时代”的大杂烩，放弃了微言大义的寓言表达。</p><p>　　而且，和《阿凡达2：水之道》以及《奇异女侠玩救宇宙》并无差别的是，《饭戏攻心》的主角面对真正的问题时，也在不断地“逃”。“逃”到最后，依然是“逃”回“家和万事兴”。</p><p>　　概览二○二二年的三部关于家的电影，显而易见的是，当家的叙事依然是某个神话时它已经不能呼唤出更强的想像力了。或许，只有当家不再是一个神话，对家的想像才能真正地重新开始，寻找新鲜的可能性。</p>		</div>
+                        <div class="ad_660_75 ad-wrapper" id="ad2"><a href="#" target="_blank"></a></div>
+                <!--相关内容-->
+						<!--/相关内容-->
+        
+		<div id="tkpcomment"></div>
+        
+        
+        <div class="ad_660_75 ad-wrapper" id="ad3"><a href="#" target="_blank"></a></div>
+    </div>
+    <!--/左侧-->
+
+	<!--右侧-->
+    <div class="wrap_right">
+		<div class="ad_360_200 ad-wrapper" id="ad4"><a href="#" target="_blank"></a></div>
+        
+
+        <!--点击排行-->
+        <h3 class="h3_title"><em class="ico"></em>点击排行</h3>
+        <div class="paihang">
+			 <ol class="list"><li><a href="http://www.takungpao.com/opinion/233119/2023/0102/804133.html" target="_blank" title="﻿议事论事/人大解释国安法的重要宪制意义\林顺潮">﻿议事论事/人大解释国安法的重要宪制意义\林顺潮</a></li><li><a href="http://www.takungpao.com/opinion/233119/2023/0102/804135.html" target="_blank" title="﻿慧言真语/释法和通关 保持香港繁荣稳定的重要事件\王惠贞">﻿慧言真语/释法和通关 保持香港繁荣稳定的重要事件\王惠贞</a></li><li><a href="http://www.takungpao.com/231106/2023/0102/804145.html" target="_blank" title="﻿通关在即/1月8日有望通关">﻿通关在即/1月8日有望通关</a></li><li><a href="http://www.takungpao.com/culture/237140/2023/0102/804161.html" target="_blank" title="﻿自由谈/日昇岁新\吴 捷">﻿自由谈/日昇岁新\吴 捷</a></li><li><a href="http://www.takungpao.com/news/232111/2023/0102/804225.html" target="_blank" title="﻿卢拉就任巴西总统 呼吁俄乌实现和平">﻿卢拉就任巴西总统 呼吁俄乌实现和平</a></li><li><a href="http://www.takungpao.com/news/232111/2023/0102/804229.html" target="_blank" title="﻿借“星链”插手俄乌战局">﻿借“星链”插手俄乌战局</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0102/804245.html" target="_blank" title="﻿中央外办主任王毅：奋进中国特色大国外交新征程">﻿中央外办主任王毅：奋进中国特色大国外交新征程</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0102/804247.html" target="_blank" title="﻿内地元旦赴澳游飙升 料春节更旺">﻿内地元旦赴澳游飙升 料春节更旺</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0102/804265.html" target="_blank" title="﻿携手战疫/“我是外国人但不是外人”">﻿携手战疫/“我是外国人但不是外人”</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0102/804287.html" target="_blank" title="﻿“最强大八轮” 榴弹炮射程超50公里">﻿“最强大八轮” 榴弹炮射程超50公里</a></li></ol>
+		</div>
+        <!--/点击排行-->
+        <div class="ad_360_200 ad-wrapper" id="ad5"><a href="#" target="_blank"></a></div>
+        <div class="ad_360_200 ad-wrapper" id="ad6"><a href="#" target="_blank"></a></div>
+    </div>
+    <!--/右侧-->
+</div>
+<!--包裹结束-->
+<span id="hits" style="display:none;"><script language="JavaScript" src="http://hkapi.takungpao.com/api.php?op=count&id=801674&modelid=1"></script></span>
+<!--底部-->
+<div class="copyright_wrap">
+	<div class="copyright_top">
+		<a href="http://www.takungpao.com/corp/about.html" target="_blank">关于大公网</a>
+        <a href="http://www.takungpao.com/corp/statement.html" target="_blank">法律声明</a>
+        <a href="http://www.takungpao.com/corp/advertising.html" target="_blank">广告服务</a>
+        <a href="http://www.takungpao.com/corp/connect.html" target="_blank">联络我们</a>
+    </div>
+	<div class="copyright_bot">
+    	<span>Copyright © 2021 Takungpao <em>All Rights Reserved</em></span>
+    	<a href="http://www.miibeian.gov.cn" target="_blank">京ICP备13049349号</a>
+    	<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502037337" target="_blank"><img src="http://r2d2.takungpao.com/cn/common/images/ghs.png" />京公网安备11010502037337号</a>
+    </div>
+</div>
+<!--/底部-->
+<div id="tipback" title="返回顶部"></div>
+<script type="text/javascript" src="http://r2d2.takungpao.com/cn/common/js/header.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="http://r2d2.takungpao.com/cn/lib/mediaelement/mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src="http://r2d2.takungpao.com/cn/common/js/content.js?t=20220801"></script>
+<script>
+$(function(){
+	//视频播放
+	try{
+		$('video').mediaelementplayer();
+	}
+	catch(err){
+		console.log(err);
+	}
+});
+</script>
+<script id="adjs" src="http://gg.takungpao.com/ad.js?id=300001"></script>
+<script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+<script type="text/javascript" src="http://r2d2.takungpao.com/lib/tkp.js"></script>
+</body>
+</html>

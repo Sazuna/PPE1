@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edga" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" type="text/css" href="/index/xhtml/css/newBootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/index/xhtml/css/common_detail_kp.css">
+    
+<meta name="SiteName" content="国际科技频道"/>
+<meta name="SiteDomain" content=""/>
+<meta name="SiteIDCode" content="N0000083288"/>
+<meta name="ColumnName" content="今日视点" />
+<meta name="ColumnDescription" content=""/>
+<meta name="ColumnKeywords" content=""/>
+<meta name="ColumnType" content=""/>
+<meta name="ArticleTitle" content="人工智能预测蛋白质结构数量将超亿阿尔法折叠革命何去何从？|科技创新世界潮"/>
+<meta name="PubDate" content="2022-04-21 14:45:45"/>
+<meta name="Keywords" content=""/>
+<meta name="Description" content="十多年来，德国马克斯普朗克生物物理研究所分子生物学家马丁·贝克及其同事一直试图拼凑出世界上最难的拼图游戏之一：人类细胞中最大分子机器的详细模型。这个庞然大物被称为核孔复合体，控制着分子进出细胞核的流动，而细胞核正是基因组所在之处。每个细胞中都存在数百个这样的复合物，每个都由超过1000种蛋白组成，它们形成一个环，镶嵌在核膜上。"/>
+
+<meta name="others" content="页面生成时间 2022-04-21 14:45:45" />
+<meta name="template,templategroup,version" content="386,32,2.1" />
+<title>
+        人工智能预测蛋白质结构数量将超亿阿尔法折叠革命何去何从？|科技创新世界潮-中国科技网
+    </title>
+    <meta name='keywords' content="">
+    <meta name='description' content="人工智能预测蛋白质结构数量将超亿阿尔法折叠革命何去何从？|科技创新世界潮">
+    <meta name="baidu-site-verification" content="8VsUZuJwJp" />
+    <link rel="icon" href="/index/xhtml/images/ico/icon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/index/xhtml/images/ico/icon.ico" type="image/x-icon" />
+    <script src="/index/xhtml/js/jquery.min.js"></script>
+    <script src="/index/xhtml/js/bootstrap.min.js"></script>
+    <script src="/index/xhtml/js/header2020.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/index/xhtml/js/jquery.PrintArea.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/index/xhtml/js/article.js"></script>
+    <!--[if lt IE 9]>
+		  <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+</head>
+
+<body>
+    <link rel="stylesheet" type="text/css" href="/index/xhtml/css/common_header_2021.css" />
+<!-- 分享默认图 开始 -->
+<div class="shareImg">
+	<img src="http://www.stdaily.com/index/xhtml/images/share_logo.jpg" atremote>
+</div>
+<!-- 分享默认图 结束 -->
+<div class="mainHeader">
+	<div class="headerCont">
+		<div class="headerLogo">
+			<a href="http://www.stdaily.com/" target="_blank">
+				<img src="/index/xhtml/index/images/header2020/logo.png">
+			</a>
+		</div>
+		<div class="headerButton">
+			<div class="menuBox">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		<div class="headerMenu">
+			<ul>
+				
+					<li>
+						<a href="/kjxx/index.shtml" target="_blank"  >时政</a>
+					</li>
+
+					<li>
+						<a href="/index/fmxw/common_list_2021.shtml" target="_blank"  >封面</a>
+					</li>
+
+					<li>
+						<a href="/index/kjxw/kjxw.shtml" target="_blank"  >热点</a>
+					</li>
+
+					<li>
+						<a href="/kjzc/index.shtml" target="_blank"  >政务</a>
+					</li>
+
+					<li>
+						<a href="/cehua/kjrbst/shentong.shtml" target="_blank"  >深瞳</a>
+					</li>
+
+					<li>
+						<a href="/index/sysp/cxzg_list.shtml" target="_blank"  >视频</a>
+					</li>
+
+					<li>
+						<a href="http://www.stdaily.com/guoji/" target="_blank"  >国际</a>
+					</li>
+
+					<li>
+						<a href="/02/index.shtml" target="_blank"  >地方</a>
+					</li>
+
+					<li>
+						<a href="/cxyq/index.shtml" target="_blank"  >园区</a>
+					</li>
+
+					<li>
+						<a href="/index/ztlm/common_list_2021.shtml" target="_blank"  >专题</a>
+					</li>
+
+					<li>
+						<a href="/English/index.shtml" target="_blank"  >English</a>
+					</li>
+
+					<li>
+						<a href="/index/kejixinwen/kejixinwen.shtml" target="_blank"  >滚动</a>
+					</li>
+
+			</ul>
+		</div>
+		<div class="headerSearch">
+			<div class="searchBox">
+				<div class="bLeft">
+					<input name="searchWord" autocomplete="off" type="text" id="searchWord" size="50"
+						placeholder="请输入您要搜索的关键字" />
+				</div>
+				<div class="bRight">
+					<input type="submit" id="searchBtn" value="" />
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	$(function() {
+		$(window).on("resize", function(){
+			if($(".menuBox").hasClass("on")){	
+				$(".menuBox").removeClass("on")
+				$(".headerMenu").attr("style", '')
+			}
+		})
+		$(".menuBox").on("click", function() {
+			if ($(".headerMenu").is(":hidden")) {
+				$(this).addClass("on")
+				$(".headerMenu").slideDown()
+			} else {
+				$(this).removeClass("on")
+				$(".headerMenu").slideUp()
+			}
+		})
+		$('#searchBtn').click(function() {
+			zz_search();
+		});
+		document.getElementById("searchWord").onkeydown = function(e) {
+			e = e || event;
+			if (e.keyCode == 13) {
+				zz_search();
+			}
+		}
+		function zz_search() {
+			var qt1 = $('#searchWord').val();
+			if (qt1 != '') {
+				var searchword = encodeURI(qt1);
+				var searchurl = 'http://search01.stdaily.com:8080/guestweb/s?siteCode=N000008328' +
+					'&searchWord=' + searchword;
+				window.open(searchurl);
+			} else {
+				window.open("http://search01.stdaily.com:8080/guestweb/index/N000008328")
+			}
+		}
+	})
+</script>
+    <!-- 头部 E -->
+    <div class="clear"></div>
+    <section class="content-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8   col-xs-12 article">
+                    <ol class="breadcrumb">
+                       所在位置：
+<a href='/guoji/index.shtml'  target="_blank">首页</a>&nbsp;>&nbsp;<a href='/guoji/shidian/jrsd.shtml'  target="_blank"><span>今日视点</span></a>
+> 正文
+                    </ol>
+                    <div class="articleHead">
+                        <h1>
+                            人工智能预测蛋白质结构数量将超亿阿尔法折叠革命何去何从？|科技创新世界潮
+                        </h1>
+                        <div class="time1 ">
+                            2022-04-21 01:00:00
+                            <span class="f_source">来源:</span> <span class="f_source sourceCont">
+                                科技日报
+                            </span>
+                            <span class="f_author">作者:</span> <span class="f_author authorCont">
+                                张佳欣
+                            </span>
+                        </div>
+                        <div class="pages_print pull-right hidden-xs"><span class="btnPrint" id="btnPrint"></span><span class="font index_switchsize"><span class="bigger"></span> <span class="smaller"></span></span>
+
+                        </div>
+                        <div class="content-l2-l-share-l hidden-xs">
+                            <div class="content-l2-l-share-l3">
+                                <div class="bdsharebuttonbox bdshare-button-style0-24" data-bd-bind="1515725685875">
+                                    <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                                    <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div id="printContent" class="pages_content">
+                        <div class="content">
+                            <div class="videoBox">
+                                <p id="video" align="center">
+                                    <script src="" type="text/javascript"></script>
+                                </p>
+                            </div>
+                            <p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;" align="center"><span style="font-size: 14pt;"><img src="064ebc99867b4628a82f65788840ff5f/images/4c6a6e1efa8d4232831239197005a7a9.png" align="center"></span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt; text-align: center;"><span style="font-size: 9pt;">AI预测的人类白介素12蛋白与其受体结合的结构。图片来源：Ian Haydon，威斯康星大学蛋白质设计医学研究所</span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;"><span style="font-size: 14pt; font-weight: bold;">科技日报实习记者&ensp;张佳欣</span></p>
+<div style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">
+<div style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">
+<div style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">
+<div style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">&ensp;&ensp;&ensp;&ensp;十多年来，德国马克斯普朗克生物物理研究所分子生物学家马丁·贝克及其同事一直试图拼凑出世界上最难的拼图游戏之一：人类细胞中最大分子机器的详细模型。这个庞然大物被称为核孔复合体，控制着分子进出细胞核的流动，而细胞核正是基因组所在之处。每个细胞中都存在数百个这样的复合物，每个都由超过1000种蛋白组成，它们形成一个环，镶嵌在核膜上。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　这1000块拼图由30多种蛋白质构建块组成，它们以多种方式交织在一起。让拼图更难的是，实验确定的这些构建块的三维结构是来自许多物种的结构大杂烩，并不能总是很好地融合在一起。而且，拼图的终极目标，即核孔复合体的低分辨率三维视图缺乏足够的细节，人们无法知道需要有多少块能精确地拼在一起。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　2016年，贝克团队报告了一个模型，它覆盖了核孔复合体约30%以及30个构建块的约一半，称为Nup蛋白。2021年7月，深度思维公司公开了一款名为阿尔法折叠2的人工智能（AI）工具。该软件可从蛋白质的基因序列中预测其三维结构，并且大部分情况下是精确的。这改变了贝克的任务，以及成千上万其他生物学家的研究。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　在某些情况下，AI为科学家们节省了时间；在其他情况下，它使以前难以想象或极不现实的研究成为可能。尽管它有局限性，但它的发展已经不可阻挡。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　<span style="font-weight: bold;">　“一鸣惊人”的成功</span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　2020年12月，阿尔法折叠引起了轰动。当时，它在一场名为“蛋白质结构预测关键评估”的比赛中大放异彩。而阿尔法折叠2的预测平均而言已与大多数实验数据不相上下。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　在阿尔法折叠算法广泛开源之前，美国华盛顿大学医学院蛋白质设计研究所研究人员开发了AI工具RoseTTAFold，其拥有可媲美阿尔法折叠2的蛋白质结构预测超高准确度，而且速度更快、所需计算机处理能力更低。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　2021年7月15日，深度思维宣布，它已经使用阿尔法折叠预测了几乎每一种人类制造的蛋白质的结构，以及其他20种被广泛研究的生物的整个蛋白质组（比如小鼠和大肠杆菌），共计超过36.5万个结构。深度思维还将这些数据公开发布到欧洲生物信息学研究所维护的数据库中，这个数据库已扩展到近100万个结构。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　今年，深度思维计划发布总计超过1亿个结构预测。这几乎占所有已知蛋白质的一半，是蛋白质数据库(PDB)结构库中实验确定的蛋白质数量的数百倍。阿尔法折叠还部署了深度学习神经网络，目前已经接受了PDB和其他数据库中的数十万个实验确定的蛋白质结构和序列的训练。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　<span style="font-weight: bold;">从结构角度解答新科学问题</span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　阿尔法折叠解决结构的能力给生物学家们留下了深刻的印象。“只要一种蛋白质卷曲成单一的明确的三维结构，阿尔法折叠的预测就很难被推翻。”瑞典斯德哥尔摩大学蛋白质生物信息学家阿恩·埃洛夫松说，“这是一种一键式解决方案，你可能会得到最佳模型。”</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　英国伦敦大学学院计算生物学家克里斯汀·奥伦戈团队正在利用其确定新的蛋白质种类，并发现了数百、甚至数千个潜在的新蛋白质家族，扩大了科学家对蛋白质外观和功能的了解。在另一项工作中，该团队正在搜索从海洋和废水中收集的DNA序列数据库，试图识别新的分解塑料的酶。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　美国哈佛大学进化生物学家谢尔盖·奥夫钦尼科夫表示，将任何蛋白质编码的基因序列转化为可靠结构的能力都非常可贵。研究人员通过比较基因序列，以确定生物及其基因在不同物种之间的关系。但对于远亲基因，仅通过比较，可能找不到进化上的近亲，因为序列发生了太大的变化。而通过比较蛋白质结构，其变化速度往往不如基因序列那么快，研究人员或能揭示被忽视的古老关系。这为研究蛋白质的进化和生命起源提供了一个绝佳的机会。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　<span style="font-weight: bold;">　存在一定局限性</span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　目前已有尝试证明，阿尔法折叠不具备预测蛋白质新突变后果的能力，因为没有与进化相关的序列来检验。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　研究人员表示，许多蛋白质具有多种构象，并与DNA和RNA等配体、脂肪分子和铁等矿物质一起发挥作用，但阿尔法折叠的预测是针对孤立结构，它不能真正处理那些可在不同构象中采用不同结构的蛋白质。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　美国哥伦比亚大学的计算生物学家穆罕默德·库雷希说，开发下一代神经网络将是一个巨大的挑战。目前还无法获得大量的数据来捕捉蛋白质动力学，或者蛋白质可能与之相互作用的数万亿个较小分子的形状。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　欧洲生物信息学研究所计算生物学家珍妮特·桑顿认为，阿尔法折叠最大的影响之一可能只是说服生物学家对计算和理论方法的见解持更开放的态度。“对我来说，这场革命就是观念的改变”。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　但阿尔法折叠革命激发了欧洲分子生物学实验室结构建模师扬·科辛斯基的远大梦想。他设想，受阿尔法折叠启发的工具不仅可用来对单个蛋白质和复合体进行建模，还可用来对整个细胞器甚至细胞进行建模，直到完整单个蛋白质分子，“这是我们在接下来的几十年里要追寻的梦想”。</p>
+</div>
+</div>
+</div>
+</div>
+                        </div>
+                        <div class="text-right editor">责任编辑：
+                            左常睿
+                        </div>
+                    </div>
+                    <div id="commentDiv"></div>
+                </div>
+                <div class="col-md-4 hidden-xs hidden-sm article_right">
+                    <!--公共右侧S-->
+                    <!--公共右侧S-->
+ <div class="aside">
+ 	<div class="right_one">
+ 		<div class="top_tit">
+ 			<div class="pubTit">
+ 				<a href="/index/kjxw/kjxw.shtml" target="_blank">
+ 					热点
+ 				</a>
+ 			</div>
+ 		</div>
+ 		 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="http://www.stdaily.com/zhuantij/xxesdjs/xxesdjs.shtml" target="_blank">
+<img src="/index//kejixinwen/202211/c74a67efacf5490cae8838e8f96545ca/images/14cb005be6974815b18d7c05b9ac074f.jpg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<div class="fp_subtitle">
+ 						<a href="http://www.stdaily.com/zhuantij/xxesdjs/xxesdjs.shtml" target="_blank" title='专题丨学习贯彻党的二十大精神'  >专题丨学习贯彻党的二十大精神</a>
+ 					</div>
+ 					<div class="fp_title">
+ 						<a href="http://www.stdaily.com/zhuantij/xxesdjs/xxesdjs.shtml" target="_blank" title='专题丨学习贯彻党的二十大精神'  >专题丨学习贯彻党的二十大精神</a>
+ 					</div>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+ 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="/index/kejixinwen/202212/6abd00ee622f4eb09c9b190c50095174.shtml" target="_blank">
+<img src="/index//kejixinwen/202212/6abd00ee622f4eb09c9b190c50095174/images/86dcabdb4c8c493484f9faf062cad427.jpg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<div class="fp_subtitle">
+ 						<a href="/index/kejixinwen/202212/6abd00ee622f4eb09c9b190c50095174.shtml" target="_blank" title='二〇二三，巨轮无惧风浪'  >二〇二三，巨轮无惧风浪</a>
+ 					</div>
+ 					<div class="fp_title">
+ 						<a href="/index/kejixinwen/202212/6abd00ee622f4eb09c9b190c50095174.shtml" target="_blank" title='二〇二三，巨轮无惧风浪'  >二〇二三，巨轮无惧风浪</a>
+ 					</div>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+ 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="/index/kejixinwen/202301/9334659ee00e4613b5d7da7256a79b66.shtml" target="_blank">
+<img src="/index//kejixinwen/202301/9334659ee00e4613b5d7da7256a79b66/images/bb968153113a4c2491883768dc496bb5.jpg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<div class="fp_subtitle">
+ 						<a href="/index/kejixinwen/202301/9334659ee00e4613b5d7da7256a79b66.shtml" target="_blank" title='​科技部部长王志刚：以高水平科技自立自强支撑高质量发展'  >​科技部部长王志刚：以高水平科技自立自强支撑高质量发展</a>
+ 					</div>
+ 					<div class="fp_title">
+ 						<a href="/index/kejixinwen/202301/9334659ee00e4613b5d7da7256a79b66.shtml" target="_blank" title='​以高水平科技自立自强支撑高质量发展——专访科技部部长王志刚'  >​以高水平科技自立自强支撑高质量发展——专访科技部部长王志刚</a>
+ 					</div>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+ 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="/index/kejixinwen/202301/42af92fd75c34a5284811803dde4f0b7.shtml" target="_blank">
+<img src="/index//kejixinwen/202301/42af92fd75c34a5284811803dde4f0b7/images/c82638f3bbc54f489349a793d8eda58a.jpeg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<div class="fp_subtitle">
+ 						<a href="/index/kejixinwen/202301/42af92fd75c34a5284811803dde4f0b7.shtml" target="_blank" title='开局迈出新步伐——2023年开年推动高质量发展一线观察'  >开局迈出新步伐——2023年开年推动高质量发展一线观察</a>
+ 					</div>
+ 					<div class="fp_title">
+ 						<a href="/index/kejixinwen/202301/42af92fd75c34a5284811803dde4f0b7.shtml" target="_blank" title='开局迈出新步伐——2023年开年推动高质量发展一线观察'  >开局迈出新步伐——2023年开年推动高质量发展一线观察</a>
+ 					</div>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+
+ 	</div>
+ 	<!-- 封面新闻 -->
+ 	<div class="right_sp">
+ 		<div class="top_tit">
+ 			<div class="pubTit">
+ 				<a href="/index/fmxw/common_list_2021.shtml" target="_blank">
+ 					封面新闻
+ 				</a>
+ 			</div>
+ 		</div>
+ 		<div class="list_sp">
+ 			<ul>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="http://www.stdaily.com/cehua/Dec29thq/fmxw.shtml" target="_blank">
+<img
+ 										src="/index//kejixinwen/202212/0b4a26b0ef254b549c47d26221659a60/images/e484f8674a6840779a8072059564e72b.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="http://www.stdaily.com/cehua/Dec29thq/fmxw.shtml" target="_blank"  >封面新闻丨出入境迎来新政策，更好保障交流合作</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="http://stdaily.com/cehua/Dec28thb/fmxw.shtml" target="_blank">
+<img
+ 										src="/index//kejixinwen/202212/f0d8519288ab44c3b02fabbb861e755d/images/df45caf25aed479c9f3937cf92df30a6.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="http://stdaily.com/cehua/Dec28thb/fmxw.shtml" target="_blank"  >封面新闻丨“白肺”是啥？“阳康”后能不能运动？医疗储备如何？专家解读→</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="http://www.stdaily.com/cehua/Dec27thq/fmxw.shtml" target="_blank">
+<img
+ 										src="/index//kejixinwen/202212/fd479f8a296c46149e2192efca60aac5/images/6c44dcb24894468c88daa5923c125b2f.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="http://www.stdaily.com/cehua/Dec27thq/fmxw.shtml" target="_blank"  >封面新闻丨新冠病毒感染实行“乙类乙管”，权威专家详解</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="http://www.stdaily.com/cehua/Dec26th/fmxw.shtml" target="_blank">
+<img
+ 										src="/index//kejixinwen/202212/3beb0bbb6e314311a65566c837cd0336/images/e432bc4384b740cbabc9b71a5dbb4564.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="http://www.stdaily.com/cehua/Dec26th/fmxw.shtml" target="_blank"  >封面新闻丨新鲜出炉！2022年国内国际十大科技新闻揭晓</a>
+ 						</p>
+ 					</li>
+
+ 			</ul>
+ 		</div>
+ 		<div class="clear"></div>
+ 	</div>
+ 	<!-- 视频S -->
+ 	<div class="right_sp">
+ 		<div class="top_tit">
+ 			<div class="pubTit">
+ 				<a href="/index/sysp/cxzg_list.shtml" target="_blank">
+ 					精彩视频
+ 				</a>
+ 			</div>
+ 		</div>
+ 		<div class="list_sp">
+ 			<ul>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="/index/kejixinwen/202212/69391972d1be4cc49386cf673a2b20b3.shtml" target="_blank">
+ 								<i></i>
+<img
+ 										src="/index//kejixinwen/202212/69391972d1be4cc49386cf673a2b20b3/images/bb6f8b01636b477c818c7bfbfe3eccbf.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="/index/kejixinwen/202212/69391972d1be4cc49386cf673a2b20b3.shtml" target="_blank"  >科普一下丨大熊猫怎么“变”成棕色的了？</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="/index/kejixinwen/202212/8b5204f0bd374dfc9a59154b5603927d.shtml" target="_blank">
+ 								<i></i>
+<img
+ 										src="/index//kejixinwen/202212/8b5204f0bd374dfc9a59154b5603927d/images/55e0f0a6e6e94adab1668a7b97a07ed5.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="/index/kejixinwen/202212/8b5204f0bd374dfc9a59154b5603927d.shtml" target="_blank"  >科普一下丨吃了含硫酸铜的鱼会中毒吗？</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="/index/kejixinwen/202212/6fbe6c69640f4c30bc44839e42b8de05.shtml" target="_blank">
+ 								<i></i>
+<img
+ 										src="/index//kejixinwen/202212/6fbe6c69640f4c30bc44839e42b8de05/images/68bd138e677d467da1cfcf48287e2e65.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="/index/kejixinwen/202212/6fbe6c69640f4c30bc44839e42b8de05.shtml" target="_blank"  >直播 | 2022跨年夜科学沙龙</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="/index/kejixinwen/202212/e656cf25366f4e1f9379c35b241c8c95.shtml" target="_blank">
+ 								<i></i>
+<img
+ 										src="/index//kejixinwen/202212/e656cf25366f4e1f9379c35b241c8c95/images/6da1eec534e442bdbeb7fc6e0216e0aa.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="/index/kejixinwen/202212/e656cf25366f4e1f9379c35b241c8c95.shtml" target="_blank"  >直播 | 中国科学院2023跨年科学演讲</a>
+ 						</p>
+ 					</li>
+
+ 			</ul>
+ 		</div>
+ 		<div class="clear"></div>
+ 	</div>
+ 	<!-- 专题S -->
+ 	<div class="right_one">
+ 		<div class="top_tit">
+ 			<div class="pubTit">
+ 				<a href="/index/ztlm/common_list_2021.shtml" target="_blank">
+ 					专题报道
+ 				</a>
+ 			</div>
+ 		</div>
+ 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="http://www.stdaily.com/zhuantij/ztcxgs/ztcxgs.shtml" target="_blank">
+<img src="/index//kejixinwen/202209/04ea9adc041d4a19a12979a0fbe65bb0/images/5cfc69d04cd747d2892a790f0a1cab4e.jpeg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<p>
+ 						<a href="http://www.stdaily.com/zhuantij/ztcxgs/ztcxgs.shtml" target="_blank"  >创新故事</a>
+ 					</p>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+
+ 		<ul class="list_zt">
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/kyzlgw/zbmmzt.shtml" target="_blank"  >科研助理岗位，等你来！</a>
+ 				</li>
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/jhbt/jhbt.shtml" target="_blank"  >江河奔腾看中国</a>
+ 				</li>
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/gjkjcxcjz/gjkjcxcjz.shtml" target="_blank"  >国家科技创新成就展</a>
+ 				</li>
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/ztkpyx/ztkpyx.shtml" target="_blank"  >科普一下</a>
+ 				</li>
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/wmdja/wmdcxja.shtml" target="_blank"  >打造原创技术策源地</a>
+ 				</li>
+
+ 		</ul>
+ 	</div>
+ </div>
+                    <!--公共右侧E-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- footS -->
+    <link rel="icon" href="http://www.stdaily.com/index/xhtml/images/ico/icon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.stdaily.com/index/xhtml/images/ico/icon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/index/xhtml/css/common_footer_2021.css" />
+<style>
+#video {
+	height: auto;
+}
+#video .ccH5playerBox,
+#video .ccH5Poster,
+#video .CCH5playerContainer{
+	width: 100% !important;
+	height: 350px !important;
+}
+</style>
+<script  type="text/javascript">
+	$(function() {
+		var videos = $("video");
+      	if(videos.length <= 1) return;
+		for (var i = 0; i < videos.length; i++) {
+			videos[i].addEventListener("play", function() {
+				var vs = $("video");
+				for (var j = 0; j < vs.length; j++) {
+					if (vs[j] !== this) {
+						vs[j].pause();
+					}
+				}
+			})
+		};
+	});
+</script>
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="http://www.stdaily.com/index/xhtml/css/main.css">
+ <script src="http://www.stdaily.com/index/xhtml/js/jquery.min.js"></script>
+<div id="goodcover"></div>
+<div id="code">
+  <div class="code1"></div>
+  <div class="close1"><a id="closebt" class="closebt"><img src="http://www.stdaily.com/index/xhtml/images/close.png"></a></div>
+  <div class="goodtxt">
+    <h4>抱歉，您使用的浏览器版本过低,这会影响您正常浏览本网页</h4>
+    <h3>您可以进行以下操作:</h3>
+    <h2>1.点击下面图标可升级或更换您的浏览器</h2>
+    <div class="code-img"> 
+        <a href="http://rj.baidu.com/soft/detail/23356.html?ald" target="_blank"><img src="http://www.stdaily.com/index/xhtml/images/ie.jpg"></a>	
+    	<a href="http://www.firefox.com.cn/download/" target="_blank"><img  src="http://www.stdaily.com/index/xhtml/images/firefox.jpg"></a>
+    	<a href="http://www.chromeliulanqi.com/" target="_blank"><img  src="http://www.stdaily.com/index/xhtml/images/chrome.jpg"></a></div>
+    <h2>2.暂不升级，继续浏览</h2>
+    <input type="button" id="closebt1"  class="closebt" value="继续浏览" />
+  </div>
+</div>
+<script>
+$(function() {
+      var hb = $("body").outerHeight(); //获取body高度   
+     $("#goodcover").height(hb); //
+    $('.closebt').click(function() {
+        $('#code').hide();
+        $('#goodcover').hide();
+    });
+})
+</script>
+<![endif]-->
+<div class="mainFooter">
+	<div class="footerCont">
+			<div class="footerCode">
+				<img src="/index/xhtml/images/cxzgewm.png">
+			</div>
+			<div class="footerLink">
+				<h3>友情链接</h3>
+				<ul>
+					
+						<li>
+							<a href="https://www.gov.cn/" target="_blank"  >中国政府网</a>
+						</li>
+
+						<li>
+							<a href="http://www.ndrc.gov.cn/" target="_blank"  >国家发展和改革委员会</a>
+						</li>
+
+						<li>
+							<a href="http://www.moe.gov.cn/" target="_blank"  >教育部</a>
+						</li>
+
+						<li>
+							<a href="http://www.most.gov.cn/index.html" target="_blank"  >科学技术部</a>
+						</li>
+
+						<li>
+							<a href="https://www.miit.gov.cn/" target="_blank"  >工业和信息化部</a>
+						</li>
+
+						<li>
+							<a href="https://www.mps.gov.cn/" target="_blank"  >公安部</a>
+						</li>
+
+						<li>
+							<a href="http://www.mca.gov.cn/" target="_blank"  >民政部</a>
+						</li>
+
+						<li>
+							<a href="http://www.moj.gov.cn/" target="_blank"  >司法部</a>
+						</li>
+
+						<li>
+							<a href="http://www.mnr.gov.cn/" target="_blank"  >自然资源部</a>
+						</li>
+
+						<li>
+							<a href="https://www.mee.gov.cn/" target="_blank"  >生态环境部</a>
+						</li>
+
+						<li>
+							<a href="https://www.mohurd.gov.cn/" target="_blank"  >住房和城乡建设部</a>
+						</li>
+
+						<li>
+							<a href="https://www.mot.gov.cn/" target="_blank"  >交通运输部</a>
+						</li>
+
+						<li>
+							<a href="http://www.mwr.gov.cn/" target="_blank"  >水利部</a>
+						</li>
+
+						<li>
+							<a href="http://www.moa.gov.cn/" target="_blank"  >农业农村部</a>
+						</li>
+
+						<li>
+							<a href="http://www.nhc.gov.cn/" target="_blank"  >国家卫生健康委员会</a>
+						</li>
+
+						<li>
+							<a href="https://www.samr.gov.cn/" target="_blank"  >国家市场监督管理总局</a>
+						</li>
+
+						<li>
+							<a href="http://www.nrta.gov.cn/" target="_blank"  >国家广播电视总局</a>
+						</li>
+
+						<li>
+							<a href="https://www.sport.gov.cn/" target="_blank"  >国家体育总局</a>
+						</li>
+
+						<li>
+							<a href="http://www.cac.gov.cn/" target="_blank"  >国家互联网信息办公室</a>
+						</li>
+
+						<li>
+							<a href="http://www.scio.gov.cn/index.htm" target="_blank"  >国务院新闻办公室</a>
+						</li>
+
+						<li>
+							<a href="https://www.cas.cn/" target="_blank"  >中国科学院</a>
+						</li>
+
+						<li>
+							<a href="http://cass.cssn.cn/" target="_blank"  >中国社会科学院</a>
+						</li>
+
+						<li>
+							<a href="https://www.cae.cn/" target="_blank"  >中国工程院</a>
+						</li>
+
+						<li>
+							<a href="http://www.ncha.gov.cn/" target="_blank"  >国家文物局</a>
+						</li>
+
+						<li>
+							<a href="https://www.cnipa.gov.cn/" target="_blank"  >国家知识产权局</a>
+						</li>
+
+						<li>
+							<a href="http://www.people.com.cn/" target="_blank"  >人民网</a>
+						</li>
+
+						<li>
+							<a href="http://www.news.cn/" target="_blank"  >新华网</a>
+						</li>
+
+						<li>
+							<a href="http://www.china.com.cn/" target="_blank"  >中国网</a>
+						</li>
+
+						<li>
+							<a href="http://www.cri.cn/" target="_blank"  >国际在线</a>
+						</li>
+
+						<li>
+							<a href="https://cn.chinadaily.com.cn/" target="_blank"  >中国日报网</a>
+						</li>
+
+						<li>
+							<a href="https://www.cctv.com/" target="_blank"  >央视网</a>
+						</li>
+
+						<li>
+							<a href="https://www.youth.cn/index.htm" target="_blank"  >中国青年网</a>
+						</li>
+
+						<li>
+							<a href="http://www.ce.cn/" target="_blank"  >中国经济网</a>
+						</li>
+
+						<li>
+							<a href="http://www.taiwan.cn/" target="_blank"  >中国台湾网</a>
+						</li>
+
+						<li>
+							<a href="http://www.tibet.cn/" target="_blank"  >中国西藏网</a>
+						</li>
+
+						<li>
+							<a href="http://www.cnr.cn/" target="_blank"  >央广网</a>
+						</li>
+
+						<li>
+							<a href="https://www.gmw.cn/" target="_blank"  >光明网</a>
+						</li>
+
+						<li>
+							<a href="http://www.81.cn/" target="_blank"  >中国军网</a>
+						</li>
+
+						<li>
+							<a href="https://www.chinanews.com.cn/" target="_blank"  >中国新闻网</a>
+						</li>
+
+						<li>
+							<a href="http://www.rmzxb.com.cn/index.shtml" target="_blank"  >人民政协网</a>
+						</li>
+
+						<li>
+							<a href="http://www.legaldaily.com.cn/" target="_blank"  >法治网</a>
+						</li>
+
+				</ul>
+			</div>
+			<div class="footerInfo">
+				<ul class="Line">
+
+						<li>
+							<a href="/index/yqlj2/2019-07/12/content_777187.shtml" target="_blank"  >科技日报社概况</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202201/b1fa7143d2e04ce88033866956fdcebb.shtml" target="_blank"  >科技日报概况</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202108/560250.shtml" target="_blank"  >报社领导</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202203/57700e207355471a9341e0dd5b11fa57.shtml" target="_blank"  >关于中国科技网</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/2016-09/02/content_143082.shtml" target="_blank"  >联系我们</a>
+						</li>
+
+						<li>
+							<a href="http://www.stdaily.com/index/zhaopinxx/common_list_2021.shtml" target="_blank"  >科技日报社公开招聘公告</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202206/cae9791c6ba24b01bc44bf84af642d53.shtml" target="_blank"  >互联网新闻信息服务许可证</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202112/1238037.shtml" target="_blank"  >信息网络传播视听节目许可证</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/2021-09/10/content_1218859.shtml" target="_blank"  >举报平台</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/2017-01/01/content_595705.shtml" target="_blank"  >版权声明</a>
+						</li>
+
+				</ul>
+				<dl>
+					<dt>Copyright © Science and Technology Daily, All Rights Reserved</dt>
+					<dd>中国科技网 版权所有</dd>
+				</dl>
+				<ul>
+					<li><a href="https://beian.miit.gov.cn/" target="_blank">京ICP备<span>06005116</span>号</a></li>
+
+						<li>
+							<a href="/index/yqlj2/201612/479754.shtml" target="_blank"  >违法和不良信息举报电话：010-58884065</a>
+						</li>
+
+					<li>京公网安备 110402500060</li>
+				</ul>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+<script type="text/javascript" src="/index/xhtml/index/js/share.js"></script>
+<script type="text/javascript">
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?d11e62e2e2c8d774bb326bab95dd0a4d";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+	(function() {
+		var bp = document.createElement('script');
+		var curProtocol = window.location.protocol.split(':')[0];
+		if (curProtocol === 'https') {
+			bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+		} else {
+			bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+		}
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(bp, s);
+	})();
+	var _trackDataType = 'web';
+	var _trackData = _trackData || [];
+</script>
+<script type="text/javascript" charset="utf-8" id="kpyfx_js_id_10007769" src="//fxsjcj.kaipuyun.cn/count/10007769/10007769.js"></script>
+    <!-- footE -->
+    <script>
+        $("#myCarousel4").carousel('cycle');
+        window._bd_share_config = {
+            "common": {
+                "bdSnsKey": {},
+                "bdText": "",
+                "bdMini": "2",
+                "bdMiniList": false,
+                "bdPic": "",
+                "bdStyle": "0",
+                "bdSize": "24"
+            },
+            "share": {},
+            "image": {
+                "viewList": ["qzone", "tsina", "weixin"],
+                "viewText": "分享到：",
+                "viewSize": "24"
+            }
+        };
+        with(document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+    </script>
+    <script type="text/javascript">
+        $(function() {
+            var fp_subtitle = $.trim($(".fp_subtitle").html());
+            if (fp_subtitle == null || fp_subtitle == "") {
+                $(".fp_title").css('display', 'inline');
+                $(".fp_subtitle").hide();
+            }
+            if ($('.indexNumber').html() == '') {
+                $('.indexNumber').html('0')
+            }
+            var f_source = $('.sourceCont').html();
+            var f_author = $('.authorCont').html();
+            if ($.trim(f_source) == '') {
+                $('.f_source').hide()
+            } else {
+                $('.f_source').show();
+            }
+            if ($.trim(f_author) == '') {
+                $('.f_author').hide()
+            } else {
+                $('.f_author').show();
+            }
+        })
+    </script>
+</body>
+
+</html>
