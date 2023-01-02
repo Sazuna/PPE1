@@ -70,8 +70,8 @@ do
 	then
 		# lynx does not work for chinese pages
 		# DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
-		DUMP=$(w3m -cookie $URL)
-		ASPIRATION=$(curl $URL)
+		DUMP=$(w3m -cookie "$URL")
+		ASPIRATION=$(curl "$URL")
 		# We must create the file now so that we can tokenize it (tokenizer words with file, not raw text)
 		DUMP_F="../generated/dump-texts/$WORD-$OUTPUT_NUMBER.txt"
 		echo "$DUMP" > $DUMP_F
