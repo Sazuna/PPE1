@@ -30,4 +30,4 @@
 - [x] Tokenizer les contextes et garder n mots au lieu de n caractères
 ## 02/01
 - [ ] Générer les données pour batiburrillo (Léna)
-- [ ] Générer les données pour méli-mélo (Yingzi)
+- [x] Générer les données pour méli-mélo (Yingzi)
