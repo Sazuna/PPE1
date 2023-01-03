@@ -30,7 +30,7 @@ then
 fi
 
 WORD=$1
-OUTPUT_NUMBER=0
+OUTPUT_NUMBER=1
 
 # This is the regular expression that will be used to search for the word in the pages
 EXPR_REG=$(cat "../expreg/$WORD.txt" | tr -d '\n')
@@ -42,7 +42,6 @@ fi
 # File where we will save the Table
 CSV="../generated/csv/$WORD.csv"
 HTML_F="../html/$WORD-table.html"
-HTML_C="../html/$WORD-concordances_table.html"
 
 echo "getting URLs of $2..."
 
@@ -70,8 +69,8 @@ do
 	then
 		# lynx does not work for chinese pages
 		# DUMP=$(lynx -dump -nolist -assume_charset=$CHARSET -display_charset=$CHARSET $URL)
-		DUMP=$(w3m -cookie $URL)
-		ASPIRATION=$(curl $URL)
+		DUMP=$(w3m -cookie "$URL")
+		ASPIRATION=$(curl "$URL")
 		# We must create the file now so that we can tokenize it (tokenizer words with file, not raw text)
 		DUMP_F="../generated/dump-texts/$WORD-$OUTPUT_NUMBER.txt"
 		echo "$DUMP" > $DUMP_F
@@ -91,7 +90,7 @@ do
 		fi
 		# CONCORDANCES
 		CONCORDANCES=$(echo "$DUMP" | grep -E -o "(\w+\W+){0,5}$EXPR_REG(\W+\w+){0,5}" | sed -r "s/(.*)($EXPR_REG)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/")
-		echo "$CONCORDANCES" >> $HTML_C
+		
 	else
 		DUMP=""
 		CHARSET=""
@@ -103,13 +102,28 @@ do
 	# File names
 	ASPIRATION_F="../generated/dump-html/$WORD-$OUTPUT_NUMBER.txt"
 	CONTEXT_F="../generated/contexts/$WORD-$OUTPUT_NUMBER.txt"
+	CONCORDANCE_F="../generated/concordances/$WORD-$OUTPUT_NUMBER.html"
 	echo "$ASPIRATION" > $ASPIRATION_F
 	echo "$CONTEXT" > $CONTEXT_F
+	CLASS='<div class="container">
+    <table class="table is-striped is-hoverable", style="text-align:center">'
+	echo '<!DOCTYPE html>
+		<html>
+		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<title>Hello Bulma!</title>
+			<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+		</head>
+		<body>' > $CONCORDANCE_F
+	echo "$CLASS<thead><tr><th>Gauche</th><th>Cible</th><th>Droite</th></tr></thead><tbody>" >> $CONCORDANCE_F
+	echo "$CONCORDANCES" >> $CONCORDANCE_F
+	echo "</tbody></table></div></body></html>" >> $CONCORDANCE_F
 
 	# Count of occurrences
 	COUNT=$(echo $CONTEXT | tr ' ' '\n' | egrep -ci "$EXPR_REG")
 	echo "count : $COUNT"
 	# On écrit
-	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td></tr>" >> $HTML_F
+	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td><td><a href=\"$CONCORDANCE_F\">Concordances</a></td></tr>" >> $HTML_F
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done

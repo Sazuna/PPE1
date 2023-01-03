@@ -1,0 +1,12 @@
+generated/.DS_Store
+generated/*
+generated/codes/méli-mélo-1-head.txt
+generated/concordances/méli-mélo-0.html
+generated/concordances/méli-mélo-1.html
+generated/contexts/méli-mélo-0.txt
+generated/contexts/méli-mélo-1.txt
+generated/dump-html/méli-mélo-0.txt
+generated/dump-html/méli-mélo-1.txt
+generated/dump-texts/méli-mélo-0.txt
+generated/dump-texts/méli-mélo-1.txt
+.DS_Store

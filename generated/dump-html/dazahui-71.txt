@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/style_s222_ndsj.css" rel="stylesheet" type="text/css" />
+<title>
+霞浦“闽南糊”：家乡的代表符号
+-
+福建日报看宁德
+- 东南网-福建官方新闻门户
+</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=640" />
+<script src="//www.fjsen.com/js/jquery-1.9.1.min.js" atremote="atremote"></script>
+<script src="//api.media.fjsen.com/w/wx_share.js" atremote="atremote"></script>
+<script>
+fjsenWx.setData('desc', '福建官方新闻门户');
+fjsenWx.setData('imgUrl', '//www.fjsen.com/js/ipa/logo2.png');
+</script>
+<script>
+function gotopc()
+{
+	//window.location.href=window.location.href.replace('.com/wap','.com');//
+	var u = ''
+		if(typeof window.pcUrl == 'undefined'){
+			u = location.href.replace('/wap/','/');
+		}else{
+			u = window.pcUrl;
+		}
+		
+		if(u.indexOf('?')>-1)u=u.replace('?','?page=pc&');
+		else {
+			if(u.indexOf('#')>-1)u=u.replace('#','?page=pc#');
+			else u=u+'?page=pc';
+		}
+		//alert(u);
+		window.location.href=u;
+}
+$(function() {
+	$('.gotopc').click(function(){
+		gotopc();
+	});
+});
+</script>
+</head>
+
+<body>
+<div class="logo"><img src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_logo.jpg"></div>
+<div class="bt_box">
+  <div class="bt_pc gotopc"><img src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_bt_pc.png"></div>
+  <!--
+  <div class="bt_sr"><a href=""><img src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_bt_sr.png"></a></div>
+  -->
+</div>
+<div class="newcl"></div>
+<div class="sitemap" id="smbg">
+  <div class="sm_main">
+    <ul>
+      <li><a href="/wap/">首页</a></li>
+       <li><a href="/wap/node_105129.htm">要闻</a></li>
+    <li><a href="/wap/node_105503.htm">原创</a></li>
+      <li><a href="/wap/node_100352.htm">视频</a></li>
+      <li><a href="/wap/node_100321.htm">区县</a></li>
+        <li><a href="/wap/node_105500.htm">民生</a></li>
+    </ul>
+    <ul style="display:none;" id="smpl">
+      <li><a href="/wap/node_100344.htm">热图</a></li>
+      <li><a href="/wap/node_154015.htm">乡镇</a></li>
+    </ul>
+  </div>
+  <div class="sm_bt" style="cursor:pointer"><img src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_sm_bt.jpg" id="smbt"></div>
+  <div class="newcl"></div>
+</div>
+
+<div class="wapcc" style="padding:0px 10px;">
+    
+    <div class="weiz_k" style=" display:none;">
+      <div class="weiz"><a href="http://nd.fjsen.com/index.htm" target="_blank" class="daohang">东南网宁德频道</a> &gt; <a href="http://nd.fjsen.com/node_100323.htm" target="_blank" class="daohang">福建日报看宁德</a> > 正文 </div>
+      <div class="fh"><a href="/wap/">回到首页</a></div>
+      <div class="hwcl"></div>
+    </div>
+    <div class="hwcl" style="height:10px;"></div>
+    
+    <div class="zw_dbt">
+    霞浦“闽南糊”：家乡的代表符号
+     </div>
+    <div class="zw_xbt">2022-10-21 09:50:00 
+    作者：郑培銮&nbsp;&nbsp;
+    来源：东南网&nbsp;&nbsp;
+    责任编辑：王予捷
+</div>
+    <div class="zw_rub">
+      <div class="newcl"></div>
+    </div>
+    <div class="newcl"></div>
+    <div class="nr_xxxx"></div>
+    <div class="nr_zwzw">
+    
+    
+     
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>
+    <div class="videodiv">
+    <div class="fjsen-player" player-data="{src:''}"></div>
+    </div>
+    </td>
+          </tr>
+    <tr><td><!--enpcontent--><p style="text-indent: 2em; margin-bottom: 15px;">东南网10月21日讯（福建日报通讯员 郑培銮 文/图）霞浦县三沙镇出产的风味小吃“闽南糊”是地地道道的平民食品，以独特风味闻名遐迩。在外工作的霞浦三沙人只要一回到家乡，在那充满欢情的家宴上，总少不了这道特色美食。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/a3007864-5721-4891-9025-43a4614d2750.jpg.2" style="" width="600" height="429" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">烹制“闽南糊”</span></p><p style="text-indent: 2em; margin-bottom: 15px;">三沙老街一家以“闽南糊”为主打的传统小吃店，是当地居民陈杰、黄妹夫妻俩经营的，有40多年历史。传统地道的风味，让小店生意一直不错。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/d7905f2d-6a45-4a26-bf50-d73fe54a99e1.jpg.2" style="" width="600" height="429" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">顾客在吃“闽南糊”</span></p><p style="text-indent: 2em; margin-bottom: 15px;">“每家每户过年过节桌上都要有一碗‘闽南糊’。我从小爱吃，今年70多岁了，还是爱吃。它就是我们家乡的代表符号。”三沙镇居民林三寿说。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/e67b86c2-3bab-491e-bf69-350c73d258b1.jpg.2" style="" width="600" height="429" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">烹制“闽南糊”</span></p><p style="text-indent: 2em; margin-bottom: 15px;">关于“闽南糊”的来历，还有一段传说。史书记载，唐代开闽王王审知“起自垅田，每以节俭自处，选任良吏，省刑惜费，轻徭薄敛，与民休息”，深受民众爱戴。王审知率兵入闽时，百姓纷纷拿出特产佳肴犒劳将士，将士们把吃剩的美味佳肴到处乱扔。王审知发现后，立即命令把将士们吃剩的饭菜和着闽南出产的地瓜粉煮了再吃，还带头品尝。没想到，这种大杂烩的食品极其美味，令众将士大快朵颐。而且，这种混合的食品冷却后，也便于将士们行军携带，于是在军中推行，不久就在闽南民间流传开了。宋明时期迁居到三沙的闽南移民又把这种烹调方法带到了霞浦三沙。为了不忘故土，三沙人就将之命名为“闽南糊”。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/98c4d527-2326-49e6-a517-3e0c758e1445.jpg.2" style="" width="600" height="429" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">上菜</span></p><p style="text-indent: 2em; margin-bottom: 15px;">烹制“闽南糊”，选料极其讲究。要把三沙出产的海鲜虾仁、墨鱼鲞和瘦猪肉、香菇、笋干、芹菜、葱花等切成细块，煮熟做汤料。然后，选用三沙出产的精白地瓜粉，用冷水泡成浆，搅拌均匀后，慢慢倒进煮熟的汤料中。同时，用特制的圆滑细长的木棍，不断搅动锅里的浆料。一边不停地搅动，一边不断地往锅里添加带有葱花的熟猪油，直至锅里的地瓜粉浆煮熟变成油光闪亮的暗绿色。等到火候恰当，往锅里均匀撒入炒熟的花生仁，再用木棍徐徐搅拌片刻。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/f47cceca-c212-464e-859e-3b65595ed24d.jpg.2" style="" width="600" height="480" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">烹制“闽南糊”</span></p><p style="text-indent: 2em; margin-bottom: 15px;">“我们家制售‘闽南糊’，是从我父亲手上传承的，生意相当不错。平时每天烹制6铁锅，逢年过节要制作15锅，年纯收入达30多万元。”陈杰说，夫妻俩靠一碗小吃走上了发家致富路，不仅在三沙盖起了小洋楼，还在儿子工作的西安添置了房产，生活过得有滋有味。</p><p style="text-indent: 2em; margin-bottom: 15px;">如今，随着三沙成为旅游胜地，南来北往的游客将“闽南糊”的美味日益传扬。它逐渐走出故里，不再只是三沙人的乡愁，更是天下人的口福。</p><!--/enpcontent--><!--enpproperty <articleid>31162376</articleid><date>2022-10-21 09:50:00:0</date><author>郑培銮</author><title>霞浦“闽南糊”：家乡的代表符号</title><keyword>闽南,烹制,出产,王审知,将士</keyword><subtitle></subtitle><introtitle></introtitle><siteid>162</siteid><nodeid>100323</nodeid><nodename>福建日报看宁德</nodename><nodesearchname>福建日报看宁德</nodesearchname><picurl></picurl><url>http://nd.fjsen.com/2022-10/21/content_31162376.htm</url><urlpad>http://nd.fjsen.com/wap/2022-10/21/content_31162376.htm</urlpad><sourcename>东南网</sourcename><abstract>烹制“闽南糊”三沙老街一家以“闽南糊”为主打的传统小吃店，是当地居民陈杰、黄妹夫妻俩经营的，有40多年历史。王审知发现后，立即命令把将士们吃剩的饭菜和着闽南出产的地瓜粉煮了再吃，还带头品尝。烹制“闽南糊”“我们家制售‘闽南糊’，是从我父亲手上传承的，生意相当不错。</abstract><channel>2</channel>/enpproperty-->
+    <p></p></td>
+      </tr>
+    </table>
+
+    
+    
+    </div>
+</div>
+
+
+<div class="bottom">网络出版服务许可证 （署）网出证（闽）字第018号<br>网络文化经营许可证 闽网文〔2019〕3630-217号<br>信息网络传播视听节目许可 许可证号：1310572 <br>广播电视节目制作经营许可证(闽)字第085号<br>增值电信业务经营许可证 闽B2-20100029<br>福建日报报业集团拥有东南网采编人员所创作作品之版权，<br>未经报业集团书面授权，不得转载、摘编或以其他方式使用和传播</div>
+
+
+<script>
+ var smbt=document.getElementById("smbt");
+ var smpl=document.getElementById("smpl");
+ var smbg=document.getElementById("smbg");
+ smbt.onclick=function(){
+     var smi=smpl.style.display;
+ if (smi=="none"||smi=="")
+     {smpl.style.display="block";
+     smbt.src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_sm_bt_r.jpg";
+     }
+     else
+     {smpl.style.display="none";
+      smbt.src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_sm_bt.jpg";
+     }
+ }
+</script>
+
+
+<script src="//cdn.media.fjsen.com/fjsenPlayer/FjsenPlayer.min.js"  atremote="atremote"></script>
+<script src="//www.fjsen.com/js/paging.js"></script>
+
+
+<!-- stat.fjsen.com:81/mysql -->
+<script language="javascript">var __$nodeid=100323;var __$contentid=31162376;var __$title='霞浦“闽南糊”：家乡的代表符号';var __$AuthorPh='郑培銮';var __$Editor='王予捷';var __$Liability='王予捷';var __$pubtime='2022-10-21 09:50:00';</script>
+<script language="JavaScript" charset="gb2312" src="//stat.fjsen.com/mysql/count/abchffgh/abchffgh.js" ></script><noscript><img src="//stat.fjsen.com/mysql/count/abchffgh/abchffgh.php" alt="" style="border:0" /></noscript>
+<!-- /stat.fjsen.com:81/mysql -->
+
+</body>
+</html>
