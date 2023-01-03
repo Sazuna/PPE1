@@ -11,9 +11,9 @@ echo '<!DOCTYPE html>
   </head>
   <body>' > $PATH
 
-cat "../html/batiburrillo-table.html" >> $PATH
-cat ../html/dazahui-table.html >> $PATH
-cat ../html/méli-mélo-table.html >> $PATH
+cat '../html/batiburrillo-table.html' >> $PATH
+cat '../html/dazahui-table.html' >> $PATH
+cat '../html/méli-mélo-table.html' >> $PATH
 
 echo '</body>
 </html>' >> $PATH
