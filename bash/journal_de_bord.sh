@@ -46,4 +46,4 @@ echo "</p></div>"
 echo "</div>"
 
 #On récupère la fin de la page
-tac $STRUCT | sed -n '/{CONTENT}/q;p' | tac
+tail -r $STRUCT | sed -n '/{CONTENT}/q;p' | tail -r

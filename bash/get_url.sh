@@ -41,9 +41,26 @@ fi
 
 # File where we will save the Table
 CSV="../generated/csv/$WORD.csv"
-HTML_F="../html/$WORD-table.html"
+HTML_F="../html/content/$WORD-table.html"
 
 echo "getting URLs of $2..."
+
+# concordance table
+CONCORDANCE_F="../generated/concordances/$WORD-concordances.html"
+CLASS='<div class="container">
+    <table class="table is-striped is-hoverable", style="text-align:center">'
+echo '<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Concordances</title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+	</head>
+	<body>' > $CONCORDANCE_F
+echo "$CLASS<thead><tr><th>Gauche</th><th>Cible</th><th>Droite</th></tr></thead><tbody>" >> $CONCORDANCE_F
+
+echo "$CLASS" > $HTML_F
 
 # For every url in the file
 for URL in $(cat $2)
@@ -102,28 +119,19 @@ do
 	# File names
 	ASPIRATION_F="../generated/dump-html/$WORD-$OUTPUT_NUMBER.txt"
 	CONTEXT_F="../generated/contexts/$WORD-$OUTPUT_NUMBER.txt"
-	CONCORDANCE_F="../generated/concordances/$WORD-$OUTPUT_NUMBER.html"
+	
 	echo "$ASPIRATION" > $ASPIRATION_F
 	echo "$CONTEXT" > $CONTEXT_F
-	CLASS='<div class="container">
-    <table class="table is-striped is-hoverable", style="text-align:center">'
-	echo '<!DOCTYPE html>
-		<html>
-		<head>
-			<meta charset="utf-8">
-			<meta name="viewport" content="width=device-width, initial-scale=1">
-			<title>Hello Bulma!</title>
-			<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-		</head>
-		<body>' > $CONCORDANCE_F
-	echo "$CLASS<thead><tr><th>Gauche</th><th>Cible</th><th>Droite</th></tr></thead><tbody>" >> $CONCORDANCE_F
+	
 	echo "$CONCORDANCES" >> $CONCORDANCE_F
-	echo "</tbody></table></div></body></html>" >> $CONCORDANCE_F
 
 	# Count of occurrences
 	COUNT=$(echo $CONTEXT | tr ' ' '\n' | egrep -ci "$EXPR_REG")
 	echo "count : $COUNT"
 	# On écrit
-	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td><td><a href=\"$CONCORDANCE_F\">Concordances</a></td></tr>" >> $HTML_F
+	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td></tr>" >> $HTML_F
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
+
+echo "</tbody></table></div></body></html>" >> $CONCORDANCE_F
+echo "</table>" >> $HTML_F

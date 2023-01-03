@@ -33,7 +33,7 @@ shift
 HTML_F="../html/$WORD-table.html"
 CLASS='<div class="container">
     <table class="table is-striped is-hoverable", style="text-align:center">'
-CATEGORIES="<tr><th>Ligne</th><th>CodeHTTP</th><th>URL</th><th>DumpHTML</th><th>DumpText</th><th>Occurrences</th><th>Contexte</th><th>Concordances</th></tr>"
+CATEGORIES="<tr><th>Ligne</th><th>CodeHTTP</th><th>URL</th><th>DumpHTML</th><th>DumpText</th><th>Occurrences</th><th>Contexte</th></tr>"
 echo "$CLASS $CATEGORIES" > $HTML_F
 for FILE in $@
 do
