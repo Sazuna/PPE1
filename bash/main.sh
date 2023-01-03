@@ -10,8 +10,8 @@ urlsListFR=$(ls ../url/presse/francais/sens_f*)
 #./all_tables.sh
 
 # # SPANISH
-urlsListSP=$(ls ../url/presse/espagnol/batiburrillo/sens_propre.txt)
-./get_all_urls.sh "batiburrillo" $urlsListSP
+# urlsListSP=$(ls ../url/presse/espagnol/batiburrillo/sens_propre.txt)
+# ./get_all_urls.sh "batiburrillo" $urlsListSP
 
 # # CHINESE
 # urlsListCN=$(ls ../url/presse/chinois/dazahui/sens_*)
