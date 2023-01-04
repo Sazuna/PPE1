@@ -33,9 +33,9 @@ do
 	# Il faut substituer par les caractères donnés
 	# faire attention a l'ordre des substitutions: d'abord les esperluettes..
 	# sinon: < => &lt; => &amp;lt;
-	CONTENT=$(echo "$CONTENT" | sed "s/&/&amp;/g")
-	CONTENT=$(echo "$CONTENT" | sed "s/</&lt;/g")
-	CONTENT=$(echo "$CONTENT" | sed "s/>/&gt;/g")
+	CONTENT=$(echo "$CONTENT" | sed 's/\&/\&amp;/g')
+	CONTENT=$(echo "$CONTENT" | sed 's/</\&lt;/g')
+	CONTENT=$(echo "$CONTENT" | sed 's/>/\&gt;/g')
 	# dans sed, /g = de façon globalisée dans le contenu
 
 	echo "$CONTENT" >> $ITRAMER_F
