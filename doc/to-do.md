@@ -22,12 +22,17 @@
 - [x] Aspirer les pages dans un dossier aspirations/mot-lineno.txt
 - [x] Réorganiser les dossiers pour faciliter la génération des fichiers
 ## 30/11
-- [ ] générer table HTML concordances à partir des fichiers dans le dossier contexte
+- [x] générer table HTML concordances à partir des fichiers dans le dossier contexte
 ## 07/12
 - [x] Faire une tokenisation du chinois pour avoir des contextes intéressants
 - [x] Script pour les itramers
-- [ ] Faire un joli style css pour le site <3
+- [x] Faire un joli style css pour le site <3
 - [x] Tokenizer les contextes et garder n mots au lieu de n caractères
 ## 02/01
-- [ ] Générer les données pour batiburrillo (Léna)
+- [x] Générer les données pour batiburrillo (Léna)
 - [x] Générer les données pour méli-mélo (Yingzi)
+## 04/01
+- [ ] Générer les fichiers itrameur
+- [ ] Faire la textométrie sur itrameur
+- [ ] Générer les pages avec make_page.sh (concordancier...)
+- [ ] Nettoyer le projet
