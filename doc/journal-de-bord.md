@@ -186,3 +186,8 @@ Lancement du script main.sh en mettant le français et l'espagnol en commentaire
 ### Organisation des urls et mettre les concordances dans une table html (Yingzi)
 Après avoir parlé aux membres du groupe, j'ai pris tous les fichiers dans context et les transformer en table , et j'ai fait un seul concordancier par chaque langue. Et quand j'ai mis tous les urls dans le programme et les avoir exécutées, j'ai trouvé que certaines d'entre ils ne s'affichaient pas correctement, j'ai donc remplacé certaines des urls dans mon corpus de méli(s)-mélo.
 
+## 2022-01-04
+### Script concordancier (Léna)
+Création d'un nouveau script pour réaliser nos concordances (avant tout était dans le fichier `get_urls.sh` : nous voulions réaliser les concordances seulement une fois les contextes récupérés). Le script s'exécute mais l'affichage final est bizarre (à débugger avec Liza). 
+Mise à jour de la to-do list (c'est presque fini !!!)
+Travail sur Itrameur (Liza & Yingzi)
