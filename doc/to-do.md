@@ -36,3 +36,4 @@
 - [ ] Faire la textométrie sur itrameur
 - [ ] Générer les pages avec make_page.sh (concordancier...)
 - [ ] Nettoyer le projet
+- [ ] Checker liens corpus (et modifier/ajouter si besoin)
