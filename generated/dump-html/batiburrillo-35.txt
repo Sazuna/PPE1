@@ -698,16 +698,16 @@ EPET_obtenerYPintarNumComentarios(_idComentariosNoticia);
 <h3 class="encabezado"><a class="enlace" href="https://elcomidista.elpais.com">Lo más visto en El Comidista</a></h3>
 <div class="interior estirar">
 <ol class="lista estirar">
+<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/13/articulo/1670920208_338379.html" title="Ver Noticia">El fin de las croquetas “caseras” en los bares y restaurantes</a></li>
 <li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/11/07/receta/1667823712_333587.html" title="Ver Noticia">La receta renovada de los huevos benedict</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/12/receta/1670841174_296684.html" title="Ver Noticia">Ocho bebidas no alcohólicas para gozar lo que queda de fiestas</a></li>
 <li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2020/09/16/articulo/1600248026_666077.html" title="Ver Noticia">La salsa picante española que más se vende en internet</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/15/articulo/1671125450_329186.html" title="Ver Noticia">Lo peor de 2022 en comida (y algunos buenos virales)</a></li>
+<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/12/receta/1670841174_296684.html" title="Ver Noticia">Ocho bebidas no alcohólicas para gozar lo que queda de fiestas</a></li>
+<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2020/12/14/receta/1607944635_607254.html" title="Ver Noticia">Galette des rois: el roscón francés</a></li>
 <li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/10/18/articulo/1666089995_627612.html" title="Ver Noticia">Las mejores freidoras de aire: guía para comprar el electrodoméstico de moda</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/13/articulo/1670944841_915843.html" title="Ver Noticia">Seis cócteles de bares de prestigio que puedes preparar en casa para Navidad</a></li>
+<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/15/articulo/1671125450_329186.html" title="Ver Noticia">Lo peor de 2022 en comida (y algunos buenos virales)</a></li>
 <li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/10/03/receta/1664803602_238929.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Espaguetis con huevo frito: lo mejor de dos mundos</a></li>
+<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2018/11/14/receta/1542217305_684429.html" title="Ver Noticia">Sopa de tomate, huevo y garbanzos</a></li>
 <li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/11/23/articulo/1669218075_224704.html" title="Ver Noticia">Los mejores restaurantes de 2022 para el equipo de El Comidista</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2011/01/05/receta/1294210800_129421.html" title="Ver Noticia">Siete maneras de hacer roscón de Reyes</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2020/01/09/articulo/1578589865_796185.html" title="Ver Noticia">Todo lo que puedes hacer con una freidora de aire</a></li>
 </ol>
 </div>
 </section>

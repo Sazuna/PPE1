@@ -4,14 +4,14 @@
 # for each word in each language
 
 FRENCH
-urlsListFR=$(ls ../url/presse/francais/sens*)
-./get_all_urls.sh "méli-mélo" $urlsListFR
+#urlsListFR=$(ls ../url/presse/francais/sens*)
+#./get_all_urls.sh "méli-mélo" $urlsListFR
 
-./all_tables.sh
+#./all_tables.sh
 
 # # SPANISH
-# urlsListSP=$(ls ../url/presse/espagnol/batiburrillo/sens_propre.txt)
-# ./get_all_urls.sh "batiburrillo" $urlsListSP
+urlsListSP=$(ls ../url/presse/espagnol/batiburrillo/sens_propre.txt)
+./get_all_urls.sh "batiburrillo" $urlsListSP
 
 # # CHINESE
 # urlsListCN=$(ls ../url/presse/chinois/dazahui/sens_*)

@@ -274,7 +274,7 @@
         
                         <div class="edi-advertising no-border no-margin">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[1,1],[120,600],[120,1000]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-sky-izq&quot;,&quot;seed&quot;:&quot;658461013796444722&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000012,&quot;name&quot;:&quot;Interno: Sky izquierdo (div-gpt-ad-sky-izq)&quot;,&quot;slot&quot;:&quot;sky&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[1,1],[120,600],[120,1000]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-sky-izq&quot;,&quot;seed&quot;:&quot;2420204666137449388&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000012,&quot;name&quot;:&quot;Interno: Sky izquierdo (div-gpt-ad-sky-izq)&quot;,&quot;slot&quot;:&quot;sky&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code="67621444"
@@ -300,7 +300,7 @@
         
                         <div class="edi-advertising no-border no-margin">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[1,1],[120,600],[120,1000]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-sky-dcho&quot;,&quot;seed&quot;:&quot;7395605916324655142&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000011,&quot;name&quot;:&quot;Interno: Sky derecho (div-gpt-ad-sky-dcho)&quot;,&quot;slot&quot;:&quot;sky&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[1,1],[120,600],[120,1000]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-sky-dcho&quot;,&quot;seed&quot;:&quot;275519061338665354&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000011,&quot;name&quot;:&quot;Interno: Sky derecho (div-gpt-ad-sky-dcho)&quot;,&quot;slot&quot;:&quot;sky&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code="67621444"
@@ -335,9 +335,9 @@
         
         
                         <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-top&quot;,&quot;seed&quot;:&quot;7235658683687367213&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000017,&quot;name&quot;:&quot;SmartClip: Megabanner Top (sc-top)&quot;,&quot;slot&quot;:&quot;megabannerTop&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-top&quot;,&quot;seed&quot;:&quot;70059939789212273&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000017,&quot;name&quot;:&quot;SmartClip: Megabanner Top (sc-top)&quot;,&quot;slot&quot;:&quot;megabannerTop&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-top&quot;,&quot;seed&quot;:&quot;5933245434632665832&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000017,&quot;name&quot;:&quot;SmartClip: Megabanner Top (sc-top)&quot;,&quot;slot&quot;:&quot;megabannerTop&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-top&quot;,&quot;seed&quot;:&quot;6967173079338660047&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000017,&quot;name&quot;:&quot;SmartClip: Megabanner Top (sc-top)&quot;,&quot;slot&quot;:&quot;megabannerTop&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="no-border no-margin"
@@ -358,9 +358,9 @@
         
         
                         <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-oop&quot;,&quot;seed&quot;:&quot;7854866858369755335&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000008,&quot;name&quot;:&quot;Smartclip: Out of page (sc-oop)&quot;,&quot;slot&quot;:&quot;megabannerTop&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:true}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-oop&quot;,&quot;seed&quot;:&quot;7825369529559548373&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000008,&quot;name&quot;:&quot;Smartclip: Out of page (sc-oop)&quot;,&quot;slot&quot;:&quot;megabannerTop&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:true}"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-oop&quot;,&quot;seed&quot;:&quot;3825282209782427123&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000008,&quot;name&quot;:&quot;Smartclip: Out of page (sc-oop)&quot;,&quot;slot&quot;:&quot;megabannerTop&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:true}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-oop&quot;,&quot;seed&quot;:&quot;5185477336171616268&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000008,&quot;name&quot;:&quot;Smartclip: Out of page (sc-oop)&quot;,&quot;slot&quot;:&quot;megabannerTop&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:true}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="no-border no-margin"
@@ -949,7 +949,7 @@
                     <edi-advertising
                 :desktop-ad-position="null"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc_videointext&quot;,&quot;seed&quot;:&quot;571512593381548804&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000009,&quot;name&quot;:&quot;Smartclip: Intext (sc_videointext)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc_videointext&quot;,&quot;seed&quot;:&quot;4606359668032677911&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000009,&quot;name&quot;:&quot;Smartclip: Intext (sc_videointext)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="ad__no-dotted ad__no-legend"
@@ -990,7 +990,7 @@
                     <edi-advertising
                 :desktop-ad-position="null"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-top&quot;,&quot;seed&quot;:&quot;6520418648425040229&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000016,&quot;name&quot;:&quot;Smartclip: Roba A (sc-mpu-top)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-top&quot;,&quot;seed&quot;:&quot;6869114343831171449&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000016,&quot;name&quot;:&quot;Smartclip: Roba A (sc-mpu-top)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="ad-body hide-in-desktop ad__no-dotted ad__no-legend"
@@ -1013,7 +1013,7 @@
         
                         <div class="edi-advertising ad__no-dotted ad__no-legend">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc_videointext&quot;,&quot;seed&quot;:&quot;2896900986716777563&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000009,&quot;name&quot;:&quot;Smartclip: Intext (sc_videointext)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc_videointext&quot;,&quot;seed&quot;:&quot;1886904527057916029&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000009,&quot;name&quot;:&quot;Smartclip: Intext (sc_videointext)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code="67621444"
@@ -1072,7 +1072,7 @@
                     <edi-advertising
                 :desktop-ad-position="null"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-btf&quot;,&quot;seed&quot;:&quot;2504834704706864934&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000007,&quot;name&quot;:&quot;Smartclip: Roba BTF (sc-mpu-btf)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-btf&quot;,&quot;seed&quot;:&quot;4895551281968850839&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000007,&quot;name&quot;:&quot;Smartclip: Roba BTF (sc-mpu-btf)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="hide-in-desktop"
@@ -1165,7 +1165,7 @@
                     <edi-advertising
                 :desktop-ad-position="null"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-c&quot;,&quot;seed&quot;:&quot;5178108544382836373&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000014,&quot;name&quot;:&quot;Interno: Roba C (div-gpt-ad-roba-c)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-c&quot;,&quot;seed&quot;:&quot;233648287656409435&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000014,&quot;name&quot;:&quot;Interno: Roba C (div-gpt-ad-roba-c)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="hide-in-desktop"
@@ -1258,7 +1258,7 @@
                     <edi-advertising
                 :desktop-ad-position="null"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-btf4&quot;,&quot;seed&quot;:&quot;3049643011815871988&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000004,&quot;name&quot;:&quot;Smartclip: Roba BTF 4 (sc-mpu-btf4)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-btf4&quot;,&quot;seed&quot;:&quot;4253506694413426600&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000004,&quot;name&quot;:&quot;Smartclip: Roba BTF 4 (sc-mpu-btf4)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="hide-in-desktop"
@@ -1331,7 +1331,7 @@
                     <edi-advertising
                 :desktop-ad-position="null"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-d&quot;,&quot;seed&quot;:&quot;3835521973864178063&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000013,&quot;name&quot;:&quot;Interno: Roba D (div-gpt-ad-roba-d)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-d&quot;,&quot;seed&quot;:&quot;3639604456354096620&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000013,&quot;name&quot;:&quot;Interno: Roba D (div-gpt-ad-roba-d)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="hide-in-desktop"
@@ -1511,7 +1511,7 @@
         
                         <div class="edi-advertising ">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-top&quot;,&quot;seed&quot;:&quot;124850681546865833&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000016,&quot;name&quot;:&quot;Smartclip: Roba A (sc-mpu-top)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-top&quot;,&quot;seed&quot;:&quot;8053442642585622791&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000016,&quot;name&quot;:&quot;Smartclip: Roba A (sc-mpu-top)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code=""
@@ -1547,15 +1547,15 @@
 
                     
                     <p class="post-title">
-                                                <a href="/opinion/columnas/mala-hierba/hablar-vida_129_1399004.html" class="post-anchor">Hablar de la vida</a>
-                                                                                                                                                                                                                                                    <a class="signature-link" href="https://www.infolibre.es/autores/daniel-bernabe/">
-                                Daniel Bernabé
+                                                <a href="/opinion/columnas/aqui-me-cierro-otra-puerta/ley-vivienda-socioliberalismo-espanol_129_1398970.html" class="post-anchor">Una Ley de Vivienda contra el socioliberalismo español</a>
+                                                                                                                                                                                                                                                    <a class="signature-link" href="https://www.infolibre.es/autores/quique-peinado/">
+                                Quique Peinado
                             </a>
                                                                                                 </p>
 
                                         
-                                            <a href="/opinion/columnas/mala-hierba/hablar-vida_129_1399004.html" class="post-img">
-                            <img class="lazy" data-src="https://static.infolibre.es/infolibre/public/file/2021/0701/11/danielbarnabe-autores-6f98389.png"  alt="Hablar de la vida">
+                                            <a href="/opinion/columnas/aqui-me-cierro-otra-puerta/ley-vivienda-socioliberalismo-espanol_129_1398970.html" class="post-img">
+                            <img class="lazy" data-src="https://static.infolibre.es/clip/654cbc04-bc5e-447c-8217-5c93ca355122_source-aspect-ratio_default_0.jpg"  alt="Una Ley de Vivienda contra el socioliberalismo español">
                         </a>
                                     </div>
 
@@ -1569,15 +1569,15 @@
 
                     
                     <p class="post-title">
-                                                <a href="/opinion/ideas-propias/desenredarse_129_1398289.html" class="post-anchor">Desenredarse</a>
-                                                                                                                                                                                                                                                    <a class="signature-link" href="https://www.infolibre.es/autores/cristina-garcia-casado/">
-                                Cristina García Casado
+                                                <a href="/opinion/columnas/mala-hierba/hablar-vida_129_1399004.html" class="post-anchor">Hablar de la vida</a>
+                                                                                                                                                                                                                                                    <a class="signature-link" href="https://www.infolibre.es/autores/daniel-bernabe/">
+                                Daniel Bernabé
                             </a>
                                                                                                 </p>
 
                                         
-                                            <a href="/opinion/ideas-propias/desenredarse_129_1398289.html" class="post-img">
-                            <img class="lazy" data-src="https://static.infolibre.es/clip/c5056b2e-1a81-4a7d-aece-e19d2aff93b7_source-aspect-ratio_default_0.jpg"  alt="Desenredarse">
+                                            <a href="/opinion/columnas/mala-hierba/hablar-vida_129_1399004.html" class="post-img">
+                            <img class="lazy" data-src="https://static.infolibre.es/infolibre/public/file/2021/0701/11/danielbarnabe-autores-6f98389.png"  alt="Hablar de la vida">
                         </a>
                                     </div>
 
@@ -1614,7 +1614,7 @@
         
                         <div class="edi-advertising ">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-btf&quot;,&quot;seed&quot;:&quot;5248805107950971005&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000007,&quot;name&quot;:&quot;Smartclip: Roba BTF (sc-mpu-btf)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-btf&quot;,&quot;seed&quot;:&quot;9070229325148550704&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000007,&quot;name&quot;:&quot;Smartclip: Roba BTF (sc-mpu-btf)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code=""
@@ -1649,7 +1649,7 @@
         
                         <div class="edi-advertising ">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-c&quot;,&quot;seed&quot;:&quot;2716236850606582208&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000014,&quot;name&quot;:&quot;Interno: Roba C (div-gpt-ad-roba-c)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-c&quot;,&quot;seed&quot;:&quot;2674150967479830639&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000014,&quot;name&quot;:&quot;Interno: Roba C (div-gpt-ad-roba-c)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code=""
@@ -1708,7 +1708,7 @@
         
                         <div class="edi-advertising ">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-btf4&quot;,&quot;seed&quot;:&quot;1864212575078298394&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000004,&quot;name&quot;:&quot;Smartclip: Roba BTF 4 (sc-mpu-btf4)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;sc-mpu-btf4&quot;,&quot;seed&quot;:&quot;6216373984469271167&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;smartclip&quot;,&quot;id&quot;:1000004,&quot;name&quot;:&quot;Smartclip: Roba BTF 4 (sc-mpu-btf4)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code=""
@@ -1748,49 +1748,36 @@
                                                                                                                                 
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/politica/bolivia-quejara-ejecutivo-espanol-intromision-diputado-vox-viaje-pais-apoyar-camacho_1_1398611.html">Bolivia se quejará ante España por la &quot;intromisión&quot; de un diputado de Vox en la política del país</a></h3>
-                    <a href="https://www.infolibre.es/autores/infolibre/" class="author">infoLibre</a>
+                <h3 class="title"><a href="/politica/policia-encontro-juez-no-vio-pelotazo-fallido-5-millones-test-covid-gobierno-andauz_1_1396521.html">Lo que la Policía encontró y el juez no vio en el pelotazo fallido de 5 millones con test covid para Andalucía</a></h3>
+                    <a href="https://www.infolibre.es/autores/alicia-gutierrez/" class="author">Alicia Gutiérrez</a>
             </div>
         <div class="rec-img-wrapper">
-        <a href="/politica/bolivia-quejara-ejecutivo-espanol-intromision-diputado-vox-viaje-pais-apoyar-camacho_1_1398611.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/8b2f0cd9-f26d-4298-a888-1e70a3caa93c_16-9-aspect-ratio_default_0.jpg" alt=" " />
+        <a href="/politica/policia-encontro-juez-no-vio-pelotazo-fallido-5-millones-test-covid-gobierno-andauz_1_1396521.html">
+            <img class="img lazy" data-src="https://static.infolibre.es/clip/93226a62-caf0-486a-93a1-2365fe08083b_16-9-aspect-ratio_default_0.jpg" alt=" " />
         </a>
     </div>
     </li>
                                                                                 
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/igualdad/nueva-magistrada-tc-autodeterminacion-complejo-hay-estudiar_1_1398392.html">La nueva magistrada del TC: La autodeterminación es algo &quot;complejo&quot; que &quot;hay que estudiar&quot;</a></h3>
+                <h3 class="title"><a href="/politica/joven-influencer-elena-huelva-muere-20-anos_1_1399006.html">La &#039;influencer&#039; Elena Huelva muere a los 20 años</a></h3>
                     <a href="https://www.infolibre.es/autores/infolibre/" class="author">infoLibre</a>
             </div>
         <div class="rec-img-wrapper">
-        <a href="/igualdad/nueva-magistrada-tc-autodeterminacion-complejo-hay-estudiar_1_1398392.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/f38fb4c1-c974-47af-af51-19d718caccb2_16-9-aspect-ratio_default_0.jpg" alt=" " />
+        <a href="/politica/joven-influencer-elena-huelva-muere-20-anos_1_1399006.html">
+            <img class="img lazy" data-src="https://static.infolibre.es/clip/18cb38c6-1ff8-44e9-8ff7-cdffaf668583_16-9-aspect-ratio_default_0.jpg" alt=" " />
         </a>
     </div>
     </li>
                                                                                 
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/politica/directo-infolibre-minuto-minuto-martes-3-enero_6_1398389.html">Montero insta al PP a apoyar el decreto anticrisis: &quot;¿Si son los padres del decreto, por qué no lo votan?&quot;</a></h3>
-                    <a href="https://www.infolibre.es/autores/ana-de-la-torre/" class="author">Ana de la Torre</a>
-                    <a href="https://www.infolibre.es/autores/isidora-sepulveda-maturana/" class="author">Isidora Sepúlveda Maturana</a>
+                <h3 class="title"><a href="/politica/feijoo-caso-omiso-bruselas-plantea-congreso-reforma-judicial-camara-rechazo-ano_1_1398865.html">Feijóo hace caso omiso a Bruselas y lleva al Congreso su reforma del Poder Judicial sin desbloquearlo</a></h3>
+                    <a href="https://www.infolibre.es/autores/fernando-varela/" class="author">Fernando Varela</a>
             </div>
         <div class="rec-img-wrapper">
-        <a href="/politica/directo-infolibre-minuto-minuto-martes-3-enero_6_1398389.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/7d060795-305e-4844-9938-5f71637e77c8_16-9-aspect-ratio_default_0.jpg" alt=" " />
-        </a>
-    </div>
-    </li>
-                                                                                
-<li class="rec-item col-12">
-    <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/igualdad/trabajo-no-descarta-llevar-fiscalia-empresa-obligo-candidatas-quedarse-ropa-interior_1_1398725.html">Trabajo no descarta llevar ante la Fiscalía a la empresa que obligó a candidatas a quedarse en ropa interior</a></h3>
-                    <a href="https://www.infolibre.es/autores/infolibre/" class="author">infoLibre</a>
-            </div>
-        <div class="rec-img-wrapper">
-        <a href="/igualdad/trabajo-no-descarta-llevar-fiscalia-empresa-obligo-candidatas-quedarse-ropa-interior_1_1398725.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/add3791e-df24-4cae-ba17-b2c8bb36ffae_16-9-aspect-ratio_default_0.jpg" alt=" " />
+        <a href="/politica/feijoo-caso-omiso-bruselas-plantea-congreso-reforma-judicial-camara-rechazo-ano_1_1398865.html">
+            <img class="img lazy" data-src="https://static.infolibre.es/clip/527850df-7054-470a-96c3-d6ac9a2716bf_16-9-aspect-ratio_default_0.jpg" alt=" " />
         </a>
     </div>
     </li>
@@ -1809,20 +1796,16 @@
                                                                                 
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/internacional/cientificos-resucitan-proteinas-2-600-millones-anos-tratar-enfermedades_1_1398424.html">Científicos resucitan proteínas de hace 2.600 millones de años que podrían tratar enfermedades</a></h3>
-                    <a href="" class="author">Agencia SINC</a>
+                <h3 class="title"><a href="/igualdad/trabajo-no-descarta-llevar-fiscalia-empresa-obligo-candidatas-quedarse-ropa-interior_1_1398725.html">Trabajo no descarta llevar ante la Fiscalía a la empresa que obligó a candidatas a quedarse en ropa interior</a></h3>
+                    <a href="https://www.infolibre.es/autores/infolibre/" class="author">infoLibre</a>
             </div>
         <div class="rec-img-wrapper">
-        <a href="/internacional/cientificos-resucitan-proteinas-2-600-millones-anos-tratar-enfermedades_1_1398424.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/838a6bfd-bc7a-4660-904c-5f58f5feea6c_16-9-aspect-ratio_default_0.jpg" alt=" " />
+        <a href="/igualdad/trabajo-no-descarta-llevar-fiscalia-empresa-obligo-candidatas-quedarse-ropa-interior_1_1398725.html">
+            <img class="img lazy" data-src="https://static.infolibre.es/clip/add3791e-df24-4cae-ba17-b2c8bb36ffae_16-9-aspect-ratio_default_0.jpg" alt=" " />
         </a>
     </div>
     </li>
-                                                </ul>
-
-        
-            <ul class="tab-content" data-option="Comentado">
-                                                                                            
+                                                                                
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
                 <h3 class="title"><a href="/politica/bolivia-quejara-ejecutivo-espanol-intromision-diputado-vox-viaje-pais-apoyar-camacho_1_1398611.html">Bolivia se quejará ante España por la &quot;intromisión&quot; de un diputado de Vox en la política del país</a></h3>
@@ -1834,42 +1817,40 @@
         </a>
     </div>
     </li>
-                                                                                
+                                                </ul>
+
+        
+            <ul class="tab-content" data-option="Comentado">
+                                                                                            
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/igualdad/nueva-magistrada-tc-autodeterminacion-complejo-hay-estudiar_1_1398392.html">La nueva magistrada del TC: La autodeterminación es algo &quot;complejo&quot; que &quot;hay que estudiar&quot;</a></h3>
-                    <a href="https://www.infolibre.es/autores/infolibre/" class="author">infoLibre</a>
+                <h3 class="title"><a href="/politica/feijoo-caso-omiso-bruselas-plantea-congreso-reforma-judicial-camara-rechazo-ano_1_1398865.html">Feijóo hace caso omiso a Bruselas y lleva al Congreso su reforma del Poder Judicial sin desbloquearlo</a></h3>
+                    <a href="https://www.infolibre.es/autores/fernando-varela/" class="author">Fernando Varela</a>
             </div>
         <div class="rec-img-wrapper">
-        <a href="/igualdad/nueva-magistrada-tc-autodeterminacion-complejo-hay-estudiar_1_1398392.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/f38fb4c1-c974-47af-af51-19d718caccb2_16-9-aspect-ratio_default_0.jpg" alt=" " />
+        <a href="/politica/feijoo-caso-omiso-bruselas-plantea-congreso-reforma-judicial-camara-rechazo-ano_1_1398865.html">
+            <img class="img lazy" data-src="https://static.infolibre.es/clip/527850df-7054-470a-96c3-d6ac9a2716bf_16-9-aspect-ratio_default_0.jpg" alt=" " />
         </a>
     </div>
     </li>
                                                                                 
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/politica/directo-infolibre-minuto-minuto-martes-3-enero_6_1398389.html">Montero insta al PP a apoyar el decreto anticrisis: &quot;¿Si son los padres del decreto, por qué no lo votan?&quot;</a></h3>
-                    <a href="https://www.infolibre.es/autores/ana-de-la-torre/" class="author">Ana de la Torre</a>
-                    <a href="https://www.infolibre.es/autores/isidora-sepulveda-maturana/" class="author">Isidora Sepúlveda Maturana</a>
+                <h3 class="title"><a href="/politica/policia-encontro-juez-no-vio-pelotazo-fallido-5-millones-test-covid-gobierno-andauz_1_1396521.html">Lo que la Policía encontró y el juez no vio en el pelotazo fallido de 5 millones con test covid para Andalucía</a></h3>
+                    <a href="https://www.infolibre.es/autores/alicia-gutierrez/" class="author">Alicia Gutiérrez</a>
             </div>
         <div class="rec-img-wrapper">
-        <a href="/politica/directo-infolibre-minuto-minuto-martes-3-enero_6_1398389.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/7d060795-305e-4844-9938-5f71637e77c8_16-9-aspect-ratio_default_0.jpg" alt=" " />
+        <a href="/politica/policia-encontro-juez-no-vio-pelotazo-fallido-5-millones-test-covid-gobierno-andauz_1_1396521.html">
+            <img class="img lazy" data-src="https://static.infolibre.es/clip/93226a62-caf0-486a-93a1-2365fe08083b_16-9-aspect-ratio_default_0.jpg" alt=" " />
         </a>
     </div>
     </li>
                                                                                 
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/igualdad/trabajo-no-descarta-llevar-fiscalia-empresa-obligo-candidatas-quedarse-ropa-interior_1_1398725.html">Trabajo no descarta llevar ante la Fiscalía a la empresa que obligó a candidatas a quedarse en ropa interior</a></h3>
-                    <a href="https://www.infolibre.es/autores/infolibre/" class="author">infoLibre</a>
+                <h3 class="title"><a href="/opinion/columnas/mala-hierba/hablar-vida_129_1399004.html">Hablar de la vida</a></h3>
+                    <a href="https://www.infolibre.es/autores/daniel-bernabe/" class="author">Daniel Bernabé</a>
             </div>
-        <div class="rec-img-wrapper">
-        <a href="/igualdad/trabajo-no-descarta-llevar-fiscalia-empresa-obligo-candidatas-quedarse-ropa-interior_1_1398725.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/add3791e-df24-4cae-ba17-b2c8bb36ffae_16-9-aspect-ratio_default_0.jpg" alt=" " />
-        </a>
-    </div>
     </li>
                                                                                 
 <li class="rec-item col-12">
@@ -1886,14 +1867,21 @@
                                                                                 
 <li class="rec-item col-12">
     <div class="rec-text-wrapper">
-                <h3 class="title"><a href="/medios/fallece-sergi-schaaff-creador-ganar_1_1398554.html">Fallece Sergi Schaaff, creador de &#039;Saber y Ganar&#039;</a></h3>
-                    <a href="https://www.infolibre.es/autores/jaime-olmo/" class="author">Jaime Olmo</a>
+                <h3 class="title"><a href="/politica/bolivia-quejara-ejecutivo-espanol-intromision-diputado-vox-viaje-pais-apoyar-camacho_1_1398611.html">Bolivia se quejará ante España por la &quot;intromisión&quot; de un diputado de Vox en la política del país</a></h3>
+                    <a href="https://www.infolibre.es/autores/infolibre/" class="author">infoLibre</a>
             </div>
         <div class="rec-img-wrapper">
-        <a href="/medios/fallece-sergi-schaaff-creador-ganar_1_1398554.html">
-            <img class="img lazy" data-src="https://static.infolibre.es/clip/649660e5-e4bc-42a4-a346-d5009fa57ffe_16-9-aspect-ratio_default_0.jpg" alt=" " />
+        <a href="/politica/bolivia-quejara-ejecutivo-espanol-intromision-diputado-vox-viaje-pais-apoyar-camacho_1_1398611.html">
+            <img class="img lazy" data-src="https://static.infolibre.es/clip/8b2f0cd9-f26d-4298-a888-1e70a3caa93c_16-9-aspect-ratio_default_0.jpg" alt=" " />
         </a>
     </div>
+    </li>
+                                                                                
+<li class="rec-item col-12">
+    <div class="rec-text-wrapper">
+                <h3 class="title"><a href="/opinion/columnas/aqui-me-cierro-otra-puerta/ley-vivienda-socioliberalismo-espanol_129_1398970.html">Una Ley de Vivienda contra el socioliberalismo español</a></h3>
+                    <a href="https://www.infolibre.es/autores/quique-peinado/" class="author">Quique Peinado</a>
+            </div>
     </li>
                                                 </ul>
 
@@ -1922,7 +1910,7 @@
         
                         <div class="edi-advertising ">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-d&quot;,&quot;seed&quot;:&quot;1116367285847328212&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000013,&quot;name&quot;:&quot;Interno: Roba D (div-gpt-ad-roba-d)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-d&quot;,&quot;seed&quot;:&quot;7599437960135393996&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000013,&quot;name&quot;:&quot;Interno: Roba D (div-gpt-ad-roba-d)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code=""
@@ -2026,7 +2014,7 @@
         
                         <div class="edi-advertising ">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-e&quot;,&quot;seed&quot;:&quot;8584928404067764973&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000022,&quot;name&quot;:&quot;Interno: Roba E (div-gpt-ad-roba-e)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[300,600],[300,250],[300,300],[1,1]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-e&quot;,&quot;seed&quot;:&quot;2718448044261366567&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000022,&quot;name&quot;:&quot;Interno: Roba E (div-gpt-ad-roba-e)&quot;,&quot;slot&quot;:&quot;mediumRectangle&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
                 :mobile-ad-position="null"
                 mobile-network-code=""
@@ -2100,9 +2088,9 @@
         
                         <div class="edi-advertising bannerbottom">
                     <edi-advertising
-                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[728,90],[970,90],[990,90],[990,250],[970,250]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-f&quot;,&quot;seed&quot;:&quot;1522705771253238023&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000010,&quot;name&quot;:&quot;Interno: Megabanner Bottom (div-gpt-ad-roba-f)&quot;,&quot;slot&quot;:&quot;megabannerBottom&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :desktop-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[728,90],[970,90],[990,90],[990,250],[970,250]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/div-gpt-ad-roba-f&quot;,&quot;seed&quot;:&quot;5909460434488593639&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000010,&quot;name&quot;:&quot;Interno: Megabanner Bottom (div-gpt-ad-roba-f)&quot;,&quot;slot&quot;:&quot;megabannerBottom&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 desktop-network-code="67621444"
-                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[320,100],[320,50],[320,53]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/roba_f_mv&quot;,&quot;seed&quot;:&quot;5581278567660111415&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000001,&quot;name&quot;:&quot;Interno: Bottom bajo texto movil (roba_f_mv)&quot;,&quot;slot&quot;:&quot;megabannerBottom&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
+                :mobile-ad-position="{&quot;type&quot;:&quot;adserver&quot;,&quot;sizes&quot;:[[320,100],[320,50],[320,53]],&quot;rtcConfig&quot;:[],&quot;adUnitCode&quot;:&quot;infolibre.es\/roba_f_mv&quot;,&quot;seed&quot;:&quot;3658269821248216876&quot;,&quot;ampSizes&quot;:null,&quot;ampWidth&quot;:null,&quot;ampHeight&quot;:null,&quot;adserver&quot;:&quot;&quot;,&quot;id&quot;:1000001,&quot;name&quot;:&quot;Interno: Bottom bajo texto movil (roba_f_mv)&quot;,&quot;slot&quot;:&quot;megabannerBottom&quot;,&quot;order&quot;:null,&quot;sticky&quot;:false,&quot;stickyPixels&quot;:null,&quot;outOfPage&quot;:false}"
                 mobile-network-code="67621444"
                 :preview-mode="0"
                 class="bannerbottom"

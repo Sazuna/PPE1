@@ -324,7 +324,7 @@ Menú</span>
   
   
   </div>
-<input autocomplete="off" data-drupal-selector="form-fizeyjq1apjmu9rljmvihaw1cwukeayxiguvdl1tapw" type="hidden" name="form_build_id" value="form-fIzeYJQ1Apjmu9RLJMviHAW1cwukEayxiguvDL1TaPw"/><input data-drupal-selector="edit-comment-comment-form" type="hidden" name="form_id" value="comment_comment_form"/><div class="field--type-string field--name-subject field--widget-string-textfield form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-subject-wrapper" id="edit-subject-wrapper">      <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-subject-0-value js-form-item-subject-0-value form-group">
+<input autocomplete="off" data-drupal-selector="form-1ijpsbnumvgqbhxxbmjhhjngitdukc-syr3qxmgeh-g" type="hidden" name="form_build_id" value="form-1IjPSBNuMVGQbHXXBmjhHJNGitdukC-SYr3qXmGEh_g"/><input data-drupal-selector="edit-comment-comment-form" type="hidden" name="form_id" value="comment_comment_form"/><div class="field--type-string field--name-subject field--widget-string-textfield form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-subject-wrapper" id="edit-subject-wrapper">      <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-subject-0-value js-form-item-subject-0-value form-group">
       <label for="edit-subject-0-value" class="control-label">Asunto</label>
   
   
@@ -364,7 +364,7 @@ Menú</span>
     
     <div id="captcha--content" class="panel-body panel-collapse collapse fade in">
               <p id="captcha--description" class="help-block">Esta pregunta es para comprobar si usted es un visitante humano y prevenir envíos de spam automatizado.</p>
-            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="1952079"/><input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="VFfq7Mn4KvHCtCZVIOValhOgBTeCexp772K0CeRCjpE"/><input data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="Google no captcha"/><div class="g-recaptcha" data-sitekey="6LdtjToUAAAAAGI7R49lZ1R3IWO67OfJ0cRpve89" data-theme="light" data-type="image"></div><input data-drupal-selector="edit-captcha-cacheable" type="hidden" name="captcha_cacheable" value="1"/>
+            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="1963724"/><input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="T_rYH78BshVj1LEbee0Nej7dPculEfge_m8LkJ6b4fM"/><input data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="Google no captcha"/><div class="g-recaptcha" data-sitekey="6LdtjToUAAAAAGI7R49lZ1R3IWO67OfJ0cRpve89" data-theme="light" data-type="image"></div><input data-drupal-selector="edit-captcha-cacheable" type="hidden" name="captcha_cacheable" value="1"/>
           </div>
   
     
@@ -394,27 +394,24 @@ Preview</button></div>
       <h2 class="block-title">Noticias similares</h2>
     
 
-      <div class="form-group"><div class="view-more-articles view view-news-blog view-id-news_blog view-display-id-block_2 js-view-dom-id-ccc56d102e513709ced6914dbe53b2114e9d96bbd52d31ac39f80e59b5b06df4">
+      <div class="form-group"><div class="view-more-articles view view-news-blog view-id-news_blog view-display-id-block_2 js-view-dom-id-0d5fd9d07b294c093d8b5b49b2b82852fc73a7ea95695f089eb124d47eee2f92">
   
     
       
       <div class="view-content">
-          <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticias-gourmet/spellegrino-young-chef-2020-finalistas-regionales-de-latinoamerica-y-los-paises" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2019-06/xSanpellegrino.jpg,qitok=wbFV5oLz.pagespeed.ic.BSTdRa7zhV.jpg" width="100" height="100" alt="S.Pellegrino Young Chef" typeof="foaf:Image" class="img-responsive"/>
+          <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticia/tostones-con-caviar-de-salmon-y-espuma-al-wasabi" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/sites/default/files/es/imagenes_noticias/x6d555035481f40aaa19664722ff3b69dnewsx.jpg,qitok=NlsTfGrm.pagespeed.ic.KD8ysNr3kG.jpg" width="100" height="100" alt="Tostones con caviar de salmón y espuma al wasabi" title="Tostones con caviar de salmón y espuma al wasabi" typeof="foaf:Image" class="img-responsive"/>
 
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticias-gourmet/spellegrino-young-chef-2020-finalistas-regionales-de-latinoamerica-y-los-paises" hreflang="es">S.Pellegrino Young Chef 2020. Finalistas Regionales de Latinoamérica y los Países Ibéricos y Mediterráneos</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Jun 17, 2019</span></div><div class="views-field views-field-comment-count"><span class="field-content">0</span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticia/cocina-spa-alimentarse-consintiendo-el-cuerpo" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/sites/default/files/es/imagenes_noticias/xfc2add95a1c3416b894379aac72e4de7newsx.gif,qitok=w_oUxR3A.pagespeed.ic.l_hXYRB13n.jpg" width="100" height="100" alt="Cocina Spa, alimentarse consintiendo el cuerpo" title="Cocina Spa, alimentarse consintiendo el cuerpo" typeof="foaf:Image" class="img-responsive"/>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticia/tostones-con-caviar-de-salmon-y-espuma-al-wasabi" hreflang="es">Tostones con caviar de salmón y espuma al wasabi</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Mayo 08, 2009</span></div><div class="views-field views-field-comment-count"><span class="field-content">1</span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticias-gourmet/la-comida-domicilio-preferida-en-el-verano" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2019-09/xglovo-app-comida-domicilio-verano.jpg,qitok=h56NAo3q.pagespeed.ic.WSPlSJpdGA.jpg" width="100" height="100" alt="comida a domicilio" typeof="foaf:Image" class="img-responsive"/>
 
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticia/cocina-spa-alimentarse-consintiendo-el-cuerpo" hreflang="es">Cocina Spa, alimentarse consintiendo el cuerpo</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Abr 24, 2009</span></div><div class="views-field views-field-comment-count"><span class="field-content">1</span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticia/feliz-ano-nuevo-gourmet-con-una-mirada-al-futuro" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/sites/default/files/es/imagenes_noticias/xportada-excelencias-gourmet-no35.jpg,qitok=GQnFjUiD.pagespeed.ic.QwD3BRWGs5.jpg" width="100" height="100" alt="Feliz Año Nuevo Gourmet con una mirada al futuro" title="Feliz Año Nuevo Gourmet con una mirada al futuro" typeof="foaf:Image" class="img-responsive"/>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticias-gourmet/la-comida-domicilio-preferida-en-el-verano" hreflang="es">La comida a domicilio preferida en el verano </a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Ago 28, 2019</span></div><div class="views-field views-field-comment-count"><span class="field-content">0</span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticia/pinar-del-rio-donde-nace-el-habano" hreflang="es">Pinar del Río, Donde nace el habano</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Mayo 14, 2010</span></div><div class="views-field views-field-comment-count"><span class="field-content">1</span></div></div>
+    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticias-gourmet/repsol-y-guia-repsol-presentan-la-comunidad-horeca-sostenible" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2022-03/xComunidad,P20HORECA,P20Sostenible.jpg,qitok=zBg8rVtb.pagespeed.ic.VUj6Zf80E6.jpg" width="100" height="100" alt="Comunidad HORECA Sostenible" typeof="foaf:Image" class="img-responsive"/>
 
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticia/feliz-ano-nuevo-gourmet-con-una-mirada-al-futuro" hreflang="es">Feliz Año Nuevo Gourmet con una mirada al futuro</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Dic 29, 2013</span></div><div class="views-field views-field-comment-count"><span class="field-content">1</span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticias-gourmet/mariano-garcia-y-carlos-delgado-premios-enofusion-2018" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2018-01/xenofusio,PCC,P81n.jpg,qitok=7oyxoa1x.pagespeed.ic.tXJUfutN3e.jpg" width="100" height="100" alt="Enofusion 2018-premios" typeof="foaf:Image" class="img-responsive"/>
-
-</a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticias-gourmet/mariano-garcia-y-carlos-delgado-premios-enofusion-2018" hreflang="es">Mariano García y Carlos Delgado, premios Enofusión 2018</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Ene 16, 2018</span></div><div class="views-field views-field-comment-count"><span class="field-content">0</span></div></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticias-gourmet/repsol-y-guia-repsol-presentan-la-comunidad-horeca-sostenible" hreflang="es">Repsol y Guía Repsol presentan la Comunidad HORECA Sostenible</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Mar 30, 2022</span></div><div class="views-field views-field-comment-count"><span class="field-content">0</span></div></div>
 
     </div>
   
@@ -450,7 +447,7 @@ Preview</button></div>
       <h2 class="block-title">Descargue nuestra última edición</h2>
     
 
-      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_8 js-view-dom-id-d9adca2e17d7c12460804f9def2b175af4672614769232df3d42a52dd1d63409">
+      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_8 js-view-dom-id-6e78e8f30c75da0c0d4a728702854a17368a6edab1bfa541c5f90998b96a9b87">
   
     
       
@@ -474,7 +471,7 @@ Preview</button></div>
   
     
 
-      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_11 js-view-dom-id-e8820b47d03343d5c33ea0caf7b012569bd6a19e8dccea29e8bae76147a351e3">
+      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_11 js-view-dom-id-454438e32c247a7dc8094b2d69e519c3c91eff189d364951a8935d028f690706">
   
     
       
@@ -491,7 +488,7 @@ Preview</button></div>
       <h2 class="block-title">Más leídas</h2>
     
 
-      <div class="form-group"><div class="block-most-read view view-most-read view-id-most_read view-display-id-block_1 js-view-dom-id-d13af83f9f093e4d9f57f6ae624828360b947455f7f446108212269aa84fc431">
+      <div class="form-group"><div class="block-most-read view view-most-read view-id-most_read view-display-id-block_1 js-view-dom-id-8b754dafc53c7ee6547095a4ca86eccbe01ec56dd0f78b9d8cda182a5c97c17a">
   
     
       
@@ -560,7 +557,7 @@ var _wsc=document.createElement('script');_wsc.src="//tools.prnewswire.com/es/li
       <h2 class="block-title">NEWSLETTER</h2>
     
 
-      <div class="form-group"><div class="view view-boletin view-id-boletin view-display-id-block_1 js-view-dom-id-83f2ef37f4594160a5a39d03bb61921c180e35da5af783d03a9d033ef68ac2d7">
+      <div class="form-group"><div class="view view-boletin view-id-boletin view-display-id-block_1 js-view-dom-id-2b169d779a8d20d2793357874c73728d570161b4329b9e8a43b3d1f3ef5d9b13">
   
     
       
@@ -582,7 +579,7 @@ var _wsc=document.createElement('script');_wsc.src="//tools.prnewswire.com/es/li
   
     
 
-      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_12 js-view-dom-id-2d187ea4779e7ace897dd5317f4d8892f83337842e0cf4b65d14a71d53c365f6">
+      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_12 js-view-dom-id-3f04fb6c882b5430c3d5143982a152616a23936c31f0f62b35128b45e5b6fe12">
   
     
       

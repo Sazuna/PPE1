@@ -1322,7 +1322,7 @@ Logo def:
     <nav class="tag-bar" data-text="Es noticia:" itemscope itemtype="https://schema.org/SiteNavigationElement">
                     
 <a itemprop="url"
-    href="https://www.elperiodicoextremadura.com/deportes/2023/01/03/llego-dia-cacereno-real-madrid-80631619.html"    target="_blank"        class="header--inner"        title="Cacereño - Real Madrid"
+    href="https://www.elperiodicoextremadura.com/deportes/2023/01/03/dignisimo-cacereno-real-madrid-0-80661082.html"    target="_blank"        class="header--inner"        title="Cacereño - Real Madrid"
 >
                         <span
                 itemprop="name"            >
@@ -1331,29 +1331,29 @@ Logo def:
             </a>
                     
 <a itemprop="url"
-    href="https://www.elperiodicoextremadura.com/extremadura/2023/01/02/gigafactoria-sigue-espera-incentivos-regionales-80622443.html"    target="_blank"        class="header--inner"        title="Gigafactoría"
+    href="https://www.elperiodicoextremadura.com/deportes/2023/01/03/dia-dimension-80662353.html"    target="_blank"        class="header--inner"        title="El partido"
 >
                         <span
                 itemprop="name"            >
-                Gigafactoría
+                El partido
             </span>
             </a>
                     
 <a itemprop="url"
-    href="https://www.elperiodicoextremadura.com/extremadura/2023/01/03/extremadura-datos-paro-2022-desempleo-80632915.html"    target="_blank"        class="header--inner"        title="Paro en Extremadura"
+    href="https://www.elperiodicoextremadura.com/sucesos/2023/01/04/robo-atrio-vino-rusia-80666129.html"    target="_blank"        class="header--inner"        title="Robo Atrio"
 >
                         <span
                 itemprop="name"            >
-                Paro en Extremadura
+                Robo Atrio
             </span>
             </a>
                     
 <a itemprop="url"
-    href="https://www.elperiodicoextremadura.com/extremadura/2023/01/01/espera-viajes-gratis-autobus-extremadura-80538397.html"    target="_blank"        class="header--inner"        title="Autobús gratuito"
+    href="https://www.elperiodicoextremadura.com/extremadura/2023/01/04/rebaja-iva-llena-cesta-compra-80656764.html"    target="_blank"        class="header--inner"        title="Rebaja IVA"
 >
                         <span
                 itemprop="name"            >
-                Autobús gratuito
+                Rebaja IVA
             </span>
             </a>
                     
@@ -3098,11 +3098,12 @@ Logo def:
 
 
 
-    <article class="breaking-news">
-        <div class="breaking-news--tag">En directo</div>
-        <a href="https://www.elperiodicoextremadura.com/deportes/futbol/copa-rey/2022-2023/cacereno-real-madrid-3312022_03_04_20225724_2022186.html" class="breaking-news--headline"
-           target="_blank" >Sigue el Cacereño-Real Madrid</a>
-    </article>
+    <div id="piano-exp-breaking-news">
+        <div class="wrapper">
+            <div id="breaking-news-piano"></div>
+        </div>
+    </div>
+    <div id="piano-exp-breaking-news-placeholder" style="display: none;"></div>
 
 
                 
@@ -3681,11 +3682,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="https://www.elperiodicoextremadura.com/ocio/gastronomia/2023/01/03/azucar-horno-batidora-mejor-tarta-limon-dv-67464412.html" class="most-read__link" >
+    <a href="https://www.elperiodicoextremadura.com/caceres/2023/01/04/national-geographic-cinco-pueblos-bonitos-caceres-dv-59005371.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">1</span>
                         <span class="most-read__heading">
-                            <i class="i-play"></i>
-                        Sin azúcar, sin horno y sin batidora: la mejor tarta de limón
+                        Estos son los cinco pueblos cacereños más bonitos según National Geographic
         </span>
     </a>
 </li>
@@ -3693,32 +3693,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="https://www.elperiodicoextremadura.com/salud/guia/2023/01/03/combatir-gases-prueba-cinco-infusiones-dv-64570104.html" class="most-read__link" >
+    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/son-38-pueblos-caceres-dejaran-78592703.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">2</span>
                         <span class="most-read__heading">
-                        Cómo combatir los gases: prueba estas cinco infusiones
-        </span>
-    </a>
-</li>
-                            
-
-
-<li class="most-read__item ">
-    <a href="https://www.elperiodicoextremadura.com/ocio/gastronomia/2023/01/03/mejores-restaurantes-extremadura-dv-63304114.html" class="most-read__link" >
-                    <span class="most-read__number most-read__number--long">3</span>
-                        <span class="most-read__heading">
-                        Descubre los 26 mejores restaurantes de Extremadura
-        </span>
-    </a>
-</li>
-                            
-
-
-<li class="most-read__item ">
-    <a href="https://www.elperiodicoextremadura.com/extremadura/2023/01/03/lonja-extremadura-son-precios-actualizados-71742670.html" class="most-read__link" >
-                    <span class="most-read__number most-read__number--long">4</span>
-                        <span class="most-read__heading">
-                        Lonja de Extremadura: Estos son los precios actualizados a día 3 de enero de 2023
+                        Estos son los 38 pueblos de Cáceres que dejarán de estar sin banco o cajero en 2023
         </span>
     </a>
 </li>
@@ -3727,9 +3705,32 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 <li class="most-read__item ">
     <a href="https://www.elperiodicoextremadura.com/sociedad/2023/01/03/madre-disena-trapo-cubrir-jamon-dv-80483283.html" class="most-read__link" >
-                    <span class="most-read__number most-read__number--long">5</span>
+                    <span class="most-read__number most-read__number--long">3</span>
                         <span class="most-read__heading">
                         Su madre tapa el jamón de esta ingeniosa forma y todos flipan al verlo
+        </span>
+    </a>
+</li>
+                            
+
+
+<li class="most-read__item ">
+    <a href="https://www.elperiodicoextremadura.com/deportes/2023/01/03/real-madrid-contacto-aficionados-llegada-80640917.html" class="most-read__link" >
+                    <span class="most-read__number most-read__number--long">4</span>
+                        <span class="most-read__heading">
+                        Un Real Madrid sin contacto con los aficionados a su llegada a Cáceres
+        </span>
+    </a>
+</li>
+                            
+
+
+<li class="most-read__item ">
+    <a href="https://www.elperiodicoextremadura.com/sociedad/2023/01/03/muere-20-anos-elena-huelva-80651487.html" class="most-read__link" >
+                    <span class="most-read__number most-read__number--long">5</span>
+                        <span class="most-read__heading">
+                            <i class="i-play"></i>
+                        Muere a los 20 años Elena Huelva, la joven &#039;influencer&#039; que luchaba contra un sarcoma de Ewing
         </span>
     </a>
 </li>
@@ -3855,7 +3856,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/tres-individuos-sustraen-ciervos-luminosos-80651429.html" title="Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso" aria-label="Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso"
+            <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/caceres-entra-por-el-movil-80654946.html" title="Cáceres entra por el móvil" aria-label="Cáceres entra por el móvil"
            class="new__media "  >
                         
 
@@ -3865,19 +3866,19 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso" title="Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/b0bb2a0a-fd62-47df-8c13-3fa942e2f017_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="Cáceres entra por el móvil" title="Cáceres entra por el móvil"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/176af907-fa1b-4e67-ad9f-6df6fdd5acf4_16-9-aspect-ratio_default_0.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/b0bb2a0a-fd62-47df-8c13-3fa942e2f017_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/b0bb2a0a-fd62-47df-8c13-3fa942e2f017_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/b0bb2a0a-fd62-47df-8c13-3fa942e2f017_16-9-aspect-ratio_default_0.jpg" alt="Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/176af907-fa1b-4e67-ad9f-6df6fdd5acf4_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/176af907-fa1b-4e67-ad9f-6df6fdd5acf4_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/176af907-fa1b-4e67-ad9f-6df6fdd5acf4_16-9-aspect-ratio_default_0.jpg" alt="Cáceres entra por el móvil"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/b0bb2a0a-fd62-47df-8c13-3fa942e2f017_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/176af907-fa1b-4e67-ad9f-6df6fdd5acf4_16-9-aspect-ratio_default_0.jpg" itemprop="url">
 
-    <meta content="Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso" itemprop="name">
+    <meta content="Cáceres entra por el móvil" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/b0bb2a0a-fd62-47df-8c13-3fa942e2f017_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/176af907-fa1b-4e67-ad9f-6df6fdd5acf4_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T18:03:15+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T10:08:33+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
@@ -3896,226 +3897,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/tres-individuos-sustraen-ciervos-luminosos-80651429.html" title="Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso" class="new__headline " itemprop="url"
+    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/caceres-entra-por-el-movil-80654946.html" title="Cáceres entra por el móvil" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso</h2>
-            </a>
-
-                    <div class="new__footer"
-                                 itemscope itemtype="https://schema.org/Person" itemprop="author"
-                                >
-                                    
-
-                    <span class="new__author" itemprop="name" content="Redacción" name="Redacción">
-            Redacción
-        </span>
-                    
-                                    <ul class="new__actions">
-
-                        
-                        <li class="bookmark">
-                            <div class="e-notification-save">
-                                <div class="e-notification-save__icon">
-                                    <i class="i-favourite"></i>
-                                </div>
-                                <div class="e-notification-save__content">
-                                    <p>Noticia guardada en tu perfil</p>
-                                    <a href="https://micuenta.elperiodicoextremadura.com/tp/perfil/favoritos" class="e-notification-save__link link">Ver noticias guardadas <i class="i-arrow-right"></i></a>
-                                </div>
-                                <div class="e-notification-save__arrow"></div>
-                            </div>
-
-                            <span class="new__actions__book fav-bookmark"
-                                data-content-id="80651429">
-                                <a>
-                                    <i class="i-book"></i>
-                                </a>
-                            </span>
-                        </li>
-
-                                                    <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Cáceres', 'Tres individuos sustraen dos ciervos luminosos del Parque Infantil Maltravieso', 'https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/tres-individuos-sustraen-ciervos-luminosos-80651429.html'); return false;">
-                                    <i class="i-share"></i>
-                                </a>
-                            </li>
-                                                                    </ul>
-                            </div>
-            </header>
-    
-    
-    
-            
-
-    </article>
-        </div>
-            <div class="col-3 col-xs-12">
-            
-
-
-
-
-
-
-<article
-    class="new " 
-            >
-
-    
-    
-            <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/hombre-herido-leve-inhalacion-humo-caceres-80651220.html" title="Un hombre herido leve por inhalación de humo en un incendio en Cáceres" aria-label="Un hombre herido leve por inhalación de humo en un incendio en Cáceres"
-           class="new__media "  >
-                        
-
-
-
-
-
-
-<picture class="image lozad "
-                 data-alt="Un hombre herido leve por inhalación de humo en un incendio en Cáceres" title="Un hombre herido leve por inhalación de humo en un incendio en Cáceres"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/01b611f4-002f-4f80-a04d-543ac92e7229_16-9-aspect-ratio_default_0.jpg"
-    >
-
-    <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/01b611f4-002f-4f80-a04d-543ac92e7229_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/01b611f4-002f-4f80-a04d-543ac92e7229_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/01b611f4-002f-4f80-a04d-543ac92e7229_16-9-aspect-ratio_default_0.jpg" alt="Un hombre herido leve por inhalación de humo en un incendio en Cáceres"></noscript>
-
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/01b611f4-002f-4f80-a04d-543ac92e7229_16-9-aspect-ratio_default_0.jpg" itemprop="url">
-
-    <meta content="Un hombre herido leve por inhalación de humo en un incendio en Cáceres" itemprop="name">
-    <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/01b611f4-002f-4f80-a04d-543ac92e7229_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
-
-<meta content="2023-01-03T17:36:59+01:00" itemprop="uploadDate">
-</picture><!-- /.image -->
-                        
-
-        </a>
-    
-    <header >
-
-                                <a href="/caceres-local/" class="new__topic">
-            <span>Cáceres</span>
-        </a>
-            
-        
-                            
-        
-                        
-        
-
-
-    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/hombre-herido-leve-inhalacion-humo-caceres-80651220.html" title="Un hombre herido leve por inhalación de humo en un incendio en Cáceres" class="new__headline " itemprop="url"
-                  >
-                    <h2 itemprop="headline">Un hombre herido leve por inhalación de humo en un incendio en Cáceres</h2>
-            </a>
-
-                    <div class="new__footer"
-                                 itemscope itemtype="https://schema.org/Person" itemprop="author"
-                                >
-                                    
-
-                    <span class="new__author" itemprop="name" content="Redacción" name="Redacción">
-            Redacción
-        </span>
-                    
-                                    <ul class="new__actions">
-
-                        
-                        <li class="bookmark">
-                            <div class="e-notification-save">
-                                <div class="e-notification-save__icon">
-                                    <i class="i-favourite"></i>
-                                </div>
-                                <div class="e-notification-save__content">
-                                    <p>Noticia guardada en tu perfil</p>
-                                    <a href="https://micuenta.elperiodicoextremadura.com/tp/perfil/favoritos" class="e-notification-save__link link">Ver noticias guardadas <i class="i-arrow-right"></i></a>
-                                </div>
-                                <div class="e-notification-save__arrow"></div>
-                            </div>
-
-                            <span class="new__actions__book fav-bookmark"
-                                data-content-id="80651220">
-                                <a>
-                                    <i class="i-book"></i>
-                                </a>
-                            </span>
-                        </li>
-
-                                                    <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Cáceres', 'Un hombre herido leve por inhalación de humo en un incendio en Cáceres', 'https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/hombre-herido-leve-inhalacion-humo-caceres-80651220.html'); return false;">
-                                    <i class="i-share"></i>
-                                </a>
-                            </li>
-                                                                    </ul>
-                            </div>
-            </header>
-    
-    
-    
-            
-
-    </article>
-        </div>
-            <div class="col-3 col-xs-12">
-            
-
-
-
-
-
-
-<article
-    class="new " 
-            >
-
-    
-    
-            <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/coche-calcinado-mutiples-danos-materiales-80634068.html" title="Un coche calcinado y varios dañados en un garaje de Castellanos" aria-label="Un coche calcinado y varios dañados en un garaje de Castellanos"
-           class="new__media "  >
-                        
-
-
-
-
-
-
-<picture class="image lozad "
-                 data-alt="Un coche calcinado y varios dañados en un garaje de Castellanos" title="Un coche calcinado y varios dañados en un garaje de Castellanos"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/ad2c1ded-117f-40dd-a7f0-26c03c644131_16-9-aspect-ratio_default_0.jpg"
-    >
-
-    <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/ad2c1ded-117f-40dd-a7f0-26c03c644131_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/ad2c1ded-117f-40dd-a7f0-26c03c644131_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/ad2c1ded-117f-40dd-a7f0-26c03c644131_16-9-aspect-ratio_default_0.jpg" alt="Un coche calcinado y varios dañados en un garaje de Castellanos"></noscript>
-
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/ad2c1ded-117f-40dd-a7f0-26c03c644131_16-9-aspect-ratio_default_0.jpg" itemprop="url">
-
-    <meta content="Un coche calcinado y varios dañados en un garaje de Castellanos" itemprop="name">
-    <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/ad2c1ded-117f-40dd-a7f0-26c03c644131_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
-
-<meta content="2023-01-03T11:29:11+01:00" itemprop="uploadDate">
-</picture><!-- /.image -->
-                        
-
-    <span class="rwd-media-ico">
-        <i class="i-play"></i>
-            </span>
-        </a>
-    
-    <header >
-
-                                <a href="/caceres-local/" class="new__topic">
-            <span>Cáceres</span>
-        </a>
-            
-        
-                            
-        
-                        
-        
-
-
-    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/coche-calcinado-mutiples-danos-materiales-80634068.html" title="Un coche calcinado y varios dañados en un garaje de Castellanos" class="new__headline " itemprop="url"
-                  >
-                    <h2 itemprop="headline">Un coche calcinado y varios dañados en un garaje de Castellanos</h2>
+                    <h2 itemprop="headline">Cáceres entra por el móvil</h2>
             </a>
 
                     <div class="new__footer"
@@ -4145,7 +3929,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80634068">
+                                data-content-id="80654946">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -4153,7 +3937,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Cáceres', 'Un coche calcinado y varios dañados en un garaje de Castellanos', 'https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/coche-calcinado-mutiples-danos-materiales-80634068.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Cáceres', 'Cáceres entra por el móvil', 'https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/caceres-entra-por-el-movil-80654946.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -4181,7 +3965,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/seis-ofertas-ampliar-edar-limite-80622798.html" title="Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica" aria-label="Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica"
+            <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/reyes-magos-recogen-cartas-hoy-80654017.html" title="Los Reyes Magos recogen las cartas hoy en Cánovas" aria-label="Los Reyes Magos recogen las cartas hoy en Cánovas"
            class="new__media "  >
                         
 
@@ -4191,19 +3975,19 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica" title="Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/067ede01-ed6d-4f7b-adc1-e7666f5a9280_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="Los Reyes Magos recogen las cartas hoy en Cánovas" title="Los Reyes Magos recogen las cartas hoy en Cánovas"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/66790915-fa15-4214-b31b-81a5c60791a8_16-9-aspect-ratio_default_0.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/067ede01-ed6d-4f7b-adc1-e7666f5a9280_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/067ede01-ed6d-4f7b-adc1-e7666f5a9280_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/067ede01-ed6d-4f7b-adc1-e7666f5a9280_16-9-aspect-ratio_default_0.jpg" alt="Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/66790915-fa15-4214-b31b-81a5c60791a8_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/66790915-fa15-4214-b31b-81a5c60791a8_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/66790915-fa15-4214-b31b-81a5c60791a8_16-9-aspect-ratio_default_0.jpg" alt="Los Reyes Magos recogen las cartas hoy en Cánovas"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/067ede01-ed6d-4f7b-adc1-e7666f5a9280_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/66790915-fa15-4214-b31b-81a5c60791a8_16-9-aspect-ratio_default_0.jpg" itemprop="url">
 
-    <meta content="Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica" itemprop="name">
+    <meta content="Los Reyes Magos recogen las cartas hoy en Cánovas" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/067ede01-ed6d-4f7b-adc1-e7666f5a9280_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/66790915-fa15-4214-b31b-81a5c60791a8_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T07:00:34+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T07:00:51+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
@@ -4222,9 +4006,116 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/seis-ofertas-ampliar-edar-limite-80622798.html" title="Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica" class="new__headline " itemprop="url"
+    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/reyes-magos-recogen-cartas-hoy-80654017.html" title="Los Reyes Magos recogen las cartas hoy en Cánovas" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica</h2>
+                    <h2 itemprop="headline">Los Reyes Magos recogen las cartas hoy en Cánovas</h2>
+            </a>
+
+                    <div class="new__footer"
+                                 itemscope itemtype="https://schema.org/Person" itemprop="author"
+                                >
+                                    
+
+                    <span class="new__author" itemprop="name" content="Redacción" name="Redacción">
+            Redacción
+        </span>
+                    
+                                    <ul class="new__actions">
+
+                        
+                        <li class="bookmark">
+                            <div class="e-notification-save">
+                                <div class="e-notification-save__icon">
+                                    <i class="i-favourite"></i>
+                                </div>
+                                <div class="e-notification-save__content">
+                                    <p>Noticia guardada en tu perfil</p>
+                                    <a href="https://micuenta.elperiodicoextremadura.com/tp/perfil/favoritos" class="e-notification-save__link link">Ver noticias guardadas <i class="i-arrow-right"></i></a>
+                                </div>
+                                <div class="e-notification-save__arrow"></div>
+                            </div>
+
+                            <span class="new__actions__book fav-bookmark"
+                                data-content-id="80654017">
+                                <a>
+                                    <i class="i-book"></i>
+                                </a>
+                            </span>
+                        </li>
+
+                                                    <li class="new__actions__share">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Cáceres', 'Los Reyes Magos recogen las cartas hoy en Cánovas', 'https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/reyes-magos-recogen-cartas-hoy-80654017.html'); return false;">
+                                    <i class="i-share"></i>
+                                </a>
+                            </li>
+                                                                    </ul>
+                            </div>
+            </header>
+    
+    
+    
+            
+
+    </article>
+        </div>
+            <div class="col-3 col-xs-12">
+            
+
+
+
+
+
+
+<article
+    class="new " 
+            >
+
+    
+    
+            <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/abogados-caceres-especial-vinculo-justicia-80651650.html" title="«Los abogados de Cáceres tienen un especial vínculo con la justicia social»" aria-label="«Los abogados de Cáceres tienen un especial vínculo con la justicia social»"
+           class="new__media "  >
+                        
+
+
+
+
+
+
+<picture class="image lozad "
+                 data-alt="«Los abogados de Cáceres tienen un especial vínculo con la justicia social»" title="«Los abogados de Cáceres tienen un especial vínculo con la justicia social»"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/2f3ef421-ea50-4f8d-8f75-512aed7ef217_16-9-aspect-ratio_default_0.jpg"
+    >
+
+    <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/2f3ef421-ea50-4f8d-8f75-512aed7ef217_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/2f3ef421-ea50-4f8d-8f75-512aed7ef217_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/2f3ef421-ea50-4f8d-8f75-512aed7ef217_16-9-aspect-ratio_default_0.jpg" alt="«Los abogados de Cáceres tienen un especial vínculo con la justicia social»"></noscript>
+
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/2f3ef421-ea50-4f8d-8f75-512aed7ef217_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+
+    <meta content="«Los abogados de Cáceres tienen un especial vínculo con la justicia social»" itemprop="name">
+    <meta content="Galería" itemprop="description">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/2f3ef421-ea50-4f8d-8f75-512aed7ef217_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+
+<meta content="2023-01-04T06:45:57+01:00" itemprop="uploadDate">
+</picture><!-- /.image -->
+                        
+
+        </a>
+    
+    <header >
+
+                                <a href="/caceres-local/" class="new__topic">
+            <span>Cáceres</span>
+        </a>
+            
+        
+                            
+        
+                        
+        
+
+
+    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/abogados-caceres-especial-vinculo-justicia-80651650.html" title="«Los abogados de Cáceres tienen un especial vínculo con la justicia social»" class="new__headline " itemprop="url"
+                  >
+                    <h2 itemprop="headline">«Los abogados de Cáceres tienen un especial vínculo con la justicia social»</h2>
             </a>
 
                     <div class="new__footer"
@@ -4233,9 +4124,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                                     
 
                     <a class="new__author"
-           href="https://www.elperiodicoextremadura.com/autores/jose-luis-bermejo-trigo.html"
-           title="José Luis Bermejo Trigo" itemprop="name" content="José Luis Bermejo Trigo" name="José Luis Bermejo Trigo">
-            José Luis Bermejo Trigo
+           href="https://www.elperiodicoextremadura.com/autores/gema-guerra-benito.html"
+           title="Gema Guerra Benito" itemprop="name" content="Gema Guerra Benito" name="Gema Guerra Benito">
+            Gema Guerra Benito
         </a>
                     
                                     <ul class="new__actions">
@@ -4254,7 +4145,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80622798">
+                                data-content-id="80651650">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -4262,7 +4153,116 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Cáceres', 'Seis ofertas para ampliar la Edar, al límite de su capacidad hidráulica', 'https://www.elperiodicoextremadura.com/caceres-local/2023/01/03/seis-ofertas-ampliar-edar-limite-80622798.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Cáceres', '«Los abogados de Cáceres tienen un especial vínculo con la justicia social»', 'https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/abogados-caceres-especial-vinculo-justicia-80651650.html'); return false;">
+                                    <i class="i-share"></i>
+                                </a>
+                            </li>
+                                                                    </ul>
+                            </div>
+            </header>
+    
+    
+    
+            
+
+    </article>
+        </div>
+            <div class="col-3 col-xs-12">
+            
+
+
+
+
+
+
+<article
+    class="new " 
+            >
+
+    
+    
+            <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/2022-posiciono-caceres-mejores-destinos-interior-80655748.html" title="2022 posicionó a Cáceres entre los mejores destinos de interior" aria-label="2022 posicionó a Cáceres entre los mejores destinos de interior"
+           class="new__media "  >
+                        
+
+
+
+
+
+
+<picture class="image lozad "
+                 data-alt="2022 posicionó a Cáceres entre los mejores destinos de interior" title="2022 posicionó a Cáceres entre los mejores destinos de interior"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/10511637-1084-4dc2-b8ec-0c616d7d73a2_16-9-aspect-ratio_default_0.jpg"
+    >
+
+    <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/10511637-1084-4dc2-b8ec-0c616d7d73a2_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/10511637-1084-4dc2-b8ec-0c616d7d73a2_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/10511637-1084-4dc2-b8ec-0c616d7d73a2_16-9-aspect-ratio_default_0.jpg" alt="2022 posicionó a Cáceres entre los mejores destinos de interior"></noscript>
+
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/10511637-1084-4dc2-b8ec-0c616d7d73a2_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+
+    <meta content="2022 posicionó a Cáceres entre los mejores destinos de interior" itemprop="name">
+    <meta content="Galería" itemprop="description">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/10511637-1084-4dc2-b8ec-0c616d7d73a2_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+
+<meta content="2023-01-04T06:30:09+01:00" itemprop="uploadDate">
+</picture><!-- /.image -->
+                        
+
+        </a>
+    
+    <header >
+
+                                <a href="/caceres-local/" class="new__topic">
+            <span>Cáceres</span>
+        </a>
+            
+        
+                            
+        
+                        
+        
+
+
+    <a href="https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/2022-posiciono-caceres-mejores-destinos-interior-80655748.html" title="2022 posicionó a Cáceres entre los mejores destinos de interior" class="new__headline " itemprop="url"
+                  >
+                    <h2 itemprop="headline">2022 posicionó a Cáceres entre los mejores destinos de interior</h2>
+            </a>
+
+                    <div class="new__footer"
+                                 itemscope itemtype="https://schema.org/Person" itemprop="author"
+                                >
+                                    
+
+                    <a class="new__author"
+           href="https://www.elperiodicoextremadura.com/autores/lola-luceno-barrantes.html"
+           title="Lola Luceño Barrantes" itemprop="name" content="Lola Luceño Barrantes" name="Lola Luceño Barrantes">
+            Lola Luceño Barrantes
+        </a>
+                    
+                                    <ul class="new__actions">
+
+                        
+                        <li class="bookmark">
+                            <div class="e-notification-save">
+                                <div class="e-notification-save__icon">
+                                    <i class="i-favourite"></i>
+                                </div>
+                                <div class="e-notification-save__content">
+                                    <p>Noticia guardada en tu perfil</p>
+                                    <a href="https://micuenta.elperiodicoextremadura.com/tp/perfil/favoritos" class="e-notification-save__link link">Ver noticias guardadas <i class="i-arrow-right"></i></a>
+                                </div>
+                                <div class="e-notification-save__arrow"></div>
+                            </div>
+
+                            <span class="new__actions__book fav-bookmark"
+                                data-content-id="80655748">
+                                <a>
+                                    <i class="i-book"></i>
+                                </a>
+                            </span>
+                        </li>
+
+                                                    <li class="new__actions__share">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Cáceres', '2022 posicionó a Cáceres entre los mejores destinos de interior', 'https://www.elperiodicoextremadura.com/caceres-local/2023/01/04/2022-posiciono-caceres-mejores-destinos-interior-80655748.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -4355,16 +4355,16 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
         <ul class="rounded-tags footer-up__hightlight-links">
                             <li>
-                    <a href="https://www.elperiodicoextremadura.com/deportes/2023/01/03/llego-dia-cacereno-real-madrid-80631619.html" target="_blank" >Cacereño - Real Madrid</a>
+                    <a href="https://www.elperiodicoextremadura.com/deportes/2023/01/03/dignisimo-cacereno-real-madrid-0-80661082.html" target="_blank" >Cacereño - Real Madrid</a>
                 </li>
                             <li>
-                    <a href="https://www.elperiodicoextremadura.com/extremadura/2023/01/02/gigafactoria-sigue-espera-incentivos-regionales-80622443.html" target="_blank" >Gigafactoría</a>
+                    <a href="https://www.elperiodicoextremadura.com/deportes/2023/01/03/dia-dimension-80662353.html" target="_blank" >El partido</a>
                 </li>
                             <li>
-                    <a href="https://www.elperiodicoextremadura.com/extremadura/2023/01/03/extremadura-datos-paro-2022-desempleo-80632915.html" target="_blank" >Paro en Extremadura</a>
+                    <a href="https://www.elperiodicoextremadura.com/sucesos/2023/01/04/robo-atrio-vino-rusia-80666129.html" target="_blank" >Robo Atrio</a>
                 </li>
                             <li>
-                    <a href="https://www.elperiodicoextremadura.com/extremadura/2023/01/01/espera-viajes-gratis-autobus-extremadura-80538397.html" target="_blank" >Autobús gratuito</a>
+                    <a href="https://www.elperiodicoextremadura.com/extremadura/2023/01/04/rebaja-iva-llena-cesta-compra-80656764.html" target="_blank" >Rebaja IVA</a>
                 </li>
                             <li>
                     <a href="https://www.elperiodicoextremadura.com/extremadura/anuario-2022/" target="_blank" >Anuario</a>

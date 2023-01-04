@@ -100,7 +100,7 @@
 
 <link rel="stylesheet" type="text/css" href="/style/superfish_menu/css/superfish.css?20141215" mmedia="screen">
 
-<link rel="stylesheet" type="text/css" href="/static/css/portada2019.css?20230103c&minify=1" />
+<link rel="stylesheet" type="text/css" href="/static/css/portada2019.css?20230104c&minify=1" />
 <link rel="stylesheet" type="text/css" href="/static/css/extra.css?2018010" />
 
 
@@ -544,7 +544,7 @@ loadQuantcast();
              onclick="slideout.toggle();"></span>
         </div>
         <div class="fechalupabox">
-            martes  3 de enero de 2023         </div>
+            miércoles  4 de enero de 2023         </div>
 	</div>
 </form>
 </div> <!-- widget_content -->
@@ -994,7 +994,7 @@ loadQuantcast();
 
 
 							<div class="current-hour header_date">
-					<span><span style="text-transform: capitalize">martes</span>,  3 de enero de 2023, 20:39</span>
+					<span><span style="text-transform: capitalize">miércoles</span>,  4 de enero de 2023, 09:49</span>
 				</div> <!-- current-hour -->
 			
 
@@ -1040,7 +1040,7 @@ loadQuantcast();
              onclick="slideout.toggle();"></span>
         </div>
         <div class="fechalupabox">
-            martes  3 de enero de 2023         </div>
+            miércoles  4 de enero de 2023         </div>
 	</div>
 </form>
 </div> <!-- widget_content -->
@@ -1459,7 +1459,7 @@ loadQuantcast();
              onclick="slideout.toggle();"></span>
         </div>
         <div class="fechalupabox">
-            martes  3 de enero de 2023
+            miércoles  4 de enero de 2023
         </div>
 	</div>
 </form>
@@ -2837,86 +2837,7 @@ loadQuantcast();
 
 <div id="widget_2054463" class="widget clearfix">
 <div class="widget_content front_widget b-hidden-tiny">
-<div class="related related_wrapper">
-    <div class="related_header">
-        <span>noticias similares </span>
-    </div>
-    <div class="row-content relatked_content clearfix" style="display: block">
 
-
-
-        
-
-
-			<div class="row-item2 layout-row-3">
-
-				<div class="row-item">
-
-                
-                    <a href="/texto-diario/mostrar/4125169/psoe-advierte-no-consentira-brena-alta-siga-dando-pasos-atras-servicios-sociales?ref=articlerelated"
-                       title="​El PSOE advierte de que no consentirá que Breña Alta siga dando pasos atrás en servicios sociales">
-										<div class=" row-image column-image">
-										        <img src="/images/showid2/3194203?w=360&h=240&zc=1" style="width:90%; margin-left: 5%; margin-right: 5%;" class="related_photo" alt="Ayuntamiento"/>
-
-                        
-					</div> <!-- .row-image --->
-					                    <div class="related_title">​El PSOE advierte de que no consentirá que Breña Alta siga dando pasos atrás en servicios sociales
-                    </div>
-                                        </a>
-            </div>
-			</div>
-
-
-        
-
-
-			<div class="row-item2 layout-row-3">
-
-				<div class="row-item">
-
-                
-                    <a href="/texto-diario/mostrar/4124833/nc-vota-no-presupuestos-ayuntamiento-santa-cruz-palma?ref=articlerelated"
-                       title="NC vota NO a los presupuestos del Ayuntamiento de Santa Cruz de la Palma.">
-										<div class=" row-image column-image">
-										        <img src="/images/showid2/5074830?w=360&h=240&zc=1" style="width:90%; margin-left: 5%; margin-right: 5%;" class="related_photo" alt="Ayuntamiento"/>
-
-                        
-					</div> <!-- .row-image --->
-					                    <div class="related_title">NC vota NO a los presupuestos del Ayuntamiento de Santa Cruz de la Palma.
-                    </div>
-                                        </a>
-            </div>
-			</div>
-
-
-        
-
-
-			<div class="row-item2 layout-row-3">
-
-				<div class="row-item">
-
-                
-                    <a href="/texto-diario/mostrar/4123531/nieves-lady-barreto-fernando-clavijo-reclaman-puesta-marcha-inmediata-medidas-conseguidas-cc-palma?ref=articlerelated"
-                       title="​Nieves Lady Barreto y Fernando Clavijo reclaman la puesta en marcha inmediata de las medidas conseguidas por CC para La Palma">
-										<div class=" row-image column-image">
-										        <img src="/images/showid2/5714537?w=360&h=240&zc=1" style="width:90%; margin-left: 5%; margin-right: 5%;" class="related_photo" alt="Rueda de prensa1"/>
-
-                        
-					</div> <!-- .row-image --->
-					                    <div class="related_title">​Nieves Lady Barreto y Fernando Clavijo reclaman la puesta en marcha inmediata de las medidas conseguidas por CC para La Palma
-                    </div>
-                                        </a>
-            </div>
-			</div>
-
-
-        
-
-
-
-    </div>
-</div>
 </div> <!-- widget_content -->
 </div> <!-- widget:2054463 -->
 
@@ -3181,98 +3102,6 @@ Ver resultados</span></a>
 
 
 
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">1</div>
-    
-<div class="popular_title context"
-ccolumnitem="4127649"
-cstyle="popular_title"
- editid="article_4127649_title column-title">
-<a href="/texto-diario/mostrar/4127649/cabalgata-reyes-llanos-aridane-contara-primera-vez-zona-adaptada-personas-necesidades-especiales">
-​La Cabalgata de Reyes de Los Llanos de Aridane contará por primera vez con una zona adaptada para personas con necesidades especiales</a>
-</div> <!-- popular_title -->
-
-
-            <div class="front_summary inline-editable column-summary"
-             id="article_4127649_summary" editid="article_4127649_entradilla">
-            <p>La&nbsp;concejal explica que la Cabalgata comenzará&nbsp;a las 18:00 horas desde la Avenida Enrique Mederos en dirección al casco urbano de Los Llanos. </p>
-        </div> <!-- .col-summary -->
-    
-
-
-</div> <!-- popular-item -->
-
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">2</div>
-    
-<div class="popular_title context"
-ccolumnitem="4127157"
-cstyle="popular_title"
- editid="article_4127157_title column-title">
-<a href="/texto-diario/mostrar/4127157/juez-archiva-investigacion-muerte-varon-erupcion-volcan-palma">
-La juez archiva la investigación por la muerte de un varón tras la erupción del volcán de La Palma.</a>
-</div> <!-- popular_title -->
-
-
-            <div class="front_summary inline-editable column-summary"
-             id="article_4127157_summary" editid="article_4127157_entradilla">
-            <p>La autopsia confirma que el varón de 72 años hallado muerto en el garaje de su casa falleció por inhalación de gases tóxicos, lo que certifica que la tragedia se cobró una víctima humana </p>
-        </div> <!-- .col-summary -->
-    
-
-
-</div> <!-- popular-item -->
-
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">3</div>
-    
-<div class="popular_title context"
-ccolumnitem="4127652"
-cstyle="popular_title"
- editid="article_4127652_title column-title">
-<a href="/texto-diario/mostrar/4127652/comitiva-ssmm-reyes-magos-oriente-visitara-ninas-ninos-santa-cruz-palma-jueves">
-​La comitiva de SSMM Los Reyes Magos de Oriente visitará a las niñas y los niños de Santa Cruz de La Palma este jueves</a>
-</div> <!-- popular_title -->
-
-
-            <div class="front_summary inline-editable column-summary"
-             id="article_4127652_summary" editid="article_4127652_entradilla">
-            <p>Melchor, Gaspar y Baltasar recibirán las llaves de la ciudad a las 11:00 horas en el atrio del Ayuntamiento de forma previa a la tradicional Cabalgata, que partirá a las 19:00 horas desde el puerto capitalino </p>
-        </div> <!-- .col-summary -->
-    
-
-
-</div> <!-- popular-item -->
-
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">4</div>
-    
-<div class="popular_title context"
-ccolumnitem="4125942"
-cstyle="popular_title"
- editid="article_4125942_title column-title">
-<a href="/texto-diario/mostrar/4125942/zca-llanos-junto-triaformacion-lanzan-formacion-gratuita-socios">
-La ZCA de Los Llanos junto a Triaformación lanzan una formación gratuita para sus socios.</a>
-</div> <!-- popular_title -->
-
-
-            <div class="front_summary inline-editable column-summary"
-             id="article_4125942_summary" editid="article_4125942_entradilla">
-            <p>Se ofertarán 100 plazas, y se tratará de formación on-line y gratuita.Para inscribirse en esta plataforma&nbsp;Formación Online - ZCA Los Llanos de Aridane (triaformacion.com)&nbsp;los socios deberán y estará disponible del el próximo 9&nbsp;de Enero.</p>
-        </div> <!-- .col-summary -->
-    
-
-
-</div> <!-- popular-item -->
-
 </div> <!-- popular-content -->
 </div> <!-- widget_content -->
 </div> <!-- widget:3631258 -->
@@ -3458,101 +3287,6 @@ La ZCA de Los Llanos junto a Triaformación lanzan una formación gratuita para 
 
 
 
-
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">1</div>
-    
-<div class="popular_title context"
-ccolumnitem="4127649"
-cstyle="popular_title"
- editid="article_4127649_title column-title">
-<a href="/texto-diario/mostrar/4127649/cabalgata-reyes-llanos-aridane-contara-primera-vez-zona-adaptada-personas-necesidades-especiales">
-​La Cabalgata de Reyes de Los Llanos de Aridane contará por primera vez con una zona adaptada para personas con necesidades especiales</a>
-</div> <!-- popular_title -->
-
-
-    
-
-
-</div> <!-- popular-item -->
-
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">2</div>
-    
-<div class="popular_title context"
-ccolumnitem="4127157"
-cstyle="popular_title"
- editid="article_4127157_title column-title">
-<a href="/texto-diario/mostrar/4127157/juez-archiva-investigacion-muerte-varon-erupcion-volcan-palma">
-La juez archiva la investigación por la muerte de un varón tras la erupción del volcán de La Palma.</a>
-</div> <!-- popular_title -->
-
-
-    
-
-
-</div> <!-- popular-item -->
-
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">3</div>
-    
-<div class="popular_title context"
-ccolumnitem="4127652"
-cstyle="popular_title"
- editid="article_4127652_title column-title">
-<a href="/texto-diario/mostrar/4127652/comitiva-ssmm-reyes-magos-oriente-visitara-ninas-ninos-santa-cruz-palma-jueves">
-​La comitiva de SSMM Los Reyes Magos de Oriente visitará a las niñas y los niños de Santa Cruz de La Palma este jueves</a>
-</div> <!-- popular_title -->
-
-
-    
-
-
-</div> <!-- popular-item -->
-
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">4</div>
-    
-<div class="popular_title context"
-ccolumnitem="4125942"
-cstyle="popular_title"
- editid="article_4125942_title column-title">
-<a href="/texto-diario/mostrar/4125942/zca-llanos-junto-triaformacion-lanzan-formacion-gratuita-socios">
-La ZCA de Los Llanos junto a Triaformación lanzan una formación gratuita para sus socios.</a>
-</div> <!-- popular_title -->
-
-
-    
-
-
-</div> <!-- popular-item -->
-
-<div class="popular-item popular_item clearfix">
-
-
-    <div class="popular_position" style="float: left;">5</div>
-    
-<div class="popular_title context"
-ccolumnitem="4127143"
-cstyle="popular_title"
- editid="article_4127143_title column-title">
-<a href="/texto-diario/mostrar/4127143/1200-solicitudes-tramitadas-2022-cabildo-grado-discapacidad">
-​Más de 1.200 solicitudes tramitadas en 2022 por el Cabildo para el grado de discapacidad El</a>
-</div> <!-- popular_title -->
-
-
-    
-
-
-</div> <!-- popular-item -->
 
 </div> <!-- popular-content -->
 </div> <!-- widget_content -->

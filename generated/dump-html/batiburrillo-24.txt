@@ -55,12 +55,12 @@
             <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap">
             <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     
-        <!-- mt = 1672783640 -->
+        <!-- mt = 1672825722 -->
 <link rel="preload" as="style" href="/static/BB3HTML/css/diariodecadiz.joly.min.css?hash=8d1bb99022bcb9ad24bf740feff729e5">
 <link href="/static/BB3HTML/css/diariodecadiz.joly.min.css?hash=8d1bb99022bcb9ad24bf740feff729e5" rel="stylesheet" type="text/css" />
-<!-- /mt = 1672783640 -->
-    <!-- mt = 1672783640 -->
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825722 -->
+    <!-- mt = 1672825241 -->
+<!-- /mt = 1672825241 -->
         <script type="text/javascript">
     var gfkS2sConf = {
         media: "DiariodecadizWeb",
@@ -227,13 +227,13 @@
     }
 ]
 </script>
-        <!-- mt = 1672783640 -->
+        <!-- mt = 1672825722 -->
 <link rel="preload" as="script" href="/static/BB3HTML/js/diariodecadiz.joly.min.js?hash=5d95067f3c569639337e2d57c48f8ac6">
 <script type="text/javascript" src="/static/BB3HTML/js/diariodecadiz.joly.min.js?hash=5d95067f3c569639337e2d57c48f8ac6"></script>
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825722 -->
 
-    <!-- mt = 1672783640 -->
-<!-- /mt = 1672783640 -->
+    <!-- mt = 1672825241 -->
+<!-- /mt = 1672825241 -->
     
             <link rel="alternate" title="Análisis" href="/rss/section/2010004/" type="application/rss+xml"/>
     
@@ -348,11 +348,11 @@
 <!-- IE chromeframe alert -->
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> to experience this site.</p><![endif]-->
 
-<!-- mt = 1672783640 -->
+<!-- mt = 1672825660 -->
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K9ZKMV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825660 -->
 
 
     <div id="bbt-ad-slot-skin" class="ad bbt-adv-container" style="display:none;">
@@ -375,7 +375,7 @@
     </div><!-- .ad-wrap -->
 </div><!-- .ad-h -->
 
-    <!-- mt = 1672783640 -->
+    <!-- mt = 1672825722 -->
 <div class="topicnav ">
     <div class="limiter">
         <p class="items-container">
@@ -434,15 +434,15 @@
     </div>
 
 </div><!-- .topicnav -->
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825722 -->
 
 <div id="toolbar" class="toolbar ">
     <div class="limiter">
 
-        <!-- mt = 1672783640 -->
+        <!-- mt = 1672825722 -->
 <p class="timezone">
-    <time class="datetime" datetime="2023/01/03">martes,  3 de enero, 2023</time>
-</p><!-- /mt = 1672783640 -->
+    <time class="datetime" datetime="2023/01/04">miércoles,  4 de enero, 2023</time>
+</p><!-- /mt = 1672825722 -->
 
         <div class="box">
                             <a class="suscribete lnk" href=/suscribete/ target="_self" title=956 297 993><span id="suscribete">SUSCRÍBETE </span><span>956 297 993</span></a>
@@ -473,15 +473,15 @@
 <header id="header" class="section-header">
     <div class="limiter">
 
-        <!-- mt = 1672783641 -->
+        <!-- mt = 1672825242 -->
 <div id="masthead" class="section-masthead">
 
-    <!-- mt = 1672783619 -->
+    <!-- mt = 1672825728 -->
 <h1 class="sitehead">
     <a href="/" title="Diario de Cádiz" rel="home">
         <img class="logo" src="/static/BB3HTML/images/header-site-logo.svg?hash=2c11dc3f74096038c2da059c8752234b" alt="Diario de Cádiz" width="365" height="45"/>
     </a>
-</h1><!-- /mt = 1672783619 -->
+</h1><!-- /mt = 1672825728 -->
 
     <div class="box">
         
@@ -511,12 +511,12 @@
 
     <div class="home-header-box"></div>
 </div><!-- #masthead -->
-<!-- /mt = 1672783641 -->
+<!-- /mt = 1672825242 -->
 
-        <!-- mt = 1672783640 -->
+        <!-- mt = 1672825722 -->
 <nav class="nav nav-header-links" id="nav">
     <ul class="nav-join">
-        <!-- mt = 1672783620 -->
+        <!-- mt = 1672825728 -->
 <li class="nav-item droptab dropnav-sections right">
 
     <a class="btn droptab-link droptab-all" href="#layerNavAll" title="Ver todas las secciones" rel="nofollow">
@@ -1546,7 +1546,7 @@
     </div>
 
 </li>
-<!-- /mt = 1672783620 -->
+<!-- /mt = 1672825728 -->
         
                                                     <li class="nav-item droptab">
 
@@ -2033,7 +2033,7 @@
             
             </ul>
 </nav>
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825722 -->
 
     </div>
 </header><!-- .home-header #header -->
@@ -2062,19 +2062,19 @@
 
         <main id="main">
 
-                            <!-- mt = 1672783640 -->
+                            <!-- mt = 1672825722 -->
 <h2 class="breakingnews priority" id="urgent">
   <span class="text">
     <span class="label">
-      VIRAL
+      COAC 2023
           </span>
     <strong class="ticker">
-                <a title="El oso de la cabalgata de Cádiz regresa con collarín, casi recuperado" href="/vivir_en_cadiz/oso-cabalgata-Cadiz-regresa-collarin-recuperado_0_1753325649.html" class="lnk" rel="blank">El oso de la cabalgata de Cádiz regresa con collarín, casi recuperado</a>
+                <a title="Las agrupaciones no podrán exhibir publicidad de bebidas alcohólicas" href="/diario_del_carnaval/publicidad-alcohol-COAC_0_1753626021.html" class="lnk" rel="blank">Las agrupaciones no podrán exhibir publicidad de bebidas alcohólicas</a>
           </strong>
   </span>
 </h2><!-- .breaking-news -->
 
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825722 -->
             
 
 
@@ -2171,13 +2171,13 @@
 
                             <div itemprop="articleBody" class="mce-body "><p class="mce capitalize-first-letter">Qu&eacute; le vamos a hacer. La Navidad es ya para algunos en La Isla un Pap&aacute; Noel de guardarrop&iacute;a paseando en un coche de caballos a la jerezana y precedido por una batucada, a la que sigue un cuerpo de baile formado por elfas (?) que ejecutan una coreograf&iacute;a de procedencia y desarrollado indeterminado. Y repartidos por el cortejo, un diseminado de personajes variados de pel&iacute;culas Disney y Pixar, desaforados en su af&aacute;n de saludar con las dos manos a un p&uacute;blico familiar, predispuesto y grit&oacute;n que (es incre&iacute;ble como algunas cosas no cambian) reclama su raci&oacute;n desmesurada de caramelos como si de un derecho humano pisoteado se tratara. Un batiburrillo de exclamaciones.
 </p><p class="mce">Hasta a un descre&iacute;do como yo le resulta rara la ausencia de una Sagrada Familia en el desfile, con Mar&iacute;a subida al burro y Jos&eacute; con su cayado llevando al rucio del ronzal. A fin de cuentas, ellos inventaron todo esto. Para historia fant&aacute;stica y aventurera, no la hay mejor que la de una familia pobre y desamparada a la busca de posada, rechazada por todos y teniendo que buscar un paritorio resguardado del fr&iacute;o invernal en un establo, o en una cueva seg&uacute;n dictamine una u otra imaginer&iacute;a. Yo dir&iacute;a que este cuento es muy dif&iacute;cil de igualar, sobre todo por ese final apote&oacute;sico y feliz en el que el ni&ntilde;o de un artesano y un ama de casa culmina su venida al mundo con una brillante y sonora ovaci&oacute;n interpretada al un&iacute;sono por unos humildes pastores cautivados y unos celestiales &aacute;ngeles cantores en las alturas, que atrajeron con su estruendo y luz a unos Magos venidos de tierras lejanas. &iexcl;Y todo eso, muchos siglos antes de Haendel!
-</p><!-- mt = 1672783640 -->
+</p><!-- mt = 1672825241 -->
 <!-- INI: intext advertising -->
      <div class="adv-intext">
          <script async type="application/javascript" src="https://static.addevweb.com/integrations/1be4c1fe-91df-4dd1-aecc-5fe68b3ff607/1be4c1fe-91df-4dd1-aecc-5fe68b3ff607.js"></script>
      </div>
 <!-- END: intext advertising -->
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825241 -->
 <p class="mce">Nada que ver las intenciones de aquel ni&ntilde;o trascendente con superpoderes, con las de esa parada de personajillos infantiles de sonrisa de cart&oacute;n piedra. Pero bueno, si aquel ten&iacute;a como objetivo nada menos que salvar al Mundo, estos se conforman con el noble fin de intentar que la gente compre m&aacute;s. Convengamos pues en que el poco imaginativo esfuerzo est&aacute; en consonancia con la prosaica finalidad que se busca.</p></div>                                                    </div><!-- .pg-body -->
 
                                                 
@@ -2185,7 +2185,7 @@
             <a class="button-comments" href="#comments">COMENTAR / VER COMENTARIOS</a>
         </div>
     
-                        <!-- mt = 1672783640 -->
+                        <!-- mt = 1672825722 -->
 <section class="group-opinion-graphic-stories md">
 
     <div class="hd">
@@ -2212,10 +2212,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/enrique-garcia-maiquez/">Enrique Gª-Máiquez</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/eduardo_jorda/">Eduardo Jordá</a>
 
-      <a href="https://www.diariodecadiz.es/enrique-garcia-maiquez/" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2016/10/12/Enrique_Garcia_Marquez.jpg?hash=598fc821a083005e941ce1a4af928de60d4e670f" width="151" height="151" alt="Enrique Gª-Máiquez">
+      <a href="https://www.diariodecadiz.es/eduardo_jorda/" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2016/10/12/Eduardo_Jorda.jpg?hash=12766d4fe617cf708f17cba766f45e99142bfdf7" width="151" height="151" alt="Eduardo Jordá">
       </a>
     </span><!-- .obj-image -->
 
@@ -2229,14 +2229,14 @@
     </div>
 
                             <address class="byline">
-                                <em><a class="lnk " href="https://www.diariodecadiz.es/enrique-garcia-maiquez/" title="Enrique Gª-Máiquez" >Enrique Gª-Máiquez</a></em>
+                                <em><a class="lnk " href="https://www.diariodecadiz.es/eduardo_jorda/" title="Eduardo Jordá" >Eduardo Jordá</a></em>
                             </address>
 
                             <h1 class="section-title">
                                                                 <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/" title="Artículos" >Artículos</a>                            </h1>
 
                             <h2 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/herederos_0_1753624632.html" title="Somos herederos" >Somos herederos</a>    </h2>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/sistema_0_1753924614.html" title="El sistema" >El sistema</a>    </h2>
 
                         </article><!-- .item -->
 
@@ -2253,10 +2253,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/jose_ignacio_rufino/">Tacho Rufino</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/eduardo_osborne/">Eduardo Osborne</a>
 
-      <a href="https://www.diariodecadiz.es/jose_ignacio_rufino/" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2020/03/06/tacho_rufino_2020.jpg?hash=b1ab87268633e4736ecf885ee4535a1a20abb03c" width="151" height="151" alt="Tacho Rufino">
+      <a href="https://www.diariodecadiz.es/eduardo_osborne/" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2019/09/17/eduardo_osborne.jpg?hash=03c506b63872880f068a56d3904e738ae1f9f5fc" width="151" height="151" alt="Eduardo Osborne">
       </a>
     </span><!-- .obj-image -->
 
@@ -2270,14 +2270,14 @@
     </div>
 
                             <address class="byline">
-                                <em><a class="lnk " href="https://www.diariodecadiz.es/jose_ignacio_rufino/" title="Tacho Rufino" >Tacho Rufino</a></em>
+                                <em><a class="lnk " href="https://www.diariodecadiz.es/eduardo_osborne/" title="Eduardo Osborne" >Eduardo Osborne</a></em>
                             </address>
 
                             <h1 class="section-title">
                                                                 <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/" title="Artículos" >Artículos</a>                            </h1>
 
                             <h2 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Agua-tritones_0_1753624625.html" title="Agua para tritones" >Agua para tritones</a>    </h2>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/humildad-papa-Ratzinger_0_1753924615.html" title="La humildad del papa Ratzinger" >La humildad del papa Ratzinger</a>    </h2>
 
                         </article><!-- .item -->
 
@@ -2294,10 +2294,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/carmen_camacho/">Carmen Camacho</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/manuel_gregorio_gonzalez/">Manuel Gregorio González</a>
 
-      <a href="https://www.diariodecadiz.es/carmen_camacho/" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2018/10/09/carmen_camacho_cambio_sentido_2018.jpg?hash=68b4dcd01bfb313e0ca341863210293f2cb36415" width="151" height="151" alt="Carmen Camacho">
+      <a href="https://www.diariodecadiz.es/manuel_gregorio_gonzalez/" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2016/10/12/Manuel_Gregorio_Gonzalez.jpg?hash=8f3bc27ae924069d6760e5d3109c6eddc74e303e" width="151" height="151" alt="Manuel Gregorio González">
       </a>
     </span><!-- .obj-image -->
 
@@ -2311,14 +2311,14 @@
     </div>
 
                             <address class="byline">
-                                <em><a class="lnk " href="https://www.diariodecadiz.es/carmen_camacho/" title="Carmen Camacho" >Carmen Camacho</a></em>
+                                <em><a class="lnk " href="https://www.diariodecadiz.es/manuel_gregorio_gonzalez/" title="Manuel Gregorio González" >Manuel Gregorio González</a></em>
                             </address>
 
                             <h1 class="section-title">
                                                                 <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/" title="Artículos" >Artículos</a>                            </h1>
 
                             <h2 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Doce_0_1753624628.html" title="Doce" >Doce</a>    </h2>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Solo-nombre_0_1753924620.html" title="Solo un nombre" >Solo un nombre</a>    </h2>
 
                         </article><!-- .item -->
 
@@ -2335,10 +2335,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/ignacio_f-_garmendia/">Ignacio F. Garmendia</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/magdalena_trillo/">Magdalena Trillo</a>
 
-      <a href="https://www.diariodecadiz.es/ignacio_f-_garmendia/" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2017/08/28/ignacio_f_garmendia.jpg?hash=b0f9036b65be452d9553a99161336b3ccf2a804f" width="151" height="151" alt="Ignacio F. Garmendia">
+      <a href="https://www.diariodecadiz.es/magdalena_trillo/" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2016/10/12/Magdalena_Trillo.jpg?hash=c8c0f43598b218f97913c4ee1448a3cc29bcf0f8" width="151" height="151" alt="Magdalena Trillo">
       </a>
     </span><!-- .obj-image -->
 
@@ -2352,14 +2352,14 @@
     </div>
 
                             <address class="byline">
-                                <em><a class="lnk " href="https://www.diariodecadiz.es/ignacio_f-_garmendia/" title="Ignacio F. Garmendia" >Ignacio F. Garmendia</a></em>
+                                <em><a class="lnk " href="https://www.diariodecadiz.es/magdalena_trillo/" title="Magdalena Trillo" >Magdalena Trillo</a></em>
                             </address>
 
                             <h1 class="section-title">
                                                                 <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/" title="Artículos" >Artículos</a>                            </h1>
 
                             <h2 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Navegaciones_0_1753624630.html" title="Navegaciones" >Navegaciones</a>    </h2>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/bares-pinchan_0_1753924618.html" title="Los bares pinchan" >Los bares pinchan</a>    </h2>
 
                         </article><!-- .item -->
 
@@ -2368,16 +2368,16 @@
         </div>
     </div>
 </section>
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825722 -->
 
                         <!--Taboola-->
 <div id="taboola-below-article-thumbnails-JOLNWS20221226_0331" data-taboola-content-id="JOLNWS20221226_0331"></div>
 <!--End Taboola-->
-                        <!-- mt = 1672783620 -->
+                        <!-- mt = 1672825745 -->
     <!--Recomendador Prometeo-->
 <div id="UrVfZxe1Hyy0ReDhmbfH" data-prometeo-mediaid="402" data-prometeo-widget="WIDGET-PROMETEO-V2" class="WIDGET-PROMETEO-V2 prometeo-content"></div> 
 <!--Fin Recomendador Prometeo-->
-<!-- /mt = 1672783620 -->
+<!-- /mt = 1672825745 -->
 
                         <section id="comments" class="md-comments" data-comments-src="/bb3comment/JOLNWS20221226_0331.json">
 
@@ -2539,14 +2539,14 @@
             
         </ul>
     </div>
-</div><!-- .md-opinion-author-entries -->                        <!-- mt = 1672783641 -->
-<!-- mt = 1672783555 -->
+</div><!-- .md-opinion-author-entries -->                        <!-- mt = 1672825242 -->
+<!-- mt = 1672825606 -->
 
     
     
 
             
-        <div id="ads-container-921928197" class="ad-v ad-300x250" style="min-height: 600px; display: flex; align-items: start; justify-content: center;">
+        <div id="ads-container-1308206856" class="ad-v ad-300x250" style="min-height: 600px; display: flex; align-items: start; justify-content: center;">
             <div class="ad bbt-adv-container henneoHB-right" style="position: sticky;top: 100px;display: flex; align-items: center; justify-content: center;"></div><!-- #bbt-ad-slot-right1 -->
         </div><!-- .ad-v -->
     
@@ -2569,7 +2569,7 @@
     </div><!-- .hd -->
 
     <div class="bd swiper-container">
-        <!-- mt = 1672783453 -->
+        <!-- mt = 1672825716 -->
 <ol class="list swiper-wrapper">
 
     
@@ -2583,10 +2583,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/herederos_0_1753624632.html">Enrique Gª-Máiquez</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/sistema_0_1753924614.html">Eduardo Jordá</a>
 
-      <a href="https://www.diariodecadiz.es/opinion/articulos/herederos_0_1753624632.html" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2016/10/12/Enrique_Garcia_Marquez.jpg?hash=598fc821a083005e941ce1a4af928de60d4e670f" width="400" height="400" alt="Enrique Gª-Máiquez">
+      <a href="https://www.diariodecadiz.es/opinion/articulos/sistema_0_1753924614.html" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2016/10/12/Eduardo_Jorda.jpg?hash=12766d4fe617cf708f17cba766f45e99142bfdf7" width="400" height="400" alt="Eduardo Jordá">
       </a>
     </span><!-- .obj-image -->
 
@@ -2596,7 +2596,7 @@
                             
             <div class="mt">
                 <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/herederos_0_1753624632.html" title="Somos herederos" >Somos herederos</a>    </h1>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/sistema_0_1753924614.html" title="El sistema" >El sistema</a>    </h1>
             </div>
         </li>
     
@@ -2610,10 +2610,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/Entrar-carcel_0_1753624629.html">Enrique Montiel</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/analisis/Noche-Reyes_0_1753625180.html">Ignacio Colón</a>
 
-      <a href="https://www.diariodecadiz.es/opinion/articulos/Entrar-carcel_0_1753624629.html" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2020/01/28/enrique_montiel.jpg?hash=d87138bdde08e62a0e8df3e46aac18d62f2becc0" width="400" height="400" alt="Enrique Montiel">
+      <a href="https://www.diariodecadiz.es/opinion/analisis/Noche-Reyes_0_1753625180.html" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2022/10/07/ignacio_colon.jpg?hash=dae03c3bbd7f8007b444d3cf4ddf535604b58ffd" width="400" height="400" alt="Ignacio Colón">
       </a>
     </span><!-- .obj-image -->
 
@@ -2623,27 +2623,7 @@
                             
             <div class="mt">
                 <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Entrar-carcel_0_1753624629.html" title="Entrar en la cárcel" >Entrar en la cárcel</a>    </h1>
-            </div>
-        </li>
-    
-        
-        <li class="item swiper-slide">
-
-            
-            <div class="mt">
-                <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/analisis/Ratzinger-Benedicto-atrevimiento-saber-viejo_0_1753624624.html" title="Ratzinger-Benedicto, el atrevimiento de saber ser viejo" >Ratzinger-Benedicto, el atrevimiento de saber ser viejo</a>    </h1>
-            </div>
-        </li>
-    
-        
-        <li class="item swiper-slide">
-
-            
-            <div class="mt">
-                <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/analisis/Oh-Venid-adoremos_0_1753624635.html" title="¡Oh! Venid y adoremos" >¡Oh! Venid y adoremos</a>    </h1>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/analisis/Noche-Reyes_0_1753625180.html" title="Noche de Reyes" >Noche de Reyes</a>    </h1>
             </div>
         </li>
     
@@ -2657,10 +2637,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/Doce_0_1753624628.html">Carmen Camacho</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/bares-pinchan_0_1753924618.html">Magdalena Trillo</a>
 
-      <a href="https://www.diariodecadiz.es/opinion/articulos/Doce_0_1753624628.html" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2018/10/09/carmen_camacho_cambio_sentido_2018.jpg?hash=68b4dcd01bfb313e0ca341863210293f2cb36415" width="400" height="400" alt="Carmen Camacho">
+      <a href="https://www.diariodecadiz.es/opinion/articulos/bares-pinchan_0_1753924618.html" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2016/10/12/Magdalena_Trillo.jpg?hash=c8c0f43598b218f97913c4ee1448a3cc29bcf0f8" width="400" height="400" alt="Magdalena Trillo">
       </a>
     </span><!-- .obj-image -->
 
@@ -2670,17 +2650,7 @@
                             
             <div class="mt">
                 <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Doce_0_1753624628.html" title="Doce" >Doce</a>    </h1>
-            </div>
-        </li>
-    
-        
-        <li class="item swiper-slide">
-
-            
-            <div class="mt">
-                <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/tribuna/Benedicto-XVI-legado_0_1753624627.html" title="Benedicto XVI y su legado" >Benedicto XVI y su legado</a>    </h1>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/bares-pinchan_0_1753924618.html" title="Los bares pinchan" >Los bares pinchan</a>    </h1>
             </div>
         </li>
     
@@ -2694,10 +2664,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/Navegaciones_0_1753624630.html">Ignacio F. Garmendia</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/Libros-regalos-arte_0_1753924617.html">José Joaquín León</a>
 
-      <a href="https://www.diariodecadiz.es/opinion/articulos/Navegaciones_0_1753624630.html" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2017/08/28/ignacio_f_garmendia.jpg?hash=b0f9036b65be452d9553a99161336b3ccf2a804f" width="400" height="400" alt="Ignacio F. Garmendia">
+      <a href="https://www.diariodecadiz.es/opinion/articulos/Libros-regalos-arte_0_1753924617.html" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodealmeria.es/2017/01/16/jose_joaquin_leon.jpg?hash=0bde886c07e1c47d54c22fc2a7a1f399ebc2907f" width="400" height="400" alt="José Joaquín León">
       </a>
     </span><!-- .obj-image -->
 
@@ -2707,7 +2677,7 @@
                             
             <div class="mt">
                 <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Navegaciones_0_1753624630.html" title="Navegaciones" >Navegaciones</a>    </h1>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Libros-regalos-arte_0_1753924617.html" title="Libros y otros regalos con arte" >Libros y otros regalos con arte</a>    </h1>
             </div>
         </li>
     
@@ -2721,10 +2691,10 @@
   
     <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
 
-      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/Agua-tritones_0_1753624625.html">Tacho Rufino</a>
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/humildad-papa-Ratzinger_0_1753924615.html">Eduardo Osborne</a>
 
-      <a href="https://www.diariodecadiz.es/opinion/articulos/Agua-tritones_0_1753624625.html" class="lnk ">
-        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2020/03/06/tacho_rufino_2020.jpg?hash=b1ab87268633e4736ecf885ee4535a1a20abb03c" width="400" height="400" alt="Tacho Rufino">
+      <a href="https://www.diariodecadiz.es/opinion/articulos/humildad-papa-Ratzinger_0_1753924615.html" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2019/09/17/eduardo_osborne.jpg?hash=03c506b63872880f068a56d3904e738ae1f9f5fc" width="400" height="400" alt="Eduardo Osborne">
       </a>
     </span><!-- .obj-image -->
 
@@ -2734,7 +2704,34 @@
                             
             <div class="mt">
                 <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Agua-tritones_0_1753624625.html" title="Agua para tritones" >Agua para tritones</a>    </h1>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/humildad-papa-Ratzinger_0_1753924615.html" title="La humildad del papa Ratzinger" >La humildad del papa Ratzinger</a>    </h1>
+            </div>
+        </li>
+    
+        
+        <li class="item swiper-slide">
+
+                            
+                                    <div class="inset-L-w3">
+                        <div class="mg opinion-author-image">
+  
+  
+    <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
+
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/articulos/Solo-nombre_0_1753924620.html">Manuel Gregorio González</a>
+
+      <a href="https://www.diariodecadiz.es/opinion/articulos/Solo-nombre_0_1753924620.html" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodesevilla.es/2016/10/12/Manuel_Gregorio_Gonzalez.jpg?hash=8f3bc27ae924069d6760e5d3109c6eddc74e303e" width="400" height="400" alt="Manuel Gregorio González">
+      </a>
+    </span><!-- .obj-image -->
+
+  
+  </div>
+                    </div>
+                            
+            <div class="mt">
+                <h1 class="headline " >
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Solo-nombre_0_1753924620.html" title="Solo un nombre" >Solo un nombre</a>    </h1>
             </div>
         </li>
     
@@ -2744,7 +2741,7 @@
             
             <div class="mt">
                 <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/articulos/Profetas-desastre_0_1753624631.html" title="Profetas del desastre" >Profetas del desastre</a>    </h1>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/tribuna/Ratzinger-ciencias-naturales_0_1753924619.html" title="Ratzinger y las ciencias naturales" >Ratzinger y las ciencias naturales</a>    </h1>
             </div>
         </li>
     
@@ -2754,19 +2751,56 @@
             
             <div class="mt">
                 <h1 class="headline " >
-            <a class="lnk " href="https://www.diariodecadiz.es/opinion/analisis/Esquerra-Podemos-auxilio-Nunez-Feijoo_0_1753624633.html" title="Esquerra y Podemos en auxilio de Núñez Feijóo" >Esquerra y Podemos en auxilio de Núñez Feijóo</a>    </h1>
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/editorial/cosas-comer_0_1753924616.html" title="Las cosas de comer" >Las cosas de comer</a>    </h1>
+            </div>
+        </li>
+    
+        
+        <li class="item swiper-slide">
+
+                            
+                                    <div class="inset-L-w3">
+                        <div class="mg opinion-author-image">
+  
+  
+    <span class="obj-img hmedia" itemscope itemtype="http://schema.org/ImageObject">
+
+      <a class="fn" rel="enclosure" itemprop="contentUrl" type="image/jpeg" href="https://www.diariodecadiz.es/opinion/analisis/Reyes-mar_0_1753325016.html">Rafael Duarte</a>
+
+      <a href="https://www.diariodecadiz.es/opinion/analisis/Reyes-mar_0_1753325016.html" class="lnk ">
+        <img class="photo lazy" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.diariodecadiz.es/2018/11/12/duarteok.jpg?hash=26805cabfe1bd785c8f05edc34ca38c8a66cd67a" width="400" height="400" alt="Rafael Duarte">
+      </a>
+    </span><!-- .obj-image -->
+
+  
+  </div>
+                    </div>
+                            
+            <div class="mt">
+                <h1 class="headline " >
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/analisis/Reyes-mar_0_1753325016.html" title="Los Reyes y la mar" >Los Reyes y la mar</a>    </h1>
+            </div>
+        </li>
+    
+        
+        <li class="item swiper-slide">
+
+            
+            <div class="mt">
+                <h1 class="headline " >
+            <a class="lnk " href="https://www.diariodecadiz.es/opinion/analisis/Siguen-avances_0_1753924622.html" title="Siguen los avances" >Siguen los avances</a>    </h1>
             </div>
         </li>
     
 </ol>
-<!-- /mt = 1672783453 -->
+<!-- /mt = 1672825716 -->
     </div><!-- .bd -->
 
 </div><!-- .md-opinion-topmost-author -->
     
     
     
-    <!-- mt = 1672783636 -->
+    <!-- mt = 1672825727 -->
 
     
     
@@ -2783,7 +2817,7 @@
 
 
     
-    <!-- /mt = 1672783636 -->
+    <!-- /mt = 1672825727 -->
 
     
     
@@ -2791,14 +2825,14 @@
     
 
             
-        <div id="ads-container-416265013" class="ad-v ad-300x250" style="min-height: 600px; display: flex; align-items: start; justify-content: center;">
+        <div id="ads-container-1768452145" class="ad-v ad-300x250" style="min-height: 600px; display: flex; align-items: start; justify-content: center;">
             <div class="ad bbt-adv-container henneoHB-right" style="position: sticky;top: 100px;display: flex; align-items: center; justify-content: center;"></div><!-- #bbt-ad-slot-right2 -->
         </div><!-- .ad-v -->
     
     
     
     
-    <!-- mt = 1672783636 -->
+    <!-- mt = 1672825727 -->
 
     
     
@@ -2825,12 +2859,12 @@
 
 
     
-    <!-- /mt = 1672783636 -->
+    <!-- /mt = 1672825727 -->
 
     
     
     
-    <!-- mt = 1672783635 -->
+    <!-- mt = 1672825727 -->
 
     
     
@@ -2845,11 +2879,11 @@
 
 
     
-    <!-- /mt = 1672783635 -->
+    <!-- /mt = 1672825727 -->
 
     
-    <!-- /mt = 1672783555 -->
-<!-- /mt = 1672783641 -->
+    <!-- /mt = 1672825606 -->
+<!-- /mt = 1672825242 -->
                     </aside><!-- .gdu .u8 .u-last -->
 
                 </div><!-- .gd -->
@@ -2882,7 +2916,7 @@
 </a>
         </div>
 
-        <!-- mt = 1672783640 -->
+        <!-- mt = 1672825722 -->
 
 <div class="md-links md">
     <ul class="row">
@@ -3234,7 +3268,7 @@
 
     </ul>
 </div><!-- .md-links -->
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825722 -->
 
         <div class="md-legal md" itemscope itemtype="http://schema.org/Organization">
 	<p>
@@ -3253,12 +3287,12 @@
 
 </div><!-- #pagedoc -->
 
-<!-- mt = 1672783640 -->
+<!-- mt = 1672825660 -->
 <script src="https://www.diariodecadiz.es/static/BB3HTML/js/diariodecadiz.joly.init.min.js?hash=60560e62bf4ce6d5539541e59873310b" type="text/javascript"></script>
-<!-- /mt = 1672783640 -->
+<!-- /mt = 1672825660 -->
 
-<!-- mt = 1672783640 -->
-<!-- /mt = 1672783640 -->
+<!-- mt = 1672825723 -->
+<!-- /mt = 1672825723 -->
 
 <script type="didomi/javascript" data-vendor="c:vendor-dogtrack">
 (function(d,s,id,h,t){

@@ -495,32 +495,32 @@
           
             <li class="min-h-[85px] lg:h-[85px] flex items-center border-b border-neutral-300 text-left last:border-none py-[15px] pr-[20px] pl-[10px] before:font-extrabold before:text-3xl before:w-[40px] before:mr-4 before:text-center before:[counter-increment:section] before:[content:counter(section)] before:flex-shrink-0">
               <h4>
-                <a href="/noticia/338/ud-almeria/250003/metedura-de-pata" class="font-sans leading-[18px] no-underline text-ash-500 text-lg">
-                  Metedura de pata
+                <a href="/noticia/12/almeria/249995/estados-unidos-y-canada-destino-para-once-alumnos-almerienses" class="font-sans leading-[18px] no-underline text-ash-500 text-lg">
+                  Estados Unidos y Canadá, destino para once alumnos almerienses
                 </a>
               </h4>
             </li>
           
             <li class="min-h-[85px] lg:h-[85px] flex items-center border-b border-neutral-300 text-left last:border-none py-[15px] pr-[20px] pl-[10px] before:font-extrabold before:text-3xl before:w-[40px] before:mr-4 before:text-center before:[counter-increment:section] before:[content:counter(section)] before:flex-shrink-0">
               <h4>
-                <a href="/noticia/12/almeria/249979/el-centro-ha-muerto-para-mi" class="font-sans leading-[18px] no-underline text-ash-500 text-lg">
-                  El centro ha muerto para mí
+                <a href="/noticia/3/provincia/250036/buscan-figurantes-para-salir-en-la-cabalgata-de-reyes-de-este-pueblo-almeriense" class="font-sans leading-[18px] no-underline text-ash-500 text-lg">
+                  Buscan figurantes para salir en la Cabalgata de Reyes de este pueblo almeriense
                 </a>
               </h4>
             </li>
           
             <li class="min-h-[85px] lg:h-[85px] flex items-center border-b border-neutral-300 text-left last:border-none py-[15px] pr-[20px] pl-[10px] before:font-extrabold before:text-3xl before:w-[40px] before:mr-4 before:text-center before:[counter-increment:section] before:[content:counter(section)] before:flex-shrink-0">
               <h4>
-                <a href="/noticia/12/almeria/249808/el-ikea-de-almeria-coge-forma-asi-va-la-obra" class="font-sans leading-[18px] no-underline text-ash-500 text-lg">
-                  El Ikea de Almería coge forma: así va la obra
+                <a href="/noticia/338/ud-almeria/250020/sadiq-la-mejor-decision-de-mi-carrera" class="font-sans leading-[18px] no-underline text-ash-500 text-lg">
+                  Sadiq: “La mejor decisión de mi carrera”
                 </a>
               </h4>
             </li>
           
             <li class="min-h-[85px] lg:h-[85px] flex items-center border-b border-neutral-300 text-left last:border-none py-[15px] pr-[20px] pl-[10px] before:font-extrabold before:text-3xl before:w-[40px] before:mr-4 before:text-center before:[counter-increment:section] before:[content:counter(section)] before:flex-shrink-0">
               <h4>
-                <a href="/noticia/12/almeria/249994/detenido-un-hombre-por-agredir-a-otro-que-cortejaba-a-su-ex-en-el-zapillo" class="font-sans leading-[18px] no-underline text-ash-500 text-lg">
-                  Detenido un hombre por agredir a otro que cortejaba a su ex en El Zapillo
+                <a href="/noticia/3/provincia/249986/el-almeriense-que-lleva-40-anos-abriendo-las-puertas-de-su-casa-en-navidad" class="font-sans leading-[18px] no-underline text-ash-500 text-lg">
+                  El almeriense que lleva 40 años abriendo las puertas de su casa en Navidad
                 </a>
               </h4>
             </li>
@@ -576,7 +576,7 @@
       <li>Teléfono: +34 950 181818</li>
       <li class="text-neutral-500 hidden lg:list-item">•</li>
       <li class="text-neutral-800">
-        <a href="/contacto"><span class="__cf_email__" data-cfemail="79180d1c171a10161718151a15101c170d1c3915180f16031d1c1815141c0b1018571a1614">[email&#160;protected]</span></a>
+        <a href="/contacto"><span class="__cf_email__" data-cfemail="8eeffaebe0ede7e1e0efe2ede2e7ebe0faebcee2eff8e1f4eaebefe2e3ebfce7efa0ede1e3">[email&#160;protected]</span></a>
       </li>
     </ul>
 

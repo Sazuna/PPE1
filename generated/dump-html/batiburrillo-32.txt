@@ -124,7 +124,7 @@
   <meta property="og:title" content="Estos son los belenes más raros del mundo (y dos son españoles)" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="https://viajar.elperiodico.com/viajeros/belenes-raros-mundo-espanoles" />
-      <meta property="og:image" content="https://img4.viajar.elperiodico.com/e4/73/0f/belen-rute-galleros-artesanos-1365x847-620x415.jpg" />
+      <meta property="og:image" content="https://img1.viajar.elperiodico.com/e4/73/0f/belen-rute-galleros-artesanos-1365x847-620x415.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="620" />
         <meta property="og:image:height" content="415" />
@@ -142,7 +142,7 @@
   <meta name="twitter:url" content="https://viajar.elperiodico.com/viajeros/belenes-raros-mundo-espanoles" />
   <meta name="twitter:title" content="Estos son los belenes más raros del mundo (y dos son españoles)" />
   <meta name="twitter:description" content="Vivientes, comestibles, efímeros… todo vale para representar el Nacimiento" />
-      <meta name="twitter:image" content="https://img4.viajar.elperiodico.com/e4/73/0f/belen-rute-galleros-artesanos-1365x847-620x415.jpg" />
+      <meta name="twitter:image" content="https://img1.viajar.elperiodico.com/e4/73/0f/belen-rute-galleros-artesanos-1365x847-620x415.jpg" />
   
   <meta property="article:published_time" content="2022-11-28T15:21:35+01:00" />
   <meta property="article:modified_time" content="2022-11-28T12:25:55+01:00" />
@@ -642,13 +642,13 @@ googletag.display(id);
           </div>
           <div style="width:300px">
             <aside class="stickybanner">
-              <div class="lazy-render" data-lazy-unload-function="f_banner_b9f57c6d23_cpm_r_dchac_unload" data-lazy-function="f_banner_b9f57c6d23_cpm_r_dchac" id="banner_b9f57c6d23_cpm_r_dchac">
+              <div class="lazy-render" data-lazy-unload-function="f_banner_183d134e2e_cpm_r_dchac_unload" data-lazy-function="f_banner_183d134e2e_cpm_r_dchac" id="banner_183d134e2e_cpm_r_dchac">
   <script type="text/javascript">
-  var slot_banner_b9f57c6d23_cpm_r_dchac = null;
-function f_banner_b9f57c6d23_cpm_r_dchac(){
+  var slot_banner_183d134e2e_cpm_r_dchac = null;
+function f_banner_183d134e2e_cpm_r_dchac(){
   googletag.cmd.push(function() {
-    slot_banner_b9f57c6d23_cpm_r_dchac = googletag.defineSlot(__adUnit || "/138855687/nacional-via/servicios", [[1,1],[300,60],[300,100],[300,250],[300,300],[300,600],[300,900],[300,1000],"fluid"], "banner_b9f57c6d23_cpm_r_dchac").setTargeting("p", ["cpm_r_dchac"]).addService(googletag.pubads());
-    googletag.pubads().refresh( [slot_banner_b9f57c6d23_cpm_r_dchac] );
+    slot_banner_183d134e2e_cpm_r_dchac = googletag.defineSlot(__adUnit || "/138855687/nacional-via/servicios", [[1,1],[300,60],[300,100],[300,250],[300,300],[300,600],[300,900],[300,1000],"fluid"], "banner_183d134e2e_cpm_r_dchac").setTargeting("p", ["cpm_r_dchac"]).addService(googletag.pubads());
+    googletag.pubads().refresh( [slot_banner_183d134e2e_cpm_r_dchac] );
   });
 }
   </script>
@@ -689,7 +689,7 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
                               <ul class="carousel-cell">
                   <li>
                     <div class="otherpropusecontent">
-                      <div style="background: url(https://img2.viajar.elperiodico.com/3a/9d/b3/loiba-ortigueira-1201x846-300x200.jpg) top center;" class="otherpropusephotonail">
+                      <div style="background: url(https://img3.viajar.elperiodico.com/3a/9d/b3/loiba-ortigueira-1201x846-300x200.jpg) top center;" class="otherpropusephotonail">
                         <div class="otherpropusetittle">
                           <p class="purpleback">Viajeros</p>
                         </div>
@@ -717,7 +717,7 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
                               <ul class="carousel-cell">
                   <li>
                     <div class="otherpropusecontent">
-                      <div style="background: url(https://img4.viajar.elperiodico.com/27/05/c3/istock-1443452109-1321x846-300x200.jpg) top center;" class="otherpropusephotonail">
+                      <div style="background: url(https://img3.viajar.elperiodico.com/27/05/c3/istock-1443452109-1321x846-300x200.jpg) top center;" class="otherpropusephotonail">
                         <div class="otherpropusetittle">
                           <p class="purpleback">Viajeros</p>
                         </div>
@@ -731,7 +731,7 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
                               <ul class="carousel-cell">
                   <li>
                     <div class="otherpropusecontent">
-                      <div style="background: url(https://img1.viajar.elperiodico.com/35/6f/d3/set-viajarok-1201x911-300x200.jpg) top center;" class="otherpropusephotonail">
+                      <div style="background: url(https://img3.viajar.elperiodico.com/35/6f/d3/set-viajarok-1201x911-300x200.jpg) top center;" class="otherpropusephotonail">
                         <div class="otherpropusetittle">
                           <p class="purpleback">Viajeros</p>
                         </div>
@@ -745,7 +745,7 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
                               <ul class="carousel-cell">
                   <li>
                     <div class="otherpropusecontent">
-                      <div style="background: url(https://img4.viajar.elperiodico.com/5e/1f/dd/otono-canada-quebec-1201x846-300x200.jpg) top center;" class="otherpropusephotonail">
+                      <div style="background: url(https://img1.viajar.elperiodico.com/5e/1f/dd/otono-canada-quebec-1201x846-300x200.jpg) top center;" class="otherpropusephotonail">
                         <div class="otherpropusetittle">
                           <p class="purpleback">Viajeros</p>
                         </div>
@@ -773,7 +773,7 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
                               <ul class="carousel-cell">
                   <li>
                     <div class="otherpropusecontent">
-                      <div style="background: url(https://img2.viajar.elperiodico.com/ae/89/c4/pittsburgh-belen-montalvo-300x200.jpg) top center;" class="otherpropusephotonail">
+                      <div style="background: url(https://img3.viajar.elperiodico.com/ae/89/c4/pittsburgh-belen-montalvo-300x200.jpg) top center;" class="otherpropusephotonail">
                         <div class="otherpropusetittle">
                           <p class="purpleback">Viajeros</p>
                         </div>
@@ -787,7 +787,7 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
                               <ul class="carousel-cell">
                   <li>
                     <div class="otherpropusecontent">
-                      <div style="background: url(https://img1.viajar.elperiodico.com/15/a0/dd/agujero-negro-devorando-estrella-1313x847-300x200.jpg) top center;" class="otherpropusephotonail">
+                      <div style="background: url(https://img2.viajar.elperiodico.com/15/a0/dd/agujero-negro-devorando-estrella-1313x847-300x200.jpg) top center;" class="otherpropusephotonail">
                         <div class="otherpropusetittle">
                           <p class="purpleback">Viajeros</p>
                         </div>
@@ -801,7 +801,7 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
                               <ul class="carousel-cell">
                   <li>
                     <div class="otherpropusecontent">
-                      <div style="background: url(https://img4.viajar.elperiodico.com/57/23/54/viaje-calentito-300x200.jpg) top center;" class="otherpropusephotonail">
+                      <div style="background: url(https://img2.viajar.elperiodico.com/57/23/54/viaje-calentito-300x200.jpg) top center;" class="otherpropusephotonail">
                         <div class="otherpropusetittle">
                           <p class="purpleback">Viajeros</p>
                         </div>
@@ -815,7 +815,7 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
                               <ul class="carousel-cell">
                   <li>
                     <div class="otherpropusecontent">
-                      <div style="background: url(https://img4.viajar.elperiodico.com/b7/1e/ca/mejores-destinos-omt-300x200.jpg) top center;" class="otherpropusephotonail">
+                      <div style="background: url(https://img3.viajar.elperiodico.com/b7/1e/ca/mejores-destinos-omt-300x200.jpg) top center;" class="otherpropusephotonail">
                         <div class="otherpropusetittle">
                           <p class="purpleback">Viajeros</p>
                         </div>
@@ -1501,4 +1501,4 @@ function f_banner_b9f57c6d23_cpm_r_dchac(){
 </body>
 
 </html>
-<!-- (4470feed699c256d) (x.x.18.39) Exec time 0.1520s -->
+<!-- (c7bed5d617648e48) (x.x.18.39) Exec time 0.1439s -->

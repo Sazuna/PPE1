@@ -1263,29 +1263,20 @@ Logo def:
     <nav class="tag-bar" data-text="Es noticia:" itemscope itemtype="https://schema.org/SiteNavigationElement">
                     
 <a itemprop="url"
-    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/vimcorsa-adjudica-obras-segunda-fase-80642241.html"            class="header--inner"        title="Apartamentos Sama Naharro"
+    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/leve-bajada-precios-cordoba-reduccion-80654081.html"            class="header--inner"        title="Bajada de precios"
 >
                         <span
                 itemprop="name"            >
-                Apartamentos Sama Naharro
+                Bajada de precios
             </span>
             </a>
                     
 <a itemprop="url"
-    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/urbanismo-prorroga-plazo-solicitar-licencias-80654111.html"            class="header--inner"        title="Licencias veladores"
+    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/tiempo-hara-dia-cabalgata-reyes-80651841.html"            class="header--inner"        title="El tiempo en la Cabalgata"
 >
                         <span
                 itemprop="name"            >
-                Licencias veladores
-            </span>
-            </a>
-                    
-<a itemprop="url"
-    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/primera-cabalgata-reyes-vinuela-conoce-80652262.html"            class="header--inner"        title="Cabalgata La Viñuela"
->
-                        <span
-                itemprop="name"            >
-                Cabalgata La Viñuela
+                El tiempo en la Cabalgata
             </span>
             </a>
                     
@@ -1308,6 +1299,15 @@ Logo def:
             </a>
                     
 <a itemprop="url"
+    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/aguas-residuales-cordoba-anotan-repunte-80652410.html"            class="header--inner"        title="Covid en Córdoba"
+>
+                        <span
+                itemprop="name"            >
+                Covid en Córdoba
+            </span>
+            </a>
+                    
+<a itemprop="url"
     href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/2023-ano-impulsar-rematar-proyectos-80512121.html"            class="header--inner"        title="Proyectos 2023"
 >
                         <span
@@ -1317,11 +1317,11 @@ Logo def:
             </a>
                     
 <a itemprop="url"
-    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/02/gasto-medio-cordobes-sorteo-nino-80621836.html"            class="header--inner"        title="Lotería del Niño"
+    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/arden-setos-madrugada-calle-chalets-80670447.html"            class="header--inner"        title="Incendio setos"
 >
                         <span
                 itemprop="name"            >
-                Lotería del Niño
+                Incendio setos
             </span>
             </a>
             </nav>
@@ -3480,10 +3480,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="/deportes/2023/01/03/copa-rey-cacereno-real-madrid-80658092.html" class="most-read__link" >
+    <a href="/vida-y-estilo/2023/01/04/polvo-bajar-excesos-navidad-mercadona-dv-80456791.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">1</span>
                         <span class="most-read__heading">
-                        La varita de Rodrygo clasifica a un gris Real Madrid para octavos de la Copa
+                        El &#039;polvo&#039; mágico de Mercadona para bajar los excesos de Navidad
         </span>
     </a>
 </li>
@@ -3491,10 +3491,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="/economia/2023/01/03/microsoft-permite-primera-vez-historia-80661399.html" class="most-read__link" >
+    <a href="/sociedad/2023/01/04/presenta-tiempo-cordoba-jornada-miercoles-80668691.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">2</span>
                         <span class="most-read__heading">
-                        Microsoft permite por primera vez en su historia la creación de un sindicato
+                        Así se presenta el tiempo en Córdoba para esta jornada de miércoles
         </span>
     </a>
 </li>
@@ -3502,10 +3502,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="/vida-y-estilo/gente/2023/01/03/shakira-cambia-planes-queda-ahora-80661145.html" class="most-read__link" >
+    <a href="/cordoba/2023/01/04/el-tiempo-lucena-hoy-59830681.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">3</span>
                         <span class="most-read__heading">
-                        Shakira cambia de planes y se queda (por ahora)
+                        El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero
         </span>
     </a>
 </li>
@@ -3513,10 +3513,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="/sucesos-tribunales/2023/01/03/piden-explicaciones-interior-agresion-sexual-80647116.html" class="most-read__link" >
+    <a href="/sociedad/2023/01/04/primera-multa-empresas-senaladas-contaminar-80671403.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">4</span>
                         <span class="most-read__heading">
-                        El mosso y la mujer trans a la que agredió sexualmente se conocían
+                        Primera multa para una de las empresas señaladas por contaminar el Mar Menor
         </span>
     </a>
 </li>
@@ -3524,10 +3524,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="https://neomotor.epe.es/coches/los-coches-de-ken-block-EC1105987" class="most-read__link" >
+    <a href="/cordoba/2023/01/04/el-tiempo-cabra-hoy-59831526.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">5</span>
                         <span class="most-read__heading">
-                        Los coches de Ken Block
+                        El tiempo en Cabra: esta es la previsión meteorológica de hoy, miércoles 4 de enero
         </span>
     </a>
 </li>
@@ -3653,7 +3653,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="/cordoba-ciudad/2023/01/03/fallecidos-cordoba-martes-3-enero-80659891.html" title="Los fallecidos en Córdoba el martes 3 de enero" aria-label="Los fallecidos en Córdoba el martes 3 de enero"
+            <a href="/cordoba-ciudad/2023/01/04/arden-setos-madrugada-calle-chalets-80670447.html" title="Arden dos setos de madrugada en una calle de chalets del Tablero" aria-label="Arden dos setos de madrugada en una calle de chalets del Tablero"
            class="new__media "  >
                         
 
@@ -3663,19 +3663,19 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="Los fallecidos en Córdoba el martes 3 de enero" title="Los fallecidos en Córdoba el martes 3 de enero"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/b5ec0d55-e7f8-44b3-8382-41751a617158_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="Arden dos setos de madrugada en una calle de chalets del Tablero" title="Arden dos setos de madrugada en una calle de chalets del Tablero"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/4006c4c3-7aa2-4381-b4ac-cd3e4010e3c2_16-9-aspect-ratio_default_0.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/b5ec0d55-e7f8-44b3-8382-41751a617158_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/b5ec0d55-e7f8-44b3-8382-41751a617158_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/b5ec0d55-e7f8-44b3-8382-41751a617158_16-9-aspect-ratio_default_0.jpg" alt="Los fallecidos en Córdoba el martes 3 de enero"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/4006c4c3-7aa2-4381-b4ac-cd3e4010e3c2_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/4006c4c3-7aa2-4381-b4ac-cd3e4010e3c2_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/4006c4c3-7aa2-4381-b4ac-cd3e4010e3c2_16-9-aspect-ratio_default_0.jpg" alt="Arden dos setos de madrugada en una calle de chalets del Tablero"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/b5ec0d55-e7f8-44b3-8382-41751a617158_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/4006c4c3-7aa2-4381-b4ac-cd3e4010e3c2_16-9-aspect-ratio_default_0.jpg" itemprop="url">
 
-    <meta content="Los fallecidos en Córdoba el martes 3 de enero" itemprop="name">
+    <meta content="Arden dos setos de madrugada en una calle de chalets del Tablero" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/b5ec0d55-e7f8-44b3-8382-41751a617158_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/4006c4c3-7aa2-4381-b4ac-cd3e4010e3c2_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T21:51:02+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T09:49:48+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
@@ -3694,9 +3694,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="/cordoba-ciudad/2023/01/03/fallecidos-cordoba-martes-3-enero-80659891.html" title="Los fallecidos en Córdoba el martes 3 de enero" class="new__headline " itemprop="url"
+    <a href="/cordoba-ciudad/2023/01/04/arden-setos-madrugada-calle-chalets-80670447.html" title="Arden dos setos de madrugada en una calle de chalets del Tablero" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">Los fallecidos en Córdoba el martes 3 de enero</h2>
+                    <h2 itemprop="headline">Arden dos setos de madrugada en una calle de chalets del Tablero</h2>
             </a>
 
                     <div class="new__footer"
@@ -3726,7 +3726,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80659891">
+                                data-content-id="80670447">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -3734,7 +3734,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Córdoba Ciudad', 'Los fallecidos en Córdoba el martes 3 de enero', '/cordoba-ciudad/2023/01/03/fallecidos-cordoba-martes-3-enero-80659891.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Córdoba Ciudad', 'Arden dos setos de madrugada en una calle de chalets del Tablero', '/cordoba-ciudad/2023/01/04/arden-setos-madrugada-calle-chalets-80670447.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -3762,7 +3762,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="/cordoba-ciudad/2023/01/03/vox-confia-cumpla-plazo-firma-80657990.html" title="Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército" aria-label="Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército"
+            <a href="/sociedad/2023/01/04/presenta-tiempo-cordoba-jornada-miercoles-80668691.html" title="Así se presenta el tiempo en Córdoba para esta jornada de miércoles" aria-label="Así se presenta el tiempo en Córdoba para esta jornada de miércoles"
            class="new__media "  >
                         
 
@@ -3772,19 +3772,19 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército" title="Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/a706130d-3434-4cf5-a62c-1913910e919a_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="Así se presenta el tiempo en Córdoba para esta jornada de miércoles" title="Así se presenta el tiempo en Córdoba para esta jornada de miércoles"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_default_0_x1020y62.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/a706130d-3434-4cf5-a62c-1913910e919a_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/a706130d-3434-4cf5-a62c-1913910e919a_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/a706130d-3434-4cf5-a62c-1913910e919a_16-9-aspect-ratio_default_0.jpg" alt="Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_25p_0_x1020y62.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_50p_0_x1020y62.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_default_0_x1020y62.jpg" alt="Así se presenta el tiempo en Córdoba para esta jornada de miércoles"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/a706130d-3434-4cf5-a62c-1913910e919a_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_default_0_x1020y62.jpg" itemprop="url">
 
-    <meta content="Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército" itemprop="name">
+    <meta content="Así se presenta el tiempo en Córdoba para esta jornada de miércoles" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/a706130d-3434-4cf5-a62c-1913910e919a_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_25p_0_x1020y62.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T21:06:53+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T10:14:12+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
@@ -3792,8 +3792,8 @@ window._mo.checkRecs("_mo_recs","bcube_1");
     
     <header >
 
-                                <a href="/cordoba-ciudad/" class="new__topic">
-            <span>Córdoba Ciudad</span>
+                                <a href="/sociedad/" class="new__topic">
+            <span>Sociedad</span>
         </a>
             
         
@@ -3803,9 +3803,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="/cordoba-ciudad/2023/01/03/vox-confia-cumpla-plazo-firma-80657990.html" title="Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército" class="new__headline " itemprop="url"
+    <a href="/sociedad/2023/01/04/presenta-tiempo-cordoba-jornada-miercoles-80668691.html" title="Así se presenta el tiempo en Córdoba para esta jornada de miércoles" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército</h2>
+                    <h2 itemprop="headline">Así se presenta el tiempo en Córdoba para esta jornada de miércoles</h2>
             </a>
 
                     <div class="new__footer"
@@ -3814,9 +3814,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                                     
 
                     <a class="new__author"
-           href="https://www.diariocordoba.com/autores/diario-cordoba.html"
-           title="Diario CÓRDOBA" itemprop="name" content="Diario CÓRDOBA" name="Diario CÓRDOBA">
-            Diario CÓRDOBA
+           href="https://www.diariocordoba.com/autores/tomas-moreno.html"
+           title="Tomás Moreno" itemprop="name" content="Tomás Moreno" name="Tomás Moreno">
+            Tomás Moreno
         </a>
                     
                                     <ul class="new__actions">
@@ -3835,7 +3835,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80657990">
+                                data-content-id="80668691">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -3843,7 +3843,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Córdoba Ciudad', 'Vox confía en que se cumpla el plazo de la firma de la base logística del Ejército', '/cordoba-ciudad/2023/01/03/vox-confia-cumpla-plazo-firma-80657990.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Sociedad', 'Así se presenta el tiempo en Córdoba para esta jornada de miércoles', '/sociedad/2023/01/04/presenta-tiempo-cordoba-jornada-miercoles-80668691.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -3871,7 +3871,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="/cordoba-ciudad/2023/01/03/usuarios-centro-participacion-mayores-cordoba-80656914.html" title="Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos" aria-label="Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos"
+            <a href="/cordoba-ciudad/2023/01/04/tiempo-hara-dia-cabalgata-reyes-80651841.html" title="¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?" aria-label="¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?"
            class="new__media "  >
                         
 
@@ -3881,25 +3881,22 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos" title="Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/844e9f72-9f32-4aeb-bc09-f622e1dde9ac_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?" title="¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/fcafe497-7f68-4cc0-b8fd-f7029df92872_16-9-aspect-ratio_default_0.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/844e9f72-9f32-4aeb-bc09-f622e1dde9ac_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/844e9f72-9f32-4aeb-bc09-f622e1dde9ac_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/844e9f72-9f32-4aeb-bc09-f622e1dde9ac_16-9-aspect-ratio_default_0.jpg" alt="Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/fcafe497-7f68-4cc0-b8fd-f7029df92872_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/fcafe497-7f68-4cc0-b8fd-f7029df92872_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/fcafe497-7f68-4cc0-b8fd-f7029df92872_16-9-aspect-ratio_default_0.jpg" alt="¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/844e9f72-9f32-4aeb-bc09-f622e1dde9ac_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/fcafe497-7f68-4cc0-b8fd-f7029df92872_16-9-aspect-ratio_default_0.jpg" itemprop="url">
 
-    <meta content="Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos" itemprop="name">
+    <meta content="¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/844e9f72-9f32-4aeb-bc09-f622e1dde9ac_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/fcafe497-7f68-4cc0-b8fd-f7029df92872_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T20:27:14+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T08:43:16+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
-    <span class="rwd-media-ico">
-        <i class="i-play"></i>
-            </span>
         </a>
     
     <header >
@@ -3915,9 +3912,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="/cordoba-ciudad/2023/01/03/usuarios-centro-participacion-mayores-cordoba-80656914.html" title="Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos" class="new__headline " itemprop="url"
+    <a href="/cordoba-ciudad/2023/01/04/tiempo-hara-dia-cabalgata-reyes-80651841.html" title="¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos</h2>
+                    <h2 itemprop="headline">¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?</h2>
             </a>
 
                     <div class="new__footer"
@@ -3926,9 +3923,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                                     
 
                     <a class="new__author"
-           href="https://www.diariocordoba.com/autores/diario-cordoba.html"
-           title="Diario CÓRDOBA" itemprop="name" content="Diario CÓRDOBA" name="Diario CÓRDOBA">
-            Diario CÓRDOBA
+           href="https://www.diariocordoba.com/autores/tomas-moreno.html"
+           title="Tomás Moreno" itemprop="name" content="Tomás Moreno" name="Tomás Moreno">
+            Tomás Moreno
         </a>
                     
                                     <ul class="new__actions">
@@ -3947,7 +3944,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80656914">
+                                data-content-id="80651841">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -3955,7 +3952,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Córdoba Ciudad', 'Los usuarios del centro de participación de mayores de Córdoba realizan un pasacalles de villancicos', '/cordoba-ciudad/2023/01/03/usuarios-centro-participacion-mayores-cordoba-80656914.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Córdoba Ciudad', '¿Qué tiempo hará el día de la Cabalgata de Reyes en Córdoba? ¿Lloverá?', '/cordoba-ciudad/2023/01/04/tiempo-hara-dia-cabalgata-reyes-80651841.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -3983,7 +3980,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="/cordoba-ciudad/2023/01/03/son-titulares-tarde-tienes-leer-80655332.html" title="Estos son los titulares de la tarde que tienes que leer en Córdoba" aria-label="Estos son los titulares de la tarde que tienes que leer en Córdoba"
+            <a href="/cordoba-ciudad/2023/01/04/son-titulares-manana-tienes-leer-80660632.html" title="Estos son los titulares de la mañana que tienes que leer en Córdoba" aria-label="Estos son los titulares de la mañana que tienes que leer en Córdoba"
            class="new__media "  >
                         
 
@@ -3993,19 +3990,19 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="Estos son los titulares de la tarde que tienes que leer en Córdoba" title="Estos son los titulares de la tarde que tienes que leer en Córdoba"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/092d9207-0e52-480a-969c-561adbb46f21_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="Estos son los titulares de la mañana que tienes que leer en Córdoba" title="Estos son los titulares de la mañana que tienes que leer en Córdoba"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/5df0ea4a-68b5-4633-9b4f-49715b7ecf1c_16-9-aspect-ratio_default_0.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/092d9207-0e52-480a-969c-561adbb46f21_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/092d9207-0e52-480a-969c-561adbb46f21_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/092d9207-0e52-480a-969c-561adbb46f21_16-9-aspect-ratio_default_0.jpg" alt="Estos son los titulares de la tarde que tienes que leer en Córdoba"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/5df0ea4a-68b5-4633-9b4f-49715b7ecf1c_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/5df0ea4a-68b5-4633-9b4f-49715b7ecf1c_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/5df0ea4a-68b5-4633-9b4f-49715b7ecf1c_16-9-aspect-ratio_default_0.jpg" alt="Estos son los titulares de la mañana que tienes que leer en Córdoba"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/092d9207-0e52-480a-969c-561adbb46f21_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/5df0ea4a-68b5-4633-9b4f-49715b7ecf1c_16-9-aspect-ratio_default_0.jpg" itemprop="url">
 
-    <meta content="Estos son los titulares de la tarde que tienes que leer en Córdoba" itemprop="name">
+    <meta content="Estos son los titulares de la mañana que tienes que leer en Córdoba" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/092d9207-0e52-480a-969c-561adbb46f21_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/5df0ea4a-68b5-4633-9b4f-49715b7ecf1c_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T19:54:29+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T07:59:43+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
@@ -4024,9 +4021,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="/cordoba-ciudad/2023/01/03/son-titulares-tarde-tienes-leer-80655332.html" title="Estos son los titulares de la tarde que tienes que leer en Córdoba" class="new__headline " itemprop="url"
+    <a href="/cordoba-ciudad/2023/01/04/son-titulares-manana-tienes-leer-80660632.html" title="Estos son los titulares de la mañana que tienes que leer en Córdoba" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">Estos son los titulares de la tarde que tienes que leer en Córdoba</h2>
+                    <h2 itemprop="headline">Estos son los titulares de la mañana que tienes que leer en Córdoba</h2>
             </a>
 
                     <div class="new__footer"
@@ -4056,7 +4053,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80655332">
+                                data-content-id="80660632">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -4064,7 +4061,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Córdoba Ciudad', 'Estos son los titulares de la tarde que tienes que leer en Córdoba', '/cordoba-ciudad/2023/01/03/son-titulares-tarde-tienes-leer-80655332.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Córdoba Ciudad', 'Estos son los titulares de la mañana que tienes que leer en Córdoba', '/cordoba-ciudad/2023/01/04/son-titulares-manana-tienes-leer-80660632.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -4157,13 +4154,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
         <ul class="rounded-tags footer-up__hightlight-links">
                             <li>
-                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/vimcorsa-adjudica-obras-segunda-fase-80642241.html"  >Apartamentos Sama Naharro</a>
+                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/leve-bajada-precios-cordoba-reduccion-80654081.html"  >Bajada de precios</a>
                 </li>
                             <li>
-                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/urbanismo-prorroga-plazo-solicitar-licencias-80654111.html"  >Licencias veladores</a>
-                </li>
-                            <li>
-                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/primera-cabalgata-reyes-vinuela-conoce-80652262.html"  >Cabalgata La Viñuela</a>
+                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/tiempo-hara-dia-cabalgata-reyes-80651841.html"  >El tiempo en la Cabalgata</a>
                 </li>
                             <li>
                     <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/paro-baja-cordoba-4-11-80632213.html"  >Paro en Córdoba</a>
@@ -4172,10 +4166,13 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                     <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/luz-verde-cultura-intervenir-antiguas-80644805.html"  >Santuario Virgen Linares</a>
                 </li>
                             <li>
+                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/aguas-residuales-cordoba-anotan-repunte-80652410.html"  >Covid en Córdoba</a>
+                </li>
+                            <li>
                     <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/2023-ano-impulsar-rematar-proyectos-80512121.html"  >Proyectos 2023</a>
                 </li>
                             <li>
-                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/02/gasto-medio-cordobes-sorteo-nino-80621836.html"  >Lotería del Niño</a>
+                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/arden-setos-madrugada-calle-chalets-80670447.html"  >Incendio setos</a>
                 </li>
                     </ul>
     </article>

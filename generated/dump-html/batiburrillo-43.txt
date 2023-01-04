@@ -504,13 +504,11 @@ if(Didomi.getUserStatusForVendor(77) == undefined){
    <ul id="js-deeplinking-news-nav-links" class="section-deeplinking-list">
          <li class="section-deeplinking-item"><a href="https://www.trendencias.com/gourmet/mercadona-presenta-roscon-reyes-para-todos-gustos-incluso-para-intolerantes-al-gluten" class="section-deeplinking-anchor">Mercadona</a></li>
          <li class="section-deeplinking-item"><a href="https://www.directoalpaladar.com/seleccion/ocupa-poco-espacio-plegable-carrito-auxiliar-lidl-que-sera-complemento-perfecto-nuestra-cocina" class="section-deeplinking-anchor">Lidl</a></li>
-         <li class="section-deeplinking-item"><a href="https://www.trendencias.com/belleza/unas-dulce-leche-que-jennifer-lopez-dice-que-van-a-petar-2023" class="section-deeplinking-anchor">Leche</a></li>
          <li class="section-deeplinking-item"><a href="https://www.xataka.com/perifericos/alienware-aw2524h-500-hz-caracteristicas-precio-ficha-tecnica" class="section-deeplinking-anchor">Refresco</a></li>
          <li class="section-deeplinking-item"><a href="https://www.trendencias.com/gourmet/esta-receta-que-nos-propone-cena-facil-rapida-resultado-estrella-michelin" class="section-deeplinking-anchor">Michelin</a></li>
-         <li class="section-deeplinking-item"><a href="https://www.xataka.com/ecologia-y-naturaleza/paradoja-que-nino-trae-a-espana-2023-fin-probable-sequia-calor" class="section-deeplinking-anchor">España</a></li>
+         <li class="section-deeplinking-item"><a href="https://www.trendencias.com/celebrities-2/que-fue-maria-isabel-nina-nueve-anos-que-consiguio-que-espana-ganara-eurovision-2004" class="section-deeplinking-anchor">España</a></li>
          <li class="section-deeplinking-item"><a href="https://www.trendencias.com/propuestas-y-consejos/cinco-fundas-edredon-rebajas-corte-ingles-para-cambiar-aspecto-dormitorio-gastarnos-pastizal" class="section-deeplinking-anchor">El Corte Inglés</a></li>
          <li class="section-deeplinking-item"><a href="https://www.directoalpaladar.com/viajes/donde-comprar-mejores-roscones-reyes-madrid" class="section-deeplinking-anchor">Madrid</a></li>
-         <li class="section-deeplinking-item"><a href="https://www.directoalpaladar.com/cultura-gastronomica/esta-historia-pan-italiano-sal-antipapa-ciudad-perugia" class="section-deeplinking-anchor">Pan</a></li>
          <li class="section-deeplinking-item"><a href="https://www.trendencias.com/propuestas-y-consejos/ikea-tiene-tendedero-pared-que-no-necesita-taladro-economico-facil-trasladar-perfecto-para-hacer-colada-interior" class="section-deeplinking-anchor">IKEA</a></li>
        </ul>
    <div id="js-deeplinking-news-nav-btn" class="section-deeplinking-btn" style="display:none"></div>
@@ -938,7 +936,7 @@ En DAP | <a href="https://www.directoalpaladar.com/recetas-de-arroces/siete-mane
   AML.Comments.config.postId = 99892;
   AML.Comments.config.enableSocialShare = "0";
   AML.Comments.config.status = "open";
-  AML.Comments.config.campaignDate = "03_Jan_2023";
+  AML.Comments.config.campaignDate = "04_Jan_2023";
   AML.Comments.config.enableImageUploading = "0";
 </script>
 
@@ -1502,7 +1500,9 @@ En DAP | <a href="https://www.directoalpaladar.com/recetas-de-arroces/siete-mane
   <a href="#headlines" class="close close-corner js-toggle">Inicio</a>
        <p class="nav-heading">Reciente</p>
     <ul id="recent-posts">
-    <li><a href="/recetas-de-pasta/receta-fideos-udon-salteados-al-wok-carne-verduras" class="head-new-item m-republish" ><span class="head-new-video-desc">Receta de fideos udon salteados al wok con carne y verduras</span><span class="head-item-meta">
+    <li><a href="/ingredientes-y-alimentos/roscones-reyes-lidl-quien-fabrica-cuantas-variedades-hay-cuanto-cuestan-que-ingredientes-llevan" class="head-new-item">
+  Roscones de Reyes de Lidl: quién los fabrica, cuántas variedades hay, cuánto cuestan y qué ingredientes llevan
+  <span class="head-item-meta"><time class="js-header-post" datetime="2023-01-04T09:00:27Z"></time></span></a></li> <li><a href="/recetas-de-pasta/receta-fideos-udon-salteados-al-wok-carne-verduras" class="head-new-item m-republish" ><span class="head-new-video-desc">Receta de fideos udon salteados al wok con carne y verduras</span><span class="head-item-meta">
              Nuestros favoritos
            </span></a></li> <li><a href="/seleccion/precio-minimo-freidora-aire-xl-ideal-para-preparar-recetas-saludables-toda-familia" class="head-new-item">
   Precio mínimo de la freidora de aire XL ideal para preparar las recetas saludables de toda la familia
@@ -1512,7 +1512,9 @@ En DAP | <a href="https://www.directoalpaladar.com/recetas-de-arroces/siete-mane
              Nuestros favoritos
            </span></a></li> <li><a href="/seleccion/ocupa-poco-espacio-plegable-carrito-auxiliar-lidl-que-sera-complemento-perfecto-nuestra-cocina" class="head-new-item">
   Ocupa poco espacio y es plegable: el carrito auxiliar de Lidl que será el complemento perfecto de nuestra cocina
-  <span class="head-item-meta"><time class="js-header-post" datetime="2023-01-03T16:16:58Z"></time></span></a></li> <li><a href="/recetas-de-arroces/arroz-meloso-acelgas-patata-receta-que-conseguira-reconciliarte-esta-verdura" class="head-new-item m-republish" ><span class="head-new-video-desc">Acelgas con arroz y patata, la receta que conseguirá reconciliarte con esta verdura</span><span class="head-item-meta">
+  <span class="head-item-meta"><time class="js-header-post" datetime="2023-01-03T16:16:58Z"></time></span></a></li> <li><a href="/recetas-de-pescados-y-mariscos/receta-lenguado-a-plancha-sencillez-no-esta-renida-plato-exquisito" class="head-new-item">
+  Receta de lenguado a la plancha, la sencillez no está reñida con un plato exquisito
+  <span class="head-item-meta"><time class="js-header-post" datetime="2023-01-03T11:00:21Z"></time></span></a></li> <li><a href="/recetas-de-arroces/arroz-meloso-acelgas-patata-receta-que-conseguira-reconciliarte-esta-verdura" class="head-new-item m-republish" ><span class="head-new-video-desc">Acelgas con arroz y patata, la receta que conseguirá reconciliarte con esta verdura</span><span class="head-item-meta">
              Nuestros favoritos
            </span></a></li> <li><a href="https://www.espinof.com/reality-show/masterchef-navidad-merengues-dedos-acuchillados-tercera-expulsion-intensa?utm_source=directoalpaladar&utm_medium=network&utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
   'Masterchef Navidad': merengues, dedos acuchillados y una tercera expulsión intensa 
@@ -1522,7 +1524,9 @@ En DAP | <a href="https://www.directoalpaladar.com/recetas-de-arroces/siete-mane
   <span class="head-item-meta"><time class="js-header-post" datetime="2023-01-03T09:00:20Z"></time></span></a></li> <li><a href="https://www.trendencias.com/gourmet/esta-receta-que-nos-propone-cena-facil-rapida-resultado-estrella-michelin?utm_source=directoalpaladar&utm_medium=network&utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
   Esta es la receta que nos propone una cena fácil y rápida pero con resultado de estrella Michelin 
   <span class="head-item-meta">
-   en Trendencias <time class="js-header-post" datetime="2023-01-03T09:58:45Z"></time></span></a></li> <li><a href="/viajes/esta-bodega-unico-vino-espanol-que-papa-permite-vaticano-tinto-rioja" class="head-new-item">
+   en Trendencias <time class="js-header-post" datetime="2023-01-03T09:58:45Z"></time></span></a></li> <li><a href="/cultura-gastronomica/esta-historia-pan-italiano-sal-antipapa-ciudad-perugia" class="head-new-item">
+  Esta es la historia del pan italiano sin sal antipapa de la ciudad de Perugia
+  <span class="head-item-meta"><time class="js-header-post" datetime="2023-01-03T07:00:20Z"></time></span></a></li> <li><a href="/viajes/esta-bodega-unico-vino-espanol-que-papa-permite-vaticano-tinto-rioja" class="head-new-item">
   Esta es la bodega del único vino español que el Papa permite en el Vaticano: tinto y de Rioja
   <span class="head-item-meta"><time class="js-header-post" datetime="2023-01-02T18:00:27Z"></time></span></a></li> <li><a href="/recetas-vegetarianas/bocados-espelta-hinchada-chocolate-receta-facil-pocos-ingredientes-para-improvisar-picoteo-antojo-dulce" class="head-new-item">
   Bocados de espelta hinchada y chocolate, una receta fácil y de pocos ingredientes para improvisar un picoteo y el antojo dulce
@@ -1534,11 +1538,7 @@ En DAP | <a href="https://www.directoalpaladar.com/recetas-de-arroces/siete-mane
    en Mundo Xiaomi <time class="js-header-post" datetime="2023-01-02T16:18:52Z"></time></span></a></li> <li><a href="https://www.genbeta.com/web/esta-web-ideal-para-cumplir-todos-tus-propositos-ano-nuevo-hacer-deporte-gastar-euro?utm_source=directoalpaladar&utm_medium=network&utm_campaign=headlines_reciente" class="head-new-item m-crosspost">
   Esta web es ideal para cumplir todos tus propósitos de año nuevo de hacer más deporte sin gastar un euro 
   <span class="head-item-meta">
-   en Genbeta <time class="js-header-post" datetime="2023-01-02T15:23:53Z"></time></span></a></li> <li><a href="/recetas-vegetarianas/receta-tartitas-queso-manchego-manzana-mostaza-combinacion-sabores-adictiva-perfecta-para-bufe-celebracion" class="head-new-item">
-  Receta de tartitas de queso manchego, manzana y mostaza, una combinación de sabores adictiva (ideal para un bufé de celebración)
-  <span class="head-item-meta"><time class="js-header-post" datetime="2023-01-02T11:00:27Z"></time></span></a></li> <li><a href="/postres/como-hacer-roscon-reyes-facil-casero-esponjoso-receta-que-no-falla" class="head-new-item m-republish" ><span class="head-new-video-desc">Cómo hacer un Roscón de Reyes fácil, casero y esponjoso: la receta que no falla</span><span class="head-item-meta">
-             Nuestros favoritos
-           </span></a></li>  </ul>
+   en Genbeta <time class="js-header-post" datetime="2023-01-02T15:23:53Z"></time></span></a></li>  </ul>
   <p class="head-more-item"><a href="#" class="btn" id="view-more" data-blog="directoalpaladar">Ver más artículos</a></p>
      <div class="head-menu-video">
     <p class="nav-heading"> Directo al Paladar

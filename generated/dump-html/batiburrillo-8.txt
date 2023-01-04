@@ -89,7 +89,7 @@
     <link rel="preload" as="script" href="/uploads/static/elnacional/dist/js/article-js-elnacional.js?t=202212140912" />
 
 	<!-- RGPD Didomi -->
-<script type="22d304dfba630159692e5e1e-text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+<script type="0be8ccaed54a290ff4e46db7-text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
 else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
 var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
 if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
@@ -123,8 +123,8 @@ if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window
 	<!-- End comScore Tag -->
 	
     <!-- Google Analytics -->
-            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-67391421-1" type="22d304dfba630159692e5e1e-text/javascript"></script>
-        <script type="22d304dfba630159692e5e1e-text/javascript">
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-67391421-1" type="0be8ccaed54a290ff4e46db7-text/javascript"></script>
+        <script type="0be8ccaed54a290ff4e46db7-text/javascript">
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
         
@@ -169,23 +169,23 @@ if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window
           </script>
         <!-- Google Analytics -->
         <!-- Tag Teads -->
-    <script type="22d304dfba630159692e5e1e-text/javascript">
+    <script type="0be8ccaed54a290ff4e46db7-text/javascript">
       window.teads_analytics = window.teads_analytics || {};
       window.teads_analytics.analytics_tag_id = "PUB_21623";
       window.teads_analytics.share = window.teads_analytics.share || function() {
         ;(window.teads_analytics.shared_data = window.teads_analytics.shared_data || []).push(arguments)
       };
     </script>
-    <script async src="https://a.teads.tv/analytics/tag.js" type="22d304dfba630159692e5e1e-text/javascript"></script>
+    <script async src="https://a.teads.tv/analytics/tag.js" type="0be8ccaed54a290ff4e46db7-text/javascript"></script>
     <!-- End Tag Teads -->
         
-                <script type="22d304dfba630159692e5e1e-text/javascript" test="test">
+                <script type="0be8ccaed54a290ff4e46db7-text/javascript" test="test">
         function e(e){var t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],c=document.createElement("script");c.src=e,t?c.type="module":(c.async=!0,c.type="text/javascript",c.setAttribute("nomodule",""));var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(c,n)}function t(t,c,n){var a,o,r;null!==(a=t.marfeel)&&void 0!==a||(t.marfeel={}),null!==(o=(r=t.marfeel).cmd)&&void 0!==o||(r.cmd=[]),t.marfeel.config=n,t.marfeel.config.accountId=c;var i="https://sdk.mrf.io/statics";e("".concat(i,"/marfeel-sdk.js?id=").concat(c),!0),e("".concat(i,"/marfeel-sdk.es5.js?id=").concat(c),!1)}!function(e,c){var n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};t(e,c,n)}(window,1403,{adsTrackingFromClient: true} /*config*/);
     </script>
         
     
     
-    <script type="22d304dfba630159692e5e1e-text/javascript">
+    <script type="0be8ccaed54a290ff4e46db7-text/javascript">
 var gfkS2sConf = {
     media:    "ElnacionalWeb", 
     url:    "//es-config.sensic.net/s2s-web.js",
@@ -330,7 +330,7 @@ agent.impression("default", customParams);
     
     
     <!-- Google Tag Manager -->
-    <script type="22d304dfba630159692e5e1e-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script type="0be8ccaed54a290ff4e46db7-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -795,7 +795,7 @@ agent.impression("default", customParams);
 
 <p>Este, nuevo proyecto, <strong>un batiburrillo multidisciplinar poco concreto, comportará enterrar definitivamente la propuesta de convertir alguno de los espacios en una biblioteca</strong>, hecho que ha llevado al grupo municipal de <strong>Junts per Catalunya al Ayuntamiento de Barcelona a criticar el plan del consistorio</strong>, que lo ha tildado de propuesta "inconcreta" y con un presupuesto "irrisorio".</p>
 <div id="taboola-mid-article-thumbnails"></div>
-<script type="22d304dfba630159692e5e1e-text/javascript">
+<script type="0be8ccaed54a290ff4e46db7-text/javascript">
     window._taboola = window._taboola || [];
     _taboola.push({
         mode: 'thumbnails-m',
@@ -860,7 +860,7 @@ agent.impression("default", customParams);
 
 
                     <div id="taboola-below-article-thumbnails"></div>
-                    <script type="22d304dfba630159692e5e1e-text/javascript">
+                    <script type="0be8ccaed54a290ff4e46db7-text/javascript">
                         window._taboola = window._taboola || [];
                         _taboola.push({
                             mode: 'alternating-thumbnails-a',
@@ -902,7 +902,7 @@ agent.impression("default", customParams);
 <aside>
     <div class="row center2 article-related c-mainarticle__related">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><div class="csl-inner csl-hot"><div data-other-news="56d449572bba1"></div>
-<script type="22d304dfba630159692e5e1e-text/javascript">
+<script type="0be8ccaed54a290ff4e46db7-text/javascript">
     document.addEventListener("DOMContentLoaded", function () {
         $.ajax({
             url: '/_call?controller=ComitiumSuite%5CBundle%5CCSBundle%5CWidgets%5CLesAltresNoticies%5CController%5CWidgetController&action=renderAjaxAction&_parameters=rmRloz4pLnBBZclZn6vrMWDGUnjj%252FF6gti%252Fktm5P9nNoAT6Wwj62RnqlnACFLxMDrzAZkX1vX2sYgABcfjeOO%252FHXHZj9PPhzjK0VwZdjYJggK39oAwtU9%252FS2PoCFduEwNc%252FZLRtlkJgEjDOeYAsf6Rb8QIOi9ojmCXwoAsVpHIZ6zsNLm7QO%252FOia29hhbywFII2Jes%252F69m7bI988X8jDODX71EWXJ%252Fn36cLYnSt2%252FhbJ5j9LMrv2QoUbb2E8gwipM4%252F0bo%252FPCQ7ATN%252F%252BX4Uvzbls7zt5qsLss%252FxJiVs7coadMHqbR5yyES0VZL%252B4oyocKSdH48tgxDBnWVdr11S%252Fh35nTt9uVINYVL5aMvQrnXqc9qZJaU%252FC85TviasAZVfFGVR5AsUllVOOFTJC2PWL%252FaPsvwg7Xtk3R17A3Z%252F19M0Aj%252FJhL3bAUUUJkemzOfhIP9OkuprrKPxEa1ZTMGbmeD0%252Bw8ESMn9TSUcbh3AjXEkn%252B31BzWCXlm4WWkAQm9JzGstH%252BV7RoJt15k6PYVDr%252BkeDqR%252B1HoP2X%252FP2q0uq8sRVgkKUgSuSA59gtaDJLOfAIe7zQ4%252FXexBHYP8FvUPU6NTUc%252BbGQhSemovHfIDa6Ei2PExx8nIwcN4r%252FtHVgUX2dIx%252FUlLIyIFi4z%252BuD5Rg9UCFBjoDRCbUMEL61TtOi%252ByFGEjAGHDC079sEdxwdNW%252BwftvjU1BHRUqcyon4YIimugvqtcZubcS%252BEX2K96XuOW2E2vy3qaeZqPOPu6at1pI2KVU3tJWmnsjMFE2osWxdobif4QdsjD7Czh0e6R3p2gjszGRJDCpKeCqlm6VnIV8X3z6fm7T6cwvDbhERZNcLa5jn8fMcPeeh6UoJoJ2w0KVDGLgtAM2SC5sfjqX5jsmT8rfse0f0HLyTBPQWluTUKAhAEvYZMI%252BDA1cV0X%252BvGj%252BvbYtIQQB%252FnNmcmkHbmV5cyO0qPHJtmFtVqpg%252B7WKM5ZUWXki9DW2SKQRFyf%252F7l4LCAsLS3pGi2Dh5jeBs%252FzZzVQ%252BN7HJzzsjDiLrXjHmGntMO16KKFxjz582huMaxigur2heUsXnIGs9PJ%252BxajyeRq3Mri%252F2n4oz%252FK%252FIuB%252FKHqs341bjNJ%252F%252FHQspNPUZhxBLmzdTZvLqSCu4Z1iujyx8N0oLGx0xIbZJ6Ai%252BSUZwV4y9QHEQJZvcgs6S%252BefXj4gA4etav%252FxU3N1OqJ40WXb1',
@@ -980,14 +980,14 @@ agent.impression("default", customParams);
 </div>
 		</div>
 	</div>
-		    <script type="22d304dfba630159692e5e1e-text/javascript" src="/uploads/static/elnacional/dist/js/article-js-elnacional.js?t=202212140912" defer></script>
-    <script type="22d304dfba630159692e5e1e-text/javascript">
+		    <script type="0be8ccaed54a290ff4e46db7-text/javascript" src="/uploads/static/elnacional/dist/js/article-js-elnacional.js?t=202212140912" defer></script>
+    <script type="0be8ccaed54a290ff4e46db7-text/javascript">
   window._taboola = window._taboola || [];
   _taboola.push({flush: true});
 </script>
 	
 		
 	
-	<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="22d304dfba630159692e5e1e-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"783f0bb01e0c99df","token":"64ec4da10272415a9d671793aeece631","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+	<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="0be8ccaed54a290ff4e46db7-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"78430f2c5bcad4f6","token":"64ec4da10272415a9d671793aeece631","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
 </body>
 </html>

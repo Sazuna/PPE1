@@ -1295,29 +1295,20 @@ Logo def:
     <nav class="tag-bar" data-text="Es noticia:" itemscope itemtype="https://schema.org/SiteNavigationElement">
                     
 <a itemprop="url"
-    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/vimcorsa-adjudica-obras-segunda-fase-80642241.html"            class="header--inner"        title="Apartamentos Sama Naharro"
+    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/leve-bajada-precios-cordoba-reduccion-80654081.html"            class="header--inner"        title="Bajada de precios"
 >
                         <span
                 itemprop="name"            >
-                Apartamentos Sama Naharro
+                Bajada de precios
             </span>
             </a>
                     
 <a itemprop="url"
-    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/urbanismo-prorroga-plazo-solicitar-licencias-80654111.html"            class="header--inner"        title="Licencias veladores"
+    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/tiempo-hara-dia-cabalgata-reyes-80651841.html"            class="header--inner"        title="El tiempo en la Cabalgata"
 >
                         <span
                 itemprop="name"            >
-                Licencias veladores
-            </span>
-            </a>
-                    
-<a itemprop="url"
-    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/primera-cabalgata-reyes-vinuela-conoce-80652262.html"            class="header--inner"        title="Cabalgata La Viñuela"
->
-                        <span
-                itemprop="name"            >
-                Cabalgata La Viñuela
+                El tiempo en la Cabalgata
             </span>
             </a>
                     
@@ -1340,6 +1331,15 @@ Logo def:
             </a>
                     
 <a itemprop="url"
+    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/aguas-residuales-cordoba-anotan-repunte-80652410.html"            class="header--inner"        title="Covid en Córdoba"
+>
+                        <span
+                itemprop="name"            >
+                Covid en Córdoba
+            </span>
+            </a>
+                    
+<a itemprop="url"
     href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/2023-ano-impulsar-rematar-proyectos-80512121.html"            class="header--inner"        title="Proyectos 2023"
 >
                         <span
@@ -1349,11 +1349,11 @@ Logo def:
             </a>
                     
 <a itemprop="url"
-    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/02/gasto-medio-cordobes-sorteo-nino-80621836.html"            class="header--inner"        title="Lotería del Niño"
+    href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/arden-setos-madrugada-calle-chalets-80670447.html"            class="header--inner"        title="Incendio setos"
 >
                         <span
                 itemprop="name"            >
-                Lotería del Niño
+                Incendio setos
             </span>
             </a>
             </nav>
@@ -3785,10 +3785,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="/vida-y-estilo/gente/2023/01/03/shakira-cambia-planes-queda-ahora-80661145.html" class="most-read__link" >
+    <a href="/cordoba/2023/01/04/adjudicado-soterramiento-linea-electrica-futuro-80656424.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">1</span>
                         <span class="most-read__heading">
-                        Shakira cambia de planes y se queda (por ahora)
+                        Adjudicado el soterramiento de la línea eléctrica para el futuro hospital de Lucena
         </span>
     </a>
 </li>
@@ -3796,10 +3796,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="/sucesos-tribunales/2023/01/03/piden-explicaciones-interior-agresion-sexual-80647116.html" class="most-read__link" >
+    <a href="/cordoba-ciudad/2023/01/04/arden-setos-madrugada-calle-chalets-80670447.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">2</span>
                         <span class="most-read__heading">
-                        El mosso y la mujer trans a la que agredió sexualmente se conocían
+                        Arden dos setos de madrugada en una calle de chalets del Tablero
         </span>
     </a>
 </li>
@@ -3807,10 +3807,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="https://neomotor.epe.es/coches/los-coches-de-ken-block-EC1105987" class="most-read__link" >
+    <a href="/cordoba/2023/01/03/cabalgata-reyes-lucena-constara-20-80656451.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">3</span>
                         <span class="most-read__heading">
-                        Los coches de Ken Block
+                        La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes
         </span>
     </a>
 </li>
@@ -3818,10 +3818,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="https://neomotor.epe.es/industria/las-busquedas-de-coches-kilometro-cero-electrificados-se-disparan-por-las-zbe-JC1105038" class="most-read__link" >
+    <a href="/coronavirus/2023/01/03/cordoba-inicia-ano-leve-repunte-80639110.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">4</span>
                         <span class="most-read__heading">
-                        Las búsquedas de coches kilómetro cero electrificados se disparan por las ZBE
+                        Córdoba inicia el año con un leve repunte de contagios de covid
         </span>
     </a>
 </li>
@@ -3829,10 +3829,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <li class="most-read__item ">
-    <a href="/sociedad/2023/01/03/sorteo-bonoloto-martes-3-enero-80660016.html" class="most-read__link" >
+    <a href="/vida-y-estilo/2023/01/04/polvo-bajar-excesos-navidad-mercadona-dv-80456791.html" class="most-read__link" >
                     <span class="most-read__number most-read__number--long">5</span>
                         <span class="most-read__heading">
-                        Sorteo Bonoloto del martes 3 de enero de 2023
+                        El &#039;polvo&#039; mágico de Mercadona para bajar los excesos de Navidad
         </span>
     </a>
 </li>
@@ -3958,7 +3958,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="/cordoba/2023/01/03/cabalgata-reyes-lucena-constara-20-80656451.html" title="La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes" aria-label="La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes"
+            <a href="/sociedad/2023/01/04/presenta-tiempo-cordoba-jornada-miercoles-80668691.html" title="Así se presenta el tiempo en Córdoba para esta jornada de miércoles" aria-label="Así se presenta el tiempo en Córdoba para esta jornada de miércoles"
            class="new__media "  >
                         
 
@@ -3968,19 +3968,19 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes" title="La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/061504ad-6fd0-4dd4-b559-e4b79df64325_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="Así se presenta el tiempo en Córdoba para esta jornada de miércoles" title="Así se presenta el tiempo en Córdoba para esta jornada de miércoles"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_default_0_x1020y62.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/061504ad-6fd0-4dd4-b559-e4b79df64325_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/061504ad-6fd0-4dd4-b559-e4b79df64325_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/061504ad-6fd0-4dd4-b559-e4b79df64325_16-9-aspect-ratio_default_0.jpg" alt="La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_25p_0_x1020y62.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_50p_0_x1020y62.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_default_0_x1020y62.jpg" alt="Así se presenta el tiempo en Córdoba para esta jornada de miércoles"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/061504ad-6fd0-4dd4-b559-e4b79df64325_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_default_0_x1020y62.jpg" itemprop="url">
 
-    <meta content="La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes" itemprop="name">
+    <meta content="Así se presenta el tiempo en Córdoba para esta jornada de miércoles" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/061504ad-6fd0-4dd4-b559-e4b79df64325_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/4bf53e2d-7f74-4544-b4eb-677d46ba7d4f_16-9-aspect-ratio_25p_0_x1020y62.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T20:38:13+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T10:14:12+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
@@ -3988,8 +3988,8 @@ window._mo.checkRecs("_mo_recs","bcube_1");
     
     <header >
 
-                                <a href="/cordoba/" class="new__topic">
-            <span>Provincia</span>
+                                <a href="/sociedad/" class="new__topic">
+            <span>Sociedad</span>
         </a>
             
         
@@ -3999,9 +3999,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="/cordoba/2023/01/03/cabalgata-reyes-lucena-constara-20-80656451.html" title="La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes" class="new__headline " itemprop="url"
+    <a href="/sociedad/2023/01/04/presenta-tiempo-cordoba-jornada-miercoles-80668691.html" title="Así se presenta el tiempo en Córdoba para esta jornada de miércoles" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes</h2>
+                    <h2 itemprop="headline">Así se presenta el tiempo en Córdoba para esta jornada de miércoles</h2>
             </a>
 
                     <div class="new__footer"
@@ -4010,9 +4010,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                                     
 
                     <a class="new__author"
-           href="https://www.diariocordoba.com/autores/manuel-gonzalez.html"
-           title="Manuel González" itemprop="name" content="Manuel González" name="Manuel González">
-            Manuel González
+           href="https://www.diariocordoba.com/autores/tomas-moreno.html"
+           title="Tomás Moreno" itemprop="name" content="Tomás Moreno" name="Tomás Moreno">
+            Tomás Moreno
         </a>
                     
                                     <ul class="new__actions">
@@ -4031,7 +4031,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80656451">
+                                data-content-id="80668691">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -4039,7 +4039,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Provincia', 'La Cabalgata de Reyes de Lucena constará de 20 carrozas y 2.500 figurantes', '/cordoba/2023/01/03/cabalgata-reyes-lucena-constara-20-80656451.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Sociedad', 'Así se presenta el tiempo en Córdoba para esta jornada de miércoles', '/sociedad/2023/01/04/presenta-tiempo-cordoba-jornada-miercoles-80668691.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -4067,7 +4067,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="/cordoba/2023/01/03/preparado-auto-sacramental-reyes-magos-80656742.html" title="Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso" aria-label="Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso"
+            <a href="/cordoba/2023/01/04/el-tiempo-villaviciosa-cordoba-hoy-77877297.html" title="El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero" aria-label="El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero"
            class="new__media "  >
                         
 
@@ -4077,19 +4077,19 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso" title="Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/fc8d5606-d89f-44fb-beee-5581c2db6582_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero" title="El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/46870b90-c4fa-4e3f-bacc-43362d5e0d71_16-9-aspect-ratio_default_0.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/fc8d5606-d89f-44fb-beee-5581c2db6582_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/fc8d5606-d89f-44fb-beee-5581c2db6582_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/fc8d5606-d89f-44fb-beee-5581c2db6582_16-9-aspect-ratio_default_0.jpg" alt="Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/46870b90-c4fa-4e3f-bacc-43362d5e0d71_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/46870b90-c4fa-4e3f-bacc-43362d5e0d71_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/46870b90-c4fa-4e3f-bacc-43362d5e0d71_16-9-aspect-ratio_default_0.jpg" alt="El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/fc8d5606-d89f-44fb-beee-5581c2db6582_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/46870b90-c4fa-4e3f-bacc-43362d5e0d71_16-9-aspect-ratio_default_0.jpg" itemprop="url">
 
-    <meta content="Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso" itemprop="name">
+    <meta content="El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/fc8d5606-d89f-44fb-beee-5581c2db6582_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/46870b90-c4fa-4e3f-bacc-43362d5e0d71_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T20:22:25+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T10:05:02+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
@@ -4108,9 +4108,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="/cordoba/2023/01/03/preparado-auto-sacramental-reyes-magos-80656742.html" title="Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso" class="new__headline " itemprop="url"
+    <a href="/cordoba/2023/01/04/el-tiempo-villaviciosa-cordoba-hoy-77877297.html" title="El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso</h2>
+                    <h2 itemprop="headline">El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero</h2>
             </a>
 
                     <div class="new__footer"
@@ -4118,11 +4118,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                                 >
                                     
 
-                    <a class="new__author"
-           href="https://www.diariocordoba.com/autores/diario-cordoba.html"
-           title="Diario CÓRDOBA" itemprop="name" content="Diario CÓRDOBA" name="Diario CÓRDOBA">
+                    <span class="new__author" itemprop="name" content="Diario CÓRDOBA" name="Diario CÓRDOBA">
             Diario CÓRDOBA
-        </a>
+        </span>
                     
                                     <ul class="new__actions">
 
@@ -4140,7 +4138,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80656742">
+                                data-content-id="77877297">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -4148,7 +4146,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Provincia', 'Todo preparado para el Auto Sacramental de los Reyes Magos de El Viso', '/cordoba/2023/01/03/preparado-auto-sacramental-reyes-magos-80656742.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Provincia', 'El tiempo en Villaviciosa de Córdoba: esta es la previsión meteorológica de hoy, miércoles 4 de enero', '/cordoba/2023/01/04/el-tiempo-villaviciosa-cordoba-hoy-77877297.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -4176,7 +4174,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="/cordoba/2023/01/03/piden-vigilancia-continuos-robos-baena-80656429.html" title="Piden más vigilancia ante continuos robos en Baena" aria-label="Piden más vigilancia ante continuos robos en Baena"
+            <a href="/cordoba/2023/01/04/el-tiempo-lucena-hoy-59830681.html" title="El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero" aria-label="El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero"
            class="new__media "  >
                         
 
@@ -4186,19 +4184,19 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="Piden más vigilancia ante continuos robos en Baena" title="Piden más vigilancia ante continuos robos en Baena"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/681b78ad-caf0-475f-9d94-b6a60e377805_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero" title="El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/69c6c6d6-92c2-4f87-a46b-11dd4ab99b2f_16-9-aspect-ratio_default_0.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/681b78ad-caf0-475f-9d94-b6a60e377805_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/681b78ad-caf0-475f-9d94-b6a60e377805_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/681b78ad-caf0-475f-9d94-b6a60e377805_16-9-aspect-ratio_default_0.jpg" alt="Piden más vigilancia ante continuos robos en Baena"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/69c6c6d6-92c2-4f87-a46b-11dd4ab99b2f_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/69c6c6d6-92c2-4f87-a46b-11dd4ab99b2f_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/69c6c6d6-92c2-4f87-a46b-11dd4ab99b2f_16-9-aspect-ratio_default_0.jpg" alt="El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/681b78ad-caf0-475f-9d94-b6a60e377805_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/69c6c6d6-92c2-4f87-a46b-11dd4ab99b2f_16-9-aspect-ratio_default_0.jpg" itemprop="url">
 
-    <meta content="Piden más vigilancia ante continuos robos en Baena" itemprop="name">
+    <meta content="El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/681b78ad-caf0-475f-9d94-b6a60e377805_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/69c6c6d6-92c2-4f87-a46b-11dd4ab99b2f_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T20:15:33+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T10:12:54+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
@@ -4217,9 +4215,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="/cordoba/2023/01/03/piden-vigilancia-continuos-robos-baena-80656429.html" title="Piden más vigilancia ante continuos robos en Baena" class="new__headline " itemprop="url"
+    <a href="/cordoba/2023/01/04/el-tiempo-lucena-hoy-59830681.html" title="El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">Piden más vigilancia ante continuos robos en Baena</h2>
+                    <h2 itemprop="headline">El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero</h2>
             </a>
 
                     <div class="new__footer"
@@ -4227,11 +4225,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                                 >
                                     
 
-                    <a class="new__author"
-           href="https://www.diariocordoba.com/autores/mariluz-ariza.html"
-           title="Mariluz Ariza" itemprop="name" content="Mariluz Ariza" name="Mariluz Ariza">
-            Mariluz Ariza
-        </a>
+                    <span class="new__author" itemprop="name" content="Diario CÓRDOBA" name="Diario CÓRDOBA">
+            Diario CÓRDOBA
+        </span>
                     
                                     <ul class="new__actions">
 
@@ -4249,7 +4245,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80656429">
+                                data-content-id="59830681">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -4257,7 +4253,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Provincia', 'Piden más vigilancia ante continuos robos en Baena', '/cordoba/2023/01/03/piden-vigilancia-continuos-robos-baena-80656429.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Provincia', 'El tiempo en Lucena: esta es la previsión meteorológica de hoy, miércoles 4 de enero', '/cordoba/2023/01/04/el-tiempo-lucena-hoy-59830681.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -4285,7 +4281,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
     
     
-            <a href="/cordoba/2023/01/03/roscon-gigante-solidario-lucena-logra-80655663.html" title="El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas" aria-label="El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas"
+            <a href="/cordoba/2023/01/04/el-tiempo-montalban-hoy-59830858.html" title="El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero" aria-label="El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero"
            class="new__media "  >
                         
 
@@ -4295,25 +4291,22 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
 
 <picture class="image lozad "
-                 data-alt="El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas" title="El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/4676a1ac-979e-446d-bdc8-2bbe70767154_16-9-aspect-ratio_default_0.jpg"
+                 data-alt="El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero" title="El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero"         data-iesrc="https://estaticos-cdn.prensaiberica.es/clip/1eea9b26-eb9c-4d16-b3ed-db9c360f856f_16-9-aspect-ratio_default_0.jpg"
     >
 
     <img class="lazy-place" src="data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 880 495&quot;%3E%3C/svg%3E" height="495" width="880" alt="" style="width:100%; height:auto; max-width:100%;">
-                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/4676a1ac-979e-446d-bdc8-2bbe70767154_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/4676a1ac-979e-446d-bdc8-2bbe70767154_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/4676a1ac-979e-446d-bdc8-2bbe70767154_16-9-aspect-ratio_default_0.jpg" alt="El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas"></noscript>
+                            <source srcset="https://estaticos-cdn.prensaiberica.es/clip/1eea9b26-eb9c-4d16-b3ed-db9c360f856f_16-9-aspect-ratio_25p_0.jpg" media="(max-width:  767px)">                        <source srcset="https://estaticos-cdn.prensaiberica.es/clip/1eea9b26-eb9c-4d16-b3ed-db9c360f856f_16-9-aspect-ratio_50p_0.jpg">        <noscript><img src="https://estaticos-cdn.prensaiberica.es/clip/1eea9b26-eb9c-4d16-b3ed-db9c360f856f_16-9-aspect-ratio_default_0.jpg" alt="El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero"></noscript>
 
-<meta content="https://estaticos-cdn.prensaiberica.es/clip/4676a1ac-979e-446d-bdc8-2bbe70767154_16-9-aspect-ratio_default_0.jpg" itemprop="url">
+<meta content="https://estaticos-cdn.prensaiberica.es/clip/1eea9b26-eb9c-4d16-b3ed-db9c360f856f_16-9-aspect-ratio_default_0.jpg" itemprop="url">
 
-    <meta content="El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas" itemprop="name">
+    <meta content="El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero" itemprop="name">
     <meta content="Galería" itemprop="description">
-    <meta content="https://estaticos-cdn.prensaiberica.es/clip/4676a1ac-979e-446d-bdc8-2bbe70767154_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
+    <meta content="https://estaticos-cdn.prensaiberica.es/clip/1eea9b26-eb9c-4d16-b3ed-db9c360f856f_16-9-aspect-ratio_25p_0.jpg" itemprop="thumbnailUrl">
 
-<meta content="2023-01-03T19:55:43+01:00" itemprop="uploadDate">
+<meta content="2023-01-04T10:09:19+01:00" itemprop="uploadDate">
 </picture><!-- /.image -->
                         
 
-    <span class="rwd-media-ico">
-        <i class="i-gallery"></i>
-            </span>
         </a>
     
     <header >
@@ -4329,9 +4322,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
         
 
 
-    <a href="/cordoba/2023/01/03/roscon-gigante-solidario-lucena-logra-80655663.html" title="El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas" class="new__headline " itemprop="url"
+    <a href="/cordoba/2023/01/04/el-tiempo-montalban-hoy-59830858.html" title="El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero" class="new__headline " itemprop="url"
                   >
-                    <h2 itemprop="headline">El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas</h2>
+                    <h2 itemprop="headline">El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero</h2>
             </a>
 
                     <div class="new__footer"
@@ -4339,11 +4332,9 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                                 >
                                     
 
-                    <a class="new__author"
-           href="https://www.diariocordoba.com/autores/manuel-gonzalez.html"
-           title="Manuel González" itemprop="name" content="Manuel González" name="Manuel González">
-            Manuel González
-        </a>
+                    <span class="new__author" itemprop="name" content="Diario CÓRDOBA" name="Diario CÓRDOBA">
+            Diario CÓRDOBA
+        </span>
                     
                                     <ul class="new__actions">
 
@@ -4361,7 +4352,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                             </div>
 
                             <span class="new__actions__book fav-bookmark"
-                                data-content-id="80655663">
+                                data-content-id="59830858">
                                 <a>
                                     <i class="i-book"></i>
                                 </a>
@@ -4369,7 +4360,7 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                         </li>
 
                                                     <li class="new__actions__share">
-                                <a onclick="EntryPoint.default.shareNew('', '', 'Provincia', 'El roscón gigante y solidario de Lucena logra de nuevo congregar a miles de personas', '/cordoba/2023/01/03/roscon-gigante-solidario-lucena-logra-80655663.html'); return false;">
+                                <a onclick="EntryPoint.default.shareNew('', '', 'Provincia', 'El tiempo en Montalbán: esta es la previsión meteorológica de hoy, miércoles 4 de enero', '/cordoba/2023/01/04/el-tiempo-montalban-hoy-59830858.html'); return false;">
                                     <i class="i-share"></i>
                                 </a>
                             </li>
@@ -4462,13 +4453,10 @@ window._mo.checkRecs("_mo_recs","bcube_1");
 
         <ul class="rounded-tags footer-up__hightlight-links">
                             <li>
-                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/vimcorsa-adjudica-obras-segunda-fase-80642241.html"  >Apartamentos Sama Naharro</a>
+                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/leve-bajada-precios-cordoba-reduccion-80654081.html"  >Bajada de precios</a>
                 </li>
                             <li>
-                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/urbanismo-prorroga-plazo-solicitar-licencias-80654111.html"  >Licencias veladores</a>
-                </li>
-                            <li>
-                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/primera-cabalgata-reyes-vinuela-conoce-80652262.html"  >Cabalgata La Viñuela</a>
+                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/tiempo-hara-dia-cabalgata-reyes-80651841.html"  >El tiempo en la Cabalgata</a>
                 </li>
                             <li>
                     <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/paro-baja-cordoba-4-11-80632213.html"  >Paro en Córdoba</a>
@@ -4477,10 +4465,13 @@ window._mo.checkRecs("_mo_recs","bcube_1");
                     <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/luz-verde-cultura-intervenir-antiguas-80644805.html"  >Santuario Virgen Linares</a>
                 </li>
                             <li>
+                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/aguas-residuales-cordoba-anotan-repunte-80652410.html"  >Covid en Córdoba</a>
+                </li>
+                            <li>
                     <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/03/2023-ano-impulsar-rematar-proyectos-80512121.html"  >Proyectos 2023</a>
                 </li>
                             <li>
-                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/02/gasto-medio-cordobes-sorteo-nino-80621836.html"  >Lotería del Niño</a>
+                    <a href="https://www.diariocordoba.com/cordoba-ciudad/2023/01/04/arden-setos-madrugada-calle-chalets-80670447.html"  >Incendio setos</a>
                 </li>
                     </ul>
     </article>

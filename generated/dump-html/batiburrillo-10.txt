@@ -631,7 +631,7 @@ googletag.cmd = googletag.cmd || [];
                 alert('data=undefined||data.results is empty');
             }
         }
-    </script><script async type="text/javascript" charset="UTF-8" src="https://widgets.booked.net/weather/info?action=get_weather_info&ver=6&cityID=18497&type=13&scode=2&ltid=3457&domid=&anc_id=78464&cmetric=1&wlangID=4&color=fff5d9&wwidth=158&header_color=fff5d9&text_color=444c54&link_color=444c54&border_form=3&footer_color=fff5d9&footer_text_color=333333&transparent=1"></script><!-- weather widget end -->    <p class="date">03 de Ene de 2023</p>
+    </script><script async type="text/javascript" charset="UTF-8" src="https://widgets.booked.net/weather/info?action=get_weather_info&ver=6&cityID=18497&type=13&scode=2&ltid=3457&domid=&anc_id=78464&cmetric=1&wlangID=4&color=fff5d9&wwidth=158&header_color=fff5d9&text_color=444c54&link_color=444c54&border_form=3&footer_color=fff5d9&footer_text_color=333333&transparent=1"></script><!-- weather widget end -->    <p class="date">04 de Ene de 2023</p>
 </div>
 
         </div>
@@ -849,11 +849,11 @@ googletag.cmd = googletag.cmd || [];
                 
     <div class="box box1x1_v2 flo-left ">
         <article class="articleModule article_simple rec_v3 ">
-                                                                                        <figure class="image-container">        <a class="page-link" href="/nacional/230103/hurtar-caja-ahorros-condenan-3-anos-3-meses-carcel-acuerdo-pena">
+                                                                                        <figure class="image-container">        <a class="page-link" href="/cafe-estrella/cultura/230103/gestion-cultural-incrementa-2022">
         <picture>
-            <source srcset="https://imagenes.laestrella.com.pa/files/image_110_63/uploads/2023/01/03/63b4a4a5e9a0f.jpeg"
+            <source srcset="https://imagenes.laestrella.com.pa/files/image_110_63/uploads/2022/10/13/63488d9e79eb6.jpeg"
                     media="(max-width: 767px)">
-            <img data-src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b4a4a5e9a0f.jpeg" src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b4a4a5e9a0f.jpeg" class="lazy" />
+            <img data-src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2022/10/13/63488d9e79eb6.jpeg" src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2022/10/13/63488d9e79eb6.jpeg" class="lazy" />
         </picture>
     </a>
 </figure>
@@ -861,7 +861,7 @@ googletag.cmd = googletag.cmd || [];
                                                                                                                 
                                         <div class="article-details">
                                                                                                                             <h3 class="title">
-                                                <a class="page-link" href="/nacional/230103/hurtar-caja-ahorros-condenan-3-anos-3-meses-carcel-acuerdo-pena">Intentó hurtar la Caja de Ahorros y lo condenan a 3 años y 3 meses de cárcel tras acuerdo de pena</a>
+                                                <a class="page-link" href="/cafe-estrella/cultura/230103/gestion-cultural-incrementa-2022">Gestión cultural se incrementa en el 2022, dice Micultura</a>
     
     </h3>
 
@@ -881,11 +881,11 @@ googletag.cmd = googletag.cmd || [];
                 
     <div class="box box1x1_v2 flo-left marg-left">
         <article class="articleModule article_simple rec_v3 ">
-                                                                                        <figure class="image-container">        <a class="page-link" href="/deportes/futbol/230103/pele-enterrado-ceremonia-reservada-familiares-amigos">
+                                                                                        <figure class="image-container">        <a class="page-link" href="/nacional/230103/organizaciones-sociedad-civil-rechazan-nueva-norma-modifico-ley-organica-contraloria">
         <picture>
-            <source srcset="https://imagenes.laestrella.com.pa/files/image_110_63/uploads/2023/01/03/63b4a1517dfcd.jpeg"
+            <source srcset="https://imagenes.laestrella.com.pa/files/image_110_63/uploads/2023/01/03/63b4c888ea98f.jpeg"
                     media="(max-width: 767px)">
-            <img data-src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b4a1517dfcd.jpeg" src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b4a1517dfcd.jpeg" class="lazy" />
+            <img data-src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b4c888ea98f.jpeg" src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b4c888ea98f.jpeg" class="lazy" />
         </picture>
     </a>
 </figure>
@@ -893,7 +893,7 @@ googletag.cmd = googletag.cmd || [];
                                                                                                                 
                                         <div class="article-details">
                                                                                                                             <h3 class="title">
-                                                <a class="page-link" href="/deportes/futbol/230103/pele-enterrado-ceremonia-reservada-familiares-amigos">Pelé es enterrado en una ceremonia reservada a familiares y amigos</a>
+                                                <a class="page-link" href="/nacional/230103/organizaciones-sociedad-civil-rechazan-nueva-norma-modifico-ley-organica-contraloria">Organizaciones de la sociedad civil rechazan nueva norma que modificó la Ley Orgánica de la Contraloría</a>
     
     </h3>
 
@@ -913,11 +913,11 @@ googletag.cmd = googletag.cmd || [];
                 
     <div class="box box1x1_v2 flo-left marg-left">
         <article class="articleModule article_simple rec_v3 ">
-                                                                                        <figure class="image-container">        <a class="page-link" href="/nacional/politica/230103/concluir-periodo-registrar-tribunal-electoral-cambios-residencia">
+                                                                                        <figure class="image-container">        <a class="page-link" href="/nacional/230103/panama-asume-presidencia-federacion-panamericana-e-iberica-medicina-critica">
         <picture>
-            <source srcset="https://imagenes.laestrella.com.pa/files/image_110_63/uploads/2023/01/03/63b49ed344269.jpeg"
+            <source srcset="https://imagenes.laestrella.com.pa/files/image_110_63/uploads/2023/01/03/63b46bf9da51e.jpeg"
                     media="(max-width: 767px)">
-            <img data-src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b49ed344269.jpeg" src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b49ed344269.jpeg" class="lazy" />
+            <img data-src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b46bf9da51e.jpeg" src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b46bf9da51e.jpeg" class="lazy" />
         </picture>
     </a>
 </figure>
@@ -925,7 +925,7 @@ googletag.cmd = googletag.cmd || [];
                                                                                                                 
                                         <div class="article-details">
                                                                                                                             <h3 class="title">
-                                                <a class="page-link" href="/nacional/politica/230103/concluir-periodo-registrar-tribunal-electoral-cambios-residencia">Por concluir, periodo para registrar ante el Tribunal Electoral los cambios de residencia</a>
+                                                <a class="page-link" href="/nacional/230103/panama-asume-presidencia-federacion-panamericana-e-iberica-medicina-critica">Panamá asume la presidencia de la Federación Panamericana e Ibérica de Medicina Crítica</a>
     
     </h3>
 
@@ -945,11 +945,11 @@ googletag.cmd = googletag.cmd || [];
                 
     <div class="box box1x1_v2 flo-left marg-left">
         <article class="articleModule article_simple rec_v3 ">
-                                                                                        <figure class="image-container">        <a class="page-link" href="/nacional/230103/designan-nuevos-magistrados-corte-suprema-justicia">
+                                                                                        <figure class="image-container">        <a class="page-link" href="/deportes/futbol/230103/casemiro-lanza-victoria-united">
         <picture>
-            <source srcset="https://imagenes.laestrella.com.pa/files/image_110_63/uploads/2023/01/03/63b499b229d93.jpeg"
+            <source srcset="https://imagenes.laestrella.com.pa/files/image_110_63/uploads/2023/01/03/63b4bed297f21.jpeg"
                     media="(max-width: 767px)">
-            <img data-src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b499b229d93.jpeg" src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b499b229d93.jpeg" class="lazy" />
+            <img data-src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b4bed297f21.jpeg" src="https://imagenes.laestrella.com.pa/files/listing_article_recommend/uploads/2023/01/03/63b4bed297f21.jpeg" class="lazy" />
         </picture>
     </a>
 </figure>
@@ -957,7 +957,7 @@ googletag.cmd = googletag.cmd || [];
                                                                                                                 
                                         <div class="article-details">
                                                                                                                             <h3 class="title">
-                                                <a class="page-link" href="/nacional/230103/designan-nuevos-magistrados-corte-suprema-justicia">Toman posesión nuevos magistrados de la Corte Suprema de Justicia</a>
+                                                <a class="page-link" href="/deportes/futbol/230103/casemiro-lanza-victoria-united">Casemiro lanza otra victoria del United</a>
     
     </h3>
 
@@ -1024,7 +1024,7 @@ googletag.cmd = googletag.cmd || [];
     <li>
                                                                         
                                                                             <h2>
-                                                <a class="page-link" href="/nacional/230103/ausencia-pleno-asamblea-bancada-cd">Con ausencia en el pleno de la Asamblea, bancada de CD marca su oposición al Gobierno</a>
+                                                <a class="page-link" href="/cafe-estrella/cultura/230103/panama-luce-desfile-rosas-estados">Panamá se luce en el Desfile de las Rosas de Estados Unidos</a>
     
     </h2>
 
@@ -1040,7 +1040,7 @@ googletag.cmd = googletag.cmd || [];
     <li>
                                                                         
                                                                             <h2>
-                                                <a class="page-link" href="/nacional/230103/adames-pide-ministro-pino-retirar">Adames pide a ministro Pino retirar Proyecto de ley de extinción de dominio</a>
+                                                <a class="page-link" href="/nacional/230103/designan-nuevos-magistrados-corte-suprema-justicia">Toman posesión nuevos magistrados de la Corte Suprema de Justicia</a>
     
     </h2>
 
@@ -1056,7 +1056,7 @@ googletag.cmd = googletag.cmd || [];
     <li>
                                                                         
                                                                             <h2>
-                                                <a class="page-link" href="/nacional/230102/papel-jugo-prestamo-css">¿Qué papel jugó un préstamo de la CSS en el proceso de Remón y de Guizado?</a>
+                                                <a class="page-link" href="/cafe-estrella/cine/230103/fracasos-taquilla-cine-ciencia-ficcion">Fracasos en taquilla del cine de ciencia ficción del 2022</a>
     
     </h2>
 
@@ -1072,7 +1072,7 @@ googletag.cmd = googletag.cmd || [];
     <li>
                                                                         
                                                                             <h2>
-                                                <a class="page-link" href="/nacional/230102/nueve-partidos-politicos-podran-participar">Solo nueve partidos políticos podrán participar en elecciones de 2024</a>
+                                                <a class="page-link" href="/opinion/la-llorona/230104/llorona-4-enero-2023">La llorona del 4 de enero de 2023</a>
     
     </h2>
 
@@ -1104,39 +1104,39 @@ googletag.cmd = googletag.cmd || [];
     <li>
                                                                         
                                                                             <h2>
+                                                <a class="page-link" href="/nacional/230103/organizaciones-sociedad-civil-rechazan-nueva-norma-modifico-ley-organica-contraloria">Organizaciones de la sociedad civil rechazan nueva norma que modificó la Ley Orgánica de la Contraloría</a>
+    
+    </h2>
+
+                                            </li>
+
+
+
+        
+            
+        
+        
+        
+    <li>
+                                                                        
+                                                                            <h2>
+                                                <a class="page-link" href="/cafe-estrella/miavocesactivas/230103/marielis-quintana-actitud-cualidad-sobresalir">Marielis Quintana: 'La actitud es una cualidad para sobresalir'</a>
+    
+    </h2>
+
+                                            </li>
+
+
+
+        
+            
+        
+        
+        
+    <li>
+                                                                        
+                                                                            <h2>
                                                 <a class="page-link" href="/cafe-estrella/cultura/230102/230103-galeon-san-jose-naufrago-panama">El galeón San José que naufragó en Panamá</a>
-    
-    </h2>
-
-                                            </li>
-
-
-
-        
-            
-        
-        
-        
-    <li>
-                                                                        
-                                                                            <h2>
-                                                <a class="page-link" href="/nacional/230103/cortizo-espera-negociar-contrato-minero">Cortizo espera negociar un contrato minero 'justo', afirmó durante discurso</a>
-    
-    </h2>
-
-                                            </li>
-
-
-
-        
-            
-        
-        
-        
-    <li>
-                                                                        
-                                                                            <h2>
-                                                <a class="page-link" href="/opinion/opinion-grafica/230102/opinion-grafica-2-enero-2023">La Opinión Gráfica del 2 de enero de 2023</a>
     
     </h2>
 
@@ -1312,9 +1312,9 @@ googletag.cmd = googletag.cmd || [];
             
             
         <p></p>
-    <span id="m58-57-59" >Edición Impresa</span><p id="m63-62-64" >Portada del impreso del 3 de enero de 2023</p></div><span class="footer-print-edition-image " id="m26-25-27">
-            <a target="_blank" href="https://tools.gese.com.pa/xalok/Portada/PAN_LE_20230103.pdf">
-                <img alt="Portada del impreso del 3 de enero de 2023" src="https://imagenes.laestrella.com.pa/files/image_104_200/uploads/2023/01/02/63b368cf33ae0.jpeg" data-full-src="/uploads/2023/01/02/63b368cf33ae0.jpeg">
+    <span id="m58-57-59" >Edición Impresa</span><p id="m63-62-64" >Portada del impreso del 4 de enero de 2023</p></div><span class="footer-print-edition-image " id="m26-25-27">
+            <a target="_blank" href="https://tools.gese.com.pa/xalok/Portada/PAN_LE_20230104.pdf">
+                <img alt="Portada del impreso del 4 de enero de 2023" src="https://imagenes.laestrella.com.pa/files/image_104_200/uploads/2023/01/03/63b4d6ab40188.jpeg" data-full-src="/uploads/2023/01/03/63b4d6ab40188.jpeg">
             </a>
         </span></div></div>
         </div>
