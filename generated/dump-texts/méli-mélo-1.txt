@@ -1,0 +1,90 @@
+Accueil
+
+Site Officiel
+
+Menu principal
+
+  • Documentation
+  • Planète
+  • Contribuer
+  • Slack
+  • Association
+  • Annuaire
+
+Accueil » /%
+
+/%
+
+Créer une seule vue type /% au lieu de plusieurs avec 1 critère de filtrage
+différent
+
+Submitted by Amelije on 28 Mars, 2012 - 15:05
+
+Bonjour à tous,
+
+j'aurai voulu avoir un petit conseil pour rassembler plusieurs vues en une
+seule.
+Et m'extirper de ce méli-mélo drupalien...
+
+Je m'explique :
+
+j'ai créé 1 vue pour chacun de mes 4 groupes (liste hmtl des personnes du
+groupe) alors que seul le nom groupe change dans le critère de filtrage. Les
+champs et les critères de trie restent les mêmes.
+
+Il serait donc plus logique de faire une seule vue qui se décline pour les 4
+groupes, non?
+à écrire comme ça : "/groupe/%" ? mais comment faire "après"?
+
+  • Lire la suite de Créer une seule vue type /% au lieu de plusieurs avec 1
+    critère de filtrage différent
+  • Connectez-vous ou inscrivez-vous pour publier un commentaire
+
+Rechercher
+
+[               ]
+[Rechercher] 
+Navigation
+
+  • Mon panier
+  • Mon compte
+  • Dernières contributions
+  • Ressources Drupalfr.org
+  • Livres
+
+Connexion utilisateur
+
+Nom d'utilisateur * [               ]
+Mot de passe * [               ]
+[Se connecter]
+
+  • Créer un nouveau compte
+  • Demander un nouveau mot de passe
+
+Adhésion individuelle
+
+Vous devez être connecté pour pouvoir prendre une adhésion individuelle.
+
+Twitter @drupalfr
+
+Tweets by drupalfrCompte @drupalfr
+
+Qui sommes-nous ?
+
+Drupalfr.org offre des services à la communauté Drupal française et
+francophone. Notre site est opéré et géré par une petite équipe de bénévoles.
+
+En savoir plusNous contacter
+
+Dernières offres d'emploi
+
+Lead Développeur Drupal
+
+CDI
+Déposer une offre Voir toutes les offres
+
+Ce site est réalisé par l'équipe de Drupalfr.org, son contenu est mis à
+disposition selon le contrat Paternité-ShareAlike 2.0 France.
+
+Drupal est une marque déposée de Dries Buytaert - Consulter les mentions
+légales - Icones BUEditor fournies par FamFamFam.

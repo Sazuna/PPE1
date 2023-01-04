@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" class="no-js">
+<head>
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="user-scalable=yes, maximum-scale=2.5,width=device-width"  />
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+  
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.publico.es/redirect/blogs/otrasmiradas/67268/las-plagas-de-almeida/"><link rel="amphtml" href="https://m.publico.es/redirect/blogs/otrasmiradas/67268/las-plagas-de-almeida//amp">
+  <!-- Header resources -->
+
+
+<link rel="preload" href="/commons/fonts/logo-publico.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+<link rel="preload" href="/commons/fonts/noto-serif-sc/NotoSerifSC-Black.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/commons/fonts/noto-serif-sc/NotoSerifSC-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/commons/fonts/noto-serif-sc/NotoSerifSC-SemiBold.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+
+<link rel="preload" href="/commons/fonts/poppins/Poppins-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/commons/fonts/poppins/Poppins-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><style type="text/css">body{font-family:"Poppins";font-size:100%;line-height:1;-webkit-font-smoothing:antialiased;-webkit-overflow-scrolling:touch;background-color:#FFF !important}body .main>.container{margin-top:15px}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;margin:0;padding:0}@media screen and (min-width: 768px){.hidden-desktop{display:none !important}}@media screen and (max-width: 767px){.hidden-mobile{display:none !important}}@media screen and (min-width: 768px){.section-public .desktop-link-home-hidden,.section-home .desktop-link-home-hidden{display:none !important}}@media screen and (min-width: 768px){.section-home .pbsubmenu-home.top-elements{margin-bottom:100px}}@media screen and (min-width: 768px){.section-home .pbheader-main.home.header-fixed a.my-account{display:inline-block}}a{text-decoration:none;color:#000}a:focus,a:hover{color:#666}.pbsubmenu-home.top-elements{background:#fff;margin:0 auto;z-index:99889;position:relative;overflow:hidden;min-width:26px}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements{position:relative;z-index:99557;max-height:36px}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements.top-elements--open{max-height:inherit;overflow:unset}}@media screen and (max-width: 767px){.pbsubmenu-home.top-elements>.container{padding-left:0;padding-right:0}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements>.container{max-width:1020px}}.pbsubmenu-home.top-elements .signin{font-size:15px;font-size:0.9375rem;float:right;line-height:50px;text-transform:uppercase;padding:0 15px;font-weight:400;-webkit-font-smoothing:auto;-moz-osx-font-smoothing:auto;text-rendering:auto}.pbsubmenu-home.top-elements .signin:hover{background-color:#222;color:#fff}.pbsubmenu-home.top-elements .destacados{border-bottom:1px solid #DDDDDD;display:flex;justify-content:space-between}.pbsubmenu-home.top-elements .destacados-hoy{font-size:12px;font-size:0.75rem;font-family:"Noto Serif SC";line-height:25px;width:100%}@media screen and (max-width: 767px){.pbsubmenu-home.top-elements .destacados-hoy{display:flex;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;width:auto;overflow-scrolling:touch}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy{line-height:35px;min-height:34px}}.pbsubmenu-home.top-elements .destacados-hoy .title{font-weight:700;color:#000}.pbsubmenu-home.top-elements .destacados-hoy>li:before{content:"-";position:relative;left:-3px}.pbsubmenu-home.top-elements .destacados-hoy>li:first-child{padding-left:10px}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy>li:first-child{padding-left:0}}.pbsubmenu-home.top-elements .destacados-hoy>li:first-child:before{content:"Hoy interesa";font-weight:700;margin-right:10px;position:initial}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy>li:last-child:before{content:""}}.pbsubmenu-home.top-elements .destacados-hoy li{display:inline-block;padding:0 4px;line-height:25px;min-width:26px}@media screen and (max-width: 767px){.pbsubmenu-home.top-elements .destacados-hoy li{flex:0 0 auto}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy li{line-height:35px}}.pbsubmenu-home.top-elements .destacados-hoy li a{color:#000}.pbsubmenu-home.top-elements .destacados-hoy li a:focus,.pbsubmenu-home.top-elements .destacados-hoy li a:hover{color:#d11031}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy li.more{position:relative}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy li.more>i{font-size:8px}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy li.more>span{cursor:pointer}}.pbsubmenu-home.top-elements .destacados-hoy li.more span.icon-chevron-up,.pbsubmenu-home.top-elements .destacados-hoy li.more span.icon-chevron-down{font-size:9px;font-size:0.5625rem}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy li.more ul{position:absolute;right:0;top:35px;background-color:#FFF;width:210px;display:flex;flex-direction:column;z-index:99557;box-shadow:-2px 2px 9px 0px #ccc}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy li.more ul i{position:absolute;color:#FFF;right:10px;top:-8px}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy li.more ul li{padding:10px;border-bottom:1px solid #eee;line-height:1.5em}}@media screen and (min-width: 768px){.pbsubmenu-home.top-elements .destacados-hoy li.more ul li:last-child{border:0}}.destacados-top{position:relative;display:none;list-style:none}@media screen and (max-width: 767px){.destacados-top{top:0;left:0;width:100%;justify-content:center;border-bottom:1px solid #DDD;line-height:34px;background-color:#FFF;min-height:35px}}@media screen and (min-width: 768px){.destacados-top{position:absolute;right:15px}}.destacados-top a[class*="destacados-top__"]{font-size:12px;font-size:0.75rem;color:#000;text-transform:uppercase;font-weight:700;padding:0 10px;line-height:32px;display:inline-block}.destacados-top a[class*="destacados-top__"]:focus,.destacados-top a[class*="destacados-top__"]:hover{color:#d11031}@media screen and (min-width: 768px){.destacados-top a[class*="destacados-top__"]{border-top:3px solid #d11031;background-color:#FFF}}@media screen and (min-width: 768px){.destacados-top a[class*="destacados-top__"].destacados-top__tremending{border-color:#1cbac8}}.destacados-top a[class*="destacados-top__"].destacados-top__tremending:hover,.destacados-top a[class*="destacados-top__"].destacados-top__tremending:focus{color:#1cbac8}@media screen and (min-width: 768px){.destacados-top a[class*="destacados-top__"].destacados-top__publico-tv{border-color:#000}}.destacados-top a[class*="destacados-top__"].destacados-top__public{text-transform:none}@media screen and (min-width: 768px){.destacados-top a[class*="destacados-top__"].destacados-top__public{border-color:#cf5410}}.destacados-top a[class*="destacados-top__"].destacados-top__public:hover,.destacados-top a[class*="destacados-top__"].destacados-top__public:focus{color:#cf5410}@media screen and (min-width: 768px){.destacados-top a[class*="destacados-top__"].destacados-top__especiales{border-color:#000}}@media screen and (min-width: 768px){.destacados-top .newsletters{display:none}}.destacados-top a.my-account{font-size:12px;font-size:0.75rem;color:#000;text-transform:uppercase;font-weight:700;padding:0 10px;line-height:32px;display:inline-block;border-top:3px solid #d11031;transition:none}.destacados-top a.my-account.active{color:#FFF;background-color:#d11031}.destacados-top a.logout{font-size:12px;font-size:0.75rem;color:#000;text-transform:uppercase;font-weight:700;padding:0 10px;line-height:32px;display:inline-block;transition:none}.destacados-top a.logout.active{color:#FFF;background-color:#d11031}.pbheader-main{width:100%;display:block;position:sticky;position:-webkit-sticky;z-index:99556;top:0}.pbheader-main .headermain-content{background-color:#000;height:50px;width:100%;z-index:99889;position:relative}@media screen and (min-width: 768px){.pbheader-main.header-fixed .newsletters{display:inline-block}}.pbheader-main a.my-account{font-size:12px;font-size:0.75rem;line-height:50px;padding:0 10px;text-transform:uppercase;color:#FFF;font-weight:700}.pbheader-main a.my-account span{padding-left:5px}.pbheader-main a.my-account.active{background-color:#d11031;line-height:50px;display:inline-block}.pbheader-main .buscador-chiqui{margin:20px 0}@media screen and (min-width: 768px){.pbheader-main .buscador-chiqui{margin:39px -15px}}.pbheader-main .buscador-chiqui input[type=text]{appearance:none;-webkit-appearance:none;-ms-appearance:none;-moz-appearance:none;background-color:transparent;border:1px solid #FFF;border-radius:0;color:#FFF;font-size:12px;line-height:33px;padding:0 5px;width:170px}@media screen and (max-width: 414px) and (orientation: portrait){.pbheader-main .buscador-chiqui input[type=text]{float:left}}@media screen and (min-width: 768px){.pbheader-main .buscador-chiqui input[type=text]{width:200px}}.pbheader-main .buscador-chiqui .search-btn{appearance:none;-webkit-appearance:none;-ms-appearance:none;-moz-appearance:none;line-height:35px;margin:0 0 0 5px;padding:0;width:33px;color:#000;background-color:#FFF;border:0 none}.pbheader-main .buscador-chiqui i.fas.fa-search{font-family:'pb-icomoon';-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}.pbheader-main .buscador-chiqui i.fas.fa-search:before{content:"\f002"}.pbheader-main .toggle-menu{transition:background 0.3s ease-in-out;-webkit-transition:background 0.3s ease-in-out;-moz-transition:background 0.3s ease-in-out;-ms-transition:background 0.3s ease-in-out;-o-transition:background 0.3s ease-in-out;display:inline-block;vertical-align:middle;position:absolute;float:left;width:50px;height:50px;background-color:transparent;border:none;padding:0;margin:0;outline:none;cursor:pointer;z-index:9999;pointer-events:initial}.pbheader-main .toggle-menu span{content:"";display:block;position:absolute;width:26px;height:2px;background-color:#000;opacity:1 !important;transform-origin:50% 50%;transition:background-color 0.2s ease-in-out, top 0.2s 0.2s ease-out, transform 0.2s linear;top:calc(50% - 1px);left:calc(50% - 13px);top:calc(50% - 1px);left:calc(50% - 13px)}.pbheader-main .toggle-menu span:before{content:"";display:block;position:absolute;width:26px;height:2px;background-color:#000;opacity:1 !important;transform-origin:50% 50%;transition:background-color 0.2s ease-in-out, top 0.2s 0.2s ease-out, transform 0.2s linear;top:7px}.pbheader-main .toggle-menu span:after{content:"";display:block;position:absolute;width:26px;height:2px;background-color:#000;opacity:1 !important;transform-origin:50% 50%;transition:background-color 0.2s ease-in-out, top 0.2s 0.2s ease-out, transform 0.2s linear;top:-7px}@media screen and (min-width: 992px){.pbheader-main .toggle-menu:hover{background:#333}}.pbheader-main .toggle-menu[aria-expanded="true"] span{background-color:transparent;transition:background 0.2s ease-out}.pbheader-main .toggle-menu[aria-expanded="true"] span:before{transform:rotate3d(0, 0, 1, -45deg);-webkit-transform:rotate3d(0, 0, 1, -45deg);-moz-transform:rotate3d(0, 0, 1, -45deg);-ms-transform:rotate3d(0, 0, 1, -45deg);-o-transform:rotate3d(0, 0, 1, -45deg);transition:top 0.2s ease-out, transform 0.2s 0.2s ease-out;top:0}.pbheader-main .toggle-menu[aria-expanded="true"] span:after{transform:rotate3d(0, 0, 1, 45deg);-webkit-transform:rotate3d(0, 0, 1, 45deg);-moz-transform:rotate3d(0, 0, 1, 45deg);-ms-transform:rotate3d(0, 0, 1, 45deg);-o-transform:rotate3d(0, 0, 1, 45deg);transition:top 0.2s ease-out, transform 0.2s 0.2s ease-out;top:0}.pbheader-main .toggle-menu span,.pbheader-main .toggle-menu span:after,.pbheader-main .toggle-menu span:before{background-color:#FFF}.pbheader-main .toggle-menu.active span{transition:background 0.2s ease-out;-webkit-transition:background 0.2s ease-out;-moz-transition:background 0.2s ease-out;-ms-transition:background 0.2s ease-out;-o-transition:background 0.2s ease-out;background-color:transparent}.pbheader-main .toggle-menu.active span:before{transition:top 0.2s ease-out, transform 0.2s 0.2s ease-out;top:0;transform:rotate3d(0, 0, 1, -45deg)}.pbheader-main .toggle-menu.active span:after{transition:top 0.2s ease-out, transform 0.2s 0.2s ease-out;top:0;transform:rotate3d(0, 0, 1, 45deg)}@media screen and (max-width: 767px){.pbheader-main .header-container.container{padding-left:0;padding-right:0}}.pbheader-main .user-buttons{position:absolute;top:0;right:0}@media screen and (max-width: 767px){.pbheader-main .user-buttons .destacados-top__login{display:none}}@media screen and (min-width: 768px){.pbheader-main .user-buttons .signin-container{float:right}}.pbheader-main .user-buttons .signin-container iframe{width:100% !important}@media screen and (max-width: 767px){.pbheader-main .user-buttons .logout{display:none}}.pbheader-main a.CabeceraBotonUnetePublico{font-size:14px;font-size:0.875rem;display:inline-block;padding:0 10px;text-transform:uppercase;color:#FFF;font-weight:700;background-color:#d11031;position:relative;transform:none;line-height:30px}@media screen and (max-width: 767px){.pbheader-main a.CabeceraBotonUnetePublico{margin:10px 15px 0 0}}@media screen and (min-width: 768px){.pbheader-main a.CabeceraBotonUnetePublico{line-height:50px;font-size:12px;font-size:0.75rem}}@media screen and (max-width: 767px){.pbheader-main a.CabeceraBotonUnetePublico span:not(.only-mobile){display:none}}@media screen and (min-width: 768px){.pbheader-main .newsletters{font-size:12px;font-size:0.75rem;line-height:50px;padding:0 10px;color:#FFF;text-transform:uppercase;font-weight:700}}.pbheader-main .destacados-top__login,.pbheader-main a.CabeceraBotonIniciarSesion{font-size:12px;font-size:0.75rem;line-height:50px;padding:0 10px;text-transform:uppercase;color:#FFF;font-weight:700;display:none}@media screen and (min-width: 768px){.pbheader-main .destacados-top__login,.pbheader-main a.CabeceraBotonIniciarSesion{display:inline-block}}.pbheader-main>a{float:right}.pbheader-main .logo{text-align:center;width:100%;display:table;position:relative;padding:0}@media screen and (max-width: 767px){.pbheader-main .logo{top:9px}}.pbheader-main .logo h1>a.brand{font-size:30px;font-size:1.875rem;font-family:"Publico";font-weight:900;font-style:normal;letter-spacing:-0.04em;position:relative;display:inline-block;color:#FFF;transition:none}@media screen and (min-width: 768px){.pbheader-main .logo h1>a.brand{top:-2px;height:50px;line-height:50px;top:0;font-size:40px;font-size:2.5rem}}.pbheader-main .logo h1>a>span{font-size:12px;font-size:0.75rem;font-family:"Poppins";color:#000;display:block;font-weight:300;text-transform:uppercase;letter-spacing:0.15em;display:table;margin:0 auto}.pbheader-main .logo h1.republica{display:flex;align-items:center;height:50px}@media screen and (max-width: 767px){.pbheader-main .logo h1.republica{margin-top:-9px}}.pbheader-main .logo h1.republica a{background-image:url("https://ficheros.publico.es/resources/14-a-republica/logo-publico-republica-blanco.png");width:143px;height:39px;background-size:143px auto;background-repeat:no-repeat}.pbheader-main .logo .orgullo{padding-top:5px}.pbheader-main .logo .orgullo img{max-height:31px}@media screen and (min-width: 768px){.pbheader-main .logo .orgullo img{max-height:41px}}@media screen and (max-width: 767px){.pbheader-main .logo .aniversario-15 a{top:-5px}}.pbheader-main .logo .aniversario-15 img{max-height:41px;width:100%;max-width:100%}@media screen and (min-width: 768px){.pbheader-main .logo .aniversario-15 img{max-height:48px}}.pbheader-main div.logo.ochom h1>a.brand{color:#835498}.pbheader-main.fixed{position:fixed;top:0;z-index:999999}.pbheader-main .hidden{display:none}.pbheader-main .main-header{position:fixed !important;z-index:99999 !important;width:100% !important;top:0;left:0;height:50px}@media (max-width: 901px){.pbheader-main .main-header .main-navbar .navbar-header .navbar-brand-secondary,.pbheader-main .main-header .main-navbar .navbar-header .search,.pbheader-main .main-header .main-navbar .navbar-header .login{display:none}}@media (max-width: 901px){.pbheader-main .main-header .main-navbar .navbar-header .signin{font-size:14px;font-size:0.875rem;line-height:30px;padding:0 10px;font-weight:500;margin:10px}}@media (max-width: 901px){.pbheader-main .main-header .main-navbar .navbar-header .signin span{display:none}}@media (max-width: 901px){.pbheader-main .main-header .main-navbar .navbar-header .signin span.only-mobile{display:inline-block}}@media (max-width: 901px){.pbheader-main .main-header .main-navbar .navbar-header a.navbar-brand{opacity:1 !important;visibility:visible !important}}.pbheader-main .main-navbar{border-radius:0;color:#fff;display:block;margin:0;border:0;padding:0}.pbheader-main .main-navbar .navbar-header a.navbar-brand{position:absolute;left:50%;margin:-0 0 0 -67px;z-index:1;padding:7px 0;height:50px;visibility:visible;transition:all 0.4s ease-in-out}.pbheader-main .main-navbar .navbar-header a.navbar-brand img{height:34px}.pbheader-main .main-navbar .navbar-header a.navbar-brand.ptv{display:block;margin-left:0;left:50px;opacity:1;text-align:center;visibility:visible;width:50px}.pbheader-main .main-navbar .navbar-header a.navbar-brand.ptv:hover{background-color:#111}.pbheader-main .main-navbar .navbar-header a.navbar-brand.ptv img{margin-top:5px;height:40px}.pbheader-main .main-navbar .navbar-header a.navbar-brand:hover{background:transparent}.pbheader-main .main-navbar .navbar-header a{text-decoration:none;-webkit-transition:background 0.3s ease-in-out;-moz-transition:background 0.3s ease-in-out;-o-transition:background 0.3s ease-in-out;transition:background 0.3s ease-in-out}.pbheader-main .main-navbar .navbar-header a.highlight{background-color:#d11031}.pbheader-main .main-navbar .navbar-header a.highlight.t1{background-color:#fff15f;color:#000}.pbheader-main .main-navbar .navbar-header a.highlight.t2{background-color:#69D2E7;color:#000}.pbheader-main .main-navbar .navbar-header a.highlight.t3{background-color:#F7A541;color:#000}.pbheader-main .main-navbar .navbar-header a.highlight.t4{background-color:#C4D428;color:#000}.pbheader-main .main-navbar .navbar-header a.highlight.t5{background-color:#F35F55;color:#000}.pbheader-main .main-navbar .navbar-header a.highlight.t6{background-color:#2FB8AC;color:#000}.pbheader-main .main-navbar .navbar-header a.highlight.t7{background-color:#D1026C;color:#000}.pbheader-main .main-navbar .navbar-header a.highlight:hover{color:#fff;background-color:#333}.pbheader-main .main-navbar .navbar-header a.highlight.secondary{background-color:#fff15f}.pbheader-main .main-navbar .navbar-header a.highlight.secondary:hover{color:#fff;background-color:#fff15f}.pbheader-main .main-navbar .navbar-header a.highlight.terciary{background-color:#d11031}.pbheader-main .main-navbar .navbar-header a.highlight.terciary:hover{color:#fff;background-color:#d11031}.pbheader-main .main-navbar .navbar-header .search{font-size:18px;font-size:1.125rem;display:inline-block;float:right;width:50px;text-align:center;line-height:49px;position:relative;margin:0 !important;height:auto !important}.pbheader-main .main-navbar .navbar-header .search i{line-height:50px}.pbheader-main .main-navbar .navbar-header .navbar-brand-secondary{display:inline-block;float:right;width:50px;text-align:center;height:50px}.pbheader-main .main-navbar .navbar-header .navbar-brand-secondary>img{position:relative;top:5px;height:40px;padding:4px}.pbheader-main .main-navbar .navbar-header .navbar-brand-secondary:hover>img{opacity:1}.pbheader-main .main-navbar .navbar-header .streaming[aria-expanded="true"]:after{opacity:1}.pbheader-main:not(.in).hidden-logo .navbar-header a.navbar-brand:not(.ptv),.pbheader-main:not(.show).hidden-logo .navbar-header a.navbar-brand:not(.ptv){opacity:0;visibility:hidden}.pbheader-main .signin-info .content p{margin-bottom:10px}@media screen and (max-width: 767px){.pbheader-main.in a.CabeceraBotonUnetePublico{background-color:transparent}}.pbheader-main.in .main-navbar .navbar-header .my-account:after{content:"";height:0;width:0;position:absolute;bottom:0;right:19px;border-style:solid;border-width:0 5px 5px 5px;border-color:transparent transparent #ffffff transparent}@media (max-width: 901px){.pbheader-main .content .only-mobile{display:block;margin-bottom:30px}}@media (max-width: 901px){.pbheader-main .content .only-mobile .signin,.pbheader-main .content .only-mobile .my-account{display:none}}@media (max-width: 901px){.pbheader-main .content .only-mobile .login,.pbheader-main .content .only-mobile .search{color:#FFF;font-size:1.1em;font-weight:800;letter-spacing:0.1em;text-transform:uppercase}}.pbheader-main .signin-container{height:50px}@media screen and (min-width: 768px){.pbheader-main nav.redes-sociales div.redessociales-burger-menu-content.collapsible-content ul li a{font-size:13px;font-size:0.8125rem;font-family:"Poppins";font-weight:400}}@media screen and (max-width: 767px){.pbheader-main .menu-bottom.burger-menu .collapsible-content div.content-inner ul{padding-left:0;padding-right:0}}@media screen and (min-width: 768px){.pbheader-main.home{position:absolute;top:36px}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed{position:fixed;top:0}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed .header-container{padding-left:0;padding-right:0;background-color:#000;z-index:99889;max-width:100%}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed .header-container .headermain-content{height:50px;background:transparent}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed a.login{display:inline-block}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed .logo{padding:4px 0 6px}}.pbheader-main.home.header-fixed .logo a.brand{font-size:40px;font-size:2.5rem;color:#FFF;height:inherit}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed .my-account-menu{top:50px;right:0}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed .toggle-menu span,.pbheader-main.home.header-fixed .toggle-menu span:before,.pbheader-main.home.header-fixed .toggle-menu span:after{background-color:#FFF}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed .toggle-menu .collapsed span{background-color:#000}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed .toggle-menu .collapsed span:before,.pbheader-main.home.header-fixed .toggle-menu .collapsed span:after{background-color:#FFF}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed ~ .pbsubmenu-main{max-width:inherit}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed ~ .pbsubmenu-main ul li a{transition:line-height 0.1s ease-in-out 1s;-webkit-transition:line-height 0.1s ease-in-out 1s;-moz-transition:line-height 0.1s ease-in-out 1s;-ms-transition:line-height 0.1s ease-in-out 1s;-o-transition:line-height 0.1s ease-in-out 1s;line-height:35px}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed ~ .pbsubmenu-main .weather{transition:margin-top 0.1s ease-in-out 1s;-webkit-transition:margin-top 0.1s ease-in-out 1s;-moz-transition:margin-top 0.1s ease-in-out 1s;-ms-transition:margin-top 0.1s ease-in-out 1s;-o-transition:margin-top 0.1s ease-in-out 1s;margin-top:4px}}@media screen and (min-width: 768px){.pbheader-main.home.header-fixed .aniversario-15 a.brand{background-image:url("https://www.publico.es/commons/img/aniversario/logo-15-aniversario_blanco.svg");width:206px;height:48px;background-size:100%;top:-4px}}@media screen and (min-width: 768px){.pbheader-main.home .header-container{position:relative}}@media screen and (min-width: 768px){.pbheader-main.home .my-account-menu{top:0;right:15px}}.pbheader-main.home a.CabeceraBotonUnetePublico{transition:background-color linear 0.2s;-webkit-transition:background-color linear 0.2s;-moz-transition:background-color linear 0.2s;-ms-transition:background-color linear 0.2s;-o-transition:background-color linear 0.2s}@media screen and (min-width: 768px){.pbheader-main.home a.CabeceraBotonUnetePublico{background-color:#000;top:50%;transform:translateY(-50%);right:15px;position:absolute}}@media screen and (min-width: 768px){.pbheader-main.home a.CabeceraBotonUnetePublico:hover,.pbheader-main.home a.CabeceraBotonUnetePublico:focus{background-color:#d11031}}.pbheader-main.home a.CabeceraBotonUnetePublico.suscriptor:hover,.pbheader-main.home a.CabeceraBotonUnetePublico.suscriptor:focus{background-color:#fff15f}.pbheader-main.home .navbar-collapse.collapse.in,.pbheader-main.home .navbar-collapse.collapse.show{top:75px}@media screen and (min-width: 768px){.pbheader-main.home .navbar-collapse.collapse.in,.pbheader-main.home .navbar-collapse.collapse.show{top:195px}}@media screen and (min-width: 768px){.pbheader-main.home .toggle-menu{top:50%;transform:translateY(-50%);left:15px}}@media screen and (min-width: 768px){.pbheader-main.home .toggle-menu span,.pbheader-main.home .toggle-menu span:after,.pbheader-main.home .toggle-menu span:before{background-color:#000}}.pbheader-main.home .toggle-menu:hover{background:transparent}.pbheader-main.home .toggle-menu[aria-expanded="true"] span{background-color:transparent}@media screen and (min-width: 768px){.pbheader-main.home .logo{padding:24px 0 23px}}@media screen and (min-width: 768px){.pbheader-main.home .logo h1>a.brand{font-size:55px;font-size:3.4375rem;color:#d11031;transition:none;line-height:inherit}}@media screen and (min-width: 768px){.pbheader-main.home .logo .orgullo{padding-top:0}}@media screen and (min-width: 768px){.pbheader-main.home .logo .orgullo img{max-height:55px}}@media screen and (min-width: 768px){.pbheader-main.home a.login{display:none}}@media screen and (min-width: 768px){.pbheader-main.home .headermain-content{height:inherit;background-color:#FFF}}@media screen and (min-width: 768px){.pbheader-main.home:not(.header-fixed) .signin-container{top:50%;transform:translateY(50%);position:relative}}.pbheader-main.home h1.republica a{background-image:url("https://ficheros.publico.es/resources/14-a-republica/logo-publico-republica.svg");width:200px;height:54px;background-size:100%}.pbheader-main.home .aniversario-15 a{background-image:url("https://www.publico.es/commons/img/aniversario/logo-15-aniversario_blanco.svg");width:172px;height:37px;background-size:100%}@media screen and (max-width: 767px){.pbheader-main.home .aniversario-15 a{top:-5px}}@media screen and (min-width: 768px){.pbheader-main.home .aniversario-15 a{background-image:url("https://www.publico.es/commons/img/aniversario/logo-15-aniversario_positivo.svg");width:206px;height:48px}}.pbheader-main.tremending .headermain-content{background-color:#1cbac8}@media screen and (max-width: 767px){.pbheader-main.tremending .logo{display:none}}.pbheader-main.tremending a.CabeceraBotonUnetePublico{background-color:#0d5f6b}.pbheader-main.tremending .CabeceraIconoTremending{position:absolute;left:50%;top:50%;transform:translate(-50%, -50%)}@media screen and (min-width: 768px){.pbheader-main.tremending .CabeceraIconoTremending{left:65px;min-width:240px;transform:translateY(-50%)}}.pbheader-main.tremending .CabeceraIconoTremending img{height:29px}@media screen and (min-width: 768px){.pbheader-main.tremending .CabeceraIconoTremending img{height:35px}}.pbheader-main.uwu:after{background-color:#FFCA50}.pbheader-main.uwu a.my-account,.pbheader-main.uwu .destacados-top__login,.pbheader-main.uwu a.CabeceraBotonIniciarSesion,.pbheader-main.uwu .newsletters,.pbheader-main.uwu .logo h1>a.brand{color:#000}.pbheader-main.uwu a.my-account.active{background-color:#FFF}.pbheader-main.uwu .toggle-menu{border-radius:0}.pbheader-main.uwu .toggle-menu span,.pbheader-main.uwu .toggle-menu span:after,.pbheader-main.uwu .toggle-menu span:before{background-color:#000}.pbheader-main.uwu .toggle-menu:hover{background:#FFF}.pbheader-main.uwu.in .toggle-menu{background-color:#FFF}.pbheader-main.uwu.in .toggle-menu span{background:transparent}.pbheader-main.uwu a.uwu{font-size:32px;font-size:2rem;left:60px;top:4px;font-family:'uwu', sans-serif;position:absolute;color:#000;line-height:50px}@media screen and (min-width: 768px){.pbheader-main.uwu a.uwu{top:0;font-size:35px;font-size:2.1875rem;line-height:55px}}@media screen and (min-width: 768px){.pbheader-main.uwu .logo h1>a.brand{top:-6px}}@media screen and (max-width: 767px){.pbheader-main.uwu .logo .aniversario-15 img{max-height:32px}}.pbheader-main.uwu .headermain-content{background-color:#FFCA50}.pbheader-main.uwu a.CabeceraBotonUnetePublico{background-color:yellow}@media screen and (max-width: 767px){body.scrolled .pbheader-main::after{top:86px}}@media screen and (max-width: 767px){body.scrolled .pbheader-main .navbar-collapse.collapse.in,body.scrolled .pbheader-main .navbar-collapse.collapse.show{top:86px}}@media screen and (max-width: 767px){.publico-tv .pbheader-main .logo{top:13px}}@media screen and (max-width: 767px){.publico-tv .pbheader-main .logo .aniversario-15 a{top:-9px}}@media screen and (min-width: 768px){.section-public.page-category .destacados-top,.section-home .destacados-top{display:flex}}@media screen and (min-width: 768px){.section-public.page-category .pbheader-main.home a.my-account,.section-home .pbheader-main.home a.my-account{display:none}}@media screen and (max-width: 767px){.pbheader-buttons{background:#fff;z-index:99555;width:100%;position:sticky;position:-webkit-sticky;top:50px}}@media screen and (max-width: 767px){.pbheader-buttons ul.destacados-top{display:flex}}@media screen and (max-width: 767px){.landing-user .pbheader-buttons.header-no-fixed{display:none}}.landing-user.pb-iphone.pb-safari.pb-mobile .pbsubmenu-main.active{overflow:unset}.landing-user.pb-iphone.pb-safari.pb-mobile .pbsubmenu-main.active .pb-menu.active{overflow-x:unset;overflow:hidden}.pbsubmenu-main{position:relative;background:#eee;text-align:center;z-index:99554;font-family:"Poppins";overflow:hidden}@media screen and (min-width: 768px){.pbsubmenu-main{position:sticky;position:-webkit-sticky;top:50px;z-index:99555}}.pbsubmenu-main>ul{display:flex;margin:0}@media screen and (max-width: 767px){.pbsubmenu-main>ul{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;width:auto;overflow-scrolling:touch}}@media screen and (min-width: 768px){.pbsubmenu-main>ul{display:inline-block;margin:0 auto;text-align:center}}.pbsubmenu-main>ul>li{list-style:none}@media screen and (max-width: 767px){.pbsubmenu-main>ul>li{flex:0 0 auto;margin:0 5px}}@media screen and (min-width: 768px){.pbsubmenu-main>ul>li{display:inline-block;vertical-align:top;margin:0 5px;position:relative}}.pbsubmenu-main>ul>li>a{font-size:12px;font-size:0.75rem;text-decoration:none;font-weight:700;color:#000;line-height:35px;transition:all 0.3s ease-in-out}.pbsubmenu-main>ul>li>a:hover{background:none;text-decoration:none !important;color:#d11031}.pbsubmenu-main>ul>li.highlight a{background:#d11031;color:#fff;padding:2px 5px}.pbsubmenu-main>ul>li.highlight a:hover{background:#000}.pbsubmenu-main>ul>li.main{background-color:transparent !important}.pbsubmenu-main>ul>li>span{font-size:15px;font-size:0.9375rem;text-decoration:none;font-weight:700;text-transform:uppercase;color:#000;line-height:50px;transition:all 0.3s ease-in-out}.pbsubmenu-main>ul>li>ul{opacity:0;visibility:hidden;position:absolute;background:#fff;width:200px;padding:10px;border:1px solid #ccc;border-top:0;transition:all 0.3s ease-in-out}@media screen and (max-width: 767px){.pbsubmenu-main>ul>li>ul{left:0}}@media screen and (min-width: 768px){.pbsubmenu-main>ul>li>ul{right:-20px}}.pbsubmenu-main>ul>li>ul>li{text-align:left;padding:0;margin:0;line-height:30px;border-bottom:1px solid #e5e5e5}.pbsubmenu-main>ul>li>ul>li:last-child{border:0}.pbsubmenu-main>ul>li>ul>li>a{font-size:16px;font-size:1rem;color:#000;padding:0 5px;width:100%;transition:all 0.3s ease-in-out}.pbsubmenu-main>ul>li>ul>li>a:hover{text-decoration:none !important;color:#d11031}.pbsubmenu-main>ul>li.main a{color:#d11031}.pbsubmenu-main>ul>li.submenu:hover>ul{opacity:1;visibility:visible}.pbsubmenu-main>ul>li.submenu:hover:after{opacity:1}.pbsubmenu-main>ul>li.submenu:after{content:" ";position:absolute;bottom:0;left:50%;margin-left:-7px;width:0;height:0;border-right:10px solid transparent;border-top:10px solid transparent;border-left:10px solid transparent;border-bottom:10px solid #fff;opacity:0}@media screen and (max-width: 767px){.pbsubmenu-main>ul>li:first-child{margin-left:11px}}@media screen and (max-width: 767px){.pbsubmenu-main>ul>li:last-child{padding-right:11px}}.pbsubmenu-main li.public{margin-left:10px}.pbsubmenu-main li.public a{color:#cf5410}.pbsubmenu-main li.public a:hover,.pbsubmenu-main li.public a:focus{color:#ad3f03}.pbsubmenu-main li.publico-tv img{height:17px;width:auto;margin-top:-2px;position:relative}.pbsubmenu-main li.pb-menu-item ul{padding:0 10px;margin:0;box-shadow:-2px 0px 11px 0px #c3c3c3;border:0 none}@media screen and (min-width: 768px){.pbsubmenu-main li.pb-menu-item ul{left:0}}.pbsubmenu-main li.pb-menu-item ul li{line-height:inherit;border:0 none}.pbsubmenu-main li.pb-menu-item ul li a{font-size:11px;font-size:0.6875rem;color:#000;padding:9px 0;border-bottom:1px solid #DDDDDD;display:block}.pbsubmenu-main li.pb-menu-item ul li:last-child a{border-bottom:0 none}@media screen and (min-width: 768px){.pbsubmenu-main li.pb-menu-item:hover ul{opacity:1;visibility:visible}}@media screen and (max-width: 767px){.pbsubmenu-main li.pb-menu-item.active ul{opacity:1;visibility:visible}}.pbsubmenu-main li.pb-menu-item [class*="icon"]{font-size:10px}.pbsubmenu-main li.pb-menu-item [class*="icon"]:before{content:"\f078"}.pbsubmenu-main li.regala-publico-item{border-left:1px solid #d11031;padding-left:10px}.pbsubmenu-main li.regala-publico-item .fa-gift{font-size:11px;font-size:0.6875rem;color:#d11031}.pbsubmenu-main li.regala-publico-item a{color:#d11031}@media screen and (max-width: 767px){.pbsubmenu-home.main{display:none}}@media screen and (min-width: 768px){.pbsubmenu-home.main{background:#eee;max-width:990px;display:flex;margin:0 auto}}@media screen and (min-width: 768px){.pbsubmenu-home.main ul li a{line-height:50px}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather{float:right;border-left:1px solid #000;padding-left:10px;margin:11px 10px 0 0;display:flex;align-self:baseline}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .temp{display:flex;margin-right:20px}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .temp>a{font-size:12px;font-size:0.75rem;color:#000;line-height:28px}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .temp>a.city{padding-right:5px}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .temp>a i{font-size:14px;font-size:0.875rem;padding-right:5px}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .sponsor{font-size:11px;font-size:0.6875rem}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .sponsor a{color:#000}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .sponsor>a{display:flex;align-items:center}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .ofrecido-por{display:inline-block;position:relative;text-align:right;padding-right:15px}}@media screen and (min-width: 768px){.pbsubmenu-home.main .weather .ofrecido-por span{display:block}}@media screen and (max-width: 767px){.pbsubmenu-home.submenu{display:none}}@media screen and (min-width: 768px){.pbsubmenu-home.submenu{background-color:#FFF;position:relative}}@media screen and (min-width: 768px){.pbsubmenu-home.submenu .border-bottom{display:flex;justify-content:center}}@media screen and (min-width: 768px){.pbsubmenu-home.submenu ul.items li:first-child:before{content:"Noticias locales:";font-weight:700;padding-right:40px}}@media screen and (min-width: 768px){.pbsubmenu-home.submenu li{font-size:11px;display:inline-block;line-height:40px;padding:0 15px}}@media screen and (min-width: 768px){.pbsubmenu-home.submenu li a{color:#000}.pbsubmenu-home.submenu li a:focus,.pbsubmenu-home.submenu li a:hover{color:#d11031}}@media screen and (min-width: 768px){.pbsubmenu-home.submenu ul.destacados:last-child{padding-right:0}}@media screen and (min-width: 768px){.pbsubmenu-home.submenu ul.items:first-child{padding-left:0}}.section-public .pbheader-main a.CabeceraBotonUnetePublico{transition:background 0.3s ease-in-out;-webkit-transition:background 0.3s ease-in-out;-moz-transition:background 0.3s ease-in-out;-ms-transition:background 0.3s ease-in-out;-o-transition:background 0.3s ease-in-out;background-color:#000}.section-public .pbheader-main a.CabeceraBotonUnetePublico:hover,.section-public .pbheader-main a.CabeceraBotonUnetePublico:focus{transition:background 0.3s ease-in-out;-webkit-transition:background 0.3s ease-in-out;-moz-transition:background 0.3s ease-in-out;-ms-transition:background 0.3s ease-in-out;-o-transition:background 0.3s ease-in-out;background-color:#2b2b2b}.section-public .pbheader-main .headermain-content{background-color:#cf5410}@media screen and (min-width: 768px){.section-public .pbheader-main.home .headermain-content{background-color:#FFF}}.temas-publico{height:fit-content}.temas-publico header{display:initial}.temas-publico .submenu.hide{display:none}@media screen and (max-width: 767px){.temas-publico .pbheader-buttons,.temas-publico .pbheader-main{font-family:"Poppins"}}@media screen and (min-width: 768px){.temas-publico .pbsubmenu-home.top-elements{display:flex}}.blog header,.blog-template.single header,.blog-template.archive header{display:initial}.navbar-collapse .menu-bottom.burger-menu .lbl-toggle,.pbheader-main .user-buttons{font-family:"Poppins"}.pbheader-main .navbar-collapse .collapse{display:none}@media screen and (min-width: 768px){.pbheader-main .navbar-collapse .collapse{display:block}}.pbheader-main .navbar-collapse.collapse{opacity:0;top:-100%}body.blog header .breaking-news-container,body.archive.author .breaking-news-container,body.single.single-post .breaking-news-container,body header>.breaking-news-container,body>.breaking-news-container{visibility:hidden;opacity:0}@media screen and (max-width: 767px){.main,.article-body{outline-offset:0px !important}}@media screen and (max-width: 767px){.article-page .article-header-title{min-height:98px}}
+</style>
+
+<link rel="preload" as="style" href="/commons/css/bootstrap-grid.min.css?bb6c161=2301031117" fetchpriority="low" onload="this.rel='stylesheet'"/>
+
+
+  
+
+<!-- Favicon -->
+        <link rel="apple-touch-icon" sizes="57x57" href="/commons/img/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/commons/img/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/commons/img/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/commons/img/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/commons/img/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/commons/img/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/commons/img/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/commons/img/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/commons/img/favicon/apple-icon-180x180.png">
+                
+<link rel="icon" type="image/png" sizes="192x192"  href="/commons/img/favicon/android-icon-192x192.png">
+        
+        <link rel="icon" type="image/png" sizes="192x192" href="/commons/img/favicon/favicon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/commons/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/commons/img/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/commons/img/favicon/favicon-16x16.png">
+                
+<link rel="manifest" href="/commons/img/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/commons/img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="preload" as="style" href="/commons/css/pb-icomoon.css?bb6c161=2301031117" fetchpriority="low" onload="this.rel='stylesheet'"/>
+<link rel="preload" as="style" href="/commons/css/publico.min.css?bb6c161=2301031117" fetchpriority="low" onload="this.rel='stylesheet'"/>
+
+
+
+  <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Las plagas de Almeida &#8211; Otras miradas</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Otras miradas &raquo; Feed" href="https://blogs.publico.es/otrasmiradas/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Otras miradas &raquo; Feed de los comentarios" href="https://blogs.publico.es/otrasmiradas/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Otras miradas &raquo; Comentario Las plagas de Almeida del feed" href="https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://blogs.publico.es/otrasmiradas/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://blogs.publico.es/otrasmiradas/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='nouislider-css-css' href='https://blogs.publico.es/otrasmiradas/wp-content/plugins/before-after-image-slider-lite/nouislider.css?ver=9.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbaimages-css-css' href='https://blogs.publico.es/otrasmiradas/wp-content/plugins/before-after-image-slider-lite/ImageComparisonSlider.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css' href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css' href='https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/genericons/genericons.css?ver=bb6c161' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css' href='https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/style.css?ver=bb6c161' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css' href='https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/css/ie.css?ver=bb6c161' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css' href='https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/css/ie8.css?ver=bb6c161' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css' href='https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/css/ie7.css?ver=bb6c161' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='pbcomments-css' href='https://blogs.publico.es/commons/css/pbcomments.min.css?ver=bb6c161' type='text/css' media='all' />
+<script type='text/javascript' defer src='https://blogs.publico.es/otrasmiradas/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' defer src='https://blogs.publico.es/otrasmiradas/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' defer src='https://blogs.publico.es/otrasmiradas/wp-content/plugins/before-after-image-slider-lite/nouislider.js?ver=9.1.0' id='nouislider-js-js'></script>
+<script type='text/javascript' defer src='https://blogs.publico.es/otrasmiradas/wp-content/plugins/before-after-image-slider-lite/ImageComparisonSlider.js?ver=2.1.1' id='wpbaimages-js-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' defer src='https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/js/html5.js?ver=bb6c161' id='twentysixteen-html5-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://blogs.publico.es/otrasmiradas/wp-json/" /><link rel="alternate" type="application/json" href="https://blogs.publico.es/otrasmiradas/wp-json/wp/v2/posts/67268" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blogs.publico.es/otrasmiradas/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blogs.publico.es/otrasmiradas/wp-includes/wlwmanifest.xml" />
+<link rel="canonical" href="https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida/" />
+<link rel='shortlink' href='https://blogs.publico.es/otrasmiradas/?p=67268' />
+<link rel="alternate" type="application/json+oembed" href="https://blogs.publico.es/otrasmiradas/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblogs.publico.es%2Fotrasmiradas%2F67268%2Flas-plagas-de-almeida%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://blogs.publico.es/otrasmiradas/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblogs.publico.es%2Fotrasmiradas%2F67268%2Flas-plagas-de-almeida%2F&#038;format=xml" />
+
+<!-- START - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.4 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="es_ES"/>
+  <meta property="og:site_name" content="Otras miradas"/>
+  <meta property="og:title" content="Las plagas de Almeida"/>
+  <meta property="og:url" content="https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:description" content="Artículo de Marta Higueras"/>
+  <meta property="og:image" content="https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40.jpg"/>
+  <meta property="article:published_time" content="2023-01-02T06:20:43+01:00"/>
+  <meta property="article:modified_time" content="2022-12-26T17:26:46+01:00" />
+  <meta property="og:updated_time" content="2022-12-26T17:26:46+01:00" />
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Las plagas de Almeida"/>
+  <meta itemprop="headline" content="Las plagas de Almeida"/>
+  <meta itemprop="description" content="Artículo de Marta Higueras"/>
+  <meta itemprop="image" content="https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40.jpg"/>
+  <meta itemprop="datePublished" content="2023-01-02"/>
+  <meta itemprop="dateModified" content="2022-12-26T17:26:46+01:00" />
+  <meta itemprop="author" content="Público"/>
+ <!-- Twitter Cards -->
+  <meta name="twitter:description" content="Artículo de Marta Higueras"/>
+  <meta name="twitter:image" content="https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_singular -->
+<!-- END - Open Graph for Facebook, Google+ and Twitter Card Tags 2.2.4 -->
+	
+
+
+  
+    <script>
+
+    function getCookieValue(a) {
+       var b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
+        return b ? b.pop() : '';
+    }
+
+	dataLayer = [{
+        'smartclipDevice': navigator.userAgent.search(/mobile/i) > 0 ? 'mobile' : 'desktop',
+        'smartclipPathName': location.pathname,'smartclipHostName': location.hostname,'smartclipABTesting': '','gaCanonicalUrl': 'https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida/','gaFormato': 'OnSite','gaContiene': 'No Widget',	
+	
+		    				    'smartclipPage':'noticia',        
+			    				    'smartclipSection':'opinion',        
+			    				    'smartclipCategories':'blogs,columnas,opinion',        
+			    				    'smartclipTags':'',        
+			    				    'smartclipUniqueId':'0015067268',        
+			    			    				    'gaProject':'Blogs',        
+			    				    'gaDeviceTemplate':'responsive',        
+			    				    'gaSection':'opinión',        
+			    				    'gaPageType':'noticia',        
+			    				    'gaSubSection':'otrasmiradas',        
+			    				    'gaPublishedDate':'2023-01-02',        
+			    				    'gaActualizationDate':'2022-12-26',        
+			    				    'gaCategories':'opinión',        
+			    				    'gaAuthors':'Marta Higueras Garrobo',        
+			    				    'gaBlog':'Otras miradas',        
+			    				    'gaTags':'almeida,madrid'        
+			            }];
+
+    
+    var cleanEmptyVars = ['gaAuthors', 'gaPublishedDate', 'gaActualizationDate', 'gaTags'];
+
+    for (i = 0; i < cleanEmptyVars.length; i++) {
+        if (typeof(dataLayer[0][cleanEmptyVars[i]]) == 'undefined' || dataLayer[0][cleanEmptyVars[i]].length == 0) {
+            delete dataLayer[0][cleanEmptyVars[i]];
+        }
+    };
+
+	// Variables de segmentación de contenido para Piano
+	var tp = window.tp || [],
+			tags = [],
+			contentIsNative = false;
+
+	if(tp){
+		if (typeof dataLayer[0]['gaCategories'] !== 'undefined' && dataLayer[0]['gaCategories'] == 'contenido patrocinado') {
+	  		contentIsNative = true;
+		}			
+
+		tags = typeof dataLayer[0]['gaTags'] !== 'undefined' ? dataLayer[0]['gaTags'].split(',') : [];
+		tags.push(dataLayer[0]['gaPageType']);
+
+		if(contentIsNative){
+			tags.push('branded');
+		}
+
+		tp.push(["setTags", tags]);
+		tp.push(["setContentIsNative", contentIsNative]);
+
+		if (typeof dataLayer[0]['gaPublishedDate'] !== 'undefined') {
+			var dateContentCreated = new Date(dataLayer[0]['gaPublishedDate']);
+	  		if (dateContentCreated.toString().toLowerCase() != 'invalid date') tp.push(["setContentCreated", dateContentCreated.toISOString()]);
+		}
+
+		if (typeof dataLayer[0]['gaAuthors'] !== 'undefined') {
+	  		tp.push(["setContentAuthor", dataLayer[0]['gaAuthors']]);
+		}			
+
+		if (typeof dataLayer[0]['gaSection'] !== 'undefined') {
+	  		tp.push(["setContentSection", dataLayer[0]['gaSection']]);
+		}
+	}		
+
+        if (typeof(dataLayer[0]['gaSection']) == 'undefined' || dataLayer[0]['gaSection'].length == 0) {
+        dataLayer[0]['gaSection'] = "otros";
+    }
+
+    
+    
+    var dlgid = getCookieValue('gaIdCookie'),
+        dlutc = getCookieValue('gaUserType'),
+        dlut = dlutc == '' ? 'Anónimo' : dlutc, 
+        dlui = getCookieValue('gaUserId'),
+        dlddc = getCookieValue('gaDifferentDays'),
+		dlanchor = window.location.hash,
+        /*  */
+        dldd = dlddc ? dlddc : 1;
+        
+		//dlanchor = dlanchor.replace('#','');
+		dlanchor = dlanchor.split('#').pop();
+
+		dlpv = {'gaDifferentDays': dldd, 'gaUserType': dlut};
+
+                if (dlgid != '') {
+            dlpv['gaIdCookie'] = dlgid;
+        } 
+         
+        if (dlui != '') {
+            dlpv['gaUserId'] = dlui;
+            dlpv['gaUserIdSession'] = dlui;
+        } 
+		if(dlanchor){
+			if(dlanchor.indexOf('md=') === 0){
+				var dlanchorArray = dlanchor.split('mm=');
+				var dlanchorDesktop = dlanchorArray[0].replace('md=','').replace(';','');
+				var dlanchorMobile = dlanchorArray[1];
+
+				var isMobile = navigator.userAgent.search(/mobile/i) > 0;  
+
+				dlanchor = isMobile ? dlanchorMobile : dlanchorDesktop;
+				dlpv['gaInternalTraffic'] = dlanchor;
+			}else if (dlanchor.indexOf('analytics-') === 0){
+				dlanchor = dlanchor.replace('analytics-','');
+				dlpv['gaInternalTraffic'] = dlanchor;
+			}
+		}
+
+		dataLayer.push(dlpv);
+
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PTC4Z5');</script>
+    <!-- End Google Tag Manager --> 
+<script type="application/ld+json">{
+    "@context": "https:\/\/schema.org",
+    "@type": [
+        "NewsArticle",
+        "OpinionNewsArticle"
+    ],
+    "publisher": {
+        "@type": "NewsMediaOrganization",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.publico.es\/images\/base\/logo_big.png",
+            "width": 249,
+            "height": 54
+        },
+        "name": "P\u00fablico",
+        "sameAs": [
+            "https:\/\/www.instagram.com\/publico.es",
+            "https:\/\/es-es.facebook.com\/diario.publico",
+            "https:\/\/twitter.com\/publico_es"
+        ],
+        "publishingPrinciples": {
+            "@type": "CreativeWork",
+            "url": "https:\/\/blogs.publico.es\/publico\/2018\/10\/04\/las-10-banderas-de-publico"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Marta Higueras Garrobo"
+    },
+    "name": "Las plagas de Almeida",
+    "headline": "Las plagas de Almeida",
+    "description": "Art\u00edculo de Marta Higueras",
+    "articleBody": "[caption id=\"attachment_67271\" align=\"alignnone\" width=\"1920\"]<a href=\"http:\/\/blogs.publico.es\/otrasmiradas\/files\/2022\/12\/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40.jpg\"><\/a> El alcalde de Madrid, Jos\u00e9 Luis Mart\u00ednez-Almeida, asiste al acto de conmemoraci\u00f3n del 40 aniversario de la Calle Madrid, a 22 de diciembre de 2022, en Navaridas, \u00c1lava, Pa\u00eds Vasco, (Espa\u00f1a). - EUROPA PRESS[\/caption]\r\n\r\nEl clientelismo y el corporativismo partidista son hoy las mayores amenazas para la democracia. No hay m\u00e1s que mirar el estado de Madrid para comprobarlo: una acci\u00f3n de gobierno comprometida con un partido que solo afirma su gesti\u00f3n levanta las cada vez m\u00e1s quejas por el abandono y la indolencia ante las necesidades de las personas que vivimos en Madrid.\r\n\r\nEn nuestra ciudad, el marketing y la lucha por el poder han tomado las riendas de la acci\u00f3n pol\u00edtica para nuestro perjuicio. As\u00ed, lo que deber\u00edan ser propuestas y pol\u00edticas para mejorar la vida de sus habitantes, son solo mensajes vac\u00edos en defensa de intereses particulares.\r\n\r\nCon un batiburrillo de esl\u00f3ganes incoherentes, que nada aportan,\u00a0 el gobierno de la ciudad poco hace para resolver problemas reales como el tr\u00e1fico, la seguridad, la disciplina urban\u00edstica, el uso del espacio p\u00fablico, el acceso a la vivienda, el cuidado de parques y arbolado, los servicios sociales, las bibliotecas, el medio ambiente, la limpieza, el deporte, la protecci\u00f3n de nuestro patrimonio o del transporte p\u00fablico.\r\n\r\nLo m\u00e1s lamentable es ver c\u00f3mo nuestra coyuntura pol\u00edtica nacional y la creciente influencia del trumpismo a la madrile\u00f1a, han contagiado a todas las derechas con sus formas antiinstitucionales y anticonstitucionales.\r\n\r\nEsas derechas irresponsables se inventan amenazas culturales, econ\u00f3micas, sociales y pol\u00edticas, para atacar a las izquierdas como un todo. Para atacarlas por su enfoque compartido en torno a principios como la equidad, la diversidad y la defensa del estado de bienestar europeo. Lo hacen porque saben que esos principios son hoy ineludibles en el marco de la Agenda 2030, como garantes del desarrollo sostenible, y porque son los \u00fanicos que garantizan la plena pertenencia a una comunidad pol\u00edtica que ser\u00e1 necesaria para enfrentar los retos venideros. Adem\u00e1s, son principios que han demostrado ser exitosos, tanto en el gobierno de coalici\u00f3n que preside Pedro S\u00e1nchez como en el gobierno de Madrid que presidi\u00f3 Manuela Carmena, en el que fui primera teniente de alcalde. Ese \u00e9xito aterra a las derechas y las hace desbarrar en los ataques que nos dirigen.\r\n\r\nLas fuerzas conservadoras, en el fondo, desconf\u00edan de tales principios aunque no puedan descartarlos por completo en el mundo de hoy. Por ello, deliberadamente, cargan las tintas y promueven la crispaci\u00f3n. Exagerar, mentir, escandalizar, es la forma de alejar el foco de las cuestiones concretas que afectan la vida de las personas que ellas son incapaces de resolver con su mala gesti\u00f3n. Un ejemplo por excelencia es el inepto gobierno de Almeida, al que nada parece importar la realidad de las personas que residimos en Madrid, ni las graves consecuencias de su ineptitud para nuestra calidad de vida.\r\n\r\nAzuzar el conflicto se justifica, desde las derechas, como una guerra necesaria por la supervivencia contra un enemigo que en verdad no existe. Pero es obvio que su \u00fanica intenci\u00f3n es defender sus privilegios pol\u00edticos y los negocios de sus redes clientelares; de vindicar sus intereses partidistas, empresariales y personales. Aunque intenten disimular ese objetivo con una ret\u00f3rica que sirve de acicate a los sectores m\u00e1s temerosos y conservadores, y quiz\u00e1s de excusa para tranquilizar sus conciencias.\r\n\r\nEn realidad, las derechas en pleno est\u00e1n indignadas por el desaf\u00edo econ\u00f3mico y pol\u00edtico a su poder que significan la diversidad y la equidad. Por su incapacidad de formular un discurso apropiado al momento actual desde el conservadurismo, desde la naturalizaci\u00f3n del ego\u00edsmo y el individualismo ciegos que ha caracterizado las pol\u00edticas de las derechas desde siempre. De ah\u00ed su extremismo actual, ese que destruye todo lo que afirma, como dec\u00eda Mar\u00eda Zambrano.\r\n\r\nSu prensa y su aparato de propaganda han montado por eso una gran campa\u00f1a sostenida en los m\u00e1s rancios prejuicios y se\u00f1alando a chivos expiatorios de siempre para esconder su ineficiencia: inmigrantes, feminismos, comunidades LGTBI, cualquier sector pol\u00edtico que persiga profundizar la descentralizaci\u00f3n y la autonom\u00eda regionales. Pero como en el pasado, la idea fraudulenta de una amenaza mortal a la naci\u00f3n, o el comunismo, no son m\u00e1s que espantajos plantados para desviar la atenci\u00f3n de su incapacidad para proponer y gestionar con eficacia en los \u00e1mbitos municipal, auton\u00f3mico y nacional.\r\n\r\nEsta reacci\u00f3n no es exclusiva del Partido Popular; la emula Ciudadanos, su socio de gobierno en Cibeles, y encuentra su hip\u00e9rbole en Vox, la m\u00e1s disparatada manifestaci\u00f3n de las derechas en Espa\u00f1a. Y es un claro s\u00edntoma de frustraci\u00f3n pol\u00edtica y de resentimiento ante el impacto negativo de sus pol\u00edticas y su gesti\u00f3n en Madrid que ya no pueden disimular de ninguna manera ocultando la realidad tras el espect\u00e1culo medi\u00e1tico. La cercan\u00eda temporal del gobierno de Manuela Carmena, que los antecedi\u00f3, hace manifiesto su fracaso.\r\n\r\nHoy las aut\u00e9nticas barbaridades que se permiten vociferar las derechas sobre filoetarras y comunistas no logran ocultar las realidades que deterioran nuestra vida en la ciudad: la proliferaci\u00f3n de terrazas en detrimento del espacio p\u00fablico; la multiplicaci\u00f3n de actividades ef\u00edmeras que pueblan parques y plazas sin dar descanso a las vecinas y a los vecinos; la instalaci\u00f3n de carpas para espect\u00e1culos que ocupan por a\u00f1os parcelas destinadas a equipaciones de los barrios; la concesi\u00f3n de dotaciones y de suelo p\u00fablico a particulares; el maltrato del arbolado p\u00fablico y de los parques y jardines; la desprotecci\u00f3n y destrucci\u00f3n del patrimonio hist\u00f3rico y cultural de la ciudad; la explotaci\u00f3n tur\u00edstica indiscriminada del centro con hoteles y pisos tur\u00edsticos ilegales; la promoci\u00f3n de la especulaci\u00f3n con la vivienda y el suelo; las recalificaciones de suelo para promover pelotazos urban\u00edsticos que incrementan los d\u00e9ficits de dotaciones y la contaminaci\u00f3n; la ausencia de pol\u00edticas activas para facilitar el acceso a una vivienda digna para la poblaci\u00f3n m\u00e1s vulnerable; el dispendio millonario en contratos de limpieza que han llevado a Madrid a unas cotas de suciedad e insalubridad inaceptables; la denunciada corrupci\u00f3n de algunos mandos policiales.\r\n\r\nNo, ni el comunismo ni los independentismos van a acabar con Madrid o con Espa\u00f1a. Como tampoco el matrimonio igualitario destruy\u00f3 la familia, o el derecho al aborto ha contribuido a que se use como m\u00e9todo anticonceptivo, ni Madrid Central o la ampliaci\u00f3n de las aceras en Gran V\u00eda acabaron con la vida en el centro.\r\n\r\nEn verdad, la \u00fanica plaga a la que debemos temer es a la permanencia del Partido Popular en la alcald\u00eda de Madrid.",
+    "mainEntityOfPage": "https:\/\/blogs.publico.es\/otrasmiradas\/67268\/las-plagas-de-almeida\/",
+    "articleSection": "Blogs",
+    "datePublished": "2023-01-02T06:20:43+01:00",
+    "dateModified": "2022-12-26T17:26:46+01:00",
+    "keywords": "Almeida,Madrid",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "query-input": "required name=search_term_string",
+        "target": "https:\/\/www.publico.es\/search\/?query={search_term_string}\/"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": true,
+        "headline": "Las plagas de Almeida",
+        "width": 1200,
+        "height": 675,
+        "url": "https:\/\/blogs.publico.es\/otrasmiradas\/files\/2022\/12\/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40-1024x683.jpg"
+    }
+}</script>  
+
+</head>
+
+<body class="post-template-default single single-post postid-67268 single-format-standard blog-template sc-skin-blogs post-las-plagas-de-almeida">
+  <div id="page" class="site">
+    <div class="site-inner">
+
+      <header id="masthead" class="site-header" role="banner">
+        
+    <div class="pbsubmenu-home top-elements"><div class="col-lg-12 container"><div class="destacados tags"><ul class="destacados-hoy transparent-desktop"><li class="topic" id="m82-81-83"><a href="https://www.publico.es/politica/sanchez-aspira-doblegar-feijoo-buenos-datos-economicos-2023-electoral.html#analytics-cabecera-comprimida:hoy-interesa" class="topic-link undefined" id="m86-85-87" title="Sánchez aspira a doblegar a Feijóo con buenos datos económicos en este 2023 electoral">Pedro Sánchez</a></li><li class="topic" id="m92-1-93"><a href="https://www.publico.es/economia/tres-tareas-pendientes-seguridad-social-auditoria-transformacion-agencia-reforma-pensiones.html#analytics-cabecera-comprimida:hoy-interesa" class="topic-link undefined" id="m96-95-97" title="Tres tareas pendientes de la Seguridad Social: auditoría, transformación en agencia y la reforma de las pensiones">Seguridad Social</a></li><li class="topic" id="m189-2-190"><a href="https://www.publico.es/internacional/escasez-energetica-hastio-guerra-ucrania-apuntan-2023-incierto-ue.html#analytics-cabecera-comprimida:hoy-interesa" class="topic-link undefined" id="m193-192-194" title="La escasez energética y el hastío de la guerra en Ucrania apuntan a un 2023 incierto en la UE">Guerra en Ucrania</a></li><li class="topic" id="m102-2-103"><a href="https://www.publico.es/internacional/izquierda-marca-ritmo-america-latina-2023.html#analytics-cabecera-comprimida:hoy-interesa" class="topic-link undefined" id="m106-105-107" title="La izquierda marca el ritmo en América Latina en 2023">Lula da Silva</a></li><li class="topic" id="m112-3-113"><a href="https://www.publico.es/politica/ano-nuevo-juicio-nuevo-preparan-juan-carlos-i-corina-larsen-vista-acoso-difamacion-rey-emerito.html#analytics-cabecera-comprimida:hoy-interesa" class="topic-link undefined" id="m116-115-117" title="Año nuevo, juicio nuevo: así preparan Juan Carlos I y Corina Larsen la vista por acoso y difamación contra el rey emérito">Juan Carlos I</a></li><li class="topic" id="m122-4-123"><a href="https://www.publico.es/mujer/gobierno-autocritica-fallos-sistema-y-lanza-llamamiento-sociedad-denuncie-violencia-machista.html#analytics-cabecera-comprimida:hoy-interesa" class="topic-link undefined" id="m126-125-127" title="El Gobierno hace autocrítica por los fallos en el sistema y lanza un llamamiento a la sociedad para que denuncie la violencia machista">Violencia machista</a></li><li class="topic" id="m132-5-133"><a href="https://www.publico.es/politica/son-fechas-elecciones-municipales-autonomicas-generales-previstas-2023.html#analytics-cabecera-comprimida:hoy-interesa" class="topic-link undefined" id="m136-135-137" title="Estas son las fechas de las elecciones municipales, autonómicas y generales previstas para 2023">Elecciones municipales</a></li><li class="topic" id="m142-6-143"><a href="https://www.publico.es/sociedad/sanidad-pedira-prueba-negativa-covid-19-pauta-completa-pasajeros-lleguen-china-pone-foco-posibles-nuevas-variantes.html#analytics-cabecera-comprimida:hoy-interesa" class="topic-link undefined" id="m146-145-147" title="Sanidad pedirá prueba negativa de covid-19 o pauta completa a los pasajeros que lleguen desde China">Coronavirus China</a></li></ul><ul class="destacados-top"><li class="hidden-mobile"><a href="https://temas.publico.es/#analytics-cabecera-portada:especiales" class="destacados-top__especiales" title="Especiales">
+            Especiales
+        </a></li><li class="hidden-mobile"><a href="https://tremending.publico.es/#analytics-cabecera-portada:tremending" class="destacados-top__tremending" title="Tremending"><span class="icon-pb-tremending"></span>
+            Tremending
+        </a></li><li class="users"><a href="https://s.publico.es/landing/newsletter" class="newsletters hidden-mobile"><span class="icon-envelope"></span><span> Newsletters</span></a><a href="https://s.publico.es/my-account#analytics-cabecera-comprimida:mi-cuenta" class="my-account hidden "><span class="icon-user-circle"></span><span> Mi cuenta</span></a><a href="#" class="logout hidden hidden-desktop"><span class="icon-frown"></span><span> Cerrar sesión</span></a><a href="https://s.publico.es/login#analytics-cabecera-comprimida:iniciar-sesion" class="login hidden destacados-top__login"><span class="icon-user-circle"></span>
+     Inicia sesión </a></li></ul></div></div></div>    
+
+
+
+
+<div id="pbsubmenu-claim" class="pbsubmenu-claim visibility-hidden opacity-hidden"></div>
+    
+
+
+
+
+
+
+<div id="pbheader-main" class="pbheader-main responsive header-no-fixed"><div class="header-container"><div class="headermain-content"><button class="CabeceraHamburguesaAbrir toggle-menu navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" aria-controls="navbar-collapse"><span class="CabeceraHamburguesaCerrar"></span></button><div class="logo"><h1><a href="https://www.publico.es" class="brand" title="Público">Público</a></h1></div><div class="user-buttons"><a href="https://s.publico.es/landing/newsletter" class="newsletters hidden-mobile"><span class="icon-envelope"></span><span> Newsletters</span></a><a href="https://s.publico.es/my-account#analytics-cabecera-comprimida:mi-cuenta" class="my-account hidden "><span class="icon-user-circle"></span><span> Mi cuenta</span></a><a href="#" class="logout hidden hidden-desktop"><span class="icon-frown"></span><span> Cerrar sesión</span></a><a href="https://s.publico.es/login#analytics-cabecera-comprimida:iniciar-sesion" class="login hidden destacados-top__login"><span class="icon-user-circle"></span>
+     Inicia sesión </a>                                
+                                
+                <div id="signin-container" class="signin-container"></div>    
+                
+                      
+                
+            </div></div><div class="collapse navbar-collapse" id="navbar-collapse" data-parent="#pbheader-main"><div class="container"><div class="content"><div class="row justify-content-center"><a href="https://s.publico.es/landing/newsletter" target="_blank" class="newsletters hidden-desktop"><span class="icon-envelope"></span><span>Newsletters</span></a><div class="menu-bottom burger-menu"><div class="menu-module-container container" id="m557-556-558"><div class="row"><div class="col-12 col-sm-3 col-md-3 menu-col-1"><div class="menu-col-1-row undefined" id="m561-560-562"><nav id="m565-564-566" data-collection="m561-560-562" class="secciones"><div class="row menu-row"><div class="wrap-collabsible"><input class="toggle" type="checkbox" id="input-m569-568-570"><label id="m569-568-570" class="lbl-toggle" for="input-m569-568-570">Secciones</label><div class="secciones-burger-menu-content collapsible-content" id="m574-1-575"><div class="content-inner"><ul class="options col-lg-12"><div class="menu-item undefined" id="m578-577-579"><li class="module menu-item" id="m582-581-583" data-collection="m578-577-579"><a href="https://www.publico.es/#analytics-cabecera-comprimida:menu" id="m586-585-587" title="">Inicio</a></li><li class="module menu-item" id="m592-1-593" data-collection="m578-577-579"><a href="https://www.publico.es/politica#analytics-cabecera-comprimida:menu" id="m596-595-597" title="">Política</a></li><li class="module menu-item" id="m602-2-603" data-collection="m578-577-579"><a href="https://www.publico.es/sociedad#analytics-cabecera-comprimida:menu" id="m606-605-607" title="Sociedad">Sociedad</a></li><li class="module menu-item" id="m612-3-613" data-collection="m578-577-579"><a href="https://www.publico.es/opinion#analytics-cabecera-comprimida:menu" id="m616-615-617" title="">Opinión</a></li><li class="module menu-item" id="m622-4-623" data-collection="m578-577-579"><a href="https://www.publico.es/tremending/#analytics-cabecera-comprimida:menu" id="m626-625-627" title="">Tremending</a></li><li class="module menu-item" id="m632-5-633" data-collection="m578-577-579"><a href="https://www.publico.es/internacional#analytics-cabecera-comprimida:menu" id="m636-635-637" title="">Internacional</a></li><li class="module menu-item" id="m642-6-643" data-collection="m578-577-579"><a href="https://www.publico.es/mujer#analytics-cabecera-comprimida:menu" id="m646-645-647" title="">Mujer</a></li><li class="module menu-item" id="m652-7-653" data-collection="m578-577-579"><a href="https://www.publico.es/sociedad/m-ambiente#analytics-cabecera-comprimida:menu" id="m656-655-657" title="">Medio Ambiente</a></li><li class="module menu-item" id="m662-8-663" data-collection="m578-577-579"><a href="https://www.publico.es/politica/memoria-publica#analytics-cabecera-comprimida:menu" id="m666-665-667" title="">Memoria Pública</a></li><li class="module menu-item" id="m672-9-673" data-collection="m578-577-579"><a href="https://www.publico.es/culturas#analytics-cabecera-comprimida:menu" id="m676-675-677" title="">Culturas</a></li><li class="module menu-item" id="m682-10-683" data-collection="m578-577-579"><a href="https://www.publico.es/ciencias#analytics-cabecera-comprimida:menu" id="m686-685-687" title="">Ciencias</a></li><li class="module menu-item" id="m692-11-693" data-collection="m578-577-579"><a href="https://www.publico.es/economia#analytics-cabecera-comprimida:menu" id="m696-695-697" title="">Economía</a></li><li class="module menu-item" id="m702-12-703" data-collection="m578-577-579"><a href="https://www.publico.es/videos#analytics-cabecera-comprimida:menu" id="m706-705-707" title="">Vídeos</a></li><li class="module menu-item" id="m712-13-713" data-collection="m578-577-579"><a href="https://especiales.publico.es/podcasts/#analytics-cabecera-comprimida:menu" id="m716-715-717" title="">Podcasts</a></li></div></ul></div></div></div></div></nav></div></div><div class="col-12 col-sm-3 col-md-3 menu-col-2"><div class="menu-col-2-row undefined" id="m726-1-727"><nav id="m730-729-731" data-collection="m726-1-727" class="destacados"><div class="row menu-row"><div class="wrap-collabsible"><input class="toggle" type="checkbox" id="input-m734-733-735"><label id="m734-733-735" class="lbl-toggle" for="input-m734-733-735">Destacados</label><div class="secciones-burger-menu-content collapsible-content" id="m739-1-740"><div class="content-inner"><ul class="options col-lg-12"><div class="menu-item undefined" id="m743-742-744"><li class="module menu-item" id="m747-746-748" data-collection="m743-742-744"><a href="https://www.publico.es/public#analytics-cabecera-comprimida:menu" id="m751-750-752" style="width: auto;">Públic</a></li><li class="module menu-item" id="m1116-1-1117" data-collection="m743-742-744"><a href="https://www.publico.es/uwu/#analytics-cabecera-comprimida:menu" id="m1120-1119-1121" style="width: auto;">UwU</a></li><li class="module menu-item" id="m757-1-758" data-collection="m743-742-744"><a href="https://temas.publico.es/#analytics-cabecera-comprimida:menu" id="m761-760-762" title="">Especiales</a></li><li class="module menu-item" id="m767-2-768" data-collection="m743-742-744"><a href="https://www.publico.es/publico-tv/en-la-frontera#analytics-cabecera-comprimida:menu" id="m771-770-772" title="">En la frontera</a></li><li class="module menu-item" id="m777-3-778" data-collection="m743-742-744"><a href="https://www.espacio-publico.com/#analytics-cabecera-comprimida:menu" id="m781-780-782" title="" target="_blank">Espacio Público</a></li></div></ul></div></div></div></div></nav><nav id="m790-1-791" data-collection="m726-1-727" class="podcasts"><div class="row menu-row"><div class="wrap-collabsible"><input class="toggle" type="checkbox" id="input-m794-793-795"><label id="m794-793-795" class="lbl-toggle" for="input-m794-793-795">Podcasts</label><div class="secciones-burger-menu-content collapsible-content" id="m799-1-800"><div class="content-inner"><ul class="options col-lg-12"><div class="menu-item undefined" id="m803-802-804"><li class="module menu-item" id="m807-806-808" data-collection="m803-802-804"><a href="https://www.publico.es/podcasts/la-base#analytics-cabecera-comprimida:menu" id="m811-810-812" title="">La base</a></li><li class="module menu-item" id="m817-1-818" data-collection="m803-802-804"><a href="https://especiales.publico.es/podcasts/barbijaputa/radiojaputa#analytics-cabecera-comprimida:menu" id="m821-820-822" title="">Radiojaputa</a></li></div></ul></div></div></div></div></nav></div></div><div class="col-12 col-sm-3 col-md-3 menu-col-3"><div class="menu-col-3-row undefined" id="m831-2-832"><nav id="m835-834-836" data-collection="m831-2-832" class="colaboradores"><div class="row menu-row"><div class="wrap-collabsible"><input class="toggle" type="checkbox" id="input-m839-838-840"><label id="m839-838-840" class="lbl-toggle" for="input-m839-838-840">colaboradores</label><div class="secciones-burger-menu-content collapsible-content" id="m844-1-845"><div class="content-inner"><ul class="options col-lg-12"><div class="menu-item undefined" id="m848-847-849"><li class="module menu-item" id="m852-851-853" data-collection="m848-847-849"><a href="https://eldiariocantabria.publico.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-cabecera-comprimida:menu" id="m856-855-857" title="">El Diario Cantabria</a></li><li class="module menu-item" id="m862-1-863" data-collection="m848-847-849"><a href="https://periodicoclm.publico.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-cabecera-comprimida:menu" id="m866-865-867" title="">Periódico CLM</a></li><li class="module menu-item" id="m872-2-873" data-collection="m848-847-849"><a href="https://zeleb.publico.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-cabecera-comprimida:menu" id="m876-875-877" title="">Zeleb</a></li><li class="module menu-item" id="m882-3-883" data-collection="m848-847-849"><a href="https://www.publico.es/viajes/#analytics-cabecera-comprimida:menu" id="m886-885-887" title="">Viajes</a></li><li class="module menu-item" id="m892-4-893" data-collection="m848-847-849"><a href="https://www.publico.es/ahorro-consumo-responsable/?utm_source=publico&amp;utm_medium=cabecera#analytics-cabecera-comprimida:menu" id="m896-895-897" title="">Ahorro y Consumo</a></li><li class="module menu-item" id="m902-5-903" data-collection="m848-847-849"><a href="https://elasombrario.publico.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-cabecera-comprimida:menu" id="m906-905-907" title="">El Asombrario</a></li><li class="module menu-item" id="m912-6-913" data-collection="m848-847-849"><a href="https://salyroca.publico.es/#analytics-cabecera-comprimida:menu" id="m916-915-917" title="">Sal y roca</a></li><li class="module menu-item" id="m922-7-923" data-collection="m848-847-849"><a href="http://www.tribunaolimpica.es/#analytics-cabecera-comprimida:menu" id="m926-925-927" title="">Tribuna Olímpica</a></li><li class="module menu-item" id="m932-8-933" data-collection="m848-847-849"><a href="https://librujula.publico.es/#analytics-cabecera-comprimida:menu" id="m936-935-937" title="">Librújula</a></li><li class="module menu-item" id="m942-9-943" data-collection="m848-847-849"><a href="https://www.publico.es/psicologia-y-mente/#analytics-pie:menu#analytics-cabecera-comprimida:menu" id="m946-945-947" title="">Psicología</a></li><li class="module menu-item" id="m1159-10-1160" data-collection="m848-847-849"><a href="https://www.nortes.me/#analytics-cabecera-comprimida:menu" id="m1163-1162-1164" style="width: auto;">Nortes</a></li></div></ul></div></div></div></div></nav></div></div><div class="col-12 col-sm-3 col-md-3 menu-col-4"><div class="menu-col-4-row undefined" id="m956-3-957"><nav id="m960-959-961" data-collection="m956-3-957" class="especiales"><div class="row menu-row"><div class="wrap-collabsible"><input class="toggle" type="checkbox" id="input-m964-963-965"><label id="m964-963-965" class="lbl-toggle" for="input-m964-963-965">Especiales</label><div class="secciones-burger-menu-content collapsible-content" id="m969-1-970"><div class="content-inner"><ul class="options col-lg-12"><div class="menu-item undefined" id="m973-972-974"><li class="module menu-item" id="m977-976-978" data-collection="m973-972-974"><a href="https://especiales.publico.es/resultados-elecciones/#analytics-cabecera-comprimida:menu" id="m981-980-982" title="">Resultados electorales</a></li><li class="module menu-item" id="m987-1-988" data-collection="m973-972-974"><a href="https://temas.publico.es/quehablelatierra#analytics-cabecera-comprimida:menu" id="m991-990-992" title="">Que hable la tierra</a></li><li class="module menu-item" id="m997-2-998" data-collection="m973-972-974"><a href="https://temas.publico.es/aparadoras#analytics-cabecera-comprimida:menu" id="m1001-1000-1002" title="">Aparadoras</a></li><li class="module menu-item" id="m1007-3-1008" data-collection="m973-972-974"><a href="https://temas.publico.es/migracion-climatica/#analytics-cabecera-comprimida:menu" id="m1011-1010-1012" title="">Denunciantes de corrupción</a></li><li class="module menu-item" id="m1017-4-1018" data-collection="m973-972-974"><a href="https://temas.publico.es/migracion-climatica/#analytics-cabecera-comprimida:menu" id="m1021-1020-1022" title="">Crónicas de la migración climática</a></li></div></ul></div></div></div></div></nav><div class="buscador-chiqui" id="m1030-1-1031" data-collection="m956-3-957"><form method="GET" action="https://www.publico.es/search/"><input type="text" id="query" name="query" placeholder="¿Qué estás buscando?"><button class="search-btn"><span class="icon-search"></span></button></form></div><nav id="m1035-2-1036" data-collection="m956-3-957" class="la-republica-de-publico"><div class="row menu-row"><div class="wrap-collabsible"><input class="toggle" type="checkbox" id="input-m1039-1038-1040"><label id="m1039-1038-1040" class="lbl-toggle" for="input-m1039-1038-1040">La República de Público</label><div class="secciones-burger-menu-content collapsible-content" id="m1044-1-1045"><div class="content-inner"><ul class="options col-lg-12"><div class="menu-item undefined" id="m1048-1047-1049"><li class="module menu-item" id="m1052-1051-1053" data-collection="m1048-1047-1049"><a href="https://blogs.publico.es/publico/2018/10/04/las-10-banderas-de-publico/#analytics-cabecera-comprimida:menu" id="m1056-1055-1057" title="">Las banderas de Público</a></li><li class="module menu-item" id="m1062-1-1063" data-collection="m1048-1047-1049"><a href="https://s.publico.es/landing/registro?utm_source=publico&amp;utm_medium=menu&amp;utm_campaign=generico&amp;utm_content=suscriptor_amigo#analytics-cabecera-comprimida:menu" id="m1066-1065-1067" title="">Apoya a Público y disfruta de estas ventajas</a></li><li class="module menu-item" id="m1072-2-1073" data-collection="m1048-1047-1049"><a href="https://s.publico.es/landing/suscripciones?utm_source=publico&amp;utm_medium=menu&amp;utm_campaign=generico&amp;utm_content=suscriptor#analytics-cabecera-comprimida:menu" id="m1076-1075-1077" title="">Únete a Público</a></li><li class="module menu-item" id="m1082-3-1083" data-collection="m1048-1047-1049"><a href="https://s.publico.es/landing/regala?utm_campaign=regalo&amp;piano=menu&amp;tpcc=menu_hamburguesa&amp;segment=todosUU&amp;term=navidad_2022#analytics-cabecera-comprimida:menu" id="m1086-1085-1087" title="">Regala Público</a></li><li class="module menu-item" id="m1092-4-1093" data-collection="m1048-1047-1049"><a href="https://ayuda.publico.es/hc/es#analytics-cabecera-comprimida:menu" id="m1096-1095-1097" title="Preguntas y respuestas frecuentes" target="_blank">Preguntas y respuestas frecuentes</a></li></div></ul></div></div></div></div></nav></div></div></div></div></div><div class="social-wrapper menu-bottom burger-menu col-12 col-sm-12 col-md-4 col-lg-3"><nav class="redes-sociales"><div class="wrap-collabsible"><input id="redessocialesburgermenu" class="toggle" type="checkbox"><label for="redessocialesburgermenu" class="lbl-toggle hidden-desktop">Redes sociales</label><div class="redessociales-burger-menu-content collapsible-content"><div class="content-inner"><ul class="col-lg-12"><li><a href="https://www.facebook.com/diario.publico" target="_blank"><span class="icon-facebook-f"></span></a></li><li><a href="https://twitter.com/publico_es" target="_blank"><span class="icon-twitter"></span></a></li><li><a href="https://www.instagram.com/publico.es/" target="_blank"><span class="icon-instagram"></span></a></li><li><a href="https://www.youtube.com/channel/UCVimQoXNCZuEnZRVAbuYMiw" target="_blank"><span class="icon-youtube"></span></a></li><li><a href="https://telegram.me/publico_es" target="_blank"><span class="icon-telegram-plane"></span></a></li></ul></div></div></div></nav></div></div></div></div></div><!-- /.navbar-collapse --><div class="my-account-menu hidden"><ul><li><a href="https://s.publico.es/mi-cuenta/mis-datos#analytics-cabecera-comprimida:mi-cuenta" title="Mis datos">Mis datos</a></li><li><a href="https://s.publico.es/mi-cuenta/mis-datos?msg=passwd#analytics-cabecera-comprimida:mi-cuenta" title="Cambiar contraseña">Cambiar contraseña</a></li><li><a href="https://s.publico.es/landing/newsletter#analytics-cabecera-comprimida:mi-cuenta" title="Mis newsletter">Mis newsletters</a></li><li><a href="https://s.publico.es/mi-cuenta/mis-especiales#analytics-cabecera-comprimida:mi-cuenta" title="Especiales en formato PDF para ver o descargar">Especiales publicados</a></li><li><a href="https://s.publico.es/mi-cuenta/pasa-a-la-accion#analytics-cabecera-comprimida:mi-cuenta" title="Pasa a la acción">Pasa a la acción</a></li><li><a href="https://s.publico.es/mi-cuenta/ayuda#analytics-cabecera-comprimida:mi-cuenta" title="Ayuda">Ayuda</a></li><li class="logout-container"><span class="icon-frown"></span><a href="/logout#analytics-cabecera-comprimida:mi-cuenta" class="logout">Cerrar sesión</a></li></ul></div></div></div>
+
+
+
+
+    
+
+
+
+
+<div class="pbheader-buttons header-no-fixed hidden-desktop"><ul class="destacados-top"><li class="hidden-mobile"><a href="https://temas.publico.es/#analytics-cabecera-portada:especiales" class="destacados-top__especiales" title="Especiales">
+            Especiales
+        </a></li><li class="hidden-mobile"><a href="https://tremending.publico.es/#analytics-cabecera-portada:tremending" class="destacados-top__tremending" title="Tremending"><span class="icon-pb-tremending"></span>
+            Tremending
+        </a></li><li class="users"><a href="https://s.publico.es/landing/newsletter" class="newsletters hidden-mobile"><span class="icon-envelope"></span><span> Newsletters</span></a><a href="https://s.publico.es/my-account#analytics-cabecera-comprimida:mi-cuenta" class="my-account hidden  hidden-mobile"><span class="icon-user-circle"></span><span> Mi cuenta</span></a><a href="#" class="logout hidden hidden-desktop"><span class="icon-frown"></span><span> Cerrar sesión</span></a><a href="https://s.publico.es/login#analytics-cabecera-comprimida:iniciar-sesion" class="login hidden destacados-top__login"><span class="icon-user-circle"></span>
+     Inicia sesión </a></li></ul></div>      <div class="pbsubmenu-main">
+        <ul>
+                   	    <li class="main"><a href="https://blogs.publico.es">Opinión</a></li>
+                        <li><a href="//blogs.publico.es/vinetas/">Viñetas</a></li>
+                          
+        </ul>
+      </div> 
+
+                <div id="info-submenu">
+            <div class="container">
+                <div class="align-middle">
+                    <div class="text">
+                        <p class="title">
+                            <span>Estás leyendo:</span>
+                            <a href="#" class="toTop" title="">Las plagas de Almeida</a>
+                        </p>
+                    </div>
+                    <div class="icons">
+                                            <ul>            
+                          <li>
+                          <div class="share-link-container hovercolor">
+		<ul class="share-links">
+	   <li class="facebook">
+	   		<a href="https://www.facebook.com/sharer/sharer.php?u=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="_blank">
+	   			<span class="icon-facebook-f"></span>
+	   		</a>
+	   </li>
+	   <li class="twitter">
+	   		<a href="http://twitter.com/intent/tweet?url=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="_blank">
+	   			<span class="icon-twitter"></span>
+	   		</a>
+	   	</li>
+	   <li class="whatsapp">
+	   		<a href="whatsapp://send?text=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dweb" data-action="share/whatsapp/share" target="_blank">
+	   			<span class="icon-whatsapp"></span>
+	   		</a>
+	   </li>
+	   <li class="telegram">
+	   		<a href="https://telegram.me/share/url?url=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="_blank">
+	   			<span class="icon-telegram-plane"></span>
+	   		</a>
+	   </li>	   
+	   
+	   	</ul>
+</div>
+                          </li>
+                      </ul>
+                                          </div>
+                </div>
+            </div>
+        </div>        
+              </header><!-- .site-header -->
+
+      <div id="content" class="site-content">
+
+        <div class="megabanner-container top sc-top">
+          <div class="content">
+            <div class="ads ads-megabanner top">
+              <div id="sc-top" class="pb-ads "></div>
+              <div id="sc-oop" class="pb-ads "></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="blog-content">
+          
+          <div class="pb-sky-left">
+            <div id="sc-skyscraper-left" class=" pb-ads js-ads-fixed"></div>
+          </div>
+          
+  
+
+<!-- /mnt/fs01_share/blogs.publico.es/wp-content/themes/publico-base/single.php -->
+<div id="primary" class="content-area">
+	<main id="main" class="site-main" role="main">
+		
+<article id="post-67268" class="post-67268 post type-post status-publish format-standard has-post-thumbnail hentry tag-almeida tag-madrid">
+	<header class="entry-header article-header">
+				<a class="entry-blog" href="https://blogs.publico.es/otrasmiradas"><!-- Opinion <span>·</span> -->Otras miradas</a>
+		
+<!-- <div class="before-text">
+    <div class="pb-ads megabanner-left hidden"><div class="pb-ads-count  js-ads-fixed"></div></div>                   
+</div>		 -->
+
+		<h1 class="entry-title">Las plagas de Almeida</h1><div class="author-content"><div class="author-item"><p class="author"><span>Marta Higueras Garrobo</span></p><p class="description">Concejala del Ayuntamiento de Madrid</p></div></div><div class="share-link-container hovercolor">
+		<ul class="share-links">
+	   <li class="facebook">
+	   		<a href="https://www.facebook.com/sharer/sharer.php?u=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="_blank">
+	   			<span class="icon-facebook-f"></span>
+	   		</a>
+	   </li>
+	   <li class="twitter">
+	   		<a href="http://twitter.com/intent/tweet?url=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dweb&amp;text=Las%20plagas%20de%20Almeida" target="_blank">
+	   			<span class="icon-twitter"></span>
+	   		</a>
+	   	</li>
+	   <li class="whatsapp">
+	   		<a href="whatsapp://send?text=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dweb" data-action="share/whatsapp/share" target="_blank">
+	   			<span class="icon-whatsapp"></span>
+	   		</a>
+	   </li>
+	   <li class="telegram">
+	   		<a href="https://telegram.me/share/url?url=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="_blank">
+	   			<span class="icon-telegram-plane"></span>
+	   		</a>
+	   </li>	   
+	   
+	   	</ul>
+</div>
+		
+	</header><!-- .entry-header -->
+	<div class="entry-content">
+		<div class="main-content">
+			<div class="content-inside">
+				<span class="posted-on"><time class="entry-date published" datetime="2023-01-02T06:20:43+01:00">02/01/2023</time><time class="updated" datetime="2022-12-26T17:26:46+01:00">26/12/2022</time></span><!-- SINGLE POST -->
+<figure id="attachment_67271" aria-describedby="caption-attachment-67271" style="width: 1920px" class="wp-caption alignnone"><a href="http://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40.jpg"><img decoding="async" class="size-full wp-image-67271" src="http://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40.jpg" alt="" width="1920" height="1280" srcset="https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40.jpg 1920w, https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40-300x200.jpg 300w, https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40-1024x683.jpg 1024w, https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40-768x512.jpg 768w, https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40-1536x1024.jpg 1536w, https://blogs.publico.es/otrasmiradas/files/2022/12/EuropaPress_4886226_alcalde_madrid_jose_luis_martinez_almeida_asiste_acto_conmemoracion_40-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a><figcaption id="caption-attachment-67271" class="wp-caption-text">El alcalde de Madrid, José Luis Martínez-Almeida, asiste al acto de conmemoración del 40 aniversario de la Calle Madrid, a 22 de diciembre de 2022, en Navaridas, Álava, País Vasco, (España). - EUROPA PRESS</figcaption></figure>
+<p>El clientelismo y el corporativismo partidista son hoy las mayores amenazas para la democracia. No hay más que mirar el estado de Madrid para comprobarlo: una acción de gobierno comprometida con un partido que solo afirma su gestión levanta las cada vez más quejas por el abandono y la indolencia ante las necesidades de las personas que vivimos en Madrid.</p><div data-id="r1" class="pb-mobile-ads pb-mobile-robapaginas hidden"><div class="pb-ads-count"></div></div>
+<p>En nuestra ciudad, el marketing y la lucha por el poder han tomado las riendas de la acción política para nuestro perjuicio. Así, lo que deberían ser propuestas y políticas para mejorar la vida de sus habitantes, son solo mensajes vacíos en defensa de intereses particulares.</p>
+<p>Con un batiburrillo de eslóganes incoherentes, que nada aportan,  el gobierno de la ciudad poco hace para resolver problemas reales como el tráfico, la seguridad, la disciplina urbanística, el uso del espacio público, el acceso a la vivienda, el cuidado de parques y arbolado, los servicios sociales, las bibliotecas, el medio ambiente, la limpieza, el deporte, la protección de nuestro patrimonio o del transporte público.</p>
+<p>Lo más lamentable es ver cómo nuestra coyuntura política nacional y la creciente influencia del trumpismo a la madrileña, han contagiado a todas las derechas con sus formas antiinstitucionales y anticonstitucionales.</p><div data-id="r2" class="pb-mobile-ads pb-mobile-robapaginas hidden"><div class="pb-ads-count"></div></div>
+<p>Esas derechas irresponsables se inventan amenazas culturales, económicas, sociales y políticas, para atacar a las izquierdas como un todo. Para atacarlas por su enfoque compartido en torno a principios como la equidad, la diversidad y la defensa del estado de bienestar europeo. Lo hacen porque saben que esos principios son hoy ineludibles en el marco de la Agenda 2030, como garantes del desarrollo sostenible, y porque son los únicos que garantizan la plena pertenencia a una comunidad política que será necesaria para enfrentar los retos venideros. Además, son principios que han demostrado ser exitosos, tanto en el gobierno de coalición que preside Pedro Sánchez como en el gobierno de Madrid que presidió Manuela Carmena, en el que fui primera teniente de alcalde. Ese éxito aterra a las derechas y las hace desbarrar en los ataques que nos dirigen.</p>
+<p>Las fuerzas conservadoras, en el fondo, desconfían de tales principios aunque no puedan descartarlos por completo en el mundo de hoy. Por ello, deliberadamente, cargan las tintas y promueven la crispación. Exagerar, mentir, escandalizar, es la forma de alejar el foco de las cuestiones concretas que afectan la vida de las personas que ellas son incapaces de resolver con su mala gestión. Un ejemplo por excelencia es el inepto gobierno de Almeida, al que nada parece importar la realidad de las personas que residimos en Madrid, ni las graves consecuencias de su ineptitud para nuestra calidad de vida.</p><div id="smartIntxt"></div><p>Azuzar el conflicto se justifica, desde las derechas, como una guerra necesaria por la supervivencia contra un enemigo que en verdad no existe. Pero es obvio que su única intención es defender sus privilegios políticos y los negocios de sus redes clientelares; de vindicar sus intereses partidistas, empresariales y personales. Aunque intenten disimular ese objetivo con una retórica que sirve de acicate a los sectores más temerosos y conservadores, y quizás de excusa para tranquilizar sus conciencias.</p><div data-id="r3" class="pb-mobile-ads pb-mobile-robapaginas hidden"><div class="pb-ads-count"></div></div>
+<p>En realidad, las derechas en pleno están indignadas por el desafío económico y político a su poder que significan la diversidad y la equidad. Por su incapacidad de formular un discurso apropiado al momento actual desde el conservadurismo, desde la naturalización del egoísmo y el individualismo ciegos que ha caracterizado las políticas de las derechas desde siempre. De ahí su extremismo actual, ese que destruye todo lo que afirma, como decía María Zambrano.</p>
+<p>Su prensa y su aparato de propaganda han montado por eso una gran campaña sostenida en los más rancios prejuicios y señalando a chivos expiatorios de siempre para esconder su ineficiencia: inmigrantes, feminismos, comunidades LGTBI, cualquier sector político que persiga profundizar la descentralización y la autonomía regionales. Pero como en el pasado, la idea fraudulenta de una amenaza mortal a la nación, o el comunismo, no son más que espantajos plantados para desviar la atención de su incapacidad para proponer y gestionar con eficacia en los ámbitos municipal, autonómico y nacional.</p>
+<p>Esta reacción no es exclusiva del Partido Popular; la emula Ciudadanos, su socio de gobierno en Cibeles, y encuentra su hipérbole en Vox, la más disparatada manifestación de las derechas en España. Y es un claro síntoma de frustración política y de resentimiento ante el impacto negativo de sus políticas y su gestión en Madrid que ya no pueden disimular de ninguna manera ocultando la realidad tras el espectáculo mediático. La cercanía temporal del gobierno de Manuela Carmena, que los antecedió, hace manifiesto su fracaso.</p><div data-id="r4" class="pb-mobile-ads pb-mobile-robapaginas hidden"><div class="pb-ads-count"></div></div>
+<p>Hoy las auténticas barbaridades que se permiten vociferar las derechas sobre filoetarras y comunistas no logran ocultar las realidades que deterioran nuestra vida en la ciudad: la proliferación de terrazas en detrimento del espacio público; la multiplicación de actividades efímeras que pueblan parques y plazas sin dar descanso a las vecinas y a los vecinos; la instalación de carpas para espectáculos que ocupan por años parcelas destinadas a equipaciones de los barrios; la concesión de dotaciones y de suelo público a particulares; el maltrato del arbolado público y de los parques y jardines; la desprotección y destrucción del patrimonio histórico y cultural de la ciudad; la explotación turística indiscriminada del centro con hoteles y pisos turísticos ilegales; la promoción de la especulación con la vivienda y el suelo; las recalificaciones de suelo para promover pelotazos urbanísticos que incrementan los déficits de dotaciones y la contaminación; la ausencia de políticas activas para facilitar el acceso a una vivienda digna para la población más vulnerable; el dispendio millonario en contratos de limpieza que han llevado a Madrid a unas cotas de suciedad e insalubridad inaceptables; la denunciada corrupción de algunos mandos policiales.</p>
+<p>No, ni el comunismo ni los independentismos van a acabar con Madrid o con España. Como tampoco el matrimonio igualitario destruyó la familia, o el derecho al aborto ha contribuido a que se use como método anticonceptivo, ni Madrid Central o la ampliación de las aceras en Gran Vía acabaron con la vida en el centro.</p>
+<p>En verdad, la única plaga a la que debemos temer es a la permanencia del Partido Popular en la alcaldía de Madrid.</p><div data-id="r5" class="pb-mobile-ads pb-mobile-robapaginas hidden"><div class="pb-ads-count"></div></div>
+			</div>
+
+			<div class="see-more-of">
+							<a href="https://blogs.publico.es/otrasmiradas" title="Otras opiniones">Otras opiniones &raquo;</a>
+						</div>
+
+			<div class="share-link-container hovercolor">
+		<ul class="share-links">
+	   <li class="facebook">
+	   		<a href="https://www.facebook.com/sharer/sharer.php?u=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="_blank">
+	   			<span class="icon-facebook-f"></span>
+	   		</a>
+	   </li>
+	   <li class="twitter">
+	   		<a href="http://twitter.com/intent/tweet?url=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dweb&amp;text=Las%20plagas%20de%20Almeida" target="_blank">
+	   			<span class="icon-twitter"></span>
+	   		</a>
+	   	</li>
+	   <li class="whatsapp">
+	   		<a href="whatsapp://send?text=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dweb" data-action="share/whatsapp/share" target="_blank">
+	   			<span class="icon-whatsapp"></span>
+	   		</a>
+	   </li>
+	   <li class="telegram">
+	   		<a href="https://telegram.me/share/url?url=https://blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dweb" target="_blank">
+	   			<span class="icon-telegram-plane"></span>
+	   		</a>
+	   </li>	   
+	   
+	   	</ul>
+</div>
+			
+			<div class="pb-ads pb-mobile-ads bottom-outbrain">
+        	    <div class="pb-ads-count OUTBRAIN" data-src="" data-widget-id=""></div>
+			</div>
+
+						<div class="article-tags">
+				<div class="box-title">Etiquetas</div>
+				<ul><li><a href="https://blogs.publico.es/otrasmiradas/tag/almeida/" rel="tag">Almeida</a></li><li><a href="https://blogs.publico.es/otrasmiradas/tag/madrid/" rel="tag">Madrid</a></li></ul>			</div>
+						
+						<div class="article-comments" id="article-comments" itemprop="comment">
+                		<div id="comments-container" class="hidden">
+			<div id="comments-login-msg">
+			</div>
+			<div class="container hidden">
+				<p class="title">Comentarios</p>
+				&lt;% if(canWriteComments) { %&gt;
+				<form id="write-comment">
+					<div class="content">
+						<textarea name="comment" class="comment-box" placeholder="Únete a la conversación..." required="required"></textarea>
+						<input class="hidden send" type="submit" value="Enviar" />
+						<a class="discard hidden" href="#">Descartar</a>					
+						<p class="rules hidden">
+														<a href="https://www.publico.es/pages/normas-comentarios-comunidad-publico.html" target="_blank">Recuerda las normas de la comunidad.</a>
+													</p>
+					</div>
+				</form>		
+				&lt;% } %&gt;
+				<div class="info">
+					<p class="count">Comentarios: <span itemprop="commentCount"></span></p>
+					<div class="order-by">
+						<button class="dropbtn" data-order-by="newest">Ordenar por <span>los más nuevos</span> <i class="fas fa-angle-down" aria-hidden="true"></i></button>
+						<div class="dropdown-content">
+							<a id="order-by-newest" data-order-by="newest" label-order-by="los más nuevos" href="#">Comentarios más nuevos</a>
+							<a id="order-by-oldest" data-order-by="oldest" label-order-by="los más antiguos" href="#">Comentarios más antiguos</a>
+						</div>			
+					</div>
+				</div>
+				<ul class="comments">
+				&lt;% if(_.allKeys(comments).length > 0) { %&gt;
+					&lt;% _.each(comments, function(comment) { %&gt;
+					<li id="comment-&lt;%= comment.id %&gt;" class="comment new" data-id="&lt;%= comment.id %&gt;" data-size-proccessed="false">
+						<div class="content-image">
+							&lt;% if(comment.user.image) { %&gt;
+							<img data-img-src="&lt;%= comment.user.image %&gt;" alt="&lt;%= comment.user.username %&gt;" />
+							&lt;% } else { %&gt;
+							<span class="&lt;%= comment.user.color %&gt;">&lt;%= comment.user.firstLetter %&gt;</span>
+							&lt;% } %&gt;
+						</div>
+						<div class="content-text">
+							<span class="name">&lt;%= comment.user.username %&gt;</span>
+							<div class="tooltip tooltip-effect-1 published">
+								<span class="tooltip-item">&lt;%= comment.published %&gt;</span>
+								<div class="tooltip-content clearfix">
+									&lt;%= comment.dateTime %&gt;
+								</div>
+							</div>	
+							<div class="text">&lt;%= comment.text %&gt;</div>
+							<div class="actions">
+								<div class="response-content">								
+									<a href="#" class="response-count disabled">
+										<span class="icon-comment"></span>
+									</a>							
+									<a href="#" class="response disabled">
+										<span class="icon-comments"></span>
+										Responder
+									</a>								
+								</div>					
+							</div>
+						</div>
+						&lt;% if(_.allKeys(comment.children.models).length > 0) { %&gt;
+						<ul class="children hidden">
+							&lt;% _.each(comment.children.models, function(children) { %&gt;
+							&lt;% children = children.toJSON() %&gt;	
+							<li id="comment-&lt;%= children.id %&gt;" class="comment new" data-id="&lt;%= children.id %&gt;" data-size-proccessed="false">
+								<div class="content-image">
+									&lt;% if(children.user.image) { %&gt;
+									<img data-img-src="&lt;%= children.user.image %&gt;" alt="&lt;%= children.user.username %&gt;" />
+									&lt;% } else { %&gt;
+									<span class="&lt;%= children.user.color %&gt;">&lt;%= children.user.firstLetter %&gt;</span>
+									&lt;% } %&gt;
+								</div>
+								<div class="content-text">
+									&lt;% if(children.parent.id != comment.id) { %&gt;
+									<a href="#" data-id="&lt;%= children.parent.id %&gt;" class="response-to"><i class="fas fa-reply" aria-hidden="true"></i> en respuesta a &lt;%= children.parent.username %&gt;</a>
+									&lt;% } %&gt;							
+									<span class="name">&lt;%= children.user.username %&gt;</span>
+									<div class="tooltip tooltip-effect-1 published">
+										<span class="tooltip-item">&lt;%= children.published %&gt;</span>
+										<div class="tooltip-content clearfix">
+											&lt;%= children.dateTime %&gt;
+										</div>
+									</div>	
+									<div class="text">&lt;%= children.text %&gt;</div>			
+									<div class="actions">
+										<div class="response-content">				
+											<a href="#" class="response disabled">Responder</a>
+										</div>
+									</div>
+								</div>
+							</li>		
+							&lt;% }); %&gt;
+						</ul>
+						&lt;% } %&gt;
+						&lt;% if(canWriteComments) { %&gt;
+							<form class="response-form hidden disabled">
+								<div class="content">
+									<textarea name="comment" class="comment-box" placeholder="" required></textarea>
+									<input type="submit" class="send disabled" value="Enviar" />
+									<a class="discard disabled" href="#">Descartar</a>
+									<input class="parent" name="parent" type="hidden" value="" />
+									<p class="rules">
+																				<a href="https://www.publico.es/pages/normas-comentarios-comunidad-publico.html" target="_blank">Recuerda las normas de la comunidad.</a>
+																			</p>
+								</div>
+							</form>
+						&lt;% } %&gt;
+					</li>
+					&lt;% }); %&gt;
+				&lt;% } else { %&gt;
+					<li class="no-rows">No hay comentarios para esta noticia.</li>
+				&lt;% } %&gt;
+				</ul>
+				<a href="#" class="load-more btn hidden">Mostrar más comentarios</a>
+			</div>
+		</div>
+            </div>
+											</div>
+		
+<div id="secondary" class="sidebar widget-area" role="complementary">
+    	
+    <div class="pb-ads robapaginas hidden"> <!-- r1 -->
+        <div class="sublabel">
+            <!-- <div class="aspect-ratio-img"> -->
+                <div class="pb-ads-count  js-ads-fixed"></div>
+            <!-- </div> -->
+        </div>
+    </div>
+
+        
+    <!-- <aside class="module last-cartoon">
+		<p class="module-title"><span>Viñeta del día</span></p>
+                
+	</aside> -->
+    
+
+		<aside class="module more-opinion">
+		<div class="title">
+			<h1>
+                Otras opiniones				<!-- <span>Más de Público</span> -->
+			</h1>
+		</div>
+        <ul><li>
+				<a href="https://blogs.publico.es/otrasmiradas/67373/mas-que-propositos/">
+                    <span class="title">Más que propósitos</span>
+                </a>
+			</li>
+<li>
+				<a href="https://blogs.publico.es/otrasmiradas/67367/premios-machirulo-2022/">
+                    <span class="title">Premios Machirulo 2022</span>
+                </a>
+			</li>
+<li>
+				<a href="https://blogs.publico.es/otrasmiradas/67307/igual-no-somos-minoria/">
+                    <span class="title">Igual no somos minoría</span>
+                </a>
+			</li>
+<li>
+				<a href="https://blogs.publico.es/otrasmiradas/67316/sumar-y-movimiento-ciudadano/">
+                    <span class="title">Sumar y movimiento ciudadano</span>
+                </a>
+			</li>
+<li>
+				<a href="https://blogs.publico.es/otrasmiradas/67355/2023-el-ano-que-lo-cambiara-todo/">
+                    <span class="title">2023: El año que lo cambiará todo</span>
+                </a>
+			</li></ul>                <p class="view-all"><a href="https://blogs.publico.es/otrasmiradas">Ver más &raquo;</a></p>
+        	</aside>	
+	
+    <div class="pb-ads robapaginas hidden"> <!-- r2 -->
+        <div class="sublabel">
+            <!-- <div class="aspect-ratio-img"> -->
+                <div class="pb-ads-count  js-ads-fixed"></div>
+            <!-- </div> -->
+        </div>
+    </div>
+
+    <aside class="module more-opinion">
+        <div class="title">
+            <h1>
+                Más columnas de opinión
+            </h1>
+        </div>
+        <ul><li><a href="https://blogs.publico.es/vinetas/2023/01/03/al-killer-2/"><div class="title">"Al killer"</div><div class="author"><span>por</span> Eneko</a></div></li>
+<li><a href="https://blogs.publico.es/bulocracia/2023/01/03/tu-factura-de-ano-nuevo/"><div class="title">Tu factura de Año Nuevo</div><div class="author"><span>por</span> Luis M. García</a></div></li>
+<li><a href="https://blogs.publico.es/cristina-fallaras/2023/01/03/larguemonos-de-aqui/"><div class="title">Larguémonos de aquí</div><div class="author"><span>por</span> Cristina Fallarás</a></div></li>
+<li><a href="https://blogs.publico.es/davidtorres/2023/01/03/fede-arias-a-la-sombra-de-pablo-motos/"><div class="title">Fede Arias, a la sombra de Pablo Motos</div><div class="author"><span>por</span> David Torres</a></div></li>
+<li><a href="https://blogs.publico.es/dominiopublico/49761/el-invierno-que-nunca-llego-y-ahora-que/"><div class="title">El invierno que nunca llegó: ¿Y ahora qué?</div><div class="author"><span>por</span> Julen Bollain Urbieta</a></div></li></ul>    </aside>    
+
+    <div class="pb-ads robapaginas hidden"> <!-- r3 -->
+        <div class="sublabel">
+            <!-- <div class="aspect-ratio-img"> -->
+                <div class="pb-ads-count  js-ads-fixed"></div>
+            <!-- </div> -->
+        </div>
+    </div>
+
+        <aside class="module home-news">
+        <div class="title"><h1><span>Ahora en portada</span></h1></div>
+        <ul><li><div class="aspect-ratio-img"><a href="https://www.publico.es/economia/reforma-laboral-smi-disparan-masa-salarial-pais-sostienen-consumo-actividad.html"><img src="//m.publico.es/media/cache/mobile_image_small/news_images/9597000/9597872_0.jpeg" alt="Dos obreros colocan una pieza met&aacute;lica del caj&oacute;n de obra durante las obras de ampliaci&oacute;n del metrocentro de San Bernardo a Santa Justa en el barrio de Nervi&oacute;n, en Sevilla. &mdash; Joaqu&iacute;n Corchero / Europa Press"/></a></div><h3><a href="https://www.publico.es/economia/reforma-laboral-smi-disparan-masa-salarial-pais-sostienen-consumo-actividad.html">La reforma laboral y el SMI disparan la masa salarial del país y sostienen el consumo y la actividad</a></h3></li>
+<li><div class="aspect-ratio-img"><a href="https://www.publico.es/politica/paro-desciende-2022-hasta-2-837-653-cifra-mas-baja-2007.html"><img src="//m.publico.es/media/cache/mobile_image_small/news_images/9596000/9596552_0.jpeg" alt="Imagen de archivo de la ministra de Trabajo Yolanda D&iacute;az durante una rueda de prensa. &mdash; EFE"/></a></div><h3><a href="https://www.publico.es/politica/paro-desciende-2022-hasta-2-837-653-cifra-mas-baja-2007.html">El paro desciende en 2022 hasta los 2.837.653 desempleados, la cifra más baja desde 2007</a></h3></li>
+<li><div class="aspect-ratio-img"><a href="https://www.publico.es/politica/pp-lleva-al-congreso-propuesta-reformar-justicia-bloquear-durante-mas-cuatro-anos-renovacion-del-cgpj.html"><img src="//m.publico.es/media/cache/mobile_image_small/news_images/9597000/9597465_0.jpeg" alt="La secretaria general del PP y portavoz en el Congreso, Cuca Gamarra, este martes en un acto en La Rioja. &mdash; PP La Rioja"/></a></div><h3><a href="https://www.publico.es/politica/pp-lleva-al-congreso-propuesta-reformar-justicia-bloquear-durante-mas-cuatro-anos-renovacion-del-cgpj.html">El PP lleva al Congreso su propuesta para reformar la Justicia tras bloquear durante más de cuatro años la renovación del CGPJ</a></h3></li>
+<li><div class="aspect-ratio-img"><a href="https://www.publico.es/politica/govern-ultima-plan-choque-dotar-vivienda-recursos-personas-hogar.html"><img src="//m.publico.es/media/cache/mobile_image_small/news_images/9598000/9598251_0.jpeg" alt="El president de la Generalitat, Pere Aragon&egrave;s, y el consejero de Derechos Sociales, Carles Campuzano, visitando el nuevo equipamiento de la Fundaci&oacute;n Arrels, los Hogares Tere Villagrasa. &mdash; Sara Escalera / ACN"/></a></div><h3><a href="https://www.publico.es/politica/govern-ultima-plan-choque-dotar-vivienda-recursos-personas-hogar.html">El Govern ultima un plan de choque para dotar de vivienda y recursos a las personas sin hogar</a></h3></li>
+<li><div class="aspect-ratio-img"><a href="https://www.publico.es/politica/audiencia-nacional-investiga-hijo-dictador-teodoro-obiang-secuestro-tortura-espanoles.html"><img src="//m.publico.es/media/cache/mobile_image_small/news_images/9597000/9597884_0.jpeg" alt="Imagen de archivo de Teodoro Nguema, presidente de Guinea Ecuatorial. &mdash; Europa Press"/></a></div><h3><a href="https://www.publico.es/politica/audiencia-nacional-investiga-hijo-dictador-teodoro-obiang-secuestro-tortura-espanoles.html">La Audiencia Nacional investiga a un hijo del dictador Teodoro Obiang por secuestro y tortura de dos españoles</a></h3></li></ul>    </aside>    
+    
+
+    <div class="pb-ads robapaginas hidden"> <!-- r4 -->
+        <div class="sublabel">
+            <!-- <div class="aspect-ratio-img"> -->
+                <div class="pb-ads-count  js-ads-fixed"></div>
+            <!-- </div> -->
+        </div>
+    </div>
+
+	</div><!-- .sidebar .widget-area -->
+	</div><!-- .entry-content -->
+	<footer class="entry-footer">
+		<div class="megabanner-container">
+			<div class="content">
+				<div class="ads ads-megabanner bottom">
+					<div id="sc-superbanner-bottom" class="pb-ads "></div>
+				</div>
+			</div>
+		</div>
+	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" aria-label="Entradas">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://blogs.publico.es/otrasmiradas/67373/mas-que-propositos/" rel="prev">
+						<span class="meta-nav" aria-hidden="true">
+							<i class="fa fa-angle-left"></i>
+						</span> <div class="post-title"><p class="info"><a href="https://blogs.publico.es/otrasmiradas/author/opinion/" class="name"><span>Marta Higueras Garrobo</span></a></p><span class="title">Más que propósitos</span>
+						</div></a></div></div>
+	</nav>
+	</main><!-- .site-main -->
+
+	
+</div><!-- .content-area -->
+
+                    
+                    <div class="pb-sky-right">
+                        <div id="sc-skyscraper-right" class=" pb-ads js-ads-fixed"></div>
+                    </div>
+
+                </div> <!-- blog-content -->
+            </div><!-- .site-content -->	
+
+            <footer id="colophon" class="site-footer-old" role="contentinfo">
+                <div class="menu-bottom burger-menu">    
+  <div class="menu-container"><div class="menu-module-container container" id="m572-571-573">                <div class="row">                    <div class="col-12 col-sm-3 col-md-3 menu-col-1"><div class="menu-col-1-row undefined" id="m576-575-577"><nav id="m580-579-581" data-collection="m576-575-577" class="secciones"><div class="row menu-row">                    <div class="wrap-collabsible">                        <input class="toggle" type="checkbox" id="input-m584-583-585"><label id="m584-583-585" class="lbl-toggle" for="input-m584-583-585">SECCIONES</label><div class="secciones-burger-menu-content collapsible-content" id="m589-1-590">                <div class="content-inner">                    <ul class="options col-lg-12"><div class="menu-item undefined" id="m593-592-594">
+<li class="module menu-item" id="m597-596-598" data-collection="m593-592-594">            <a href="https://www.publico.es/#analytics-pie:menu" id="m601-600-602" title="">Inicio</a>
+</li>
+<li class="module menu-item" id="m607-1-608" data-collection="m593-592-594">            <a href="https://www.publico.es/politica#analytics-pie:menu" id="m611-610-612" title="">Política</a>
+</li>
+<li class="module menu-item" id="m617-2-618" data-collection="m593-592-594">            <a href="https://www.publico.es/sociedad#analytics-pie:menu" id="m621-620-622" title="">Sociedad</a>
+</li>
+<li class="module menu-item" id="m627-3-628" data-collection="m593-592-594">            <a href="https://www.publico.es/opinion#analytics-pie:menu" id="m631-630-632" title="">Opinión</a>
+</li>
+<li class="module menu-item" id="m637-4-638" data-collection="m593-592-594">            <a href="https://www.publico.es/tremending/#analytics-pie:menu" id="m641-640-642" title="">Tremending</a>
+</li>
+<li class="module menu-item" id="m647-5-648" data-collection="m593-592-594">            <a href="https://www.publico.es/internacional#analytics-pie:menu" id="m651-650-652" title="">Internacional</a>
+</li>
+<li class="module menu-item" id="m657-6-658" data-collection="m593-592-594">            <a href="https://www.publico.es/mujer#analytics-pie:menu" id="m661-660-662" title="">Mujer</a>
+</li>
+<li class="module menu-item" id="m667-7-668" data-collection="m593-592-594">            <a href="https://www.publico.es/sociedad/m-ambiente#analytics-pie:menu" id="m671-670-672" title="">Medio Ambiente</a>
+</li>
+<li class="module menu-item" id="m677-8-678" data-collection="m593-592-594">            <a href="https://www.publico.es/politica/memoria-publica#analytics-cabecera-comprimida:menu#analytics-pie:menu" id="m681-680-682" title="">Memoria Pública</a>
+</li>
+<li class="module menu-item" id="m687-9-688" data-collection="m593-592-594">            <a href="https://www.publico.es/culturas#analytics-pie:menu" id="m691-690-692" title="">Culturas</a>
+</li>
+<li class="module menu-item" id="m697-10-698" data-collection="m593-592-594">            <a href="https://www.publico.es/ciencias#analytics-pie:menu" id="m701-700-702" title="">Ciencias</a>
+</li>
+<li class="module menu-item" id="m707-11-708" data-collection="m593-592-594">            <a href="https://www.publico.es/economia#analytics-pie:menu" id="m711-710-712" title="">Economía</a>
+</li>
+<li class="module menu-item" id="m717-12-718" data-collection="m593-592-594">            <a href="https://www.publico.es/videos/#analytics-pie:menu" id="m721-720-722" title="">Vídeos</a>
+</li>
+<li class="module menu-item" id="m727-13-728" data-collection="m593-592-594">            <a href="https://especiales.publico.es/podcasts/#analytics-pie:menu" id="m731-730-732" title="">Podcasts</a>
+</li>
+<li class="module menu-item" id="m1150-14-1151" data-collection="m593-592-594">            <a href="https://www.publico.es/ultimas-noticias#analytics-pie:menu" id="m1154-1153-1155" title="Últimas noticias" target="_blank">Últimas noticias</a>
+</li>
+</div></ul>
+</div>            </div>
+</div>                </div>            </nav></div></div>                    <div class="col-12 col-sm-3 col-md-3 menu-col-2"><div class="menu-col-2-row undefined" id="m741-1-742">
+<nav id="m745-744-746" data-collection="m741-1-742" class="destacados"><div class="row menu-row">                    <div class="wrap-collabsible">                        <input class="toggle" type="checkbox" id="input-m749-748-750"><label id="m749-748-750" class="lbl-toggle" for="input-m749-748-750">DESTACADOS</label><div class="secciones-burger-menu-content collapsible-content" id="m754-1-755">                <div class="content-inner">                    <ul class="options col-lg-12"><div class="menu-item undefined" id="m758-757-759">
+<li class="module menu-item" id="m762-761-763" data-collection="m758-757-759">            <a href="https://www.publico.es/public#analytics-pie:menu" id="m766-765-767" title="">Públic</a>
+</li>
+<li class="module menu-item" id="m772-1-773" data-collection="m758-757-759">            <a href="https://www.publico.es/uwu/#analytics-pie:menu" id="m776-775-777" title="">UwU</a>
+</li>
+<li class="module menu-item" id="m782-2-783" data-collection="m758-757-759">            <a href="https://temas.publico.es/#analytics-pie:menu" id="m786-785-787" title="">Especiales en papel</a>
+</li>
+<li class="module menu-item" id="m792-3-793" data-collection="m758-757-759">            <a href="https://www.publico.es/publico-tv/en-la-frontera#analytics-pie:menu" id="m796-795-797" title="">En la Frontera</a>
+</li>
+<li class="module menu-item" id="m802-4-803" data-collection="m758-757-759">            <a href="https://www.espacio-publico.com/#analytics-pie:menu" id="m806-805-807" title="" target="_blank">Espacio Público</a>
+</li>
+</div></ul>
+</div>            </div>
+</div>                </div>            </nav><nav id="m815-1-816" data-collection="m741-1-742" class="podcasts"><div class="row menu-row">                    <div class="wrap-collabsible">                        <input class="toggle" type="checkbox" id="input-m819-818-820"><label id="m819-818-820" class="lbl-toggle" for="input-m819-818-820">PODCASTS</label><div class="secciones-burger-menu-content collapsible-content" id="m824-1-825">                <div class="content-inner">                    <ul class="options col-lg-12"><div class="menu-item undefined" id="m828-827-829">
+<li class="module menu-item" id="m832-831-833" data-collection="m828-827-829">            <a href="https://www.publico.es/podcasts/la-base#analytics-pie:menu" id="m836-835-837" title="">La base</a>
+</li>
+<li class="module menu-item" id="m842-1-843" data-collection="m828-827-829">            <a href="https://especiales.publico.es/podcasts/barbijaputa/radiojaputa#analytics-pie:menu" id="m846-845-847" title="">Radiojaputa</a>
+</li>
+</div></ul>
+</div>            </div>
+</div>                </div>            </nav>
+</div></div>                    <div class="col-12 col-sm-3 col-md-3 menu-col-3"><div class="menu-col-3-row undefined" id="m856-2-857"><nav id="m860-859-861" data-collection="m856-2-857" class="colaboradores"><div class="row menu-row">                    <div class="wrap-collabsible">                        <input class="toggle" type="checkbox" id="input-m864-863-865"><label id="m864-863-865" class="lbl-toggle" for="input-m864-863-865">COLABORADORES</label><div class="secciones-burger-menu-content collapsible-content" id="m869-1-870">                <div class="content-inner">                    <ul class="options col-lg-12"><div class="menu-item undefined" id="m873-872-874">
+<li class="module menu-item" id="m877-876-878" data-collection="m873-872-874">            <a href="https://eldiariocantabria.publico.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-pie:menu" id="m881-880-882" title="" target="_blank">El Diario Cantabria</a>
+</li>
+<li class="module menu-item" id="m887-1-888" data-collection="m873-872-874">            <a href="http://www.periodicoclm.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-pie:menu" id="m891-890-892" title="" target="_blank">Periódico CLM</a>
+</li>
+<li class="module menu-item" id="m897-2-898" data-collection="m873-872-874">            <a href="https://zeleb.publico.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-pie:menu" id="m901-900-902" title="" target="_blank">Zeleb</a>
+</li>
+<li class="module menu-item" id="m907-3-908" data-collection="m873-872-874">            <a href="https://www.publico.es/viajes/#analytics-pie:menu" id="m911-910-912" title="">Viajes</a>
+</li>
+<li class="module menu-item" id="m917-4-918" data-collection="m873-872-874">            <a href="https://www.publico.es/ahorro-consumo-responsable/?utm_source=publico&amp;utm_medium=cabecera#analytics-pie:menu" id="m921-920-922" title="">Ahorro y Consumo</a>
+</li>
+<li class="module menu-item" id="m927-5-928" data-collection="m873-872-874">            <a href="https://elasombrario.publico.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-pie:menu" id="m931-930-932" title="" target="_blank">El Asombrario</a>
+</li>
+<li class="module menu-item" id="m937-6-938" data-collection="m873-872-874">            <a href="https://salyroca.publico.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-pie:menu" id="m941-940-942" title="" target="_blank">Sal y roca</a>
+</li>
+<li class="module menu-item" id="m947-7-948" data-collection="m873-872-874">            <a href="http://www.tribunaolimpica.es/?utm_source=publico&amp;utm_medium=cabecera#analytics-pie:menu" id="m951-950-952" title="" target="_blank">Tribuna Olímpica</a>
+</li>
+<li class="module menu-item" id="m957-8-958" data-collection="m873-872-874">            <a href="https://librujula.publico.es/#analytics-pie:menu" id="m961-960-962" title="">Librújula</a>
+</li>
+<li class="module menu-item" id="m967-9-968" data-collection="m873-872-874">            <a href="https://www.publico.es/psicologia-y-mente/#analytics-pie:menu" id="m971-970-972" title="">Psicología</a>
+</li>
+<li class="module menu-item" id="m977-10-978" data-collection="m873-872-874">            <a href="https://www.nortes.me/#analytics-pie:menu" id="m981-980-982" title="">Nortes</a>
+</li>
+</div></ul>
+</div>            </div>
+</div>                </div>            </nav></div></div>                    <div class="col-12 col-sm-3 col-md-3 menu-col-4"><div class="menu-col-4-row undefined" id="m991-3-992">
+<nav id="m995-994-996" data-collection="m991-3-992" class="especiales"><div class="row menu-row">                    <div class="wrap-collabsible">                        <input class="toggle" type="checkbox" id="input-m999-998-1000"><label id="m999-998-1000" class="lbl-toggle" for="input-m999-998-1000">ESPECIALES</label><div class="secciones-burger-menu-content collapsible-content" id="m1004-1-1005">                <div class="content-inner">                    <ul class="options col-lg-12"><div class="menu-item undefined" id="m1008-1007-1009">
+<li class="module menu-item" id="m1012-1011-1013" data-collection="m1008-1007-1009">            <a href="https://especiales.publico.es/resultados-elecciones#analytics-pie:menu" id="m1016-1015-1017" title="">Resultados electorales</a>
+</li>
+<li class="module menu-item" id="m1022-1-1023" data-collection="m1008-1007-1009">            <a href="https://temas.publico.es/quehablelatierra#analytics-pie:menu" id="m1026-1025-1027" title="">Que hable la tierra</a>
+</li>
+<li class="module menu-item" id="m1032-2-1033" data-collection="m1008-1007-1009">            <a href="https://temas.publico.es/aparadoras#analytics-pie:menu" id="m1036-1035-1037" title="">Aparadoras</a>
+</li>
+<li class="module menu-item" id="m1042-3-1043" data-collection="m1008-1007-1009">            <a href="https://temas.publico.es/denunciantes-corrupcion#analytics-pie:menu" id="m1046-1045-1047" title="">Denunciantes de corrupción</a>
+</li>
+<li class="module menu-item" id="m1052-4-1053" data-collection="m1008-1007-1009">            <a href="https://temas.publico.es/migracion-climatica/#analytics-pie:menu" id="m1056-1055-1057" title="">Crónicas de la migración climática</a>
+</li>
+</div></ul>
+</div>            </div>
+</div>                </div>            </nav><nav id="m1065-1-1066" data-collection="m991-3-992" class="la-republica-de-publico"><div class="row menu-row">                    <div class="wrap-collabsible">                        <input class="toggle" type="checkbox" id="input-m1069-1068-1070"><label id="m1069-1068-1070" class="lbl-toggle" for="input-m1069-1068-1070">LA REPÚBLICA DE pÚBLICO</label><div class="secciones-burger-menu-content collapsible-content" id="m1074-1-1075">                <div class="content-inner">                    <ul class="options col-lg-12"><div class="menu-item undefined" id="m1078-1077-1079">
+<li class="module menu-item" id="m1082-1081-1083" data-collection="m1078-1077-1079">            <a href="https://blogs.publico.es/publico/2018/10/04/las-10-banderas-de-publico/#analytics-pie:menu" id="m1086-1085-1087" title="">Las banderas de Público</a>
+</li>
+<li class="module menu-item" id="m1092-1-1093" data-collection="m1078-1077-1079">            <a href="https://s.publico.es/landing/registro?utm_source=publico&amp;utm_medium=footer&amp;utm_campaign=generico&amp;utm_content=suscriptor_amigo#analytics-pie:menu" id="m1096-1095-1097" title="">Apoya a Público y disfruta de estas ventajas</a>
+</li>
+<li class="module menu-item" id="m1102-2-1103" data-collection="m1078-1077-1079">            <a href="https://s.publico.es/landing/suscripciones?utm_source=publico&amp;utm_medium=footer&amp;utm_campaign=generico&amp;utm_content=suscriptor#analytics-pie:menu" id="m1106-1105-1107" title="">Únete a Público</a>
+</li>
+<li class="module menu-item" id="m1112-3-1113" data-collection="m1078-1077-1079">            <a href="https://s.publico.es/landing/regala?utm_campaign=regalo&amp;piano=menu&amp;tpcc=menu_hamburguesa&amp;segment=todosUU&amp;term=navidad_2022#analytics-pie:menu" id="m1116-1115-1117" title="">Regala Público</a>
+</li>
+<li class="module menu-item" id="m1122-4-1123" data-collection="m1078-1077-1079">            <a href="https://ayuda.publico.es/hc/es#analytics-pie:menu" id="m1126-1125-1127" title="Preguntas y repuestas frecuentes" target="_blank">Preguntas y repuestas frecuentes</a>
+</li>
+</div></ul>
+</div>            </div>
+</div>                </div>            </nav>
+</div></div>                </div>            </div></div></div>
+
+
+          <!-- currenturl: blogs.publico.es/otrasmiradas/67268/las-plagas-de-almeida/ -->
+
+
+
+<footer class="pbfooter-main">
+   <div class="copy">
+      <div class="footer-title"><a href="https://www.publico.es#analytics-pie:logo-publico">Público</a></div>
+      <p>DISPLAY CONNECTORS, SL.</p>
+      <div class="social-wrapper">
+         <ul>
+            <li>
+                <a href="https://www.facebook.com/diario.publico#analytics-pie:redes-sociales" target="_blank">
+                    <span class="icon-facebook-f"></span>
+                </a>
+            </li>
+            <li>
+                <a href="https://twitter.com/publico_es#analytics-pie:redes-sociales" target="_blank">
+                    <span class="icon-twitter"></span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/publico.es/#analytics-pie:redes-sociales" target="_blank">
+                    <span class="icon-instagram"></span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCVimQoXNCZuEnZRVAbuYMiw#analytics-pie:redes-sociales" target="_blank">
+                    <span class="icon-youtube"></span>
+                </a>
+            </li>
+            <li>
+                <a href="https://telegram.me/publico_es#analytics-pie:redes-sociales" target="_blank">
+                    <span class="icon-telegram-plane"></span>
+                </a>
+            </li>
+         </ul>
+      </div>
+              <ul class="items">
+          <li><a href="https://www.publico.es/pages/quienes.html#analytics-pie:quienes-somos">¿Quiénes somos?</a></li>
+          <li><a href="https://blogs.publico.es/publico/2018/10/04/las-10-banderas-de-publico/#analytics-pie:banderas">Las diez banderas de Público</a></li>
+          <li><a href="https://www.publico.es/pages/contacto.html#analytics-pie:contacto">Contacto</a></li>
+          <li><a href="https://www.publico.es/pages/publicidad.html#analytics-pie:publicidad">Publicidad</a></li>
+          <li><a href="https://www.publico.es/aviso-legal#analytics-pie:aviso-legal">Aviso legal</a></li>
+          <li><a href="https://www.publico.es/politica-cookies#analytics-pie:politica-cookies">Política de &#039;cookies&#039;</a></li>
+          <li><a href="https://www.publico.es/politica-proteccion-datos#analytics-pie:politica-privacidad">Política de privacidad</a></li>
+          <li><a href="javascript:Didomi.preferences.show()">Configurar cookies</a></li>
+       </ul>
+              
+   </div>  
+
+  
+      <div class="faldon-suscriptores"></div>
+
+    <div class="faldon-especial-en-papel"></div>
+   
+</footer>
+   
+   <script type="text/javascript">
+
+(function() {
+    var endPoint = '//s.publico.es/commons/vendor/mv/px',
+        r = document.referrer,
+        tmeta = "",
+        turl = "",
+        ogt = typeof(document.querySelector) == 'function' && document.querySelector("meta[property='og:title']");
+
+    if (ogt) {
+        tmeta = ogt.getAttribute("content");
+    }
+    if (location.href.indexOf("/tremending") != -1 || location.href.indexOf("/viajes") != -1) {
+        var cl = typeof(document.querySelector) == 'function' && document.querySelector("link[rel='canonical']");
+        if (cl) turl = cl.getAttribute("href");
+    }
+    var t = tmeta && tmeta != location.host ? tmeta : document.title;
+    var u = turl && turl != '' ? turl : location.href;
+    
+    // if (location.host == 'www.publico.es' && location.pathname.endsWith('.html') && (location.search.indexOf('utm_') != -1 || location.search.indexOf('fbclid') != -1)) {
+      u = u.replace(location.search, '');
+    // }
+       
+    
+    var cb = Math.round(1000000000*Math.random()).toString() + Date.now().toString();    
+    var mvimg = document.createElement('img'); 
+    mvimg.alt = '';
+    mvimg.src = endPoint + '?r='+encodeURIComponent(r)+'&t='+encodeURIComponent(t)+'&u='+encodeURIComponent(u)+'&c=publico&cb='+cb;
+})();
+
+</script>
+   <!-- Facebook Pixel Code -->
+
+
+<script typ="didomi/javascript" data-vendor="c:vendor-facebook">
+   !function(f,b,e,v,n,t,s)
+   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+   if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+   n.queue=[];t=b.createElement(e);t.async=!0;
+   t.src=v;s=b.getElementsByTagName(e)[0];
+   s.parentNode.insertBefore(t,s)}(window, document,'script',
+   'https://connect.facebook.net/en_US/fbevents.js');
+   fbq('init', '381980832247521');    fbq('init', '122301429695535');  
+   fbq('track', 'PageView');
+
+   var visitanteData = {
+      'gaUserType': getCookieValue('gaUserType') || "Anónimo",
+      'gaDifferentDays': getCookieValue('gaDifferentDays') || 1
+      },
+      gaUserId = getCookieValue('gaUserId') || null;
+   if (gaUserId) visitanteData['gaUserId'] = gaUserId;
+
+   fbq('trackSingleCustom', '122301429695535', 'PV Visitante', visitanteData);
+
+
+</script>
+
+<!-- End Facebook Pixel Code -->
+   
+            </footer><!-- .site-footer -->
+        </div><!-- .site-inner -->
+    </div><!-- .site -->
+
+
+<!-- Didomi -->
+<script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+  var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("d892ed41-2bfc-4977-a05e-07be26865229")})();</script>
+
+<script>
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiEventListeners = window.didomiEventListeners || [];
+
+
+    [
+      'notice.clickagree',
+      'notice.clickdisagree',
+      'preferences.clickagreetoall',
+      'preferences.clickdisagreetoall',
+      'preferences.clicksavechoices',
+      // 'consent.changed',
+    ].forEach(function(didomiEvent, i) {
+        //console.log('didomiEvent:', didomiEvent);      
+        window.didomiOnReady.push(function () {
+          Didomi.on(didomiEvent, function () {
+            document.body.classList.remove('no-scroll');
+            document.getElementById('didomi-host').style.display = 'none';
+            return true;
+          });
+        });
+      }); 
+
+
+    window.didomiEventListeners.push({
+      event: 'notice.shown',
+      listener: function () {
+        document.body.classList.push('no-scroll');
+        document.getElementByClassName('pb-sticky-bottom').classList.append('hidden');
+        document.getElementByClassName('pb-sticky-bottom').style.display = 'none';
+      }
+    });    
+
+
+    window.didomiConfig = {
+      user: {
+        bots: {
+          consentRequired: false,
+          extraUserAgents: ["cXensebot"]
+        }
+      }
+    };
+
+
+</script>
+<!-- /Didomi -->
+<script type='text/javascript' defer src='https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/js/skip-link-focus-fix.js?ver=bb6c161' id='twentysixteen-skip-link-focus-fix-js'></script>
+<script type='text/javascript' defer src='https://blogs.publico.es/otrasmiradas/wp-includes/js/comment-reply.min.js?ver=6.1.1' id='comment-reply-js'></script>
+<script type='text/javascript' id='twentysixteen-script-js-extra'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expande el men\u00fa inferior","collapse":"plegar men\u00fa inferior"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/js/functions.js?ver=bb6c161' id='twentysixteen-script-js'></script>
+
+<div hidden class="zdbutton">
+    <a class="open-widget">
+        <span class="icon-comment"></span>
+    </a>
+</div>
+
+<script defer src="/commons/js/bootstrap.min.js?bb6c161=2301031117" type="text/javascript"></script>        
+<!--
+<script defer src="/commons/js/tweenmax.min.js?bb6c161=2301031117" type="text/javascript"></script>
+-->
+<script defer src="/commons/js/pbcommons.js?bb6c161=2301031117" type="text/javascript"></script>
+<script defer src="/commons/js/pb.js?bb6c161=2301031117" type="text/javascript"></script>
+
+<script src="/commons/js/jquery-3.1.0.min.js?bb6c161=2301031117" type="text/javascript"></script>
+
+
+
+
+            <script defer src="https://blogs.publico.es/otrasmiradas/wp-content/themes/publico-base/js/custom.js?bb6c161=2301031117" type="text/javascript"></script>
+    
+
+        <!-- Google Sign-In 
+                <script defer src="//apis.google.com/js/api:client.js"></script>
+        -->
+
+                <!--
+                <script defer src="/commons/js/jquery.marquee.min.js?bb6c161=2301031117"></script>
+        <script defer src="/commons/js/jquery.newsTicker.min.js?bb6c161=2301031117" type="text/javascript"></script>
+        -->
+
+        <!-- 
+                <script defer src="/commons/js/jquery.pause.min.js?bb6c161=2301031117"></script>
+        <script defer src="/commons/js/jquery.mCustomScrollbar.concat.min.js?bb6c161=2301031117"></script>
+        -->
+        
+        
+    
+
+ 
+        <script defer src="/commons/js/app-1.0.0.min.js?bb6c161=2301031117"></script>
+     
+
+            
+                        <script defer src="/commons/js/dev/pages/pb.page.article.js?bb6c161=2301031117"></script>    
+                       
+    
+    <script>
+        $(document).ready(function(){
+                pbPageController = new PageArticle();
+        });                   
+    </script>
+       
+<script src="/commons/js/ext/smartclip/skin_publico_beta.js?bb6c161=2301031117" type="text/javascript"></script>       
+<script src="https://s3.eu-central-1.amazonaws.com/sc-devel/Skins/SMCService.js"></script>
+<script src="https://s3.eu-central-1.amazonaws.com/sc-devel/sc-tagmanager/publico.js"></script>
+<script src="https://cdn.smartclip-services.com/v1/Storage-a482323/smartclip-services/HeaderBidding/js/SmartclipConfig.js"></script>
+   
+
+
+</body>
+</html>

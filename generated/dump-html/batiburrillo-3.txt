@@ -1,0 +1,918 @@
+<!doctype html>
+<html lang="es">
+	<head profile="http://gmpg.org/xfn/11">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta name="robots" content="index,follow" />
+        <meta name="referrer" content="unsafe-url">
+        <meta name="p:domain_verify" content="90eb218d48ef2321a337e856a9926c18"/>
+                    <meta http-equiv="refresh" content="600">
+        
+						
+			
+				<meta property="og:url" content="https://blogs.20minutos.es/ciencias-mixtas/2022/11/07/la-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos/"/>
+				<meta property="og:title" content="La cóvid larga puede dañar el cerebro, y también afecta a los niños" />
+				<meta property="og:description" content="Cuando llegaron las primeras vacunas contra la COVID-19, el objetivo estaba claro: vacunar a la mayor parte de la población adulta, tanta como fuese posible. Pero en fases posteriores las respuestas no eran tan sencillas: ¿conviene vacunar a los niños? ¿Será necesario aplicar dosis de refuerzo? ¿Cuándo, cuántas, a quiénes? ¿Qué hay de las personas ..." />
+				<meta property="og:type" content="article" />
+				<meta property="og:image" content="https://cdnb.20m.es/sites/112/2022/11/Computed_tomography_of_human_brain_-_large-620x442.jpg" />
+
+				<meta name="twitter:card" content="summary_large_image" />
+				<meta name="twitter:url" content="https://blogs.20minutos.es/ciencias-mixtas/2022/11/07/la-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos/" />
+				<meta name="twitter:title" content="La cóvid larga puede dañar el cerebro, y también afecta a los niños" />
+				<meta name="twitter:description" content="Cuando llegaron las primeras vacunas contra la COVID-19, el objetivo estaba claro: vacunar a la mayor parte de la población adulta, tanta como fuese posible. Pero en fases posteriores las respuestas no eran tan sencillas: ¿conviene vacunar a los niños? ¿Será necesario aplicar dosis de refuerzo? ¿Cuándo, cuántas, a quiénes? ¿Qué hay de las personas ..." />
+				<meta name="twitter:image" content="https://cdnb.20m.es/sites/112/2022/11/Computed_tomography_of_human_brain_-_large-620x442.jpg" />
+				<meta name="twitter:site" content="@yanes68" />
+
+			
+		
+		<meta property="fb:app_id" content="217041948309757" />
+		<meta property="fb:pages" content="38352573027" />
+        <title>  La cóvid larga puede dañar el cerebro, y también afecta a los niños</title>
+		<script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+  var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("6e7011c3-735d-4a5c-b4d8-c8b97a71fd01")})();</script>
+		<link rel="stylesheet" href="https://blogs.20minutos.es/ciencias-mixtas/wp-content/themes/20minutos_responsive/css/style.min.css?20220922" type="text/css" media="screen" />
+
+		
+		<link rel="pingback" href="https://blogs.20minutos.es/ciencias-mixtas/xmlrpc.php" />
+
+		
+		<meta name='robots' content='max-image-preview:large' />
+<link rel="amphtml" href="https://blogs.20minutos.es/ciencias-mixtas/2022/11/07/la-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos/amp/" /><meta name="generator" content="AMP for WP 1.0.77.38"/><link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/blogs.20minutos.es\/ciencias-mixtas\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type='text/javascript' src='https://blogs.20minutos.es/ciencias-mixtas/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://blogs.20minutos.es/ciencias-mixtas/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://blogs.20minutos.es/ciencias-mixtas/wp-json/" /><link rel="alternate" type="application/json" href="https://blogs.20minutos.es/ciencias-mixtas/wp-json/wp/v2/posts/61774" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blogs.20minutos.es/ciencias-mixtas/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blogs.20minutos.es/ciencias-mixtas/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.2" />
+<link rel="canonical" href="https://blogs.20minutos.es/ciencias-mixtas/2022/11/07/la-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos/" />
+<link rel='shortlink' href='https://blogs.20minutos.es/ciencias-mixtas/?p=61774' />
+<link rel="alternate" type="application/json+oembed" href="https://blogs.20minutos.es/ciencias-mixtas/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://blogs.20minutos.es/ciencias-mixtas/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F&#038;format=xml" />
+<style type="text/css" media="screen">
+
+		/* Begin Contact Form CSS */
+
+		.contactform { 
+			position: relative;
+			overflow: hidden;
+			}
+		
+		.contactleft {
+			width: 25%; 
+			text-align: right;
+			clear: both; 
+			float: left; 
+			display: inline; 
+			padding: 4px; 
+			margin: 5px 0; 
+			}
+		
+		.contactright {
+			width: 70%;
+			text-align: left;  
+			float: right; 
+			display: inline; 
+			padding: 4px; 
+			margin: 5px 0; 
+			}
+
+    .contacterror {
+      border: 1px solid #b00640;
+    	}
+		/* End Contact Form CSS */
+
+	</style>
+
+
+        <script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"Organization","address":{"name":"20minutos","telephone":"917 015 600","email":"20minutoseditora@20minutos.es","@type":"PostalAddress","addressLocality":"Madrid, Espa\u00f1a","postalCode":"28027","streetAddress":"Condesa de Venadito 1, 2\u00aa planta","url":"https:\/\/www.20minutos.es","sameAs":["https:\/\/www.facebook.com\/20minutos.es","https:\/\/twitter.com\/20m","https:\/\/www.youtube.com\/user\/20minutos\/"]},"memberOf":{"@type":"Organization","name":"Henneo"}}
+</script>
+		<script type="text/javascript" src="https://platform.twitter.com/widgets.js" defer></script>
+		<script type="text/javascript" src="https://blogs.20minutos.es/ciencias-mixtas/wp-content/themes/20minutos_responsive/js/public.js?20220922" defer></script>
+
+		<style type="text/css">
+
+			
+			
+			
+#mainHeader { background-color : #ffffff;}
+
+			
+			
+		</style>
+
+		<script>
+HENNEOADS_CONFIG = {"page":"\/34616581,22653889300\/@SITE@\/blog\/noticia\/","targetings":[{"key":"blog","value":["ciencias-mixtas"]},{"key":"m20_secc","value":["blog","ciencias-mixtas"]}]};
+</script>
+<script>
+!function(){window.hb_now=Date.now();var e=document.getElementsByTagName("script")[0],t="https://hb.20m.es/stable/config/blogs.20minutos.es/desktop-mobile.min.js";window.location.search.match(/hb_test=true/)&&(t=t.replace("/stable/","/test/"));var n=document.createElement("script");n.async=!0,n.src=t,e.parentNode.insertBefore(n,e)}();
+</script>
+
+
+<script type="didomi/javascript" data-vendor="c:vendor-dogtrack">
+(function(d,s,id,h,t){ 
+   var js,r,djs = d.getElementsByTagName(s)[0]; 
+   if (d.getElementById(id)) {return;} 
+   js = d.createElement('script');js.id =id;js.async=1; 
+   js.h=h;js.t=t; 
+   r=encodeURI(btoa(d.referrer)); 
+   js.src="//"+h+"/pixel/js/"+t+"/"+r; 
+   djs.parentNode.insertBefore(js, djs); 
+  }(document, 'script', 'dogtrack-pixel','20mi.spxl.socy.es', '20MI')); 
+</script>
+
+
+</script>
+
+		<meta name="twitter:widgets:csp" content="on">
+
+	</head>
+	<body class="post-template-default single single-post postid-61774 single-format-standard">
+		<!-- Google Data Layer -->
+<script type="text/javascript">
+dataLayer = [{"category":14,"subcategory":"ciencias-mixtas","layout":"blogpost","categoria":"blog","categoria_id":8,"subcategoria_id":112,"subcategoria":"ciencias-mixtas","fechapublicacion":"20221107","noticia_id":"112_61774","createdby":"Javier Yanes","lastmodify":"Javier Yanes","seotag":"2019-nCoV,coronavirus,c\u00f3vid larga,c\u00f3vid persistente,COVID-19,medicina,ni\u00f1os,pandemia,salud,SARS-CoV-2,vacunas,virus"}];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7GD96G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;+'&gtm_auth=aQCP4PoW8IfHmSFXawOMzQ&gtm_preview=env-5&gtm_cookies_win=x'+f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7GD96G');</script>
+<!-- End Google Tag Manager -->
+		<div style="display:none;">
+            
+<script type="text/javascript">
+
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiOnReady.push(() => {
+      window._comscore = window._comscore || [];
+                  window._comscore.push({ c1: "2", c2: "8189131" });
+      (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = "https://sb.scorecardresearch.com/cs/8189131/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+
+    });
+
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=8189131&cs_ucfr=0&cv=3.6&cj=1" />
+  </noscript>		</div>
+
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1&appId=217041948309757";
+    js.async = true;
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+		<header id="mobileHeader">
+			<div class="container">
+				<a href="#" id="js-left-btn" class="header-menu"><span class="icon icon-menu"></span></a>
+				<a href="/" class="header-logo"><span class="icon icon-logo"></span></a>
+			</div>
+		</header><!-- #header -->
+
+		<div id="x01" class="henneoHB_desktop"></div>
+		<div id="x02" class="henneoHB_mobile"></div>
+
+		<div id="page">
+			<div id="container">
+
+				<div id="header20m-container">
+					<link rel="stylesheet" type="text/css" media="all" href="https://rs.20m.es/css4/cobranded.min.css?19122022" />
+
+<div id="header-20m" >
+    
+<div id="ui-20m-header" class="header-wrapper">
+    <div id="ui-header-land" class="header-scroll-wrapper">
+        <div class="header-primary ">
+        <div class="header-primary-content ">
+
+
+            
+<div class="logo">
+    <a href="https://www.20minutos.es/">
+        <img alt="Logo del sitio" src="https://www.20minutos.es/static/images/logo-horizontal-20m.svg" width="130" height="40">
+    </a>
+</div>
+
+            
+            
+<div class="section-category">
+    <a href="https://www.20minutos.es/blogs_opinion/">Blogs</a>
+</div>
+
+            
+<div class="search-user">
+    <ul>
+            </ul>
+</div>
+
+
+        </div>
+        </div>
+        <div class="section-menu">
+            <nav itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="header-secondary">
+                <ul class="default-menu">
+                    <li class="link no-expandable first" itemprop="name">
+                        <a href="https://www.20minutos.es/nacional/" itemprop="url"><span>Nacional</span></a>
+                    </li>
+                    <li class="link no-expandable" itemprop="name">
+                        <a href="https://www.20minutos.es/internacional/" itemprop="url"><span>Internacional</span></a>
+                    </li>
+                    <li class="link no-expandable" itemprop="name">
+                        <a href="https://www.20minutos.es/deportes/" itemprop="url"><span>Deportes</span></a>
+                    </li>
+                    <li class="link no-expandable" itemprop="name">
+                        <a href="https://www.20minutos.es/opinion/" itemprop="url"><span>Opinión</span></a>
+                    </li>
+                    <li class="link no-expandable" itemprop="name">
+                        <a href="https://www.20minutos.es/television/" itemprop="url"><span>Tele</span></a>
+                    </li>
+                    <li class="link no-expandable" itemprop="name">
+                        <a href="https://www.20minutos.es/gente/" itemprop="url"><span>Gente</span></a>
+                    </li>
+                    <li class="link no-expandable" itemprop="name">
+                        <a href="https://www.20minutos.es/tecnologia/" itemprop="url"><span>20bits</span></a>
+                    </li>
+                    <li class="link no-expandable last" itemprop="name">
+                        <a href="https://www.20minutos.es/edicion_impresa/" itemprop="url"><span>Ed. Impresa</span></a>
+                    </li>
+                </ul>
+
+
+            </nav>
+        </div>
+    </div>
+</div>
+</div>
+				</div>
+
+                <div id="publi" style="margin-top:13px;">
+                        <div class="cont_publi">
+                                <div id="Top" class="henneoHB_desktop henneoHB_mobile"></div>
+                        </div>
+                </div>
+
+                <div id="blogs-skycrappers">
+
+                    <div id="x31" class="henneoHB_desktop"></div>
+<div id="x41" class="henneoHB_desktop"></div>
+
+                </div>
+
+				<header id="mainHeader">
+
+					<div id="blogs-header">
+
+						
+						 
+					</div>
+
+					<div class="head_container">
+
+						
+							<img class="big" width="990" height="130" alt="Ciencias mixtas" src="https://cdn.20m.es/img/2019/01/17/2149406.jpg" />
+
+						
+						
+							<img class="small" width="450" height="90" alt="Ciencias mixtas" src="https://cdn.20m.es/img/2019/01/17/2149405_tn.jpg" />
+
+						
+						<div class="logo">
+							<a title="Ciencias mixtas" href="https://blogs.20minutos.es/ciencias-mixtas">Ciencias mixtas</a>
+						</div>
+						<p class="description"></p>
+
+					</div>
+					<div class="mobile-searchbox clearfix"><form method="get" id="searchform" action="https://blogs.20minutos.es/ciencias-mixtas/">
+	<!--<label class="hidden" for="s">Buscar:</label>-->
+	<div>
+		<input type="text" value="" name="s" id="s" />
+		<input type="submit" id="searchsubmit" value="busca" />
+	</div>
+</form></div>
+					<nav class="navigation">
+						<ul>
+							<li class="tablethide"><a href="https://blogs.20minutos.es/ciencias-mixtas/">inicio</a></li>
+							<li><a href="https://blogs.20minutos.es/ciencias-mixtas/archivo/">archivo</a></li>
+														<li class="busca"><form method="get" id="searchform" action="https://blogs.20minutos.es/ciencias-mixtas/">
+	<!--<label class="hidden" for="s">Buscar:</label>-->
+	<div>
+		<input type="text" value="" name="s" id="s" />
+		<input type="submit" id="searchsubmit" value="busca" />
+	</div>
+</form></li>
+						</ul>
+					</nav>
+				</header>
+<script type="application/ld+json">
+{"@context":"http:\/\/schema.org","@type":"NewsArticle","@id":"https:\/\/blogs.20minutos.es\/ciencias-mixtas\/2022\/11\/07\/la-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos\/","headline":"La c\u00f3vid larga puede da\u00f1ar el cerebro, y tambi\u00e9n afecta a los ni\u00f1os","description":"Cuando llegaron las primeras vacunas contra la COVID-19, el objetivo estaba claro: vacunar a la mayor parte de la poblaci\u00f3n adulta, tanta como fuese posible...","datePublished":"2022-11-07T19:16:38+01:00","dateModified":"2022-11-09T09:45:28+01:00","mainEntityOfPage":{"@id":"https:\/\/blogs.20minutos.es\/ciencias-mixtas\/2022\/11\/07\/la-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos\/"},"image":{"@type":"ImageObject","url":"https:\/\/cdnb.20m.es\/sites\/112\/2022\/11\/Computed_tomography_of_human_brain_-_large-620x442.jpg"},"author":{"@type":"Organization","name":"ciencias-mixtas"},"editor":{"@type":"Person","name":"Javier Yanes"},"publisher":{"@type":"Organization","name":"20minutos","logo":{"@type":"ImageObject","url":"https:\/\/rs.20m.es\/css4\/img\/ui\/logo-300x60.png","width":300,"height":60}}}
+</script><article class="container clearfix">
+
+	<section id="content" >
+
+		
+			
+				
+				<h1 class="post_title">La cóvid larga puede dañar el cerebro, y también afecta a los niños</h1>
+				<div class="post-author"><a href="https://blogs.20minutos.es/ciencias-mixtas/author/ciencias-mixtas/">Javier Yanes</a> <span class="post-date">07 de noviembre de 2022</span></div>
+				<ul class="social-links desktop">
+	<li class="social-wrapper">
+		<a class="twitter-follow" href="http://twitter.com/share?url=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Dtwitter.com%26utm_medium%3Dsocialshare%26utm_campaign%3Ddesktop&text=La+c%C3%B3vid+larga+puede+da%C3%B1ar+el+cerebro%2C+y+tambi%C3%A9n+afecta+a+los+ni%C3%B1os&via=yanes68&related=20m" target="_blank" title="Compartir en Twitter"></a>
+	</li>
+	<li class="social-wrapper">
+		<a class="facebook-like" href="http://www.facebook.com/share.php?u=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Dfacebook.com%26utm_medium%3Dsocialshare%26utm_campaign%3Ddesktop" target="_blank" title="Compartir en Facebook"></a>
+	</li>
+	<!--li class="social-wrapper">
+		<a class="google-follow" href="https://plus.google.com/share?url=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Dgoogleplus.com%26utm_medium%3Dsocialshare%26utm_campaign%3Ddesktop" target="_blank" title="Compartir en Google+"></a>
+	</li-->
+	<li class="social-wrapper">
+		<a class="mail-like" href="mailto:?body=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Demail%26utm_medium%3Dsocialshare%26utm_campaign%3Ddesktop&amp;subject=La%20c%C3%B3vid%20larga%20puede%20da%C3%B1ar%20el%20cerebro%2C%20y%20tambi%C3%A9n%20afecta%20a%20los%20ni%C3%B1os" title="Compartir por correo"></a>
+	</li>
+</ul>
+				<div class="mobileSocial">
+	<ul class="social">
+		<li class="social-facebook">
+		    <a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Dfacebook.com%26utm_medium%3Dsocialshare%26utm_campaign%3Dmobile_web" target="_blank" title="Compartir en Facebook">
+		        <span class="icon-social icon-social-facebook"></span>Facebook
+		    </a>
+		</li>
+		<li class="social-twitter">
+		    <a href="http://twitter.com/share?url=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Dtwitter.com%26utm_medium%3Dsocialshare%26utm_campaign%3Dmobile_web&text=La+c%C3%B3vid+larga+puede+da%C3%B1ar+el+cerebro%2C+y+tambi%C3%A9n+afecta+a+los+ni%C3%B1os&via=yanes68&related=20m" target="_blank" title="Compartir en Twitter">
+		        <span class="icon-social icon-social-twitter"></span>Twitter
+		    </a>
+		</li>
+		<li class="social-whatsapp">
+		    <a href="whatsapp://send?text=La+c%C3%B3vid+larga+puede+da%C3%B1ar+el+cerebro%2C+y+tambi%C3%A9n+afecta+a+los+ni%C3%B1os https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Dwhastapp.com%26utm_medium%3Dsocialshare%26utm_campaign%3Dmobile_web" title="Compartir en WhatsApp">
+		        <span class="icon-social icon-social-whatsapp"></span>WhatsApp
+            </a>
+        </li>
+		<li class="social-mail">
+		    <a href="mailto:?body=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Demail%26utm_medium%3Dsocialshare%26utm_campaign%3Dmobile_web&amp;subject=La%20c%C3%B3vid%20larga%20puede%20da%C3%B1ar%20el%20cerebro%2C%20y%20tambi%C3%A9n%20afecta%20a%20los%20ni%C3%B1os" title="Compartir por correo">
+		        <span class="icon-social icon-social-mail"></span>Correo
+            </a>
+        </li>
+		<!--li class="social-google">
+		    <a href="https://plus.google.com/share?url=https%3A%2F%2Fblogs.20minutos.es%2Fciencias-mixtas%2F2022%2F11%2F07%2Fla-covid-larga-puede-danar-el-cerebro-y-tambien-afecta-a-los-ninos%2F%3Futm_source%3Dgoogleplus.com%26utm_medium%3Dsocialshare%26utm_campaign%3Dmobile_web" target="_blank" title="Compartir en Google+">
+		        <span class="icon-social icon-social-google"></span>Google+
+            </a>
+        </li-->
+	</ul>
+</div>
+				<div class="post-61774 post type-post status-publish format-standard hentry category-medicina category-salud tag-2019-ncov tag-coronavirus tag-covid-larga tag-covid-persistente tag-covid-19 tag-medicina tag-ninos tag-pandemia tag-salud-2 tag-sars-cov-2 tag-vacunas tag-virus" id="post-61774">
+					<p></p>
+					<div class="entry">
+						<p>Cuando llegaron las primeras vacunas contra la COVID-19, el objetivo estaba claro: vacunar a la mayor parte de la población adulta, tanta como fuese posible. Pero en fases posteriores <strong>las respuestas no eran tan sencillas: ¿conviene vacunar a los niños? ¿Será necesario aplicar dosis de refuerzo?</strong> ¿Cuándo, cuántas, a quiénes? ¿Qué hay de las personas recuperadas? ¿Y a quienes han pasado la infección más de una vez? ¿Compensa el beneficio?</p>
+<p>La inmensa cantidad de datos aportados por las numerosas investigaciones en todo el mundo ha despejado algunas de las principales incógnitas, pero no siempre los mensajes han calado adecuadamente. <strong>Por ejemplo, la vacunación de los niños ha sido minoritaria en comparación con los adultos.</strong> En EEUU, <a href="https://www.sciencedirect.com/science/article/pii/S0264410X22011549" target="_blank" rel="noopener">un estudio publicado hace unos días</a> ha indagado en las causas de la baja tasa de vacunación entre los niños, y por qué incluso muchos adultos que se han vacunado han decidido no vacunar a sus hijos.</p>
+<p><strong>Los autores concluyen que los efectos de la desinformación sobre las vacunas han sido potentes:</strong> muchos padres se han quedado con el mensaje de que la enfermedad es leve en los niños, y que en cambio la vacuna podía suponer un riesgo mayor. Los mensajes cruzados entre las fuentes científicas fiables y los propagadores de bulos en internet han formado un batiburrillo en la mente de muchos padres en el que no se distingue entre información y desinformación.</p>
+<p>Separando lo correcto de lo falso, <strong>es cierto que generalmente la cóvid aguda es más leve en los niños,</strong> aunque no debe caerse en el error —como sucedió en los primeros tiempos de la pandemia— de pensar que ellos no se infectan: el estudio de la seroprevalencia en EEUU (presencia de anticuerpos, revelando una infección pasada) ha estimado que <strong><a href="https://covid.cdc.gov/covid-data-tracker/#pediatric-seroprevalence" target="_blank" rel="noopener">el 86% de los niños han pasado la cóvid</a>;</strong> probablemente la gran mayoría de ellos sin siquiera enterarse. Pero aunque sufren menos la enfermedad, también hay casos de hospitalizaciones, y los datos han mostrado que <a href="https://www.cdc.gov/mmwr/volumes/71/wr/mm7116e1.htm" target="_blank" rel="noopener">los ingresos hospitalarios por cóvid de los niños no vacunados más que duplican los de los vacunados</a>.</p>
+<p>Los estudios han mostrado que las vacunas estimulan en los niños una respuesta inmune al nivel de la de los adultos, <strong>pero las cifras de eficacia (protección en los ensayos clínicos) y efectividad (protección en el mundo real) son menores:</strong> la eficacia contra la variante Delta fue de <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2116298" target="_blank" rel="noopener">casi un 91% frente a la cóvid sintomática en niños de 5 a 11 años</a>, mientras que la efectividad contra Ómicron, con mayor capacidad de evasión inmunitaria, <a href="https://www.nejm.org/doi/10.1056/NEJMoa2205011" target="_blank" rel="noopener">ha sido del 51% frente a la infección y del 48% frente a la infección sintomática</a> en niños de la misma franja de edad, con mayor efectividad en los más pequeños que en los mayores, al tratarse de una formulación pediátrica. En los niños de  6 meses a 5 años, la eficacia contra la infección sintomática de Ómicron es <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2209367" target="_blank" rel="noopener">del 31-51% de 6 a 23 meses y del 37-46% de 2 a 5 años</a>.</p>
+<div id="attachment_61904" style="width: 630px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-61904" class="size-large wp-image-61904" src="https://cdnb.20m.es/sites/112/2022/11/Computed_tomography_of_human_brain_-_large-620x442.jpg" alt="" width="620" height="442" srcset="https://cdnb.20m.es/sites/112/2022/11/Computed_tomography_of_human_brain_-_large-620x442.jpg 620w, https://cdnb.20m.es/sites/112/2022/11/Computed_tomography_of_human_brain_-_large-300x214.jpg 300w, https://cdnb.20m.es/sites/112/2022/11/Computed_tomography_of_human_brain_-_large-768x548.jpg 768w, https://cdnb.20m.es/sites/112/2022/11/Computed_tomography_of_human_brain_-_large.jpg 799w" sizes="(max-width: 620px) 100vw, 620px" /><p id="caption-attachment-61904" class="wp-caption-text">Tomografía computarizada de un cerebro humano. Imagen de Department of Radiology, Uppsala University Hospital / Mikael Häggström / Wikipedia.</p></div>
+<p><strong>La conclusión de estos datos es que las vacunas también protegen a los niños, aunque sea a un nivel menor que a los adultos;</strong> recordemos que la efectividad de las vacunas contra la gripe suele moverse entre el 40 y el 60%, y a pesar de ello se consideran instrumentos poderosos para contener el brote anual invernal y proteger a las personas más vulnerables.</p>
+<p>Un argumento contundente para recomendar la vacunación de los niños figura en los datos citados: como ya he contado aquí, <strong>aunque las vacunas no se diseñaron ni se testaron inicialmente para reducir la transmisión, los estudios <a href="https://www.bmj.com/content/376/bmj.o298" target="_blank" rel="noopener">han descubierto consistentemente que sí lo hacen</a>.</strong> Lo cual no es fácil de explicar, dado que las vacunas no reducen la carga viral de la que depende la posibilidad de contagiar a otros. Se ha propuesto que este no es un efecto individual sino poblacional, debido a una reducción de las tasas de infección entre la población vacunada, pero no parece un argumento lo suficientemente completo. Sea como fuere, el hecho es que según las cifras anteriores <strong>las vacunas reducen la tasa de infección un 51% en los niños, por lo que su vacunación contribuye a <a href="https://www.who.int/news/item/11-08-2022-interim-statement-on-covid-19-vaccination-for-children" target="_blank" rel="noopener">disminuir la transmisión en su entorno, en el que puede haber personas más vulnerables</a>.</strong></p>
+<p><strong>Pero frente a todo esto, ¿qué hay de los riesgos?</strong> Y es aquí donde el mensaje que ha calado entre muchos padres se ha dejado influir por la desinformación. Es cierto que las vacunas, como todo medicamento, pueden provocar de por sí efectos secundarios que obviamente no existen en las personas no vacunadas. Pero repetidamente los estudios han mostrado que la infección supone un riesgo mucho mayor que la vacunación. Hace un par de meses, <a href="https://www.frontiersin.org/articles/10.3389/fcvm.2022.951314/full" target="_blank" rel="noopener">una revisión sistemática y metaanálisis</a> (un estudio que reúne estudios previos) concluía que <strong>el riesgo de miocarditis —inflamación del músculo cardíaco, más frecuente en personas jóvenes y que en la gran mayoría de los casos es leve— es siete veces mayor debido a la infección por COVID-19 que a las vacunas.</strong> Las vacunas duplican el riesgo de miocarditis respecto a no vacunarse, pero la infección lo multiplica por 15 respecto a la no infección, con independencia del estatus de vacunación. Por lo tanto, en el balance, es evidente que no vacunarse supone un riesgo mucho mayor que vacunarse.</p>
+<p>Es difícil que este mensaje llegue a calar entre los antivacunas convencidos, pero más preocupante es que entre quienes simplemente dudan hay otros datos que no parecen conocerse. Por encima de todo esto, <strong>hay un motivo mucho más poderoso para recomendar la vacunación de los niños, y es la cóvid larga o persistente.</strong> Desde bien entrada la pandemia los expertos están advirtiendo de que esta va a ser <a href="https://www.bmj.com/content/379/bmj.o2516" target="_blank" rel="noopener">la mayor preocupación a largo plazo</a>, porque aún es mucho lo que se desconoce sobre esta enfermedad.</p>
+<p><strong>Especialmente alarmantes son los últimos estudios sobre los efectos de la cóvid en el cerebro.</strong> Desde que se empezó a reconocer la existencia de la cóvid larga se sabe que <a href="https://theconversation.com/deciphering-the-symptoms-of-long-covid-19-is-slow-and-painstaking-for-both-sufferers-and-their-physicians-164754" target="_blank" rel="noopener">incluye síntomas neurológicos</a> como falta de memoria y atención, y lo que los enfermos a veces describen como una «niebla cerebral», una especie de lentitud y sensación de letargo. Las investigaciones comenzaron a detectar secuelas como signos de inflamación en el cerebro de las personas que habían sufrido cóvid grave, y <a href="https://academic.oup.com/ofid/article/9/4/ofac115/6543929" target="_blank" rel="noopener">un mayor riesgo de desarrollar demencia</a>. Pero <a href="https://www.nature.com/articles/s41586-022-04569-5" target="_blank" rel="noopener">en marzo de este año un estudio en Reino Unido</a> con casi 800 personas encontró una ligera reducción de la sustancia gris del cerebro y un cierto declive cognitivo también en pacientes que habían pasado una infección leve, en comparación con quienes no se habían contagiado.</p>
+<p>Dado que la pérdida temporal del olfato ha sido uno de los síntomas típicos de la cóvid desde el principio, y que la región cerebral donde se encontró esta reducción de la sustancia gris está conectada con el bulbo olfatorio —la parte del cerebro que procesa el olfato—, los investigadores proponían que quizá la vía neuronal olfativa era la puerta de entrada del virus en el cerebro, o tal vez era solo un efecto secundario debido a la inflamación. Pero preocupaba el hecho de que <strong>la región donde se encontraron estas alteraciones <a href="https://theconversation.com/even-mild-cases-of-covid-19-can-leave-a-mark-on-the-brain-such-as-reductions-in-gray-matter-a-neuroscientist-explains-emerging-research-178499?utm_medium=email&amp;utm_campaign=Science%20Editors%20Picks%20%20March%209%202022%20-%202229522114&amp;utm_content=Science%20Editors%20Picks%20%20March%209%202022%20-%202229522114+Version+B+CID_6bbaec2d56d431d3ec38318176f5a778&amp;utm_source=campaign_monitor_us&amp;utm_term=few%20key%20questions%20the%20research%20community" target="_blank" rel="noopener">está implicada también en la degeneración que produce el alzhéimer</a>.</strong></p>
+<p><a href="https://www.pnas.org/doi/full/10.1073/pnas.2200960119" target="_blank" rel="noopener">Estudios patológicos y experimentos in vitro han revelado</a> que el virus es capaz de infectar las células de la glía, que rellenan el tejido cerebral y ejercen funciones auxiliares esenciales, incluyendo la inmunidad y el soporte a la transmisión del impulso neuronal. Los autores de este estudio apuntaban que<strong> esta infección podría estar relacionada con los efectos neuropsiquiátricos a largo plazo de la infección leve,</strong> incluyendo la atrofia de la corteza cerebral, problemas cognitivos, fatiga y ansiedad, a través de un mecanismo por el que las células gliales afectadas causan disfunción o muerte de las neuronas.</p>
+<p>Ahora, un nuevo estudio trae novedades no precisamente alentadoras. Investigadores de la Universidad de Queensland, en Australia, han descubierto que <strong><a href="https://www.nature.com/articles/s41380-022-01831-0" target="_blank" rel="noopener">el virus activa en el cerebro una respuesta inflamatoria similar a la que se observa en el párkinson o el alzhéimer</a>.</strong> En concreto, el virus infecta células inmunitarias de la glía llamadas microglía, en las cuales se forman grupos de proteínas llamadas inflamasomas que disparan la inflamación asociada a la muerte neuronal en estas enfermedades degenerativas.</p>
+<p>Obviamente, esto no significa que las personas que han pasado la infección estén condenadas a padecer algún día una enfermedad neurodegenerativa. Por desgracia, aún no se conocen las causas primarias que dan origen a estas enfermedades. Pero <a href="https://www.uq.edu.au/news/article/2022/11/silent-killer%E2%80%99-covid-19-shown-trigger-inflammation-brain" target="_blank" rel="noopener">según el director del estudio, Trent Woodruff</a>, <em><strong>«si alguien ya tiene predisposición al párkinson, tener COVID-19 podría ser como echar más combustible a ese fuego en el cerebro. Lo mismo se aplicaría a la predisposición al alzhéimer y otras demencias que se han vinculado a los inflamasomas»</strong></em><strong>.</strong></p>
+<p>Es importante recordar que, igual que ocurre con la cóvid aguda, probablemente los niños también tienen menos riesgo de padecer cóvid larga que los adultos. Pero pueden sufrirla: <a href="https://pubmed.ncbi.nlm.nih.gov/35451112/" target="_blank" rel="noopener">un estudio español publicado en agosto de este año</a> encontraba que, <strong>de una muestra de 451 niños con cóvid sintomática atendidos en tres hospitales de Madrid, uno de cada siete tenía síntomas de cóvid larga tres meses después de padecer la infección.</strong> Los autores calificaban esta proporción como «preocupante».</p>
+<p>La cóvid larga en niños se conoce quizá peor que la que afecta a los adultos, y podría tener sus propias peculiaridades. De hecho, ni siquiera las cifras coinciden en los diferentes estudios; <a href="https://jamanetwork.com/journals/jamapediatrics/fullarticle/2795569" target="_blank" rel="noopener">uno también reciente en EEUU da una estimación menor</a>, pero en cambio una revisión de estudios y metaanálisis publicada en junio de este año <a href="https://www.nature.com/articles/s41598-022-13495-5" target="_blank" rel="noopener">aumenta el porcentaje a un más alarmante 25%</a>. Tanto esta revisión como el estudio español <strong>han detectado también en los niños síntomas neuropsicológicos similares a los descritos en los adultos.</strong> Aún no se sabe si la cóvid larga en los niños puede llevar asociada la inflamación cerebral observada en los adultos, pero con los datos disponibles no hay motivo para descartar que pueda ser así.</p>
+<p>No está de más recordar otro dato destacado del estudio español: el 82% de los niños atendidos por cóvid en los hospitales sufrieron síntomas leves y solo necesitaron atención ambulatoria. <strong>Pero el 5% tuvo que ingresar en UCI pediátrica.</strong></p>
+<p>En resumen, y aunque los niños generalmente están a salvo de los peores efectos de la cóvid, no siempre es así. <strong>Y también corren el riesgo de padecer cóvid larga, <a href="https://scienceblog.com/534136/referrals-to-long-covid-clinic-fall-by-79-following-roll-out-of-vaccine/" target="_blank" rel="noopener">un riesgo que disminuye con la vacunación</a>.</strong> Incluso si Ómicron y sus subvariantes son realmente más leves que variantes anteriores —como ya he contado aquí, algo sobre lo que no hay consenso, ya que es difícil valorarlo en una población mayoritariamente inmunizada—, <a href="https://www.bmj.com/content/379/bmj.o2516" target="_blank" rel="noopener">hay informes anecdóticos</a> de que en cambio la cóvid larga podría ser peor con alguna de estas subvariantes, aunque esto no debe tomarse como dato contrastado.</p>
+<p>Si se trata de proteger a los niños, <strong>el modo de hacerlo es protegerlos <em>con</em> las vacunas, no <em>de</em> las vacunas.</strong> Por desgracia, muchos padres y madres parecen haberse equivocado de enemigo, pero aún estamos a tiempo de que el esfuerzo por separar información de desinformación acabe haciendo calar los mensajes correctos.</p>
+<p>Y volviendo al comienzo, otra de las incógnitas que se han ido presentando y que aún deben responderse es la cuestión de las dosis de refuerzo.<strong> ¿Realmente es aconsejable y necesario revacunarnos una y otra vez, indefinidamente?</strong> Mañana lo veremos.</p>
+												<p class="postmetadata">Tags: <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/2019-ncov/" rel="tag">2019-nCoV</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/coronavirus/" rel="tag">coronavirus</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/covid-larga/" rel="tag">cóvid larga</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/covid-persistente/" rel="tag">cóvid persistente</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/covid-19/" rel="tag">COVID-19</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/medicina/" rel="tag">medicina</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/ninos/" rel="tag">niños</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/pandemia/" rel="tag">pandemia</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/salud-2/" rel="tag">salud</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/sars-cov-2/" rel="tag">SARS-CoV-2</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/vacunas/" rel="tag">vacunas</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/virus/" rel="tag">virus</a> |  Almacenado en: <a href="https://blogs.20minutos.es/ciencias-mixtas/tag/medicina/" rel="category tag">medicina</a>, <a href="https://blogs.20minutos.es/ciencias-mixtas/category/salud/" rel="category tag">Salud</a></p>
+					</div>
+				</div>
+
+                <div class="prometeo-20m" id="gadget-001" style="display:none"></div>
+				<div class="nav clearfix">
+                    <span class="nav-prev"><a href="https://blogs.20minutos.es/ciencias-mixtas/2022/10/31/halloween-por-que-nos-atrae-lo-siniestro/" rel="prev">Halloween: ¿por qué nos atrae lo siniestro?</a></span>
+                    <span class="nav-next"><a href="https://blogs.20minutos.es/ciencias-mixtas/2022/11/10/sirven-los-refuerzos-de-las-vacunas-para-mejorar-la-proteccion-contra-la-covid-19/" rel="next">¿Sirven los refuerzos de las vacunas para mejorar la protección contra la COVID-19?</a></span>
+                </div>
+
+				<div class="publi">
+					<div class="cont_publi robapaginas">
+						<div id="Right1" class="henneoHB_mobile"></div>
+					</div>
+				</div>
+
+				
+<!-- You can start editing here. -->
+
+
+	<!-- If comments are closed. -->
+	<p class="nocomments center">Los comentarios están cerrados.</p>
+
+
+
+			
+			
+	</section>
+
+	
+<aside>
+
+	<!-- Place this tag after the last widget tag. -->
+	<script type="text/javascript">
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/platform.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+
+		
+		
+		<div class="publi publi-mobile">
+			<div class="cont_publi robapaginas">
+				<div id="Right2" class="henneoHB_mobile"></div>
+			</div>
+		</div>
+
+	
+
+            <div class="widget widget_aboutme">
+            <h2 class="widgettitle">Sobre mí</h2>
+            <div class="textwidget">
+                <div class="cont_info clearfix">
+                        <img src="https://cdnb.20m.es/ciencias-mixtas/files/2014/02/blogs_peque_ciencias-mixtas1.jpg?1393335471" alt="ciencias-mixtas" width="70" height="70" />
+                    <div class="txt">
+                        Soy periodista, biólogo y doctor en Bioquímica y Biología Molecular. Antes de dedicarme al periodismo, en los años 90 trabajé en investigación en el Centro Nacional de Biotecnología y publiqué 19 estudios científicos y revisiones. Como periodista de ciencia, fui jefe de sección de Ciencias del diario Público, y entre mis colaboraciones figuran medios como El País/Materia, El Huffington Post, ABC, Efe o BBVA OpenMind, entre otros. En mis ratos libres también intento viajar y escribir sobre viajes. He publicado tres novelas: 'El señor de las llanuras' (Plaza & Janés, 2009), 'Si nunca llego a despertar' (Plaza & Janés, 2011) y 'Tulipanes de Marte' (Plaza & Janés, 2014).
+                    </div>
+                                
+                                    <div class="social_buttons">
+                        <div class="clearfix">
+        <p><a href="https://twitter.com/yanes68" class="twitter-follow-button" data-show-count="false">Seguir a @yanes68</a></p>
+    </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <div class="clearfix">
+        <div style="margin-bottom: 0.3em;" class="fb-like" data-href="https://blogs.20minutos.es/ciencias-mixtas/" data-width="300" data-layout="button_count" data-show-faces="false" data-send="false"></div>
+    </div>
+                </div>
+                    
+                </div>
+            </div>
+        </div>
+	<div class="publi">
+		<div class="cont_publi">
+			<div id="Right1" class="henneoHB_desktop"></div>
+		</div>
+	</div>
+
+	
+	<div class="widget">			<div class="textwidget"></div>
+		</div>	
+	<div class="publi">
+		<div class="cont_publi">
+			<div id="Right2" class="henneoHB_desktop"></div>
+		</div>
+	</div>
+
+	<div class="widget">			<div class="textwidget"><a href="http://www.20minutos.es/ciencia"><img class="aligncenter size-medium wp-image-24" alt="canalciencia" src="https://cdnb.20m.es/ciencias-mixtas/files/2014/02/canalciencia-300x119.png" width="300" height="119" /></a></div>
+		</div>	
+	<div class="widget widget_recent_comments"><h2 class="widgettitle">Comentarios recientes</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Golgo</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/03/14/facebook-youtube-pinterest-y-amazon-reaccionan-contra-la-propaganda-antivacunas/#comment-4710">Facebook, YouTube, Pinterest y Amazon reaccionan contra la propaganda antivacunas</a></li><li class="recentcomments"><span class="comment-author-link">Tutu</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/03/14/facebook-youtube-pinterest-y-amazon-reaccionan-contra-la-propaganda-antivacunas/#comment-4709">Facebook, YouTube, Pinterest y Amazon reaccionan contra la propaganda antivacunas</a></li><li class="recentcomments"><span class="comment-author-link">Rompecercas</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/03/14/facebook-youtube-pinterest-y-amazon-reaccionan-contra-la-propaganda-antivacunas/#comment-4708">Facebook, YouTube, Pinterest y Amazon reaccionan contra la propaganda antivacunas</a></li><li class="recentcomments"><span class="comment-author-link">Dice Ser</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/04/04/bienvenidos-a-la-suriaterapia-lo-ultimo-en-terapias-naturales/#comment-4707">Bienvenidos a la suriaterapia, lo último en terapias naturales</a></li><li class="recentcomments"><span class="comment-author-link">Presley</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/04/04/bienvenidos-a-la-suriaterapia-lo-ultimo-en-terapias-naturales/#comment-4705">Bienvenidos a la suriaterapia, lo último en terapias naturales</a></li><li class="recentcomments"><span class="comment-author-link">me rio de janeiro</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/04/04/bienvenidos-a-la-suriaterapia-lo-ultimo-en-terapias-naturales/#comment-4704">Bienvenidos a la suriaterapia, lo último en terapias naturales</a></li><li class="recentcomments"><span class="comment-author-link">Técnico.</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/04/04/bienvenidos-a-la-suriaterapia-lo-ultimo-en-terapias-naturales/#comment-4703">Bienvenidos a la suriaterapia, lo último en terapias naturales</a></li><li class="recentcomments"><span class="comment-author-link">Francisco Belmonte Payá</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/04/04/bienvenidos-a-la-suriaterapia-lo-ultimo-en-terapias-naturales/#comment-4702">Bienvenidos a la suriaterapia, lo último en terapias naturales</a></li><li class="recentcomments"><span class="comment-author-link">Miguel</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/04/04/bienvenidos-a-la-suriaterapia-lo-ultimo-en-terapias-naturales/#comment-4701">Bienvenidos a la suriaterapia, lo último en terapias naturales</a></li><li class="recentcomments"><span class="comment-author-link">Tutu</span> en <a href="https://blogs.20minutos.es/ciencias-mixtas/2019/03/14/facebook-youtube-pinterest-y-amazon-reaccionan-contra-la-propaganda-antivacunas/#comment-4700">Facebook, YouTube, Pinterest y Amazon reaccionan contra la propaganda antivacunas</a></li></ul></div>
+	<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"><a href="https://blogs.20minutos.es/ciencias-mixtas/tag/2019-ncov/" class="tag-cloud-link tag-link-4136459 tag-link-position-1" style="font-size: 18.137931034483pt;" aria-label="2019-nCoV (166 elementos)">2019-nCoV</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/antivacunas/" class="tag-cloud-link tag-link-1899598 tag-link-position-2" style="font-size: 8pt;" aria-label="antivacunas (23 elementos)">antivacunas</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/astrobiologia/" class="tag-cloud-link tag-link-1882792 tag-link-position-3" style="font-size: 11.862068965517pt;" aria-label="astrobiología (49 elementos)">astrobiología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/astrofisica-2/" class="tag-cloud-link tag-link-1877047 tag-link-position-4" style="font-size: 13.068965517241pt;" aria-label="astrofísica (62 elementos)">astrofísica</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/astronomia/" class="tag-cloud-link tag-link-1152 tag-link-position-5" style="font-size: 13.189655172414pt;" aria-label="astronomía (64 elementos)">astronomía</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/biologia-2/" class="tag-cloud-link tag-link-1879786 tag-link-position-6" style="font-size: 22pt;" aria-label="biología (344 elementos)">biología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/biologia-molecular-2/" class="tag-cloud-link tag-link-1877103 tag-link-position-7" style="font-size: 15pt;" aria-label="biología molecular (90 elementos)">biología molecular</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/cambio-climatico/" class="tag-cloud-link tag-link-553053 tag-link-position-8" style="font-size: 9.8103448275862pt;" aria-label="cambio climático (33 elementos)">cambio climático</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/ciencia-2/" class="tag-cloud-link tag-link-1833951 tag-link-position-9" style="font-size: 17.051724137931pt;" aria-label="ciencia (135 elementos)">ciencia</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/coronavirus/" class="tag-cloud-link tag-link-1923268 tag-link-position-10" style="font-size: 18.258620689655pt;" aria-label="coronavirus (167 elementos)">coronavirus</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/covid-19/" class="tag-cloud-link tag-link-4136467 tag-link-position-11" style="font-size: 18.137931034483pt;" aria-label="COVID-19 (164 elementos)">COVID-19</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/ecologia-2/" class="tag-cloud-link tag-link-1882756 tag-link-position-12" style="font-size: 11.379310344828pt;" aria-label="ecología (45 elementos)">ecología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/epidemia/" class="tag-cloud-link tag-link-1819279 tag-link-position-13" style="font-size: 14.275862068966pt;" aria-label="epidemia (78 elementos)">epidemia</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/epidemiologia/" class="tag-cloud-link tag-link-1854409 tag-link-position-14" style="font-size: 12.827586206897pt;" aria-label="epidemiología (59 elementos)">epidemiología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/espacio-2/" class="tag-cloud-link tag-link-1877059 tag-link-position-15" style="font-size: 17.172413793103pt;" aria-label="espacio (138 elementos)">espacio</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/evolucion-2/" class="tag-cloud-link tag-link-1879709 tag-link-position-16" style="font-size: 11.862068965517pt;" aria-label="evolución (49 elementos)">evolución</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/exploracion-espacial/" class="tag-cloud-link tag-link-1065572 tag-link-position-17" style="font-size: 8.2413793103448pt;" aria-label="exploración espacial (24 elementos)">exploración espacial</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/fisica/" class="tag-cloud-link tag-link-555279 tag-link-position-18" style="font-size: 13.189655172414pt;" aria-label="física (63 elementos)">física</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/genetica-2/" class="tag-cloud-link tag-link-1790269 tag-link-position-19" style="font-size: 10.172413793103pt;" aria-label="genética (35 elementos)">genética</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/geologia-2/" class="tag-cloud-link tag-link-1900225 tag-link-position-20" style="font-size: 8.9655172413793pt;" aria-label="geología (28 elementos)">geología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/historia-2/" class="tag-cloud-link tag-link-1856425 tag-link-position-21" style="font-size: 10.896551724138pt;" aria-label="historia (41 elementos)">historia</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/inmunologia/" class="tag-cloud-link tag-link-1937132 tag-link-position-22" style="font-size: 8.2413793103448pt;" aria-label="inmunología (24 elementos)">inmunología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/marte/" class="tag-cloud-link tag-link-1226835 tag-link-position-23" style="font-size: 9.9310344827586pt;" aria-label="Marte (34 elementos)">Marte</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/medicina/" class="tag-cloud-link tag-link-556839 tag-link-position-24" style="font-size: 20.672413793103pt;" aria-label="medicina (270 elementos)">medicina</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/medio-ambiente-2/" class="tag-cloud-link tag-link-1835067 tag-link-position-25" style="font-size: 10.896551724138pt;" aria-label="medio ambiente (41 elementos)">medio ambiente</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/microbiologia-2/" class="tag-cloud-link tag-link-1879814 tag-link-position-26" style="font-size: 11.98275862069pt;" aria-label="microbiología (50 elementos)">microbiología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/musica/" class="tag-cloud-link tag-link-1923395 tag-link-position-27" style="font-size: 8.2413793103448pt;" aria-label="Música (24 elementos)">Música</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/nasa/" class="tag-cloud-link tag-link-554555 tag-link-position-28" style="font-size: 10.655172413793pt;" aria-label="NASA (39 elementos)">NASA</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/neurociencias-2/" class="tag-cloud-link tag-link-1882784 tag-link-position-29" style="font-size: 8.2413793103448pt;" aria-label="neurociencias (24 elementos)">neurociencias</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/paleontologia-2/" class="tag-cloud-link tag-link-1817212 tag-link-position-30" style="font-size: 8.2413793103448pt;" aria-label="paleontología (24 elementos)">paleontología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/pandemia/" class="tag-cloud-link tag-link-1899649 tag-link-position-31" style="font-size: 14.275862068966pt;" aria-label="pandemia (79 elementos)">pandemia</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/politica-2/" class="tag-cloud-link tag-link-1770711 tag-link-position-32" style="font-size: 11.01724137931pt;" aria-label="política (42 elementos)">política</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/pseudociencia/" class="tag-cloud-link tag-link-1849677 tag-link-position-33" style="font-size: 11.620689655172pt;" aria-label="pseudociencia (47 elementos)">pseudociencia</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/pseudociencias-2/" class="tag-cloud-link tag-link-1882803 tag-link-position-34" style="font-size: 15.48275862069pt;" aria-label="pseudociencias (98 elementos)">pseudociencias</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/psicologia-2/" class="tag-cloud-link tag-link-1882802 tag-link-position-35" style="font-size: 13.431034482759pt;" aria-label="psicología (66 elementos)">psicología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/quimica/" class="tag-cloud-link tag-link-1923397 tag-link-position-36" style="font-size: 8.6034482758621pt;" aria-label="química (26 elementos)">química</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/salud-2/" class="tag-cloud-link tag-link-1848076 tag-link-position-37" style="font-size: 21.275862068966pt;" aria-label="salud (298 elementos)">salud</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/sars-cov-2/" class="tag-cloud-link tag-link-4136468 tag-link-position-38" style="font-size: 18.01724137931pt;" aria-label="SARS-CoV-2 (163 elementos)">SARS-CoV-2</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/tecnologia-2/" class="tag-cloud-link tag-link-1828007 tag-link-position-39" style="font-size: 11.5pt;" aria-label="tecnología (46 elementos)">tecnología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/vacunas/" class="tag-cloud-link tag-link-1885327 tag-link-position-40" style="font-size: 11.5pt;" aria-label="vacunas (46 elementos)">vacunas</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/vida-alienigena/" class="tag-cloud-link tag-link-1923353 tag-link-position-41" style="font-size: 12.224137931034pt;" aria-label="vida alienígena (53 elementos)">vida alienígena</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/vida-extraterrestre/" class="tag-cloud-link tag-link-1909197 tag-link-position-42" style="font-size: 12.103448275862pt;" aria-label="vida extraterrestre (51 elementos)">vida extraterrestre</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/virologia/" class="tag-cloud-link tag-link-1900324 tag-link-position-43" style="font-size: 9.3275862068966pt;" aria-label="virología (30 elementos)">virología</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/virus/" class="tag-cloud-link tag-link-1563 tag-link-position-44" style="font-size: 18.98275862069pt;" aria-label="virus (195 elementos)">virus</a>
+<a href="https://blogs.20minutos.es/ciencias-mixtas/tag/zoologia-2/" class="tag-cloud-link tag-link-1882821 tag-link-position-45" style="font-size: 12.586206896552pt;" aria-label="zoología (57 elementos)">zoología</a></div>
+</div>
+	<div class="widget widget_archivo">
+		<h2>Archivo</h2>
+		<div class="widget_content">
+			<ul>
+					<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/12/'>diciembre 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/11/'>noviembre 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/10/'>octubre 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/09/'>septiembre 2022</a>&nbsp;(4)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/07/'>julio 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/06/'>junio 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/05/'>mayo 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/04/'>abril 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/03/'>marzo 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/02/'>febrero 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2022/01/'>enero 2022</a>&nbsp;(7)</li>
+	<li><a href='https://blogs.20minutos.es/ciencias-mixtas/2021/12/'>diciembre 2021</a>&nbsp;(7)</li>
+				<li class="more"><a href="https://blogs.20minutos.es/ciencias-mixtas/archivo/">+ ver todo el archivo</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="publi">
+                <div class="cont_publi">
+                        <div id="Right3" class="henneoHB_desktop"></div>
+                </div>
+        </div>
+
+	<div class="widget widget_categories"><h2 class="widgettitle">Categorías</h2>
+			<ul>
+					<li class="cat-item cat-item-1859349"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/aeronautica/">Aeronáutica</a> (11)
+</li>
+	<li class="cat-item cat-item-1937267"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/antropologia/">Antropología</a> (18)
+</li>
+	<li class="cat-item cat-item-559521"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/arqueologia/">Arqueología</a> (22)
+</li>
+	<li class="cat-item cat-item-552453"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/arte/">Arte</a> (4)
+</li>
+	<li class="cat-item cat-item-1805772"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/astrofisica/">Astrofísica</a> (81)
+</li>
+	<li class="cat-item cat-item-1152"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/astronomia/">astronomía</a> (36)
+</li>
+	<li class="cat-item cat-item-2295"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/biologia/">Biología</a> (385)
+</li>
+	<li class="cat-item cat-item-1877100"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/biologia-molecular/">Biología molecular</a> (95)
+</li>
+	<li class="cat-item cat-item-1832890"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/botanica/">botánica</a> (6)
+</li>
+	<li class="cat-item cat-item-553053"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/cambio-climatico/">cambio climático</a> (22)
+</li>
+	<li class="cat-item cat-item-557923"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/ciencia/">Ciencia</a> (199)
+</li>
+	<li class="cat-item cat-item-1877098"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/ciencia-expatriada/">Ciencia expatriada</a> (11)
+</li>
+	<li class="cat-item cat-item-557896"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/ciencia-ficcion/">ciencia ficción</a> (11)
+</li>
+	<li class="cat-item cat-item-243"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/cine/">Cine</a> (32)
+</li>
+	<li class="cat-item cat-item-1804948"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/divulgacion/">Divulgación</a> (145)
+</li>
+	<li class="cat-item cat-item-1040821"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/ecologia/">Ecología</a> (56)
+</li>
+	<li class="cat-item cat-item-1054214"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/entrevista/">Entrevista</a> (12)
+</li>
+	<li class="cat-item cat-item-553923"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/espacio/">Espacio</a> (163)
+</li>
+	<li class="cat-item cat-item-1888263"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/etologia-2/">Etología</a> (14)
+</li>
+	<li class="cat-item cat-item-1064215"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/evolucion/">Evolución</a> (65)
+</li>
+	<li class="cat-item cat-item-3499553"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/fake-news/">fake news</a> (4)
+</li>
+	<li class="cat-item cat-item-553277"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/filosofia/">filosofía</a> (3)
+</li>
+	<li class="cat-item cat-item-1882731"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/fisica-2/">Física</a> (70)
+</li>
+	<li class="cat-item cat-item-1882793"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/fisiologia-animal/">Fisiología animal</a> (36)
+</li>
+	<li class="cat-item cat-item-1877109"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/fisiologia-vegetal/">Fisiología vegetal</a> (11)
+</li>
+	<li class="cat-item cat-item-1879741"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/fotonoticia/">Fotonoticia</a> (6)
+</li>
+	<li class="cat-item cat-item-1789469"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/genetica/">Genética</a> (40)
+</li>
+	<li class="cat-item cat-item-1856435"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/geografia/">Geografía</a> (2)
+</li>
+	<li class="cat-item cat-item-1870550"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/geologia/">Geología</a> (37)
+</li>
+	<li class="cat-item cat-item-7168"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/historia/">Historia</a> (57)
+</li>
+	<li class="cat-item cat-item-1312"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/innovacion/">Innovación</a> (31)
+</li>
+	<li class="cat-item cat-item-1802572"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/lenguaje/">Lenguaje</a> (9)
+</li>
+	<li class="cat-item cat-item-1801740"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/literatura-2/">Literatura</a> (23)
+</li>
+	<li class="cat-item cat-item-157"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/matematicas/">Matemáticas</a> (10)
+</li>
+	<li class="cat-item cat-item-556839"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/medicina/">medicina</a> (289)
+</li>
+	<li class="cat-item cat-item-1809373"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/medio-ambiente/">Medio ambiente</a> (52)
+</li>
+	<li class="cat-item cat-item-559975"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/meteorologia/">Meteorología</a> (15)
+</li>
+	<li class="cat-item cat-item-1826422"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/microbiologia/">Microbiología</a> (70)
+</li>
+	<li class="cat-item cat-item-391"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/musica/">Música</a> (28)
+</li>
+	<li class="cat-item cat-item-1877686"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/neurociencias/">Neurociencias</a> (39)
+</li>
+	<li class="cat-item cat-item-661"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/noticia/">Noticia</a> (160)
+</li>
+	<li class="cat-item cat-item-2875"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/nutricion/">nutrición</a> (8)
+</li>
+	<li class="cat-item cat-item-1784660"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/opinion/">Opinión</a> (53)
+</li>
+	<li class="cat-item cat-item-1414640"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/paleontologia/">Paleontología</a> (39)
+</li>
+	<li class="cat-item cat-item-1877099"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/perfil/">Perfil</a> (15)
+</li>
+	<li class="cat-item cat-item-553215"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/periodismo/">Periodismo</a> (33)
+</li>
+	<li class="cat-item cat-item-1335141"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/politica/">Política</a> (52)
+</li>
+	<li class="cat-item cat-item-1888257"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/prehistoria-2/">Prehistoria</a> (21)
+</li>
+	<li class="cat-item cat-item-1882801"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/pseudociencias/">Pseudociencias</a> (102)
+</li>
+	<li class="cat-item cat-item-1998"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/psicologia/">Psicología</a> (68)
+</li>
+	<li class="cat-item cat-item-1132"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/quimica/">química</a> (27)
+</li>
+	<li class="cat-item cat-item-1374520"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/robotica/">Robótica</a> (4)
+</li>
+	<li class="cat-item cat-item-2739"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/salud/">Salud</a> (334)
+</li>
+	<li class="cat-item cat-item-1708"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/sin-categoria/">Sin categoría</a> (16)
+</li>
+	<li class="cat-item cat-item-555276"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/tecnologia/">Tecnología</a> (61)
+</li>
+	<li class="cat-item cat-item-1400"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/television/">Televisión</a> (20)
+</li>
+	<li class="cat-item cat-item-697"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/viajes/">viajes</a> (16)
+</li>
+	<li class="cat-item cat-item-1882725"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/videonoticia/">Videonoticia</a> (40)
+</li>
+	<li class="cat-item cat-item-1816322"><a href="https://blogs.20minutos.es/ciencias-mixtas/category/zoologia/">Zoología</a> (67)
+</li>
+			</ul>
+
+			</div>
+	
+</aside>
+
+	<div id="bottom" class="clearfix">
+			</div>
+
+</article>
+
+
+					</div>
+				</div>
+
+				<div id="pie">
+					<div id="footer20m-wrapper">
+						<div id="footer-20m">
+<footer>
+    <div class="footer-wrapper" xtcz="footer">
+        <ul class="menu">
+            <li class="brand">
+                <span>Una publicación de:</span>
+                <p class="acm">20 MINUTOS EDITORA, S.L.</p>
+                        <div class="logo">
+            <a href="https://www.henneo.com/" title="Grupo Henneo" class="logo-footer">
+                <img src="https://rs.20m.es/css4/img/ui/footer/logo_henneo_gris.svg" width="80" height="56">
+            </a>
+        </div>
+            </li>
+            <li class="sections">
+    <h4>Secciones</h4>
+    <div class="col-izq">
+        <ul class="link-list">
+            <li><a href="https://www.20minutos.es/">Portada</a></li>
+            <li><a title="Noticias de España" href="https://www.20minutos.es/nacional/" target="_blank">Nacional</a></li>
+            <li><a title="Noticias de Internacional" href="https://www.20minutos.es/internacional/" target="_blank">Internacional</a></li>
+            <li><a title="Noticias de Economía" href="https://www.20minutos.es/economia/" target="_blank">Economía</a></li>
+            <li><a title="Noticias de España por CCAA y provincias" href="https://www.20minutos.es/tu-ciudad/" target="_blank">Tu ciudad</a></li>
+            <li><a title="Artículos de Opinión" href="https://www.20minutos.es/opiniones/" target="_blank">Opiniones</a></li>
+            <li><a title="Noticias de Deportes" href="https://www.20minutos.es/deportes/" target="_blank">Deportes</a></li>
+            <li><a title="Noticias de Tecnología" href="https://www.20minutos.es/tecnologia/" target="_blank">Tecnología</a></li>
+            <li><a title="Noticias de Cine" href="https://www.20minutos.es/cine/" target="_blank">Cine</a></li>
+            <li><a title="Noticias de Música" href="https://www.20minutos.es/musica/" target="_blank">Música</a></li>
+            <li><a title="Vídeos" href="https://www.20minutos.es/videos/" target="_blank">Vídeos</a></li>
+            <li><a title="Sucesos" href="https://www.20minutos.es/minuteca/sucesos/" target="_blank">Sucesos</a></li>
+            <li><a title="Recetas" href="https://www.20minutos.es/minuteca/recetas-de-cocina/" target="_blank">Recetas</a></li>
+            <li><a title="Temas" href="https://www.20minutos.es/minuteca/" target="_blank">Temas</a></li>
+            <li><a title="El tiempo en tu provincia" href="https://www.20minutos.es/minuteca/el-tiempo-20minutos/" target="_blank">El tiempo en tu provincia</a></li>
+            <li><a title="Relaciones pareja" href="https://www.20minutos.es/minuteca/relaciones-de-pareja/" target="_blank">Relaciones pareja</a></li>
+        </ul>
+    </div>
+    <div class="col-der">
+        <ul class="link-list">
+            <li><a href="https://www.20minutos.es/minuteca/horoscopo" title="Horóscopo diario" target="_blank">Horóscopo diario</a></li>  
+            <li><a title="Loterías y sorteos" href="https://www.20minutos.es/minuteca/loterias-y-apuestas-del-estado" target="_blank">Loterías y sorteos</a></li>
+            <li><a title="Noticias de Televisión" href="https://www.20minutos.es/television/" target="_blank">Televisión</a></li>
+            <li><a title="Noticias de gente" href="https://www.20minutos.es/gente/" target="_blank">Gente</a></li>
+            <li><a title="Noticias de Motor" href="https://www.20minutos.es/motor/" target="_blank">Motor</a></li>
+            <li><a title="Noticias de Salud" href="https://www.20minutos.es/salud" target="_blank">Salud</a></li>
+            <li><a title="Noticias de Viajes" href="https://www.20minutos.es/viajes/" target="_blank">Viajes</a></li>
+            <li><a title="Noticias de Vivienda" href="https://www.20minutos.es/vivienda/" target="_blank">Vivienda</a></li>
+            <li><a title="Empleo" href="https://www.20minutos.es/empleo/" target="_blank">Empleo</a></li>
+            <li><a title="Gonzoo" href="https://www.20minutos.es/gonzoo/" target="_blank" >Gonzoo</a></li>
+            <li><a title="Euromillones" href="https://www.20minutos.es/minuteca/euromillones/" target="_blank">Euromillones</a></li>
+            <li><a title="Lotería Nacional" href="https://www.20minutos.es/minuteca/loteria-nacional/" target="_blank">Lotería Nacional</a></li>
+            <li><a title="ONCE" href="https://www.20minutos.es/minuteca/once/" target="_blank">ONCE</a></li>
+            <li><a title="Gastronomía" href="https://www.20minutos.es/gastronomia/" target="_blank">Gastronomía</a></li>
+          
+        </ul>
+    </div>
+</li>
+<li>
+    <h4>Te interesa</h4>
+    <ul class="link-list">
+
+        <li><a href="https://www.petitchef.es/" title="Recetas de cocina fáciles" target="_blank" rel="nofollow">Recetas fáciles</a></li>
+        <li><a title="Juegos" href="https://www.minijuegos.com/" target="_blank" rel="nofollow">Juegos</a></li>
+        <li><a title="Guía local" href="https://servicios.20minutos.es/" target="_blank">Guía local</a></li>
+        <li><a title="Códigos descuento" href="https://www.20minutos.es/codigo-descuento" target="_blank">Códigos descuento</a></li>
+        <li><a href="https://www.20minutos.es/boletin/" title="Suscríbete al boletín" target="_blank">Suscríbete al boletín</a></li> 
+        <li><a href="https://www.20minutos.es/minuteca/loteria-de-navidad/" title="Lotería de Navidad" target="_blank">Lotería de Navidad</a></li>
+
+   </ul>
+</li>
+<li>
+    <h4>España</h4>
+    <ul class="link-list">
+        <li><a href="https://www.20minutos.es/madrid/" title="Noticias Madrid" target="_blank">Madrid</a></li> 
+        <li><a href="https://www.20minutos.es/cataluna/" title="Noticias Cataluña" target="_blank">Cataluña</a></li> 
+        <li><a href="https://www.20minutos.es/andalucia/" title="Noticias Andalucía" target="_blank">Andalucía</a></li>
+        <li><a href="https://www.20minutos.es/comunidad-valenciana/" title="Noticias Valencia" target="_blank">C. Valencia</a></li> 
+        <li><a href="https://www.20minutos.es/pais-vasco/" title="Noticias País Vasco" target="_blank">País Vasco</a></li> 
+        <li><a href="https://www.20minutos.es/aragon/" title="Noticias Aragón" target="_blank">Aragón</a></li>
+        <li><a href="https://www.20minutos.es/asturias/" title="Noticias Asturias" target="_blank">Asturias</a></li>    
+        <li><a href="https://www.20minutos.es/extremadura/" title="Noticias Extremadura" target="_blank">Extremadura</a></li>  
+        <li><a href="https://www.20minutos.es/galicia/" title="Noticias Galicia" target="_blank">Galicia</a></li>
+        <li><a href="https://www.20minutos.es/murcia/" title="Noticias Murcia" target="_blank">Murcia</a></li>
+        <li><a href="https://www.20minutos.es/castilla-y-leon/" title="Noticias Castilla y León" target="_blank">Castilla y León</a></li>
+        <li><a href="https://www.20minutos.es/castilla-la-mancha/" title="Noticias Castilla-La Mancha" target="_blank">Castilla-La Mancha</a></li>
+        <li><a href="https://www.20minutos.es/canarias/" title="Noticias Canarias" target="_blank">Canarias</a></li>  
+        <li><a href="https://www.20minutos.es/baleares/" title="Noticias Baleares" target="_blank">Baleares</a></li>
+        <li><a href="https://www.20minutos.es/cantabria/" title="Noticias Cantabria" target="_blank">Cantabria</a></li>
+        <li><a href="https://www.20minutos.es/ceuta/" title="Noticias Ceuta" target="_blank">Ceuta</a></li>
+        <li><a href="https://www.20minutos.es/melilla/" title="Noticias Melilla" target="_blank">Melilla</a></li>
+    </ul>
+</li>
+<li>
+    <h4>Corporativo</h4>
+    <ul class="link-list">
+        <li><a href="http://www.bluemedia.es" target="_blank" rel="nofollow">Publicidad</a></li>
+        <li><a href="https://www.heraldo.es" target="_blank" rel="nofollow">Heraldo</a></li>
+        <li><a href="https://www.lainformacion.com/" target="_blank" rel="nofollow">La Información</a></li>
+        <li><a href="https://www.20minutos.es/cinemania/" target="_blank">Cinemanía</a></li>
+        <li><a href="https://www.20minutos.es/premios-20-blogs/" target="_blank">Premios 20Blogs</a></li>
+        <li><a href="https://franquicias.20minutos.es/" target="_blank" rel="nofollow">Comprar franquicias</a></li>
+        <li><a href="https://henneoprintingservices.com/" target="_blank" rel="nofollow">Henneo Printing Services</a></li>
+        <li><a href="https://www.20minutos.com.mx/​" target="_blank" rel="nofollow">México</a></li>    
+        <li><a href="https://www.20minutos.com/" target="_blank" rel="nofollow">EEUU</a></li>
+ 
+
+    </ul>
+</li>
+        </ul>
+        
+        <ul class="legal-footer">
+              <li><a href="https://www.20minutos.es/documento/legal/">Aviso legal y condiciones de uso</a></li>
+              <li><a href="https://www.20minutos.es/documento/privacy/">Política de privacidad</a></li>
+              <li><a href="https://www.20minutos.es/documento/cookie/">Política de cookies</a></li>
+              <li><a href="https://www.20minutos.es/especial/corporativo/contacto">Contacto</a></li>
+              <li><a href="https://www.20minutos.es/especial/corporativo/quienes-somos">Quiénes somos</a></li>
+            </ul>
+    </div>
+
+    
+</footer>
+<div class="footer-copyright">
+    <span>© 20 Minutos Editora, S.L.</span>
+    <p>Queda prohibida toda reproducción sin permiso escrito de la empresa a los efectos del artículo 32.1, párrafo segundo, de la Ley de Propiedad Intelectual. Asimismo, a los efectos establecidos en el artículo 33.1 de Ley de Propiedad Intelectual, la empresa hace constar la correspondiente reserva de derechos, por sí y por medio de sus redactores o autores.</p>
+</div>
+</div>
+					</div>
+				</div>
+
+				<footer id="mobileFooter">
+					<div class="container">
+                        <div class="henneo-logo">
+                            <a href="https://www.henneo.com/" title="Grupo Henneo" class="logo-footer">
+                                <img src="https://rs.20m.es/css4/img/ui/footer/logo_henneo_gris.svg">
+                            </a>
+                        </div>
+						<p class="footer-copy">&copy; 20minutos.es</p>
+						<ul class="footer-list">
+							<li><a href="#" class="ui-scroll-top">Ir arriba</a></li>
+						</ul>
+						<ul class="footer-list">
+                            <li><a href="https://www.20minutos.es/especial/corporativo/contacto/">Contacto</a></li>
+                            <li><a href="https://www.20minutos.es/documento/privacy/">Política de Privacidad</a></li>
+                            <li><a href="https://www.20minutos.es/documento/legal/">Aviso Legal</a></li>
+                            <li><a href="https://www.20minutos.es/documento/cookie/">Política de Cookies</a></li>
+                            <li><a href="https://www.20minutos.es/especial/corporativo/quienes-somos/">Quiénes somos</a></li>
+						</ul>
+						<ul class="social">
+							<li><a href="https://www.facebook.com/20minutos.es" target="_blank"><span class="icon-social icon-social-facebook"></span>Facebook</a></li>
+							<li><a href="https://twitter.com/20m" target="_blank"><span class="icon-social icon-social-twitter"></span>Twitter</a></li>
+						</ul>
+					</div>
+				</footer>
+
+				<script type='text/javascript' src='https://blogs.20minutos.es/ciencias-mixtas/wp-includes/js/comment-reply.min.js?ver=5.9.2' id='comment-reply-js'></script>
+
+			</div>
+		</div>
+				
+		<div id="mobilemenu">
+			
+<div id="left">
+    <nav itemscope="" itemtype="http://www.schema.org/SiteNavigationElement">
+        <ul class="menu menu-first">
+            <li class="link no-expandable first" itemprop="name">
+                <a href="https://www.20minutos.es/nacional/" itemprop="url"><span>Nacional</span></a>
+            </li>
+            <li class="link no-expandable" itemprop="name">
+                <a href="https://www.20minutos.es/internacional/" itemprop="url"><span>Internacional</span></a>
+            </li>
+            <li class="link no-expandable" itemprop="name">
+                <a href="https://www.20minutos.es/deportes/" itemprop="url"><span>Deportes</span></a>
+            </li>
+            <li class="link no-expandable" itemprop="name">
+                <a href="https://www.20minutos.es/opinion/" itemprop="url"><span>Opinión</span></a>
+            </li>
+            <li class="link no-expandable" itemprop="name">
+                <a href="https://www.20minutos.es/television/" itemprop="url"><span>Tele</span></a>
+            </li>
+            <li class="link no-expandable" itemprop="name">
+                <a href="https://www.20minutos.es/gente/" itemprop="url"><span>Gente</span></a>
+            </li>
+            <li class="link no-expandable" itemprop="name">
+                <a href="https://www.20minutos.es/tecnologia/" itemprop="url"><span>20bits</span></a>
+            </li>
+            <li class="link no-expandable last" itemprop="name">
+                <a href="https://www.20minutos.es/edicion_impresa/" itemprop="url"><span>Ed. Impresa</span></a>
+            </li>
+        </ul>
+    </nav>
+</div><!-- #left -->
+		</div>
+
+	</body>
+</html>
