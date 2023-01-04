@@ -181,3 +181,8 @@ Lancement du script main.sh en mettant le français et l'espagnol en commentaire
 - Récupérer les urls qui n'ont pas encore été traitées et les mettre dans un fichier à part
 - relancer main.sh avec ce fichier à part
 - copier coller les lignes de tableau générées dans dazahui-table.html dans le fichier précédent
+
+## 2022-01-03
+### Organisation des urls et mettre les concordances dans une table html (Yingzi)
+Après avoir parlé aux membres du groupe, j'ai pris tous les fichiers dans context et les transformer en table , et j'ai fait un seul concordancier par chaque langue. Et quand j'ai mis tous les urls dans le programme et les avoir exécutées, j'ai trouvé que certaines d'entre ils ne s'affichaient pas correctement, j'ai donc remplacé certaines des urls dans mon corpus de méli(s)-mélo.
+
