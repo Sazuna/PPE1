@@ -45,21 +45,6 @@ HTML_F="../html/content/$WORD-table.html"
 
 echo "getting URLs of $2..."
 
-# concordance table
-CONCORDANCE_F="../generated/concordances/$WORD-concordances.html"
-CLASS='<div class="container">
-    <table class="table is-striped is-hoverable", style="text-align:center">'
-echo '<!DOCTYPE html>
-	<html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Concordances</title>
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-	</head>
-	<body>' > $CONCORDANCE_F
-echo "$CLASS<thead><tr><th>Gauche</th><th>Cible</th><th>Droite</th></tr></thead><tbody>" >> $CONCORDANCE_F
-
 echo "$CLASS" > $HTML_F
 
 # For every url in the file
@@ -105,15 +90,12 @@ do
 		else
 			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io "([^ ]* ){0,20}$EXPR_REG( [^ ]*){0,20}")
 		fi
-		# CONCORDANCES
-		CONCORDANCES=$(echo "$DUMP" | grep -E -o "(\w+\W+){0,5}$EXPR_REG(\W+\w+){0,5}" | sed -r "s/(.*)($EXPR_REG)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/")
 		
 	else
 		DUMP=""
 		CHARSET=""
 		CONTEXT=""
 		ASPIRATION=""
-		CONCORDANCES=""
 	fi
 
 	# File names
@@ -122,8 +104,6 @@ do
 	
 	echo "$ASPIRATION" > $ASPIRATION_F
 	echo "$CONTEXT" > $CONTEXT_F
-	
-	echo "$CONCORDANCES" >> $CONCORDANCE_F
 
 	# Count of occurrences
 	COUNT=$(echo $CONTEXT | tr ' ' '\n' | egrep -ci "$EXPR_REG")
@@ -132,6 +112,4 @@ do
 	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td></tr>" >> $HTML_F
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
-
-echo "</tbody></table></div></body></html>" >> $CONCORDANCE_F
 echo "</table>" >> $HTML_F
