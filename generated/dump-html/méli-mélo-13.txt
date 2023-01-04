@@ -1,0 +1,1431 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>[CR][AiME] Un Dúnadan en Rhovanion - Page 5 - CasusNO</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Flux - CasusNO" href="/app.php/feed?sid=976723f869653de6ff077965f56687e4">		<link rel="alternate" type="application/atom+xml" title="Flux - Tous les forums" href="/app.php/feed/forums?sid=976723f869653de6ff077965f56687e4">	<link rel="alternate" type="application/atom+xml" title="Flux - Nouveaux sujets" href="/app.php/feed/topics?sid=976723f869653de6ff077965f56687e4">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujets actifs" href="/app.php/feed/topics_active?sid=976723f869653de6ff077965f56687e4">	<link rel="alternate" type="application/atom+xml" title="Flux - Forum - Retours JDR" href="/app.php/feed/forum/32?sid=976723f869653de6ff077965f56687e4">	<link rel="alternate" type="application/atom+xml" title="Flux - Sujet - [CR][AiME] Un Dúnadan en Rhovanion" href="/app.php/feed/topic/36814?sid=976723f869653de6ff077965f56687e4">	
+	<link rel="canonical" href="https://www.casusno.fr/viewtopic.php?t=36814&amp;start=60">
+
+
+
+<link href="./assets/css/font-awesome.min.css?assets_version=169" rel="stylesheet">
+<link href="./styles/prosilver/theme/stylesheet.css?assets_version=169" rel="stylesheet">
+<link href="./styles/prosilver/theme/fr/stylesheet.css?assets_version=169" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver/theme/tweaks.css?assets_version=169" rel="stylesheet">
+<![endif]-->
+
+<style type="text/css">.mention{color:red}</style>
+
+<link href="./ext/paul999/mention/styles/all/theme/mention.css?assets_version=169" rel="stylesheet" media="screen">
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+		<a id="logo" class="logo" href="./index.php?sid=976723f869653de6ff077965f56687e4" title="www.casusno.fr">
+					<span class="site_logo"></span>
+				</a>
+				<h1>CasusNO</h1>
+				<p>Forum avec de vrais morceaux de JDR dedans.</p>
+				<p class="skiplink"><a href="#start_here">Accéder au contenu</a></p>
+			</div>
+
+									
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu hidden" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Raccourcis</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+					
+										<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php/help/faq?sid=976723f869653de6ff077965f56687e4" rel="help" title="Foire aux questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside" data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;redirect=viewtopic.php%3Fp%3D1903507&amp;sid=976723f869653de6ff077965f56687e4" title="Connexion" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Connexion</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=976723f869653de6ff077965f56687e4" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Inscription</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="./index.php?sid=976723f869653de6ff077965f56687e4" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">www.casusno.fr</span></a><meta itemprop="position" content="1"/></span>
+
+											
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="34"><a itemprop="item" href="./viewforum.php?f=34&amp;sid=976723f869653de6ff077965f56687e4"><span itemprop="name">Jeux de rôle</span></a><meta itemprop="position" content="2"/></span>
+															
+								<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope data-forum-id="32"><a itemprop="item" href="./viewforum.php?f=32&amp;sid=976723f869653de6ff077965f56687e4"><span itemprop="name">Retours JDR</span></a><meta itemprop="position" content="3"/></span>
+							
+					</li>
+
+		
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<h2 class="topic-title"><a href="./viewtopic.php?t=36814&amp;start=60&amp;sid=976723f869653de6ff077965f56687e4">[CR][AiME] Un Dúnadan en Rhovanion</a></h2>
+
+<div style="display: none !important;">Critiques de Jeu, Comptes rendus et retour d'expérience<br/></div>
+
+
+<div class="action-bar bar-top">
+	
+			<a href="./posting.php?mode=reply&amp;t=36814&amp;sid=976723f869653de6ff077965f56687e4" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+	
+			<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?t=36814&amp;start=60&amp;sid=976723f869653de6ff077965f56687e4&amp;view=print" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+	
+	
+			<div class="pagination">
+			731 messages
+							<ul>
+	<li class="dropdown-container dropdown-button-control dropdown-page-jump page-jump">
+		<a class="button button-icon-only dropdown-trigger" href="#" title="Cliquez ici afin d’atteindre une page…" role="button"><i class="icon fa-level-down fa-rotate-270" aria-hidden="true"></i><span class="sr-only">Page <strong>5</strong> sur <strong>49</strong></span></a>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+				<li>Aller sur la page :</li>
+				<li class="page-jump-form">
+					<input type="number" name="page-number" min="1" max="999999" title="Saisissez le numéro de la page que vous souhaitez atteindre" class="inputbox tiny" data-per-page="15" data-base-url=".&#x2F;viewtopic.php&#x3F;t&#x3D;36814&amp;amp&#x3B;sid&#x3D;976723f869653de6ff077965f56687e4" data-start-name="start"/>
+					<input class="button2" value="Aller" type="button"/>
+				</li>
+			</ul>
+		</div>
+	</li>
+			<li class="arrow previous"><a class="button button-icon-only" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=45" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4" role="button">1</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=30" role="button">3</a></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=45" role="button">4</a></li>
+			<li class="active"><span>5</span></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=75" role="button">6</a></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=90" role="button">7</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=720" role="button">49</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=75" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+		</div>
+
+
+
+
+			<div id="p1903161" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903161">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=8737_1589721388.png.pagespeed.ic.64uHs5krxa.png" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="username">AsgardOdin</a>							</dt>
+
+						<dd class="profile-rank">Transcendé</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 717</dd>		<dd class="profile-joined"><strong>Inscription :</strong> sam. janv. 12, 2019 3:32 pm</dd>		
+		
+						
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903161">
+
+					<h3 class="first">
+						<a href="./viewtopic.php?p=1903161&amp;sid=976723f869653de6ff077965f56687e4#p1903161">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903161&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903161&amp;sid=976723f869653de6ff077965f56687e4#p1903161" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="username">AsgardOdin</a></strong> &raquo; </span><time datetime="2020-03-10T12:47:23+00:00">mar. mars 10, 2020 1:47 pm</time>
+			</p>
+			
+			
+			
+			<div class="content">Un début très poétique !  <img class="smilies" src="./images/smilies/wub.gif" width="22" height="29" alt=":wub:" title="Miiiiiiiiiiiiiiignon">  (et qui se faisait un peu attendre  <img class="smilies" src="images/smilies/icon_razz.gif.pagespeed.ce.pdYW_1oyge.gif" width="20" height="20" alt=":P" title="Tu l'as vu ma langue ?">)</div>
+
+			
+			
+									
+						
+							<div id="sig1903161" class="signature">--<br>
+Récemment bombardé Responsable éditorial du <a href="https://nonobstant.cafe" class="postlink">Nonobstant Café</a> !<br>
+Douglas MacArthur : "Les années rident la peau ; renoncer à son idéal ride l’âme."<br>
+Le Bocal, le serveur JDR où sont enregistrés les podcasts : <a href="https://discord.gg/eQBaNaPHMd" class="postlink">https://discord.gg/eQBaNaPHMd</a></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903163" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903163">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6364_1623830382.jpg.pagespeed.ic.Ga-SeVhyCR.jpg" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 2226</dd>		<dd class="profile-joined"><strong>Inscription :</strong> ven. avr. 03, 2015 8:57 am</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Mars</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903163">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903163&amp;sid=976723f869653de6ff077965f56687e4#p1903163">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903163&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903163&amp;sid=976723f869653de6ff077965f56687e4#p1903163" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a></strong> &raquo; </span><time datetime="2020-03-10T12:50:48+00:00">mar. mars 10, 2020 1:50 pm</time>
+			</p>
+			
+			
+			
+			<div class="content"><img class="smilies" src="./images/smilies/special_prayer.gif" width="27" height="22" alt=":pri" title="prière"></div>
+
+			
+			
+									
+						
+							<div id="sig1903163" class="signature"><em class="text-italics"><strong class="text-strong">Dieu infatigable des archivistes fictionnels</strong></em><br>
+<br>
+<em class="text-italics">SUR1DPERCHE - Rôle &amp; Plume</em><br>
+- <a href="https://www.casusno.fr/viewtopic.php?p=2083085#p2083085" class="postlink"><em class="text-italics">KOBAGRUMTOR</em></a>, <em class="text-italics"><span style="font-size:85%;line-height:116%">mon JdR tribute, mon éternnel tonneau des Danaïdes</span></em><br>
+<span style="font-size:100%;line-height:116%">- </span><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=31420" class="postlink">Le vent se lève</a><span style="font-size:85%;line-height:116%"> puis </span><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=34913" class="postlink">Les 5 supplices</a><span style="font-size:85%;line-height:116%">, du </span></em><span style="font-size:85%;line-height:116%"><em class="text-italics">Steampulp sous ItO</em></span><br>
+- <a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">A</a><em class="text-italics"><a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">igre-Feuille, un Dúnadan en Rhovanion</a><span style="font-size:85%;line-height:116%">, du Tolkien sous AiME  </span></em><strong class="text-strong">D</strong><strong class="text-strong">nadan</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903178" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903178">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6908&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6908_1556370922.jpg.pagespeed.ic.h5KJkx1vf_.jpg" width="200" height="97" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6908&amp;sid=976723f869653de6ff077965f56687e4" class="username">Herlkin</a>							</dt>
+
+						<dd class="profile-rank">Evêque</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 473</dd>		<dd class="profile-joined"><strong>Inscription :</strong> mer. avr. 27, 2016 3:17 pm</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Paris</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903178">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903178&amp;sid=976723f869653de6ff077965f56687e4#p1903178">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903178&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903178&amp;sid=976723f869653de6ff077965f56687e4#p1903178" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6908&amp;sid=976723f869653de6ff077965f56687e4" class="username">Herlkin</a></strong> &raquo; </span><time datetime="2020-03-10T13:38:44+00:00">mar. mars 10, 2020 2:38 pm</time>
+			</p>
+			
+			
+			
+			<div class="content">...il va falloir lui trouver un nom, à cette herbe à pipe !<br>
+ </div>
+
+			
+			
+									
+						
+							<div id="sig1903178" class="signature"><em class="text-italics">"Lorsque vous avez éliminé l’impossible, ce qui reste, si improbable soit-il, est nécessairement la vérité."</em><br>
+<strong class="text-strong">Sherlock Holmes</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903507" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903507">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6364_1623830382.jpg.pagespeed.ic.Ga-SeVhyCR.jpg" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 2226</dd>		<dd class="profile-joined"><strong>Inscription :</strong> ven. avr. 03, 2015 8:57 am</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Mars</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903507">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903507&amp;sid=976723f869653de6ff077965f56687e4#p1903507">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903507&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903507&amp;sid=976723f869653de6ff077965f56687e4#p1903507" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a></strong> &raquo; </span><time datetime="2020-03-11T13:56:57+00:00">mer. mars 11, 2020 2:56 pm</time>
+			</p>
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=1903178&amp;sid=976723f869653de6ff077965f56687e4#p1903178"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=6908&amp;sid=976723f869653de6ff077965f56687e4">Herlkin</a> a écrit : <a href="./viewtopic.php?p=1903178&amp;sid=976723f869653de6ff077965f56687e4#p1903178" data-post-id="1903178" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><span class="responsive-hide">mar. mars 10, 2020 2:38 pm</span></cite>
+...il va falloir lui trouver un nom, à cette herbe à pipe !<br>
+<br>
+</div></blockquote>
+<br>
+<img class="smilies" src="./images/smilies/icon_biggrin.gif" width="20" height="20" alt=":D" title="Trop content"></div>
+
+			
+			
+									
+						
+							<div id="sig1903507" class="signature"><em class="text-italics"><strong class="text-strong">Dieu infatigable des archivistes fictionnels</strong></em><br>
+<br>
+<em class="text-italics">SUR1DPERCHE - Rôle &amp; Plume</em><br>
+- <a href="https://www.casusno.fr/viewtopic.php?p=2083085#p2083085" class="postlink"><em class="text-italics">KOBAGRUMTOR</em></a>, <em class="text-italics"><span style="font-size:85%;line-height:116%">mon JdR tribute, mon éternnel tonneau des Danaïdes</span></em><br>
+<span style="font-size:100%;line-height:116%">- </span><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=31420" class="postlink">Le vent se lève</a><span style="font-size:85%;line-height:116%"> puis </span><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=34913" class="postlink">Les 5 supplices</a><span style="font-size:85%;line-height:116%">, du </span></em><span style="font-size:85%;line-height:116%"><em class="text-italics">Steampulp sous ItO</em></span><br>
+- <a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">A</a><em class="text-italics"><a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">igre-Feuille, un Dúnadan en Rhovanion</a><span style="font-size:85%;line-height:116%">, du Tolkien sous AiME  </span></em><strong class="text-strong">D</strong><strong class="text-strong">nadan</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903509" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903509">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6364_1623830382.jpg.pagespeed.ic.Ga-SeVhyCR.jpg" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 2226</dd>		<dd class="profile-joined"><strong>Inscription :</strong> ven. avr. 03, 2015 8:57 am</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Mars</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903509">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903509&amp;sid=976723f869653de6ff077965f56687e4#p1903509">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903509&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903509&amp;sid=976723f869653de6ff077965f56687e4#p1903509" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a></strong> &raquo; </span><time datetime="2020-03-11T14:09:55+00:00">mer. mars 11, 2020 3:09 pm</time>
+			</p>
+			
+			
+			
+			<div class="content"><blockquote class="uncited"><div>
+<div align="center"><span style="color:#c0392b"><span style="font-size:85%;line-height:116%">Session 4</span><br>
+<em class="text-italics"><span style="font-size:150%;line-height:116%"><strong class="text-strong">Le cerf blanc</strong></span></em><br>
+<span style="font-size:85%;line-height:116%">Année 2949 T.A.</span></span></div>
+ <br>
+<div align="justify">En cette année 2949 du Tiers Âge, <strong class="text-strong">Gandalf</strong>, l’istar gris, se rendit ici dans la région pour visiter son homologue brun. A regret, je ne le croisai pas personnellement mais telle fut la rumeur qui se propagea au début de printemps chez les hommes des bois. Il se dit aussi que, plus à l’est, une délégation diplomatique menée par une princesse marchande de Dorwinion rejoignit Dale et que le maître des lieux, Bard, céda aux charmes de la belle. De Dale, il en fut encore question lorsque j’appris les tensions naissantes avec leurs voisins elfes au sujet de coupe de bois. Sur nos terres aussi, il régna également une tension en ce début d’année mais pour tout autre chose car il se conta qu’une créature malfaisante errait dans les bois aux abords des villages et des fermes. Cette présence effraya les vaches d’un fermer et, dans leur panique, le bougre fut piétiné à mort. Depuis lors, on nomma cette ombre le « Fantôme sanglant » et <strong class="text-strong">Ingomer </strong>lui-même donna un prix à quiconque l’éliminerait. Plus tard, j’appris l’organisation par le roi des elfes d’une nouvelle grande chasse pour le début de l’été. Exceptionnelles, ces chasses pistent le légendaire et majestueux cerf blanc. En évoquant celle-ci à <strong class="text-strong">Beleg</strong>, il m’apprit la rareté de leur fréquence. Réservée aux seuls elfes, la précédente ayant eu lieu avant sa naissance voilà presque cinq cents ans. Mais cette fois-ci, nous apprîmes bien vite que les règles avaient évoluées concernant la primauté elfique car <strong class="text-strong">Radagast </strong>nous reçut rapidement notre fraternité à ce sujet.<br>
+<br>
+Fidèle à lui-même, le sage nous retrouva à la lisière de la vaste forêt et accompagné d’une myriade d’animaux hétéroclites. Toujours à moitié perdu dans ses pensées, il nous annonça son invitation à cette chasse. Mais les traits marqués du mage nous troublèrent tout autant que ses dires lorsqu’il nous avoua ses inquiétudes relatives aux sombres troubles plus au sud et qui précipitèrent la visite de <strong class="text-strong">Gandalf </strong>voilà peu. Ses préoccupations l’interdisaient malheureusement de répondre favorablement à l’invitation du roi <strong class="text-strong">Thranduil </strong>mais il souhaitait s’y faire représenter et nous confia cette honorable tâche que nous accueillîmes de bon cœur. Cependant <strong class="text-strong">Radagast </strong>nous sollicita aussi sur deux points d’importance à ses yeux : pourquoi cette chasse maintenant et qu’en est-il de la résurgence de l’Ombre au nord de la Forêt Noire ? Pour finir, il nous glissa de contacter une dénommée <strong class="text-strong">Ruthiel </strong>dès notre arrivée au palais et nous confia un laisser-passer et des lettres cachetées à l’attention de quelques personnalités elfiques dont <strong class="text-strong">Ruthiel</strong>.<br>
+<br>
+Nous partîmes au début de l’été quelques jours avant le début de la grande chasse. Nous remontâmes plein nord la vallée de l’Anduin. Nous croisâmes peu d’âmes si ce n’est au loin des hommes du voyage et leurs grandes roulottes mais nous préférâmes finalement les éviter. Ces descendants des hommes de l’est, qui étaient dévoués à l’Ombre, sont reconnus pour leurs us étranges. Finalement nous fîmes halte à l’Auberge de l’Est où <strong class="text-strong">Myrha </strong>revit les siens. Nous y fîmes bombance comme à chaque fois avec ces merveilleux amicales petites gens. Mais toutes bonnes choses ont une fin et nous repartîmes au nord-est vers la Porte de la Forêt ouvrant sur le sentier des elfes. Nous l’atteignîmes sans peine après une journée de voyage. Elle est flanquée de deux grands arbres feuillus dont les branches s’entremêlent et s’entrecroisent tel le linteau d’une porte. Arrivés devant son seuil, nous fîmes halte. Puis <strong class="text-strong">Beleg</strong>, d’une voix cristalline, déclama un court chant elfique. C’est médusé que nous vîmes sortir des bois un elfe armé d’un arc. Gardien en poste de la porte, il était vêtu d’une armure d’écaille qui se confondait avec les couleurs aux nuances verdâtres et brunes de la forêt. Ce dernier s’approcha de <strong class="text-strong">Beleg </strong>qui, après un salut, lui présenta notre laisser-passer. Il consigna sur un carnet notre passage puis disparu dans les bois aussi vite qu’il en était sorti. Nous empruntâmes alors la route.</div>
+ <br>
+<div align="center"><img src="https://i.ibb.co/MSz4Hpb/Elfe-Mirkwood.jpg" class="postimage" alt="Image"><br>
+<span style="font-size:85%;line-height:116%"><em class="text-italics">Elfe gardien de la porte de Mirkwood</em></span></div>
+ <br>
+<div align="justify">Le voyage fut peu agréable comme à chaque fois qu’il nous fallut pénétrer dans cette forêt. Racines piégeuses, branches basses et crochues, noirceur des lieux entamèrent notre morale les jours qui suivirent jusqu’à ce qu’enfin nous arrivâmes au pont de pierre. Ce magnifique pont marque la porte d’entrée du palais de <strong class="text-strong">Thranduil</strong>. Ici l’ambiance contrastait grandement avec l’austérité des bois parcourus plus avant. Une grande agitation régnait au-delà du pont, banderoles et fanions colorés claquaient au vent, des chants accompagnés d’une douce mélopée de flûtes et d’harpes enchantaient les lieux. Un remue-ménage animait la grande porte du palais par laquelle des voyageurs comme des porteurs de caisses et de sacs transitaient dans un jovial chaos. Aux traits de surprise sur le visage de de mon ami <strong class="text-strong">Beleg</strong>, pourtant si impassible, je compris immédiatement le caractère extraordinaire de l’événement à venir. Nous nous fîmes un chemin dans ce méli-mélo et suivîmes tous <strong class="text-strong">Beleg </strong>pour trouver au plus vite <strong class="text-strong">Ruthiel</strong>. La chasse débutait dans trois jours.  </div>
+ <br>
+<div align="center"><img src="https://i.ibb.co/dkH8Kdc/Palais-Thranduill2.jpg" class="postimage" alt="Image"></div>
+<div align="center"><span style="font-size:85%;line-height:116%"><em class="text-italics">Porte d'entrée du palais de Thranduil</em></span></div>
+ <br>
+<div align="left"><a href="https://www.casusno.fr/viewtopic.php?p=1903547#p1903547" class="postlink"><span style="font-size:85%;line-height:116%"><em class="text-italics">à suivre...</em></span></a></div>
+</div></blockquote></div>
+
+			
+			
+													<div class="notice">
+					Dernière modification par <a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a> le mar. sept. 08, 2020 2:10 pm, modifié 6 fois.
+									</div>
+			
+						
+							<div id="sig1903509" class="signature"><em class="text-italics"><strong class="text-strong">Dieu infatigable des archivistes fictionnels</strong></em><br>
+<br>
+<em class="text-italics">SUR1DPERCHE - Rôle &amp; Plume</em><br>
+- <a href="https://www.casusno.fr/viewtopic.php?p=2083085#p2083085" class="postlink"><em class="text-italics">KOBAGRUMTOR</em></a>, <em class="text-italics"><span style="font-size:85%;line-height:116%">mon JdR tribute, mon éternnel tonneau des Danaïdes</span></em><br>
+<span style="font-size:100%;line-height:116%">- </span><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=31420" class="postlink">Le vent se lève</a><span style="font-size:85%;line-height:116%"> puis </span><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=34913" class="postlink">Les 5 supplices</a><span style="font-size:85%;line-height:116%">, du </span></em><span style="font-size:85%;line-height:116%"><em class="text-italics">Steampulp sous ItO</em></span><br>
+- <a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">A</a><em class="text-italics"><a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">igre-Feuille, un Dúnadan en Rhovanion</a><span style="font-size:85%;line-height:116%">, du Tolkien sous AiME  </span></em><strong class="text-strong">D</strong><strong class="text-strong">nadan</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903547" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903547">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6364_1623830382.jpg.pagespeed.ic.Ga-SeVhyCR.jpg" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 2226</dd>		<dd class="profile-joined"><strong>Inscription :</strong> ven. avr. 03, 2015 8:57 am</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Mars</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903547">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903547&amp;sid=976723f869653de6ff077965f56687e4#p1903547">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903547&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903547&amp;sid=976723f869653de6ff077965f56687e4#p1903547" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a></strong> &raquo; </span><time datetime="2020-03-11T15:58:35+00:00">mer. mars 11, 2020 4:58 pm</time>
+			</p>
+			
+			
+			
+			<div class="content"><blockquote class="uncited"><div>
+<div align="justify"><strong class="text-strong">Ruthiel </strong>n’était plus au palais mais avait d’ores et déjà rejoint la grande clairière, lieu du banquet d’ouverture de la chasse. D’ailleurs, l’interminable colonne de badauds et autres marchands partant du palais s’éloignait en direction de celle-ci à travers les arbres touffus de la forêt. Nous usâmes du même chemin que tous ses gens pour nous y rendre. Ici, la forêt était plus ouverte et accueillante, le soleil perçait sa canopée de ses rayons offrant de magnifiques jeux de lumière aux yeux des marcheurs. Nous suivîmes durant deux jours la cohorte des elfes qui nous emporta à sa suite. La marche fut un lent plaisir et emplie de sérénité. <strong class="text-strong">Vannedil</strong>, dont l’appétit de connaissance est insatiable, lia connaissance avec un haut elfe et s’essaya même sans être ridicule à un concours de tir à l’arc. Bon grain, nous arrivâmes à la clairière.<br>
+<br>
+Encaissée dans une légère cuvette, large de plus d’un kilomètre de diamètre, celle-ci était recouverte de millier de fleurs de toutes les couleurs. Sa vue fut enchanteresse, les oiseaux virevoltaient gaiement de toute part, les insectes bourdonnaient et stridulaient aux oreilles. La clairière bouillonnait de vie sous un doux soleil lorsque nous l’atteignîmes. En son centre, nous pûmes aisément distinguer un bosquet de chênes ancestraux concentriques. Tout autour, reparties çà et là et entourées de nombreux fanions, des tentes aux teintes harmonieuses accueillaient les visiteurs du lieu. Parmi celles-ci, nous aperçûmes certaines qui n’étaient pas elfiques. Disposés à l’écart, des hommes de Dale et d’Esgaroth à n’en point douter à la vue de leurs tenues préparaient leurs affaires de chasse. A notre arrivée, nous fûmes accompagnés vers un groupement de tentes montées en l’honneur de la visite de l’Istar. Etant ses représentants officiels, nous pûmes profiter de ces abris sobres mais confortables et élégants.</div>
+ <br>
+<div align="center"><img src="https://i.ibb.co/82VfBqY/p350-Ruthiel.jpg" class="postimage" alt="Image"></div>
+ <br>
+<div align="justify">Alors que nous prenions possession des tentes, <strong class="text-strong">Ruthiel </strong>nous rendit visite. Magnifique femme elfe, elle se présenta comme la gardienne des terres et des chemins de sa seigneurie. Munie d’un arc admirable qui me laissa pantois et vêtue d’une élégante tenue de chasse, elle nous souhaita la bienvenue. Après lecture du pli que <strong class="text-strong">Radagast </strong>avait écrit à son attention, elle nous autorisa à la chasse et nous invita à festoyer le soir même au sein du grand bosquet de chênes en présence du roi. Un très grand honneur nous était fait.</div>
+ <br>
+<div align="center"><img src="https://i.ibb.co/HBd9pDp/p350-Thranduil.jpg" class="postimage" alt="Image"></div>
+ <br>
+<div align="justify">Lorsque l’aube se leva le lendemain, nous étions encore hébétés par notre veillée et la vision du roi. <strong class="text-strong">Thranduil </strong>s’était présenté dans une sublime tenue scintillante couronné d’une couronne de fleurs. Il avait festoyé avec sa cour alors que nous avions pris soin de rester discret pour ne pas faire d’impairs inappropriés en une telle compagnie. Nous nous préparâmes puis le roi vint. Il montait un coursier majestueux. Du haut de sa selle, il harangua la foule qui s’était amassée autour de lui. Il lui souhaita bonne chance pour sa quête du cerf blanc et clama haut et fort qu’un jour prochain les elfes rendront la grandeur à cette forêt, celle du temps où on la nommait « vertbois ». Un cavalier à ses côtés sonna du cor. Le roi cabra sa monture et au grand galop, l’arc à la main, sa cour chevauchant derrière lui, il s’engouffra dans la forêt. Il fût temps pour nous de le suivre.</div>
+<br>
+<a href="https://www.casusno.fr/viewtopic.php?p=1903937#p1903937" class="postlink"><span style="font-size:85%;line-height:116%"><em class="text-italics">à suivre...</em></span></a><br>
+</div></blockquote></div>
+
+			
+			
+													<div class="notice">
+					Dernière modification par <a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a> le mar. mai 26, 2020 10:12 am, modifié 4 fois.
+									</div>
+			
+						
+							<div id="sig1903547" class="signature"><em class="text-italics"><strong class="text-strong">Dieu infatigable des archivistes fictionnels</strong></em><br>
+<br>
+<em class="text-italics">SUR1DPERCHE - Rôle &amp; Plume</em><br>
+- <a href="https://www.casusno.fr/viewtopic.php?p=2083085#p2083085" class="postlink"><em class="text-italics">KOBAGRUMTOR</em></a>, <em class="text-italics"><span style="font-size:85%;line-height:116%">mon JdR tribute, mon éternnel tonneau des Danaïdes</span></em><br>
+<span style="font-size:100%;line-height:116%">- </span><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=31420" class="postlink">Le vent se lève</a><span style="font-size:85%;line-height:116%"> puis </span><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=34913" class="postlink">Les 5 supplices</a><span style="font-size:85%;line-height:116%">, du </span></em><span style="font-size:85%;line-height:116%"><em class="text-italics">Steampulp sous ItO</em></span><br>
+- <a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">A</a><em class="text-italics"><a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">igre-Feuille, un Dúnadan en Rhovanion</a><span style="font-size:85%;line-height:116%">, du Tolkien sous AiME  </span></em><strong class="text-strong">D</strong><strong class="text-strong">nadan</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903551" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903551">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=8737_1589721388.png.pagespeed.ic.64uHs5krxa.png" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="username">AsgardOdin</a>							</dt>
+
+						<dd class="profile-rank">Transcendé</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 717</dd>		<dd class="profile-joined"><strong>Inscription :</strong> sam. janv. 12, 2019 3:32 pm</dd>		
+		
+						
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903551">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903551&amp;sid=976723f869653de6ff077965f56687e4#p1903551">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903551&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903551&amp;sid=976723f869653de6ff077965f56687e4#p1903551" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="username">AsgardOdin</a></strong> &raquo; </span><time datetime="2020-03-11T16:14:43+00:00">mer. mars 11, 2020 5:14 pm</time>
+			</p>
+			
+			
+			
+			<div class="content">Et elle est où l'illustration de Ruthiel hein ? (Quand on en est à questionner ce genre de détails, c'est là qu'on voit la super qualité de ces CRs toujours aussi enchanteurs !)</div>
+
+			
+			
+									
+						
+							<div id="sig1903551" class="signature">--<br>
+Récemment bombardé Responsable éditorial du <a href="https://nonobstant.cafe" class="postlink">Nonobstant Café</a> !<br>
+Douglas MacArthur : "Les années rident la peau ; renoncer à son idéal ride l’âme."<br>
+Le Bocal, le serveur JDR où sont enregistrés les podcasts : <a href="https://discord.gg/eQBaNaPHMd" class="postlink">https://discord.gg/eQBaNaPHMd</a></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903556" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903556">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6364_1623830382.jpg.pagespeed.ic.Ga-SeVhyCR.jpg" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 2226</dd>		<dd class="profile-joined"><strong>Inscription :</strong> ven. avr. 03, 2015 8:57 am</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Mars</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903556">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903556&amp;sid=976723f869653de6ff077965f56687e4#p1903556">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903556&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903556&amp;sid=976723f869653de6ff077965f56687e4#p1903556" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a></strong> &raquo; </span><time datetime="2020-03-11T16:30:18+00:00">mer. mars 11, 2020 5:30 pm</time>
+			</p>
+			
+			
+			
+			<div class="content"><blockquote cite="./viewtopic.php?p=1903551&amp;sid=976723f869653de6ff077965f56687e4#p1903551"><div><cite><a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4">AsgardOdin</a> a écrit : <a href="./viewtopic.php?p=1903551&amp;sid=976723f869653de6ff077965f56687e4#p1903551" data-post-id="1903551" onclick="if(document.getElementById(hash.substr(1)))href=hash">↑</a><span class="responsive-hide">mer. mars 11, 2020 5:14 pm</span></cite>
+Et elle est où l'illustration de Ruthiel hein ?<br>
+</div></blockquote>
+<br>
+J'attends que mon MJ adoré me l'envoie  <img class="smilies" src="./images/smilies/icon_mrgreen.gif" width="15" height="15" alt=":mrgreen:" title="Docteur Green"> mais je constate que mes lecteurs les plus assidus est très attentif  <img class="smilies" src="./images/smilies/bier_gif.gif" width="20" height="15" alt=":bierre:" title="santé"> et cela me flatte.<br>
+Merci <span class="mention">@AsgardOdin</span>. Je mettrai le CR à jour dès que je la reçois.<br>
+<br>
+EDIT : Fait  <img class="smilies" src="./images/smilies/icon_cool.gif" width="20" height="20" alt="8)" title="Cool"></div>
+
+			
+			
+									
+						
+							<div id="sig1903556" class="signature"><em class="text-italics"><strong class="text-strong">Dieu infatigable des archivistes fictionnels</strong></em><br>
+<br>
+<em class="text-italics">SUR1DPERCHE - Rôle &amp; Plume</em><br>
+- <a href="https://www.casusno.fr/viewtopic.php?p=2083085#p2083085" class="postlink"><em class="text-italics">KOBAGRUMTOR</em></a>, <em class="text-italics"><span style="font-size:85%;line-height:116%">mon JdR tribute, mon éternnel tonneau des Danaïdes</span></em><br>
+<span style="font-size:100%;line-height:116%">- </span><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=31420" class="postlink">Le vent se lève</a><span style="font-size:85%;line-height:116%"> puis </span><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=34913" class="postlink">Les 5 supplices</a><span style="font-size:85%;line-height:116%">, du </span></em><span style="font-size:85%;line-height:116%"><em class="text-italics">Steampulp sous ItO</em></span><br>
+- <a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">A</a><em class="text-italics"><a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">igre-Feuille, un Dúnadan en Rhovanion</a><span style="font-size:85%;line-height:116%">, du Tolkien sous AiME  </span></em><strong class="text-strong">D</strong><strong class="text-strong">nadan</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903937" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903937">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6364_1623830382.jpg.pagespeed.ic.Ga-SeVhyCR.jpg" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 2226</dd>		<dd class="profile-joined"><strong>Inscription :</strong> ven. avr. 03, 2015 8:57 am</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Mars</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903937">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903937&amp;sid=976723f869653de6ff077965f56687e4#p1903937">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903937&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903937&amp;sid=976723f869653de6ff077965f56687e4#p1903937" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a></strong> &raquo; </span><time datetime="2020-03-12T16:02:39+00:00">jeu. mars 12, 2020 5:02 pm</time>
+			</p>
+			
+			
+			
+			<div class="content"><blockquote class="uncited"><div>
+ <br>
+<div align="justify">Dans la vaste clairière, un grand nombre de chasseurs se subdivisa en plusieurs petits groupes avant de se disperser dans les bois environnant. Nous ne fîmes pas exception et notre fraternité s’y engouffra en suivant le nord-ouest autant qu’elle puisse. Ces bois sont immenses et très vite nous nous retrouvâmes isolés. Après deux bonnes journées de marche, nous arrivâmes sur un ru qui s’écoulait au milieu des arbres. Nous le suivîmes pour faciliter notre progression mais surtout pour être tombé sur les traces de cervidés profondément enfoncées dans la terre boueuse. Je remarquai sans peine que l’animal devait être seul donc un mâle assurément et de grande taille qui plus est. Peut-être étions nous tout simplement chanceux dans notre chasse ? Nous suivîmes cette piste de jours en jours encouragés par plusieurs indices successifs trouvés le long du cours d’eau tels une touffe de crin blanc accroché à une branche basse, des plantes couchées par la bête ensommeillée ou encore d’autres empreintes. A l’évidence, nous approchions de notre cerf blanc mais peu à peu la forêt se densifia et contraignit nos mouvements. Nous prîmes la décision de nous séparer à la nuit tombée car nous perdions du terrain sur l’animal. <strong class="text-strong">Beleg </strong>profitant d’un sommeil écourté et d’une vision nocturne pourrait poursuivre plus avant cette traque dans l’obscurité. <strong class="text-strong">Myrha </strong>l’accompagna. Agile et leste mais aussi peu gênée dans le noir, la jeune hobbit était une éclaireuse compétente comme elle nous l’avait démontré lors de nos précédents voyages. De plus, forte d’une mixture de plantes dont <strong class="text-strong">Beleg </strong>avait le secret et qu’elle ingurgita, son besoin de sommeil fut également réduit de quelques heures. Tous deux nous quittèrent donc à la nuit, sachant que nous devions les rejoindrons avec <strong class="text-strong">Vannedil </strong>dès l’aube en suivant plus rapidement leur piste qu’ils constelleraient de traces.<br>
+<br>
+Le lendemain, une fois nos deux amis rejoints, nous dûmes constater l’échec de cette entreprise, le cerf avait été plus malin. Pire, nous nous étions égaré trop à l’ouest car nous entendîmes au loin le bruit d’une rivière tumultueuse, celle délimitant le territoire elfique. C’est alors que nous entendîmes des cris provenant de cette direction. Ni une, ni deux, nous y précipitâmes les armes au clair songeant à des chasseurs en difficulté. Dans ma course, pour m’en assurer et tenter d’apercevoir les malheureux, je grimpai sur un large rocher proéminent qui se présenta devant moi et me figea. Devant moi, à une dizaine de pas, de gigantesques toiles d’araignées envahissaient les arbres de leurs racines jusqu’à leurs cimes. Courir plus avant et j’eus été pris au piège. Scrutant promptement le périmètre, j’aperçus un mouvement presque imperceptible dans la frondaison des arbres qui me faisait face. Une immonde créature de l’Ombre se cachait là. Mon sang ne fit qu’un tour. J’empoigna l’empennage d’une de mes flèches de mon carquois et décocha un trait sur l’immondice. Au bruit spongieux de l’impact, je fis mouche. Mon geste alerta mes amis. Alors que je libérai une deuxième flèche, <strong class="text-strong">Beleg </strong>m’avait rejoint sur mon promontoire son arc à la main. Sur ma gauche, <strong class="text-strong">Vannedil </strong>se mit en garde au moment même où <strong class="text-strong">Myrha </strong>disparut dans les hauts taillis proche d’une vieille souche.</div>
+ <br>
+<div align="center"><img src="https://i.ibb.co/6vcfwd4/Araignees.jpg" class="postimage" alt="Image"></div>
+ <br>
+<div align="justify">J’entendis distinctement derrière moi <strong class="text-strong">Beleg </strong>lâcher la corde de son arc car sur ma droite une autre créature avait glissé des arbres pour se poser au pied de notre rocher. J’eu à peine le temps d’apercevoir une autre congénère s’avancer avec une grande rapidité vers <strong class="text-strong">Vannedil</strong>. Ce dernier cria lorsqu’il ne put dévier une première morsure. Mais je dus me concentrer sur une menace plus immédiate car la bête blessée s’élançait vers moi. J’abandonnas mon arc et tira ma lame. Derrière moi, <strong class="text-strong">Beleg </strong>clamait des vers elfiques et chacune de ses flèches destructrices s’illuminaient d’une lueur bleutée faisant reculer son assaillante. A ma gauche, j’aperçus <strong class="text-strong">Vannedil </strong>fléchir et implorer l’aide des elfes gardiens au moment même où <strong class="text-strong">Myrha </strong>plongea sous l’immense araignée pour lui transpercer l’abdomen de son épée. Mes yeux se détournèrent et j’esquivais une attaque de mon “agresseuse” en lui délivrant un violent coup de botte dans son immonde gueule. Sur la reculade, elle plia et céda du terrain. Je mis alors ma position dominante à profit pour la frapper d’estoc et de taille. La bête velue s’effondra. Je criai en me tournant sur ma gauche « <em class="text-italics"><strong class="text-strong">Beleg</strong>, aide <strong class="text-strong">Vannedil </strong>!</em> » pour faire face à la seconde créature. <strong class="text-strong">Beleg </strong>était affairé et se dépatouillait d’une toile qui entravait ses mouvements. Mais rapidement et avec agilité, sa dague déchira celle-ci et il fila porter secours à notre ami en décochant ses traits ravageurs. J’entendais dans mon dos <strong class="text-strong">Vannedil </strong>encourager <strong class="text-strong">Myrha </strong>dans la lutte. Prestement, je mis fin à mon duel achevant la créature au bas de mon rocher et lorsque je me tournai je compris que la hobbit avait fait merveille. Telle une guêpe, elle avait piqué et lardé ses deux ennemies car une quatrième araignée nous avait attaqué. Aidé du flot de flèches de <strong class="text-strong">Beleg</strong>, tous trois les avait terrassés. Un calme étrange figea la zone de combat. Nous haletions désormais. <strong class="text-strong">Beleg </strong>et <strong class="text-strong">Myrha </strong>avaient été mordus et tous deux burent un antipoison concocté par l’elfe. Une fois notre souffle repris, nous scrutâmes les lieux et trouvèrent des cocons fraîchement ficelés. Ils emprisonnaient tous des victimes, des guerriers elfiques, des hommes de <strong class="text-strong">Ruthiel</strong>. Certains dans un état de succions avancé, ce qui nous souleva le cœur. Maudite engeance de l’Ombre. Alors que <strong class="text-strong">Beleg </strong>s’occupait des morts pour leur offrir un digne repos éternel, nous trouvâmes une piste ensanglantée filant plus au nord. Un survivant ? Nous suivîmes prestement cette triste trace une fois l’homélie de <strong class="text-strong">Beleg </strong>finie. Tout en filant, je songeai que cette rencontre avec des araignées monstrueuses en territoire elfique n’était pas un bon signe. Il nous faudra en témoigner auprès de <strong class="text-strong">Radagast</strong>.<br>
+<br>
+<span style="font-size:85%;line-height:116%"><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?p=1907362#p1907362" class="postlink">à suivre...</a><br>
+Fin de notre 4ème session </em></span></div>
+</div></blockquote></div>
+
+			
+			
+													<div class="notice">
+					Dernière modification par <a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a> le mar. mai 26, 2020 10:12 am, modifié 2 fois.
+									</div>
+			
+						
+							<div id="sig1903937" class="signature"><em class="text-italics"><strong class="text-strong">Dieu infatigable des archivistes fictionnels</strong></em><br>
+<br>
+<em class="text-italics">SUR1DPERCHE - Rôle &amp; Plume</em><br>
+- <a href="https://www.casusno.fr/viewtopic.php?p=2083085#p2083085" class="postlink"><em class="text-italics">KOBAGRUMTOR</em></a>, <em class="text-italics"><span style="font-size:85%;line-height:116%">mon JdR tribute, mon éternnel tonneau des Danaïdes</span></em><br>
+<span style="font-size:100%;line-height:116%">- </span><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=31420" class="postlink">Le vent se lève</a><span style="font-size:85%;line-height:116%"> puis </span><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=34913" class="postlink">Les 5 supplices</a><span style="font-size:85%;line-height:116%">, du </span></em><span style="font-size:85%;line-height:116%"><em class="text-italics">Steampulp sous ItO</em></span><br>
+- <a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">A</a><em class="text-italics"><a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">igre-Feuille, un Dúnadan en Rhovanion</a><span style="font-size:85%;line-height:116%">, du Tolkien sous AiME  </span></em><strong class="text-strong">D</strong><strong class="text-strong">nadan</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903940" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903940">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=8737_1589721388.png.pagespeed.ic.64uHs5krxa.png" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="username">AsgardOdin</a>							</dt>
+
+						<dd class="profile-rank">Transcendé</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 717</dd>		<dd class="profile-joined"><strong>Inscription :</strong> sam. janv. 12, 2019 3:32 pm</dd>		
+		
+						
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903940">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903940&amp;sid=976723f869653de6ff077965f56687e4#p1903940">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903940&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903940&amp;sid=976723f869653de6ff077965f56687e4#p1903940" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="username">AsgardOdin</a></strong> &raquo; </span><time datetime="2020-03-12T16:07:21+00:00">jeu. mars 12, 2020 5:07 pm</time>
+			</p>
+			
+			
+			
+			<div class="content">Le stress et l'angoisse sont palpables.. Comment sont vos personnages ? En mauvais état ? Ou pire que cela ?</div>
+
+			
+			
+									
+						
+							<div id="sig1903940" class="signature">--<br>
+Récemment bombardé Responsable éditorial du <a href="https://nonobstant.cafe" class="postlink">Nonobstant Café</a> !<br>
+Douglas MacArthur : "Les années rident la peau ; renoncer à son idéal ride l’âme."<br>
+Le Bocal, le serveur JDR où sont enregistrés les podcasts : <a href="https://discord.gg/eQBaNaPHMd" class="postlink">https://discord.gg/eQBaNaPHMd</a></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903957" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903957">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6364_1623830382.jpg.pagespeed.ic.Ga-SeVhyCR.jpg" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 2226</dd>		<dd class="profile-joined"><strong>Inscription :</strong> ven. avr. 03, 2015 8:57 am</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Mars</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903957">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903957&amp;sid=976723f869653de6ff077965f56687e4#p1903957">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903957&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903957&amp;sid=976723f869653de6ff077965f56687e4#p1903957" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a></strong> &raquo; </span><time datetime="2020-03-12T16:40:23+00:00">jeu. mars 12, 2020 5:40 pm</time>
+			</p>
+			
+			
+			
+			<div class="content"><span class="mention">@AsgardOdin</span>  Pour ma part je m'en sors bien car les créatures m'ont manqué. Il n'est pas de même pour mes alliés, Beleg et Myrha ont été empoisonnés tous les deux mais aussi entravé pour Beleg. Par chance, on avait bien entamé la première araignée grâce à nos flèches ce qui m'a permis de m'en débarrasser assez vite pour me concentrer sur le deuxième à mes pieds. Myrha est une vraie tuerie. L'association Hobbit/Voleur est terrible d'efficacité. Elle entre dans la zone de contact avec sa petite taille et massacre son ennemi avec ses attaques par surprise. A tel point que mon MJ pense le perso cheaté et, avant de débuter cette aventure, a contraint la joueuse en limitant quelque peu cette combo. Celui qui a le plus souffert c'est Vannedil car son personnage n'est clairement pas un combattant mais il a su encourager ses amis (il procure +1d8 à un jet) qui s'est avéré très utile à la hobbit. Il fut sur le reculoir pdt le combat mais cette tactique a permis à Myrha de déployer toute sa puissance. Personnellement, je trouve que l'on s'en sort pas trop mal de ce premier combat surtout du fait que Vannedil ait réussi ses jets contre le poison.</div>
+
+			
+			
+									
+						
+							<div id="sig1903957" class="signature"><em class="text-italics"><strong class="text-strong">Dieu infatigable des archivistes fictionnels</strong></em><br>
+<br>
+<em class="text-italics">SUR1DPERCHE - Rôle &amp; Plume</em><br>
+- <a href="https://www.casusno.fr/viewtopic.php?p=2083085#p2083085" class="postlink"><em class="text-italics">KOBAGRUMTOR</em></a>, <em class="text-italics"><span style="font-size:85%;line-height:116%">mon JdR tribute, mon éternnel tonneau des Danaïdes</span></em><br>
+<span style="font-size:100%;line-height:116%">- </span><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=31420" class="postlink">Le vent se lève</a><span style="font-size:85%;line-height:116%"> puis </span><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=34913" class="postlink">Les 5 supplices</a><span style="font-size:85%;line-height:116%">, du </span></em><span style="font-size:85%;line-height:116%"><em class="text-italics">Steampulp sous ItO</em></span><br>
+- <a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">A</a><em class="text-italics"><a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">igre-Feuille, un Dúnadan en Rhovanion</a><span style="font-size:85%;line-height:116%">, du Tolkien sous AiME  </span></em><strong class="text-strong">D</strong><strong class="text-strong">nadan</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1903963" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1903963">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=8737_1589721388.png.pagespeed.ic.64uHs5krxa.png" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="username">AsgardOdin</a>							</dt>
+
+						<dd class="profile-rank">Transcendé</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 717</dd>		<dd class="profile-joined"><strong>Inscription :</strong> sam. janv. 12, 2019 3:32 pm</dd>		
+		
+						
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1903963">
+
+					<h3>
+						<a href="./viewtopic.php?p=1903963&amp;sid=976723f869653de6ff077965f56687e4#p1903963">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1903963&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1903963&amp;sid=976723f869653de6ff077965f56687e4#p1903963" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=8737&amp;sid=976723f869653de6ff077965f56687e4" class="username">AsgardOdin</a></strong> &raquo; </span><time datetime="2020-03-12T17:04:27+00:00">jeu. mars 12, 2020 6:04 pm</time>
+			</p>
+			
+			
+			
+			<div class="content">Trop facile..  <img class="smilies" src="./images/smilies/battle_RobinHood.gif" width="80" height="23" alt=":arc" title="Robin des Bois !"></div>
+
+			
+			
+									
+						
+							<div id="sig1903963" class="signature">--<br>
+Récemment bombardé Responsable éditorial du <a href="https://nonobstant.cafe" class="postlink">Nonobstant Café</a> !<br>
+Douglas MacArthur : "Les années rident la peau ; renoncer à son idéal ride l’âme."<br>
+Le Bocal, le serveur JDR où sont enregistrés les podcasts : <a href="https://discord.gg/eQBaNaPHMd" class="postlink">https://discord.gg/eQBaNaPHMd</a></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1904130" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1904130">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6908&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6908_1556370922.jpg.pagespeed.ic.h5KJkx1vf_.jpg" width="200" height="97" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6908&amp;sid=976723f869653de6ff077965f56687e4" class="username">Herlkin</a>							</dt>
+
+						<dd class="profile-rank">Evêque</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 473</dd>		<dd class="profile-joined"><strong>Inscription :</strong> mer. avr. 27, 2016 3:17 pm</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Paris</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1904130">
+
+					<h3>
+						<a href="./viewtopic.php?p=1904130&amp;sid=976723f869653de6ff077965f56687e4#p1904130">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1904130&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1904130&amp;sid=976723f869653de6ff077965f56687e4#p1904130" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6908&amp;sid=976723f869653de6ff077965f56687e4" class="username">Herlkin</a></strong> &raquo; </span><time datetime="2020-03-13T09:01:07+00:00">ven. mars 13, 2020 10:01 am</time>
+			</p>
+			
+			
+			
+			<div class="content">...avec les règles de l'Anneau Unique, le Hobbit n'est clairement pas un combattant aussi efficace. Mais les araignées, potentiellement tout aussi dangereuses.</div>
+
+			
+			
+									
+						
+							<div id="sig1904130" class="signature"><em class="text-italics">"Lorsque vous avez éliminé l’impossible, ce qui reste, si improbable soit-il, est nécessairement la vérité."</em><br>
+<strong class="text-strong">Sherlock Holmes</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1904235" class="post has-profile bg1">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1904235">
+			<dt class="has-profile-rank no-avatar">
+				<div class="avatar-container">
+																			</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=5972&amp;sid=976723f869653de6ff077965f56687e4" class="username">Ravortel</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 4938</dd>		<dd class="profile-joined"><strong>Inscription :</strong> lun. juin 02, 2014 5:52 pm</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Pas là.</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1904235">
+
+					<h3>
+						<a href="./viewtopic.php?p=1904235&amp;sid=976723f869653de6ff077965f56687e4#p1904235">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1904235&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1904235&amp;sid=976723f869653de6ff077965f56687e4#p1904235" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=5972&amp;sid=976723f869653de6ff077965f56687e4" class="username">Ravortel</a></strong> &raquo; </span><time datetime="2020-03-13T15:08:42+00:00">ven. mars 13, 2020 4:08 pm</time>
+			</p>
+			
+			
+			
+			<div class="content">Oui, c’est la réflexion que je me faisais. Surtout quand il en a beaucoup.</div>
+
+			
+			
+									
+						
+							<div id="sig1904235" class="signature"><strong class="text-strong">Dieu du Vrai, Ultime et Tant Envié Foie Gras Véritable</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+				<div id="p1904642" class="post has-profile bg2">
+		<div class="inner">
+
+		<dl class="postprofile" id="profile1904642">
+			<dt class="has-profile-rank has-avatar">
+				<div class="avatar-container">
+																<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="avatar"><img class="avatar" src="download/xfile.php,qavatar=6364_1623830382.jpg.pagespeed.ic.Ga-SeVhyCR.jpg" width="200" height="200" alt="Avatar de l’utilisateur"/></a>														</div>
+								<a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a>							</dt>
+
+						<dd class="profile-rank">Dieu d'après le panthéon</dd>			
+		<dd class="profile-posts"><strong>Messages :</strong> 2226</dd>		<dd class="profile-joined"><strong>Inscription :</strong> ven. avr. 03, 2015 8:57 am</dd>		
+		
+											<dd class="profile-custom-field profile-phpbb_location"><strong>Localisation :</strong> Mars</dd>
+							
+						
+		</dl>
+
+		<div class="postbody">
+						<div id="post_content1904642">
+
+					<h3>
+						<a href="./viewtopic.php?p=1904642&amp;sid=976723f869653de6ff077965f56687e4#p1904642">Re: [CR][AiME] Aventures d'un dúnedan en Terres Sauvages</a>
+		</h3>
+
+													<ul class="post-buttons">
+																																									<li>
+							<a href="./posting.php?mode=quote&amp;p=1904642&amp;sid=976723f869653de6ff077965f56687e4" title="Répondre en citant le message" class="button button-icon-only">
+								<i class="icon fa-quote-left fa-fw" aria-hidden="true"></i><span class="sr-only">Citer</span>
+							</a>
+						</li>
+														</ul>
+							
+						<p class="author">
+									<a class="unread" href="./viewtopic.php?p=1904642&amp;sid=976723f869653de6ff077965f56687e4#p1904642" title="Message">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Message</span>
+					</a>
+								<span class="responsive-hide">par <strong><a href="./memberlist.php?mode=viewprofile&amp;u=6364&amp;sid=976723f869653de6ff077965f56687e4" class="username">Carfax</a></strong> &raquo; </span><time datetime="2020-03-15T12:45:39+00:00">dim. mars 15, 2020 1:45 pm</time>
+			</p>
+			
+			
+			
+			<div class="content">Alors elles ne m’ont pas paru inoffensives ces araignées c’est juste qu’elles ne nous ont pas surprises - Bon jet de perception - et que nous avons joué très tactiques avec une position dominante.<br>
+<br>
+Prochaine session mardi prochain si le virus nous joue pas un mauvais tour.</div>
+
+			
+			
+									
+						
+							<div id="sig1904642" class="signature"><em class="text-italics"><strong class="text-strong">Dieu infatigable des archivistes fictionnels</strong></em><br>
+<br>
+<em class="text-italics">SUR1DPERCHE - Rôle &amp; Plume</em><br>
+- <a href="https://www.casusno.fr/viewtopic.php?p=2083085#p2083085" class="postlink"><em class="text-italics">KOBAGRUMTOR</em></a>, <em class="text-italics"><span style="font-size:85%;line-height:116%">mon JdR tribute, mon éternnel tonneau des Danaïdes</span></em><br>
+<span style="font-size:100%;line-height:116%">- </span><em class="text-italics"><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=31420" class="postlink">Le vent se lève</a><span style="font-size:85%;line-height:116%"> puis </span><a href="https://www.casusno.fr/viewtopic.php?f=32&amp;t=34913" class="postlink">Les 5 supplices</a><span style="font-size:85%;line-height:116%">, du </span></em><span style="font-size:85%;line-height:116%"><em class="text-italics">Steampulp sous ItO</em></span><br>
+- <a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">A</a><em class="text-italics"><a href="http://www.casusno.fr/viewtopic.php?f=32&amp;t=36814" class="postlink">igre-Feuille, un Dúnadan en Rhovanion</a><span style="font-size:85%;line-height:116%">, du Tolkien sous AiME  </span></em><strong class="text-strong">D</strong><strong class="text-strong">nadan</strong></div>			
+						</div>
+
+		</div>
+
+				<div class="back2top">
+						<a href="#top" class="top" title="Haut">
+				<i class="icon fa-chevron-circle-up fa-fw icon-gray" aria-hidden="true"></i>
+				<span class="sr-only">Haut</span>
+			</a>
+					</div>
+		
+		</div>
+	</div>
+
+	
+
+	<div class="action-bar bar-bottom">
+	
+			<a href="./posting.php?mode=reply&amp;t=36814&amp;sid=976723f869653de6ff077965f56687e4" class="button" title="Répondre">
+							<span>Répondre</span> <i class="icon fa-reply fa-fw" aria-hidden="true"></i>
+					</a>
+		
+		<div class="dropdown-container dropdown-button-control topic-tools">
+		<span title="Outils du sujet" class="button button-secondary dropdown-trigger dropdown-select">
+			<i class="icon fa-wrench fa-fw" aria-hidden="true"></i>
+			<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+		</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																												<li>
+					<a href="./viewtopic.php?t=36814&amp;start=60&amp;sid=976723f869653de6ff077965f56687e4&amp;view=print" title="Aperçu avant impression" accesskey="p">
+						<i class="icon fa-print fa-fw" aria-hidden="true"></i><span>Aperçu avant impression</span>
+					</a>
+				</li>
+											</ul>
+		</div>
+	</div>
+
+			<form method="post" action="./viewtopic.php?t=36814&amp;start=60&amp;sid=976723f869653de6ff077965f56687e4">
+		<div class="dropdown-container dropdown-container-left dropdown-button-control sort-tools">
+	<span title="Options d’affichage et de tri" class="button button-secondary dropdown-trigger dropdown-select">
+		<i class="icon fa-sort-amount-asc fa-fw" aria-hidden="true"></i>
+		<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+	</span>
+	<div class="dropdown hidden">
+		<div class="pointer"><div class="pointer-inner"></div></div>
+		<div class="dropdown-contents">
+			<fieldset class="display-options">
+							<label>Afficher : <select name="st" id="st"><option value="0" selected="selected">Tous les messages</option><option value="1">1 jour</option><option value="7">7 jours</option><option value="14">2 semaines</option><option value="30">1 mois</option><option value="90">3 mois</option><option value="180">6 mois</option><option value="365">1 an</option></select></label>
+								<label>Trier par : <select name="sk" id="sk"><option value="a">Auteur</option><option value="t" selected="selected">Date du message</option><option value="s">Sujet</option></select></label>
+				<label>Ordre : <select name="sd" id="sd"><option value="a" selected="selected">Croissant</option><option value="d">Décroissant</option></select></label>
+								<hr class="dashed"/>
+				<input type="submit" class="button2" name="sort" value="Aller"/>
+						</fieldset>
+		</div>
+	</div>
+</div>
+		</form>
+	
+	
+	
+			<div class="pagination">
+			731 messages
+							<ul>
+	<li class="dropdown-container dropdown-button-control dropdown-page-jump page-jump">
+		<a class="button button-icon-only dropdown-trigger" href="#" title="Cliquez ici afin d’atteindre une page…" role="button"><i class="icon fa-level-down fa-rotate-270" aria-hidden="true"></i><span class="sr-only">Page <strong>5</strong> sur <strong>49</strong></span></a>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+				<li>Aller sur la page :</li>
+				<li class="page-jump-form">
+					<input type="number" name="page-number" min="1" max="999999" title="Saisissez le numéro de la page que vous souhaitez atteindre" class="inputbox tiny" data-per-page="15" data-base-url=".&#x2F;viewtopic.php&#x3F;t&#x3D;36814&amp;amp&#x3B;sid&#x3D;976723f869653de6ff077965f56687e4" data-start-name="start"/>
+					<input class="button2" value="Aller" type="button"/>
+				</li>
+			</ul>
+		</div>
+	</li>
+			<li class="arrow previous"><a class="button button-icon-only" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=45" rel="prev" role="button"><i class="icon fa-chevron-left fa-fw" aria-hidden="true"></i><span class="sr-only">Précédent</span></a></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4" role="button">1</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=30" role="button">3</a></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=45" role="button">4</a></li>
+			<li class="active"><span>5</span></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=75" role="button">6</a></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=90" role="button">7</a></li>
+			<li class="ellipsis" role="separator"><span>…</span></li>
+				<li><a class="button" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=720" role="button">49</a></li>
+				<li class="arrow next"><a class="button button-icon-only" href="./viewtopic.php?t=36814&amp;sid=976723f869653de6ff077965f56687e4&amp;start=75" rel="next" role="button"><i class="icon fa-chevron-right fa-fw" aria-hidden="true"></i><span class="sr-only">Suivant</span></a></li>
+	</ul>
+					</div>
+	</div>
+
+
+<div class="action-bar actions-jump">
+		<p class="jumpbox-return">
+		<a href="./viewforum.php?f=32&amp;sid=976723f869653de6ff077965f56687e4" class="left-box arrow-left" accesskey="r">
+			<i class="icon fa-angle-left fa-fw icon-black" aria-hidden="true"></i><span>Revenir à « Retours JDR »</span>
+		</a>
+	</p>
+	
+		<div class="jumpbox dropdown-container dropdown-container-right dropdown-up dropdown-left dropdown-button-control" id="jumpbox">
+			<span title="Aller" class="button button-secondary dropdown-trigger dropdown-select">
+				<span>Aller</span>
+				<span class="caret"><i class="icon fa-sort-down fa-fw" aria-hidden="true"></i></span>
+			</span>
+		<div class="dropdown">
+			<div class="pointer"><div class="pointer-inner"></div></div>
+			<ul class="dropdown-contents">
+																				<li><a href="./viewforum.php?f=33&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-cat-link"> <span> NO</span></a></li>
+																<li><a href="./viewforum.php?f=31&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Bienvenue sur Casus NO</span></a></li>
+																<li><a href="./viewforum.php?f=34&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-cat-link"> <span> Jeux de rôle</span></a></li>
+																<li><a href="./viewforum.php?f=8&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Actualités et Médias</span></a></li>
+																<li><a href="./viewforum.php?f=24&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Discussions JDR</span></a></li>
+																<li><a href="./viewforum.php?f=26&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Création et Technique</span></a></li>
+																<li><a href="./viewforum.php?f=32&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Retours JDR</span></a></li>
+																<li><a href="./viewforum.php?f=39&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Inspi</span></a></li>
+																<li><a href="./viewforum.php?f=44&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Télé Loisir</span></a></li>
+																<li><a href="./viewforum.php?f=35&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-cat-link"> <span> Culture rôliste</span></a></li>
+																<li><a href="./viewforum.php?f=28&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Médiathèque</span></a></li>
+																<li><a href="./viewforum.php?f=18&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Jeux pas droles</span></a></li>
+																<li><a href="./viewforum.php?f=12&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Conventions, binouzes et recherche de joueurs</span></a></li>
+																<li><a href="./viewforum.php?f=42&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-cat-link"> <span> Actualités</span></a></li>
+																<li><a href="./viewforum.php?f=43&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Actualités</span></a></li>
+																<li><a href="./viewforum.php?f=36&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-cat-link"> <span> Les petites annonces</span></a></li>
+																<li><a href="./viewforum.php?f=25&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Je vends</span></a></li>
+																<li><a href="./viewforum.php?f=11&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Je recherche</span></a></li>
+																<li><a href="./viewforum.php?f=38&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-cat-link"> <span> Archives</span></a></li>
+																<li><a href="./viewforum.php?f=29&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Collector</span></a></li>
+																<li><a href="./viewforum.php?f=40&amp;sid=976723f869653de6ff077965f56687e4" class="jumpbox-sub-link"><span class="spacer"></span> <span>&#8627; &nbsp; Game Chef 2017</span></a></li>
+											</ul>
+		</div>
+	</div>
+
+	</div>
+
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="./index.php?sid=976723f869653de6ff077965f56687e4" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>www.casusno.fr</span></a></span>					</li>
+		
+				<li class="rightside">Fuseau horaire sur <span title="Europe/Paris">UTC+01:00</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies&amp;sid=976723f869653de6ff077965f56687e4" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Supprimer les cookies</span>
+				</a>
+			</li>
+														</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Développé par <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+				<p class="footer-row">
+			<span class="footer-copyright"><a href="https://www.phpbb.com/customise/db/translation/french/">Traduction française officielle</a> &copy; <a href="https://www.qiaeru.com">Qiaeru</a></span>
+		</p>
+						<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=976723f869653de6ff077965f56687e4" title="Confidentialité" role="menuitem">
+				<span class="footer-link-text">Confidentialité</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=976723f869653de6ff077965f56687e4" title="Conditions" role="menuitem">
+				<span class="footer-link-text">Conditions</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="Erreur AJAX" data-ajax-error-text="Une erreur est survenue lors du traitement de votre requête." data-ajax-error-text-abort="La requête a été interrompue par l’utilisateur." data-ajax-error-text-timeout="Votre requête a expiré prématurément. Veuillez réessayer." data-ajax-error-text-parsererror="Une erreur est survenue lors du traitement de votre requête et le serveur a renvoyé une réponse invalide.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Erreur" data-l-timeout-processing-req="Le délai a été dépassé.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="assets/javascript/jquery-3.6.0.min.js,qassets_version=169.pagespeed.ce.j7j-5PzDzI.js"></script>
+<script src="./assets/javascript/core.js?assets_version=169"></script>
+
+
+<script>(function($){'use strict';phpbb.addAjaxCallback('reporttosfs',function(data){if(data.postid!=="undefined"){$('#sfs'+data.postid).hide();phpbb.closeDarkenWrapper(5000);}});})(jQuery);</script>
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=169"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=169"></script>
+
+
+
+</body>
+</html>

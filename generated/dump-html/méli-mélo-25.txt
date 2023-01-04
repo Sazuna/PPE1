@@ -1,0 +1,1374 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr"
+lang="fr">
+<head>
+	<meta http-equiv="Content-Type"
+	content="text/html; charset=UTF-8" />
+	<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+	<link rel="section" href="/blog?Humeurs-et-opinions" title="Humeurs &amp; opinions" />
+<link rel="section" href="/blog?Musique" title="Musique" />
+<link rel="section" href="/blog?Multimedia" title="Multimedia" />
+<link rel="section" href="/blog?Cinema-dvd" title="Cinéma &amp; DVD" />
+<link rel="section" href="/blog?Theatre" title="Théâtre" />
+<link rel="section" href="/blog?Expositions" title="Expositions" />
+<link rel="section" href="/blog?Pratique" title="Pratique" />
+<link rel="section" href="/blog?Recettes-et-produits" title="Cuisine" />
+<link rel="section" href="/blog?Perso" title="Perso" />
+<link rel="section" href="/blog?Voyage" title="Voyage" />
+<link rel="section" href="/blog?Allumes-du-jazz" title="Allumés du Jazz" />
+<link rel="section" href="/blog?Roman-feuilleton" title="Roman-feuilleton" />
+<link rel="section" href="/blog?Revelations-collection" title="Révélations (coll.)" />
+<link rel="section" href="/blog?Le-son-sur-l-image" title="Le son sur l'image" />
+<link rel="section" href="/blog?Centenaire-de-jjb" title="Centenaire de JJB" />
+<link rel="section" href="/blog?Perspectives-du-xxiie-siecle" title="Perspectives du XXIIe siècle" />
+<link rel="archive" href="/blog?2023/01" title="janvier 2023" />
+<link rel="archive" href="/blog?2022/12" title="décembre 2022" />
+<link rel="archive" href="/blog?2022/11" title="novembre 2022" />
+<link rel="archive" href="/blog?2022/10" title="octobre 2022" />
+<link rel="archive" href="/blog?2022/09" title="septembre 2022" />
+<link rel="archive" href="/blog?2022/08" title="août 2022" />
+<link rel="archive" href="/blog?2022/07" title="juillet 2022" />
+<link rel="archive" href="/blog?2022/06" title="juin 2022" />
+<link rel="archive" href="/blog?2022/05" title="mai 2022" />
+<link rel="archive" href="/blog?2022/04" title="avril 2022" />
+<link rel="archive" href="/blog?2022/03" title="mars 2022" />
+<link rel="archive" href="/blog?2022/02" title="février 2022" />
+<link rel="archive" href="/blog?2022/01" title="janvier 2022" />
+<link rel="archive" href="/blog?2021/12" title="décembre 2021" />
+<link rel="archive" href="/blog?2021/11" title="novembre 2021" />
+<link rel="archive" href="/blog?2021/10" title="octobre 2021" />
+<link rel="archive" href="/blog?2021/09" title="septembre 2021" />
+<link rel="archive" href="/blog?2021/08" title="août 2021" />
+<link rel="archive" href="/blog?2021/07" title="juillet 2021" />
+<link rel="archive" href="/blog?2021/06" title="juin 2021" />
+<link rel="archive" href="/blog?2021/05" title="mai 2021" />
+<link rel="archive" href="/blog?2021/04" title="avril 2021" />
+<link rel="archive" href="/blog?2021/03" title="mars 2021" />
+<link rel="archive" href="/blog?2021/02" title="février 2021" />
+<link rel="archive" href="/blog?2021/01" title="janvier 2021" />
+<link rel="archive" href="/blog?2020/12" title="décembre 2020" />
+<link rel="archive" href="/blog?2020/11" title="novembre 2020" />
+<link rel="archive" href="/blog?2020/10" title="octobre 2020" />
+<link rel="archive" href="/blog?2020/09" title="septembre 2020" />
+<link rel="archive" href="/blog?2020/08" title="août 2020" />
+<link rel="archive" href="/blog?2020/07" title="juillet 2020" />
+<link rel="archive" href="/blog?2020/06" title="juin 2020" />
+<link rel="archive" href="/blog?2020/05" title="mai 2020" />
+<link rel="archive" href="/blog?2020/04" title="avril 2020" />
+<link rel="archive" href="/blog?2020/03" title="mars 2020" />
+<link rel="archive" href="/blog?2020/02" title="février 2020" />
+<link rel="archive" href="/blog?2020/01" title="janvier 2020" />
+<link rel="archive" href="/blog?2019/12" title="décembre 2019" />
+<link rel="archive" href="/blog?2019/11" title="novembre 2019" />
+<link rel="archive" href="/blog?2019/10" title="octobre 2019" />
+<link rel="archive" href="/blog?2019/09" title="septembre 2019" />
+<link rel="archive" href="/blog?2019/08" title="août 2019" />
+<link rel="archive" href="/blog?2019/07" title="juillet 2019" />
+<link rel="archive" href="/blog?2019/06" title="juin 2019" />
+<link rel="archive" href="/blog?2019/05" title="mai 2019" />
+<link rel="archive" href="/blog?2019/04" title="avril 2019" />
+<link rel="archive" href="/blog?2019/03" title="mars 2019" />
+<link rel="archive" href="/blog?2019/02" title="février 2019" />
+<link rel="archive" href="/blog?2019/01" title="janvier 2019" />
+<link rel="archive" href="/blog?2018/12" title="décembre 2018" />
+<link rel="archive" href="/blog?2018/11" title="novembre 2018" />
+<link rel="archive" href="/blog?2018/10" title="octobre 2018" />
+<link rel="archive" href="/blog?2018/09" title="septembre 2018" />
+<link rel="archive" href="/blog?2018/08" title="août 2018" />
+<link rel="archive" href="/blog?2018/07" title="juillet 2018" />
+<link rel="archive" href="/blog?2018/06" title="juin 2018" />
+<link rel="archive" href="/blog?2018/05" title="mai 2018" />
+<link rel="archive" href="/blog?2018/04" title="avril 2018" />
+<link rel="archive" href="/blog?2018/03" title="mars 2018" />
+<link rel="archive" href="/blog?2018/02" title="février 2018" />
+<link rel="archive" href="/blog?2018/01" title="janvier 2018" />
+<link rel="archive" href="/blog?2017/12" title="décembre 2017" />
+<link rel="archive" href="/blog?2017/11" title="novembre 2017" />
+<link rel="archive" href="/blog?2017/10" title="octobre 2017" />
+<link rel="archive" href="/blog?2017/09" title="septembre 2017" />
+<link rel="archive" href="/blog?2017/08" title="août 2017" />
+<link rel="archive" href="/blog?2017/07" title="juillet 2017" />
+<link rel="archive" href="/blog?2017/06" title="juin 2017" />
+<link rel="archive" href="/blog?2017/05" title="mai 2017" />
+<link rel="archive" href="/blog?2017/04" title="avril 2017" />
+<link rel="archive" href="/blog?2017/03" title="mars 2017" />
+<link rel="archive" href="/blog?2017/02" title="février 2017" />
+<link rel="archive" href="/blog?2017/01" title="janvier 2017" />
+<link rel="archive" href="/blog?2016/12" title="décembre 2016" />
+<link rel="archive" href="/blog?2016/11" title="novembre 2016" />
+<link rel="archive" href="/blog?2016/10" title="octobre 2016" />
+<link rel="archive" href="/blog?2016/09" title="septembre 2016" />
+<link rel="archive" href="/blog?2016/08" title="août 2016" />
+<link rel="archive" href="/blog?2016/07" title="juillet 2016" />
+<link rel="archive" href="/blog?2016/06" title="juin 2016" />
+<link rel="archive" href="/blog?2016/05" title="mai 2016" />
+<link rel="archive" href="/blog?2016/04" title="avril 2016" />
+<link rel="archive" href="/blog?2016/03" title="mars 2016" />
+<link rel="archive" href="/blog?2016/02" title="février 2016" />
+<link rel="archive" href="/blog?2016/01" title="janvier 2016" />
+<link rel="archive" href="/blog?2015/12" title="décembre 2015" />
+<link rel="archive" href="/blog?2015/11" title="novembre 2015" />
+<link rel="archive" href="/blog?2015/10" title="octobre 2015" />
+<link rel="archive" href="/blog?2015/09" title="septembre 2015" />
+<link rel="archive" href="/blog?2015/08" title="août 2015" />
+<link rel="archive" href="/blog?2015/07" title="juillet 2015" />
+<link rel="archive" href="/blog?2015/06" title="juin 2015" />
+<link rel="archive" href="/blog?2015/05" title="mai 2015" />
+<link rel="archive" href="/blog?2015/04" title="avril 2015" />
+<link rel="archive" href="/blog?2015/03" title="mars 2015" />
+<link rel="archive" href="/blog?2015/02" title="février 2015" />
+<link rel="archive" href="/blog?2015/01" title="janvier 2015" />
+<link rel="archive" href="/blog?2014/12" title="décembre 2014" />
+<link rel="archive" href="/blog?2014/11" title="novembre 2014" />
+<link rel="archive" href="/blog?2014/10" title="octobre 2014" />
+<link rel="archive" href="/blog?2014/09" title="septembre 2014" />
+<link rel="archive" href="/blog?2014/08" title="août 2014" />
+<link rel="archive" href="/blog?2014/07" title="juillet 2014" />
+<link rel="archive" href="/blog?2014/06" title="juin 2014" />
+<link rel="archive" href="/blog?2014/05" title="mai 2014" />
+<link rel="archive" href="/blog?2014/04" title="avril 2014" />
+<link rel="archive" href="/blog?2014/03" title="mars 2014" />
+<link rel="archive" href="/blog?2014/02" title="février 2014" />
+<link rel="archive" href="/blog?2014/01" title="janvier 2014" />
+<link rel="archive" href="/blog?2013/12" title="décembre 2013" />
+<link rel="archive" href="/blog?2013/11" title="novembre 2013" />
+<link rel="archive" href="/blog?2013/10" title="octobre 2013" />
+<link rel="archive" href="/blog?2013/09" title="septembre 2013" />
+<link rel="archive" href="/blog?2013/08" title="août 2013" />
+<link rel="archive" href="/blog?2013/07" title="juillet 2013" />
+<link rel="archive" href="/blog?2013/06" title="juin 2013" />
+<link rel="archive" href="/blog?2013/05" title="mai 2013" />
+<link rel="archive" href="/blog?2013/04" title="avril 2013" />
+<link rel="archive" href="/blog?2013/03" title="mars 2013" />
+<link rel="archive" href="/blog?2013/02" title="février 2013" />
+<link rel="archive" href="/blog?2013/01" title="janvier 2013" />
+<link rel="archive" href="/blog?2012/12" title="décembre 2012" />
+<link rel="archive" href="/blog?2012/11" title="novembre 2012" />
+<link rel="archive" href="/blog?2012/10" title="octobre 2012" />
+<link rel="archive" href="/blog?2012/09" title="septembre 2012" />
+<link rel="archive" href="/blog?2012/08" title="août 2012" />
+<link rel="archive" href="/blog?2012/07" title="juillet 2012" />
+<link rel="archive" href="/blog?2012/06" title="juin 2012" />
+<link rel="archive" href="/blog?2012/05" title="mai 2012" />
+<link rel="archive" href="/blog?2012/04" title="avril 2012" />
+<link rel="archive" href="/blog?2012/03" title="mars 2012" />
+<link rel="archive" href="/blog?2012/02" title="février 2012" />
+<link rel="archive" href="/blog?2012/01" title="janvier 2012" />
+<link rel="archive" href="/blog?2011/12" title="décembre 2011" />
+<link rel="archive" href="/blog?2011/11" title="novembre 2011" />
+<link rel="archive" href="/blog?2011/10" title="octobre 2011" />
+<link rel="archive" href="/blog?2011/09" title="septembre 2011" />
+<link rel="archive" href="/blog?2011/08" title="août 2011" />
+<link rel="archive" href="/blog?2011/07" title="juillet 2011" />
+<link rel="archive" href="/blog?2011/06" title="juin 2011" />
+<link rel="archive" href="/blog?2011/05" title="mai 2011" />
+<link rel="archive" href="/blog?2011/04" title="avril 2011" />
+<link rel="archive" href="/blog?2011/03" title="mars 2011" />
+<link rel="archive" href="/blog?2011/02" title="février 2011" />
+<link rel="archive" href="/blog?2011/01" title="janvier 2011" />
+<link rel="archive" href="/blog?2010/12" title="décembre 2010" />
+<link rel="archive" href="/blog?2010/11" title="novembre 2010" />
+<link rel="archive" href="/blog?2010/10" title="octobre 2010" />
+<link rel="archive" href="/blog?2010/09" title="septembre 2010" />
+<link rel="archive" href="/blog?2010/08" title="août 2010" />
+<link rel="archive" href="/blog?2010/07" title="juillet 2010" />
+<link rel="archive" href="/blog?2010/06" title="juin 2010" />
+<link rel="archive" href="/blog?2010/05" title="mai 2010" />
+<link rel="archive" href="/blog?2010/04" title="avril 2010" />
+<link rel="archive" href="/blog?2010/03" title="mars 2010" />
+<link rel="archive" href="/blog?2010/02" title="février 2010" />
+<link rel="archive" href="/blog?2010/01" title="janvier 2010" />
+<link rel="archive" href="/blog?2009/12" title="décembre 2009" />
+<link rel="archive" href="/blog?2009/11" title="novembre 2009" />
+<link rel="archive" href="/blog?2009/10" title="octobre 2009" />
+<link rel="archive" href="/blog?2009/09" title="septembre 2009" />
+<link rel="archive" href="/blog?2009/08" title="août 2009" />
+<link rel="archive" href="/blog?2009/07" title="juillet 2009" />
+<link rel="archive" href="/blog?2009/06" title="juin 2009" />
+<link rel="archive" href="/blog?2009/05" title="mai 2009" />
+<link rel="archive" href="/blog?2009/04" title="avril 2009" />
+<link rel="archive" href="/blog?2009/03" title="mars 2009" />
+<link rel="archive" href="/blog?2009/02" title="février 2009" />
+<link rel="archive" href="/blog?2009/01" title="janvier 2009" />
+<link rel="archive" href="/blog?2008/12" title="décembre 2008" />
+<link rel="archive" href="/blog?2008/11" title="novembre 2008" />
+<link rel="archive" href="/blog?2008/10" title="octobre 2008" />
+<link rel="archive" href="/blog?2008/09" title="septembre 2008" />
+<link rel="archive" href="/blog?2008/08" title="août 2008" />
+<link rel="archive" href="/blog?2008/07" title="juillet 2008" />
+<link rel="archive" href="/blog?2008/06" title="juin 2008" />
+<link rel="archive" href="/blog?2008/05" title="mai 2008" />
+<link rel="archive" href="/blog?2008/04" title="avril 2008" />
+<link rel="archive" href="/blog?2008/03" title="mars 2008" />
+<link rel="archive" href="/blog?2008/02" title="février 2008" />
+<link rel="archive" href="/blog?2008/01" title="janvier 2008" />
+<link rel="archive" href="/blog?2007/12" title="décembre 2007" />
+<link rel="archive" href="/blog?2007/11" title="novembre 2007" />
+<link rel="archive" href="/blog?2007/10" title="octobre 2007" />
+<link rel="archive" href="/blog?2007/09" title="septembre 2007" />
+<link rel="archive" href="/blog?2007/08" title="août 2007" />
+<link rel="archive" href="/blog?2007/07" title="juillet 2007" />
+<link rel="archive" href="/blog?2007/06" title="juin 2007" />
+<link rel="archive" href="/blog?2007/05" title="mai 2007" />
+<link rel="archive" href="/blog?2007/04" title="avril 2007" />
+<link rel="archive" href="/blog?2007/03" title="mars 2007" />
+<link rel="archive" href="/blog?2007/02" title="février 2007" />
+<link rel="archive" href="/blog?2007/01" title="janvier 2007" />
+<link rel="archive" href="/blog?2006/12" title="décembre 2006" />
+<link rel="archive" href="/blog?2006/11" title="novembre 2006" />
+<link rel="archive" href="/blog?2006/10" title="octobre 2006" />
+<link rel="archive" href="/blog?2006/09" title="septembre 2006" />
+<link rel="archive" href="/blog?2006/08" title="août 2006" />
+<link rel="archive" href="/blog?2006/07" title="juillet 2006" />
+<link rel="archive" href="/blog?2006/06" title="juin 2006" />
+<link rel="archive" href="/blog?2006/05" title="mai 2006" />
+<link rel="archive" href="/blog?2006/04" title="avril 2006" />
+<link rel="archive" href="/blog?2006/03" title="mars 2006" />
+<link rel="archive" href="/blog?2006/02" title="février 2006" />
+<link rel="archive" href="/blog?2006/01" title="janvier 2006" />
+<link rel="archive" href="/blog?2005/12" title="décembre 2005" />
+<link rel="archive" href="/blog?2005/11" title="novembre 2005" />
+<link rel="archive" href="/blog?2005/10" title="octobre 2005" />
+<link rel="archive" href="/blog?2005/09" title="septembre 2005" />
+<link rel="archive" href="/blog?2005/08" title="août 2005" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/rss.php" />
+	<link rel="alternate" type="application/xml" title="Atom" href="/blog/atom.php" />
+	<meta name="DC.title" content="Jean-Jacques Birgé" />
+	<title>août 2008 - Jean-Jacques Birgé</title>
+	
+	<link rel="stylesheet" type="text/css" href="/blog/themes/rougeCiel2/style.css" media="screen" />
+	<style type="text/css">
+	#page #sidebar strong {
+	color: #333;
+}
+    #page #sidebar br {
+	color: #333;
+}
+    #page #sidebar {
+	color: #333;
+}
+    </style>
+	</head>
+
+<body>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="page">
+
+<div id="top">
+	<h1><a href="/blog">Jean-Jacques Birgé</a></h1>
+</div>
+
+<p id="prelude"><a href="#main">Aller au contenu</a> |
+<a href="#sidebar">Aller au menu</a> |
+<a href="#search">Aller &agrave; la recherche</a></p>
+
+<div id="main">
+	<div id="content">
+					
+		
+
+<!-- Boucle sur la liste de billets -->
+	<div class="post">
+		<p class="day-date">dimanche 31 août 2008</p>		
+		<h2 id="p1057" class="post-title"><a
+		href="/blog?2008/08/31/1057-black-panthers">Black Panthers</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		dimanche 31 août 2008 &agrave; 00:31		<span>::</span> <a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<iframe width="485" height="274" src="https://www.youtube.com/embed/NA79VdfySkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+En butinant dans les terrains vagues mondialement étendus, je tombe sur quatre films exceptionnels sur les <a href="http://www.blackpanther.org/">Black Panthers</a>, "mouvement révolutionnaire afro-américain formé aux États-Unis en 1966 par <a href="http://en.wikipedia.org/wiki/Bobby_Seale">Bobby Seale</a> et <a href="http://en.wikipedia.org/wiki/Huey_P._Newton">Huey P. Newton</a> qui a atteint une échelle nationale avant de s'effondrer à cause de tensions internes et des efforts de suppression par l'État, en particulier le FBI (efforts qui comportaient des arrestations et l'agitation de factions rivales via des infiltrateurs). L'organisation est connue pour son programme «Free Breakfast for Children», l'utilisation du terme « pigs » (cochons) pour décrire les agents de police ainsi que pour avoir apporté des armes à feu à l'assemblée législative californienne" (Wikipédia).<br />
+<a href="http://www.imdb.com/title/tt0278490/fullcredits#cast">Huey P. Newton Story</a> est un <em>one man show</em> de <a href="http://fr.wikipedia.org/wiki/Spike_Lee">Spike Lee</a> tourné pour la télévision en 2001 avec <a href="http://www.fandango.com/rogerguenveursmith/filmography/p66543">Robert Guenveur Smith</a> dans le rôle titre. La performance de l'auteur-comédien est à couper le souffle, pour peu que l'on arrive à suivre son flow impressionnant (la version projetée étant en anglais sans sous-titres), jeu de jambes, effets de fumée, accent louisiannais, scansion de rappeur, mélodie en sous-sol. L'action se passe aujourd'hui, sur une scène entourée de grillages derrière lesquels le public porte des bérets noirs. Soutenu par une mise en scène étourdissante, un montage astucieux et une partition sonore formidable de <a href="http://www.chocolategeniusinc.com/">Marc Anthony Thompson</a>, le passé et le présent se croisent avec une maestria qui redonne son actualité aux revendications et plonge notre époque dans l'abîme, comme le personnage réfléchissant lui-même l'histoire de cette révolte, affirmant que l'on obtient rien sans combattre (Urban Works, zone 1). L'extrait ci-dessus est un montage indépendant, essentiellement d'après le film d'1h25 de Spike Lee.<br />
+En 1995, Robert Guenveur Smith avait déjà un petit rôle dans le <em>Panther</em> de <a href="http://fr.wikipedia.org/wiki/Mario_Van_Peebles">Mario Van Peebles</a> contant la fondation et la chute du <a href=" http://fr.wikipedia.org/wiki/Black_Panther_Party">Black Panther Party for Self Defense</a> à Oakland, Californie. Plus classique, le film, écrit par son père, le célèbre réalisateur <a href=" http://en.wikipedia.org/wiki/Melvin_Van_Peebles">Melvin Van Peebles</a>, mêlant, comme il se doit, gangster et politique, permet de comprendre la genèse de cette étonnante saga (Polygram, difficilement trouvable actuellement sans payer un prix prohibitif).<br /><br />
+<iframe width="485" height="274" src="https://www.youtube.com/embed/vY0dA8lcH9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<em>The Murder of Fred Hampton</em> de <a href="http://www.imdb.com/name/nm0019760/filmogenre">Howard Alk</a> et <a href="http://mike-gray.org/">Mike Gray</a> est un documentaire de 1971 sur l'assassinat à Chicago d'un militant de 21 ans par la police de l'Illinois de 99 balles alors qu'il dormait dans son lit et "achevé" de deux balles dans la tête tirées à bout portant ! Ce film "historique" revient sur l'année qui a précédée et suit l'enquête sur le meurtre démontrant les mensonges des "porcs" (vendu par Arte Vidéo en même temps que <em>American Revolution 2</em>).<br />
+
+Enfin, bien que ce ne soient pas les seuls films traitant des Black Panthers, on trouvera sur l'incontournable coffret <em>Tous Courts</em> d'<a href="http://www.drame.org/blog/index.php?2007/12/23/773-agnes-varda-la-petite-dame-est-une-grande">Agnès Varda</a>, le moyen-métrage <a href="http://www.ubu.com/film/varda.html">Free Huey!</a> tourné en 1968, bon complément documentaire à la pièce filmée par Spike Lee. Ce double dvd (Ciné-Tamaris) est un coffre aux trésors, absolument indispensable, pour découvrir cette artiste majeure, trop souvent reléguée à un rang subalterne derrière les autres metteurs en scène de la Nouvelle Vague qu'elle a pourtant initiée avant tous, machisme oblige !<br />
+Quant aux leçons à tirer de l'histoire des Panthers, elles sont nombreuses et pourraient être fort utiles lorsque les lois scélérates du <a href="http://fr.wikipedia.org/wiki/Patriot_Act">Patriot Act</a> mises en place par le gouvernement Bush vont commencer à <a href="http://www.tcdailyplanet.com/blog-entry/2008/08/30/it-cans-happen-here-it-already-has.html#">entrer en vigueur</a>, dans les faits, comme ce week-end avec <a href="http://twincities.indymedia.org/2008/aug/illegal-police-raid-anti-rnc-convergence-space-st-paul">l'intrusion délirante de la police de St Paul</a>, Minnesota, dans la permanence anarchiste du RNC Convergence Space. Cela rappelle fondamentalement les exactions des années 60 contre la communauté noire ou le début des années 20 contre les ouvriers... Depuis le 11 septembre 2001, il y a péril en la demeure, mais de quel terrorisme est-il question ? D'un fantôme à barbichette ou d'une mafia pétrolière prête à tout pour conserver le pouvoir et assoir son autorité sur le reste du monde ?		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/31/1057-black-panthers#co"
+		title="commentaires pour : Black Panthers">5 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Black Panthers">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">samedi 30 août 2008</p>		
+		<h2 id="p1058" class="post-title"><a
+		href="/blog?2008/08/30/1058-le-design-sonore-au-service-du-public">Le design sonore au service du public</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		samedi 30 août 2008 &agrave; 08:49		<span>::</span> <a href="/blog?Multimedia">Multimedia</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Tram.jpg" alt="" /><br />
+Le journal Libération consacrait hier une page au design sonore dans les magasins de vêtements, comment les agences spécialisées choisissent les musiques "de fond" et leur volume sonore en fonction de l'âge du public et des horaires. À faire soi-même quelques achats vestimentaires, on notera le peu d'imagination des enseignes et des illustrateurs sonores qu'ils embauchent. Tout est dans la mode évidemment. On flatte les prétendus goûts du public comme on formate les programmes télé. Seules les boutiques élégantes se fendent de quelques excentricités, bon chic bon genre, quoi de plus naturel&nbsp;? Bruits de saison, ambiances météorologiques, délicatesse des choix. Le "morceau choisi" met ici en valeur la qualité du chaland.<br />
+Je suis sidéré par l'agression sonore que représente la bande-son imposée dans les lieux publics. Un salon de thé nipponisant de la Porte d'Auteuil diffusait de la techno, on n'arrivait à peine à se parler. Les musiciens fuient généralement les restaurants où l'on passe de la musique. À la maison, je coupe systématiquement l'ampli lorsque nous passons à table. Dans les magasins de vêtements, le soi-disant "design sonore" est censé couvrir le bruit des ventilateurs et de la foule. Est-ce au prix de cette diarrhée bruyante qui colle la migraine aux plus aguerris&nbsp;? L'analgésie requise produit des effets secondaires contradictoires. Mes oreilles me voilent les yeux, je fais demi-tour, ma main n'ira pas jusqu'à mon porte-feuilles. J'en perdrais le goût et l'odorat. Ce n'est pas le choix qui est encouragé, mais l'hypnose abrutissante qui vous fait passer dans le rouge de votre compte en banque en achetant n'importe quoi...<br />
+Pourtant, j'imagine tout ce qui pourrait être inventé pour rendre ces endroits plus agréables, que l'on ait réellement envie d'y passer du temps, d'y revenir même lorsque l'on aura grandi, sans se soucier des ciblages générationnels, des diktats de la mode dont la principale caractéristique est justement de passer aussi vite qu'elle est apparue. Le <a href="http://www.drame.org/blog/index.php?2007/12/18/768-une-journee-bien-remplie">designer sonore</a> pourra ainsi composer la bande-son en fonction de la marchandise, de l'image de la marque, du désir perdu, de la libido retrouvée, du rêve à fomenter, créant le mix à partir de tous les sons existants, gestes des acheteurs, impératifs locaux et matériels, apports étrangers, surprises délicates, ménageant la fatigue des vendeurs, aiguisant le goût des consommateurs, réintégrant le commerce dans l'univers urbain de manière intelligente et sensible.<br />
+On élargira ces propositions à l'espace public qui mérite encore plus qu'ailleurs que l'on s'y attelle pour que nos vies citadines retrouvent les sensations oubliées et découvrent des saveurs inédites. On peut éviter les images vulgaires des écrans en tournant le tête, mais pas la pollution sonore. Pour citer un exemple positif, j'ai jubilé en entendant l'annonce des stations dans le <a href="http://www.vacarme.eu.org/article90.html">tramway de Strasbourg</a>, réalisé par Rodolphe Burger, chacune étant exprimée par une voix différente avec son accent local. Si tout est organisé pour nous empêcher de réfléchir et acheter n'importe quoi, je crains de ne pas avoir gain de cause. Les consommateurs non plus&nbsp;! Je déteste les magasins où l'on me force la main. Pourtant, le champ d'intervention est vaste, des boutiques aux parkings sous-terrains, des bistros aux jardins publics, tout reste à faire, et pas seulement pour vendre plus ou acheter mieux...</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/30/1058-le-design-sonore-au-service-du-public#co"
+		title="commentaires pour : Le design sonore au service du public">4 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Le design sonore au service du public">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">vendredi 29 août 2008</p>		
+		<h2 id="p1055" class="post-title"><a
+		href="/blog?2008/08/29/1055-remember-my-forgotten-man">Remember My Forgotten Man</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		vendredi 29 août 2008 &agrave; 01:02		<span>::</span> <a href="/blog?Perso">Perso</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x6jpzc" allowfullscreen allow="autoplay"></iframe><br />
+De 1975 à 1979, je collaborai presque quotidiennement avec <a href="http://www.imdb.com/name/nm0276467/">Jean-André Fieschi</a> qui avait été responsable de l'analyse de films pendant mes trois ans d'études à l'Idhec (l'Institut des Hautes Études Cinématographiques devenu depuis la Femis). Je devins son assistant, en particulier pour <em>Les Nouveaux Mystères de New York</em> dont je tournai d'ailleurs quelques scènes et participai au montage avec Brigitte Dornès. Le film, magnifique, entièrement réalisé à la paluche, est réputé comme perdu, effacé par le temps.<br />
+La paluche était une caméra construite par <a href=" http://www.aaton.com/about/history_fr.php">Aäton</a>, préfigurant les petites caméras que l'on tient aujourd'hui au bout des doigts, mais à l'époque des débuts de la vidéo portable, c'était révolutionnaire. Je me souviens que Jean-André était obligé de mettre le lourd magnétoscope (en quart de pouce) dans un sac à dos pour pouvoir tourner dans la rue. Cette caméra-stylo ressemblant à un gros microphone était l'instrument dont il avait rêvé, il l'avait payé à Jean-Pierre Beauviala en jetant un sac de pièces d'or sur son bureau de Grenoble.<br />
+Jean-André adorait les coups de théâtre. Cela lui portait parfois préjudice comme le jour où sa compagne d'alors, la philosophe et écrivaine C. le fit interner abusivement pour l'avoir menacée avec un coupe-papier sorti de son fourreau, comme dans un film de <a href="http://fr.wikipedia.org/wiki/Louis_Feuillade">Feuillade</a>. Arrivé au moment où deux malabars en blouses blanches venaient le chercher, je passai la nuit à ameuter ses amis pour le sortir de là, mais JAF s'en tira très bien tout seul. Quelques années plus tard, il me raconta l'épisode de la dague dont je n'avais pas été témoin, ajoutant que "c'était la preuve qu'elle n'aimait pas l'opéra". Ce n'était pas toujours facile de vivre avec lui, mais j'étais le protégé de la famille et partageais leur vie pendant quatre ans de bonheur où mon "maître" m'apprit le cinéma (suite de mes études), la littérature (je commençai à lire), la musique (me faisant connaître les musiques classique et contemporaine, l'opéra, le jazz et le free, etc.) et surtout la méthode qui me permettrait d'avancer seul dans la vie et dans mes métiers. De C., j'appris ce qu'était la psychanalyse. Grâce à eux, je rencontrai un nombre impressionnant de sommités et de célébrités, bien que je manquai chaque fois <a href="http://fr.wikipedia.org/wiki/Jacques_Lacan">Lacan</a>, un regret. À leur séparation, C. coupa tous les ponts, m'accusant d'avoir fourni à son compagnon les champignons hallucinogènes qui brisèrent leur couple. Comme s'ils avaient besoin de cela ! JAF était un forcené, capable d'abattre un travail phénoménal en une seule nuit comme de rester muet pendant des jours.<br />
+J'avais le privilège de partager tous ces instants et je me suis demandé longtemps ce qu'il trouvait dans ce petit jeune homme de dix ans son cadet. Je faisais. Comme un passage à l'acte. Malgré mon jeune âge, je produisais, sans répit, et je me produisais, avec enthousiasme et en toute indépendance. La musique le permettait mieux que le cinéma. Question de budget. La vidéo domestique n'existait pas encore. Il y passa lorsque les petites caméras apparurent sur le marché et devint enfin réalisateur, après avoir travaillé comme journaliste aux Cahiers du Cinéma, au Monde, au Nouvel Obs, etc. Il avait également été chargé de la production à Unicité, la boîte audiovisuelle du Parti Communiste. Il me mit là aussi le pied à l'étrier en me commandant des musiques et des partitions sonores pour des audiovisuels de <a href="http://pagesperso-orange.fr/michel.semeniako/semeniako_content.html">Michel Séméniako</a>, Claude Thiébaut, <a href="http://en.wikipedia.org/wiki/No%C3%ABl_Burch">Noël Burch</a>, <a href="http://www.fondationlouismoret.ch/index.php/component/option,com_phocagallery/Itemid,2/id,8/view,category/">Marie-Jésus Diaz</a>, Daniel Verdier, etc. Mon premier travail de "collaboration" (mi-anar mi Trotsk, je n'étais que "compagnon de route") sera le disque 33 tours <em>1975, l'Année de la femme</em> réalisé par <a href="http://fr.wikipedia.org/wiki/Charles_Bitsch">Charles Bitsch</a>. J'aimerais bien vous le faire écouter un de ces jours. Pour les arrangements j'avais engagé Bernard Lubat qui me fit ensuite rencontrer Michel Portal, mais ça c'est une autre histoire. J'avais déjà produit <a href="http://www.assezvu.com/defensede/">Défense de</a> et fondé <a href="http://www.drame.org/3GRRR/Disco.html">GRRR</a>, j'y reviendrai. Jean-André avait réalisé plusieurs <em>Cinéastes de notre Temps</em> sur la Première Nouvelle Vague (avec Burch), le jeune cinéma italien et le meilleur film jamais tourné sur Pasolini, <a href="http://fr.wikipedia.org/wiki/Pasolini_l’enragé">Pasolini l'enragé</a>... On l'aperçoit dans <em>Alphaville</em> dans le rôle du Professor Heckell (Comolli était Jeckell).<br />
+Ma dette envers Fieschi est inextinguible. Initié lui-même par l'écrivain <a href="http://livres.fluctuat.net/claude-ollier.html">Claude Ollier</a>, il me transmit à son tour tout ce qui lui était possible. D'autres avaient probablement précédé, d'autres suivront. C'est un passeur. Pourtant il était incapable de parler à plusieurs personnes à la fois. Amateur du secret, il avait besoin d'une complicité exclusive. En vieillissant, encore qu'aujourd'hui les années ne semblent pas avoir eu prise sur lui, il tempéra ses attitudes suicidaires : plus d'une fois il détruisit, la veille d'une présentation, ce qu'il avait patiemment et majestueusement élaboré. J'étais le pare-feu, dévoué au point de traverser Paris au milieu de la nuit. Notre collaboration prit fin à <a href="http://www.drame.org/blog/index.php?2007/08/02/614-profession-reporter">Venise</a> qu'il me fit découvrir comme cadeau d'adieu. La grande classe. Un grand homme.<br />
+Toute cette histoire pour en arriver là, à ces bribes filmées en 1975 dans mon appartement du 88 rue du Château à Boulogne-Billancourt. <em>Remember My Forgotten Man</em> est un film expérimental tourné à la paluche, sans montage. Des rushes d'aucun projet. Brigitte a sauvé la bande 1/4 de pouce en faisant un report sur <a href="http://en.wikipedia.org/wiki/VHS">VHS</a> avant qu'elle ne s'efface. Je l'ai plus tard transcodé numériquement. D'une durée de 26 minutes, il est en deux parties pour des questions purement techniques liées à DailyMotion.<br /><br />
+<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x6jpvx" allowfullscreen allow="autoplay"></iframe><br />
+Au début, on entend Jean-André, qui m'a exceptionnellement prêté la Paluche pour le week-end. Les amis qui figurent sur <em>Remember My Forgotten Man</em> sont Philippe Labat, mon colocataire d'alors et grand ami, disparu pour avoir sombré dans l'héroïne, <a href="http://www.dehesdin.com/">Thierry Dehesdin</a>, qui est toujours photographe et avec qui j'ai partagé l'aventure du light-show, Sylvie Sauvion, que j'espère revoir un de ces jours, le chien Zappa, et d'autres dont j'ai oublié le nom ou que je n'ai jamais rencontrés. La partition sonore est celle de l'époque, musiques que nous écoutions à la maison, références de notre éclectisme.		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/29/1055-remember-my-forgotten-man#co"
+		title="commentaires pour : Remember My Forgotten Man">6 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Remember My Forgotten Man">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">jeudi 28 août 2008</p>		
+		<h2 id="p1056" class="post-title"><a
+		href="/blog?2008/08/28/1056-la-mort-sur-le-bitume">La mort sur le bitume</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		jeudi 28 août 2008 &agrave; 00:33		<span>::</span> <a href="/blog?Perso">Perso</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Rue-Alazard.jpg" alt="" /><br />
+Il est une heure du matin. Nous dormons d'un profond sommeil lorsque le téléphone sonne. À cette heure de la nuit, ce ne peut être qu'une erreur ou une mauvaise nouvelle. Caro m'annonce&nbsp;:  "je suis désolée, mais je crois que ton chat s'est fait écraser". Je saute dans mon pantalon, mais, croisant Scotch sur le pas de la porte, je crie à Françoise que notre chat est sain et sauf. Louise est en larmes au milieu de la rue. Elle a vu et entendu le matou se faire écraser et la bagnole assassine griller le stop et foncer sans s'arrêter. Presqu'aussitôt, une voiture de police déboule et s'arrête net devant la poubelle que Louise a placé sur la chaussée pour que personne ne continue le massacre. Les quatre cow-boys voient seulement un type hagard et une jeune fille en pleurs au milieu de la rue. Je m'approche illico pour leur expliquer que la voisine a cru que notre chat s'était fait renverser, que le nôtre est entier, mais qu'il y a bien un cadavre devant eux. Ni une ni deux, la brigade rembarque et file sans demander son reste. C'est tout juste si la voiture pie ne passe pas sur le corps étendu. Les chats du quartier sortent soudain de l'ombre comme s'il fallait qu'on en parle. Je suis obligé d'aller ramasser la pauvre bête avec un grand sac en plastique. C'est la petite chatte grise des voisins de la maison jaune. Il va falloir que je leur annonce demain matin. La nuit recouvre les traces de sang sur le goudron. Pas moyen de dormir. Je mâche les mots que je devrai prononcer. La figure de la copine de Scotch me hante. Ils jouaient certainement ensemble à l'instant de l'accident. Je me souviens de la mort de Lupin et de Scat. Je pense à celle de ceux qui nous ont quittés. Je suis triste.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/28/1056-la-mort-sur-le-bitume#co"
+		title="commentaires pour : La mort sur le bitume">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : La mort sur le bitume">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">mercredi 27 août 2008</p>		
+		<h2 id="p1054" class="post-title"><a
+		href="/blog?2008/08/27/1054-un-drame-musical-instantane-sur-antene-1-en-1983">Un Drame Musical Instantané sur Antène 1 en 1983</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		mercredi 27 août 2008 &agrave; 00:02		<span>::</span> <a href="/blog?Musique">Musique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x6jopz" allowfullscreen allow="autoplay"></iframe><br />
+Tout arrive ! Le film avec <a href="http://www.drame.org">Un Drame Musical Instantané</a>, tourné le 10 avril 1983 par Emmanuelle K pour la chaîne de télévision libre Antène 1, est enfin en ligne sur DailyMotion. Nous étions tous réunis dans la cave de mon loyer de 48 qui nous servait de studio et dans laquelle on pénétrait par une trappe au milieu de la cuisine rouge, noir et or (les canisses !), très chinoise. Les soupiraux du 7 rue de l'Espérance, qui donnaient directement sur la Place de la Butte aux Cailles, étaient fermés par des clapets équipés d'aimants pour pouvoir aérer lorsque je souhaitais rendre son statut de salon à notre antre. Nous y "répétions" tous les jours. Je devrais écrire "jouions" puisqu'il s'agissait le plus souvent de compositions instantanées que nous enregistrions soigneusement, formant un corpus étonnant sur cette époque. <a href="http://www.allumesdujazz.eu/~blog/index.php?2007/01/15/13-bernard-vitet-memoires-dun-dilettante">Bernard Vitet</a> joue ici du cor de poste, de la trompette à anche et de l'accordéon, <a href="http://www.assezvu.com/bio.php#anchorGorge">Francis Gorgé</a> de la guitare et du frein, une contrebasse à tension variable construite par Bernard, je commandais mes synthétiseurs (ARP 2600 et PPG) et l'on me voit à la trompette de poche et à la flûte basse, encore un instrument de la lutherie Vitet comme les autres flûtes et les trois trompes en PVC terminées par un entonnoir.<br /><br />
+<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x6jnl7" allowfullscreen allow="autoplay"></iframe><br />
+À l'origine, <a href="http://emmanuelle.k.club.fr/index.html">Emmanuelle K</a>, aujourd'hui passée à la poésie, nous avait demandé d'interpréter une partition de <a href="http://www.drame.org/blog/index.php?2006/05/15/119-rencontre-avec-john-cage">John Cage</a>, mais nous avions réfuté sa paternité en nous insurgeant "contre les partitions littéraires de Stockhausen qui signait les improvisations (vraiment peu) dirigées, que des musiciens de jazz ou assimilés interprétaient, ou plutôt créaient sur un prétexte très vague". Le film était tourné à deux caméras, dont une paluche, prototype fabriqué par Jean-Pierre Beauviala d'Aäton, que Gonzalo Arijon tenait au bout des doigts comme un micro, l'ancêtre de bien des petites cams. Je ferai la connaissance de Gonzalo des années plus tard lorsque je réalisai <em>Idir et Johnny Clegg a capella</em> et participai à l'aventure <a href="http://www.drame.org/blog/index.php?2006/03/01/49-le-sniper">Chaque jour pour Sarajevo</a> à Point du Jour. En 1975, j'avais moi-même joué avec celle que Jean-André Fieschi m'avait prêtée pour mes essais expérimentaux intitulés <em>Remember My Forgotten Man</em>, on en reparle bientôt...<br />
+Le film dure 21 minutes 35 secondes. Il est présenté ici en deux parties, car DailyMotion n'a pas encore validé mon statut de MotionMaker que j'ai sollicité la semaine dernière. En juin, il fut diffusé en boucle lors de la seconde édition du festival <a href="http://www.drame.org/blog/index.php?2008/06/04/964-filmer-la-musique-2eme-edition">Filmer la musique</a> au Point Ephémère. C'est l'un des rares témoignages vidéographiques de la période "instantanée" du Drame.		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/27/1054-un-drame-musical-instantane-sur-antene-1-en-1983#co"
+		title="commentaires pour : Un Drame Musical Instantané sur Antène 1 en 1983">4 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Un Drame Musical Instantané sur Antène 1 en 1983">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">mardi 26 août 2008</p>		
+		<h2 id="p1053" class="post-title"><a
+		href="/blog?2008/08/26/1053-jonathan-rosenbaum-le-cinema-a-decouvert">Jonathan Rosenbaum, le cinéma à découvert</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		mardi 26 août 2008 &agrave; 00:24		<span>::</span> <a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Rosenbaum.jpg" alt="" /><br />
+Depuis que Jonathan Rosenbaum a pris sa retraite du Chicago Reader auquel il a collaboré de 1987 à cette année, il s'est employé à mettre en ligne les 7500 articles qu'il a rédigés et continue à écrire sur <a href="http://www.jonathanrosenbaum.com">son blog</a> hebdomadairement. Le célèbre critique américain, digne hériter de James Agee et André Bazin (dixit J-L Godard) comme de Serge Daney, donne des milliers de pistes à ceux qui souhaiteraient en savoir plus sur les films ou les DVD, car Rosenbaum a changé ses pratiques avec le temps, regardant aujourd'hui beaucoup plus de galettes qu'il ne va au cinéma. Après avoir hanté les salles et pratiqué les cassettes vidéo, sa cinéphilie doit aujourd'hui beaucoup aux éditions DVD, nous permettant de partager ses révélations et ses coups de cœur. Ses articles souvent très fouillés offrent en effet à ses lecteurs (anglophones) de découvrir une flopée de raretés.<br />
+Ses parents, qui s'étaient fait construire leur maison par <a href="http://en.wikipedia.org/wiki/Frank_Lloyd_Wright">Frank Lloyd Wright</a>, la seule en Alabama, avaient repris la chaîne de salles de cinémas que possédait son grand-père. Dans son autobiographie, <em>Mouvements&nbsp;: Une vie au cinéma</em> (P.O.L.), il raconte son enfance, ses premiers émois cinématographiques sans négliger les analyses filmiques et quelques considérations sociales sur l'époque.<br />
+En parcourant <a href="http://www.jonathanrosenbaum.com/?cat=5">son blog</a>, je pourrais passer des heures à découvrir des chefs d'œuvre méconnus pour lesquels Rosenbaum donne souvent les adresses pour se les procurer. Nous sommes loin des donneurs de leçons et des censeurs, on sent poindre la générosité et la passion sous chaque phrase.<br />
+<a href="http://www.chicagoreader.com/movies/rosenbaum.html">Auteur de nombreux ouvrages</a>, bataillant contre la toute puissance exclusive du cinéma américain, il révèle les films du reste du monde qui occupent, tout de même, plus de la moitié de son panégyrique. <a href="http://www.romand.org">Françoise</a> le rencontra ainsi en 1985, lors de la sortie américaine de <a href="http://www.drame.org/blog/index.php?2006/12/05/353-mix-up-ou-meli-melo">Mix-Up ou Méli-Mélo</a> qu'il contribua largement à faire connaître aux États-Unis et qui figure parmi <a href="http://www.alsolikelife.com/FilmDiary/rosenbaum.html">ses 1000 films préférés</a> après qu'il l'ait nommé film de l'année. Rare qualité, <a href="http://en.wikipedia.org/wiki/Jonathan_Rosenbaum">Jonathan Rosenbaum</a> (photo extraite de son entretien sur le dvd <em>Mix-Up</em> édité par <a href="http://www.lowave.com/?language=FR&amp;section=shop&amp;display=focus&amp;focus_ref=LOWAVE013DVD">Lowave</a>) s'intéresse à toutes les époques, des plus reculées aux plus actuelles, et à toutes les latitudes, voire certaines difficilement localisables pour qui n'est pas trop féru de géographie&nbsp;! Irremplaçable.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/26/1053-jonathan-rosenbaum-le-cinema-a-decouvert#co"
+		title="commentaires pour : Jonathan Rosenbaum, le cinéma à découvert">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Jonathan Rosenbaum, le cinéma à découvert">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">lundi 25 août 2008</p>		
+		<h2 id="p1052" class="post-title"><a
+		href="/blog?2008/08/25/1052-insectes-a-gogo">Insectes à gogo</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		lundi 25 août 2008 &agrave; 00:07		<span>::</span> <a href="/blog?Voyage">Voyage</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Insectes-Edible.jpg" alt="" /><br />
+Il y a un an, <a href="http://tilde.m.free.fr/">Mathilde</a> m'avait indiqué le <a href="http://marieaunet.hautetfort.com/">blog de Marieaunet</a> qui a le don de dégotter des trucs marrants grapillés ici et là sur le Net. Le butinage claustrophobique n'est pas vraiment ma tasse de thé, préférant en général les aventuriers qui expriment leurs points de vue ou affichent leurs propres créations, mais <a href="http://holala.hautetfort.com/">la jeune illustratrice</a> a le don pour trouver des images ou des histoires vraiment sympathiques. Voilà t'y pas que Mariaunet tend ses fils sur <a href="http://marieaunet.blogspot.com/">un nouveau blog</a> qui me dirige vers le site anglais <a href="http://www.edible.com/shop/">Edible</a>, une boutique en ligne proposant maints insectes à grignoter. Vous connaissez <a href="http://www.drame.org/blog/index.php?2006/04/04/78-mets-exotiques">mon goût</a> pour ce genre d'<a href="http://www.drame.org/blog/index.php?2008/01/31/788-touristes-en-thailande">aventures</a>, ma salive inonde de ma gorge aux sinus. Sucettes à la menthe et aux fourmis, scorpions enrobés de chocolat, abeille géante au miel, criquets au curry, vers mopani, etc. Le site propose également des aphrodisiaques tels que sucettes à la poudre d'or, vin au gecko, poussière de perles, et d'autres curiosités comme ce thé cueilli sur les hauteurs par des singes ou ce café régurgité par des belettes&nbsp;! La liste se clôt sur des produits parapharmaceutiques, sperme de baleine relaxant, gelée de reine fourmi pour les peaux grasses, extrait de scorpion analgésique... Je commanderais bien un échantillon de tout le magasin si les prix ne me retenaient pas&nbsp;: cinq euros la sucette ou le scorpion, quinze le pot de miel, dix-sept les vingt-cinq grammes de fourmis géantes grillées... Ajoutez le port (il n'est pas free pour autant), c'est une petite folie qu'il faut savoir canaliser. Je promets de vous tenir au courant lorsque j'aurai craqué ma tire-lire et goûté ces mets enchanteurs...</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/25/1052-insectes-a-gogo#co"
+		title="commentaires pour : Insectes à gogo">4 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Insectes à gogo">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">dimanche 24 août 2008</p>		
+		<h2 id="p1051" class="post-title"><a
+		href="/blog?2008/08/24/1051-nuit-et-brouillard-au-japon-oshima">Nuit et brouillard au Japon</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		dimanche 24 août 2008 &agrave; 00:07		<span>::</span> <a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<iframe width="485" height="274" src="https://www.youtube.com/embed/z7Zeqd4y-dQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+Le désespoir des militants les pousse au règlement de comptes. Chacun s'accuse ou se tait. <a href="http://en.wikipedia.org/wiki/Nagisa_Oshima">Nagisa Oshima</a> fait des aller et retours de 1960 à 1952, de la guerre de Corée au Traité de sécurité avec les États-Unis. Une scène, un plan. Et une prise ! Oshima ne filme qu'au moment où il sent que ses acteurs sont prêts et post-synchronise si des problèmes se présentent. Il garde parfois les hésitations. Les coupes de montage sont là pour se voir, autrement c'est le plan séquence. Les flous lui permettent de focaliser ailleurs l'attention du spectateur, le point insiste sur ce qu'il veut souligner. Les couleurs lugubres du cinémascope plongent les étudiants dans une boue intellectuelle où les doutes côtoient les dogmes. <a href="http://fr.wikipedia.org/wiki/Nuit_et_brouillard_du_Japon">Nuit et brouillard au Japon</a> (dvd Carlotta) est un grand film politique préfigurant <em>La Chinoise</em> de Godard des années plus tard. Il oppose le mariage de deux militants à ceux qui n'ont pas désarmé et s'obstinent à chercher une vérité inaccessible, devenue inutile. Les trotskystes s'opposent évidemment ici aux révisionnistes staliniens. Tourné en 1960 comme <a href="http://www.drame.org/blog/index.php?2008/07/25/1020-la-trilogie-de-la-jeunesse-oshima">La Trilogie de la Jeunesse</a>, le film, aussi sombre que les trois autres, ne laisse aucune échappatoire à ses protagonistes. Le cinéaste dresse le portrait d'une jeunesse bourgeoise, révoltée et incapable de surmonter ses contradictions. Le renoncement et l'obstination sont sur le même plan. Fatal.		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/24/1051-nuit-et-brouillard-au-japon-oshima#co"
+		title="commentaires pour : Nuit et brouillard au Japon">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Nuit et brouillard au Japon">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">samedi 23 août 2008</p>		
+		<h2 id="p1050" class="post-title"><a
+		href="/blog?2008/08/23/1050-boomerang-jean-jacques-birge">Boomerang</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		samedi 23 août 2008 &agrave; 00:14		<span>::</span> <a href="/blog?Perso">Perso</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/JJBTellMeYourStory.jpg" alt="" /><br />
+J'ai commencé ce blog il y a trois ans pour ne plus rabâcher en société. Du moins, c'était une des raisons. Une façon de me débarrasser une fois pour toutes des sujets qui me tarabustent et me poursuivent. J'étais enfin libre d'écouter patiemment mes interlocuteurs. Avec le temps, je crains que la tendance s'inverse. À bloguer sept jours sur sept, je ne sais plus ce que j'ai raconté, je perds le fil, je crains de placer une illustration pour la seconde fois. On peut toujours jouer le thème et ses variations. Peut-être m'inquiète-je pour rien&nbsp;? Je me demande si je ne devrais pas changer de support ou de protocole. Ce n'est pas la première fois. La preuve !<br /><br />
+<a href="http://www.drame.org/blog/index.php?2008/08/13/1040-reapprendre-a-marcher">Le disque</a> sur lequel je travaille est une manière de blog. Respect de la chronologie sans lésiner sur les retours en arrière et les spéculations sur le futur, les relectures et les croisements contre nature, les mises en perspective et les recyclages. Ces derniers jours, j'ai exhumé des enregistrements que j'avais totalement oubliés, certains très aboutis, d'autres en attente, là quelques bribes surprenantes. Ils constituent déjà une première passe. Mes fantômes font la queue à l'entrée du studio. Raviver le passé permet d'envisager l'avenir. Je coche les tâches effectuées pour passer à autre chose. Un siècle, montre en main.<br /><br />
+Le réfrigérateur ne fait plus de bruit depuis que le réparateur a remplacé le ventilateur. Françoise enregistre en studio quelques phrases pour prendre ses distances avec son sujet. Sonia et Farnaz forment le chœur de mes enfantillages. Antoine place mes notes distordues sur un miroir sans tain. Cinq opérations sans rapport les unes avec les autres, mais qui permettent de battre les cartes de mon projet sans craindre qu'elles parlent, révélant prématurément mes secrets. Un code brouille les pistes sans même que je m'en aperçoive. On appelle souvent cela de la musique.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/23/1050-boomerang-jean-jacques-birge#co"
+		title="commentaires pour : Boomerang">5 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Boomerang">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">vendredi 22 août 2008</p>		
+		<h2 id="p1049" class="post-title"><a
+		href="/blog?2008/08/22/1049-orwellisation-de-la-presse-richard-labeviere">Orwellisation de la presse française</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		vendredi 22 août 2008 &agrave; 02:16		<span>::</span> <a href="/blog?Humeurs-et-opinions">Humeurs &amp; opinions</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/k1Y4QQvd1AyszQJKjJ&related=1" allowfullscreen allow="autoplay"></iframe><br />
+Pierre-Oscar pense à moi régulièrement en m'indiquant des sujets épineux. Cette façon de rester en contact par médias interposés nous permet de dialoguer même si nous sommes immergés dans nos projets propres, nos vies, nos combats. Mails, vidéos en ligne, blogs, commentaires dessinent une carte du Pas Tendre, en toute amitié, pour ramper dans la fange géopolitique.<br />
+La désinformation, comme l'appelle Jean-Claude en se calant devant le 20 heures, est à son comble. Les États Unis financent Reporters Sans Frontières pour tenter de déstabiliser la Chine, ils arment la Géorgie pour continuer leur encerclement de la Russie, ils soutiennent Israël pour assurer leurs bases au Proche et Moyen-Orient, occupent l'Irak et menacent l'Iran en lorgnant sur leur pétrole, visent la Syrie pour faire passer leurs oléoducs, etc. La liste remplirait un annuaire du téléphone. La France, malhabile petit soldat, leur emboîte le pas en essayant de les imiter avec relativement peu de succès (revoir par exemple le formidable documentaire "À qui profite la cocaïne ?" de Mylène Sauloy et Gilles de Maistre), sauf pour étouffer les affaires, une spécialité locale (le Rwanda, Elf, les frégates de Taïwan, la Bosnie, Clearstream, UIMM, etc.). Ces lignes ne dédouanent pas pour autant la Chine, la Russie, les pays arabes, etc., mais se poser en défenseurs de la démocratie est d'un cynisme achevé.<br />
+Lorsqu'un journaliste d'une chaîne publique ne suit pas la ligne gouvernementale mensongère qui soutient les USA et Israël, il est simplement viré. Ainsi, Richard Labévière, rédacteur en chef à Radio France International (RFI) s'explique sur son licenciement abusif après son interview exclusive du Président syrien Bachar el Assad en juillet dernier. Cela se produit au moment au Christine Ockrent-Kouchner et Alain de Pouzilhac prennent la direction de l'Audiovisuel Extérieur de la France (AEF, soit RFI, TV5 Monde et France 24). Il s'agit simplement "d'imposer une lecture unique, néo-conservatrice et inconditionnellement pro-israélienne des crises et des relations internationales" au Moyen-Orient.<br /><br />
+<a href="http://www.ipetitions.com/petition/Labeviere2008/index.html">Texte de la pétition de soutien à Richard Labévière</a> en cliquant sur "Lire la suite".<br />
+<em>Vous pouvez signer et quitter sans contribuer, le formulaire est maladroit.</em><p><a href="/blog?2008/08/22/1049-orwellisation-de-la-presse-richard-labeviere" title="Lire Orwellisation de la presse française">Lire la suite</a></p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/22/1049-orwellisation-de-la-presse-richard-labeviere#co"
+		title="commentaires pour : Orwellisation de la presse française">un commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Orwellisation de la presse française">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">jeudi 21 août 2008</p>		
+		<h2 id="p1048" class="post-title"><a
+		href="/blog?2008/08/21/1048-pressoir">Précipité</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		jeudi 21 août 2008 &agrave; 01:07		<span>::</span> <a href="/blog?Humeurs-et-opinions">Humeurs &amp; opinions</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Pressoir.jpg" alt="" /><br />
+précis pressoir pressé.................................................................pressentiment<br />
+pas le temps de presser...............................................................l'abrégé ment<br />
+on courait sans les mains...............................................................précisément<br />
+au four et au moulin.......................................................................prestement<br />
+pieds en l'air tête en bas..............................................................en bon amant<br />
+sonorise à tout va......................................................................puzzle dément</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/21/1048-pressoir#co"
+		title="commentaires pour : Précipité">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Précipité">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">mercredi 20 août 2008</p>		
+		<h2 id="p1047" class="post-title"><a
+		href="/blog?2008/08/20/1047-langoustines">Le parfum de la presqu'île</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		mercredi 20 août 2008 &agrave; 00:54		<span>::</span> <a href="/blog?Pratique">Pratique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Langoustines.jpg" alt="" /><br />
+Le cidre de la ferme de Combrit ne fait pas mal à la tête parce que le fermier n'y ajoute pas le soufre qui stabilise la fermentation. Il arrive qu'une âme charitable me rapporte quelques bouteilles du verger de Poulamul (ça ne s'invente pas). La madeleine est intacte. Hélas, la <a href="http://fr.wikipedia.org/wiki/Nephrops_norvegicus">langoustine</a> est un animal qui ne voyage pas. On dit cela des mets dont le goût est altéré par la distance. Ce crustacé doit être acheté vivant. Il est impossible d'en retrouver la saveur si l'on n'est pas en Bretagne, et j'irais jusqu'à penser "si possible proche de la criée pour les emporter aussi vite arrivées"&nbsp;! Plongées dans l'eau bouillante salée avec un filet de vinaigre, leur chair est plus ferme. Après réébullition, deux ou trois minutes suffisent. Du temps où je vivais une partie de l'année face à cet horizon dont les couleurs évoluent sans cesse, je m'en goinfrais comme ma fille et ses amis le font de temps en temps lorsqu'ils y passent leurs vacances. Les langoustines me manquent. L'image qu'Elsa m'en laisse me permet de me souvenir de leur parfum et de leur consistance. C'est l'Île.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/20/1047-langoustines#co"
+		title="commentaires pour : Le parfum de la presqu'île">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Le parfum de la presqu'île">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">mardi 19 août 2008</p>		
+		<h2 id="p1046" class="post-title"><a
+		href="/blog?2008/08/19/1046-appelez-moi-madame-2">Appelez-moi Madame (2)</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		mardi 19 août 2008 &agrave; 00:10		<span>::</span> <a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Appelez-moi-Madame-1.jpg" alt="" /><br />
+Ce n'est pas si facile de travailler à deux au montage. Je suis rapide et impatient, <a href="http://www.romand.org">Françoise</a> est méticuleuse et têtue. Je lui ai donné un coup de main au tournage et déjà fourni un paquet de sons pour que l'entretien sur <a href="http://www.drame.org/blog/index.php?2008/08/04/1031-appelez-moi-madame-1">Appelez-moi Madame</a> glisse subrepticement vers la fiction comme elle aime le faire dans tous ses documentaires. Pendant que j'apprends ainsi à me familiariser avec Final Cut, Françoise prend le recul qui lui est nécessaire. Après avoir presque terminé la version française de ce retour en arrière de vingt-deux ans, elle a souhaité faire un montage radicalement différent pour la version anglaise qu'elle a baragouinée tant bien que mal, nouveaux plans, nouveaux sons, nouvelles astuces et nouveaux gags.<br />
+L'idée est marrante de faire deux films différents en français et en anglais pour aborder les mêmes thèmes&nbsp;: la transsexualité en 1986, le regard face caméra, le contrechamp explicite, le refus des commentaires, la difficulté de ne pas céder aux critiques, la distanciation, l'émotion des caractères, la fictionalisation... D'une langue à l'autre, le ton est différent. Le français est plus direct et badin, l'anglais plus sec et hésitant.<br />
+Comme j'avais équipé Françoise d'un micro-cravate caché sous son corsage et clippé sur son soutien-gorge, la voix est claire, détachée, sans presque aucun coup de vent sur la membrane. Nous sommes même obligés de rajouter des sons seuls pour retrouver l'ambiance maritime et les grillons lorsque la terre est en vue. Clapotis, grincements que je mêle à ceux de la contrebasse d'Olivier Koechlin, mouettes moqueuses, splash et la musique composée initialement pour son film <a href="http://www.drame.org/blog/index.php?2007/04/16/487-si-toi-aussi-tu-m-abandonnes">Si toi aussi tu m'abandonnes</a>. Supprimée pour de sinistres raisons déjà abordées à l'époque du procès (gagné) contre la société de l'indélicat Serge Moati, c'est la première fois qu'on pourra l'entendre, du moins les parties avec le violoncelliste Didier Petit.<br />
+Il faut donc tout réimaginer et inventer en s'attaquant à la version anglophone. Les prises de vue sont évidemment différentes, mais il faut trouver le ton qui convient par le rythme du montage et la bande-son qui prend une importance colossale puisqu'elle joue sur le hors-champ. Françoise s'amuse d'ailleurs de quelques contrechamps savoureux avec son père qui roupille à l'avant du bateau et ma pomme, le casque sur les oreilles, m'agrippant au filin pour ne pas passer par-dessus bord&nbsp;! Pour garder le cadre fixe tandis que le bateau tangue tant que ça peut, je maintiens la caméra si fort avec la main gauche que j'attraperai une tendinite dès le premier matin. Je veux que le cadre ne lâche pas Françoise avec l'arrière-plan qui chavire à nous en faire attraper le mal de mer.<br />
+Pour cette seconde interprétation, avec relativement peu de matériau, Françoise joue des désynchronisations, des frottements, des chevauchements, elle provoque en montrant que les coulisses sont aussi parlantes que l'attaque frontale. Sans tout dévoiler, ce sont les bêtises et les maladresses du tournage et du montage qui déclenchent en nous les meilleures idées. Face à l'adversité, nous sommes obligés d'inventer... Tout le monde est logé à la même enseigne.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/19/1046-appelez-moi-madame-2#co"
+		title="commentaires pour : Appelez-moi Madame (2)">2 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Appelez-moi Madame (2)">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">lundi 18 août 2008</p>		
+		<h2 id="p1045" class="post-title"><a
+		href="/blog?2008/08/18/1045-hara-kiri-de-mishima">Hara-kiri de Mishima</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		lundi 18 août 2008 &agrave; 00:30		<span>::</span> <a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Mishima.jpg" alt="" /><br />
+En 1970, toutes les copies japonaises de l'unique film de <a href="http://fr.wikipedia.org/wiki/Yukio_Mishima">Yukio Mishima</a>, <em>Patriotisme</em>, avaient été détruites à la demande de sa veuve Yuko. Le célèbre écrivain nationaliste s'était fait <a href="http://fr.wikipedia.org/wiki/Seppuku">seppuku</a> (traduit "hara-kiri" en argot) lors d'une tentative de coup d'état avec son armée privée, mise en scène de son suicide rituel. Un de ses disciples le décapita avant de s'éventrer au sabre à son tour. Le producteur du film ayant sauvé le négatif et la veuve ayant disparu il y a trois ans, Criterion publie un dvd (zone 1) avec en suppléments un long entretien radiophonique, une interview vidéo de Mishima sur la seconde guerre mondiale et la mort, le témoignage des survivants de l'équipe du tournage, le livret incluant la nouvelle originale et un texte sur le film rédigé par Mishima lui-même. Le film ressemble à une répétition de l'acte final, l'écrivain mettant en scène sa propre mort en y interprétant le rôle principal, inspiré par l'auto-érotisme du martyre de Saint-Sébastien. L'amour et la mort y sont liés avec une puissante intensité que l'histoire réelle souligne avec d'autant plus de crudité. En noir et blanc, muet avec des intertitres (le dvd propose une version japonaise et une version anglaise, la version française manquant, mais l'enregistrement usé de 1936 du <em>Liebestod</em> de <em>Tristan et Iseult</em> de Richard Wagner, ici redondante illustration musicale, fonctionne beaucoup moins bien qu'avec <em>Un chien andalou</em> de Buñuel), <em>Patriotisme</em>, toutes proportions gardées, rappelle <a href="http://www.drame.org/blog/index.php?2007/02/22/430-un-chant-d-amour">Un chant d'amour</a> de Jean Genet, sublime et unique film de l'écrivain français, par ses rituels homosexuels axés sur la beauté. On en ressort plus troublé qu'ébahi, l'autre référence qui me vient à l'esprit étant <em>Les 120 journées de Sodome</em> de Pier Paolo Pasolini, un troisième écrivain à passer au cinéma, tout aussi provoquant, avec la même franchise, la même cruauté, la même sublimation...<br />
+Dans la foulée, <a href="http://www.criteriondvd.com/advanced_search_result.php?search_in_description=1&amp;keywords=mishima&amp;x=0&amp;y=0">Criterion</a> édite un second luxueux dvd (double cette fois, toujours zone 1) autour du film <a href="http://en.wikipedia.org/wiki/Mishima:_A_Life_in_Four_Chapters">Mishima: A Life in Four Chapters</a>, fiction kitsch de <a href="http://en.wikipedia.org/wiki/Paul_Schrader">Paul Schrader</a> s'inspirant de la vie de l'artiste et composé également d'extraits mis en scène de plusieurs de ses pièces. En plus du superbe livret, un documentaire de la BBC et nombreux entretiens et commentaires accompagnent le film produit par Coppola et Lucas (Zoetrope). Bien que la musique omniprésente de Philip Glass noie le film dans ses ors et rose bonbon, les racines de l'œuvre de Mishima sont clairement mises à nu, de l'autorité de sa grand-mère à l'amour immodéré pour sa mère, de sa culpabilité d'avoir échappé à une guerre qu'il ne supporte pas que son pays ait perdue à ses inclinations homosexuelles difficilement assumées, du code d'honneur du samouraï au culte du corps qu'il ne peut souffrir de voir se flétrir.<br /><br />
+<img src="/blog/images/2008/Aout 2008/Mishima-Montparnasse.jpg" alt="" /><br />
+<strong>P.S.</strong>&nbsp;: Depuis que j'ai rédigé cet article, les <a href="http://www.editionsmontparnasse.fr/product?product_id=1102">éditions Montparnasse</a> ont publié le film de Mishima, donc en Zone 2 (compatible avec les lecteurs en France), sous son titre japonais "Yûkoku", accompagné d'un formidable et sulfureux entretien audiovisuel inédit en français (!) de l'auteur par Jean-Claude Courdy, ainsi qu'un passionnant livret de 32 pages de Stéphane Giocanti et l'édition Folio/Gallimard du livre de Mishima, <em>Patriotisme et autres nouvelles</em> d'où est tiré le film.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/18/1045-hara-kiri-de-mishima#co"
+		title="commentaires pour : Hara-kiri de Mishima">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Hara-kiri de Mishima">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">dimanche 17 août 2008</p>		
+		<h2 id="p1044" class="post-title"><a
+		href="/blog?2008/08/17/1044-pour-voir">Pour voir</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		dimanche 17 août 2008 &agrave; 06:39		<span>::</span> <a href="/blog?Voyage">Voyage</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Poudingue.jpg" alt="" /><br />
+On a beau savoir que derrière le <a href="http://www.drame.org/blog/index.php?2008/07/23/1019-une-faille-dans-le-poudingue">monticule</a> se cache une anse d'eau <a href="http://www.drame.org/blog/index.php?2008/07/17/1013-pieds-joints">bleu marine</a>, il n'est pas toujours facile de gravir la pente escarpée. On s'y esquintera les mains et les genoux pour que le vertige nous guette au sommet. Arrivé en haut, on ne pourra encore jouir que de la vue, car l'à pic interdit la plongée. Et on continue, pour voir.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/17/1044-pour-voir#co"
+		title="commentaires pour : Pour voir">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Pour voir">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">samedi 16 août 2008</p>		
+		<h2 id="p1043" class="post-title"><a
+		href="/blog?2008/08/16/1043-l-onj-en-couleurs">L'ONJ en couleurs</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		samedi 16 août 2008 &agrave; 02:49		<span>::</span> <a href="/blog?Musique">Musique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Couleurs.jpg" alt="" /><br />
+Après l'<a href="http://www.drame.org/blog/index.php?2008/08/08/1036-onj-yvinek-yvinec">introduction</a> et la <a href="http://www.drame.org/blog/index.php?2008/08/15/1042-onj-yvinec-pepiniere-explosive">présentation des musiciens</a>, voici la dernière partie de l'entretien avec Daniel Yvinec, nouveau directeur artistique de l'Orchestre National de Jazz.<br /><br />
+<em>JJB&nbsp;: Tu m’as dit qui, mais quoi ?</em><br /><br />
+Daniel Yvinec&nbsp;: Je ne pensais pas que j’aurais le profil pour l’ONJ. Alors j’ai proposé quelque chose qui me ressemble. Le premier truc qui m’est venu à l’esprit, c’est <strong>AROUND ROBERT WYATT</strong>. Je t’avais déjà demandé ses coordonnées pour le disque où je chante et que j’ai fait à New York en duo avec Michael Leonhart. On a flashé l’un sur l’autre, Michael et moi. S’il vivait à côté, on n’arrêterait pas de bosser ensemble. Je lui ai proposé d’enregistrer sans rien préparer avant, de s’enfermer trois semaines dans un studio et de tout écrire ensemble, paroles, musique, en jouant de tous les instruments. On a fait une partie de batterie à deux, l’un avec grosse caisse, caisse claire et l’autre charleston et cymbales… Le processus créatif n’est pas différent d’un disque de jazz. Ce sont les mêmes muscles de la tronche qui fonctionnent. Ce sont des chansons et Donald Fagen chante sur trois titres. J’avais appelé Wyatt pour l’une d’entre elles. Il a été charmant, mais cela ne s’est pas fait, je ne me souviens plus vraiment pour quelle raison, ce n'était pas vital pour cet album, juste un plaisir de plus. Lorsque l’ONJ s’est pointé, je suis revenu vers ce mec que j’adore depuis que je suis môme. Il sait faire des choses extrêmement fines avec peu de matière. J’ai fini par l’appeler, comprenant que je ne pouvais pas lui en demander trop. Alors je lui ai demandé de choisir quelques chansons et de les chanter. Il y aura ses compositions, les reprises qu’il a fréquentées et les standards qu’il a chantés. Je vais enregistrer a capella (comme je l'ai fait pour Wyatt) les voix d’autres chanteurs que j'aime ou que je verrais bien dans cette aventure et, après, on écrira des arrangements autour avec Vincent Artaud. Les répétitions commencent début janvier 2009 pour un album enregistré à la fin du mois. Sur scène, les voix seront diffusées comme j’avais fait avec <em>Wonderful World</em>, et il y aura les images projetées d’Antoine Carlier. Ce sera une sorte d’opéra virtuel avec des voix fantômes.<br />
+Le second projet, <strong>BROADWAY IN SATIN</strong>, gravite autour des chansons de Billie Holiday et cette fois avec deux chanteurs sur scène, Karen Lanaud, dont je vais réaliser le premier disque à New York, et un chanteur de blues assez connu en Angleterre, Ian Siegal, mélange de Tom Waits et Joe Strummer, qui a chanté <em>Moon River</em> sur un disque que j’ai produit récemment. Les arrangements seront confiés à Alban Darche. Selon les situations, les lieux où nous jouerons, il y aura d’autres invités. J'aime que les choses restent ouvertes de ce point de vue, cela maintient l'intérêt de chacun… Et saine pression… De faire du nouveau.<br />
+Lorsque j’ai fait mon enquête, j’ai rencontré énormément de gens, des administrateurs de structures classiques, des entrepreneurs du privé, des agences de communication, des pédagogues, des directeurs de festivals et de salles et, entre autres, les gens de l'Opéra Comique qui m'ont commandé l’accompagnement de <strong>CARMEN</strong>, le film muet de Cecil B.DeMille (1915), avec une partition originale composée par un membre de l’orchestre avec le duo Ambitronix (Benoît Delbecq et Steve Argüelles) en invités libres, et le chanteur Bernardo Sandoval. Pour l’avenir il y a un projet avec Carolyn Carlson, un autre autour de Pink Floyd…
+Le pouvoir ne m’excite pas, ce n'est pas ce qui me fait courir, cette nouvelle fonction me l'a confirmé. Je suis heureux d’avoir des moyens. Il est peut-être possible d’intéresser les gens au jazz, tous ceux qui sont sur le pas de la porte… Sans les bousculer, mais en initiant le public au jazz… C’est bizarre qu’une musique qui sert à vendre des bagnoles et des parfums soit aussi moribonde. La vocation de l’ONJ, c’est peut-être aussi d’entrouvrir la porte de la cuisine. Maintenant il va falloir réfléchir aux bons interlocuteurs et avec qui s’associer…</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/16/1043-l-onj-en-couleurs#co"
+		title="commentaires pour : L'ONJ en couleurs">un commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : L'ONJ en couleurs">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">vendredi 15 août 2008</p>		
+		<h2 id="p1042" class="post-title"><a
+		href="/blog?2008/08/15/1042-onj-yvinec-pepiniere-explosive">L’ONJ, une pépinière explosive</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		vendredi 15 août 2008 &agrave; 00:23		<span>::</span> <a href="/blog?Musique">Musique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Daniel-Yvinec.jpg" alt="" /><br />
+<a href="http://www.drame.org/blog/index.php?2008/08/08/1036-onj-yvinek-yvinec">Comme promis la semaine dernière</a>, voici la première partie d'un long entretien avec le nouveau directeur artistique de l'Orchestre National de Jazz, Daniel Yvinec. La seconde partie abordera le répertoire de l'ensemble pour 2009.<br /><br />
+<strong>Entretien avec DANIEL YVINEC</strong><br /><br />
+<em>Jean-Jacques Birgé&nbsp;: J’ai choisi de te rencontrer, lorsque j’ai compris que tu n’avais pas essayé d’agrandir ton groupe, mais que tu proposais quelque chose de radicalement nouveau pour l’<a href="http://www.onj.org/fr/index.html">Orchestre National de Jazz</a>.</em><br /><br />
+<a href="http://www.yvinek.com/yvinek_fr.html">Daniel Yvinec</a>&nbsp;: J’en avais le potentiel, puisque je venais de monter un projet où l’on était sept, il suffisait d’ajouter trois musiciens. Je n’ai jamais eu de <em>big band</em>, je ne suis pas un arrangeur patenté. Là, j’ai une fonction de directeur artistique, chapeautant des projets, passant des commandes à d’autres compositeurs, écrivant moi-même de temps en temps, sans que cela soit mon activité principale… Alors pourquoi ne pas monter un truc de toutes pièces avec des gens que je ne connais pas&nbsp;? J’ai mené une enquête sur plein de jeunes musiciens, en les repérant sur Internet, ensuite dans des clubs, je suis allé écouter tous les Prix du CNSM de cette année dont j’ai contacté tous les profs. Ils m’ont parlé parfois de manières très différentes de leurs élèves. J’ai pris contact aussi avec le réseau de la FNEJMA à qui j’ai tendu la perche pour qu’ils me suggèrent des musiciens. J'ai entendu chaque musicien dans un contexte de son choix, et j'ai fait, parmi les "accompagnateurs", d'autres rencontres.<br /><br />
+<em>JJB&nbsp;: Comme d’habitude tu as fait le curieux !</em><br /><br />
+DY&nbsp;: Exactement, comme lorsque j’écris sur la musique ou que j’essaie de faire découvrir des trucs aux gens. J’ai souvent monté des projets, même discographiques, en mettant ensemble des musiciens qui ne se connaissaient pas. C’est souvent casse-gueule, mais c’est ça qui m’intéresse, avec aussi un certain sens du casting. Alors ensuite j’ai fait passer des auditions, de façon un peu non officielle sinon c’aurait été trop compliqué à gérer, entendant plus de 150 musiciens. J’y ai passé un bon mois et j’ai choisi des gens qui avaient des profils un peu singuliers. Essentiellement des polyinstrumentistes pour avoir à disposition une grande palette de couleurs. Ce sont rarement des gens de pupitre, même s’ils savent le faire et que je respecte ce genre de parcours.<br /><br />
+<em>JJB&nbsp;: Lorsque j’ai appris que tu avais engagé Antonin Tri Hoang, qui n’a que 19 ans et que je connais depuis qu’il est né, et Ève Risser qui est un remarquable mouton noir avec qui j’ai eu le plaisir de jouer cette année, je me suis demandé si tous tes musiciens étaient aussi atypiques et aussi jeunes. Comme c’est une façon de leur mettre le pied à l’étrier, j’ai eu envie de te demander qui ils étaient et pourquoi tu avais choisi chacune et chacun d’eux.</em><br /><br />
+DY&nbsp;: On va commencer par les filles. Il n’y en a qu’une d’ailleurs. J’avais entendu parler d’<strong>ÈVE RISSER (piano préparé / flûtes en sol, alto et basse / électrophone / instruments jouets)</strong> par plusieurs personnes et de son fameux Prix où elle avait venir des chanteurs. Elle est venue le soir après l’avoir fêté, avec ses brosses, ses moteurs, ses aimants… Ève avait préféré venir seule plutôt qu’avec d’autres musiciens comme je lui avais proposé. Après quatre notes au piano préparé, Mohamed Gastli qui est le coordinateur artistique du projet et moi, on s’est regardés et on a su que c’était ce qu’il nous fallait. Elle a un Prix de flûte et un Prix de piano, ce qui peut être pratique pour jouer différents compositeurs. Je cherchais à la fois des gens compétents et des trublions. Je n’ai pas non plus besoin d’avoir dix musiciens qui aient une connaissance parfaite des standards de jazz. Toute son instrumentation m’intéresse et elle a un univers poétique hyper fort, un sens du son…<br />
+<strong>ANTONIN TRI HOANG (saxophone alto, clarinette, clarinette basse / piano)</strong> est le dernier que j’ai choisi. J’ai hésité très longtemps entre un dernier soufflant ou un mec qui jouait des synthés. Cela prouve que mon casting était plus sur les personnes que sur l’instrumentation. Par exemple, il n’y a pas de trombone. Ce n’était pas indispensable, sauf si j’avais trouvé un tromboniste qui joue d’autre chose… Et puis rien ne m'empêche de faire appel à d'autres instruments pour un projet qui en aurait besoin, ce noyau dur de dix musiciens est extensible. J’avais entendu Antonin plusieurs fois, il était venu faire une audition avec un très bon contrebassiste, Simon Tailleu. J’ai tout de suite été extrêmement touché par sa musicalité. Je l’avais entendu dans un Prix au CNSM où il a fait un solo très court, absolument somptueux de poésie… Pour son audition il a joué deux standards, complètement détaché des conditions, sans même me demander pourquoi c’était. Il est très jeune, il a encore beaucoup de chemin à faire pour s’épanouir, mais je me suis dit que c’était vraiment un grand mec. Chaque fois que je lui parlais de quelqu’un il connaissait, Robert Wyatt, Benoît Delbecq, Lee Konitz, il adore, il est très ouvert, il est fan de ce que fait Ève… Il a engrangé toute la culture jazz avec beaucoup de sérieux, et en même temps il commence à tirer dans les coins, très poétique et organique…<br />
+J’étais allé regarder les gars qui avaient joué dans <em>Le sens de la marche</em>, un projet super intéressant de Marc Ducret, où il y avait Paul Brousseau et <strong>MATTHIEU METZGER (saxophones alto, soprano, ténor / traitement électro-acoustique / programmation électronique)</strong>. Plein de gens m’avaient parlé de lui aussi. Ils sont venus ensemble, Paul pour l’accompagner. <strong>PAUL BROUSSEAU (clavier / guitare / percussions / basse &amp; basse électronique / batterie / effets électroniques)</strong> est le plus polyinstrumentiste de tous. Autodidacte, il s’était fait connaître avec <em>Voices Project</em>, un travail d’harmonisation de voix parlées, de répondeurs téléphoniques, de météo marine, comme l’avaient fait des gens de musique contemporaine ou Hermeto Pascoal, il a joué dans le <em>Napoli</em> de Sclavis. Il est le plus aguerri, mais finalement assez méconnu. Je ne lui avais pas proposé, pensant qu’il était trop pris, mais il m’a envoyé un mail et s'est spontanément manifesté… Quant à Matthieu, en plus de ses instruments, il crée des logiciels de traitement musicaux en temps réel depuis qu’il 12 ans&nbsp;! Il est ingénieur du son, mais souvent avec des solutions rocambolesques. À l’audition, il a joué <em>Summertime</em>, simultanément à l’alto et au soprano. Je peux détester cela quand c’est plus de la pose que de la musique, mais il harmonisait à l’alto ce qu’il faisait au soprano et c’était magnifique. Après ils ont joué en duo et c’était époustouflant, j’aurais pu enregistrer un disque&nbsp;! C’est bien qu’il y ait des musiciens qui aient déjà des points de repères comme ce binôme, des gens qui s’admirent les uns les autres…<br />
+J’avais entendu <strong>RÉMI DUMOULIN (saxophones soprano, alto et baryton / clarinette &amp; clarinette basse)</strong> avec Ricardo Del Fra. Non seulement il joue magnifiquement du soprano, mais il a le sens du groupe. Je voulais des fortes personnalités, mais qui aient aussi envie de fabriquer de la musique en groupe. Je ne cherchais pas des <em>saxophone heroes</em>. Ils se seraient ennuyés.<br /><br />
+<em>JJB&nbsp;: Tu cherchais à monter un orchestre comme on constitue un quatuor à cordes. Un quatuor, ce n’est pas quatre musiciens, c’est un quatuor.</em><br /><br />
+DY&nbsp;: Exactement&nbsp;! Lorsque je fais des master classes, je leur dis&nbsp;: «&nbsp;quand vous allez écouter un quatuor ou Radiohead, vous ne sortez pas en disant que le bassiste joue monstrueux ou que le deuxième violon est incroyable&nbsp;; si vous dites cela, c’est qu’il y a un problème et que le quatuor ne fonctionne pas. » Il y a aussi <strong>JOCELYN MIENNEL (flûtes en sol, alto et basse / saxophones soprano, alto, soprano, ténor et baryton / clavier / traitements électroniques)</strong> qui a été DJ, il a une culture rock et pop, c’est un ambianceur, il est capable de fabriquer de la matière pour mettre en valeur les autres. Ça a été oui tout de suite.<br />
+On m’avait aussi beaucoup parlé de <strong>GUILLAUME PONCELET (trompette / piano et Rhodes / synthétiseur, effets électroniques)</strong> qui a participé à Such, une boîte qui fait de l’electro-jazz, accompagnant Michel Jonasz au piano alors qu’il est trompettiste, il a joué dans NoJazz. À l’audition, il a joué <em>You Don’t Know What Love Is</em> seul à la trompette, sans esbroufe. Ensuite il a improvisé au piano un truc éthéré magnifique genre Debussy, alors qu’il est connu pour son groove. Un musicien incroyable. Comme Antonin, sans tenter de me séduire…<br /><br />
+<em>JJB&nbsp;: Tu as cette sensibilité peut-être parce que tu es bassiste…</em><br /><br />
+DY&nbsp;: Si je suis producteur et réalisateur, c’est probablement aussi parce que je suis bassiste. Tu distribues les ballons, mais personne ne s’en rend vraiment compte. Tu sais que si tu joues telle note un peu moins fort, cela va générer autre chose, si tu économises ton discours, si tu t’arrêtes… Le rôle de pivot est super jouissif. C’est ce que j’ai envie de faire au sein de l’orchestre.<br />
+Je me suis rendu compte que l’on était dans un pays avec une pépinière de musiciens extraordinaire, de gens dont personne ne parle, pour le moment en tous cas, des gens déjà engagés dans des projets personnels hyperpointus, parce qu'ils ont mille idées mais aussi sans doute parce que le téléphone ne sonne pas. Quand j’avais leur âge, j’ai fait le «&nbsp;sideman » parce qu’on m’appelait. J’avais besoin de me prouver que je pouvais tout jouer, de la musique africaine, du funk, du bop. Lorsque je vivais à New York, je pouvais vivre ça sans que personne ne me regarde de travers.<br />
+J’avais joué deux fois avec <strong>le batteur YOANN SERRA</strong> qui joue tout extrêmement bien. La question de la couleur est peu abordée pour la batterie. Yoann a un très beau son et il sait <em>driver</em> un orchestre. J’ai vu un DVD qui a achevé de me convaincre, il y joue une réduction en nonette du Sacre du Printemps arrangé par le vibraphoniste Benoît Alziary. On y a l’impression que rien n’est écrit. Pour la basse, j’hésite encore entre trois…<br />
+J’avais aussi joué avec <strong>PIERRE PERCHAUD (guitares acoustique et électrique / banjo / dobro)</strong>. Je cherchais un guitariste qui ne s’inspire pas seulement d’autres guitaristes, capable de s’évader de l’instrument. Pierre est assez jeune, c’est une éponge. Il vient du classique, il joue aussi bien de l’acoustique que de l’électrique. Il serait capable de relever un solo d’Ornette Coleman ou de retrouver le son dans dix disques de Tom Waits et Elvis Costello avec Marc Ribot, pas pour faire la même chose, mais pour voir quelles sont les options. Si je lui demande d’apporter une guitare pourrie, il ne va pas m’envoyer promener.<br />
+Voilà ça fait dix. Moi, j’ai besoin d’avoir une distance. Si je veux réussir cette mission de directeur artistique, il ne faut pas que j’ai en permanence une basse entre les mains, je jouerai lors de certains concerts, pour certains des projets, mais je ne veux pas y être obligé, j'aurai trop à faire... Et puis, cela permettra de continuer à aller jouer en France ou à l’étranger quand l’orchestre volera de ses propres ailes. Ce ne sera pas un orchestre polyvalent. En revanche, on pourrait intéresser des artistes et des compositeurs différents…</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/15/1042-onj-yvinec-pepiniere-explosive#co"
+		title="commentaires pour : L’ONJ, une pépinière explosive">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : L’ONJ, une pépinière explosive">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">jeudi 14 août 2008</p>		
+		<h2 id="p1041" class="post-title"><a
+		href="/blog?2008/08/14/1041-avis-de-recherche">Avis de recherche</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		jeudi 14 août 2008 &agrave; 08:48		<span>::</span> <a href="/blog?Perso">Perso</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Reve-Russel.jpg" alt="" /><br />
+Je ne me souviens plus si j'ai déjà utilisé le tableau de Françoise en <a href="http://www.drame.org/blog/index.php?2007/10/25/711-le-reve-du-chat">illustration</a> pour raconter les débuts de notre aventure. Un rapport assez banal entre homme et femme. Je n'avais pas de rames, mais j'aimais l'eau. Aujourd'hui, nous recherchons simplement à savoir qui est l'auteur du "Rêve", un ou une M. Russel qui a apposé sa signature au bas de la toile. <a href="http://www.romand.org">Françoise</a> l'avait achetée lors d'un vide-grenier avenue Trudaine. Si vous avez une piste, n'hésitez pas à nous contacter...</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/14/1041-avis-de-recherche#co"
+		title="commentaires pour : Avis de recherche">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Avis de recherche">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">mercredi 13 août 2008</p>		
+		<h2 id="p1040" class="post-title"><a
+		href="/blog?2008/08/13/1040-reapprendre-a-marcher">Réapprendre à marcher</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		mercredi 13 août 2008 &agrave; 00:45		<span>::</span> <a href="/blog?Musique">Musique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/JJ-Birge-Pre-catelan.jpg" alt="" /><br />
+c'est toujours la même histoire<br />
+racontée de différentes manières selon les époques<br />
+on dit qu'un artiste raconte toujours la même histoire<br />
+elle prend des formes selon les soucis du moment<br />
+elle est secrète, pour tous, même à celui qui la raconte<br />
+du moins jusqu'à un certain nombre de répétitions<br />
+et toute sa vie il va à la fois rechercher les fausses coïncidences<br />
+et feindre de s'en échapper<br />
+son double projeté sur le blanc de la page<br /><br />
+petite introduction en préambule aux premiers pas de mon prochain disque, un disque&nbsp;? je ne sais pas, j'en ignore encore le support, mais un recueil, c'est certain, je n'ai publié aucun nouvel album depuis Machiavel il y a 10 ans et aucun sous mon nom seul<br /><br />
+incapable de savoir par où commencer tant le passé était dense, recommencer<br />
+pour quoi<br />
+pourquoi<br />
+pour ne pas répéter<br />
+pour ne pas me répéter<br />
+c'est là que l'histoire commence, qu'elle recommence<br />
+parce que les temps ont changé et que l'on a enfin identifié sa latitude<br />
+j'ai fouillé dans les paysages, récupéré quelques rythmes<br />
+sans savoir quand ni combien de temps cela prendrait<br />
+et c'est ici que mon histoire a commencé<br />
+je venais de rentrer dans la baignoire<br />
+et je l'ai reconnue<br />
+l'histoire, toujours la même, souvent rêvée, jamais contée<br />
+la petite histoire d'un petit bonhomme<br />
+et j'irai jusqu'à la mort pour m'en débarrasser un moment<br />
+la raconter<br />
+ce n'est qu'une histoire<br /><br />
+tout relire<br />
+vite<br />
+dépoussiérer le matériau accumulé pour l'avenir<br />
+l'excitation est à son comble<br />
+ne devant retomber que l'objet terminé entre mes mains<br />
+ouf&nbsp;! je respire</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/13/1040-reapprendre-a-marcher#co"
+		title="commentaires pour : Réapprendre à marcher">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Réapprendre à marcher">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">mardi 12 août 2008</p>		
+		<h2 id="p1039" class="post-title"><a
+		href="/blog?2008/08/12/1039-a-scanner-darkly">A Scanner Darkly</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		mardi 12 août 2008 &agrave; 00:24		<span>::</span> <a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x62vyx?additionalInfos=0" allowfullscreen allow="autoplay"></iframe><br /><br />
+<em><a href="http://wwws.warnerbros.fr/ascannerdarkly/">A Scanner Darkly</a></em> (2006) est tout à fait le genre de film à qui l'édition DVD profite parce qu'elle s'accompagne de bonus éclairant les zones obscures. Le scénario inspiré par une œuvre de <a href="http://fr.wikipedia.org/wiki/Philip_K._Dick">Philip K. Dick</a> est quelque peu flottant et la technique d'animation en rotoscopie demande quelques explications. Il a fallu dix-huit mois pour traiter numériquement les plans tournés avec Keanu Reeves, Robert Downey Jr, Woody Harrelson, Rory Cochrane et Wynona Ryder. Les images ont été retravaillées une à une comme <a href="http://en.wikipedia.org/wiki/Richard_Linklater">Richard Linklater</a> l'avait déjà réalisé pour <em>Waking Life</em> cinq ans auparavant. Le côté bande dessinée gauchit suffisamment la réalité pour nous faire basculer dans la posture instable où la drogue noie les protagonistes, un univers de cauchemar où la paranoïa est le maître mot et la vidéo-surveillance le mètre mal. Les délires verbaux des acteurs donne le vertige plus que leurs hallucinations quasi comiques, nous plongeant dans un coma où la schizophrénie et la perte de repères réfléchissent l'expérience vécue par le génial auteur de science-fiction dont <em>Blade Runner, Screamers, Total Recall, Confessions d'un barjo, Minority Report, Paycheck, Next</em> sont les adaptations déjà portées à l'écran. Une interview de 1977 de K.Dick lui-même montre le climat de suspicion de l'époque Nixon et la paranoïa qu'elle engendra, ajoutée aux difficultés que l'auteur rencontra avec l'acide (LSD). "Seul, abandonné par sa femme, l'auteur ouvre sa maison à tous les drogués, hippies ou junkies de passage. Plus une journée ne passe sans qu'il se drogue, ce qui provoque chez lui de longues périodes de délire. Cette expérience le pousse à écrire <em>Substance mort</em>, écrit en 1975, publié en 1977" (Wikipédia). On l'entend également lire des passages de son livre... Le générique de fin égrène la longue liste de ses amis, décédés ou perdus dans les limbes de la psychose et de la maladie. Sa fille, dont le parrain n'était autre que <a href="http://fr.wikipedia.org/wiki/Timothy_Leary">Timothy Leary</a>, participe également aux commentaires de cette comédie noire.		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/12/1039-a-scanner-darkly#co"
+		title="commentaires pour : A Scanner Darkly">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : A Scanner Darkly">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">lundi 11 août 2008</p>		
+		<h2 id="p1038" class="post-title"><a
+		href="/blog?2008/08/11/1038-la-mort-sauve-des-vies">La mort sauve des vies</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		lundi 11 août 2008 &agrave; 07:26		<span>::</span> <a href="/blog?Pratique">Pratique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Nuage-TGV.jpg" alt="" /><br />
+Alain a enfin été transplanté d'un nouveau rein. En <a href="http://fr.wikipedia.org/wiki/Dialyse">dialyse</a> depuis plus de trois ans ("4500 heures passées avec des patients détestables, geignards, doucement résignés, agressifs avec celui qui ne rentrait pas dans le jeu de l'assistance infantilisante...", m'écrit-il), les séances se suivant au rythme d'une fois tous les deux jours, il "commençait" à déprimer salement&nbsp;! Sans rentrer dans les détails, il ne pouvait boire aucun liquide, ressentait "des modifications en profondeur de son métabolisme, perte de libido, fatigue permanente plutôt que souffrance, à part les crampes musculaires, le mal de dos, etc.". Mon ami ne pouvait quitter Paris sans qu'il y ait un centre de transfusion correct à proximité et surtout ne pas s'éloigner de son téléphone portable sans prendre le risque d'être absent lors d'un coup de fil lui annonçant que l'on a enfin trouvé un donneur. La liste d'attente est très longue et le rein doit être prélevé immédiatement et transplanté dans un délai idéal le plus court possible (<a href="http://fr.wikipedia.org/wiki/Isch%C3%A9mie">ischémie</a> froide) jusqu'à vingt-quatre heures. L'opération en dure environ quatre. Retour global à la normale dans les trois mois sauf problèmes de rejet intersticiel (traitable) ou chronique (retour à la dialyse). La première fois, il y a quinze ans, il avait hérité du rein d'une jeune fille. Cette fois, il apprend qu'il doit son nouvel organe à un homme de 35 ans mort par "autolyse (arme à feu)".<br />
+Si le <a href="http://fr.wikipedia.org/wiki/Suicide">suicide</a> de l'un permet à l'autre de vivre, voilà qui apporte une lumière fort différente sur les êtres qui choisissent de se supprimer. Déjà que je n'avais aucun jugement moral sur le suicide, cet exemple tendrait à lui conférer des lettres de noblesse, à condition que les candidats au trépas donnent leur corps à la médecine, ultime et paradoxal geste civique pour une société dans laquelle ils ne pensent plus avoir leur place.<br />
+De même, la loi interdisant la vitesse sur les autoroutes réduit le nombre de morts par accident de la route, mais diminuent les chances de vie de malades qui n'ont souvent commis aucune folie pour se retrouver handicapés. Il y a en effet beaucoup moins de <a href="http://fr.wikipedia.org/wiki/Don_d%27organe">donneurs</a> qu'auparavant. Ce serait pourtant juste que les fous du volant aient le choix de s'envoyer dans le décor en sauvant ainsi des vies humaines. Oui je sais bien que les suicidaires routiers sont aussi des assassins, mais cela devrait actualiser les statistiques de manière plus objective... En ces périodes de crise du pétrole, il serait de toute façon raisonnable de prendre le train plus souvent...<br />
+Dans tous les cas, en donnant son corps à la médecine et en autorisant le prélèvement d'organes en cas de mort accidentelle, on sauvera autant de vies qu'il en disparaîtra, voire plus, puisqu'un même donneur pourra sauver plusieurs patients affectés de dysfonctionnements différents !<br />
+Cette histoire montre qu'il y a une vie après la mort, même en petits bouts... Rien ne se perd, rien ne se crée. Tout n'est qu'affaire de décomposition et recomposition. Une sorte de Lego atomique dont les issues nous échappent, mais qui recale nos angoisses à l'échelle de l'univers, un petit rien dans un grand tout.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/11/1038-la-mort-sauve-des-vies#co"
+		title="commentaires pour : La mort sauve des vies">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : La mort sauve des vies">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">dimanche 10 août 2008</p>		
+		<h2 id="p1033" class="post-title"><a
+		href="/blog?2008/08/10/1033-online-encore-off-line">Online encore off line</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		dimanche 10 août 2008 &agrave; 07:41		<span>::</span> <a href="/blog?Pratique">Pratique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Online.net.jpg" alt="" /><br />
+Notre hébergeur est gonflé. Jusqu'ici, chaque fois qu'il y a eu une panne, et cela est arrivé cinq fois en un mois, ce qui donne sérieusement envie de changer de crèmerie, <a href="http://www.online.net/">Online.net</a> n'a pas prévenu ses usagers qui se sont retrouvés sur le <a href="http://www.online.net/support/chat.html">tchat</a> à partager leurs angoisses. La quatrième fois, c'était plus clair, notre hébergeur annonçant que le site Internet était en maintenance (image). Sauf que les lignes suivantes font de la retape pour le fournisseur défaillant&nbsp;! Il joue évidemment sur une ambiguïté&nbsp;: "le site Internet" (ici le blog) est de mon fait tandis que le gestionnaire de la plate-forme est celui à qui je loue l'espace de stockage. Escamotage des responsabilités. Tous ces déboires se sont multipliés depuis que Online a décidé de migrer vers un système plus puissant. C'est réussi&nbsp;! La dernière fois, on a eu le droit à un mot d'un des administrateurs sur le tchat pour nous faire patienter... Ces silences rappellent le scandale de la Hotline de Free avant qu'ils n'engagent du personnel à tours de bras. Online et Free appartiennent tous deux au Groupe <a href="http://iliad.fr/">Iliad</a>.<br />
+Comme je sais déjà me mettre en colère, de mon côté j'apprends la patience.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/10/1033-online-encore-off-line#co"
+		title="commentaires pour : Online encore off line">un commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Online encore off line">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">samedi  9 août 2008</p>		
+		<h2 id="p1037" class="post-title"><a
+		href="/blog?2008/08/09/1037-croquants-aux-amandes">Croquants aux amandes</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		samedi  9 août 2008 &agrave; 00:10		<span>::</span> <a href="/blog?Recettes-et-produits">Cuisine</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Croquants-aux-amandes.jpg" alt="" /><br />
+Avant de quitter La Ciotat, je demandai à Jean-Claude sa recette de croquants aux amandes dont le souvenir persiste des mois après que nous les ayons goûtés.<br /><br />
+Ingrédients :<br />
+500g farine<br />
+350g sucre en poudre (400g si plus sucré)<br />
+5 œufs<br />
+2 cuillerées à soupe d'eau de fleur d'oranger<br />
+350g amandes brutes<br /><br />
+Battre 4 œufs - ajouter l'eau de fleur d'oranger et le sucre - et touiller la pâte<br />
+Si l'on souhaite que ce soit plus souple (recommandé si l'on ne veut pas s'y casser les dents, c'est d'ailleurs le nom qu'on lui donnait dans le temps, casse-dents), ajouter 1 cuillerée à café d'huile d'olive et 1 cuillerée à soupe de miel !<br />
+Verser en pluie la farine en évitant soigneusement les grumeaux (c'est le plus fastidieux de la recette)<br />
+Ajouter les amandes en les répartissant - Touiller<br />
+Verser sur un plateau abondamment fariné<br />
+Pétrir avec ses mains farinées<br />
+Partager en deux rouleaux égaux - les aplatir (10cm large, 2 à 2,5cm haut)<br />
+Placer sur la plaque de four sur du papier sulfurisé et fariné sans que les deux rouleaux aplatis se touchent (prévoir quelques centimètres car il arrive qu'ils s'affaissent un peu)<br />
+Dessiner des losanges délicatement sur le dessus avec un couteau<br />
+Battre un œuf et badigeonner le dessus pour que ça dore (pinceau)<br />
+20 minutes environ au four à feu moyen<br />
+Couper les croquants quand c'est très chaud (après ils sont trop durs)<br />
+Laisser sécher quelques heures<br /><br />
+Bien que ce soit la première fois de ma vie que je fais de la pâtisserie, je ne m'en sors pas trop mal, mais je pourrais m'améliorer... Par exemple, en achetant de meilleures amandes&nbsp;: <em>sel</em> était écrit en tout petit sur le paquet et de plus elles étaient un peu rances. L'épicier égyptien de la rue d'Avron aurait été un choix plus judicieux que le Champion de la Porte des Lilas... Quel idiot&nbsp;!</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/09/1037-croquants-aux-amandes#co"
+		title="commentaires pour : Croquants aux amandes">3 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Croquants aux amandes">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">vendredi  8 août 2008</p>		
+		<h2 id="p1036" class="post-title"><a
+		href="/blog?2008/08/08/1036-onj-yvinek-yvinec">L'ONJ, une nouvelle jeunesse</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		vendredi  8 août 2008 &agrave; 00:15		<span>::</span> <a href="/blog?Musique">Musique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Yvinek.jpg" alt="" /><br />
+L'engagement du jeune Antonin Tri Hoang, 19 ans, encore au CNSM, et de l'empêcheuse de tourner en rond <a href="http://www.drame.org/blog/index.php?q=risser">Ève Risser</a>, qui vient d'obtenir brillamment son prix, m'a mis la puce à l'oreille. Le contrebassiste-arrangeur <strong><a href="http://www.yvinek.com/">Daniel Yvinec</a></strong>, qui prendra la direction artistique de l'<a href="http://www.onj.org/fr/index.html">Orchestre National de Jazz</a> à partir de septembre, révolutionne-t-il l'institution en formant un orchestre de jeunes musiciens plutôt qu'en réunissant ses potes ou des pointures éprouvées du monde du jazz comme le firent ses prédécesseurs&nbsp;? Ni une ni deux, je lui propose une rencontre avant mon départ de La Ciotat puisqu'il partage son temps entre Paris et Toulon.<br />
+Je connaissais Daniel pour la variété de ses œuvres et son intérêt pour toutes les musiques sans exception, un boulimique passionné, <a href="http://www.yvinek.blogspot.com/">blogueur</a> et chroniqueur dans les mêmes canards où j'opère moi-même de temps en temps, Jazz magazine et Muziq. Je ne suis pas déçu, la curiosité et la générosité de celui qui se fait aussi appeler Yvinek lorsqu'il s'électrifie guident ses choix, tant pour la constitution et l'organisation de l'ensemble de dix musiciens que pour le répertoire à créer.
+De mèche avec Mohamed Gastli qui assure la coordination artistique, Daniel fait passer cent cinquante auditions, plus ou moins informelles, il arpente les conservatoires, lance des sondes téléphoniques, apprend comment fonctionne la machine ONJ, et accouche d'une distribution étonnante, puisqu'elle réunit essentiellement de jeunes musiciens pour la plupart encore inconnus, des personnalités fortes, poly-instrumentistes de préférence, curieuses de toutes les musiques, aptes à travailler collectivement, des gentils comme j'aime les appeler. L'orchestre n'a rien d'un big band ou d'un ensemble équilibré dans les normes de la convention, pas de tromboniste (parce qu'aucun n'était assez poly-instrumentiste), pas de vibraphoniste, mais pas mal de jeunes gens doués pour les instruments électroniques et l'informatique.<br />
+En marge de l'entretien de deux heures que je dois encore décrypter, je vous livre donc d'abord la composition de ce tentet qui met l'eau à la bouche.<br /><br />
+<strong><a href="http://www.myspace.com/rissereve">Ève Risser</a></strong> piano préparé / flûtes en sol, alto et basse / électrophone / instruments jouets<br />
+<strong><a href="http://www.paulbrousseau.com/">Paul Brousseau</a></strong> clavier / guitare / percussions / basse &amp; basse électronique / batterie / effets  électroniques<br />
+<strong><a href="http://www.myspace.com/pierreperchaud">Pierre Perchaud</a></strong> guitares acoustique et électrique / banjo / dobro<br />
+<strong><a href="http://www.myspace.com/jocelynmienniel">Jocelyn Miennel</a></strong> flûtes en sol, alto et basse / saxophones soprano, alto, soprano, ténor et baryton / clavier / traitements électroniques<br />
+<strong>Rémi Dumoulin</strong> saxophones soprano, alto et baryton / clarinette &amp; clarinette basse<br />
+<strong><a href="http://matthieu.metzger.free.fr/">Matthieu Metzger</a></strong> saxophones alto, soprano, ténor / traitement électro-acoustique / programmation éléctronique<br />
+<strong><a href="http://www.antonintrihoang.com">Antonin Tri Hoang</a></strong> saxophone alto, clarinette, clarinette basse / piano<br />
+<strong><a href="http://www.myspace.com/guillaumeponcelet">Guillaume Poncelet</a></strong> trompette / piano et Rhodes / synthétiseur, effets électroniques<br />
+<strong><a href="http://www.myspace.com/yoannserra">Yoann Serra</a></strong> batterie<br />
+et un bassiste dont le nom n'est pas encore définitif au moment où je tape ces lignes, d'autant que Daniel ne jouera pas dans l'orchestre, préférant garder le recul sur la musique en jouant à fond son rôle de directeur artistique.<br /><br />
+Dès les premières présentations publiques, les musiciens auront le loisir de présenter des petites formes pour apprendre à se connaître et à se faire connaître. La programmation 2009 sera constituée de trois projets :<br />
+<em>Around Robert Wyatt</em>, où l'icône pop (ou unpop, comme il préfère lui-même se présenter) aura enregistré sa voix au préalable, l'orchestre l'accompagnant en direct avec des vidéos réalisées par Antoine Carlier.<br />
+<em>Broadway in Satin</em>, autour des chansons de Billie Holiday et cette fois avec des chanteurs sur scène.<br />
+<em>Carmen</em>, le film muet de Cecil B.DeMille (1915), sera présenté à l'Opéra Comique avec une partition originale et le duo Ambitronix (Benoît Delbecq et Steve Argüelles) en invités libres.<br />
+Voilà, c'est un petit aperçu du prochain ONJ, mais je vous retrouve, ici ou ailleurs, dès que j'aurai retranscrit l'entretien avec son nouveau chef, un musicien épris d'aventures, qui ne craint pas de prendre des risques pour imaginer de nouvelles couleurs orchestrales, timbres inouïs qui devront coller chaque fois au projet rêvé. Ce défi de faire voler les enclumes me fait trépigner d'impatience&nbsp;!</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/08/1036-onj-yvinek-yvinec#co"
+		title="commentaires pour : L'ONJ, une nouvelle jeunesse">11 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : L'ONJ, une nouvelle jeunesse">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">jeudi  7 août 2008</p>		
+		<h2 id="p1035" class="post-title"><a
+		href="/blog?2008/08/07/1035-intermede-champetre">Intermède bucolique</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		jeudi  7 août 2008 &agrave; 07:03		<span>::</span> <a href="/blog?Voyage">Voyage</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Canetons.jpg" alt="" /><br />
+Même de dos, la cane me surveille du coin de l'œil. Elle a surtout du mouron à se faire pour protéger ses onze canetons contre leurs cinq aînés qui ne rêvent que de les noyer. La mère canard y va du bec sans hésitation, elle pince et leur vole dans les plumes. Au milieu de la nuit, on entend parfois un grand plouf. Pas d'angoisse, tout le monde se jette à l'eau en attendant que le matou soit passé. Le jour, toute la marmaille court dans l'herbe pour gober les insectes ou creuser les tomates. Lorsque leur bac à grains est vide, les grands caquètent, les petits piaillent. Difficile de prendre une photo qui ne soit pas floue, les petits s'activant sans cesse par mouvements tremblés. Nous quittons ces scènes bucoliques pour le train à grande vitesse et la flotte sans sel du bassin parisien.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/07/1035-intermede-champetre#co"
+		title="commentaires pour : Intermède bucolique">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Intermède bucolique">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">mercredi  6 août 2008</p>		
+		<h2 id="p1034" class="post-title"><a
+		href="/blog?2008/08/06/1034-tout-nus-tout-cuits">Tout nus tout cuits</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		mercredi  6 août 2008 &agrave; 07:24		<span>::</span> <a href="/blog?Voyage">Voyage</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Liberte.jpg" alt="" /><br />
+Malgré des coups de soleil à des endroits rarement exposés, la journée de lundi a été merveilleuse. Maurice nous a emmenés au Cap Sicié avec son pointu dont le nom lui va comme une paire de palmes. Le spectacle sous-marin était aussi fabuleux que la côté déchiquetée où nous avons accosté pour pique-niquer avec dégustation d'arapèdes (appelées berniques en Bretagne) et de spécialités locales. Ayant dû plonger sous le bateau, je suis très fier d'avoir réussi à réparer un boute en train de se sectionner au-dessus de l'ancre, retrouvant ainsi mon apnée juvénile. Nous avons ensuite plongé autour des Deux frères, deux gros rochers au large où vient brouter toute la faune sous-marine. Retour de manivelle à Fabrégas pour treuiller la barque sur ses rails en cale sèche après avoir réenfilé nos calcifs. Ce petit tour en mer, comme dirait Yves Afonso dans Maine Océan, m'a donné envie d'acheter un bateau alors que je ne sais même pas en conduire. Françoise a le permis, c'est déjà ça&nbsp;! Mais puisque j'aime le silence et la mer, la flotte et le désert, la faune et la flore sous-marine, la migration et le changement, je me demande sérieusement si une maison est bien adaptée à mes rêves de futur vacancier.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/06/1034-tout-nus-tout-cuits#co"
+		title="commentaires pour : Tout nus tout cuits">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Tout nus tout cuits">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">mardi  5 août 2008</p>		
+		<h2 id="p1032" class="post-title"><a
+		href="/blog?2008/08/05/1032-le-pecheur-de-poissons-vivants">Le pêcheur de poissons vivants</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		mardi  5 août 2008 &agrave; 07:07		<span>::</span> <a href="/blog?Voyage">Voyage</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Gerard-Carrodano.jpg" alt="" /><br />
+En revenant d'une baignade en mer, nous nous sommes amarrés le long du Barbe d'or, le bateau de Gérard Carrodano (au centre sur la photo), ex-vice champion du monde de chasse sous-marine reconverti en pêcheur de poissons vivants. C'est d'ailleurs le nom de <a href="http://www.poissons-vivants.com">son site</a> et c'est par Internet qu'il communique avec ses clients, aquariums privés ou publics. Le téléchargement du reportage tourné par France 3 est riche d'enseignement, mais pas autant que la visite de ses grandes cuves remplies des poissons qu'il a remontés palier par palier, pour leur permettre de décompresser. Il faut 48 heures à certaines espèces pour faire les 30 mètres qui les séparent de la surface, sinon leur vessie natatoire explose ou leurs viscères sont endommagés. Gérard leur permet de retrouver un équilibre avant des les expédier en UPS à travers l'Europe. Le palangre et la grande épuisette sont ses outils, mais il a inventé tout un système de bonbonnes pour faire remonter doucement les poissons. Il sait aussi crever la vessie natatoire sans les blesser et à la surface, il leur prodigue tous les soins nécessaires (antibiotiques, etc.) pour les déstresser et leur faire accepter leur nouvel environnement. À chaque espèce correspond un traitement particulier.<br /><br />
+<img src="/blog/images/2008/Aout 2008/Grondin-Perdon.jpg" alt="" /><br />
+Gérard nous montre comment il caresse barracudas et murènes comme tous ceux qu'il a apprivoisés. Si certaines grosses pièces ne trouvent pas rapidement preneur, il les relâche plutôt que de s'en faire un petit frichti. Il a élu domicile dans un des baraquements containers au bout du quai de la Ciotat où il vit parmi ses oursins crayons, ses gigales de mer, ses poissons soldats, ses mendoles, ses grondins perdons (photo de l'animal qui déploie ses nageoires bordées de turquoise dès que l'on passe la main au-dessus de lui), ses chiens et les canards que Rosette et Jean-Claude lui ont donnés pour animer le port. Lorsque j'avais fait de la plongée aux Antilles, j'avais découvert ce monde fabuleux du fond des mers, jardins extraordinaires dont les habitants sont joueurs, tendres et libres.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/05/1032-le-pecheur-de-poissons-vivants#co"
+		title="commentaires pour : Le pêcheur de poissons vivants">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Le pêcheur de poissons vivants">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">lundi  4 août 2008</p>		
+		<h2 id="p1031" class="post-title"><a
+		href="/blog?2008/08/04/1031-appelez-moi-madame-1">Appelez-moi Madame 1</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		lundi  4 août 2008 &agrave; 07:47		<span>::</span> <a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Francoise-Romand.jpg" alt="" /><br />
+<a href="http://www.romand.org">Françoise</a> m'a demandé de filmer son interview pour accompagner le DVD de son second film, <em>Appelez-moi Madame</em>, qui sortira en novembre. Nous avons embarqué à bord du pointu de Jean-Claude pour tourner au large. En 1986, son film se passait en Normandie, au bord de la Manche et au Moulin d'Andée. Vingt-deux ans plus tard, elle choisit la Méditerranée, près de sa ville natale de La Ciotat. De retour à terre, elle s'aperçoit qu'elle aurait aimé apporter certaines précisions que les embruns lui ont fait oublier. Comme il n'est pas question de recommencer, je lui suggère d'ajouter ces détails en sous-titres ou en commentaires de son entretien, rajoutant une couche critique à ses souvenirs. <a href="http://www.romand.org/lienspages/Dossiers.htm">Appelez-moi Madame</a> est l'histoire d'un militant communiste, marié et père d’un adolescent, qui, dans un petit village normand, devient transsexuel à 55 ans, aidé par sa femme. Comme le précédent, <a href="http://www.drame.org/blog/index.php?2006/12/05/353-mix-up-ou-meli-melo">Mix-Up ou Méli-Mélo</a> (édité en DVD par Lowave), le second film de Françoise Romand eut un retentissement extraordinaire aux États-Unis et fut complètement ignoré en France. Les DVD apportent une seconde chance aux films. Le sien sortira en DVD (édité cette fois par alibi) peu après son nouveau Ciné-Romand (<a href="http://www.drame.org/blog/index.php?2007/03/12/448-cine-romand-facon-gala">1</a> <a href="http://www.drame.org/blog/index.php?2007/03/19/455-cine-romand-facon-gala-ii">2</a> <a href="http://www.drame.org/blog/index.php?2007/03/20/456-photos-romand-par-aldo-sperber">3</a>) qui se tiendra à La Bellevilloise le dimanche 26 octobre prochain. On en reparle.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/04/1031-appelez-moi-madame-1#co"
+		title="commentaires pour : Appelez-moi Madame 1">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Appelez-moi Madame 1">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">dimanche  3 août 2008</p>		
+		<h2 id="p1029" class="post-title"><a
+		href="/blog?2008/08/03/1029-regime-vacances">Régime vacances</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		dimanche  3 août 2008 &agrave; 07:02		<span>::</span> <a href="/blog?Pratique">Pratique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Collerette.jpg" alt="" /><br />
+Depuis quelques jours, Scotch était tout penaud. Il ne sortait presque plus, restait allongé sur le lit ou le carrelage du matin au soir et du soir au matin. La vétérinaire avait dû lui enfiler une colerette pour lui éviter de se lécher l'arrière-train. Notre chat s'est fait piquer par un insecte, abeille, guêpe ou puce, à un endroit très délicat. Cortisone, antibiotique, puis nettoyage à l'alcool à 70°, bétadine iodée et pommade, deux ou trois fois par jour. Il miaule doucement, mais se laisse faire. C'est pathétique. Il marche la tête basse, raclant le sol avec son costume en plastique, rasant les murs. Son accoutrement lui permet-il d'écouter les sons du monde avec plus d'acuité&nbsp;? Il entend le moindre lézard, les ailes du papillon, une feuille qui tombe du platane, mais il reste plaqué au sol, engoncé dans son carcan. Quelle ne fut pas sa joie lorsque nous lui avons enfin ôtée !<br />
+Contrairement aux idées reçues, nous apprenons que l'on appelle puces du chat les puces des hommes et qu'elles peuvent se passer à tout le monde contrairement à celles du chien. Heureusement Scotch n'en a pas. Il ne manquerait plus que ça. Nous espérons lui enlever sa fraise Henri III avant le voyage en train pour lequel Rose nous a donné un panier solide, ses huit kilos ayant eu raison du précédent, pardon, 7kg800, il faut bien que les vacances servent à quelque chose. Par solidarité, j'ai arrêté le fromage, les laitages, les graisses cuites, la charcuterie. J'ai appris que j'avais un peu trop de cholestérol. Voilà ce que c'est d'abuser des bonnes choses&nbsp;! J'attendais une bonne occasion pour perdre quelques kilos, mais je refuse d'enfiler des moufles pour ne pas me gratter la tête lorsque je réfléchis à mon nouveau régime... Cela ne fait pas rire le chat. Celui-là est gentil, mais il n'a jamais eu aucun humour.</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/03/1029-regime-vacances#co"
+		title="commentaires pour : Régime vacances">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Régime vacances">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">samedi  2 août 2008</p>		
+		<h2 id="p1030" class="post-title"><a
+		href="/blog?2008/08/02/1030-wall-e-nul">Wall-E, un film sur le retour</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		samedi  2 août 2008 &agrave; 06:55		<span>::</span> <a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/5e16U8UsT4I&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/5e16U8UsT4I&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object><br />
+Si Kung-Fu Panda est nullissime, juste bon pour des garçonnets attardés, <a href="http://disney.go.com/disneypictures/wall-e/">Wall-e</a> est une grosse déception venant des créateurs du <em>Monde de Némo</em>, le petit poisson malin. Comment la presse peut-elle faire sa une d'un truc aussi fadasse sans être achetée par ses annonceurs ? Qu'on me comprenne, ceux qui ont adoré le lénifiant <em>E.T.</em> y trouveront leur bonheur, les autres se lasseront vite des clins d'œil référentiels (rien que dans la bande-annonce, ça pullule, alors imaginez un long-métrage sur ce modèle !), du sirop symphonique (noyant les effets sonores dont les quotidiens se sont abondamment fait l'écho, et puis, un peu de modulateur en anneau et de vocodeur sur les voix, ce n'est pas la mer à boire, cling clong rrrrek), des minauderies du couple de robots anthropomorphiques (ça nous ferait vomir sur les sentiments amoureux, tant c'est saturé de sucre mielleux), des éternels plans de New York détruit (dans les films américains, c'est toujours le symbole de la Terre, quelle imagination !), de la répétition des scènes robotiques autrement moins visionnaires que chez Chaplin... Techniquement, c'est bien fait, mais la morale de l'histoire est bien con-con. Les humains obèses et impotents reviennent coloniser la planète puisque les plantes vertes y ont retrouvé leur oxygène. Ah, ça finit bien ? Alors allons-y, on peut tout casser, ça repousse !<br />
+Heureusement que <em>Presto</em>, le court-métrage Pixar qui précède cette duperie, m'a fait rigoler. C'est l'histoire d'un petit lapin qui refuse de jouer le jeu de son maître illusionniste tant qu'il n'aura pas croqué sa carotte. Comme dans <em>Hellzapoppin</em>, les catastrophes enthousiasment le public. Ça ne va pas loin, mais au moins la destruction ne nécessite pas de caution morale. La régression est explicite.		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/02/1030-wall-e-nul#co"
+		title="commentaires pour : Wall-E, un film sur le retour">17 commentaires</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Wall-E, un film sur le retour">
+        
+        </a></p>
+	</div>
+	<div class="post">
+		<p class="day-date">vendredi  1 août 2008</p>		
+		<h2 id="p1028" class="post-title"><a
+		href="/blog?2008/08/01/1028-1907-2007-100-ans-construction-europeenne-pierre-oscar-levy-jean-jacques-birge-bernard-vitet">Tant d'images et de musique pour une Europe en 2 mn</a></h2>
+		
+		<p class="post-info">Par Jean-Jacques Birgé,
+		vendredi  1 août 2008 &agrave; 00:02		<span>::</span> <a href="/blog?Musique">Musique</a><br>
+
+		
+		</p>
+		
+		<div class="post-content" lang="fr">
+			<p><img src="/blog/images/2008/Aout 2008/Europa.jpg" alt="" /><br />
+Un an après que nous ayons terminé le clip <em>Europa</em> avec le réalisateur Pierre-Oscar Lévy, il est enfin <a href="http://www.kaos-films.com/fr/institutionnel/prestige/1907-2007">visible sur le site de Kaos</a>, son producteur. Le film a été rebaptisé pour la énième fois, <em>1907-2007&nbsp;: 100 ans de construction européenne</em>. L'enjeu de présenter le sujet en deux minutes était dément, tant la profusion des documents aurait pu devenir étouffante, tant il était difficile de ménager les 27 pays membres, tant nombre d'entre nous ne partage pas les options européennes telles qu'elles figurent dans les textes, tant il était difficile de composer une musique qui embrasse le cahier des charges dans un temps si court. Au delà du message dont je doute personnellement (un traité se déchire plus vite qu'il ne se signe), Pierre-Oscar a réussi son coup au-delà de toutes les espérances. Unanimement salué, le film est introduit par un prologue en noir et blanc relatant ce qu'il aurait fallu éviter à tout prix de reproduire dans l'Histoire à venir. Jouant de l'opposition noir et blanc / couleurs de façon didactique et élégante, remontant les images après l'enregistrement de la musique (relatées les 10 juillet et 12 juillet de l'année dernière, sous les titres <a href="http://www.drame.org/blog/index.php?2007/07/10/588-l-europe-l-europe-l-europe">L'Europe, l'Europe, l'Europe</a> et <a href="http://www.drame.org/blog/index.php?2007/07/12/590-octuor-pour-27-nations">Octuor pour 27 nations</a>), le réalisateur a donné son rythme au clip en lui insufflant un souffle épique et intégrant de façon brechtienne une multitude de sens. Compositeurs de la musique originale, Bernard Vitet et moi-même (également responsable des effets sonores), tenons à saluer ici l'ingénieur du son, Fabrice Maria, et les huit musiciens qui nous ont secondés avec brio et convivialité&nbsp;: David Venitucci (accordéon), Hervé Legeay (guitares), Ronan Le Bars (uillean pipes), Éric Échampard (batterie) et le Quatuor IXI composé de Régis Huby et Irène Lecoq (violons), Guillaume Roy (alto) et Alain Grange (violoncelle).</p>		</div>
+		
+		<p class="post-info-co"><a href="/blog?2008/08/01/1028-1907-2007-100-ans-construction-europeenne-pierre-oscar-levy-jean-jacques-birge-bernard-vitet#co"
+		title="commentaires pour : Tant d'images et de musique pour une Europe en 2 mn">aucun commentaire</a>
+		<span>::</span> <a href="?php dcPostURL(); ?>#tb"
+		title="trackbacks pour : Tant d'images et de musique pour une Europe en 2 mn">
+        
+        </a></p>
+	</div>
+		
+		
+	</div>
+</div>
+
+<div id="sidebar">
+
+    <h2 align="left">&nbsp;Blog g&eacute;n&eacute;raliste</h2>
+    <br />
+        &nbsp;   &nbsp; --- 18e année ---<br />
+    &nbsp;&nbsp;Cr&eacute;&eacute; en ao&ucirc;t 2005<br />
+        &nbsp; 5200 articles<br />
+    &nbsp;&nbsp;<a href="http://blogs.mediapart.fr/blog/jean-jacques-birge" target="_blank">+ en miroir sur Mediapart</a><br />
+    &nbsp;&nbsp;Contact:<em> info(at)drame.org</em><br />
+    <br />
+    <p><strong>ÉVÈNEMENTS</strong></p>
+    <p>&nbsp;&nbsp; &nbsp; Le superbe vinyle<em> <em><a href="http://www.drame.org/2/Musique.php?D=168" title="Fictions" target="new"><em><strong>Fictions</strong></em></a></em><br />
+      &nbsp;&nbsp; &nbsp; </em>duo avec<strong> Lionel Martin</strong><br />
+&nbsp;&nbsp; &nbsp; sérigraphie d'<strong>Ella &amp; Pitr</strong><br />
+ &nbsp;&nbsp; &nbsp; est sur <strong><a href="https://ouchrecords.bandcamp.com/album/fictions-2" target="new">Bandcamp</a></strong><em><br />
+      <br />
+      &nbsp;&nbsp; &nbsp; </em><strong>Reformation du Drame</strong><br />
+      <em>&nbsp;&nbsp; &nbsp; </em>avec F.Gorgé et D.Meens<br />
+      <em>&nbsp;&nbsp; &nbsp; <strong>Plumes et poils</strong></em> - 2022<br />
+      <em>&nbsp;&nbsp; &nbsp; </em>CD GRRR, <a href="https://jjbirge.bandcamp.com/album/plumes-et-poils" title="sur Bandcamp" target="new">sur Bandcamp</a><br />
+      <em><br />
+      </em>&nbsp;&nbsp; &nbsp;Sur le label allemand Psych.KG<br />
+      &nbsp;&nbsp; &nbsp;sont parus, en microsillon 17 cm<br />
+      &nbsp;&nbsp; &nbsp;une pièce de <strong>JJB</strong> de 1972,<br />
+      &nbsp;&nbsp;&nbsp; et 2 cassettes à tirage limité<br />
+      &nbsp;&nbsp;&nbsp; de <strong>Birgé Gorgé</strong> et du <strong>Drame</strong>.<br />
+&nbsp;&nbsp;&nbsp; Suivra en fin d'année un LP<br />
+&nbsp;&nbsp;&nbsp; avec une pièce inédite du <strong>Drame</strong><br />
+&nbsp;&nbsp;&nbsp; de 19 minutes datée de 1976...<br />
+  <br />
+  &nbsp;&nbsp; &nbsp;France Musique - Podcast<strong><br />
+    <a href="https://www.radiofrance.fr/francemusique/podcasts/ocora-couleurs-du-monde/le-monde-de-jean-jacques-birge-7046842" title="Ocora Couleurs du Monde" target="new"><em>&nbsp;&nbsp; &nbsp;Ocora Couleurs du Monde</em></a><br />
+    </strong>&nbsp;&nbsp; &nbsp;Émission de Françoise Degeorges<br />
+      &nbsp;&nbsp; &nbsp;sur Jean-Jacques Birgé<br />
+      <br />
+      &nbsp;&nbsp; &nbsp;6 pages dans la BD <em><strong><a href="http://www.drame.org/blog/index.php?2021/04/19/4753-underground-bd" target="new">Underground</a></strong><br />
+  &nbsp;&nbsp;&nbsp; </em>d'A. Le Gouëfflec et N. Moog <strong><br />
+    <br />
+    ALBUMS RÉCENTS</strong> de JJB<em><strong><br />
+    <br />
+&nbsp;&nbsp; &nbsp; </strong><em><a href="https://jjbirge.bandcamp.com/album/Chou" target="new"><strong>Chou</strong></a></em><br />
+<strong>&nbsp;&nbsp; &nbsp; </strong> </em>trio avec <strong>Sophie Agnel</strong><br />
+<strong>&nbsp;&nbsp; &nbsp; </strong> et <strong>David Fenech</strong><em><strong><br />
+    </strong></em></p>
+    <p><strong>&nbsp;&nbsp; &nbsp; </strong><em><a href="https://jjbirge.bandcamp.com/album/-" target="new"><strong>***</strong></a></em><br />
+      <strong>&nbsp;&nbsp; &nbsp; </strong> trio avec <strong>Fabiana Striffler</strong><br />
+      <strong>&nbsp;&nbsp; &nbsp; </strong> et <strong>Csaba Palotaï</strong><br />
+      <em><strong><br />
+      &nbsp;&nbsp; &nbsp; <a href="https://jjbirge.bandcamp.com/album/sc-nographie" target="new">Scénographie</a></strong><br />
+      <strong>&nbsp;&nbsp; &nbsp; </strong> </em>duo avec <strong>Gwennaëlle Roulleau</strong><em><strong><br />
+      <br />
+      &nbsp;&nbsp; &nbsp; </strong><a href="http://www.drame.org/2/Musique.php?D=171" title="Only Once" target="new"><strong>Only Once</strong></a><br />
+      <strong>&nbsp;&nbsp; &nbsp; </strong></em>trio avec <strong>Hélène Breschand</strong><br />
+      <strong>&nbsp;&nbsp; &nbsp; </strong>      et <strong>Uriel Barthélémi</strong> <em><br />
+      </em><strong><br />
+      &nbsp;&nbsp; &nbsp; <a href="http://www.drame.org/2/Musique.php?D=170" title="Exotica" target="new"><em>Exotica</em></a><br />
+      &nbsp;&nbsp; &nbsp; </strong>trio avec <strong>François Corneloup<br />
+      &nbsp;&nbsp; &nbsp; </strong>et<strong> Philippe Deschepper<br />
+      <br />
+      &nbsp;&nbsp; &nbsp;<em><a href="http://www.drame.org/2/Musique.php?D=169" target="To be or net to be">To be or net to be</a></em><br />
+      &nbsp;&nbsp; &nbsp; </strong>trio avec <strong>Blaise Naudet<br />
+      &nbsp;&nbsp; &nbsp; </strong>et<strong> Gilles Coronado</strong><strong><br />
+      <br />
+      &nbsp;&nbsp; &nbsp;</strong><a href="http://www.drame.org/2/Musique.php?D=166" title="Tout abus sera puni" target="new"><em><strong>Tout abus sera puni</strong></em></a>, trio avec<br />
+      &nbsp;&nbsp; &nbsp;<strong>Naïssam Jalal</strong> et <strong>Mathias Lévy</strong><br />
+      <br />
+      &nbsp;&nbsp; &nbsp;<strong><a href="http://www.drame.org/2/Musique.php?D=167" title="L'air de rien" target="new"><em>L'air de rien</em></a></strong>, trio avec<br />
+      &nbsp;&nbsp;&nbsp; <strong>Élise Caron</strong> et <strong>Fidel Fourneyron</strong><br />
+      <br />
+      &nbsp;&nbsp; &nbsp;Double CD <strong><em><a href="http://www.drame.org/2/Musique.php?D=164" title="Pique-nique au labo" target="new">Pique-nique au labo</a></em><br />
+      </strong>&nbsp;&nbsp; &nbsp;avec 29 musiciennes et musiciens<br />
+      &nbsp;&nbsp;&nbsp;(GRRR, dist. Orkhêstra)<em><strong><br />
+      &nbsp;&nbsp;&nbsp;</strong></em>Également sur <strong><a href="https://jjbirge.bandcamp.com/album/pique-nique-au-labo" target="new">Bandcamp</a></strong><em><strong><br />
+      </strong><br />
+      <strong>&nbsp;&nbsp; &nbsp;</strong></em>CD<em><strong> <a href="http://www.ville-ge.ch/meg/collections_05.php" title="Perspectives du XXIIe siècle" target="new">Perspectives du XXIIe siècle</a></strong></em><br />
+      <em>&nbsp;&nbsp; &nbsp;</em>avec <strong>N.Chedmail, J-F. Vrod,<br />
+      <em>&nbsp;&nbsp; &nbsp;</em>A-T. Hoang, S. Lemêtre</strong>...<strong><br />
+      <em>&nbsp;&nbsp; &nbsp;</em></strong></strong>(MEG-AIMP, dist.Word and Sound)<strong><br />
+      <br />
+      À REGARDER</strong><em><br />
+      <br />
+      <strong>&nbsp;&nbsp;&nbsp; </strong></em><a href="https://vimeo.com/showcase/7117346" title=" six clips" target="_blank">Les 12<strong> clips</strong> inspirés par le<br />
+          nouveau CD de JJB et réalisés par <strong><br />
+          Nicolas Clauss, Sonia Cruchon, <br />
+          Valéry Faidherbe, Jacques Perconte,</strong></a><em><strong><br />
+      </strong></em><strong><a href="https://vimeo.com/showcase/7117346" title=" six clips" target="_blank"><strong>    </strong></a>      <a href="https://vimeo.com/showcase/7117346" title=" six clips" target="_blank"><strong>John Sanborn</strong>, <strong>Eric Vernhes</strong></a></strong><em><strong><em>...<br />
+      </em></strong><br />
+      <strong>&nbsp;&nbsp;&nbsp; </strong><a href="https://youtu.be/0JLKQV365zA" title="Coronavirus #01" target="new"><strong>Coronavirus #01</strong></a></em> (1'38)<em><br />
+      </em><strong>&nbsp;&nbsp;&nbsp; </strong>avec <strong>Stéphane Cattaneo</strong><a href="https://de.wikipedia.org/wiki/Didi_Bruckmayr" target="new"><br />
+      </a><a href="https://de.wikipedia.org/wiki/Didi_Bruckmayr" target="new"><br />
+      <strong>&nbsp;&nbsp; &nbsp;</strong></a><em><strong><a href="https://blogs.mediapart.fr/jean-jacques-birge/blog/111019/nonselves-remix-musical-des-videos-de-john-sanborn">Nonselves</a></strong></em>, performance<br />
+      <strong>&nbsp;&nbsp; &nbsp;</strong>avec les vidéos de<strong> </strong><a href="https://en.wikipedia.org/wiki/John_Sanborn_(media_artist)"><strong>John Sanborn</strong></a><br />
+      <br />
+      <strong>À ÉCOUTER</strong><br />
+      <br />
+      <strong>&nbsp;&nbsp; <a href="http://www.drame.org" target="_blank"><em>Radio Drame : </em></a></strong><a href="http://www.drame.org/2/Musique.php?MP3" target="_blank">174 heures d'inédits</a><br />
+      &nbsp;&nbsp;  Programme aléatoire<br />
+      <br />
+      &nbsp;&nbsp; <a href="https://jjbirge.bandcamp.com/">61 disques</a><a href="https://jjbirge.bandcamp.com/"> de Birgé et du <br />
+      &nbsp;&nbsp; Drame dont certains en exclusivité<br />
+      <strong>&nbsp;&nbsp; </strong>sont sur <strong>BandCamp</strong></a><br />
+      <strong><br />
+    LP &amp; CD</strong> <strong>RÉCENTS</strong></p>
+    <p></a><strong>&nbsp;&nbsp; <a href="https://jjbirge.bandcamp.com/album/the-100th-anniversary-1952-2052">Le CENTENAIRE de JJB<br />
+    </a>&nbsp;&nbsp; <a href="https://jjbirge.bandcamp.com/album/the-100th-anniversary-1952-2052">avec 15 musiciens et musiciennes<br />
+    </a><em>&nbsp;&nbsp; </em></strong><em>dist. Orkhêstra et Allumés du Jazz</em><strong><a href="https://jjbirge.bandcamp.com/album/the-100th-anniversary-1952-2052"><br />
+    </a>&nbsp;&nbsp; <a href="https://jjbirge.bandcamp.com/album/the-100th-anniversary-1952-2052">salué par la presse :</a><br />
+&nbsp;&nbsp; </strong>Libération, Télérama, CitizenJazz, <br />
+<strong>&nbsp;&nbsp; </strong>The Wire, L'Humanité, Impro Jazz,<br />
+<strong>&nbsp;&nbsp; </strong>natomusic, L'autre quotidien, <br />
+<strong>&nbsp;&nbsp; </strong>Vital Weekly, France Musique,<br />
+<strong>&nbsp;&nbsp; </strong>etc.<strong><br />
+      &nbsp;&nbsp; &nbsp;</strong><em><br />
+      <strong>&nbsp;&nbsp; &nbsp;</strong></em><strong>5 rééditions d'Un D.M.I.<br />
+      &nbsp;&nbsp; &nbsp;pour la 1ère fois en CD :</strong><em><strong><br />
+      <a href="http://klanggalerie.com/gg221"> <strong>&nbsp;&nbsp; &nbsp;<em>Rideau ! </em></strong></a></strong>(1980)<strong><strong>, <em><a href="http://www.drame.org/2/Musique.php?D=149">À travail égal </a></em><br />
+      <strong>&nbsp;&nbsp; &nbsp;</strong><em><a href="http://www.drame.org/2/Musique.php?D=149">salaire égal</a></em> </strong></strong>(1981),<strong> <a href="https://www.klanggalerie.com/gg401">Les bons <br />
+      </a><strong><strong>&nbsp;&nbsp; &nbsp;</strong></strong><a href="https://www.klanggalerie.com/gg401">contes font les bons amis</a></strong> (1983),<strong><strong><br />
+      </strong>      &nbsp;<strong><strong>&nbsp;&nbsp; </strong></strong><a href="http://klanggalerie.com/gg277">L'homme à la caméra</a> </strong><a href="http://klanggalerie.com/gg277">+ La  </a><br />
+      <strong>&nbsp;&nbsp; &nbsp;</strong><a href="http://klanggalerie.com/gg277">glace à trois faces</a></em> (inédit, 1984),<br />
+      <em><strong>&nbsp;&nbsp; &nbsp;</strong></em><a href="https://www.klanggalerie.com/gg290" title="Carnage"><em><strong>Carnage</strong></em></a> (1985) sur Klang Galerie<br />
+      &nbsp; &nbsp; toutes avec des bonus inédits !<br />
+      <br />
+      <strong><a href="http://klanggalerie.com/gg283?fbclid=IwAR26dsisFpj03v5uAqJgzIGTz5CGYpNLCx0pdu5JSF3fmbxYt6yCn-EnFqk">&nbsp;&nbsp; </a></strong><a href="http://klanggalerie.com/gg283?fbclid=IwAR26dsisFpj03v5uAqJgzIGTz5CGYpNLCx0pdu5JSF3fmbxYt6yCn-EnFqk"><em>Rendez-vous</em> CD inédit du duo <br />
+      <strong>&nbsp;&nbsp; </strong><strong>J-J.Birgé et Hélène Sage</strong> (1981)<br />
+      <strong>&nbsp;&nbsp; </strong>sur le label autrichien Klanggalerie</a><br />
+      <br />
+      <strong>&nbsp;&nbsp; </strong><em><a href="http://www.drame.org/blog/index.php?2019/04/12/4119-aux-ronds-points-avec-les-allumes">Aux Ronds-Points des Allumés du<br />
+      <strong>&nbsp;&nbsp; </strong>Jazz</a></em><a href="http://www.drame.org/blog/index.php?2019/04/12/4119-aux-ronds-points-avec-les-allumes">, LP collectif avec entre autres<br />
+      <strong>&nbsp;&nbsp; JJB, A. Casadamont, S. Gattino,<br />
+      &nbsp;&nbsp; S. Lemêtre, S. Rifflet</strong>...</a><br />
+      <br />
+</p>
+<div id="translate">
+  <h2>Translate</h2>
+		<ul>
+		  <li><a href=http://translate.google.com/translate?u=http%3A%2F%2Fwww.drame.org%2Fblog%2F&langpair=fr%7Cen&hl=en&ie=UTF8>Fast English translation (click here)</a></li>
+	  </ul>
+	</div>
+	<div id="search">
+		<form action="/blog" method="get">
+		
+			<h2><label for="q">Rechercher</label></h2>
+			<p class="field"><input name="q" id="q" type="text" size="10"
+			value="" accesskey="4" />
+			<input type="submit" class="submit" value="ok" /></p>
+		
+		</form>
+	</div>
+	
+			
+		
+	<div id="categories">
+		<h2>Articles r&eacute;cents par th&egrave;me</h2>
+		<ul><li><a href="/blog?Humeurs-et-opinions">Humeurs &amp; opinions</a></li><li><a href="/blog?Musique">Musique</a></li><li><a href="/blog?Multimedia">Multimedia</a></li><li><a href="/blog?Cinema-dvd">Cinéma &amp; DVD</a></li><li><a href="/blog?Theatre">Théâtre</a></li><li><a href="/blog?Expositions">Expositions</a></li><li><a href="/blog?Pratique">Pratique</a></li><li><a href="/blog?Recettes-et-produits">Cuisine</a></li><li><a href="/blog?Perso">Perso</a></li><li><a href="/blog?Voyage">Voyage</a></li><li><a href="/blog?Allumes-du-jazz">Allumés du Jazz</a></li><li><a href="/blog?Roman-feuilleton">Roman-feuilleton</a></li><li><a href="/blog?Revelations-collection">Révélations (coll.)</a></li><li><a href="/blog?Le-son-sur-l-image">Le son sur l'image</a></li><li><a href="/blog?Centenaire-de-jjb">Centenaire de JJB</a></li><li><a href="/blog?Perspectives-du-xxiie-siecle">Perspectives du XXIIe siècle</a></li></ul>	</div>
+	
+	<div id="calendar">
+	<h2>Jour après jour</h2>
+	<table summary="Calendrier">
+<caption><a href="/blog?2008/07"  title="juillet 2008">&#171;</a> août 2008 <a href="/blog?2008/09"  title="septembre 2008">&#187;</a></caption><thead><tr><th scope="col"><abbr title="lundi">lun</abbr></th><th scope="col"><abbr title="mardi">mar</abbr></th><th scope="col"><abbr title="mercredi">mer</abbr></th><th scope="col"><abbr title="jeudi">jeu</abbr></th><th scope="col"><abbr title="vendredi">ven</abbr></th><th scope="col"><abbr title="samedi">sam</abbr></th><th scope="col"><abbr title="dimanche">dim</abbr></th></tr></thead>
+<tbody><tr><td> </td><td> </td><td> </td><td> </td><td><a href="/blog?2008/08/01">1</a></td><td><a href="/blog?2008/08/02">2</a></td><td><a href="/blog?2008/08/03">3</a></td></tr>
+<tr><td><a href="/blog?2008/08/04">4</a></td><td><a href="/blog?2008/08/05">5</a></td><td><a href="/blog?2008/08/06">6</a></td><td><a href="/blog?2008/08/07">7</a></td><td><a href="/blog?2008/08/08">8</a></td><td><a href="/blog?2008/08/09">9</a></td><td><a href="/blog?2008/08/10">10</a></td></tr>
+<tr><td><a href="/blog?2008/08/11">11</a></td><td><a href="/blog?2008/08/12">12</a></td><td><a href="/blog?2008/08/13">13</a></td><td><a href="/blog?2008/08/14">14</a></td><td><a href="/blog?2008/08/15">15</a></td><td><a href="/blog?2008/08/16">16</a></td><td><a href="/blog?2008/08/17">17</a></td></tr>
+<tr><td><a href="/blog?2008/08/18">18</a></td><td><a href="/blog?2008/08/19">19</a></td><td><a href="/blog?2008/08/20">20</a></td><td><a href="/blog?2008/08/21">21</a></td><td><a href="/blog?2008/08/22">22</a></td><td><a href="/blog?2008/08/23">23</a></td><td><a href="/blog?2008/08/24">24</a></td></tr>
+<tr><td><a href="/blog?2008/08/25">25</a></td><td><a href="/blog?2008/08/26">26</a></td><td><a href="/blog?2008/08/27">27</a></td><td><a href="/blog?2008/08/28">28</a></td><td><a href="/blog?2008/08/29">29</a></td><td><a href="/blog?2008/08/30">30</a></td><td><a href="/blog?2008/08/31">31</a></td></tr>
+</tbody>
+</table>	<span></span>
+	</div>
+
+	<div id="archives">
+		<h2>Mois par mois</h2>
+		<ul><li><a href="/blog?2023/01">janvier 2023</a></li><li><a href="/blog?2022/12">décembre 2022</a></li><li><a href="/blog?2022/11">novembre 2022</a></li><li><a href="/blog?2022/10">octobre 2022</a></li><li><a href="/blog?2022/09">septembre 2022</a></li><li><a href="/blog?2022/08">août 2022</a></li><li><a href="/blog?2022/07">juillet 2022</a></li><li><a href="/blog?2022/06">juin 2022</a></li><li><a href="/blog?2022/05">mai 2022</a></li><li><a href="/blog?2022/04">avril 2022</a></li><li><a href="/blog?2022/03">mars 2022</a></li><li><a href="/blog?2022/02">février 2022</a></li><li><a href="/blog?2022/01">janvier 2022</a></li><li><a href="/blog?2021/12">décembre 2021</a></li><li><a href="/blog?2021/11">novembre 2021</a></li><li><a href="/blog?2021/10">octobre 2021</a></li><li><a href="/blog?2021/09">septembre 2021</a></li><li><a href="/blog?2021/08">août 2021</a></li><li><a href="/blog?2021/07">juillet 2021</a></li><li><a href="/blog?2021/06">juin 2021</a></li><li><a href="/blog?2021/05">mai 2021</a></li><li><a href="/blog?2021/04">avril 2021</a></li><li><a href="/blog?2021/03">mars 2021</a></li><li><a href="/blog?2021/02">février 2021</a></li><li><a href="/blog?2021/01">janvier 2021</a></li><li><a href="/blog?2020/12">décembre 2020</a></li><li><a href="/blog?2020/11">novembre 2020</a></li><li><a href="/blog?2020/10">octobre 2020</a></li><li><a href="/blog?2020/09">septembre 2020</a></li><li><a href="/blog?2020/08">août 2020</a></li><li><a href="/blog?2020/07">juillet 2020</a></li><li><a href="/blog?2020/06">juin 2020</a></li><li><a href="/blog?2020/05">mai 2020</a></li><li><a href="/blog?2020/04">avril 2020</a></li><li><a href="/blog?2020/03">mars 2020</a></li><li><a href="/blog?2020/02">février 2020</a></li><li><a href="/blog?2020/01">janvier 2020</a></li><li><a href="/blog?2019/12">décembre 2019</a></li><li><a href="/blog?2019/11">novembre 2019</a></li><li><a href="/blog?2019/10">octobre 2019</a></li><li><a href="/blog?2019/09">septembre 2019</a></li><li><a href="/blog?2019/08">août 2019</a></li><li><a href="/blog?2019/07">juillet 2019</a></li><li><a href="/blog?2019/06">juin 2019</a></li><li><a href="/blog?2019/05">mai 2019</a></li><li><a href="/blog?2019/04">avril 2019</a></li><li><a href="/blog?2019/03">mars 2019</a></li><li><a href="/blog?2019/02">février 2019</a></li><li><a href="/blog?2019/01">janvier 2019</a></li><li><a href="/blog?2018/12">décembre 2018</a></li><li><a href="/blog?2018/11">novembre 2018</a></li><li><a href="/blog?2018/10">octobre 2018</a></li><li><a href="/blog?2018/09">septembre 2018</a></li><li><a href="/blog?2018/08">août 2018</a></li><li><a href="/blog?2018/07">juillet 2018</a></li><li><a href="/blog?2018/06">juin 2018</a></li><li><a href="/blog?2018/05">mai 2018</a></li><li><a href="/blog?2018/04">avril 2018</a></li><li><a href="/blog?2018/03">mars 2018</a></li><li><a href="/blog?2018/02">février 2018</a></li><li><a href="/blog?2018/01">janvier 2018</a></li><li><a href="/blog?2017/12">décembre 2017</a></li><li><a href="/blog?2017/11">novembre 2017</a></li><li><a href="/blog?2017/10">octobre 2017</a></li><li><a href="/blog?2017/09">septembre 2017</a></li><li><a href="/blog?2017/08">août 2017</a></li><li><a href="/blog?2017/07">juillet 2017</a></li><li><a href="/blog?2017/06">juin 2017</a></li><li><a href="/blog?2017/05">mai 2017</a></li><li><a href="/blog?2017/04">avril 2017</a></li><li><a href="/blog?2017/03">mars 2017</a></li><li><a href="/blog?2017/02">février 2017</a></li><li><a href="/blog?2017/01">janvier 2017</a></li><li><a href="/blog?2016/12">décembre 2016</a></li><li><a href="/blog?2016/11">novembre 2016</a></li><li><a href="/blog?2016/10">octobre 2016</a></li><li><a href="/blog?2016/09">septembre 2016</a></li><li><a href="/blog?2016/08">août 2016</a></li><li><a href="/blog?2016/07">juillet 2016</a></li><li><a href="/blog?2016/06">juin 2016</a></li><li><a href="/blog?2016/05">mai 2016</a></li><li><a href="/blog?2016/04">avril 2016</a></li><li><a href="/blog?2016/03">mars 2016</a></li><li><a href="/blog?2016/02">février 2016</a></li><li><a href="/blog?2016/01">janvier 2016</a></li><li><a href="/blog?2015/12">décembre 2015</a></li><li><a href="/blog?2015/11">novembre 2015</a></li><li><a href="/blog?2015/10">octobre 2015</a></li><li><a href="/blog?2015/09">septembre 2015</a></li><li><a href="/blog?2015/08">août 2015</a></li><li><a href="/blog?2015/07">juillet 2015</a></li><li><a href="/blog?2015/06">juin 2015</a></li><li><a href="/blog?2015/05">mai 2015</a></li><li><a href="/blog?2015/04">avril 2015</a></li><li><a href="/blog?2015/03">mars 2015</a></li><li><a href="/blog?2015/02">février 2015</a></li><li><a href="/blog?2015/01">janvier 2015</a></li><li><a href="/blog?2014/12">décembre 2014</a></li><li><a href="/blog?2014/11">novembre 2014</a></li><li><a href="/blog?2014/10">octobre 2014</a></li><li><a href="/blog?2014/09">septembre 2014</a></li><li><a href="/blog?2014/08">août 2014</a></li><li><a href="/blog?2014/07">juillet 2014</a></li><li><a href="/blog?2014/06">juin 2014</a></li><li><a href="/blog?2014/05">mai 2014</a></li><li><a href="/blog?2014/04">avril 2014</a></li><li><a href="/blog?2014/03">mars 2014</a></li><li><a href="/blog?2014/02">février 2014</a></li><li><a href="/blog?2014/01">janvier 2014</a></li><li><a href="/blog?2013/12">décembre 2013</a></li><li><a href="/blog?2013/11">novembre 2013</a></li><li><a href="/blog?2013/10">octobre 2013</a></li><li><a href="/blog?2013/09">septembre 2013</a></li><li><a href="/blog?2013/08">août 2013</a></li><li><a href="/blog?2013/07">juillet 2013</a></li><li><a href="/blog?2013/06">juin 2013</a></li><li><a href="/blog?2013/05">mai 2013</a></li><li><a href="/blog?2013/04">avril 2013</a></li><li><a href="/blog?2013/03">mars 2013</a></li><li><a href="/blog?2013/02">février 2013</a></li><li><a href="/blog?2013/01">janvier 2013</a></li><li><a href="/blog?2012/12">décembre 2012</a></li><li><a href="/blog?2012/11">novembre 2012</a></li><li><a href="/blog?2012/10">octobre 2012</a></li><li><a href="/blog?2012/09">septembre 2012</a></li><li><a href="/blog?2012/08">août 2012</a></li><li><a href="/blog?2012/07">juillet 2012</a></li><li><a href="/blog?2012/06">juin 2012</a></li><li><a href="/blog?2012/05">mai 2012</a></li><li><a href="/blog?2012/04">avril 2012</a></li><li><a href="/blog?2012/03">mars 2012</a></li><li><a href="/blog?2012/02">février 2012</a></li><li><a href="/blog?2012/01">janvier 2012</a></li><li><a href="/blog?2011/12">décembre 2011</a></li><li><a href="/blog?2011/11">novembre 2011</a></li><li><a href="/blog?2011/10">octobre 2011</a></li><li><a href="/blog?2011/09">septembre 2011</a></li><li><a href="/blog?2011/08">août 2011</a></li><li><a href="/blog?2011/07">juillet 2011</a></li><li><a href="/blog?2011/06">juin 2011</a></li><li><a href="/blog?2011/05">mai 2011</a></li><li><a href="/blog?2011/04">avril 2011</a></li><li><a href="/blog?2011/03">mars 2011</a></li><li><a href="/blog?2011/02">février 2011</a></li><li><a href="/blog?2011/01">janvier 2011</a></li><li><a href="/blog?2010/12">décembre 2010</a></li><li><a href="/blog?2010/11">novembre 2010</a></li><li><a href="/blog?2010/10">octobre 2010</a></li><li><a href="/blog?2010/09">septembre 2010</a></li><li><a href="/blog?2010/08">août 2010</a></li><li><a href="/blog?2010/07">juillet 2010</a></li><li><a href="/blog?2010/06">juin 2010</a></li><li><a href="/blog?2010/05">mai 2010</a></li><li><a href="/blog?2010/04">avril 2010</a></li><li><a href="/blog?2010/03">mars 2010</a></li><li><a href="/blog?2010/02">février 2010</a></li><li><a href="/blog?2010/01">janvier 2010</a></li><li><a href="/blog?2009/12">décembre 2009</a></li><li><a href="/blog?2009/11">novembre 2009</a></li><li><a href="/blog?2009/10">octobre 2009</a></li><li><a href="/blog?2009/09">septembre 2009</a></li><li><a href="/blog?2009/08">août 2009</a></li><li><a href="/blog?2009/07">juillet 2009</a></li><li><a href="/blog?2009/06">juin 2009</a></li><li><a href="/blog?2009/05">mai 2009</a></li><li><a href="/blog?2009/04">avril 2009</a></li><li><a href="/blog?2009/03">mars 2009</a></li><li><a href="/blog?2009/02">février 2009</a></li><li><a href="/blog?2009/01">janvier 2009</a></li><li><a href="/blog?2008/12">décembre 2008</a></li><li><a href="/blog?2008/11">novembre 2008</a></li><li><a href="/blog?2008/10">octobre 2008</a></li><li><a href="/blog?2008/09">septembre 2008</a></li><li><strong><a href="/blog?2008/08">août 2008</a></strong></li><li><a href="/blog?2008/07">juillet 2008</a></li><li><a href="/blog?2008/06">juin 2008</a></li><li><a href="/blog?2008/05">mai 2008</a></li><li><a href="/blog?2008/04">avril 2008</a></li><li><a href="/blog?2008/03">mars 2008</a></li><li><a href="/blog?2008/02">février 2008</a></li><li><a href="/blog?2008/01">janvier 2008</a></li><li><a href="/blog?2007/12">décembre 2007</a></li><li><a href="/blog?2007/11">novembre 2007</a></li><li><a href="/blog?2007/10">octobre 2007</a></li><li><a href="/blog?2007/09">septembre 2007</a></li><li><a href="/blog?2007/08">août 2007</a></li><li><a href="/blog?2007/07">juillet 2007</a></li><li><a href="/blog?2007/06">juin 2007</a></li><li><a href="/blog?2007/05">mai 2007</a></li><li><a href="/blog?2007/04">avril 2007</a></li><li><a href="/blog?2007/03">mars 2007</a></li><li><a href="/blog?2007/02">février 2007</a></li><li><a href="/blog?2007/01">janvier 2007</a></li><li><a href="/blog?2006/12">décembre 2006</a></li><li><a href="/blog?2006/11">novembre 2006</a></li><li><a href="/blog?2006/10">octobre 2006</a></li><li><a href="/blog?2006/09">septembre 2006</a></li><li><a href="/blog?2006/08">août 2006</a></li><li><a href="/blog?2006/07">juillet 2006</a></li><li><a href="/blog?2006/06">juin 2006</a></li><li><a href="/blog?2006/05">mai 2006</a></li><li><a href="/blog?2006/04">avril 2006</a></li><li><a href="/blog?2006/03">mars 2006</a></li><li><a href="/blog?2006/02">février 2006</a></li><li><a href="/blog?2006/01">janvier 2006</a></li><li><a href="/blog?2005/12">décembre 2005</a></li><li><a href="/blog?2005/11">novembre 2005</a></li><li><a href="/blog?2005/10">octobre 2005</a></li><li><a href="/blog?2005/09">septembre 2005</a></li><li><a href="/blog?2005/08">août 2005</a></li></ul>	</div>
+	
+	<div><h2>Recherche</h2><p>Pour voir les autres billets, cliquez tout en haut sur Jean-Jacques Birgé, changez de thème et utilisez les calendriers d'archives...
+Vous pouvez rechercher un terme avec le champ loupe en haut à droite.</p>
+
+
+<p>Attention aux images :
+© JJB sauf indiqué...</p>
+</div>
+	
+	<div id="links">
+		<h2>Liens</h2>
+		<ul><li><a href="http://www.drame.org/2/" title="Site d'Un Drame Musical Instantané et des Disques GRRR - 84 heures de musique inédite" rel="me">Mon site / My site</a></li><li><a href="https://blogs.mediapart.fr/jean-jacques-birge" title="avec commentaires">Miroir du Blog sur Mediapart</a></li><li><a href="http://www.drame.org/2/bio.php" title="Bios, presse et photos de J-J Birgé" rel="me">Ma biographie / My Bio</a></li><li><a href="https://fr.wikipedia.org/wiki/Jean-Jacques_Birg%C3%A9">Mon Wikipédia FR</a></li><li><a href="https://en.wikipedia.org/wiki/Jean-Jacques_Birg%C3%A9">My Wikipedia US</a></li><li><a href="http://www.lesinediteurs.com" title="Éditions interactives dont USA 1968 deux enfants">Les inéditeurs - USA 1968...</a></li><li><a href="https://www.publie.net/livre/la-corde-a-linge-jean-jacques-birge/" title="1er roman de JJB (ePub, publie.net)">La corde à linge</a></li><li><a href="http://nabazmob.free.fr" title="Opéra pour 100 lapins communicants avec Antoine Schmitt" rel="me">Nabaz'mob (JJB et A.Schmitt)</a></li><li><a href="http://www.machiavel.net" title="scratch vidéo interactif de J-J.Birgé et A.Schmitt">Machiavel (téléchargement gratuit)</a></li><li><a href="http://www.youtube.com/user/androctonus7" title="The Sniper, Nabaz'mob, Somnambules, Un d.m.i., JJB...">My films on YouTube</a></li><li><a href="http://www.dailymotion.com/androctonus" title="Le sniper, Nabaz'mob, Somnambules, Un d.m.i...">Mes films sur DailyMotion</a></li><li><a href="http://www.vimeo.com/jjbirge" title="Le son de Vinyl, Nabaz'mob, Un d.m.i., Somnambules...">Mes films sur Vimeo</a></li><li><a href="http://www.drame.org/ELSTROM/Home.html" title="Trio électrencaustique">El Strøm (JJB-Gattino-Lyregaard)</a></li><li><a href="http://volumique.com/v2/" title="auxquelles participent JJB">Volumique (éditions interactives)</a></li><li><a href="http://www.drame.org/DEPAYSAGES/Home.html" title="Trio + film Perconte">Dépaysages (JJB et J.Perconte)</a></li><li><a href="http://www.sachagattino.com" title="site du designer sonore">Sacha Gattino (designer sonore)</a></li><li><a href="http://ericvernhes.com/" title="nouveau site">Éric Vernhes (artiste)</a></li><li><a href="http://www.soniacruchon.com" title="chef de projet et réalisatrice">Sonia Cruchon (vidéaste)</a></li><li><a href="https://etienne.design/blog/" title="Retour du blog graphique 2019">Étienne Mineur - Nouveau Blog</a></li><li><a href="http://www.nicolasclauss.com" title="artiste plasticien">Nicolas Clauss (artiste)</a></li><li><a href="http://www.flyingpuppet.com" title="œuvres de Nicolas Clauss et J-J. Birgé">Flyingpuppet (collab. avec N.Clauss)</a></li><li><a href="http://www.romand.org" title="Un autre cinéma">Françoise Romand (cinéaste)</a></li><li><a href="http://www.antoineschmitt.com" title="artiste plasticien">Antoine Schmitt (artiste)</a></li><li><a href="http://www.jacquesperconte.com/" title="site du vidéaste">Jacques Perconte (artiste)</a></li><li><a href="http://mc-gayffier.blogspot.com/" title="Blog peinture et littérature de haute volée">mc gayffier (artiste)</a></li><li><a href="http://aslemeur.free.fr/" title="Artiste plasticienne">Anne-Sarah Le Meur (artiste)</a></li><li><a href="http://www.jonathanrosenbaum.net" hreflang="en" title="une mine d'or">Jonathan Rosenbaum (cinéma)</a></li><li><a href="http://www.paper-video-games.com/blog/" title="Nouveau blog d'Etienne Mineur">Paper Video Games</a></li><li><a href="http://graphism.fr/">Geoffrey Dorne (blog graphique)</a></li><li><a href="http://paris.blog.lemonde.fr/" title="Typographie et valeurs sémantiques, décryptage des courants graphiques et typographiques">Peter Gabor (blog design et typo)</a></li><li><a href="http://blog.crdp-versailles.fr/optionsartsdaubie/" title="Blog d'une prof du Lycée Julie-Victoire Daubié à Argenteuil">Marie-Laure Buisson (arts plastiques)</a></li><li><a href="http://jeanne-puchol.blogspot.com" title="illustratrice">Jeanne Puchol (blog bd)</a></li><li><a href="http://www.poptronics.fr/" title="L'agenda des cultures électroniques">Poptronics (blog culturel)</a></li><li><a href="http://www.hyperbate.com/dernier/" title="&quot;Le dernier des blogs&quot;">Jean-no (blog généraliste)</a></li><li><a href="http://www.publie.net" title="Des livres à lire sur iPad ou en streaming">Publie.net (éditeur en ligne)</a></li><li><a href="http://www.annegaellebalpe.blogspot.fr" title="écrivaine (surtout pour enfants)">Anne-Gaëlle Balpe (blog écrivain)</a></li><li><a href="http://www.tchatchhh.com/" title="conversations avec Karine Lebrun">Tchatchhh (blog à deux)</a></li><li><a href="http://www.pauljorion.com/blog/" title="comprendre la crise - indispensable !">Paul Jorion (blog économique)</a></li><li><a href="https://www.lesallumesdujazz.com" title="vente de disques de 60 labels indépendants">Les Allumés du Jazz (assoc)</a></li><li><a href="http://soufflecontinu.free.fr" title="magasin de disques indispensable">Le souffle continu (magasin)</a></li><li><a href="http://www.sonore-visuel.fr" title="site de Benoît Montigné">Sonore Visuel (sic)</a></li><li><a href="http://www.lesclochesdatlantis.com/" title="site de Philippe Langlois sur le son">Les cloches d'Atlantis (site sur le son)</a></li><li><a href="http://beyond-the-coda.blogspot.fr" title="Blog de Jean-Jacques Palix sur le son">Beyond The Coda (blog audio)</a></li><li><a href="https://creationliberte9.webnode.fr/" title="Blog animé par Hélène Breschand">Création &amp; Liberté (blog musique)</a></li><li><a href="http://assezvu.com" title="Francis Gorgé &amp; Dominique Meens">AssezVu (musique et poésie)</a></li><li><a href="http://www.nato-glob.blogspot.com/" title="le Glob nato, du solide !">Jean Rochard (blog acide)</a></li><li><a href="http://www.franpisunship.com" title="Blog de Franpi">Sun Ship (blog jazz)</a></li><li><a href="http://www.citizenjazz.com" title="magazine en ligne">Citizen Jazz (webzine)</a></li><li><a href="http://www.elsabirge.com" title="chanteuse">Elsa Birgé</a></li><li><a href="http://www.odeiamusic.com/" title="site du quatuor avec Elsa Birgé">Odeia (chansons avec cordes)</a></li><li><a href="http://www.sotasalta.com/" title="Duo Elsa Birgé - Linda Edsjö">Söta Sälta</a></li><li><a href="http://www.spatsonore.fr/" title="orchestre acoustique spatialisé">Spat'sonore</a></li></ul>	</div>
+    
+    <div>
+      <h2 align="left">Biographie</h2>
+        <p><a href="http://www.drame.org/2/bio.php" target="_blank">Compositeur de musique (plus de 100 albums dont Un Drame Musical Instantan&eacute;, et récemment son <em>Centenaire</em> et <em>Perspectives du XXIIe siècle</em>), écrivain (<em>La corde à linge, USA 1968...</em>), r&eacute;alisateur de films (<em>La nuit du phoque, Sarajevo a Street Under Siege, Le sniper, Perspectives du XXIIe siècle</em>&hellip;), auteur multim&eacute;dia (<em>Carton,  Alphabet</em>&hellip;), designer sonore (<em>Nabaztag, </em>Nudge SNCF...),<br />
+        Jean-Jacques Birg&eacute; envisage la musique essentiellement dans la relation audio-visuelle, ou du moins dans sa confrontation aux autres formes d&rsquo;expression artistique (expositions à la Grande Halle de La Villette, au Grand Palais, au Louvre, au Palais de Tokyo, au Panthéon, à la Cité des Sciences et de l'Industrie, au Petit Palais, au Musée des Arts Décos, etc.). </a><a href="http://www.drame.org/2/bio.php" target="_blank">Ses mises en sons d&rsquo;expositions-spectacles pr&eacute;sentent &eacute;galement des espaces en perp&eacute;tuel devenir.<br />
+        Il se produit  en concerts avec de nombreux improvisateurs, ainsi qu'à la tête des 100 lapins de <em>Nabaz'mob</em> avec Antoine Schmitt ou pour<em> Nonselves</em> avec John Sanborn.<br />
+        <br />
+        <em>ARS Electronica Award of Distinction Digital Musics, 2 fois Prix SACD de la Cr&eacute;ation Interactive, Prix SCAM du meilleur site Internet, Prix Centre Pompidou Flash Festival, Grand Prix M&ouml;bius International, Prix du Jury au Festival de Films de Locarno, BAFTA (British Academy Television Award), nomin&eacute; aux Victoires de la Musique...</em></a><br />
+        </p>
+</div>
+	
+	<div id="syndicate">
+	<h2>Flux</h2>
+	<ul>
+		<li><a href="/blog/rss.php">fil rss</a></li>
+		<li><a href="/blog/rss.php?type=co">fil rss commentaires</a><BR>
+	  
+  <!-- MoOsTiK v3 1219136932 -->
+  <script type="text/javascript" 
+src="http://m3.moostik.net/js/?pseudo=drame&amp;cpt=Accueil&amp;option=invisible">
+  </script><BR>
+	  37 personnes connect&eacute;es	  <BR>
+      
+      <div class="fb-like" data-href="http://www.drame.org/blog" data-width="50" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+      
+      <br />
+	  
+      <a name="fb_share" type="button_count" expr:share_url='data:post.url' href="http://www.facebook.com/sharer.php">Partager sur FaceBook</a>
+      <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+      <br />
+     
+     <!-- Placez ce code à l'endroit où vous souhaitez voir le badge s'afficher. -->
+     <a href="//plus.google.com/u/0/105622416886226960422?prsrc=3"
+   rel="publisher" target="_top" style="text-decoration:none;display:inline-block;color:#333;text-align:center; font:13px/16px arial,sans-serif;white-space:nowrap;">
+     <span style="display:inline-block;font-weight:bold;vertical-align:top;margin-right:5px; margin-top:8px;">Jean-Jacques Birgé</span><span style="display:inline-block;vertical-align:top;margin-right:15px; margin-top:8px;">sur</span></a><br />
+
+<!-- Placez cette balise dans l'en-tête ou juste avant la balise de fermeture du corps de texte. -->
+<script src="https://apis.google.com/js/platform.js" async defer>
+  {lang: 'fr'}
+</script>
+
+<!-- Placez cette balise où vous souhaitez faire apparaître le gadget Bouton +1. -->
+<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300"></div>
+
+     <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.drame.org/blog" data-text="drame.org, le blog de Jean-Jacques Birgé" data-via="jjbirge" data-hashtags="jjbirge">Tweet</a>
+     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+     <br />
+     <a href="https://twitter.com/jjbirge" class="twitter-follow-button" data-show-count="false">Follow @jjbirge</a>
+     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+     <br />
+
+		  <!--Creative Commons License--><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/"><img alt="Creative Commons License" border="0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>
+		  <br />
+	    </li>
+	</ul>
+	</div>
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-945781-1";
+urchinTracker();
+</script>
+
+<p id="footer">
+
+<a href="http://www.dotclear.net/">
+propuls&eacute; par DotClear</a></p>
+
+</div> <!-- end #page -->
+
+<!-- Blocs en plus pour ajouter des images en tout genre si besoin -->
+<div id="block1"><span></span></div><div id="block2"><span></span></div>
+<div id="block3"><span></span></div><div id="block4"><span></span></div>
+<div id="block5"><span></span></div><div id="block6"><span></span></div>
+
+</body>
+</html>
