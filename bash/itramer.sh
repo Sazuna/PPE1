@@ -10,7 +10,7 @@ fi
 
 WORD=$1
 LANGUAGE=$2
-FOLDER="../generated/dump-html/"
+FOLDER="../generated/dump-texts/"
 ITRAMER_F="../generated/itramer/$WORD-itramer.xml"
 
 # Test if the folder exists
