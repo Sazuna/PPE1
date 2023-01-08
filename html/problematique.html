@@ -8,9 +8,12 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
     />
-    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
+    <script
+    type="module"
+    src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+    ></script>
   </head>
-  <body class="has-text-centered">
+  <body>
    <header>
     <figure class="image">
       <img src="../img/bg-2.jpg">
@@ -34,13 +37,13 @@
               Présentation du projet
             </a>
             <div class="navbar-dropdown">
-              <a class="navbar-item" href="./html/choix-des-mots.html">
+              <a class="navbar-item" href="../doc/choix-des-mots.md">
                 Choix des mots
               </a>
-              <a class="navbar-item" href="./html/problematique.html">
+              <a class="navbar-item" href="../doc/problematique.md">
                 Problèmatique
               </a>
-              <a class="navbar-item" href="./html/traduction.html">
+              <a class="navbar-item" href="../doc/traduction.mdl">
                 Traduction
               </a>
             </div>
@@ -65,22 +68,13 @@
           <a class="navbar-item" href="./itrameur.html"> Itrameur </a>
           <a class="navbar-item" href="https://liyingle.wordpress.com/"> Blog </a>
         </div>
-	<!--
-        <div class="navbar-end">
-          <div class="navbar-item">
-            <div class="buttons">
-              <a class="button is-primary">
-                <strong>Rechercher</strong>
-              </a>
-            </div>
-          </div>
-        </div>
-	-->
       </div>
     </nav>
    </header>
    <div>
-    {CONTENT}
+        <div class="container"> 
+            <zero-md src="https://raw.githubusercontent.com/Sazuna/PPE1/main/doc/problematique.md"></zero-md> 
+        </div>
    </div>
    <script src="../js/index.js"></script>
    
