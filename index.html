@@ -1,120 +1,142 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
-  <head>
-    <meta content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Méli-mélo</title>
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
-    />
-    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
-  </head>
-  <body class="has-text-centered">
-    <figure class="image">
-      <img src="img/bg-2.jpg">
-    </figure>
-    <nav class="navbar" role="navigation" aria-label="main navigation">
-      <div class="navbar-brand">
-        <a class="navbar-item has-text-weight-bold">
-          MÉLI-MÉLO
-        </a>
-      </div>
-      <div id="navbarBasicExample" class="navbar-menu">
-        <div class="navbar-start">
-          <a class="navbar-item" href="./index.html"> Accueil </a>
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-              Présentation du projet
-            </a>
-            <div class="navbar-dropdown">
-              <a class="navbar-item" href="./html/choix-des-mots.html">
-                Choix des mots
-              </a>
-              <a class="navbar-item" href="./html/problematique.html">
-                Problèmatique
-              </a>
-              <a class="navbar-item" href="./html/traduction.html">
-                Traduction
-              </a>
-            </div>
-          </div>
-          <a class="navbar-item" href="./html/tables.html"> Tableaux </a>
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" href="./tables.html"> Tableaux </a>
-            <div class="navbar-dropdown">
-              <a class="navbar-item" href="./html/méli-mélo-table.html">
-                Français
-              </a>
-              <a class="navbar-item" href="./html/batiburrillo-table.html">
-                Español
-              </a>
-              <a class="navbar-item" href="./html/dazahui-table.html">
-                中文
-              </a>
-            </div>
-          </div>
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-              Concordances
-            </a>
-            <div class="navbar-dropdown">
-              <a class="navbar-item" href="./html/méli-mélo-concordances.html">
-                Français
-              </a>
-              <a class="navbar-item" href="./html/batiburrillo-concordances.html">
-                Español
-              </a>
-              <a class="navbar-item" href="./html/dazahui-concordances.html">
-                中文
-              </a>
-            </div>
-          </div>
-          <a class="navbar-item" href="./html/itrameur.html"> Itrameur </a>
-          <a class="navbar-item" href="https://liyingle.wordpress.com/"> Blog </a>
-        </div>
-        <div class="navbar-end">
-          <div class="navbar-item">
-            <div class="buttons">
-              <a class="button is-primary">
-                <strong>Rechercher</strong>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </nav>
-    <div class="box">
-      <h1>Présentation</h1>
-    <p>Bienvenu sur le projet Méli-Mélo ! Plutôt que de prendre un sujet d'actualité comme nos camarades,
-      nous avons préféré...
-    </p>
-    </div>
-    <div class="box">
-      <h1>À propos de nous</h1>
-      <div class="columns">
-        <div class="column">
-          Yingzi
-        </div>
-        <div class="column">
-          Liza
-        </div>
-        <div class="column">
-          Léna
-        </div>
+	<head>
+		<title>MÉLI-MÉLO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="landing is-preload">
 
-      </div>
-      <div class="block">
-        This text is within a <strong>block</strong>.
-      </div>
-      <div class="block">
-        This text is within a <strong>second block</strong>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean efficitur sit amet massa fringilla egestas. Nullam condimentum luctus turpis.
-      </div>
-      <div class="block">
-        This text is within a <strong>third block</strong>. This block has no margin at the bottom.
-      </div>
-    </div>
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
 
-    <script src="js/index.js"></script>
-  </body>
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">MÉLI-MÉLO</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="presentation_du_projet.html">Présentation du projet</a></li>
+                      <li><a href="tableaux.html">Tableaux</a></li>
+											<li><a href="concordances.html">Concordances</a></li>
+											<li><a href="#">Itrameur</a></li>
+											<li><a href="https://liyingle.wordpress.com/">Blog</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>Méli-Mélo</h2>
+							<p>Bienvenu sur le projet Méli-Mélo !<br />
+								Réalisé par Liza Fretel, Yingzi LIU et Léna Gaubert<br />
+							</p>
+							<ul class="actions special">
+								<li><a href="#" class="button primary">Accéder au projet</a></li>
+							</ul>
+						</div>
+						<a href="#one" class="more scrolly">suivant</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Introduction du projet</h2>
+								<p>Ce projet est réalisé par Liza Fretel (chinois), Yingzi LIU (français) et Léna Gaubert (espagnol), trois étudiantes de l'Université Sorbonne Nouvelle & l'Université Paris Nanterre & l'Inalco en Master 1 Traitement automatique des langues de l’année scolaire 2022-2023.
+									<br /><br />Le projet, fait dans le cadre du cours de M1 TAL "Projet Encadré", a pour but de récupérer le contenu des URLs des pages html associées au syntagme choisi, et de les traiter de manière à donner les résultats de ses traitements dans des tableaux. Une fois cela fait, nous avons concaténé le contenu des pages html de manière à avoir un corpus de textes.
+									<br /><br />Nous avons choisi le mot "méli-mélo" pour construire notre corpus. Ce mot a un rapport à la nourriture et veut dire "quelque chose de mélangé, dans le désordre". Nous avons choisi ce mot car Liza faisait des recherches sur le mot "brainstorming" et a trouvé sur internet "méli-mélo d'idées".
+								</p>
+							</header>
+							<div class="img-container">
+								<div class="img"><img src="images/da.jpg" ></div>
+								<div class="img"><img src="images/za.jpg" ></div>
+								<div class="img"><img src="images/hui.jpg" ></div>
+							</div>
+							<!-- <ul class="icons major">
+								<li><span class="icon fa-gem major style1"><img src="images/da.jpg" ></span></li>
+								<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>
+							</ul> -->
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+								<h2>Méli-mélo en Français</h2>
+									<h1>Méli-Mélo</h1>
+								<p>
+									En Français: Un méli-mélo est un mélange confus et désordonné. En cuisine, ce nom s’applique surtout à des salades composées ou à une bouquetière de légumes ou autres ingrédients mélangés ou mêlés (fruits par exemple). On parle aussi de méli-mélo de crustacés, de poissons, de fruits de mer,… Voir Gargouillou. et Salade mêlée."
+									<br />Source : <a href="https://www.gastronomiac.com/lexique_culinaire/meli-melo/" class="more scrolly">gastronomiac.com</a>
+									</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+								<h2>Méli-mélo en Chinois
+								</h2>
+								<h1>大杂烩(dà zá huì) & 一锅粥 (yī guō zhōu)</h1>
+								<p> En Chinois: 大杂烩 signifie Grand et ragoût. Il a un lien avec la nourriture au sens propre, et il est utilisé au sens figuré pour parler d'un regroupement disparate d'objets.Il s'agit de 3 mots différents : "une" + "marmite/casserole" + "porridge". Il y a donc un lien direct avec le porridge, qui est une forme de soupe mélangeant de nombreux ingrédients.
+									<br /> <br /> 一锅粥 s'agit de 3 mots différents : "une" + "marmite/casserole" + "porridge". Il y a donc un lien direct avec le porridge, qui est une forme de soupe mélangeant de nombreux ingrédients.
+								</p>
+							
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+								<h2>Méli-mélo en espagnol</h2>
+								<h1>batiburrillo & mezcla & mezcolanza & revoltijo</h1>
+								<p>En espagnol:  batiburrillo vient de baturillo (signification similaire)du latin battuere (frapper, battre) et zurriburri (confusion, désordre...), racine du verbe espagnol zumbar mais qui s'explique comme une onomatopée.
+									<br /> En plus, un plat typique du Paraguay porte également ce nom (ragoût à base d'abats de viande) : el batiburrillo paraguayo se trata de un guiso con menudencias de carne.</p>
+							</div>
+						</section>
+					</section>
+
+				<!-- CTA -->
+					<section id="cta" class="wrapper style4">
+						<div class="inner">
+							<header>
+								<h2>Méli-mélo en espagnol</h2>
+							</header>
+							<ul class="actions stacked">
+								<li><a href="#" class="button fit primary">Accéder au projet</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; MÉLI-MÉLO</li><li>Rédigée par Yingzi, Léna, Liza</li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
 </html>
