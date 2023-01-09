@@ -37,3 +37,6 @@
 - [ ] Générer les pages avec make_page.sh (concordancier...)
 - [ ] Nettoyer le projet
 - [ ] Checker liens corpus (et modifier/ajouter si besoin)
+## 09/01
+- [ ] Problème d'encodage du chinois sur certains fichiers
+- [ ] Nuages de mot
