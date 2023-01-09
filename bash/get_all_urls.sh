@@ -30,10 +30,10 @@ WORD=$1
 shift
 
 # For every arguments after WORD
-HTML_F="../html/$WORD-table.html"
+HTML_F="../html/content/$WORD-table.html"
 CLASS='<div class="container">
-    <table class="table is-striped is-hoverable", style="text-align:center">'
-CATEGORIES="<tr><th>Ligne</th><th>CodeHTTP</th><th>URL</th><th>DumpHTML</th><th>DumpText</th><th>Occurrences</th><th>Contexte</th></tr>"
+    <table class="table is-striped is-hoverable" style="text-align:center">'
+CATEGORIES="<thead><tr><th>Ligne</th><th>CodeHTTP</th><th>URL</th><th>DumpHTML</th><th>DumpText</th><th>Occurrences</th><th>Contexte</th></tr></thead><tbody>"
 echo "$CLASS $CATEGORIES" > $HTML_F
 for FILE in $@
 do
@@ -46,4 +46,4 @@ do
 	fi
 done
 
-echo "</table></div>" >> $HTML_F
+echo "</tbody></table></div>" >> $HTML_F

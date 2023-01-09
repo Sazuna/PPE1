@@ -30,7 +30,7 @@ then
 fi
 
 WORD=$1
-OUTPUT_NUMBER=1
+OUTPUT_NUMBER=0
 
 # This is the regular expression that will be used to search for the word in the pages
 EXPR_REG=$(cat "../expreg/$WORD.txt" | tr -d '\n')
@@ -44,8 +44,6 @@ CSV="../generated/csv/$WORD.csv"
 HTML_F="../html/content/$WORD-table.html"
 
 echo "getting URLs of $2..."
-
-echo "$CLASS" > $HTML_F
 
 # For every url in the file
 for URL in $(cat $2)
@@ -86,7 +84,7 @@ do
 		then
 			CONTEXT=$(./tokenize_chinese.py $DUMP_F)
 			# Keep 20 words (punctuation counts as words with the Chinese tokenizer)
-			CONTEXT=$(echo $CONTEXT | egrep -io "([^ ]* ?){0,20}$EXPR_REG( ?[^ ]*){0,20}")
+			CONTEXT=$(echo $CONTEXT | egrep -io "([^ ]* ){0,20}[^ ]?$EXPR_REG[^ ]?([^ ]* ){0,20}")
 		else
 			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io "([^ ]* ){0,20}$EXPR_REG( [^ ]*){0,20}")
 		fi
@@ -112,4 +110,3 @@ do
 	echo -e "<tr><td>$OUTPUT_NUMBER</td><td>$CODE</td><td><a href=\"$URL\">$URL</a></td><td><a href=\"$ASPIRATION_F\">HTML aspiré</a></td><td><a href=\"$DUMP_F\">Texte aspiré</a></td><td>$COUNT</td><td><a href=\"$CONTEXT_F\">Contexte</a></td></tr>" >> $HTML_F
 	OUTPUT_NUMBER=$(expr $OUTPUT_NUMBER + 1 )
 done
-echo "</table>" >> $HTML_F
