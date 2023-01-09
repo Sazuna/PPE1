@@ -11,4 +11,4 @@ cat $STRUCT | sed -n '/{CONTENT}/q;p' > $OUTPUT_HTML
 cat $INPUT_HTML >> $OUTPUT_HTML
 
 # On récupère le pied de la page
-tail -r $STRUCT | sed -n '/{CONTENT}/q;p' | tail -r >> $OUTPUT_HTML
+tac $STRUCT | sed -n '/{CONTENT}/q;p' | tac >> $OUTPUT_HTML

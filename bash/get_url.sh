@@ -86,7 +86,7 @@ do
 		then
 			CONTEXT=$(./tokenize_chinese.py $DUMP_F)
 			# Keep 20 words (punctuation counts as words with the Chinese tokenizer)
-			CONTEXT=$(echo $CONTEXT | egrep -io "([^ ]* ){0,20}$EXPR_REG( [^ ]*){0,20}")
+			CONTEXT=$(echo $CONTEXT | egrep -io "([^ ]* ?){0,20}$EXPR_REG( ?[^ ]*){0,20}")
 		else
 			CONTEXT=$(echo $DUMP | tr '\n' ' '| egrep -io "([^ ]* ){0,20}$EXPR_REG( [^ ]*){0,20}")
 		fi

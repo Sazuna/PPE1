@@ -191,3 +191,8 @@ Après avoir parlé aux membres du groupe, j'ai pris tous les fichiers dans cont
 Création d'un nouveau script pour réaliser nos concordances (avant tout était dans le fichier `get_urls.sh` : nous voulions réaliser les concordances seulement une fois les contextes récupérés). Le script s'exécute mais l'affichage final est bizarre (à débugger avec Liza). 
 Mise à jour de la to-do list (c'est presque fini !!!)
 Travail sur Itrameur (Liza & Yingzi)
+
+## 2022-01-09
+### Mise à jour du corpus
+Je me suis rendue compte que le mot dazahui avait plusieurs emplois grammaticaux: d'abord, dans un contexte "c'est comme un dazahui", puis "un dazahui de quelque chose" (utilisé comme adjectif d'un nom ou complément du nom), enfin tout simplement "c'est un dazahui". Un autre mot, dazahuishi, qui est le mot dazahui suivi du morphème "shi" qui veut dire "le modèle / le mode".
+J'espère avoir des données intéressantes à analyser avec le nouveau corpus (dont la taille a doublé !)
