@@ -30,7 +30,7 @@ then
 fi
 
 WORD=$1
-OUTPUT_NUMBER=0
+OUTPUT_NUMBER=1
 
 # This is the regular expression that will be used to search for the word in the pages
 EXPR_REG=$(cat "../expreg/$WORD.txt" | tr -d '\n')
