@@ -1,15 +1,2438 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content=""/>
+    <meta name="description" content="冬季装暖指南，省心装暖不踩坑"/>
+    <meta name="author" content=381>
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>冬季装暖指南，省心装暖不踩坑-千龙网·中国首都网</title>
+    <!-- Bootstrap -->
+    <link href="http://img.qianlong.com/ql2019/index/css/bootstrap.min.css" rel="stylesheet">
 
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta name="theme-color" content="#90080e" /><meta name="keywords" content="北部,东北部,气温,气象,南部,陕西,局地,火险"/><meta name="description" content="四川东北部、陕西、山西、河北、河南、山东等地公众需关注强降雨可能引发的山体滑坡、泥石流、山洪、中小河流洪水、城乡积涝等对交通出行的不利影响，远离气象灾害风险较高的地区"/><meta property="og:title" content="强降雨+强冷空气+南方高温 这个国庆有点忙！"/><meta property="og:type" content="article"/><meta property="og:url" content="https://www.huanqiu.com/article/49qtDFpHxBs"/><meta property="og:description" content="四川东北部、陕西、山西、河北、河南、山东等地公众需关注强降雨可能引发的山体滑坡、泥石流、山洪、中小河流洪水、城乡积涝等对交通出行的不利影响，远离气象灾害风险较高的地区"/><meta property="og:image" content="https://rs2.huanqiucdn.cn/huanqiu/image/www/common/200.jpg"/><meta property="og:image:width" content="200"/><meta property="og:image:height" content="200"/><meta property="og:site_name" content="环球网"/><title>强降雨+强冷空气+南方高温 这个国庆有点忙！</title><link rel="stylesheet" href="https://rs2.huanqiucdn.cn/csr/pc/css/global.css">
-<script src="https://rs2.huanqiucdn.cn/huanqiu/js/www/browse/browse_ua.js"></script>
-<script src="https://rs2.huanqiucdn.cn/huanqiu/js/www/common/jquery-3.6.0.min.js"></script>
-<script src="https://ipengtai.huanqiu.com/resource/js/base_mobile2.js"></script><script src="https://www.huanqiu.com/csr/service-worker.js"></script>
-<script src="https://www.huanqiu.com/csr/csr.js" defer=""></script>
+    <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+    <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+    <![endif]-->
+    <!-- swiper.css -->
+    <link rel="stylesheet" href="http://www.qianlong.com/qianlong-new/view/index/css/swiper.min.css">
+    <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+    <script src="http://img.qianlong.com/ql2019/index/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript">
+        var contentid = '7872796';// 文章ID
+        var title = "\u51ac\u5b63\u88c5\u6696\u6307\u5357\uff0c\u7701\u5fc3\u88c5\u6696\u4e0d\u8e29\u5751";//文章标题
+        var topicid = '';// 评论主题
+        var context = '';//全文内容缓存
+        var content = '';//第一页内容缓存
+        var _IMG_URL = 'http://img.qianlong.com/templates/qianlong';
+    </script>
+    <script type="text/javascript" src="http://img.qianlong.com/templates/qianlong/js/cmstop-imagezoom.js"></script>
+    <script type="text/javascript" src="http://img.qianlong.com/js/fet.js"></script>
+<script type="text/javascript" src="http://img.qianlong.com/js/repos.js"></script>
+<script type="text/javascript">fet.setAlias({IMG_URL: "http://img.qianlong.com/"})</script>
+    
+    <!-- <a id="toolbarSwitch" href="javascript:void(0);">开启辅助工具</a>
+    <script src="http://slwza.qianlong.com/slwza/esdToolsInit.js"></script>-->
+    
+    <style>
+        html{
+            color:#000;background:#fff;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+        body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,select {
+            margin:0;
+            padding:0;
+        }
+        article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section { 
+            display:block;
+        }
+        audio,canvas,video {
+            display: inline-block;*display: inline;*zoom: 1;
+        }
+        body,div,p,button,input,select,textarea{
+            font:14px/1.6 "微软雅黑","宋体","SourceHanSansCN","PingFangSC-Regular";
+        }
+        input,select,textarea{
+            font-size:100%;
+        }
+        input{
+            border:none;
+        }
+        table{
+            border-collapse:collapse;border-spacing:0;
+        }
+        th{
+            text-align:inherit;
+        }
+        img{
+            /*vertical-align:middle;*/
+            vertical-align:top;
+        }
+        fieldset,img{
+            border:0;
+        }
+        iframe{
+            display:block;
+        }
+        abbr,acronym{
+            border:0;font-variant:normal;
+        }
+        del {
+            text-decoration:line-through;
+        }
+        address,caption,cite,code,dfn,em,th,var {
+            font-style:normal;
+        }
+        ol,ul,li {
+            list-style:none;
+        }
+        caption,th {
+            text-align:left;
+        }
+        h1,h2,h3,h4,h5,h6 {
+            font-size:100%;
+            font-weight:500;
+        }
+        q:before,q:after {
+            content:'';
+        }
+        sub, sup {
+            font-size: 75%; line-height: 0; position: relative; vertical-align: baseline;
+        }
+        sup {top: -0.5em;}
+        sub {bottom: -0.25em;}
+        a {
+            cursor: pointer; 
+            color: #000101;
+            text-decoration: none;
+            border:none;
+            -webkit-tap-highlight-color: rgba(0,0,0,0);
+            -webkit-tap-highlight-color:transparent;
+            outline:none；
+        }
+        a:link{
+            text-decoration: none;
+        }
+        a:visited{
+            text-decoration: none;
+        }
+        a:focus {
+            text-decoration: none;
+            outline-style:none;
+            -moz-outline-style: none;
+        }
 
-<script>function linkChange(){var i=window.location.href,n=i.indexOf("?")>-1?i.indexOf("?"):i.length;i=i.substring(0,n).replace(/([\w\W]+)\/$/,"$1");var u,o=window.location.hostname,a=window.location.href;i.indexOf("article")>-1&&"m.huanqiu.com"!=o?(u=a.indexOf("/article"),a=a.substring(u,a.length),window.location.href="//m.huanqiu.com"+a):i.indexOf("gallery")>-1&&"m.huanqiu.com"!=o?(u=a.indexOf("/gallery"),a=a.substring(u,a.length),window.location.href="//m.huanqiu.com"+a):"china.huanqiu.com/lh"===i.split("//")[1]||"china.huanqiu.com/fjxzc"===i.split("//")[1]||"china.huanqiu.com/cpc100"===i.split("//")[1]||"china.huanqiu.com/year"===i.split("//")[1]||"china.huanqiu.com/chinahealth"===i.split("//")[1]?(u=a.indexOf("china.huanqiu.com"),a=a.substring(u+17,a.length),window.location.href="//m.huanqiu.com/list/"+a.split("/").join("")):"opinion.huanqiu.com/shanrenping"===i.split("//")[1]||"opinion.huanqiu.com/hsrp"===i.split("//")[1]||"opinion.huanqiu.com/editorial"===i.split("//")[1]?(u=a.indexOf("opinion.huanqiu.com"),a=a.substring(u+19,a.length),window.location.href="//m.huanqiu.com/list/"+a.split("/").join("")):["go.huanqiu.com","mil.huanqiu.com","tech.huanqiu.com","china.huanqiu.com","world.huanqiu.com","finance.huanqiu.com","opinion.huanqiu.com","taiwan.huanqiu.com","ent.huanqiu.com","oversea.huanqiu.com","health.huanqiu.com","sports.huanqiu.com","auto.huanqiu.com","v.huanqiu.com","hope.huanqiu.com","look.huanqiu.com","fashion.huanqiu.com","society.huanqiu.com","women.huanqiu.com","uav.huanqiu.com","lx.huanqiu.com","ski.huanqiu.com","smart.huanqiu.com","city.huanqiu.com","quality.huanqiu.com","cul.huanqiu.com","biz.huanqiu.com","chamber.huanqiu.com","art.huanqiu.com","capital.huanqiu.com","movie.huanqiu.com","house.huanqiu.com","qinzi.huanqiu.com","5gcenter.huanqiu.com","energy.huanqiu.com","shopping.huanqiu.com","silkroad.huanqiu.com","xy.huanqiu.com","zy.huanqiu.com","media.huanqiu.com","newmedia.huanqiu.com"].indexOf(o)>-1&&"/"===window.location.pathname?(u=a.indexOf("com"),a=a.substring(u+3,a.length),window.location.href="//m.huanqiu.com/list/"+o.split(".")[0]+a.split("/").join("")):"www.huanqiu.com"===o&&(u=a.indexOf("www.huanqiu.com"),a=a.substring(u+15,a.length),window.location.href="//m.huanqiu.com"+a.split("/").join(""))}/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)&&linkChange();</script><link rel="stylesheet" type="text/css" href="//rs1.huanqiucdn.cn/dp/api/assets?dp_csid=cse3pl8tdbi&dp_instanceid=dpe3plc9q0n&dp_commit=d858ec4a1bc81b22b2564d20018134596e763a1d&web_id=1&dp_path=layouts/csr_article/csr_article.css">
-<link href="//rs2.huanqiucdn.cn/huanqiu/image/www/common/favicon1.ico" rel="shortcut icon" /></head><body><img src="https://rs2.huanqiucdn.cn/huanqiu/image/www/common/200.jpg" style="display:none;"><div id="config_page" style="display:none;">/csr-component/config/article/index.js</div><div id="global_constant" style="display:none"><span class="global_host">lx.huanqiu.com</span><span class="global_path"></span></div><div class="data-container" style="visibility:hidden;height:0; overflow:hidden;"><div id="csr_topheader_ad">7003383</div><div id="csr_bottomheaderl_ad">7005136</div><div id="csr_bottomheaderr_ad">7005137</div><div id="article_ad">
-    <div id="7004636" class="ad" style="display: block">
-      <aside id="content-ad">
-      <!-- Ad Survey 广告位代码  文章内页画中画-->
-      <script type="text/javascript">window.AD_SURVEY_Add_AdPos && AD_SURVEY_Add_AdPos("7004636");</script>
-      </aside>
-    </div></div><article><textarea class="article-aid">49qtDFpHxBs</textarea><textarea class="article-author"> </textarea><textarea class="article-host">china.huanqiu.com</textarea><textarea class="article-addltype">article</textarea><textarea class="article-title">强降雨+强冷空气+南方高温 这个国庆有点忙！</textarea><textarea class="article-catnode">/e3pmh1nnq/e7tl4e309</textarea><textarea class="article-content"><article><section data-type="rtext"><p><em data-scene="strong">国庆假期天气预报</em>  </p><p>强降雨/强冷空气/南方高温 </p><p>今年国庆假期可称之为“天气大杂烩”，强降雨、强冷空气、高温等天气都来凑热闹。 </p><p>★四川东部、陕西中南部、山西南部、河南北部、山东等地雨水多多； </p><p>★我国大部地区自北向南大幅降温，厚衣服赶紧备出来； </p><p>★南方大部地区气温先增后降，气温起伏很大！ </p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/fa2532f253d3f91736ae95c1958cc6c2.png?w=1260" /></i></p><p><em data-scene="strong">-强降雨-</em>  </p><p>1日至3日，四川东北部、陕西中南部、山西南部、河北南部、河南中北部、山东、江苏北部、安徽北部等地有大到暴雨，其中，四川东北部、陕西南部、山西南部、河南北部、山东等局地有大暴雨，并将伴有短时强降水、雷电等强对流天气。 </p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/6c07e469c0a4e2c94c7023ffcbb45f4b.png?w=1260" /></i></p><p>4日至6日，四川东北部、重庆北部、陕西南部、河南中南部、湖北北部等地有中到大雨，局地有暴雨。 </p><p><em data-scene="strong">-强冷空气-</em>  </p><p>1日至6日，我国大部地区自北向南将先后出现4～6级偏北风、阵风8～10级；气温下降幅度达8～12℃，部分地区降温14～16℃，局地超过18℃。 </p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/ae17f332fce293b0c2d50b7eee9ab9ba.png?w=1260" /></i></p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/ecc7d11f2dfe80bcb7d10c518f9f69ea.png?w=1260" /></i></p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/7fb6ee69b321bf5d40c72f590f566097.png?w=1260" /></i></p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/6386435a7978421adf1a8d95cabfc549.png?w=1260" /></i></p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/f1d47d732f094297cf1d99982032354d.png?w=1260" /></i></p><p>此次过程，日最高气温最低值10℃线在辽宁北部-河北北部-陕西南部一带，15℃线在华北中部-安徽中部-四川盆地北部一带，20℃线在江南中部一带。 </p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/54fe6e1bf960b00d626506afb667f354.png?w=1260" /></i></p><p>1日至3日，新疆东部和南疆盆地、青海北部、甘肃西部、内蒙古大部、辽宁、吉林、河北、天津、山东等地部分地区有5级以上大风、阵风7～8级。 </p><p><em data-scene="strong">-南方高温-</em>  </p><p>1日至4日，江汉、江淮、江南及广东北部、广西北部等地将出现大范围高温天气，日最高气温一般有35～37℃，部分地区38～39℃。国庆假日期间江南、华南北部高温日数可达4～6天，5日起高温逐步缓解。 </p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/696a493e3f36a815d5e70b70e0e7565d.png?w=1260" /></i></p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/d63094ee8f9ce1fc762e8d37d4188279.png?w=1260" /></i></p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/89daf0afc5c043d4ad4b3f8c7ca11879.png?w=1260" /></i></p><p><i class="pic-con"><img data-alt="" src="//rs1.huanqiucdn.cn/dp/api/files/imageDir/69ac5eac65afe909561106f53630a8e8.png?w=1260" /></i></p><p>最高气温预报图 </p><p><em data-scene="strong">-灾害风险预报-</em>  </p><p><em data-scene="strong">气象灾害风险预警</em> ：国庆假日期间，四川东北部、陕西南部等局地山洪灾害气象风险高；山西西南部、河南西北部、湖北西部、广东北部、广西南部、重庆东北部、四川东北部和中南部、云南北部、西藏东南部、陕西南部和东部、甘肃南部等地部分地区发生地质灾害气象风险较高；四川东北部、陕西南部、山东东部等局地中小河流洪水气象风险较高。 </p><p><em data-scene="strong">森林草原火险气象等级预报</em> ：国庆假日期间，江南、广西北部、广东北部等地部分地区森林火险气象等级高,江西东北部和西部、湖南东北部和南部局部地区森林火险气象等级极高。内蒙古中部和东部、甘肃北部、青海北部的部分地区草原火险等级较高。 </p><p><em data-scene="strong">-萌台提醒-</em>  </p><p>气象专家提醒，国庆假日期间，受强冷空气影响，我国自北向南将出现大风降温降雨天气，气温下降明显，尤其南方部分地区气温先增后骤降，公众需关注气温变化，及时增添衣物，谨防冷热交替引发的身体不适。四川东北部、陕西、山西、河北、河南、山东等地公众需关注强降雨可能引发的山体滑坡、泥石流、山洪、中小河流洪水、城乡积涝等对交通出行的不利影响，远离气象灾害风险较高的地区。此外，公众还需注意森林草原和城乡防火安全。 </p><p>"不知不觉间， </p><p>国庆节就已经到来， </p><p>让我们一同庆贺！" </p></section></article></textarea><textarea class="article-time">1664437947202</textarea><textarea class="article-copyright"></textarea><textarea class="article-editor-name">责编：李莹莹</textarea><textarea class="article-source-name"><a href="https://mp.weixin.qq.com/s/tVXvBP0ooUu-fYZ567feEw" >中央气象台</a></textarea><textarea class="article-ext-xtime">1664437947202</textarea><textarea class="article-ext-CommentStatus">1</textarea><textarea class="article-ext-serious">1</textarea><textarea class="article-ext-relation">[]</textarea><textarea class="article-cover"></textarea></article><div id="csr_other_1">7003385</div><div class="article_aside_hqss"><div class="hd"><textarea class="title">环球时事</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4BD4qCEA4m5</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">美对华禁令扰乱市场!巨头&#34;业绩休克&#34;警告芯片业</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BD5HFjENRI</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">麦卡锡终获&#34;惨胜&#34; 美媒：闹剧恐引发更大危机</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BD3kbT6sPG</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">哈里新书掀起轩然大波，英王室成立“作战室”</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BD4NHboECq</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">德媒：对德国经济来说，没有中国可不行</textarea><textarea class="item-cnf-host">oversea.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDEz51LsqN</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">152.5万人参加2023国考笔试 竞争比约41：1</textarea><textarea class="item-cnf-host">china.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDCsu85aT6</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">我国成功发射实践二十三号卫星</textarea><textarea class="item-cnf-host">china.huanqiu.com</textarea></div></div></div><div id="csr_other_2">7003386</div><div class="article_aside_hqyj"><div class="hd"><textarea class="title">环球业界</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4BDJCmufpwH</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/3307e0167e5aa8aa54ec99ac8a95417c.jpg</textarea><textarea class="item-title">江苏：捕蟹供市场</textarea><textarea class="item-subtitle">江苏：捕蟹供市场</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea><textarea class="item-time">1673227059825</textarea></div><div class="item"><textarea class="item-aid">4BDJdTEjqa7</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/0fc09a26634f086551a8274e27960cda.jpg</textarea><textarea class="item-title">黄河宁夏段现冰封河段</textarea><textarea class="item-subtitle">黄河宁夏段现冰封河段</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea><textarea class="item-time">1673227782138</textarea></div><div class="item"><textarea class="item-aid">4BDI1fUW4ZK</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">拓展境内外汇市场深度广度</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDI0zOpxjp</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">期货市场持续扩容前景看好</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDIDppNcOp</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">AI绘画的“小秘密”都在这一篇文章里</textarea><textarea class="item-cnf-host">tech.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDHOc62hoe</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">积极因素汇聚 A股市场乐观预期逐步兑现</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDI9RUXLW1</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">“最薄”非线性量子光源首次实现</textarea><textarea class="item-cnf-host">tech.huanqiu.com</textarea></div></div></div><div id="csr_other_3">7003387</div><div class="article_aside_hqfc"><div class="hd"><textarea class="title">环球风尚</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4BDKEMU2eyP</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/b9933f754f808c3d3e0e96d8fab8494c.png</textarea><textarea class="item-title">名家齐聚新年音乐会</textarea><textarea class="item-cnf-host">ent.huanqiu.com</textarea><textarea class="item-time">1673228781707</textarea></div><div class="item"><textarea class="item-aid">47WFQPMfZbE</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/f82eb648ac8b63f2b6a1261f3bb914d0.jpg</textarea><textarea class="item-title">鹿晗时尚大片  帅气有型</textarea><textarea class="item-cnf-host">fashion.huanqiu.com</textarea><textarea class="item-time">1649378908859</textarea></div><div class="item"><textarea class="item-aid">448L0xOP60T</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/bfde77be2047f312c65dbde58bf7ee55.png</textarea><textarea class="item-title">宝珀Blancpain鼎力支持“腔棘鱼探险研究”第六次考察之旅——初探科西嘉角</textarea><textarea class="item-cnf-host">luxury.huanqiu.com</textarea><textarea class="item-time">1627524632846</textarea></div><div class="item"><textarea class="item-aid">47Yl00qAEAf</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/cc591483d68d301cdf6fd14c301bd91a.jpg</textarea><textarea class="item-title">童笔绘春天</textarea><textarea class="item-cnf-host">lx.huanqiu.com</textarea><textarea class="item-time">1649640154845</textarea></div></div></div><div id="csr_other_4">7003388</div><div class="article_aside_hqcj"><div class="hd"><textarea class="title">环球产经</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">40wovOuAJMZ</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/aea266fa9cf70679d8af20d340042c4d.png</textarea><textarea class="item-title">别克君越艾维亚、GL8 ES陆尊荣膺第17届中国－东盟博览会官方指定用车</textarea><textarea class="item-subtitle">助力亚洲顶级盛会共显时代向上风采</textarea><textarea class="item-cnf-host">auto.huanqiu.com</textarea><textarea class="item-time">1606960549716</textarea></div><div class="item"><textarea class="item-aid">9CaKrnKmQBQ</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//himg2.huanqiucdn.cn/attachment2010/2019/0916/10/23/20190916102314980.jpg</textarea><textarea class="item-title">寄望新品提振业绩 济川药业消字号产品却涉嫌虚假宣传</textarea><textarea class="item-subtitle">济川药业涉嫌虚假宣传</textarea><textarea class="item-cnf-host">health.huanqiu.com</textarea><textarea class="item-time">1568599980000</textarea></div><div class="item"><textarea class="item-aid">4BB2zIkFbgZ</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">湖北推进省属高校一流学科建设</textarea><textarea class="item-cnf-host">lx.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">9CaKrnKmROO</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">致癌物质减少其他危害增加 揭开电子烟的真面目</textarea><textarea class="item-cnf-host">health.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDKUU2cY6c</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">国内首次放电状态测电池安全，捷途大圣i-DM底气十足</textarea><textarea class="item-cnf-host">auto.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">7Q2P3389HpK</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover"></textarea><textarea class="item-title">大众汽车在澳大利亚“排放门”新进展：大众与澳车主和解或赔1.27亿澳元</textarea><textarea class="item-cnf-host">quality.huanqiu.com</textarea><textarea class="item-time">1568708543125</textarea></div><div class="item"><textarea class="item-aid">4AeU2wdG5GH</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover"></textarea><textarea class="item-title">辽宁省大力推进沈阳现代化都市圈建设</textarea><textarea class="item-cnf-host">city.huanqiu.com</textarea><textarea class="item-time">1669601320834</textarea></div></div></div><div class="article_aside_tyly"><div class="hd"><textarea class="title">体育·旅游</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">48zhEaT0QhU</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/e73f4b27cd37ba03dd13bd26515c73c8.jpg</textarea><textarea class="item-title">长春亚泰备战中超联赛第二阶段比赛</textarea><textarea class="item-cnf-host">sports.huanqiu.com</textarea><textarea class="item-time">1658899861549</textarea></div><div class="item"><textarea class="item-aid">48zYom8QDvH</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/69b418e4c6b66473001cb377f52c25e0.jpg</textarea><textarea class="item-title">东亚杯：中国女足平日本女足</textarea><textarea class="item-cnf-host">sports.huanqiu.com</textarea><textarea class="item-time">1658885728003</textarea></div><div class="item"><textarea class="item-aid">4Anb2WhZXWk</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/f8ea35fb10d682d8f926754b9528edf4.jpg</textarea><textarea class="item-title">克拉玛依油田雪挂美景</textarea><textarea class="item-cnf-host">go.huanqiu.com</textarea><textarea class="item-time">1670550078265</textarea></div><div class="item"><textarea class="item-aid">4AmiqteVjua</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/335f19496d2565f6affcdc5c7e594b96.jpg</textarea><textarea class="item-title">昆明樱花谷樱花盛开</textarea><textarea class="item-cnf-host">go.huanqiu.com</textarea><textarea class="item-time">1670459084802</textarea></div></div></div><div id="csr_other_5">7004638</div><div class="article_aside_hqqyg"><div class="hd"><textarea class="title">环球趣云购</textarea></div><div class="bd"><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">点击进入环球趣云购</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://shop91383817.youzan.com/v2/showcase/homepage?alias=xKm5S6rjcJ&dc_ps=2617908957523691520.300001</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/bc7974eadae0ca5f3a13fb8c2317e10a.jpeg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">荞麦菊花U型枕</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://shop91383817.m.youzan.com/wscgoods/detail/3f1xqpnglb2hd?scan=1&activity=none&from=kdt&qr=directgoods_833339180&shopAutoEnter=1&showsku=true</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/7ff23f44caec3da5cfa77f29db636466.jpg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">益元黑八珍代餐粉</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://j.youzan.com/ZLgT6s</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/57f8e29c1ee6294ed3f72111a6e0575d.jpg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">轩妈芝士蛋黄酥</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://j.youzan.com/Z8AT6s</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/42534005cb0523ebe71d8864168e91d6.jpg</textarea></div></div></div><div id="csr_other_6">7004639</div><div id="csr_other_7">7004637</div><div id="csr_article_dl_ad">7003389</div></div><script src="//rs2.huanqiucdn.cn/huanqiu/js/www/common/all_statistics.js"></script><script type="text/javascript" src="//rs1.huanqiucdn.cn/dp/api/assets?dp_csid=cse3pl8tdbi&dp_instanceid=dpe3plc9q0n&dp_commit=d858ec4a1bc81b22b2564d20018134596e763a1d&web_id=1&dp_path=layouts/csr_article/csr_article.js"></script></body></html>
+        a:hover {
+            /*color:#be1116;*/
+            text-decoration:none;
+        }
+        a:active  {
+            text-decoration:none;
+        }
+        
+        
+        input{
+            outline: none;
+            }
+
+        /* 清理浮动 */
+        .cl:after {
+            visibility:hidden;
+            display:block;
+            font-size:0;
+            content:" ";
+            clear:both;
+            height:0;
+        }
+        .cl {
+            zoom:1; /* for IE6 IE7 */
+        }
+        /*haslayout*/
+        .has-layout{
+            zoom:1
+        }
+        /* 设置内联, 减少浮动带来的bug */
+        .fl,.fr {
+            display:inline;
+        }
+        .fl {
+            float:left;
+        }
+        .fr{
+            float:right;
+        }
+        input{
+            outline:none;
+            }
+        /*颜色*/
+        .cbbb {
+            color: #bbb;
+        }
+        .c777 {
+            color: #777;
+        }
+        .cl-orange {
+            color:#fc8500;
+        }
+        a.cl-orange,a.cl-orange:hover {
+            color:#fc8500;
+            text-decoration: none;
+        }
+        .overhid {
+            overflow: hidden;
+        }
+        
+
+        /**/
+        body{
+            position: relative;
+        }
+        .s_pc_top {
+            /*padding-top: 16px;
+            padding-bottom: 10px;*/
+            border-top: 2px solid rgba(24,85,165,0.50);
+            border-bottom: 1px solid rgba(0,0,0,0.10);
+            /*margin-bottom: 30px;*/
+            /*margin-bottom: 39px;*/
+            margin-bottom: 20px;
+        }
+        .s_pc_nav {
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: box;
+            display: flexbox;
+            display: flex;
+            /*min-width: 950px;*/
+            min-width: 800px;
+            margin: 0 auto;
+            position: relative;
+            max-width: 1170px;
+        }
+        .s_pc_logo {
+            /*padding-left: 31px;*/
+            padding-right: 24px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            float: left;
+            height: 40px;
+        }
+        .s_pc_ss {
+            height: 29px;
+            /* padding-left: 128px; */
+            position: absolute;
+            background: #fff;
+            /*right: 40px;*/
+            right: 0px;
+            top: 0;
+            padding-top: 24px;
+            padding-bottom: 16px;
+        }
+        .s_pc_nav ul {
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: box;
+            display: flexbox;
+            display: flex;
+            height: 78px;
+            float: left;
+        }
+        .s_pc_nav ul>li {
+            font-size: 18px;
+            min-width: 32px;
+            margin: 0 15px;
+            line-height: 78px;
+        }
+        .s_pc_nav ul>li>a:hover{
+            color: #1855A5;
+        }
+        .s_pc_nav ul>li img {
+            vertical-align: middle;
+        }
+        .s_pc_nav .hove>a {
+            font-weight: bold;
+        }
+        .s_pc_nav_k{
+            position: relative;
+            border-right:1px solid #fff;
+            border-left:1px solid #fff;
+        }
+        .s_pc_nav_k>a{
+            display: inline-block;
+            height: 78px;
+            width: 60px;
+            text-align: center;
+            border-left: 1px solid #fff;
+            border-right: 1px solid #fff;
+            position: relative;
+            z-index: 2;
+            /*background: #fff;*/
+            /*background: #fff url(http://img.qianlong.com/qianlong_img/dhsk.png) no-repeat center center;*/
+            background: #fff url(http://img.qianlong.com/ql2019/list/images/icon1.png) no-repeat center center;
+            background-size: 19px 19px;
+            transition: background 0.8s;
+            -moz-transition: background 0.8s; /* Firefox 4 */
+            -webkit-transition: background 0.8s; /* Safari 和 Chrome */
+            -o-transition: background 0.8s;
+        }
+        .s_pc_nav_k_box{
+            position: absolute;
+            left: 0;
+            top: 59px;
+            border: 1px solid rgba(10,80,149,0.10);
+            /*border-top: 0;*/
+            background: #fff;
+            z-index: 1;
+        }
+        .s_pc_nav_k_box ul{
+            height: auto;
+        }
+        .s_pc_nav_k_box ul>li{
+            width: 75px;
+            line-height: 60px;
+        }
+        .s_pc_nav_k_box ul>li div {
+            line-height: 60px;
+            height: 60px;
+        }
+        .s_pc_nav_k_box ul>li div>a{
+            font-size: 18px;
+        }
+        .s_pc_nav_k .s_pc_nav_k_box{
+            display: none;
+        }
+        .s_pc_nav_k:hover>a{
+            border-left: 1px solid rgba(10,80,149,0.10);
+            border-right: 1px solid rgba(10,80,149,0.10);
+        }
+        .s_pc_nav_k:hover .s_pc_nav_k_box{
+            display: block;
+        }
+        
+        .s_pc_nav_k:hover{
+            border-top:1px solid rgba(10,80,149,0.10);
+            border-left:1px solid rgba(10,80,149,0.10);
+        }
+        .s_pc_nav_k:hover>a{
+            /*background: #fff url(http://img.qianlong.com/qianlong_img/dhsk1.png) no-repeat center center;*/
+            background: #fff url(http://img.qianlong.com/ql2019/list/images/icon2.png) no-repeat center center;
+            background-size: 19px 19px;
+        }
+        .s_pc_nav_k:hover .s_pc_nav_listNav{
+            display:block;
+        }
+        .s_pc_nav_listNav{
+            position: absolute;
+            left: -250px;
+            top: 77px;
+            border: 1px solid rgba(10,80,149,0.10);
+            /* border-top: 0; */
+            background: #fff;
+            z-index: 1;
+            width: 560px;
+            padding:20px 38px;
+            display:none
+        }
+        .s_pc_listNav {
+            float: left;
+            padding: 4px 15px;
+            margin: 10px 11px;
+            background: #F6F8FC;
+            border-radius: 35px;
+            font-family: MicrosoftYaHei;
+            font-size: 14px;
+        }
+        .s_pc_nav_k .s_pc_nav_listNav .s_pc_listNav:hover{
+            background: #1855A5;
+        }
+        .s_pc_nav_k .s_pc_nav_listNav .s_pc_listNav:hover a{
+            background: #1855A5;
+            color:#fff;
+        }
+        .s_pc_listNav > a{
+            color: #333333;
+        }
+        /*手机导航*/
+        /*.s_s_nav{
+            border-bottom: 1px solid #ccc;
+        }*/
+        .s_s_nav_box{
+            padding: 15px 0px;
+        }
+        .ss_nav{
+            padding-top: 10px;
+            -webkit-transition: all .5s ease;
+            -moz-transition: all .5s ease;
+            -ms-transition: all .5s ease;
+            -o-transition: all .5s ease;
+            transition: all .5s ease;
+            cursor: pointer;
+            width: 20px;
+            height: 40px;
+            display: block;
+        }
+        .s_s_box_log{
+            text-align: center;
+        }
+        .s_s_box_ss{
+            padding-top:8px;
+            text-align: right;
+        }
+        .ss_nav:focus {
+          outline: 0;
+        }
+        .icon-bar {
+            display: block;
+            margin: 6px 0;
+            width: 20px;
+            height: 2px;
+            background-color: #0A5095;
+        }
+        
+        /*导航展示*/
+        .s_nav-content{
+            position: fixed;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            background: #fff;
+            z-index: 2;
+            display: none;
+        }
+        .s_nav_content_top{
+            position: relative;
+            padding: 18px;
+        }
+        .s_nav_content_top span{
+            position: absolute;
+            top: 13px;
+            left: 15px;
+            color: #0A5095;
+            font-size: 20px;
+            line-height: 1;
+        }
+        .s_nav_content_top h2{
+            text-align: center;
+            font-family: PingFangSC-Regular;
+            font-size: 18px;
+            color: #333333;
+            letter-spacing: 0;
+        }
+        .s_nav_content_bott{
+            padding: 0 15px;
+        }
+        .s_nav_content_bott li>.row>div{
+            padding: 5px 0px;
+            background: #F6F8FC;;
+            margin: 8px 2px;
+            text-align: center;
+            border-radius: 20px;
+        }
+        .s_nav_content_bott li>.row>div a{
+            font-family: PingFangSC-Regular;
+            font-size: 12px;
+            color: #333333;
+        }
+        .s_nav_content_bott li>.row .s_nav_content_hover a{
+            color: #377FFC;
+        }
+
+
+        .cont{
+            padding: 0 15px;
+        }
+        .title{
+            font-size: 40px;
+            color: #333333;
+            letter-spacing: 0;
+            line-height: 1.2;
+            font-weight: bold;
+            /*padding-bottom: 48px;*/
+            padding-bottom: 36px;
+            font-family:"Microsoft YaHei","\5FAE\8F6F\96C5\9ED1";
+        }
+        .mbx{
+            padding-bottom: 20px;
+        }
+        .mbx a{
+            color: #333;
+        }
+        .mbx span{
+            color: #888;
+        }
+        .mbx a,.mbx span{
+            padding-right: 5px;
+            font-size: 14px;
+            letter-spacing: 0;
+            line-height: 1.2;
+        }
+        .s_laiz{
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+            border-bottom: 1px solid rgba(82,131,233,0.26);
+        }
+        .s_laiz_box1 span{
+            font-size: 16px;
+            color: #888888;
+            letter-spacing: 0;
+            padding-right: 10px;
+        }
+        .s_laiz_box1 a {
+            font-size: 16px;
+            color: #305798;
+            letter-spacing: 0;
+        }
+        .fenxiang,.dahao,.xiaohao,.dayin{
+            width: 31px;
+            height: 31px;
+            display: inline-block;
+            margin-left: 30px;
+            vertical-align: middle;
+            cursor: pointer;
+        }
+        .dahao{
+            /*background: url(http://img.qianlong.com/qianlong_img/dahao.png) no-repeat center;*/
+            background: url(http://img.qianlong.com/ql2019/list/images/1358.png) no-repeat center;
+            cursor: pointer;
+            background-size:31px 31px;
+        }
+        .dahao:hover{
+            background: url(http://img.qianlong.com/qianlong_img/zhzd1.png) no-repeat center;
+        }
+        .xiaohao{
+            /*background: url(http://img.qianlong.com/qianlong_img/xiaohao.png) no-repeat center;*/
+            cursor: pointer;
+            background: url(http://img.qianlong.com/ql2019/list/images/1357.png) no-repeat center;
+            background-size:31px 31px;
+        }
+        .xiaohao:hover{
+            background: url(http://img.qianlong.com/qianlong_img/zhjx1.png) no-repeat center;
+        }
+        .dayin{
+            /*background: url(http://img.qianlong.com/qianlong_img/dayin.png) no-repeat center;*/
+            background: url(http://img.qianlong.com/ql2019/list/images/1355.png) no-repeat center;
+            background-size:31px 31px;
+        }
+        .dayin:hover{
+            background: url(http://img.qianlong.com/qianlong_img/dy1.png) no-repeat center;
+        }
+        .s_laiz_box2{
+            text-align: right;
+        }
+        /*分享*/
+        .fenxiang{
+            /*background: url(http://img.qianlong.com/qianlong_img/fenx.png) no-repeat center;*/
+            background: url(http://img.qianlong.com/ql2019/list/images/1356.png) no-repeat center;
+            background-size:31px 31px;
+        }
+        .fenxiang:hover{
+            background: url(http://img.qianlong.com//qianlong_img/fx1.png) no-repeat center;
+        }
+        #bdshare .bds_more{
+            background:none;
+            margin: 0;
+            width: 31px;
+            height: 31px;
+            display: inline-block;
+        }
+        .bdshare_dialog_box{
+            box-sizing: content-box;
+        }
+        .z_cen_box{
+            padding: 0px 0 40px 0;
+        }
+        .z_cen_box p{
+            line-height: 2.2;
+            padding: 5px 0;
+            word-break: break-word;
+            text-indent: 2em;
+            color:#000000;
+        }
+        .z_cen_box img{
+            max-width: 80%;
+            /*margin-left:-2em;*/
+            height: auto !important;
+        }
+        .f_size_1 p{
+            font-size: 16px;
+            
+        }
+        .f_size_2 p{
+            font-size: 18px;
+        }
+        .f_size_3 p{
+            font-size: 20px;
+        }
+        .z_cen_sq{
+            font-size: 16px;
+            color: #9B9EA3;
+            letter-spacing: 0;
+            padding-bottom: 43px;
+        }
+        .z_cen_bj{
+            padding-bottom: 70px;
+        }
+        .phonead{
+            padding-bottom: 50px
+        }
+         .z_cen_bj{
+            padding-bottom: 20px;
+        }
+        .z_cen_bj span{
+            padding-right: 10px;
+            font-size: 16px;
+            color: #9B9EA3;
+            letter-spacing: 0;
+        }
+        
+        /*右侧*/
+        .s_pc_r_box{
+            padding-left: 50px;
+            padding-top: 5px;
+        }
+        .s_pc_r_box_gg{
+            padding-bottom: 50px;
+            display:none;
+        }
+        .swiper {
+            margin-left: auto;
+            margin-right: auto;
+            position: relative;
+            overflow: hidden;
+            list-style: none;
+            padding: 0;
+            z-index: 1;
+        }
+        .swiper_list{
+            display: block;
+            position: relative;
+        }
+        .swiper_list img{
+            width: 100%;
+            border-radius: 3px;
+        }
+        .s_pc_r_box_gg .swiper_list span{
+            position: absolute;
+            right:2px;
+            top: 2px;
+            font-size: 12px;
+            padding: 2px 4px;
+            color: #FFFFFF;
+            letter-spacing: 0;
+            background: rgba(0,0,0,0.50);
+            border-radius: 3px;
+        }
+        .swiper-pagination-bullet {
+            width: 10px;
+            height: 10px;
+            display: inline-block;
+            /*border: 1px solid #fff;*/
+            border-radius: 100%;
+            background: #fff;
+            /*opacity: .4;*/
+            opacity: 1;
+        }
+        .swiper-pagination-bullet-active {
+            opacity: 1;
+            /*background: #CB1C1D;*/
+            /*border: 1px solid rgba(255,255,255,0.50);*/
+            background: rgba(255,255,255,0.50);
+            width:20px;
+            height:10px;
+            border-radius: 4px;
+        }
+        .s_r_rdph{
+            /*padding-bottom: 10px;*/
+            padding-bottom: 30px;
+        }
+        /*.s_pc_rdph_title{
+            margin-bottom: 30px;
+            border-bottom: 1px solid rgba(82,131,233,0.15);
+        }*/
+        .s_pc_rdph_title{
+            font-size: 20px;
+            padding-left: 14px;
+            color: #1855A5;
+            letter-spacing: 0;
+            line-height: 29px;
+            padding-bottom: 12px;
+            font-weight: bold;
+            font-family: "Microsoft YaHei","\5FAE\8F6F\96C5\9ED1";
+        }
+        /*.s_pc_rdph_title span{
+            font-family: "Microsoft YaHei","\5FAE\8F6F\96C5\9ED1";
+            font-size: 20px;
+            color: #1855A5;
+            letter-spacing: 0;
+            line-height: 20px;
+            font-weight: 900;
+            padding-bottom: 12px;
+            border-bottom: 3px solid #1855A5;
+            display: inline-block;
+
+        }*/
+        .s_pc_rdph_box_yt{
+            padding: 18px 15px 0;
+            background: #F6F8FC;
+        }
+        .s_pc_rdph_box_yt_img{
+            padding-right: 14px;
+            overflow: hidden;
+        }
+        .s_pc_rdph_box_yt_img img{
+            width: 100%;
+            height:78.5px;
+        }
+        .s_pc_rdph_box_yt_img img:hover{
+            transform: scale(1.1);  
+        }
+        .s_pc_rdph_box_yt_v{
+            padding-left: 30px;
+            padding-bottom: 20px;
+            position: relative;
+        }
+        .s_pc_biaohao{
+            position: absolute;
+            left: 0;
+            top: -2px;
+            font-size: 16px;
+            color: #999999;
+            letter-spacing: 0;
+            line-height: 1.6;
+        }
+        .s_pc_biaohao_huang{
+            color: #FF9400;
+        }
+        .s_pc_rdph_box_yt_title_first {
+            height: 44px;
+            overflow: hidden;
+        }
+        .s_pc_rdph_box_yt_title a{
+            font-size: 14px;
+            color: #333333;
+            letter-spacing: 0;
+            line-height: 1.6;
+        }
+        .s_pc_rdph_box_yt_title a:hover{
+            color: #FF9400;
+        }
+        .s_pc_rdph_box_yt_title_x{
+            padding-top: 12px;
+            font-family: MicrosoftYaHei;
+            font-size: 12px;
+            color:#64788C;
+            letter-spacing: 0;
+            line-height: 12px;
+            font-family: "Microsoft YaHei","\5FAE\8F6F\96C5\9ED1";
+        }
+        .s_r_pdtj{
+            background: #fff;
+        }
+        .s_pc_pdtj_box{
+            padding-bottom: 24px;
+        }
+        .s_pc_pdtj_box_dt_img{
+            overflow: hidden;
+        }
+        .s_pc_pdtj_box_dt_img a>img{
+            width: 100%;
+            height: 193px;
+            border-radius: 3px;
+        }
+        .s_pc_pdtj_box_dt_img a>img:hover{
+            transform: scale(1.1);
+        }
+        .s_pc_pdtj_box_dt_text{
+            padding-top: 12px;
+        }
+        .s_pc_pdtj_box_dt_text a{
+            font-size: 14px;
+            color: #333333;
+            letter-spacing: 0;
+            line-height: 1.7;
+        }
+        .s_pc_pdtj_box_dt_text a:hover{
+            color:#FF9400;
+        }
+        .s_pc_pdtj_box_xt_img {
+            overflow: hidden;
+        }
+        .s_pc_pdtj_box_xt_img img{
+            width: 100%;
+            height: 80px;
+            border-radius: 3px;
+        }
+        .s_pc_pdtj_box_xt_img img:hover{
+            transform: scale(1.1); 
+        }
+        .s_pc_pdtj_box_xt_box{
+            padding-left: 16px;
+        }
+        .s_pc_pdtj_box_xt_text a{
+            font-size: 14px;
+            color: #333333;
+            letter-spacing: 0;
+            line-height: 1.7;
+        }
+        .s_pc_pdtj_box_xt_text a:hover{
+            color:#FF9400
+        }
+        .s_pc_pdtj_box_xt_bq{
+            font-size: 12px;
+            color: #64788C;
+            letter-spacing: 0;
+            line-height: 1;
+            padding-top: 5px;
+        }
+        img {
+    	    transition:all 0.5s ease-out;
+    	    /* 过度 所有css属性 1秒过度 结束慢*/
+            -moz-transition:all 0.5s ease-out;
+            	/* Firefox 4 */
+            -webkit-transition:all 0.5s ease-out;
+            	/* Safari 和 Chrome */
+            -o-transition:all 0.5s ease-out;
+            	/* Opera */
+        }
+        /**/
+        .z_cen_wntj{
+            overflow: hidden;
+        }
+        .z_cen_wntj_title{
+            margin-bottom: 30px;
+            border-bottom: 1px solid rgba(82,131,233,0.15);
+        }
+        .z_cen_wntj_title span{
+            padding-bottom: 15px;
+            display: inline-block;
+            font-size: 22px;
+            color: #1855A5;
+            letter-spacing: 0;
+            font-weight: 900;
+            border-bottom: 3px solid #1855A5;
+            font-family: "Microsoft YaHei","\5FAE\8F6F\96C5\9ED1";
+        }
+        .z_cen_wntj_box{
+            position: relative;
+            margin: 0 -20px;
+        }
+        /*.z_cen_wntj_box_box {
+            position: absolute;
+        }
+*/        .z_cen_wntj_list{
+            padding: 0 20px;
+        }
+        .z_cen_wntj_list_img{
+            overflow: hidden;
+        }
+        .z_cen_wntj_list_img img{
+            width: 100%;
+            border-radius: 3px;
+        }
+        .z_cen_wntj_list_img img:hover{
+            transform: scale(1.1);  
+        }
+        .z_cen_wntj_list_title{
+            font-weight: bold;
+            font-size: 20px;
+            color: #0D0D0D;
+            letter-spacing: 0;
+            line-height: 1.5;
+            /*padding-top: 19px;*/
+            padding-top:12px;
+        }
+        .z_cen_wntj_list_title a{
+            font-family: Microsoft YaHei","\5FAE\8F6F\96C5\9ED1;
+            font-size: 20px;
+            color: #0D0D0D;
+            letter-spacing: 0;
+            line-height: 30px;
+            font-weight: bold;
+        }
+        .z_cen_wntj_list_title a:hover{
+            color: #FF9400;
+        }
+        .z_cen_wntj_list_js{
+            /*padding-top: 19px;*/
+            padding-top: 18px;
+            color: #868686;
+        }
+        .z_cen_wntj_list_bq_yd{
+            font-size: 13px;
+            color: #64788C;
+            letter-spacing: 0;
+            text-align: justify;
+        }
+        .z_cen_wntj_list_bq_yd img{
+            vertical-align: middle;
+        }
+        .z_cen_wntj_list_bq_lm{
+            /*background: #377FFC;*/
+            padding:0 8px;
+            font-size: 13px;
+            color: #FFFFFF;
+            letter-spacing: 0;
+            text-align: justify;
+            cursor: pointer;
+        }
+        .z_cen_wntj_list_bq_lm img{
+            width: 14px;
+            vertical-align: middle;
+        }
+        .z_cen_wntj_list_bq{
+            /*padding: 25px 0;*/
+            padding: 20px 0 18px;
+            box-shadow: 0 1px 0 0 #E5EDFC;
+            border-radius: 3px 0 0 0;
+            margin-bottom: 20px;
+        }
+        .pc_jzgd{
+            margin: 10px 0;
+            padding: 20px 0; 
+            text-align: center;
+            color: #868686;
+            cursor:pointer;
+        }
+        /*一行排列*/
+        .sj_cen_list_z {
+            border-bottom: 1px solid rgba(10,80,149,0.10);
+            padding-top: 12px;
+            padding-bottom: 16px;
+        }
+        .sj_cen_list_wutu {
+            padding-bottom: 13px;
+        }
+        .sj_cen_list_bq_cen_l {
+            padding-top: 7px;
+        }
+        .sj_cen_list_bq_cen_l span {
+            font-size: 12px;
+            color: #64788C;
+            letter-spacing: 0;
+            padding-right: 10px;
+        }
+        span.s_s_xiaobq{
+            float: right;
+            background: rgba(55,127,252,0.06);
+            border: 1px solid rgba(55,127,252,0.10);
+            border-radius: 4px;
+            border-radius: 4px;
+            text-align: center;
+            padding: 0 10px;
+        }
+
+        /*移动到顶部*/
+        .s_ding {
+            width: 34px;
+            height: 34px;
+            /* position: absolute; */
+            position: fixed;
+            display:none;
+            right: 30px;
+            bottom: 50px;
+            background: url(http://img.qianlong.com/qianlong_img/s_ding.png);
+            background-size: 100% 100%;
+        }
+        .toolbarSwitch_wap{
+             display: none;
+         }
+        /*foot*/
+        .s_pc_foot{
+            padding-top: 20px;
+            background: #F6F8FC;
+            box-shadow: 0 -1px 0 0 rgba(0,0,0,0.11);
+            /*padding: 0 120px;*/
+            text-align: center;
+            padding-bottom: 24px;
+        }
+        .s_pc_foot_box {
+            /*width: 1200px;*/
+            margin: 0 auto;
+        }
+        .s_pc_foot_box p{
+            font-family: AppleSystemUIFont;
+            font-size: 12px;
+            color: #666666;
+            letter-spacing: 0;
+            padding-bottom: 12px;
+        }
+        .s_pc_foot_box div a{
+            display: inline-block;
+            margin: 0 6px;
+        }
+        /*手机foot*/
+        .sj_foot{
+            text-align: center;
+            background: #F8F8F8;
+            padding-top: 23px;
+        }
+        .sj_foot h3{
+            font-family: PingFangSC-Semibold;
+            font-size: 18px;
+            color: #000000;
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        .sj_foot div{
+            padding-bottom: 20px;
+        }
+        .sj_foot div a{
+            font-family: PingFangSC-Regular;
+            font-size: 13px;
+            color: #666666;
+            text-align: center;
+            padding: 0 2px;
+        }
+        .sj_foot p{
+            font-family: PingFangSC-Regular;
+            font-size: 12px;
+            color: #666666;
+            letter-spacing: 0;
+            text-align: center;
+            padding: 16px 0;
+            border-top: 1px solid rgba(0,0,0,0.11);
+        }
+        /*广告*/
+        .z_cen_ggjm{
+            padding-bottom: 70px;
+            position: relative;
+            display:none;
+        }
+        .z_cen_ggjm img{
+            width: 100%;
+            border-radius: 3px;
+        }
+        .z_cen_ggjm a span{
+            position: absolute;
+            right: 0;
+            background: rgba(0,0,0,0.50);
+            padding: 2px 6px;
+            font-family: PingFangSC-Regular;
+            font-size: 12px;
+            color: #FFFFFF;
+            border-radius: 3px;
+        }
+        .article-page{
+            width: 100%; 
+            text-align: center;
+        }
+       
+        .article-page ul {
+            display: inline-block;
+            *display: inline;
+            margin-bottom: 0;
+            margin-left: 0;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            border-radius: 4px;
+            *zoom: 1;
+            -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            -moz-box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-page ul>li>a, .article-page ul>li>span {
+            float: left;
+            padding: 4px 12px;
+            line-height: 20px;
+            text-decoration: none;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-left-width: 0;
+        }
+        .article-page ul>li:first-child>a, .article-page ul>li:first-child>span {
+            border-left-width: 1px;
+            -webkit-border-bottom-left-radius: 4px;
+            border-bottom-left-radius: 4px;
+            -webkit-border-top-left-radius: 4px;
+            border-top-left-radius: 4px;
+            -moz-border-radius-bottomleft: 4px;
+            -moz-border-radius-topleft: 4px;
+        }
+        .page li a {
+            font-size: 14px;
+        }   
+        .page .read-btn {
+            padding-top: 40px;
+            *padding-top: 0px;
+            *border: solid 1px #ccc;
+        }
+        .article-page .page li {
+            display: inline;
+        }
+        .article-page ul>li>a.now {
+            background: #0A5095;
+            color: #fff;
+        }
+        .article-page ul{
+            -webkit-box-shadow: 0 0px 0px rgba(0,0,0,0);
+            box-shadow: 0 0px 0px rgba(0,0,0,0);
+        }
+        .btn {
+            display: inline-block;
+            *display: inline;
+            padding: 4px 12px;
+            margin-bottom: 0;
+            *margin-left: .3em;
+            font-size: 14px;
+            line-height: 20px;
+            color: #333;
+            text-align: center;
+            text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+            vertical-align: middle;
+            cursor: pointer;
+            background-color: #f5f5f5;
+            *background-color: #e6e6e6;
+            background-image: -moz-linear-gradient(top,#fff,#e6e6e6);
+            background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6));
+            background-image: -webkit-linear-gradient(top,#fff,#e6e6e6);
+            background-image: -o-linear-gradient(top,#fff,#e6e6e6);
+            background-image: linear-gradient(to bottom,#fff,#e6e6e6);
+            background-repeat: repeat-x;
+            border: 1px solid #ccc;
+            *border: 0;
+            border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+            border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+            border-bottom-color: #b3b3b3;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            border-radius: 4px;
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff',endColorstr='#ffe6e6e6',GradientType=0);
+            filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+            *zoom: 1;
+            -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.05);
+            -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+            box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .s_r_pdtj_box{
+            background:
+            #F6F8FC;
+            padding-top: 20px;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        
+        /*为你推荐新加*/
+        .pin_tips a{
+            color: #868686;
+            display: inline-block;
+            align-items: center;
+            width: 100%;
+        }
+        .pin_tips span{
+            background: rgba(10, 80, 149, 0.15);
+            width: 6px;
+            height: 6px;
+            display: inline-block;
+            vertical-align: middle;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+        .pin_tips {
+            font-size: 14px;
+            color: #868686;
+            line-height:24px;
+        }
+        .pin_tips a:hover{
+            color: #FF9400;
+        }
+
+        /*为你推荐手机端带图*/
+        .sj_cen_list {
+            border-bottom: 1px solid rgba(10,80,149,0.10);
+            padding-top: 12px;
+            padding-bottom: 16px;
+            display: flex;
+            position: relative;
+        }
+        .sj_cen_list_title {
+            padding-right: 7px;
+        }
+        .sj_cen_list_title a {
+            font-size: 17px;
+            color: #333333;
+            letter-spacing: 0;
+            line-height: 1.4;
+        }
+        .sj_cen_list_img a img {
+            width: 100%;
+            /* height: 65px; */
+            border-radius: 5px;
+        }
+        .sj_cen_list_q{
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            left: 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .sj_right{
+            padding-right:20px;
+        }
+        .sj_right img{
+            width:14px;
+        }
+
+        /*分享*/
+        .bdsharebuttonbox{
+            width:300px;
+            background:#fff;
+            display:none;
+            position: fixed;
+            z-index:999;
+            /*left:50%;
+            top:50%;
+            margin-left:-150px;
+            margin-top:-50px;*/
+            margin-left:-300px;
+            margin-top:-170px;
+            padding:10px;
+            border: 6px solid #8F8F8F;
+            border-radius: 3px;
+        }
+        .bdsharebuttonbox a{
+            width:128px;
+            float:left;
+            color:#333;
+        }
+        .tool_title{
+            width:100%;
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .bdshare_dialog_close {
+            width: 22px;
+            height: 23px;
+            background: url(../img/share/pop_c.gif?v=2d7108c8.gif) no-repeat 0 0;
+            float: right;
+            display: block;
+            margin-top: 2px;
+        }
+        .s_pc_gg{
+            display:none;
+        }
+        /*延伸阅读*/
+           #moreread {
+            margin-top:20px;
+            margin-bottom: 20px;
+        }  
+           #moreread h3{color: #0A5095;
+            font-size: 18px;
+            line-height: 30px;
+            text-indent: 0px;
+            font-weight: bold;}
+            #moreread ul li {
+            font-size: 16px;
+            line-height: 1.8em;
+            list-style: none;
+            text-indent: 0px;
+            margin: 3px auto;
+        }
+/*延伸结束*/
+        @media screen and (max-width: 768px) {
+            .toolbarSwitch_wap{
+                 display: block;
+             }
+            .sj_cen_list_img a img{
+                width:100%;
+                height:70px;
+            }
+            .bdsharebuttonbox{
+                /*margin-left:-75px;
+                margin-top:-25px;*/
+                margin-left:-200px;
+                margin-top:-88px;
+            }
+            .title{
+                font-size:26px;
+            }
+        }
+        @media screen and (min-width: 768px) {
+            
+            .cont{
+                padding: 0 0;
+            }
+        }
+        @media (min-width: 769px) and (max-width: 999px) {
+            .sj_cen_list_img a img{
+                width:100%;
+                height:140px;
+            }
+        }
+        @media (min-width: 1000px) and (max-width: 1199px) {
+            .sj_cen_list_img a img{
+                width:100%;
+                height:170px;
+            }
+        }
+
+        @media screen and  (min-width: 1200px){
+            .s_ding{
+                width:68px;
+                height:68px;
+            }
+        }
+    </style>
+  </head>
+  <body>
+    <div class="s_pc_top">
+        <div class="s_pc_nav clearfix visible-sm visible-md visible-lg">
+            <!--<a class="s_pc_logo" href="http://www.qianlong.com/qianlong-new/view/index/index.php" target="_blank"><img src="http://img.qianlong.com/qianlong_img/pc_logo.png" alt=""></a>-->
+            <a class="s_pc_logo" href="http://www.qianlong.com/" target="_blank"><img style="width:114px;height:58px;" src="http://img.qianlong.com/qianlong_img/xqlogo1.png" alt=""></a>
+            <ul>
+                <li><a href="http://beijing.qianlong.com/" target="_blank">北京</a></li>
+                <li><a href="http://china.qianlong.com/" target="_blank">国内</a></li>
+                <li><a href="http://world.qianlong.com" target="_blank">国际</a></li>
+                <li><a href="http://dangjian.qianlong.com/" target="_blank">党建</a></li>
+                <li><a href="http://review.qianlong.com/" target="_blank">评论</a></li>
+                <li><a href="http://finance.qianlong.com/" target="_blank">经济</a></li>
+                <li class="s_pc_nav_k"><a href=""></a>
+                    <div class="s_pc_nav_listNav">
+                        <div class="s_pc_listNav"><a href="http://tech.qianlong.com/" target="_blank">科技</a></div>
+                        <div class="s_pc_listNav"><a href="http://culture.qianlong.com/" target="_blank">文旅</a></div>
+                        <div class="s_pc_listNav"><a href="http://edu.qianlong.com" target="_blank">教育</a></div>
+                        <div class="s_pc_listNav"><a href="http://sports.qianlong.com" target="_blank">体育</a></div>
+                        <div class="s_pc_listNav"><a href="http://original.qianlong.com/" target="_blank">原创</a></div>
+                        <div class="s_pc_listNav"><a href="http://tuku.qianlong.com/" target="_blank">图库</a></div>
+                        <div class="s_pc_listNav"><a href="http://thinktank.qianlong.com/" target="_blank">智库</a></div>
+                        <!-- <div class="s_pc_listNav"><a href="#" target="_blank">学堂</a></div> -->
+                        <div class="s_pc_listNav"><a href="http://py.qianlong.com/" target="_blank">辟谣</a></div>
+                        <div class="s_pc_listNav"><a href="http://ent.qianlong.com" target="_blank">娱乐</a></div>
+
+                        <!-- <div class="s_pc_listNav"><a href="http://bbs.qianlong.com/" target="_blank">社区</a></div> -->
+                        <!-- <div class="s_pc_listNav"><a href="http://tv.qianlong.com/ " target="_blank">视频</a></div>  -->
+                    </div>
+                    <!-- <img src="http://img.qianlong.com/qianlong_img/dhsk.png" alt="">
+                    <div class="s_pc_nav_k_box">
+                        <ul>
+                            <li>
+                                <div><a href="http://tech.qianlong.com/" target="_blank">科技</a></div>
+                                <div><a href="http://culture.qianlong.com/" target="_blank">文旅</a></div>
+                                <div><a href="http://edu.qianlong.com/" target="_blank">教育</a></div>
+                                <div><a href="http://sports.qianlong.com/" target="_blank">体育</a></div>
+                            </li>
+                            <li>
+                                
+                                <div><a href="http://tv.qianlong.com/" target="_blank">视频</a></div>
+                                <div><a href="http://tuku.qianlong.com/" target="_blank">图库</a></div>
+                                <div><a href="http://thinktank.qianlong.com/" target="_blank">智库</a></div>
+                                <div><a href="http://py.qianlong.com/" target="_blank">辟谣</a></div>
+                            </li>
+                            <li>
+                                
+                                <div><a href="http://bbs.qianlong.com/" target="_blank">社区</a></div>
+                                <div><a href="http://scjg.qianlong.com/" target="_blank">市场监管</a></div>
+                                <div><a href="channel-288-1.html">娱乐</a></div>
+                            </li>
+                        </ul>
+                    </div>-->
+                </li>
+            </ul>
+            <a class="s_pc_ss" href="http://www.chinaso.com/" target="_blank" style="right:43px;"><img style="width:32px; height:32px;" src="http://img.qianlong.com/ql2019/list/images/1435.png" alt=""></a>
+            <!-- 无障碍 -->
+            <a class="toolbarSwitch" href="javascript:void(0);" alt="无障碍" style="position: absolute;right: 0px;top: 24px;"><img style="width:30px; height:30px;" alt="无障碍" src="https://img.qianlong.com/ql2021/wuzhangai30_30_tmp2_tmp6.png" alt=""></a>
+            
+            <!-- 无障碍 end -->
+        </div>
+        <div class="s_s_nav visible-xs">
+            <div class="container">
+                <div class="s_s_nav_box clearfix">
+                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                        <div class="row">
+                            <div class="ss_nav">
+                                <span class="icon-bar icon-top"></span>
+                                <span class="icon-bar icon-middle"></span>
+                                <span class="icon-bar icon-bottom"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 s_s_box_log">
+                        <div class="row"><a href="" target="_blank"><img src="http://img.qianlong.com/qianlong_img/pc_logo.png" alt=""></a></div>
+                    </div>
+                    <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 s_s_box_ss">
+                        <div class="row">
+                            <a href="http://www.chinaso.com/" target="_blank"><img src="http://img.qianlong.com/qianlong_img/pc_zw_ss.png" alt=""></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="s_nav-content">
+                <div class="s_nav_content_top">
+                    <span>x</span>
+                    <h2>全部频道</h2>
+                </div>
+                <div class="s_nav_content_bott">
+                    <ul class="clearfix">
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <!--<div id='beijing'><a href="">北京</a></div>-->
+                                <div id='beijing'><a href="http://beijing.qianlong.com/" target="_blank">北京</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="china"><a href="http://china.qianlong.com/" target="_blank">中国</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row" >
+                                <div id="world"><a href="http://world.qianlong.com" target="_blank">国际</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="review"><a href="http://review.qianlong.com/" target="_blank">评论</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="finance"><a href="http://finance.qianlong.com/" target="_blank">经济</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="tech"><a href="http://tech.qianlong.com/" target="_blank">科技</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="culture_travel"><a href="http://culture.qianlong.com/" target="_blank">文旅</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="edu"><a href="http://edu.qianlong.com" target="_blank">教育</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="sports"><a href="http://sports.qianlong.com" target="_blank">体育</a></div>
+                            </div>
+                        </li>
+<li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="dangjian"><a href="http://dangjian.qianlong.com/ " target="_blank">党建</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="tv"><a href="http://tv.qianlong.com/ " target="_blank">视频</a></div>
+                            </div>
+                        </li>
+                       <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="tuku"><a href="http://tuku.qianlong.com/ " target="_blank">图库</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="thinktank"><a href="http://thinktank.qianlong.com/ " target="_blank">智库</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="py"><a href="http://py.qianlong.com/ " target="_blank">辟谣</a></div>
+                            </div>
+                        </li>
+                        <li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <!-- <div id="bbs"><a href="http://bbs.qianlong.com/ " target="_blank">社区</a></div> -->
+                            </div>
+                        </li>
+                         
+                       
+<li class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                            <div class="row">
+                                <div id="ent"><a href="http://ent.qianlong.com" target="_blank">娱乐</a></div>
+                            </div>
+                        </li>
+                    </ul>
+                    <script>
+                        var current_host = window.location.hostname;
+                        //根据当前域名更新对应tag的class
+                        //测试频道
+                        if(current_host == 'www.qianlong.com')
+                        {     
+                            var div = document.getElementById('test');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //北京
+                        if(current_host == 'beijing.qianlong.com')
+                        {     
+                            var div = document.getElementById('beijing');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //中国
+                        if(current_host == 'china.qianlong.com')
+                        {     
+                            var div = document.getElementById('china');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+
+                        //国际
+                        if(current_host == 'world.qianlong.com')
+                        {     
+                            var div = document.getElementById('world');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //评论
+                        if(current_host == 'review.qianlong.com')
+                        {     
+                            var div = document.getElementById('review');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //经济
+                        if(current_host == 'finance.qianlong.com' || current_host == 'guoqi.qianlong.com' || current_host == 'auto.qianlong.com' || current_host == 'house.qianlong.com')
+                        {     
+                            var div = document.getElementById('finance');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //科技
+                        if(current_host == 'tech.qianlong.com')
+                        {     
+                            var div = document.getElementById('tech');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //文旅
+                        if(current_host == 'culture.qianlong.com' || current_host == 'travel.qianlong.com')
+                        {     
+                            var div = document.getElementById('culture_travel');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //教育
+                        if(current_host == 'edu.qianlong.com')
+                        {     
+                            var div = document.getElementById('edu');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //体育
+                        if(current_host == 'sports.qianlong.com')
+                        {     
+                            var div = document.getElementById('sports');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //娱乐
+                        if(current_host == 'ent.qianlong.com')
+                        {     
+                            var div = document.getElementById('ent');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //视频
+                        if(current_host == 'tv.qianlong.com')
+                        {     
+                            var div = document.getElementById('tv');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //图库
+                        if(current_host == 'tuku.qianlong.com')
+                        {     
+                            var div = document.getElementById('tuku');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //智库
+                        if(current_host == 'thinktank.qianlong.com')
+                        {     
+                            var div = document.getElementById('thinktank');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //辟谣
+                        if(current_host == 'py.qianlong.com')
+                        {     
+                            var div = document.getElementById('py');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //社区
+                        if(current_host == 'bbs.qianlong.com')
+                        {     
+                            var div = document.getElementById('bbs');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //监管
+                        if(current_host == 'scjg.qianlong.com')
+                        {     
+                            var div = document.getElementById('scjg');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+                        //中关村
+                        if(current_host == 'zgc.qianlong.com')
+                        {     
+                            var div = document.getElementById('zgc');
+                            div.setAttribute("class", "s_nav_content_hover");
+                        }
+
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row cont">
+            <!--<div class="s_pc_gg visible-lg" style="margin-bottom: 18px;"><a href="" target="_blank"><img src="http://www.qianlong.com/qianlong-new/view/list/img/gg2.png"></a></div>-->
+            <div class="mbx visible-lg">
+                              
+                <a href="http://www.qianlong.com/china/" target="_blank">中国</a><span>&gt;</span> 
+                                <span>正文</span>
+            </div>
+            <h1 class="title">冬季装暖指南，省心装暖不踩坑</h1>
+            <!--<div class="title">副标题： </div>-->
+            <!--<div class="title">来源标题：冬季装暖指南，省心装暖不踩坑</div>-->
+            
+            <div class="s_laiz clearfix">
+                <div class="s_laiz_box1 col-xs-12 col-sm-12 col-md-12 col-lg-4">
+                    <div class="row">
+                        <span>2022-12-07 12:13</span> <a href="http://bgacdzs.yongzhou.gov.cn/news-9-12034-1.html" target="_blank" title="永州新闻网">永州新闻网</a>
+                    </div>
+                </div>
+                <div class="s_laiz_box2 col-xs-12 col-sm-12 col-md-12 col-lg-8 visible-lg">
+                    <div class="row">
+                        <!--<div id="bdshare" class="bdsharebuttonbox fenxiang"><a href="#" class="bds_more" data-cmd="more"></a></div>-->
+                        <div class="fenxiang" data-id="" data-title="冬季装暖指南，省心装暖不踩坑 "></div>
+                        <span class="dahao"></span><span class="xiaohao"></span><a class="dayin" href="javascript:window.print()"></a>
+                        <!-- <div id="bdshare" class="bdsharebuttonbox"><a href=" " class="bds_more" data-cmd="more" target="_blank"></a></div> -->
+                <script>
+                //window._bd_share_config={
+                    //"common":{
+                        //"bdSnsKey":{},
+                        //"bdText":"",
+                        //"bdMini":"2",
+                        //"bdMiniList":false,
+                        //"bdPic":"",
+                        //"bdStyle":"0",
+                        //"bdSize":"16",
+                        //"bdPopupOffsetLeft":"-90000"
+                    //},
+                      //  "share":{}
+                        // ,
+                        // "image":{
+                        //     // "viewList":["qzone","tsina","tqq","renren","weixin"],
+                        //     // "viewText":"分享到：",
+                        //     // "viewSize":"16"
+                        // }
+                //};
+                //with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+                    </div>
+                </div>
+            </div>
+            <div class="z_cen">
+                <!-- 左侧 -->
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+                    <div class="row">
+<p style="font-size: 18px;text-indent: 2em;">来源标题：冬季装暖指南，省心装暖不踩坑</p><!--测试视频 start-->
+                                                            <!--测试视频 end-->
+
+
+
+                        <div class="z_cen_box f_size_2 article-content">
+                        <div style="display:none" id="contentStr"><p>立冬过后，全国开启降温模式，采暖季也正徐徐拉开帷幕，一款节能舒适的壁挂炉是很多<a href="http://sdcsgy.qianlong.com/2019/0222/3127352.shtml" target="_blank">家庭</a>舒适过冬的&ldquo;保障&rdquo;。然而，分户采暖设备在国内尚处于逐步普及阶段，市场中存在一定鱼龙混杂的现象，稍有不慎就会&ldquo;踩雷&rdquo;。对于首次购买威能壁挂炉的消费者来说，可以在购买产品过程中注意&ldquo;三不一要&rdquo;，免去后顾之忧。</p>
+<p><strong>&ldquo;三不&rdquo;：不贪便宜、不粗枝大叶、不自作主张</strong></p>
+<p>近年来，壁挂炉市场常被&ldquo;水货&rdquo;、假货侵蚀，一些不法商家以&ldquo;平行进口&rdquo;&ldquo;价格更低&rdquo;为饵，引导消费者在非官方渠道购买壁挂炉。殊不知，这些参差不齐的产品存在各种安全隐患。</p>
+<p>据了解，中国市场对于燃气壁挂炉这样的特种设备具有严格的管理规范。&ldquo;平行进口&rdquo;产品无法通过&ldquo;中国国家强制性产品认证&rdquo;，在使用环境和参数上也存在差异，容易在使用中产生问题。因此，消费者在购买设备过程中最忌&ldquo;贪便宜&rdquo;。</p>
+<p>在此基础上，消费者收到设备后要仔细检查机身、外包装铭牌，确认产品型号等基本信息是否一致。打开设备后，还要观察产品外观是否有磕碰、划痕和人为损伤，找出配备的安装零件、三包单据，从而做到万无一失。</p>
+<p>在最后的安装环节也有很多&ldquo;门道&rdquo;。一些销售假冒伪劣、水货产品以次充好的商家往往会&ldquo;包办&rdquo;安装。这类安装者多为没有安装资质的非专业人士，一旦有安装失误会为消费者带来经济和安全损伤。</p>
+<p>有人曾经因为设计施工和产品质量问题损害了管道系统，最后不得不重新装修。这就是前车之鉴。因此，面对无资质、不专业的安装公司，消费者不能自作主张&ldquo;图省事&rdquo;，还是要选择有安装资质的专业安装公司来进行安装。</p>
+<p><strong>&ldquo;一要&rdquo;：要选品牌授权合作伙伴</strong></p>
+<p>事实上，想要避免上述&ldquo;雷区&rdquo;很简单，只要消费者在购买设备前认准威能自有渠道或授权合作伙伴，就能保障设备来源与施工品质。目前，威能在天猫、京东两大平台均有官方旗舰店，并在全国多地区设有官方授权的合作门店。消费者只需通过威能官网的&ldquo;查找门店&rdquo;功能，即可找到就近门店，不用担心踩雷的风险。</p>
+<p><strong>全程无忧，选择&ldquo;威能温暖家&rdquo;</strong></p>
+<p>分户采暖尤其是地暖系统，会存在大量管路隐蔽工程。这时考验的不仅是壁挂炉，更对管路、阀门等零配件和整体安装提出了更高的要求，也造成了很多隐藏的&ldquo;雷点&rdquo;。为保障用户的使用体验，威能推出了&ldquo;Warm Family 威能温暖家&rdquo;解决方案。在该方案中，壁挂炉、地暖盘管、分集水器等系统组件的设计安装均由威能认证的&ldquo;威能温暖家&rdquo;授权代理商提供服务，设计与施工标准也均采用威能统一标准。所有获得授权的代理商均通过严格的培训、检验，从根源上杜绝了&ldquo;多品牌大杂烩&rdquo;的现象。</p>
+<p><img src="http://upload.qianlong.com/2022/1207/1670386399884.png" border="0" /></p>
+<p>在施工期间，消费者可以通过官方小程序实时了解施工实况。涵盖从房屋管路设计到项目安装施工，从项目现场监理到用户疑难解答，全程透明。</p>
+<p>在售后服务方面，除了壁挂炉自身的质保外，威能还提供了额外2年的全系统质保。此外，威能的专业售后服务团队还会定期提供采暖系统的养护服务，确保系统保持最佳状态。采暖系统选择&ldquo;威能温暖家&rdquo;，即能享受从选购、设计、安装、维护的一站式无忧体验，轻松享受温暖生活。</p></div>
+                            <p>立冬过后，全国开启降温模式，采暖季也正徐徐拉开帷幕，一款节能舒适的壁挂炉是很多<a href="http://sdcsgy.qianlong.com/2019/0222/3127352.shtml" target="_blank">家庭</a>舒适过冬的&ldquo;保障&rdquo;。然而，分户采暖设备在国内尚处于逐步普及阶段，市场中存在一定鱼龙混杂的现象，稍有不慎就会&ldquo;踩雷&rdquo;。对于首次购买威能壁挂炉的消费者来说，可以在购买产品过程中注意&ldquo;三不一要&rdquo;，免去后顾之忧。</p>
+<p><strong>&ldquo;三不&rdquo;：不贪便宜、不粗枝大叶、不自作主张</strong></p>
+<p>近年来，壁挂炉市场常被&ldquo;水货&rdquo;、假货侵蚀，一些不法商家以&ldquo;平行进口&rdquo;&ldquo;价格更低&rdquo;为饵，引导消费者在非官方渠道购买壁挂炉。殊不知，这些参差不齐的产品存在各种安全隐患。</p>
+<p>据了解，中国市场对于燃气壁挂炉这样的特种设备具有严格的管理规范。&ldquo;平行进口&rdquo;产品无法通过&ldquo;中国国家强制性产品认证&rdquo;，在使用环境和参数上也存在差异，容易在使用中产生问题。因此，消费者在购买设备过程中最忌&ldquo;贪便宜&rdquo;。</p>
+<p>在此基础上，消费者收到设备后要仔细检查机身、外包装铭牌，确认产品型号等基本信息是否一致。打开设备后，还要观察产品外观是否有磕碰、划痕和人为损伤，找出配备的安装零件、三包单据，从而做到万无一失。</p>
+<p>在最后的安装环节也有很多&ldquo;门道&rdquo;。一些销售假冒伪劣、水货产品以次充好的商家往往会&ldquo;包办&rdquo;安装。这类安装者多为没有安装资质的非专业人士，一旦有安装失误会为消费者带来经济和安全损伤。</p>
+<p>有人曾经因为设计施工和产品质量问题损害了管道系统，最后不得不重新装修。这就是前车之鉴。因此，面对无资质、不专业的安装公司，消费者不能自作主张&ldquo;图省事&rdquo;，还是要选择有安装资质的专业安装公司来进行安装。</p>
+<p><strong>&ldquo;一要&rdquo;：要选品牌授权合作伙伴</strong></p>
+<p>事实上，想要避免上述&ldquo;雷区&rdquo;很简单，只要消费者在购买设备前认准威能自有渠道或授权合作伙伴，就能保障设备来源与施工品质。目前，威能在天猫、京东两大平台均有官方旗舰店，并在全国多地区设有官方授权的合作门店。消费者只需通过威能官网的&ldquo;查找门店&rdquo;功能，即可找到就近门店，不用担心踩雷的风险。</p>
+<p><strong>全程无忧，选择&ldquo;威能温暖家&rdquo;</strong></p>
+<p>分户采暖尤其是地暖系统，会存在大量管路隐蔽工程。这时考验的不仅是壁挂炉，更对管路、阀门等零配件和整体安装提出了更高的要求，也造成了很多隐藏的&ldquo;雷点&rdquo;。为保障用户的使用体验，威能推出了&ldquo;Warm Family 威能温暖家&rdquo;解决方案。在该方案中，壁挂炉、地暖盘管、分集水器等系统组件的设计安装均由威能认证的&ldquo;威能温暖家&rdquo;授权代理商提供服务，设计与施工标准也均采用威能统一标准。所有获得授权的代理商均通过严格的培训、检验，从根源上杜绝了&ldquo;多品牌大杂烩&rdquo;的现象。</p>
+<p><img src="http://upload.qianlong.com/2022/1207/1670386399884.png" border="0" /></p>
+<p>在施工期间，消费者可以通过官方小程序实时了解施工实况。涵盖从房屋管路设计到项目安装施工，从项目现场监理到用户疑难解答，全程透明。</p>
+<p>在售后服务方面，除了壁挂炉自身的质保外，威能还提供了额外2年的全系统质保。此外，威能的专业售后服务团队还会定期提供采暖系统的养护服务，确保系统保持最佳状态。采暖系统选择&ldquo;威能温暖家&rdquo;，即能享受从选购、设计、安装、维护的一站式无忧体验，轻松享受温暖生活。</p>                        </div>
+
+
+  <!--@end 视频 -->
+                                                                                                 <!-- @end 分页 -->
+                         
+<div class="z_cen_bj">
+                             <span>责任编辑：杨尚武（QZ0023）</span>                        </div>
+<div style="padding: 0 0 20px 0; font-size: 16px; color: #9B9EA3;">声明：本网转发此文章，旨在为读者提供更多信息资讯，所涉内容不构成投资、消费建议。文章事实如有疑问，请与有关方核实，文章观点非本网观点，仅供读者参考。</div>                        <!-- <div class="z_cen_ggjm"><a href="" target="_blank"><img src="http://img.qianlong.com/qianlong_img/pc_gg.png" alt=""><span>广告</span></a></div> -->
+                        <!--<div class="z_cen_ggjm  hidden-lg"><a href="" target="_blank"><img src="http://www.qianlong.com/qianlong-new/view/list/img/gg3.png" alt=""></a></div>-->
+                        
+                        
+                    </div>
+                </div>
+                <!-- 右侧 -->
+                <div class="col-lg-4 visible-lg">
+                    <div class="row">
+                        <div class="s_pc_r_box">
+                            <!-- 广告 -->
+                            <div class="s_pc_r_box_gg">
+                                <div class="swiper">
+                                    <div class="swiper-wrapper">
+                                        <!-- <div class="swiper-slide"><a class="swiper_list" href=""><img src="http://img.qianlong.com/qianlong_img/sj1.png" alt=""><span>广告</span></a></div> -->
+                                        <!-- <div class="swiper-slide"><a class="swiper_list" href=""><div style="width:100%;height:436px;overflow: hidden;background: #000; border-radius: 3px;"></div><span>广告</span></a></div> -->
+                                        <!-- <div class="swiper-slide"><a class="swiper_list" href=""><img src="http://www.qianlong.com/qianlong-new/view/list/img/gg1.png"></a></div>-->
+                                        <div class="swiper-slide"><a target="_blank" class="swiper_list" href=""><img src="http://img.qianlong.com/ql2019/list/images/1359.png"><span>广告</span></a></div>
+                                        <div class="swiper-slide"><a target="_blank" class="swiper_list" href=""><img src="http://img.qianlong.com/ql2019/list/images/1359.png"><span>广告</span></a></div>
+                                        <div class="swiper-slide"><a target="_blank" class="swiper_list" href=""><img src="http://img.qianlong.com/ql2019/list/images/1359.png"><span>广告</span></a></div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
+                            </div>
+                            <!-- 热点排行 -->
+                            <div class="s_r_rdph" style="width: auto; position: relative; z-index: 0; top: auto;"><h2 class="s_pc_rdph_title">热点排行</h2><div class="s_pc_rdph_box"><div class="s_pc_rdph_box_yt"><div class="s_pc_rdph_box_yt_v clearfix"><span class="s_pc_biaohao s_pc_biaohao_huang">1</span><div class="col-xs-6 col-lg-6"><div class="row"><div class="s_pc_rdph_box_yt_img"><a href="https://culture.qianlong.com/2023/0109/7950823.shtml" target="_blank"><img src="http://upload.qianlong.com/2023/0109/1673233057288.jpg" alt=""></a></div></div></div><div class="col-xs-6 col-lg-6"><div class="row"><div class="s_pc_rdph_box_yt_title s_pc_rdph_box_yt_title_first"><a href="https://culture.qianlong.com/2023/0109/7950823.shtml" target="_blank">一份特别的新春礼物</a></div></div></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao s_pc_biaohao_huang">2</span><div class="s_pc_rdph_box_yt_title"><a href="https://china.qianlong.com/2023/0109/7950776.shtml" target="_blank">山西太原市晋源区发生3.1级地震，震源深度10千米</a></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao s_pc_biaohao_huang">3</span><div class="s_pc_rdph_box_yt_title"><a href="https://china.qianlong.com/2023/0109/7950791.shtml" target="_blank">瑞丽口岸恢复通关 商家：未来会更好</a></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao ">4</span><div class="s_pc_rdph_box_yt_title"><a href="https://beijing.qianlong.com/2023/0109/7950799.shtml" target="_blank">新冠病毒感染门急诊费用报销90%</a></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao ">5</span><div class="s_pc_rdph_box_yt_title"><a href="https://beijing.qianlong.com/2023/0109/7950811.shtml" target="_blank">152.5万人参加国考笔试 涉及党的二十大试题占比高</a></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao ">6</span><div class="s_pc_rdph_box_yt_title"><a href="https://china.qianlong.com/2023/0109/7950940.shtml" target="_blank">各地陆续公布2022年成绩单，GDP两万亿城市已增至7个</a></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao ">7</span><div class="s_pc_rdph_box_yt_title"><a href="https://finance.qianlong.com/2023/0109/7950830.shtml" target="_blank">蚂蚁集团迎来关键性调整</a></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao ">8</span><div class="s_pc_rdph_box_yt_title"><a href="https://china.qianlong.com/2023/0109/7950978.shtml" target="_blank">春节不打烊 多家快递公司高薪留人</a></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao ">9</span><div class="s_pc_rdph_box_yt_title"><a href="https://beijing.qianlong.com/2023/0109/7950987.shtml" target="_blank">新冠“乙类乙管”实施首日｜北京市民就医无须自测核酸</a></div></div><div class="s_pc_rdph_box_yt_v clearfix"><span  class="s_pc_biaohao ">10</span><div class="s_pc_rdph_box_yt_title"><a href="https://china.qianlong.com/2023/0109/7950869.shtml" target="_blank">2022国家医保谈判落幕 大病用药是重点</a></div></div></div></div></div>
+                                
+                            <!-- 频道推荐 -->
+			<div class="s_r_pdtj"><h2 class="s_pc_rdph_title"><span>频道推荐</span></h2><div class="s_r_pdtj_box"><div class="s_pc_pdtj_box"><div class="s_pc_pdtj_box_dt"><div class="s_pc_pdtj_box_dt_img"><a href="https://culture.qianlong.com/2023/0109/7950995.shtml" target="_blank"><img src="http://upload.qianlong.com/2023/0109/1673226721885.jpg" alt=""></a></div><div class="s_pc_pdtj_box_dt_text"><a href="https://culture.qianlong.com/2023/0109/7950995.shtml" target="_blank">用民谣找出你我心中的“小”</a></div><div class="s_pc_pdtj_box_xt_bq">文旅</div></div></div><div class="s_pc_pdtj_box clearfix"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-5"><div class="s_pc_pdtj_box_xt_img row"><a href="https://finance.qianlong.com/2023/0107/7950259.shtml" target="_blank"><img src="http://upload.qianlong.com/2023/0107/1673056692840.jpg" alt=""></a></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-7"><div class="s_pc_pdtj_box_xt_box row"><div class="s_pc_pdtj_box_xt_text"><a href="https://finance.qianlong.com/2023/0107/7950259.shtml" target="_blank">中国消费品市场有望加快恢复  中国商业联合会发布2023年中国商业十大热点</a></div><div class="s_pc_pdtj_box_xt_bq">经济</div></div></div></div><div class="s_pc_pdtj_box clearfix"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-5"><div class="s_pc_pdtj_box_xt_img row"><a href="https://ent.qianlong.com/2023/0106/7949750.shtml" target="_blank"><img src="http://upload.qianlong.com/2023/0106/1672978159283.jpeg" alt=""></a></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-7"><div class="s_pc_pdtj_box_xt_box row"><div class="s_pc_pdtj_box_xt_text"><a href="https://ent.qianlong.com/2023/0106/7949750.shtml" target="_blank">比音勒芬官宣吴尊为品牌代言人，做对了什么？</a></div><div class="s_pc_pdtj_box_xt_bq">娱乐</div></div></div></div><div class="s_pc_pdtj_box clearfix"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-5"><div class="s_pc_pdtj_box_xt_img row"><a href="https://beijing.qianlong.com/2022/1223/7948571.shtml" target="_blank"><img src="http://upload.qianlong.com/2023/0104/1672832277365.jpg" alt=""></a></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-7"><div class="s_pc_pdtj_box_xt_box row"><div class="s_pc_pdtj_box_xt_text"><a href="https://beijing.qianlong.com/2022/1223/7948571.shtml" target="_blank">延庆：擦亮“妫水农耕”地域金名片</a></div><div class="s_pc_pdtj_box_xt_bq">北京</div></div></div></div><div class="s_pc_pdtj_box clearfix"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-5"><div class="s_pc_pdtj_box_xt_img row"><a href="https://review.qianlong.com/2022/1222/7916479.shtml" target="_blank"><img src="http://upload.qianlong.com/2022/1222/1671669368858.jpg" alt=""></a></div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-7"><div class="s_pc_pdtj_box_xt_box row"><div class="s_pc_pdtj_box_xt_text"><a href="https://review.qianlong.com/2022/1222/7916479.shtml" target="_blank">新华时评：做到更好统筹 扎实推进复工复产</a></div><div class="s_pc_pdtj_box_xt_bq">评论</div></div></div></div></div></div>
+                                
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- pc foot -->
+    <div class="s_pc_foot visible-lg">
+        <div class="s_pc_foot_box">
+            <p>北京千龙新闻网络传播有限责任公司版权所有 未经千龙新闻网书面特别授权，请勿转载或建立镜像，违者依法必究新出网证（京）字013号　增值电信业务经营许可证 2-2-1-2004139　跨地区增值电信业务许可证</p>
+            <p>信息网络传播视听节目许可证0104056号　互联网新闻信息服务许可证11120180003号 京公网安备 11000002000007号</p>
+            <div>
+                <img src="http://img.qianlong.com/qianlong_img/1.png" alt="">
+                <!-- <a href=""><img src="http://img.qianlong.com/qianlong_img/2.png" alt=""></a> -->
+                <a href="https://credit.cecdc.com/CX20140708008367008863.html" target="_blank"><img src="http://img.qianlong.com/qianlong_img/3.png" alt=""></a>
+                <a href="http://www.12377.cn/" target="_blank"><img src="http://img.qianlong.com/qianlong_img/12377.jpg" alt=""></a>
+                <a href="http://www.bjjubao.org/" target="_blank"><img src="http://img.qianlong.com/qianlong_img/4.png" alt=""></a>
+                <a href="http://www.cyberpolice.cn/" target="_blank"><img src="http://img.qianlong.com/qianlong_img/5.png" alt=""></a>
+                <a href="https://www.adsame.com/" target="_blank"><img src="http://img.qianlong.com/qianlong_img/7.png" alt=""></a>
+            </div>
+        </div>
+    </div>
+    <!-- foot -->
+    <div class="sj_foot hidden-lg">
+        <h3><a href="">千龙网</a></h3>
+        <div>
+            <a href="http://www.qianlong.com/aboutus/" target="_blank">关于我们</a>
+            <a href="http://www.qianlong.com/aboutus/services.html" target="_blank">客服中心</a>
+            <a href="http://www.qianlong.com/aboutus/ad.html" target="_blank">广告服务</a>
+            <a href="http://www.qianlong.com/aboutus/flsm.html" target="_blank">法律声明</a>
+            <a href="http://www.qianlong.com/" target="_blank">旧版入口</a>
+        </div>
+        <p>北京千龙新闻网络传播有限责任公司版权所有</p>
+    </div>
+
+    <div class="share">
+        <div class="bdsharebuttonbox">
+            <div class="tool_title"><b style="float:left">分享到： </b><img class="bd_close" src="http://bdimg.share.baidu.com/static/api/img/share/pop_c.gif?v=2d7108c8.gif" alt=""></div>
+            <!-- <a href="#" class="bds_more" data-cmd="more"></a> -->
+            <a class="bds_qzone" data-cmd="qzone" title="分享到QQ空间">QQ空间</a>
+            <a class="bds_tsina" data-cmd="tsina" title="分享到新浪微博">新浪微博</a>
+            <a class="bds_weixin" data-cmd="weixin" title="分享到微信">微信</a>
+            <a class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博">腾讯微博</a>
+            <a class="bds_sqq" data-cmd="sqq" title="分享到QQ好友">QQ好友</a>
+            <a class="bds_bdhome" data-cmd="bdhome" title="分享到百度新首页">百度首页</a>
+            <a class="bds_tqf" data-cmd="tqf" title="分享到腾讯朋友">腾讯朋友</a>
+            <a class="bds_youdao" data-cmd="youdao" title="分享到有道云笔记">有道云笔记</a>
+            <!-- <a class="bds_more" data-cmd="more" title="更多">更多</a> -->
+        </div>
+    </div>
+    <!-- 移动到顶部 -->
+    <div class="s_ding"></div>
+    <a class="toolbarSwitch toolbarSwitch_wap" href="javascript:void(0);" style="position: fixed; right: 30px; bottom: 10px; z-index: 999;">
+        <span><img src="http://img.qianlong.com/ql2021/wuzhangai-shouye@1x.png" alt="" style="width:34px;height:34px;"></span>
+    </a>
+    <script src="http://slwza.qianlong.com/slwza/esdToolsInit.js"></script>
+    
+
+    <script type="text/javascript" src="http://img.qianlong.com//js/config.js"></script>
+    <script type="text/javascript" src="http://img.qianlong.com/templates/qianlong/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://img.qianlong.com/templates/qianlong/js/cmstop-common.js"></script>
+    
+    <script type="text/javascript">
+        var contentid = '7872796';// 文章ID
+        var title = "\u51ac\u5b63\u88c5\u6696\u6307\u5357\uff0c\u7701\u5fc3\u88c5\u6696\u4e0d\u8e29\u5751";//文章标题
+        var topicid = '';// 评论主题
+        var context = '';//全文内容缓存
+        var content = '';//第一页内容缓存
+        var _IMG_URL = 'http://img.qianlong.com/templates/qianlong';
+    </script>
+    <script type="text/javascript" src="http://img.qianlong.com/templates/qianlong/js/cmstop-imagezoom.js"></script>
+    <script type="text/javascript" src="http://img.qianlong.com/js/fet.js"></script>
+<script type="text/javascript" src="http://img.qianlong.com/js/repos.js"></script>
+<script type="text/javascript">fet.setAlias({IMG_URL: "http://img.qianlong.com/"})</script>
+    
+    <script type="text/javascript" src="http://img.qianlong.com/templates/qianlong/js/article-show-ql1.js"></script>
+    <script type="text/javascript" src="http://img.qianlong.com/js/zeroclipboard/ZeroClipboard.js"></script>
+    <!-- <script type="text/javascript" src="http://img.qianlong.com/templates/qianlong/js/apps/digg.js"></script> -->
+    <!-- <script type="text/javascript" src="http://img.qianlong.com/templates/qianlong/js/mood-show.js"></script> -->
+
+    <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+    <script src="http://www.qianlong.com/qianlong-new/view/index/js/bootstrap.min.js"></script>
+    <!-- swiper.js -->
+    <script src="http://www.qianlong.com/qianlong-new/view/index/js/swiper.min.js"></script>
+    <script>
+        var t = 2;
+        var tj = true;
+        var page = 2;
+        $('.dahao').click(function(event) {
+            if(t<3){
+                
+                t = t+1;
+                $('.z_cen_box').removeClass('f_size_'+ (t-1) ).addClass('f_size_'+t)
+                console.log(t)
+            }
+            
+        });
+        $('.xiaohao').click(function(event) {
+            if(t>1){
+                t = t-1;
+                console.log(t)
+                $('.z_cen_box').removeClass('f_size_' + (t+1) ).addClass('f_size_'+t)
+            }
+        });
+        //var mySwiper = new Swiper ('.swiper', {
+          //direction: 'horizontal', // 垂直切换选项
+            //loop: true, // 循环模式选项
+            //autoplay: {
+                //delay: 2000,//1秒切换一次
+            //},
+            //paginationClickable: true,
+            //observer:true,
+            //observeParents:true,
+            //autoplayDisableOnInteraction : false,
+            
+            // 如果需要分页器
+            //pagination: {
+              //el: '.swiper-pagination',
+            //},
+          //})
+        //mySwiper.el.onmouseover = function(){ //鼠标放上暂停轮播
+          //mySwiper.autoplay.stop();
+        //}
+        //mySwiper.el.onmouseleave = function(){
+          //mySwiper.autoplay.start();
+        //}
+        // function waterFall(){
+        //     // var pageWidth = getClient().width-8;
+        //     var columns = 2;
+        //     // var itemWidth = parseInt(pageWidth/columns);
+        //     // $(".item").width(itemWidth);
+        //     // var listHeight = $(".z_cen_wntj_box_box").height(); 
+        //     var arr = [];
+        //     $(".z_cen_wntj_box_box").each(function(i, el) {
+        //         var height = $(this).innerHeight();
+                
+        //         var width = $(this).innerWidth();
+        //         console.log(width)
+        //         if(i < columns) {
+        //             $(this).css({
+        //                 top:0,
+        //                 left:(width * i)
+        //             });
+        //             arr.push(height);
+        //             var maxHeight = Math.max.apply(null, arr);
+        //             $('.z_cen_wntj_box ').height(maxHeight);
+        //         } else {
+        //             var minHeight = arr[0];
+        //             var index = 0;
+        //             for(var j = 0; j < arr.length; j++){
+        //                 if(minHeight > arr[j]){
+        //                     minHeight = arr[j];
+        //                     index = j;
+        //                 }
+        //             }
+        //             $(this).css({
+        //                 top:arr[index],
+        //                 left:$(".z_cen_wntj_box_box").eq(index).css("left")
+        //             });
+        //             arr[index] = arr[index] + height;
+        //             maxHeight = Math.max.apply(null, arr);
+        //             $('.z_cen_wntj_box ').height(maxHeight);
+        //         }
+        //     });
+        // }
+        // function getClient(){
+        //     return {
+        //         width:window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth,
+        //         height:window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight
+        //     }
+        // }
+        // waterFall();
+        function waterFlow() {
+            var num = 2; 
+            var arr = []; //定义一个数组
+            var imgWidth = $(".z_cen_wntj_box_box").innerWidth();
+            for (var j = 0; j < $(".z_cen_wntj_box_box").length; j++) {
+                if (j < num) { //一行显示num个div   ,将第一行的每个div高度写入数组
+                    arr[j] = $(".z_cen_wntj_box_box").eq(j).innerHeight()
+                    // console.log(arr[j])
+                } else {
+                    var minImgHeight = Math.min.apply(null, arr); //取得数组中最小高度的div
+                    var index = getMinIndex(arr, minImgHeight); //取得数组中最小高度的div的索引
+                    $(".z_cen_wntj_box_box").eq(j).css({
+                        "position": "absolute",
+                        "top": minImgHeight + "px",
+                        // "left": $(".hotlist").eq(index).offset().left - 63 + "px"
+                        "left": imgWidth * index,
+                    }); //瀑布流布局
+                    arr[index] += $(".z_cen_wntj_box_box").eq(j).innerHeight(); //将布局好的该div的高度和该div上面的div高度相加，重新放入数组
+                }
+            }
+            var maxHeight = Math.max.apply(null, arr);
+            $(".z_cen_wntj_box").css({
+                "height": maxHeight
+            })
+        }
+        
+
+        function getMinIndex(arr, min) { //取得数组中最小高度的div的索引
+            for (var k in arr) {
+                if (arr[k] == min) {
+                    return k;
+                }
+            }
+        }
+        /*var s_pc_r_box_800 = $('.s_pc_r_box').height()+600;*/
+        var s_pc_r_box_800 = 2800;
+        var container_width = $('.container').innerWidth()
+        window.onresize = function(){
+            setTimeout(function(){
+                waterFlow();
+            },200)
+            
+            // var container_width = $('.container').innerWidth()
+        }
+        $(window).scroll(function () { 
+            $('.bdsharebuttonbox').hide();
+            var winH = $(window).height();  
+            var winw = $(window).width();
+            var pageH = $(document.body).height(); 
+            var scrollT = $(window).scrollTop(); 
+            var aa = (pageH-winH-scrollT)/winH; 
+            //if(container_width >= 1170){
+             //if(a > s_pc_r_box_800 ){
+                 // $('.s_r_pdtj').width('353px');
+                 //$('.s_r_rdph').css({
+                     //'position':'fixed',
+                     //'top':'10px',
+                     //'z-index':'999',
+                     //'width':'340px'
+                 //})
+             //}else{
+                 //$('.s_r_rdph').css({
+                     //'width':'auto',
+                     //'position':'relative',
+                     //'z-index':'0',
+                     //'top':'auto'
+                 //})
+             //}
+         //}
+            if(aa<0.03){ 
+                $('.s_ding').show();
+                if(tj){
+                    if(winw < 1200){
+                        tj = false;
+                        dy();
+                    }
+                    
+                }
+            }
+        });
+        $('.pc_jzgd').click(function(event) {
+            $('.s_ding').show();
+            if(tj){
+                tj = false;
+                dy();
+                
+            }
+        });
+        $('.s_ding').click(function(){
+            $("html,body").animate({scrollTop:0},200);
+        })
+        // $('.ss_nav').on('click', function () {
+        //     // $('.nav-content').toggleClass('showNav hideNav').removeClass('hidden');
+        //     $(this).toggleClass('animated1');
+        // });
+         $('.ss_nav').click(function(event) {
+             $('.s_nav-content').show();
+         });
+        $('.s_nav_content_top span').click(function(event) {
+            $('.s_nav-content').hide();
+        });
+        
+        function dy(){
+            $.ajax({
+                // url: 'http://www.qianlong.com/qianlong-new/api/hot_list.php',
+                type: 'GET',
+                dataType: 'json',
+                // crossDomain: true,
+                data: {page: page},
+                success: function(dat){
+                    console.log(dat)
+                    if(dat.code == 0){
+                        var str = '';
+                        var tst = '';
+                        for(var i = 0; i<dat.data.length; i++){
+                            if (typeof(dat.data[i].tags[0]) == 'undefined') {
+                                dat.data[i].tags[0] = '';
+                            }
+                            str += '<div class="z_cen_wntj_box_box col-xs-6 col-sm-6 col-md-6 col-lg-6" style="display:none;">';
+                                str += '<div class="z_cen_wntj_list row">';
+                                    str += '<div class="z_cen_wntj_list_img"><a href="' + dat.data[i].url + '" target="_blank"><img src="' + dat.data[i].thumb + '" alt=""></a></div>';
+                                    str += '<div class="">';
+                                        if(dat.data[i].title != ''){
+                                            str += '<h2 class="z_cen_wntj_list_title"><a href="' + dat.data[i].url + '" target="_blank">' + dat.data[i].title + '</a></h2>';
+                                        }
+                                        /*if(dat.data[i].description != ''){
+                                            str += '<div class="z_cen_wntj_list_js">' + dat.data[i].description + '</div>';
+                                        }*/
+                                        if(dat.data[i].relation.length>0){
+                                            str += '<div class="pin_tips" style="margin-top:15px;">'
+                                                   var daan = '';
+                                                for(var j in dat.data[i].relation){
+                                                    daan += '<a href="' + dat.data[i].relation[j].url + '" target="_blank"><span></span>'+dat.data[i].relation[j].title +'</a>'
+                                                }
+                                            str += daan + '</div>'
+                                        }
+                                        /*if(dat.data[i].cat_name != ''){*/
+                                            str += '<div class="z_cen_wntj_list_bq clearfix">';
+                                                str += '<div class="z_cen_wntj_list_bq_yd fl">' + dat.data[i].cat_name + '</div>';
+                                                //判断标签是否有数值，没有的话不显示
+                                                if(dat.data[i].tags[0]){
+                                                    /*str += '<div class="z_cen_wntj_list_bq_lm fr">' + dat.data[i].tags[0] + '</div>';*/
+                                                 }
+                                                    str += '<div class="z_cen_wntj_list_bq_lm fr" data-id="' + dat.data[i].url + '" data-title="' + dat.data[i].title + '"><img src="http://img.qianlong.com/qianlong_img/fenxiang.png"></div>';
+
+                                            str += '</div>';
+                                        /*}else{
+                                            str += '<div style="height:18px;margin-bottom:20px;box-shadow: 0 1px 0 0 #E5EDFC;"></div>';
+                                        }*/
+                                    str += '</div>';
+                                str += '</div>';
+                            str += '</div>';
+
+                            /*tst += '<div class="sj_cen_list_z clearfix">';
+                                tst += '<div class="sj_cen_list_wutu"><a href="' + dat.data[i].url + '" target="_blank">' + dat.data[i].title + '</a></div>';
+                                tst += '<div class="sj_cen_list_bq cl">';
+                                    tst += '<div class="sj_cen_list_bq_cen_l">';
+                                        tst += '<span>' + dat.data[i].cat_name + '</span>';
+                                        if(dat.data[i].tags[0])
+                                            tst += '<span class="s_s_xiaobq">' + dat.data[i].tags[0] + '</span>';
+                                    tst += '</div>';
+                                tst += '</div>';
+                            tst += '</div>';*/
+                            tst += '<div class="sj_cen_list clearfix">';
+                                tst += '<div class="col-xs-8" style="padding-left:0px;padding-right:20px;position: relative;">';
+                                    tst += '<h3 class="sj_cen_list_title "><a href="' + dat.data[i].url + '">' + dat.data[i].title + '</a></h3>';
+                                    tst += '<div class="sj_cen_list_q">';
+                                        tst += '<div class="sj_left"></div>';
+                                        tst += '<div class="sj_right" data-id="' + dat.data[i].url + '" data-id="' + dat.data[i].url + '" data-title="' + dat.data[i].title + '"><img src="http://img.qianlong.com/qianlong_img/fenxiang.png"></div>';
+                                    tst += '</div>';
+                                tst += '</div>';
+                                tst += '<div class="sj_cen_list_img col-xs-4">';
+                                    tst += '<div class="row">';
+                                        tst += '<a href="' + dat.data[i].url + '" target="_blank"><img src="' + dat.data[i].thumb + '"></a>';
+                                    tst += '</div>';
+                                tst += '</div>';
+                            tst += '</div>';
+                        }
+                        $('.z_cen_wntj_box').append(str);
+                        $('.z_cen_wntj_dahangbox').append(tst);
+                        page++;
+                        setTimeout(function(){
+                            $('.z_cen_wntj_box_box').show();
+                            waterFlow();
+                        },500)
+                        tj = true;
+                    }else if(dat.code == 1){
+                        $('.pc_jzgd').html('加载完毕');
+                        /*alert('全部加载完成');*/
+                    }else{
+                        alert('请求错误');
+                    }
+                }
+            })
+            .done(function() {
+                console.log("success");
+            })
+            .fail(function() {
+                console.log("error");
+            })
+            .always(function() {
+                console.log("complete");
+            });
+        }
+        //dy();
+        $(function(){
+            setTimeout(function(){
+                waterFlow()
+            },1000)
+        })
+        function pdtj(){
+            $.ajax({
+                url: 'http://www.qianlong.com/qianlong-new/api/tuijian_list.php',
+                type: 'GET',
+                dataType: 'json',
+                success: function(dat){
+                    if(dat.code == 0){
+                        var str = '';
+                        console.log(dat)
+                        for(var i = 0; i < dat.data.length; i++){
+                            if(i < 1){
+                                str += '<div class="s_pc_pdtj_box">';
+                                    str += '<div class="s_pc_pdtj_box_dt">';
+                                        str += '<div class="s_pc_pdtj_box_dt_img">';
+                                            str += '<a href="' + dat.data[i].url + '" target="_blank"><img src="' + dat.data[i].thumb + '" alt=""></a>';
+                                        str += '</div>';
+                                        str += '<div class="s_pc_pdtj_box_dt_text"><a href="' + dat.data[i].url + '" target="_blank">' + dat.data[i].title + '</a></div>';
+                                        str += '<div class="s_pc_pdtj_box_xt_bq">'+ dat.data[i].cat_name +'</div>';
+                                    str += '</div>';
+                                str += '</div>';
+                            }else{
+                                str += '<div class="s_pc_pdtj_box clearfix">';
+                                    str += '<div class="col-xs-12 col-sm-12 col-md-12 col-lg-5">';
+                                        str += '<div class="s_pc_pdtj_box_xt_img row">';
+                                            str += '<a href="' + dat.data[i].url + '" target="_blank"><img src="' + dat.data[i].thumb + '" alt=""></a>';
+                                        str += '</div>';
+                                    str += '</div>';
+                                    str += '<div class="col-xs-12 col-sm-12 col-md-12 col-lg-7">';
+                                        str += '<div class="s_pc_pdtj_box_xt_box row">';
+                                            str += '<div class="s_pc_pdtj_box_xt_text">';
+                                                str += '<a href="' + dat.data[i].url + '" target="_blank">' + dat.data[i].title + '</a>';
+                                            str += '</div>';
+                                            str += '<div class="s_pc_pdtj_box_xt_bq">'+ dat.data[i].cat_name +'</div>';
+                                        str += '</div>';
+                                    str += '</div>';
+                                str += '</div>';
+                                /*str += '<div class="s_pc_pdtj_box clearfix">';
+                                    str += '<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">';
+                                        str += '<div class="s_pc_pdtj_box_xt_box row">';
+                                            str += '<div class="s_pc_pdtj_box_xt_text">';
+                                                str += '<a href="' + dat.data[i].url + '" target="_blank">' + dat.data[i].title + '</a>';
+                                            str += '</div>';
+                                            str += '<div class="s_pc_pdtj_box_xt_bq">'+ dat.data[i].cat_name +'</div>';
+                                        str += '</div>';
+                                    str += '</div>';
+                                str += '</div>';*/
+                            }
+                        }
+                        $('.s_r_pdtj_box').append(str);
+                    }
+                }
+            })
+        }
+        //pdtj()
+        function rdph(){
+            $.ajax({
+                url: 'http://www.qianlong.com/qianlong-new/api/rank_list.php',
+                type: 'GET',
+                dataType: 'json',
+                success: function(dat){
+                    if(dat.code == 0){
+                        var str = '';
+                        for(var i = 0; i< dat.data.length; i++){
+                            if( i < 1 ){
+                                str += '<div class="s_pc_rdph_box_yt_v clearfix">';
+                                    str += '<span class="s_pc_biaohao s_pc_biaohao_huang">1</span>';
+                                    str += '<div class="col-xs-6 col-lg-6">';
+                                        str += '<div class="row">';
+                                            str += '<div class="s_pc_rdph_box_yt_img">';
+                                                str += '<a href="' + dat.data[i].url + '" target="_blank"><img src="' + dat.data[i].thumb + '" alt=""></a>';
+                                            str += '</div>';
+                                        str += '</div>';
+                                    str += '</div>';
+                                    str += '<div class="col-xs-6 col-lg-6">';
+                                        str += '<div class="row">';
+                                            str += '<div class="s_pc_rdph_box_yt_title s_pc_rdph_box_yt_title_first">';
+                                                str += '<a href="' + dat.data[i].url + '" target="_blank">' + dat.data[i].title + '</a>';
+                                            str += '</div>';
+                                            /*if(dat.data[i].tags[0] != ''){
+                                                str += '<div class="s_pc_rdph_box_yt_title_x">' + dat.data[i].tags[0] + '</div>';
+                                            }*/
+                                        str += '</div>';
+                                    str += '</div>';
+                                str += '</div>';
+                            }else if((i >= 1) && (i < 3)){
+                                str += '<div class="s_pc_rdph_box_yt_v clearfix">';
+                                    str += '<span  class="s_pc_biaohao s_pc_biaohao_huang">' + (i+1) + '</span>';
+                                    str += '<div class="s_pc_rdph_box_yt_title">';
+                                        str += '<a href="' + dat.data[i].url + '" target="_blank">' + dat.data[i].title + '</a>';
+                                    str += '</div>';
+                                str += '</div>';
+
+                            }else{
+                                str += '<div class="s_pc_rdph_box_yt_v clearfix">';
+                                    str += '<span  class="s_pc_biaohao">' + (i+1) + '</span>';
+                                    str += '<div class="s_pc_rdph_box_yt_title">';
+                                        str += '<a href="' + dat.data[i].url + '" target="_blank">' + dat.data[i].title + '</a>';
+                                    str += '</div>';
+                                str += '</div>';
+                            }
+                        }
+                        $('.s_pc_rdph_box_yt').append(str);
+                        
+                    }
+                }
+            })
+        }
+        //rdph()
+   
+        //声明全局变量
+        var shareId = "",title='';
+        //全局变量赋值，便于后边更改配置
+        $(function () {
+            var wlh = window.location.href;
+            $('.fenxiang').attr('data-id',wlh);
+            $(".fenxiang").live('click',function () {
+                var top="50%";
+                top=$(this).offset().top-$(document).scrollTop();
+                var left="50%";
+                    left=$(this).offset().left;
+                var width=document.body.offsetWidth;
+                width=width-left-150;
+                $('.bdsharebuttonbox').css("left",left);
+                $('.bdsharebuttonbox').css("top",top);
+                if(width<0){
+                    $('.bdsharebuttonbox').css("left",'');
+                    $('.bdsharebuttonbox').css("right",'0');
+                }
+                shareId = $(this).attr("data-id");
+                title = $(this).attr("data-title");
+                console.log(left)
+                console.log(top)
+                console.log(shareId)
+                console.log(title)
+                $('.bdsharebuttonbox').show()
+            });
+            $(".z_cen_wntj_list_bq_lm").live('click',function () {
+                var top="50%";
+                top=$(this).offset().top-$(document).scrollTop();
+                var left="50%";
+                    left=$(this).offset().left;
+                var width=document.body.offsetWidth;
+                width=width-left-150;
+                $('.bdsharebuttonbox').css("left",left);
+                $('.bdsharebuttonbox').css("top",top);
+                if(width<0){
+                    $('.bdsharebuttonbox').css("left",'')
+                    $('.bdsharebuttonbox').css("right",'0')
+                }
+                shareId = $(this).attr("data-id");
+                title = $(this).attr("data-title");
+                console.log(left)
+                console.log(top)
+                console.log(shareId)
+                console.log(title)
+                $('.bdsharebuttonbox').show();
+            });
+            $(".sj_right").live('click',function () {
+                var top="50%";
+                top=$(this).offset().top-$(document).scrollTop();
+                var left="50%";
+                    left=$(this).offset().left;
+                var width=document.body.offsetWidth;
+                width=width-left-150;
+                $('.bdsharebuttonbox').css("left",left)
+                $('.bdsharebuttonbox').css("top",top)
+                if(width<0){
+                    $('.bdsharebuttonbox').css("left",'')
+                    $('.bdsharebuttonbox').css("right",'0')
+                }
+                shareId = $(this).attr("data-id");
+                title = $(this).attr("data-title");
+                console.log(left)
+                console.log(top)
+                console.log(shareId)
+                console.log(title)
+                $('.bdsharebuttonbox').show();
+            });
+            $(".bd_close").click(function(){
+                $('.bdsharebuttonbox').hide();
+            })
+        });
+          function SetConf(cmd, config) {            
+            if (shareId) {
+                config.bdUrl = shareId;
+                config.bdText = title;
+                console.log(config)
+            }
+            return config;
+        }
+        window._bd_share_config = {
+            common : {onBeforeClick:SetConf},
+            share : [{"bdSize" : 12}],
+            // slide : [{bdImg : 0,bdPos : "right",bdTop : 100}],//设置了这一项，页面右边会出现一个分享的浮窗，该浮窗只能分享当前设置的bdUrl
+            image : [{viewType : 'list',viewPos : 'top',viewColor : 'black',viewSize : '12',viewList : ['qzone','tsina','huaban','tqq','renren']}],
+            selectShare : [{
+                "bdselectMiniList" : ['qzone','tqq','kaixin001','bdxc','tqf']
+            }]
+        }
+        //以下代码是必须
+        with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+
+
+
+    </script>
+<!--微信分享-->
+<script src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+<script src="http://img.qianlong.com/ql2019/share/js/share.js"></script>
+<script>
+initweixinshare();
+function initweixinshare(){
+
+  var shareTitle="冬季装暖指南，省心装暖不踩坑";
+
+   var shareDesc = "";
+ 
+  if(shareDesc ==''){
+    var contentInit = $('#contentStr').html();
+    var contentDelTag = delHtmlTag(contentInit);
+    shareDesc=cutstr(contentDelTag ,100);
+    //shareDesc = "冬季装暖指南，省心装暖不踩坑";
+    
+    
+}else{
+    shareDesc="";
+}
+  var shareImage='https://img.qianlong.com/ql2019/share/img/qllogo.jpg';
+  if(3237 == 2968){
+     var shareImage='https://img.qianlong.com/ql2019/share/img/jchp.jpg?1.0.3';
+  }
+  
+  function BindWXReady(){
+      console.log(shareDesc)
+      console.log(location.href.split('#')[0].split('?')[0])
+      wx.ready(function(){
+          //分享到朋友圈
+          //   wx.onMenuShareTimeline({
+        //       title:shareTitle, // 分享标题
+        //       link:location.href.split('#')[0].split('?')[0], // 分享链接
+        //       imgUrl:shareImage, // 分享图标
+        //       success: function(){},
+        //       cancel: function(){}
+        //   });
+          //分享给朋友
+          wx.onMenuShareAppMessage({
+              title:shareTitle, // 分享标题
+              desc: shareDesc, // 分享描述
+              link:location.href.split('#')[0].split('?')[0], // 分享链接
+              imgUrl:shareImage, // 分享图标
+              type: 'link', // 分享类型,music、video或link，不填默认为link
+              dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
+              success: function(){},
+              cancel: function(){}
+          });
+          wx.updateAppMessageShareData({ 
+                title: shareTitle, // 分享标题
+                desc: shareDesc, // 分享描述
+                link: location.href.split('#')[0].split('?')[0], // 分享链接，该链接域名或路径必须与当前页面对应的公众号 JS 安全域名一致
+                imgUrl: shareImage, // 分享图标
+                success: function () {
+                // 设置成功
+                }
+          });
+      });
+  }
+
+
+  $.ajax({
+    type:"GET",
+    url:"https://m.bjnews.com.cn/api/wxshare?app_id=wx045faf1283467ae3&callback=?",
+    dataType: 'json',
+    success: function(data){
+       var signpackage = data.signpackage;
+       wx.config({
+        debug:false,
+        appId: "wx045faf1283467ae3", // 必填，公众号的唯一标识
+        timestamp: signpackage.timestamp, // 必填，生成签名的时间戳
+        nonceStr: signpackage.nonceStr, // 必填，生成签名的随机串
+        signature: signpackage.signature, // 必填，签名，见附录1
+        jsApiList: [
+         'checkJsApi',
+         'onMenuShareTimeline',
+         'onMenuShareAppMessage'
+        ]
+       });
+       BindWXReady();
+    },
+    error: function(XMLHttpRequest) {
+       //alert('请求错误！');
+    }
+  });
+
+
+}
+</script>
+<!--微信分享 end-->
+
+  
+</script>
+<!--百度流量统计-->
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?19957ef8d1b80ce40406b245b013852a";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<script>
+   //获取设备
+    function viewport() {
+            var e = window, a = 'inner';
+            if (!('innerWidth' in window )) {
+                a = 'client';
+                e = document.documentElement || document.body;
+            }
+       return { width : e[ a+'Width' ] , height : e[ a+'Height' ] };
+    }
+    //获取百度统计传址
+    var bdUrl = {
+        str:'https://qlstats.bjnews.com.cn/hm.gif?t=qianlong',
+        cl:screen.colorDepth+'-bit',
+        ds:viewport().width+'x'+viewport().height,
+        ln:String(navigator.language||navigator.userLanguage).toLowerCase(),
+        u: encodeURIComponent(document.location.href),
+        getbdURL:function(){
+            this.bdUrl = this.str + '&cl='+this.cl+'&ds='+this.ds+'&ln='+this.ln+'&u='+this.u;
+            console.log(this.bdUrl);
+            return this.bdUrl;
+        }
+    }
+  // bdUrl.getbdURL(); 
+   var aurl = bdUrl.getbdURL();
+   $.ajax({
+                url:aurl,    
+                type:"get",   
+                success:function(req){
+                  console.log(req)
+                },
+                 complete:function(){
+                    //请求完成的处理
+                },
+                error:function(){
+                    //请求出错处理
+                    console.log('error')
+                }
+})                
+</script>
+<!-- 适老化改造 -->
+<script type="text/javascript" src="http://slwza.qianlong.com/slwza/route.js"></script>
+  </body>
+</html>

@@ -1,688 +1,87 @@
-
-<!DOCTYPE html>
-<html lang="zh" dir="ltr" class="no-js">
-<head>
-<link href="/Content/responsive/VOA/zh-CN/VOA-zh-CN.css?&amp;av=0.1.0.0&amp;cb=248" rel="stylesheet"/>
-<script src="//tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.sync.js"></script> <script type='text/javascript' src='https://www.youtube.com/iframe_api'></script>
-<script type="text/javascript">
-//a general 'js' detection, must be on top level in <head>, due to CSS performance
-document.documentElement.className = "js";
-var cacheBuster = "248";
-var appBaseUrl = "/";
-var imgEnhancerBreakpoints = [0, 144, 256, 408, 650, 1023, 1597];
-var isLoggingEnabled = false;
-var isPreviewPage = false;
-var isLivePreviewPage = false;
-var pwaEnabled = false;
-var swCacheDisabled;
-</script>
-<meta charset="utf-8" />
-<title>中国式现代化: 习连任后的中国向何处去？</title>
-<meta name="title" content="中国式现代化: 习连任后的中国向何处去？" />
-<meta name="description" content="习近平在中共二十大政治报告中说，从现在起，中共的中心任务就是“以中国式现代化全面推进中华民族的伟大复兴。”习近平进一步阐明，中国式现代化的本质要求是：坚持中国共产党领导，坚持中共特色的社会主义，发展全过程人民民主，实现全体人民共同富裕等等。有分析说，这是一个大杂烩概念。" />
-<meta name="keywords" content="中国, 中共二十大" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta property="fb:pages" content="79273905685" />
-<meta name="msvalidate.01" content="3286EE554B6F672A6F2E608C02343C0E" />
-<link href="https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html" rel="canonical" />
-<meta name="apple-mobile-web-app-title" content="美国之音" />
-<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-<meta name="apple-itunes-app" content="app-id=632618796, app-argument=//6796624.ltr" />
-<meta content="中国式现代化: 习连任后的中国向何处去？" property="og:title" />
-<meta content="习近平在中共二十大政治报告中说，从现在起，中共的中心任务就是“以中国式现代化全面推进中华民族的伟大复兴。”习近平进一步阐明，中国式现代化的本质要求是：坚持中国共产党领导，坚持中共特色的社会主义，发展全过程人民民主，实现全体人民共同富裕等等。有分析说，这是一个大杂烩概念。" property="og:description" />
-<meta content="article" property="og:type" />
-<meta content="https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html" property="og:url" />
-<meta content="美国之音" property="og:site_name" />
-<meta content="https://www.facebook.com/voachinese" property="article:publisher" />
-<meta content="https://gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1200_r1.jpg" property="og:image" />
-<meta content="1200" property="og:image:width" />
-<meta content="675" property="og:image:height" />
-<meta content="373799889356691" property="fb:app_id" />
-<meta content="许波" name="Author" />
-<meta content="summary_large_image" name="twitter:card" />
-<meta content="@voachinese" name="twitter:site" />
-<meta content="https://gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1200_r1.jpg" name="twitter:image" />
-<meta content="习近平在中共二十大政治报告中说，从现在起，中共的中心任务就是“以中国式现代化全面推进中华民族的伟大复兴。”习近平进一步阐明，中国式现代化的本质要求是：坚持中国共产党领导，坚持中共特色的社会主义，发展全过程人民民主，实现全体人民共同富裕等等。有分析说，这是一个大杂烩概念。" name="twitter:description" />
-<link rel="amphtml" href="https://www.voachinese.com/amp/xi-jinping-mutual-prosperity-20221019/6796624.html" />
-<script type="application/ld+json">{"articleSection":"中国","headline":"中国式现代化: 习连任后的中国向何处去？","inLanguage":"zh-CN","keywords":"中国, 中共二十大","author":{"@type":"Person","url":"","description":"","image":{"@type":"ImageObject"},"name":"许波"},"datePublished":"2022-10-19","dateModified":"2022-10-19 20:14:18Z","publisher":{"logo":{"width":512,"height":220,"@type":"ImageObject","url":"https://www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo.png"},"@type":"NewsMediaOrganization","url":"https://www.voachinese.com","sameAs":["https://www.facebook.com/voachinese","https://twitter.com/voachinese","https://www.youtube.com/voachinese","https://www.instagram.com/voachinese/"],"name":"美国之音中文网","alternateName":""},"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html","url":"https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html","description":"习近平在中共二十大政治报告中说，从现在起，中共的中心任务就是“以中国式现代化全面推进中华民族的伟大复兴。”习近平进一步阐明，中国式现代化的本质要求是：坚持中国共产党领导，坚持中共特色的社会主义，发展全过程人民民主，实现全体人民共同富裕等等。有分析说，这是一个大杂烩概念。","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608.jpg"},"name":"中国式现代化: 习连任后的中国向何处去？"}</script>
-<script src="/Scripts/responsive/infographics.b?v=dVbZ-Cza7s4UoO3BqYSZdbxQZVF4BOLP5EfYDs4kqEo1&amp;av=0.1.0.0&amp;cb=248"></script>
-<script src="/Scripts/responsive/loader.b?v=0FPXjBVVg5xYYGUT59l_WQeH3R6xCH2Xr3SzghXFwDM1?&amp;av=0.1.0.0&amp;cb=248"></script>
-<link rel="icon" type="image/svg+xml" href="/Content/responsive/VOA/img/webApp/favicon.svg" />
-<link rel="alternate icon" href="/Content/responsive/VOA/img/webApp/favicon.ico" />
-<link rel="apple-touch-icon" sizes="152x152" href="/Content/responsive/VOA/img/webApp/ico-152x152.png" />
-<link rel="apple-touch-icon" sizes="144x144" href="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
-<link rel="apple-touch-icon" sizes="114x114" href="/Content/responsive/VOA/img/webApp/ico-114x114.png" />
-<link rel="apple-touch-icon" sizes="72x72" href="/Content/responsive/VOA/img/webApp/ico-72x72.png" />
-<link rel="apple-touch-icon-precomposed" href="/Content/responsive/VOA/img/webApp/ico-57x57.png" />
-<link rel="icon" sizes="192x192" href="/Content/responsive/VOA/img/webApp/ico-192x192.png" />
-<link rel="icon" sizes="128x128" href="/Content/responsive/VOA/img/webApp/ico-128x128.png" />
-<meta name="msapplication-TileColor" content="#ffffff" />
-<meta name="msapplication-TileImage" content="/Content/responsive/VOA/img/webApp/ico-144x144.png" />
-<link rel="alternate" type="application/rss+xml" title="VOA - Top Stories [RSS]" href="/api/" />
-<link rel="sitemap" type="application/rss+xml" href="/sitemap.xml" />
-</head>
-<body class=" nav-no-loaded can-ff cc_theme pg-article print-lay-article js-category-to-nav nojs-images date-time-enabled ">
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8MP7P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script type="text/javascript" data-cookiecategory="analytics">
-if (top.location === self.location) { //if not inside of an IFrame
-var renderGtm = "true";
-if (renderGtm === "true") {
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N8MP7P');
+<!doctype html><html amp i-amphtml-layout i-amphtml-no-boilerplate lang=zh style="padding-top:32px !important;" transformed="google;v=8"><head><meta charset=utf-8><meta content="width=device-width,minimum-scale=1,initial-scale=1" name=viewport><style amp-runtime i-amphtml-version=012212151632002>html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
+/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
+/*# sourceURL=/css/ampshared.css*/</style><meta content=noindex name=robots><meta content=no-referrer-when-downgrade name=referrer><meta content=voachinese.com name=amp-cookie-scope><meta content="10=2,11=2" name=amp-usqp><script id=__AMP_EXP type=text/json>{"flexible-bitrate":0.1,"amp-story-first-page-max-bitrate":0.3,"story-disable-animations-first-page":1,"story-load-first-page-only":1,"story-load-inactive-outside-viewport":1,"story-ad-page-outlink":0.02,"amp-geo-ssr":1,"story-remote-localization":1,"amp-story-subscriptions":1}</script><script async nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0.js></script><script async crossorigin=anonymous src=https://cdn.ampproject.org/rtv/012212151632002/v0.mjs type=module></script><script async src=https://cdn.ampproject.org/viewer/google/va9.js></script><script async custom-element=amp-analytics nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-analytics-0.1.js></script><script async crossorigin=anonymous custom-element=amp-analytics src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-analytics-0.1.mjs type=module></script><script async custom-element=amp-iframe nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-iframe-0.1.js></script><script async crossorigin=anonymous custom-element=amp-iframe src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-iframe-0.1.mjs type=module></script><script async custom-element=amp-sidebar nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-sidebar-0.1.js></script><script async crossorigin=anonymous custom-element=amp-sidebar src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-sidebar-0.1.mjs type=module></script><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/favicon.ico rel="shortcut icon"><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/ico-192x192.png rel=icon sizes=192x192><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/ico-128x128.png rel=icon sizes=128x128><link href=https://gdb-voanews-com.cdn.ampproject.org rel="dns-prefetch preconnect"><style amp-custom>
+html,body,div,form,fieldset,legend,label,p,img,ul,ol,li,h1,h2,h3,h4,h5,h6,blockquote{margin:0;padding:0}html{-webkit-box-sizing:border-box;box-sizing:border-box}*,*:before,*:after{-webkit-box-sizing:inherit;box-sizing:inherit}body{-ms-overflow-style:scrollbar}a,area,button,[role="button"],input,label,select,summary,textarea{-ms-touch-action:manipulation;touch-action:manipulation}table{border-collapse:collapse;border-spacing:0}th,td{vertical-align:top}ul,ol{list-style-type:none}h1,h2,h3,h4,h5,h6,th,td,caption{font-weight:normal}img{border:0}a,a:hover .ico,.wsw__a,.wsw strong a,.wsw__a:hover,.wsw strong a:hover,.wsw__a:focus,.wsw strong a:focus,.media-pholder a,.media-pholder a:hover,.media-block a:hover,amp-sidebar #navigation a,amp-sidebar #navigation a:hover,amp-sidebar #navigation a:focus,amp-sidebar #navigation a:active,.foot-nav a:hover{text-decoration:none}a:hover,.wsw .text-underline,.media-pholder .media-download a:hover{text-decoration:underline}.wsw .dateline{text-transform:uppercase}#page,.media-pholder,.media-pholder .thumb,.media-block{position:relative}.btn--rounded{color:#fff}.wsw>ul.categories li:before,.wsw>:not(.wsw__embed) ul:not([class]).categories li:before,.wsw>.cke_editable>ul.categories li:before,.wsw__ul.categories li:before{content:none}#page{display:block;margin-left:auto;margin-right:auto}.btn--rounded,.text-center{text-align:center}.btn--rounded,.foot-nav ul.items>li.socials .inner li .btn{display:table-cell;vertical-align:middle}.media-pholder .media-download,.back-to-top-nav .back-to-top-link .ico{float:right}.wsw .dateline,.media-pholder .btn-popout-player{float:left}.media-pholder .media-download:before,.media-block:before,.media-block-wrap:before,.foot:before,.hdr:before,.hdr .container:before,amp-sidebar .navigationToggle:before,.foot-nav ul.items>li.socials .inner ul.follow:before,.article .publishing-details:before,.media-pholder .media-download:after,.media-block:after,.media-block-wrap:after,.foot:after,.hdr:after,.hdr .container:after,amp-sidebar .navigationToggle:after,.foot-nav ul.items>li.socials .inner ul.follow:after,.article .publishing-details:after{content:" ";display:table}.media-pholder .media-download:after,.media-block:after,.media-block-wrap:after,.foot:after,.hdr:after,.hdr .container:after,amp-sidebar .navigationToggle:after,.foot-nav ul.items>li.socials .inner ul.follow:after,.article .publishing-details:after{clear:both}.btn--rounded .ico,.media-pholder .thumb{margin-left:0;margin-top:0;margin-right:0;margin-bottom:0}.wsw>*:last-child,.wsw .caption,.hdr,.backgrounder p:last-child,.backgrounder div:last-child{margin-bottom:0}.btn--rounded,.hdr .navigationToggle,.foot-nav .container,body.can-ff .foot-nav ul.items>li ul.follow li .btn{padding-left:0;padding-top:0;padding-right:0;padding-bottom:0}.backgrounder p:last-child,.backgrounder div:last-child{padding-bottom:0}.section-head img,.wsw img,.media-pholder.quiz .thumb,.media-pholder img{width:100%}img,video,object{max-width:100%;height:auto}.btn--rounded .ico,.foot-nav ul.items>li.socials .inner li .btn--rounded,.foot-nav ul.items>li ul.follow li{border-left:0;border-top:0;border-right:0;border-bottom:0}amp-sidebar #navigation ul.items .item .handler,.foot-nav ul.items>li a,.foot-nav ul.items>li span.handler{-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}::-moz-selection{background:#3a79b7;color:#fff}::selection{background:#3a79b7;color:#fff}body{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:16px;line-height:1.5;color:#222f3a;-webkit-font-smoothing:antialiased}body strong,body b{font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.container{padding:0 16px;max-width:600px;margin:auto}.btn--rounded{width:40px;height:40px;line-height:40px;border-radius:100%;border:1px solid #cbd1d6;font-family:arial}h1,h2,h3,h4,h5,h6{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}h1{font-size:24px;line-height:1.35}h2{font-size:24px;line-height:1.35}h3{font-size:20px}h4{font-size:18px}a{color:#3a79b7}a:visited{color:#28537d}a:hover{color:#3a79b7}.foot-link{clear:both;text-align:left;padding-top:16px}.link-more{font-size:13px;display:block;text-align:right;clear:both}.link-service{display:inline-block;padding-right:8px;padding-bottom:8px}.link-service .ico{vertical-align:baseline}.media-block .link-service:hover .ico{color:#3a79b7}.link-comments{margin-bottom:8px}.intro{padding-bottom:24px}.article-body .intro{font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.text p{margin-bottom:16px}.text-secondary{font-size:14px;color:#51708a}.pg-title{margin-bottom:16px}.section-head{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:24px;border-bottom:1px solid #cbd1d6;padding-bottom:4px;margin:12px 0;margin-bottom:0;color:#a1aab4;line-height:1.2;text-align:left}.section-head a{color:#a1aab4;display:block}.section-head a:hover{color:#3a79b7;text-decoration:none}.section-head a .ico{margin-right:0}.badge{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:12px;color:#fff;padding:2px 4px;text-transform:uppercase}body.can-ff .badge .ico{border-radius:50%;text-align:center;background:#fff}.img-wrap .badge{position:absolute;top:4px;right:4px}.badge.green{background:#83ab4b}.badge.green .ico:before{color:#83ab4b}.badge.orange{background:#ee8735}.badge.orange .ico:before{color:#ee8735}.badge.blue{background:#007dba}.badge.blue .ico:before{color:#007dba}.badge.red{background:#d12430}.badge.red .ico:before{color:#d12430}.badge--live,.badge--updated{padding:5px 5px 3px;text-transform:uppercase;display:inline-block;margin-right:.3em;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:.875em;line-height:1em;vertical-align:baseline}.badge--live{color:#fff;background:#c11d22}.badge--updated{color:#fff;background:#3a79b7}.category,.label,.date,.time,.repeat{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}hr{border:0;height:3px;background:#cbd1d6;margin:0 0 16px 0}hr.line-head{border-bottom:3px solid #cbd1d6;margin-bottom:0}abbr{border-bottom:1px dotted #768492;cursor:help}small{font-size:14px}.font-1{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.font-1-bold{font-family:false}.font-2{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.font-2-bold{font-family:false}@media (min-width: 640px){h1{font-size:30.4px}}@media (min-width: 992px){h1{font-size:48px}.text h1{font-size:30.4px}}.c-blockquote{color:#768492;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:20px;line-height:130%;position:relative;margin-bottom:24px}.media-block-wrap .c-blockquote{margin-top:8px}.fc-body .c-blockquote{color:#768492;font-size:18px}.c-blockquote__content{margin-bottom:16px}.c-blockquote--wg{font-size:18px}.c-blockquote--has-quote:before{content:"“";float:left;font-size:400%;margin-right:.05em;margin-top:.315em;height:0}.c-blockquote__foot{margin-top:16px;color:#768492;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px;line-height:1.5}.ico-anchor,.ico-arrow-down,.ico-arrow-left,.ico-arrow-backward,.ico-arrow-right,.ico-arrow-forward,.ico-arrow-top-left,.ico-arrow-top-backward,.ico-arrow-top-right,.ico-arrow-top-forward,.ico-arrow-up,.ico-audio,.ico-audio-rounded,.ico-balatarin,.ico-calendar,.ico-camera,.ico-caret-down,.ico-caret-up,.ico-castbox,.ico-check,.ico-check-circle,.ico-check-circle-checked,.ico-chevron-down,.ico-chevron-left,.ico-chevron-backward,.ico-chevron-left-rounded,.ico-chevron-backward-rounded,.ico-chevron-right,.ico-chevron-forward,.ico-chevron-right-rounded,.ico-chevron-forward-rounded,.ico-chevron-up,.ico-clock,.ico-close,.ico-comment,.ico-content-copy,.ico-document,.ico-download,.ico-ellipsis,.ico-email,.ico-embed-code,.ico-exclamation,.ico-exit-fullscreen,.ico-facebook,.ico-facebook-alt,.ico-favourites,.ico-flag,.ico-fullscreen,.ico-gallery,.ico-gallery-rounded,.ico-globe,.ico-google-news,.ico-google-podcast,.ico-grid,.ico-height-chevrons,.ico-info,.ico-infographic,.ico-infographic-rounded,.ico-instagram,.ico-itunes,.ico-languages,.ico-line,.ico-linkedin,.ico-liveblog,.ico-livejournal,.ico-log-out,.ico-logo-rfe,.ico-logo-voa,.ico-mailru,.ico-map-pin,.ico-meneame,.ico-menu,.ico-minus,.ico-mobile,.ico-my-video,.ico-myworld,.ico-no-results,.ico-odnoklassniki,.ico-pause,.ico-pause-rounded,.ico-pinterest,.ico-play,.ico-play-rounded,.ico-playlist,.ico-playlist-add,.ico-plus,.ico-podcast,.ico-podcast-addict,.ico-podcast-republic,.ico-poll,.ico-pop-out,.ico-print,.ico-question,.ico-quiz,.ico-reddit,.ico-refresh,.ico-repeat,.ico-reply,.ico-report,.ico-rss,.ico-search,.ico-settings,.ico-share,.ico-skip-next,.ico-skip-previous,.ico-soundcloud,.ico-soundslide,.ico-spotify,.ico-square,.ico-stop,.ico-telegram,.ico-tv,.ico-twitter,.ico-ugc,.ico-user,.ico-user-rounded,.ico-viber,.ico-video,.ico-vkontakte,.ico-vkontakte-alt,.ico-volume-muted,.ico-volume-unmuted,.ico-whatsapp,.ico-width-chevrons,.ico-yandex-music,.ico-yandex-zen,.ico-youtube{background:url('https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/Responsive/img/ico-sprites-1661417065025.png') no-repeat}.ico-anchor{background-position:0 0;width:16px;height:16px}.ico-arrow-down{background-position:0.847457627118644% 0;width:16px;height:16px}.ico-arrow-left,.ico-arrow-backward{background-position:1.694915254237288% 0;width:16px;height:16px}.ico-arrow-right,.ico-arrow-forward{background-position:2.542372881355932% 0;width:16px;height:16px}.ico-arrow-top-left,.ico-arrow-top-backward{background-position:3.389830508474576% 0;width:16px;height:16px}.ico-arrow-top-right,.ico-arrow-top-forward{background-position:4.237288135593221% 0;width:16px;height:16px}.ico-arrow-up{background-position:5.084745762711864% 0;width:16px;height:16px}.ico-audio{background-position:5.932203389830509% 0;width:16px;height:16px}.ico-audio-rounded{background-position:6.779661016949152% 0;width:16px;height:16px}.ico-balatarin{background-position:7.627118644067797% 0;width:16px;height:16px}.ico-calendar{background-position:8.474576271186441% 0;width:16px;height:16px}.ico-camera{background-position:9.322033898305085% 0;width:16px;height:16px}.ico-caret-down{background-position:10.169491525423728% 0;width:16px;height:16px}.ico-caret-up{background-position:11.016949152542374% 0;width:16px;height:16px}.ico-castbox{background-position:11.864406779661017% 0;width:16px;height:16px}.ico-check{background-position:12.711864406779661% 0;width:16px;height:16px}.ico-check-circle{background-position:13.559322033898304% 0;width:16px;height:16px}.ico-check-circle-checked{background-position:14.40677966101695% 0;width:16px;height:16px}.ico-chevron-down{background-position:15.254237288135593% 0;width:16px;height:16px}.ico-chevron-left,.ico-chevron-backward{background-position:16.10169491525424% 0;width:16px;height:16px}.ico-chevron-left-rounded,.ico-chevron-backward-rounded{background-position:16.949152542372882% 0;width:16px;height:16px}.ico-chevron-right,.ico-chevron-forward{background-position:17.796610169491526% 0;width:16px;height:16px}.ico-chevron-right-rounded,.ico-chevron-forward-rounded{background-position:18.64406779661017% 0;width:16px;height:16px}.ico-chevron-up{background-position:19.491525423728813% 0;width:16px;height:16px}.ico-clock{background-position:20.338983050847457% 0;width:16px;height:16px}.ico-close{background-position:21.1864406779661% 0;width:16px;height:16px}.ico-comment{background-position:22.033898305084747% 0;width:16px;height:16px}.ico-content-copy{background-position:22.88135593220339% 0;width:16px;height:16px}.ico-document{background-position:23.728813559322035% 0;width:16px;height:16px}.ico-download{background-position:24.576271186440678% 0;width:16px;height:16px}.ico-ellipsis{background-position:25.423728813559322% 0;width:16px;height:16px}.ico-email{background-position:26.271186440677965% 0;width:16px;height:16px}.ico-embed-code{background-position:27.11864406779661% 0;width:16px;height:16px}.ico-exclamation{background-position:27.966101694915253% 0;width:16px;height:16px}.ico-exit-fullscreen{background-position:28.8135593220339% 0;width:16px;height:16px}.ico-facebook{background-position:29.661016949152543% 0;width:16px;height:16px}.ico-facebook-alt{background-position:30.508474576271187% 0;width:16px;height:16px}.ico-favourites{background-position:31.35593220338983% 0;width:16px;height:16px}.ico-flag{background-position:32.20338983050848% 0;width:16px;height:16px}.ico-fullscreen{background-position:33.05084745762712% 0;width:16px;height:16px}.ico-gallery{background-position:33.898305084745765% 0;width:16px;height:16px}.ico-gallery-rounded{background-position:34.74576271186441% 0;width:16px;height:16px}.ico-globe{background-position:35.59322033898305% 0;width:16px;height:16px}.ico-google-news{background-position:36.440677966101696% 0;width:16px;height:16px}.ico-google-podcast{background-position:37.28813559322034% 0;width:16px;height:16px}.ico-grid{background-position:38.13559322033898% 0;width:16px;height:16px}.ico-height-chevrons{background-position:38.983050847457626% 0;width:16px;height:16px}.ico-info{background-position:39.83050847457627% 0;width:16px;height:16px}.ico-infographic{background-position:40.67796610169491% 0;width:16px;height:16px}.ico-infographic-rounded{background-position:41.52542372881356% 0;width:16px;height:16px}.ico-instagram{background-position:42.3728813559322% 0;width:16px;height:16px}.ico-itunes{background-position:43.220338983050844% 0;width:16px;height:16px}.ico-languages{background-position:44.067796610169495% 0;width:16px;height:16px}.ico-line{background-position:44.91525423728814% 0;width:16px;height:16px}.ico-linkedin{background-position:45.76271186440678% 0;width:16px;height:16px}.ico-liveblog{background-position:46.610169491525426% 0;width:16px;height:16px}.ico-livejournal{background-position:47.45762711864407% 0;width:16px;height:16px}.ico-log-out{background-position:48.30508474576271% 0;width:16px;height:16px}.ico-logo-rfe{background-position:49.152542372881356% 0;width:16px;height:16px}.ico-logo-voa{background-position:50% 0;width:16px;height:16px}.ico-mailru{background-position:50.847457627118644% 0;width:16px;height:16px}.ico-map-pin{background-position:51.69491525423729% 0;width:16px;height:16px}.ico-meneame{background-position:52.54237288135593% 0;width:16px;height:16px}.ico-menu{background-position:53.389830508474574% 0;width:16px;height:16px}.ico-minus{background-position:54.23728813559322% 0;width:16px;height:16px}.ico-mobile{background-position:55.08474576271186% 0;width:16px;height:16px}.ico-my-video{background-position:55.932203389830505% 0;width:16px;height:16px}.ico-myworld{background-position:56.779661016949156% 0;width:16px;height:16px}.ico-no-results{background-position:57.6271186440678% 0;width:16px;height:16px}.ico-odnoklassniki{background-position:58.47457627118644% 0;width:16px;height:16px}.ico-pause{background-position:59.32203389830509% 0;width:16px;height:16px}.ico-pause-rounded{background-position:60.16949152542373% 0;width:16px;height:16px}.ico-pinterest{background-position:61.016949152542374% 0;width:16px;height:16px}.ico-play{background-position:61.86440677966102% 0;width:16px;height:16px}.ico-play-rounded{background-position:62.71186440677966% 0;width:16px;height:16px}.ico-playlist{background-position:63.559322033898304% 0;width:16px;height:16px}.ico-playlist-add{background-position:64.40677966101696% 0;width:16px;height:16px}.ico-plus{background-position:65.2542372881356% 0;width:16px;height:16px}.ico-podcast{background-position:66.10169491525424% 0;width:16px;height:16px}.ico-podcast-addict{background-position:66.94915254237289% 0;width:16px;height:16px}.ico-podcast-republic{background-position:67.79661016949153% 0;width:16px;height:16px}.ico-poll{background-position:68.64406779661017% 0;width:16px;height:16px}.ico-pop-out{background-position:69.49152542372882% 0;width:16px;height:16px}.ico-print{background-position:70.33898305084746% 0;width:16px;height:16px}.ico-question{background-position:71.1864406779661% 0;width:16px;height:16px}.ico-quiz{background-position:72.03389830508475% 0;width:16px;height:16px}.ico-reddit{background-position:72.88135593220339% 0;width:16px;height:16px}.ico-refresh{background-position:73.72881355932203% 0;width:16px;height:16px}.ico-repeat{background-position:74.57627118644068% 0;width:16px;height:16px}.ico-reply{background-position:75.42372881355932% 0;width:16px;height:16px}.ico-report{background-position:76.27118644067797% 0;width:16px;height:16px}.ico-rss{background-position:77.11864406779661% 0;width:16px;height:16px}.ico-search{background-position:77.96610169491525% 0;width:16px;height:16px}.ico-settings{background-position:78.8135593220339% 0;width:16px;height:16px}.ico-share{background-position:79.66101694915254% 0;width:16px;height:16px}.ico-skip-next{background-position:80.50847457627118% 0;width:16px;height:16px}.ico-skip-previous{background-position:81.35593220338983% 0;width:16px;height:16px}.ico-soundcloud{background-position:82.20338983050847% 0;width:16px;height:16px}.ico-soundslide{background-position:83.05084745762711% 0;width:16px;height:16px}.ico-spotify{background-position:83.89830508474576% 0;width:16px;height:16px}.ico-square{background-position:84.7457627118644% 0;width:16px;height:16px}.ico-stop{background-position:85.59322033898304% 0;width:16px;height:16px}.ico-telegram{background-position:86.44067796610169% 0;width:16px;height:13.2px}.ico-tv{background-position:87.28813559322033% 0;width:16px;height:16px}.ico-twitter{background-position:88.13559322033899% 0;width:16px;height:16px}.ico-ugc{background-position:88.98305084745763% 0;width:16px;height:16px}.ico-user{background-position:89.83050847457628% 0;width:16px;height:16px}.ico-user-rounded{background-position:90.67796610169492% 0;width:16px;height:16px}.ico-viber{background-position:91.50991357397052% 0;width:15.68px;height:16px}.ico-video{background-position:92.37288135593221% 0;width:16px;height:16px}.ico-vkontakte{background-position:93.22033898305085% 0;width:16px;height:16px}.ico-vkontakte-alt{background-position:94.0677966101695% 0;width:16px;height:16px}.ico-volume-muted{background-position:94.91525423728814% 0;width:16px;height:16px}.ico-volume-unmuted{background-position:95.76271186440678% 0;width:16px;height:16px}.ico-whatsapp{background-position:96.61016949152543% 0;width:16px;height:16px}.ico-width-chevrons{background-position:97.45762711864407% 0;width:16px;height:16px}.ico-yandex-music{background-position:98.30508474576271% 0;width:16px;height:16px}.ico-yandex-zen{background-position:99.15254237288136% 0;width:16px;height:16px}.ico-youtube{background-position:100% 0;width:16px;height:16px}@font-face{font-family:"icons-font-1661417065025";src:url('https://www-voachinese-com.cdn.ampproject.org/r/s/www.voachinese.com/Content/Responsive/fonts/icons-font-1661417065025.woff') format("woff"),url('https://www-voachinese-com.cdn.ampproject.org/r/s/www.voachinese.com/Content/Responsive/fonts/icons-font-1661417065025.ttf') format("truetype");font-weight:normal;font-style:normal}.ico{background-repeat:no-repeat;font-family:"icons-font-1661417065025";display:inline-block;font-size:16px;font-weight:normal;font-style:normal;line-height:inherit;vertical-align:middle;speak:none;text-decoration:inherit;text-transform:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#fff;border:4px solid #fff;-webkit-box-sizing:content-box;box-sizing:content-box}.can-ff .ico{background-image:none;background-color:transparent;border:none;vertical-align:baseline;-webkit-box-sizing:border-box;box-sizing:border-box;width:auto;height:auto}a .ico{text-decoration:none}body.can-ff .ico-anchor:before{content:"\f101"}body.can-ff .ico-arrow-down:before{content:"\f102"}body.can-ff .ico-arrow-left:before,body.can-ff .ico-arrow-backward:before{content:"\f103"}body.can-ff .ico-arrow-right:before,body.can-ff .ico-arrow-forward:before{content:"\f104"}body.can-ff .ico-arrow-top-left:before,body.can-ff .ico-arrow-top-backward:before{content:"\f105"}body.can-ff .ico-arrow-top-right:before,body.can-ff .ico-arrow-top-forward:before{content:"\f106"}body.can-ff .ico-arrow-up:before{content:"\f107"}body.can-ff .ico-audio:before{content:"\f108"}body.can-ff .ico-audio-rounded:before{content:"\f109"}body.can-ff .ico-balatarin:before{content:"\f10a"}body.can-ff .ico-calendar:before{content:"\f10b"}body.can-ff .ico-camera:before{content:"\f10c"}body.can-ff .ico-caret-down:before{content:"\f10d"}body.can-ff .ico-caret-up:before{content:"\f10e"}body.can-ff .ico-castbox:before{content:"\f10f"}body.can-ff .ico-check:before{content:"\f110"}body.can-ff .ico-check-circle:before{content:"\f111"}body.can-ff .ico-check-circle-checked:before{content:"\f112"}body.can-ff .ico-chevron-down:before{content:"\f113"}body.can-ff .ico-chevron-left:before,body.can-ff .ico-chevron-backward:before{content:"\f114"}body.can-ff .ico-chevron-left-rounded:before,body.can-ff .ico-chevron-backward-rounded:before{content:"\f115"}body.can-ff .ico-chevron-right:before,body.can-ff .ico-chevron-forward:before{content:"\f116"}body.can-ff .ico-chevron-right-rounded:before,body.can-ff .ico-chevron-forward-rounded:before{content:"\f117"}body.can-ff .ico-chevron-up:before{content:"\f118"}body.can-ff .ico-clock:before{content:"\f119"}body.can-ff .ico-close:before{content:"\f11a"}body.can-ff .ico-comment:before{content:"\f11b"}body.can-ff .ico-content-copy:before{content:"\f11c"}body.can-ff .ico-document:before{content:"\f11d"}body.can-ff .ico-download:before{content:"\f11e"}body.can-ff .ico-ellipsis:before{content:"\f11f"}body.can-ff .ico-email:before{content:"\f120"}body.can-ff .ico-embed-code:before{content:"\f121"}body.can-ff .ico-exclamation:before{content:"\f122"}body.can-ff .ico-exit-fullscreen:before{content:"\f123"}body.can-ff .ico-facebook:before{content:"\f124"}body.can-ff .ico-facebook-alt:before{content:"\f125"}body.can-ff .ico-favourites:before{content:"\f126"}body.can-ff .ico-flag:before{content:"\f127"}body.can-ff .ico-fullscreen:before{content:"\f128"}body.can-ff .ico-gallery:before{content:"\f129"}body.can-ff .ico-gallery-rounded:before{content:"\f12a"}body.can-ff .ico-globe:before{content:"\f12b"}body.can-ff .ico-google-news:before{content:"\f12c"}body.can-ff .ico-google-podcast:before{content:"\f12d"}body.can-ff .ico-grid:before{content:"\f12e"}body.can-ff .ico-height-chevrons:before{content:"\f12f"}body.can-ff .ico-info:before{content:"\f130"}body.can-ff .ico-infographic:before{content:"\f131"}body.can-ff .ico-infographic-rounded:before{content:"\f132"}body.can-ff .ico-instagram:before{content:"\f133"}body.can-ff .ico-itunes:before{content:"\f134"}body.can-ff .ico-languages:before{content:"\f135"}body.can-ff .ico-line:before{content:"\f136"}body.can-ff .ico-linkedin:before{content:"\f137"}body.can-ff .ico-liveblog:before{content:"\f138"}body.can-ff .ico-livejournal:before{content:"\f139"}body.can-ff .ico-log-out:before{content:"\f13a"}body.can-ff .ico-logo-rfe:before{content:"\f13b"}body.can-ff .ico-logo-voa:before{content:"\f13c"}body.can-ff .ico-mailru:before{content:"\f13d"}body.can-ff .ico-map-pin:before{content:"\f13e"}body.can-ff .ico-meneame:before{content:"\f13f"}body.can-ff .ico-menu:before{content:"\f140"}body.can-ff .ico-minus:before{content:"\f141"}body.can-ff .ico-mobile:before{content:"\f142"}body.can-ff .ico-my-video:before{content:"\f143"}body.can-ff .ico-myworld:before{content:"\f144"}body.can-ff .ico-no-results:before{content:"\f145"}body.can-ff .ico-odnoklassniki:before{content:"\f146"}body.can-ff .ico-pause:before{content:"\f147"}body.can-ff .ico-pause-rounded:before{content:"\f148"}body.can-ff .ico-pinterest:before{content:"\f149"}body.can-ff .ico-play:before{content:"\f14a"}body.can-ff .ico-play-rounded:before{content:"\f14b"}body.can-ff .ico-playlist:before{content:"\f14c"}body.can-ff .ico-playlist-add:before{content:"\f14d"}body.can-ff .ico-plus:before{content:"\f14e"}body.can-ff .ico-podcast:before{content:"\f14f"}body.can-ff .ico-podcast-addict:before{content:"\f150"}body.can-ff .ico-podcast-republic:before{content:"\f151"}body.can-ff .ico-poll:before{content:"\f152"}body.can-ff .ico-pop-out:before{content:"\f153"}body.can-ff .ico-print:before{content:"\f154"}body.can-ff .ico-question:before{content:"\f155"}body.can-ff .ico-quiz:before{content:"\f156"}body.can-ff .ico-reddit:before{content:"\f157"}body.can-ff .ico-refresh:before{content:"\f158"}body.can-ff .ico-repeat:before{content:"\f159"}body.can-ff .ico-reply:before{content:"\f15a"}body.can-ff .ico-report:before{content:"\f15b"}body.can-ff .ico-rss:before{content:"\f15c"}body.can-ff .ico-search:before{content:"\f15d"}body.can-ff .ico-settings:before{content:"\f15e"}body.can-ff .ico-share:before{content:"\f15f"}body.can-ff .ico-skip-next:before{content:"\f160"}body.can-ff .ico-skip-previous:before{content:"\f161"}body.can-ff .ico-soundcloud:before{content:"\f162"}body.can-ff .ico-soundslide:before{content:"\f163"}body.can-ff .ico-spotify:before{content:"\f164"}body.can-ff .ico-square:before{content:"\f165"}body.can-ff .ico-stop:before{content:"\f166"}body.can-ff .ico-telegram:before{content:"\f167"}body.can-ff .ico-tv:before{content:"\f168"}body.can-ff .ico-twitter:before{content:"\f169"}body.can-ff .ico-ugc:before{content:"\f16a"}body.can-ff .ico-user:before{content:"\f16b"}body.can-ff .ico-user-rounded:before{content:"\f16c"}body.can-ff .ico-viber:before{content:"\f16d"}body.can-ff .ico-video:before{content:"\f16e"}body.can-ff .ico-vkontakte:before{content:"\f16f"}body.can-ff .ico-vkontakte-alt:before{content:"\f170"}body.can-ff .ico-volume-muted:before{content:"\f171"}body.can-ff .ico-volume-unmuted:before{content:"\f172"}body.can-ff .ico-whatsapp:before{content:"\f173"}body.can-ff .ico-width-chevrons:before{content:"\f174"}body.can-ff .ico-yandex-music:before{content:"\f175"}body.can-ff .ico-yandex-zen:before{content:"\f176"}body.can-ff .ico-youtube:before{content:"\f177"}.caption{color:#768492;font-size:14px;padding-top:8px;display:block}.wsw{padding-bottom:16px;font-size:16px;word-break:break-word}.wsw--wg{font-size:14px}.wsw__h1,.wsw__h2,.wsw__h3,.wsw__h4,.wsw__h5,.wsw__h6{margin-bottom:.75em}.wsw__h1,.wsw :not(.wsw__embed) h1:not([class]){font-size:30.4px}.wsw__h2,.wsw :not(.wsw__embed) h2:not([class]){font-size:24px}.wsw__h3,.wsw :not(.wsw__embed) h3:not([class]){font-size:20px}.wsw__h3:before,.wsw :not(.wsw__embed) h3:not([class]):before{content:"";border-left:3px solid #cbd1d6;margin-right:8px}.wsw__h4,.wsw :not(.wsw__embed) h4:not([class]){font-size:18px}.wsw__h5,.wsw :not(.wsw__embed) h5:not([class]){font-size:14px;color:#3a79b7;font-weight:bold}.wsw__h6,.wsw :not(.wsw__embed) h6:not([class]){font-size:13px}.wsw__h6:after,.wsw :not(.wsw__embed) h6:not([class]):after{content:"";border-bottom:1px dotted #cbd1d6;display:block;display:-webkit-box;display:-ms-flexbox;display:flex}.wsw p,.wsw ul,.wsw ol,.wsw__table,.wsw__table-container{margin-top:0;margin-bottom:24px}.wsw p.caption{margin-bottom:32px}.wsw__a,.wsw strong a{padding-bottom:.05em;border-bottom:1px solid #e8eaec}.wsw__a:hover,.wsw strong a:hover,.wsw__a:focus,.wsw strong a:focus{border-color:#3a79b7}.wsw .also-read{margin-bottom:24px}.wsw__table-container{display:block;width:100%;overflow:auto;word-break:normal}.wsw__table{border-collapse:collapse;border-spacing:0;border:1px solid #768492;width:100%}.wsw__table .wsw__embed{margin-bottom:16px}.wsw__table-container .wsw__table{margin-bottom:8px}.wsw th{text-align:left;border:1px solid #768492;padding:.2em;background-color:#f6f7f8}.wsw td{border:1px solid #768492;padding:.2em}.wsw .text-incorrect{text-decoration:line-through}.wsw:after{clear:both;content:"";display:block}.wsw>ul,.wsw>:not(.wsw__embed) ul:not([class]),.wsw>.cke_editable>ul,.wsw__ul{position:relative;left:20px;max-width:calc( 100% - 20px)}.wsw>ul>li,.wsw>ul .wsw__ul-li,.wsw>:not(.wsw__embed) ul:not([class])>li,.wsw>:not(.wsw__embed) ul:not([class]) .wsw__ul-li,.wsw>.cke_editable>ul>li,.wsw>.cke_editable>ul .wsw__ul-li,.wsw__ul>li,.wsw__ul .wsw__ul-li{padding-right:16px;margin-bottom:8px}.wsw>ul>li:before,.wsw>ul .wsw__ul-li:before,.wsw>:not(.wsw__embed) ul:not([class])>li:before,.wsw>:not(.wsw__embed) ul:not([class]) .wsw__ul-li:before,.wsw>.cke_editable>ul>li:before,.wsw>.cke_editable>ul .wsw__ul-li:before,.wsw__ul>li:before,.wsw__ul .wsw__ul-li:before{content:'\2022';color:#3a79b7;font-size:1.5em;line-height:.75em;vertical-align:middle;margin-left:-20px;width:20px;display:inline-block}.wsw>ul ul,.wsw>:not(.wsw__embed) ul:not([class]) ul,.wsw>.cke_editable>ul ul,.wsw__ul ul{margin-bottom:0;margin-top:8px}.wsw>ol,.wsw>:not(.wsw__embed) ol:not([class]),.wsw>.cke_editable>ol,.wsw__ol{position:relative;left:20px;counter-reset:section}.wsw>ol>li,.wsw>ol .wsw__ol-li,.wsw>:not(.wsw__embed) ol:not([class])>li,.wsw>:not(.wsw__embed) ol:not([class]) .wsw__ol-li,.wsw>.cke_editable>ol>li,.wsw>.cke_editable>ol .wsw__ol-li,.wsw__ol>li,.wsw__ol .wsw__ol-li{padding-right:16px;margin-bottom:8px;counter-increment:section}.wsw>ol>li:before,.wsw>ol .wsw__ol-li:before,.wsw>:not(.wsw__embed) ol:not([class])>li:before,.wsw>:not(.wsw__embed) ol:not([class]) .wsw__ol-li:before,.wsw>.cke_editable>ol>li:before,.wsw>.cke_editable>ol .wsw__ol-li:before,.wsw__ol>li:before,.wsw__ol .wsw__ol-li:before{color:#a1aab4;content:counter(section) ". ";margin-left:-20px;padding-right:8px}.wsw>ol ol,.wsw>:not(.wsw__embed) ol:not([class]) ol,.wsw>.cke_editable>ol ol,.wsw__ol ol{margin-bottom:0;margin-top:8px}.cover-media{padding-bottom:32px}.cover-media--liveblog{padding-bottom:8px}.cover-media--liveblog .media-pholder{padding-bottom:0}.media-pholder{padding-bottom:32px}.media-pholder:after{display:table;content:"";clear:both}.media-pholder--embed{padding-bottom:0}.media-pholder a:hover img{opacity:.95}.media-pholder .media-download .simple-menu{z-index:11}.media-pholder .thumb .duration{position:absolute;bottom:0;right:0;line-height:1;background-color:rgba(0,0,0,0.5);color:#fff;padding:8px}.media-pholder.media-player .ico-action.ico{position:absolute;display:block;cursor:pointer;top:50%;left:50%;opacity:.7;text-align:center;vertical-align:middle;color:#fff;font-size:80px;line-height:1em;text-shadow:2px 2px 8px rgba(0,0,0,0.5)}body.can-ff .media-pholder.media-player .ico-action.ico{background:transparent;margin-left:-40px;margin-top:-40px}.media-pholder.media-link .ico{position:absolute;left:0;top:0;color:#fff;text-align:center}body.can-ff .media-pholder.media-link .ico{background:rgba(0,0,0,0.7);width:40px;font-size:20px;padding:4px}body.can-ff .media-pholder.media-link:hover .ico{background:#000;color:#fff}body.amp-pg .media-pholder.media-link .ico{z-index:1}.media-pholder .btn-popout-player{display:none}.media-pholder .btn-popout-player .ico{margin-right:2px}.media-pholder:hover .ico{opacity:.9}.media-pholder+.media-block__content{margin-top:0}@media (min-width: 992px){body.can-ff .media-pholder.media-link .ico{width:64px;font-size:32px;padding:6.4px}}.media-block{word-wrap:break-word}.media-block .img-wrap{display:block;width:100%;position:relative;padding-bottom:12px}.media-block .img-wrap .thumb.thumb16_9{height:0;padding-bottom:56.25%;overflow:hidden;background-color:#f6f7f8;background-image:url('https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/amp/img/image-placeholder.svg');background-repeat:no-repeat;background-position:center center}.special-sidebar .media-block .img-wrap .thumb.thumb16_9{background-color:#fff}.media-block .img-wrap .ico{position:absolute;left:0;top:0;color:#fff;text-align:center}body.can-ff .media-block .img-wrap .ico{background-color:black;background:rgba(0,0,0,0.7);padding:1px;width:26px}body.can-ff .media-block .img-wrap:hover .ico{background:#000;color:#fff}body.amp-page .media-block .img-wrap .ico{z-index:1}.media-block h4,.media-block li{color:#222f3a;line-height:1.3875;padding-bottom:8px;vertical-align:baseline}.media-block h4 .ico,.media-block li .ico{color:#768492;margin-right:5px;vertical-align:middle}body.can-ff .media-block h4 .ico,body.can-ff .media-block li .ico{vertical-align:baseline}.media-block p{margin-bottom:8px;color:#000}.media-block .category,.media-block .label,.media-block .date,.media-block .date--relative,.media-block .date--time{display:block;font-size:14px;color:#a1aab4;text-transform:uppercase;padding-bottom:4px}.media-block .date{word-wrap:normal}.media-block .date--relative{text-transform:none}.media-block .category{color:#3a79b7;text-decoration:none}.media-block a.category:hover,.media-block a.category:focus{color:#3a79b7;text-decoration:underline}.indent-time .media-block .date--time{float:left;width:88px}.media-block a:hover h4{color:#3a79b7}.media-block a:hover .category{color:#808080}.media-block a:hover p{color:#000}.media-block.size-4 .category,.media-block.size-4 .label,.media-block.size-4 .date,.media-block.size-4 .date--relative,.media-block.size-4 .time{font-size:13px}.media-block.size-4 h4{font-size:14px}.media-block.size-4 h4 .ico{line-height:16.8px;height:16.8px}.media-block.size-4 p{font-size:13px}.media-block.horizontal.media-block--has-img .content{margin-left:38.5%;word-wrap:break-word}.author .media-block.horizontal.media-block--has-img .content,.col-xs-vertical .media-block.horizontal.media-block--has-img .content{margin-left:0}.media-block.horizontal .img-wrap{width:35%;float:left;margin-right:10px}.col-xs-vertical .media-block.horizontal .img-wrap{width:100%;margin-right:0}.media-pholder{padding-bottom:8px}.media-block-wrap{margin-bottom:16px}.media-block-wrap .media-block{border-bottom:1px dotted #e8eaec;margin-top:12px}.media-block-wrap .col-xs-12:nth-last-of-type(1)>.media-block{border-bottom:0}.foot{background-color:#3a79b7;margin-top:16px;padding-bottom:16px}.foot .copyright{font-size:13px;color:#ebebeb;float:right}.hdr{border-top:5px solid #3a79b7;border-bottom:5px solid #3a79b7;background-color:#ebebeb;min-height:60px}.hdr .container{padding:10px 0;height:60px;position:relative;text-align:center}.hdr .logo-link{height:40px}.hdr .navigationToggle{position:absolute;top:0;right:0;margin:16px;vertical-align:middle;color:#3a79b7;background-image:none;background-color:#ebebeb;border:0}.hdr .navigationToggle .ico{font-size:24px;line-height:24px;margin-right:0}.tealium-float{float:left}amp-sidebar{background-color:#fff;-webkit-box-shadow:0 0 15px #768492;box-shadow:0 0 15px #768492}amp-sidebar .navigationToggle{display:block;width:100%;margin:0;padding:8px;vertical-align:middle;color:#3a79b7;background-image:none;background-color:#e5e5e5;border:0;border-bottom:1px solid #bfbfbf;font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px}amp-sidebar .navigationToggle .ico{font-size:24px;line-height:24px;float:right;margin-left:8px;margin-right:0}amp-sidebar .navigationToggle span{display:block;float:right;margin-top:4px;text-transform:uppercase}amp-sidebar #navigation{clear:both;padding:0 8px}amp-sidebar #navigation ul.items .item{display:block}amp-sidebar #navigation ul.items .item .handler{display:block;padding:12px 10px;color:#333;background:#fff;border-top:1px solid #a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px}amp-sidebar #navigation ul.items li:first-child .handler{border-top:0}amp-sidebar #navigation .media ul.items li.item .handler{background:#fff;color:#333;border-top-color:#a1aab4;border-bottom-color:#a1aab4;border-bottom:0;padding:12px 10px}amp-sidebar #navigation .media ul.items li.item .handler .ico{color:#3a79b7;font-size:24px;line-height:24px}amp-sidebar #navigation .media ul.items li.item:first-of-type a{border:0}amp-sidebar #navigation ul.subitems{border-bottom:1px solid #a1aab4}amp-sidebar #navigation ul.subitems li.subitem{position:relative;padding:0;display:block}amp-sidebar #navigation ul.subitems li.subitem .handler{color:#333;padding-left:20px;border-top:1px solid #a1aab4;background:#fff}amp-sidebar #navigation ul.subitems li.subitem .handler:before{position:absolute;left:10px;top:8px;bottom:8px;content:"";display:block;width:1px;border-left:2px solid #bdc4ca}amp-sidebar #navigation ul.subitems li.subitem:first-of-type a{border:0}.foot-nav{clear:both;margin-bottom:16px}.foot-nav ul.items{clear:both;list-style-type:none;margin-left:-12px;margin-right:-12px;border-bottom:1px solid #639cdc}.foot-nav ul.items>li{border-top:1px solid #639cdc}.foot-nav ul.items>li:first-of-type{border-top:0}.foot-nav ul.items>li a,.foot-nav ul.items>li span.handler{text-align:left;position:relative;display:block;color:#a6d0f4;padding:12px 12px;margin:0;cursor:pointer;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px;text-transform:none;vertical-align:bottom}.foot-nav ul.items>li.socials .inner ul.follow{padding:8px 12px;float:none}.foot-nav ul.items>li.socials .inner ul.subitems li{border-top:none}.foot-nav ul.items>li.socials .inner li{background-color:transparent;padding:0}.foot-nav ul.items>li.socials .inner li:hover{background-color:transparent}.foot-nav ul.items>li.socials .inner li .btn{background-color:#fff;color:#768492;text-align:center;padding:0;float:left;margin-right:12px;margin-bottom:12px}.foot-nav ul.items>li.socials .inner li .btn .ico{font-size:inherit}.foot-nav ul.items>li.socials .inner li .btn .ico,.foot-nav ul.items>li.socials .inner li .btn .ico:before{color:#768492}.foot-nav ul.items>li.socials .inner li .btn:hover,.foot-nav ul.items>li.socials .inner li .btn:focus,.foot-nav ul.items>li.socials .inner li .btn:active{background-color:#768492;color:#ebebeb}.foot-nav ul.items>li.socials .inner li .btn:hover .ico,.foot-nav ul.items>li.socials .inner li .btn:hover .ico:before,.foot-nav ul.items>li.socials .inner li .btn:focus .ico,.foot-nav ul.items>li.socials .inner li .btn:focus .ico:before,.foot-nav ul.items>li.socials .inner li .btn:active .ico,.foot-nav ul.items>li.socials .inner li .btn:active .ico:before{color:#ebebeb}.foot-nav ul.items>li ul.subitems li{padding:8px 12px;border-top:1px solid #639cdc;background-color:#3a79b7}.foot-nav ul.items>li ul.subitems li a{color:#ebebeb;border-left:2px solid #639cdc;padding:4px 12px}.foot-nav ul.items>li ul.subitems li a:hover{color:#ebebeb}.foot-nav ul.items>li ul.follow li .btn{border-left:0}.back-to-top-nav{text-align:right}.back-to-top-nav.disabled{margin:16px 0 -15px 0;padding:8px 0;background:#f6f7f8;color:#222f3a}.back-to-top-nav.disabled .back-to-top-link{color:#222f3a}.back-to-top-nav.disabled .back-to-top-link:hover{color:#3a79b7}.back-to-top-nav.disabled .back-to-top-link .ico{margin-right:0;margin-left:5px}.js .back-to-top-nav a.back-to-top-link{display:block;z-index:20;padding:12px;position:fixed;bottom:12px;right:12px;background:#222f3a;color:#ebebeb;opacity:.8;filter:alpha(opacity=80);-webkit-transition-property:right;transition-property:right;-webkit-transition-duration:1s;transition-duration:1s}.js .back-to-top-nav a.back-to-top-link:hover{opacity:1;filter:alpha(opacity=100)}.js .back-to-top-nav a.back-to-top-link .ico{margin-right:0;width:16px;height:16px;line-height:16px}.js .back-to-top-nav a.back-to-top-link span.text{display:none}.js .back-to-top-nav a.back-to-top-link.not-used{right:-100%}@media (min-width: 320px){.js .back-to-top-nav a.back-to-top-link{display:none}}.backgrounder{background-color:#f6f7f8;padding:16px;margin-bottom:32px;border-radius:3px}.backgrounder .wsw p{font-size:14px}.backgrounder .wsw .caption{font-size:13px}.backgrounder .embedded-audio h5{font-size:18px}.can-ff .backgrounder .embedded-audio h5 .ico{font-size:42px;line-height:42px;width:42px;height:42px;margin-right:8px}.article .media-elem{padding-bottom:16px}.article .media-elem+p.caption{margin-top:-8px}.article .also-read{display:block;margin-bottom:32px}.article .also-read span{font-size:18px;color:#222f3a}.article .also-read+.also-read{margin-top:-24px}.article .category{color:#a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:16px;text-transform:uppercase;margin-bottom:16px}.article .category a,.article .category a:visited{color:#3a79b7}.article h1{margin-bottom:16px}.article .publishing-details{font-size:14px;padding-bottom:11.2px}.article .publishing-details .published{float:left;padding-right:1em;padding-bottom:.5em}.article .publishing-details .published .date{color:#a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.article .publishing-details .authors{padding-right:.6em}.article .publishing-details .authors ul li{float:left;list-style-type:none;display:block;margin-right:1em;padding-bottom:8px}.article .article-hdr{padding:16px 0}.article .article-hdr.article-hdr_asim{padding:0}.article .article-body{padding-bottom:32px}.lightbox-close{margin:15px;float:right;font-size:150%}.media-hdr{background:#222f3a;padding:16px 0;color:#ebebeb;margin-bottom:40px}.media-hdr .media-elem{padding-bottom:0}.media-hdr .caption{color:#ebebeb;margin-bottom:32px}.media-hdr:not(.photogallery) .intro{margin-top:24px}.widgets{margin-bottom:40px}
+</style><title>中国式现代化: 习连任后的中国向何处去？</title><link href=https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html rel=canonical><script type=application/ld+json>
+{"articleSection":"中国","headline":"中国式现代化: 习连任后的中国向何处去？","author":{"@type":"Person","name":"许波"},"datePublished":"2022-10-19","dateModified":"2022-10-19 20:14:18Z","publisher":{"logo":{"width":150,"height":60,"@type":"ImageObject","url":"https://www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg"},"@type":"Organization","url":"https://www.voachinese.com","sameAs":["https://www.facebook.com/voachinese","https://twitter.com/voachinese","https://www.youtube.com/voachinese","https://www.instagram.com/voachinese/","/rssfeeds","/podcasts","/subscribe.html"],"name":"美国之音"},"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg"}}
+</script><meta content=2 name=runtime-type></head><body class="can-ff amp-pg" dir=ltr>
+<div class=tealium-float>
+<amp-iframe class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" frameborder=0 height=1 i-amphtml-layout=fixed layout=fixed sandbox="allow-scripts allow-same-origin" src="https://livetracker.voa.pangea-cms.com/Tealium.aspx?pangeasiteid=412&amp;canonical_url=https%3A%2F%2Fwww.voachinese.com%2Fa%2Fxi-jinping-mutual-prosperity-20221019%2F6796624.html&amp;article_uid=6796624&amp;headline=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;byline=%E8%AE%B8%E6%B3%A2&amp;pub_hour=17&amp;pub_day=19&amp;pub_month=10&amp;pub_year=2022&amp;domain=article&amp;content_type=article&amp;entity=VOA&amp;language=Mandarin&amp;language_service=VOA%20Mandarin&amp;platform=googleAMP&amp;platform_short=GA&amp;property_id=521&amp;short_language_service=MAN&amp;section=%E4%B8%AD%E5%9B%BD&amp;page_name=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;page_title=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;page_type=article&amp;subcontent_type=article&amp;enviro_type=prod&amp;srvr=www.voachinese.com&amp;chn=%2Fa%2F" style=width:1px;height:1px; width=1>
+<amp-img class="i-amphtml-layout-fill i-amphtml-layout-size-defined" height=1 i-amphtml-layout=fill layout=fill placeholder src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/spacer.gif width=1></amp-img>
+</amp-iframe>
+</div>
+<amp-pixel class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=6796624&amp;SiteId=412&amp;r=163927643&amp;it=0&amp;pd=20221019171239" style=width:1px;height:1px;></amp-pixel>
+<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=chartbeat>
+<script type=application/json>
+{
+"vars":
+{
+"uid": "62557",
+"domain": "voa.china",
+"sections": "voachinese.com",
+"authors": "许波"
 }
 }
 </script>
-<!--Analytics tag js version start-->
-<script type="text/javascript" data-cookiecategory="analytics">
-var utag_data={entity:"VOA",language:"Mandarin",language_service:"VOA Mandarin",short_language_service:"MAN",property_id:"521",platform:"responsive",platform_short:"R",runs_js:"Yes",page_title:"中国式现代化: 习连任后的中国向何处去？",page_type:"article",page_name:"中国式现代化: 习连任后的中国向何处去？",short_headline:"中国式现代化: 习连任后的中国向何处去？",long_headline:"中国式现代化: 习连任后的中国向何处去？",headline:"中国式现代化: 习连任后的中国向何处去？",content_type:"article",subcontent_type:"article",enviro_type:"prod",url:"https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html",domain:"www.voachinese.com",pub_year:"2022",pub_month:"10",pub_day:"19",pub_hour:"17",pub_minute:"12",pub_weekday:"Wednesday",dateline:"",byline:"许波",categories:"china,the-20th-communist-party-congress",tags:"",slug:"xi-jinping-mutual-prosperity-20221019",section:"中国",english_section:"china",article_uid:"6796624"};
-if(typeof(TealiumTagFrom)==='function' && typeof(TealiumTagSearchKeyword)==='function') {
-var utag_from=TealiumTagFrom();var utag_searchKeyword=TealiumTagSearchKeyword();
-if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyword"]==null) utag_data["search_keyword"]=utag_searchKeyword;if(utag_from!=null && utag_from!=='') utag_data["from"]=TealiumTagFrom();}
-if(window.top!== window.self&&utag_data.page_type==="snippet"){utag_data.page_type = 'iframe';}
-(function(a,b,c,d){ a="https://tags.tiqcdn.com/utag/bbg/voa-pangea/prod/utag.js"; b=document;c="script";d=b.createElement(c);d.src=a;d.type="text/java"+c;d.async=true; a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a); })();
-</script>
-<!--Analytics tag js version end-->
-<!-- Analytics tag management NoScript -->
-<noscript>
-<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoamandarin-bbgprod-bbgentityvoa-bbgunitvoamandarin/1/G.4--NS/1076522810?pageName=voa%3aman%3ar%3aarticle%3a%e4%b8%ad%e5%9b%bd%e5%bc%8f%e7%8e%b0%e4%bb%a3%e5%8c%96%3a%20%e4%b9%a0%e8%bf%9e%e4%bb%bb%e5%90%8e%e7%9a%84%e4%b8%ad%e5%9b%bd%e5%90%91%e4%bd%95%e5%a4%84%e5%8e%bb%ef%bc%9f&amp;c6=%e4%b8%ad%e5%9b%bd%e5%bc%8f%e7%8e%b0%e4%bb%a3%e5%8c%96%3a%20%e4%b9%a0%e8%bf%9e%e4%bb%bb%e5%90%8e%e7%9a%84%e4%b8%ad%e5%9b%bd%e5%90%91%e4%bd%95%e5%a4%84%e5%8e%bb%ef%bc%9f&amp;v6=D=c6&amp;g=https%3a%2f%2fwww.voachinese.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=%e4%b8%ad%e5%9b%bd%e5%bc%8f%e7%8e%b0%e4%bb%a3%e5%8c%96%3a%20%e4%b9%a0%e8%bf%9e%e4%bb%bb%e5%90%8e%e7%9a%84%e4%b8%ad%e5%9b%bd%e5%90%91%e4%bd%95%e5%a4%84%e5%8e%bb%ef%bc%9f&amp;v7=D=c7&amp;c16=voa%20mandarin&amp;v16=D=c16&amp;c5=china&amp;v5=D=c5&amp;ch=mandarin&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=6796624&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
-<!-- End of Analytics tag management NoScript -->
-<div class="google-translate-container">
-<div id="google_translate_element" data-page-language="zh-CN" data-included-languages="zh-CN,zh-TW"></div>
-</div>
-<!--*** Accessibility links - For ScreenReaders only ***-->
-<section>
-<div class="sr-only">
-<h2>无障碍链接</h2>
-<ul>
-<li><a href="#content" data-disable-smooth-scroll="1">跳转到内容</a></li>
-<li><a href="#navigation" data-disable-smooth-scroll="1">跳转到导航</a></li>
-<li><a href="#txtHeaderSearch" data-disable-smooth-scroll="1">跳转到检索</a></li>
-</ul>
-</div>
-</section>
-<div dir="ltr">
-<div id="page">
-<aside>
-<div class="c-lightbox overlay-modal">
-<div class="c-lightbox__intro">
-<h2 class="c-lightbox__intro-title"></h2>
-<button class="btn btn--rounded c-lightbox__btn c-lightbox__intro-next" title="下一页">
-<span class="ico ico--rounded ico-chevron-forward"></span>
-<span class="sr-only">下一页</span>
-</button>
-</div>
-<div class="c-lightbox__nav">
-<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--close" title="关闭">
-<span class="ico ico--rounded ico-close"></span>
-<span class="sr-only">关闭</span>
-</button>
-<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--prev" title="上一页">
-<span class="ico ico--rounded ico-chevron-backward"></span>
-<span class="sr-only">上一页</span>
-</button>
-<button class="btn btn--rounded c-lightbox__btn c-lightbox__btn--next" title="下一页">
-<span class="ico ico--rounded ico-chevron-forward"></span>
-<span class="sr-only">下一页</span>
-</button>
-</div>
-<div class="c-lightbox__content-wrap">
-<figure class="c-lightbox__content">
-<span class="c-spinner c-spinner--lightbox">
-<img src="/Content/responsive/img/player-spinner.png"
-alt="请稍等"
-title="请稍等" />
-</span>
-<div class="c-lightbox__img">
-<div class="thumb">
-<img src="" alt="" />
-</div>
-</div>
-<figcaption>
-<div class="c-lightbox__info c-lightbox__info--foot">
-<span class="c-lightbox__counter"></span>
-<span class="caption c-lightbox__caption"></span>
-</div>
-</figcaption>
-</figure>
-</div>
-</div>
-<div class="print-dialogue">
-<div class="container">
-<h3 class="print-dialogue__title section-head">Print Options:</h3>
-<div class="print-dialogue__opts">
-<ul class="print-dialogue__opt-group">
-<li class="form__group form__group--checkbox">
-<input class="form__check " id="checkboxImages" name="checkboxImages" type="checkbox" checked="checked" />
-<label for="checkboxImages" class="form__label m-t-md">图片</label>
-</li>
-<li class="form__group form__group--checkbox">
-<input class="form__check " id="checkboxMultimedia" name="checkboxMultimedia" type="checkbox" checked="checked" />
-<label for="checkboxMultimedia" class="form__label m-t-md">Multimedia</label>
-</li>
-</ul>
-<ul class="print-dialogue__opt-group">
-<li class="form__group form__group--checkbox">
-<input class="form__check " id="checkboxEmbedded" name="checkboxEmbedded" type="checkbox" checked="checked" />
-<label for="checkboxEmbedded" class="form__label m-t-md">Embedded Content</label>
-</li>
-<li class="hidden">
-<input class="form__check " id="checkboxComments" name="checkboxComments" type="checkbox" />
-<label for="checkboxComments" class="form__label m-t-md">评论</label>
-</li>
-</ul>
-</div>
-<div class="print-dialogue__buttons">
-<button class="btn btn--secondary close-button" type="button" title="取消">
-<span class="btn__text ">取消</span>
-</button>
-<button class="btn btn-cust-print m-l-sm" type="button" title="打印">
-<span class="btn__text ">打印</span>
-</button>
-</div>
-</div>
-</div>
-<div class="ctc-message pos-fix">
-<div class="ctc-message__inner">Link has been copied to clipboard</div>
-</div>
-</aside>
-<div class="hdr-20 hdr-20--big">
-<div class="hdr-20__inner">
-<div class="hdr-20__max pos-rel">
-<div class="hdr-20__side hdr-20__side--primary d-flex">
-<input type="checkbox" id="main-menu-ctrl" class="hidden main-menu-switch">
-<label for="main-menu-ctrl" class="burger hdr-trigger pos-rel trans-trigger" data-trans-evt="click" data-trans-id="menu">
-<span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close burger__ico burger__ico--close"></span>
-<span class="ico ico-menu hdr-trigger__ico hdr-trigger__ico--open burger__ico burger__ico--open"></span>
-</label>
-<div class="menu-pnl pos-fix trans-target" data-trans-id="menu">
-<div class="menu-pnl__inner">
-<nav class="main-nav menu-pnl__item menu-pnl__item--first">
-<ul class="main-nav__list accordeon" data-analytics-tales="false" data-promo-name="link" data-location-name="nav,secnav">
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/p/6188.html" title="主页" data-item-name="m-home-2" >主页</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/p/6317.html" title="美国" data-item-name="USNews" >美国</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/China" title="中国" data-item-name="ChinaNews" >中国</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/Taiwan" title="台湾" data-item-name="TaiwanNews" >台湾</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/p/7681.html" title="港澳" data-item-name="HongKongMacau" >港澳</a>
-</li>
-<li class="main-nav__item accordeon__item">
-<input type="checkbox" id="menu-item-1772" class="hidden main-nav__ctrl accordeon__control" checked="checked" />
-<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-1772">
-国际
-<span class="ico ico-chevron-down main-nav__chev"></span>
-</label>
-<div class="main-nav__sub-list">
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6143.html" title="最新国际新闻" data-item-name="WorldNews" >最新国际新闻</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1745" title="亚太" data-item-name="asia-pacific" >亚太</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1759" title="中东" data-item-name="middle-east" >中东</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1753" title="欧洲" data-item-name="europe" >欧洲</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1741" title="非洲" data-item-name="africa" >非洲</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1742" title="美洲" data-item-name="latin-america" >美洲</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5374" title="全球议题" data-item-name="global-issues" >全球议题</a>
-</div>
-</li>
-<li class="main-nav__item accordeon__item">
-<input type="checkbox" id="menu-item-1887" class="hidden main-nav__ctrl accordeon__control" checked="checked" />
-<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-1887">
-分类新闻
-<span class="ico ico-chevron-down main-nav__chev"></span>
-</label>
-<div class="main-nav__sub-list">
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1748" title="经济&#183;金融&#183;贸易" data-item-name="economics-trade" >经济&#183;金融&#183;贸易</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5120" title="人权&#183;法律&#183;宗教" data-item-name="rights-law-religions" >人权&#183;法律&#183;宗教</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/5679" title="科教&#183;文娱&#183;体健" data-item-name="science-education-culture-entertainment-sports-health" >科教&#183;文娱&#183;体健</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1772" title="军事" data-item-name="military" >军事</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2191" title="劳工" data-item-name="labor" >劳工</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1752" title="环境" data-item-name="environment" >环境</a>
-</div>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/p/5625.html" title="美中关系" data-item-name="USChinaRelations" >美中关系</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/p/8549.html" title="2022年终报道" data-item-name="yearender2022" >2022年终报道</a>
-</li>
-<li class="main-nav__item accordeon__item">
-<input type="checkbox" id="menu-item-1869" class="hidden main-nav__ctrl accordeon__control" checked="checked" />
-<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-1869">
-热点专题
-<span class="ico ico-chevron-down main-nav__chev"></span>
-</label>
-<div class="main-nav__sub-list">
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/5625.html" title="美中关系" data-item-name="USChinaRelations" >美中关系</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/3874" title="年终报道" data-item-name="yearender" >年终报道</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/UkraineCrisis" title="乌克兰局势" data-item-name="Ukraine-Crisis" >乌克兰局势</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6107.html" title="国会报道" data-item-name="Capitol-Report-interviews-congress" >国会报道</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/PressFreedom" title="新闻自由" data-item-name="PressFreedom" >新闻自由</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/7646.html" title="新冠病毒疫情" data-item-name="COVID-19" >新冠病毒疫情</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6097.html" title="台海两岸关系" data-item-name="CrossStraitRelations" >台海两岸关系</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/5626.html" title="南中国海争端" data-item-name="SouthChinaSeaDisputes" >南中国海争端</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/Refugees" title="难民问题" data-item-name="refugees" >难民问题</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/5966.html" title="朝鲜半岛局势" data-item-name="NorthKoreaNuclearCrisis" >朝鲜半岛局势</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2393" title="新疆西藏问题" data-item-name="xinjiang-tibet" >新疆西藏问题</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/p/6138.html" title="美国之音专访" data-item-name="Interviews" >美国之音专访</a>
-</div>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/Factcheck" title="揭谎频道" data-item-name="Polygraph" >揭谎频道</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/p/3854.html" title="VOA卫视" data-item-name="proandconVideos" >VOA卫视</a>
-</li>
-<li class="main-nav__item accordeon__item">
-<input type="checkbox" id="menu-item-870" class="hidden main-nav__ctrl accordeon__control" checked="checked" />
-<label class="main-nav__item-name main-nav__item-name--label accordeon__control-label" for="menu-item-870">
-音频
-<span class="ico ico-chevron-down main-nav__chev"></span>
-</label>
-<div class="main-nav__sub-list">
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/3637" title="时事大家谈" data-item-name="IssuesAndOpinions-audio" >时事大家谈</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/1738" title="新闻及采访音频" data-item-name="audio" >新闻及采访音频</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/3514" title="学英语音频" data-item-name="English-Learning-audios" >学英语音频</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2370" title="下午5-6点广播(英语教学)" data-item-name="radio-5-6-pm" >下午5-6点广播(英语教学)</a>
-<a class="main-nav__item-name main-nav__item-name--link main-nav__item-name--sub" href="/z/2372" title="晚上6-7点广播(时事经纬)" data-item-name="WindowOnTheWorld" >晚上6-7点广播(时事经纬)</a>
-</div>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="/p/4889.html" title="上网办法" data-item-name="Proxies" >上网办法</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="https://www.voachinese.com/p/program-schedule.html" title="节目表" target="_blank" rel="noopener">节目表</a>
-</li>
-<li class="main-nav__item">
-<a class="main-nav__item-name main-nav__item-name--link" href="https://www.voachinese.com/live/video/" title="直播" >直播</a>
-</li>
-</ul>
-</nav>
-<div class="menu-pnl__item menu-pnl__item--social">
-<h5 class="menu-pnl__sub-head">关注我们</h5>
-<a href="https://www.facebook.com/voachinese" title="在脸书关注我们" data-analytics-text="follow_on_facebook" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-facebook" target="_blank" rel="noopener">
-<span class="ico ico-facebook-alt ico--rounded"></span>
+</amp-analytics>
+<div id=page>
+<header class=hdr>
+<div class=container>
+<a class=logo-link href=https://www.voachinese.com/ target=_top>
+<amp-img alt=logo class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=40 i-amphtml-layout=fixed layout=fixed src=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg srcset="https://www-voachinese-com.cdn.ampproject.org/ii/w150/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 150w, https://www-voachinese-com.cdn.ampproject.org/ii/w330/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 330w, https://www-voachinese-com.cdn.ampproject.org/ii/w470/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 470w" style=width:150px;height:40px; width=150>
+</amp-img>
+<noscript></noscript>
 </a>
-<a href="https://twitter.com/voachinese" title="在推特上关注我们" data-analytics-text="follow_on_twitter" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-twitter" target="_blank" rel="noopener">
-<span class="ico ico-twitter ico--rounded"></span>
-</a>
-<a href="https://www.youtube.com/voachinese" title="在YouTube上关注我们" data-analytics-text="follow_on_youtube" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-youtube" target="_blank" rel="noopener">
-<span class="ico ico-youtube ico--rounded"></span>
-</a>
-<a href="https://www.instagram.com/voachinese/" title="在Instagram上关注我们" data-analytics-text="follow_on_instagram" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-instagram" target="_blank" rel="noopener">
-<span class="ico ico-instagram ico--rounded"></span>
-</a>
-<a href="http://bit.ly/VOAgooglenews" title="欢迎通过&quot;谷歌新闻&quot;关注@美国之音中文网 - VOA Mandarin" data-analytics-text="follow_on_google_news" class="btn btn--rounded btn--social-inverted menu-pnl__btn js-social-btn btn-g-news" target="_blank" rel="noopener">
-<span class="ico ico-google-news ico--rounded"></span>
-</a>
+<button class=navigationToggle on=tap:primaryNavigation.toggle tabindex=0><span class="ico ico-menu"></span></button>
 </div>
-<div class="menu-pnl__item">
-<a href="/navigation/allsites" class="menu-pnl__item-link">
-<span class="ico ico-languages "></span>
-其他语言网站
-</a>
+</header>
+<main id=content role=main>
+<article class=article>
+<header class=article-hdr>
+<div class=container>
+<div class=category>
+<a href=https://www.voachinese.com/z/1757 target=_top>中国</a>
 </div>
-</div>
-</div>
-<input type="checkbox" id="top-search-ctrl" class="hidden top-search-switch">
-<label for="top-search-ctrl" class="top-srch-trigger hdr-trigger">
-<span class="ico ico-close hdr-trigger__ico hdr-trigger__ico--close top-srch-trigger__ico top-srch-trigger__ico--close"></span>
-<span class="ico ico-search hdr-trigger__ico hdr-trigger__ico--open top-srch-trigger__ico top-srch-trigger__ico--open"></span>
-</label>
-<div class="srch-top">
-<div class="container">
-<form action="/s" class="srch-top__form" id="form-headerSearch" method="get" role="search"><label for="txtHeaderSearch" class="sr-only">检索</label>
-<input type="text" id="txtHeaderSearch" name="k" placeholder="检索" accesskey="s" value="" class="srch-top__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }" />
-<button title="检索" type="submit" class="btn btn--top-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
-<span class="ico ico-search"></span>
-</button></form>
-</div>
-</div>
-<a href="/" class="main-logo-link">
-<img src="/Content/responsive/VOA/zh-CN/img/logo-compact.svg" class="main-logo main-logo--comp" alt="site logo">
-<img src="/Content/responsive/VOA/zh-CN/img/logo.svg" class="main-logo main-logo--big" alt="site logo">
-</a>
-</div>
-<div class="hdr-20__side hdr-20__side--secondary d-flex">
-<a href="/p/3854.html" title="Video" class="hdr-20__secondary-item" data-item-name="video">
-<span class="ico ico-video hdr-20__secondary-icon"></span>
-</a>
-<a href="/z/2372" title="Audio" class="hdr-20__secondary-item" data-item-name="audio">
-<span class="ico ico-audio hdr-20__secondary-icon"></span>
-</a>
-<a class="hdr-20__secondary-item hdr-20__secondary-item--search" data-item-name="search">
-<span class="ico ico-search hdr-20__secondary-icon hdr-20__secondary-icon--search"></span>
-</a>
-<div class="hdr-20__secondary-item live-b-drop">
-<div class="live-b-drop__off">
-<a href="https://www.voachinese.com/live/audio/46" class="live-b-drop__link" title="Live" data-item-name="live">
-<span class="badge badge--live-btn badge--live">
-Live
-</span>
-</a>
-</div>
-<div class="live-b-drop__on hidden">
-<input type="checkbox" id="live-ctrl" class="hidden live-b-drop__switch" />
-<label for="live-ctrl" class="live-b-drop__label pos-rel">
-<span class="badge badge--live badge--live-btn">
-Live
-</span>
-<span class="ico ico-close live-b-drop__label-ico live-b-drop__label-ico--close"></span>
-</label>
-<div class="live-b-drop__panel" id="targetLivePanelDiv"></div>
-</div>
-</div>
-<div class="srch-bottom">
-<form action="/s" class="srch-bottom__form d-flex" id="form-headerSearch" method="get" role="search"><label for="txtHeaderSearch" class="sr-only">检索</label>
-<input type="text" id="txtHeaderSearch" name="k" placeholder="检索" accesskey="s" value="" class="srch-bottom__input analyticstag-event" onkeydown="if (event.keyCode === 13) { FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) }" />
-<button title="检索" type="submit" class="btn btn--bottom-srch analyticstag-event" onclick="FireAnalyticsTagEventOnSearch('search', $dom.get('txtHeaderSearch')[0].value) ">
-<span class="ico ico-search"></span>
-</button></form>
-</div>
-</div>
-<img src="/Content/responsive/VOA/zh-CN/img/logo-print.gif" class="logo-print" alt="site logo">
-<img src="/Content/responsive/VOA/zh-CN/img/logo-print_color.png" class="logo-print logo-print--color" alt="site logo">
-</div>
-</div>
-</div>
-<script>
-var nav2In = document.querySelector('.hdr-20__inner');
-var nav2Sec = document.querySelector('.hdr-20__side--secondary')
-var secStyle = window.getComputedStyle(nav2Sec);
-if (nav2In
-&& window.pageYOffset < 150
-&& secStyle['position'] !== 'fixed'
-&& document.body.className.indexOf('pg-section') > -1) {
-nav2In.classList.add('hdr-20__inner--big')
-}
-</script>
-<div class="c-hlights c-hlights--breaking c-hlights--no-item" data-hlight-display="mobile,desktop">
-<div class="c-hlights__wrap container p-0">
-<div class="c-hlights__nav">
-<a role="button" href="#" title="上一页">
-<span class="ico ico-chevron-backward m-0"></span>
-<span class="sr-only">上一页</span>
-</a>
-<a role="button" href="#" title="下一页">
-<span class="ico ico-chevron-forward m-0"></span>
-<span class="sr-only">下一页</span>
-</a>
-</div>
-<input class="switcher-controller" id="more-less-1" type="checkbox">
-<span class="c-hlights__label">
-<span class="">VOA快讯</span>
-<span class="switcher-trigger">
-<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--more p-b-0" title="更多内容">
-<span class="ico ico-chevron-down"></span>
-</label>
-<label for="more-less-1" class="switcher-trigger__label switcher-trigger__label--less p-b-0" title="显示更少内容">
-<span class="ico ico-chevron-up"></span>
-</label>
-</span>
-</span>
-<ul class="c-hlights__items switcher-target">
-</ul>
-</div>
-</div> <div class="date-time-area ">
-<div class="container">
-<span class="date-time">
-中国时间 10:40 2023年1月9日 星期一
-</span>
-</div>
-</div>
-<div id="content">
-<div class="container">
-<div class="hdr-container">
-<div class="row">
-<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=6796624&amp;SiteId=412&amp;r=537879165&amp;it=0&amp;pd=20221019171239" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
-data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="6796624" data-lt-siteId="412" />
-<noscript>
-<img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=6796624&amp;SiteId=412&amp;r=537879165&amp;it=0&amp;pd=20221019171239" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
-data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="6796624" data-lt-siteId="412" />
-</noscript>
-<div class="category js-category">
-<a class="" href="/z/1757">中国</a> </div>
-</div><div class="col-title col-xs-12 col-md-10 pull-right"> <h1 class="title pg-title" >
-中国式现代化: 习连任后的中国向何处去？
-</h1>
-</div><div class="col-publishing-details col-xs-12 col-sm-12 col-md-2 pull-left"> <div class="publishing-details ">
-<div class="published">
-<span class="date" title="中国时间">
-<time datetime="2022-10-20T01:12:39+08:00">
-2022年10月20日 01:12
+<h1>中国式现代化: 习连任后的中国向何处去？</h1>
+<div class=publishing-details>
+<div class=published>
+<span class=date>
+<time datetime="2022-10-19 17:12:39Z">
+2022年10月19日 17:12
 </time>
 </span>
 </div>
-<div class="links">
-<ul class="links__list links__list--column">
-<li class="links__item">
-<a class="links__item-link" href="/author/许波/gopoy" title="许波">许波</a>
+<div class=authors>
+<ul>
+<li>
+<div title=许波>
+<a href=https://www.voachinese.com/author/%E8%AE%B8%E6%B3%A2/gopoy target=_top>许波</a>
+</div>
 </li>
 </ul>
 </div>
 </div>
-</div><div class="col-lg-12 separator"> <div class="separator">
-<hr class="title-line" />
+<div class="media-pholder image">
+<div class=media-elem>
+<amp-img alt="中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=608 i-amphtml-layout=responsive i-amphtml-ssr layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg srcset="https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w640_h360_s.jpg 640w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w320_h180_s.jpg 320w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg 1080w" width=1080><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2963%;></i-amphtml-sizer>
+<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAgEAABAwIHAAAAAAAAAAAAAAABAAMRAgYSEzNhcZLh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQITAyFR/9oADAMBAAIRAxEAPwCVm536GKqMqZBg49uFObjfnTPfxERVx4U35FtM/9k=&#39;%3E%3C/image%3E%3C/svg%3E"><img alt="中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)" class="i-amphtml-fill-content i-amphtml-replaced-content" decoding=async src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg srcset="https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w640_h360_s.jpg 640w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w320_h180_s.jpg 320w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg 1080w"></amp-img>
 </div>
-</div><div class="col-multimedia col-xs-12 col-md-10 pull-right"> <div class="cover-media">
-<figure class="media-image js-media-expand">
-<div class="img-wrap">
-<div class="thumb thumb16_9">
-<img src="https://gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w250_r1_s.jpg" itemprop="url" alt="中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)" />
-</div>
-<span class="ico ico-fullscreen ico--media-expand ico--rounded"></span>
-</div>
-<figcaption>
-<span class="caption" itemprop="caption" data-cms-inline-wrap="caption" data-cms-inline-text="">中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)</span>
-</figcaption>
-</figure>
-</div>
-</div><div class="col-xs-12 col-md-2 pull-left article-share pos-rel"> <div class="share--box">
-<aside class="share flex-column js-share--apply-sticky js-share--expandable js-share--horizontal"
->
-<span class="label label--share">分享</span>
-<ul class="share__list">
-<li class="share__item">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_facebook"
-title="分享到脸书" target="_blank"
-class="btn btn--rounded btn-facebook js-social-btn">
-<span class="ico ico--rounded ico-facebook ico--l"></span>
-</a>
-<span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
-</li>
-<li class="share__item">
-<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html&amp;text=%e4%b8%ad%e5%9b%bd%e5%bc%8f%e7%8e%b0%e4%bb%a3%e5%8c%96%3a+%e4%b9%a0%e8%bf%9e%e4%bb%bb%e5%90%8e%e7%9a%84%e4%b8%ad%e5%9b%bd%e5%90%91%e4%bd%95%e5%a4%84%e5%8e%bb%ef%bc%9f&amp;via=voachinese "
-data-analytics-text="share_on_twitter"
-title="分享到推特" target="_blank"
-class="btn btn--rounded btn-twitter js-social-btn">
-<span class="ico ico--rounded ico-twitter ico--l"></span>
-</a>
-<span class="share__count shares__twitter share__count--empty">&nbsp;</span>
-</li>
-<li class="share__item">
-<span class="visible-xs-inline-block visible-sm-inline-block">
-<a href="whatsapp://send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_whatsapp"
-title="分享到WhatsApp" target="_blank"
-class="btn btn--rounded btn-whatsapp js-social-btn">
-<span class="ico ico--rounded ico-whatsapp ico--l"></span>
-</a>
-<span class="share__count share__count--whatsapp share__count--empty">&nbsp;</span>
-</span>
-</li>
-<li class="share__item">
-<span class="visible-md-inline-block visible-lg-inline-block">
-<a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_whatsapp_desktop"
-title="分享到WhatsApp" target="_blank"
-class="btn btn--rounded btn-whatsapp js-social-btn">
-<span class="ico ico--rounded ico-whatsapp ico--l"></span>
-</a>
-<span class="share__count share__count--whatsapp share__count--empty">&nbsp;</span>
-</span>
-</li>
-<li class="share__item">
-<a href="mailto:?body=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html&amp;subject=中国式现代化: 习连任后的中国向何处去？"
-title="电邮本文"
-class="btn btn--rounded btn-email ">
-<span class="ico ico--rounded ico-email ico--l"></span>
-</a>
-<span class="share__count share__count--email share__count--empty">&nbsp;</span>
-</li>
-<li class="share__item">
-<span class="visible-xs-inline-block visible-sm-inline-block">
-<a href="https://line.me/R/msg/text/?https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_line"
-title="分享到Line" target="_blank"
-class="btn btn--rounded btn-line js-social-btn">
-<span class="ico ico--rounded ico-line ico--l"></span>
-</a>
-</span>
-</li>
-<li class="share__item">
-<span class="visible-md-inline-block visible-lg-inline-block">
-<a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_line_desktop"
-title="分享到Line" target="_blank"
-class="btn btn--rounded btn-line js-social-btn">
-<span class="ico ico--rounded ico-line ico--l"></span>
-</a>
-</span>
-</li>
-<li class="share__item">
-<div class="ctc">
-<input type="text" class="ctc__input" readonly="readonly">
-<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="复制链接" js-href="https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html" title="复制链接">
-<span class="ico ico-content-copy ico--rounded ico--l"></span>
-</button>
-</div>
-</li>
-<li class="share__item share__item--sharing-more">
-<a title="切换共享选项" class="btn btn--rounded btn--show-more hidden">
-<span class="ico ico--rounded ico-ellipsis ico--l"></span>
-</a>
-</li>
-</ul>
-</aside>
-<div class="sticky-share-container" style="display:none">
-<div class="container">
-<a href="https://www.voachinese.com" id="logo-sticky-share">&nbsp;</a>
-<div class="pg-title pg-title--sticky-share">
-中国式现代化: 习连任后的中国向何处去？
-</div>
-<div class="sticked-nav-actions">
-<aside class="share share--sticky js-share--expandable">
-<span class="label label--share">分享到</span>
-<ul class="share__list">
-<li class="share__item share__item--horizontal">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_facebook"
-title="分享到脸书" target="_blank"
-class="btn btn--rounded btn-facebook js-social-btn">
-<span class="ico ico--rounded ico-facebook ico--s"></span>
-</a>
-</li>
-<li class="share__item share__item--horizontal">
-<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html&amp;text=%e4%b8%ad%e5%9b%bd%e5%bc%8f%e7%8e%b0%e4%bb%a3%e5%8c%96%3a+%e4%b9%a0%e8%bf%9e%e4%bb%bb%e5%90%8e%e7%9a%84%e4%b8%ad%e5%9b%bd%e5%90%91%e4%bd%95%e5%a4%84%e5%8e%bb%ef%bc%9f&amp;via=voachinese "
-data-analytics-text="share_on_twitter"
-title="分享到推特" target="_blank"
-class="btn btn--rounded btn-twitter js-social-btn">
-<span class="ico ico--rounded ico-twitter ico--s"></span>
-</a>
-</li>
-<li class="share__item share__item--additional share__item--horizontal">
-<span class="visible-xs-inline-block visible-sm-inline-block">
-<a href="whatsapp://send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_whatsapp"
-title="分享到WhatsApp" target="_blank"
-class="btn btn--rounded btn-whatsapp js-social-btn">
-<span class="ico ico--rounded ico-whatsapp ico--s"></span>
-</a>
-</span>
-</li>
-<li class="share__item share__item--additional share__item--horizontal">
-<span class="visible-md-inline-block visible-lg-inline-block">
-<a href="https://web.whatsapp.com/send?text=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_whatsapp_desktop"
-title="分享到WhatsApp" target="_blank"
-class="btn btn--rounded btn-whatsapp js-social-btn">
-<span class="ico ico--rounded ico-whatsapp ico--s"></span>
-</a>
-</span>
-</li>
-<li class="share__item share__item--additional share__item--horizontal">
-<a href="mailto:?body=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html&amp;subject=中国式现代化: 习连任后的中国向何处去？"
-title="电邮本文"
-class="btn btn--rounded btn-email ">
-<span class="ico ico--rounded ico-email ico--s"></span>
-</a>
-</li>
-<li class="share__item share__item--additional share__item--horizontal">
-<span class="visible-xs-inline-block visible-sm-inline-block">
-<a href="https://line.me/R/msg/text/?https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_line"
-title="分享到Line" target="_blank"
-class="btn btn--rounded btn-line js-social-btn">
-<span class="ico ico--rounded ico-line ico--s"></span>
-</a>
-</span>
-</li>
-<li class="share__item share__item--additional share__item--horizontal">
-<span class="visible-md-inline-block visible-lg-inline-block">
-<a href="https://timeline.line.me/social-plugin/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2fxi-jinping-mutual-prosperity-20221019%2f6796624.html"
-data-analytics-text="share_on_line_desktop"
-title="分享到Line" target="_blank"
-class="btn btn--rounded btn-line js-social-btn">
-<span class="ico ico--rounded ico-line ico--s"></span>
-</a>
-</span>
-</li>
-<li class="share__item share__item--additional share__item--horizontal">
-<div class="ctc">
-<input type="text" class="ctc__input" readonly="readonly">
-<button class="btn btn--rounded btn--ctc ctc__button" value="text" role="复制链接" js-href="https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html" title="复制链接">
-<span class="ico ico-content-copy ico--rounded ico--s"></span>
-</button>
-</div>
-</li>
-<li class="share__item share__item--sharing-more">
-<a title="切换共享选项" class="btn btn--rounded btn--show-more hidden">
-<span class="ico ico--rounded ico-ellipsis ico--s"></span>
-</a>
-</li>
-</ul>
-</aside>
+<p class=caption>中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)</p>
 </div>
 </div>
-</div>
-<div class="links">
-<p class="buttons link-comments p-0">
-<a href="#comments" class="btn btn--link p-t-0">
-<span class="ico ico-comment"></span><span class="btn__text">评论</span>
+</header>
+<div class=article-body>
+<div class="container article-share">
+<div class=links>
+<p class=link-comments>
+<a href=https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html/#ext-comments target=_top>
+<span class="ico ico-comment"></span>
+<span class=btn__text>评论</span>
 </a>
-</p>
-<p class="link-print visible-md visible-lg buttons p-0">
-<button class="btn btn--link btn-print p-t-0" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="打印">
-<span class="ico ico-print"></span>
-<span class="btn__text">打印</span>
-</button>
 </p>
 </div>
 </div>
-</div>
-</div>
-</div>
-<div class="body-container">
-<div class="row">
-<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10 pull-right">
-<div class="row">
-<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pull-left bottom-offset content-offset">
-<div id="article-content" class="content-floated-wrap fb-quotable">
-<div class="wsw">
+<div class="container wsw">
 <p>习近平在中共二十大政治报告中说，从现在起，中共的中心任务就是“以中国式现代化全面推进中华民族的伟大复兴。”习近平进一步阐明，中国式现代化的本质要求是：坚持中国共产党领导，坚持中共特色的社会主义，发展全过程人民民主，实现全体人民共同富裕等等。有分析说，这是一个大杂烩概念。</p>
 <p>西方媒体注意到，中国式现代化是习近平在二十大提出的唯一一个新名词，中共官媒对此予以密集解读。但是新加坡管理大学法学院教授高树超认为，概念虽新，却并无多大的意义，王沪宁似有江郎才尽的感觉。</p>
 <p>他说：“这个概念同以前的一些概念，比如江泽民的三个代表，胡锦涛的科学发展观，乃至和谐社会相比，可以说是毫无亮点。总的来看，习自从上台之后，他提的很多口号，都有同样的特点 …… 这个中国式现代化实际上是一个大杂烩概念，就是说什么都强调中国独特的逻辑。有人说世界上有两种逻辑，一种是逻辑，一种是中国逻辑。”</p>
@@ -691,7 +90,7 @@ class="btn btn--rounded btn-line js-social-btn">
 <p>美国彭博新闻社专门就习近平的中国式现代化采访了世界各地的中国问题专家，其中欧亚集团的中国分析师尼尔·托马斯认为，习近平向美国和西方世界传递的讯息是，中国要在现代化问题上另起炉灶。</p>
 <p>他说：“他给‘中国式现代化’增加了一个新东西，这是一个强烈的信号，即习近平打算在富国强兵的问题上走他自己的路，而不是走西方的路。”</p>
 <p>1980年代中国改革开放早期鼓动中国融入“蓝色文明”的宣教片《河殇》的主笔苏晓康目前流亡美国，他对中国现代化道路的问题有更深层次的解读。</p>
-<p>他说“习近平终于托出一盘‘现代化’大菜，谁曾想竟然是馊的，建构于狭隘民族主义的‘复兴’怎可能伟大？因为其价值内核是雪耻、仇恨，这一条思想史脉络，将习近平与1976年前的毛泽东之‘东风压倒西风’路线勾联起来，所以他必定要反邓和否定改革。”<br />
+<p>他说“习近平终于托出一盘‘现代化’大菜，谁曾想竟然是馊的，建构于狭隘民族主义的‘复兴’怎可能伟大？因为其价值内核是雪耻、仇恨，这一条思想史脉络，将习近平与1976年前的毛泽东之‘东风压倒西风’路线勾联起来，所以他必定要反邓和否定改革。”<br>
 中国民族主义现代化道路是一条危险之路</p>
 <p>加拿大女王大学历史系兼职助理教授赖小刚进一步指出，历史上实现现代化的道路不外有两条，一条是以英美为代表的西方主流现代化道路，另一条是德日为代表的铁血法西斯和军国主义之路。</p>
 <p>赖教授说，中国式现代化道路抛开普世价值，摒弃世界现代化主流，完全以民族主义为基础，势必走上一条非常危险的道路。</p>
@@ -710,98 +109,66 @@ class="btn btn--rounded btn-line js-social-btn">
 <p>以民族主义和共同富裕为基础的中国式现代化目标已定，习近平获得第三个任期后中国向何处去的问题也就清楚了。加拿大女王大学的赖小刚教授预测，均贫富，或者劫富济贫大概是习近平连任之后的政治经济路线，因为这条路线是缓和社会矛盾，巩固共产党和习近平统治的立竿见影的办法。</p>
 <p>赖教授说：“当然，杀鸡取卵可能不是一个好的办法，但习近平已经顾不了那么多了。”</p>
 </div>
-<ul>
-</ul>
-<div id="comments" class="comments-parent">
-<div class="row">
-<div class="col-xs-12">
-<div class="comments comments--ext">
-<h3 class="section-head">评论区</h3>
-<div class="comments-form comments-external">
-<div class="ext-comments" data-href="https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html" data-lang="en" data-mobile="true" data-disqus-identifier="6796624">
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = 'https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html';
-this.page.identifier = '6796624';
-};
-(function() {
-var d = document, s = d.createElement('script');
-s.src = 'https://voa-zh-cn-412.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>
-Please enable JavaScript to view the
-<a href="https://disqus.com/?ref_noscript" rel="nofollow">
-comments powered by Disqus.
-</a>
-</noscript>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pull-left design-top-offset"> <div class="media-block-wrap">
-<h2 class="section-head">相关内容</h2>
-<div class="row">
-<ul>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/china-economy-party-congress-covid-20221017/6793664.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="分析：如何解读习近平二十大报告释放的经济信号？">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/095c0000-0a00-0242-cf11-08da9698f4a5_w100_r1.jpg" alt="分析：如何解读习近平二十大报告释放的经济信号？" />
-</noscript>
-<img data-src="https://gdb.voanews.com/095c0000-0a00-0242-cf11-08da9698f4a5_w33_r1.jpg" src="" alt="分析：如何解读习近平二十大报告释放的经济信号？" />
+</article>
+</main>
+<section class=widgets role=complementary>
+<div class=container>
+<div class=media-block-wrap>
+<h3 class=section-head>相关内容</h3>
+<ul class=row>
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/china-economy-party-congress-covid-20221017/6793664.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/095c0000-0a00-0242-cf11-08da9698f4a5_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/095c0000-0a00-0242-cf11-08da9698f4a5_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAcEAACAgMBAQAAAAAAAAAAAAABAgARBAUhA0L/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhL/2gAMAwEAAhEDEQA/AJMLcZKqSjutV9XKTsPZyWLGz09iIdMsok//2Q==&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/china-economy-party-congress-covid-20221017/6793664.html">
-<h4 class="media-block__title media-block__title--size-4" title="分析：如何解读习近平二十大报告释放的经济信号？">
+<div class=content>
+<a href=https://www.voachinese.com/a/china-economy-party-congress-covid-20221017/6793664.html target=_top>
+<h4>
+<span class=title>
 分析：如何解读习近平二十大报告释放的经济信号？
+</span>
 </h4>
 </a>
 </div>
 </div>
 </li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/us-national-security-strategy-2022-10-13/6788810.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="美国出台国家安全战略，摸索应对地缘政治和跨国挑战">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/09690000-0a00-0242-e508-08da70d6b726_w100_r1.jpg" alt="美国出台国家安全战略，摸索应对地缘政治和跨国挑战" />
-</noscript>
-<img data-src="https://gdb.voanews.com/09690000-0a00-0242-e508-08da70d6b726_w33_r1.jpg" src="" alt="美国出台国家安全战略，摸索应对地缘政治和跨国挑战" />
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/us-national-security-strategy-2022-10-13/6788810.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/09690000-0a00-0242-e508-08da70d6b726_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/09690000-0a00-0242-e508-08da70d6b726_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAIhAAAgIBAQkAAAAAAAAAAAAAAQIAAwURBBITISMxUWHS/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAMAwEAAhEDEQA/AMNszN/HS0qpV7Fr3fAHfn7lLnbK1CKb9FGg6ifERGRJBtP/2Q==&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/us-national-security-strategy-2022-10-13/6788810.html">
-<h4 class="media-block__title media-block__title--size-4" title="美国出台国家安全战略，摸索应对地缘政治和跨国挑战">
+<div class=content>
+<a href=https://www.voachinese.com/a/us-national-security-strategy-2022-10-13/6788810.html target=_top>
+<h4>
+<span class=title>
 美国出台国家安全战略，摸索应对地缘政治和跨国挑战
+</span>
 </h4>
 </a>
 </div>
 </div>
 </li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/deng-yuwen-on-ccp-20221003/6773744.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="聿文视界: 中南海游戏规则早已改变，但政变遥传者思维仍停留在以前">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/907B7AAD-8BE6-474F-B796-E437240E7B72_cx0_cy2_cw0_w100_r1.jpg" alt="聿文视界: 中南海游戏规则早已改变，但政变遥传者思维仍停留在以前" />
-</noscript>
-<img data-src="https://gdb.voanews.com/907B7AAD-8BE6-474F-B796-E437240E7B72_cx0_cy2_cw0_w33_r1.jpg" src="" alt="聿文视界: 中南海游戏规则早已改变，但政变遥传者思维仍停留在以前" />
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/deng-yuwen-on-ccp-20221003/6773744.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/907B7AAD-8BE6-474F-B796-E437240E7B72_cx0_cy2_cw0_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/907B7AAD-8BE6-474F-B796-E437240E7B72_cx0_cy2_cw0_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAHxAAAQQBBQEAAAAAAAAAAAAAAgABAxEhBBITUZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQEBAAIDAAAAAAAAAAAAAAABAwACERIh/9oADAMBAAIRAxEAPwDNaUQmEikF3K6w9N4oc7tjZG9dxj8REcXsmV6z0IzQ9ec//9k=&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/deng-yuwen-on-ccp-20221003/6773744.html">
-<h4 class="media-block__title media-block__title--size-4" title="聿文视界: 中南海游戏规则早已改变，但政变遥传者思维仍停留在以前">
+<div class=content>
+<a href=https://www.voachinese.com/a/deng-yuwen-on-ccp-20221003/6773744.html target=_top>
+<h4>
+<span class=title>
 聿文视界: 中南海游戏规则早已改变，但政变遥传者思维仍停留在以前
+</span>
 </h4>
 </a>
 </div>
@@ -810,835 +177,127 @@ comments powered by Disqus.
 </ul>
 </div>
 </div>
-<div class="region">
-<div class="media-block-wrap js-widget-switcher hidden" id="wrowblock-25480_21" data-area-id=R1_1>
-<h2 class="section-head">
-<a href="/p/3854.html"><span class="ico ico-chevron-forward pull-right flip"></span>VOA卫视(直播)</a> </h2>
-<div class="media-block first-item size-2"
-data-widget-id="31004" data-widget-r-interval="60" data-widget-type="1">
-<div data-widget-role="primaryWidgetWrapper"
-data-player-hidden-by-default="true">
-<div class="media-pholder media-pholder--video ">
-<div class="c-sticky-container" data-poster="https://gdb.voanews.com/022a0000-0aff-0242-9619-08daeec4e1d8_w250_r1_s.png">
-<div class="c-sticky-element" data-sp_api="pangea-video" data-persistent data-persistent-browse-out data-ls-widget-autoplayed=true>
-<div class="c-mmp c-mmp--disabled c-mmp--loading c-mmp--video c-mmp--standard c-mmp--has-poster c-mmp--live c-mmp--cannot-play c-sticky-element__swipe-el"
-data-player_id="" data-title="" data-hide-title="False"
-data-breakpoint_s="320" data-breakpoint_m="640" data-breakpoint_l="992"
-data-hlsjs-src="/Scripts/responsive/hls.b">
-<div class="c-mmp__poster js-poster c-mmp__poster--video">
-<img src="https://gdb.voanews.com/022a0000-0aff-0242-9619-08daeec4e1d8_w250_r1_s.png" />
-</div>
-<a class="c-mmp__fallback-link" href="javascript:void(0)">
-<span class="c-mmp__fallback-link-icon">
-<span class="ico ico-play"></span>
-</span>
-</a>
-<div class="c-spinner">
-<img src="/Content/responsive/img/player-spinner.png" alt="请稍等" title="请稍等" />
-</div>
-<span class="c-mmp__big_play_btn js-btn-play-big">
-<span class="ico ico-play"></span>
-</span>
-<div class="c-mmp__player">
-<video poster="https://gdb.voanews.com/022a0000-0aff-0242-9619-08daeec4e1d8_w250_r1_s.png" src="about:blank" data-fallbacksrc="" data-fallbacktype="" data-type="" data-info="" data-sources="" data-lt-on-play="0" data-lt-url="" data-autoplay data-muted webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%" title="" data-sdkadaptive="true" data-sdkamp="false" data-sdktitle="" data-sdkvideo="html5" data-sdkid="133" data-sdktype="Video Live Stream">
-</video>
-</div>
-<div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
-<span class="c-mmp__overlay-actions c-mmp__overlay-actions-top js-overlay-actions">
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="嵌入">
-<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
-<span class="c-mmp__overlay-actions-link-text">嵌入</span>
-</span>
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="分享">
-<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
-<span class="c-mmp__overlay-actions-link-text">分享</span>
-</span>
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close-sticky c-sticky-element__close-el" title="关闭">
-<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
-</span>
-</span>
-<div class="c-mmp__overlay-title js-overlay-title">
-<h5 class="c-mmp__overlay-media-title">
-<a class="js-media-title-link" href="/t/133.html" target="_blank" rel="noopener"></a>
-</h5>
-</div>
-</div>
-<div class="c-mmp__overlay c-mmp__overlay--sharing c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__sharing-overlay">
-<span class="c-mmp__overlay-actions">
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="嵌入">
-<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
-<span class="c-mmp__overlay-actions-link-text">嵌入</span>
-</span>
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="分享">
-<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
-<span class="c-mmp__overlay-actions-link-text">分享</span>
-</span>
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="关闭">
-<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
-</span>
-</span>
-<div class="c-mmp__overlay-tabs">
-<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//www.voachinese.com/embed/player/1/133.html?type=video" role="form">
-<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
-<div class="column">
-<div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
-代码已经复制到剪贴板。
-</div>
-<div class="c-mmp__form-group ta-c">
-<input type="text" name="embed_code" class="c-mmp__input-text js-embed-code" dir="ltr" value="" readonly />
-<span class="c-mmp__input-btn js-btn-copy-embed-code" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
-</div>
-<hr class="c-mmp__separator-line" />
-<div class="c-mmp__form-group ta-c">
-<label class="c-mmp__form-inline-element">
-<span class="c-mmp__form-inline-element-text" title="宽度">宽度</span>
-<input type="text" title="宽度" value="640" data-default="640" dir="ltr" name="embed_width" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-width" aria-live="assertive" />
-<span class="c-mmp__input-suffix">px</span>
-</label>
-<label class="c-mmp__form-inline-element">
-<span class="c-mmp__form-inline-element-text" title="高度">高度</span>
-<input type="text" title="高度" value="360" data-default="360" dir="ltr" name="embed_height" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-height" aria-live="assertive" />
-<span class="c-mmp__input-suffix">px</span>
-</label>
-</div>
-</div>
-</div>
-</div>
-<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-forward js-tab-sharing-overlay" data-trigger="js-btn-sharing-overlay" role="form">
-<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
-<div class="column">
-<div class="not-apply-to-sticky audio-fl-bwd">
-<aside class="player-content-share share share--mmp"
->
-<ul class="share__list">
-<li class="share__item">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2ft%2f133.html"
-data-analytics-text="share_on_facebook"
-title="分享到脸书" target="_blank"
-class="btn bg-transparent btn-facebook js-social-btn">
-<span class="ico fs-xl ico-facebook "></span>
-<span class="btn__text sr-only">分享到脸书</span>
-</a>
-<span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
-</li>
-<li class="share__item">
-<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2ft%2f133.html&amp;text=&amp;via=voachinese "
-data-analytics-text="share_on_twitter"
-title="分享到推特" target="_blank"
-class="btn bg-transparent btn-twitter js-social-btn">
-<span class="ico fs-xl ico-twitter "></span>
-<span class="btn__text sr-only">分享到推特</span>
-</a>
-<span class="share__count shares__twitter share__count--empty">&nbsp;</span>
-</li>
-<li class="share__item share__item--sharing-more">
-<a title="切换共享选项" class="btn bg-transparent btn--show-more hidden">
-<span class="ico fs-xl ico-ellipsis "></span>
-</a>
-</li>
-<li class="share__item share__item--sharing-more">
-<a href="/t/133.html" title="分享" class="btn bg-transparent" target="_blank" rel="noopener">
-<span class="ico ico-ellipsis "></span>
-</a>
-</li>
-</ul>
-</aside>
-</div>
-<hr class="c-mmp__separator-line audio-fl-bwd xs-hidden s-hidden" />
-<div class="c-mmp__status-msg ta-c js-message-share-url-copied" role="tooltip">
-网址已复制到剪贴板
-</div>
-<div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
-<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://www.voachinese.com/t/133.html" dir="ltr" readonly />
-<span class="c-mmp__input-btn js-btn-copy-share-url" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="c-mmp__overlay c-mmp__overlay--settings c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__settings-overlay">
-<span class="c-mmp__overlay-actions">
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="关闭">
-<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
-</span>
-</span>
-<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
-<div class="column column--scrolling js-sources"></div>
-</div>
-</div>
-<div class="c-mmp__overlay c-mmp__overlay--disabled js-c-mmp__disabled-overlay">
-<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
-<div class="column">
-<p class="ta-c"><span class="ico ico-clock"></span>没有现场直播</p>
-</div>
-</div>
-</div>
-<div class="c-mmp__cpanel-container js-cpanel-container">
-<div class="c-mmp__cpanel c-mmp__cpanel--hidden">
-<div class="c-mmp__cpanel-playback-controls">
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--play js-btn-play" title="播放">
-<span class="ico ico-play m-0"></span>
-</span>
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--pause js-btn-pause" title="暂停">
-<span class="ico ico-pause m-0"></span>
-</span>
-</div>
-<div class="c-mmp__cpanel-progress-controls">
-<span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">0:00</span>
-<span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
-</span>
-<span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
-<span class="c-mmp__indicator-lines js-progressbar">
-<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-playback-range" style="width:100%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--buffered js-playback-buffered" style="width:0%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--tracked js-playback-tracked" style="width:0%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--played js-playback-played" style="width:0%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--live js-playback-live"><span class="strip"></span></span>
-<span class="c-mmp__indicator-btn ta-c js-progressbar-btn">
-<button class="c-mmp__indicator-btn-pointer" type="button"></button>
-</span>
-<span class="c-mmp__badge c-mmp__badge--tracked-time c-mmp__badge--hidden js-progressbar-indicator-badge" dir="ltr" style="left:0%">
-<span class="c-mmp__badge-text js-progressbar-indicator-badge-text">0:00</span>
-</span>
-</span>
-</span>
-<span class="c-mmp__badge c-mmp__badge--live">直播</span>
-</div>
-<div class="c-mmp__cpanel-additional-controls">
-<span class="c-mmp__cpanel-additional-controls-volume js-volume-controls">
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--volume js-btn-volume" title="音量">
-<span class="ico ico-volume-unmuted m-0"></span>
-</span>
-<span class="c-mmp__indicator c-mmp__indicator--vertical js-volume-panel" dir="ltr">
-<span class="c-mmp__indicator-lines js-volumebar">
-<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-volume-range" style="height:100%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--volume js-volume-level" style="height:0%"></span>
-<span class="c-mmp__indicator-slider">
-<span class="c-mmp__indicator-btn ta-c c-mmp__indicator-btn--hidden js-volumebar-btn">
-<button class="c-mmp__indicator-btn-pointer" type="button"></button>
-</span>
-</span>
-</span>
-</span>
-</span>
-<div class="c-mmp__cpanel-additional-controls-settings js-settings-controls">
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-overlay js-btn-settings-overlay" title="更换播放源">
-<span class="ico ico-settings m-0"></span>
-</span>
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-expand js-btn-settings-expand" title="更换播放源">
-<span class="ico ico-settings m-0"></span>
-</span>
-<div class="c-mmp__expander c-mmp__expander--sources js-c-mmp__expander--sources">
-<div class="c-mmp__expander-content js-sources"></div>
-</div>
-</div>
-<a href="/embed/player/Tube/133.html?type=video&amp;FullScreenMode=True" target="_blank" rel="noopener" class="c-mmp__cpanel-btn c-mmp__cpanel-btn--fullscreen js-btn-fullscreen" title="全屏">
-<span class="ico ico-fullscreen m-0"></span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<h4 class="media-block__title">
-<span class="badge badge--live">直播</span>
-<span class="title">【时事大家谈】习近平位列二号世界风险，他为何如此危险？生死时刻中国特权游戏，帕罗韦德如何超越茅台成重礼？ </span>
-</h4>
-</div>
-</div><a class="link-more" href="https://www.youtube.com/voachina" onclick="window.open(&#39;https://www.youtube.com/voachina&#39;);return false;" target="_blank">欢迎在YouTube直播聊天室参与节目讨论</a>
-</div>
-<div class="media-block-wrap" id="wrowblock-3646_21" data-area-id=R5_1>
-<h2 class="section-head">
-最新报道 </h2>
-<div class="row">
-<ul>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/pro-bolsonaro-rioters-storm-brazil-s-top-government-offices/6910084.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="支持巴西前总统博尔索纳罗的骚乱分子冲进巴西国会、最高法院和总统府">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/09410000-0a00-0242-0010-08daf1e0ed92_w100_r1.jpg" alt="2023年1月8日，巴西总统路易斯&#183;伊纳西奥&#183;卢拉&#183;达席尔瓦在巴西首都巴西利亚视察了普拉纳托宫的受损情况。普拉纳托宫殿遭到巴西前总统贾伊尔&#183;博尔索纳罗支持者的袭击。" />
-</noscript>
-<img data-src="https://gdb.voanews.com/09410000-0a00-0242-0010-08daf1e0ed92_w33_r1.jpg" src="" alt="2023年1月8日，巴西总统路易斯&#183;伊纳西奥&#183;卢拉&#183;达席尔瓦在巴西首都巴西利亚视察了普拉纳托宫的受损情况。普拉纳托宫殿遭到巴西前总统贾伊尔&#183;博尔索纳罗支持者的袭击。" />
+</section>
+<section class=widgets role=complementary>
+<div class=container>
+<div class=media-block-wrap>
+<h3 class=section-head>您可能感兴趣的内容</h3>
+<ul class=row>
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/china-reopens-world-on-high-alert-20230108/6909461.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/03370000-0aff-0242-4169-08dae9de35e2_cx0_cy6_cw0_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/03370000-0aff-0242-4169-08dae9de35e2_cx0_cy6_cw0_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+</amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/pro-bolsonaro-rioters-storm-brazil-s-top-government-offices/6910084.html">
-<h4 class="media-block__title media-block__title--size-4" title="支持巴西前总统博尔索纳罗的骚乱分子冲进巴西国会、最高法院和总统府">
-支持巴西前总统博尔索纳罗的骚乱分子冲进巴西国会、最高法院和总统府
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/us-town-wraps-its-mind-around-6-year-old-school-shooter/6909606.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="弗吉尼亚州市长：人们仍然不能想象六岁儿童枪击老师">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/03370000-0aff-0242-f6b1-08daf07a8ad8_w100_r1.jpg" alt="2023年1月6日，弗吉尼亚州纽波特纽斯，警方对里奇内克小学枪击案作出回应。" />
-</noscript>
-<img data-src="https://gdb.voanews.com/03370000-0aff-0242-f6b1-08daf07a8ad8_w33_r1.jpg" src="" alt="2023年1月6日，弗吉尼亚州纽波特纽斯，警方对里奇内克小学枪击案作出回应。" />
-</div>
-</a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/us-town-wraps-its-mind-around-6-year-old-school-shooter/6909606.html">
-<h4 class="media-block__title media-block__title--size-4" title="弗吉尼亚州市长：人们仍然不能想象六岁儿童枪击老师">
-弗吉尼亚州市长：人们仍然不能想象六岁儿童枪击老师
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/bolsonaro-supporters-storm-brazil-s-congress/6909589.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="巴西前总统博尔索纳罗的支持者冲击巴西国会">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/022a0000-0aff-0242-2639-08daf1a76b9b_w100_r1.jpg" alt="
-2023年1月8日，巴西前总统博尔索纳罗的支持者在首都巴西利亚的总统府外的示威活动中与警方发生冲突。 " />
-</noscript>
-<img data-src="https://gdb.voanews.com/022a0000-0aff-0242-2639-08daf1a76b9b_w33_r1.jpg" src="" alt="
-2023年1月8日，巴西前总统博尔索纳罗的支持者在首都巴西利亚的总统府外的示威活动中与警方发生冲突。 " />
-</div>
-</a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/bolsonaro-supporters-storm-brazil-s-congress/6909589.html">
-<h4 class="media-block__title media-block__title--size-4" title="巴西前总统博尔索纳罗的支持者冲击巴西国会">
-巴西前总统博尔索纳罗的支持者冲击巴西国会
-</h4>
-</a>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="media-block-wrap" id="wrowblock-10581_21" data-area-id=R6_1>
-<h2 class="section-head">
-<a href="https://www.youtube.com/user/voachina"><span class="ico ico-chevron-forward pull-right flip"></span>VOA卫视最新视频</a> </h2>
-<div class="media-block">
-<div class="media-pholder media-pholder--video ">
-<div class="c-sticky-container" data-poster="https://gdb.voanews.com/09410000-0a00-0242-1a89-08daefe250a2_w250_r1_s.png">
-<div class="c-sticky-element" data-sp_api="pangea-video" data-persistent data-persistent-browse-out >
-<div class="c-mmp c-mmp--enabled c-mmp--loading c-mmp--video c-mmp--standard c-mmp--has-poster c-sticky-element__swipe-el"
-data-player_id="" data-title="时事大家谈：习近平位列二号世界风险，他为何如此危险？" data-hide-title="False"
-data-breakpoint_s="320" data-breakpoint_m="640" data-breakpoint_l="992"
-data-hlsjs-src="/Scripts/responsive/hls.b">
-<div class="c-mmp__poster js-poster c-mmp__poster--video">
-<img src="https://gdb.voanews.com/09410000-0a00-0242-1a89-08daefe250a2_w250_r1_s.png" alt="时事大家谈：习近平位列二号世界风险，他为何如此危险？" title="时事大家谈：习近平位列二号世界风险，他为何如此危险？" />
-</div>
-<a class="c-mmp__fallback-link" href="https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_240p.mp4">
-<span class="c-mmp__fallback-link-icon">
-<span class="ico ico-play"></span>
-</span>
-</a>
-<div class="c-spinner">
-<img src="/Content/responsive/img/player-spinner.png" alt="请稍等" title="请稍等" />
-</div>
-<span class="c-mmp__big_play_btn js-btn-play-big">
-<span class="ico ico-play"></span>
-</span>
-<div class="c-mmp__player">
-<video poster="https://gdb.voanews.com/09410000-0a00-0242-1a89-08daefe250a2_w250_r1_s.png" src="https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_master.m3u8" data-fallbacksrc="https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1.mp4" data-fallbacktype="video/mp4" data-type="application/x-mpegURL" data-info="Auto" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_manifest.mpd&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_manifest.mpd&quot;,&quot;Type&quot;:&quot;application/dash+xml&quot;,&quot;DataInfo&quot;:&quot;Auto&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_240p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_240p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;240p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;360p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_480p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_480p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;480p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_720p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_720p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;720p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null},{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_1080p.mp4&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/Videoroot/Pangeavideo/2023/01/6/68/68ed4676-1e2f-4d99-8764-cbd6a6178ab1_1080p.mp4&quot;,&quot;Type&quot;:&quot;video/mp4&quot;,&quot;DataInfo&quot;:&quot;1080p&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=4&RecordId=6907275&SiteId=412&r=186507274&it=0&pd=20230106180014" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%" title="时事大家谈：习近平位列二号世界风险，他为何如此危险？" data-sdkadaptive="true" data-sdkamp="false" data-sdktitle="时事大家谈：习近平位列二号世界风险，他为何如此危险？" data-sdkvideo="html5" data-sdkid="6907275" data-sdktype="Video ondemand">
-</video>
-</div>
-<div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
-<span class="c-mmp__overlay-actions c-mmp__overlay-actions-top js-overlay-actions">
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="嵌入">
-<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
-<span class="c-mmp__overlay-actions-link-text">嵌入</span>
-</span>
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="分享">
-<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
-<span class="c-mmp__overlay-actions-link-text">分享</span>
-</span>
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close-sticky c-sticky-element__close-el" title="关闭">
-<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
-</span>
-</span>
-<div class="c-mmp__overlay-title js-overlay-title">
-<h5 class="c-mmp__overlay-media-title">
-<a class="js-media-title-link" href="/a/6907275.html" target="_blank" rel="noopener" title="时事大家谈：习近平位列二号世界风险，他为何如此危险？">时事大家谈：习近平位列二号世界风险，他为何如此危险？</a>
-</h5>
-</div>
-</div>
-<div class="c-mmp__overlay c-mmp__overlay--sharing c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__sharing-overlay">
-<span class="c-mmp__overlay-actions">
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--embed js-btn-embed-overlay" title="嵌入">
-<span class="c-mmp__overlay-actions-link-ico ico ico-embed-code"></span>
-<span class="c-mmp__overlay-actions-link-text">嵌入</span>
-</span>
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--share js-btn-sharing-overlay" title="分享">
-<span class="c-mmp__overlay-actions-link-ico ico ico-share"></span>
-<span class="c-mmp__overlay-actions-link-text">分享</span>
-</span>
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="关闭">
-<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
-</span>
-</span>
-<div class="c-mmp__overlay-tabs">
-<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-backward js-tab-embed-overlay" data-trigger="js-btn-embed-overlay" data-embed-source="//www.voachinese.com/embed/player/0/6907275.html?type=video" role="form">
-<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
-<div class="column">
-<div class="c-mmp__status-msg ta-c js-message-embed-code-copied" role="tooltip">
-代码已经复制到剪贴板。
-</div>
-<div class="c-mmp__form-group ta-c">
-<input type="text" name="embed_code" class="c-mmp__input-text js-embed-code" dir="ltr" value="" readonly />
-<span class="c-mmp__input-btn js-btn-copy-embed-code" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
-</div>
-<hr class="c-mmp__separator-line" />
-<div class="c-mmp__form-group ta-c">
-<label class="c-mmp__form-inline-element">
-<span class="c-mmp__form-inline-element-text" title="宽度">宽度</span>
-<input type="text" title="宽度" value="640" data-default="640" dir="ltr" name="embed_width" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-width" aria-live="assertive" />
-<span class="c-mmp__input-suffix">px</span>
-</label>
-<label class="c-mmp__form-inline-element">
-<span class="c-mmp__form-inline-element-text" title="高度">高度</span>
-<input type="text" title="高度" value="360" data-default="360" dir="ltr" name="embed_height" class="ta-c c-mmp__input-text c-mmp__input-text--xs js-video-embed-height" aria-live="assertive" />
-<span class="c-mmp__input-suffix">px</span>
-</label>
-</div>
-</div>
-</div>
-</div>
-<div class="c-mmp__overlay-tab c-mmp__overlay-tab--disabled c-mmp__overlay-tab--slide-forward js-tab-sharing-overlay" data-trigger="js-btn-sharing-overlay" role="form">
-<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
-<div class="column">
-<div class="not-apply-to-sticky audio-fl-bwd">
-<aside class="player-content-share share share--mmp"
->
-<ul class="share__list">
-<li class="share__item">
-<a href="https://facebook.com/sharer.php?u=https%3a%2f%2fwww.voachinese.com%2fa%2f6907275.html"
-data-analytics-text="share_on_facebook"
-title="分享到脸书" target="_blank"
-class="btn bg-transparent btn-facebook js-social-btn">
-<span class="ico fs-xl ico-facebook "></span>
-<span class="btn__text sr-only">分享到脸书</span>
-</a>
-<span class="share__count share__count--facebook share__count--empty">&nbsp;</span>
-</li>
-<li class="share__item">
-<a href="https://twitter.com/share?url=https%3a%2f%2fwww.voachinese.com%2fa%2f6907275.html&amp;text=%e6%97%b6%e4%ba%8b%e5%a4%a7%e5%ae%b6%e8%b0%88%ef%bc%9a%e4%b9%a0%e8%bf%91%e5%b9%b3%e4%bd%8d%e5%88%97%e4%ba%8c%e5%8f%b7%e4%b8%96%e7%95%8c%e9%a3%8e%e9%99%a9%ef%bc%8c%e4%bb%96%e4%b8%ba%e4%bd%95%e5%a6%82%e6%ad%a4%e5%8d%b1%e9%99%a9%ef%bc%9f&amp;via=voachinese "
-data-analytics-text="share_on_twitter"
-title="分享到推特" target="_blank"
-class="btn bg-transparent btn-twitter js-social-btn">
-<span class="ico fs-xl ico-twitter "></span>
-<span class="btn__text sr-only">分享到推特</span>
-</a>
-<span class="share__count shares__twitter share__count--empty">&nbsp;</span>
-</li>
-<li class="share__item share__item--sharing-more">
-<a title="切换共享选项" class="btn bg-transparent btn--show-more hidden">
-<span class="ico fs-xl ico-ellipsis "></span>
-</a>
-</li>
-<li class="share__item share__item--sharing-more">
-<a href="/a/6907275.html" title="分享" class="btn bg-transparent" target="_blank" rel="noopener">
-<span class="ico ico-ellipsis "></span>
-</a>
-</li>
-</ul>
-</aside>
-</div>
-<hr class="c-mmp__separator-line audio-fl-bwd xs-hidden s-hidden" />
-<div class="c-mmp__status-msg ta-c js-message-share-url-copied" role="tooltip">
-网址已复制到剪贴板
-</div>
-<div class="c-mmp__form-group ta-c audio-fl-bwd xs-hidden s-hidden">
-<input type="text" name="share_url" class="c-mmp__input-text js-share-url" value="https://www.voachinese.com/a/6907275.html" dir="ltr" readonly />
-<span class="c-mmp__input-btn js-btn-copy-share-url" title="复制到剪贴板"><span class="ico ico-content-copy"></span></span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="c-mmp__overlay c-mmp__overlay--settings c-mmp__overlay--disabled c-mmp__overlay--slide-from-bottom js-c-mmp__settings-overlay">
-<span class="c-mmp__overlay-actions">
-<span class="c-mmp__overlay-actions-link c-mmp__overlay-actions-link--close js-btn-close-overlay" title="关闭">
-<span class="c-mmp__overlay-actions-link-ico ico ico-close"></span>
-</span>
-</span>
-<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
-<div class="column column--scrolling js-sources"></div>
-</div>
-</div>
-<div class="c-mmp__overlay c-mmp__overlay--disabled js-c-mmp__disabled-overlay">
-<div class="c-mmp__overlay-body c-mmp__overlay-body--centered-vertical">
-<div class="column">
-<p class="ta-c"><span class="ico ico-clock"></span>没有媒体可用资源</p>
-</div>
-</div>
-</div>
-<div class="c-mmp__cpanel-container js-cpanel-container">
-<div class="c-mmp__cpanel c-mmp__cpanel--hidden">
-<div class="c-mmp__cpanel-playback-controls">
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--play js-btn-play" title="播放">
-<span class="ico ico-play m-0"></span>
-</span>
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--pause js-btn-pause" title="暂停">
-<span class="ico ico-pause m-0"></span>
-</span>
-</div>
-<div class="c-mmp__cpanel-progress-controls">
-<span class="c-mmp__cpanel-progress-controls-current-time js-current-time" dir="ltr">0:00</span>
-<span class="c-mmp__cpanel-progress-controls-duration js-duration" dir="ltr">
-0:38:12
-</span>
-<span class="c-mmp__indicator c-mmp__indicator--horizontal" dir="ltr">
-<span class="c-mmp__indicator-lines js-progressbar">
-<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-playback-range" style="width:100%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--buffered js-playback-buffered" style="width:0%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--tracked js-playback-tracked" style="width:0%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--played js-playback-played" style="width:0%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--live js-playback-live"><span class="strip"></span></span>
-<span class="c-mmp__indicator-btn ta-c js-progressbar-btn">
-<button class="c-mmp__indicator-btn-pointer" type="button"></button>
-</span>
-<span class="c-mmp__badge c-mmp__badge--tracked-time c-mmp__badge--hidden js-progressbar-indicator-badge" dir="ltr" style="left:0%">
-<span class="c-mmp__badge-text js-progressbar-indicator-badge-text">0:00</span>
-</span>
-</span>
-</span>
-</div>
-<div class="c-mmp__cpanel-additional-controls">
-<span class="c-mmp__cpanel-additional-controls-volume js-volume-controls">
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--volume js-btn-volume" title="音量">
-<span class="ico ico-volume-unmuted m-0"></span>
-</span>
-<span class="c-mmp__indicator c-mmp__indicator--vertical js-volume-panel" dir="ltr">
-<span class="c-mmp__indicator-lines js-volumebar">
-<span class="c-mmp__indicator-line c-mmp__indicator-line--range js-volume-range" style="height:100%"></span>
-<span class="c-mmp__indicator-line c-mmp__indicator-line--volume js-volume-level" style="height:0%"></span>
-<span class="c-mmp__indicator-slider">
-<span class="c-mmp__indicator-btn ta-c c-mmp__indicator-btn--hidden js-volumebar-btn">
-<button class="c-mmp__indicator-btn-pointer" type="button"></button>
-</span>
-</span>
-</span>
-</span>
-</span>
-<div class="c-mmp__cpanel-additional-controls-settings js-settings-controls">
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-overlay js-btn-settings-overlay" title="更换播放源">
-<span class="ico ico-settings m-0"></span>
-</span>
-<span class="c-mmp__cpanel-btn c-mmp__cpanel-btn--settings-expand js-btn-settings-expand" title="更换播放源">
-<span class="ico ico-settings m-0"></span>
-</span>
-<div class="c-mmp__expander c-mmp__expander--sources js-c-mmp__expander--sources">
-<div class="c-mmp__expander-content js-sources"></div>
-</div>
-</div>
-<a href="/embed/player/Article/6907275.html?type=video&amp;FullScreenMode=True" target="_blank" rel="noopener" class="c-mmp__cpanel-btn c-mmp__cpanel-btn--fullscreen js-btn-fullscreen" title="全屏">
-<span class="ico ico-fullscreen m-0"></span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="media-block__content">
-<a href="/a/6907275.html">
-<h4 class="media-block__title media-block__title--size-2">
-时事大家谈：习近平位列二号世界风险，他为何如此危险？ </h4>
-</a>
-</div>
-</div>
-</div>
-<div class="media-block-wrap" id="wrowblock-10229_21" data-area-id=R7_1>
-<h2 class="section-head">
-美国之音中文节目预告 </h2>
-<div class="row">
-<ul>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<div class="media-block__content">
-<h4 class="media-block__title media-block__title--size-4" title="1/9 【时事大家谈】从烟花宣泄到讨薪暴动，人民不再恐惧？放开一个月官宣死亡30例，中国公信力完败？嘉宾：《北京之春》荣誉主编胡平；美国资深媒体人魏碧洲；主持人：许波">
-1/9 【时事大家谈】从烟花宣泄到讨薪暴动，人民不再恐惧？放开一个月官宣死亡30例，中国公信力完败？嘉宾：《北京之春》荣誉主编胡平；美国资深媒体人魏碧洲；主持人：许波
-</h4>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<div class="media-block__content">
-<a href="https://www.voachinese.com/p/program-schedule.html">
-<h4 class="media-block__title media-block__title--size-4" title="最新中文广播节目表和频率表(2022年10月30日–2023年3月25日)​">
-最新中文广播节目表和频率表(2022年10月30日–2023年3月25日)​
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<div class="media-block__content">
-<a href="https://www.voachinese.com/p/7969.html">
-<h4 class="media-block__title media-block__title--size-4" title="VOA+ 美国之音流媒体应用程序 手指一动 信息即来">
-VOA+ 美国之音流媒体应用程序 手指一动 信息即来
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<div class="media-block__content">
-<a href="http://bit.ly/download-nthLink">
-<h4 class="media-block__title media-block__title--size-4" title="nthLink http://bit.ly/download-nthLink 应用程序商店(iOS版 安卓版)">
-nthLink http://bit.ly/download-nthLink 应用程序商店(iOS版 安卓版)
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<div class="media-block__content">
-<a href="https://bit.ly/download-psiphon" target="_blank" rel="noopener">
-<h4 class="media-block__title media-block__title--size-4" title="赛风3 (Psiphon3) https://bit.ly/download-psiphon">
-赛风3 (Psiphon3) https://bit.ly/download-psiphon
-</h4>
-</a>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="media-block-wrap" id="wrowblock-3647_21" data-area-id=R8_1>
-<h2 class="section-head">
-七天以来最受关注内容 </h2>
-<div class="row trends-wg">
-<a href="/a/mystery-of-china-covid-death-toll-20230107/6908284.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
-<span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">1</span>
-<h4 class="trends-wg__item-txt">
-清零下台一月后：卫星图像里的中国“殡葬盛世”，家属叹去世家人“被死得不明不白”
-</h4>
-</span>
-</a>
-<a href="/a/us-2nd-language-20230103/6903498.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
-<span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">2</span>
-<h4 class="trends-wg__item-txt">
-什么是美国最普遍的第二语言？答案可能会让人大吃一惊
-</h4>
-</span>
-</a>
-<a href="/a/wta-says-return-to-china-will-require-resolution-to-peng-case-010423/6904168.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
-<span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">3</span>
-<h4 class="trends-wg__item-txt">
-国际女网协会没有忘记彭帅，重申彭帅性侵案没结果中国赛事不会恢复
-</h4>
-</span>
-</a>
-<a href="/a/dengyuwen-will-xi-announce-the-crimes-have-been-punished-20230103/6902692.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
-<span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">4</span>
-<h4 class="trends-wg__item-txt">
-聿文视界：习近平会下“罪己诏”吗？
-</h4>
-</span>
-</a>
-<a href="/a/henan-residents--clashed-with-police-over-fireworks-ban-20220102/6901902.html" class="col-xs-12 col-sm-6 col-md-12 col-lg-12 trends-wg__item mb-grid">
-<span class="trends-wg__item-inner">
-<span class="trends-wg__item-number">5</span>
-<h4 class="trends-wg__item-txt">
-河南一县城因新年烟花禁令触发警民冲突，警车被掀翻
-</h4>
-</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="container">
-<div class="row">
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-<div class="slide-in-wg suspended" data-cookie-id="wgt-32344-0">
-<div class="wg-hiding-area">
-<span class="ico ico-arrow-right"></span>
-<div class="media-block-wrap">
-<h2 class="section-head">推荐</h2>
-<div class="row">
-<ul>
-<li class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mb-grid">
-<div class="media-block ">
-<a href="/a/china-reopens-world-on-high-alert-20230108/6909461.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="中国重开国门之际，多国对其实施限制 专家：这怪不得别人">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/03370000-0aff-0242-4169-08dae9de35e2_cx0_cy6_cw0_w100_r1.jpg" alt="旅客在北京首都国际机场国际航班值机柜台办理登机手续后使用智能手机填写健康申明。（2022年12月29日，资料照片）" />
-</noscript>
-<img data-src="https://gdb.voanews.com/03370000-0aff-0242-4169-08dae9de35e2_cx0_cy6_cw0_w33_r1.jpg" src="" alt="旅客在北京首都国际机场国际航班值机柜台办理登机手续后使用智能手机填写健康申明。（2022年12月29日，资料照片）" />
-</div>
-</a>
-<div class="media-block__content media-block__content--h">
-<a href="/a/china-reopens-world-on-high-alert-20230108/6909461.html">
-<h4 class="media-block__title media-block__title--size-4" title="中国重开国门之际，多国对其实施限制 专家：这怪不得别人">
+<div class=content>
+<span class=category>新冠疫情</span>
+<a href=https://www.voachinese.com/a/china-reopens-world-on-high-alert-20230108/6909461.html target=_top>
+<h4>
+<span class=title>
 中国重开国门之际，多国对其实施限制 专家：这怪不得别人
+</span>
 </h4>
 </a>
 </div>
 </div>
 </li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="container" id="youmaylike">
-<div class="row">
-<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-<div class="media-block-wrap">
-<h2 class="section-head">您可能感兴趣的内容</h2>
-<div class="row">
-<ul>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mb-grid">
-<div class="media-block ">
-<a href="/a/china-reopens-world-on-high-alert-20230108/6909461.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="中国重开国门之际，多国对其实施限制 专家：这怪不得别人">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/03370000-0aff-0242-4169-08dae9de35e2_cx0_cy6_cw0_w100_r1.jpg" alt="旅客在北京首都国际机场国际航班值机柜台办理登机手续后使用智能手机填写健康申明。（2022年12月29日，资料照片）" />
-</noscript>
-<img data-src="https://gdb.voanews.com/03370000-0aff-0242-4169-08dae9de35e2_cx0_cy6_cw0_w33_r1.jpg" src="" alt="旅客在北京首都国际机场国际航班值机柜台办理登机手续后使用智能手机填写健康申明。（2022年12月29日，资料照片）" />
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/travelers-rush-to-take-advantage-of-china-reopening-20230108/6909448.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/03370000-0aff-0242-4f1a-08daf19bef74_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/03370000-0aff-0242-4f1a-08daf19bef74_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+</amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a class="category category--mb category--size-4" href="/z/5973" title="新冠疫情">
-新冠疫情
-</a>
-<a href="/a/china-reopens-world-on-high-alert-20230108/6909461.html">
-<h4 class="media-block__title media-block__title--size-4" title="中国重开国门之际，多国对其实施限制 专家：这怪不得别人">
-中国重开国门之际，多国对其实施限制 专家：这怪不得别人
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mb-grid">
-<div class="media-block ">
-<a href="/a/travelers-rush-to-take-advantage-of-china-reopening-20230108/6909448.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="中国取消疫情边控及入境隔离 中港通关首先受益 周边邻国积极跟进">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/03370000-0aff-0242-4f1a-08daf19bef74_w100_r1.jpg" alt="资料照 - 2020年10月20日，来自中国上海的观光客手持特别旅游签证抵达泰国曼谷的素万那普机场。" />
-</noscript>
-<img data-src="https://gdb.voanews.com/03370000-0aff-0242-4f1a-08daf19bef74_w33_r1.jpg" src="" alt="资料照 - 2020年10月20日，来自中国上海的观光客手持特别旅游签证抵达泰国曼谷的素万那普机场。" />
-</div>
-</a>
-<div class="media-block__content media-block__content--h">
-<a class="category category--mb category--size-4" href="/z/1757" title="中国">
-中国
-</a>
-<a href="/a/travelers-rush-to-take-advantage-of-china-reopening-20230108/6909448.html">
-<h4 class="media-block__title media-block__title--size-4" title="中国取消疫情边控及入境隔离 中港通关首先受益 周边邻国积极跟进">
+<div class=content>
+<span class=category>中国</span>
+<a href=https://www.voachinese.com/a/travelers-rush-to-take-advantage-of-china-reopening-20230108/6909448.html target=_top>
+<h4>
+<span class=title>
 中国取消疫情边控及入境隔离 中港通关首先受益 周边邻国积极跟进
+</span>
 </h4>
 </a>
 </div>
 </div>
 </li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mb-grid">
-<div class="media-block ">
-<a href="/a/protesters-clash-with-police-at-antigen-kit-maker-factory-in-china-20230108/6909330.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="重庆生产新冠核酸检测试剂厂工人抗议欠薪及解雇与警察爆发冲突">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/09410000-0a00-0242-180e-08daf1884941_w100_r1.jpg" alt="生产抗原检测试剂盒、全自动核酸提取仪等防疫产品的重庆大渡口中元汇吉药厂星期六（1月7日）出现数以百计的员工聚集在厂区游行抗议，一度警方发生冲突。" />
-</noscript>
-<img data-src="https://gdb.voanews.com/09410000-0a00-0242-180e-08daf1884941_w33_r1.jpg" src="" alt="生产抗原检测试剂盒、全自动核酸提取仪等防疫产品的重庆大渡口中元汇吉药厂星期六（1月7日）出现数以百计的员工聚集在厂区游行抗议，一度警方发生冲突。" />
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/protesters-clash-with-police-at-antigen-kit-maker-factory-in-china-20230108/6909330.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/09410000-0a00-0242-180e-08daf1884941_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/09410000-0a00-0242-180e-08daf1884941_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+</amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a class="category category--mb category--size-4" href="/z/1757" title="中国">
-中国
-</a>
-<a href="/a/protesters-clash-with-police-at-antigen-kit-maker-factory-in-china-20230108/6909330.html">
-<h4 class="media-block__title media-block__title--size-4" title="重庆生产新冠核酸检测试剂厂工人抗议欠薪及解雇与警察爆发冲突">
+<div class=content>
+<span class=category>中国</span>
+<a href=https://www.voachinese.com/a/protesters-clash-with-police-at-antigen-kit-maker-factory-in-china-20230108/6909330.html target=_top>
+<h4>
+<span class=title>
 重庆生产新冠核酸检测试剂厂工人抗议欠薪及解雇与警察爆发冲突
+</span>
 </h4>
 </a>
 </div>
 </div>
 </li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mb-grid">
-<div class="media-block ">
-<a href="/a/china-suspends-social-media-accounts-of-covid-policy-critics-20230108/6909172.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="中国封禁批评防疫政策的社交媒体账户">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/E05E09ED-1F4F-4ABF-BBF6-BDF6EB1ECB04_w100_r1.jpg" alt="资料照片：在北京拍摄的这张图片中，新浪微博网站的标志“微博”出现在屏幕上。" />
-</noscript>
-<img data-src="https://gdb.voanews.com/E05E09ED-1F4F-4ABF-BBF6-BDF6EB1ECB04_w33_r1.jpg" src="" alt="资料照片：在北京拍摄的这张图片中，新浪微博网站的标志“微博”出现在屏幕上。" />
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/china-suspends-social-media-accounts-of-covid-policy-critics-20230108/6909172.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/E05E09ED-1F4F-4ABF-BBF6-BDF6EB1ECB04_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/E05E09ED-1F4F-4ABF-BBF6-BDF6EB1ECB04_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+</amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a class="category category--mb category--size-4" href="/z/1757" title="中国">
-中国
-</a>
-<a href="/a/china-suspends-social-media-accounts-of-covid-policy-critics-20230108/6909172.html">
-<h4 class="media-block__title media-block__title--size-4" title="中国封禁批评防疫政策的社交媒体账户">
+<div class=content>
+<span class=category>中国</span>
+<a href=https://www.voachinese.com/a/china-suspends-social-media-accounts-of-covid-policy-critics-20230108/6909172.html target=_top>
+<h4>
+<span class=title>
 中国封禁批评防疫政策的社交媒体账户
+</span>
 </h4>
 </a>
 </div>
 </div>
 </li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mb-grid">
-<div class="media-block ">
-<a href="/a/germany-belgium-luxembourg-discourage-travel-to-covid-hit-china-20230108/6909132.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="德国、比利时和卢森堡劝阻本国国民非必要不要前往中国旅行">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/09410000-0a00-0242-caba-08daef1971d4_w100_r1.jpg" alt="上海一家医院的医生正在帮助一名病人打点滴。（2023年1月5日）" />
-</noscript>
-<img data-src="https://gdb.voanews.com/09410000-0a00-0242-caba-08daef1971d4_w33_r1.jpg" src="" alt="上海一家医院的医生正在帮助一名病人打点滴。（2023年1月5日）" />
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/germany-belgium-luxembourg-discourage-travel-to-covid-hit-china-20230108/6909132.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/09410000-0a00-0242-caba-08daef1971d4_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/09410000-0a00-0242-caba-08daef1971d4_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+</amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a class="category category--mb category--size-4" href="/z/1757" title="中国">
-中国
-</a>
-<a href="/a/germany-belgium-luxembourg-discourage-travel-to-covid-hit-china-20230108/6909132.html">
-<h4 class="media-block__title media-block__title--size-4" title="德国、比利时和卢森堡劝阻本国国民非必要不要前往中国旅行">
+<div class=content>
+<span class=category>中国</span>
+<a href=https://www.voachinese.com/a/germany-belgium-luxembourg-discourage-travel-to-covid-hit-china-20230108/6909132.html target=_top>
+<h4>
+<span class=title>
 德国、比利时和卢森堡劝阻本国国民非必要不要前往中国旅行
+</span>
 </h4>
 </a>
 </div>
 </div>
 </li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4 mb-grid">
-<div class="media-block ">
-<a href="/a/the-pla-navy-follows-the-maritime-silk-road-to-the-third-island-chain-20230107/6908707.html" class="img-wrap img-wrap--t-spac img-wrap--size-4 img-wrap--float" title="循海上丝绸之路 中国海军能力投向第三岛链 ">
-<div class="thumb thumb16_9">
-<noscript class="nojs-img">
-<img src="https://gdb.voanews.com/9BF4122D-49DE-4E7B-9CB1-D3063CCC251C_w100_r1.jpg" alt="中国海军052D型贵阳号导弹驱逐舰在青岛附近参加海军演练。（2019年4月23日）" />
-</noscript>
-<img data-src="https://gdb.voanews.com/9BF4122D-49DE-4E7B-9CB1-D3063CCC251C_w33_r1.jpg" src="" alt="中国海军052D型贵阳号导弹驱逐舰在青岛附近参加海军演练。（2019年4月23日）" />
+<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<div class="media-block horizontal with-category has-img size-4">
+<a class=img-wrap href=https://www.voachinese.com/a/the-pla-navy-follows-the-maritime-silk-road-to-the-third-island-chain-20230107/6908707.html target=_top>
+<div class=thumb>
+<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/9BF4122D-49DE-4E7B-9CB1-D3063CCC251C_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/9BF4122D-49DE-4E7B-9CB1-D3063CCC251C_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
+</amp-img>
 </div>
 </a>
-<div class="media-block__content media-block__content--h">
-<a class="category category--mb category--size-4" href="/z/1757" title="中国">
-中国
-</a>
-<a href="/a/the-pla-navy-follows-the-maritime-silk-road-to-the-third-island-chain-20230107/6908707.html">
-<h4 class="media-block__title media-block__title--size-4" title="循海上丝绸之路 中国海军能力投向第三岛链 ">
+<div class=content>
+<span class=category>中国</span>
+<a href=https://www.voachinese.com/a/the-pla-navy-follows-the-maritime-silk-road-to-the-third-island-chain-20230107/6908707.html target=_top>
+<h4>
+<span class=title>
 循海上丝绸之路 中国海军能力投向第三岛链
+</span>
 </h4>
 </a>
 </div>
@@ -1647,166 +306,130 @@ nthLink http://bit.ly/download-nthLink 应用程序商店(iOS版 安卓版)
 </ul>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-<div class="back-to-top-nav disabled visible-xs">
-<div class="container">
-<div class="row">
-<div class="col-xs-12">
-<a title="回页顶" class="back-to-top-link" href="#page">
-<span class="ico ico-chevron-up"></span>
-<span class="text">回页顶</span>
-</a>
-</div>
-</div>
-</div>
-</div>
-<footer role="contentinfo">
-<div id="foot" class="foot">
-<div class="container">
-<div class="foot-nav collapsed" id="foot-nav">
-<div class="menu">
-<ul class="items">
+</section>
+<footer class=foot>
+<div class=container>
+<div class=foot-nav id=foot-nav>
+<div class=menu>
+<ul class=items>
 <li class="socials block-socials">
-<span class="handler" id="socials-handler">
-关注我们
-</span>
-<div class="inner">
+<span class=handler id=socials-handler>关注我们</span>
+<div class=inner>
 <ul class="subitems follow">
 <li>
-<a href="https://www.facebook.com/voachinese" title="在脸书关注我们" data-analytics-text="follow_on_facebook" class="btn btn--rounded js-social-btn btn-facebook" target="_blank" rel="noopener">
+<a class="btn btn--rounded js-social-btn btn-facebook" data-analytics-text=follow_on_facebook href=https://www.facebook.com/voachinese rel=noopener target=_blank title=在脸书关注我们>
 <span class="ico ico-facebook-alt ico--rounded"></span>
 </a>
 </li>
 <li>
-<a href="https://twitter.com/voachinese" title="在推特上关注我们" data-analytics-text="follow_on_twitter" class="btn btn--rounded js-social-btn btn-twitter" target="_blank" rel="noopener">
+<a class="btn btn--rounded js-social-btn btn-twitter" data-analytics-text=follow_on_twitter href=https://twitter.com/voachinese rel=noopener target=_blank title=在推特上关注我们>
 <span class="ico ico-twitter ico--rounded"></span>
 </a>
 </li>
 <li>
-<a href="https://www.youtube.com/voachinese" title="在YouTube上关注我们" data-analytics-text="follow_on_youtube" class="btn btn--rounded js-social-btn btn-youtube" target="_blank" rel="noopener">
+<a class="btn btn--rounded js-social-btn btn-youtube" data-analytics-text=follow_on_youtube href=https://www.youtube.com/voachinese rel=noopener target=_blank title=在YouTube上关注我们>
 <span class="ico ico-youtube ico--rounded"></span>
 </a>
 </li>
 <li>
-<a href="https://www.instagram.com/voachinese/" title="在Instagram上关注我们" data-analytics-text="follow_on_instagram" class="btn btn--rounded js-social-btn btn-instagram" target="_blank" rel="noopener">
+<a class="btn btn--rounded js-social-btn btn-instagram" data-analytics-text=follow_on_instagram href=https://www.instagram.com/voachinese/ rel=noopener target=_blank title=在Instagram上关注我们>
 <span class="ico ico-instagram ico--rounded"></span>
 </a>
 </li>
 <li>
-<a href="http://bit.ly/VOAgooglenews" title="欢迎通过&quot;谷歌新闻&quot;关注@美国之音中文网 - VOA Mandarin" data-analytics-text="follow_on_google_news" class="btn btn--rounded js-social-btn btn-g-news" target="_blank" rel="noopener">
+<a class="btn btn--rounded js-social-btn btn-g-news" data-analytics-text=follow_on_google_news href=http://bit.ly/VOAgooglenews rel=noopener target=_blank title="欢迎通过&#34;谷歌新闻&#34;关注@美国之音中文网 - VOA Mandarin">
 <span class="ico ico-google-news ico--rounded"></span>
 </a>
 </li>
 <li>
-<a href="/rssfeeds" title="聚合新闻" data-analytics-text="follow_on_rss" class="btn btn--rounded js-social-btn btn-rss">
+<a class="btn btn--rounded js-social-btn btn-rss" data-analytics-text=follow_on_rss href=https://www.voachinese.com/rssfeeds target=_top title=聚合新闻>
 <span class="ico ico-rss ico--rounded"></span>
 </a>
 </li>
 <li>
-<a href="/podcasts" title="播客" data-analytics-text="follow_on_podcast" class="btn btn--rounded js-social-btn btn-podcast">
+<a class="btn btn--rounded js-social-btn btn-podcast" data-analytics-text=follow_on_podcast href=https://www.voachinese.com/podcasts target=_top title=播客>
 <span class="ico ico-podcast ico--rounded"></span>
 </a>
 </li>
 <li>
-<a href="/subscribe.html" title="订阅电邮新闻、英语学习教材" data-analytics-text="follow_on_subscribe" class="btn btn--rounded js-social-btn btn-email">
+<a class="btn btn--rounded js-social-btn btn-email" data-analytics-text=follow_on_subscribe href=https://www.voachinese.com/subscribe.html target=_top title=订阅电邮新闻、英语学习教材>
 <span class="ico ico-email ico--rounded"></span>
 </a>
 </li>
 </ul>
 </div>
 </li>
-<li class="block-primary collapsed collapsible item">
-<span class="handler">
-网上服务
-<span title="close tab" class="ico ico-chevron-up"></span>
-<span title="open tab" class="ico ico-chevron-down"></span>
-<span title="添加" class="ico ico-plus"></span>
-<span title="清除" class="ico ico-minus"></span>
-</span>
-<div class="inner">
-<ul class="subitems">
-<li class="subitem">
-<a class="handler" href="http://bit.ly/dianyou" title="订阅电邮新闻/英语教材" >订阅电邮新闻/英语教材</a>
+<li class="block-primary item">
+<span class=handler>网上服务</span>
+<div class=inner>
+<ul class=subitems>
+<li class=subitem>
+<a class=handler href=http://bit.ly/dianyou target=_top>订阅电邮新闻/英语教材</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.voachinese.com/p/5897.html" title="美国之音应用程序简介" >美国之音应用程序简介</a>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/5897.html target=_top>美国之音应用程序简介</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.voachinese.com/p/program-schedule.html" title="电视广播节目表和频率表" >电视广播节目表和频率表</a>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/program-schedule.html target=_top>电视广播节目表和频率表</a>
 </li>
 </ul>
 </div>
 </li>
-<li class="block-primary collapsed collapsible item">
-<span class="handler">
-卫星信息
-<span title="close tab" class="ico ico-chevron-up"></span>
-<span title="open tab" class="ico ico-chevron-down"></span>
-<span title="添加" class="ico ico-plus"></span>
-<span title="清除" class="ico ico-minus"></span>
-</span>
-<div class="inner">
-<ul class="subitems">
-<li class="subitem">
-<a class="handler" href="/p/5985.html" title="通过卫星收看VOA卫视" >通过卫星收看VOA卫视</a>
+<li class="block-primary item">
+<span class=handler>卫星信息</span>
+<div class=inner>
+<ul class=subitems>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/5985.html target=_top>通过卫星收看VOA卫视</a>
 </li>
-<li class="subitem">
-<a class="handler" href="/p/5869.html" title="如何收听VOA短波广播" >如何收听VOA短波广播</a>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/5869.html target=_top>如何收听VOA短波广播</a>
 </li>
 </ul>
 </div>
 </li>
-<li class="block-secondary collapsed collapsible item">
-<span class="handler">
-其他信息
-<span title="close tab" class="ico ico-chevron-up"></span>
-<span title="open tab" class="ico ico-chevron-down"></span>
-<span title="添加" class="ico ico-plus"></span>
-<span title="清除" class="ico ico-minus"></span>
-</span>
-<div class="inner">
-<ul class="subitems">
-<li class="subitem">
-<a class="handler" href="/p/3862.html" title="关于美国之音" >关于美国之音</a>
+<li class="block-primary item">
+<span class=handler>其他信息</span>
+<div class=inner>
+<ul class=subitems>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/3862.html target=_top>关于美国之音</a>
 </li>
-<li class="subitem">
-<a class="handler" href="/p/3848.html" title="联系我们" >联系我们</a>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/3848.html target=_top>联系我们</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.voachinese.com/p/7969.html" title="VOA+" target="_blank" rel="noopener">VOA+</a>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/7969.html target=_top>VOA+</a>
 </li>
-<li class="subitem">
-<a class="handler" href="/p/5946.html" title="美国之音宪章" >美国之音宪章</a>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/5946.html target=_top>美国之音宪章</a>
 </li>
-<li class="subitem">
-<a class="handler" href="/p/3874.html" title="条款及私隐政策" >条款及私隐政策</a>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/3874.html target=_top>条款及私隐政策</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.usagm.gov/" title="美国全球媒体总署" target="_blank" rel="noopener">美国全球媒体总署</a>
+<li class=subitem>
+<a class=handler href=https://www.usagm.gov/ target=_top>美国全球媒体总署</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://editorials.voa.gov/Chinese.html" title="社论" target="_blank" rel="noopener">社论</a>
+<li class=subitem>
+<a class=handler href=https://editorials.voa.gov/Chinese.html target=_top>社论</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.voacantonese.com" title="美國之音粵語網" target="_blank" rel="noopener">美國之音粵語網</a>
+<li class=subitem>
+<a class=handler href=https://www.voacantonese.com/ target=_top>美國之音粵語網</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.voanews.com" title="VOA English" >VOA English</a>
+<li class=subitem>
+<a class=handler href=https://www.voanews.com/ target=_top>VOA English</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.voatibetan.com/" title="བོད་ཡིག" target="_blank" rel="noopener">བོད་ཡིག</a>
+<li class=subitem>
+<a class=handler href=https://www.voatibetan.com/ target=_top>བོད་ཡིག</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.insidevoa.com/" title="Media Relations" target="_blank" rel="noopener">Media Relations</a>
+<li class=subitem>
+<a class=handler href=https://www.insidevoa.com/ target=_top>Media Relations</a>
 </li>
-<li class="subitem">
-<a class="handler" href="https://www.voanews.com/section-508" title="Accessibility" target="_blank" rel="noopener">Accessibility</a>
+<li class=subitem>
+<a class=handler href=https://www.voanews.com/section-508 target=_top>Accessibility</a>
 </li>
-<li class="subitem">
-<a class="handler" href="http://www.rfa.org" title="自由亚洲网站" target="_blank" rel="noopener">自由亚洲网站</a>
+<li class=subitem>
+<a class=handler href=http://www.rfa.org/ target=_top>自由亚洲网站</a>
 </li>
 </ul>
 </div>
@@ -1814,72 +437,189 @@ nthLink http://bit.ly/download-nthLink 应用程序商店(iOS版 安卓版)
 </ul>
 </div>
 </div>
-<div class="foot__item foot__item--copyrights">
-<p class="copyright"></p>
-<p class="time-zone">中国时间</p>
+<p class=copyright></p>
+</div>
+</footer>
+</div>
+<amp-sidebar class=i-amphtml-layout-nodisplay hidden=hidden i-amphtml-layout=nodisplay id=primaryNavigation layout=nodisplay side=right>
+<button class=navigationToggle on=tap:primaryNavigation.close tabindex=0><span class="ico ico-close"></span> <span>关闭</span></button>
+<div class=navigation id=navigation>
+<div class=media>
+<ul class=items>
+<li class=item id=menu-item-listen>
+<a class="handler live" href=https://www.voachinese.com/Navigation/LiveAudioNJS target=_top>
+<span class="ico ico-audio-rounded"></span>
+<span class=text>广播音频</span>
+<span class=live></span>
+</a>
+</li>
+<li class=item id=menu-item-watch>
+<a class=handler href=https://www.voachinese.com/Navigation/LiveVideoNJS target=_top>
+<span class="ico ico-play-rounded"></span>
+<span class=text>电视节目</span>
+</a>
+</li>
+</ul>
+</div>
+<div class=menu>
+<ul class=items>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/p/6188.html target=_top>主页</a>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/p/6317.html target=_top>美国</a>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/China target=_top>中国</a>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/Taiwan target=_top>台湾</a>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/p/7681.html target=_top>港澳</a>
+</li>
+<li class=" item">
+<span class=handler>国际</span>
+<div class=inner>
+<ul class=subitems>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/6143.html target=_top>最新国际新闻</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1745 target=_top>亚太</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1759 target=_top>中东</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1753 target=_top>欧洲</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1741 target=_top>非洲</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1742 target=_top>美洲</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/5374 target=_top>全球议题</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<span class=handler>分类新闻</span>
+<div class=inner>
+<ul class=subitems>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1748 target=_top>经济·金融·贸易</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/5120 target=_top>人权·法律·宗教</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/5679 target=_top>科教·文娱·体健</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1772 target=_top>军事</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/2191 target=_top>劳工</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1752 target=_top>环境</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/p/5625.html target=_top>美中关系</a>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/p/8549.html target=_top>2022年终报道</a>
+</li>
+<li class=" item">
+<span class=handler>热点专题</span>
+<div class=inner>
+<ul class=subitems>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/5625.html target=_top>美中关系</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/3874 target=_top>年终报道</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/UkraineCrisis target=_top>乌克兰局势</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/6107.html target=_top>国会报道</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/PressFreedom target=_top>新闻自由</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/7646.html target=_top>新冠病毒疫情</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/6097.html target=_top>台海两岸关系</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/5626.html target=_top>南中国海争端</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/Refugees target=_top>难民问题</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/5966.html target=_top>朝鲜半岛局势</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/2393 target=_top>新疆西藏问题</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/p/6138.html target=_top>美国之音专访</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/Factcheck target=_top>揭谎频道</a>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/p/3854.html target=_top>VOA卫视</a>
+</li>
+<li class=" item">
+<span class=handler>音频</span>
+<div class=inner>
+<ul class=subitems>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/3637 target=_top>时事大家谈</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/1738 target=_top>新闻及采访音频</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/3514 target=_top>学英语音频</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/2370 target=_top>下午5-6点广播(英语教学)</a>
+</li>
+<li class=subitem>
+<a class=handler href=https://www.voachinese.com/z/2372 target=_top>晚上6-7点广播(时事经纬)</a>
+</li>
+</ul>
+</div>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/p/4889.html target=_top>上网办法</a>
+</li>
+<li class=" item">
+<a class=handler href=https://www.voachinese.com/p/program-schedule.html target=_top>节目表</a>
+</li>
+<li class="last-menu-item item">
+<a class=handler href=https://www.voachinese.com/live/video/ target=_top>直播</a>
+</li>
+</ul>
 </div>
 </div>
-</div>
-</footer> </div>
-</div>
-<script type="text/javascript">
-// register service worker if supported
-// Service-worker file needs to exist in root folder, because it defines its scope = it can intercept only requests below it in the tree structure
-var isPreview = (/[\&\?](previewId|design)=/).test(window.location.href);
-if (!isPreview) {
-window.addEventListener('load', function () {
-if ('serviceWorker' in navigator && (pwaEnabled || typeof OneSignal != 'undefined' || !swCacheDisabled)) {
-var sw = '/OneSignalSDKWorker.js';
-if (typeof OneSignal != 'undefined' && OneSignal.config) {
-sw = sw + '?appId=' + OneSignal.config.appId;
-}
-if (pwaEnabled) {
-sw = sw.indexOf('?') > -1 ? sw + '&pwa=true' : sw + '?pwa=true';
-}
-if (swCacheDisabled) {
-sw = sw.indexOf('?') > -1 ? sw + '&sw-cache-dis=true' : sw + '?sw-cache-dis=true';
-}
-navigator.serviceWorker.register(sw).then(function (registration) {
-console.log('ServiceWorker registration successful with scope: ', registration.scope);
-}, function (err) {
-console.log('ServiceWorker registration failed: ', err);
-});
-}
-});
-}
-</script>
-<script type="text/javascript">
-// opera mini - disable ico font
-if (navigator.userAgent.match(/Opera Mini/i)) {
-document.getElementsByTagName("body")[0].className.replace("can-ff", "");
-}
-// mobile browsers test
-if (typeof RFE !== 'undefined') {
-if (RFE.isMobile.any()) {
-document.getElementsByTagName("body")[0].className += " is-mobile";
-}
-else {
-document.getElementsByTagName("body")[0].className += " is-not-mobile";
-}
-}
-</script>
-<script src="/conf.js?x=248" type="text/javascript"></script>
-<div class="responsive-indicator">
-<div class="visible-xs-block">XS</div>
-<div class="visible-sm-block">SM</div>
-<div class="visible-md-block">MD</div>
-<div class="visible-lg-block">LG</div>
-</div>
-<script type="text/javascript">
-var bar_data = {
-"apiId": "6796624",
-"apiType": "1",
-"isEmbedded": "0",
-"culture": "zh-CN",
-"cookieName": "cmsLoggedIn",
-"cookieDomain": "www.voachinese.com"
-};
-</script>
-<div id="scriptLoaderTarget" style="display:none;contain:strict;"></div>
-</body>
-</html>
+</amp-sidebar>
+
+</body></html>

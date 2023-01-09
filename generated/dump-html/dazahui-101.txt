@@ -1,1131 +1,1005 @@
-<!DOCTYPE html>
-<!--[if lt IE 7 ]><!-->
-<html lang="zh" class="ie ie6"> <!--<![endif]-->
-<!--[if IE 7 ]><!-->
-<html lang="zh" class="ie ie7"> <!--<![endif]-->
-<!--[if IE 8 ]><!-->
-<html lang="zh" class="ie ie8"> <!--<![endif]-->
-<!--[if IE 9 ]><!-->
-<html lang="zh" class="ie ie9"> <!--<![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<html lang="zh"> <!--<![endif]-->
-<head>
-<link rel="canonical" href="https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694">
-<link rel="amphtml" href="https://amp.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694">
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694">
-<link rel="icon" href="/favicon.png" type="image/png">
-<link rel="apple-touch-icon" href="/favicon.png">
-<script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
-<script src="https://code.jquery.com/jquery-migrate-3.0.1.js"></script>
-<script type="text/javascript" src="/js/dsgvo/dsgvo_utils.js"></script>
-<script type="text/javascript" src="/js/beta_ROAD/accessToROAD_Beta.js"></script>
-<script type="text/javascript">
-window.languagePreferenceTTL = 2628000;
-var languagePreferenceTTL = 2628000;
-var hostNameMobile = "https://m.dw.com";
-var mobileRedirectTTL = 86400;
-</script>
-<script type="text/javascript" src="/js/de.dw.cdaLanguage.6.93.0.min.js"></script>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<!--[if IE]>
-<meta http-equiv="imagetoolbar" content="no"><![endif]-->
-<!-- PAGINATION for SEO -->
-<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-<meta name="revisit-after" content="1 days">
-<meta name="publisher" content="Deutsche Welle (www.dw.com)">
-<meta name="copyright" content="&copy; 2023 Deutsche Welle (www.dw.com)">
-<meta name="author" content="Deutsche Welle (www.dw.com)">
-<meta name="apple-itunes-app" content="app-id=498833085">
-<meta name="google-play-app" content="app-id=com.idmedia.android.newsportal">
-<meta name="language" content="zh_CN">
-<meta name="keywords" content="中美,美中,关税">
-<meta name="news_keywords" content="中美,美中,关税">
-<meta name="description" content="美中互征惩罚性关税：北京有意设置温和壁垒，以便为谈判留下空间？特朗普的关键是保护美国的科技创新？">
-<!-- Facebook -->
-<meta property="fb:pages" content="146634408702997">
-<meta property="fb:pages" content="146822482008281">
-<meta property="fb:pages" content="46657640977">
-<meta property="fb:pages" content="66069193936">
-<meta property="fb:pages" content="338998993519">
-<meta property="fb:pages" content="164418313578851">
-<meta property="fb:pages" content="180013702044400">
-<meta property="fb:pages" content="141111232580541">
-<meta property="fb:pages" content="130435762955">
-<meta property="fb:pages" content="24369314439">
-<meta property="fb:pages" content="131314590235972">
-<meta property="fb:pages" content="204430626300528">
-<meta property="fb:pages" content="229148123764036">
-<meta property="fb:pages" content="533361940012569">
-<meta property="fb:pages" content="49621769215">
-<meta property="fb:pages" content="142061114273">
-<meta property="fb:pages" content="125113390860188">
-<meta property="fb:pages" content="144393622272640">
-<meta property="fb:pages" content="245974238781165">
-<meta property="fb:pages" content="171270196224553">
-<meta property="fb:pages" content="118184978196457">
-<meta property="fb:pages" content="178734186974">
-<meta property="fb:pages" content="329373860454526">
-<meta property="fb:pages" content="107256659303602">
-<meta property="fb:pages" content="423198735471">
-<meta property="fb:pages" content="122470481130194">
-<meta property="fb:pages" content="114256188645">
-<meta property="fb:pages" content="165174814436">
-<meta property="fb:pages" content="155438574470276">
-<meta property="fb:pages" content="50498982209">
-<meta property="fb:pages" content="146790007393">
-<meta property="fb:pages" content="164947183521601">
-<meta property="fb:pages" content="211745678846355">
-<meta property="fb:pages" content="134391923301563">
-<meta property="fb:pages" content="63821723396">
-<meta property="fb:pages" content="188157417929359">
-<meta property="fb:pages" content="183239561787790">
-<meta property="fb:pages" content="449623021724487">
-<meta property="fb:pages" content="138206409609783">
-<meta property="fb:pages" content="85945845557">
-<meta property="fb:pages" content="226482300719948">
-<meta property="fb:pages" content="60713064323">
-<meta property="fb:pages" content="239025992817731">
-<meta property="fb:pages" content="822896961134864">
-<meta property="fb:pages" content="522458607878947">
-<meta property="fb:pages" content="188850101556821">
-<meta property="fb:pages" content="618268655042471">
-<meta property="fb:pages" content="423198735471">
-<meta property="fb:pages" content="276810869063357">
-<meta property="fb:pages" content="100960075341">
-<meta property="fb:pages" content="80408983549">
-<meta property="fb:pages" content="100897936618493">
-<meta property="fb:pages" content="138706041945">
-<meta property="fb:pages" content="211775368865879">
-<meta property="fb:pages" content="171400242905536">
-<meta property="fb:pages" content="132731133463621">
-<meta property="fb:pages" content="195750250443390">
-<meta property="fb:pages" content="179443708766951">
-<meta property="fb:pages" content="1804124663153407">
-<meta property="fb:pages" content="134957921127">
-<meta property="fb:pages" content="308858529571862">
-<meta property="fb:pages" content="245084839304894">
-<meta property="fb:pages" content="1643141409322787">
-<meta property="fb:pages" content="161206864395653">
-<meta property="fb:pages" content="166280690549965">
-<meta property="fb:pages" content="1306227629456410">
-<meta property="fb:pages" content="172144003288251">
-<meta property="fb:pages" content="789839844513554">
-<meta property="fb:pages" content="1907513229480533">
-<meta property="fb:pages" content="1673788669587458">
-<meta property="fb:pages" content="475937372553968">
-<meta property="fb:pages" content="670958179648696">
-<meta property="fb:pages" content="608485009178753">
-<meta property="fb:pages" content="174528749295024">
-<meta property="fb:pages" content="86161846910">
-<meta property="fb:pages" content="268396416590741">
-<meta property="fb:pages" content="239261806709">
-<meta property="fb:pages" content="61626715828">
-<meta property="fb:pages" content="210354862357400">
-<meta property="fb:admins" content="100000944106340">
-<meta property="fb:admins" content="100004095264842">
-<meta property="fb:admins" content="100004135624835">
-<meta property="og:description" content="美中互征惩罚性关税：北京有意设置温和壁垒，以便为谈判留下空间？特朗普的关键是保护美国的科技创新？"/>
-<meta property="og:url" content="https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694"/>
-<meta property="og:site_name" content="DW.COM"/>
-<meta property="og:title" content="德语媒体：关税的背后是美中对抗？ | DW | 03.04.2018"/>
-<meta property="og:image"
-content="https://static.dw.com/image/42965162_6.jpg"/>
-<meta property="og:image:width" content="940"/>
-<meta property="og:image:height" content="529"/>
-<link rel="stylesheet" href="/css/dwde-ltr.6.93.0.min.css" type="text/css"
-media="all"/>
-<link rel="stylesheet" href="/css/dw-print.css" type="text/css" media="print"/>
-<link rel="stylesheet" href="/css/dw-fonts-chinese.css" type="text/css" media="all"/>
-<!--[if IE 8]>
-<link rel="stylesheet" href="/css/dw-epg-ie-ltr.css" type="text/css" media="all"/><![endif]-->
-<style type="text/css" media="screen">
-div#navMain ul#navLevel1 a#n01 {
-color: #fff !important;
+<!doctype html><html amp i-amphtml-layout style="padding-top:32px !important;" transformed="google;v=8"><head><meta charset=utf-8><meta content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" name=viewport><style amp-runtime i-amphtml-version=012212151632002>html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
+/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
+/*# sourceURL=/css/ampshared.css*/</style><meta content=en_US property=og:locale><meta content=article property=og:type><meta content="【横河观点】六中公报废话多 没写什么才重要 - 大纪元" property=og:title><meta content=六中全会公报是个大杂烩，继承还是否定，编造历史的经典教科书，毛泽东都会抗议。 property=og:description><meta content=https://www.epochtimes.com/gb/21/11/11/n13370642.htm property=og:url><meta content="大纪元 www.epochtimes.com" property=og:site_name><meta content=2021-11-12T14:00:37+08:00 property=og:updated_time><meta content=https://i.epochtimes.com/assets/uploads/2021/11/id13370739-1200x800-700x359.jpg property=og:image><meta content=1571885662850711 property=fb:app_id><meta content=summary_large_image name=twitter:card><meta content=六中全会公报是个大杂烩，继承还是否定，编造历史的经典教科书，毛泽东都会抗议。 name=twitter:description><meta content="【横河观点】六中公报废话多 没写什么才重要 - 大纪元" name=twitter:title><meta content=@dajiyuan name=twitter:site><meta content="大纪元 www.epochtimes.com" name=twitter:domain><meta content=https://i.epochtimes.com/assets/uploads/2021/11/id13370739-1200x800-700x359.jpg name=twitter:image><meta content=@dajiyuan name=twitter:creator><meta content=noindex name=robots><meta content=no-referrer-when-downgrade name=referrer><meta content=epochtimes.com name=amp-cookie-scope><meta content="10=2,11=2" name=amp-usqp><script id=__AMP_EXP type=text/json>{"flexible-bitrate":0.1,"amp-story-first-page-max-bitrate":0.3,"story-disable-animations-first-page":1,"story-load-first-page-only":1,"story-load-inactive-outside-viewport":1,"story-ad-page-outlink":0.02,"amp-geo-ssr":1,"story-remote-localization":1,"amp-story-subscriptions":1}</script><script async nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0.js></script><script async crossorigin=anonymous src=https://cdn.ampproject.org/rtv/012212151632002/v0.mjs type=module></script><script async custom-element=amp-ad-network-doubleclick-impl nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-ad-network-doubleclick-impl-0.1.js></script><script async crossorigin=anonymous custom-element=amp-ad-network-doubleclick-impl src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-ad-network-doubleclick-impl-0.1.mjs type=module></script><script amp-onerror>[].slice.call(document.querySelectorAll("script[src*='/v0.js'],script[src*='/v0.mjs']")).forEach(function(s){s.onerror=function(){document.querySelector('style[amp-boilerplate]').textContent=''}})</script><script async src=https://cdn.ampproject.org/viewer/google/va9.js></script><script async custom-element=amp-ad nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-ad-0.1.js></script><script async crossorigin=anonymous custom-element=amp-ad src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-ad-0.1.mjs type=module></script><script async custom-element=amp-analytics nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-analytics-0.1.js></script><script async crossorigin=anonymous custom-element=amp-analytics src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-analytics-0.1.mjs type=module></script><script async custom-element=amp-fx-flying-carpet nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-fx-flying-carpet-0.1.js></script><script async crossorigin=anonymous custom-element=amp-fx-flying-carpet src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-fx-flying-carpet-0.1.mjs type=module></script><script async custom-element=amp-iframe nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-iframe-0.1.js></script><script async crossorigin=anonymous custom-element=amp-iframe src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-iframe-0.1.mjs type=module></script><script async custom-element=amp-video nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-video-0.1.js></script><script async crossorigin=anonymous custom-element=amp-video src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-video-0.1.mjs type=module></script><link href=https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/favicon.ico rel=icon><link href=https://i-epochtimes-com.cdn.ampproject.org rel="dns-prefetch preconnect"><style amp-custom>
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
 }
-div#navMain ul#navLevel1 a#n01:hover {
-color: #000 !important;
+*, *::before, *::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 }
-div#navMain ul#navLevel1 li:hover a#n01 {
-color: #000 !important;
-}
-div#navMain ul#navLevel2 a#navAct2 {
-color: #fff !important;
-}
-</style>
-<script type="text/javascript">
-let DWStructureType = "NORMAL";
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics (Tracking-Code für Marketing-Zwecke) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109618266-1"></script>
-<script type="text/javascript">
-function googleTracking() {
-var gtagTrackingId = 'UA-109618266-1';
-var gtagDisableStr = 'ga-disable-' + gtagTrackingId;
-if (!DWDE.dsgvo.isStoringCookiesOkay()) {
-window[gtagDisableStr] = true;
-gtagOptout();
-} else {
-window[gtagDisableStr] = false;
-gtagOptin();
-}
-window.dataLayer = window.dataLayer || [];
-function gtag() {
-dataLayer.push(arguments);
-}
-gtag('js', new Date());
-gtag('config', gtagTrackingId, {'anonymize_ip': true});
-function gtagOptout() {
-document.cookie = gtagDisableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
-window[gtagDisableStr] = true;
-return "Google Tag Manager disabled";
-}
-function gtagOptin() {
-document.cookie = gtagDisableStr + '=false; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/;samesite=lax';
-window[gtagDisableStr] = false;
-return "Google Tag Manager enabled";
-}
-}
-googleTracking();
-</script>
-<!-- Facebook Pixel Code -->
-<script>
-document.addEventListener("DOMContentLoaded", function (event) {
-if (DWDE.dsgvo.isStoringCookiesOkay()) {
-facebookTracking();
-}
-});
-function facebookTracking() {
-!function (f, b, e, v, n, t, s) {
-if (f.fbq) return;
-n = f.fbq = function () {
-n.callMethod ?
-n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-};
-if (!f._fbq) f._fbq = n;
-n.push = n;
-n.loaded = !0;
-n.version = '2.0';
-n.queue = [];
-t = b.createElement(e);
-t.async = !0;
-t.src = v;
-s = b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t, s)
-}(window, document, 'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '157204581336210');
-fbq('track', 'ViewContent');
-}
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=157204581336210&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-<!-- Google Tag Manager -->
-<script>(function (w, d, s, l, i) {
-w[l] = w[l] || [];
-w[l].push({
-'gtm.start':
-new Date().getTime(), event: 'gtm.js'
-});
-var f = d.getElementsByTagName(s)[0],
-j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-j.async = true;
-j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-TXHJH9T');
-</script>
-<!-- End Google Tag Manager -->
-<title>德语媒体：关税的背后是美中对抗？ | 媒体看中国 | DW | 03.04.2018</title>
-<!-- videojs -->
-<script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
-<script src="/js/player/video.min.js"></script>
-<script src="/js/player/lang/zh.js"></script>
-<script src="/js/player/videojs.ads.js"></script>
-<script src="/js/player/videojs.ima.js"></script>
-<script src="/js/player/videojs-playlist.min.js"></script>
-<script type="text/javascript" src="/js/player/videojs-contrib-quality-levels.min.js"></script>
-<script type="text/javascript" src="/js/player/videojs-hls-quality-selector.min.js"></script>
-<script type="text/javascript" src="/js/player/videojs-seek-buttons.min.js"></script>
-<script type="text/javascript" src="/js/player/videojs-quality-selector.min.js"></script>
-<script src="/js/player/dw-player.js"></script>
-<link href="/css/player/video-js.css" rel="stylesheet" />
-<link rel="stylesheet" href="/css/player/videojs.ads.css" />
-<link rel="stylesheet" href="/css/player/videojs.ima.css" />
-<link rel="stylesheet" href="/css/player/videojs-seek-buttons.css" />
-<link rel="stylesheet" href="/css/player/dw-player.css" type="text/css" media="all" /> <script type="text/javascript" src="/js/dwde.6.93.0.min.js"></script>
-<script type="text/javascript" src="/js/datepicker/jquery.ui.datepicker-zh.min.js"></script>
-<script type="text/javascript">
-$('head').append(DWDE.reCaptcha.createRecaptchaScriptTag("zh"));
-</script>
-<script type="text/javascript" src="/js/tongwen/tongwen_core.js"></script>
-<script type="text/javascript" src="/js/tongwen/tongwen_table_s2t.js"></script>
-<script type="text/javascript" src="/js/tongwen/tongwen_table_t2s.js"></script>
-<script type="text/javascript" src="/js/tongwen/tongwen_table_ps2t.js"></script>
-<script type="text/javascript" src="/js/tongwen/tongwen_table_pt2s.js"></script>
-<script type="text/javascript" src="/js/tongwen/chinese_character_switch.js"></script>
-<script type="text/javascript">
-var einbliqioCustomerId = 'xftcpwwm';
-</script>
-<script>
-window.adHandler = window.adHandler || {};
-window.adHandler.cmd = window.adHandler.cmd || [];
-adHandler.cmd.push(function () {
-adHandler.service.setTargeting('thematicfocus', ['19990022']);
-adHandler.service.request();
-});
-</script>
-<script async type="text/javascript" src="/js/advertisement/clickPerformance.desktop.articles.min.js"></script>
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:site" content="@dw_chinese"/>
-<meta name="twitter:title"
-content="德语媒体：关税的背后是美中对抗？"/>
-<meta name="twitter:image" content="https://static.dw.com/image/42965162_6.jpg"/>
-</head>
-<body id="html_body" >
-<!-- Trackingcode Body-Area -->
-<script type="text/javascript">
-var dwInitialTrackingInfo = {
-visibleStructure: "",
-fullUrl: "http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%2Fa-43237694",
-maca: "",
-firstPublicationDate: "20180403",
-structureId: "1684",
-structureTypeId: "1",
-chap: "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD",
-pageId: "43237694",
-richMediaTracking: true,
-trackingProfileId: "1",
-subjects: "",
-firstCategoryId: "19990022",
-secondCategoryId: "",
-departmentName: ""
-};
-var channelNameAppendix = "-";
-trackingInfo_leve2 = "4";
-trackingInfo_dkLanguage = "";
-trackingInfo_multi_Value = "";
-trackingInfo_profile = "NORMAL";
-trackingInfo_pageSingleEncoded = "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD::%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F";
-trackingInfo_multi_Value = "&x1=1&x2=4&x3=43237694&x4=1684&x5=%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%2Fa-43237694&x8=&x9=20180403&x10=%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD&x13=1&x14=&x15=19990022&x16=&x17=&x18=&x20=";
-if (window.xtparam != null) {
-window.xtparam += "&ac=" + "&an=" + trackingInfo_multi_Value;
-} else {
-window.xtparam = "&ac=" + "&an=" + trackingInfo_multi_Value;
-}
-</script>
-<noscript>
-<img width="1" height="1" alt=""
-src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=4&amp;p=%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD::%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F&amp;di=&amp;an=&amp;ac=&amp;x1=1&amp;x2=4&amp;x3=43237694&amp;x4=1684&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%2Fa-43237694&amp;x8=&amp;x9=20180403&amp;x13=1&amp;x14=&amp;x15=19990022&amp;x16=null&amp;x17=&amp;x18=&amp;x20=">
-</noscript>
-<!-- Google Tag Manager (noscript) -->
-<noscript>
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXHJH9T"
-height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<!-- End Google Tag Manager (noscript) --><!--AT Internet Smart Tag Tracking-->
-<script type="text/javascript" src="https://commons.dw.com/tracking/smarttag.js"></script>
-<script type="text/javascript">
-var tag = new ATInternet.Tracker.Tag({
-secure: true,
-site: "510544",
-logSSL: "logs1242",
-cookieSecure: true
-});
-tag.page.set({
-name: "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD::%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F",
-pageID: "43237694",
-level2: 4
-});
-tag.customVars.set({
-site: {
-1: 1,
-2: 4,
-3: 43237694,
-4: 1684,
-5: "[%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F]",
-6: "",
-7: "[http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%2Fa-43237694]",
-8: "[]",
-9: 20180403,
-10: "[%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD]",
-11: "",
-12: "",
-13: 1,
-14: "",
-15: "19990022",
-16: "",
-17: "",
-18: "",
-19: "",
-20: ""
-}
-});
-tag.dispatch();
-</script>
-<script src="https://commons.dw.com/tracking/at-smarttag-player.js" type="text/javascript"></script>
+amp-img.alignright { float: right; margin: 0 0 1em 1em; }
+amp-img.alignleft { float: left; margin: 0 1em 1em 0; }
+amp-img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignright { float: right; }
+.alignleft { float: left; }
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }
 
-<div class="cookie">
-<div class="cookie__wrap">
-<div class="cookie__item">
-<p class="cookie__text">为向您提供更好的服务，我们使用Cookies。更多相关信息请查阅我们的数据保护声明。</p>
-</div>
-<div class="cookie__buttons">
-<a class="cookie__btn cookie__btn--more"
-href="/a-18265246">更多信息</a>
-<a class="cookie__btn cookie__btn--ok" href="#">OK</a>
-</div>
-</div>
-</div>
-<!-- Language selection and quickjump navigation: -->
-<ol id="quickjump" role="list">
-<li role="listitem" aria-labelledby="Inhalt"><a href="#bodyContent" id="Inhalt">Inhalt</a></li>
-<li role="listitem" aria-labelledby="Navigation"><a href="#navMain" id="Navigation">Navigation</a></li>
-<li role="listitem" aria-labelledby="asideLink"><a href="#aside" id="asideLink">Weitere Inhalte</a></li>
-<li role="listitem" aria-labelledby="metanavigationLink"><a href="#navMeta"
-id="metanavigationLink">Metanavigation</a></li>
-<li role="listitem" aria-labelledby="sucheLink"><a href="#search" id="sucheLink">Suche</a></li>
-<li role="listitem" aria-labelledby="languageLink"><a href="#langSelect" id="languageLink" xml:lang="de" lang="de"
-accesskey="6">Choose from 30 Languages</a></li>
-</ol>
-<!-- AUTO-LANGUAGE-SELECT-HINT -->
-<!--[if IE 7 ]>
-<div id="ie7PositionHelper"></div><![endif]-->
-<div id="topMetaLang" style="margin-top: -190px;">
-<a class="closeLink" href="#close" title="close"></a>
-<div id="topMetaInner">
-<!-- L a n g u a g e S e l e c t o r -->
-<div id="languageSection">
+.wp-caption.alignleft { margin-right: 1em; }
+.wp-caption.alignright { margin-left: 1em; }
+
+.amp-wp-enforced-sizes {
+	/** Our sizes fallback is 100vw, and we have a padding on the container; the max-width here prevents the element from overflowing. **/
+	max-width: 100%;
+}
+
+.amp-wp-unknown-size img {
+	/** Worst case scenario when we can't figure out dimensions for an image. **/
+	/** Force the image into a box of fixed dimensions and use object-fit to scale. **/
+	object-fit: contain;
+}
+
+.amp-ad amp-ad {
+	margin: 1rem auto;
+    display: block;
+}
+
+figure {
+	margin: 0 0 24px 0;
+}
+
+ol, ul {
+	list-style: none;
+	padding: 0;
+}
+
+a,
+a:visited {
+	color: #0087be;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #33bbe3;
+}
+
+
+/* Quotes */
+blockquote {
+	padding: 16px;
+	margin: 8px 0 24px 0;
+	border-left: 2px solid #87a6bc;
+	color: #4f748e;
+	background: #e9eff3;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
+}
+
+/* Other Elements */
+amp-carousel {
+	background: #000;
+}
+
+amp-iframe,
+amp-youtube,
+amp-instagram,
+amp-vine {
+	background: #f3f6f8;
+}
+
+amp-carousel > amp-img > img {
+	object-fit: contain;
+}
+
+.amp-wp-iframe-placeholder {
+	background: #f3f6f8 url('https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/plugins/amp/assets/images/placeholder-icon.png') no-repeat center 40%;
+	background-size: 48px 48px;
+	min-height: 48px;
+}
+/*  ///////////////////  */
+
+.content {
+			max-width: 640px;
+	margin: 0 auto;
+	}
+
+body {
+	font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+	font-size: 16px;
+	line-height: 1.8;
+	background: #fff;
+}
+
+a {
+    color: #2c58a3;
+    text-decoration: none;
+}
+
+#header {
+    position: relative;
+    float: none;
+    width:100%;}
+
+nav {
+	height: 40px;
+	background-color: #1c2676;
+}
+
+nav.amp-wp-title-bar a {
+	color: #fff;
+	text-decoration: none;
+}
+
+nav div#logo {
+	width: 104px;
+	height: 40px;
+	margin: auto;
+}
+
+.icons {
+	background: transparent url('https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/djy/images/m-icons.png');
+	float: left;
+	display: inline-box;
+	background-size: 531px 107px;
+	background-repeat: no-repeat;
+}
+
+.amp-sprite {
+	background: transparent url('https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/djy/images/djy-amp-sprite.png');
+	background-size: 865px 743px;
+	background-repeat: no-repeat;
+}
+
+nav div a.logo-icon {
+	width: 105px;
+	height: 40px;
+	padding-top: 8px;
+	display: inline-block;
+	background-position: -59px -36px;
+}
+
+nav div#search {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  float: right;
+}
+
+nav div a.search-icon {
+	background-position: -345px -14px;
+	position: absolute;
+	top: 5px;
+	right: 12px;
+}
+
+nav #lang_opt {
+	display: inline-block;
+  	float: left;
+  	margin: 12px 15px 0;
+  	line-height: 1rem;
+}
+nav #lang_opt a {
+	text-decoration: none;
+	font-size: 14px;
+    color: #999;
+}
+
+.search-icon{
+	width:30px;
+	height:30px;
+	margin-top:0px;
+}
+
+#top_menu {
+    height: 35px;
+    line-height: 35px;
+    background-color: #eee;
+    overflow-y: hidden;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+#top_menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#top_menu li {
+	width: 14.2%;
+    text-align: center;
+    padding: 0;
+  	display: inline-block;
+  	float: left;
+}
+
+#top_menu a, #top_menu a:visited {
+  text-decoration: none;
+  color: #000;
+  display: block;
+}
+
+#top_menu a:hover {
+  background-color: #08088A;
+}
+
+#bd {
+	border-left: 0;
+    border-right: 0;
+    font-size: 18px;
+	margin-left: 0.3125em;
+    margin-right: 0.3125em;
+    text-align: justify;
+}
+#newsletter_subscribe{
+	display: none;
+}
+#artbody {
+	padding-top: 25px;
+	margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+.content {
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	font-weight: 400;
+	text-align: center;
+	padding-left: 0.3125em;
+    padding-right: 0.3125em;
+    text-align: justify;
+}
+
+.primary_category {
+	margin-top: 15px;
+}
+
+.primary_category a {
+	font-size: 16px;
+	line-height: 21px;
+	padding-left: 15px;
+	color: #999;
+}
+
+h1.title {
+    font-weight: bold;
+    font-size: 30px;
+	color: #1c2676;
+    line-height: 38px;
+}
+
+.wp-caption-text {
+    color: #777;
+    font-size: 14px;
+    line-height: 1.3;
+    padding: 5px 8px;
+	border-bottom: 1px solid #777;
+}
+
+.wp-caption-text p {
+	margin: 0;
+	font-size: 16px;
+	line-height: 23px;
+	text-align: left;
+}
+
+.djy_facebook {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+
+.djy_facebook a {
+	display: inline-block;
+	width: 100%;
+}
+
+.djy_facebook a.amp-sprite {
+	background-position: -68px -125px;
+	border-radius: 3px;
+	width: 100%;
+	height: 45px;
+}
+
+#v2015_share {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	margin: 15px 0 15px;
+}
+
+#v2015_share.top {
+	margin-top: 10px;
+	justify-content: initial;
+}
+
+#v2015_share.top a.social.facebook {
+	margin-right: 5px;
+}
+
+#v2015_share a.social {
+	display: inline-block;
+	width: 24%;
+	text-align: center;
+	border-radius: 3px;
+	color: #fff;
+	font-size: 13px;
+	line-height: 2;
+}
+
+#v2015_share a.social.facebook {
+	background-position: -65px -79px;
+}
+
+#v2015_share a.social.line {
+	background-position: -178px -79px;
+}
+
+#v2015_share a.social.twitter {
+	background-position: -287px -79px;
+}
+
+#djy_donation {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#djy_donation a {
+	display: inline-block;
+	width: 100%;
+	font-size: 15px;
+	color: #1c2676;
+	border: 1px solid #1c2676;
+	border-radius: 5px;
+	line-height: 35px;
+}
+
+.below_article_tags {
+	background-color: #eee;
+    margin-left: -20px;
+    width: 100vw;
+    padding-left: 20px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #777;
+    display: inline-block;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.below_article_tags a {
+	display: inline-block;
+	border-bottom: 1px solid #777;
+	font-size: 16px;
+	line-height: 28px;
+	color: #777;
+	margin: 0 4px;
+}
+
+.category {
+	margin: 1rem 0 0;
+}
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.aligncenter amp-img {
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.artmeta {
+	line-height: 1.2;
+}
+
+.artmeta time {
+	font-size: 14px;
+	color: #999;
+	line-height: 21px;
+}
+
+.recommend_video {
+	margin-left: -20.25px;
+	margin-right: -20.25px;
+}
+
+.recommend_video li {
+	list-style-type: none;
+	display: inline-block;
+	width: 100%;
+	padding-bottom: 4px;
+}
+
+.recommend_video li a {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+}
+
+.recommend_video li a amp-img {
+	display: block;
+	width: 100%;
+	min-width: 100%;
+}
+
+.recommend_video li .title {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	display: inline-block;
+	width: 100%;
+	background-color: rgba(0,0,0,.5);
+	color: #fff;
+	padding: 3px 10px;
+}
+
+.recommend_video li .video-icon {
+	display: inline-block;
+	width: 66px;
+	height: 66px;
+	margin-left: -33px;
+	margin-bottom: -33px;
+	background: transparent url('https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/djy/images/m-icons.png');
+	background-position: -468px 4px;
+	background-size: 531px 107px;
+	background-repeat: no-repeat;
+	position: absolute;
+	bottom: 50%;
+	left: 50%;
+}
+
+.block_title, .block_title a {
+	font-weight: bold;
+	font-size: 19px;
+	line-height: 38px;
+	color: #1c2676;
+}
+
+ul.post_list li.image_post {
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    margin: 5px 0;
+}
+
+ul.post_list li.image_post a {
+    display: block;
+    color: #2c58a3;
+    font-size: inherit;
+}
+
+ul.post_list li.image_post amp-img {
+    display: block;
+    width: 100%;
+    min-width: 100%;
+}
+
+ul.post_list li.image_post .title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+    width: 100%;
+    padding: 6px 10px;
+    line-height: 1.5;
+}
+
+ul.post_list li.text_post {
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.2;
+    height: auto;
+    padding: 4px 10px 0 13px;
+    background-image: url('https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/djy/images/dot.gif');
+    background-position: 2px 13px;
+    background-repeat: no-repeat;
+    text-align: justify;
+}
+
+ul.post_list li.text_post a, ul.post_list li.text_post a:visited {
+	color: #000;
+}
+
+div.seperator {
+    clear: both;
+    height: 24px;
+    background-color: #eee;
+    box-shadow: 0 4px 4px -2px #ddd inset;
+    margin: 15px -20.25px 15px -20.25px;
+}
+
+#relatedArticles li.text_post {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+#relatedArticles li.text_post a {
+    color: #000;
+    font-size: inherit;
+}
+
+/* related articles */
+.box2 .mtop20{color:#ff0000;font-size:24px;border-top:4px solid #c6c6c6;background:#f2f2f2;border-bottom:1px solid #9a9a9a;padding:5px 10px;font-weight:bold;}
+.mtop20 {
+    margin-top: 20px;
+}
+#relatedArticles a, .imglist a, .commentbar a {
+    color: #2c58a3;
+    font-size: inherit;
+}
+
+.tu {
+    color: #f09;
+    font-size:13px;
+}
+.newslist{height:auto;padding-top:4px;padding-bottom: 4px;padding-left: 12px;background-image:url('https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/djy/images/dot.gif');background-position:2px 17px;background-repeat:no-repeat;text-align:justify;border-bottom:1px solid #f5f5f5;}
+.box2 .newslist{position:relative;white-space:normal;overflow:auto;}
+.box2 .newslist small{position:absolute;right:0;bottom:6px;display:none;}
+
+#relatedFocus span{display:block;font-weight:bold;border-radius:8px;border: solid #ff0000;background:#ff0000;color:#fff;text-align:center;font-size:1.3125em;line-height:1.6125em;width:200px;margin:10px auto 5px auto;}
+#relatedFocus a{display:block;text-align:center;background:#feefa3;line-height:1.6125em;margin-bottom:1px;}
+
+.imglist li {border-bottom:1px solid #e5e5e5;padding:5px 0;line-height: 24px;text-align: left;}
+.imglist li font {font-size:1rem;}
+.imglist .fb-share-button, .imglist .fb-like {position:absolute;right:2.1125em;bottom:10px;margin:0 auto;}
+.imglist .titlebox {width:100%;text-align: left;}
+
+.imglist amp-img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#box_401 li font{color:#ff0000;}
+#box_406 li font{color:#ff0000;}
+#box_2007 li font{color:#ff0000;}
+#box_2008 li font{color:#ff0000;}
+#box_6092 li font{color:#ff0000;}
+
+/*** single ***/
+.mtop10 {
+    margin-top: 10px;
+}
+
+.mtop10 .imglist li amp-img {
+	margin: 0 auto;
+	width: 100%;
+}
+
+
+#box_401, #box_406, #box_2007, #box_2008, #box_6092 {width: 100%;}
+
+.box_header {
+    font-size: 1.1125rem;
+    font-weight: bold;
+    border-radius: 8px 8px 0 0;
+    font-weight: bold;
+    margin-top: 10px;
+    background: #3c55b1;
+    height: 35px;
+    line-height: 35px;
+	padding: 0 0 0 0.5rem;
+}
+#header_401 .box_header, #header_6092 .box_header {
+    background: #3c55b1;
+}
+#header_406 .box_header {
+    background: #921db1;
+}
+
+#artbody p {
+	margin-bottom: 5%;
+}
+.box_header a {
+    color: #fff;
+}
+.box_header .news2-icon {
+	float: right;
+	height: 35px;
+    line-height: 35px;
+    border-radius: 0 8px 0 0;
+    background: #21aaf0;
+    width: 30px;
+}
+.box_header .more-icon {
+	background-position: -384px -10px;
+	width: 15px;
+	height: 15px;
+	margin-top: 12px;
+	margin-left: 10px;
+}
+.view_on_djy a {
+	color: #2c58a3;
+}
+
+#footer {
+	width: 100%;
+	padding: 1rem 0 0;
+}
+
+.ind_foot a {
+	color: #fff;
+	font-size: 0.75rem;
+}
+
+.ind_foot {
+	text-align: center;
+	margin: 5px 0 0;
+	font-size: 0.75rem;
+	background-color: #1c2676;
+	color: #fff;
+	padding-bottom: 25px;
+}
+
+.ind_foot .footer_menu>ul {
+	padding: 10px 0 15px;
+}
+
+.ind_foot .footer_menu>ul>li {
+	display: inline-block;
+	width: 18%;
+	margin-top: 10px;
+}
+
+.ind_foot .footer_menu a {
+	font-size: 17px;
+	font-weight: normal;
+}
+
+.ind_foot .footer_logo {
+	width: 87%;
+	margin: 0 auto 15px;
+	border-top: 1px solid #fff;
+}
+
+.ind_foot .footer_logo a {
+	background-position: -56px -43px;
+	width: 110px;
+	margin-top: 15px;
+	display: inline-block;
+}
+
+.recommend_video .block_title {
+	position: relative;
+	padding-left: 38px;
+	text-align: center;
+	border-left: 12px solid #ff8747;
+	border-right: 12px solid #ff8747;
+	color: #fff;
+	background-color: #e95100;
+}
+
+.recommend_video .block_title span {
+	position: absolute;
+	width: 26px;
+	height: 16px;
+	top: 50%;
+	left: 50%;
+	margin-top: -8px;
+	margin-left: -36px;
+}
+
+.recommend_video .title {
+	max-height: 2.2em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.recommend_video .video_icon {
+	position: absolute;
+	width: 102px;
+	height: 102px;
+	top: 50%;
+	left: 50%;
+	margin-top: -51px;
+	margin-left: -51px;
+}
+.recommend_video .video_footer {
+	font-size: 80%;
+	padding: 0 10px;
+	margin-top: -8px;
+}
+
+.recommend_video .video_footer .prime_cat {
+	float: left;
+}
+
+.recommend_video .video_footer .date_pageview {
+	float: right;
+}
+
+.recommend_video .video_footer .date {
+	color: #777;
+}
+
+.recommend_video .video_footer .pageview {
+	color: #ff8747;
+}
+
+.amp_video {
+	display: inline-block;
+	width: 100%;
+	min-height: 56.25vw;
+	position: relative;
+}
+
+.amp_video amp-iframe {
+	display: inline-block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+}
+
+
+
+
+		</style><base target=_blank><link href=https://www.epochtimes.com/gb/21/11/11/n13370642.htm rel=canonical><title>【横河观点】六中公报废话多 没写什么才重要 | 习近平 | 中共六中全会 | COP26气候峰会 | 大纪元</title><script type=application/ld+json>{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":"https:\/\/www.epochtimes.com\/gb\/21\/11\/11\/n13370642.htm","publisher":{"@type":"Organization","name":"\u5927\u7d00\u5143","logo":{"@type":"ImageObject","url":"https:\/\/www.epochtimes.com\/assets\/themes\/djy\/images\/DJY-Web-Logo.png","height":"80","width":"210"}},"headline":"\u3010\u6a6b\u6cb3\u89c0\u9ede\u3011\u516d\u4e2d\u516c\u5831\u5ee2\u8a71\u591a \u6c92\u5beb\u4ec0\u9ebc\u624d\u91cd\u8981","datePublished":"2021-11-12T07:15:33+00:00","dateModified":"2021-11-12T14:00:37+00:00","author":{"@type":"Person","name":"\u767c\u7a3f\u7d44-Xuelian Zhan"},"image":{"@type":"ImageObject","url":"https:\/\/i.epochtimes.com\/assets\/uploads\/2021\/11\/id13370739-1200x800.jpg","width":"1200","height":"800"}}</script><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><meta content=2 name=runtime-type></head><body>
+
+
+<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed id=google-analytics style=width:1px;height:1px; type=googleanalytics>
+<script type=application/json>
+  {
+	"requests": {
+    	"pageviewWithCustomVariables": "${pageview}&dimension1=${dimension1}&dimension2=${dimension2}&dimension3=${dimension3}&dimension4=${dimension4}&dimension5=${dimension5}&dimension46=${dimension46}"
+	},
+    "vars": {
+      "account": "UA-10465455-10"
+    },
+    "triggers": {
+      "trackPageviewWithCustom": {
+        "on": "visible",
+        "request": "pageviewWithCustomVariables",
+		"vars": {
+				"dimension1": "1249472",
+
+				"dimension2": "255",
+
+				"dimension3": "412,391,1159476,1143934,277,413,401,1249472,980,1078159,1247351",
+
+				"dimension4": "1130450,3,8,1080307,1232427,1094442,6,5",
+
+				"dimension5": "412,391,1159476,1143934,277,413,401,1249472,980,1078159,1247351,1130450,3,8,1080307,1232427,1094442,6,5",
+
+			"dimension46": "AMP"
+
+		}
+      }
+    }
+  }
+</script>
+</amp-analytics>
+<div id=header>
+<nav>
+<div id=lang_opt><a href=https://www.epochtimes.com/b5/21/11/11/n13370642.htm/amp target=_blank>正体</a></div>
+<div id=search><a class="icons search-icon" href=https://www.epochtimes.com/gb/search.htm target=_blank></a></div>
+<div id=logo><a class="logo-icon amp-sprite" href=https://www.epochtimes.com/ target=_blank></a></div>
+</nav>
+
+<div id=top_menu>
 <ul>
-<li><a href="/sq/fokus/s-10250" title="FOKUS"
-data-lang="sq-AL"
->
-Albanian <span class="native">Shqip</span></a>
-</li>
-<li><a href="/am/ይዘት/s-11646" title="ይዘት"
-data-lang="am-ET"
->
-Amharic <span class="native">አማርኛ</span></a>
-</li>
-<li><a href="/ar/الرئيسية/s-9106" title="DW عربية | رؤية أخرى للأحداث في ألمانيا والعالم العربي"
-data-lang="ar-AE"
->
-Arabic <span class="native">العربية</span></a>
-</li>
-<li><a href="/bn/বিষয়/s-11929" title="বিষয়"
-data-lang="bn-BD"
->
-Bengali <span class="native">বাংলা</span></a>
-</li>
-<li><a href="/bs/teme/s-10037" title="TEME"
-data-lang="bs-BA"
->
-Bosnian <span class="native">B/H/S</span></a>
-</li>
-<li><a href="/bg/начало/s-10257" title="Начало"
-data-lang="bg-BG"
->
-Bulgarian <span class="native">Български</span></a>
-</li>
-<li>
-<a href="/zh/在线报导/s-9058?&zhongwen=simp"
-title="在线报导" data-lang="zh-CN">
-Chinese <span
-class="native">(Simplified) 简</span></a>
-</li>
-<li>
-<a href="/zh/在线报导/s-9058?&zhongwen=trad" title="在線報導"
-data-lang="zh-CN-t">
-Chinese <span class="native">(Traditional) 繁</span></a>
-</li>
+<li> <a href=https://www.epochtimes.com/gb/n24hr.htm target=_blank title=新闻>新闻</a></li>
+<li><a href=https://www.epochtimes.com/gb/nsc413.htm target=_blank>中国</a></li>
+<li><a href=https://www.epochtimes.com/gb/nccomment.htm target=_blank>评论</a></li>
+<li><a href=https://www.epochtimes.com/gb/nsc2007.htm target=_blank>文化</a></li>
+<li><a href=https://www.epochtimes.com/gb/nsc2008.htm target=_blank>生活</a></li>
+<li><a href=https://www.epochtimes.com/gb/ncyule.htm target=_blank>娱乐</a></li>
+<li><a href=https://www.epochtimes.com/gb/nsc1002.htm target=_blank>健康</a></li>
+<li><a href=https://www.epochtimes.com/gb/ncsports.htm target=_blank>体育</a></li>
+<li><a href=https://www.epochtimes.com/gb/ncChineseCommunity.htm target=_blank>社区</a></li>
+<li><a href=https://www.epochtimes.com/gb/nf4830.htm target=_blank title=神韵>神韵</a></li>
 </ul>
-<ul>
-<li><a href="/hr/teme/s-9747" title="TEME"
-data-lang="hr-HR"
->
-Croatian <span class="native">Hrvatski</span></a>
-</li>
-<li><a href="/fa-af/دويچه-وله-دری/s-10259" title="دويچه وله دری"
-data-lang="fa-AF"
->
-Dari <span class="native">دری </span></a>
-</li>
-<li><a href="/en/top-stories/s-9097" title="News and current affairs from Germany and around the world"
-data-lang="en-GB"
->
-English <span class="native">English</span></a>
-</li>
-<li><a href="/fr/actualités/s-10261" title="ACTUALITÉS"
-data-lang="fr-FR"
->
-French <span class="native">Français</span></a>
-</li>
-<li><a href="/de/themen/s-9077" title="Nachrichten & Analysen: der globale Blick auf Schlagzeilen"
-data-lang="de-DE"
->
-German <span class="native">Deutsch</span></a>
-</li>
-<li><a href="/el/θεματα/s-10507" title="ΘΕΜΑΤΑ"
-data-lang="el-GR"
->
-Greek <span class="native">Ελληνικά</span></a>
-</li>
-<li><a href="/ha/batutuwa/s-11603" title="BATUTUWA"
-data-lang="ha-NG"
->
-Hausa <span class="native">Hausa</span></a>
-</li>
-<li><a href="/hi/खबरें/s-11931" title="खबरें"
-data-lang="hi-IN"
->
-Hindi <span class="native">हिन्दी</span></a>
-</li>
-</ul>
-<ul>
-<li><a href="/id/beranda/s-11546" title="BERANDA"
-data-lang="id-ID"
->
-Indonesian <span class="native">Indonesia</span></a>
-</li>
-<li><a href="/sw/idhaa-ya-kiswahili/s-11588" title="IDHAA YA KISWAHILI"
-data-lang="sw-TZ"
->
-Kiswahili <span class="native">Kiswahili</span></a>
-</li>
-<li><a href="/mk/теми/s-10339" title="Теми"
-data-lang="mk-MK"
->
-Macedonian <span class="native">Македонски</span></a>
-</li>
-<li><a href="/ps/دويچه-ويله-پښتو/s-11722" title="دويچه ويله پښتو"
-data-lang="ps-AF"
->
-Pashto <span class="native">پښتو</span></a>
-</li>
-<li><a href="/fa-ir/دویچه-وله-فارسی/s-9993" title="دویچه وله فارسی"
-data-lang="fa-IR"
->
-Persian <span class="native">فارسی</span></a>
-</li>
-<li><a href="/pl/start/s-11394" title="Niemcy – najnowsze wiadomości z Niemiec, Europy i świata"
-data-lang="pl-PL"
->
-Polish <span class="native">Polski</span></a>
-</li>
-<li><a href="/pt-002/notícias/s-13918" title="NOTÍCIAS"
-data-lang="pt-002"
->
-Portuguese <span class="native">Português para África</span></a>
-</li>
-<li><a href="/pt-br/notícias/s-7111" title="DW Brasil | Notícias e análises do Brasil e do mundo"
-data-lang="pt-BR"
->
-Portuguese <span class="native">Português do Brasil</span></a>
-</li>
-</ul>
-<ul>
-<li><a href="/ro/focus/s-10575" title="FOCUS"
-data-lang="ro-RO"
->
-Romanian <span class="native">Română</span></a>
-</li>
-<li><a href="/ru/темы-дня/s-9119" title="Новости и аналитика о Германии, России, Европе, мире"
-data-lang="ru-RU"
->
-Russian <span class="native">Русский</span></a>
-</li>
-<li><a href="/sr/rubrike/s-10682" title="RUBRIKE"
-data-lang="sr-RS"
->
-Serbian <span class="native">Српски/Srpski</span></a>
-</li>
-<li><a href="/es/actualidad/s-30684" title="ACTUALIDAD"
-data-lang="es-ES"
->
-Spanish <span class="native">Español</span></a>
-</li>
-<li><a href="/tr/gündem/s-10201" title="GÜNDEM"
-data-lang="tr-TR"
->
-Turkish <span class="native">Türkçe</span></a>
-</li>
-<li><a href="/uk/головна/s-9874" title="Новини й аналітика про Німеччину, Україну, Європу та світ"
-data-lang="uk-UA"
->
-Ukrainian <span class="native">Українська</span></a>
-</li>
-<li><a href="/ur/عنوانات/s-11933" title="عنوانات"
-data-lang="ur-PK"
->
-Urdu <span class="native">اردو</span></a>
-</li>
-</ul>
-</div><!-- / L a n g u a g e S e l e c t o r -->
-<div class="rightarrow"></div>
-<div class="leftarrow"></div>
 </div>
 </div>
-<!-- META-NAVI -->
-<div id="topMeta" style="margin-top: -30px; display:none;">
-<a title="close" href="#close" class="closeLink"></a>
-<div id="topMetaInner">
-<span class="langHint">
-<a href="">Wrong language? Change it here</a>
-</span>
-DW.COM has chosen 中文 as your language setting. <div class="rightarrow"></div>
-<div class="leftarrow"></div>
-</div>
-</div>
-<!-- E X T R A W R A P B O D Y M O V E R -->
-<div id="bodyMover">
-<!-- META-NAVI -->
-<div id="navMeta">
-<div id="langSelect" class="v2">
-<a name="langSelectTrigger" id="langSelectTrigger" href="javascript:void(0);">DW.COM in 30 languages</a>
-</div>
-<div class="metaLink"><a href="https://akademie.dw.com/en/home/s-9519"
-title="DW AKADEMIE">DW 学院</a>
-</div>
-<div class="metaLink"><a href="https://corporate.dw.com/en/about-dw/profile/s-30688"
-title="About DW">关于DW</a>
-</div>
-<div class="metaLink"><a href="/zh/在线报导/s-9058"
-title="在线报导">DW.COM</a></div>
-<div class="metaLink zh-convert"><a href="#" id="zh-convert" data-zh="cn"
-title="Simplified/Traditional Chinese"></a></div>
-</div>
-<!-- OUTER FRAME -->
-<div id="outerFrame">
-<!-- NAV CONTAINER -->
-<div id="navContainer">
-<!-- NAVI MAIN: main categories:-->
-<div id="navHead">
-<div id="logo" class="dwnews">
-<a href="/zh/在线报导/s-9058" title="在线报导">
-Deutsche Welle
-</a>
-</div>
-<div id="logoprint">
-<img width="98" height="100" alt="Deutsche Welle" src="/cssi/dwlogo-print.gif">
-</div>
-<div id="search">
-<form id="navSearchForm" class="modular"
-action="/search/zh" title="GlobalSearch" method="get">
-<input type="hidden" param="searchNavigationId" name="searchNavigationId"
-value="9058"/>
-<input type="hidden" param="languageCode" name="languageCode" value="zh"/>
-<input type="hidden" param="origin" name="origin" value="gN"/>
-<input id="item" name="item" placeholder="搜索 在线报导"/>
-<div id="searchButton"></div>
-</form>
-</div>
-</div>
-<!-- subcategories: -->
-<div id="navMain">
-<ul id="navLevel1">
-<li>
-<a id="n01" href="/zh/在线报导/s-9058"
-title="在线报导">在线报导</a>
+<div class=primary_category>
+<a href=https://www.epochtimes.com/gb/ncid1249472.htm target=_blank>每日新闻</a></div>
+<div id=bd>
+<div class=content>
+	<h1 class=title>【横河观点】六中公报废话多 没写什么才重要</h1>
+	
+	<div class=artmeta>
+		<time>更新: 2021年11月12日 7:15 AM</time>
+	</div>
 
-<div class="flyout">
-<ul class="sitemap">
-<li><a href="/zh/非常德国/s-101347"
-title="非常德国">非常德国</a>
+	<div class=top id=v2015_share>
+		<a class="facebook social amp-sprite" href="https://www.facebook.com/sharer/sharer.php?u=https://www.epochtimes.com/gb/21/11/11/n13370642.htm" target=_blank> </a>
+		<a class="line social amp-sprite" href=http://line.naver.jp/R/msg/text/?%E3%80%90%E6%A8%AA%E6%B2%B3%E8%A7%82%E7%82%B9%E3%80%91%E5%85%AD%E4%B8%AD%E5%85%AC%E6%8A%A5%E5%BA%9F%E8%AF%9D%E5%A4%9A%20%E6%B2%A1%E5%86%99%E4%BB%80%E4%B9%88%E6%89%8D%E9%87%8D%E8%A6%81%20https://www.epochtimes.com/gb/21/11/11/n13370642.htm target=_blank> </a>
+	</div>
+
+<div class=aligncenter><amp-img alt="【横河观点】六中公报废话多 没写什么才重要" class="attachment-medium size-medium wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=300 i-amphtml-layout=responsive i-amphtml-ssr sizes="(min-width: 450px) 450px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2021/11/id13370739-1200x800-450x300.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w470/s/i.epochtimes.com/assets/uploads/2021/11/id13370739-1200x800-450x300.jpg 470w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2021/11/id13370739-1200x800-450x300.jpg 820w" width=450><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer><img alt="【横河观点】六中公报废话多 没写什么才重要" class="i-amphtml-fill-content i-amphtml-replaced-content" decoding=async sizes="(min-width: 450px) 450px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2021/11/id13370739-1200x800-450x300.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w470/s/i.epochtimes.com/assets/uploads/2021/11/id13370739-1200x800-450x300.jpg 470w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2021/11/id13370739-1200x800-450x300.jpg 820w"></amp-img></div><div class="red16 wp-caption-text aligncenter">六中全会公报是个大杂烩，继承还是否定，编造历史的经典教科书，毛泽东都会抗议。（《横河观点》提供）</div>
+	<div id=artbody>
+<p>【大纪元2021年11月12日讯】观众朋友们好，我是横河，欢迎大家来到《<a href=https://www.youtube.com/channel/UCZZTfnyFhcdcg7LwSG6JMxw target=_blank>横河观点</a>》频道，今天是11月11日，星期四。</p><div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_1 height=250 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397018&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:250px; type=doubleclick width=300>
+         </amp-ad></div><p>今天焦点：六中全会公报是个大杂烩，继承还是否定，编造历史的经典教科书，毛泽东都会抗议。</p><p><a href=https://www.epochtimes.com/gb/tag/%E4%B8%AD%E5%85%B1%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A.html target=_blank>中共六中全会</a>发布公报，提到<a href=https://www.epochtimes.com/gb/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3.html target=_blank>习近平</a>17次，超过其它党魁总和（共14次），都是正面歌颂，但只字不提的才是重要的，中共为何要回避？分析为什么站起来富起来强起来不能反映中共历史。</p><p></p><h2>提及<a href=https://www.epochtimes.com/gb/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3.html target=_blank>习近平</a>超过其他全部党魁总和</h2>
+<p></p><p>六中全会结束，发布了公报，因为全会通过的决议还没有发表，今天就谈一下公报。决议的内容应该和公报没有很大差别。简单介绍一下，公报中提到毛泽东7次（其中毛泽东思想5次，毛泽东2次）、邓小平5次（其中邓小平理论4次）、江泽民1次、胡锦涛1次、习近平17次（其中习近平新时代中国特色社会主义思想8次），习近平名字超过其它中共党魁总和。</p><div class=amp-ad><amp-fx-flying-carpet class="i-amphtml-layout-fixed-height i-amphtml-layout-size-defined" height=300px i-amphtml-layout=fixed-height style=height:300px;><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_2 height=600 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397038&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:600px; type=doubleclick width=300>
+        </amp-ad></amp-fx-flying-carpet></div><p></p><div class=amp_video>
+				<amp-iframe class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" frameborder=0 height=356 i-amphtml-layout=responsive layout=responsive sandbox="allow-scripts allow-same-origin" src="https://epochtimes.com/assets/themes/djy/html/djy_amp_video.html?id=https://www.youtube.com/embed/a8HrbrDUlNE" width=635><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.0630%;></i-amphtml-sizer><amp-img class="i-amphtml-layout-fill i-amphtml-layout-size-defined" i-amphtml-layout=fill layout=fill placeholder src=https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/djy/images/djy_post_default_featured_image_320x200.jpg></amp-img></amp-iframe></div>
+			其内容：对中共历史全面肯定，各党魁特色全部收入，马列毛邓三代表科学发展观、习近平新时代中国特色社会主义思想，其中江泽民和胡锦涛有思想无名字。符合此前所说的三段论，毛邓习。
+<p></p><p>从历史时期来看，则是从建党到建政，称为新民主主义革命，定位站起来，和建政后30年的毛时期、改革开放的邓时期、江胡分别自成一段，但基本上不知所云，但明确了邓江胡为富起来时期。</p><p>然后就是十八大以后至今另分一期，不过这一时期的特点似乎不太清楚，虽然说达到了强起来，但强起来的具体内容却落实到了港澳台和人类命运共同体。</p><p></p><h2>没有写入公报的理论和实践才更重要</h2>
+<p></p><div class=amp-ad><amp-fx-flying-carpet class="i-amphtml-layout-fixed-height i-amphtml-layout-size-defined" height=300px i-amphtml-layout=fixed-height style=height:300px;><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_3 height=600 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397038&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:600px; type=doubleclick width=300>
+        </amp-ad></amp-fx-flying-carpet></div><p>对于一个总结性的公报，重要的不是看写进去什么，正面歌功颂德的废话再多也没用，而没写的和为什么不写也许更说明问题。</p><p>先谈站起来这部分。公报彻底否定了毛泽东思想的精髓。毛泽东对自己评价是，我一生干了两件事，一是与蒋介石斗了几十年，把他赶到那么几个海岛上去了；抗战八年，把日本人请回老家去了。对这些事持异议的人不多。</p><p>另一件事就是发动“文化大革命”，这事拥护的人不多，反对的人不少。这是1976年6月15日讲的，他自己认为很快就要盖棺了，基本可以论定了。确实是，将这个话的时候离盖棺还不到三个月。</p><p>在这里，毛泽东的站起来，并非是对国际社会列强而言，而是对中华民国，这根本就不是站起来。相对帝国主义，是抗战，所以从毛泽东开始，中共一定要把抗日这个和中共八竿子打不到边的事扯成自己的功劳。</p><div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_4 height=250 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397018&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:250px; type=doubleclick width=300>
+        </amp-ad></div><p>中共真正赢了的是国共内战，不考虑苏联这个外国势力的支持，打的还是中国人，没帝国主义封建主义什么事。</p><p>而代表中国站起来的正是中华民国的浴血抗战，也正是在这个时期，代表帝国主义侵略的大多数不平等条约被废除，美国也正是在那期间废除了排华法案，这都和中共无关，公报里居然把功劳归于自己，说什么“彻底废除了列强强加给中国的不平等条约和帝国主义在中国的一切特权”。</p><p>没有废除不平等条约的也就是苏联，最后还被中共在江泽民时期永久确定了。而从1911年到1949年的中华民国在大陆期间，包括被妖魔化严重的北洋军阀统治时期，中国人民的权利都比1949年以后多得多，那才是站起来的时期。</p><p>这是毛说的第一件事，但毛泽东自己最得意的是第二件事，即文革，中共建政后到文革结束，是以频繁的政治运动为主要特点的，文革达到巅峰，就是毛泽东思想最重要的部分，继续革命理论。就是毛泽东自己说的，过七八年又来一次。</p><div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_4 height=250 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397018&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:250px; type=doubleclick width=300>
+        </amp-ad></div><p>作为一个回顾中共百年史的公报，连最重要的政治遗产都不敢提，还谈什么自信。</p><p>不敢提的还有1989年的学生运动和后来的镇压，1999年开始的迫害法轮功，这些是中共在文革结束后政治上的重大事件，其中迫害法轮功还是持续二十多年还在继续的政策，作为和回顾性历史文件相呼应的公报居然一字不提。</p><p></p><h2>中共思想理论的变与不变，继承与否定</h2>
+<p></p><p>中共理论实践的继承和否定。从邓小平的第二个决议到改革开放，是从理论上到实践上对毛泽东的部分否定，主要是对继续革命的理论，即持续对中共自己进行革命这个理论的否定。</p><div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_4 height=250 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397018&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:250px; type=doubleclick width=300>
+        </amp-ad></div><p>主要的原因是因为文革革了包括邓小平在内的中共自己官僚系统的命，但基本肯定了毛泽东的革命，因为这正是邓小平权力的来源，而即使是否定继续革命也是不彻底的，继续革命不只是文革，文革前的几个大的政治运动，包括邓自己也沾血的反右斗争，邓就没有否定。</p><p>所以邓的改革是不彻底的，有继承和部分否定，继承的还是中共的邪恶本质，这就是“六四”镇压的来源，那以前还有反自由化也是。</p><p>其实更彻底的否定是三个代表，三个代表就是中共在批判苏联时所说的修正主义，修正主义的一个重要特点就是全民党，严格地说，三个代表的实质就是对中共革命的否定，这是从三代表字面定义来看的，真正实施的政策，仍然没有脱离中共，尤其是迫害法轮功，反映的是中共骨子里对传统文化和信仰的恐惧。</p><p>所以在江时期，代表性的真正能反映实质的并不是阶级调和的三代表，而是迫害法轮功信仰的政治运动，立即就把文革中的党领导一切的组织形式恢复了。（<a href=https://www.youtube.com/channel/UCZZTfnyFhcdcg7LwSG6JMxw target=_blank>横河观点</a>）</p><div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_4 height=250 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397018&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:250px; type=doubleclick width=300>
+        </amp-ad></div><p>强起来的说法，如果是以蛮横无理做标准倒是可以说的，除此之外，很难把强起来和富起来分开，而就富起来而言，中国似乎在倒退，我一直认为一个时代，或一个阶段，最本质的东西应该是可以用简单的语言表达清楚的，所以我并不认为站起来富起来强起来真实地反映了中共的百年史或49年至今的历史。</p><p>而从中共不同阶段的政策来看，更可以描述为“痞子革命”、“继续革命”、“跛脚改革开放”，这是指经济改开，拒绝政改，最后一个阶段比较难描述，因为还在进行中，历史一般后人比较好评价，趋势是从邓小平的改革开放向毛时代文革前17年的退缩，因为这两者距离很大，最终会退缩到哪一个区段相对稳定下来还不好说。</p><p>谈不上思想理论有什么创新。至少现在看不出来。急急忙忙地做一个历史决议下定论会成为笑话的。</p><p>这个公报，我看出的是中共的不自信，连自己的历史都不敢正视、不敢提及、不敢评价、不敢承认。</p><div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_4 height=250 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397018&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:250px; type=doubleclick width=300>
+        </amp-ad></div><p></p><h2>美中气候联合声明是配合演戏？</h2>
+<p></p><p>顺便说一下一条新闻，在格拉斯哥举行的<a href=https://www.epochtimes.com/gb/tag/cop26%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A.html target=_blank>COP26气候峰会</a>上，中国和美国同意在未来十年加强气候合作，因为此前习近平没有参加会议，也没有发表视频讲话，普遍认为中方不会有新的举动，因此很多组织个人国家都表示出乎预料。</p><p>但大都表示谨慎但欢迎。联合声明中美中都承诺采取行动：双方将“回顾其共同努力的坚定承诺”，以实现2015年《巴黎协定》中规定的1.5摄氏度的目标。</p><p>我倒不认为这是值得欢迎的行动。气候协议，越来越像发达国家和一些气候利益集团演出的一场政治秀，这和气候变化本身是否真实没有关系，在美中关系的竞争和合作上，能合作的只有两个大的议题，就是气候和一些特定国家如伊朗、阿富汗和北朝鲜议题。</p><div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_4 height=250 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397018&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:250px; type=doubleclick width=300>
+        </amp-ad></div><p>这几个国家的议题如果希望中共合作，其结果就像当年小布什反恐要和中共合作一样，中共就是最大的恐怖集团，也是小恐怖集团和组织的支持者，指望中共合作就是本末倒置，起码也是没弄清状况。</p><p>而气候变化，当然我不认为这是个真实议题，即使真是个严重的需要解决的问题，也不能指望中共的合作，因为任何议题，一旦中共认为对方真的需要，就立即会将之武器化，成为一项筹码，会在其它方面得寸进尺。</p><p>我认为在气候议题上，大家都在演戏，中共要想从中获益，就必然会配合美国演好这场戏，太不配合，美国没了希望，这个议题就没了，中共也就得不到好处，利用不了了。至于中共的承诺，如果经过这几十年还没有从世贸组织吸取教训，那只能说自找的了。</p><p>如果喜欢我的节目，请别忘记点赞、订阅和转发。再说一下，由于YouTube停止盈利功能，为了频道长远经营，我已经在优乐客会员网站开始做节目，是专题片的形式，已经播出了两集，分别是福西和武毒所的功能获得研究新进展，和中共国安官员徐延军的故事。</p><div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/5965368/DJYwww_mobile_amp_article_300x250_4 height=250 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397018&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:250px; type=doubleclick width=300>
+        </amp-ad></div><p>这一集是讲最近围绕台湾的各方博弈和局势升温，周六播出。以后节目都是每周六晚上美东时间9点会在油管播出，播完后就放到优乐客会员网站上，会员网站上除了我的节目，还有很多其它的节目，欢迎大家去看看，也希望大家订阅支持。同时在YouTube上还会和大家每周做两次节目，好，感谢大家收看，我们下次节目再见。</p><p>《<a href=https://www.youtube.com/channel/UCZZTfnyFhcdcg7LwSG6JMxw target=_blank>横河观点</a>》制作组</p><p>责任编辑：李昊#</p>				<div class=amp-ad><amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-multi-size=300x250 data-multi-size-validation=false data-slot=/5965368/DJY_M_amp_below_article_300x250 height=600 i-amphtml-layout=fixed rtc-config={&#34;vendors&#34;:{&#34;prebidappnexus&#34;:{&#34;PLACEMENT_ID&#34;:&#34;14397038&#34;}},&#34;timeoutMillis&#34;:1000} style=width:300px;height:600px; type=doubleclick width=300>
+		</amp-ad></div>
+				<div class="mtop10 view_on_djy">
+		 	<a href=https://www.epochtimes.com/gb/21/11/11/n13370642.htm target=_blank>浏览大纪元网页</a>
+		</div>
+					<amp-embed class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-item-id=13370642 data-service-name=epochtimes.com/gb data-widget-id=M7NGzLlb height=1 heights="calc(80% + 379px)" i-amphtml-layout=responsive type=dable width=1><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer>
+			</amp-embed>
+			
+		<div class=djy_facebook>
+			<a class=amp-sprite href=https://www.facebook.com/djy.news/ target=_blank> </a>
+		</div>
+
+		<div class=below_article_tags>标签 <a href=https://www.epochtimes.com/gb/tag/%E6%A8%AA%E6%B2%B3%E8%A7%82%E7%82%B9.html rel=tag target=_blank>横河观点</a> <a href=https://www.epochtimes.com/gb/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3.html rel=tag target=_blank>习近平</a> <a href=https://www.epochtimes.com/gb/tag/%E4%B8%AD%E5%85%B1%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A.html rel=tag target=_blank>中共六中全会</a> <a href=https://www.epochtimes.com/gb/tag/cop26%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A.html rel=tag target=_blank>COP26气候峰会</a></div>
+
+		<div id=v2015_share>
+			<a class="facebook social amp-sprite" href="https://www.facebook.com/sharer/sharer.php?u=https://www.epochtimes.com/gb/21/11/11/n13370642.htm" target=_blank> </a>
+			<a class="line social amp-sprite" href=http://line.naver.jp/R/msg/text/?%E3%80%90%E6%A8%AA%E6%B2%B3%E8%A7%82%E7%82%B9%E3%80%91%E5%85%AD%E4%B8%AD%E5%85%AC%E6%8A%A5%E5%BA%9F%E8%AF%9D%E5%A4%9A%20%E6%B2%A1%E5%86%99%E4%BB%80%E4%B9%88%E6%89%8D%E9%87%8D%E8%A6%81%20https://www.epochtimes.com/gb/21/11/11/n13370642.htm target=_blank> </a>
+			<a class="twitter social amp-sprite" href="https://twitter.com/intent/tweet?text=%E3%80%90%E6%A8%AA%E6%B2%B3%E8%A7%82%E7%82%B9%E3%80%91%E5%85%AD%E4%B8%AD%E5%85%AC%E6%8A%A5%E5%BA%9F%E8%AF%9D%E5%A4%9A%20%E6%B2%A1%E5%86%99%E4%BB%80%E4%B9%88%E6%89%8D%E9%87%8D%E8%A6%81;via=dajiyuan&amp;url=https://www.epochtimes.com/gb/21/11/11/n13370642.htm" target=_blank> </a>
+		</div>
+
+		<div class=clear id=djy_donation><a href=https://donate.epochtimes.com/ target=_blank>捐助大纪元   人人有  ‘好报’</a></div>
+
+				<div class=recommend_video>
+			<div class=block_title>
+				视频
+				<span>
+		<amp-img class="amp-wp-unknown-size amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=400 i-amphtml-layout=responsive sizes="(min-width: 640px) 640px, 100vw" src=https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/m-djy/images/Camera_w.png srcset="https://www-epochtimes-com.cdn.ampproject.org/ii/w680/s/www.epochtimes.com/assets/themes/m-djy/images/Camera_w.png 680w, https://www-epochtimes-com.cdn.ampproject.org/ii/w820/s/www.epochtimes.com/assets/themes/m-djy/images/Camera_w.png 820w" width=640><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>				</span>
+			</div>
+								<li>
+							<a href=https://www.epochtimes.com/gb/22/12/23/n13890683.htm target=_blank>
+								<amp-img alt="【老北京茶馆】疫情袭中南海 神秘中招者是谁？" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13890769-Untitled-1-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13890769-Untitled-1-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13890769-Untitled-1-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13890769-Untitled-1-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								<span class=video_icon>
+								<amp-img class="amp-wp-unknown-size amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=400 i-amphtml-layout=responsive sizes="(min-width: 640px) 640px, 100vw" src=https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg srcset="https://www-epochtimes-com.cdn.ampproject.org/ii/w680/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 680w, https://www-epochtimes-com.cdn.ampproject.org/ii/w820/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 820w" width=640><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								</span>
+								<div class=title>【老北京茶馆】疫情袭中南海 神秘中招者是谁？</div>
+							</a>
+							<div class=video_footer>
+								<div class=prime_cat>每日新闻</div>
+								<div class=date_pageview>
+									<span class=date>12月24日</span>
+																		| <span class=pageview>人气 5600</span>
+																	</div>
+								<div class=clear></div>
+							</div>
+							
+						</li>
+											<li>
+							<a href=https://www.epochtimes.com/gb/22/12/22/n13889787.htm target=_blank>
+								<amp-img alt="【十字路口】疫情与武汉初期比  四个恐怖相似" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13889810-64343cbf8e8f84d817b1d85410b65265-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13889810-64343cbf8e8f84d817b1d85410b65265-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13889810-64343cbf8e8f84d817b1d85410b65265-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13889810-64343cbf8e8f84d817b1d85410b65265-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								<span class=video_icon>
+								<amp-img class="amp-wp-unknown-size amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=400 i-amphtml-layout=responsive sizes="(min-width: 640px) 640px, 100vw" src=https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg srcset="https://www-epochtimes-com.cdn.ampproject.org/ii/w680/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 680w, https://www-epochtimes-com.cdn.ampproject.org/ii/w820/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 820w" width=640><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								</span>
+								<div class=title>【十字路口】疫情与武汉初期比  四个恐怖相似</div>
+							</a>
+							<div class=video_footer>
+								<div class=prime_cat>世界的十字路口</div>
+								<div class=date_pageview>
+									<span class=date>12月23日</span>
+																		| <span class=pageview>人气 4690</span>
+																	</div>
+								<div class=clear></div>
+							</div>
+							
+						</li>
+											<li>
+							<a href=https://www.epochtimes.com/gb/22/12/21/n13889177.htm target=_blank>
+								<amp-img alt="【时事军事】俄罗斯内部“军阀四起” 危险逼近" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13889273-1221_1200x8003-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13889273-1221_1200x8003-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13889273-1221_1200x8003-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13889273-1221_1200x8003-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								<span class=video_icon>
+								<amp-img class="amp-wp-unknown-size amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=400 i-amphtml-layout=responsive sizes="(min-width: 640px) 640px, 100vw" src=https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg srcset="https://www-epochtimes-com.cdn.ampproject.org/ii/w680/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 680w, https://www-epochtimes-com.cdn.ampproject.org/ii/w820/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 820w" width=640><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								</span>
+								<div class=title>【时事军事】俄罗斯内部“军阀四起” 危险逼近</div>
+							</a>
+							<div class=video_footer>
+								<div class=prime_cat>时事军事</div>
+								<div class=date_pageview>
+									<span class=date>12月22日</span>
+																		| <span class=pageview>人气 3836</span>
+																	</div>
+								<div class=clear></div>
+							</div>
+							
+						</li>
+											<li>
+							<a href=https://www.epochtimes.com/gb/22/12/22/n13889717.htm target=_blank>
+								<amp-img alt=【有冇搞错】习最后的“烂尾”任务：搞垮中共 class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13889720-6da75fe05ab3c9607c20a2fc1d10bdc2-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13889720-6da75fe05ab3c9607c20a2fc1d10bdc2-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13889720-6da75fe05ab3c9607c20a2fc1d10bdc2-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13889720-6da75fe05ab3c9607c20a2fc1d10bdc2-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								<span class=video_icon>
+								<amp-img class="amp-wp-unknown-size amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=400 i-amphtml-layout=responsive sizes="(min-width: 640px) 640px, 100vw" src=https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg srcset="https://www-epochtimes-com.cdn.ampproject.org/ii/w680/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 680w, https://www-epochtimes-com.cdn.ampproject.org/ii/w820/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 820w" width=640><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								</span>
+								<div class=title>【有冇搞错】习最后的“烂尾”任务：搞垮中共</div>
+							</a>
+							<div class=video_footer>
+								<div class=prime_cat>时政评论</div>
+								<div class=date_pageview>
+									<span class=date>12月22日</span>
+																		| <span class=pageview>人气 5131</span>
+																	</div>
+								<div class=clear></div>
+							</div>
+							
+						</li>
+											<li>
+							<a href=https://www.epochtimes.com/gb/22/12/19/n13887822.htm target=_blank>
+								<amp-img alt="【财商天下】北京政策大转向 救经济为时已晚？" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13887823-1219_1200x800-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13887823-1219_1200x800-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13887823-1219_1200x800-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13887823-1219_1200x800-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								<span class=video_icon>
+								<amp-img class="amp-wp-unknown-size amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=400 i-amphtml-layout=responsive sizes="(min-width: 640px) 640px, 100vw" src=https://www-epochtimes-com.cdn.ampproject.org/ii/AW/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg srcset="https://www-epochtimes-com.cdn.ampproject.org/ii/w680/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 680w, https://www-epochtimes-com.cdn.ampproject.org/ii/w820/s/www.epochtimes.com/assets/themes/m-djy/images/TOP10_Play_Button_big.svg 820w" width=640><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img>								</span>
+								<div class=title>【财商天下】北京政策大转向 救经济为时已晚？</div>
+							</a>
+							<div class=video_footer>
+								<div class=prime_cat>财商天下</div>
+								<div class=date_pageview>
+									<span class=date>12月20日</span>
+																		| <span class=pageview>人气 3366</span>
+																	</div>
+								<div class=clear></div>
+							</div>
+							
+						</li>
+								
+		</div>
+		<div class=seperator> </div>
+
+		<div class=box2>
+<div><span class=block_title>相关文章</span></div>
+<ul class=post_list id=relatedArticles>
+<li class=image_post>
+<a href=https://www.epochtimes.com/gb/21/11/2/n13348963.htm target=_blank><amp-img alt="【横河观点】中俄缺席气候大会 政商巨头拼排碳" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2021/11/id13348982-345c1a8e7ecbaa255cc89faae26649a6-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2021/11/id13348982-345c1a8e7ecbaa255cc89faae26649a6-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2021/11/id13348982-345c1a8e7ecbaa255cc89faae26649a6-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2021/11/id13348982-345c1a8e7ecbaa255cc89faae26649a6-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>【横河观点】中俄缺席气候大会 政商巨头拼排碳</div></a>
 </li>
-<li><a href="/zh/时政风云/s-1681"
-title="德国之声 来自德国 介绍德国">时政风云</a>
-<ul class="sitemap">
-</ul>
+<li class=image_post>
+<a href=https://www.epochtimes.com/gb/21/11/4/n13354344.htm target=_blank><amp-img alt="【横河观点】维州全面翻红 美选民拒绝社会主义" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2021/11/id13354552-1200x800-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2021/11/id13354552-1200x800-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2021/11/id13354552-1200x800-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2021/11/id13354552-1200x800-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>【横河观点】维州全面翻红 美选民拒绝社会主义</div></a>
 </li>
-<li><a href="/zh/评论分析/s-100993"
-title="评论分析">评论分析</a>
-<ul class="sitemap">
-</ul>
+<li class=image_post>
+<a href=https://www.epochtimes.com/gb/21/11/6/n13358506.htm target=_blank><amp-img alt=【横河观点】首例在美被审的中共间谍徐延军 class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2021/11/id13358511-HHGD-1200x800-10-31-21-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2021/11/id13358511-HHGD-1200x800-10-31-21-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2021/11/id13358511-HHGD-1200x800-10-31-21-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2021/11/id13358511-HHGD-1200x800-10-31-21-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>【横河观点】首例在美被审的中共间谍徐延军</div></a>
 </li>
-<li><a href="/zh/经济纵横/s-1682"
-title="经济纵横">经济纵横</a>
+<li class=text_post>
+<a href=https://www.epochtimes.com/gb/21/11/9/n13365870.htm target=_blank>【横河观点】六中全会决议 真有内容还是凑数？</a>
 </li>
-<li><a href="/zh/文化经纬/s-1683"
-title="文化经纬">文化经纬</a>
-<ul class="sitemap">
-</ul>
-</li>
-<li><a href="/zh/科技环境/s-1686"
-title="科技环境">科技环境</a>
-<ul class="sitemap">
-</ul>
-</li>
-<li><a href="/zh/足坛体坛/s-7729"
-title="足坛体坛">足坛体坛</a>
-</li>
-<li><a href="/zh/经典回顾/s-101451"
-title="德国之声经典栏目总览">经典回顾</a>
-</li>
-</ul>
-<div class="flyoutGroup col1">
-<h4>特别专题</h4>
-<ul class="sitemap">
-<li><a href="/zh/1五1十议文革/s-32767"
-title="1五1十议文革">1五1十议文革</a></li>
-<li><a href="/zh/dw中文50周年/s-101391"
-title="DW中文50周年">DW中文50周年</a></li>
-<li><a href="/zh/global-ideas/s-30669"
-title="Global Ideas">Global Ideas</a></li>
-<li><a href="/zh/畅游莱茵河/s-100767"
-title="畅游莱茵河">畅游莱茵河</a></li>
-<li><a href="http://visualdata.dw.com/specials/welterbe/index.php?lg=zh"
-title="世界遗产之旅">世界遗产之旅</a></li>
-<li><a href="/zh/我为人人德国的义务工作者/s-100764"
-title="德国的义务工作者系列">我为人人！德国的义务工作者</a></li>
-<li><a href="/zh/研究报告中国2030/s-36073119"
-title="研究报告：中国2030">研究报告：中国2030</a></li>
 </ul>
 </div>
+<aside class=sidebar>
+	<div class=seperator> </div>
+	<div class=hot_news>
+	<div class=block_title><a href=https://www.epochtimes.com/gb/ncnews.htm target=_blank>热门新闻</a></div><ul class=post_list><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/23/n13890471.htm target=_blank><amp-img alt="习李见港特首 官媒迟报李克强 怕抢习风头？" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/10/id13847573-GettyImages-1433755938_light-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/10/id13847573-GettyImages-1433755938_light-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/10/id13847573-GettyImages-1433755938_light-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/10/id13847573-GettyImages-1433755938_light-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>习李见港特首 官媒迟报李克强 怕抢习风头？</div></a></li><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/23/n13890683.htm target=_blank><amp-img alt="【老北京茶馆】疫情袭中南海 神秘中招者是谁？" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13890769-Untitled-1-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13890769-Untitled-1-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13890769-Untitled-1-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13890769-Untitled-1-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>【老北京茶馆】疫情袭中南海 神秘中招者是谁？</div></a></li><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/23/n13890379.htm target=_blank><amp-img alt="【一线采访】放开后街道更冷清 大陆民众述内情" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13890647-GettyImages-1447143804-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13890647-GettyImages-1447143804-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13890647-GettyImages-1447143804-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13890647-GettyImages-1447143804-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>【一线采访】放开后街道更冷清 大陆民众述内情</div></a></li><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/23/n13890697.htm target=_blank><amp-img alt="【特稿】大疫灭中共 人在险路上 别陪红魔灭" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13890699-98c9fe705864469ebf20d67d4c091e83-1-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13890699-98c9fe705864469ebf20d67d4c091e83-1-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13890699-98c9fe705864469ebf20d67d4c091e83-1-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13890699-98c9fe705864469ebf20d67d4c091e83-1-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>【特稿】大疫灭中共 人在险路上 别陪红魔灭</div></a></li><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/23/n13890086.htm target=_blank><amp-img alt="【全球新闻】中南海设火化专线 白肺卷土重来" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13890418-DJY-QQXW-1200x800-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13890418-DJY-QQXW-1200x800-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13890418-DJY-QQXW-1200x800-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13890418-DJY-QQXW-1200x800-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>【全球新闻】中南海设火化专线 白肺卷土重来</div></a></li></ul>	</div>
+	<div class=seperator> </div>
+	<div class=exclusive_view>
+	<div class=block_title><a href=https://www.epochtimes.com/gb/nf6092.htm target=_blank>独家视角</a></div><ul class=post_list><li class=text_post><a href=https://www.epochtimes.com/gb/22/12/21/n13888677.htm target=_blank>钟原：北京疫情到底从何时爆发的？</a></li><li class=text_post><a href=https://www.epochtimes.com/gb/22/12/16/n13886245.htm target=_blank>王友群：江泽民之死与中共之将亡</a></li><li class=text_post><a href=https://www.epochtimes.com/gb/22/12/15/n13885535.htm target=_blank>【名家专栏】真相从谎言中浮现</a></li><li class=text_post><a href=https://www.epochtimes.com/gb/22/12/13/n13883766.htm target=_blank>王赫：2022中国经济十大困境</a></li><li class=text_post><a href=https://www.epochtimes.com/gb/22/12/9/n13881659.htm target=_blank>【名家专栏】中概股无法再规避SEC审查</a></li><li class=text_post><a href=https://www.epochtimes.com/gb/22/12/4/n13878298.htm target=_blank>王友群：江泽民死了 习近平该怎么办？</a></li></ul>	</div>
+	<div class=seperator> </div>
+	<div class=entertainment>
+	<div class=block_title><a href=https://www.epochtimes.com/gb/ncyule.htm target=_blank>娱乐休闲</a></div><ul class=post_list><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/21/n13889299.htm target=_blank><amp-img alt="汪小菲确诊10天未痊愈 直播跟母亲交代后事" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/11/id13862851-GettyImages-695756644-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/11/id13862851-GettyImages-695756644-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/11/id13862851-GettyImages-695756644-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/11/id13862851-GettyImages-695756644-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>汪小菲确诊10天未痊愈 直播跟母亲交代后事</div></a></li><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/22/n13889400.htm target=_blank><amp-img alt="萧煌奇曾当柔道国手 20岁摘过亚运铜牌" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13889405-2212212215151487-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13889405-2212212215151487-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13889405-2212212215151487-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13889405-2212212215151487-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>萧煌奇曾当柔道国手 20岁摘过亚运铜牌</div></a></li><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/23/n13890775.htm target=_blank><amp-img alt=中国知名导演谢晋的儿子谢佳庆染疫身亡 class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13890800-xie-jin-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13890800-xie-jin-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13890800-xie-jin-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13890800-xie-jin-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>中国知名导演谢晋的儿子谢佳庆染疫身亡</div></a></li><li class=image_post><a href=https://www.epochtimes.com/gb/22/12/21/n13889275.htm target=_blank><amp-img alt="确诊后高烧3天 贾乃亮：难受得快要死掉" class="attachment-djy_320_200 size-djy_320_200 wp-post-image amp-wp-enforced-sizes i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=200 i-amphtml-layout=responsive sizes="(min-width: 320px) 320px, 100vw" src=https://i-epochtimes-com.cdn.ampproject.org/ii/AW/s/i.epochtimes.com/assets/uploads/2022/12/id13889298-GettyImages-1083288814-320x200.jpg srcset="https://i-epochtimes-com.cdn.ampproject.org/ii/w330/s/i.epochtimes.com/assets/uploads/2022/12/id13889298-GettyImages-1083288814-320x200.jpg 330w, https://i-epochtimes-com.cdn.ampproject.org/ii/w680/s/i.epochtimes.com/assets/uploads/2022/12/id13889298-GettyImages-1083288814-320x200.jpg 680w, https://i-epochtimes-com.cdn.ampproject.org/ii/w820/s/i.epochtimes.com/assets/uploads/2022/12/id13889298-GettyImages-1083288814-320x200.jpg 820w" width=320><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:62.5000%;></i-amphtml-sizer></amp-img><div class=title>确诊后高烧3天 贾乃亮：难受得快要死掉</div></a></li></ul>	</div>
+</aside>
+		</div>
+	</div>
 </div>
 
-</li>
-<li>
-<a href="/zh/多媒体中心/s-100848"
-title="多媒体中心">多媒体中心</a>
-
-<div class="flyout mini">
-<ul class="sitemap" role="menu">
-<li role="menuitem">
-<a href="/zh/正在直播/s-100849"
-title="正在直播">正在直播</a>
-</li>
-<li role="menuitem">
-<a href="/zh/所有节目/s-100850"
-title="所有节目">所有节目</a>
-</li>
-</ul>
-</div>
-
-</li>
-<li>
-<a href="/zh/德语天地/s-2582"
-title="德语天地">德语天地</a>
-
-<div class="flyout">
-<div class="flyoutGroup">
-<div class="flyoutGroup">
-<h4>德语培训</h4>
-<ul class="sitemap">
-<li><a href="/zh/德语培训/s-2583"
-title="德语培训">德语培训</a></li>
-<li><a href="/zh/deutsch-interaktiv/s-9649"
-title="Deutsch Interaktiv">Deutsch Interaktiv</a>
-</li>
-<li><a href="/zh/mission-europe/s-10330"
-title="Mission Europe">Mission Europe</a>
-<ul class="sitemap">
-</ul>
-</li>
-<li><a href="/zh/radio-d/s-9650"
-title="Radio D">Radio D</a>
-<ul class="sitemap">
-</ul>
-</li>
-<li><a href="/zh/deutsch-warum-nicht/s-2584"
-title="Deutsch - warum nicht?">Deutsch - warum nicht?</a>
-<ul class="sitemap">
-</ul>
-</li>
-<li><a href="/zh/audiotrainer/s-9656"
-title="Audiotrainer">Audiotrainer</a>
-<ul class="sitemap">
-</ul>
-</li>
-</ul>
-</div>
-<div class="flyoutGroup">
-<h4>高级课程</h4>
-<ul class="sitemap">
-<li><a href="/deutsch-lernen/deutsch-xxl/s-12376"
-title="高级课程">高级课程</a></li>
-<li><a href="/deutsch-lernen/deutsch-aktuell/s-2146"
-title="Deutsch Aktuell">Deutsch Aktuell</a>
-</li>
-<li><a href="/deutsch-lernen/deutsch-im-fokus/s-9213"
-title="Deutsch im Fokus">Deutsch im Fokus</a>
-</li>
-<li><a href="/deutsch-lernen/telenovela/s-13121"
-title="Telenovela">Telenovela</a>
-</li>
-<li><a href="/deutsch-lernen/bandtagebuch/s-13891"
-title="Bandtagebuch">Bandtagebuch</a>
-</li>
-<li><a href="/deutsch-lernen/landeskunde/s-12377"
-title="Landeskunde">Landeskunde</a>
-</li>
-</ul>
-</div>
-<div class="flyoutGroup">
-<h4>Community D</h4>
-<ul class="sitemap">
-<li><a href="/deutsch-lernen/community-d/s-9035"
-title="Community D">Community D</a></li>
-<li><a href="/deutsch-lernen/das-portr%C3%A4t/s-30546"
-title="Das Porträt">Das Porträt</a>
-</li>
-<li><a href="/deutsch-lernen/podcasts-newsletter/s-11696"
-title="Podcasts & Newsletter">Podcasts & Newsletter</a>
-</li>
-<li><a href="/deutsch-lernen/service/s-9032"
-title="Service">Service</a>
-</li>
-</ul>
-</div>
-<div class="flyoutGroup">
-<h4>教德语</h4>
-<ul class="sitemap">
-<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233"
-title="教德语">教德语</a></li>
-<li><a href="/deutsch-lernen/dw-im-unterricht/s-14199"
-title="DW im Unterricht">DW im Unterricht</a>
-</li>
-<li><a href="/deutsch-lernen/unterrichtsreihen/s-9729"
-title="Unterrichtsreihen">Unterrichtsreihen</a>
-</li>
-<li><a href="/deutsch-lernen/deutschlehrer-info/s-13503"
-title="Deutschlehrer-Info">Deutschlehrer-Info</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-
-</li>
-</ul>
-<ul id="navLevel2">
-<li><a href="/zh/非常德国/s-101347"
-title="非常德国">非常德国</a></li>
-<li><a href="/zh/时政风云/s-1681"
-title="德国之声 来自德国 介绍德国">时政风云</a></li>
-<li><a id="navAct2"
-href="/zh/评论分析/s-100993"
-title="评论分析">评论分析</a></li>
-<li><a href="/zh/经济纵横/s-1682"
-title="经济纵横">经济纵横</a></li>
-<li><a href="/zh/文化经纬/s-1683"
-title="文化经纬">文化经纬</a></li>
-<li><a href="/zh/科技环境/s-1686"
-title="科技环境">科技环境</a></li>
-<li><a href="/zh/足坛体坛/s-7729"
-title="足坛体坛">足坛体坛</a></li>
-<li><a href="/zh/经典回顾/s-101451"
-title="德国之声经典栏目总览">经典回顾</a></li>
-</ul>
-</div>
-<!-- breadcrumbs navigation: -->
-<div id="navPath">
-<a href="/zh/在线报导/s-9058" title="在线报导">
-在线报导
-</a>
-/
-<a href="/zh/评论分析/s-100993" title="评论分析">
-评论分析
-</a>
-</div>
-</div>
-
-<div id="innerFrame">
-<div class="adsContainer">
-<div class="advertising">
-<!-- GoogleDfP_Leaderboard -->
-<div id="DW_D_Articles_Leaderboard-label" class="bannerAd">
-<div id="div--Leaderboard">
-<div class="adHeadline">广告</div>
-<div id="DW_D_Articles_Leaderboard"></div>
-</div>
-</div>
-<!-- End/GoogleDfP_Leaderboard -->
-</div>
+<div id=footer>
+	<div class=ind_foot>
+		<div class=footer_menu>
+			<ul>
+			<li><a href=https://www.epochtimes.com/gb/nsc794.htm target=_blank>大陆</a></li><li><a href=https://www.epochtimes.com/gb/news418.htm target=_blank>国际</a></li><li><a href=https://www.epochtimes.com/gb/news412.htm target=_blank>美国</a></li><li><a href=https://www.epochtimes.com/gb/nsc974.htm target=_blank>欧洲</a></li><li><a href=https://www.epochtimes.com/gb/news414.htm target=_blank>台湾</a></li><li><a href=https://www.epochtimes.com/gb/news415.htm target=_blank>香港</a></li><li><a href=https://www.epochtimes.com/gb/nccomment.htm target=_blank>评论</a></li><li><a href=https://www.epochtimes.com/gb/nsc420.htm target=_blank>财经</a></li><li><a href=https://www.epochtimes.com/gb/nsc419.htm target=_blank>科技</a></li><li><a href=https://www.epochtimes.com/gb/nsc2007.htm target=_blank>文化</a></li><li><a href=https://www.epochtimes.com/gb/nsc985.htm target=_blank>艺术</a></li><li><a href=https://www.epochtimes.com/gb/nsc1002.htm target=_blank>健康</a></li><li><a href=https://www.epochtimes.com/gb/nsc445.htm target=_blank>美食</a></li><li><a href=https://www.epochtimes.com/gb/nsc2008.htm target=_blank>生活</a></li><li><a href=https://www.epochtimes.com/gb/ncyule.htm target=_blank>娱乐</a></li>			</ul>
+			<div class=footer_logo><a class=amp-sprite href=https://www.epochtimes.com/gb/ target=_blank> </a></div>
+ 		</div>
+		<div>
+			<a href=https://www.epochtimes.com/gb/rights_and_permissions.htm target=_blank>授权与许可</a>  
+			<a href=https://www.epochtimes.com/gb/UserAgreement.htm target=_blank>服务条款</a>  
+			<a href=https://donate.epochtimes.com/ target=_blank>捐助大纪元</a>
+		</div>
+		Copyright© 2000 - 2022	</div>
 </div>
 
 
-<div id="bodyContent">
-<div class="col3">
-<h4 class="artikel">媒体看中国</h4>
-<h1>德语媒体：关税的背后是美中对抗？</h1>
-<p class="intro">美中互征惩罚性关税：北京有意设置温和壁垒，以便为谈判留下空间？特朗普的关键是保护美国的科技创新？</p>
-<div id="sharing-bar" class="min">
-<span dir="ltr">
-<a dir="ltr" class="sharing-item fb static" target="new" rel="nofollow"
-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Facebook-sharing"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'facebook')"></a>
-</span>
-<span dir="ltr">
-<a dir="ltr" class="sharing-item twitter static" target="new" rel="nofollow"
-href="https://twitter.com/intent/tweet?source=webclient&amp;text=%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F+https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Twitter-sharing"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'twitter')"></a>
-</span>
-<span dir="ltr">
-<a dir="ltr" class="sharing-item email static" target="new" rel="nofollow"
-href="mailto:?body=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-EMail-sharing&amp;subject=%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'email')"></a>
-</span>
-<span dir="ltr">
-<a dir="ltr" class="sharing-item line static" target="new" rel="nofollow"
-href="https://lineit.line.me/share/ui?url=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Line-sharing"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'line')"></a>
-</span>
-<span dir="ltr">
-<a dir="ltr" class="sharing-item fb-messenger option" target="new" rel="nofollow"
-href="https://www.facebook.com/dialog/send?app_id=161807964535758&amp;redirect_uri=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Facebook%2BMessenger%2BWeb-sharing&amp;link=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Facebook%2BMessenger%2BWeb-sharing&amp;display=popup"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'fb-messenger-web')"></a>
-</span>
-<span dir="ltr">
-<a dir="ltr" class="sharing-item whatsapp option" target="new" rel="nofollow"
-href="https://web.whatsapp.com/send?text=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Whatsapp%2BWeb-sharing+%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'whatsapp-web')"></a>
-</span>
-<p class="sharing-item toggler"></p>
-</div> <div class="picBox full">
-<a class="overlayLink" href="#"
-link="/overlay/image/article/43237694/42965162" rel="nofollow"
-style="cursor: pointer;">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/42965162_303.jpg" width="700" height="394" title="China USA Wirtschaft" alt="China USA Wirtschaft" /> </a>
-<p>美中</p>
-</div>
-<div class="group">
-<div class="longText">
-<p>（德国之声中文网）《南德意志报》发表评论，题为"惩罚性关税背后的想法"（Strafzoll mit Hintergedanken）。评论写道：</p> <p>"猪肉、香槟、核桃、杏仁、苹果再加上钢管：这就是中国对特朗普惩罚性关税的回应。中国对共128种美国产品提高关税。听上去令人印象深刻，但只是一些小事情的大杂烩。北京有意设置了温和的贸易壁垒，受影响的行业原本就对中国的出口量很少。这给谈判留下了空间。这是北京的希望。至少现在还是。"</p> <p>文章写道，中国前财政部长楼继伟呼吁对大豆征收关税。"中国大豆进口的三分之一来自美国，价值140亿美元。如果征收惩罚性关税，受影响的首先是曾在2016年大选支持特朗普的那些联邦州的农民。而今秋参议院将举行选举，三分之一的议席将重新选举。"</p> <p>"但对北京而言，对大豆征收关税并非毫无风险。大豆在中国的踪迹遍地可寻：酱油、豆奶、豆腐、作为饲料的豆渣。如果征收惩罚性关税，中国数百万人将面临成本上涨，而美国暂时不会受到影响。现期中国的大豆首先从巴西和阿根廷进口，--北半球半年后才再度收割。"</p> <div class="picBox full
-rechts
-"> <a class="overlayLink" href="#" link="/overlay/image/article/43237694/41852009" rel="nofollow" style="cursor: pointer;"> <img loading="lazy" itemprop="image" src="https://static.dw.com/image/41852009_401.jpg" width="700" height="394" title="USA Präsident Donald Trump in Washington" alt="USA Präsident Donald Trump in Washington"> </a> </div> <p>《法兰克福汇报》发表题为"美国对中国"（Amerika gegen China）的文章。文中写道：</p> <p>"这场贸易战的主要原因恐怕不是有关中国市场的开放。华盛顿本周将公布列有100种中国进口产品的清单，考虑对其征收25%的惩罚性关税，这并非问题的核心。更关键的是，特朗普希望在面对中国时保护美国的科技与创新力。"</p> <p>"一方面，美国不容许这位实力不断增长的竞争者在美国国内为其崛起而获取技术。这位竞争者正在面向未来的工业领域、如自动驾驶汽车迅速赶超。"</p> <p>"另一方面，也不容让中国在本国内以市场准入为施压手段，迫使美国企业向听命于北京的企业交出技术知识。"</p> <p>"与对盟国、如德国的威胁不同，特朗普认为，中国崛起成为技术超级大国对美国的安全构成威胁。这一看法在华盛顿两党都有支持者。而且不单在那里。……如今，在欧洲也引发忧虑，北京会将外国技术用于本国创新，正如高铁的例子，西门子曾一度拥有专利，如今中国很快就将主导世界市场。"</p> <p><em>摘编自其他媒体的内容，不代表德国之声的立场或观点</em></p>
-</div>
-</div>
-<div style="clear:both; height:0; font-size:1px; line-height: 0"></div>
-<!-- detail_toolbox -->
-<h4>DW.COM</h4>
-<div class="group">
-<div class="lineExtra"></div>
-<div class="linkList intern">
-<a href="/zh/德语媒体北京尚未动真格/a-43225500">
-<h2>
-德语媒体：北京尚未动真格！
-</h2>
-<p>中国出手了，北京宣布对美国进口的一些产品加征关税。有德语媒体认为，涉及关税仅30亿美元的规模表明，中国并没有真与美国打贸易战的意思。此外，"天宫一号"重返大气层也是德媒关注的一个话题。 (02.04.2018)</p>
-</a>
-</div>
-<div class="linkList intern">
-<a href="/zh/德语媒体不仅仅关乎贸易的贸易战/a-43141468">
-<h2>
-德语媒体：不仅仅关乎贸易的贸易战
-</h2>
-<p>特朗普的贸易战威胁，能不能迫使北京作出让步？面对美中之间的这场冲突，欧洲到底能否置身事外？德语报刊评论版探讨了这些话题。 (26.03.2018)</p>
-</a>
-</div>
-</div>
-<div class="group">
-<ul class="smallList">
-<li><strong>日期</strong>
-03.04.2018
-</li>
-<li>
-<strong>作者</strong>
-苗子(摘编)
-</li>
-<!-- ESI fragment of related auto topics -->
 
-<li>
-<strong>主题</strong>
-<a
-href="/zh/中美关系/t-17455900">中美关系</a>
-</li>
 
-<li>
-<strong>关键词</strong>
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%B8%AD%E7%BE%8E&searchNavigationId=9058"
-rel="nofollow">中美</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E7%BE%8E%E4%B8%AD&searchNavigationId=9058"
-rel="nofollow">美中</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E5%85%B3%E7%A8%8E&searchNavigationId=9058"
-rel="nofollow">关税</a>
-</li>
-<li><strong>反馈</strong>: <a class="overlayLink" href="#"
-rel="nofollow"
-link="/overlay/send_feedback/page/1684/43237694">意见反馈</a>
-</li>
-<li>
-<strong>打印</strong>
-<a class="icon print" rel="nofollow" href="javascript:window.print()">打印此页</a>
-</li>
-<li>
-<strong>固定链接</strong>
-https://p.dw.com/p/2vQ6A
-</li>
-</ul>
-</div>
-<!-- show related content -->
 
-<div class="col3 relatedContent">
-<h4 class="meta">相关内容</h4>
-<div class="col1" data-id="64084909">
-<div class="news">
-<a href="/zh/媒體中國投入超過一萬億人民幣發展晶片產業/a-64084909">
-<div class="teaserImg">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/61735384_301.jpg" width="220" height="124" title="***ACHTUNG: Nur zu nutzen für „Projekt C“ SPERRFRIST/Embargo 19.05, 6 Uhr!***
-(180428) -- WUHAN, April 28, 2018 (Xinhua) -- Chinese President Xi Jinping, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, visits Wuhan Xinxin Semiconductor Manufacturing Corp. in Wuhan, capital of central China's Hubei Province, April 26, 2018. Xi made an inspection tour in Hubei Province from Tuesday to Saturday. (Xinhua/Ju Peng) (zyd)" alt="***ACHTUNG: Nur zu nutzen für „Projekt C“ SPERRFRIST/Embargo 19.05, 6 Uhr!***
-(180428) -- WUHAN, April 28, 2018 (Xinhua) -- Chinese President Xi Jinping, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, visits Wuhan Xinxin Semiconductor Manufacturing Corp. in Wuhan, capital of central China's Hubei Province, April 26, 2018. Xi made an inspection tour in Hubei Province from Tuesday to Saturday. (Xinhua/Ju Peng) (zyd)" /> </div>
-<h2 class="">
-媒體：中國投入超過一萬億人民幣發展晶片產業
-<span class="date">14.12.2022</span>
-</h2>
-<p>根據路透社，在美國打壓下，為了實現晶片自給自足，中國將推出大型計劃支持自己的半導體產業。消息人士詳細透露出北京接續的做法。 </p>
-</a>
-</div>
-</div>
-<div class="col1" data-id="64074960">
-<div class="news">
-<a href="/zh/布林肯訪中有譜-美競爭不能轉為衝突/a-64074960">
-<div class="teaserImg">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/59244760_301.jpg" width="220" height="124" title="flags of China and USA painted on cracked wall" alt="flags of China and USA painted on cracked wall" /> </div>
-<h2 class="">
-布林肯訪中有譜 美：競爭不能轉為衝突
-<span class="date">13.12.2022</span>
-</h2>
-<p>拜登和習近平11月在印尼G20峰會上就台灣和朝鮮問題進行會談，防止美中關係惡化為新冷戰。兩位領導人承諾，在人權、俄烏戰爭和經濟問題上的分歧加強溝通。這次美官員訪華接續會議上的共識討論，雙方談了什麼？ </p>
-</a>
-</div>
-</div>
-<div class="col1" data-id="64262429">
-<div class="news">
-<a href="/zh/秦刚布林肯通话道别-王毅任中央外办主任提中美共赢/a-64262429">
-<div class="teaserImg">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/64194002_301.jpg" width="220" height="124" title="(221220) -- BEIJING, Dec. 20, 2022 (Xinhua) -- Chinese State Councilor and Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China (CPC) Central Committee, meets with French Foreign Affairs Minister Catherine Colonna via video link, Dec. 19, 2022. (Xinhua/Yin Bogu)" alt="(221220) -- BEIJING, Dec. 20, 2022 (Xinhua) -- Chinese State Councilor and Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China (CPC) Central Committee, meets with French Foreign Affairs Minister Catherine Colonna via video link, Dec. 19, 2022. (Xinhua/Yin Bogu)" /> </div>
-<h2 class="">
-秦刚布林肯通话“道别” 王毅任中央外办主任提中美共赢
-<span class="date">02.01.2023</span>
-</h2>
-<p>美国国务卿布林肯与新任中国外长秦刚通话讨论推动美中关系改善，而刚卸除外长职务的王毅接下中央外办主任职位。王毅于元旦撰文提及希望推动中美关系重回稳定正轨，同时也重申台湾问题是中美关系不可逾越的红线。 </p>
-</a>
-</div>
-</div>
-</div>
-
-</div>
-<!-- RECHTE SPALTE in DETAIL -->
-<div class="col1 dim">
-<div class="group">
-<ul class="smallList">
-<li><strong>日期</strong>
-03.04.2018
-</li>
-<li>
-<strong>作者</strong>
-苗子(摘编)
-</li>
-<!-- ESI fragment of related auto topics -->
-
-<li>
-<strong>主题</strong>
-<a
-href="/zh/中美关系/t-17455900">中美关系</a>
-</li>
-
-<li>
-<strong>关键词</strong>
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%B8%AD%E7%BE%8E&searchNavigationId=9058"
-rel="nofollow">中美</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E7%BE%8E%E4%B8%AD&searchNavigationId=9058"
-rel="nofollow">美中</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E5%85%B3%E7%A8%8E&searchNavigationId=9058"
-rel="nofollow">关税</a>
-</li>
-<li><a class="icon mail overlayLink" rel="nofollow" href="#"
-link="/overlay/send_feedback/page/1684/43237694">意见反馈</a>
-</li>
-<li>
-<strong>打印</strong>
-<a class="icon print" rel="nofollow" href="javascript:window.print()">打印此页</a>
-</li>
-<li>
-<strong>固定链接</strong>
-https://p.dw.com/p/2vQ6A
-</li>
-</ul>
-</div>
-</div>
-
-<div style="clear:both;"></div>
-</div>
-</div>
-
-<!-- Footer -->
-<div id="footerSection" style="clear:both;">
-<div id="footerBody">
-<ul class="footer">
-<li><a style="font-weight: bold;" href="/zh/在线报导/s-9058"
-title="在线报导">在线报导</a>
-</li>
-<li><a href="/zh/非常德国/s-101347"
-title="非常德国">非常德国</a></li>
-<li><a href="/zh/时政风云/s-1681"
-title="德国之声 来自德国 介绍德国">时政风云</a></li>
-<li><a href="/zh/评论分析/s-100993"
-title="评论分析">评论分析</a></li>
-<li><a href="/zh/经济纵横/s-1682"
-title="经济纵横">经济纵横</a></li>
-<li><a href="/zh/文化经纬/s-1683"
-title="文化经纬">文化经纬</a></li>
-<li><a href="/zh/科技环境/s-1686"
-title="科技环境">科技环境</a></li>
-<li><a href="/zh/足坛体坛/s-7729"
-title="足坛体坛">足坛体坛</a></li>
-<li><a href="/zh/经典回顾/s-101451"
-title="德国之声经典栏目总览">经典回顾</a></li>
-<li>&nbsp;</li>
-<li><a href="/zh/各类主题/index-zh">各类主题</a></li>
-</ul>
-<ul class="footer">
-<li><a style="font-weight: bold;" href="/zh/多媒体中心/s-100848"
-title="多媒体中心">多媒体中心</a>
-</li>
-<li><a href="/zh/正在直播/s-100849"
-title="正在直播">正在直播</a></li>
-<li><a href="/zh/所有节目/s-100850"
-title="所有节目">所有节目</a></li>
-</ul>
-<ul class="footer">
-<li><a style="font-weight: bold;" href="/zh/德语天地/s-2582"
-title="德语天地">德语天地</a>
-</li>
-<li><a href="/zh/德语培训/s-2583"
-title="德语培训">德语培训</a></li>
-<li><a href="/deutsch-lernen/deutsch-xxl/s-12376"
-title="高级课程">高级课程</a></li>
-<li><a href="/deutsch-lernen/community-d/s-9035"
-title="Community D">Community D</a></li>
-<li><a href="/deutsch-lernen/deutsch-unterrichten/s-2233"
-title="教德语">教德语</a></li>
-</ul>
-<ul class="footer">
-<li><a style="font-weight: bold;" href="https://corporate.dw.com/zh/翻墙访问dw/s-9246"
-title="DW 服务">DW 服务</a>
-</li>
-<li><a href="https://corporate.dw.com/zh/翻墙访问dw/s-9246"
-title="翻墙访问德国之声">翻墙访问DW</a></li>
-<li><a href="https://corporate.dw.com/zh/招聘信息/s-41084063"
-title="德国之声中文网招聘信息">招聘信息</a></li>
-<li><a href="https://corporate.dw.com/%E6%97%B6%E4%BA%8B%E9%80%9A%E8%AE%AF%E7%99%BB%E8%AE%B0/a-15718269"
-title="订阅新闻">订阅新闻</a></li>
-<li><a href="https://corporate.dw.com/zh/移动频道/s-8735"
-title="移动频道">移动频道</a></li>
-<li><a href="https://corporate.dw.com/zh/rss-服务/s-9738"
-title="RSS 服务">RSS 服务</a></li>
-</ul>
-<p id="copyright">
-© 2023 德国之声 |
-<a href="/en/european-union-general-data-protection-regulationgdpr-valid-may-25-2018/a-18265246">数据保护</a> |
-<a href="/en/accessibility-statement/a-54925999">无障碍声明</a> |
-<a href="/en/legal-notice/a-15718492">责任声明</a> |
-<a href="/en/contact/s-30606">联系方式</a>
-| <a id="mobilePreferredLink" href="https://m.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694">移动版</a>
-</p>
-</div></div>
-<!-- /Footer -->
-</div>
-</div>
-</body>
-</html>
+</body></html>

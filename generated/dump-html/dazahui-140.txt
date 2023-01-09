@@ -1,673 +1,759 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <base target="_blank">
-    <title>违建挡住逃生路！韩国梨泰院踩踏事故原因再分析_《参考消息》官方网站</title>
-    <meta name="keywords" content="">
-    <meta name="Copyright" content="《参考消息》官方网站版权所有">
-    <meta name="description" content="参考消息网11月5日报道 据日本《朝日消息》11月4日报道，违章建筑导致道路变窄，是造成拥挤踩踏事故的原因之一。关于造成150多人(@参考消息)" id="des"/>
+<!DOCTYPE HTML>
+<html lang="zh-CN"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta name="MobileOptimized" content="320"/>
+    <meta name="robots" content="all" />
+    <title>美国疾控中心缩短新冠病毒感染者隔离期至5天-中国侨网</title>
+    <meta name="keywords" content="CDC,新冠,疫苗,病例,变种" />
+    <meta name="description" content="CDC周一(27日)最新发布的隔离指南全文如下：　　如果新冠病毒检测呈阳性　　无论疫苗接种状态如何：　　在家待5天。如果接触了新冠病毒检测呈阳性者　　如果已经接种加强剂，或全面接种辉瑞或(莫德纳)Moderna疫苗不超过6个月，或全面接种强生疫苗不超过2个月：　　在有其他人的场所戴口罩10天。" />
+    <!--[894,5,317961] published at 2021-12-28 11:13:09 from #10 by 王琴 -->
+    <link href="/part/wap/index.css" rel="stylesheet" type="text/css" />
+    <link href="/part/wap/indexadd.css" rel="stylesheet" type="text/css" />
+    <script src="/js/zepto.js"></script>
+
     <style>
-        * {margin:0; padding:0; text-decoration:none; list-style:none;}
-        a {margin:0;padding:0;text-decoration:none;color:#333;}
-        body {font-family:"微软雅黑";}
-        .clear {clear:both;}
-        /*主体*/
-        .nav {width:100%;height:54px;border-bottom:1px solid #eee;padding:12px 0px 0px 0px;}
-        .nav ul {width:1200px;margin:0 auto;}
-        .nav ul li {height:20px;width:44px;padding:17px 0px;float:left;margin-right:60px;font-size:16px;color:#333333;line-height:20px;vertical-align:middle;text-align:center;}
-        .nav ul li a {line-height:20px; color:#999;}
-        .nav ul li:nth-child(1) {height:54px;width:104px;padding:0 0;margin-right:150px;}
-        .nav ul li:nth-child(2) {width:81px;}
-        .nav ul li:nth-child(10) {margin-right:0px;}
-        .main {width:1200px;margin:0px auto;padding-top:40px;}
-        .toutiao {width:1200px;}
-        .blk_btn {visibility:hidden;}
-        .slide .blk_btn a {display:block; width:46px; height:62px; position:absolute;}
-        /*文章区块*/
-        .leftBlock {width:805px;float:left;}
-        .indexList {width:805px;height:20px;line-height:20px;font-size:14px;color:#aaa;}
-        .indexList a {font-size:14px;color:#aaa;}
-        .indexList a:hover {color:#a31d1d;}
-        .allList {margin-top:25px;width:805px;}
-        .articleHead {width:805px;line-height:54px;font-size:36px;margin:20px 0px;}
-        /*分享*/
-        .share {width:38px;float:left;font-size:14px;color:#acc6cb;}
-        .share ul li {width:38px;height:35px;margin-bottom:25px;line-height:35px;text-align:center;}
-        .sinawb {background:url(http://upload.cankaoxiaoxi.com/2018/0926/1537926527528.png) no-repeat scroll 0 -3px transparent;}
-        .sinawb:hover {background:url(http://upload.cankaoxiaoxi.com/2018/0926/1537926527528.png) no-repeat scroll 0 -39px transparent;}
-        .weixin {background:url(http://upload.cankaoxiaoxi.com/2018/0926/1537926527528.png) no-repeat scroll 0 -80px transparent;}
-        .weixin:hover {background:url(http://upload.cankaoxiaoxi.com/2018/0926/1537926527528.png) no-repeat scroll 0 -112px transparent;}
-        .qzone {background:url(http://upload.cankaoxiaoxi.com/2018/0926/1537926527528.png) no-repeat scroll 0 -153px transparent;}
-        .qzone:hover {background:url(http://upload.cankaoxiaoxi.com/2018/0926/1537926527528.png) no-repeat scroll 0 -191px transparent;}
-        .douban {background:url(http://upload.cankaoxiaoxi.com/2018/0926/1537926527528.png) no-repeat scroll 0 -232px transparent;}
-        .douban:hover {background:url(http://upload.cankaoxiaoxi.com/2018/0926/1537926527528.png) no-repeat scroll 0 -262px transparent;}
-        /*正文区块*/
-        .articleBody {width:720px;float:right;}
-        .info {width:720px;height:30px;border-bottom:1px solid #efefef;}
-        .info .infoA {font-size:14px;color:#aaa;margin-right:20px;}
-        .info .infoB {font-size:14px;color:#aaa;float:right;margin-left:20px;}
-        .articleAbs {width:720px;line-height:32px;font-size:16px;color:#aaa;margin-top:15px;padding-bottom:20px;border-bottom:1px solid #efefef;}
-        .articleContent {width:720px;margin-top:15px;}
-        .articleText {width:720px;font-size:18px;line-height:34px;}
-        .articleText img {max-width:720px;}
-        .articleText p {padding-bottom:15px;text-indent:2em;color:#333;}
-        .articleTextAll {width:720px;font-size:18px;line-height:34px;}
-        .articleTextAll p {padding-bottom:15px;text-indent:2em;color:#333;}
-        /*加载更多*/
-        .more {height:50px;border:1px solid #e5e5e5;border-radius:6px;margin-top:40px;}
-        .more p,.more p a {line-height:50px;text-align:center;font-size:16px;color:#aaa;}
-        /*翻页区块*/
-        .page {margin:30px auto;text-align:center;}
-        .pageUl {overflow: hidden;margin:0 auto;zoom:1;display:inline-block;}
-        .pageUl li {height:31px;margin-top:10px;margin-bottom:0px;float:left;}
-        .pageUl li a {width:27px;height:27px;font-size:16px;display:block;margin:0 15px 10px 0;line-height:25px;text-align:center;vertical-align:middle;}
-        .page #prev_page, .page #next_page {width:75px;}
-        .page a.now, .page a:hover {color:#fff;background-color:#a31d1d;border-radius:50%;}
-        .page #prev_page:hover, .page #next_page:hover{background-color:#a31d1d;border-radius:27px;color:#fff;}
-        /*版权声明*/
-        .rightInfo {width:720px;font-size:14px;color:#aaa;margin-top:30px;margin-bottom:60px;}
-        .rightInfoCenter {width:720px;font-size:14px;color:#aaa;margin-top:30px;margin-bottom:60px;text-align:center;}
-        /*相关阅读*/
-        .relateBlock {width:720px;margin-top:10px;font-size:18px;}
-        .relateBlock a:hover {color:#a31d1d;}
-        .relateBlock>span:nth-child(1) {display:block;width:80px;border-top:2px solid #a31d1d;color:#a31d1d;padding-top:10px;text-align:center;float:left;}
-        .relateBlock>span:nth-child(2){display:block;width:640px;border-top:1px solid #e5e5e5;float:left;}
-        .relateBlock ul {margin-top:20px;}
-        ul.read>p span{color:#369;margin-left:20px;font-size:18px;}
-        ul.read>p span a{color:#369;}
-        ul.read>p span:first-child{margin-left:40px;}
-        ul.read li{font-size:18px;line-height:44px;}
-        /*精品推荐*/
-        .hotnewsBlock {width:720px;margin-top:60px;}
-        .hotnewsBlock a:hover {color:#a31d1d;}
-        .hotnewsBlock>span:nth-child(1) {display:block;width:80px;border-top:2px solid #a31d1d;color:#a31d1d;padding-top:10px;text-align:center;float:left;font-size:18px;}
-        .hotnewsBlock>span:nth-child(2){display:block;width:640px;border-top:1px solid #e5e5e5;float:left;}
-        .newsContent {margin-top:20px;}
-        /*有图新闻*/
-        .news_pic{width:720px;height:180px;margin-bottom:30px;border-bottom:1px solid #eeeeee;}
-        .news_pic .news_pic_img {width:256px;height:146px;float:left;}
-        .news_pic .news_pic_img img {width:256px;height:146px;}
-        .news_pic .news_pic_info {width:429px;height:146px;float:right;}
-        .news_pic .news_pic_info p {width:429px;height:80px;font-size:20px;line-height:34px;color:#333333;margin-bottom:35px;}
-        .news_pic_info p a {font-size:20px;line-height:34px;color:#333333;}
-        .news_pic_tags {width:429px;height:30px;}
-        .source_tag {padding-top:6px;margin-top:2px;font-size:14px;color:#aaa;float:left;}
-        .date_tag {font-size:14px;color:#aaa;float:right;padding-top:8px;}
-        /*无图新闻*/
-        .news_nopic{width:720px;height:130px;margin-bottom:30px;border-bottom:1px solid #eeeeee;}
-        .news_nopic .news_nopic_info {width:720px;float:right;}
-        .news_nopic .news_nopic_info p {width:720px;font-size:20px;line-height:34px;color:#333333;margin-bottom:35px;}
-        .news_nopic_info p a {font-size:20px;line-height:34px;color:#333333;}
-        .news_nopic_tags {width:720px;height:30px;}
-        .source_tag {padding-top:6px;margin-top:2px;font-size:14px;color:#aaa;float:left;}
-        .date_tag {font-size:14px;color:#aaa;float:right;padding-top:8px;}
-        /*图片新闻*/
-        .pic_news {width:720px;margin-bottom:40px;padding-bottom:30px;border-bottom:1px solid #eeeeee;}
-        .pic_news .pic_news_title {width:720px;height:40px;line-height:34px;font-size:20px;color:#333333;margin-bottom:15px;}
-        .pic_news .pic_news_title a {line-height:34px;font-size:20px;color:#333333;}
-        .pic_news .pic_news_img {width:720px;margin-bottom:14px;}
-        .pic_news .pic_news_img img {width:225px;height:126px;margin-right:17px;}
-        .pic_news .pic_news_img a:nth-child(3) img{margin-right:0px;}
-        .pic_news .pic_news_tags {width:720px;height:30px;}
-        .newsContent div div:nth-last-child(1) {border-bottom:0px;margin-bottom:0px;}
-        .hotHide {border-top:1px solid #eee;padding-top:40px;}
-        .hide {display:none;}
-        .hotMore {height:60px;border:1px solid #333;border-radius:6px;margin-top:40px;}
-        .hotMore p,.hotMore p a {line-height:60px;text-align:center;font-size:16px;color:#333;}
-        /*右边栏*/
-        .sideBar {width:320px;float:right;}
-        .side_channel_title {width:320px;height:20px;line-height:20px;}
-        .side_channel_title span {display:block;height:20px;font-size:18px;float:left;}
-        .side_channel_title span img {position:relative;top:2px;}
-        .side_channel_title span:nth-last-child(1) {margin-left:10px;font-size:18px;}
-        /*精彩推荐*/
-        .side_news_pic {width:320px;}
-        .side_news_pic_info {margin-top:20px;}
-        .side_news_pic_info li {margin-top:15px;border-bottom:1px solid #e9e9e9;}
-        .side_news_pic_info ul li img {height:78px;width:138px;margin-bottom:15px;}
-        .side_news_pic_info ul li p {float:right;width:160px;height:78px;overflow:hidden;font-size:14px;line-height:24px;}
-        .side_news_pic_info ul li p a:hover {color:#a31d1d;}
-        /*新闻图片*/
-        .side_pic_roll {width:320px;margin-top:40px;}
-        .side_pic_roll_contents {width:320px;height:275px;margin-top:15px;}
-        .side_pic_roll_contents .slide {width:100%;height:100%;position:relative;overflow:hidden;zoom:1;}
-        .side_pic_roll_contents .slide ul {position:absolute;overflow:hidden;zoom:1;}
-        .side_pic_roll_contents .slide ul li {width:320px;height:243px;position:relative;float:left;}
-        .side_pic_roll_contents .slide ul li img {width:320px;height:180px;display:block;}
-        .side_pic_roll_contents .slide ul li p{width:298px;height:50px;padding:5px 10px 5px 10px;font-size:14px;line-height:24px;border:1px solid #e9e9e9;font-family:"微软雅黑";}
-        .side_pic_roll_contents .slide ul li p a:hover {color:#a31d1d;}
-        .side_pic_roll_contents .slide .slide_dot {width:320px;height:30px;position:absolute;top:243px;}
-        .side_pic_roll_contents .slide .slide_dot span {display:block;float:left;width:20px;height:6px;margin-left:15px;margin-top:15px;background:rgb(175,175,175);}
-        .side_pic_roll_contents .slide .slide_dot span:nth-child(1){margin-left:100px;}
-        .side_pic_roll_contents .slide .slide_dot span.on {width:50px;background:#a31d1d;}
-        #xwtp_btn_prev {left:0; top:60px; background:url(http://upload.cankaoxiaoxi.com/2018/0820/1534748974855.png) 0px 0px no-repeat;}
-        #xwtp_btn_next {right:0; top:60px; background:url(http://upload.cankaoxiaoxi.com/2018/0820/1534748974855.png) 0px -83px no-repeat;}
-        /*排行榜*/
-        .side_charts {width:320px;margin-top:60px;}
-        .side_charts_contents {margin-top:20px;}
-        .side_charts_contents ul li {margin-top:15px;height:32px;overflow:hidden;}
-        .side_charts_contents ul li span {width:18px;height:22px;display:block;float:left;margin-right:15px;margin-top:2px;}
-        .side_charts_contents ul li:nth-child(1) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 1px transparent;}
-        .side_charts_contents ul li:nth-child(2) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 -44px transparent;}
-        .side_charts_contents ul li:nth-child(3) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 -88px transparent;}
-        .side_charts_contents ul li:nth-child(4) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 -132px transparent;}
-        .side_charts_contents ul li:nth-child(5) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 -178px transparent;}
-        .side_charts_contents ul li:nth-child(6) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 -222px transparent;}
-        .side_charts_contents ul li:nth-child(7) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 -266px transparent;}
-        .side_charts_contents ul li:nth-child(8) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 -312px transparent;}
-        .side_charts_contents ul li:nth-child(9) span {background:url(http://upload.cankaoxiaoxi.com/2018/0905/1536115284371.png) no-repeat scroll 0 -360px transparent;}
-        .side_charts_contents li p {float:left;width:280px;height:20px;font-size:14px;line-height:26px;padding-bottom:10px;border-bottom: 1px solid #e9e9e9;}
-        .side_charts_contents li p a:hover {color:#a31d1d;}
-        /*尾部*/
-        .footer {width:1200px;margin:90px auto;}
-        .footer p {text-align:center;font-size:14px;line-height:14px;margin-bottom:10px;color:#999999;font-family:"微软雅黑";}
-        .footer p a {font-size:14px;line-height:14px;color:#999999;font-family:"微软雅黑";}
+        .list_jrzr{height:auto;}
+        .qw_list_title {display:none;}
+        .content_s_right{    text-align: right;  margin-bottom: 15px;}
     </style>
-    <script src="http://img.cankaoxiaoxi.com/js/lib/jquery.js"></script>
+    <script src="/js/jquery1.11.3.js"></script>
     <script>
-        function getParameter(paraStr, url)
-{
-    var result = "";
-    //获取URL中全部参数列表数据
-    var str = "&" + url.split("?")[1];
-    var paraName = paraStr + "=";
-    //判断要获取的参数是否存在
-    if(str.indexOf("&"+paraName)!=-1)
-    {
-        //如果要获取的参数到结尾是否还包含“&”
-        if(str.substring(str.indexOf(paraName),str.length).indexOf("&")!=-1)
-        {
-            //得到要获取的参数到结尾的字符串
-            var TmpStr=str.substring(str.indexOf(paraName),str.length);
-            //截取从参数开始到最近的“&”出现位置间的字符
-            result=TmpStr.substr(TmpStr.indexOf(paraName),TmpStr.indexOf("&")-TmpStr.indexOf(paraName));  
-        }
-        else
-        {  
-            result=str.substring(str.indexOf(paraName),str.length);  
-        }
-    }  
-    else
+        // JavaScript Document
 
-    {  
-        result="无此参数";  
-    }  
-    result.replace("&","");
-    return (result.split("=")[1]);  
-    //return (result.replace("&",""));  
-}
+        $.fn.toggle = function( fn, fn2 ) {
+            var args = arguments,guid = fn.guid || $.guid++,i=0,
+                    toggle = function( event ) {
+                        var lastToggle = ( $._data( this, "lastToggle" + fn.guid ) || 0 ) % i;
+                        $._data( this, "lastToggle" + fn.guid, lastToggle + 1 );
+                        event.preventDefault();
+                        return args[ lastToggle ].apply( this, arguments ) || false;
+                    };
+            toggle.guid = guid;
+            while ( i < args.length ) {
+                args[ i++ ].guid = guid;
+            }
+            return this.click( toggle );
+        };
 
-var r = getParameter("fr",window.location.href);
+        $(function(){
+            $(".more").toggle(function(){
+                // $("#daohang_ul").animate({height:"90px"},0);
+                $("#navlayer").slideDown("fast");
+            },function(){
+                //$("#daohang_ul").animate({height:"30px"},0);
+                $("#navlayer").slideUp("fast");
+            })
 
-    if(((/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) && r!="pc") || r=="mb"){
-            window.location.href="http://m.cankaoxiaoxi.com/world/20221105/2494516.shtml"+"?fr=mb";
+            $(".daohang").toggle(function(){
+                // $("#daohang_ul").animate({height:"90px"},0);
+                $("#fnavlayer").show("");
+                $("footer i a em.dhem").show("");
+                $("#fnavlayer_link").hide("");
+                $("footer i a em.linkem").hide("");
 
-     }
-    </script>
-<!--统计代码-->
-<script type="text/javascript">
-        $(document).ready(function(){ 
-            var oA = document.createElement("a");
-            oA.href = "#";
-            oA.innerHTML = '<img src="http://count.cankaoxiaoxi.com/count.png?contentid=2494516" alt="count">';
-            document.body.appendChild(oA);
+            },function(){
+                //$("#daohang_ul").animate({height:"30px"},0);
+                $("#fnavlayer").hide("");
+                $("footer i a em.dhem").hide("");
+
+            })
+
+            $(".linkwap").toggle(function(){
+                // $("#daohang_ul").animate({height:"90px"},0);
+                $("#fnavlayer_link").show("");
+                $("footer i a em.linkem").show("");
+                $("#fnavlayer").hide("");
+                $("footer i a em.dhem").hide("");
+
+            },function(){
+                //$("#daohang_ul").animate({height:"30px"},0);
+                $("#fnavlayer_link").hide("");
+                $("footer i a em.linkem").hide("");
+
+            })
+
+            $(".load_more1").click(function(){
+                $(this).parent().find(".list_ulc").css({"height":"auto"});
+                $(this).parent().find(".list_jrzr").css({"height":"auto"});
+                $(this).parent().find(".list_ulc1").css({"height":"auto"});
+                $(this).hide();
+                $(this).next().show();
+            })
+            $("#closeapp").click(function(){
+                $("#bottomapp").hide("slow");
+
+            })
+
+            var averttwx = setInterval(initwx,5000);
+            function initwx(){
+                $("#cns_topappwx").hide("slow");
+                // $('#topapp').hide("slow");
+            }
+
         })
     </script>
-<!--百度统计代码-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+    <div id='wx_pic' style='margin:0 auto;display:none;'>
+        <img src='//www.chinaqw.com/pic/pic300.jpg' alt="关注侨网微信"/>
+    </div>
+
+</head>
+
+<body id="backtop">
+
+<div class="backtop" style="display:none;"><a href="#backtop"><img src="https://i3.chinanews.com/2014/wap/images/top.png" height="37" alt="返回顶部"/></a></div>
+<script language="javascript">
+    function goTop(){
+        var windowHeight = window.innerHeight ? window.innerHeight : $(window).height();
+        if($(window).scrollTop()>(windowHeight*1.5)){
+            $(".backtop").fadeIn("slow");
+        }else{
+            $(".backtop").fadeOut("slow");
+        }
+    }
+    $(window).scroll(function(){goTop();});
+    $(window).resize(function(){goTop();});
+</script>
+<script type="text/javascript">
+
+    if(window.location.href.indexOf('f=qbapp')>=0)
+    {
+        $(document).ready(function(e) {
+            $("#theader").remove();
+            $("#pl").css("display","none");
+            $("#jctj").remove();
+            $("#b_ban").remove();
+            $("#fenx_box").remove();
+            $(".cnsnav").remove();
+            $("#navlayer").remove();
+            $(".xzqb").show();
+            $(".qbhead-right-button").val("立即打开");
+            $(".content_title h1").css("fontSize","1.4rem");
+            $(".content_title time").css("fontSize","0.9rem");
+            $(".content_context p").css("fontSize","1.1rem");
+        });
+    }else if(window.location.href.indexOf('f=qbwap')>=0){
+        $(document).ready(function(e) {
+            $("#theader").remove();
+            $("#pl").remove();
+            $("#jctj").remove();
+            $("#b_ban").remove();
+            $("#fenx_box").remove();
+            $("#navlayer").remove();
+            $(".xzqb").show();
+            $("#appxg").remove();
+        });
+    }else{
+
+        $(document).ready(function(e) {
+            $("#appxg").remove();
+            $("#theader").show();
+            $("#pl").show();
+            $("#jctj").show();
+            $("#b_ban").show();
+            $("#fenx_box").show();
+            $("#loadmore").remove();
+        });
+
+    }
+</script>
+
+<header class="content_top" id="theader" style="display:none;">
+    <div class="arrowl"><a onClick="javascript :history.back(-1);"><img src="https://i2.chinanews.com/2014/wap/images/arrow_l.png" alt="dropdown" height="22"></a></div>
+    <div class="context"><a href="/m/">侨网</a>  &#8226; <a>正文</a></div>
+    <div class="arrowr"><a href="#" class="more"><img src="https://i2.chinanews.com/2014/wap/images/more.png" alt="dropdown" height="23"></a></div>
+</header>
+
+<div style="display: none" class="xzqb">
+    <style>
+ @media screen and (max-width:768px){
+            #qiaobao_head{height: 62px;background-color: #ebebeb;    position: fixed;  bottom: 0;  width: 100%;  z-index: 1000;}
+            .qbhead{padding: 10px 12px;}
+            .qbhead-left{float: left;overflow: hidden;}
+            .qbhead-img{float: left;}
+            .qbhead-ul{float: left;margin-left: 12px;height: 44px;}
+            .qbhead-li1{font-size: 20px;color: #434343;margin-top: -2px;}
+            .qbhead-li2{font-size: 14px;color: #a0a0a0;}
+            .qbhead-right{float: right;overflow: hidden;}
+            .qbhead-right-button{    height: 35px;width: 87px;color: #ff0000;font-size: 16px;border: 1px solid #ff0000;border-radius: 6px;background-color: #ebebeb;}
+        }
+        #qiaobao_head{height: 62px;background-color: #ebebeb;    position: fixed;  bottom: 0;  width: 100%;  z-index: 1000;}
+        .qbhead{padding: 10px 12px;}
+        .qbhead-left{float: left;overflow: hidden;}
+        .qbhead-img{float: left;}
+        .qbhead-ul{float: left;margin-left: 12px;height: 44px;}
+        .qbhead-li1{font-size: 20px;color: #434343;margin-top: -2px;}
+        .qbhead-li2{font-size: 14px;color: #a0a0a0;}
+        .qbhead-right{float: right;overflow: hidden;}
+        .qbhead-right-button{    height: 35px;width: 87px;color: #ff0000;font-size: 16px;border: 1px solid #ff0000;border-radius: 6px;background-color: #ebebeb;    margin-top: 4px;}
+.qbhead-img img{border-radius: 6px;}
+body{margin-bottom:60px}
+</style>
+<div id="qiaobao_head" style="">
+    <ul class="qbhead">
+        <li class="qbhead-left">
+            <div class="qbhead-img"><img src="/upload_pic/1/201703/21/U674P894T1D1434F2DT20170321151831.jpg" width="40px" height="40px" alt="侨宝客户端"></div>
+            <ul class="qbhead-ul">
+                <li class="qbhead-li1">侨宝</li>
+                <li class="qbhead-li2">为侨服务 尽在侨宝</li>
+
+            </ul>
+        </li>
+        <li class="qbhead-right">
+            <a href="/m/qiaobao/app.shtml"><input type="button" class="qbhead-right-button" value="立即打开"></a>
+        </li>
+    </ul>
+</div>
+</div>
+
+<div class="cnsnav">
+    <div class="navlayer" id="navlayer">
+        <div class="cnsnav">
+            <ul id="">
+                <li class="selimg"><a href="/m/">首页</a></li>
+                 
+
+<li><a href="/m/hqhr/">华人</a></li>
+<li><a href="/m/gqqj/">侨务</a></li>
+<li><a href="/m/zhwh/">文教</a></li>
+<li><a href="/m/jjkj/">经济</a></li>
+<li><a href="/m/hqly/">出境</a></li>
+<li><a href="/m/hdfw/">服务</a></li>
+<li><a href="/m/sp/">视频</a></li>
+<li><a href="http://weibo.com/5137261048">@侨网</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="channltt_con">
+
+    <div class="content_title" id="fromapp">
+        <h1 id='test0511'>美国疾控中心缩短新冠病毒感染者隔离期至5天</h1>
+        <div class="subtitle">
+            <time>2021年12月28日 09:48　来源：<a href='http://www.chinaqw.com/' style='color:#666;font-weight:normal;'>中国侨网</a> </time>
+        </div>
+    </div>
+
+    <div class="content_context">
+
+        <div class="spss"></div>
+
+<p>　　中国侨网12月28日电 据美国中文网报道，美国卫生官员周一(27日)将对感染新冠病毒的美国人的隔离期从10天减少到5天，并同样缩短了密切接触者需要隔离的时间。</p>
+
+<p>　　美国疾病控制与预防中心CDC官员表示，该指南与越来越多的证据一致，即新冠病毒感染者在症状出现前两天和后三天最具传染性。</p>
+
+<p>　　在该决定做出之际，在奥密克戎(Omicron)变种传播的推动下，各地都出现了病例激增。</p>
+
+<p>　　早期研究表明，与最初的新冠病毒和其他变种相比，Omicron变种可能会导致更轻微的疾病。但专家表示，由于被感染的人数太多，因此不得不采取隔离措施，以免威胁医院、航空公司和其他企业保持营业的能力。</p>
+
+<p>　　CDC主任瓦伦斯基(Rochelle Walensky)表示，美国即将出现大量Omicron变种病例。</p>
+
+<p>　　“并非所有这些病例都会很严重。事实上，许多人将没有症状。”瓦伦斯基周一(27日)告诉美联社，“我们希望确保有一种机制，我们可以在遵循科学的同时安全地继续保持社会运转。”</p>
+
+<p>　　上周，CDC已经放宽了对医护人员的隔离规定，现在，CDC改变了对公众的隔离指南，使其更加不严格。</p>
+
+<p>　　CDC的最新指南不是强制的，而是对雇主、州和地方官员的建议。在各州开始自行扩大或改变CDC的指导意见之际，瓦伦斯基表示，“拥有统一的CDC指导将很有帮助”，其他人可以借鉴，而不是一个政策的大杂烩。</p>
+
+<p>　　<strong>CDC周一(27日)最新发布的隔离指南全文如下：</strong></p>
+
+<p>　　<strong>如果新冠病毒检测呈阳性</strong></p>
+
+<p>　　无论疫苗接种状态如何：</p>
+
+<p>　　在家待5天。</p>
+
+<p>　　如果无症状，或症状在5天后消失，你可以离开住所。</p>
+
+<p>　　继续在有其他人的场所戴口罩5天。</p>
+
+<p>　　如果发烧，继续待在家里，直到发烧症状消失。</p>
+
+<p>　　<strong>如果接触了新冠病毒检测呈阳性者</strong></p>
+
+<p>　　如果已经接种加强剂，或全面接种辉瑞或(莫德纳)Moderna疫苗不超过6个月，或全面接种强生疫苗不超过2个月：</p>
+
+<p>　　在有其他人的场所戴口罩10天。</p>
+
+<p>　　如果可行，在第五天进行检测。</p>
+
+<p>　　如果出现症状，请检测并待在家中。</p>
+
+<p>　　如果全面接种辉瑞疫苗超过6个月但没有打加强剂，或全面接种强生疫苗超过2个月但没有打加强剂，或没有接种：</p>
+
+<p>　　在家待5天。并在之后继续在有其他人的场所戴口罩5天。</p>
+
+<p>　　如果无法自我隔离，必须戴10天口罩。</p>
+
+<p>　　如果可行，在第五天进行检测。</p>
+
+<p>　　如果出现症状，请检测并待在家中。</p>
+
+<!--编辑姓名-->
+      <div class="content_s_right">
+            	<span>【责任编辑:王琴】 </span> 
+             </div>
+<!--编辑姓名-->
+
+        <div class="fenx_box " id="fenx_box" style="display:none;"><div class="bshare-custom">
+            <!--[894,7,23] published at 2023-01-01 10:58:34 from #10 by 刘洋--> 
+<span>分享</span>
+
+<a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
+<a title="分享到QQ空间" class="bshare-qzone"></a>
+<a title="分享到腾讯微博" class="bshare-qqmb"></a>
+
+        </div>
+            <script type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/buttonLite.js#uuid=7bd5e381-914d-47fe-be18-9c61404c93b8&style=-1&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/bshareC0.js"></script>
+
+            <style>
+
+                .fenx_box{width: 160px;height: 27px;}
+                .bshare-custom .bshare-qzone{
+                    background:url(//www.chinanews.com/m/fileftp/2015/06/2015-06-01/U412P885T32D2340F498DT20150603161119.png) no-repeat;
+                    background-size:22px 20px;
+                    margin-left:7px;
+
+                }
+                .bshare-custom a{ height:20px;margin-right:0px;}
+                .fenx_box span {
+                    float: left;
+                    padding: 0 15px;
+                }
+                .bshare-custom .bshare-weixin{
+                    background:url(https://i2.chinanews.com/2014/wap/images/wx.png) no-repeat;
+                    background-size:19px 19px;
+                    margin-left:2px;
+                }
+                .bshare-custom .bshare-qqxiaoyou{
+                    background:url(https://i2.chinanews.com/2014/wap/images/pyq.png) no-repeat;
+                    background-size:19px 19px;
+                    margin-left:2px;
+                }
+                .bshare-custom .bshare-qqmb{
+                    background:url(https://i2.chinanews.com/2014/wap/images/qq.png) no-repeat;
+                    background-size:17px 20px;
+                    margin-left:9px;
+                }
+                .bshare-custom .bshare-sinaminiblog{
+                    background:url(https://i2.chinanews.com/2014/wap/images/sina.png) no-repeat;
+                    background-size:20px 18px;
+                    margin-top:1px;
+                }
+                .fenx_box span{padding:1px 11px 0 14px;}
+            </style>
+        </div>
+
+    </div>
+    <style>
+        #appxg{padding: 0 10px}
+        .xgyd h2{
+            color: #0491ed;
+            padding-left: 16px;
+            font-size: 1.2rem;
+            margin: 10px 0;
+            background: url(//www.chinaqw.com/upload_pic/1/201703/14/U674P894T1D1423F7DT20170315150015.gif) no-repeat 3px center;
+        }
+        .xgyd .xgydjctj{margin-top:15px;}
+        .xgyd li{
+            height: 6rem;
+            border-bottom: 1px solid #EBEBEB;
+            clear: both;
+            padding: 13px 0 10px 0;
+            position: relative;
+        }
+        .xgyd li:first-child{
+            padding-top: 2px;
+        }
+        .xgyd li h4{
+            overflow: hidden;
+            height: 1.6rem;
+            line-height: 1.6rem;
+        }
+        .xgyd li h4 a{
+            color: #000;
+            font-size: 1.1rem;
+        }
+        .fbsj {
+            font-size: .8rem;
+            line-height: .8rem;
+            color: #000;
+            position: absolute;
+            bottom: 18px;
+            left: 0;
+        }
+        #appxg .zeropic {
+            height: 3.6rem;
+        }
+        #appxg .onepic h4{height: 3.2rem}
+        .onepic .lt {
+            width: 60%;
+            float: left;
+        }
+        .onepic .lt p,.zeropic p{
+            line-height: 1rem;
+            color: #575757;
+            font-size: .8rem;
+            height: 2rem;
+            overflow: hidden;
+        }
+        .onepic .rt {
+            width: 39%;
+            height: 100%;
+            float: right;
+            margin-top: .1rem;
+        }
+        .onepic .rt img {
+            width: 100%;
+            height: 95%;
+        }
+        #appxg .twopic{height: 8rem}
+        .morepic{
+            height: 5rem;
+            width: 100%;
+            padding-top: 8px;
+        }
+        .morepic img {
+            float: left;
+            margin-right: 4%;
+            width: 48%;
+            height: 100%;
+        }
+        #appxg .threepic{height: 9rem}
+        .morepic img:last-child,.threepic .morepic img:last-child{
+            margin-right: 0;
+        }
+        .threepic .morepic img{
+            width: 31%;
+            margin-right: 10px;
+        }
+        .threepic .morepic{
+            height: 5rem;
+        }
+        #loadmore,#loaded{
+            display: none;
+            font-size: 16px;
+            line-height: 20px;
+            padding: 10px 20px;
+            width: 90px;
+            margin: 0 auto 93px;
+        }
+        #loadmore img{
+            float: left;
+        }
+        #loadmore p{
+            float: right;
+            color: #000;
+        }
+        #qiaobao_head{
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+        .content_context p{
+            padding-top: 0;
+        }
+        .newslogo{color:#0491ed}
+        #qiaobao_head{height: 62px}
+        .qbhead{
+            padding: 10px 12px;
+        }
+        .qbhead-right-button{margin-top: 4px;}
+    </style>
+    <div id="appxg">
+        <div class="xgyd">
+            <h2 class="xgydtt">相关阅读</h2>
+            <ul class="xgydlist">
+            </ul>
+        </div>
+        <div class="xgyd">
+            <h2 class="xgydjctj">精彩推荐</h2>
+            <ul class="jctjlist">
+            </ul>
+        </div>
+    </div>
+    <div id="loadmore"><img src="//www.chinaqw.com/upload_pic/1/201701/12/U674P894T1D1225F11DT20170112160628.gif"
+                            alt="loadmore" width="20" height="20"/><p>加载更多</p></div>
+    <input type="hidden" name="pageNo" id="pageNo" value="1" />
+    <input type="hidden" name="pageNo" id="zwid" value="317961" />
+</div>
 
 <script>
-
-
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?308b87570281daa02f0d31c085c39163";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
+    var loading=true;
+    function xgxw(num){
+        $.ajax({
+            url: "https://qb.chinaqw.com/api/wapRelatedNews?id="+num,
+            type: 'GET',
+            dataType: 'JSONP',
+            success: function (data) {
+                var html = "";
+                var isLastPage=data.isLastPage;
+                for(var i=0;i<data.contentlist.length;i++){
+                    var title = data.contentlist[i].title;
+                    var url = data.contentlist[i].wapUrl+"?f=qbapp";
+                    var img = data.contentlist[i].img;
+                    var source = data.contentlist[i].source+" ";
+                    var pubtime = data.contentlist[i].pubtime;
+                    var myDate = new Date();
+                    var year=myDate.getFullYear();
+                    var month=myDate.getMonth()+1;
+                    var day=myDate.getDate();
+                    month =(month<10 ? "0"+month:month);
+                    var nowday=month+"-"+day;
+                    var pubdate=pubtime.split(" ");
+                    var pubyear=pubdate[0].split("-")[0];
+                    var pubmonth=pubdate[0].split("-")[1];
+                    var pubday=pubdate[0].split("-")[2];
+                    var pubhour=pubdate[1].split(":")[0];
+                    var pubmin=pubdate[1].split(":")[1];
+                    if(year==pubyear){
+                        if(nowday==(pubmonth+"-"+pubday)){
+                            pubtime=pubhour+":"+pubmin
+                        }
+                        else{
+                            pubtime=pubmonth+"-"+pubday
+                        }
+                    }
+                    else{
+                        pubtime=pubyear+"-"+pubmonth+"-"+pubday
+                    }
+                    var type = data.contentlist[i].type;
+                    if((type=='zw'&&img!='')||type=='sp'||type=='zt'){
+                        if(type=='sp'){
+                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+'<span class="newslogo">视频 </span>'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
+                        }
+                        else if(type=='zt'){
+                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+'<span class="newslogo">专题 </span>'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
+                        }
+                        else{
+                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
+                        }
+                    }
+                    else if(type=='zw' && img==''){
+                        html=html+'<li class="zeropic"><h4><a href="'+url+'">'+title+'</a></h4><span class="fbsj">'+source+pubtime+'</span></li>'
+                    }
+                    else if(type=='llt'){
+                        var src=imgs.split("|");
+                        html=html+'<li class="twopic"><h4><a href="'+url+'">'+title+'</a></h4><div class="morepic"><a href="'+url+'"><img src='+src[0]+' alt="'+title+'"><img src='+src[1]+' alt="'+title+'"></a></div><span class="fbsj">'+source+pubtime+'</span></li>'
+                    }
+                    else if(type=='tj'){
+                        var src=imgs.split("|");
+                        html=html+'<li class="threepic"><h4><a href="'+url+'">'+title+'</a></h4><div class="morepic"><a href="'+url+'"><img src='+src[0]+' alt="'+title+'"><img src='+src[1]+' alt="'+title+'"><img src='+src[2]+' alt="'+title+'"></a></div><span class="fbsj">'+'<span class="newslogo">图集 </span>'+source+pubtime+'</span></li>'
+                    }
+                }
+                if(html==""){
+                    $(".xgydtt").remove()
+                }
+                else{
+                    $(".xgydlist").append(html);
+                }
+            },
+            error : function(){
+                loading=true;
+                alert("查询数据出错啦，请刷新再试");
+            }
+        });
+    }
+    function jctj(id,num){
+        $.ajax({
+            url: "https://qb.chinaqw.com/api/wapMoreNews?id="+id+"&pageSize=5&pageNum="+num+"",
+            type: 'GET',
+            dataType: 'JSONP',
+            success: function (data) {
+                var html = "";
+                var islastpage=data.islastpage;
+                if(islastpage=="false"){
+                    loading=true;
+                    $("#loadmore").show();
+                }
+                else if(islastpage=="true"){
+                    loading=false;
+                    $("#loadmore").hide();
+                }
+                for(var i=0;i<data.contentlist.length;i++){
+                    var title = data.contentlist[i].title;
+                    var url = data.contentlist[i].wapUrl+"?f=qbapp";
+                    var img = data.contentlist[i].img;
+                    var imgs = data.contentlist[i].imgs;
+                    var source = data.contentlist[i].source+" ";
+                    var pubtime = data.contentlist[i].pubtime;
+                    var myDate = new Date();
+                    var year=myDate.getFullYear();
+                    var month=myDate.getMonth()+1;
+                    var day=myDate.getDate();
+                    month =(month<10 ? "0"+month:month);
+                    var nowday=month+"-"+day;
+                    var pubdate=pubtime.split(" ");
+                    var pubyear=pubdate[0].split("-")[0];
+                    var pubmonth=pubdate[0].split("-")[1];
+                    var pubday=pubdate[0].split("-")[2];
+                    var pubhour=pubdate[1].split(":")[0];
+                    var pubmin=pubdate[1].split(":")[1];
+                    if(year==pubyear){
+                        if(nowday==(pubmonth+"-"+pubday)){
+                            pubtime=pubhour+":"+pubmin
+                        }
+                        else{
+                            pubtime=pubmonth+"-"+pubday
+                        }
+                    }
+                    var type = data.contentlist[i].type;
+                    if((type=='zw'&&img!='')||type=='sp'||type=='zt'){
+                        if(type=='sp'){
+                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+'<span class="newslogo">视频 </span>'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
+                        }
+                        else if(type=='zt'){
+                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+'<span class="newslogo">专题 </span>'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
+                        }
+                        else{
+                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
+                        }
+                    }
+                    else if(type=='zw' && img==''){
+                        html=html+'<li class="zeropic"><h4><a href="'+url+'">'+title+'</a></h4><span class="fbsj">'+source+pubtime+'</span></li>'
+                    }
+                    else if(type=='llt'){
+                        var src=imgs.split("|");
+                        html=html+'<li class="twopic"><h4><a href="'+url+'">'+title+'</a></h4><div class="morepic"><a href="'+url+'"><img src='+src[0]+' alt="'+title+'"><img src='+src[1]+' alt="'+title+'"></a></div><span class="fbsj">'+source+pubtime+'</span></li>'
+                    }
+                    else if(type=='tj'){
+                        var src=imgs.split("|");
+                        html=html+'<li class="threepic"><h4><a href="'+url+'">'+title+'</a></h4><div class="morepic"><a href="'+url+'"><img src='+src[0]+' alt="'+title+'"><img src='+src[1]+' alt="'+title+'"><img src='+src[2]+' alt="'+title+'"></a></div><span class="fbsj">'+'<span class="newslogo">图集 </span>'+source+pubtime+'</span></li>'
+                    }
+                }
+                if(html==""){
+                    $(".xgydjctj").remove()
+                }
+                else{
+                    $(".jctjlist").append(html);
+                }
+            },
+            error : function(){
+                loading=true;
+                $("#pageNo").val(parseInt($("#pageNo").val())-1);
+                alert("查询数据出错啦，请刷新再试");
+            }
+        });
+    }
+    Zepto(function($){
+        $(window).scroll(function(){
+            if(($(window).scrollTop()+$(window).height()>$(document).height()-10)&&loading){
+                loading=false;
+                $("#pageNo").val(parseInt($("#pageNo").val())+1);
+                var num=$("#pageNo").val();
+                var id =  $("#zwid").val();
+                setTimeout("jctj("+id+","+num+")",1000);
+            }
+        });
+    });
+    $(document).ready(function(){
+        var id =  $("#zwid").val();
+        xgxw(id);
+        jctj(id,1);
+        var aaa=document.getElementsByTagName("p");
+        for(var i=0;i<aaa.length;i++){
+            if(aaa[i].innerHTML=="&nbsp;"){
+                aaa[i].remove();
+            }
+        }
+    })
 </script>
 
-    <script>
-        function slideFunc(json){
-            //外框
-            var oDiv = json.oDiv;
-            //图片列表
-            var oUl = json.oUl;
-            //序列点
-            var oOl = json.oOl || null;
-        
-            if(oOl){
-                var oLi = oOl.children;
-            }
-                
-            var oImgLi = oUl.getElementsByTagName("li");
-            var oPrev = json.oPrev || null;
-            var oNext = json.oNext || null;
-            var nWidth = oImgLi[0].offsetWidth;
-            var now = 0;
-                
-            oUl.style.width = oImgLi.length * nWidth + "px";
-            var timer = null;
-                
-            timer = setInterval(slide, 3000);
-                
-            oDiv.onmouseover = function()
-            {
-                clearInterval(timer);
-            };
-            
-            if(oOl){
-                for (var i=0; i<oLi.length; i++)
-                {
-                    oLi[i].index = i;
-                    oLi[i].onmouseover = function()
-                    {
-                        now = this.index;
-                        oUl.style.left = -now*nWidth + "px";
-                        var j = 0;
-                        for (j=0; j< oLi.length; j++)
-                        {
-                            oLi[j].className = ""; 
-                        }
-                        oLi[now].className = "on";
-                        clearInterval(timer);
-                    }
-                }
-            }
+<section>
+    <div class="mt20">
+        <div style="display:none"></div>
+    </div>
+</section>
 
-            if(oPrev){
-                oNext.onclick = function()
-                {
-                    slide();
-                    return false;
-                }
-                    
-                oPrev.onclick = function()
-                {
-                    var num = oImgLi.length;
-                    now = -oUl.offsetLeft/nWidth;
-                    if (now == 0)
-                    {
-                        now = num - 1;
-                    }else
-                    {
-                        now--;;
-                    }
-                    oUl.style.left = -now*nWidth + "px";
-                    if(oOl){
-                        for (i=0; i<oLi.length; i++)
-                        {
-                            oLi[i].className = ""; 
-                        }
-                        console.log(now);
-                        oLi[now].className = "on";
-                    } 
-                    return false;
-                }
-            }
-        
-            function slide()
-            {
-                var num = oImgLi.length;
-                now = -oUl.offsetLeft/nWidth;
-                if (now >= (num - 1))
-                {
-                    now = 0;
-                }else
-                {
-                    now++;
-                }
-                oUl.style.left = -now*nWidth + "px";
-                if(oOl){
-                    for (i=0; i<oLi.length; i++)
-                    {
-                        oLi[i].className = ""; 
-                    }
-                    oLi[now].className = "on"; 
-                }
-            }
-        };
-        
-        $(function(){
-            slideFunc({
-                "oDiv":$('#xwtp_pictures_wrap')[0],
-                "oUl":$('#xwtp_slide_pictures')[0],
-                "oOl":$("#xwtp_slide_dot")[0],
-                "oPrev":$('#xwtp_btn_prev')[0],
-                "oNext":$('#xwtp_btn_next')[0]
-            });
-        });
-    </script>
-</head>
-<body>
-        <div class="nav">
-        <ul>
-            <li style="padding-top:8px;height:46px;"><a href="http://www.cankaoxiaoxi.com/"><img src="http://upload.cankaoxiaoxi.com/2018/0918/1537256575958.png"></a></li>
-            <li class="navli" ><a href="http://politics.cankaoxiaoxi.com/" >第一关注</a></li>
-            <li class="navli" ><a href="http://china.cankaoxiaoxi.com/" >中国</a></li>
-            <li class="navli" style="border-bottom:2px solid #a40d21;"><a href="http://world.cankaoxiaoxi.com/" style="font-size:20px;color:#a40d21;">国际</a></li>
-            <li class="navli" ><a href="http://mil.cankaoxiaoxi.com/" >军事</a></li>
-            <li class="navli" ><a href="http://tw.cankaoxiaoxi.com/" >台海</a></li>
-            <li class="navli" ><a href="http://finance.cankaoxiaoxi.com/" >财经</a></li>
-            <li class="navli" ><a href="http://science.cankaoxiaoxi.com/" >科技</a></li>
-            <li class="navli" ><a href="http://health.cankaoxiaoxi.com/" >健康</a></li>
-            <li class="navli" ><a href="http://culture.cankaoxiaoxi.com/" >文化</a></li>
-            <div class="clear"></div>
+<section>
+    <div class="w320" id="pl" style="display:none;">
+        <div id="SOHUCS" sid="894-5-317961"></div>
+        <script id="changyan_mobile_js" charset="utf-8" type="text/javascript"
+                src="https://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=cysWhJpTK&conf=prod_8b669edc60fa271cff940dba5f7b08a2">
+        </script>
+    </div>
+</section>
+
+<div class="channl_appc mt20" id="jctj" style="display:none;">
+    <h3><span><a href="//www.chinanews.com/m/channel/sp/index.htm">精彩推荐</a></span></h3>
+    <div class="recommend o_h ">
+
+        <div class="img_recom o_h clear">
+            <ul id="hotspwd">
+                <li><a href="http://www.chinaqw.com/zhwh/hd2011/2021/12-28/52297.shtml"><img src="/m/zhwh/2021/12-28/U892P894T5D317975F42DT20211228103032.jpg" alt="日本海狮叼笔书写汉字“寅” 迎接中国农历虎年"><i>日本海狮叼笔书写汉字“寅” 迎接中国农历虎年</i></a><em></em></li>
+                <li><a href="/qx/2021/12-28/317966.shtml"><img src="/m/qx/2021/12-28/U892P894T5D317966F42DT20211228100541.jpg" alt="福州烟台山银杏节：感受银杏与冬日的浪漫"><i>福州烟台山银杏节：感受银杏与冬日的浪漫</i></a><em></em></li>
+
+            </ul>
+        </div>
+
+    </div>
+    <div class="mt10">
+        <ul class="list_ulc">
+            <!--[894,7,2] published at 2023-01-09 11:06:34 from #10 by 王琴--> 
+<div class="mt10 ">
+               <div class="qw_list_title ">
+                  <div class="life_title_zhichang_text"><a href="http://www.chinaqw.com/pdjx/news1.shtml">频道精选</a></div>
+                </div>
+                <div class="mt10">
+                   <ul class="module_list_ul">
+
+    <li><a href="/gqqj/2023/01-09/348728.shtml">深圳罗湖“四招”推动基层侨务工作发展</a></li>
+
+    <li><a href="/zhwh/2023/01-09/348710.shtml">东西问丨蒙曼：如何从古典诗词看见中华民族共同体？</a></li>
+
+    <li><a href="/yw/2023/01-09/348704.shtml">东西问丨曹应旺：“中国特色”从何而来？</a></li>
+
+    <li><a href="/zhwh/2023/01-09/348703.shtml">“欢乐春节”《唐诗的回响》音乐会在纽约林肯中心演出</a></li>
+
+    <li><a href="/yw/2023/01-09/348699.shtml">第十版防控方案有哪些调整？官方详解</a></li>
+
+    <li><a href="/jjkj/2023/01-09/348708.shtml">专家：高频指标显示中国消费热度正稳步复苏</a></li>
+
+    <li><a href="/hspc/2023/01-08/348690.shtml">福建泉州聚侨引侨深耕RCEP市场</a></li>
+
+    <li><a href="/hqly/2023/01-08/348684.shtml">跨境旅行开启：亚洲多国“抱团”欢迎中国游客</a></li>
+
+    <li><a href="/hqhr/2023/01-08/348678.shtml">马六甲鸡场街：冀与中国游客“重逢在春天”</a></li>
+
+</ul>
+                </div>
+              </div>
         </ul>
+
     </div>
-    <div class="main">
-        <!--新闻列表-->
-        <div class="leftBlock">
-            <div class="indexList"><a href="http://www.cankaoxiaoxi.com/">首页</a>&gt;<a href="http://world.cankaoxiaoxi.com/">国际频道</a>&gt;<a href="http://www.cankaoxiaoxi.com/world/ytxw/">亚太新闻</a>&gt;<span>正文</span></div>
-            <div id="allList">
-                <h1 class="articleHead">违建挡住逃生路！韩国梨泰院踩踏事故原因再分析</h1>
-                <div class="share">
-                    <ul>
-                        <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=09d42fda-8144-4a65-87d2-967248c86584&amp;pophcol=2&amp;lang=zh"></script>
-                        <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
-                        <li style="margin-bottom:10px;">分享</li>
-                        <li class="sinawb" onclick="javascript:bShare.share(event,'sinaminiblog',0);return false;"></li>
-                        <li class="weixin" onclick="javascript:bShare.share(event,'weixin',0);return false;"></li>
-                        <li class="qzone" onclick="javascript:bShare.share(event,'qzone',0);return false;"></li>
-                    </ul>
-                </div>
-                <div class="articleBody">
-                    <div class="info">
-                        <span class="infoA" id="pubtime_baidu">2022-11-05 11:08:55</span> 
-                        <span class="infoA" id="source_baidu" >来源：参考消息网</a></span>
-                        <span class="infoB" id="editor_baidu">责任编辑：余诗泉</span>
-                                        </div>
-                                    <div class="articleContent">
-                                                                                                                                    <!-- 文章内容 -->
-                        <div class="articleText"><p><strong><a href="http://www.cankaoxiaoxi.com?toindex=2" target="_blank">参考消息网</a>11月5日报道</strong> 据日本《朝日消息》11月4日报道，违章建筑导致道路变窄，是造成拥挤踩踏事故的原因之一。关于造成150多人死亡的韩国首尔繁华街区梨泰院的踩踏事故，韩国媒体和建筑专家提出了上述看法。在现场附近的小巷里，有多幢建筑显著向外凸出，可能阻碍了人流通过。</p><p>报道称，事故发生地周边狭窄的小巷里，是一间接一间的餐饮店。从店铺伸到小巷里的露台、舞台、长椅、空调外机等随处可见。建筑工程学专家、曾任韩国建国大学教授的安亨濬说：&ldquo;简直就是违章扩建的大杂烩。&rdquo;</p><p>事实上，那里的一些建筑被管辖梨泰院的龙山区认定违反《建筑法》，并处以&ldquo;强制罚款&rdquo;。但据安亨濬介绍，店家即使支付了强制罚款，只要继续经营，就会赚回超过罚款的利润，因此违规现象屡禁不止。</p><p>安亨濬就此次踩踏事故表示：&ldquo;由于这些扩建物挡住了部分道路，使人流受阻，在那些点位有可能发生了人群倒向一边的情况。&rdquo;</p><p>特别受到韩国媒体和专家关注的是，位于现场坡道东侧的汉密尔顿酒店建筑。它从地铁站旁一直延伸到坡道尽头的丁字路口。</p></div>
-                                                <!-- @end 文章内容 -->
-                                  
-                                        <!-- 分页 --> 
-                                       <div class="page">
-                            <ul class="pageUl">
-                                                        <li><a class="no-op" href="javascript:;" id="prev_page" target="_self">上一页</a></li>
-                                                                <li><a href="http://www.cankaoxiaoxi.com/world/20221105/2494516.shtml" class="now"   target="_self">1</a></li>
-                                                                <li><a href="http://www.cankaoxiaoxi.com/world/20221105/2494516_2.shtml"  target="_self">2</a></li>
-                                                                <li><a href="http://www.cankaoxiaoxi.com/world/20221105/2494516_2.shtml" id="next_page" target="_self">下一页</a></li>
-                                                            </ul>
-                        </div>
-                                        <div  class="rightInfoCenter">凡注明“来源：参考消息网”的所有作品，未经本网授权，不得转载、摘编或以其他方式使用。</div>
-                                    </div>
-                                   <div class="hotnewsBlock">
-                        <span>更多新闻</span><span></span>
-                        <div style="clear:both;"></div>
-                                                <div class="newsContent">
-                            <div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221105/2494506.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1105/1667611084986.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221105/2494506.shtml">俄驻美大使：“美国无法通过援助乌克兰耗尽俄罗斯”</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">俄罗斯卫星社</span><span class="date_tag">2022-11-05</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221105/2494505.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1105/1667611028289.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221105/2494505.shtml">梵高画作再遭殃……极端环保分子这次泼的豌豆汤</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">新加坡《联合早报》网站</span><span class="date_tag">2022-11-05</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221105/2494504.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1105/1667610935832.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221105/2494504.shtml">韩媒：尹锡悦首次就梨泰院踩踏事故公开道歉</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">韩联社</span><span class="date_tag">2022-11-05</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494496.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667564706977.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494496.shtml">俄罗斯拆家电芯片造导弹？俄专家怒批“胡扯”！</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">俄罗斯《新消息报》</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494492.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667563208651.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494492.shtml">外媒关注：荷兰部分恢复跨国儿童收养</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">路透社</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494491.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667563074486.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494491.shtml">外媒：生活贵社区乱，巴黎居民想“脱黎”</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">西班牙《阿贝赛报》网站</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                            </div>
-                            <div class="hotHide hide">
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494490.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667562902441.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494490.shtml">英环保组织呼吁“哈利·波特”粉丝不要在多比纪念现场留下袜子</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">《印度时报》网站</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494489.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667562808636.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494489.shtml">外媒报道：印度首个“太阳能村”点亮村民生活</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">路透社</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494477.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667560999632.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494477.shtml">四年前致17人殒命 美国校园枪击 案凶手被判无期徒刑</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">台湾“中央社”</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494476.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667559673548.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494476.shtml">印媒：印度外长将访俄“送温暖” </a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">印度《一周》周刊网站</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494475.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667559505165.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494475.shtml">英媒：“甩锅”之争后，英国感谢阿尔巴尼亚帮助打击人口贩卖</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">路透社</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                                <div class="news_pic">
-                                    <div class="news_pic_img"><a href="http://www.cankaoxiaoxi.com/world/20221104/2494471.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667558998197.jpg"></a></div>
-                                    <div class="news_pic_info">
-                                        <p><a href="http://www.cankaoxiaoxi.com/world/20221104/2494471.shtml">英同意与毛里求斯谈争议群岛归属，阿根廷要求英谈马岛问题</a></p>
-                                        <div class="news_pic_tags">
-                                            <span class="source_tag">法新社</span><span class="date_tag">2022-11-04</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                                            </div>
-                            <div class="hotMore"><p><a href="javascript:;" target="_self">+点击加载更多</a></p></div>
-                        </div>
-                                       </div>
-                </div>
-                <div style="clear:both;"></div>
-            </div>
-        </div>
-        <div class="sideBar">
-            <div class="side_news_pic">
-                <div class="side_channel_title">
-                    <span><img src="http://upload.cankaoxiaoxi.com/2018/0905/1536115537767.png"></span><span>精彩推荐</span>
-                </div>
-                <div class="side_news_pic_info">
-                    <ul>
-                                                <li>
-                            <a href="http://www.cankaoxiaoxi.com/china/20221105/2494508.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1105/1667611556869.jpg"></a>
-                            <p><a href="http://www.cankaoxiaoxi.com/china/20221105/2494508.shtml">外媒文章：朔尔茨访华向美发出“拒绝选边站”讯息</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <a href="http://www.cankaoxiaoxi.com/world/20221105/2494516.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1105/1667617707903.jpg"></a>
-                            <p><a href="http://www.cankaoxiaoxi.com/world/20221105/2494516.shtml">违建挡住逃生路！韩国梨泰院踩踏事故原因再分析</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <a href="http://www.cankaoxiaoxi.com/mil/20221105/2494515.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1105/1667617603371.jpg"></a>
-                            <p><a href="http://www.cankaoxiaoxi.com/mil/20221105/2494515.shtml">美军将开始在驻日嘉手纳基地临时部署F-22 F-15陆续退役</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                            </ul>
-                </div>
-            </div>
-            <div class="side_pic_roll">
-                <div class="side_channel_title">
-                    <span><img src="http://upload.cankaoxiaoxi.com/2018/0905/1536115537767.png"></span><span><a href="http://photo.cankaoxiaoxi.com/">新闻图片</a></span>
-                </div>
-                <div class="side_pic_roll_contents" id="xwtp">
-                    <div class="slide">
-                        <div class="pictures_wrap" id="xwtp_pictures_wrap">
-                            <ul class="slide_pictures" id="xwtp_slide_pictures">
-                                                                <li>
-                                    <a href="http://www.cankaoxiaoxi.com/photo/20221104/2494435.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667549180822.jpg"></a>
-                                    <p><a href="http://www.cankaoxiaoxi.com/photo/20221104/2494435.shtml">探访第五届进博会新闻中心</a></p>
-                                </li>
-                                                                <li>
-                                    <a href="http://www.cankaoxiaoxi.com/photo/20221104/2494407.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667532873375.jpg"></a>
-                                    <p><a href="http://www.cankaoxiaoxi.com/photo/20221104/2494407.shtml">土耳其10月通胀率达85% 再创新高</a></p>
-                                </li>
-                                                                <li>
-                                    <a href="http://www.cankaoxiaoxi.com/photo/20221104/2494392.shtml"><img src="http://upload.cankaoxiaoxi.com/2022/1104/1667524458556.jpg"></a>
-                                    <p><a href="http://www.cankaoxiaoxi.com/photo/20221104/2494392.shtml">埃塞俄比亚政府和“提人阵”武装达成停火协议</a></p>
-                                </li>
-                                                            </ul>
-                            <p class="slide_dot" id="xwtp_slide_dot"><span class="on"></span><span></span><span></span></p>
-                            <div style="clear:both;"></div>
-                        </div>
-                        <div class="blk_btn">
-                            <a id="xwtp_btn_prev" class="blk_prebtn" href="javascript:;"></a>
-                            <a id="xwtp_btn_next" class="blk_nextbtn" href="javascript:;"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="side_charts">
-                <div class="side_channel_title">
-                    <span><img src="http://upload.cankaoxiaoxi.com/2018/0905/1536115537767.png"></span><span>排行榜</span>
-                </div>
-                <div class="side_charts_contents">
-                    <ul>
-                                                                        <li>
-                            <span></span>
-                            <p><a href="http://www.cankaoxiaoxi.com/finance/20221104/2494383.shtml">损人不利己……美将芯片“武器化”令美欧公司</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <span></span>
-                            <p><a href="http://www.cankaoxiaoxi.com/china/20221104/2494402.shtml">媒体评述：经贸合作成中德关系压舱石</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <span></span>
-                            <p><a href="http://column.cankaoxiaoxi.com/g/2022/1104/2494406.shtml">中国对全球脱碳贡献有多巨大，这篇外媒文章道</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <span></span>
-                            <p><a href="http://www.cankaoxiaoxi.com/tw/20221104/2494391.shtml">台湾经济可能陷入“失落的10年”？台当局回应</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <span></span>
-                            <p><a href="http://www.cankaoxiaoxi.com/china/20221104/2494386.shtml">外媒关注：中企承建的尼日利亚首个现代化深水</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <span></span>
-                            <p><a href="http://www.cankaoxiaoxi.com/china/20221104/2494384.shtml">新媒解析中国近期系列主场外交：巩固与发展中</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <span></span>
-                            <p><a href="http://www.cankaoxiaoxi.com/tw/20221104/2494395.shtml">携手救“团团”！这样温馨正面的两岸交流可以</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <span></span>
-                            <p><a href="http://www.cankaoxiaoxi.com/finance/20221104/2494389.shtml">美媒：国际银行巨头看好中国内地和香港经济前</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                                <li>
-                            <span></span>
-                            <p><a href="http://www.cankaoxiaoxi.com/finance/20221104/2494387.shtml">俄媒：美9月对俄出口额达9040万美元 为3月以</a></p>
-                            <div style="clear:both;"></div>
-                        </li>
-                                            </ul>
-                </div>
-            </div>
-        </div>
-        <div style="clear:both;"></div>
-    </div>
-    <div class="footer">
-        <p><a href="http://www.cankaoxiaoxi.com/about/">关于参考消息</a> | <a href="http://www.cankaoxiaoxi.com/about/copyright.shtml">版权声明</a> | <a href="http://www.cankaoxiaoxi.com/about/advertise.shtml">广告服务</a> | <a href="http://www.cankaoxiaoxi.com/about/contact.shtml">联系我们</a> | <a href="http://www.cankaoxiaoxi.com/about/customize.shtml">订阅《参考消息》</a> | <a href="http://www.cankaoxiaoxi.com/about/join.shtml">参考消息网招聘</a> | <a href="http://www.cankaoxiaoxi.com/about/navigation.shtml">网站导航</a></p>
-        <p>国新网备2012001 互联网出版许可证（新出网证(京)字147号）京ICP备11013708 京公网安备110402440030</p>
-        <p>- 参考消息报社 版权所有 -</p>
-    </div>
-    <script>
-        //
-        $("#xwtp").mouseover(function(){
-            $(".blk_btn").css("visibility","visible");
-        });
-        $("#xwtp").mouseout(function(){
-            $(".blk_btn").css("visibility","hidden");
-        });
-        //加载更多
-        $(".hotMore").click(function(){
-            $(".hotHide").removeClass("hide");
-            $(".hotMore").css("display","none");
-        });
-    </script>
-    <script>
-    /*window.onload=function(){
-        var div_video = document.getElementsByClassName("cmstopVideo");
-        var value_video = div_video[0].children[1].value;
-        var index_l = value_video.indexOf('=');
-        var index_r = value_video.indexOf('&');
-        var url_video = value_video.substring(index_l+1, index_r);
-        //console.log(url_video);
-        var video_e = document.createElement('video');
-                
-        video_e.src = url_video;
-        video_e.controls = 'controls';
-        video_e.width = '520';
-        //console.log(video_e);
-        //div_video[0].insertBefore(video_e, div_video[0].children[0]);
-        div_video[0].appendChild(video_e);
-    }*/
+</div>
+<!--广告位开始-->
+<div class="madbanner" id="b_ban">
+    <style>
+.appdown{
+background:#CDCDCD;  height:35px;  width:100%;  padding:10px 0;  position:fixed;  bottom:0;z-index:1000;}
+.appleft{float:left;  margin-left:10px;}
+.appright{float:right;  margin-right:15px;}
+</style>
+<img src="http://www.chinaqw.com/upload_pic/1/201509/15/U412P894T1D448F6DT20150923134248.jpg" width="100%" heigh="100%" alt="关注侨网微信">
+<p style="height: 120px;width: 100%;line-height:30px;color:#333;text-align:center">Copyright&#169;2003-2023 chinaqw.com. All Rights Reserved</p>
+<div class="appdown">
+<div class="appleft" style="margin-left:15px"><img src="http://www.chinaqw.com/upload_pic/1/201608/22/U674P894T1D828F2DT20160822140851.jpg" width="35" alt="侨宝客户端"/></div>
+<div class="appleft"><img src="http://www.chinaqw.com/upload_pic/1/201608/22/U674P894T1D828F5DT20160822140851.jpg" alt="侨宝客户端" width="130"/></div>
+<div class="appright"><a href="/m/qiaobao/app.shtml"><img src="http://www.chinaqw.com/upload_pic/1/201608/22/U674P894T1D828F4DT20160822140851.jpg" alt="侨宝客户端" width="95"/></a></div>
+</div>
+</div>
+<!--广告位end-->
+
+<script>
+    var url=encodeURIComponent(window.location.href);
+    var shareImg="http://www.chinaqw.com/pic/pic300.jpg";
+    var shareTitle='中国侨网';
+    var shareDesc="美国疾控中心缩短新冠病毒感染者隔离期至5天";
 </script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="https://www.chinaqw.com/wechat/share.js"></script>
+
 </body>
 </html>

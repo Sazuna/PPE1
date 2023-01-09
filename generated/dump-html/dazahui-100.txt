@@ -10,9 +10,9 @@
 <!--[if (gt IE 9)|!(IE)]><!-->
 <html lang="zh"> <!--<![endif]-->
 <head>
-<link rel="canonical" href="https://www.dw.com/zh/%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4/a-62182175">
-<link rel="amphtml" href="https://amp.dw.com/zh/%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4/a-62182175">
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.dw.com/zh/%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4/a-62182175">
+<link rel="canonical" href="https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694">
+<link rel="amphtml" href="https://amp.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694">
 <link rel="icon" href="/favicon.png" type="image/png">
 <link rel="apple-touch-icon" href="/favicon.png">
 <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
@@ -38,9 +38,9 @@ var mobileRedirectTTL = 86400;
 <meta name="apple-itunes-app" content="app-id=498833085">
 <meta name="google-play-app" content="app-id=com.idmedia.android.newsportal">
 <meta name="language" content="zh_CN">
-<meta name="keywords" content="乌克兰战争,乌克兰,北约,装备,俄罗斯,黑海,北顿涅茨克">
-<meta name="news_keywords" content="乌克兰战争,乌克兰,北约,装备,俄罗斯,黑海,北顿涅茨克">
-<meta name="description" content="乌克兰总统泽连斯基在结束对南部的视察之后表示，乌克兰势必夺回被占领土。北约秘书长和英国首相均提醒，西方应该做好乌克兰战争长期化的准备。美国退役陆军中将对西方国家提供的装备“大杂烩”可能带来的后勤问题表达了担忧。">
+<meta name="keywords" content="中美,美中,关税">
+<meta name="news_keywords" content="中美,美中,关税">
+<meta name="description" content="美中互征惩罚性关税：北京有意设置温和壁垒，以便为谈判留下空间？特朗普的关键是保护美国的科技创新？">
 <!-- Facebook -->
 <meta property="fb:pages" content="146634408702997">
 <meta property="fb:pages" content="146822482008281">
@@ -124,12 +124,12 @@ var mobileRedirectTTL = 86400;
 <meta property="fb:admins" content="100000944106340">
 <meta property="fb:admins" content="100004095264842">
 <meta property="fb:admins" content="100004135624835">
-<meta property="og:description" content="乌克兰总统泽连斯基在结束对南部的视察之后表示，乌克兰势必夺回被占领土。北约秘书长和英国首相均提醒，西方应该做好乌克兰战争长期化的准备。美国退役陆军中将对西方国家提供的装备“大杂烩”可能带来的后勤问题表达了担忧。"/>
-<meta property="og:url" content="https://www.dw.com/zh/%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4/a-62182175"/>
+<meta property="og:description" content="美中互征惩罚性关税：北京有意设置温和壁垒，以便为谈判留下空间？特朗普的关键是保护美国的科技创新？"/>
+<meta property="og:url" content="https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694"/>
 <meta property="og:site_name" content="DW.COM"/>
-<meta property="og:title" content="北约秘书长警告乌克兰战争可能会持续数年 | DW | 19.06.2022"/>
+<meta property="og:title" content="德语媒体：关税的背后是美中对抗？ | DW | 03.04.2018"/>
 <meta property="og:image"
-content="https://static.dw.com/image/62180684_6.jpg"/>
+content="https://static.dw.com/image/42965162_6.jpg"/>
 <meta property="og:image:width" content="940"/>
 <meta property="og:image:height" content="529"/>
 <link rel="stylesheet" href="/css/dwde-ltr.6.93.0.min.css" type="text/css"
@@ -236,7 +236,7 @@ f.parentNode.insertBefore(j, f);
 })(window, document, 'script', 'dataLayer', 'GTM-TXHJH9T');
 </script>
 <!-- End Google Tag Manager -->
-<title>北约秘书长警告乌克兰战争可能会持续数年 | 德国之声 来自德国 介绍德国 | DW | 19.06.2022</title>
+<title>德语媒体：关税的背后是美中对抗？ | 媒体看中国 | DW | 03.04.2018</title>
 <!-- videojs -->
 <script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
 <script src="/js/player/video.min.js"></script>
@@ -279,35 +279,35 @@ adHandler.service.request();
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@dw_chinese"/>
 <meta name="twitter:title"
-content="北约秘书长警告乌克兰战争可能会持续数年"/>
-<meta name="twitter:image" content="https://static.dw.com/image/62180684_6.jpg"/>
+content="德语媒体：关税的背后是美中对抗？"/>
+<meta name="twitter:image" content="https://static.dw.com/image/42965162_6.jpg"/>
 </head>
 <body id="html_body" >
 <!-- Trackingcode Body-Area -->
 <script type="text/javascript">
 var dwInitialTrackingInfo = {
 visibleStructure: "",
-fullUrl: "http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4%2Fa-62182175",
+fullUrl: "http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%2Fa-43237694",
 maca: "",
-firstPublicationDate: "20220619",
-structureId: "1681",
+firstPublicationDate: "20180403",
+structureId: "1684",
 structureTypeId: "1",
-chap: "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E6%97%B6%E6%94%BF%E9%A3%8E%E4%BA%91",
-pageId: "62182175",
+chap: "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD",
+pageId: "43237694",
 richMediaTracking: true,
 trackingProfileId: "1",
 subjects: "",
 firstCategoryId: "19990022",
 secondCategoryId: "",
-departmentName: "Chinesisch"
+departmentName: ""
 };
 var channelNameAppendix = "-";
 trackingInfo_leve2 = "4";
 trackingInfo_dkLanguage = "";
 trackingInfo_multi_Value = "";
 trackingInfo_profile = "NORMAL";
-trackingInfo_pageSingleEncoded = "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E6%97%B6%E6%94%BF%E9%A3%8E%E4%BA%91::%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4";
-trackingInfo_multi_Value = "&x1=1&x2=4&x3=62182175&x4=1681&x5=%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4%2Fa-62182175&x8=&x9=20220619&x10=%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E6%97%B6%E6%94%BF%E9%A3%8E%E4%BA%91&x13=1&x14=&x15=19990022&x16=&x17=&x18=&x20=Chinesisch";
+trackingInfo_pageSingleEncoded = "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD::%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F";
+trackingInfo_multi_Value = "&x1=1&x2=4&x3=43237694&x4=1684&x5=%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F&x6=&x7=http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%2Fa-43237694&x8=&x9=20180403&x10=%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD&x13=1&x14=&x15=19990022&x16=&x17=&x18=&x20=";
 if (window.xtparam != null) {
 window.xtparam += "&ac=" + "&an=" + trackingInfo_multi_Value;
 } else {
@@ -316,7 +316,7 @@ window.xtparam = "&ac=" + "&an=" + trackingInfo_multi_Value;
 </script>
 <noscript>
 <img width="1" height="1" alt=""
-src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=4&amp;p=%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E6%97%B6%E6%94%BF%E9%A3%8E%E4%BA%91::%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4&amp;di=&amp;an=&amp;ac=&amp;x1=1&amp;x2=4&amp;x3=62182175&amp;x4=1681&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4%2Fa-62182175&amp;x8=&amp;x9=20220619&amp;x13=1&amp;x14=&amp;x15=19990022&amp;x16=null&amp;x17=&amp;x18=&amp;x20=Chinesisch">
+src="https://logs1242.xiti.com/hit.xiti?s=510544&amp;s2=4&amp;p=%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD::%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F&amp;di=&amp;an=&amp;ac=&amp;x1=1&amp;x2=4&amp;x3=43237694&amp;x4=1684&amp;x6=&amp;x7=http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%2Fa-43237694&amp;x8=&amp;x9=20180403&amp;x13=1&amp;x14=&amp;x15=19990022&amp;x16=null&amp;x17=&amp;x18=&amp;x20=">
 </noscript>
 <!-- Google Tag Manager (noscript) -->
 <noscript>
@@ -333,22 +333,22 @@ logSSL: "logs1242",
 cookieSecure: true
 });
 tag.page.set({
-name: "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E6%97%B6%E6%94%BF%E9%A3%8E%E4%BA%91::%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4",
-pageID: "62182175",
+name: "%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD::%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F",
+pageID: "43237694",
 level2: 4
 });
 tag.customVars.set({
 site: {
 1: 1,
 2: 4,
-3: 62182175,
-4: 1681,
-5: "[%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4]",
+3: 43237694,
+4: 1684,
+5: "[%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F]",
 6: "",
-7: "[http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4%2Fa-62182175]",
+7: "[http%3A%2F%2Fwww.dw.com%2Fzh%2F%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%2Fa-43237694]",
 8: "[]",
-9: 20220619,
-10: "[%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E6%97%B6%E6%94%BF%E9%A3%8E%E4%BA%91]",
+9: 20180403,
+10: "[%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC::%E8%AF%84%E8%AE%BA%E5%88%86%E6%9E%90::%E5%AA%92%E4%BD%93%E7%9C%8B%E4%B8%AD%E5%9B%BD]",
 11: "",
 12: "",
 13: 1,
@@ -358,7 +358,7 @@ site: {
 17: "",
 18: "",
 19: "",
-20: "Chinesisch"
+20: ""
 }
 });
 tag.dispatch();
@@ -800,10 +800,10 @@ title="Deutschlehrer-Info">Deutschlehrer-Info</a>
 <ul id="navLevel2">
 <li><a href="/zh/非常德国/s-101347"
 title="非常德国">非常德国</a></li>
-<li><a id="navAct2"
-href="/zh/时政风云/s-1681"
+<li><a href="/zh/时政风云/s-1681"
 title="德国之声 来自德国 介绍德国">时政风云</a></li>
-<li><a href="/zh/评论分析/s-100993"
+<li><a id="navAct2"
+href="/zh/评论分析/s-100993"
 title="评论分析">评论分析</a></li>
 <li><a href="/zh/经济纵横/s-1682"
 title="经济纵横">经济纵横</a></li>
@@ -823,8 +823,8 @@ title="德国之声经典栏目总览">经典回顾</a></li>
 在线报导
 </a>
 /
-<a href="/zh/时政风云/s-1681" title="德国之声 来自德国 介绍德国">
-时政风云
+<a href="/zh/评论分析/s-100993" title="评论分析">
+评论分析
 </a>
 </div>
 </div>
@@ -846,53 +846,53 @@ title="德国之声经典栏目总览">经典回顾</a></li>
 
 <div id="bodyContent">
 <div class="col3">
-<h4 class="artikel">时政风云</h4>
-<h1>北约秘书长警告乌克兰战争可能会持续数年</h1>
-<p class="intro">乌克兰总统泽连斯基在结束对南部的视察之后表示，乌克兰势必夺回被占领土。北约秘书长和英国首相均提醒，西方应该做好乌克兰战争长期化的准备。美国退役陆军中将对西方国家提供的装备“大杂烩”可能带来的后勤问题表达了担忧。</p>
+<h4 class="artikel">媒体看中国</h4>
+<h1>德语媒体：关税的背后是美中对抗？</h1>
+<p class="intro">美中互征惩罚性关税：北京有意设置温和壁垒，以便为谈判留下空间？特朗普的关键是保护美国的科技创新？</p>
 <div id="sharing-bar" class="min">
 <span dir="ltr">
 <a dir="ltr" class="sharing-item fb static" target="new" rel="nofollow"
-href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fp.dw.com%2Fp%2F4CuQJ%3Fmaca%3Dzh-Facebook-sharing"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4', '62182175', '1', 'facebook')"></a>
+href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Facebook-sharing"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'facebook')"></a>
 </span>
 <span dir="ltr">
 <a dir="ltr" class="sharing-item twitter static" target="new" rel="nofollow"
-href="https://twitter.com/intent/tweet?source=webclient&amp;text=%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4+https%3A%2F%2Fp.dw.com%2Fp%2F4CuQJ%3Fmaca%3Dzh-Twitter-sharing"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4', '62182175', '1', 'twitter')"></a>
+href="https://twitter.com/intent/tweet?source=webclient&amp;text=%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F+https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Twitter-sharing"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'twitter')"></a>
 </span>
 <span dir="ltr">
 <a dir="ltr" class="sharing-item email static" target="new" rel="nofollow"
-href="mailto:?body=https%3A%2F%2Fp.dw.com%2Fp%2F4CuQJ%3Fmaca%3Dzh-EMail-sharing&amp;subject=%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4', '62182175', '1', 'email')"></a>
+href="mailto:?body=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-EMail-sharing&amp;subject=%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'email')"></a>
 </span>
 <span dir="ltr">
 <a dir="ltr" class="sharing-item line static" target="new" rel="nofollow"
-href="https://lineit.line.me/share/ui?url=https%3A%2F%2Fp.dw.com%2Fp%2F4CuQJ%3Fmaca%3Dzh-Line-sharing"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4', '62182175', '1', 'line')"></a>
+href="https://lineit.line.me/share/ui?url=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Line-sharing"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'line')"></a>
 </span>
 <span dir="ltr">
 <a dir="ltr" class="sharing-item fb-messenger option" target="new" rel="nofollow"
-href="https://www.facebook.com/dialog/send?app_id=161807964535758&amp;redirect_uri=https%3A%2F%2Fp.dw.com%2Fp%2F4CuQJ%3Fmaca%3Dzh-Facebook%2BMessenger%2BWeb-sharing&amp;link=https%3A%2F%2Fp.dw.com%2Fp%2F4CuQJ%3Fmaca%3Dzh-Facebook%2BMessenger%2BWeb-sharing&amp;display=popup"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4', '62182175', '1', 'fb-messenger-web')"></a>
+href="https://www.facebook.com/dialog/send?app_id=161807964535758&amp;redirect_uri=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Facebook%2BMessenger%2BWeb-sharing&amp;link=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Facebook%2BMessenger%2BWeb-sharing&amp;display=popup"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'fb-messenger-web')"></a>
 </span>
 <span dir="ltr">
 <a dir="ltr" class="sharing-item whatsapp option" target="new" rel="nofollow"
-href="https://web.whatsapp.com/send?text=https%3A%2F%2Fp.dw.com%2Fp%2F4CuQJ%3Fmaca%3Dzh-Whatsapp%2BWeb-sharing+%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4"
-onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4', '62182175', '1', 'whatsapp-web')"></a>
+href="https://web.whatsapp.com/send?text=https%3A%2F%2Fp.dw.com%2Fp%2F2vQ6A%3Fmaca%3Dzh-Whatsapp%2BWeb-sharing+%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F"
+onclick="DWDE.socialMediaTagging.executeAtInternetTracking('4', '%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%EF%BC%9A%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97%EF%BC%9F', '43237694', '1', 'whatsapp-web')"></a>
 </span>
 <p class="sharing-item toggler"></p>
 </div> <div class="picBox full">
 <a class="overlayLink" href="#"
-link="/overlay/image/article/62182175/62180684" rel="nofollow"
+link="/overlay/image/article/43237694/42965162" rel="nofollow"
 style="cursor: pointer;">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/62180684_303.jpg" width="700" height="394" title="斯托尔滕贝格在接受《图片报周日版》采访时说：“我们必须做好准备，（俄罗斯对乌克兰发动的侵略战争）有可能会持续数年之久。”不过他同时强调，北约国家不会向乌克兰派遣军队。" alt="斯托尔滕贝格在接受《图片报周日版》采访时说：“我们必须做好准备，（俄罗斯对乌克兰发动的侵略战争）有可能会持续数年之久。”不过他同时强调，北约国家不会向乌克兰派遣军队。" /> </a>
-<p>斯托尔滕贝格在接受《图片报周日版》采访时说：“我们必须做好准备，（俄罗斯对乌克兰发动的侵略战争）有可能会持续数年之久。”不过他同时强调，北约国家不会向乌克兰派遣军队。</p>
+<img loading="lazy" itemprop="image" src="https://static.dw.com/image/42965162_303.jpg" width="700" height="394" title="China USA Wirtschaft" alt="China USA Wirtschaft" /> </a>
+<p>美中</p>
 </div>
 <div class="group">
 <div class="longText">
-<p>（德国之声中文网）乌克兰战争已经持续了115天。北约秘书长斯托尔滕贝格警告说，战争有可能会“持续数年”。他呼吁北约成员国对向乌克兰提供的支持不要松懈。</p> <p>斯托尔滕贝格在接受《图片报周日版》采访时说：“我们必须做好准备，（俄罗斯对乌克兰发动的侵略战争）有可能会持续数年之久。”不过他同时强调，北约国家不会向乌克兰派遣军队。</p> <p>斯托尔滕贝格还表示，乌克兰战争导致的能源和食品价格上涨，“与乌克兰人每天都用大量生命付出的代价相比”，不足挂齿。他说，如果俄罗斯总统普京从这场战争中“吸取教训，认为他可以像2008年格鲁吉亚战争和2014年占领克里米亚之后那样继续下去”，北约国家将付出“更高的代价”。</p> <p>英国首相约翰逊在《泰晤士报周日版》撰文也认为，西方应该做好乌克兰战争长期化的准备。这意味着要确保“乌克兰比侵略者更快地获得武器、装备、弹药和训练”。他提出，“时间是最关键的要素。一切都取决于，俄罗斯持续更新其进攻能力的同时，乌克兰是否可以更快地加强自我捍卫领土主权的能力”。</p> <div class="picBox full
+<p>（德国之声中文网）《南德意志报》发表评论，题为"惩罚性关税背后的想法"（Strafzoll mit Hintergedanken）。评论写道：</p> <p>"猪肉、香槟、核桃、杏仁、苹果再加上钢管：这就是中国对特朗普惩罚性关税的回应。中国对共128种美国产品提高关税。听上去令人印象深刻，但只是一些小事情的大杂烩。北京有意设置了温和的贸易壁垒，受影响的行业原本就对中国的出口量很少。这给谈判留下了空间。这是北京的希望。至少现在还是。"</p> <p>文章写道，中国前财政部长楼继伟呼吁对大豆征收关税。"中国大豆进口的三分之一来自美国，价值140亿美元。如果征收惩罚性关税，受影响的首先是曾在2016年大选支持特朗普的那些联邦州的农民。而今秋参议院将举行选举，三分之一的议席将重新选举。"</p> <p>"但对北京而言，对大豆征收关税并非毫无风险。大豆在中国的踪迹遍地可寻：酱油、豆奶、豆腐、作为饲料的豆渣。如果征收惩罚性关税，中国数百万人将面临成本上涨，而美国暂时不会受到影响。现期中国的大豆首先从巴西和阿根廷进口，--北半球半年后才再度收割。"</p> <div class="picBox full
 rechts
-"> <a class="overlayLink" href="#" link="/overlay/image/article/62182175/62135672" rel="nofollow" style="cursor: pointer;"> <img loading="lazy" itemprop="image" src="https://static.dw.com/image/62135672_401.jpg" width="700" height="394" title="美国退役陆军中将马克·赫特林（Mark Hertling）表示：“我曾训练过乌克兰军队的士兵，和他们一起工作。他们很聪明，适应性强，具有战斗力。但是乌克兰军队的后勤系统现在并不像它应该的那样强大。”" alt="美国退役陆军中将马克·赫特林（Mark Hertling）表示：“我曾训练过乌克兰军队的士兵，和他们一起工作。他们很聪明，适应性强，具有战斗力。但是乌克兰军队的后勤系统现在并不像它应该的那样强大。”"> </a> <p>美国退役陆军中将马克·赫特林（Mark Hertling）表示：“我曾训练过乌克兰军队的士兵，和他们一起工作。他们很聪明，适应性强，具有战斗力。但是乌克兰军队的后勤系统现在并不像它应该的那样强大。”</p> </div> <p>目前西方国家向乌克兰提供了各式各样的武器装备，美国退役陆军中将马克·赫特林（Mark Hertling）对装备“大杂烩”可能带来的后勤问题表达了担忧。他说，武器装备虽然非常重要，但是装备间的协同操作性、维修与更换的便利性以及设备的标准化也同样重要。</p> <p>他说，重型先进武器在极端条件下部署很容易发生故障。如果部队缺乏合适的备件和进行维修的技能和知识，昂贵的坦克和火炮也会变成一堆废铁 ，从而更容易成为敌方袭击的目标。</p> <p>他在推特上表示：“我曾训练过乌克兰军队的士兵，和他们一起工作。他们很聪明，适应性强，具有战斗力。但是乌克兰军队的后勤系统现在并不像它应具备的那样强大。北约提供的装备不应加剧目前已出现的问题。”</p> <div class="col3 right"> <div class="standaloneWrap"> <div class="imgTeaserL video" data-media-id="62153230"> <div class="mediaItem" data-media-id="62153230"> <video class="dw-player video-js vjs-fill" preload="auto" controls playsinline data-options="{ &quot;setup&quot;: { &quot;fluid&quot;: true, &quot;liveui&quot;: true, &quot;controlBar&quot;: { &quot;children&quot;: [ &quot;playToggle&quot;, &quot;volumePanel&quot;, &quot;progressControl&quot;, &quot;remainingTimeDisplay&quot;, &quot;seekToLive&quot;, &quot;pictureInPictureToggle&quot;, &quot;qualitySelector&quot;, &quot;fullscreenToggle&quot; ] }, &quot;plugins&quot;: { &quot;qualityLevels&quot;: {}, &quot;hlsQualitySelector&quot;: { &quot;displayCurrentQuality&quot;: true } }, &quot;html5&quot;: { &quot;nativeTextTracks&quot;: false } }, &quot;translations&quot;: { }, &quot;trackingInfo&quot;: { &quot;duration&quot;: 174, &quot;contentDate&quot;: &quot;20220617&quot;, &quot;mediaTitle&quot;: &quot;乌克兰战争：俄罗斯在拿粮食作武器吗？&quot;, &quot;isLiveStream&quot;: false, &quot;playerType&quot;: &quot;video&quot; } , &quot;advertisement&quot;: { &quot;adEnabled&quot;: true, &quot;adTagUrl&quot;: &quot;https://pubads.g.doubleclick.net/gampad/ads?iu=/228556409/DW_Videos&amp;description_url={encodedDescriptionUrl}&amp;url={encodedDescriptionUrl}&amp;env=vp&amp;impl=s&amp;correlator=&amp;tfcd=0&amp;npa=0&amp;gdfp_req=1&amp;output=vast&amp;sz=640x480|300x168&amp;unviewed_position_start=1&amp;cust_params=language%3Dzh%26mediaId%3D62153230%26navigationIds%3D1681%26categories%3D19990032&quot; }, &quot;einbliqio&quot;: { &quot;mediaId&quot;: &quot;62153230&quot;, &quot;mediaTitle&quot;: &quot;乌克兰战争：俄罗斯在拿粮食作武器吗？&quot;, &quot;applicationVersion&quot;: &quot;6.93.0&quot; } }" poster="https://tvdownloaddw-a.akamaihd.net/stills/images/vdt_zh/2022/bchi220616_001_bchi_220616_grain_01r.jpg"> <source src="https://hlsvod.dw.com/i/dwtv_video/flv/vdt_zh/2022/bchi220616_001_bchi_220616_grain_01r_,AVC_1920x1080,AVC_1280x720,AVC_960x540,AVC_640x360,AVC_512x288,AVC_480x270,.mp4.csmil/master.m3u8" type="application/x-mpegURL"> </video> <div class="teaserContentWrap information"> <h2>乌克兰战争：俄罗斯在拿粮食作武器吗？</h2> <span class="icon video"></span> </div> </div> </div> </div> </div> <p>据路透社报道，乌克兰东部城市北顿涅茨克尽管一再遭受俄罗斯猛烈的炮火袭击，但是乌克兰军队继续坚持顽强的抵抗。乌克兰军方发表的每日战报中指出，交火双方仍在激烈争夺对北顿涅茨克的完整控制权。乌克兰方面承认，俄军在北顿涅茨克东南取得一定优势。</p> <p>占领北顿涅茨克是俄军的一个主要战略目标。一旦北顿涅茨克被占领，俄罗斯军队将完整控制卢甘斯克地区。</p> <p>乌克兰总统泽连斯基在周日（6月19日）早间公布的每日视频讯息中介绍了他对乌克兰南部军队的视察工作。他宣布乌军将夺回被占领土。他在视频中说：“我们不会把南部的领土交给任何人。原本属于我们的一切，我们也都要夺回来。”</p> <p>泽连斯基表示，他在南部的尼古拉耶夫州同军人、警察和国民卫队的成员们进行了交谈，“没有人对我们将会取得的胜利产生怀疑”。</p> <p>他还表示，只要在国际援助下可以实现，乌克兰就会立刻恢复通过海运的粮食出口。目前商船无法安全地通过黑海，因为敖德萨港口附近的水域被布下大量水雷，而且该水域目前被俄罗斯海军控制。</p> <p>（综合报道）</p> <p><em>© 2022年德国之声版权声明：本文所有内容受到著作权法保护，如无德国之声特别授权，不得擅自使用。任何不当行为都将导致追偿，并受到刑事追究。&nbsp;</em></p>
+"> <a class="overlayLink" href="#" link="/overlay/image/article/43237694/41852009" rel="nofollow" style="cursor: pointer;"> <img loading="lazy" itemprop="image" src="https://static.dw.com/image/41852009_401.jpg" width="700" height="394" title="USA Präsident Donald Trump in Washington" alt="USA Präsident Donald Trump in Washington"> </a> </div> <p>《法兰克福汇报》发表题为"美国对中国"（Amerika gegen China）的文章。文中写道：</p> <p>"这场贸易战的主要原因恐怕不是有关中国市场的开放。华盛顿本周将公布列有100种中国进口产品的清单，考虑对其征收25%的惩罚性关税，这并非问题的核心。更关键的是，特朗普希望在面对中国时保护美国的科技与创新力。"</p> <p>"一方面，美国不容许这位实力不断增长的竞争者在美国国内为其崛起而获取技术。这位竞争者正在面向未来的工业领域、如自动驾驶汽车迅速赶超。"</p> <p>"另一方面，也不容让中国在本国内以市场准入为施压手段，迫使美国企业向听命于北京的企业交出技术知识。"</p> <p>"与对盟国、如德国的威胁不同，特朗普认为，中国崛起成为技术超级大国对美国的安全构成威胁。这一看法在华盛顿两党都有支持者。而且不单在那里。……如今，在欧洲也引发忧虑，北京会将外国技术用于本国创新，正如高铁的例子，西门子曾一度拥有专利，如今中国很快就将主导世界市场。"</p> <p><em>摘编自其他媒体的内容，不代表德国之声的立场或观点</em></p>
 </div>
 </div>
 <div style="clear:both; height:0; font-size:1px; line-height: 0"></div>
@@ -901,74 +901,51 @@ rechts
 <div class="group">
 <div class="lineExtra"></div>
 <div class="linkList intern">
-<a href="/zh/俄罗斯入侵乌克兰以来德法意领导人首次访问基辅/a-62150147">
+<a href="/zh/德语媒体北京尚未动真格/a-43225500">
 <h2>
-俄罗斯入侵乌克兰以来德、法、意领导人首次访问基辅
+德语媒体：北京尚未动真格！
 </h2>
-<p>本周四（6月16日），法国总统马克龙、德国总理肖尔茨和意大利总理德拉吉抵达基辅，表达欧洲与乌克兰的团结。这也是三国领导人在俄罗斯入侵乌克兰后首次出访基辅。肖尔茨在同泽连斯基会晤时邀请他参加6月底即将在德国举行的七国峰会。到访的各国领导人均表示支持乌克兰立刻获得欧盟正式候选申请国地位。</p>
+<p>中国出手了，北京宣布对美国进口的一些产品加征关税。有德语媒体认为，涉及关税仅30亿美元的规模表明，中国并没有真与美国打贸易战的意思。此外，"天宫一号"重返大气层也是德媒关注的一个话题。 (02.04.2018)</p>
 </a>
 </div>
 <div class="linkList intern">
-<a href="/zh/開戰以來最大筆-拜登加碼10億支援烏克蘭/a-62149021">
+<a href="/zh/德语媒体不仅仅关乎贸易的贸易战/a-43141468">
 <h2>
-開戰以來最大筆 拜登加碼10億支援烏克蘭
+德语媒体：不仅仅关乎贸易的贸易战
 </h2>
-<p>俄烏戰爭開打將滿4個月，華盛頓15日宣佈新一輪的軍事援助，將提供基輔10億美元軍援，其中包括榴彈砲及反艦導彈。這是華盛頓迄今向基輔運送的最大批武器裝備，盼能協助烏克蘭在東部頓巴斯地區抵擋俄軍入侵。</p>
-</a>
-</div>
-<div class="linkList intern">
-<a href="/zh/抗击俄罗斯向乌克兰提供新武器/a-62014830">
-<h2>
-抗击俄罗斯：向乌克兰提供新武器？ </h2>
-<p>乌克兰总统泽连斯基几乎每天都要求得到更具有杀伤力的武器。现在，包括美国和德国在内，多个国家宣布，向乌克兰提供更多重型武器。到目前为止乌克兰都获得了哪些武器？</p>
-</a>
-</div>
-<div class="linkList intern">
-<a href="/zh/普京警告德法不要向乌克兰提供重型武器/a-61967709">
-<h2>
-普京警告德法不要向乌克兰提供重型武器
-</h2>
-<p>德国总理肖尔茨与法国总统马克宏周六与俄罗斯总统普京通话，呼吁普京与泽连斯基“直接谈判”，并要求俄方立即停火并撤出军队。普京则警告德法不要向乌克兰提供重型武器。</p>
+<p>特朗普的贸易战威胁，能不能迫使北京作出让步？面对美中之间的这场冲突，欧洲到底能否置身事外？德语报刊评论版探讨了这些话题。 (26.03.2018)</p>
 </a>
 </div>
 </div>
 <div class="group">
 <ul class="smallList">
 <li><strong>日期</strong>
-19.06.2022
+03.04.2018
+</li>
+<li>
+<strong>作者</strong>
+苗子(摘编)
 </li>
 <!-- ESI fragment of related auto topics -->
 
 <li>
 <strong>主题</strong>
 <a
-href="/zh/俄罗斯/t-40351655">俄罗斯</a>, <a
-href="/zh/乌克兰/t-17452263">乌克兰</a>, <a
-href="/zh/北大西洋公约组织/t-40370431">北大西洋公约组织</a>, <a
-href="/zh/俄罗斯入侵乌克兰/t-60868685">俄罗斯入侵乌克兰</a>, <a
-href="/zh/普京/t-17452347">普京</a>
+href="/zh/中美关系/t-17455900">中美关系</a>
 </li>
 
 <li>
 <strong>关键词</strong>
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89&searchNavigationId=9058"
-rel="nofollow">乌克兰战争</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%B9%8C%E5%85%8B%E5%85%B0&searchNavigationId=9058"
-rel="nofollow">乌克兰</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E5%8C%97%E7%BA%A6&searchNavigationId=9058"
-rel="nofollow">北约</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E8%A3%85%E5%A4%87&searchNavigationId=9058"
-rel="nofollow">装备</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%BF%84%E7%BD%97%E6%96%AF&searchNavigationId=9058"
-rel="nofollow">俄罗斯</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E9%BB%91%E6%B5%B7&searchNavigationId=9058"
-rel="nofollow">黑海</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E5%8C%97%E9%A1%BF%E6%B6%85%E8%8C%A8%E5%85%8B&searchNavigationId=9058"
-rel="nofollow">北顿涅茨克</a>
+<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%B8%AD%E7%BE%8E&searchNavigationId=9058"
+rel="nofollow">中美</a>,
+<a href="/search/zh?languageCode=zh&origin=gN&item=%E7%BE%8E%E4%B8%AD&searchNavigationId=9058"
+rel="nofollow">美中</a>,
+<a href="/search/zh?languageCode=zh&origin=gN&item=%E5%85%B3%E7%A8%8E&searchNavigationId=9058"
+rel="nofollow">关税</a>
 </li>
 <li><strong>反馈</strong>: <a class="overlayLink" href="#"
 rel="nofollow"
-link="/overlay/send_feedback/page/1681/62182175">意见反馈</a>
+link="/overlay/send_feedback/page/1684/43237694">意见反馈</a>
 </li>
 <li>
 <strong>打印</strong>
@@ -976,7 +953,7 @@ link="/overlay/send_feedback/page/1681/62182175">意见反馈</a>
 </li>
 <li>
 <strong>固定链接</strong>
-https://p.dw.com/p/4CuQJ
+https://p.dw.com/p/2vQ6A
 </li>
 </ul>
 </div>
@@ -984,41 +961,44 @@ https://p.dw.com/p/4CuQJ
 
 <div class="col3 relatedContent">
 <h4 class="meta">相关内容</h4>
-<div class="col1" data-id="64282829">
+<div class="col1" data-id="64084909">
 <div class="news">
-<a href="/zh/俄罗斯承认士兵违规使用手机导致乌军袭击得手/a-64282829">
+<a href="/zh/媒體中國投入超過一萬億人民幣發展晶片產業/a-64084909">
 <div class="teaserImg">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/64282053_301.jpg" width="220" height="124" title="Russia Ukraine Military Operation Shelling 8350684 02.01.2023 Russian emergency workers remove the rubble of vocational school 19 destroyed by shelling in Makeevka, Donetsk People s Republic, Russia. The armed forces of Ukraine attacked the vocational school building in Makeyevka of the Donetsk People s Republic from the HIMARS MLRS on December 31 to January 1. RIA Novosti / Sputnik Donetsk People s Republic Russia PUBLICATIONxINxGERxSUIxAUTxONLY Copyright: xRIAxNovostix" alt="Russia Ukraine Military Operation Shelling 8350684 02.01.2023 Russian emergency workers remove the rubble of vocational school 19 destroyed by shelling in Makeevka, Donetsk People s Republic, Russia. The armed forces of Ukraine attacked the vocational school building in Makeyevka of the Donetsk People s Republic from the HIMARS MLRS on December 31 to January 1. RIA Novosti / Sputnik Donetsk People s Republic Russia PUBLICATIONxINxGERxSUIxAUTxONLY Copyright: xRIAxNovostix" /> </div>
+<img loading="lazy" itemprop="image" src="https://static.dw.com/image/61735384_301.jpg" width="220" height="124" title="***ACHTUNG: Nur zu nutzen für „Projekt C“ SPERRFRIST/Embargo 19.05, 6 Uhr!***
+(180428) -- WUHAN, April 28, 2018 (Xinhua) -- Chinese President Xi Jinping, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, visits Wuhan Xinxin Semiconductor Manufacturing Corp. in Wuhan, capital of central China's Hubei Province, April 26, 2018. Xi made an inspection tour in Hubei Province from Tuesday to Saturday. (Xinhua/Ju Peng) (zyd)" alt="***ACHTUNG: Nur zu nutzen für „Projekt C“ SPERRFRIST/Embargo 19.05, 6 Uhr!***
+(180428) -- WUHAN, April 28, 2018 (Xinhua) -- Chinese President Xi Jinping, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, visits Wuhan Xinxin Semiconductor Manufacturing Corp. in Wuhan, capital of central China's Hubei Province, April 26, 2018. Xi made an inspection tour in Hubei Province from Tuesday to Saturday. (Xinhua/Ju Peng) (zyd)" /> </div>
 <h2 class="">
-俄罗斯承认士兵违规使用手机导致乌军袭击得手
-<span class="date">04.01.2023</span>
+媒體：中國投入超過一萬億人民幣發展晶片產業
+<span class="date">14.12.2022</span>
 </h2>
-<p>俄罗斯国防部对外承认，大量俄军士兵在顿涅茨克马克耶夫卡地区一临时兵营违规使用手机，为乌克兰军方提供定位并让其有机会采取袭击行动。死亡人数也从先前公布的63人修正为89人。 </p>
+<p>根據路透社，在美國打壓下，為了實現晶片自給自足，中國將推出大型計劃支持自己的半導體產業。消息人士詳細透露出北京接續的做法。 </p>
 </a>
 </div>
 </div>
-<div class="col1" data-id="64289572">
+<div class="col1" data-id="64074960">
 <div class="news">
-<a href="/zh/北約前秘書長俄烏戰爭帶給台灣的三大啟示/a-64289572">
+<a href="/zh/布林肯訪中有譜-美競爭不能轉為衝突/a-64074960">
 <div class="teaserImg">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/57503267_301.jpg" width="220" height="124" title="ARCHIV - 02.07.2014, Berlin: NATO-Generalsekretär Anders Fogh Rasmussen spricht im Kanzleramt während einer gemeinsamen Pressekonferenz mit Bundeskanzlerin Merkel. (zu dpa «Ex-Nato-Chef rechnet mit Einmischungsversuchen zur Bundestagswahl») Foto: picture alliance / dpa +++ dpa-Bildfunk +++" alt="ARCHIV - 02.07.2014, Berlin: NATO-Generalsekretär Anders Fogh Rasmussen spricht im Kanzleramt während einer gemeinsamen Pressekonferenz mit Bundeskanzlerin Merkel. (zu dpa «Ex-Nato-Chef rechnet mit Einmischungsversuchen zur Bundestagswahl») Foto: picture alliance / dpa +++ dpa-Bildfunk +++" /> </div>
+<img loading="lazy" itemprop="image" src="https://static.dw.com/image/59244760_301.jpg" width="220" height="124" title="flags of China and USA painted on cracked wall" alt="flags of China and USA painted on cracked wall" /> </div>
 <h2 class="">
-北約前秘書長：俄烏戰爭帶給台灣的三大啟示 <span class="date">05.01.2023</span>
+布林肯訪中有譜 美：競爭不能轉為衝突
+<span class="date">13.12.2022</span>
 </h2>
-<p>北約組織前秘書長拉斯穆森在週四離台前，於記者會上表示，民主國家應確保台灣有足夠防禦能力，而當中國嘗試武力犯台時，北約在事前可增加與台灣的聯合軍演，並向中國表明，武力犯台將面臨嚴重經濟制裁。 </p>
+<p>拜登和習近平11月在印尼G20峰會上就台灣和朝鮮問題進行會談，防止美中關係惡化為新冷戰。兩位領導人承諾，在人權、俄烏戰爭和經濟問題上的分歧加強溝通。這次美官員訪華接續會議上的共識討論，雙方談了什麼？ </p>
 </a>
 </div>
 </div>
-<div class="col1" data-id="64218833">
+<div class="col1" data-id="64262429">
 <div class="news">
-<a href="/zh/乌克兰战争-俄罗斯出乎意料失利/a-64218833">
+<a href="/zh/秦刚布林肯通话道别-王毅任中央外办主任提中美共赢/a-64262429">
 <div class="teaserImg">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/61024195_301.jpg" width="220" height="124" title="A view shows the wreckage, which Ukrainian military officials said is the remains of a Russian Air Force assault aircraft, amid the Russian invasion of Ukraine, in a field outside the town of Volnovakha in the Donetsk region, Ukraine, in this handout picture released March 4, 2022. Press service of the Joint Forces Operation/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. TPX IMAGES OF THE DAY " alt="A view shows the wreckage, which Ukrainian military officials said is the remains of a Russian Air Force assault aircraft, amid the Russian invasion of Ukraine, in a field outside the town of Volnovakha in the Donetsk region, Ukraine, in this handout picture released March 4, 2022. Press service of the Joint Forces Operation/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. TPX IMAGES OF THE DAY " /> </div>
+<img loading="lazy" itemprop="image" src="https://static.dw.com/image/64194002_301.jpg" width="220" height="124" title="(221220) -- BEIJING, Dec. 20, 2022 (Xinhua) -- Chinese State Councilor and Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China (CPC) Central Committee, meets with French Foreign Affairs Minister Catherine Colonna via video link, Dec. 19, 2022. (Xinhua/Yin Bogu)" alt="(221220) -- BEIJING, Dec. 20, 2022 (Xinhua) -- Chinese State Councilor and Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China (CPC) Central Committee, meets with French Foreign Affairs Minister Catherine Colonna via video link, Dec. 19, 2022. (Xinhua/Yin Bogu)" /> </div>
 <h2 class="">
-乌克兰战争： 俄罗斯出乎意料失利
-<span class="date">28.12.2022</span>
+秦刚布林肯通话“道别” 王毅任中央外办主任提中美共赢
+<span class="date">02.01.2023</span>
 </h2>
-<p>在入侵乌克兰之前，许多专家预计俄罗斯会迅速取得胜利。然而无论空中还是海上，莫斯科都无法发挥其优势。 </p>
+<p>美国国务卿布林肯与新任中国外长秦刚通话讨论推动美中关系改善，而刚卸除外长职务的王毅接下中央外办主任职位。王毅于元旦撰文提及希望推动中美关系重回稳定正轨，同时也重申台湾问题是中美关系不可逾越的红线。 </p>
 </a>
 </div>
 </div>
@@ -1030,39 +1010,31 @@ https://p.dw.com/p/4CuQJ
 <div class="group">
 <ul class="smallList">
 <li><strong>日期</strong>
-19.06.2022
+03.04.2018
+</li>
+<li>
+<strong>作者</strong>
+苗子(摘编)
 </li>
 <!-- ESI fragment of related auto topics -->
 
 <li>
 <strong>主题</strong>
 <a
-href="/zh/俄罗斯/t-40351655">俄罗斯</a>, <a
-href="/zh/乌克兰/t-17452263">乌克兰</a>, <a
-href="/zh/北大西洋公约组织/t-40370431">北大西洋公约组织</a>, <a
-href="/zh/俄罗斯入侵乌克兰/t-60868685">俄罗斯入侵乌克兰</a>, <a
-href="/zh/普京/t-17452347">普京</a>
+href="/zh/中美关系/t-17455900">中美关系</a>
 </li>
 
 <li>
 <strong>关键词</strong>
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89&searchNavigationId=9058"
-rel="nofollow">乌克兰战争</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%B9%8C%E5%85%8B%E5%85%B0&searchNavigationId=9058"
-rel="nofollow">乌克兰</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E5%8C%97%E7%BA%A6&searchNavigationId=9058"
-rel="nofollow">北约</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E8%A3%85%E5%A4%87&searchNavigationId=9058"
-rel="nofollow">装备</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%BF%84%E7%BD%97%E6%96%AF&searchNavigationId=9058"
-rel="nofollow">俄罗斯</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E9%BB%91%E6%B5%B7&searchNavigationId=9058"
-rel="nofollow">黑海</a>,
-<a href="/search/zh?languageCode=zh&origin=gN&item=%E5%8C%97%E9%A1%BF%E6%B6%85%E8%8C%A8%E5%85%8B&searchNavigationId=9058"
-rel="nofollow">北顿涅茨克</a>
+<a href="/search/zh?languageCode=zh&origin=gN&item=%E4%B8%AD%E7%BE%8E&searchNavigationId=9058"
+rel="nofollow">中美</a>,
+<a href="/search/zh?languageCode=zh&origin=gN&item=%E7%BE%8E%E4%B8%AD&searchNavigationId=9058"
+rel="nofollow">美中</a>,
+<a href="/search/zh?languageCode=zh&origin=gN&item=%E5%85%B3%E7%A8%8E&searchNavigationId=9058"
+rel="nofollow">关税</a>
 </li>
 <li><a class="icon mail overlayLink" rel="nofollow" href="#"
-link="/overlay/send_feedback/page/1681/62182175">意见反馈</a>
+link="/overlay/send_feedback/page/1684/43237694">意见反馈</a>
 </li>
 <li>
 <strong>打印</strong>
@@ -1070,93 +1042,12 @@ link="/overlay/send_feedback/page/1681/62182175">意见反馈</a>
 </li>
 <li>
 <strong>固定链接</strong>
-https://p.dw.com/p/4CuQJ
+https://p.dw.com/p/2vQ6A
 </li>
 </ul>
 </div>
 </div>
 
-<div class="col1 dim">
-<!-- GoogleDfP_SquareSmall -->
-<div id="DW_D_Articles_Square-label" class="squareAd">
-<div id="div--Square_small">
-<div id="squareHeadline" class="adHeadline">广告</div>
-<div id="DW_D_Articles_Square"></div>
-</div>
-</div>
-<!-- End/GoogleDfP_SquareSmall -->
-<!-- Picture Teaser -->
-<div class="col1 pictureTeaser">
-<div class="group">
-<div class="imgTeaserS
-cinemaS
-bottom
-black" id="pictureteaser_36144534">
-<div class="teaserImg">
-<a href="http://www.dw.com/s-36073119"
-target="_self"
-rel="noopener">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/36030438_351.jpg" width="220" height="96" title="Szenarienstudie 2030" alt="Szenarienstudie 2030" /> </a>
-</div>
-<div class="teaserContentWrap">
-<a href="http://www.dw.com/s-36073119"
-target="_self"
-rel="noopener">
-<h2>场景研究：中国未来会怎样？
-<span class="date">24.10.2016</span>
-</h2>
-</a>
-</div>
-</div>
-</div>
-</div>
-
-<!-- Picture Teaser -->
-<div class="col1 pictureTeaser">
-<div class="group">
-<div class="imgTeaserS
-cinemaS
-bottom
-black" id="pictureteaser_36144536">
-<div class="teaserImg">
-<a href="https://www.youtube.com/dwchinese"
-target="_self"
-rel="nofollow noopener">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/38384913_351.jpg" width="220" height="96" title="DW YouTube: Wohin geht die Reise" alt="DW YouTube: Wohin geht die Reise" /> </a>
-</div>
-<div class="teaserContentWrap">
-<a href="https://www.youtube.com/dwchinese"
-target="_self"
-rel="nofollow noopener">
-<h2>DW 一看你就懂！
-<span class="date">12.04.2021</span>
-</h2>
-</a>
-</div>
-</div>
-</div>
-</div>
-
-
-<!-- Base-Teaser -->
-<div class="col1 basicTeaser">
-<div class="group">
-<h4>评论分析</h4>
-<div class="news">
-<a href="/zh/客座評論中港通關政治學/a-64321666">
-<div class="teaserImg">
-<img loading="lazy" itemprop="image" src="https://static.dw.com/image/64317560_301.jpg" width="220" height="124" title="1月8日星期日，香港行政長官李家超在與中國大陸過境重新開放後視察落馬洲車站，戴著口罩對媒體發表講話。" alt="1月8日星期日，香港行政長官李家超在與中國大陸過境重新開放後視察落馬洲車站，戴著口罩對媒體發表講話。" /> </div>
-<h2 class="linkable">
-客座評論：中港通關政治學
-</h2>
-<p>中國大陸和香港1月8日迎接新冠疫情全球大流行三年來首次免隔離通關，7個邊境口岸正式恢復全面運作。DW客座評論員曾志豪分析，「中港『終於』通關」，除了「終於」一詞有歧義，背後的政治意義更是耐人尋味。</p>
-</a>
-</div>
-</div>
-</div>
-<!-- End Base-Teaser -->
-
-</div>
 <div style="clear:both;"></div>
 </div>
 </div>
@@ -1230,7 +1121,7 @@ title="RSS 服务">RSS 服务</a></li>
 <a href="/en/accessibility-statement/a-54925999">无障碍声明</a> |
 <a href="/en/legal-notice/a-15718492">责任声明</a> |
 <a href="/en/contact/s-30606">联系方式</a>
-| <a id="mobilePreferredLink" href="https://m.dw.com/zh/%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B9%B4/a-62182175">移动版</a>
+| <a id="mobilePreferredLink" href="https://m.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E5%85%B3%E7%A8%8E%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E7%BE%8E%E4%B8%AD%E5%AF%B9%E6%8A%97/a-43237694">移动版</a>
 </p>
 </div></div>
 <!-- /Footer -->

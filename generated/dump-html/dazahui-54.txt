@@ -1,160 +1,519 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:wb="http://open.weibo.com/wb" xml:lang="zh">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>泰媒：美国擅定与东盟峰会日期令东盟国家恼火，半数可能缺席_新闻中心_中国网</title>
-<meta name="keywords" content="东盟,美国,峰会,国家,拜登">
-<meta name="filetype" content="0"></meta>
-  <meta name="publishedtype" content="1"></meta>
-  <meta name="pagetype" content="1"></meta>
-  <meta name="catalogs" content=""></meta>
-  <meta name="contentid" content="78097414"></meta>
-  <meta name="publishdate" content="2022-03-09"></meta>
-  <meta name="author" content="李高思"></meta>
-  <meta name="titlePic" content=""></meta>
-<link type="text/css" rel="stylesheet" href="http://images.china.cn/images1/resource/styles/reset-1.0.css" />
-<link type="text/css" rel="stylesheet" href="http://images.china.cn/images1/ch/2016content/css/index.css" />
-<link type="text/css" rel="stylesheet" href="http://images.china.cn/images1/ch/2016content/css/index1.css" />
-<script type="text/javascript" src="http://images.china.cn/images1/ch/mobile/callback-1.0.js">
-</script>
+<!-- 加载普通模板 -->
 
-<script type="text/javascript" src="http://images.china.cn/images1/ch/2016content/js/phone.js">
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <title>纽约疫情未平又遭鼠患，大量老鼠出街吓坏民众-荆楚网-湖北日报网</title>
+    <meta itemprop="description" name="description" content="纽约疫情未平又遭鼠患，大量老鼠出街吓坏民众---近来，纽约市新冠阳性病例持续增加。然而疫情还未结束，该市的鼠患问题又加剧了。据美联社8日报道，最新的调查数据显示，今年前4个月，当地民众报告见到老鼠的次数创下过去10年来的最高记录" />
+    <meta itemprop="name" content="纽约疫情未平又遭鼠患，大量老鼠出街吓坏民众-荆楚网-湖北日报网"/>
+    <meta name="keywords" content="问题,纽约,报道,老鼠,鼠患"/>
+    <link rel="canonical" href="http://www.cnhubei.com/">
+    <meta itemprop="image" content="http://www.cnhubei.com/images/640logo.jpg" ignoreapd="1" />
+    <link rel="stylesheet" type="text/css" href="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/index_wangbanzi_201801.css">
+    <link rel="stylesheet" type="text/css" href="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/common_2018.css">
+    <link rel="stylesheet" type="text/css" href="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/myAudio.css">
+    <script type="text/javascript" src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/jquery-1.9.1.min.js"></script>
+<script type="text/javascript"src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/js.js"></script>    
+    <script type="text/javascript" src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/jquery.mousewheel.min.js"></script>
+                 <!--js区块 -->
+<script type="text/javascript">
+pcurl=window.location.href;
+s2=pcurl.substring(0, pcurl.lastIndexOf('html')+4); 
+dir=s2.substring(s2.length,s2.length-13);
+//dir1="http://m.cnhubei.com/p/";
+//wapurl=dir1+dir;
+function browserRedirect() { 
+var sUserAgent= navigator.userAgent.toLowerCase(); 
+var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
+var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
+var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
+var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
+var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
+var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
+var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
+var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+ 
+if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
+//window.location.href=wapurl; 
+var wapurl = 'http://m.cnhubei.com/content/2022-05/09/content_14731842.html';
+        if(wapurl && wapurl != '') {
+        	window.location.href = wapurl;
+        }
+//window.location.href='http://m.cnhubei.com/content/2022-05/09/content_14731842.html'; 
+} else { 
+} 
+} 
+browserRedirect(); 
+</script>  
 
-<script type="text/javascript" src="http://images.china.cn/images1/resource/scripts/jquery/jquery-1.12.4.min.js">
-</script>
+<!-- 天润-->
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="<trs_channel field='channelid'/>">
+<meta name="contentid" content="<trs_document field='docid'/>">
+<meta name="publishdate" content="<trs_document field='docreltime' dateformat='%Y-%MON-%DAY'/>">
+<meta name="author" content="<trs_document field='cruser'/>">
+<meta name="source" content="<trs_document field='docsource'/>">
+<!-- 天润 -->
 
-<script type="text/javascript" src="http://www.china.com.cn/player/video.js">
-</script>
-<style type="text/css">
-<!--
-.topAd { width: 1000px; overflow: hidden; margin: 0 auto; padding-top: 30px; zoom: 1; }
-#ads_left_1 { float: left; }
-#ads_right_1 { float: right; }
-.adBox { margin-bottom: 20px; }
-.topFunction .topShare { float: left; width: auto; color: #999; }
-.topFunction .topShare a { color: #999; }
--->
-</style>
+
+
+
+<!--js区块1 -->   <base target="_blank" />
+<script type="text/javascript"src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets/hbrb/docindex.js"></script> 
 </head>
 <body>
-<div style="width:100%;"><iframe id="Toppifr" src="http://news.china.com.cn/node_8025794.htm" width="100%" height="140" scrolling="no" marginheight="0" frameborder="0"></iframe></div>
+      <script>
+	$(document).ready(function() {
+		$(".page>a").attr("target","_self");
 
-<div class="headBox">
-<div class="topAd" style="width:1090px;">
-<div id="ads_left_1">
-<script type="text/javascript" src="http://news.china.com.cn/ads_js/news/ads_left_1.js">
+	});	
+  </script>	
+  <script>
+		$(function(){
+   var qrcode= $('#divOne').qrcode('http://news.cnhubei.com/content/2022-05/09/content_14731842.html').hide(); 
+   var canvas=qrcode.find('canvas').get(0);
+   $('#imgOne').attr('src',canvas.toDataURL('image/jpg'))
+		});
+  </script>
+<div id="divOne" style="display:none"></div>
+<div  class="cjly_nav" id="cjly_nav01">
+   <a id="weixin_share"><img src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/images/weixin_btn_t.jpg" /></a>
+   <div class="ma_box" style="display:none"><span class="close">×</span><img id="imgOne" /></div>
+<!--   <a href="https://connect.qq.com/widget/shareqq/index.html?url=http://news.cnhubei.com/content/2022-05/09/content_14731842.html&appkey=&title=纽约疫情未平又遭鼠患，大量老鼠出街吓坏民众&pic=&ralateUid=&language=&searchPic=false"><img src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/images/qq_btn_t.jpg" /></a> -->
+   <a href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?to=qzone&url=http://news.cnhubei.com/content/2022-05/09/content_14731842.html&title=纽约疫情未平又遭鼠患，大量老鼠出街吓坏民众&summary=近来，纽约市新冠阳性病例持续增加。然而疫情还未结束，该市的鼠患问题又加剧了。据美联社8日报道，最新的调查数据显示，今年前4个月，当地民众报告见到老鼠的次数创下过去10年来的最高记录"><img src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/images/qzone_btn_t.jpg" /></a>
+ <!--  <a href="http://service.weibo.com/share/share.php?url=http://news.cnhubei.com/content/2022-05/09/content_14731842.html&appkey=&title=纽约疫情未平又遭鼠患，大量老鼠出街吓坏民众&pic=&ralateUid=&language=&searchPic=false"><img src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/images/weibo_btn_t.jpg" /></a> -->
+</div>     
+    
+<div class="w1200" id="wzygg01">
+
+
+    
+</div>   
+<style>
+.ma_box{ width:160px; height:160px; padding:15px 5px 5px 5px; border:1px solid #CCC; background-color:#FFF; z-index:999; position:absolute; left:46px; top:30px; overflow:hidden}
+.ma_box img{ width:160px; height:160px;}
+.ma_box span{ width:16px; height:16px; font-size:16px; color:#999; position:absolute; top:0px; right:0px; display:block; line-height:16px;  cursor:pointer}
+.ma_box span:hover{ color:#F00}
+
+.article_left_box02 .article_w .article .page{ padding:0}
+.attach-size{ display:none;}
+.attach-download{ text-decoration:underline; color:#03F}
+
+</style>    
+
+<!-- 顶部导航 -->
+<div class="lmy_topnav01">
+
+<script src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/hm.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?941d8bc973cf2e92916773f2b97fb56b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>  
+<!--埋点bgn-->
+<!--
+<script src="https://p.wts.xinwen.cn/dot-wts/spm.js"></script>
+<script type="text/javascript">
+
+        let _urlid = document.location.toString().replace(/.*?(\d+)\.html.*/,"$1")
+
+        if(window.spm) { // 初始化配置
+
+            if (_urlid) {
+                spm.config({
+            siteId:'zm1033-001', //对应媒体机构的SPM-a段
+            additionalInfo: {
+                targetID: _urlid,
+                organization: 'zm1033', // 此处填写媒体机构ID
+                // 上报进入事件 
+                category: 'event', action: 'comeIn'
+            } });
+            }else{
+                spm.config({
+            siteId:'zm1033-001', 
+            additionalInfo: {
+                organization: 'zm1033', // 此处填写媒体机构ID
+                // 上报进入事件 
+                category: 'event', action: 'comeIn'
+            } });
+            }
+            
+        }
+        window.onbeforeunload = function () {
+            // 上报离开事件
+            spm.push({ category: 'event', action: 'leave' }); 
+        };
+
 </script>
-</div>
 
-<div id="ads_right_1">
-<script type="text/javascript" src="http://news.china.com.cn/ads_js/news/ads_right_1.js">
-</script>
-</div>
-</div>
-
-<div class="crumbs"><a href="http://news.china.com.cn" target="_blank"><img src="http://images.china.cn/images1/ch/2016content/images/logo.gif" width="117" height="20" alt="中国网新闻中心" /></a> 
-
-<div id="crumbs"><a href="http://news.china.com.cn/index.shtml" target="_blank" class="" >新闻中心</a>></div>
-</div>
-
-<h1 class="articleTitle">泰媒：美国擅定与东盟峰会日期令东盟国家恼火，半数可能缺席</h1>
-    <div class="articleInfo">
-      <div class="pub_date"><span id="pubtime_baidu">发布时间：2022-03-09 09:49:49</span>&nbsp;&nbsp;|&nbsp;&nbsp;<span id="source_baidu">来源：<a href="https://world.huanqiu.com/article/4777G3Qrnpg">环球时报</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;<span id="author_baidu">作者：辛斌 于文</span></div>
-      <div class="topFunction">
-        <span class="topShare"><a href="http://news.china.com.cn" target="_blank">更多新闻进入新闻中心</a></span>
-        <span id="zoomUp" class="zoomUp"></span>
-        <span id="zoomDown" class="zoomDown"></span>
+-->
+<!--埋点end--> 
+<!--<div class="lmy_topnav_zw" id="">-->
+  <div class="lmy_top_mini_nav" id="lmy_top_nav01">
+    <div id="lmy_top_box">
+      <ul class="list_across">
+        <li><a href="http://www.cnhubei.com">荆楚网首页</a></li>
+        <li><a href="http://news.cnhubei.com">新闻</a></li>
+        <li><a href="http://news.cnhubei.com/zwpd/index.html">政务</a></li>
+        <li><a href="http://focus.cnhubei.com">评论</a></li>
+        <li><a href="http://wz.cnhubei.com/">问政</a></li>
+        <li><a href="http://yq.cnhubei.com">舆情</a></li>
+        <li><a href="http://bbs.cnhubei.com/portal.php">社区</a></li>
+        <li><a href="http://news.cnhubei.com/cjpd/index.html">财经</a></li>
+        <li><a href="http://news.cnhubei.com/guonpd/index.html">国内</a></li>
+        <li><a href="http://news.cnhubei.com/gjpd/index.html">国际</a></li>
+        <li><a href="http://news.cnhubei.com/ylepd/index.html">娱乐</a></li>
+        <li><a href="http://v.cnhubei.com">视频</a></li>
+        <li><a href="http://photo.cnhubei.com">图片</a></li>
+        <li class="more">更多
+          <div class="sub01">
+            <a href="http://news.cnhubei.com/djpd/index.html">党建</a>
+            <a href="http://news.cnhubei.com/wenhpd/index.html">文化</a>
+            <a href="http://news.cnhubei.com/typd/index.html">体育</a>
+            <a href="http://ws.cnhubei.com/">微善</a>
+            <a href="http://edu.cnhubei.com/">教育</a>
+            <a href="http://health.cnhubei.com">健康</a>
+            <a href="http://news.cnhubei.com/gundong/index.html">滚动</a>
+            <a href="hhtt://news.cnhubei.com/xwzt/index.shtml">专题</a>
+            <a href="http://house.cnhubei.com">房产</a>
+            <a href="http://auto.cnhubei.com/">汽车</a>
+            <a href="http://kp.cnhubei.com/">科普</a>
+            <a href="http://hbzlw.cnhubei.com/">质量</a>
+            <a href="http://sy.cnhubei.com">商业</a>
+            <a href="http://www.hbwmw.gov.cn/">文明网</a>
+            <a href="http://www.cnhubei.com/pcmedia/index">荆楚号</a>
+            <a href="http://qcz.cnhubei.com/">青春志</a>
+          </div>
+        </li>
+        <li style="float:right" class="right"><a href="http://www.cnhubei.com/xwzt/2015/hbsjbnew/">手机报</a><span>丨</span><a href="http://m.cnhubei.com">手机荆楚网</a></li>
+      </ul>
+    </div>
+    <script type="text/javascript">
+            jQuery("#lmy_top_box").slide({ type:"menu",  titCell:".more", targetCell:".sub01", effect:"slideDown", delayTime:100, triggerTime:100  });
+    </script>
+  </div>
+<!--</div>--> <div class="blank0"></div>
+ <div class="w1140" id="lmy_top_nav02">
+ <a href="http://www.cnhubei.com/"><img class="logo" src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/images/lmy_logo_w01.jpg" /></a>
+ 
+<div class="search_box">
+    <div class="box"></div>
+    <div class="searchbox">
+ <form action="/s" name="search" method="get">
+      <div class="s_text">
+        <input type="text" name="wd" id="wd" value="" autocomplete="on" placeholder="请输入关键字">
       </div>
+      <div class="s_button">
+        <input type="submit" id="search-btn">
+      </div>
+    </form>
+      
+    </div>
+  </div>
+  
+<div class="lmy_gzwm01"><span>关注我们</span>
+<div class="wx_box"><img src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/images/jcw_weixin_btn_w.png">
+<img class="b_img" src="http://www.cnhubei.com/images/2017wxma.png">
+</div>
+<a href=""><img src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/images/jcw_weibo_btn_w.png"></a>
+<div class="wx_box"><a href=""><img src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/images/jcw_wap_btn_w.png"></a><img class="b_img" src="http://www.cnhubei.com/images/2017wapma.png">  </div></div>   
+  
+ </div>
+</div>
+<!-- 顶部导航 end -->
+<div class="w1200" id="wzygg011">
+ <div class="blank15"></div>
+</div>
+<!--广告文章页 --><div class="w1200" id="wzygg02">
+</div>
+<div class="blank0"></div>
+<!-- 文章页主体 -->
+<div class="lmy_box02" id="lmy">
+ <div class="lmy_dw"><a href="//www.cnhubei.com">荆楚网</a>
+  <a href="http://news.cnhubei.com"> > 新闻频道</a> 
+  <a href="http://news.cnhubei.com/ctdsbyc/index.html"> > 楚天都市报-极目新闻</a> 
+
+</div>
+ <div class="blank15"></div>
+    <h1>纽约疫情未平又遭鼠患，大量老鼠出街吓坏民众</h1>
+    <!-- 文章页信息栏 -->
+    <div id="lmy_information01">
+        <div class="w1000 information_box right">
+            <span>发布时间：2022年05月09日13:36</span> <span style="margin-left:8px;">来源：</span>
+<a href="http://jmwap.ctdsb.net/jmythshare/#/index_share?contentType=5&contentId=1410174&cId=0" target="_blank">极目新闻</a>
+        </div>
+    </div>
+    <!-- 文章页信息栏 end -->
+
+    <div class="w1000 right" id="article_div02">
+        <div class="article_left_box02">
+
+            <div class="article_w">
+                <!-- 正文 -->
+                <p>极目新闻记者 孙喆</p>
+<p>近来，纽约市新冠阳性病例持续增加。然而疫情还未结束，该市的鼠患问题又加剧了。据美联社8日报道，最新的调查数据显示，今年前4个月，当地民众报告见到老鼠的次数创下过去10年来的最高记录。</p>
+<p style="text-align:center;"><img src="/a/10001/202205/82ad69dcdae63416b331f21319ee7d43.jpeg" data-origin-src="/a/10001/202205/82ad69dcdae63416b331f21319ee7d43.jpeg" data-mce-attachid="29845551" style="max-width:600px;"></p>
+<p>相关报道截图（来源：美联社）</p>
+<p>报道称，仅从今年1月至4月，纽约市政府311热线就已收到约7400起老鼠目击事件报告，比去年同期多出了20%；和2019年前四个月相比，更是增加了60%。</p>
+<p>“简言之，2022年前4个月，每个月的老鼠目击次数当时都是创下了自2010年以来的单月最高记录。相比之下，2010年全年，该市共收到了约1.05万起老鼠目击事件报告；而去年，这个数字已经涨到了2.5万。”报道如是说。</p>
+<p>“而且，天气越暖和，老鼠的‘社会活动’就越发频繁。”报道进一步指出。</p>
+<p>随着气温升高，再加上纽约市现已解除大部分防疫限制措施，当地民众开始担心，市民外出就餐增加及室外活动的恢复会刺激更多的老鼠在街头流窜。</p>
+<p>对此，康奈尔大学的害虫防治专家马特·弗莱表示：“这取决于老鼠能在哪儿找到够它们吃的食物。”</p>
+<p>“限制措施解除，越来越多的人选择到户外就餐，老鼠也一样。它们从下水道跑上来，来到大街上、公园，甚至‘坐’在路边的垃圾袋旁享用大杂烩。”一位纽约市民说。</p>
+<p>报道称，考虑到新冠病毒在室外的传播概率比室内密闭环境要低得多，纽约市一些餐厅现推出“户外就餐”服务，食客可以在餐厅门口搭建的大棚下吃饭。</p>
+<p>然而，这也会带来一个新问题。食客们吃剩的食物有时会引来老鼠。社交媒体上广泛传播的一段视频里，一只老鼠正拖着半块比萨饼，慌慌张张地爬下台阶。</p>
+<p>一直以来，纽约的鼠患问题都很严重。一些网友甚至表示，纽约的老鼠比人还多，是这座城市的“不灭王者”。报道称，历任纽约市长都为“治鼠”操碎了心。</p>
+<p>新上任的纽约市长埃里克·亚当斯曾经在市长选举中，推出了一款“灭鼠神器”。据介绍，这款神器其实是一个水桶，它散发出的“食物香味”能吸引老鼠，并诱使其坠入桶中。而水桶里放置的是有毒物质和酸性液体的混合物，可以将老鼠溺死。</p>
+<p>纽约前市长比尔·德布拉西奥曾斥资数千万美元用于城市灭鼠，将指定街区的金属垃圾箱更换成铁制集装箱，还把居民楼地下室的废旧地板更换为混凝土地板。</p>
+<p>此外，纽约市政府还引进过“干冰灭鼠法”。在锁定鼠穴的出入口后，投入干冰，令老鼠窒息而亡。据报道，工作人员曾经在一次活动中展示了这种方法，但在场的记者表示，“现场只有工作人员在满场跑，一只老鼠也没有抓到。”</p>
+<p>老鼠不仅让人感到厌恶，还会引发公共卫生问题。</p>
+<p>据报道，2021年，纽约市至少有13人因患钩端螺旋体病而入院，其中一人不幸死亡。据了解，这种疾病属自然疫源性疾病，而鼠类正是其主要的传染源。</p>
+<p>对住在布鲁克林区的迪伦·维纳来说，纽约的鼠患问题就是个噩梦。“最近，我骑自行车的时候不小心撞到一只死老鼠，太可怕了。而且，我和朋友都注意到，最近，街上的老鼠变多了。”</p>
+<p>维纳告诉记者，自己来自伦敦，是一位“重度怕鼠患者”，“我不怕蛇，我也不怕虫子，但是我很怕老鼠。有时坐地铁，在轨道那能看到不少。还有平时，特别是看到它们从垃圾桶上冲下来时，真叫人紧张。”</p>
+<p>“有一次我正在散步，走着走着我感觉踩到了什么，我只看了一眼就尖叫着跑开了，”维纳一边回忆一边说，“我喊的声音非常大，但可能当时老鼠也在尖叫吧。说实话，这个声音太大了，我自己也分不清到底是我喊的还是老鼠叫的。”</p>
+                                <!-- 正文 end -->
+                
+                 <div class="blank0"></div>
+                <!-- 正文代码 -->
+<div class="blank0"></div>
+<style>
+.wzy_zw_img{ max-width:680px!important;}   
+</style>
+                 
+                        <!-- 文章附件 -->
+                        <div class="blank0"></div>
+                <div class="document_end">
+                                        <em><a>【纠错】</a>编辑：郭蔓</em>
+                </div>
+                
+                <!-- 正文代码 -->
+<div class="blank15"></div>
+<style>
+.wzy_zw_img_box{ width:680px; position:relative; overflow:hidden; margin-top:20px;}
+.wzy_zw_img{ max-width:680px!important;margin-top:20px;} 
+a.wzy_zw_imga{ height:130px; width:320px; position:absolute; left:0; top:0; display:block;}  
+</style>
+                
+            </div>
+
+            
+            <div class="jcwsy_content_left_nav">
+                <div class="nav_title">相关新闻</div>   
+            </div>
+            <ul class="list_erect" id="document_news_list">
+                                    <li><a href="http://news.cnhubei.com/content/2022-05/09/content_14731828.html" class="f14px">“看过世界的老师，才能把世界教给学生”</a></li>
+                                    <li><a href="http://news.cnhubei.com/content/2022-05/09/content_14731827.html" class="f14px">女子洗发后未吹干骑车成面瘫，右眼无法闭合</a></li>
+                                    <li><a href="http://news.cnhubei.com/content/2022-05/09/content_14731829.html" class="f14px">罕见！云南发现近危级珍稀植物水晶兰 精致小巧</a></li>
+                                    <li><a href="http://news.cnhubei.com/content/2022-05/09/content_14731830.html" class="f14px">拉美过早放松引疫情反复 专家呼吁加强防控</a></li>
+                                    <li><a href="http://news.cnhubei.com/content/2022-05/09/content_14731836.html" class="f14px">欧盟内部就对俄新一轮制裁仍存分歧</a></li>
+                            </ul>
+            <div class="blank0" style="height:20px;"></div>
+            <div class="jcwsy_content_left_nav">
+                <div class="nav_title">编辑推荐</div>
+            </div>
+            <div class="jcwsy_content_zw">
+            <div class="news_list_box">
+            <a href="http://news.cnhubei.com/content/2023-01/09/content_15368650.html"><img src="http://img.yun.cnhubei.com/a/10001/202301/c2e4768fcdd40aac0eb6605299e2f38d.jpg" alt="武汉警营开放日吸引数千市民参观"></a>
+            <div class="news_list_box_right">
+		                <div class="title"><a href="http://news.cnhubei.com/content/2023-01/09/content_15368650.html" title="武汉警营开放日吸引数千市民参观">武汉警营开放日吸引数千市民参观</a></div>
+                <div class="time"><span>2023-01-09 07:36:02</span></div>
+            </div>    
+        </div>
+            <div class="news_list_box">
+            <a href="http://news.cnhubei.com/content/2023-01/09/content_15368428.html"><img src="http://img.yun.cnhubei.com/a/10001/202301/1cc141a0e83530f9485cb18962c42fbb.jpeg" alt="百年古井见证望洲坪沧桑演变"></a>
+            <div class="news_list_box_right">
+		                <div class="title"><a href="http://news.cnhubei.com/content/2023-01/09/content_15368428.html" title="百年古井见证望洲坪沧桑演变">百年古井见证望洲坪沧桑演变</a></div>
+                <div class="time"><span>2023-01-09 07:49:01</span></div>
+            </div>    
+        </div>
+            <div class="news_list_box">
+            <a href="http://news.cnhubei.com/content/2023-01/08/content_15368096.html"><img src="http://img.yun.cnhubei.com/a/10001/202301/f270c07021072da30b20c1e0493a8f19.jpeg" alt="湖北评出50个“最美口袋公园”"></a>
+            <div class="news_list_box_right">
+		                <div class="title"><a href="http://news.cnhubei.com/content/2023-01/08/content_15368096.html" title="湖北评出50个“最美口袋公园”">湖北评出50个“最美口袋公园”</a></div>
+                <div class="time"><span>2023-01-08 21:37:31</span></div>
+            </div>    
+        </div>
+            <div class="news_list_box">
+            <a href="http://news.cnhubei.com/content/2023-01/08/content_15368154.html"><img src="http://img.yun.cnhubei.com/a/10001/202301/ec482d4bdecaa21a2e7375a26debe691.jpeg" alt="超市年宵花俏销"></a>
+            <div class="news_list_box_right">
+		                <div class="title"><a href="http://news.cnhubei.com/content/2023-01/08/content_15368154.html" title="超市年宵花俏销">超市年宵花俏销</a></div>
+                <div class="time"><span>2023-01-08 22:06:12</span></div>
+            </div>    
+        </div>
+            <div class="news_list_box">
+            <a href="http://news.cnhubei.com/content/2023-01/08/content_15368046.html"><img src="http://img.yun.cnhubei.com/a/10001/202301/4dff5bd55ecec29a924a0906fb1ed027.jpeg" alt="路特斯全球总部智造中心封顶"></a>
+            <div class="news_list_box_right">
+		                <div class="title"><a href="http://news.cnhubei.com/content/2023-01/08/content_15368046.html" title="路特斯全球总部智造中心封顶">路特斯全球总部智造中心封顶</a></div>
+                <div class="time"><span>2023-01-08 21:08:04</span></div>
+            </div>    
+        </div>
+    </div>
+
+        </div>
+
+        <div class="article_right_box">
+            <div class="blank0"></div>
+            	<style>
+    .jcwlist_rihgt_pic{ width:300px; height:167px;}
+	.jcwlist_rihgt_pic a{
+	    display:block; position:absolute; top:0; left:0;
+	}
+	.jcwlist_rihgt_pic:after {
+	    top: 0;
+		left:0;
+	    content: '';
+	    position: absolute;
+	    z-index: 100;
+	    width: 100%;
+	    height: 100%;
+	    opacity: 0.6;
+	    box-shadow: 0 -50px 28px 0px #333 inset;
+		z-index:1
+	}
+	.jcwlist_rihgt_pic img{ width:300px; height:167px;}
+	.jcwlist_rihgt_pic h2{text-align:center;position:absolute;left:0;bottom:6px;width: calc(100% - 12px);padding: 0 6px;color:#FFF;font-size:16px;z-index:2;overflow:hidden;text-align: justify;}    
+    
+</style>
+<div class="right_pic_list">
+	<div class="nav_box"><a href="">精彩图片</a></div>
+		<div class="jcwlist_rihgt_pic">
+
+		<a href='http://news.cnhubei.com/content/2023-01/09/content_15368480.html'><img src="http://img.yun.cnhubei.com/a/10001/202301/8321c92a8586a14f0267ced6630a01e2.jpeg" alt='武铁8列智能复兴号高铁跑春运 商务座一人一舱' title='武铁8列智能复兴号高铁跑春运 商务座一人一舱' />
+		<h2>武铁8列智能复兴号高铁跑春运 商务座一人一舱</h2></a>
+	</div>
+		<div class="jcwlist_rihgt_pic">
+
+		<a href='http://news.cnhubei.com/content/2023-01/09/content_15368608.html'><img src="http://img.yun.cnhubei.com/a/10001/202301/9bbf620fb71d79431d146553982d4b01.jpeg" alt='光谷空轨全线“轨通”' title='光谷空轨全线“轨通”' />
+		<h2>光谷空轨全线“轨通”</h2></a>
+	</div>
+		<div class="jcwlist_rihgt_pic">
+
+		<a href='http://news.cnhubei.com/content/2023-01/09/content_15368636.html'><img src="http://img.yun.cnhubei.com/a/10001/202301/a2f490224ccf6378a7f98f2882e457ac.jpeg" alt='西陵庙会年味浓' title='西陵庙会年味浓' />
+		<h2>西陵庙会年味浓</h2></a>
+	</div>
+	</div>
+               <div class="blank10"></div>
+ <style type="text/css" media="all">
+   	.right_pic_list ul li {
+   		display: flex;
+   		height: auto;
+   		line-height: 1.2;
+   		background: url(http://news.cnhubei.com/images/jcwzx_ulli.jpg) left center no-repeat;
+   		text-indent: 0;
+		white-space: normal;
+		padding: 10px 0 10px 12px;
+		border-bottom: 1px solid #8e8e8e33;
+}
+.yq_pic_box{
+    margin-top: -8px;
+}
+ </style>
+ <div class="right_pic_list">
+  <div class="nav_box"><a href="http://bbs.cnhubei.com/special.php?mod=msrx">网络问政</a></div>
+  <div class="blank15"></div>  
+  <div class="yq_pic_box">
+
+  <ul class="list_erect">
+        <li><a href='http://news.cnhubei.com/content/2023-01/04/content_15357386.html' title='东西湖区新桥五路 已列入区政府投资项目计划'>东西湖区新桥五路 已列入区政府投资项目计划</a></li>
+        <li><a href='http://www.cnhubei.com/content/2022-12/06/content_15297692.html' title='找群众商量！胡家营镇让小蚕桑织出大产业'>找群众商量！胡家营镇让小蚕桑织出大产业</a></li>
+        <li><a href='http://www.cnhubei.com/dhgd/p/15327800.html' title='党旗引领小微企业，激活发展“一池春水”'>党旗引领小微企业，激活发展“一池春水”</a></li>
+        <li><a href='http://www.cnhubei.com/content/2022-12/01/content_15289172.html' title='共建共管 泉口街探索"三无小区"治理新路'>共建共管 泉口街探索"三无小区"治理新路</a></li>
+      </ul>    
+ </div>
+              
+<!-- 
+ <div class="blank1"></div>
+<div class="right_pic_list">
+  <div class="nav_box"><a href="http://yq.cnhubei.com/">舆情观察</a></div>
+  <div class="blank15"></div>    
+  <div class="yq_pic_box">
+      
+  </div>   
+  <div class="blank6"></div>   
+  <ul class="list_erect">
+      </ul> 
+ </div>
+ 
+ -->        </div>
     </div>
 </div>
+<!-- 文章页主体 end -->
 
-<div class="bodyBox">
-<div class="leftBox">
-<div id="articleBody" class="articleBody">
-<div id="vf">
-<div id="videoarea" style="width: 480px; height: 360px;"></div>
+<div class="blank0"></div>
+
+<!-- 文章页底部  -->
+    <div class="lmy_bottom_div" id="lmy_bottom_div01">
+ <div class="blank0"></div>
+ <div class="w1140 lmy_bottom_box">
+  <p>Copyright © 2001-2021 湖北荆楚网络科技股份有限公司 All Rights Reserved</p>
+<p class="cWhite"><a ignoreapd="1" target="_blank" href="//www.cnhubei.com/about/">营业执照</a> － <a ignoreapd="1" target="_blank" href="//www.cnhubei.com/about/">增值电信业务许可证</a> － <!--<a href=//www.cnhubei.com/gg/website/jczxqyfl20031205.htm target=_blank ignoreapd=1 class=cWhite>广告经营许可证</a> － --><a ignoreapd="1" target="_blank" href="//www.cnhubei.com/about/">互联网出版机构</a> － <a ignoreapd="1" target="_blank" href="//www.cnhubei.com/about/">网络视听节目许可证</a> － <a ignoreapd="1" target="_blank" href="//www.cnhubei.com/about/">广播电视节目许可证</a></p>
+
+  <p class="cWhite"><a ignoreapd="1" target="_blank" href="//www.cnhubei.com/about/">关于我们</a> - <a ignoreapd="1" target="_blank" href="//www.cnhubei.com/about/">版权声明</a> - <a target="_blank" ignoreapd="1" style="color:#F00" href="//www.cnhubei.com/2018ggfw/ggfw_sy.html">广告服务</a></p> 
+  <p>版权为 荆楚网 www.cnhubei.com 所有 未经同意不得复制或镜像 </p>  
+ </div>
 </div>
-
-<!--enpcontent--><p style="text-indent: 2em; margin-bottom: 15px;">美国政府近日宣布将于3月28日至29日在华盛顿举办“美国—东盟特别峰会”，但东盟国家响应者寥寥。据泰国《曼谷邮报》8日报道，白宫单方面宣布峰会日期让有关人士颇为懊恼。在此之前，东盟国家领导人提议了几个日期，被美方一再更改。“几乎可以肯定的是，如果美国宣布的日期不变，有一半的东盟国家领导人将无法出席。”东盟2022年轮值主席国柬埔寨首相洪森7日表示，他希望东盟和美国官员进行协调，重新确定合适的峰会时间，“如果就峰会日期达不成一致，我将要求峰会延期”。</p><p style="text-indent: 2em; margin-bottom: 15px;">据路透社等媒体报道，白宫新闻秘书普萨基2月28日宣布了拜登政府将举办“美国—东盟特别峰会”的消息，并称这将是一次“历史性”会议，拜登政府的首要任务是“成为一个强大、可靠的合作伙伴，并巩固自信和统一的东盟，以应对这个时代的挑战”。3月3日，越南外交部发言人证实，越南总理范明政预计将赴美出席这一峰会。</p><p style="text-indent: 2em; margin-bottom: 15px;">“在几次日程变动后，东盟国家领导人对在华盛顿与拜登会晤的峰会提议感到恼火。”《曼谷时报》8日的报道称，半数东盟国家领导人对美国不满，因为他们提出了几个日期给拜登团队考虑，但美方一直在改变时间表。“焦虑逐渐累积起来，东盟一些国家领导人觉得，也许取消特别峰会更好。”“察觉到不满情绪后，拜登以个人名义致信所有东盟国家领导人，证实峰会仍将举行。”报道称，10天后，白宫单方面宣布，第二次美国—东盟特别峰会将于3月28日至29日举行，这让有关人士颇为懊恼。“如果华盛顿拒绝接受新提议的3月26日至27日，一些东盟国家领导人将缺席华盛顿峰会。”</p><p style="text-indent: 2em; margin-bottom: 15px;">新加坡《海峡时报》8日报道称，东盟轮值主席国柬埔寨要求美国发起的美国—东盟特别峰会延期，因为东盟成员国尚未就峰会时间完全达成一致。洪森7日在出席活动时表示，美国宣布了峰会日期，但目前担任东盟—美国关系协调国的印尼尚未就峰会计划与其他成员国协调。洪森提到，一些东盟国家领导人希望峰会在26日至27日举行，但美国方面表示这个日期对美方不可行；与此同时，至少3个东盟成员国说，如果在28日至29日举行峰会，他们不会参加。不过据《曼谷邮报》称，泰国方面坚持，巴育总理在3月26日至27日必须参加在斯里兰卡举行的“环孟加拉湾多领域技术和经济合作倡议”会议。泰国总理必须亲自到场，因为曼谷将把接力棒移交给该组织的下一任主席。</p><p style="text-indent: 2em; margin-bottom: 15px;">拜登政府擅定与东盟的峰会日期，让媒体“怀念”起美国前总统奥巴马。《曼谷邮报》称，2016年2月，第一次东盟—美国特别峰会在加州举行。时任美国总统奥巴马非常了解东盟各国领导人的处境，他们很快就日期达成了一致。《金边邮报》8日称，美国与东盟关系在奥巴马时期保持热络，但在特朗普时期出现下滑，特朗普在任期结束前本来计划邀请东盟国家领导人一起访美，但由于新冠疫情而取消。拜登上台后希望改善与东盟关系，今年1月，拜登致信洪森，称其希望通过召开美国—东盟特别峰会加强与东盟国家的合作。</p><p style="text-indent: 2em; margin-bottom: 15px;">美国“外交学者”网站近日发文称，此次峰会是拜登政府接触东南亚的一个重要里程碑。美国认为，东南亚是对抗中国在亚洲日益增长影响力的核心地区。但症结在于，美国虽然在“印太战略”中强调东南亚的中心地位，但实际行动往往与此不符。 特别是，华盛顿在东南亚地区缺乏明确的贸易和经济议程，给人的印象是，美国的政策更多地侧重于指出这些国家与中国建立更紧密伙伴关系的负面影响，而不是展示与美国建立更紧密伙伴关系的好处。“美国之音”8日称，在全球聚焦俄乌冲突之际，这场峰会引发各界关注。美国白宫国家安全委员会印太事务协调员坎贝尔2月28日出席一场智库活动时强调，尽管乌克兰出现危机，但印太依旧是美国政府关注的焦点。</p><p style="text-indent: 2em; margin-bottom: 15px;">《曼谷时报》8日称，东盟能否与美国构建“更加团结”的关系，取决于特别峰会的结果。双方都有意愿向世界展示他们的关系“坚如磐石”。但在当前高压的战略环境下，双方必须找到共同立场和中间立场。预计峰会将讨论缅甸、南海、朝鲜半岛等地区问题，及疫情后的经济复苏、技术和创新、气候危机等全球性问题。“但随着乌克兰危机的爆发，一些东盟国家担忧，俄罗斯和乌克兰议题可能会绑架此次峰会。”</p><p style="text-indent: 2em; margin-bottom: 15px;">乌克兰战事发生后，美国施压全球各国谴责俄罗斯，东盟也受到了压力。但东盟发表的声明仅呼吁各方停火，没有谴责俄罗斯，泰国、菲律宾、马来西亚等多国都表示中立。《曼谷邮报》8日称，考虑到当前的地缘政治环境，此时与东盟举办峰会对华盛顿来说是一件好事。“此次峰会不会是免费的午餐。这将是美国和东盟就世界问题表态的一个大杂烩，尤其是在东西方关系面临严重压力的时刻。最重要的是，这将影响到当前的国际秩序，而作为一个拥有自身固有架构的区域组织，东盟需要关注这一秩序。否则，这10个成员国可能会成为超级大国博弈的棋子。”</p><!--/enpcontent--><!--enpproperty <articleid>78097414</articleid><date>2022-03-09 09:49:49:243</date><author>辛斌 于文</author><title>泰媒：美国擅定与东盟峰会日期令东盟国家恼火，半数可能缺席</title><keyword>东盟,美国,峰会,国家,拜登</keyword><subtitle></subtitle><introtitle></introtitle><siteid>1000</siteid><nodeid>8005631</nodeid><nodename>2018新闻库</nodename><nodesearchname>2018新闻库</nodesearchname><picurl></picurl><picbig></picbig><picmiddle></picmiddle><picsmall></picsmall><url>http://news.china.com.cn/2022-03/09/content_78097414.htm</url><urlpad>null</urlpad><liability>李高思</liability><sourcename>环球时报</sourcename><abstract></abstract><channel>1</channel>/enpproperty--></div>
-
-<div style="padding-top:20px; line-height:48px;">
-<div style="float:left"><img src="http://images.china.cn/images1/ch/2016first/161021-02.jpg" width="50" height="48" /></div>
-
-<div style="float:left; padding-left:5px;"><a href="http://app.china.com.cn" target="_blank" style="line-height:48px;">客户端中查看</a></div>
-
-<div style="float:left; padding-left:30px;"><img src="http://images.china.cn/images1/ch/2016first/161021-03.jpg" width="50" height="48" /></div>
-
-<div style="float:left; padding-left:5px;"><a href="http://m.china.com.cn" target="_blank">手机中查看</a></div>
-</div>
-
-<div style="clear:both; height:10px; width:100%;">&#160;</div>
-
-<div id="articleKeywords" class="articleKeywords"><span>关键词：</span></div>
-
-<div class="articleEditor">责任编辑：李高思</div>
-
-<div id="bottomShare" class="bottomShare jiathis_style_24x24"><div class="bshare-custom">
-        <b>分享到：</b> <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
-        <a title="分享到微信" class="bshare-weixin"></a>
-        <a title="分享到Facebook" class="bshare-facebook"></a>
-        <a title="分享到Twitter" class="bshare-twitter"></a>
-        <a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
-    </div>
-</div>
-
-<div id="tsina" class="tsina"></div>
-
-
-
-<div><iframe id="newsPhotosIfr" src="http://news.china.com.cn/node_7240674.htm" width="700" height="280" scrolling="no" marginheight="0" frameborder="0"></iframe>
-</div>
-
-<div id="articleRelevant" class="articleRelevant">
-<h2><span>相关新闻</span></h2>
-
-<button id="relevantMore" class="relevantMore">加载更多新闻</button></div>
-</div>
-
-<div class="rightBox"><iframe id="Rightifr" src="http://news.china.com.cn/node_8025550.htm" width="330" height="2400" scrolling="no" marginheight="0" frameborder="0"></iframe>
-</div>
-</div>
-
-<div class="footer">
-<p><a href="http://www.china.com.cn/aboutus/node_7219999.htm">关于我们</a>&#160;|&#160;<a href="http://union.china.com.cn/node_1002559.html">外宣服务与广告服务</a>&#160;|&#160;
-                违法和不良信息举报电话：010-88828271 <a href="http://www.china.com.cn/aboutus/2020-11/09/content_76891272.htm">举报流程</a></p>
-
-<p>版权所有 中国互联网新闻中心 电子邮件: news@china.org.cn 电话: 86-10-88828000 <a href="https://beian.miit.gov.cn/">京ICP证 040089号-1</a> 网络传播视听节目许可证号:0105123</p>
-</div>
-
-<div id="ciic_wza" style="position:fixed;right:0;top:50%;transform:translate(0,-50%);width:30px;background:#333;color:#fff;padding:10px;font:20px/30px sans-serif;text-align:center;">
-        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="wheelchair" class="svg-inline--fa fa-wheelchair fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M496.101 385.669l14.227 28.663c3.929 7.915.697 17.516-7.218 21.445l-65.465 32.886c-16.049 7.967-35.556 1.194-43.189-15.055L331.679 320H192c-15.925 0-29.426-11.71-31.679-27.475C126.433 55.308 128.38 70.044 128 64c0-36.358 30.318-65.635 67.052-63.929 33.271 1.545 60.048 28.905 60.925 62.201.868 32.933-23.152 60.423-54.608 65.039l4.67 32.69H336c8.837 0 16 7.163 16 16v32c0 8.837-7.163 16-16 16H215.182l4.572 32H352a32 32 0 0 1 28.962 18.392L438.477 396.8l36.178-18.349c7.915-3.929 17.517-.697 21.446 7.218zM311.358 352h-24.506c-7.788 54.204-54.528 96-110.852 96-61.757 0-112-50.243-112-112 0-41.505 22.694-77.809 56.324-97.156-3.712-25.965-6.844-47.86-9.488-66.333C45.956 198.464 0 261.963 0 336c0 97.047 78.953 176 176 176 71.87 0 133.806-43.308 161.11-105.192L311.358 352z"></path></svg>
-    <a href="javascript:;" style="color:#fff; text-decoration:none;" target="_self" id="cniil_wza">网站无障碍</a>
-</div>
-
-<div id="webdig_source" style="display:none">环球时报
-</div>
-
-<script type="text/javascript" src="http://images.china.cn/images1/ch/2016content/js/index.js">
-</script>
-
-<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8">
-</script>
-
+<!-- Cmstop pv 统计代码，勿删 -->
 <script type="text/javascript">
-<!--
-document.write(unescape("%3Cscript src='http://cl2.webterren.com/webdig.js?z=12' type='text/javascript'%3E%3C/script%3E"));
--->
+    var shareVariable = {
+        sid: '10001',
+        aid: '1',
+        cid: '14731842',
+        suffix: '',
+        type: 'pc'
+    };
+    window.TJ = 'http://tj.yun.cnhubei.com/tj.gif';
+    (function() {
+        var unique = (function () {
+            var time= (new Date()).getTime()+'-', i=0;
+            return function () {
+                return time + (i++);
+            }
+        })();
+
+        var imgLog = function (url) {
+            var data = window['imgLogData'] || (window['imgLogData'] = {});
+            var img = new Image();
+            var uid = unique();
+            img.onload = img.onerror = function () {//销毁一些对象
+                img.onload = img.onerror = null;
+                img = null;
+                delete data[uid];
+            };
+            img.src = url + '&_uid=' + uid;
+        };
+        var src = window.TJ + '?sid=' + shareVariable.sid + '&cid=' + shareVariable.cid + '&aid=' + shareVariable.aid + '&type=' + shareVariable.type + '&url='+location.href;
+        imgLog(src);
+    })();
+</script><!-- 文章页底部 end -->
+
+<script type="text/javascript"src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//js/myAudio.js"></script>  
+<!-- 文章页公共区块 -->
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
 </script>
 
-<script type="text/javascript">
-<!--
-wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
--->
-</script>
 
-<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&uuid=13026250-7791-4729-a3ee-1aef53be1ad6&pophcol=2&lang=zh"></script>
-<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
-<script defer async type="text/javascript" src="http://images.china.cn/images1/resource/wza/assist.js"></script>
 </body>
 </html>
+
 

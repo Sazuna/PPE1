@@ -1,273 +1,146 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>﻿竹门日语/《饭戏攻心》\简嘉明 _大公网</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="Keywords" content="大公網" />
-<meta name="Description" content="大公网小公园" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
-<meta name="format-detection" content="telephone=no">
-<link href="http://r2d2.takungpao.com/cn/common/images/tkp.ico" rel="shortcut icon">
-<link type="text/css" rel="stylesheet" href="http://r2d2.takungpao.com/cn/common/css/head.css" />
-<link type="text/css" rel="stylesheet" href="http://r2d2.takungpao.com/cn/lib/mediaelement/mediaelementplayer.css" />
-<link type="text/css" rel="stylesheet" href="http://r2d2.takungpao.com/cn/common/css/content.css" />
-<script type="text/javascript" src="http://r2d2.takungpao.com/cn/lib/jquery/jquery-1.9.1.min.js"></script>
-<!--[if lt IE 9]>
-    <script src="http://r2d2.takungpao.com/cn/lib/ie/html5.js"></script>
-<![endif]-->
-<!--[if IE 6]>
-    <script src="http://r2d2.takungpao.com/cn/lib/ie/ie6-png.js"></script>
-    <script>DD_belatedPNG.fix('div, ul, li, p, a, h3, img, span, b, dd');</script>
-<![endif]-->
-<script>
-window.tkp_aid=767488;window.tkp_at=1;
-</script>
-</head>
-<body>
-<!--ad_1200_100-->
-<div class="ad_1200_100 ad-wrapper" id="ad1"><a href="#" target="_blank"></a></div>
-<!--/ad_1200_100-->
-<!--头部-->
-<div class="header_wrap">
-    <div class="header">
-        <div class="head clearfix">
-            <h1 class="logo"><a href="http://www.takungpao.com/" title="大公网"><img src="http://r2d2.takungpao.com/cn/common/images/logo_tkp.png" alt="大公网" /></a></h1>
-            <div class="epaper"><a href="http://www.takungpao.com/paper/index.html" target="_blank" title="大公报电子版"><img src="http://r2d2.takungpao.com/cn/common/images/epaper.jpg" alt="大公报电子版" /></a></div>
-            <div class="search"><a href="http://search.takungpao.com/" target="_blank" class="btn" title="搜索">搜索</a></div>
-            <ul class="date">
-            	<li>
-                    <script type="text/javascript">
-                    (function(){
-                        var d = new Date();
-                        document.write(d.getFullYear() + "年" + (d.getMonth()+1) + "月" + d.getDate() + "日 星期" + "日一二三四五六".charAt(d.getDay()));
-                    })();
-                    </script>
-                </li>
-            	<li class="link">
-                    <a href="http://www.takungpao.com/corp/about.html" target="_blank">关于大公网</a><span>|</span>
-                    <em class="setWebLangue"><a href="http://www.takungpao.com.hk/index.html" target="_blank">香港站</a></em>
-                </li>
-            </ul>
-            
-            <ul class="menu_mobile">
-                <li class="btn_open_menu"></li>
-                <li class="btn_close_menu"></li>
-                <li class="paper"><a href="http://s.takungpao.com/paper/bz.html" target="_blank" title="数字报">数字报</a></li>
-            </ul>
-        </div>
-        <!--导航20-->
-        <div class="nav_wrap">
-            <ul class="nav_mobile clearfix">
-                <li><a href="http://passport.takungpao.com/?link=takung" class="login" title="登录">登录</a></li>
-                <li><a href="http://search.takungpao.com/" target="_blank" class="search" title="搜索">搜索</a></li>
-                <li class="setWebLangue"><a href="http://www.takungpao.com.hk/index.html" target="_blank" class="fanti" title="香港站">香港站</a></li>
-            </ul>
-            <ul class="nav_list clearfix">
-                <li class="item hide"><a href="#" target="_blank" class="link" title="大公报">大公报</a></li>
-                <li class="item">
-                    <a href="http://www.takungpao.com/news/index.html" target="_blank" class="link" title="新闻">新闻</a>
-                    <!--新闻-->
-                    <div class="subnav">
-                        <ul class="list clearfix">
-                       		<li><a href="http://www.takungpao.com/news/232108/index.html" target="_blank">内地</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/news/232109/index.html" target="_blank">港闻</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/news/232110/index.html" target="_blank">两岸</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/news/232111/index.html" target="_blank">国际</a></li>
-                            <li class="line">/</li>
-							<li><a href="http://www.takungpao.com/news/232112/index.html" target="_blank">军事</a></li>
-						    <li class="line">/</li>
-							<li><a href="http://www.takungpao.com/news/232113/index.html" target="_blank">大公访谈</a></li>
-                        </ul>
-                    </div>
-                    <!--/新闻-->
-                </li>
-                <li class="item">
-                    <a href="http://www.takungpao.com/opinion/index.html" target="_blank" class="link" title="评论">评论</a>
-                    <!--评论-->
-                    <div class="subnav">
-                        <ul class="list clearfix">
-                            <li><a href="http://www.takungpao.com/opinion/233114/index.html" target="_blank">社评</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/opinion/233115/index.html" target="_blank">北京观察</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/opinion/233116/index.html" target="_blank">隔海观澜</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/opinion/233117/index.html" target="_blank">纵横谈</a></li>
-                            <li class="line">/</li>
-							<li><a href="http://www.takungpao.com/opinion/233161/index.html" target="_blank">点击香江</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/opinion/233123/index.html" target="_blank">公评世界</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/opinion/233119/index.html" target="_blank">大公评论</a></li>
-							<li class="line">/</li>
-							<li><a href="http://www.takungpao.com/opinion/233124/index.html" target="_blank">妍之有理</a></li>
-                        </ul>
-                    </div>
-                    <!--/评论-->
-                </li>
-                <li class="item">
-                    <a href="http://www.takungpao.com/lens/index.html" target="_blank" class="link" title="视频">视频</a>      
-                    <!--影像-->
-                    <div class="subnav">
-                        <ul class="list clearfix">
-                            <li><a href="http://www.takungpao.com/lens/235128/index.html" target="_blank">大公视频</a></li>
-                            <li class="line">/</li>
-							<li><a href="http://www.takungpao.com/lens/235123/index.html" target="_blank">图片</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/lens/235131/index.html" target="_blank">艾问人物</a></li>
-                        </ul>
-                    </div>
-                    <!--/影像-->
-                </li>
-                <li class="item">
-					<a href="http://www.takungpao.com/finance/index.html" target="_blank" class="link" title="财经">财经</a> 
-                    <!--财经-->
-                    <div class="subnav">
-                        <ul class="list clearfix">
-							<li><a href="http://www.baufortune.com" target="_blank">紫荆财智</a></li>
-							<li class="line">/</li>
-							<li><a href="http://www.takungpao.com/house/index.html" target="_blank">房产</a></li>
-							<li class="line">/</li>
-							<li><a href="http://www.takungpao.com/consume/index.html" target="_blank">快消</a></li>
-							<li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/finance/236134/index.html" target="_blank">经济观察家</a></li>
-							<li class="line">/</li>
-							<li><a href="http://www.takungpao.com/finance/236161/index.html" target="_blank">田湾点经</a></li>
-                            <li class="line">/</li>
-							<li><a href="http://www.takungpao.com/travel/index.html" target="_blank">大公文旅</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/finance/236135/index.html" target="_blank">港股</a></li>
-                            <li class="line">/</li>
-							<li><a href="http://www.takungpao.com/finance/236137/index.html" target="_blank">商业</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://auto.takungpao.com/" target="_blank">汽车</a></li>
-                        </ul>
-                    </div>
-                    <!--/财经-->
-                </li>
-                <li class="item">
-                    <a href="http://www.takungpao.com/culture/index.html" target="_blank" class="link" title="艺文">艺文</a>      
-                    <!--文化-->
-                    <div class="subnav">
-                        <ul class="list clearfix">
-                            <li><a href="http://www.takungpao.com/culture/237140/index.html" target="_blank">大公园</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/culture/237141/index.html" target="_blank">小公园</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/culture/237144/index.html" target="_blank">艺术赏析</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/culture/237146/index.html" target="_blank">有料历史</a></li>
-                            <li class="line">/</li>
-                            <li><a href="http://www.takungpao.com/culture/237142/index.html" target="_blank">大公故事</a></li>
-							<li class="line">/</li>
-							<li><a href="http://www.takungpao.com/life/238151/index.html" target="_blank">养生堂</a></li>
-                        </ul>
-                    </div>
-                    <!--/文化-->
-                </li>
-                <li class="item">
-                <a href="http://event.takungpao.com/special/index.html" target="_blank" class="link" title="专题">专题</a>
-                </li>
-                <li class="mobile_more">更多</li>
-            	<li class="mobile_slideup">收起</li>
-            </ul>
-        </div>
-        <!--/导航-->
-    </div>
-</div>
-<!--/头部--><div class="article_path">
-	<div class="path">
-	<a href="http://www.takungpao.com/" target="_blank">首页</a> > <a href="http://www.takungpao.com/culture/index.html" target="_blank">艺文</a> > <a href="http://www.takungpao.com/culture/237141/index.html" target="_blank">小公园</a> > 正文	</div>
-</div>
-<!--包裹开始-->
-<div class="wrapper clearfix">
-	<!--左侧-->
-    <div class="wrap_left">
-		    	<h2 class="tkp_con_title">﻿竹门日语/《饭戏攻心》\简嘉明</h2>
-		        <div class="tkp_con_info">
-            <div class="tkp_con_author"><span>2022-09-22 04:24:39</span><span>大公报</span> </div>
-            <dl class="tkp_con_fontsize">
-            	<dt>字号</dt>
-                <dd onClick="$('.tkp_content,.tkp_con_author').addClass('zoom')">放大</dd>
-                <dd onClick="$('.tkp_content,.tkp_con_author').removeClass('zoom')">标准</dd>
-            </dl>
-        </div>
-        <div class="tkp_con_share bdsharebuttonbox clearfix">
-        	<span>分享</span>
-            <a href="javascript:void(0);" class="ico_weixin" data-cmd="weixin" title="分享到微信"></a> 
-            <a href="javascript:void(0);" class="ico_weibo" data-cmd="tsina" title="分享到微博"></a>
-            <a href="javascript:void(0);" class="ico_facebook" target="_blank" title="分享到facebook"></a>
-            <a href="javascript:void(0);" class="ico_twitter" target="_blank" title="分享到twitter"></a>
-        </div>
-        <div class="tkp_content">
-            <p></p><p>　　忘了多久没进戏院看港产电影，总觉得现在戏票不便宜，而且网络上已有数不尽的合法电影片源，故此若非大制作或有我的偶像班尼迪甘巴贝治演出的电影，实在难以让我动心，愿意花金钱和时间专程前往捧场。</p><p>　　月初数名好友建议相约去看黄子华主演的港产电影《饭戏攻心》，一来她们看过宣传短片，觉得惹笑吸引；二来也想借此支持港产电影票房；三来可以安排一个轻松的节目，让近来心情不大好的我出外散散心（虽然没明言，但我明白她们的心意）。万料不到，那电影竟然有本事让我从头笑到底，而且内容挺有意思，既集合了亲情、爱情、梦想与现实的矛盾、如何面对人生中的遗憾等元素，演员黄子华、王菀之、陈湛文及“大马女神”林明祯等也确是搞笑能手，调子看似胡闹，剧本却蕴藏深意，像港人爱吃的火锅，表面是肉类、海鲜与蔬菜的大杂烩，但在烧开的汤底中共冶一炉，竟能成为美味丰富又能让人大快朵颐的一餐。</p><p>　　故事内容不详述了，留待读者自行欣赏，不过很想谈谈电影中一个很重要的场景：家人齐齐整整一起吃晚饭。主角非常重视住在同一屋簷下的三兄弟无论多忙碌，也要抽空带同各自的女友回家吃“住家饭”。寻常的日子、大时大节、有特别事情宣布或商讨，甚至误会纷争，也在进餐时解决。一家人会在吃饭时谈笑聊天、彼此鼓励、互相挖苦，也曾在晚餐时大打出手，但最后都在用膳时冰释前嫌，团圆结局。这样的构思，无疑在疫情中很容易引起本地观众的共鸣，毕竟人人都知道，现在能与家人健康平安地聚首吃一顿家常便饭，已非必然可得的幸福，就算进餐过程不如电影情节般惹笑精彩，也值得感恩。看完电影，我在笑声中抒发过内心的愁绪，还想到日后要更珍惜与家人围坐吃饭的机会，真心觉得那次观影已值回票价，甚至有超出预期的收获。</p>		</div>
-                        <div class="ad_660_75 ad-wrapper" id="ad2"><a href="#" target="_blank"></a></div>
-                <!--相关内容-->
-						<!--/相关内容-->
-        
-		<div id="tkpcomment"></div>
-        
-        
-        <div class="ad_660_75 ad-wrapper" id="ad3"><a href="#" target="_blank"></a></div>
-    </div>
-    <!--/左侧-->
+<!DOCTYPE html><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="bizStatistics" data-biz-id="10009" data-module-id="page" data-view-id="120999" />
+	<title>新版终极页_17173.com中国游戏门户站</title>
+<!--globalHeadBegin-->
 
-	<!--右侧-->
-    <div class="wrap_right">
-		<div class="ad_360_200 ad-wrapper" id="ad4"><a href="#" target="_blank"></a></div>
-        
 
-        <!--点击排行-->
-        <h3 class="h3_title"><em class="ico"></em>点击排行</h3>
-        <div class="paihang">
-			 <ol class="list"><li><a href="http://www.takungpao.com/news/232109/2023/0109/806456.html" target="_blank" title="李家超：下一步目标是在短时间内实现全面通关">李家超：下一步目标是在短时间内实现全面通关</a></li><li><a href="http://www.takungpao.com/news/232109/2023/0109/806490.html" target="_blank" title="﻿陈日君现身机场">﻿陈日君现身机场</a></li><li><a href="http://www.takungpao.com/news/232110/2023/0109/806582.html" target="_blank" title="﻿隔海观澜/两岸“通关”挡不住 民进党应顺应民意\朱穗怡">﻿隔海观澜/两岸“通关”挡不住 民进党应顺应民意\朱穗怡</a></li><li><a href="http://www.takungpao.com/news/232111/2023/0109/806640.html" target="_blank" title="﻿36小时停火令结束 俄乌续交战">﻿36小时停火令结束 俄乌续交战</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0109/806668.html" target="_blank" title="﻿广东/星洲返深旅客：入境很顺利">﻿广东/星洲返深旅客：入境很顺利</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0109/806688.html" target="_blank" title="﻿国门重开 同胞欢呼：终于回国了">﻿国门重开 同胞欢呼：终于回国了</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0109/806696.html" target="_blank" title="﻿中老铁路货运迎高峰 首批“洋年货”入境">﻿中老铁路货运迎高峰 首批“洋年货”入境</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0109/806698.html" target="_blank" title="﻿越南小吃“屈头蛋”重现边城">﻿越南小吃“屈头蛋”重现边城</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0109/806703.html" target="_blank" title="﻿中国成亚洲高价值供应链中心">﻿中国成亚洲高价值供应链中心</a></li><li><a href="http://www.takungpao.com/news/232108/2023/0109/806710.html" target="_blank" title="﻿江西大车祸 19死20伤">﻿江西大车祸 19死20伤</a></li></ol>
-		</div>
-        <!--/点击排行-->
-        <div class="ad_360_200 ad-wrapper" id="ad5"><a href="#" target="_blank"></a></div>
-        <div class="ad_360_200 ad-wrapper" id="ad6"><a href="#" target="_blank"></a></div>
-    </div>
-    <!--/右侧-->
-</div>
-<!--包裹结束-->
-<span id="hits" style="display:none;"><script language="JavaScript" src="http://hkapi.takungpao.com/api.php?op=count&id=767488&modelid=1"></script></span>
-<!--底部-->
-<div class="copyright_wrap">
-	<div class="copyright_top">
-		<a href="http://www.takungpao.com/corp/about.html" target="_blank">关于大公网</a>
-        <a href="http://www.takungpao.com/corp/statement.html" target="_blank">法律声明</a>
-        <a href="http://www.takungpao.com/corp/advertising.html" target="_blank">广告服务</a>
-        <a href="http://www.takungpao.com/corp/connect.html" target="_blank">联络我们</a>
-    </div>
-	<div class="copyright_bot">
-    	<span>Copyright © 2021 Takungpao <em>All Rights Reserved</em></span>
-    	<a href="http://www.miibeian.gov.cn" target="_blank">京ICP备13049349号</a>
-    	<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502037337" target="_blank"><img src="http://r2d2.takungpao.com/cn/common/images/ghs.png" />京公网安备11010502037337号</a>
-    </div>
-</div>
-<!--/底部-->
-<div id="tipback" title="返回顶部"></div>
-<script type="text/javascript" src="http://r2d2.takungpao.com/cn/common/js/header.js"></script>
-<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
-<script type="text/javascript" src="http://r2d2.takungpao.com/cn/lib/mediaelement/mediaelement-and-player.min.js"></script>
-<script type="text/javascript" src="http://r2d2.takungpao.com/cn/common/js/content.js?t=20220801"></script>
-<script>
-$(function(){
-	//视频播放
-	try{
-		$('video').mediaelementplayer();
-	}
-	catch(err){
-		console.log(err);
-	}
+
+
+
+
+
+<link rel="dns-prefetch" href="//ue.17173cdn.com/" />
+<link type="image/x-icon" rel="icon" href="//ue.17173cdn.com/images/lib/v1/favicon-hd.ico" />
+<link type="image/x-icon" rel="shortcut icon" href="//ue.17173cdn.com/images/lib/v1/favicon.ico" />
+<script>window.pandora = {overOldPandora:true}</script>
+<script src="//ue.17173cdn.com/a/lib/slimemolds/production/js/bootstrap.js"></script>
+<script type="text/javascript">
+dsm.setConfig({
+  biEnable: true
 });
 </script>
-<script id="adjs" src="http://gg.takungpao.com/ad.js?id=300001"></script>
+
+
+
+  
+	<meta name="description" content="新版终极页,17173.com中国游戏门户站" />
+	<meta name="keywords" content="test" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="pagespec-version" content="page-v01" />
+	<link rel="stylesheet" href="//ue.17173cdn.com/a/lib/reset-2.2.css" />
+	<link href="//ue.17173cdn.com/a/lib/article/article-news-v2.css" rel="stylesheet" type="text/css" />
+	<link href="//ue.17173cdn.com/a/news/test/final/2021v3/css/index.css?v202205101812" rel="stylesheet" />
+	<script src="//ue.17173cdn.com/a/lib/jquery-1.11.1.min.js"></script>
+  
+
+
+<link href="//ue.17173cdn.com/cache/lib/v1/topnav-1.0/global-topbar.css?20120615" rel="stylesheet" type="text/css" id="css-gtp" />
+
+
+
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/vda/seed.js"></script>
+
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/v4/pandora2.js?t=202109141809"></script>
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/v5/sjs/sjs.js?t=202109131413"></script>
 <script>
-window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+  if(location.href === '//news.17173.com/tag/%E6%AC%A1%E4%B8%96%E4%BB%A3'){
+    location.href = '//news.17173.com/channel/csd/'
+  }
 </script>
-<script type="text/javascript" src="http://r2d2.takungpao.com/lib/tkp.js"></script>
-</body>
-</html>
+</head>
+<body class="page-type-index" data-bi="QNJNrm">
+<!-- -->
+
+	
+	<iframe src="//newgame.17173.com/info/20211116/crossls.shtml" frameborder="0" id="crosslsiframe" width="0" height="0" style="display: none; overflow: hidden;"></iframe>
+	<div class="gb-final-wrap">
+		<!-- 左侧 -->
+		<div class="gb-final-side">
+			<div class="gb-final-nav-main">
+				<a href="http://news.17173.com/" class="gb-final-nav-current">综合</a>
+				<a href="http://top.17173.com/" data-categoryids="262110" data-channelcode="90117">新游</a>
+				<a href="http://www.shouyou.com/" data-categoryids="263171,263515" data-channelcode="10009">手游</a>
+				<a href="http://news.17173.com/dalu/" data-categoryids="10019" data-channelcode="10009">大陆</a>
+				<a href="http://news.17173.com/quanqiu/" data-categoryids="10152,57184,52764,27060" data-channelcode="10009">全球</a>
+				<a href="https://newgame.17173.com/game-demolist.html?platform=pc" data-categoryids="203668" data-channelcode="90117">评测</a>
+			</div>
+			<div class="gb-final-news-list" data-mod="新闻列表"></div>
+			<div class="gb-final-float">
+				<a href="https://app.17173.com/#utm_source=news_kuai" target="_blank" class="gb-final-app-code">
+					<div class="ico-app"></div>
+					<div class="tit">下载APP</div>
+					<div class="code">
+						<img src="//ue.17173cdn.com/a/news/test/final/2021v3/img/173APP_NewsKuai.png" alt="下载APP" />
+					</div>
+				</a>
+				<a href="#comment" class="btn-goto-comment gb-final-bt-to-comment">
+					<i class="ico-cmt"></i>
+					<span class="comment-count" data-role="amount">0</span>
+				</a>
+			</div>
+		</div>
+		<!-- end 左侧 -->
+		<div class="gb-final-content">
+			<!-- 正文 -->
+			<div class="gb-final-main">
+				<div class="gb-final-mod-crumbs"></div>
+				<div id="article"></div>
+			</div>
+			<!-- end 正文 -->
+			
+<div class="global-footer">
+	<a href="http://about.17173.com/" target="_blank">&#x5173;&#x4E8E;17173</a> |
+	<a href="http://about.17173.com/join-us.shtml" target="_blank">&#x4EBA;&#x624D;&#x62DB;&#x8058;</a> |
+	<a href="http://marketing.17173.com" target="_blank">&#x5E7F;&#x544A;&#x670D;&#x52A1;</a> |
+	<a href="http://about.17173.com/business-cooperate.shtml" target="_blank">&#x5546;&#x52A1;&#x6D3D;&#x8C08;</a> |
+	<a href="http://about.17173.com/contact-us.shtml" target="_blank">&#x8054;&#x7CFB;&#x65B9;&#x5F0F;</a> |
+	<a href="https://club.17173.com/help" target="_blank">&#x5BA2;&#x670D;&#x4E2D;&#x5FC3;</a> |
+	<a href="http://about.17173.com/site-map.shtml" target="_blank">&#x7F51;&#x7AD9;&#x5BFC;&#x822A;</a> <br />
+	<span class="copyright">Copyright &copy; 2001-2023 17173. All rights reserved.</span>
+</div>
+<script type="text/javascript">
+(function() {
+    if (/Android|iPhone|SymbianOS|Windows Phone|iPod/gi.test(navigator.userAgent) && window.$) {
+        $('.global-footer a:last').after(' | <a href="javascript:;" onclick="var date = new Date();date.setTime(date.getTime() - 10086);document.cookie = \'__stay_on_pc=1;domain=.17173.com;path=/; expires=\' + date.toUTCString() + \';\';location.hash=\'\';location.reload(true);">\u79fb\u52a8\u7248</a>');
+    }
+})()
+</script>
+
+
+		</div>
+		<a href="javascript:;" class="btn-version">切换到旧版本 <div class="version-guide js-guide"></div></a>
+	  <div class="version-guide-mask js-guide"></div>
+	</div>
+	<script type="text/javascript" src="//ue.17173cdn.com/a/module/tg-widget/source/game-top/v1-2/index.js?v=2018"></script>
+	<script type="text/javascript" src="//ue.17173cdn.com/a/news/test/final/2021v4/js/index.js?v20221108"></script>
+
+
+
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/passport/v2/js/passport.js?202109071538"></script>
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/topbar/v3/js/index.js?202211091650"></script>
+<script type="text/javascript">
+    advConfigs.loadConfigFile('https://s.17173cdn.com/global/global.js');
+</script>
+
+
+
+<script type="text/javascript" src="//www.17173.com/2014/new/shouyoushanwan.js"></script>
+
+<script type="text/javascript">
+    advConfigs.loadConfigFile('https://ue.17173cdn.com/a/lib/vda/routes/global.js');
+</script>
+<!-- START 17173 Site Census -->
+<script type="text/javascript" src="//js.17173.com/ping.js?202202211601"></script>
+<!-- END 17173 Site Census -->
+<script type="text/javascript" src="//ue.17173cdn.com/cache/lib/v2/odvmonitor/lp.min.js"></script>
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/global/weixinsdk.js?v=43"></script>
+
+
+<!--help ref-->
+<script type="text/javascript">var helpTimerFlag=false;setTimeout(function(){helpTimerFlag=true},3000);var helpSucFun=function(){document.querySelectorAll('[href*="club.17173.com/help"]')&&document.querySelectorAll('[href*="club.17173.com/help"]').forEach(function(e){e.setAttribute("href","https://club.17173.com/help?customInfo="+encodeURIComponent(location.href))})};var helpTimer=setInterval(function(){if(document.querySelector(".topbar-help-link")){helpSucFun();clearInterval(helpTimer)}else{if(helpTimerFlag){helpSucFun();clearInterval(helpTimer)}}},50);</script>
+<script type="text/javascript">
+	advConfigs.loadConfigFile('//s.17173cdn.com/qiyu/index.js');
+</script>
+<script type="text/javascript">Passport.defaultOption.mobileBindOn=false</script>
+
+</body></html>

@@ -1,1209 +1,460 @@
-<!DOCTYPE html>
-<!--[31,1,23527066] published at 2015-10-20 18:15:09 from #153 by system -->
-
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<link rel="mask-icon" sizes="any" href="http://www.sina.com.cn/favicon.svg" color="red">
-<meta http-equiv="Content-type" content="text/html; charset=gb2312" />
-<title>天涯为啥16年后才上市新三板|天涯|邢明|新三板_新浪财经_新浪网</title>
-<meta name="stencil" content="PGLS000125">
-<meta name="publishid" content="31,1,23527066">
-<meta name="sudameta" content="sinaog:1" />
-<meta name="comment" content="cj:31-1-23527066">
-<meta name="sudameta" content="column_uid:5571172458;comment_channel:cj;comment_id:31-1-23527066"/>
-<meta name="subjectid" content="&pid:2303">
-<meta name="mediaid" content="新浪财经">
-<meta name="keywords" content="天涯为啥16年后才上市新三板,天涯,邢明,新三板,谷歌,论坛">
-<meta name="description" content="文/新浪财经意见领袖(微信公众号kopleader)机构专栏无冕财经作者范白 背靠谷歌巨头，天涯在2008年对赴美上市跃跃欲试，后来却又无声无息的结束了。按照天涯CEO邢明的说法，这是自己主动放弃了。随着谷歌与中国政府关系恶化，2010年谷">
-<meta name="tags" content="天涯,邢明,新三板,谷歌,论坛">
-<meta name="mobile-agent" content="format=html5; url=http://doc.sina.cn/?id=gsps:31-1-23527066">
-<meta name="mobile-agent" content="format=xhtml; url=http://doc.sina.cn/?id=gsps:31-1-23527066">
-<meta name="mobile-agent" content="format=wml; url=http://doc.sina.cn/?id=gsps:31-1-23527066">
-<meta property="og:type" content="article" />
-<meta property="og:title" content="天涯为啥16年后才上市新三板" />
-<meta property="og:description" content="天涯为啥16年后才上市新三板" />
-<meta property="og:url" content="http://finance.sina.com.cn/zl/china/20151020/181223527066.shtml" />
-<meta property="og:image" content="http://i1.sinaimg.cn/cj/2015/1020/U12204P31DT20151020180851.jpg" />
-<meta name=jspreload content="jspreload">
-<script type="text/javascript">
-      (function(){
-      if(navigator.userAgent.indexOf('MSIE') === -1){return};
-      var list = ["http://i1.sinaimg.cn/home/sinaflash.js","http://news.sina.com.cn/js/87/20131030/require.js","http://news.sina.com.cn/js/87/20131030/config.js","http://i.sso.sina.com.cn/js/user_panel.js","http://i.sso.sina.com.cn/js/ssologin.js","http://i.sso.sina.com.cn/js/outlogin_layer.js","http://tjs.sjs.sinajs.cn/open/api/js/wb.js","http://d2.sina.com.cn/d1images/button/rotator.js","http://news.sina.com.cn/js/87/20110714/205/sinalib.js","http://ent.sina.com.cn/js/20120914/weibocard.js","http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=2c330a9c-c99a-4bb0-8919-7ea66c5025cc&amp;pophcol=2&amp;lang=zh","http://static.bshare.cn/b/bshareC0.js","http://static.bshare.cn/b/addons/bshareDrag.js?bp=sinaminiblog,qzone,qqmb,renren,kaixin001&text=","http://news.sina.com.cn/js/87/20140826/sharewwl.js","http://d2.sina.com.cn/d1images/button/rotator.js","http://top.finance.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=finance_column_suda&top_time=today&top_show_num=10&top_order=DESC&js_var=comment_1_data&chars=gbk","http://ent.sina.com.cn/js/470/20130205/sab.js","http://hq.sinajs.cn/list=sz000061","http://n.sinaimg.cn/780c44e8/20150819/stock_v4_130723_0819.js","http://i1.sinaimg.cn/unipro/pub/suda_m_v629.js"];
-      for(var i=0;i<list.length;i++){(new Image()).src = list[i]}
-      })();
-</script>
-
-<script type="text/javascript" src="http://i1.sinaimg.cn/home/sinaflash.js"></script>
-<link href="http://finance.sina.com.cn/css/462/2013/1111/TextCommon.css" rel="stylesheet" type="text/css" />
-<style type="text/css">
-    /* topLogin */
-    .login-wrap{float:left}
-    .login-wrap .login-btn{display:block;width:46px;height:23px;background-image:url(http://i1.sinaimg.cn/dy/deco/2013/1030/imgs/topLogin.png);background-position:0 0;vertical-align:-7px;*vertical-align:-3px;*margin-right:5px;position:relative;top:8px}
-    .login-wrap .login-btn:hover{background-image:url(http://i1.sinaimg.cn/dy/deco/2013/1030/imgs/topLogin.png);background-position:-47px 0}
-    .login-wrap .name{float:left;padding-top:8px;margin-right:10px;font-size:14px;font-family:"Microsoft YaHei","FAE8F6F96C59ED1","SimSun","B8BF53"}
-    .login-wrap .name span{color:#6b615d}
-    .login-wrap .name a{color:#3c7ea8}
-    .login-wrap .name a:hover{color:#3c7ea8}
-    .login-wrap .icon{background:none;background-repeat:no-repeat}
-    .login-wrap .msg{float:left;position:relative;border:1px solid #ffffff;text-align:center;width:38px;cursor:pointer}
-    .login-wrap .msg .icon-wrap{position:relative;z-index:10;padding-top:10px;height:25px}
-    .login-wrap .msg .icon{display:inline-block;width:14px;height:13px;background-image:url(http://i1.sinaimg.cn/dy/deco/2013/1030/imgs/topLogin.png);background-position:-94px 0}
-    .login-wrap .msg .new{display:block;position:absolute;width:5px;height:5px;background-image:url(http://i1.sinaimg.cn/dy/deco/2013/1030/imgs/topLogin.png);background-position:-111px 0;font-size:0;line-height:0;top:10px;right:10px}
-    .login-wrap .msg ul{display:none}
-    .login-wrap .setting{float:left;position:relative;border:1px solid #ffffff;text-align:center;width:38px;cursor:pointer}
-    .login-wrap .setting .icon-wrap{position:relative;z-index:10;padding-top:10px;height:25px}
-    .login-wrap .setting .icon{display:inline-block;width:16px;height:16px;background-image:url(http://i0.sinaimg.cn/dy/deco/2013/1107/imgs/a9.png);_background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://i0.sinaimg.cn/dy/deco/2013/1107/imgs/a9.png',sizingMethod=crop)}
-    .login-wrap .setting ul{display:none}
-    .login-wrap .active{border:1px solid #d6d6d6!important;border-bottom:0;background-color:#fafafa}
-    .login-wrap .active .icon-wrap{background-color:#fafafa}
-    .login-wrap .active ul{display:block;position:absolute;top:34px;right:-1px;z-index:1;border:1px solid #d6d6d6;border-bottom:0;background-color:#fafafa}
-    .login-wrap .active ul li{width:140px;height:30px;line-height:30px;border-bottom:1px solid #d6d6d6;text-align:left;vertical-align:middle}
-    .login-wrap .active ul a{color:#5c5c5c;display:block;height:100%;padding:0 15px;text-decoration:none}
-    .login-wrap .active ul a:hover{color:#5c5c5c;background-color:#e6e6e6}
-    .login-wrap .active ul .entry{float:left}
-    .login-wrap .active ul .count{display:block;float:right;margin-top:10px;height:14px;line-height:14px}
-    .login-wrap .active ul .count span{overflow:hidden}
-    .login-wrap .active ul .count .lh-circle{float:left;width:7px;height:14px;background-image:url(http://i1.sinaimg.cn/dy/deco/2013/1030/imgs/icon7.png);background-repeat:no-repeat}
-    .login-wrap .active ul .count i{float:left;height:14px;line-height:14px;font-style:normal;color:#fff;background-color:#0085da}
-    .login-wrap .active ul .count .rh-circle{float:left;width:7px;height:14px;background-image:url(http://i2.sinaimg.cn/dy/deco/2013/1030/imgs/icon8.png);background-repeat:no-repeat}
-
-    /* udv common */
-    .udv-clearfix:after{content:"\0020";display:block;height:0;clear:both;}
-    .udv-clearfix{zoom:1;}
-    .udv-clearit{clear:both;height:0;font-size:0;overflow:hidden;}
-
-    .login-wrap .msg{border: 1px solid #fff;}
-    .login-wrap .setting{border: 1px solid #fff;}
-
-    .top-nav{padding:2px 0}
-    .top-n-left{line-height:86px;height:86px}
-    .top-n-left a{float:left;height:86px}
-    .top-n-left img{display:block;padding-top:5px}
-    .top-n-right{float:right;color:#6b615d;padding-top:35px;margin-left:10px}
-    .top-n-right a{display:inline-block}
-
-    body {padding-top:0;}
-    #navTop {margin-top:0;}
-    .link-6b615d {color: #6B615D;}
-    .link-6b615d:visited {color: #6B615D;}
-    .link-6b615d:hover { color: #0071B9;}
-    .link-FF8400{color: #00f}
-    .link-FF8400:visited{color: #800080}
-    .link-FF8400:hover{color: #0071B9}
-
-    .wrap{width: 1000px;margin: 0 auto;}
-
-    .nav{line-height:45px;font-family:"Microsoft YaHei","FAE8F6F96C59ED1","SimSun","B8BF53"}
-    .nav ul{float:left;font-size:14px}
-    .nav li{float:left;_display:inline}
-    .nav a{float:left;padding:0 9px;color: #fff;}
-    .nav a:visited{color: #fff;}
-    .nav a:hover{color: #fff;background:#0085da;text-decoration: none;}
-    .nav .current{background:#0085da}
-    .nav-form{float:right;padding:10px 10px 0 0}
-    .nav-form form{float: right;}
-    .nav-f-text{-moz-box-sizing:content-box; -webkit-box-sizing:content-box;box-sizing: content-box;}
-    .nav-f-submit{width:31px;height:24px;background:url(http://i3.sinaimg.cn/dy/deco/2013/0609/xy/img/icon1.png) 0 0 no-repeat;float:left;border-width:0;cursor:pointer}
-    .suggest{z-index: 10;overflow: hidden;}
-    #navTop {margin-top:0;}
-    #navTop ul{float: left;}
-    #navTop li{padding:0 18px;}
-
-    .nav_gdzt{position: relative;width: 100px;z-index: 10;}
-    .nav_gdzt_title{padding: 0!important;width: 100%;text-align: center;}
-    .nav_tzlc{position: relative;z-index: 10;}
-    .nav .nav_gdzt_list{position: absolute;width: 100px;top: 45px;left: 0;display: none;text-align: center;z-index: 20;background: #072785;line-height: 14px;}
-    .nav .nav_gdzt_list a{display: block;font-size: 12px;padding: 5px 0;float: none;}
-    .nav .nav_tzlc_list{position: absolute;width: 74px;top: 45px;left: 0;display: none;text-align: center;z-index: 20;background: #072785;line-height: 14px;}
-    .nav .nav_tzlc_list a{width: 50%;font-size: 12px;padding: 4px 0;float: left;}
-
-    .two_code {left: 50%; margin: 0 0 0 490px; position:fixed; top: 150px; width: 111px; height:148px; z-index: 100; text-align:center; background-color:rgb(235,235,235);_position:absolute;}
-    .two_code p{line-height:24px;}
-    div.two_code:hover{background-color:rgb(209,209,209);}
-    .two_code img{border:2px solid #fff;}
-
-    /*标准二级导航_财经 begin*/
-    .secondaryHeader{height:33px;overflow:hidden;background:url(http://i3.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
-    .secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
-    .secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
-    .sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
-    .sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
-    .sHLogo span,.sHLogo span a,.sHLogo span a:link,.sHLogo span a:visited,.sHLogo span a:hover{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
-    .sHLogo span,.sHLogo span a img,.sHLogo span a:link img,.sHLogo span a:visited img,.sHLogo span a:hover img{vertical-align:middle;}
-    .sHLinks{float:right;line-height:31px;}
-    .secondaryHeader img{border:none;}
-    /*标准二级导航_财经 end*/
-
-    .link-6b615d {color: #6B615D;}
-    .link-6b615d:visited {color: #6B615D;}
-    .link-6b615d:hover {color: #0071B9;}
-    .link-FF8400{color: #00f}
-    .link-FF8400:visited{color: #800080}
-    .link-FF8400:hover{color: #0071B9}
-    .outlogin_layerbox_bylx .layerbox_left ul.loginformlist li input.styles{-moz-box-sizing:content-box; -webkit-box-sizing:content-box; box-sizing:content-box}
-    .left { float: left;}
-
-    .searchbox .sb_text{float:left; width:170px; height:18px; line-height:20px; vertical-align:middle; margin-top:0;margin-bottom:0;padding:1px;}
-    .sim_select{float:left;width:35px;}
-    .sim_select h3{	background: url("http://i1.sinaimg.cn/cj/deco/2013/0603/images/bg.png") no-repeat scroll -216px -432px transparent; color: #BABABA; font-family: "Microsoft YaHei","微软雅黑","SimSun","宋体"; font-size: 12px; font-weight: normal; height: 20px; line-height: 20px; overflow: hidden;padding-left: 8px; width: 43px; cursor:pointer;}
-    .sim_select ul {background: none repeat scroll 0 0 #FFFFFF; border: 1px solid #C6C6C6; position: absolute;}
-    .sim_select li {color: #333333; cursor: pointer; font-family: "Microsoft YaHei","微软雅黑","SimSun","宋体"; font-size: 12px; line-height: 22px; padding-left: 8px; width: 35px;}
-    .searchbox .sb_btn{float:right;}
-    .suggest{z-index:10;}
-    .blk_right{padding-top:0;}
-    .searchbox{display:none;}
-
-    #PublicRelation1{position: relative; top: -10px;}
-</style>
-<script charset="gb2312" src="http://news.sina.com.cn/js/87/20131030/require.js"></script>
-<script type="text/javascript" src="http://news.sina.com.cn/js/87/20131030/config.js"></script>
-<script type="text/javascript" src="http://i.sso.sina.com.cn/js/user_panel.js" charset="utf-8"></script>
-
-<script type="text/javascript">
-    //medialogo resize begin
-    var flag=false;function DrawImage(a){var b=new Image();var c=999;var d=21;b.src=a.src;if(b.width>0&&b.height>0){flag=true;if(b.width/b.height>=c/d){if(b.width>c){a.width=c;a.height=(b.height*c)/b.width}else{a.width=b.width;a.height=b.height}}else{if(b.height>d){a.height=d;a.width=(b.width*d)/b.height}else{a.width=b.width;a.height=b.height}}}}
-    //medialogo resize end
-</script>
-
-<script type="text/javascript">try{document.domain = "sina.com.cn";}catch(e){}</script>
-<script type="text/javascript">
-    //js异步加载管理 v1.1.0
-    eval(function(p,a,c,k,e,r){e=function(c){return(c<62?'':e(parseInt(c/62)))+((c=c%62)>35?String.fromCharCode(c+29):c.toString(36))};if('0'.replace(0,e)==0){while(c--)r[e(c)]=k[c];k=[function(e){return r[e]||e}];e=function(){return'[4-9abfgj-vx-zA-R]'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(9(){b w=g,d=document,u=\'1.1.0\',7={},j=0,cbkLen=0;5(w.k){5(w.k.u>=u){o};7=w.k.K();j=7.j};b addEvent=9(x,B,C){5(x.L){x.L("on"+B,C)}m{x.addEventListener(B,C,false)}};9 M(a,D,s){b l=d.createElement("script");l.type="text/javascript";5(s){l.s=s};l.N=l.y=9(){5(!g.E||g.E=="loaded"||g.E=="complete"){5(D){D()};l.N=l.y=null;l.parentNode.removeChild(l)}};l.src=a;b h=d.getElementsByTagName("head")[0];h.insertBefore(l,h.firstChild)};b v=9(4,a){g.4=4;g.a=a;g.6=[]};v.prototype={f:\'O\',y:9(){g.f=\'F\';b z=[];P(b i=0;i<g.6.j;i++){5(n g.6[i]==\'9\'){try{g.6[i]()}catch(e){z.A(e)}}};g.6=[];5(z.j!=0){throw z[0]}}};b k=9(q,t){b 8={};5(p.j==3){8.4=p[0];8.a=p[1];8.6=p[2]}m 5(n q===\'Q\'){8.a=q;5(n t===\'9\'){8.6=t}}m{8=q};b a=8.a||"",4=8.4||"",6=8.6||"",s=8.s||"";b r={4:4,k:9(q,t){b agms=p;b 8={};5(p.j==3){8.4=p[0];8.a=p[1];8.6=p[2]}m 5(n q===\'Q\'){8.a=q;5(n t===\'9\'){8.6=t}}m{8=q};5(!8.4){8.4=\'R\'+j;j++};b c=k({4:g.4,6:9(){k(8)}});c.4=8.4;o c}};5(4){5(!7[4]){5(!a){7[4]=G v(4);7[4].f=\'H\'}m{7[4]=G v(4,a)};j++}m 5(7[4].f==\'H\'&&a){7[4].f=\'O\'};5(8.f){7[4].f=8.f};5(7[4].f==\'I\'||7[4].f==\'H\'){5(n 6==\'9\'){7[4].6.A(6)};o r}m 5(7[4].f==\'F\'){5(n 6==\'9\'){6()};o r}}m{5(!a){o r};P(b J in 7){5(7[J].a==a){4=J;break}};5(!4){4=\'R\'+j;7[4]=G v(4,a);j++};r.4=4;5(7[4].f==\'I\'){5(n 6==\'9\'){7[4].6.A(6)};o r}m 5(7[4].f==\'F\'){5(n 6==\'9\'){6()};o r}};5(n 6==\'9\'){7[4].6.A(6)};M(a,9(){7[4].y()},s);7[4].f=\'I\';o r};w.k=k;w.k.u=u;w.k.K=9(){o 7}})();',[],54,'||||name|if|callback|data|cfg|function|url|var||||status|this|||length|jsLoader|scriptNode|else|typeof|return|arguments|op|chain|charset|fn|version|JsObj||obj|onload|errors|push|eventType|func|dispose|readyState|ok|new|waiting|loading|item|getData|attachEvent|getScript|onreadystatechange|init|for|string|noname'.split('|'),0,{}))
-</script>
-<script language='javascript' charset='utf-8' src='http://i.sso.sina.com.cn/js/ssologin.js'></script>
-
-<!-- 统一浮动登录 -->
-<script type="text/javascript" src="http://i.sso.sina.com.cn/js/outlogin_layer.js" charset="utf-8"></script>
-<script type="text/javascript">
-    /**
-     * 全局数据
-     * video_url 视频链接
-     * channel 频道
-     * newsid 新闻id
-     * group 默认为0
-     */
-    var ARTICLE_DATA = {
-        //是否固定评论框，默认为1固定,ipad,iphone不固定
-        cmntFix:0,
-        //是否固定评论框，默认为1固定,ipad,iphone不固定
-    cmntFix:0,
-    //评论微博转发视频地址
-    video_url:'',
-    //评论微博转发图片地址，可置空会自动取图
-    pic_url:'',
-    //频道
-    channel:'cj',
-    //新闻id
-    newsid:'31-1-23527066',
-    //组，默认为0
-    group:'0',
-    //是否显示评论列表,为1隐藏，为0显示
-    hideCMNTList:0,
-        //发布时间
-        pagepubtime:'2015-10-20',
-        //广告关闭时间
-        difDay:180,
-        //广告容器ids
-        ADIDs:["PublicRelation1","PublicRelation2","PublicRelation3","PublicRelation4","PublicRelation5","PublicRelation6","PublicRelation7","PublicRelation8","PublicRelation9","PublicRelation10","PublicRelation11","PublicRelation12","PublicRelation13","PublicRelation14","PublicRelation16","PublicRelation17"],
-        //ipad需要关闭的广告ids
-        iPadADIDS:["PublicRelation3","PublicRelation4","PublicRelation9","PublicRelation12"],
-            source: '新浪财经',
-    sourceUrl: 'http://finance.sina.com.cn/',
-    uid: '1638782947',
-
-        channelId: 31,
-        //财经专栏页扩展字段
-
-author_name : '无冕财经',
-category : '热评中国',
-personanl_page_url : 'http://finance.sina.com.cn/column/view/order_list.html',
-autoLogin:1,
-// 最新评论第一页评论数
-firstPageNum:5,
-//分页评论数
-pageNum:20,
-//热帖评论数
-hotPageNum:5,
-// 最多点击“更多”次数
-clickMoreNum:1
-
-    };
-</script>
-<script type="text/javascript">
-    //js地址
-    var ARTICLE_JSS = {
-        jq:'http://i0.sinaimg.cn/dy/js/jquery/jquery-1.7.2.min.js',
-        sab:'http://i3.sinaimg.cn/cj/deco/2013/0711/js/article_news.js',
-        sinalib:'http://news.sina.com.cn/js/87/20110714/205/sinalib.js',
-        subshow:'http://i3.sinaimg.cn/ty/sinaui/subshow/subshow2012070701.min.js',
-        weiboAll:'http://news.sina.com.cn/js/268/2011/1110/16/weibo-all.js',
-        sdfigure:'http://ent.sina.com.cn/js/470/20121129/sdfigure_v2.js',
-        hdfigure:'http://news.sina.com.cn/js/87/20121218/hdfigure_v2.js',
-        sinflash:'http://i1.sinaimg.cn/home/sinaflash.js',
-        weiboCard:'http://ent.sina.com.cn/js/20120914/weibocard.js',
-        guess:'http://ent.sina.com.cn/js/470/20130207/guess.pro.js',
-        allcont:'http://ent.sina.com.cn/js/470/20120922/allcontent.1.4.js',
-        shareOnWeibo:'http://news.sina.com.cn/js/87/20111011/227/shareonweibo.js',
-        base:'http://finance.sina.com.cn/js/689/2012/1220/base.js',
-        suggest:'http://i3.sinaimg.cn/cj/deco/2013/0605/js/writer_data.js',
-        weiboCard2013:'http://tech.sina.com.cn/js/717/20131127/content/weibocard2013.js',
-        wbUsersRec:'http://news.sina.com.cn/js/87/20140623/wbUsesRec.js'
-    };
-    //正文页面基本脚本
-    /*jsLoader(ARTICLE_JSS.jq)
-     .jsLoader(ARTICLE_JSS.sab,function(){
-     (function($){
-     $.dom.ready(function(){
-     $.app.autoLogin();
-     var autologinTimeOut = setInterval(function(){
-     $.app.autoLogin();
-     },8*1000);
-     });
-     })(SAB);
-     });*/
-    //余下全文
-    jsLoader(ARTICLE_JSS.jq)
-            .jsLoader(ARTICLE_JSS.sinalib)
-            .jsLoader(ARTICLE_JSS.allcont)
-
-</script>
-
-<!-- 社交化微博组件 -->
-<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
-<!-- /社交化微博组件 -->
-
-<script language="javascript" type="text/javascript" src="http://d2.sina.com.cn/d1images/button/rotator.js"></script>
-
-<script>
-    (function (d, s, id) {
-        var s, n = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        s = d.createElement(s);
-        s.id = id;
-        s.setAttribute('charset', 'utf-8');
-        s.src = '//d' + Math.floor(0 + Math.random() * (9 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js';
-        n.parentNode.insertBefore(s, n);
-    })(document, 'script', 'sinaads-script');
-</script>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>矿物质该怎么补？--食品--人民网 </title>
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0" />
+<meta name="keywords" content="" />
+<meta name="description" content="　　无论是矿物质还是维生素，饭后服用更利于吸收　　在人体所需的营养素中，矿物质是一类特殊的存在，它不能在体内生成，而且除了被排出体外，也不可能在体内自行消失。矿物质在体内分布不均匀，其含量在一定阶段随" />
+<meta name="copyright" content="人民网版权所有" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="85914">
+<meta name="contentid" content="28843997">
+<meta name="publishdate" content="2016-11-08">
+<meta name="author" content="1416">
+<meta name="editor" content="">
+<meta name="source" content="来源：广州日报">
+<meta name="sourcetype" content="">
+<link href="http://www.people.com.cn/img/2020fenxiang/css/share2020.css" type="text/css" rel="stylesheet" media="all" />
+<link href="http://www.people.com.cn/img/2020wbc/css/page2021.css" type="text/css" rel="stylesheet" media="all" />
+<link href="http://www.people.com.cn/img/2020peopleindex/css/pagetyn2.css" type="text/css" rel="stylesheet" media="all" />
+<link href="http://www.people.com.cn/img/2020wbc/css/compatiblen2.css" type="text/css" rel="stylesheet" media="all" />
 </head>
-<body><!-- body code begin -->
-
-<!-- SUDA_CODE_START --> 
-<script type="text/javascript"> 
-//<!--
-(function(){var an="V=2.1.16";var ah=window,F=document,s=navigator,W=s.userAgent,ao=ah.screen,j=ah.location.href;var aD="https:"==ah.location.protocol?"https://s":"http://",ay="beacon.sina.com.cn";var N=aD+ay+"/a.gif?",z=aD+ay+"/g.gif?",R=aD+ay+"/f.gif?",ag=aD+ay+"/e.gif?",aB=aD+"beacon.sinauda.com/i.gif?";var aA=F.referrer.toLowerCase();var aa="SINAGLOBAL",Y="FSINAGLOBAL",H="Apache",P="ULV",l="SUP",aE="UOR",E="_s_acc",X="_s_tentry",n=false,az=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aG=false,A=false;var al="";var m=16777215,Z=0,C,K=0;var r="",b="",a="";var M=[],S=[],I=[];var u=0;var v=0;var p="";var am=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aD+ay+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function k(){var e=document.createElement("iframe");e.src=aD+ay+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aD+ay+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aH,i){var D=F.getElementsByName(aH);var e=(i>0)?i:0;return(D.length>e)?D[e].content:""}function aF(){var aJ=F.getElementsByName("sudameta");var aR=[];for(var aO=0;aO<aJ.length;aO++){var aK=aJ[aO].content;if(aK){if(aK.indexOf(";")!=-1){var D=aK.split(";");for(var aH=0;aH<D.length;aH++){var aP=aw(D[aH]);if(!aP){continue}aR.push(aP)}}else{aR.push(aK)}}}var aM=F.getElementsByTagName("meta");for(var aO=0,aI=aM.length;aO<aI;aO++){var aN=aM[aO];if(aN.name=="tags"){aR.push("content_tags:"+encodeURI(aN.content))}}var aL=t("vjuids");aR.push("vjuids:"+aL);var e="";var aQ=j.indexOf("#");if(aQ!=-1){e=escape(j.substr(aQ+1));aR.push("hashtag:"+e)}return aR}function V(aK,D,aI,aH){if(aK==""){return""}aH=(aH=="")?"=":aH;D+=aH;var aJ=aK.indexOf(D);if(aJ<0){return""}aJ+=D.length;var i=aK.indexOf(aI,aJ);if(i<aJ){i=aK.length}return aK.substring(aJ,i)}function t(e){if(undefined==e||""==e){return""}return V(F.cookie,e,";","")}function at(aI,e,i,aH){if(e!=null){if((undefined==aH)||(null==aH)){aH="sina.com.cn"}if((undefined==i)||(null==i)||(""==i)){F.cookie=aI+"="+e+";domain="+aH+";path=/"}else{var D=new Date();var aJ=D.getTime();aJ=aJ+86400000*i;D.setTime(aJ);aJ=D.getTime();F.cookie=aI+"="+e+";domain="+aH+";expires="+D.toUTCString()+";path=/"}}}function f(D){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;return i.get(D)}catch(aH){return false}}function ar(D,aH){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;i.set(D,aH);return true}catch(aI){return false}}function L(){var aJ=15;var D=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(D&&D!=undefined){w=true}ls_gid=f(aa);if(ls_gid===false||w==false){return false}else{am=true}if(ls_gid&&ls_gid.length>aJ){at(aa,ls_gid,3650);n=true;return ls_gid}else{if(D&&D.length>aJ){at(aa,D,3650);az=true}var i=0,aI=500;var aH=setInterval((function(){var e=t(aa);if(w){e=D}i+=1;if(i>3){clearInterval(aH)}if(e.length>aJ){clearInterval(aH);ar(aa,e)}}),aI);return w?D:t(aa)}}function U(e,aH,D){var i=e;if(i==null){return false}aH=aH||"click";if((typeof D).toLowerCase()!="function"){return}if(i.attachEvent){i.attachEvent("on"+aH,D)}else{if(i.addEventListener){i.addEventListener(aH,D,false)}else{i["on"+aH]=D}}return true}function af(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var D=arguments.callee.caller;var i;var aH=0;while(D!=null&&aH<40){i=D.arguments[0];if(i&&(i.constructor==Event||i.constructor==MouseEvent||i.constructor==KeyboardEvent)){return i}aH++;D=D.caller}return i}}function g(i){i=i||af();if(!i.target){i.target=i.srcElement;i.pageX=i.x;i.pageY=i.y}if(typeof i.layerX=="undefined"){i.layerX=i.offsetX}if(typeof i.layerY=="undefined"){i.layerY=i.offsetY}return i}function aw(aH){if(typeof aH!=="string"){throw"trim need a string as parameter"}var e=aH.length;var D=0;var i=/(\u3000|\s|\t|\u00A0)/;while(D<e){if(!i.test(aH.charAt(D))){break}D+=1}while(e>D){if(!i.test(aH.charAt(e-1))){break}e-=1}return aH.slice(D,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aH,aL){var aN=aw(aH).split("&");var aM={};var D=function(i){if(aL){try{return decodeURIComponent(i)}catch(aP){return i}}else{return i}};for(var aJ=0,aK=aN.length;aJ<aK;aJ++){if(aN[aJ]){var aI=aN[aJ].split("=");var e=aI[0];var aO=aI[1];if(aI.length<2){aO=e;e="$nullName"}if(!aM[e]){aM[e]=D(aO)}else{if(c(aM[e])!=true){aM[e]=[aM[e]]}aM[e].push(D(aO))}}}return aM}function ac(D,aI){for(var aH=0,e=D.length;aH<e;aH++){aI(D[aH],aH)}}function ak(i){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(i.match(e)){return i.match(e)[1].toString()}else{return""}}function aj(aO){try{var aL="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aQ=function(e){var aR="",aS=0;for(;aS<e.length;aS++){aR+="%"+aH(e[aS])}return decodeURIComponent(aR)};var aH=function(e){var i="0"+e.toString(16);return i.length<=2?i:i.substr(1)};var aP=function(aY,aV,aR){if(typeof(aY)=="string"){aY=aY.split("")}var aX=function(a7,a9){for(var a8=0;a8<a7.length;a8++){if(a7[a8]==a9){return a8}}return -1};var aS=[];var a6,a4,a1="";var a5,a3,a0,aZ="";if(aY.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var a2=aL.split("");if(aV=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;a2=D.split("")}var aU=0;if(aV=="binnary"){a2=[];for(aU=0;aU<=64;aU++){a2[aU]=aU+128}}if(aV!="binnary"&&e.exec(aY.join(""))){return aR=="array"?[]:""}aU=0;do{a5=aX(a2,aY[aU++]);a3=aX(a2,aY[aU++]);a0=aX(a2,aY[aU++]);aZ=aX(a2,aY[aU++]);a6=(a5<<2)|(a3>>4);a4=((a3&15)<<4)|(a0>>2);a1=((a0&3)<<6)|aZ;aS.push(a6);if(a0!=64&&a0!=-1){aS.push(a4)}if(aZ!=64&&aZ!=-1){aS.push(a1)}a6=a4=a1="";a5=a3=a0=aZ=""}while(aU<aY.length);if(aR=="array"){return aS}var aW="",aT=0;for(;aT<aS.lenth;aT++){aW+=String.fromCharCode(aS[aT])}return aW};var aI=[];var aN=aO.substr(0,3);var aK=aO.substr(3);switch(aN){case"v01":for(var aJ=0;aJ<aK.length;aJ+=2){aI.push(parseInt(aK.substr(aJ,2),16))}return decodeURIComponent(aQ(aP(aI,"binnary","array")));break;case"v02":aI=aP(aK,"urlsafe","array");return aQ(aP(aI,"binnary","array"));break;default:return decodeURIComponent(aO)}}catch(aM){return""}}var ap={screenSize:function(){return(m&8388608==8388608)?ao.width+"x"+ao.height:""},colorDepth:function(){return(m&4194304==4194304)?ao.colorDepth:""},appCode:function(){return(m&2097152==2097152)?s.appCodeName:""},appName:function(){return(m&1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName):""},cpu:function(){return(m&524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(m&262144==262144)?(s.platform):""},jsVer:function(){if(m&131072!=131072){return""}var aI,e,aK,D=1,aH=0,i=(s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName,aJ=s.appVersion;if("MSIE"==i){e="MSIE";aI=aJ.indexOf(e);if(aI>=0){aK=window.parseInt(aJ.substring(aI+5));if(3<=aK){D=1.1;if(4<=aK){D=1.3}}}}else{if(("Netscape"==i)||("Opera"==i)||("Mozilla"==i)){D=1.3;e="Netscape6";aI=aJ.indexOf(e);if(aI>=0){D=1.5}}}return D},network:function(){if(m&65536!=65536){return""}var i="";i=(s.connection&&s.connection.type)?s.connection.type:i;try{F.body.addBehavior("#default#clientCaps");i=F.body.connectionType}catch(D){i="unkown"}return i},language:function(){return(m&32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(m&16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(m&8192!=8192){return""}var aK=s.plugins,aH,aL,aN;if(aK&&aK.length){for(var aJ in aK){aL=aK[aJ];if(aL.description==null){continue}if(aH!=null){break}aN=aL.description.toLowerCase();if(aN.indexOf("flash")!=-1){aH=aL.version?parseInt(aL.version):aN.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aI=10;aI>=2;aI--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aI);if(D){aH=aI;break}}catch(aM){}}}else{if(W.indexOf("webtv/2.5")!=-1){aH=3}else{if(W.indexOf("webtv")!=-1){aH=2}}}}return aH},javaEnabled:function(){if(m&4096!=4096){return""}var D=s.plugins,i=s.javaEnabled(),aH,aI;if(i==true){return 1}if(D&&D.length){for(var e in D){aH=D[e];if(aH.description==null){continue}if(i!=null){break}aI=aH.description.toLowerCase();if(aI.indexOf("java plug-in")!=-1){i=parseInt(aH.version);continue}}}else{if(window.ActiveXObject){i=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return i?1:0}};var ad={pageId:function(i){var D=i||r,aK="-9999-0-0-1";if((undefined==D)||(""==D)){try{var aH=h("publishid");if(""!=aH){var aJ=aH.split(",");if(aJ.length>0){if(aJ.length>=3){aK="-9999-0-"+aJ[1]+"-"+aJ[2]}D=aJ[0]}}else{D="0"}}catch(aI){D="0"}D=D+aK}return D},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(m&2048!=2048){return""}var e=/^[^\?&#]*.swf([\?#])?/;if((aA=="")||(aA.match(e))){var i=V(j,"ref","&","");if(i!=""){return escape(i)}}return escape(aA)},isHomepage:function(){if(m&1024!=1024){return""}var D="";try{F.body.addBehavior("#default#homePage");D=F.body.isHomePage(j)?"Y":"N"}catch(i){D="unkown"}return D},PGLS:function(){return(m&512==512)?h("stencil"):""},ZT:function(){if(m&256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(m&128==128)?h("mediaid"):""},domCount:function(){return(m&64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(m&32==32)?F.getElementsByTagName("iframe").length:""}};var av={visitorId:function(){var i=15;var e=t(aa);if(e.length>i&&u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(Y);return e}else{at(Y,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var i=new Date();e=Math.random()*10000000000000+"."+i.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var D=t(H);var aI=t(P);var aH=aI.split(":");var aJ="",i;if(aH.length>=6){if(D!=aH[4]){i=new Date();var e=new Date(window.parseInt(aH[0]));aH[1]=window.parseInt(aH[1])+1;if(i.getMonth()!=e.getMonth()){aH[2]=1}else{aH[2]=window.parseInt(aH[2])+1}if(((i.getTime()-e.getTime())/86400000)>=7){aH[3]=1}else{if(i.getDay()<e.getDay()){aH[3]=1}else{aH[3]=window.parseInt(aH[3])+1}}aJ=aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3];aH[5]=aH[0];aH[0]=i.getTime();at(P,aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3]+":"+D+":"+aH[5],360)}else{aJ=aH[5]+":"+aH[1]+":"+aH[2]+":"+aH[3]}}else{i=new Date();aJ=":1:1:1";at(P,i.getTime()+aJ+":"+D+":",360)}return aJ},userNick:function(){if(al!=""){return al}var D=unescape(t(l));if(D!=""){var i=V(D,"ag","&","");var e=V(D,"user","&","");var aH=V(D,"uid","&","");var aJ=V(D,"sex","&","");var aI=V(D,"dob","&","");al=i+":"+e+":"+aH+":"+aJ+":"+aI;return al}else{return""}},userOrigin:function(){if(m&4!=4){return""}var e=t(aE);var i=e.split(":");if(i.length>=2){return i[0]}else{return""}},advCount:function(){return(m&2==2)?t(E):""},setUOR:function(){var aL=t(aE),aP="",i="",aO="",aI="",aM=j.toLowerCase(),D=F.referrer.toLowerCase();var aQ=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aK=new Date();if(aM.match(aQ)){aO=aM.match(aQ)[0]}else{if(D.match(aQ)){aO=D.match(aQ)[0]}}if(aO!=""){aO=aO.substr(3)+":"+aK.getTime()}if(aL==""){if(t(P)==""){aP=ak(D);i=ak(aM)}at(aE,aP+","+i+","+aO,365)}else{var aJ=0,aN=aL.split(",");if(aN.length>=1){aP=aN[0]}if(aN.length>=2){i=aN[1]}if(aN.length>=3){aI=aN[2]}if(aO!=""){aJ=1}else{var aH=aI.split(":");if(aH.length>=2){var e=new Date(window.parseInt(aH[1]));if(e.getTime()<(aK.getTime()-86400000*30)){aJ=1}}}if(aJ){at(aE,aP+","+i+","+aO,365)}}},setAEC:function(e){if(""==e){return}var i=t(E);if(i.indexOf(e+",")<0){i=i+e+","}at(E,i,7)},ssoInfo:function(){var D=unescape(aj(t("sso_info")));if(D!=""){if(D.indexOf("uid=")!=-1){var i=V(D,"uid","&","");return escape("uid:"+i)}else{var e=V(D,"u","&","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ai={CI:function(){var e=["sz:"+ap.screenSize(),"dp:"+ap.colorDepth(),"ac:"+ap.appCode(),"an:"+ap.appName(),"cpu:"+ap.cpu(),"pf:"+ap.platform(),"jv:"+ap.jsVer(),"ct:"+ap.network(),"lg:"+ap.language(),"tz:"+ap.timezone(),"fv:"+ap.flashVer(),"ja:"+ap.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var i=["pid:"+ad.pageId(e),"st:"+ad.sessionCount(),"et:"+ad.excuteCount(),"ref:"+ad.referrer(),"hp:"+ad.isHomepage(),"PGLS:"+ad.PGLS(),"ZT:"+ad.ZT(),"MT:"+ad.mediaType(),"keys:","dom:"+ad.domCount(),"ifr:"+ad.iframeCount()];return"PI="+i.join("|")},UI:function(){var e=["vid:"+av.visitorId(),"sid:"+av.sessionId(),"lv:"+av.lastVisit(),"un:"+av.userNick(),"uo:"+av.userOrigin(),"ae:"+av.advCount(),"lu:"+av.fvisitorId(),"si:"+av.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+av.subp()];return"UI="+e.join("|")},EX:function(i,e){if(m&1!=1){return""}i=(null!=i)?i||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+i+"|ex2:"+e},MT:function(){return"MT="+aF().join("|")},V:function(){return an},R:function(){return"gUid_"+new Date().getTime()}};function ax(){var aK="-",aH=F.referrer.toLowerCase(),D=j.toLowerCase();if(""==t(X)){if(""!=aH){aK=ak(aH)}at(X,aK,"","weibo.com")}var aI=/weibo.com\/reg.php/;if(D.match(aI)){var aJ=V(unescape(D),"sharehost","&","");var i=V(unescape(D),"appkey","&","");if(""!=aJ){at(X,aJ,"","weibo.com")}at("appkey",i,"","weibo.com")}}function d(e,i){G(e,i)}function G(i,D){D=D||{};var e=new Image(),aH;if(D&&D.callback&&typeof D.callback=="function"){e.onload=function(){clearTimeout(aH);aH=null;D.callback(true)}}SUDA.img=e;e.src=i;aH=setTimeout(function(){if(D&&D.callback&&typeof D.callback=="function"){D.callback(false);e.onload=null}},D.timeout||2000)}function x(e,aH,D,aI){SUDA.sudaCount++;if(!av.visitorId()&&!L()){if(u<3){u++;setTimeout(x,500);return}}var i=N+[ai.V(),ai.CI(),ai.PI(e),ai.UI(),ai.MT(),ai.EX(aH,D),ai.R()].join("&");G(i,aI)}function y(e,D,i){if(aG||A){return}if(SUDA.sudaCount!=0){return}x(e,D,i)}function ab(e,aH){if((""==e)||(undefined==e)){return}av.setAEC(e);if(0==aH){return}var D="AcTrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+e+"||";var i=ag+D+"&gUid_"+new Date().getTime();d(i)}function aq(aI,e,i,aJ){aJ=aJ||{};if(!i){i=""}else{i=escape(i)}var aH="UATrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+aI+"||"+e+"||"+ad.referrer()+"||"+i+"||"+(aJ.realUrl||"")+"||"+(aJ.ext||"");var D=ag+aH+"&gUid_"+new Date().getTime();d(D,aJ)}function aC(aK){var i=g(aK);var aI=i.target;var aH="",aL="",D="";var aJ;if(aI!=null&&aI.getAttribute&&(!aI.getAttribute("suda-uatrack")&&!aI.getAttribute("suda-actrack")&&!aI.getAttribute("suda-data"))){while(aI!=null&&aI.getAttribute&&(!!aI.getAttribute("suda-uatrack")||!!aI.getAttribute("suda-actrack")||!!aI.getAttribute("suda-data"))==false){if(aI==F.body){return}aI=aI.parentNode}}if(aI==null||aI.getAttribute==null){return}aH=aI.getAttribute("suda-actrack")||"";aL=aI.getAttribute("suda-uatrack")||aI.getAttribute("suda-data")||"";sudaUrls=aI.getAttribute("suda-urls")||"";if(aL){aJ=J(aL);if(aI.tagName.toLowerCase()=="a"){D=aI.href}opts={};opts.ext=(aJ.ext||"");aJ.key&&SUDA.uaTrack&&SUDA.uaTrack(aJ.key,aJ.value||aJ.key,D,opts)}if(aH){aJ=J(aH);aJ.key&&SUDA.acTrack&&SUDA.acTrack(aJ.key,aJ.value||aJ.key)}}if(window.SUDA&&Object.prototype.toString.call(window.SUDA)==="[object Array]"){for(var Q=0,ae=SUDA.length;Q<ae;Q++){switch(SUDA[Q][0]){case"setGatherType":m=SUDA[Q][1];break;case"setGatherInfo":r=SUDA[Q][1]||r;b=SUDA[Q][2]||b;a=SUDA[Q][3]||a;break;case"setPerformance":Z=SUDA[Q][1];break;case"setPerformanceFilter":C=SUDA[Q][1];break;case"setPerformanceInterval":K=SUDA[Q][1]*1||0;K=isNaN(K)?0:K;break;case"setGatherMore":M.push(SUDA[Q].slice(1));break;case"acTrack":S.push(SUDA[Q].slice(1));break;case"uaTrack":I.push(SUDA[Q].slice(1));break}}}aG=(function(D,i){if(ah.top==ah){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight>=D)&&(F.body.clientWidth>=i))?false:true}catch(aH){return true}}})(320,240);A=(function(){return false})();av.setUOR();var au=av.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){ab.apply(null,arguments)};SUDA.uaTrack=function(){aq.apply(null,arguments)};U(F.body,"click",aC);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){ab.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){aq.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){ab.apply(null,arguments)};window._S_uaTrack=function(){aq.apply(null,arguments)};window._S_PID_="";if(!window.SUDA.disableClickstream){y()}try{k()}catch(T){}})();
-//-->
-</script> 
-<noScript> 
-<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
-</noScript> 
-<!-- SUDA_CODE_END -->
-
-<!-- SSO_GETCOOKIE_START -->
-<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
-<!-- SSO_GETCOOKIE_END -->
-
-<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
-<!-- body code end -->
-
-<div class="wrap">
-    <div class="top-nav udv-clearfix">
-        <div class="top-n-left left" style="margin-left: -15px;">
-            <a  href="http://zhuanlan.sina.com.cn/"><img src="http://i1.sinaimg.cn/dy/deco/2013/0822/imgs/finance_logo.png" style="padding-top:3px;"></a>
-            <a  href="http://finance.sina.com.cn/zl/"><img src="http://i3.sinaimg.cn/cj/deco/2013/0702/images/fina_logo_02.png"></a>
+<body>
+<div class="main">
+	<!--头部-->
+    <div class="header cf">
+        <div class="layout">
+            <a href="http://www.people.cn" target="_blank"><img src="/img/2020wbc/imgs/logo.png" alt="人民网" title="人民网" /></a>
         </div>
-
-        <div class="top-n-right">
-            <a  href="http://finance.sina.com.cn/" class="link-6b615d">新浪财经</a>
-            <span>|</span>
-            <a  href="http://www.sina.com.cn/" class="link-6b615d">新浪首页</a>
-            <span>|</span>
-            <a  href="http://news.sina.com.cn/guide/" class="link-6b615d">新浪导航</a>
-        </div>
-        <div id="login_wrapper" style="float: right;padding-top: 26px;"></div>
     </div>
-    <div id="topLoginLayer" style="display: none;"></div>
-    <script type="text/javascript">
-        requirejs(['lib'],function(){
-            requirejs(['login'], function(Login){
-                Login({
-                    ctr: $("#login_wrapper")
-            })
-        });
-        });
-    </script>
-    <!-- 顶通 begin -->
-
-    <!-- 顶通 end -->
-    <div class="ad_950_90 adNone" id="PublicRelation1">    <script>
-        (function (d, s, id) {
-            var s, n = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            s = d.createElement(s);
-            s.id = id;
-            s.setAttribute('charset', 'utf-8');
-            s.src = '//d' + Math.floor(0 + Math.random() * (9 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js';
-            n.parentNode.insertBefore(s, n);
-        })(document, 'script', 'sinaads-script');
-    </script>
-<ins class="sinaads" data-ad-pdps="B3C6A75390E2"></ins>
-<script>(sinaads = window.sinaads || []).push({});</script></div>
-</div>
-<div style="background: #072785;min-width:1000px;" id="nav">
-    <div class="wrap">
-        <div class="nav clearfix">
+    <div class="wb_line"></div>
+	<!--导航-->
+    <div class="rm_nav cf" id="rm_topnav">
+        <div class="layout rm_nav_con cf">
+			<div class="col col-1">
+				<ul class="cf"><li class="shouye"><a href="http://www.people.com.cn" target="_blank">首页</a></li>
+<li class="menu_item">
+    <span>党政<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
+    <div>
+        <ul>
+            <li><a href="http://cpc.people.com.cn/" target="_blank">党网 · 时政</a></li>
+            <li><a href="http://renshi.people.com.cn/" target="_blank">人事</a></li>
+            <li><a href="http://fanfu.people.com.cn/" target="_blank">反腐</a></li>
+            <li><a href="http://theory.people.com.cn/" target="_blank">理论</a></li>
+            <li><a href="http://dangshi.people.com.cn/" target="_blank">党史</a></li>
+            <li><a href="http://dangjian.people.com.cn/" target="_blank">党建</a></li>
+        </ul>
+    </div>
+</li><li class="menu_item">
+        <span>要闻<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
+        <div class="xinwen">
             <ul>
-                <li><a  href="http://zhuanlan.sina.com.cn/">专栏首页</a></li>
-                <li class="line">&nbsp;</li>
-                <li><a  href="http://home.zhuanlan.sina.com.cn/" target="_blank" class="link-fff">个人中心</a></li>
-                <li class="current"><a  href="http://finance.sina.com.cn/zl/">意见领袖</a></li>
-                <li class="nav_gdzt">
-                    <a href="http://finance.sina.com.cn/zl/special/" class="nav_gdzt_title">观点专题</a>
-<div class="nav_gdzt_list">
-
- <a href="http://finance.sina.com.cn/zl/special/jsjs.shtml" target="_blank">股市维稳</a>
-
- <a href="http://finance.sina.com.cn/zl/special/ythll.shtml" target="_blank">亚投行来了</a>
-
- <a href="http://finance.sina.com.cn/zl/special/zgzzkj.shtml" target="_blank">中国制造的困局</a>
-
- <a href="http://finance.sina.com.cn/zl/special/2015scjz.shtml" target="_blank">15年首次降准</a>
-
- <a href="http://finance.sina.com.cn/zl/special/2015rmbqn.shtml" target="_blank">2015人民币去哪</a>
-
-    <a href="http://finance.sina.com.cn/zl/special/" target="_blank">热点专题回顾</a>
-</div>
-                </li>
-                <li><a  href="http://finance.sina.com.cn/zl/china/">热评中国</a></li>
-                <li><a  href="http://finance.sina.com.cn/zl/international/">海外来风</a></li>
-                <li class="nav_tzlc">
-                    <a  class="nav_tzlc_title" href="http://finance.sina.com.cn/zl/stock/">投资理财</a>
-                    <div class="nav_tzlc_list">
-                        <a  href="http://finance.sina.com.cn/zl/stock/">股票</a><a  href="http://finance.sina.com.cn/zl/fund/">基金</a><a  href="http://finance.sina.com.cn/zl/usstock/">美股</a><a  href="http://finance.sina.com.cn/zl/money/">理财</a><a  href="http://finance.sina.com.cn/zl/hkstock/">港股</a><a  href="http://finance.sina.com.cn/zl/bank/">银行</a><a  href="http://finance.sina.com.cn/zl/insurance/">保险</a><a  href="http://finance.sina.com.cn/zl/future/">期货</a><a  href="http://finance.sina.com.cn/zl/nmetal/">黄金</a><a  href="http://finance.sina.com.cn/zl/forex/">外汇</a>
-                    </div>
-                </li>
-                <li><a  href="http://finance.sina.com.cn/zl/management/">管理</a></li>
-
-                <li><a  href="http://finance.sina.com.cn/zl/50forum/">中国经济50人</a></li>
-                <li><a  href="http://finance.sina.com.cn/zl/zuozhe/">作者库</a></li>
+                <li><a href="http://finance.people.com.cn/" target="_blank">经济 · 科技</a></li>
+                <li><a href="http://society.people.com.cn/" target="_blank">社会 · 法治</a></li>
+                <li><a href="http://ent.people.com.cn/" target="_blank">文旅 · 体育</a></li>
+                <li><a href="http://health.people.com.cn/" target="_blank">健康 · 生活</a></li>
+                <li><a href="http://world.people.com.cn/" target="_blank">国际</a></li>
+                <li><a href="http://military.people.com.cn/" target="_blank">军事</a></li>
+                <li><a href="http://hm.people.com.cn/" target="_blank">港澳</a></li>
+                <li><a href="http://tw.people.com.cn/" target="_blank">台湾</a></li>
+                <li><a href="http://edu.people.com.cn/" target="_blank">教育</a></li>
+                <li><a href="http://house.people.com.cn/" target="_blank">房产</a></li>
+<li><a href="http://lxjk.people.cn/GB/index.html" target="_blank">科普</a></li>
             </ul>
-            <div class="nav-form">
-                <form action="http://search.sina.com.cn/zl/search.php" method="get" id="unify_search" target="_blank" class="udv-clearfix">
-                    <input type="hidden" name="by" value="all"/>
-                    <input type="hidden" name="pid" value="31"/>
-                    <input type="text" name="q" class="nav-f-text" id="nav-f-text" autocomplete="off"/>
-                    <input type="submit" class="nav-f-submit" value="" />
-                </form>
-
-                <script type="text/javascript">
-                    <!--
-                    document.getElementById('unify_search').onsubmit=function () {
-                        var kw=this.q.value;
-                        if (!kw || kw=='请输入关键词') {
-                            alert('请输入搜索关键词!');
-                            this.q.focus();
-                            return false;
-                        }
-                    }
-                    //-->
-                </script>
-
-            </div>
         </div>
+    </li><li class="menu_item">
+    <span>观点<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
+    <div>
+        <ul>
+            <li><a href="http://opinion.people.com.cn/GB/223228/index.html" target="_blank">人民网评</a></li>
+            <li><a href="http://opinion.people.com.cn/GB/8213/420650/index.html" target="_blank">三评</a></li>
+            <li><a href="http://opinion.people.com.cn/GB/427456/index.html" target="_blank">人民财评</a></li>
+            <li><a href="http://opinion.people.com.cn/GB/431649/index.html" target="_blank">人民来论</a></li>            
+            <li><a href="http://fangtan.people.com.cn/" target="_blank">人民访谈</a></li>
+        </ul>
     </div>
-    <script type="text/javascript">
-        requirejs(['lib'],function(){
-            requirejs(['search', '$'],function(Searcher){
-                $(document).ready(function(){
-                    Searcher({
-                        inputId:'nav-f-text',
-                        pid:31,
-                        searchUrl:'http://admin.search.sina.com.cn/?s=api&a=suggest&format=json',
-                        resultPage:' http://search.sina.com.cn/zl/search.php'
-                    });
-                });
-            });
-        });
-    </script>
-    <script type="text/javascript">
-        requirejs(['lib'],function(){
-            requirejs(['$'],function(){
-                $(document).ready(function(){
-                    //投资理财
-                    $('.nav_tzlc').mouseenter(function () {
-                        $('.nav_tzlc_list').show();
-                    }).mouseleave(function () {
-                        $('.nav_tzlc_list').hide();
-                    });
-                    //观点专题
-                    $('.nav_gdzt').mouseenter(function () {
-                        $('.nav_gdzt_list').show();
-                    }).mouseleave(function () {
-                        $('.nav_gdzt_list').hide();
-                    });
-                });
-            });
-        });
-    </script>
+</li><li class="menu_item">
+        <span>互动<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
+        <div>
+            <ul>
+                <li><a href="http://liuyan.people.com.cn/" target="_blank">领导留言板</a></li>
+                <li><a href="http://bbs1.people.com.cn/" target="_blank">强国论坛</a></li>
+                <li><a href="https://weiquan.people.com.cn/#/" target="_blank">维权</a></li>                
+            </ul>
+        </div>
+    </li><li class="menu_item">
+        <span>可视化<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
+        <div>
+            <ul>
+                <li><a href="http://v.people.cn/" target="_blank">视频</a></li>
+                <li><a href="http://pic.people.com.cn/" target="_blank">图片</a></li>
+                <li><a href="http://graphicnews.people.com.cn/" target="_blank">图解</a></li>
+            </ul>
+        </div>
+    </li><li class="menu_item">
+    <span>地方<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
+    <div>
+    <ul class="df">
+        <li><a href="http://bj.people.com.cn/" target="_blank">京</a></li>
+        <li><a href="http://tj.people.com.cn/" target="_blank">津</a></li>
+        <li><a href="http://he.people.com.cn/" target="_blank">冀</a></li>
+        <li><a href="http://sx.people.com.cn/" target="_blank">晋</a></li>
+        <li><a href="http://nm.people.com.cn/" target="_blank">蒙</a></li>
+        <li><a href="http://ln.people.com.cn/" target="_blank">辽</a></li>
+        <li><a href="http://jl.people.com.cn/" target="_blank">吉</a></li>
+        <li><a href="http://hlj.people.com.cn/" target="_blank">黑</a></li>
+        <li><a href="http://sh.people.com.cn/" target="_blank">沪</a></li>
+        <li><a href="http://js.people.com.cn" target="_blank">苏</a></li>
+        <li><a href="http://zj.people.com.cn/" target="_blank">浙</a></li>
+        <li><a href="http://ah.people.com.cn/" target="_blank">皖</a></li>
+        <li><a href="http://fj.people.com.cn/" target="_blank">闽</a></li>
+        <li><a href="http://jx.people.com.cn/" target="_blank">赣</a></li>
+        <li><a href="http://sd.people.com.cn/" target="_blank">鲁</a></li>
+        <li><a href="http://henan.people.com.cn/" target="_blank">豫</a></li>
+        <li><a href="http://hb.people.com.cn/" target="_blank">鄂</a></li>
+        <li><a href="http://hn.people.com.cn/" target="_blank">湘</a></li>
+        <li><a href="http://gd.people.com.cn/" target="_blank">粤</a></li>
+        <li><a href="http://gx.people.com.cn/" target="_blank">桂</a></li>
+        <li><a href="http://hi.people.com.cn/" target="_blank">琼</a></li>
+        <li><a href="http://cq.people.com.cn/" target="_blank">渝</a></li>
+        <li><a href="http://sc.people.com.cn/" target="_blank">川</a></li>
+        <li><a href="http://gz.people.com.cn/" target="_blank">黔</a></li>
+        <li><a href="http://yn.people.com.cn/" target="_blank">滇</a></li>
+        <li><a href="http://xz.people.com.cn/" target="_blank">藏</a></li>
+        <li><a href="http://sn.people.com.cn/" target="_blank">陕</a></li>
+        <li><a href="http://gs.people.com.cn/" target="_blank">甘</a></li>
+        <li><a href="http://qh.people.com.cn/" target="_blank">青</a></li>
+        <li><a href="http://nx.people.com.cn/" target="_blank">宁</a></li>
+        <li><a href="http://xj.people.com.cn/" target="_blank">新</a></li>
+        <li><a href="http://sz.people.com.cn/" target="_blank">鹏</a></li>
+        <li><a href="http://www.rmxiongan.com/" target="_blank">雄安</a></li>
+    </ul>
+    </div>
+</li><li class="jubao"><a href="https://www.12377.cn/" target="_blank">举报专区</a></li><li class="language"><span>多语言<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
+<div>
+    <ul class="dyz">
+        <li><a href="http://mongol.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/01.png" class="meng" /></a></li>
+        <li><a href="http://tibet.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/02.png" /></a></li>
+        <li><a href="http://uyghur.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/03.png" /></a></li>
+        <li><a href="http://kazakh.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/04.png" /></a></li>
+        <li><a href="http://korean.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/05.png" /></a></li>
+        <li><a href="http://yi.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/06.png" /></a></li>
+        <li><a href="http://sawcuengh.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/07.png" /></a></li>
+        <li><a href="http://www.people.com.cn/BIG5/" target="_blank"><img src="/img/2020peopleindex/img/dyz/08.png" /></a></li>
+		<li style="font-size:24px;color:#ccc;margin-top:3px;">|</li>
+        <li><a href="http://en.people.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/09.png" /></a></li>
+        <li><a href="http://j.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/10.png" /></a></li>
+        <li><a href="http://french.peopledaily.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/11.png" /></a></li>
+        <li><a href="http://spanish.peopledaily.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/12.png" /></a></li>
+        <li><a href="http://russian.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/13.png" /></a></li>
+        <li><a href="http://arabic.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/14.png" /></a></li>
+        <li><a href="http://kr.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/15.png" /></a></li>
+        <li><a href="http://german.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/16.png" /></a></li>
+        <li><a href="http://portuguese.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/17.png" /></a></li>
+    </ul>
 </div>
-
-<div class="wrap" style="width:950px;">
-
-    <div class="sp20"></div>
-
-    <!-- 主容器 begin -->
-    <a  name="Main"></a>
-    <div class="Main clearfix">
-        <!--  内容列 begin -->
-        <div class="blkContainer">
-
-<script>
-        (function (d, s, id) {
-            var s, n = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            s = d.createElement(s);
-            s.id = id;
-            s.setAttribute('charset', 'utf-8');
-            s.src = '//d' + Math.floor(0 + Math.random() * (9 - 0 + 1)) + '.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js';
-            n.parentNode.insertBefore(s, n);
-        })(document, 'script', 'sinaads-script');
-</script>
-<!--$$ 20140801 00:00:00-20140801 12:00:00 张飞 zhangfei1.sina.com.cn  开始 $-->
-<!--$$ 窄通广告 pdps: 1188672F3595 $-->
-<ins class="sinaads" data-ad-pdps="1188672F3595B"></ins>
-<script>(sinaads = window.sinaads || []).push({});</script>
-<!--$$ 20140801 00:00:00-20140801 12:00:00 张飞 zhangfei1.sina.com.cn 结束 $-->
-
-            <!-- 正文块 begin -->
-            <div class="blkContainerPblk" id="J_Article_Wrap">
-                <!-- 微博名片 -->
-                <script type="text/javascript" src="http://news.sina.com.cn/js/87/20110714/205/sinalib.js"></script>
-                <script type="text/javascript" src="http://ent.sina.com.cn/js/20120914/weibocard.js"></script>
-                <!-- /微博名片 -->
-                <div class="blkContainerSblk">
-                    <h1 id="artibodyTitle" pid="31" tid="1" did="23527066" fid="1554">天涯为啥16年后才上市新三板</h1>
-                    <div class="artInfo">
-                        <span id="pub_date">2015年10月20日&nbsp;18:12</span>&nbsp;&nbsp;<span class="art_author" id="author_ename">作者:<a href="http://zhuanlan.sina.com.cn/author/wumiancaijing/index.shtml" target="_blank">无冕财经</a></span>&nbsp;&nbsp;<a  class="support_fun" id="J_To_Support" href="javascript:;" title="赞一个" action-type="to_support">(<em>0</em>)<span class="support_tip">+1</span></a>  <a  id="media_comment" href="#J_Comment_Wrap" rel="我有话说" class="J_Comment_Count_Txt" style="display:none;" action-type="anchorGo" data-sudaclick="media_comment">我有话说</a>
-                        <div class="font_change"  id="J_Font_Zoomer" data-sudaclick="font_change">
-                            <span font-size="14"><a  class="J_Font_Zoomer_Trigger icon font_down font_down_disable" action-type="fontZoom" action-data="type=down" href="javascript:void(0);" title="减小字号"></a><a  class="J_Font_Zoomer_Trigger icon font_up"  action-type="fontZoom" action-data="type=up"  href="javascript:void(0);" title="加大字号"></a></span>
+</li><li class="language dhfj"><span>合作网站<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
+<div>
+    <ul class="hzwz">
+        <li><a href="http://cpc.people.com.cn/GB/69112/113427/index.html" target="_blank">毛主席纪念堂</a></li>
+        <li><a href="http://zhouenlai.people.cn/" target="_blank">周恩来纪念网</a></li>
+        <li><a href="http://www.dengxiaopingnet.com/" target="_blank">邓小平纪念网</a></li>
+        <li style="display:none;"><a href="http://npc.people.com.cn/" target="_blank">人大新闻网</a></li>
+        <li><a href="http://acftu.people.com.cn/" target="_blank">工会新闻网</a></li>
+        <li><a href="http://www.chinaql.org/GB/index.html" target="_blank">中国侨联</a></li>
+        <li><a href="https://www.xuexi.cn/" target="_blank">学习强国</a></li>
+        <li><a href="http://www.dswxyjy.org.cn/" target="_blank">中共中央党史和文献研究院</a></li>
+        <li><a href="http://www.12380.gov.cn/" target="_blank">中组部12380举报网</a></li>
+        <li><a href="http://www.nopss.gov.cn/" target="_blank">全国哲学社科工作办</a></li>
+        <li style="display:none;"><a href="http://tyzx.people.cn/" target="_blank">中国统一战线新闻网</a></li>
+        <li><a href="http://www.qizhiwang.org.cn/" target="_blank">旗帜网</a></li>
+        <li><a href="http://www.gjbmj.gov.cn/" target="_blank">国家保密局</a></li>
+        <li><a href="http://kpzg.people.com.cn/" target="_blank">科普中国</a></li>
+        <li><a href="http://ip.people.com.cn/" target="_blank">知识产权</a></li>
+        <li style="display:none"><a href="http://rwdl.people.cn/" target="_blank">中国国家人文地理</a></li>
+    </ul>
+</div>
+</li><li class="nav_jia"><a href="http://www.people.cn/app/download.html" target="_blank"><img src="/img/2020peopleindex/img/rmwjia1.png" alt=""></a></li><li class="nav_more"><img src="/img/2020peopleindex/img/more2.png" alt=""></li><li class="sou"><a href="http://search.people.cn/" target="_blank"><img src="/img/2020peopleindex/img/sou1.png" alt=""></a></li><li class="Sign" id="login_button"><em></em><a href="http://sso.people.com.cn/login?fromUrl=http://people.com.cn" target="_blank">登录</a></li>
+                <div class="p_login" id="p_login">
+                    <div class="jiao"></div>
+                    <div id="txz_dlh">
+                        <div class="lg_up">
+                            <span><img src="/img/2020peopleindex/img/dltx1.png" width="30" height="30" alt=""></span><em id="loginMsg"></em>
+                        </div>
+                        <div class="lg_down">
+                            <a id="logout" target="_self">退出</a>
                         </div>
                     </div>
-                    <div id="art-subscribe" class="art-subscribe"></div>
-                    <!-- 正文内容 begin -->
-                    <div class="blkContainerSblkCon BSHARE_POP" id="artibody">
-                        <!--视频轮播start-->
-
-                        <!--视频轮播end-->
-
-                        <!--单图 start-->
-                        <div class="moduleSingleImg01">
-
-                        </div>
-                        <!--单图 end-->
-
-                        <!-- publish_helper name='原始正文' p_id='31' t_id='1' d_id='23527066' f_id='45' -->
-
-<p>　　文/新浪财经意见领袖(微信公众号kopleader)机构专栏 无冕财经 作者 范白</p>
-
-<p>　　<span style="font-family: KaiTi_GB2312,KaiTi;">背靠谷歌巨头，天涯在2008年对赴美上市跃跃欲试，后来却又无声无息的结束了。按照天涯CEO邢明的说法，这是自己主动放弃了。随着谷歌与中国政府关系恶化，2010年谷歌全面退出中国，留给天涯的却是一地鸡毛。</span></p>
-
-<div class="img_wrapper"><img alt="天涯上市新三板为啥用了16年" src="http://i1.sinaimg.cn/cj/2015/1020/U12204P31DT20151020180851.jpg" title="天涯上市新三板为啥用了16年" /><span class="img_descr">天涯上市新三板为啥用了16年</span></div>
-
-<p>　　夕阳西下，断肠人在天涯——这样评价，似乎有点刻薄，但不能不让人唏嘘的是：从论坛时代到移动互联网时代，“化石级”的互联网企业天涯，即使是16年后登陆了新三板，仍然让人无法相信其商业化能够成功——这或许就是文青与商人之间的悖论。</p>
-
-<p>　　幸运的是，在web1.0时代，天涯是70后、80后的互联网符号；遗憾的是，在移动互联网时代，天涯一直在转型，一直在掉队，对于玩手机的90后，天涯是什么？</p>
-
-<p>　　在Alxa排名里，天涯依然是全球59、中国前十的知名网站，平均日PV(页面浏览量)是6318万，但是，在移动时代，这个数据真的还能代表全部吗？</p>
-
-<div class="img_wrapper"><img alt="天涯社区创始人邢明" src="http://i3.sinaimg.cn/cj/2015/1020/U12204P31DT20151020180938.jpg" title="天涯社区创始人邢明" /><span class="img_descr">天涯社区创始人邢明</span></div>
-
-<p>　　社交是互联网使用频率最高的功能，但迁徙起来也是最快速且干脆的。即便强如腾讯，微信也几乎完全取代了QQ。从论坛到博客，再到微博微信，社交环境越来越细分与私密，而“大杂烩”的天涯还存在着。</p>
-
-<p>　　这个脉络，在今年的8月26日有了新的转折，天涯在新三板正式挂牌，但是，上市之后呢，天涯还要转型吗？</p>
-
-<p>　　<strong>坎坷：投靠谷歌<a class="wt_article_link" onmouseover="WeiboCard.show(2617744132,'finance',this)" href="http://weibo.com/googlev?zw=finance" target="_blank">[微博]</a>的得与失</strong></p>
-
-<p>　　回忆往昔，天涯人都会惋惜——如果2008年天涯赴美上市成功了，今天又会是怎样的？</p>
-
-<p>　　在瞬息万变的互联网江湖，论坛类几乎是最“蜗牛”的存在。环顾四周，从创立到融资，广州妈妈网花了6年，19楼花了7年，天涯亦是7年，跟现在动辄一年4轮融资的APP公司不可同日而语。</p>
-
-<p>　　这是一次奔着融资的上市。2006年，天涯社区就先后获得了清科、联想、谷歌的投资，并于同年在开曼群岛成立天涯控股。随后在2007年4月1日，天涯社区控股有限公司将1000股普通股拆分为100万股普通股，每股面值稀释为0.001美元，同时向天涯集团控股有限公司、First Sky Limited和 HappyJoin Limited 及其他投资者发行1400万股普通股。</p>
-
-<div class="img_wrapper"><img alt="天涯社区的上市历程" src="http://i1.sinaimg.cn/cj/2015/1020/U12204P31DT20151020180950.jpg" title="天涯社区的上市历程" /><span class="img_descr">天涯社区的上市历程</span></div>
-
-<p>　　正是在这次发行中，谷歌买入了100万股，占比6.67%。同年，天涯控股与境内天涯社区及股东方也签订了一系列控制协议，搭建VIE(可变利益实体)架构。</p>
-
-<p>　　背靠谷歌巨头，天涯在2008年对赴美上市跃跃欲试，后来却又无声无息的结束了。按照天涯CEO邢明的说法，这是自己主动放弃了。</p>
-
-<p>　　“当时天涯控股在海外成立VIE架构，融了美元基金，的确是有在海外上市的考虑。”邢明说，但是当时的天涯并没有跟券商对接，也没有提交相关申请上市的材料，所以不存在上市失败，“之所以没有继续进行，是受到了国内创业板的诱惑。天涯决定拆除VIE架构、冲击创业板第一批，但是与谷歌的漫长谈判阻止了这一美好愿望。”</p>
-
-<p>　　拆除VIE，意味着国外资本谷歌必须退出，谷歌就不答应了。“你无缘无故地让人退出你的股权，人家肯定不干呀。”邢明说。</p>
-
-<p>　　好在，天涯拿下了这场股权回购拉锯战，虽然过程颇为曲折。</p>
-
-<p>　　“当时与谷歌的谈判持续了将近两年，等我们把一切都搞定之后，发现上创业板要排队了。”邢明如此解释冲击创业板的失败。</p>
-
-<p>　　另外还发生了一些事情，随着谷歌与中国政府关系恶化，2010年谷歌全面退出中国，留给天涯的却是一地鸡毛。</p>
-
-<div class="img_wrapper"><img alt="天涯社区Ipad版下载界面" src="http://i3.sinaimg.cn/cj/2015/1020/U12204P31DT20151020181047.jpg" title="天涯社区Ipad版下载界面" /><span class="img_descr">天涯社区Ipad版下载界面</span></div>
-
-<p>　　多番辗转，天涯今年终于又站在资本市场门口。由于国内上市的盈利门槛，如今处于战略亏损期的天涯只能通过挂牌新三板的方式来对接资本市场。</p>
-
-<p>　　“跟我们在场外沟通的资本方越来越多，少量的场内协议交易大多是试探性的。”邢明介绍说，从天涯宣布要挂牌新三板的时候，就有十多家券商联系天涯，表达了做市意向，这些情况外界不是很了解。</p>
-
-<p>　　自然，寻求更活跃、更公开的资本市场才是天涯的目标。“我们还是想要对接更活跃的交易市场，不排除转板上市的可能，我们也期待新三板有更多的创新。”</p>
-
-<p>　<strong>　去向：再再再转型？ </strong></p>
-
-<p>　　从2008年的博客时代开始，“论坛已死”的论调几乎已被坐实，但天涯不死。</p>
-
-<p>　　“天涯最大的价值是用户文化，没有人会说自己是‘微博人’、‘微信人’，但很多天涯用户自豪自己是‘天涯人’。”天涯副总裁陈勇曾如是告诉记者。</p>
-
-<p>　　但转型无线依然是必要的，对于以长内容、慢节奏著称的天涯而言，无线业态是什么？这一问就是三年。</p>
-
-<p>　　2012年，天涯的广告业务碰到了天花板，天涯开始向个人增值服务和社区型电商转型。</p>
-
-<p>　　记者当时采访的时候，其重点推行的项目是“天涯轻”与“天涯客”，前者是一个“大杂烩”性质的APP，包括当时流行的微博、轻博客、LBS交友以及O2O等形式，定位是天涯新的资源整合平台；后者则是一个游记性质的产品，切入社区电商领域，寻求除了广告以外新的盈利途径。</p>
-
-<div class="img_wrapper"><img alt="天涯轻的手机欢迎界面" src="http://i2.sinaimg.cn/cj/2015/1020/U12204P31DT20151020181110.jpg" title="天涯轻的手机欢迎界面" /><span class="img_descr">天涯轻的手机欢迎界面</span></div>
-
-<p>　　而时至今日，记者打开手机助手看到，天涯轻已经不复存在，而天涯客则仅有1000多下载量。</p>
-
-<p>　　曾有投资人建议邢明在内容上精耕细作，从孵化内容上寻求新的盈利点，但邢明一直坚持“平台化战略”，“平台是最难做的，但是价值却是最大的”。但三年来，“新天涯”的用户数依然无法构成“平台”的概念。</p>
-
-<p>　　回过头来，邢明今年说，用户优先，让用户找回“家园”的归属感。虽然说“平台”两字跟“用户”并不冲突，但这却是商业逻辑的根本改变。天涯过去是粗放型经营，版主具有极高自治权，即使“孙志刚事件”、“凤姐事件”都是在天涯上发酵，但其存在感很低，这也是其用户逐渐流失的原因之一，而现在，天涯把大而全的目标，开始聚焦在运营用户上。</p>
-
-<div class="img_wrapper"><img alt="天涯社区转型后各业务涨幅比" src="http://i3.sinaimg.cn/cj/2015/1020/U12204P31DT20151020181120.jpg" title="天涯社区转型后各业务涨幅比" /><span class="img_descr">天涯社区转型后各业务涨幅比</span></div>
-
-<p>　　2015年上半年，天涯加大了运营奖励式众筹和天涯客旅游网，取得了明显成效。报告期内，个人增值业务大幅增长，同比增长238%，个人增值业务中，打赏收入同比增长8260%；社区型电子商务依托良好的社区生态构建垂直性行业直销平台，重点在旅游电商和<span id=stock_sz000061><a href=http://finance.sina.com.cn/realstock/company/sz000061/nc.shtml class="keyword" target=_blank>农产品</a></span><span id=quote_sz000061></span>电商方面进行布局，实现了交易额的快速增长，收入同比增加6851%。</p>
-
-<p>　　从数据可以看出，天涯逐渐将重心倾斜在社区游戏化和社区型电商这方面。社区游戏化业务与天涯自身的特质是很吻合的，因为天涯本身就是拥有大量角色扮演用户的虚拟社区。而对于社区型电商，邢明把这解释为C2B，即从用户需求出发，为用户选择直销服务的商家和商品。</p>
-
-<p>　　“这种模式是一个创新的方向，也是跟我们的社区很和谐的。天涯既要好看又要好玩也要实用，提供直销服务的商家和产品不在于全、也不在于多，而是要切合用户的共性需求，要实现‘单品海量爆款’。”邢明说，天涯首选的是旅游和农产品。</p>
-
-<p>　　虽然移动端APP早已不是什么新鲜事物，而且还出现同质化现象，但是在邢明眼里，天涯的优势非常明显。“我们最大的特点是天涯有很多的原创内容，这些是我们独有的。”为了更好地让这些原创内容走向出版和影视，天涯还将通过众筹的方式，满足粉丝对好作品的追求。</p>
-
-<p>　　以用户为中心，并不妨碍邢明的平台梦，某种程度上，这就像天涯重头再来，先让用户自豪于一个“天涯人”的身份。</p>
-
-<p>　　那么平台呢？邢明说，那是水到渠成的。</p><!-- news_keyword_pub,stock,sz000061 -->
-<!-- publish_helper_end -->
-
-                        <p>　　(本文作者介绍：无冕财经，新闻无价，我们关注“互联网+”思维下的传统企业转型、新型创业与投资。) </p><p><span style="font-family: KaiTi_GB2312,KaiTi;">　　本文为作者独家授权新浪财经使用，请勿转载。所发表言论不代表本站观点。</span></p>
-
-                    </div>
-                    <script type="text/javascript">
-                        //分享到微博 单张图片分享
-                        jsLoader(ARTICLE_JSS.sinalib).
-                                jsLoader(ARTICLE_JSS.shareOnWeibo,function(){
-                                    WeiboShare.config({
-                                        source: ARTICLE_DATA.source,
-                                        sourceUrl: ARTICLE_DATA.sourceUrl,
-                                        uid: ARTICLE_DATA.uid,
-                                        encoding: 'gb2312',
-                                        selectShare: false,
-                                        channelId:ARTICLE_DATA.channelId
-                                    });
-                                    WeiboShare.init('#artibody');
-                                });
-                    </script>
-                    <!-- 正文内容 end -->
-
-                    <div class="fin_art_weixin clearfix"><p><strong>　　欢迎关注官方微信“意见领袖”，阅读更多精彩文章。点击微信界面右上角的+号，选择“添加朋友”，输入意见领袖的微信号“kopleader”即可，也可以扫描下方二维码添加关注。意见领袖将为您提供财经专业领域的专业分析。</strong></p> <div class="img_wrapper"><img alt="意见领袖官方微信" src="http://n.sinaimg.cn/780c44e8/20150807/zl_weichat.jpg"></div></div>
-
-	<!-- 文章关键字 begin -->
-	<p class="art_keywords">
-	  <span class="art_keywords_tt">文章关键词：</span> <a href="http://tags.zhuanlan.sina.com.cn/天涯" target="_blank">天涯</a><a href="http://tags.zhuanlan.sina.com.cn/邢明" target="_blank">邢明</a><a href="http://tags.zhuanlan.sina.com.cn/新三板" target="_blank">新三板</a><a href="http://tags.zhuanlan.sina.com.cn/谷歌" target="_blank">谷歌</a><a href="http://tags.zhuanlan.sina.com.cn/论坛" target="_blank">论坛</a>
-	</p>
-	<!-- 文章关键字 end -->
-
-                    <div class="content_line"></div><!-- 相关新闻 begin -->
-			<div class="content_aboutNews clearfix">
-				<div class="ctit ctit_01"><h2>推荐阅读</h2></div>
-				<div class="cblk_01">
-					<ul class="clist cpot clist_02">
-						<li><a target="_blank" href="http://finance.sina.com.cn/zl/stock/20151014/083423469245.shtml">《鲁豫有约》登陆新三板 鲁豫却“亏哭”了</a></li><li><a target="_blank" href="http://finance.sina.com.cn/zl/money/20151013/154923461618.shtml">央妈放贷后聪明人该如何理财</a></li><li><a target="_blank" href="http://finance.sina.com.cn/zl/china/20151016/104023494596.shtml">北京上海房价为啥难下跌</a></li><li><a target="_blank" href="http://finance.sina.com.cn/zl/china/20151019/075123509059.shtml">中国制造2025救不了东北经济</a></li><li><a target="_blank" href="http://finance.sina.com.cn/zl/international/20151015/095123482075.shtml">部分中国家庭把股市当赌场</a></li>
-					</ul>
+                </div></ul>
+			</div>
+		</div>
+	</div>
+    <div class="nav_more_con cf">
+		<i class="more_btn"></i>
+		<div class="layout cf">
+			<h1 class="cf"><img src="/img/2020peopleindex/img/logo_red.png" alt=""></h1><ul class="cf">
+            	<li><a href="http://www.people.cn/app/download.html" target="_blank"><img src="/img/2020peopleindex/img/icon_more0.png" alt="">人民网+</a></li>
+				<li><a href="http://cpc.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/icon_more1.png" alt="">中国共产党新闻网</a></li>
+				<li><a href="http://liuyan.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/icon_more2.png" alt="">领导留言板</a></li>
+				<li><a href="http://bbs1.people.com.cn/board/1.html" target="_blank"><img src="/img/2020peopleindex/img/icon_more3.png" alt="">强国论坛</a></li>
+				<li><a href="http://v.people.cn/" target="_blank"><img src="/img/2020peopleindex/img/icon_more4.png" alt="">人民视频</a></li>
+				<li><a href="http://www.people.cn/rmzy/download.html" target="_blank"><img src="/img/2020peopleindex/img/icon_more5.png" alt="">人民智云</a></li>
+			</ul><h3 class="cf">人民日报报系</h3>
+<div class="more_con cf">
+    <a href="http://paper.people.com.cn/rmrb/index.html" target="_blank">人民日报</a>
+    <a href="http://paper.people.com.cn/rmrbhwb/paperindex.htm" target="_blank">人民日报海外版</a>
+    <a href="http://www.cnautonews.com/" target="_blank">中国汽车报</a>
+    <a href="http://paper.people.com.cn/zgnyb/paperindex.htm" target="_blank">中国能源报</a>
+    <a href="http://paper.people.com.cn/jksb/paperindex.htm" target="_blank">健康时报</a>
+    <a href="http://www.stcn.com/" target="_blank">证券时报</a>
+    <a href="http://www.ifnews.com/" target="_blank">国际金融报网</a>
+    <a href="http://paper.people.com.cn/fcyym/paperindex.htm" target="_blank">讽刺与幽默</a>
+    <a href="http://paper.people.com.cn/zgcsb/paperindex.htm" target="_blank">中国城市报</a>
+    <a href="http://paper.people.com.cn/xwzx/paperindex.htm" target="_blank">新闻战线</a>
+    <a href="http://paper.people.com.cn/rmlt/paperindex.htm" target="_blank">人民论坛</a>
+    <a href="http://www.hqrw.com.cn/" target="_blank">环球人物</a>
+    <a href="http://www.ceweekly.cn/" target="_blank">中国经济周刊</a>
+    <a href="http://www.msweekly.com/" target="_blank">民生周刊</a>
+    <a href="http://www.gjrwls.com/" target="_blank">国家人文历史</a>
+    <a href="http://paper.people.com.cn/rmzk/paperindex.htm" target="_blank">人民周刊</a>
+</div><h3 class="cf">旗下网站</h3>
+<div class="more_con cf">
+<a href="http://sklccc.com.cn/" target="_blank">国家重点实验室</a>
+<a href="http://www.huanqiu.com/" target="_blank">环球网</a>
+<a href="http://www.haiwainet.cn/" target="_blank">海外网</a>
+<a href="http://vip.people.com.cn/" target="_blank">人民图片</a>
+<a href="https://visual.people.cn/editorial" target="_blank">人民视觉</a>    
+<a href="http://yjy.people.com.cn/" target="_blank">人民网研究院</a>
+</div></div>
+	</div>
+    <style type="text/css">
+    @media (min-device-width:320px) and (max-width:689px),(max-device-width:480px){
+		.asbanner{ width:100% !important;margin:20px auto 0px auto !important;}
+		#banner_20 img{ width:100% !important; height:auto !important;}
+	}
+    </style>
+    <div class="layout tlgg cf">
+ 		<script type="text/javascript" src="http://pgg.people.com.cn/s?z=people&c=20" charset="gbk"></script>
+	</div>
+	<!--路径-->
+	<div class="layout route cf" id="rwb_navpath">
+		<a href="http://www.people.com.cn/" class="clink">人民网</a>&gt;&gt;<a href="http://shipin.people.com.cn/" class="clink">食品</a>
+	</div>
+	<!--内容-->
+	<div class="layout rm_txt cf">
+		<div class="col col-1 fl">
+			<h3 class="pre"></h3>
+			<h1>矿物质该怎么补？</h1>
+			<h4 class="sub"></h4>
+			<div class="author cf"></div>
+			<div class="channel cf">
+				<div class="col-1-1 fl">
+					2016年11月08日09:13 | 来源：<a href="http://gzdaily.dayoo.com/html/2016-11/08/content_27_3.htm" target="_blank">广州日报</a>
+				</div>
+				<div class="col-1-2 fr">
+					<span class="rm_type"><img src="/img/2020wbc/imgs/icon_type.png" alt=""><i>小字号</i></span>
 				</div>
 			</div>
-
-            <!-- 相关新闻 end -->
-
-                    <div class="attitude" id="attitude">
-                    </div>
-                    <script type="text/javascript">
-                        requirejs(['lib', 'article'], function () {
-                            requirejs(['article/like', 'article/collect', 'uid-white-list-check', '$'], function (Like, Collect, check) {
-                                $(document).ready(function () {
-                                    new Like({
-                                        article_url: 'http://finance.sina.com.cn/zl/china/20151020/181223527066.shtml' || location.href,
-                                        ctr: $("#attitude")
-                                });
-                                new Collect({
-                                    article_url: 'http://finance.sina.com.cn/zl/china/20151020/181223527066.shtml' || location.href,
-                                    ctr: $("#attitude")
-                            });
-
-                            check({
-                                needCheck: false,
-                                suc: function () {
-                                },
-                                fail: function () {
-                                    //隐藏消息和设置
-                                    $("#login_wrapper")
-                                            .find('[data-action]')
-                                            .css({
-                                                display: 'none'
-                                            });
-                                }
-                            });
-                        });
-                        });
-                        });
-                    </script>
-
-                    <!-- 分享功能 old位置 begin -->
-                    <div class="content_shareto clearfix" style="display:none;">
-                        <div id="sinashareto" style="height:60px; float:right;width:460px;">
-                            <div style="line-height:22px; height:30px; text-align:right; padding-right:5px;visibility:hidden;" data-sudaclick="cmnt_num_02"><a  href="#J_Comment_Wrap" rel="欢迎发表评论" class="J_Comment_Count_Txt fgrey333" style="display:none;" action-type="anchorGo">欢迎发表评论</a></div>
-                        </div>
-                    </div>
-                    <!-- 分享功能 old位置 end -->
-
-        <!-- 恭喜发财勋章 begin -->
-        <script type="text/javascript">
-            //点击按钮分享两次正文，颁发勋章
-            (function(){
-                //var isNBA = location.href.indexOf('sports.sina.com.cn/nba/') !=-1?true:false;
-               //if(!isNBA){return;}
-                var API = 'http://platform.sina.com.cn/sports_other/medalSports?app_key=3633771828&format=json&ch=finance';
-                var getData = function(){
-                    $.ajax({
-                      type: 'GET',
-                      url: API,
-                      dataType: 'jsonp'
-                    });
-                }
-                jsLoader(ARTICLE_JSS.jq,function(){
-                    var $ = jQuery;
-                    $('.bshare-sinaminiblog').on('click',function(){
-                        getData();
-                    });
-                    jsLoader(ARTICLE_JSS.sab,function(){
-                        var sideBtn = $('#weibo_btn a');
-                        if(sideBtn.length){
-                            sideBtn.on('click',function(){
-                                getData();
-                            });
-                        }else{
-                            setTimeout(arguments.callee, 300);
-                        }
-                    });
-                });
-            })();
-        </script>
-        <!-- 恭喜发财勋章 end -->
-
-                </div>
-
-                <style>
-                    .weibo_share_w{position:relative;bottom:-50px;left:-160px;float:none !important;_zoom:1; *bottom:-30px;_bottom:-50px;}
-                    .J_Comment_Count_Txt{position:relative;bottom:-43px;*bottom:-26px;_bottom:-40px;}
-                    #media_comment{position:static;}
-                    .content_shareto{margin-top:-100px!important; _margin-top:-80px;height:auto;}
-                    #J_Post_Box_Count .J_Comment_Count_Txt{position:static;}
-                    .blkContainerSblk{padding-bottom:5px;}
-                    .blkContainerCommentblk {margin-top:20px; margin-bottom:20px;}
-                    .Mblk_cmnt {width:678px !important;}
-                    .Mblk_cmnt .post_box_top {width:648px !important;}
-                    .Mblk_cmnt .b_cont2 {border-left:none; border-right:none;}
-                    .attitude {padding-top:18px; padding-bottom:18px;}
-                    .content_aboutNews {padding-left:20px;}
-                    /* 分享 收藏 保存 打印 */
-                    .content-tools-wrap{height:25px;line-height:25px;margin:0;padding:0 25px;overflow:visible;}
-                    .content-tools-wrap .weixin_qr_intro{text-align:left;}
-                    .content-tools-share{float:left;display:inline;}
-                    .content-tools-share-label{float:left;padding-right:5px;color:#333;}
-                </style>
-                <div class="content_line"></div>
-                <div class="content_print content-tools-wrap">
-                    <!-- 分享功能 begin -->
-                                  <div class="content-tools-share" data-sudaclick="weibo_share_03">
-                    <span class="content-tools-share-label" class="shareto_normaltxt">分享到:</span>
-                    <div class="bshare-custom icon-medium" style="float:left"><a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);" onclick = '_S_uaTrack("yunying_share", "weibo_click");'></a><a class="share_weimi" id="share_weimi" href="javascript:void(0)" suda-uatrack="key=yunying_share&value=weimi_click" title="分享到微米"></a><a class="share_laiwang" id="share_laiwang" href="javascript:void(0)" suda-uatrack="key=yunying_share&value=laiwang_click"></a><span class="share_weixin_w" id="share_weixin_w"><span class="share_weixin" id="share_weixin" suda-uatrack="key=yunying_share&value=wx_click"></span></span><a title="分享到QQ空间" class="bshare-qzone" href="javascript:void(0);" onclick = '_S_uaTrack("yunying_share", "qzone_click");'></a><a title="分享到人人网" class="bshare-renren" href="javascript:void(0);" onclick = '_S_uaTrack("yunying_share", "renren_click");'></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a></div>
-                    <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=2c330a9c-c99a-4bb0-8919-7ea66c5025cc&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
-                    <script type="text/javascript">
-                    (function(){
-                        var user = sinaSSOController.get51UCCookie();
-                        if(user){
-                            document.write('<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/addons/bshareDrag.js?bp=sinaminiblog,qzone,qqmb,renren,kaixin001&text="></scr'+'ipt>');
-                        };
-                    })();
-                    </script>
-              </div>
-              <!-- 分享到微信,微米,来往 begin -->
-              <link href="http://news.sina.com.cn/css/87/20140218/sharewwl.css" rel="stylesheet" type="text/css" />
-              <script src="http://news.sina.com.cn/js/87/20140826/sharewwl.js" type="text/javascript"></script>
-              <!-- 分享到微信,微米,来往 end -->
-              <script type="text/javascript">
-              bShare.addEntry({
-                 title: '',
-                 summary: '《' + document.getElementById('artibodyTitle').innerHTML.replace(/<[^<>]*?font[^<>]*?>/gi,"")  + '》 来自新浪财经 意见领袖专栏，作者@无冕财经。' 
-              })
-              </script>
-              <!-- 划词分享 -->
-
-                    <!-- 分享功能 end -->
-                    <a  class="savaPage_link" data-sudaclick="savePage" href="javascript:;" action-type="savePage">保存</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a  class="printPage_link" data-sudaclick="printPage" href="javascript:;" onclick="return false;" action-type="printPage">打印</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a  class="closePage_link" data-sudaclick="closePage" href="javascript:;" action-type="closePage">关闭</a>
-                </div>
-
-                <div class="content_line"></div>
-
-                <!-- 评论入口 begin -->
-                <div id="J_Comment_Wrap" class="blkContainerCommentblk" style="display:none;" data-sudaclick="cmnt_box_01">
-        </div>
-                <!-- 评论入口 end-->
-
-                <!-- 优质用户微博推荐 begin -->
-<link rel="stylesheet" href="http://news.sina.com.cn/css/268/2011/1110/17/weibo-all.css" />
-  <div class="wb_rec" id="wb_rec" style="display: none;">
-
-  <a href="http://hongbao.weibo.com/?c=spr_sinaweb_sina_sina_weibohb2014_t001" target="blank" class="wb_hongbao_2013" id="wb_hongbao_2013" style="display: none;" suda-uatrack="key=hongbao_sina&value=content_wbtj"></a>
-
-  <!-- <div class="wb_rec" id="wb_rec"> -->
-    <div class="wb_rec_c clearfix">
-      <h3 class="wb_rec_tt"><a href="" id="wb_rec_more1" target="_blank">微博推荐</a></h3>
-      <div class="wb_rec_wb clearfix" id="wb_rec_wb" style="display: none;"></div>
-      <ul class="wb_rec_list clearfix" id="wb_rec_list">
-      </ul>
-      <span class="wb_rec_fl" id="wb_rec_fl">一键关注</span>
-      <span class="wb_rec_fled" id="wb_rec_fled" style="display: none;">已关注</span>
-      <a class="wb_rec_more" id="wb_rec_more" href="" target="_blank" suda-uatrack="key=content_weibo_user&value=contentmore">关注更多</a>
-    </div>
-  </div>
-  <!-- weibocard -->
-  <link rel="stylesheet" href="http://tech.sina.com.cn/css/717/20131127/content/weibocard2013.css">
-  <!-- weibocard end -->
-  <script>
-  jsLoader(ARTICLE_JSS.weiboAll).jsLoader(ARTICLE_JSS.weiboCard2013).jsLoader(ARTICLE_JSS.wbUsersRec, function () {
-    initWbUsersRec({
-     groupId : 71
-    });
-  });
-  </script>
-<!-- 优质用户微博推荐 end -->
-
-            </div>
-            <!-- 正文块 end -->
-            <div class="sp5"></div>
-
-            <script language="javascript" type="text/javascript" src="http://d2.sina.com.cn/d1images/button/rotator.js"></script>
-<script type="text/javascript">
-  (function(){
-    var adScript = document.createElement('script');
-    adScript.src = 'http://d5.sina.com.cn/litong/zhitou/sinaads/demo/changwy/cj_left_hzh_20140630.js';
-    document.getElementsByTagName('head')[0].appendChild(adScript);
-  })();
-</script>
-
-            <!--  内容列 end -->
-        </div>
-        <!--  侧边栏 begin -->
-        <div class="sidebar">
-
-            <!-- 推荐订阅 begin -->
-
-      <div class="recommendCont" id="J_Recommend_Cont">
-        <div class="rcdTop clearfix">
-          <div class="rcdTopLeft">
-               <a href="http://zhuanlan.sina.com.cn/author/wumiancaijing/index.shtml" target="_blank" class="face"><img src="http://i1.sinaimg.cn/zhuanlan/author/wumiancaijing/idx/2015/0923/prefixU12164P1493T24D3032F364DT2015092313595050x50.jpg" width="50" height="50" title="" /></a>
-               <div id="subscribe-btn"></div>
-          </div>
-            <script type="text/javascript">
-                requirejs(['lib','all'],function(){
-                    requirejs(['subscribe/finance-subscribe','uid-white-list-check','$'],function(task, check){
-                        $(document).ready(function(){
-                            task({
-                                uid: 5571172458,
-                                ctrId: 'subscribe-btn',
-                                view1_el: $("#art-subscribe"),
-                                view1_relateElem: $("#author_ename")
-                            });
-
-                            check({
-                                needCheck: false,
-                                suc:function(){
-                                },
-                                fail:function(){
-                                    //隐藏消息和设置
-                                    $("#login_wrapper")
-                                            .find('[data-action]')
-                                            .css({
-                                                display: 'none'
-                                            });
-                                }
-                            });
-                        });
-                    });
-                });
-            </script>
-          <div class="rcdTopRigt">
-            <h3><span class="f072">作者简介：</span><a href="http://zhuanlan.sina.com.cn/author/wumiancaijing/index.shtml" target="_blank">无冕财经</a></h3>
-            <p class="f3d6">无冕财经，新闻无价，我们关注“互联网+”思维下的传统企业转型、新型创业与投资。</p>
-          </div>
-        </div>
-        <div class="rcdBot clearfix">
-          <div class="weiboBox"><a href="http://weibo.com/u/5571172458" target="_blank" id="uid" title="无冕财经">新浪微博</a></div>
-
-        </div>
-      </div>
-
-<script>
-function shareToWeibo_v2 (obj) {
-    var shareUrl = obj.getAttribute('share-url');
-    var shareTitle = obj.getAttribute('share-title');
-    var sharePic = obj.getAttribute('share-pic');
-		var techUid = '1638782947';
-		var url = 'http://v.t.sina.com.cn/share/share.php?url=' + encodeURIComponent(shareUrl) +
-'&title=' + encodeURIComponent(shareTitle.substring(0,shareTitle.length-1)+ ' -') +
-		'&pic=' + encodeURIComponent(sharePic) +
-'&ralateUid=' + techUid +
-		'&source=undefined&sourceUrl=undefined&content=gb2312';
-			window.open(url, '分享到微博', 'height=400,width=400');
+			<div class="rm_txt_con cf">
+            	<div class="box_pic"></div>
+				<div class="otitle">原标题：矿物质该怎么补？</div><p>
+	<strong>　　无论是矿物质还是维生素，饭后服用更利于吸收</strong></p>
+<p>
+	　　在人体所需的营养素中，矿物质是一类特殊的存在，它不能在体内生成，而且除了被排出体外，也不可能在体内自行消失。矿物质在体内分布不均匀，其含量在一定阶段随年龄增长而增加，但各元素间比例变动不大。各种矿物质在人体新陈代谢过程中，每天都通过粪、尿、汗、头发、指甲、皮肤及黏膜脱落等途径排出体外，所以必须通过饮食补充。</p>
+<p>
+	　　那么，保健品能否替代饮食补充矿物质呢？很遗憾，由于各元素的吸收利用之间存在协同和拮抗作用，而且某些矿物质在体内的生理剂量和毒性剂量范围之间的差值比较小，所以以大杂烩保健品形式摄入或过多摄入通常无益而有害。</p>
+<p>
+	　　根据食物中矿物质含量、生物吸收率和人体需要量，我国人群中相对容易缺乏的元素有钙、铁、锌。</p>
+<p>
+	　　钙是人体含量最多的矿物质元素，成年人每日需要量在800~1000毫升，特殊人群如孕妇、乳母、老年人、服用制酸剂患者等，钙需要量增加。钙在肠道的吸收主要受维生素D调控，除了膳食纤维、草酸会抑制钙吸收，当镁的剂量大于250毫升时也会竞争性抑制钙在肠道的吸收。因此钙和镁应分开服用。一般钙制剂和维生素D复合比较理想，同时每次摄入钙元素剂量最好少于500毫升，以利于吸收。</p>
+<p>
+	　　食物铁的吸收率取决于它的来源，血红蛋白铁较其他来源铁更易吸收。亚铁形式的保健补充品比三价铁盐或三价铁复合物更易吸收。鞣酸、植酸、碳酸盐、磷酸盐、锌、镁、低蛋白饮食降低铁吸收；维生素C、果糖、柠檬酸、硬脂酸、高蛋白饮食、赖氨酸、组氨酸、半胱氨酸、蛋氨酸提高铁吸收。</p>
+<p>
+	　　铝、磷、锡等金属会干扰锌的吸收。肠道内锌过多也会干扰人体对钙、镁、铜、铁和硒的利用。因此，服用锌制剂的患者，应酌情补充铜以防引发缺铜性贫血、低HDL血症和心律失常。</p>
+<p>
+	　　无论是矿物质还是维生素，饭后服用更利于吸收。特别是脂溶性维生素，需要脂肪的存在帮助其吸收。</p>
+<p>
+	　　如果为了补充矿物质而大量地摄入营养补充剂，并不是保健的捷径，相反，是摧毁健康的利器。肝脏是人体的解毒器官，所有摄入的物质都要经过肝脏的加工代谢，大量补充剂无疑加重了肝脏的负担，长此以往甚至可能出现药物性肝损。</p>
+<p>
+	&nbsp;</p>
+<div class="zdfy clearfix"></div><center><table border="0" align="center" width="40%"><tr></tr></table></center>
+                <div class="box_pic"></div>
+                <div class="edit cf">(责编：许心怡、聂丛笑)</div>
+				<p class="paper_num"><em class="section-common-share-wrap">分享让更多人看到 <i class="btn_share_common"><img src="/img/2020wbc/imgs/share.png" alt=""></i> </em></p>
+			</div>
+			
+			
+            <div class="rm_relevant cf box_news">
+              <h5><span></span>相关新闻</h5>
+              <ul><li><a href="http://fj.people.com.cn/n2/2021/0709/c181466-34813637.html" target="_blank">补充维生素多多益善？注意：过量或加大患病风险</a></li><li><a href="http://health.people.com.cn/n1/2021/0510/c14739-32098476.html" target="_blank">这四个饮食误区，一定要提醒妈妈</a></li><li><a href="http://health.people.com.cn/n1/2021/0504/c14739-32094538.html" target="_blank">老年人身体出现这些问题？对照一下吃得对不对！</a></li><li><a href="http://ln.people.com.cn/n2/2021/0420/c400019-34684799.html" target="_blank">维生素D降低需要补钙？延缓衰老的秘密在这里</a></li><li><a href="http://health.people.com.cn/n1/2021/0331/c14739-32065748.html" target="_blank">孩子不爱吃蔬菜 可以多吃些水果代替吗？</a></li><li><a href="http://health.people.com.cn/n1/2021/0325/c14739-32060230.html" target="_blank">如何合理选择零食</a></li><li><a href="http://health.people.com.cn/n1/2021/0223/c14739-32034589.html" target="_blank">抗营养素也有可取之处</a></li><li><a href="http://health.people.com.cn/n1/2021/0210/c14739-32028033.html" target="_blank">春节膳食注意三点 远离慢病安心过年</a></li><li><a href="http://shipin.people.com.cn/n1/2021/0129/c85914-32016585.html" target="_blank">吃青菜要喝点菜汤</a></li><li><a href="http://shipin.people.com.cn/n1/2021/0128/c85914-32015128.html" target="_blank">维生素D3可修复心血管系统损伤</a></li></ul>
+       </div>
+			<div class="rm_relevant rm_download cf">
+				<h5><span></span>客户端下载</h5>
+				<ul>
+					<li><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_rmrb.png" width="70" height="70" alt="">人民日报</a></li>
+                    <li><a href="http://www.people.cn/app/download.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_rmwj1.png" width="70" height="70" alt="">人民网+</a></li>
+					<li><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_rmw.png" width="70" height="70" alt="">手机人民网</a></li>
+					<li><a href="http://leaders.people.com.cn/GB/178291/407226/index.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_ly.png" width="70" height="70" alt="">领导留言板</a></li>
+					<li><a href="http://5g.people.cn/rmspdown/" target="_blank"><img src="/img/2020wbc/imgs/icon_download_video.png" width="70" height="70" alt="">人民视频</a></li>
+					<li><a href="http://www.people.cn/rmzy/download.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_zy.png" width="70" height="70" alt="">人民智云</a></li>
+                    <li><a href="http://coo.people.cn/" target="_blank"><img src="/img/2020wbc/imgs/icon_download_zz.png" width="70" height="70" alt="">人民智作</a></li>                   
+				</ul>
+			</div>
+		</div>
+		<div class="col col-2 fr">
+			<div id="jiansuo"></div>
+            <script type="text/javascript" src="http://pgg.people.com.cn/s?z=people&c=21" charset="gbk"></script>
+			<!--<div class="rm_bbs cf">
+				<a href="http://bbs1.people.com.cn/board/1.html" target="_blank"><img src="/img/2020wbc/imgs/icon_bbs.png" width="340" height="81" alt=""></a>
+			</div>-->
+            <script type="text/javascript" src="http://pgg.people.com.cn/s?z=people&c=22" charset="gbk"></script>
+			<div class="rm_ranking cf">
+				<h3>热门排行</h3>
+				<b></b>				
+				<ul class="rm_ranking_list gray cf"><li><span>1</span><a href="http://ent.people.com.cn/n1/2021/0718/c1012-32161074.html" title="朱婷、赵帅担任东京奥运会开幕式中国体育代表团旗手" target=_blank>朱婷、赵帅担任东京奥运会开幕式中国体育…</a></li><li><span>2</span><a href="http://cpc.people.com.cn/n1/2021/0717/c435113-32160691.html" title="习近平参观“友好往来 命运与共——党和国家领导人外交活动礼品展”" target=_blank>习近平参观“友好往来&nbsp;命运与共——党和…</a></li><li><span>3</span><a href="http://fanfu.people.com.cn/n1/2021/0717/c64371-32160745.html" title="河北省纪委原副书记马玉蝉接受纪律审查和监察调查" target=_blank>河北省纪委原副书记马玉蝉接受纪律审查和…</a></li><li><span>4</span><a href="http://opinion.people.com.cn/n1/2021/0719/c1003-32161298.html" target=_blank>让“流量”回归真实和理性（人民时评）</a></li><li><span>5</span><a href="http://opinion.people.com.cn/n1/2021/0720/c1003-32162643.html" target=_blank>恢宏史诗的力量之源——论弘扬伟大建党精神</a></li><li><span>6</span><a href="http://cpc.people.com.cn/n1/2021/0717/c64094-32160631.html" title="习近平出席亚太经合组织领导人非正式会议并发表讲话" target=_blank>习近平出席亚太经合组织领导人非正式会议…</a></li><li><span>7</span><a href="http://opinion.people.com.cn/n1/2021/0719/c1003-32161262.html" target=_blank>伟大建党精神，中国共产党的精神之源</a></li><li><span>8</span><a href="http://dangshi.people.com.cn/n1/2021/0719/c436975-32161930.html" title="深入学习贯彻习近平总书记“七一”重要讲话精神 推动党史学习教育走深走实" target=_blank>深入学习贯彻习近平总书记“七一”重要讲…</a></li><li><span>9</span><a href="http://cpc.people.com.cn/n1/2021/0720/c164113-32163482.html" target=_blank>习近平情系历史文化遗产保护</a></li><li><span>10</span><a href="http://cpc.people.com.cn/n1/2021/0717/c64094-32160630.html" title="同世界各国人民深化友谊加强交流 推动构建人类命运共同体" target=_blank>同世界各国人民深化友谊加强交流&nbsp;推动构…</a></li></ul>
+			</div>
+		</div>
+	</div>
+	<!--footer-->
+	<div class="rm_footer cf">
+		<!--information-->
+		<div class="layout information cf">
+<p><a href="http://www.people.com.cn/GB/1018/22259/index.html" target="_blank">人民日报社概况</a>
+    <span class="xian">|</span>
+    <a href="http://www.people.com.cn/GB/50142/420117/index.html" target="_blank">关于人民网</a>
+    <span class="xian">|</span>
+    <a href="http://hr.peopledaily.com.cn/" target="_blank">报社招聘</a>
+    <span class="xian">|</span>
+    <a href="http://job.people.com.cn/" target="_blank">招聘英才</a>
+    <span class="xian">|</span>
+    <a href="http://www.people.com.cn/GB/208743/403202/index.html" target="_blank">广告服务</a>
+    <span class="xian">|</span>
+    <a href="http://www.people.com.cn/GB/208743/403202/403212/index.html" target="_blank">合作加盟</a>
+    <span class="xian">|</span>
+    <a href="http://gonggao.people.com.cn/" target="_blank">供稿服务</a>
+    <span class="xian">|</span>
+    <a href="http://data.people.com.cn/" target="_blank">数据服务</a>
+    <span class="xian">|</span>
+    <a href="http://www.people.com.cn/n/2013/1227/c373005-23961344.html" target="_blank">网站声明</a>
+    <span class="xian">|</span>
+    <a href="http://www.people.com.cn/n1/2019/0308/c420117-30965009.html" target="_blank">网站律师</a>
+    <span class="xian">|</span>
+    <a href="http://sso.people.com.cn/resource/html/userInforPro.html" target="_blank">信息保护</a>
+    <span class="xian">|</span>
+    <a href="http://kf.people.com.cn/" target="_blank">联系我们</a>    
+</p>
+    <p>服务邮箱：<a href="mailto:kf@people.cn" target="_blank">kf@people.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;违法和不良信息举报电话：010-65363263&nbsp;&nbsp;&nbsp;&nbsp;举报邮箱：<a href="mailto:jubao@people.cn" target="_blank">jubao@people.cn</a></p>
+    <p><a href="http://www.people.com.cn/img/2014xuke/2018hlwxw.html" target="_blank">互联网新闻信息服务许可证10120170001</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2018zzdxxkz.html" target="_blank">增值电信业务经营许可证B1-20060139</a></p>
+    <p><a href="http://www.people.com.cn/img/2019peopleindex/html/gbds2019.html" target="_blank">广播电视节目制作经营许可证（广媒）字第172号</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2019ypxxfwzg.html" target="_blank">互联网药品信息服务资格证书（京）-非经营性-2016-0098</a></p>
+    <p><a href="http://www.people.com.cn/img/2011zzzs/2018xxwlcb.htm" target="_blank">信息网络传播视听节目许可证0104065</a>&nbsp;|&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2018wlwh.html" target="_blank">网络文化经营许可证 京网文[2020]5494-1075号</a>&nbsp;|&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2018wlcb.html" target="_blank">网络出版服务许可证（京）字121号</a>&nbsp;|&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2018icp.html" target="_blank">京ICP证000006号</a>&nbsp;|&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008" target="_blank">京公网安备11000002000008号</a></p>
+    <p class="copyright">
+        人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+        Copyright &copy; 1997-2021 by www.people.com.cn. all rights reserved
+    </p>
+    <p class="attestation">
+        <a href="http://www.people.com.cn/img/2014xuke/2018icp.html" target="_blank"><img src="/img/2020peopleindex/img/copy_icon1.png" alt=""></a>
+        <a href="https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951" target="_blank"><img src="/img/2020peopleindex/img/copy_icon2.png" alt=""></a>
+        <a href="http://si.trustutn.org/info?sn=470170320027574551118&certType=1" target="_blank"><img src="/img/2020peopleindex/img/copy_icon3.png" alt=""></a>
+        <a href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html" target="_blank"><img src="/img/2020peopleindex/img/copy_icon4.png" alt=""></a>
+    </p>
+</div>
+	</div>
+	<div class="txt_float_r">
+		<ul>
+			<li class="btn_comment">
+				<span><em></em>评论</span>
+				<div class="share_con"><a href="http://bbs1.people.com.cn/board/1.html" target="_blank"><img src="/img/2020wbc/imgs/share_bbs.png" alt=""></a></div>
+			</li>
+			<li class="btn_share section-common-share-wrap">
+				<span class="btn_share_common"><em></em>分享</span>				
+			</li>
+			<li class="btn_follow">
+				<span><em></em>关注</span>
+				<div class="share_con">
+					<i><strong class="active">微信</strong><strong>微博</strong><strong>快手</strong></i>
+					<div style="display: block;">
+						<img src="/img/2020wbc/imgs/sj_wx.jpg" width="54" height="54" alt="">
+						<b>第一时间为您推送权威资讯</b>
+					</div>
+					<div style="display: none;">
+						<img src="/img/2020wbc/imgs/sj_wb.jpg" width="54" height="54" alt="">
+						<b>报道全球 传播中国</b>
+					</div>
+                    <div style="display: none;">
+						<img src="/img/2020wbc/imgs/sj_ks.png" width="54" height="54" alt="">
+						<b>关注人民网，传播正能量</b>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<script src="http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js" type="text/javascript"></script>
+<style type="text/css">
+.topb{position:fixed; bottom:80px; right:20px;font-size:18px; font-family:"Microsoft YaHei";background:url(http://www.people.com.cn/img/2020peopleindex/img/topb.png) no-repeat top center; width:90px; height:50px; line-height:50px; padding-left:40px;cursor:pointer; display:none;z-index:111}
+.topb:hover{color:#fff;background:url(http://www.people.com.cn/img/2020peopleindex/img/topba.png) no-repeat top center;}
+</style><div class="topb">返回顶部</div><script type="text/javascript">
+$(document).ready(function() {
+	$(document).scroll(function(){
+		var bkTop=$(this).scrollTop();
+		if(bkTop > 200){
+			$(".topb").show()
 		}
+		else{
+			$(".topb").hide()	
+		}			
+	})	
+	$(".topb").click(function(){
+        $('html , body').animate({scrollTop: 0},500);
+    });	
+});
 </script>
-            <!-- 推荐订阅 end -->
-
-            <div class="sp15"></div>
-            <div class="ad_05 adNone" id="PublicRelation3"><ins class="sinaads" data-ad-pdps="A3BF56B0B1BB"></ins>
-<script>(sinaads = window.sinaads || []).push({});</script></div>
-
-            <!-- 推荐阅读 begin -->
-            <div class="recRead custOrder">
-        <div class="custOrderTit">
-          <h2><a href="http://finance.sina.com.cn/zl/" target="_blank" class="f072">最新文章</a></h2>
-        </div>
-        <div class="recReadCont">
-          <ul class="recList" id="JS_Recommend_List">
-
-       <li><a href="http://finance.sina.com.cn/zl/china/20151020/142223524854.shtml" target="_blank">丁祖昱：GDP增长承压房地产投资见底</a></li>
-
-       <li><a href="http://finance.sina.com.cn/zl/china/20151020/181223527066.shtml" target="_blank">无冕财经：天涯为啥16年后才上市新三板</a></li>
-
-       <li><a href="http://finance.sina.com.cn/zl/money/20151020/181223527065.shtml" target="_blank">林采宜：没有加入TPP对中国而言利大于弊</a></li>
-
-       <li><a href="http://finance.sina.com.cn/zl/international/20151020/180123527023.shtml" target="_blank">彭琳：波动市下有没有安稳的投资</a></li>
-
-       <li><a href="http://finance.sina.com.cn/zl/stock/20151020/160823525833.shtml" target="_blank">老艾侃股：小牛市能否转化为大牛市？</a></li>
-
-          </ul>
-        </div>
-</div>
-            <!-- 推荐阅读 end -->
-
-            <!-- 热文排行 begin -->
-            <div class="hotArtiList custOrder">
-                <div class="custOrderTit">
-                    <h2><span class="f072">热文排行</span></h2>
-                </div>
-                <div class="hotArtiListCont">
-                    <ul class="hatList">
-                        <script type="text/javascript" src="http://top.finance.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=finance_column_suda&top_time=today&top_show_num=10&top_order=DESC&js_var=comment_1_data&chars=gbk">
-                            //src的参数为排行系统生成的js链接(这里是每天，出国，取十条，顺序的取值，返回值是comment_1_data是的取值链接)
-                        </script>
-                        <script language="JavaScript">
-                            (function(){
-                                var MyNewsList, i, MyNews = new Object();
-                                for (i in comment_1_data.data){
-                                    MyNewsList=comment_1_data.data[i];
-                                    MyNews.i=MyNewsList['title'].substr(0,18)
-                                    var classvalue = (i<3)?"top clearfix":"clearfix";
-                                    document.write('<li class="'+classvalue+'"><i>'+(parseInt(i)+1)+'</i><a  title="'+MyNews.i+'" target="_blank" href="'+MyNewsList['url']+'">'+MyNews.i+'</a></li>');
-                                }
-                            })();
-                        </script>
-                    </ul>
-                </div>
-            </div>
-            <!-- 热文排行 end -->
-            <!-- 二维码区域 begin -->
-            <div class="tdimCode">
-        <div class="tdimCodeTop clearfix">
-          <div class="tdimctLeft">
-            <img src="http://i3.sinaimg.cn/cj/pc/2013-05-30/32/U9646P31T32D104999F651DT20130530135042.jpg" width="90" height="90" title="" />
-            <span>手机阅读请扫描</span>
-          </div>
-          <div class="tdimctRigt">
-            <img src="http://i1.sinaimg.cn/cj/2014/1225/U12204P31DT20141225143249.jpg" width="90" height="90" title="" />
-            <span>微信二维码</span>
-          </div>
-        </div>
-        <div class="tdimCodeBot">
-          <a href="http://weibo.com/u/2560432091" target="_blank" class="weibofollow clearfix">
-            <span class="f072">微博关注</span><em></em>
-          </a>
-          <a href="http://finance.sina.com.cn/roll/20130409/181315090875.shtml" target="_blank" class="castarticle clearfix">
-            <span class="f072">投稿</span><em></em>
-          </a>
-        </div>
-</div>
-            <!-- 二维码区域 begin -->
-        </div>
-        <!--  侧边栏 end -->
-    </div>
-    <!-- 主容器 end -->
-</div>
-
-<script type="text/javascript" src="http://ent.sina.com.cn/js/470/20130205/sab.js"></script>
-
-<!-- footer -->
-<div class="footer">
-<p><a target="_blank" href="http://comment5.news.sina.com.cn/comment/skin/feedback.html">新浪财经意见反馈留言板</a> 电话：400-690-0000 欢迎批评指正</p><p><a href="http://corp.sina.com.cn/chn/" target="_blank">新浪简介</a>┊<a href="http://corp.sina.com.cn/eng/" target="_blank">About Sina</a>┊<a href="http://emarketing.sina.com.cn/" target="_blank">广告服务</a>┊<a href="http://www.sina.com.cn/contactus.html" target="_blank">联系我们</a>┊<a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank">招聘信息</a>┊<a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a>┊<a href="http://english.sina.com/" target="_blank">SINA English</a>┊<a href="https://login.sina.com.cn/signup/signup.php" target="_blank">通行证注册</a>┊<a href="http://help.sina.com.cn/" target="_blank">产品答疑</a></p>
- <p>Copyright <span style="font-family:arial;">&copy; </span>1996-2015 SINA Corporation, All Rights Reserved</p>  
- <p>新浪公司 <a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank">版权所有</a></p>
-</div>
-<!-- end footer -->
-
-<!-- SEO_iframe内容嵌入 begin -->
-<div style="display:none; width:0px; height:0px; overflow:hidden;">
-    <a href="http://finance.sina.com.cn/zl/china/20151019/090123509587.shtml" target="_blank">延迟退休应考虑国民预期寿命</a>
-    <a href="http://finance.sina.com.cn/zl/china/20151016/104023494596.shtml" target="_blank">北京上海房价为啥难下跌</a>
-    <a href="http://finance.sina.com.cn/zl/stock/20150831/143923127520.shtml" target="_blank">股市里危险的唯指数论</a>
-    <a href="http://finance.sina.com.cn/zl/stock/20140310/172618463051.shtml" target="_blank">关于多层次资本市场体系的十点思考</a>
-    <a href="http://finance.sina.com.cn/zl/lifestyle/20150923/134423327581.shtml" target="_blank">凡人如何在资本市场里求生</a>
-    <a href="http://finance.sina.com.cn/zl/international/20151019/085123509492.shtml" target="_blank">德国人对创新的危机感从哪来</a>
-    <a href="http://finance.sina.com.cn/zl/bank/20151016/101723494319.shtml" target="_blank">美国实体经济状况已接近加息门槛</a>
-    <a href="http://finance.sina.com.cn/zl/stock/20140312/102318483836.shtml" target="_blank">A股市场的不振是不正常的</a>
-    <a href="http://finance.sina.com.cn/zl/management/20140724/081219804290.shtml" target="_blank">陪同胡耀邦考察江西和福建</a>
-    <a href="http://finance.sina.com.cn/zl/china/20150702/073322569617.shtml" target="_blank">A股为何“牛失前蹄”？</a>
-
-</div>
-<!-- SEO_iframe内容嵌入 end-->
-
 <script type="text/javascript">
-    // 赞功能
-    jsLoader(ARTICLE_JSS.jq).jsLoader(ARTICLE_JSS.sab,function(){
-        (function(window,SAB,undefined) {
-            var window = window,
-                    document = window.document,
-                    body = document.getElementsByTagName('BODY')[0],
-
-                    aType = 'to_support',
-                    eventType = 'mousedown',
-
-                    submitURL = 'http://comment5.news.sina.com.cn/count/submit',
-                    requestURL = 'http://comment5.news.sina.com.cn/count/info',
-
-                    loginLayer = window.SINA_OUTLOGIN_LAYER,
-                    SOURCE = '1221470468',
-
-                    dlt = SAB.evt.delegatedEvent,
-                    supDlt = dlt(body),
-                    cusEvt   = SAB.evt.custEvent,
-                    jsonp = SAB.io.jsonp,
-                    byId = SAB.dom.byId,
-                    byClass = SAB.dom.byClass,
-                    addEvent = SAB.evt.addEvent;
-
-            var showLoginDialog = function() {
-                if($globalInfo.isLogin){return;}
-                loginLayer.show();
-            }
-
-    var clipString = function(str, a, b){
-      var s = str.replace(/([^\x00-\xff])/g, "\x00$1");
-      return (s.length < b) ? str: (s.substring(a, b-3).replace(/\x00/g, '') + '...');
-    }
-
-            // 赞功能
-            SAB.register('job.ToSupport',function($){
-
-                var ToSupport = function(wrap,limit) {
-                    this.wrap = wrap || byId('J_Article_Wrap');
-                    this.tEle = byId('J_To_Support').getElementsByTagName('EM')[0];
-                    this.limit = limit;
-                    this.init.apply(this,arguments);
-                }
-
-                ToSupport.prototype = {
-                    init : function() {
-                        var me = this;
-                        me.getCurData();
-                        supDlt.add(aType,eventType,function(e) {
-                            if (!me.limit && me.limit != 0) {
-                                me.tosubmit(e.el);
-                            } else {
-                                if (me.limit > 0) {
-                                    me.tosubmit(e.el);
-                                    me.limit--;
-                                } else {
-                                    alert('\u62B1\u6B49\uFF0C\u60A8\u5DF2\u7ECF\u652F\u6301\u8FC7\u8BE5\u7BC7\u6587\u7AE0\uFF01');
-                                }
-                            }
-
-                        });
-                    }
-
-                    ,getCurData : function() {
-                        var me = this;
-                        var onDataSuccess = function(data) {
-                            var status = data.result.status.code;
-                            if (status == 0) {
-                                me.tEle.innerHTML = data.result.data['1'] || '0';
-                            } else {
-                                me.tEle.innerHTML = '0';
-                            }
-                        }
-
-                        jsonp(requestURL,'key=finance_clum_support'+ARTICLE_DATA.newsid+'&group=1',onDataSuccess);
-                    }
-
-                    ,tosubmit : function(ele) {
-                        var me = this;
-                        var vote_tip = $.C('div');
-                        vote_tip.className = 'support_tip';
-                        ele.appendChild(vote_tip);
-                        var callback = function() {
-                            vote_tip.parentNode.removeChild(vote_tip);
-                        }
-                        if(jQuery){
-                            jQuery(vote_tip).animate({opacity: "show", top: "-28"}, "fast");
-                        }else{
-                            vote_tip.style.cssText =' ;display:block;top:-28px;';
-                        }
-                        setTimeout(function(){
-                            if(jQuery){
-                                jQuery(vote_tip).animate({opacity: "hide", top: "0"}, "fast",callback);
-                            }else{
-                                vote_tip.style.cssText =' ;';
-                                callback.apply(this,arguments);
-                            }
-                        },800);
-                        me.tEle.innerHTML = +me.tEle.innerHTML + 1;
-                        (new Image()).src = submitURL + '?key=finance_clum_support'+ARTICLE_DATA.newsid+'&group=1&board=1';
-                    }
-                }
-
-                return ToSupport;
-            });
-
-            // 扩展功能初始化
-            SAB.register('job.extendFunInit',function($){
-                var supportstamp = "___SUPPORT___STAMP___";
-                var limit = 0;
-                var supportlimit = $.util.cookie.getCookie(supportstamp);
-                if (!supportlimit) {
-                $.util.cookie.setCookie(supportstamp,'unabled',1/12);
-                    limit = 1;
-                }
-                new $.job.ToSupport(null,limit);
-                new $.job.myOrder(ARTICLE_DATA.personanl_page_url);
-                new $.job.TOrder();
-            });
-            // 推荐阅读
-            SAB.register('job.recommendRead',function($){
-                var listWrap = byId('JS_Recommend_List');
-                jsLoader({
-                    name : 'recommendRead',
-                    url : 'http://finance.sina.com.cn/js/462/2013/0607/tuijianyuedu.js',
-                    charset : 'gb2312',
-                    callback : function() {
-                        var tempData = tjyd_data;
-                        var tempHTML = [];
-                        for (var i = 0, len = tempData.length; i < len; i++) {
-                            var temp = tempData[i];
-                            tempHTML.push('<li><a target="_blank" title="'+temp['title']+'" href="'+temp["url"]+'">'+clipString(temp['title'],0,44)+'</a></li>');
-                        }
-                        listWrap.innerHTML = tempHTML.join('');
-                    }
-                });
-            });
-
-        })(window,SAB);
-    });
+var keyw="";
+var keyws= new Array();
+var keyhtml="";
+if(keyw.length>0){
+	//console.log(keyw)
+	keyws=keyw.split(",");
+	keyhtml+="<div class=\"rm_entry cf\">";
+	keyhtml+="<h3>文章中提及</h3>";
+	keyhtml+="<b></b>";
+	for (i=0;i<keyws.length ;i++ )
+	{
+	keyhtml+="<a href=\"http://search.people.cn/s?keyword="+encodeURIComponent(keyws[i])+"\" target=\"_blank\"># "+keyws[i]+"</a>"; //分割后的字符输出
+	}
+	keyhtml+="</div>";
+	//$("#jiansuo").html(keyhtml);
+}
+else{
+$(".rm_bbs").css("margin-top","0px")
+}
 </script>
-
-<link href="http://i0.sinaimg.cn/cj/news_keyword/stock.css" rel="stylesheet" 
-type="text/css" />
-<script language="JavaScript" id="hq_data_id" 
-src="http://hq.sinajs.cn/list=sz000061"></script>
-<script language="JavaScript" 
-src="http://n.sinaimg.cn/780c44e8/20150819/stock_v4_130723_0819.js " charset="UTF-8"></script>
-<!-- http://finance.sina.com.cn/js/2013/0723/stock_v4_130723.js-->
-
-<script language="JavaScript">
-<!--
-var strCode = "sz000061";
-show_quote(strCode,"stock");
-//-->
-</script>
-
-<!--点击地图 begin-->
-<script type="text/javascript" src="http://i1.sinaimg.cn/unipro/pub/suda_m_v629.js"></script>
-<script type="text/javascript">suds_init(2303,20.0000,990,2);</script>
-<!--点击地图 end-->
-
+<script src="http://www.people.com.cn/img/2020peopleindex/js/rmwtyn1.js" charset="utf-8" type="text/javascript"></script>
+<script src="http://www.people.com.cn/img/2020fenxiang/js/share_qr2020.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.people.com.cn/img/2020wbc/js/static1.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script>
 <script type="text/javascript">
-    (function(){
-        var rate=1;
-        var r_num=Math.floor(Math.random()*100);
-        var _getScript = function(url,dispose){
-            var scriptNode = document.createElement("script");
-            scriptNode.type = "text/javascript";
-            scriptNode.onreadystatechange = scriptNode.onload = function(){
-                if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete"){
-                    if(dispose){dispose()};
-                    scriptNode.onreadystatechange = scriptNode.onload = null;
-                    scriptNode.parentNode.removeChild(scriptNode);
-                }
-            };
-            scriptNode.src = url;
-            document.getElementsByTagName("head")[0].appendChild(scriptNode);
-        };
-        if(r_num < rate){
-            _getScript('http://i2.sinaimg.cn/unipro/pub/suda_scroll.min.js', function(){
-                SUDA.monitorScroll(100, '2151');
-            });
-        };
-    })();
+var str="矿物质该怎么补？";
+str=str.replace(/&nbsp;/g," ")
+str=str.replace(/&quot;/g,'"')
+str=str.replace(/<br>/g,"")
+var wxData = {
+	"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg", // 200x200
+	"link": window.location.href,
+	"desc": "人民网，网上的人民日报",
+	"title": "" + str + ""
+};
 </script>
-
-<script type="text/javascript">
-    requirejs(['http://pfp.sina.com.cn/js/17/2013/0401/finance_topbanner.js'],function(){
-        requirejs(['lib'],function(){
-            requirejs(['guide','$'],function(Guide){
-                $(document).ready(function(){
-                    new Guide({
-                        relateElem: $("#nav").find('.wrap'),
-                            homeUrl: 'http://home.zhuanlan.sina.com.cn/',
-                            offset:{
-                        top: -17,
-                                left: 57
-                    }
-                });
-            });
-        });
-    });
-    });
-</script>
-
-<script type="text/javascript">
-    ;(function(d, s) {
-        var j = d.createElement('script'),
-                h = d.getElementsByTagName('head')[0];
-        j.charset = 'gb2312';
-        j.async = true;
-        j.src = s;
-        h.appendChild(j);
-    })(document, 'http://ent.sina.com.cn/js/470/2013/0506/collect.js');
-</script>
-
-<!-- body code begin -->
-
-<!-- SSO_UPDATECOOKIE_START -->
-<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
-<!-- SSO_UPDATECOOKIE_END -->
-
-<!-- body code end -->
-
+<script src="http://www.people.com.cn/img/2016wb/WeiXinDatatit2020.js" type="text/javascript"></script>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+<img src="http://counter.people.cn:8000/c.gif?id=28843997" width=0 height=0 style="display:none;">
 </body>
 </html>

@@ -1,470 +1,1084 @@
-<!DOCTYPE html>
-            <html data-log-pv='{"mpc":17}'>
-        <head>
-        <title>å‹‡å£«ä»Žæ­»äº¡äº”å°åˆ°æ­»ç¥žç»„å›¢ 4å¹´3å† é‡‘å·žå»ºç«‹çŽ‹æœ</title>
-        <meta http-equiv="Cache-Control" content="no-transform" /> 
-<meta http-equiv="Cache-Control" content="no-siteapp" /> 
-<meta name="copyright" content="Copyright Â© 2017 Sohu.com Inc. All Rights Reserved." />
-<meta name="mediaid" content="NBAå¹¿è§’"/>
-<meta property="og:type" content="news"/>
-<meta property="og:image" content="http://5b0988e595225.cdn.sohucs.com/images/20180609/c557d825c36246c3adfdbbd7d3b3c317.jpeg"/>
-<meta property="og:url" content="www.sohu.com/a/234783826_458722"/>
-<meta property="og:release_date" content="2018-06-09 12:07"/>
-<meta itemprop="dateUpdate" content="2018-06-09 12:07" />
-<meta itemprop="datePublished" content="2018-06-09 12:07" />
-<link rel="canonical" href="http://www.sohu.com/a/234783826_458722"/>
-<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/234783826_458722"/>
-
-<meta name="keywords" content="å‹‡å£«,åŽ†å²,åº“é‡Œ,è©¹å§†æ–¯,è”ç›Ÿ,æœå…°ç‰¹" />
-<meta name="description" content="" />
-<meta property="og:description" content=""/>
-<meta property="og:title" content="å‹‡å£«ä»Žæ­»äº¡äº”å°åˆ°æ­»ç¥žç»„å›¢ 4å¹´3å† é‡‘å·žå»ºç«‹çŽ‹æœ"/>
-        <meta charset="utf-8"/>
-<meta name="data-spm" content="smpc">
-<meta name="renderer" content="webkit"> 
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
-<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1" />
-<link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
-<link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
-<link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png" />
-<link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png" />
-<link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png" />
-<link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png" />
-<link href="//statics.itc.cn/web/static/css/main-42809146be.css" rel="stylesheet"/>
-<script>
-    //  åŠ è½½ç›‘æŽ§ä»£ç 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--[4,8,2002240] published at 2009-12-06 10:13:08 from #10 by ÕÅÖÐ½­--> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="author" content="chinanews" />
+<meta name="copyright" content="www.chinanews.com,°æÈ¨ËùÓÐ" /> 
+<meta name="keywords" content="ÐÂÎÅ,Ê±ÊÂ,Ê±Õþ,¹ú¼Ê,¹úÄÚ,Éç»á,·¨ÖÎ,¾Û½¹,ÆÀÂÛ,ÎÄ»¯,½ÌÓý,ÐÂÊÓµã,Éî¶È,ÍøÆÀ,×¨Ìâ,»·Çò,´«²¥,ÂÛÌ³,Í¼Æ¬,¾üÊÂ,½¹µã,ÅÅÐÐ,»·±£,Ð£Ô°,·¨ÖÎ,ÆæÎÅ,ÕæÇé" />
+<meta name="description" content="ÖÐÐÂÍøÐÂÎÅÖÐÐÄÊÇÖÐÐÂÍø×îÖØÒªµÄÆµµÀÖ®Ò»£¬24Ð¡Ê±¹ö¶¯±¨µÀ¹úÄÚ¡¢¹ú¼Ê¼°Éç»áÐÂÎÅ¡£Ã¿ÈÕ±à·¢ÐÂÎÅÊýÒÔÍò¼Æ¡£" />
+<META http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<script language="JavaScript">
+<!--
+document.domain = "chinanews.com.cn"; 
+-->
 </script>
-<!--[if lt IE 9]>
-<script src="//statics.itc.cn/web/static/js/es5-shim-08e41cfc3e.min.js"></script>
-<script src="//statics.itc.cn/web/static/js/es5-sham-1d5fa1124b.min.js"></script>
-<script src="//statics.itc.cn/web/static/js/html5shiv-21fc8c2ba6.js"></script>
-<link href="//statics.itc.cn/web/static/css/ie8hack-9dce3c3b96.css" rel="stylesheet" />
-<![endif]-->
+<!--±íÇé×Ö¶Î¿ªÊ¼-->
+<input id="newsid" type="hidden" value="2002240">
+                    <input id="newsurl" type="hidden" value="http://www.chinanews.com.cn/cul/news/2009/12-06/2002240.shtml">
+                    <input id="newstime" type="hidden" value="2009-12-06">
+                    <input id="pubtime" type="hidden" value="2009-12-06 10:13:06">
+                    <input id="newstitle" type="hidden" value='ÅÌµã2009ÍøÂçÁ÷ÐÐÓï£º²»ÒªÃÔÁµ¸ç£¬¸çÖ»ÊÇ¸ö´«Ëµ'>
+ <input id="newstype" type="hidden" value='cul'>
+<input id="creator" type="hidden" value='zhangzhongjiang'>
+<input id="editor_name" type="hidden" value='${ÇÈÍø·¢²¼±à¼­}'>
+
+<!--±íÇé×Ö¶Î½áÊø-->
+<title>ÅÌµã2009ÍøÂçÁ÷ÐÐÓï£º²»ÒªÃÔÁµ¸ç£¬¸çÖ»ÊÇ¸ö´«Ëµ¡ª¡ªÖÐÐÂÍø</title>
+<base target="_blank">
+<style type="text/css">
+<!--
+/*È«¾ÖÑùÊ½*/
+body{margin:0px;padding:0px;text-align:center;font-size:12px;line-height:24px;color:#000;background-color:#E5EFF8;}
+div,ul,ol,li,span,form,table{margin:0;padding:0;border:0;}
+img,a img{border:0;margin:0;padding:0;}
+h1,h2,h3,h4,h5,h6{margin:0;padding:0;font-weight:normal;}
+ul,ol,li{list-style:none;}
+table{border-collapse:collapse;}
+
+a:link{color:#000;text-decoration:none;}
+a:visited{color:#000;text-decoration:none;}
+a:hover{color:#000;text-decoration:underline;}
+
+/*×Ü¼Ü¹¹*/
+#all{margin: 0 auto;width:970px;text-align:left;background-color:#fff;}
+.clear{clear:both;margin:0px;padding:0px;}
+.img_border_1px{border:1px solid #000;}
+
+/*ÕýÎÄ½á¹¹*/
+#text{width:948px;margin:0 auto;border-right:1px solid #D9D9D9;}
+.text_left{width:600px;float:left;margin-bottom:10px;}
+.text_right{width:340px;float:right;font-size:13px;padding-top:10px;}
+
+/*ÆµµÀµ¼º½*/
+#channel{width:912px;margin:0 auto;border:1px solid #D9D9D9;padding-left:18px;background-image:url(/fileftp/2008/12/2008-12-31/U76P4T47D10075F980DT20081231121050.gif);height:24px;padding-right:18px;}
+
+/*ÕýÎÄ×ó±ß*/
+.left_txt{border-bottom:1px solid #D9D9D9;border-left:1px solid #D9D9D9;margin-bottom:10px;background-color:#F7FAFD;}
+.left_dh{border-bottom:1px solid #D9D9D9;padding-left:18px;}
+.left_bt{text-align:center;font-size:20px;font-family:ºÚÌå;padding:25px 0px 15px 0px;border-bottom:1px solid #d9d9d9;width:93%;margin:0 auto;}
+.left_time{width:90%;margin: 0 auto;text-align:center;margin-top:10px;}
+.left_ph{text-align:center;overflow:hidden;width:552px;margin:0 auto;margin-top:30px;}
+.left_ph img{border:1px solid #000;}
+.left_pt{margin: 0 auto;width:95%;font-size:14px;margin-top:10px;}
+.left_var{margin:25px 0px 25px 0px;}
+.left_zw{margin: 0 auto;width:93%;font-size:15px;margin-top:30px;line-height:26px;}
+.left_tt{}
+.left_hzh{float:left;width:300px;height:260px;margin:10px 10px 10px 0px;text-align:center;}
+.left_name{width:90%;margin: 0 auto;margin-top:10px;text-align:right;font-size:12px;margin-top:15px;margin-bottom:15px;}
+.left_xq{text-align:center;margin:15px 0px 15px 0px;}
+.left_zt{background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F973DT20090114142525.jpg);height:26px;width:582px;margin:0 auto;margin-top:15px;font-weight:bold;margin-bottom:15px;}
+.left_xgxw{width:580px;margin:0 auto;margin-top:15px;background-color:#fff;font-size:14px;margin-bottom:10px;border:1px solid #99BBDE;}
+.left_xgxw ul{padding:3px 0px 7px 15px;}
+.left_xgxw a:link{color:#123984;text-decoration:none;}
+.left_xgxw a:visited{color:#123984;text-decoration:none;}
+.left_xgxw a:hover{color:#123984;text-decoration:underline;}
+
+.left_more{margin-top:7px;font-size:14px;}
+.left_pdtj{border:1px solid #99BBDE;font-weight:bold;text-align:center;background-color:#D7E7F7;color:#123984;}
+.left_pdtj ul{padding-left:10px;}
+.pdtj_txt{font-size:14px;padding:5px 0px 5px 0px;background-color:#F7FAFD;font-weight:bold;border-right:1px solid #99BBDE;border-bottom:1px solid #99BBDE;border-left:1px solid #99BBDE;color:#123984;}
+.pdtj_txt li{padding-left:30px;}
+.pdtj_txt a:link{color:#123984;text-decoration:none;}
+.pdtj_txt a:visited{color:#123984;text-decoration:none;}
+.pdtj_txt a:hover{color:#123984;text-decoration:underline;}
+
+/*ÕýÎÄÓÒ±ß*/
+.serch{width:320px;margin-left:15px;}
+.gghzh{width:335px;height:180px;margin-top:7px;overflow:hidden;text-align:center;}
+.box{width:335px;margin-top:10px;}
+.box1{margin-top:10px;}
+.right_ph{text-align:center;margin-top:7px;}
+.right_ph img{width:150px;height:100px;border:1px solid #000;}
+.box2{border:1px solid #4A91C7;width:333px;}
+.box3{margin-top:10px;}
+.rightgg{height:250px;border-top:1px solid #D9D9D9;margin-top:10px;padding-top:10px;text-align:center;}
+img.wh{width:150px;height:15px;border-top:0px;}
+img.whb{border-bottom:0px;}
+.ylgg{margin:10px 0px 10px 0px;}
+
+.lmtj{color:#14388C;text-align:right;}
+.lmtj li{float:right;width:66px;height:24px;background-image:url(/fileftp/2009/01/2009-01-04/U76P4T47D10085F967DT20090104112017.gif);background-repeat:no-repeat;text-align:center;margin-left:5px;}
+li.li5t{width:89px;height:24px;background-image:url(/fileftp/2009/01/2009-01-04/U76P4T47D10085F968DT20090104113257.gif);background-repeat:no-repeat;padding-left:}
+li.li6t{width:89px;height:24px;background-image:url(/fileftp/2009/01/2009-01-04/U76P4T47D10085F968DT20090104113257.gif);background-repeat:no-repeat;color:#14388C;}
+li.li0t{width:89px;height:24px;background-image:url(/fileftp/2008/12/2008-12-31/U76P4T47D10075F980DT20081231121050.gif);margin-left:0px;}
+
+#channel a:link{color:#14388C;text-decoration:none;}
+#channel a:visited{color:#14388C;text-decoration:none;}
+#channel a:hover{color:#14388C;text-decoration:underline;}
+
+.right_pha1{text-align:center;margin-top:7px;}
+.right_pha1 img{width:150px;height:110px;border:1px solid #000;}
+
+#function_code_page{font-size:12px; font-family:"ËÎÌå",sans-serif; text-align:center;}
+#function_code_page  a{margin-right:2px;text-align:center;border:1px #ccc solid;padding:4px 8px;height:28px;line-height:28px;}
+#function_code_page span{padding:5px 8px; height:28px;line-height:28px;color:#fff;  background:#2E6AB0; font-weight:bold; margin-left:2px; margin-right:2px;}
+#function_code_page a{color:#2E6AB0;text-decoration:none;border:1px #ccc solid;}
+#function_code_page a:visited{color:#2E6AB0;text-decoration:none;border:1px #ccc solid;}
+#function_code_page a:hover{color:##2E6AB0;text-decoration:node;border:1px #2E6AB0 solid;}
+#function_code_page a:link{color:##2E6AB0;text-decoration:node;border:1px #ccc solid;}
+
+/*¸Ä2*/
+.boxyd{padding-bottom:5px;border:1px solid #BA0305;width:333px;}
+.boxyd li{padding-left:10px;}
+.boxgg1{border:1px solid #99BBDE;width:333px;margin-top:10px;}
+
+.blue_16b{color:#1a1ae6;font-size:16px;text-decoration:underline;}
+.blue_16b a{color:#1a1ae6;font-size:16px;text-decoration:underline;}
+.blue_16b a:link{color:#1a1ae6;font-size:16px;text-decoration:underline;}
+.blue_16b a:visited{color:#1a1ae6;font-size:16px;text-decoration:underline;}
+.blue_16b a:hover{color:#1a1ae6;font-size:16px;text-decoration:underline;}
+
+.ggsx{color:#0100FE;}
+.ggsx a:link{color:#0100FE;text-decoration:none;}
+.ggsx a:visited{color:#0100FE;text-decoration:none;}
+.ggsx a:hover{color:#0100FE;text-decoration:underline;}
+.em{font-weight:normal; font-style:normal;} 
+.left_zw a:link{color:blue;text-decoration:none;}
+.left_zw a:visited{color:blue;text-decoration:none;}
+.left_zw a:hover{color:blue;text-decoration:underline;}
+
+.ptv{background-image:url(/fileftp/2009/02/2009-02-04/U76P4T47D10234F981DT20090204162127.gif);background-position:left;background-repeat:no-repeat;padding-left:18px;}
+em{font-weight:normal; font-style:normal;}
+.ptv1{background-image:url(http://www.chinanews.com.cn/fileftp/2009/07/2009-07-16/U76P4T47D11419F980DT20090716134701.gif);background-position:left;background-repeat:no-repeat;padding-left:18px;}
+em{font-weight:normal; font-style:normal;}
+.ptv2{background-image:url(/fileftp/2009/07/2009-07-16/U76P4T47D11419F981DT20090716134701.gif);background-position:left;background-repeat:no-repeat;padding-left:18px;}
+em{font-weight:normal; font-style:normal;}
+-->
+</style>
+
+</head>
+
+<body>
+<!--all-->
+<div id=all>
+<!--top-->
+<!--[4,319,2] published at 2011-03-11 20:09:44 from #202 by 32-->
+<style type="text/css">
+<!--
+#top{margin: 0 auto;padding:0px;width:965px;text-align:center;letter-spacing:0px;font-size:12px;color:#000;border-bottom:1px solid #000;margin-top:3px;}
+#top a:link{color:#000;text-decoration:none;}
+#top a:visited{color:#000;text-decoration:none;}
+#top a:hover{color:#000;text-decoration:underline;}
+-->
+</style>
+<div id=top>
+	<script language=JavaScript src="http://www.chinanews.com/javascript/cnsurl-2008.js"></script>
+</div>
+<!--banner-->
+<!--[4,321,2] published at 2014-11-19 11:21:39 from #202 by 33-->
+<base target="_blank">
+<style type="text/css">
+<!--
+body{margin:0px;padding:0px;text-align:left;font-size:12px;line-height:24px;color:#000;}
+ul,ol,li{list-style:none;margin:0;padding:0;border:0;}
+#banner{margin: 0 auto;padding:0px;width:950px;text-align:center;margin-top:3px;}
+#banner img{border:0}
+.banner_1{float:left;width:250px;}
+.banner_2{float:left;width:495px;margin-left:5px;}
+.banner_3{float:right;width:190px;}
+a:link{color:#000;text-decoration:none;}
+a:visited{color:#000;text-decoration:none;}
+a:hover{color:#000;text-decoration:underline;}
+-->
+</style>
+<div id=banner>
+	<div class=banner_1>
+    	<div style="color:#000000;font-size:12px;text-align:center;"><!--[4,248,1] published at 2019-04-08 23:26:26 from #202 by 33-->
+ </div>
+        <div><a href="http://www.chinanews.com/"><img src="http://i2.chinanews.com/gjimg/01.jpg" /></a></div>
+    </div>
+	<div class=banner_2>
+<div style="position: relative; width: 495px;height: 90px;">
+
+<!--»ªÎª-->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="495" height="90">
+  <param name="wmode" value="opaque">
+  <param name="movie" value="http://i8.chinanews.com/gg/120110/011003.swf">
+  <param name="quality" value="high">
+  <embed src="http://i8.chinanews.com/gg/120110/011003.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="495" height="90"></embed>
+</object>
+
+<img width="30" height="17"  src="http://i8.chinanews.com/gg/160711/ad_4.png" style="position: absolute; right: 0px; bottom: 0px; z-index: 9999; border: none; width: 30px; height: 17px;">
+</div>
+
+<!--[4,175,196] published at 2016-08-31 16:46:29 from #10 by Ö£Õñº£--></div>
+	<div class=banner_3>
+</div>
+	<div class=div-clear></div>
+</div>
+
+
+<!--ÆµµÀµ¼º½-->
+<div class=clear></div>
+<div id=channel>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="40%"><a name="nextpage" id="nextpage"></a>±¾Ò³Î»ÖÃ£º <a href="http://www.chinanews.com/">Ê×Ò³</a> ¡ú <a href="http://www.chinanews.com.cn/">ÐÂÎÅÖÐÐÄ</a> ¡ú <a href=/wenhua.shtml>ÎÄ»¯ÐÂÎÅ</a> </td>
+    <td width="60%"><div class=lmtj><ul><!--[4,322,25] published at 2011-03-29 10:03:15 from #10 by ¹¨ÒÁ--> 
+<!--[4,322,27] published at 2010-12-31 14:34:43 from #10 by ¹¨ÒÁ--> 
+<style type="text/css">
+<!--
+.lmtj{color:#14388C;text-align:right;}
+.lmtj li{float:right;width:66px;height:24px;background-image:url(/fileftp/2009/01/2009-01-04/U76P4T47D10085F967DT20090104112017.gif);background-repeat:no-repeat;text-align:center;margin-left:3px;}
+li.li5t{width:89px;height:24px;background-image:url(/fileftp/2009/01/2009-01-04/U76P4T47D10085F968DT20090104113257.gif);background-repeat:no-repeat;padding-left:}
+li.li6t{width:89px;height:24px;background-image:url(/fileftp/2009/01/2009-01-04/U76P4T47D10085F968DT20090104113257.gif);background-repeat:no-repeat;color:#14388C;}
+li.li0t{width:89px;height:24px;background-image:url(/fileftp/2008/12/2008-12-31/U76P4T47D10075F980DT20081231121050.gif);margin-left:0px;}
+#channel a:link{color:#14388C;text-decoration:none;}
+#channel a:visited{color:#14388C;text-decoration:none;}
+#channel a:hover{color:#14388C;text-decoration:underline;}
+-->
+</style>
+
+<div class=lmtj><ul>
+<li class=li5t><a href="http://channel.chinanews.com/cns/cl/cul-wtjs.shtml">ÎÄÌ³¼ÍÊÂ</a></li>
+<li><a href="http://channel.chinanews.com/cns/cl/cul-kgfx.shtml">¿¼¹Å·¢ÏÖ</a></li>
+<li><a href="http://channel.chinanews.com/cns/cl/cul-whyc.shtml">ÎÄ»¯ÒÅ²ú</a></li>
+<li><a href="http://channel.chinanews.com/cns/cl/cul-shfz.shtml">ÀúÊ·ÕäÎÅ</a></li>
+</ul></div>
+    </ul></div></td>
+  </tr>
+</table>
+
+</div>
+<!--ÆµµÀµ¼º½-->
+
+<!--text-->
+<div class=clear></div>
+<div id=text>
+<div class=text_left>
+<!--Ö÷ÒªÄÚÈÝ-->
+<div class=left_txt>
+
+<!--±êÌâ--><div class=left_bt><ul>ÅÌµã2009ÍøÂçÁ÷ÐÐÓï£º²»ÒªÃÔÁµ¸ç£¬¸çÖ»ÊÇ¸ö´«Ëµ</ul></div><!--±êÌâ-->
+<!--Ê±¼ä-->
+<div class=left_time>2009Äê12ÔÂ06ÈÕ 10:13¡¡À´Ô´£ºÑï×ÓÍí±¨¡¡<span style="color:#A20D13;"><img src="http://i2.chinanews.com/zwimg/01.jpg" style="vertical-align:-4px;margin-right:3px;"/><a class=noline href="http://comment.chinanews.com.cn/comments/comments.php?newsid=2002240"><span style="color:#A20D13;">·¢±íÆÀÂÛ</span></a></span>¡¡¡¡¡¾×ÖÌå£º<a href="javascript:fontZoomB();" target="_self">¡ü´ó</a> <a href="javascript:fontZoomA();" target="_self">¡ýÐ¡</a>¡¿</div>
+<!--Ê±¼ä-->
+
+
+<!--Í¼Æ¬ËÑË÷-->
+<div align="center" style="width:98%;margin:0 auto;font-size:14px;"><!--Yc94EUEtAn4YSUKCaSOM --></div><!--Í¼Æ¬ËÑË÷-->
+
+
+<!--ÕýÎÄ-->
+<div class=left_zw>
+<!--·Å´óËõÐ¡×ÖÌå¹¦ÄÜ--><font id=fontzoom>
+<p><strong>¡¡¡¡ÅÌµã2009ÍøÂçÁ÷ÐÐÓï ´ó¶àÔ´×ÔÉí±ßÊÂ</strong></p>
+<p>¡¡¡¡²»ÒªÃÔÁµ¸ç£¬¸çÖ»ÊÇ¸ö´«Ëµ¡£</p>
+<p>¡¡¡¡½øÈë12ÔÂ£¬Ô¤Ê¾2009Äê¾Í¿ì¹ýÈ¥¡£»Ø¹Ë½ñÄê×î¡°»ð¡±µÄÍøÂçÁ÷ÐÐÓï£¬¾ä¾ä¶¼Ïàµ±À×ÈË¡¢¸ãÐ¦£¬ÈÃÎÒÃÇÒ»ÆðÀ´¶Ô¸Õ¸Õ×ßÔ¶µÄ¼¯Ìå¼ÇÒäÎÂ¹ÊÖªÐÂ¡£</p>
+<p><strong>¡¡¡¡ºÜÁ÷ÐÐ ´ÓÍøÉÏ»ðµ½ÏÖÊµÉú»î</strong><table border=0 cellspacing=0 cellpadding=0 align=left><tr><td>
+</td></tr></table></p>
+<p>¡¡¡¡¡°¸ç³ÔµÄ²»ÊÇÃæ£¬ÊÇ¼ÅÄ¯¡£¡± ½ñÄê7ÔÂ³õ£¬ÔÚ°Ù¶ÈÌù°ÉÀïÍ»È»ÓÐÈË·¢ÁËÒ»ÕÅÒ»Ãû·ÇÖ÷Á÷ÄÐ×Ó³ÔÃæµÄÍ¼Æ¬£¬Í¼Æ¬ÅäÎÄ¡°¸ç³ÔµÄ²»ÊÇÃæ£¬ÊÇ¼ÅÄ¯¡±¡£Ã»¶à¾Ã£¬±ãÓÐÍøÓÑÏà¼ÌÄ£·Â´Ë¾äÊ½¡ª¡ª¡°¸çÉÏµÄ²»ÊÇ°à£¬ÊÇ¼ÅÄ¯¡£¡±¡¢¡°¸ç¶ÁµÄ²»ÊÇÊé£¬ÊÇ¼ÅÄ¯¡£¡±Ò»Ê±¼ä£¬ÍøÂçÉÏ¡¢Éú»îÀï¿ªÊ¼¼¯ÌåÁ÷ÐÐÕâÖÖ¾äÊ½¡£</p>
+<p>¡¡¡¡¡°²»ÒªÃÔÁµ¸ç£¬¸çÖ»ÊÇ¸ö´«Ëµ¡£¡± Õâ¾ä»°µÄÆðÔ´ÊÇÃ¨ÆËÍø´óÔÓ»â£¬ÓÉÍøÓÑ¡°²»ÒªÃÔÁµ¸ç¡±µÄÒ»¸öÌû×ÓÒýÆðµÄ¶ñ¸ã£¬ÆäÖÐPSºÍ¶ñ¸ãµÄÍ¼Æ¬·äÓµ¶øÖÁ£¬Ðí¶àÃ¨ÆË¸ß¹ÜÒ²²ÎÓëÁËÆäÖÐµÄ¶ñ¸ã»î¶¯£¬ÓÉ´ËÍøÓÑÃÇ·×·×¿ªÊ¼²ÎÓë¡£</p>
+<p>¡¡¡¡¡°¼Ö¾ýÅô£¬ÄãÂèÂèº°Äã»Ø¼Ò³Ô·¹£¡¡± ÔÚ°Ù¶ÈÌù°ÉÄ³ÓÎÏ·°ÉÀï£¬Ò»¸öÖ»ÓÐ±êÌâ¡ª¡ª¡°¼Ö¾ýÅô£¬ÄãÂèÂèº°Äã»Ø¼Ò³Ô·¹£¡¡±µÄ¿ÕÌûÒ»ÌìÄÚÑ¸ËÙ³ÉÎªÍøÂçµÚÒ»ÉñÌû£¬µã»÷Êý°ÙÍò£¬»ØÌûÊýÊ®Íò£¬²¢Òý·¢ÁËÒ»³¡ÖÚ¶àÍøÓÑÃÇ²ÎÓëµÄÍøÂç¼¯Ìå¿ñ»¶£¬Ó°ÏìÁËÉç»á¸÷½çºÍÃ½ÌåÃÇ¶Ô´Ë»°µÄÉî¶È·ÖÎö¡£Óë´ËÍ¬Ê±£¬ÓëÆäÒâË¼ÏàËÆµÄÁ÷ÐÐÓï²ã³ö²»Çî¡£</p>
+<p>¡¡¡¡¡°ÕâÊÂ²»ÄÜËµÌ«Ï¸¡£¡± 2009ÄêÔªµ©¹ýºó£¬ÖÐ¹úÄÏ±±Á½´óÖ±Ï½ÊÐ¡ª¡ªÉÏº£ºÍÌì½ò£¬²»Ô¼¶øÍ¬ÕÐÀ´ÁËÒ»Ð©ÍøÃñµÄÂîÉù¡£ÈÇÀ´·ÇÒéµÄÊÇÍ¬Ò»ÏîÊÕ·Ñ£º´û¿îµÀÂ·½¨Éè³µÁ¾Í¨ÐÐ·Ñ¡£ ÔÚÑëÊÓ²¥³öµÄ¡¶½¹µã·ÃÌ¸¡·½ÚÄ¿ÖÐ£¬±¨µÀÁËÌì½ò¼á³ÖÊÕÈ¡55ÔªµÄ³µÁ¾Í¨ÐÐ·Ñ£¬Ãæ¶Ô¼ÇÕß¡°Ìì½òÊÐÃ¿ÄêÒª³¥»¹µÄ¹«Â·½¨ÉèµÄ´û¿îÁ¿ÓÐ¶à´ó¡±µÄÌáÎÊ£¬Ìì½òÊÐÊÐÕþ¹«Â·¹ÜÀí¾ÖÒ»¹ÙÔ±Ëµ£º¡°ÕâÊÂ¶ù²»ÄÜËµÌ«Ï¸¡£¡±</p>
+<p>¡¡¡¡¾ÍÕâÑù£¬Ò»¾äÍøÂçÁ÷ÐÐÓï±»´´ÔìÁË³öÀ´£¬ºÜ¶àÌÖÂÛÉç»áÊ±ÊÂµÄÌû×Ó³£ÄÜ¿´µ½Á¬ÐøÊ®¼¸Â¥¸úÌû¶¼ÊÇ¡°ÕâÊÂÂ¥Ö÷ËµµÃÌ«Ï¸ÁË£¬ÏÂ»Ø×¢Òâ¡±¡¢¡°ÎÒ²»ÄÜËµÌ«Ï¸¡±¡­¡­ÓÐµÄÍøÓÑ»¹°Ñ¡°ÕâÊÂ²»ÄÜËµÌ«Ï¸¡±ÖÆ×÷³É³µÌùÃâ·Ñ·¢·Å¡£</p>
+<p><strong>¡¡¡¡Éí±ßÊÂ ×ÌÉúÁ÷ÐÐÓïµÄÍÁÈÀ</strong></p>
+<p>¡¡¡¡ÕâÐ©ÍøÂçÉÏµÄ¾­µäÁ÷ÐÐÓï£¬ÆäÊµ¾Í·¢ÉúÔÚÎÒÃÇÉí±ß¡£</p>
+<p>¡¡¡¡Å¼¶û£¬²»¾­Òâ¼ä£¬¾Í»áÍ»È»Ìýµ½Ò»¾äºÜ¡°À×ÈË¡±µÄ»°¡£</p>
+<p>¡¡¡¡×î½ü£¬¼ÇÕßÔÚÒ»¸öÅóÓÑ¾Û»áÉÏ£¬¼ûµ½Ò»³¤Ïà¿É°®µÄÅ®º¢¶ù£¬ÔÚÑµ³âÒ»ÄÐÉúÈçºÎÆÛÆ­ËýÊ±£¬¾¹Óï³ö£º¡°ÀÏ»¢²»·¢ÍþÊÇ¸øÄãhello kittyµÄÃæ×Ó¡£¡±Óï±Ï£¬µ±³¡À×µ¹ÖÚÅóÓÑ¡£</p>
+<p>¡¡¡¡Á÷ÐÐÓï£¬Ò²×ÌÉúÁËÒ»Ð©Á÷ÐÐÓÎÏ·¡£¡°Íµ²ËÈ¥¡±¡¢¡°½ñÌìÂòÁËÊ²Ã´³µ£¿¡±ÕâÐ©Á÷ÐÐÓï£¬ÈÃÒ»ÖÖÃû½Ð¡°Íµ²Ë¡±µÄÓÎÏ··çÃÒÒ»Ê±¡£Í¬ÊÂ£¬ÅóÓÑÃÇ£¬Íæ¿ªÐÄÍøÓÎÏ·ÍæµÃÉÏñ«£¬ÉÏÍø¡°Íµ²Ë¡±¡¢¡°Õ¼³µÎ»¡±³ÉÁËÐí¶à°ì¹«ÊÒµÄÒ»µÀ·ç¾°¡£×î¼«¶ËµÄÀý×ÓÊÇ£¬ÓÉÓÚÐéÄâµÄÊß²Ë´ó¶àÔÚÍíÉÏ³ÉÊì£¬Ò»Ð©Ìú¸ËÍæ¼Ò¾¹È»µ÷ºÃÄÖÖÓ£¬Éî¸ü°ëÒ¹ÆðÀ´¡°Íµ²Ë¡±¡£</p>
+<p>¡¡¡¡ÔÚÏÖ½ñµÄÍøÂçÊ±´úÀï£¬²»½öÊÇÖ±¹Û¡¢ÓÄÄ¬µÄÁ÷ÐÐÓïÊÜµ½ÍøÃñ×·Åõ£¬¡°‡å¡±¡¢¡°˜Ž¡±¡¶ÐÂ»ª×Öµä¡·ÖÐ²é²»µ½¡¢ÖÇÄÜABC´ò²»³öµÄÉúÆ§ºº×ÖÒ²´óÐÐÆäµÀ¡£¶ø¶ÔÓÚÐí¶àÍøÓÑÀ´Ëµ£¬Ï²»¶ÓÃÕâÐ©´Ê£¬ºÜ´óÒ»²¿·ÖÔ­ÒòÊÇÒòÎªËüÃÇºÜÐÎÏó¡£</p>
+<p>¡¡¡¡ÈçÍ¬Ò»ÕÅÊ§ÂäµÄÈËÁ³µÄ¡°‡å¡±×Ö¼«ÎªÊ¢ÐÐ£¬³ÉÎª¸÷´óÍøÂçÂÛÌ³ÖÐÊ¹ÓÃÆµÂÊºÜ¸ßµÄ×ÖÑÛ¡£¡°‡å¡±×ÖµÄÍ»È»»ð±¬ÊÇÆðÔ´ÓÚÌìÑÄÂÛÌ³ÀïµÄÒ»Æª¹ØÓÚTVBÅ®ÑÝÔ±ºúÐÓ¶ùµÄÌÖÂÛÌû£¬ÓÐÍøÓÑ½«ºúÐÓ¶ùÔÚÄ³²¿µçÊÓ¾çÀïµÄ±íÇéÓë¡°‡å¡±ÏàµÈÍ¬£¬ÓÉÓÚÐÎÏóÓÐÈ¤£¬´Ëºó¡°‡å¡±×Ö¾ÍÔÚÍøÂçÉÏÁ÷ÐÐ¿ªÁË¡£</p>
+<p>¡¡¡¡´ËÍâ£¬»¹ÓÐÁ½¸ö¡°´ô¡±×ÖµÄ×éºÏ¡°˜Ž¡±£¬µ¥¿´ËüµÄ½âÊÍ¸ú¡°´ô¡±¿ÉÊÇ°Ë¸Í×Ó´ò²»µ½Ò»¿é¶ùÈ¥µÄ£¬²»¹ýÍøÂçÉÏ¸³ÓèÁËËüÐÂµÄº¬Òå£ººÜÉµ£¬ºÜÌìÕæ£¬Éµµ½¼ÒÁË¡£</p>
+<p><strong>¡¡¡¡´«²¥¿ì ²»ÒªÈËÎªÙôäÂÓïÑÔ</strong></p>
+<p>¡¡¡¡Ëæ×ÅÉç»áÉú»îµÄÈÕÐÂÔÂÒì£¬´Ê»ã·á¸»£¬ÓïÑÔ·¢Õ¹£¬ÊÇÓïÑÔ×ÔÉí·¢Õ¹µÄ±ØÈ»Ç÷ÊÆ£¬Ò²ÊÇÓïÑÔ´´ÐÂ·¢Õ¹µÄ±ØÒª±£Ö¤¡£´ÓÊÂÐÄÀíÑ§ÑÐ¾¿¶àÄêµÄ´¨Å©´óÐÄÀíÑ§¸±½ÌÊÚÅ·¾ÓºþÈÏÎª£¬´ÓÉç»áÐÄÀíÑ§µÄ½Ç¶ÈËµ£¬ÕâÐ©ÓïÑÔµÄÁ÷ÐÐ¸ü¶àµÄÊÇÒ»ÖÖ´ÓÖÚÏÖÏó£¬ÊÊµ±µÄÒÔÒ»¶¨ÓïÑÔÀ´±í´ï×Ô¼ºµÄÌØµãÖµµÃÌá³«£¬È»¶øÈç¹û¹ý·ÖÇ¿µ÷ÕâÖÖÌØµã£¬ÉõÖÁÏ°¹ßÐÔÔËÓÃÏû¼«µÄÓïÑÔÓ°ÏìÔò²¢²»ºÜºÃ¡£°´µÀÀí½²£¬Á÷ÐÐÓï¾ÍÊÇÁ÷ÐÐÓï£¬ÔõÃ´»¹¹ÚÒÔÍøÂçÄØ£¿ÕâÊÇÒòÎª»¥ÁªÍø¼¼ÊõµÄÆÕ±éÓ¦ÓÃÊ¹µÃÖÚ¶àµÄÁ÷ÐÐÓï´«²¥µÃ¸ü¼ÓÑ¸ËÙ£¬¶øÇÒÊÂÊµÉÏ£¬ºÜ¶àÁ÷ÐÐÓïÒ²ÍùÍùÊÇÆ¾½è»¥ÁªÍøµÃÒÔÑ¸ËÙ×ÌÉúºÍÂûÑÓµÄ¡£</p>
+<p>¡¡¡¡ÍøÂçÁ÷ÐÐÓïµÄ·¢Õ¹£¬Ò»·½Ãæ±íÏÖ³öÉç»áµÄ·¢Õ¹ºÍ½ø²½£¬ÁíÒ»·½ÃæÒ²ÊÇÓïÑÔ×ÔÉíÓÅÊ¤ÁÓÌ­·¢Õ¹Ô­ÔòµÄÊµ¼ÊÓ¦ÓÃ¡£µ«ÊÇ£¬ºöÊÓÓïÑÔ·¢Õ¹±ä»¯µÄÔ­ÔòÓë¹æÂÉ£¬½è¿ÚÊ²Ã´ÓÅÊ¤ÁÓÌ­Ô­Ôò¶øËÁÒâ´´Ôì·ÇÖ÷Á÷ÓïÑÔÉõÖÁ²»¹æ·¶ÓïÑÔ£¬±¾Éí¾ÍÊÇ¶ÔººÓïÑÔµÄÙôäÂ£¬ÖÁÉÙËµÃ÷Ê¹ÓÃÕßÓïÑÔËØÖÊµÍÏÂ¡£</p>
+<p>¡¡¡¡Òò´Ë£¬ÓÌÈç¾»»¯¿ÕÆøÒ»Ñù£¬ÔÚÕâÀï£¬ÎÒÃÇÒ²ºôÓõÉç»áÉÏÏÂÆë¶¯Ô±¾»»¯ººÓïÑÔµÄ·¢Õ¹»·¾³£¬¸øººÓïÑÔµÄ·¢Õ¹ºÍ½ø²½´´ÔìÒ»¸öÎÄÃ÷¡¢ÇåÐÂ¡¢½¡¿µµÄ·¢Õ¹»·¾³£¬¶ø²»ÊÇÈËÎªµØÈ¥ÙôäÂÈ¥ÆÆ»µ¡£ Êæ çâ</p>
+<p><strong>¡¡¡¡-Á´½Ó</strong></p>
+<p><strong>¡¡¡¡ÆäËû¾­µäÁ÷ÐÐÓï</strong></p>
+<p>¡¡¡¡¡°ÈËÉú¾ÍÏñÊÇÒ»¸ö²è¼¸£¬ÉÏÃæ°ÚÂúÁË±­¾ß(±¯¾ç)ºÍ²Í¾ß(²Ò¾ç)¡£¡±</p>
+<p>¡¡¡¡ÓÉ¡°±­¾ß¡±ÑÜÉúµÄ¾­µäÓïÂ¼£º</p>
+<p>¡¡¡¡1¡¢¾ÍËãÉú»îÖ»ÊÇ¸ö±­¾ß£¬ÎÒÒ²Òª×ö¸öÉÏÆ·Çà»¨´É±­¾ß¡£</p>
+<p>¡¡¡¡2¡¢ÄÐÈËÊÇÄàËÜµÄ±­¾ß£¬¾­µÃÆð¡°¿¾Ñæ¡±£¬²ÅÄÜÓµÓÐË®×öµÄÅ®ÈË¡£</p>
+<p>¡¡¡¡3¡¢²»ÒªÃÔÁµ¹ø£¬¹øÒ²Ö»ÊÇ¸ö±­¾ß¡£</p>
+<p>¡¡¡¡4¡¢ÈË×ÜÊÇ¾õµÃ×Ô¼ºµÄ±­¾ßÌ«¶àÁË£¬µ«ÉÏµÛÊÇ¼æÖ°ÍÆÏúµÄ¡£</p>
+<p>¡¡¡¡5¡¢ÈËÉú¾ÍÊÇÒ»Íë¡°ÄÚÅ£ÂúÃæ¡±¡­¡­ÉÙÁË¡­¡­Ê¢ËüµÄÊÇ±­¾ß¡­¡­¶àÁË¡­¡­×°ËüµÄÊÇ²Í¾ß¡­¡­</p>
+<p>¡¡¡¡6¡¢ÎÒÊÇÄãµÄÊ²Ã´£¿¡ª¡ªÄãÊÇÎÒµÄ±­¾ß°¡¡£¡ª¡ª°¡£¬Ô­À´ÎÒÖ»ÊÇ±­¾ß°¡£¿¡ª¡ªÕâÑùÎÒ¾Í¿ÉÒÔ°ÑÄãÅõÔÚÊÖÐÄÁË°¡¡£</p>
+<p>¡¡¡¡ÐÅ´º¸ç£¬µÃÓÀÉú£»ÐÅÔø¸ç£¬²»¹Ò¿Æ¡£</p>
+<p>¡¡¡¡¡°±»ÎÒµãÁË£¬´ðÌâÈ¥£¡¡±</p>
+<p>¡¡¡¡²»ÊÇ¹ÊÊÂµÄ½á¾Ö²»¹»ºÃ£¬¶øÊÇÎÒÃÇ¶Ô¹ÊÊÂµÄÒªÇó¹ý¶à£¡</p>
+<p>¡¡¡¡°®Çé¾ÍÏñÁ½¸öÀ­ÏðÆ¤½îµÄÈË£¬ÊÜÉËµÄ×ÜÊÇ²»Ô¸·ÅÊÖµÄÄÇ¸ö¡£</p>
+<p>¡¡¡¡ÏÊ»¨ÍùÍù²»ÊôÓÚÉÍ»¨µÄÈË£¬¶øÊôÓÚÅ£·à¡£</p>
+<p>¡¡¡¡»ÑÑÔÓëÊÄÑÔµÄÇø±ðÔÚÓÚ£ºÒ»¸öÊÇÌýµÄÈËµ±ÕæÁË£¬Ò»¸öÊÇËµµÄÈËµ±ÕæÁË¡£</p>
+<p>¡¡¡¡µ¥Éí²¢²»ÄÑ£¬ÄÑµÄÊÇÓ¦¸¶ÄÇÐ©Ç§·½°Ù¼ÆÏëÈÃÄã½áÊøµ¥ÉíµÄÈË¡£</p>
+<p>¡¡¡¡ÓÐÊ±ºò£¬²»ÊÇ¶Ô·½²»ÔÚºõÄã£¬¶øÊÇÄã°Ñ¶Ô·½¿´µÃÌ«ÖØ¡£</p>
+<p>¡¡¡¡¾ÍËãÊÇbelieve(ÐÅÈÎ)£¬ÖÐ¼äÒ²²Ø×ÅÒ»¸ölie(»ÑÑÔ)¡£ <div id="function_code_page"></div>
+<!--·Å´óËõÐ¡×ÖÌå¹¦ÄÜ--></font><!--·Å´óËõÐ¡×ÖÌå¹¦ÄÜ-->
+
+<div class=clear></div>
+</div><!--ÕýÎÄ-->
+<!--½øÈëÆµµÀ-->
+<div style="text-align:center; font-size:16px; font-weight:bold; margin-top:15px;" class="blue_16b" ><a href="http://www.chinanews.com.cn/culture/index.shtml">¸ü¶à¾«²ÊÄÚÈÝÇë½øÈëÎÄ»¯ÆµµÀ</a></div>
+<!--½øÈëÆµµÀ½áÊø-->
+<!--±à¼­ÐÕÃû--><div class=left_name><span style="background: transparent url(http://www.chinanews.com.cn/fileftp/2009/09/2009-09-01/U218P4T47D11602F972DT20090901122350.jpg) no-repeat scroll 0pt 2px; text-align: left; float: left; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; padding-left: 15px; color: red; font-size: 14px; font-weight: bold;"><a style="color: red; text-decoration: none;" target="_blank" href="http://www.chinanews.com.cn/special/wap.html">ÊÖ»úµÇÂ½ÖÐÐÂÍø ËæÊ±ËæµØÖªÌìÏÂ</a></span>¡¾±à¼­:<span style="color:#A20D13;">ÕÅÖÐ½­</span>¡¿</div><!--±à¼­ÐÕÃû-->
+<!--ÐÄÇéÇø--><div class=left_xq>
+<iframe id='moodiframe' width="98%" scrolling="no" height="104" marginheight="0" marginwidth="0"  src="http://app1.chinanews.com.cn/newsHeart/mood.html" frameborder="0"></iframe>
+
+</div><!--ÐÄÇéÇø-->
+<!--¹ã¸æÇø-->
+<!--¹ã¸æÇø-->
+<div class=clear></div>
+
+
+<!--Ïà¹ØÐÂÎÅ--><div class=left_xgxw>
+<div style="font-weight:bold;padding-left:10px;">Ïà¹ØÐÂÎÅ</div>
+<ul>
+¡¤<a href=http://www.chinanews.com.cn/yl/yl-ypkb/news/2009/12-04/2001275.shtml target=_blank>·ë¹®´ºÍíÐÂ¶Î×ÓËµ<span style="color:red">Á÷</span><span style="color:red">ÐÐ</span><span style="color:red">Óï</span> <span style="color:red">Íø</span>ÓÑ²»ÂòÕËÅú¡°×°ÄÛ¡±</a><br>¡¤<a href=http://www.chinanews.com.cn/cul/news/2009/12-03/1998227.shtml target=_blank>11ÔÂ<span style="color:red">Íø</span><span style="color:red">Âç</span>¡°Ê®´óÈÈ´Ê¡±³öÂ¯ ¡°MM·´Ä§ÊÞÁªÃË¡±×î»ð</a><br>¡¤<a href=http://www.chinanews.com.cn/cul/news/2009/12-03/1997146.shtml target=_blank>ÀÏÂõµÄ´ºÍíÈ«·½Î»"×°ÄÛ"?Ò»Éó³ä³â¹ýÊ±µÄ<span style="color:red">Á÷</span><span style="color:red">ÐÐ</span><span style="color:red">Óï</span></a>
+</ul>
+</div><!--Ïà¹ØÐÂÎÅ-->
+
+<div class=clear></div>
+</div><!--left_txt-->
+
+<!--Ïà¹ØÆÀÂÛ-->
+<style type="text/css">
+<!--
+.left_pl{border:1px solid #99BBDE;margin-top:10px;}
+.pl_1{margin-top:10px;}
+.pl_1_1{float:left;width:40%;text-align:left;margin-left:15px;font-size:14px;}
+.pl_1_2{float:right;width:50%;text-align:right;margin-right:15px;font-size:14px;}
+.pl_2{width:97%;margin:0 auto;background-color:#F7FAFD;margin-top:7px;border:1px dashed #D9D9D9;}
+.pl_2_1{float:left;width:45%;text-align:left;padding-left:10px;}
+.pl_2_2{float:right;width:45%;text-align:right;padding-right:10px;}
+.pl_3{width:95%;margin:0 auto;margin-top:5px;font-size:14px;color:#626262;}
+.pl_4{width:95%;margin:0 auto;text-align:left;margin-top:7px;}
+textarea{width:590px;height:137px;}
+input{padding-top:1px;}
+input.txt{width:80px;}
+input.btn{width:70px;}
+input.red{color:#f00;}
+input.serch{width:100px;border:1px solid #D9D9D9;height:18px;}
+select.ser{border:1px solid #D9D9D9;height:22px;}
+textarea.ttt{border:1px solid #CCCCCC; background-image:url(http://www.chinanews.com.cn/fileftp/2009/07/2009-07-29/U33P4T47D11468F969DT20090729111646.gif); background-repeat:no-repeat; background-position:right bottom ;height:88px;width:450px;}
+-->
+</style>
+
+
+<div class=left_pl>
+<div align="center">
+<IFRAME  id="iframecommnet" name="iframecommnet" align="middle" marginWidth="0" marginHeight="0" src="http://comment2.chinanews.com.cn/comments/display_comment.php?newsid=2002240" frameBorder="0" scrolling="no" onload="this.height=iframecommnet.document.body.scrollHeight" width="595" height="0"></IFRAME>
+<IFRAME  id="iframepost" name="iframepost" align="middle" marginWidth="0" marginHeight="0" src="http://comment.chinanews.com.cn/comments/zhengwen_comment_box.php?newsid=2002240&referer=http://www.chinanews.com.cn/cul/news/2009/12-06/2002240.shtml" frameBorder="0" scrolling="no" onload="this.height=iframepost.document.body.scrollHeight" width="595" height="0"></IFRAME>
+</div>
+
+<!--pl_4-->
+</div><!--Ïà¹ØÆÀÂÛ-->
+
+
+
+<!--¸ü¶àÐÂÎÅ-->
+<div class=left_more>
+<div class=left_pdtj>
+  <ul>
+    ----- ÎÄ»¯ÐÂÎÅ¾«Ñ¡ -----
+  </ul>
+</div>
+<div class=pdtj_txt>
+<ul>
+<!--[4,330,10] published at 2019-04-08 23:01:17 from #10 by system --><li class="lianjie">¡¤<a href="/cul/2019/04-08/8802879.shtml" target="_blank" title="">À¥Çú¡¶Äµµ¤Í¤¡·ÁÁÏàÂí¶úËû ¶«Î÷·½¹ÅÀÏÎÄ»¯¼¤ÇéÅö×²</a></li><style>.lianjie p {display: inline-block;margin: 0px;}</style><li class="lianjie">¡¤<a href="/cul/2019/04-08/8802819.shtml" target="_blank" title="">Ì½·Ã¡¶ÂêÄÉË¹¡··ÇÎïÖÊÎÄ»¯ÒÅ²ú´«³ÐÈË ÊØ»¤Ãñ×åÖÇ»Û</a></li><style>.lianjie p {display: inline-block;margin: 0px;}</style><li class="lianjie">¡¤<a href="/cul/2019/04-08/8802809.shtml" target="_blank" title="">ÒÔ´«²¥Éç»áÑ§ÊÓ½ÇÌ½Ë÷£ºÐÂÖÐ¹úÅ®ÐÔÐÎÏó±äÇ¨</a></li><style>.lianjie p {display: inline-block;margin: 0px;}</style><li class="lianjie">¡¤<a href="/cul/2019/04-08/8802693.shtml" target="_blank" title=""><a class="ptv" href="http://www.chinanews.com/cul/shipin/cns/2019/04-08/news810642.shtml">Æ¯Ñó¹ýº£µÄ¡°ÑóÃÀºïÍõ¡±£º°Ñ¾©¾ç³ª¸øÊÀ½çÌý</a></a></li><style>.lianjie p {display: inline-block;margin: 0px;}</style><li class="lianjie">¡¤<a href="/cul/2019/04-08/8802622.shtml" target="_blank" title="">Ë«ÓïÏàÉùÓëÖÚ²»Í¬£ºµ±ÏàÉùÓöÉÏ¡°Íá¹ûÈÊ¡±</a></li><style>.lianjie p {display: inline-block;margin: 0px;}</style><li class="lianjie">¡¤<a href="/cul/2019/04-08/8802619.shtml" target="_blank" title="">½õÀð¡¢·ðÏµ¡¢¹ÙÐû...ÍøÂçÁ÷ÐÐÓï³ÉÎÄ»¯·ûºÅ</a></li><style>.lianjie p {display: inline-block;margin: 0px;}</style><li class="lianjie">¡¤<a href="/cul/2019/04-06/8801748.shtml" target="_blank" title="">¹Ê¹¬ÍÆ³ö¡°³õÑ©¡±µ÷ÁÏ¹Þ ÍøÓÑ£º³ø·¿Ö±½ÓÉý¼¶ÓùÉÅ·¿</a></li><style>.lianjie p {display: inline-block;margin: 0px;}</style><li class="lianjie">¡¤<a href="/cul/2019/04-06/8801663.shtml" target="_blank" title="">µÚÊ®Èý½ì»ÆµÛÎÄ»¯¹ú¼ÊÂÛÌ³£ºÑ§ÕßÒÔÊ«¸è½²Êö¼Ò¹úÇé»³</a></li><style>.lianjie p {display: inline-block;margin: 0px;}</style>
+</ul>
+</div>
+</div><!--¸ü¶àÐÂÎÅ-->
+<!--Ò³µ×¹ã¸æ-->
+<div style="margin-top:10px;text-align:center;border:1px solid #D9D9D9;"></div>
+<!--Ò³µ×¹ã¸æ-->
+
+
+
+</div><!--text_left-->
+
+<div class=text_right>
+<!--ËÑË÷-->
+<div class=serch>
+<!--
+<form name="sumitForm" method="post" action="http://search.chinanews.com/search.do" target="_blank" onsubmit="return submitFun()">
+<div style="float:left;margin-right:5px;margin-top:0px!important margin-top:1px;">
+  <label>
+<select name="filed" id="filed" class="ser">
+<option value="title" selected>±ê Ìâ</option>
+<option value="content">ÄÚ ÈÝ</option>
+</select>
+
+  </label>
+</div>
+<div style="float:left;margin-left:-8px;"><input type="text" name="keyword" id="keyword" autocomplete="off" maxlength="15" size="15" value="ÇëÊäÈë¹Ø¼ü×Ö" onfocus="this.value=''" class="serch"/></div>
+<div style="float:left;margin-top:-2px!important margin-top:-1px;margin-left:2px;">
+<input type="image" src="/fileftp/2009/01/2009-01-05/U76P4T47D10095F981DT20090105144455.jpg" name="submitBtn" id="submitBtn" value=" ËÑË÷ "/>
+</div>
+<div style="float:left;margin-left:15px;padding-top:3px;"><a href="/rss/index.shtml"><img src="/fileftp/2009/01/2009-01-05/U76P4T47D10095F980DT20090105144626.jpg" border="0" /></a></div>
+        <input type="hidden" name="pageIndex" id="pageIndex" value="1" />
+        <input type="hidden" name="isEncode" id="isEncode" value="false" />
+        <input type="hidden" name="day1" id="day1" />
+        <input type="hidden" name="day2" id="day2" />
+        <input type="hidden" name="ad_is" id="ad_is" value="false" />
+</form>-->
+<!--[4,322,43] published at 2010-12-31 14:34:33 from #10 by ¹¨ÒÁ--> 
 <script type="text/javascript">
-//è§£æ±ºIE8,IE9ä¸æ”¯æŒconsoleçš„é—®é¢˜
-(function() {
-    var method;
-    var noop = function() {};
-    var methods = [
-        'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
-        'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
-        'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
-        'timeStamp', 'trace', 'warn'
-    ];
-    var length = methods.length;
-    var console = (window.console = window.console || {});
-
-    while (length--) {
-        method = methods[length];
-
-        // Only stub undefined methods.
-        if (!console[method]) {
-            console[method] = noop;
-        }
-    }
-}());
+<!--
+function submitFun() {
+var hotword="";
+hotword=document.getElementsByName('q')[0].value;
+var field=document.getElementsByName('filed')[0].value;
+if (field=='title'){
+window.open("http://sou.chinanews.com/search.do?q=title:"+encodeURIComponent(hotword));
+ }
+ else{
+ window.open("http://sou.chinanews.com/search.do?q="+encodeURIComponent(hotword));
+ }
+}
+-->
 </script>
+
+<div style="float:left;margin-right:5px;margin-top:0px!important margin-top:1px;">
+  <label>
+<select name="filed" id="filed" class="ser">
+<option value="title" selected>±ê Ìâ</option>
+<option value="content">ÄÚ ÈÝ</option>
+</select>
+
+  </label>
+</div>
+<div style="float:left;margin-left:-8px;"><input type="text" name="q" id="keyword" autocomplete="off" maxlength="15" size="15" value="ÇëÊäÈë¹Ø¼ü×Ö" onfocus="this.value=''" class="serch"/></div>
+<div style="float:left;margin-top:-2px!important margin-top:-1px;margin-left:2px;">
+<input type="image" src="http://www.chinanews.com/fileftp/2009/01/2009-01-05/U76P4T47D10095F981DT20090105144455.jpg"  onclick="submitFun()" />
+</div>
+<div style="float:left;margin-left:15px;padding-top:3px;"><a href="/rss/index.shtml"><img src="http://www.chinanews.com/fileftp/2009/01/2009-01-05/U76P4T47D10095F980DT20090105144626.jpg" border="0" /></a></div>
+
+
+<div class=clear></div>
+</div>
+<!--ËÑË÷-->
+<!--Ð¡»­ÖÐ»­-->
+<div class=gghzh><iframe width=335 height=180 frameborder=0 scrolling=no src="http://www.chinanews.com.cn/ad2008/252.html"></iframe></div>
+<!--Ð¡»­ÖÐ»­-->
+<!--ÍÆ¼öÔÄ¶Á-->
+<div class=box>
+<div><a href="http://www.chinanews.com.cn/news/tjyd/more_1.shtml" target="_blank"><img src="http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F967DT20090114092953.jpg" border="0" /></a></div>
+<div class=boxyd>
+<ul style="margin-top:7px;">
+<!--[4,322,8] published at 2019-04-08 23:03:04 from #10 by system--> 
+
+<li>¡¤<a href=//www.chinanews.com/gj/2019/04-08/8803188.shtml>²»ÉáÂÃ°Ä´óÐÜÃ¨»Ø¹ú£¡°Ä´óÀûÑÇ½«×âÆÚÑÓ³¤5Äê</a></li>
+
+<li>¡¤<a href=//www.chinanews.com/gj/2019/04-08/8802967.shtml>ÀúÊ±3Äê¿çÔ½33¹ú ºÉÀ¼ÄÐ×ÓÍê³Éµç¶¯³µ»·ÇòÖ®ÂÃ</a></li>
+
+<li>¡¤<a href=//www.chinanews.com/gj/2019/04-08/8802802.shtml>·ðÂÞÀï´ïÖÝ¹ú¼Ò²¶»ñ¾Þòþ ³¤¶È³¬5Ã×ÌåÄÚÓÐ73¿Åµ°</a></li>
+
+<li>¡¤<a href=//www.chinanews.com/tw/2019/04-08/8802780.shtml>¸£Ô­°®Æ½°²²úÏÂ¶þÌ¥ ÀÏ¹«½­ºê½ÜÏ²É¹Ò»¼ÒËÄ¿Ú(Í¼)</a></li>
+
+<li>¡¤<a href=//www.chinanews.com/gj/2019/04-08/8802726.shtml>¼ÓÄÃ´óÒ»²ñÈ®Òò»á»­»­×ßºì »­×÷ÒÑÊÛ³öÓâ231·ù</a></li>
+
+<li>¡¤<a href=//www.chinanews.com/sh/shipin/cns-d/2019/04-08/news810623.shtml><a href="//www.chinanews.com/sh/shipin/cns-d/2019/04-08/news810623.shtml"><span class=ptv>¼ÓÓÍÇ¹Î´ÊÕË¾»ú¼Ý³µ¶øÈ¥ ¼ÓÓÍÕ¾ÉÏÑÝ¾ª»êË²¼ä</span></a></a></li>
+
+<li>¡¤<a href=//www.chinanews.com/cul/2019/04-08/8802693.shtml><a class="ptv" href="http://www.chinanews.com/cul/shipin/cns/2019/04-08/news810642.shtml">Æ¯Ñó¹ýº£µÄ¡°ÑóÃÀºïÍõ¡±£º°Ñ¾©¾ç³ª¸øÊÀ½çÌý</a></a></li>
+
+<li>¡¤<a href=//www.chinanews.com/sh/2019/04-08/8802560.shtml>½º¶«ÁÒÊ¿ÁêÔ°Èë¿ÚÀ¬»ø±éµØ¡¢Í£³µÂÒÊÕ·Ñ£¿¹Ù·½»ØÓ¦</a></li>
+
+<li>¡¤<a href=http://finance.chinanews.com/cj/2019/04-08/8802533.shtml>½á»éÂÊ½µÀë»éÂÊÉý ÊÇ¶ÀÁ¢ÒâÊ¶áÈÆð»¹ÊÇ·¿¼ÛÌ«¹ó£¿</a></li>
+
+<li>¡¤<a href=//www.chinanews.com/sh/2019/04-08/8802508.shtml>ÍøºìÄêÐ½°ÙÍò£¿ÊÐ³¡µ÷²é£º½ö20%µÄÍ·²¿ÍøºìÔÚ×¬Ç®</a></li>
+ 
+</ul>
+</div>
+</div><!--ÍÆ¼öÔÄ¶Á-->
+
+<!-- ÉÌÑ¶ -->
+<div class=boxgg1>
+<div style="background-color:#99BBDE;"><div style="margin-left:15px;color:#fff;font-weight:bold;">ÉÌÑ¶ >></div></div>
+<div style="margin-top:7px;font-size:12px;margin-left:10px;" class=ggsx></div>
+</div><!-- ÉÌÑ¶ -->
+
+<!-- ÉçÇø -->
+<div class=box1>
 <script type="text/javascript">
-    (function () {
-        var html = document.getElementsByTagName("html")[0];
-        var width = Math.min(document.documentElement.clientWidth, 790);
-        width = width < 320 ? 320 : width;
-        if (document.documentElement.clientWidth <= 1024) {
-            html.style.fontSize = width / 790 * 79 + 'px';
-        }
-        if (window.addEventListener) {
-            window.addEventListener('resize', resizeHandler);
-        }
-        else if (window.attachEvent) {
-            window.attachEvent('onresize', resizeHandler);
-        }
-        function resizeHandler() {
-            if (document.documentElement.clientWidth <= 1024) {
-                var width = Math.min(document.documentElement.clientWidth, 790);
-                width = width < 320 ? 320 : width;
-                html.style.fontSize = width / 790 * 79 + 'px';
-            } else {
-                html.style.fontSize = "16px";
-            }
-        };
-    })();
+function nTabs(thisObj,Num){
+if(thisObj.className == "active")return;
+var tabObj = thisObj.parentNode.id;
+var tabList = document.getElementById(tabObj).getElementsByTagName("li");
+for(i=0; i <tabList.length; i++)
+{
+  if (i == Num)
+  {
+   thisObj.className = "active"; 
+      document.getElementById(tabObj+"_Content"+i).style.display = "block";
+  }else{
+   tabList[i].className = "normal"; 
+   document.getElementById(tabObj+"_Content"+i).style.display = "none";
+  }
+} 
+}
 </script>
 
+<style type="text/css">
+<!--
 
-        <script type="text/javascript">
-            window._taboola = window._taboola || [];
-            _taboola.push({article:'auto'});
-            !function (e, f, u, i) {
-                if (!document.getElementById(i)){
-                e.async = 1;
-                e.src = u;
-                e.id = i;
-                f.parentNode.insertBefore(e, f);
-                }
-            }(document.createElement('script'),
-            document.getElementsByTagName('script')[0],
-            '//cdn.taboola.com/libtrc/sohuchina-sohucom/loader.js',
-            'tb_loader_script');
-            if(window.performance && typeof window.performance.mark == 'function')
-                {window.performance.mark('tbl_ic');}
-        </script>
-        <script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//cdn.adpushup.com/42136/adpushup.js'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
-        <script type="text/javascript">
-                        window.deployEnv = "prod"
-                    </script>
-    </head>
-            <body class="article-page" data-region="145" data-spm="content-abroad">
-        <div class="wrapper-box">
-             <header id="main-header" class="error-head">
+#myTab{ text-align:center;}
+.none {display:none;}
 
+.nTab{
+width: 335px;
+}
+.TabTitle{
+overflow: hidden;
+width:335px;
+background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F970DT20090114101119.jpg);
+}
+.nTab .TabTitle ul{
+border:0;
+margin:0;
+padding:0;
 
-	<div class="area">
-		<div class="head-nav left" data-spm="nav">
-			<ul>
-			    <li class="index"><a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com"><em class="icon-home icon"></em><em class="sohu-logo">æœç‹é¦–é¡µ</em></a></li>
-														<li><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">æ–°é—»</a></li>
-																			<li><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">ä½“è‚²</a></li>
-																			<li><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">æ±½è½¦</a></li>
-																			<li><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">æˆ¿äº§</a></li>
-																			<li><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">æ—…æ¸¸</a></li>
-																			<li><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">æ•™è‚²</a></li>
-																			<li><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">æ—¶å°š</a></li>
-																			<li><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">ç§‘æŠ€</a></li>
-																			<li><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">è´¢ç»</a></li>
-																			<li><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">å¨±ä¹</a></li>
-																																																																																																																									<li class="more-nav"><a class="more-tag" href="javascript:void(0)">æ›´å¤š<em class="cor"></em></a>
-					<div class="more-nav-box">
-																																																																																																																																																					<a href="http://baobao.sohu.com/">æ¯å©´</a>
-																										<a href="https://healthnews.sohu.com/">å¥åº·</a>
-																										<a href="http://history.sohu.com/">åŽ†å²</a>
-																										<a href="http://mil.sohu.com/">å†›äº‹</a>
-																										<a href="http://chihe.sohu.com/">ç¾Žé£Ÿ</a>
-																										<a href="http://cul.sohu.com/">æ–‡åŒ–</a>
-																										<a href="http://astro.sohu.com/">æ˜Ÿåº§</a>
-																										<a href="https://www.sohu.com/xchannel/TURBd01EQXhPVGt5">ä¸“é¢˜</a>
-																										<a href="http://game.sohu.com/">æ¸¸æˆ</a>
-																										<a href="http://fun.sohu.com/">æžç¬‘</a>
-																										<a href="http://acg.sohu.com/">åŠ¨æ¼«</a>
-																										<a href="http://pets.sohu.com/">å® ç‰©</a>
-																		</div>
-				</li>
-				<li><a href="javascript:void(0)" id="pc-channel-wza-entry">æ— éšœç¢</a></li>
-			</ul>
-		</div>
-		<div id="head-login" class="right login">
-		</div>
-	</div>
+}
+.nTab .TabTitle ul a{ 
+border:0;
+margin:0;
+padding:0;
+}
+.nTab .TabTitle li{
+float: left;
+width: 152px;
+cursor: pointer;
+list-style-type: none;
+height:29px;
+line-height:29px;
+padding-right:5px;
+}
 
-</header>             <div class="location-without-nav"></div>             <div class="area clearfix" id="article-container">
-                <div class="left main" style="margin-left: 170px;">
-                    <div data-spm="content">
-                        <div class="text">
-                            <div class="text-title">
-    <h1>
-                    å‹‡å£«ä»Žæ­»äº¡äº”å°åˆ°æ­»ç¥žç»„å›¢ 4å¹´3å† é‡‘å·žå»ºç«‹çŽ‹æœ
-                <span class="article-tag">
-                 </span>
-    </h1>
-            <div class="article-info">
-        <span class="time" id="news-time" data-val="1528517238000">2018-06-09 12:07</span>
-                    <span data-role="original-link">
-                                æ¥æº:
-                                <a href="" target="_blank">NBAå¹¿è§’</a></span>
-                            <div id="abroad-share-box" class="abroad-share-box"></div>
+.nTab .TabTitle .active{background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F968DT20090114095144.jpg);background-repeat:no-repeat;width:152px;}
+.nTab .TabTitle .active a{width:152px;font-weight:bold;}
+.nTab .TabTitle .normal{background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F969DT20090114095144.jpg);background-repeat:no-repeat;width:152px;}
+.nTab .TabTitle .normal a{width:152px;}
+
+.nTab .TabContent{
+width:333px;
+margin: 0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+border-left:1px solid #99BBDE;border-bottom:1px solid #99BBDE;border-right:1px solid #99BBDE;
+}
+-->
+</style>
+
+<!-- »¬¶¯ÃÅ¿ªÊ¼ -->
+<div class="nTab">
+    <!-- ±êÌâ¿ªÊ¼ -->
+    <div class="TabTitle">
+      <ul id="myTab">
+        <li class="active" onMouseOver="nTabs(this,0);"><a href="http://club.chinanews.com.cn/"><span style="font-size:12px;">ÖÐÐÂÉçÇø</span></a></li>
+        <li class="normal" onMouseOver="nTabs(this,1);"><a href="http://club.chinanews.com.cn/"><span style="font-size:12px;">ÍøÓÑÈÈÒé</span></a></li>
+      </ul>
     </div>
+    <!-- ÄÚÈÝ¿ªÊ¼ -->
+    <div class="TabContent">
+      <div id="myTab_Content0" >
+<div style="width:98%;margin:0 auto;"">
+<ul style="padding-top:5px;">
+<!--[4,322,45] published at 2016-11-04 11:14:54 from #10 by system--> 
+
+</ul>
+<div class=right_pha1><!--[4,322,5] published at 2016-05-17 16:57:58 from #10 by system--> 
+<div style="clear:both;"><table width="100%" border="0" cellspacing="0" cellpadding="0"></table></div></div>
 </div>
-<article class="article" id="mp-editor">
-      <p data-role="original-title" style="display:none">åŽŸæ ‡é¢˜ï¼šå‹‡å£«ä»Žæ­»äº¡äº”å°åˆ°æ­»ç¥žç»„å›¢ 4å¹´3å† é‡‘å·žå»ºç«‹çŽ‹æœ</p>
-              <!--                  -->
-                    <p style="text-align: center;"><img src="http://5b0988e595225.cdn.sohucs.com/images/20180609/c557d825c36246c3adfdbbd7d3b3c317.jpeg" max-width="600" /></p> 
-<p>NBAçš„åŽ†å²ä»Žä¸ä¼šè®°å¾—æ€»äºšå†›ã€‚ä»Žç»“æžœçœ‹ï¼Œå‹‡å£«é˜Ÿåœ¨å››å¹´ä¸‰æ¬¡å¤ºå† ï¼Œç¡®å®žå»ºç«‹äº†å±žäºŽé‡‘å·žçš„çŽ‹æœã€‚</p> 
-<p>2015å¹´å‹‡å£«é˜Ÿå’Œéª‘å£«é˜Ÿç¬¬ä¸€æ¬¡ç›¸é‡çš„æ—¶å€™ï¼Œé‚£ä¸ªæ—¶å€™å‹‡å£«è¿˜æ˜¯ä¸€ä¸ªä½Žè°ƒçš„ï¼Œå¼±åŠ¿ç¾¤ä½“çš„å§¿æ€ï¼Œä»–ä»¬ç”šè‡³æœ‰ä¸€ç§åŽèµ·ä¹‹ç§€çš„æ—¢è§†æ„Ÿï¼Œåœ¨éª‘å£«é˜Ÿ2-1æ€»æ¯”åˆ†é¢†å…ˆå‹‡å£«çš„æ—¶å€™ï¼Œè¿˜æ²¡æœ‰äººæƒ³è¿‡å››å¹´åŽå‹‡å£«å·²ç»ä¸‰å† åœ¨æ‰‹ã€‚ç§‘å°”åœ¨2015å¹´æ€»å†³èµ›ç¬¬å››åœºå¼€åˆ›çš„æ­»äº¡äº”å°çš„é˜µå®¹ï¼Œå®žé™…ä¸Šæ”¹å˜äº†ä¹‹åŽè”ç›Ÿçš„æˆ˜æœ¯å½¢æ€ï¼ŒçœŸæ­£æ”¹å˜å°çƒè¿›ç¨‹çš„ä¸æ˜¯åº“é‡Œï¼Œè€Œæ˜¯ç§‘å°”çš„æˆ˜æœ¯ä½“ç³»ï¼Œè®©æ›´å¿«ï¼Œæ›´å°æ›´è¿…é€Ÿçš„æ— é™æ¢é˜²å’Œè½®è½¬ï¼Œæˆä¸ºäº†çŽ°ä»£å°çƒçš„ä¸»æµæ‰“æ³•ã€‚</p> 
-<p>åœ¨è¿™æ ·çš„è¿›ç¨‹ä¸­ï¼Œå‹‡å£«ä¹Ÿå¹¶ä¸æ˜¯é‚£ä¹ˆçš„â€œåå‰¯å…¶å®žâ€â€”â€”è¿™æ˜¯ä¸€ä¸ªå¦‚åŒçŽ°ä»£è¯„åˆ¤æ ‡å‡†éƒ½ä¼šå¸¦æœ‰æ§½ç‚¹å’Œæ§æ€çš„æ¨¡æ¿ã€‚2016å¹´å‹‡å£«é˜Ÿç”¨73èƒœåˆ·å±ï¼Œç„¶è€Œé‚£ä¸ªæ—¶å€™å‹‡å£«å°±å¼€å§‹å—åˆ°äº†è”ç›Ÿåˆ¶é€ çš„å½±å“ï¼Œæ— é™æ¢é˜²çš„èƒŒåŽåœ¨é‚£ä¸ªèµ›å­£è¿˜æœ‰è”ç›Ÿé»˜è®¸çš„æ— é™çš„ç§»åŠ¨æŒ¡æ‹†ï¼Œä»¥åŠåœ¨å­£åŽèµ›æ ¼æž—è¸¢è›‹ä¸ç¦èµ›çš„æ±¡ç‚¹ï¼Œæ€»å†³èµ›è¢«éª‘å£«ç¥žå¥‡ç¿»ç›˜ä¹‹åŽï¼Œéª‘å£«å‹‡å£«ä¹‹æˆ˜ä¼¼ä¹Žæˆä¸ºè”ç›Ÿå¯»æ‰¾æ”¶è§†çŽ‡æµé‡å³°å€¼äº¤ç‚¹çš„ä¸€ä¸ªæ·å¾„ã€‚</p> 
-<p>å¯å¦ä¸€æ–¹é¢ï¼Œå‹‡å£«åœ¨2017èµ›å­£è¿Žæ¥äº†æ­»ç¥žæœå…°ç‰¹ä¹‹åŽï¼Œè¯é¢˜æ„Ÿå¢žåŠ çš„åŒæ—¶åœ¨é‚£ä¸ªèµ›å­£å‹‡å£«é˜Ÿå´å¼€å§‹äº†æ¯”ä¹‹å‰ä½Žè°ƒçš„å¤šçš„å¤„ä¸–ä¹‹é“ã€‚ä¸€ä¸ªçŽ‹æœçƒé˜Ÿçš„å»ºç«‹ï¼Œå‹‡å£«é˜Ÿçš„çŸ›ç›¾æ€§å’Œè¯é¢˜æ€§ç›´è¿½æœ¬ä¸–çºªåˆçš„æ¹–äººçŽ‹æœï¼Œè™½ç„¶æ²¡æœ‰OKæƒ…ä»‡è¿™æ ·åƒé”¥å­ä¸€æ ·çš„çŸ›ç›¾ï¼Œä½†æ˜¯å‹‡å£«åœ¨2017èµ›å­£å¤ºå† çš„èµ›å­£ä¸­è‡³å°‘å‡ºçŽ°4æ¬¡å†…è®§äº‹ä»¶ï¼Œå¤šæ•°éƒ½å’Œæœå…°ç‰¹çš„å…¼å®¹ï¼Œä½¿ç”¨ä»¥åŠå››å·¨å¤´æœ‰å…³ç³»ã€‚ä¸è¿‡åœ¨å­£åŽèµ›èŒç¥žå’Œæ­»ç¥žçš„ç»„åˆæœ€ç»ˆè½»æ¾å‡»æºƒäº†å„è·¯è±ªæ°ï¼Œå‡ ä¹Žæ˜¯ç¢¾åŽ‹äº†éª‘å£«é˜Ÿå’Œè©¹å§†æ–¯å¤ºå† ï¼Œæœå…°ç‰¹ä¹Ÿä¸€æ‰‹ç»ˆç»“äº†è©¹å§†æ–¯çš„æ—¶ä»£ã€‚å¾ˆå¤šäººè§‰å¾—åœ¨ä»Šå¹´è©¹å§†æ–¯çš„æ•°æ®é€†å¤©ï¼Œå´ä¸çœ‹çœ‹åŽ†å²ä¸Šæœ‰è°ä¼šè¿™æ ·ä½¿ç”¨ä¸€ä¸ªçƒæ˜Ÿï¼Ÿ</p> 
-<p>å¢å¯¹äºŽè©¹å§†æ–¯çš„ä½¿ç”¨ï¼Œå®Œå…¨å°±æ˜¯ä»»ç”±è‡ªå·±æŽ§åˆ¶ï¼Œè€Œä¸æ˜¯æ•™ç»ƒæŽ§åˆ¶ï¼Œè©¹å§†æ–¯ç´¯äº†å°±ä¼‘æ¯ï¼Œä¸ç´¯å°±ä¸€ç›´æ‰“ï¼Œæ‰€æœ‰çš„çƒæƒéƒ½æœ‰ä»–ä¸€ä¸ªäººæŽŒæŽ§ï¼Œè¿™å’Œå‹‡å£«é˜Ÿå®Œå…¨ä¸æ˜¯ä¸€ä¸ªæ¦‚å¿µã€‚è¿™ç¡®å®žæ—©å°±ä¸æ˜¯å±žäºŽè©¹å§†æ–¯çš„æ—¶ä»£ï¼Œå‹‡å£«é˜Ÿå¼€åˆ›çš„äº”å°æ—¶ä»£ä¸ä½†å½±å“äº†æ•´ä¸ªè”ç›Ÿçš„æ ¼å±€ï¼Œç”šè‡³ä¿ƒæˆäº†å¾ˆå¤šçƒé˜Ÿå¼€å§‹äº†å†›å¤‡ç«žèµ›â€”â€”è¿™æ‰å«å½±å“åŠ›ã€‚äºŽæ˜¯åœ¨æœ¬èµ›å­£å¼€å§‹ä¹‹åˆï¼Œè”ç›Ÿå‘ç”Ÿäº† æœ€å¤§è§„æ¨¡çš„å·¨æ˜ŸæŒªçªï¼Œä¸œéƒ¨çš„å…¨æ˜Žæ˜Ÿå¦‚å·´ç‰¹å‹’ç­‰äººçº·çº·æ¥è¢­ï¼Œä¿ç½—åŽ»äº†ç«ç®­ï¼Œè¥¿éƒ¨ä¸‰å·¨å¤´çƒé˜Ÿéåœ°ï¼Œè¿™éƒ½æ˜¯æœå…°ç‰¹å’Œå‹‡å£«é˜Ÿçš„æ•ˆåº”ã€‚ </p> 
-<p>æˆ‘ä»¬ä¸å¾—ä¸è¯´å‹‡å£«é˜Ÿåœ¨è”ç›Ÿçš„ç»Ÿæ²»åŠ›æ˜¯æœ‰æ—¶ä»£æ„ä¹‰çš„ï¼Œä»Žæˆ˜æœ¯çš„ä½¿ç”¨ï¼Œå¼€å‘ï¼Œåˆ°å››å·¨å¤´çš„ä½¿ç”¨ï¼ŒæŠ±å›¢ï¼Œè¿™å°±åƒæ˜¯ä¸€ä¸ªå¤§æ‚çƒ©ä¸€æ ·ï¼ŒåŒ…ç½—ä¸‡è±¡ï¼Œå‹‡å£«çš„æˆåŠŸåŒ…å«äº†å¾ˆå¤šæ™ºæ…§åœ¨é‡Œé¢ï¼Œä»Žç§‘å°”æŽ¥æ‰‹åˆ°æœå…°ç‰¹â€œæŠ•æ•Œâ€ï¼Œè¿™ä¸€ç³»åˆ—çš„æ“ç›˜åœ¨çŽ°åœ¨çœ‹æ¥çœŸçš„æœ‰ç‚¹ç¥žå¥‡ï¼Œè€Œå››å¹´å†…å‹‡å£«é˜Ÿè™½ç„¶æ²¡æœ‰å®Œæˆä¸‰è¿žå† ï¼Œä½†æ˜¯å›žå¤´çœ‹çœ‹è¿™æ˜¯ä¸€ä¸ªæ€Žæ ·çš„å±€é¢ï¼Ÿ2015å¹´ä¹‹å‰å‹‡å£«ç”šè‡³è¿˜åœ¨æ›´è¡£å®¤è°ˆè®ºæ€Žä¹ˆèƒ½å¤Ÿå°‘è¾“çƒï¼Œä½†æ˜¯è¿™ä¹‹åŽï¼Œå¦‚æ±¤ç¥žè¿™æ ·çš„äºŒå·ä½å’Œåº“é‡Œå´›èµ·ï¼Œæ ¼æž—è™½ç„¶è‚®è„ä½†æ˜¯åŠ±å¿—ï¼Œæœå…°ç‰¹ç”©æŽ‰äº†åƒå¹´è€äºŒçš„å¸½å­ï¼Œè¿™ä¾ç„¶æ˜¯ä¸€ä¸ªå¾ˆæœ‰è¯é¢˜æ€§ï¼Œè€Œä¸”ä¸å¤±æœ‰å‘ä¸ŠåŠ¨åŠ›å’Œæ„Ÿå¬åŠ›çš„çƒé˜Ÿã€‚</p> 
-<p>æœ€é‡è¦çš„æ˜¯å‹‡å£«é˜Ÿå¸¦å‡ºäº†å¤ªå¤šçš„è¯é¢˜æ€§ï¼Œåœ¨å¦‚ä»Šè¿™æ ·çš„ä¸€ä¸ªå¤§æ—¶ä»£ä¸‹ï¼Œå…¨æ°‘å‚ä¸Žæ„Ÿè®©NBAçš„æ”¶è§†çŽ‡è¾¾åˆ°äº†ç©ºå‰çš„æ•ˆæžœï¼Œç”šè‡³åœ¨éª‘å£«å‹‡å£«æ€»å†³èµ›æœŸé—´å‚¬ç”Ÿå‡ºæ¥äº†å¯¹éª‚ç¾¤ä¹ƒè‡³å„ç§å¯¹éª‚ç¾¤ï¼Œè¿™ç§å¸¦å…¥æ„Ÿè¯´æ˜Žäº†NBAå·²ç»ä»Ž90å¹´ä»£æœ€åˆæ‰“å¼€ä¸–ç•Œå¤§é—¨ï¼Œåœ¨20å¹´åŽå·²ç»è¿›å…¥äº†å…¨çƒåŒ–çš„å…¨æ°‘æ—¶ä»£ï¼Œè®©NBAçš„å† å†›çƒé˜Ÿå’Œå…¨æ°‘çŸ­å…µç›¸æŽ¥å°±éœ€è¦åˆ¶é€ è¶³å¤Ÿçš„è¯é¢˜ï¼Œå‹‡å£«æ— ç–‘æ˜¯ä¸€ä¸ªå®Œç¾Žçš„é€‰æ‹©ã€‚å››å¹´ä¸‰å† ï¼Œå‹‡å£«é˜Ÿå¸¦æ¥äº†çš„å‡ ä¸ªæ•ˆåº”ä¼šç»§ç»­å‘é…µä¸‹åŽ»ï¼šç¬¬ä¸€ï¼Œå†›å¤‡ç«žèµ›ï¼Œç¬¬äºŒï¼Œä¸œè¥¿éƒ¨å¼ºå¼±çš„æ ¼å±€åˆ†åŒ–é²œæ˜Žï¼Œç¬¬ä¸‰ï¼Œç”±â€œæ‰“è´¥å››å·¨å¤´â€å‚¬ç”Ÿå‡ºæ¥çš„æ›´å¤¸å¼ çš„å·¨æ˜ŸæŠ±å›¢ã€‚å¯ä»¥è¯´å‹‡å£«é˜Ÿæ­£åœ¨æ‚„ç„¶æ”¹å˜çŽ°ä»£ç¯®çƒçš„æˆ˜æœ¯å’Œå­˜åœ¨çš„æ„ä¹‰ã€‚ </p> 
-<p>ï¼ˆéŸ©å°‘ï¼‰<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="ç‚¹å‡»è¿›å…¥æœç‹é¦–é¡µ" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>è¿”å›žæœç‹ï¼ŒæŸ¥çœ‹æ›´å¤š</span></a></p>        
-        <p data-role="editor-name">è´£ä»»ç¼–è¾‘ï¼š<span></span></p>
-</article>
-<script>
-    (function() {
-        function getBrandHtml() {
-            var brands = [],
-            html = '';
-                        for(var i = 0; i < brands.length; i++) {
-                var brand = brands[i];
-                if(brands.length == i+1) {
-                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>';
-                } else {
-                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>ã€';
-                }
-            }
-            return html;
+	  </div>
 
-        };
-        if(document.getElementById('linkBtn')){
-            document.getElementById('linkBtn').onclick = function() {
-                $('#brands').removeClass('brand');
-                $('#tipInfo').text('å·²å®žåå›žåº”');
-                $('#linkBtn').remove();
-                $('.real-response .content').css('line-height', '20px');
-                $('.real-response .time').css('line-height', '20px');
-            };
+      <div id="myTab_Content1"  class="none">
+<div style="line-height:26px;width:98%;margin:0 auto;">
+<!--[4,322,38] published at 2016-05-17 16:58:11 from #10 by system--> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<style>
+#jhtb-author{font-size:14px;padding-left:65px;padding-right:18px; padding-top:8px;}
+#jhtb-btn{margin-left:8px;background-image:url(http://bbs.chinanews.com/images/club/jhtbbg2.gif); background-repeat:no-repeat; background-position:bottom left}
+#jhtb-content{margin-left:8px;width:304px; background-image:url(http://bbs.chinanews.com/images/club/jhtbbg2.gif); background-repeat:no-repeat}
+.jhtb-title{padding-left:35px; padding-top:18px;}
+.jhtb-title a:link{color:#000;text-decoration:none;font-size:16px;font-weight:bold}
+.jhtb-title  a:visited{color:#000;text-decoration:none;font-size:16px;font-weight:bold}
+.jhtb-title  a:hover{color:#000;text-decoration:underline;font-size:16px;font-weight:bold}
+</style>
 
-            document.getElementById('brands').innerHTML = getBrandHtml();
-        };
-    })();
-</script>
-    <div id="atricleVote"></div>
-  <div class="statement">å£°æ˜Žï¼šè¯¥æ–‡è§‚ç‚¹ä»…ä»£è¡¨ä½œè€…æœ¬äººï¼Œæœç‹å·ç³»ä¿¡æ¯å‘å¸ƒå¹³å°ï¼Œæœç‹ä»…æä¾›ä¿¡æ¯å­˜å‚¨ç©ºé—´æœåŠ¡ã€‚</div>    <div class="bottom-relate-wrap clear type-3">
-    
-    <!-- ç‚¹èµžé€‰æ‹©æ–¹æ¡ˆ2ï¼ŒcontentLikeå¯¹åº”å€¼ä¸º3 -->
-            <div class="article-like" id="article-like" data-like-type="type-3">
-</div>        <div class="read-wrap">
-        <span class="read-num">é˜…è¯» (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
-    </div>
+<div style="line-height:26px;">
+<div id="jhtb-content">
+<div class="jhtb-title"><a  style="color:black"   href="http://bbs.chinanews.com/forum.php?mod=viewthread&tid=5312035" target="_blank">¸ßÎÂ½òÌùÊýÄêÎ´ÕÇ ÞÏÞÎÁËË­</a></div>
+<div id="jhtb-author"><b>Ö±Á¥°ÍÈË</b>µÄÔ­Ìù£º<br><span style="color:#012DCA; font-size:14px">ÎÒ¹úÊµÊ©¸ßÎÂ²¹ÌùÕþ²ßÒÑÓÐÄêÍ·ÁË£¬µ«ÊÇ¶àµØ±ê×¼ÒÑÊýÄêÎ´ÕÇ£¬¸ßÎÂ½òÌùÂäÊµÔâÓöÞÏÞÎ¡£</span></div>
+<div class="hi5"></div>
 </div>
-    
-                        </div>
-                    </div>
-                    <div class="taboolaContainer" data-spm="a-content-end">
-                        <a href="javascript:void(0);">
-                            <div id="taboola-below-article-thumbnails"></div>
-                            <script type="text/javascript">
-                                window._taboola = window._taboola || [];
-                                _taboola.push({
-                                    mode: 'thumbnails-a',
-                                    container: 'taboola-below-article-thumbnails',
-                                    placement: 'Below article thumbnails',
-                                    target_type: 'mix'
-                                });
-                            </script>
-                        </a>
-                    </div>
-
-                    <div class="comment" id="comment_area" data-spm="comment" data-abdata="1">
-
-
-    <div id="mp-comment" sid="234783826"></div> 
-
-
-</div>                    
-<div class="groom-read">
-    <div class="title"><span><em class="ln"></em>æŽ¨èé˜…è¯»</span></div>
-    <div class="news-list clear" id="main-news" style="min-height:1000px">
-    </div>
-
-</div>                </div>
-                <div class="sidebar right" id="right-side-bar" data-a="${abData}">
-        <!-- è°·æ­Œæœç´¢å¼•æ“Ždiv -->
-        <div class="gcse-searchbox-only"></div>
-        <div data-spm="author" id="user-info" class="abroad-article-author-card">
-                        <a class="abroad-article-author-card-box" href="https://mp.sohu.com/profile?xpt=cHBhZzU4NjJkMmIzNGIzZUBzb2h1LmNvbQ==&_f=index_pagemp_1" target="_blank">
-                                <img src="http://sucimg.itc.cn/avatarimg/130c0965ce51493ca5108d2271b652e4_1517370199108" class="abroad-article-author-card-image" alt="">
-                    <div class="abroad-article-author-card-userinfo">
-                <div class="abroad-article-author-card-author-info">
-                    NBAå¹¿è§’
-                                    </div>
-                <div class="abroad-article-author-card-message">
-                    <span class="abroad-article-author-card-message-label">æ–‡ç« </span>
-                    <span class="abroad-article-author-card-message-value" data-value="65235" data-role="info-article-num"><em></em></span>
-                    <span class="abroad-article-author-card-message-divide"></span>
-                    <span class="abroad-article-author-card-message-label">æ€»é˜…è¯»</span>
-                    <span class="abroad-article-author-card-message-value" data-role="info-read-num"><em></em></span>
-                </div>
-            </div>
-        </a>
-</div>        <div class="godA" id="nav_button" data-spm="ad-right-sponsor">
-
-        </div>
-        <div class="godR" id="god_1" data-spm="ad-sq1" style="display: none;">
-        </div>
-        <div id="god_1_2" style="padding:10px 20px;" data-spm="ad-sq1">
-            <a href="javascript:void(0);" style="width: 100%">
-                                    <script id="ONEMOB-sohu300x250" type="text/javascript" src="https://cdn-ali.onemob.mobi/js/sohu300x250.js" async charset="utf-8"></script>
-                            </a>
-        </div>
-                <div id="taboola-desktop-right-rail" data-spm="jingxuan-taboola" style="width: 300px; margin: 0 auto;"></div>
-        <div class="godR" id="god_2" data-spm="ad-sq2" style="display:block">
-        </div>
-        <div id="god_2_2" style="padding:10px 20px;" data-spm="ad-sq2">
-                        <script type="text/javascript">
-                var compassSmartTag = {t: "32416", referral: "sohu.com", y_b: {y: "j", s: "300x250"}};
-            </script>
-            <script src="//cdn.marphezis.com/cmpp/index.js"></script>
-                    </div>
-        
-<div class="hot-article clear bord" id="hot-news" data-spm="tw">
-
+<div id="jhtb-btn">
+<div style="padding-left:65px;height:34px"><a href="http://bbs.chinanews.com/forum.php?mod=viewthread&tid=5312035" target="_blank"><img src="http://i6.chinanews.com/images/club/jhtbbtn.gif" style="border:0px" /></a>  <a href="http://bbs.chinanews.com/forum.php?mod=viewthread&tid=5312035" target="_blank"><img src="http://bbs.chinanews.com/images/club/ckgd.gif" style="border:0px" /></a></div>
 </div>
-        <div class="godR" id="god_3" data-spm="ad-sq3" style="display:block">
-        </div>
-        <div id="god_3_2" style="padding:10px 20px; display: none;" data-spm="ad-sq3">
-        </div>
-        
-<div class="bord clear recommend" id="recommend-writer" data-spm="mp">
-
 </div>
-        <div class="godR" id="god_4" data-spm="ad-sq4" style="display:block">
-        </div>
-        <div id="god_4_2" style="padding:10px 20px; display: none;" data-spm="ad-sq4">
-        </div>
-        <div id="god_5" style="padding:10px 20px;" data-spm="sqfive-ad">
-                        <script type="text/javascript">
-                var compassSmartTag = {t: "32205", referral: "sohu.com", y_b: {y: "j", s: "300x250"}};
-            </script>
-            <script src="//cdn.marphezis.com/cmpp/index.js"></script>
-                    </div>
-        <div class="pages-fun  " id="pages-fun"></div>
-        <div id="god_fix_container" class="right-fixed" style="display:none;">
-            <div class="godR" id="god_fix_1" data-spm="ad-sq6"  style="display: block;">
-
-            </div>
-            <div id="god_6_2" class="god-ad-fix" style="display: none; overflow: hidden;" data-spm="ad-sq6">
-
-            </div>
-        </div>
-         <div id="fixed-view" data-rel="#hot-news" style="z-index:2">
-        </div>
-    </div>
-
-
-
-             </div>
-             <div id="float-btn" class="float-links"></div>              <div class="sohu-khd" data-role="wp-ad"><a href="javascript:void(0)" class="close-khd"></a><a href="https://www.microsoft.com/zh-cn/store/p/%E6%90%9C%E7%8B%90uwp/9nb9229mmbjh" target="_blank" class="download-khd"><i class="icon khd-d-icon"></i>å…è´¹èŽ·å–</a></div>
-            <div id="pop-news" class="pop-news"></div>            <div class="left-bottom-float-fullScreenSleep" data-spm="ad-fullScreenSleep">
+<div class=right_pha1><!--[4,322,7] published at 2016-05-17 16:58:00 from #10 by system--> 
+<div style="clear:both;"><table width="100%" border="0" cellspacing="0" cellpadding="0"></table></div></div>
 </div>
-<div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
-</div>        </div>
-            <div id="sohu-mod" class="sohu-mod">
-  <div class="area sohu-frag">
-    <div class="left sohu-news">
-      <div class="title">ä»Šæ—¥æœç‹çƒ­ç‚¹</div>
-      <div class="list">
-        <ul>
-                  </ul>
       </div>
-    </div>
-    <div class="left auto-sohu">
-      <div class="count-down"><span>6</span>ç§’åŽ</div>
-      <div class="go-sohu"><a href="http://www.sohu.com?strategyid=00004">è¿›å…¥æœç‹é¦–é¡µ</a></div>
-      <a href="#" target="_blank" class="close-sohu"></a>
-    </div>
-  </div>
+      </div>
 </div>
-<div id="sohu-remend" class="sohu-remend">
-    <div class="area sohu-remend-box">
-        <div class="remend-tt left">ä»Šæ—¥æŽ¨è</div>
-        <div class="left sohu-pp">
-            <ul>
-                            </ul>
-        </div>
-        <div class="right sohu-do">
-            <a data-clev="10220279" href="http://www.sohu.com?strategyid=00004"><div class="go-sohu">è¿›å…¥æœç‹é¦–é¡µ</div></a>
-            <a data-clev="10220280" href="//shang.qq.com/wpa/qunwpa?idkey=04e47b9e7004c967962f52532465719ae8a30cf05413c11934ec121fb7e2dd62" target="_blank" class="feedback-link">æ„è§åé¦ˆ</a>
-            <a data-clev="10220281" href="javascript:void(0)" target="_blank" class="close-remend"></a>
-        </div>
-    </div>
-    <div class="sohu-remend-layer"></div>
-</div>             
+<!-- »¬¶¯ÃÅ½áÊø -->
+</div>
+<!-- ÉçÇø -->
 
-<script src="//statics.itc.cn/web/static/js/lib-61587d9fb8.js"></script>
-<script src="//statics.itc.cn/pc_channel_script/pc_channel_script/jquery.xdomainrequest.min.js"></script>
-<!--<script src="//statics.itc.cn/web/static/js/ie8hack-07e05e83f1.js"></script>-->
-<script src="//txt.go.sohu.com/ip/soip"></script>
-<script src="//statics.itc.cn/spm/prod/js/1.0.2/index.js"></script>
-<script src="//statics.itc.cn/web/static/js/main-90cc52e283.js"></script>
-<script src="//js.sohu.com/pv.js"></script>
-             <script>
-try{console.log("æ‰§è¡ŒæˆåŠŸ")
-        window.sohu_mp.article_abroad({
-        channel_id: "17",
-        news_id: "234783826",
-        cms_id: "$mpNews.cmsId",
-        media_id: "458722",
-        passport: "ppag5862d2b34b3e@sohu.com",
-        weboUrl: "https://mp.sohu.com/profile?xpt=cHBhZzU4NjJkMmIzNGIzZUBzb2h1LmNvbQ==",
-        title: "å‹‡å£«ä»Žæ­»äº¡äº”å°åˆ°æ­»ç¥žç»„å›¢ 4å¹´3å† é‡‘å·žå»ºç«‹çŽ‹æœ",
-        channel_url:"//sports.sohu.com",
-        categoryId:"1400",
-        //adData_fdç”¨äºŽabtest
-        abData:"",
-        abData_fd:"",
-        abData_tw:"",
-        originalId:"0",
-        originalStatus:"0",
-        hasVoteInfo: "false",
-        isPure: "${pure}",
-        secureScore: '100',
-        sGrade: '0',
-        editor:'',
-        hideAd:'',
-        mpNewsExt:{
-            "modelId":""
-        }});
-}
-catch(e){
-    var html = '<div class="err-js">' +
-                '<span><em class="icon err-js-icon"></em>JSåŠ è½½é”™è¯¯ï¼Œè¯·é‡æ–°åŠ è½½ã€‚</span>' +
-                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
-                '><em class="icon-cached"></em>åˆ·æ–°</a></div>';
-    $(document.body).prepend(html);
-    console.error("å‘ç”Ÿé”™è¯¯",e);
-}
-</script>
-<!--[if lt IE 8]>
+
+<!-- Ò½ÁÆ -->
+
+<!-- Ò½ÁÆ -->
+
+<!-- ÅÅÐÐ -->
+<div class=box1>
 <script type="text/javascript">
-(function(){
-    var ua = navigator.userAgent;
-    var version;
-    var html = '<div class="area clear">' +
-        '<div class="ie-low">' +
-        '<p>æ‚¨çš„æµè§ˆå™¨ç‰ˆæœ¬è¿‡ä½Ž<br>ä¸ºäº†æ›´å¥½çš„ä½“éªŒï¼Œè¯·å‡çº§ä½ çš„æµè§ˆå™¨ã€‚</p>' +
-        '<h5><a href="https://ie.sogou.com" target="_blank" class="upgrade-btn">é©¬ä¸Šå‡çº§</a></h5>' +
-        '</div></div>';
-    if (/MSIE ([^;]+)/.test(ua)) {
-        version = parseInt(RegExp["$1"]);
-        if (version<8) {
-            document.body.innerHTML=html;
-            var reg = new RegExp("(^| )SUV=([^;]*)(;|$)");
-            var suvs = unescape(document.cookie.match(reg)[2]);
-            var spv_server_src = "http://pv.sohu.com/action.gif?actionId=10078&SUV="+suvs;
-            var scripts = document.createElement('script');
-            scripts.src = spv_server_src;
-            document.body.appendChild(scripts);
-        }
-    }
-})()
+function nTabs2(thisObj,Num){
+if(thisObj.className == "active2")return;
+var tabObj = thisObj.parentNode.id;
+var tabList = document.getElementById(tabObj).getElementsByTagName("li");
+for(i=0; i <tabList.length; i++)
+{
+  if (i == Num)
+  {
+   thisObj.className = "active2"; 
+      document.getElementById(tabObj+"_Content"+i).style.display = "block";
+  }else{
+   tabList[i].className = "normal2"; 
+   document.getElementById(tabObj+"_Content"+i).style.display = "none";
+  }
+} 
+}
 </script>
-<![endif]--><script src="//images.sohu.com/bill/default/sohu-require.js"></script>
-<script type="text/javascript"> require(["sjs/matrix/ad/passion"]);</script>
-<script type="text/javascript" src="//www.sohu.com/sohuflash_1.js"></script>
-<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/delivery.js"></script>
-<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/pv/pagePVmonitor.js"></script>
-<!-- <script src="//statics.itc.cn/spm/prod/js/1.0.1/index.js"></script> -->
+<script type="text/javascript">
+var total=1;
+function robottab(num){
+		var thisObj;
+		var otherObj;
+		var init=0;
+		if(total%2==0){
+			init=1;
+		}
+		total++;
+		var y = document.getElementsByTagName("li");
+		for (var i = 0;i < y.length; i++)
+		{		
+		    if(y[i].className =="active"+num)
+		    {
+		    	thisObj=y[i];
+		    }
+		    if(y[i].className =="normal"+num){
+		    		otherObj=y[i];
+		   }
+		}
+		thisObj.className="normal"+num;
+		otherObj.className="active"+num;
+		var tabObj = thisObj.parentNode.id;
+		if(init==1){
+				document.getElementById(tabObj+"_Content"+init).style.display = "none";
+				document.getElementById(tabObj+"_Content"+0).style.display = "block";
+		}else{
+				document.getElementById(tabObj+"_Content"+init).style.display = "none";
+				document.getElementById(tabObj+"_Content"+1).style.display = "block";
+		}
+}
+var total0=1;
+function robottab0(num){
+		var thisObj;
+		var otherObj;
+		var init=0;
+		if(total0%2==0){
+			init=1;
+		}
+		total0++;
+		var y = document.getElementsByTagName("li");
+		for (var i = 0;i < y.length; i++)
+		{		
+		    if(y[i].className =="active"+num)
+		    {
+		    	thisObj=y[i];
+		    }
+		    if(y[i].className =="normal"+num){
+		    		otherObj=y[i];
+		   }
+		}
+		thisObj.className="normal"+num;
+		otherObj.className="active"+num;
+		var tabObj = thisObj.parentNode.id;
+		if(init==1){
+				document.getElementById(tabObj+"_Content"+init).style.display = "none";
+				document.getElementById(tabObj+"_Content"+0).style.display = "block";
+		}else{
+				document.getElementById(tabObj+"_Content"+init).style.display = "none";
+				document.getElementById(tabObj+"_Content"+1).style.display = "block";
+		}
+}
 
-<!-- æ–‡ç« å®‰å…¨åˆ†ä½ŽäºŽç­‰äºŽ10åˆ†ä¸æ‰§è¡Œseoä¼˜åŒ– -->
-<script>
-    (function(){
-        var bp = document.createElement('script');
-        var curProtocol = window.location.protocol.split(':')[0];
-        if (curProtocol === 'https') {
-            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
-        }
-        else {
-            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-        }
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(bp, s);
-    })();
+window.onload=function(){
+	
+	var thetime=10000;
+	setInterval(function(){
+             robottab0("");
+
+		robottab(2);
+        robottab1(3);
+	},thetime);
+}
 </script>
-<!-- ç™¾åº¦è”ç›Ÿå¹¿å‘Šï¼Œå¤šæ¡å¹¿å‘Šå¦‚ä¸‹è„šæœ¬åªéœ€å¼•å…¥ä¸€æ¬¡ -->
-<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>        <!-- æ–°å¢žvidoomyå¹¿å‘Š -->
-                    <script type="text/javascript" src="//ads.vidoomy.com/sohu_18447.js" async></script>
-                <script type="text/javascript">
-            window._taboola = window._taboola || [];
-            _taboola.push({flush: true});
-        </script>
-    </body>
+
+<style type="text/css">
+<!--
+
+#myTab2{ text-align:center;}
+.none {display:none;}
+
+.nTab2{
+width: 335px;
+}
+.TabTitle2{
+overflow: hidden;
+width:335px;
+background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F970DT20090114101119.jpg);
+}
+.nTab2 .TabTitle2 ul{
+border:0;
+margin:0;
+padding:0;
+
+}
+.nTab2 .TabTitle2 ul a{ 
+border:0;
+margin:0;
+padding:0;
+}
+.nTab2 .TabTitle2 li{
+float: left;
+width: 152px;
+cursor: pointer;
+list-style-type: none;
+height:29px;
+line-height:29px;
+padding-right:5px;
+}
+
+.nTab2 .TabTitle2 .active2{background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F968DT20090114095144.jpg);background-repeat:no-repeat;width:152px;}
+.nTab2 .TabTitle2 .active2 a{width:152px;font-weight:bold;}
+.nTab2 .TabTitle2 .normal2{background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F969DT20090114095144.jpg);background-repeat:no-repeat;width:152px;}
+.nTab2 .TabTitle2 .normal2 a{width:152px;}
+
+.nTab2 .TabContent2{
+width:333px;
+margin: 0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+border-left:1px solid #99BBDE;border-bottom:1px solid #99BBDE;border-right:1px solid #99BBDE;
+}
+-->
+</style>
+
+<!-- »¬¶¯ÃÅ¿ªÊ¼ -->
+<div class="nTab2">
+    <!-- ±êÌâ¿ªÊ¼ -->
+    <div class="TabTitle2">
+      <ul id="myTab2">
+        <li class="active2" onMouseOver="nTabs2(this,0);"><a href="http://mood.chinanews.com.cn/rank/news_rank.shtml"><span style="font-size:12px;">ÐÂÎÅÅÅÐÐ</span></a></li>
+        <li class="normal2" onMouseOver="nTabs2(this,1);"><a href="http://club.chinanews.com.cn/"><span style="font-size:12px;">±íÇéÅÅÐÐ</span></a></li>
+      </ul>
+    </div>
+    <!-- ÄÚÈÝ¿ªÊ¼ -->
+    <div class="TabContent2">
+      <div id="myTab2_Content0" >
+<div style="padding-bottom:7px;padding-top:7px;padding-left:25px;background-image:url(/fileftp/2008/12/2008-12-30/U76P4T47D10067F977DT20081230234629.jpg);background-repeat:no-repeat;
+background-position:5px 8px;">
+<ul>
+<li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/photo_hd/2010/04-21/7268.shtml title="Ç°¹ú¼Ê°ÂÎ¯»áÖ÷Ï¯ÈøÂíÀ¼ÆæÊÅÊÀ">Ç°¹ú¼Ê°ÂÎ¯»áÖ÷Ï¯ÈøÂíÀ¼ÆæÊÅÊÀ</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/2010/04-21/2240570.shtml title="Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç">Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/photo_hd/2010/04-21/7270.shtml title="Í¼£º°ÂÎ¯»áÉÏµÄÈøÂíÀ¼Ææ">Í¼£º°ÂÎ¯»áÉÏµÄÈøÂíÀ¼Ææ</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/gn/news/2010/04-22/2240876.shtml title="ÓñÊ÷µØÕðÔÖÇøÒ»Ò¹·çÑ© ¿¹Õð¾ÈÔÖ±¶¼Ó¼èÄÑ(×éÍ¼)">ÓñÊ÷µØÕðÔÖÇøÒ»Ò¹·çÑ© ¿¹Õð¾ÈÔÖ±¶¼Ó¼èÄÑ(...</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/2010/04-21/2240571.shtml title="Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(2)">Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(2)</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/2010/04-21/2240572.shtml title="Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(3)">Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(3)</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/2010/04-21/2240573.shtml title="Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(4)">Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(4)</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/2010/04-21/2240574.shtml title="Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(5)">Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(5)</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/2010/04-21/2240575.shtml title="Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(6)">Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(6)</a></li><li><a target="_blank" href=http://www.chinanews.com.cn/tp/news/2010/04-21/2240576.shtml title="Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(7)">Í¼£º¸ß¾«¼â¾¯ÓÃ²úÆ·ºÍ¼¼ÊõÁÁÏà¾©³Ç(7)</a></li>
+</ul>
+</div>
+	  </div>
+
+      <div id="myTab2_Content1"  class="none">
+<div style="padding-bottom:7px;padding-top:7px;padding-left:25px;background-image:url(/fileftp/2008/12/2008-12-30/U76P4T47D10067F977DT20081230234629.jpg);background-repeat:no-repeat;
+background-position:5px 8px;">
+<ul>
+<!--[4,322,31] published at 2016-03-07 08:01:02 from #10 by system--> 
+<li><a target='_blank' href='http://www.chinanews.com/auto/2015/09-02/7501955.shtml' class='bcolor'>ÈÕÏµÆû³µÇ°Æß¸öÔÂÔÚ»ªÏúÁ¿½ü200ÍòÁ¾ Äæ...</a></li><li><a target='_blank' href='http://www.chinanews.com//tp/hd2011/2015/09-02/558744.shtml' class='bcolor'>¡¾Í¼¿¯¡¿Ãú¼ÇÀúÊ· ÄªÍüÀÏ±ø</a></li><li><a target='_blank' href='http://www.chinanews.com/mil/2015/09-02/7502326.shtml' class='bcolor'>¡°9.3¡±´óÔÄ±øÈ«Á÷³ÌÆØ¹â ¡°½ÚÄ¿µ¥¡±ÉÏ...</a></li><li><a target='_blank' href='http://www.chinanews.com/ny/2015/09-02/7503241.shtml' class='bcolor'>¹ú¼ÊÓÍ¼ÛÐ×ÃÍ·´µ¯ ¹úÄÚÆû²ñÓÍ¼Û¸ñÁùÁ¬µø</a></li><li><a target='_blank' href='http://www.chinanews.com/sh/2015/09-02/7501900.shtml' class='bcolor'>30ËêÄÐ×ÓÂúÁ³ÖåÎÆÈç80ËêÀÏÍ· ÒøÐÐÈ¡Ç®...</a></li><li><a target='_blank' href='http://www.chinanews.com//tp/hd2011/2015/09-02/558759.shtml' class='bcolor'>°ÙËê¿¹ÈÕÀÏ±ø½¯ÄÜ</a></li><li><a target='_blank' href='http://www.chinanews.com/sh/2015/09-02/7503168.shtml' class='bcolor'>ºÓÄÏ500Ä¶×¯¼ÚÊÕ»ñÔÚ¼´±»Ç¿²ù ÈÎÐÔÈÇÃñÔ¹</a></li><li><a target='_blank' href='http://www.chinanews.com/sh/2015/09-02/7503496.shtml' class='bcolor'>¡°×î±¯ÉË×÷ÎÄ¡±·¢²¼ÕßÒÑ»Ø¼Ò ³ÆÖ»ÊÇÅäºÏµ÷...</a></li><li><a target='_blank' href='http://www.chinanews.com/auto/2015/09-02/7501996.shtml' class='bcolor'>ÖÐ¹ú³µÆó±ÈÑÇµÏ´¿µç¶¯´ó°ÍÁÁÏà°ÍÎ÷Ê¥±£ÂÞ³µÕ¹ </a></li><li><a target='_blank' href='http://www.chinanews.com/sh/2015/09-02/7502940.shtml' class='bcolor'>¡°ÏÖ³¡Ö¸ÈÏ¡±±ä¡°ÓÎ½ÖÊ¾ÖÚ¡± ÏÓ·¸È¨ÀûÒª²»...</a></li>
+</ul>
+</div>
+	  </div>
+
+      </div>
+</div>
+<!-- »¬¶¯ÃÅ½áÊø -->
+</div>
+<!-- ÅÅÐÐ -->
+
+
+
+<!--ÈÈÃÅÍ¼Æ¬-->
+<div class=box1>
+<script type="text/javascript">
+function nTabs3(thisObj,Num){
+if(thisObj.className == "active3")return;
+var tabObj = thisObj.parentNode.id;
+var tabList = document.getElementById(tabObj).getElementsByTagName("li");
+for(i=0; i <tabList.length; i++)
+{
+  if (i == Num)
+  {
+   thisObj.className = "active3"; 
+      document.getElementById(tabObj+"_Content"+i).style.display = "block";
+  }else{
+   tabList[i].className = "normal3"; 
+   document.getElementById(tabObj+"_Content"+i).style.display = "none";
+  }
+} 
+}
+</script>
+<script type="text/javascript">
+var total1=1;
+function robottab1(num){
+		var thisObj;
+		var otherObj;
+		var init=0;
+		if(total1%2==0){
+			init=1;
+		}
+		total1++;
+		var y = document.getElementsByTagName("li");
+		for (var i = 0;i < y.length; i++)
+		{		
+		    if(y[i].className =="active"+num)
+		    {
+		    	thisObj=y[i];
+		    }
+		    if(y[i].className =="normal"+num){
+		    		otherObj=y[i];
+		   }
+		}
+		thisObj.className="normal"+num;
+		otherObj.className="active"+num;
+		var tabObj = thisObj.parentNode.id;
+		if(init==1){
+				document.getElementById(tabObj+"_Content"+init).style.display = "none";
+				document.getElementById(tabObj+"_Content"+0).style.display = "block";
+		}else{
+				document.getElementById(tabObj+"_Content"+init).style.display = "none";
+				document.getElementById(tabObj+"_Content"+1).style.display = "block";
+		}
+}
+</script>
+<style type="text/css">
+<!--
+
+#myTab3{ text-align:center;}
+.none {display:none;}
+
+.nTab3{
+width: 335px;
+}
+.TabTitle3{
+overflow: hidden;
+width:335px;
+background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F970DT20090114101119.jpg);
+}
+.nTab3 .TabTitle3 ul{
+border:0;
+margin:0;
+padding:0;
+}
+.nTab3 .TabTitle3 ul a{ 
+border:0;
+margin:0;
+padding:0;
+}
+.nTab3 .TabTitle3 li{
+float: left;
+width: 152px;
+cursor: pointer;
+list-style-type: none;
+height:29px;
+line-height:29px;
+padding-right:7px;
+}
+
+.nTab3 .TabTitle3 .active3{background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F968DT20090114095144.jpg);background-repeat:no-repeat;width:152px;}
+.nTab3 .TabTitle3 .active3 a{width:152px;font-weight:bold;}
+.nTab3 .TabTitle3 .normal3{background-image:url(http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F969DT20090114095144.jpg);background-repeat:no-repeat;width:152px;}
+.nTab3 .TabTitle3 .normal3 a{width:152px;}
+
+.nTab3 .TabContent3{
+width:333px;
+margin: 0px 0px 0px 0px;
+padding:0px 0px 0px 0px;
+border-left:1px solid #99BBDE;border-bottom:1px solid #99BBDE;border-right:1px solid #99BBDE;
+}
+-->
+</style>
+
+<!-- »¬¶¯ÃÅ¿ªÊ¼ -->
+<div class="nTab3">
+    <!-- ±êÌâ¿ªÊ¼ -->
+    <div class="TabTitle3">
+      <ul id="myTab3">
+        <li class="active3" onMouseOver="nTabs3(this,0);"><a href="/photo/index.shtml"><span style="font-size:12px;">ÈÈÃÅÍ¼Æ¬</span></a></li>
+        <li class="normal3" onMouseOver="nTabs3(this,1);"><a href="/photo/tj.html"><span style="font-size:12px;">×¨ÌâÍ¼Æ¬</span></a></li>
+      </ul>
+    </div>
+    <!-- ÄÚÈÝ¿ªÊ¼ -->
+    <div class="TabContent3">
+      <div id="myTab3_Content0" >
+      <div style="line-height:20px;padding-bottom:7px;padding-top:7px;">
+<div class=right_ph><!--[4,322,1] published at 2019-04-08 23:03:01 from #10 by system--> 
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td><div><a href="//www.chinanews.com/tp/hd2011/2019/04-08/876606.shtml"><img src="/2019/04-08/U601P4T8D8803218F5012DT20190408190934.jpg" /></a></div>
+     <div><a href="//www.chinanews.com/tp/hd2011/2019/04-08/876606.shtml">99Ã×¡°¸ß¿Õ¿§·ÈÎÝ¡±</a></div></td><td><div><a href="//www.chinanews.com/tp/hd2011/2019/04-08/876552.shtml"><img src="/tp/2019/04-08/U86P4T8D8802785F5012DT20190408111649.jpg" /></a></div>
+     <div><a href="//www.chinanews.com/tp/hd2011/2019/04-08/876552.shtml">¹Å°Í¾Ù°ì¡°°×É«ÍíÑç¡±</a></div></td></tr><tr><td><div><a href="//www.chinanews.com/tp/hd2011/2019/04-08/876530.shtml"><img src="/tp/2019/04-08/U86P4T8D8802584F5012DT20190408085557.jpg" /></a></div>
+     <div><a href="//www.chinanews.com/tp/hd2011/2019/04-08/876530.shtml">µÂ¹ú²¨¶÷Ó£»¨Ê¢¿ª</a></div></td><td><div><a href="//www.chinanews.com/tp/hd2011/2019/04-07/876475.shtml"><img src="/2019/04-07/U855P4T8D8802338F5012DT20190407180026.jpg" /></a></div>
+     <div><a href="//www.chinanews.com/tp/hd2011/2019/04-07/876475.shtml">ºÉÀ¼·çÐÅ×Ó½øÈëÊ¢·ÅÆÚ</a></div></td></tr></table></div>
+</div>
+      </div>
+
+      <div id="myTab3_Content1"  class="none">
+      <div style="line-height:20px;padding-bottom:7px;padding-top:7px;">
+<div class=right_ph><!--[4,322,2] published at 2019-04-08 23:03:03 from #10 by system--> 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+     <tr><td><div><a href="//www.chinanews.com/tp/hd2011/2019/04-07/876454.shtml"><img src="/tp/2019/04-07/U855P4T8D8802300F5012DT20190407164527.jpg" /></a></div>
+     <div><a href="//www.chinanews.com/tp/hd2011/2019/04-07/876454.shtml">¼ÙÆÚÓà¶î¸æ¼±£¿µãÎÒ³ä</a></div></td><td><div><a href="//www.chinanews.com/tp/hd2011/2019/04-04/876177.shtml"><img src="/tp/2019/04-04/U855P4T8D8800540F5012DT20190404152914.jpg" /></a></div>
+     <div><a href="//www.chinanews.com/tp/hd2011/2019/04-04/876177.shtml">±»´ß»éµÄÅ®ÈëéçÊ¦</a></div></td></tr>
+     <tr><td><div><a href="//www.chinanews.com/tp/hd2011/2019/04-02/875783.shtml"><img src="/2019/04-02/U179P4T8D8797646F5012DT20190402101632.jpg" /></a></div>
+     <div><a href="//www.chinanews.com/tp/hd2011/2019/04-02/875783.shtml">ÖÂ¾´É­ÁÖÏû·ÀÔ±</a></div></td><td><div><a href="//www.chinanews.com/tp/hd2011/2019/03-24/874198.shtml"><img src="/tp/2019/03-24/U855P4T8D8789073F5012DT20190324171040.jpg" /></a></div>
+     <div><a href="//www.chinanews.com/tp/hd2011/2019/03-24/874198.shtml">Ñô´ºÈýÔÂÄãÏë¿ªÁËÂð£¿</a></div></td></tr></table></div>
+</div>
+	  </div>
+
+      </div>
+</div>
+<!-- »¬¶¯ÃÅ½áÊø -->
+</div>
+<!--ÈÈÃÅÍ¼Æ¬-->
+
+<!--ÊÓÆµ-->
+<div style="margin-top:10px;"><a href="/shipin/index.shtml"><img src="http://www.chinanews.com.cn/fileftp/2009/01/2009-01-14/U76P4T47D10146F972DT20090114134657.jpg" border="0" /></a></div>
+<div class=box2>
+<div class=right_ph><!--[4,322,3] published at 2017-04-11 15:54:49 from #10 by ÕÔÇ«--> 
+${ÊÓÆµÍ¼Æ¬2010}</div>
+<div style="margin-top:7px;padding-bottom:5px;margin-left:10px;">
+<ul>
+<!--[4,322,4] published at 2013-01-21 09:42:06 from #10 by system--> 
+
+</ul>
+</div>
+</div><!--ÊÓÆµ-->
+
+<!--¾º¼Û¹ã¸æ-->
+<div class=rightgg></div>
+<div class=rightgg>
+<!--[4,175,202] published at 2016-07-11 16:00:07 from #10 by Ö£Õñº£--></div>
+<!--¾º¼Û¹ã¸æ-->
+
+
+</div><!--text_right-->
+<div class=clear></div>
+</div><!--text-->
+
+<!--end-->
+<div><style type="text/css">
+<!--
+/*Ò³µ×*/
+.pagebottom{width:950px;margin:0 auto;color:#000;font-size:12px;clear:both;}
+.pagebottom a:link{color:#000;}
+.pagebottom a:visited{color:#000;}
+.pagebottom a:hover{color:#000;}
+.pagebottom_1{background-image:url(http://www.chinanews.com.cn/fileftp/2009/03/2009-03-09/U76P4T47D10450F978DT20090309092324.jpg);height:33px;line-height:33px;text-align:center;}
+.pagebottom_2{text-align:center;line-height:20px;}
+-->
+</style>
+
+<!--Ò³µ×-->
+<div class=pagebottom>
+<div class=pagebottom_1>
+<a href="/common/footer/intro.shtml">¹ØÓÚÎÒÃÇ</a>¡¡| <a href="/common/footer/aboutus.shtml">About us</a>¡¡|¡¡<a href="/common/footer/contact.shtml">ÁªÏµÎÒÃÇ</a>¡¡|¡¡<a href="http://ad.chinanews.com.cn/">¹ã¸æ·þÎñ</a>¡¡|¡¡<a href="/common/footer/news-service.shtml">¹©¸å·þÎñ</a>¡¡|¡¡<a href="/common/footer/law.shtml">·¨ÂÉÉùÃ÷</a>¡¡|¡¡<a href="http://hr.chinanews.com/">ÕÐÆ¸ÐÅÏ¢</a>¡¡|¡¡<a href="/common/footer/sitemap.shtml">ÍøÕ¾µØÍ¼</a>¡¡|¡¡<a href="http://feedback.chinanews.com/">ÁôÑÔ·´À¡</a>
+</div>
+<div class=pagebottom_2>±¾ÍøÕ¾Ëù¿¯ÔØÐÅÏ¢£¬²»´ú±íÖÐÐÂÉçºÍÖÐÐÂÍø¹Ûµã¡£ ¿¯ÓÃ±¾ÍøÕ¾¸å¼þ£¬Îñ¾­ÊéÃæÊÚÈ¨¡£</div>
+<div class=pagebottom_2>Î´¾­ÊÚÈ¨½ûÖ¹×ªÔØ¡¢Õª±à¡¢¸´ÖÆ¼°½¨Á¢¾µÏñ£¬Î¥Õß½«ÒÀ·¨×·¾¿·¨ÂÉÔðÈÎ¡£</div>
+<div class=pagebottom_2>[<a href="/news/xuke.html">ÍøÉÏ´«²¥ÊÓÌý½ÚÄ¿Ðí¿ÉÖ¤£¨0106168)</a>] [<a href="http://www.miibeian.gov.cn/">¾©ICPÖ¤040655ºÅ</a>] [¾©¹«Íø°²±¸:110102003042-1] [<a href="http://www.miitbeian.gov.cn/">¾©ICP±¸05004340ºÅ-1</a>] ×Ü»ú£º86-10-87826688</div>
+</div>
+<div class=pagebottom_2><p style="font-family:arial;">Copyright &copy;1999-2023
+
+ chinanews.com. All Rights Reserved</p>
+</div>
+</div>
+<!--end-->
+</div>
+<!--all-->
+
+<!--js-->
+<script language="JavaScript">
+<!--
+document.domain = "chinanews.com.cn"; 
+-->
+</script>
+
+<script type="text/javascript">
+function getbyid(id) {
+	if (document.getElementById) {
+		return document.getElementById(id);
+	} else if (document.all) {
+		return document.all[id];
+	} else if (document.layers) {
+		return document.layers[id];
+	} else {
+		return null;
+	}
+}
+function showcode() {
+	var imgcode = getbyid('xspace-imgseccode');
+	if(imgcode) {
+		newseccode(imgcode);
+	}
+}
+function newseccode(obj) {
+	obj.src='http://comment.chinanews.com.cn/comments/image.php?'+Math.random(1);
+}
+function checkvalidate() {
+	if(document.getElementById('username').value == '') {
+		alert('ÇëÌîÐ´ÊðÃû!');
+		document.getElementById('username').focus();
+		return false;	
+	}
+	if(document.getElementById('xspace-seccode').value == '') {
+		alert('ÇëÊäÈëÑéÖ¤Âë!');
+		document.getElementById('xspace-seccode').focus();
+		return false;	
+	}
+	return true;
+}
+var seccode_displayed = 0;
+function f_focus() {
+	s = getbyid('xspace-seccodeline');
+	if(seccode_displayed == 0) {
+		s.innerHTML = '<label for="xspace-seccode"><span class=12v>ÑéÖ¤</span></label> <input type="text" size="5" id="xspace-seccode" name="validate" value="" /> <label for="xspace-seccode"><img id="xspace-imgseccode" src="http://comment.chinanews.com.cn/comments/image.php" onClick="javascript:newseccode(this);" alt="seccode" title="¿´²»Çå£¿µã»÷»»Ò»¸ö" /></label> ';
+		seccode_displayed = 1;
+	}
+	//document.postform.message.value='';
+         //document.postform.message.select();
+
+}
+</script>
+
+<script type="text/javascript" src="http://www.chinanews.com.cn/javascript/objectSwap.js"></script>
+<script type="text/javascript" src="http://comment.chinanews.com.cn/include/javascript/common.js"></script>
+<script type="text/javascript" src="http://comment.chinanews.com.cn/include/javascript/menu.js"></script>
+<script type="text/javascript" src="http://comment.chinanews.com.cn/include/javascript/ajax.js"></script>
+<script type="text/javascript" src="http://comment.chinanews.com.cn/include/javascript/post.js"></script>
+<!--·Å´óËõÐ¡×ÖÌå¹¦ÄÜ-->
+<script language=JavaScript> 
+¡¡¡¡//¸ü¸Ä×ÖÌå´óÐ¡ 
+¡¡¡¡var status0=''; 
+¡¡¡¡var curfontsize=15; 
+¡¡¡¡var curlineheight=24; 
+¡¡¡¡function fontZoomA(){ 
+¡¡¡¡ if(curfontsize>8){ 
+¡¡¡¡ document.getElementById('fontzoom').style.fontSize=(--curfontsize)+'px'; 
+¡¡¡¡ document.getElementById('fontzoom').style.lineHeight=(--curlineheight)+'px'; 
+¡¡¡¡ } 
+¡¡¡¡} 
+¡¡¡¡function fontZoomB(){ 
+¡¡¡¡ if(curfontsize<64){ 
+¡¡¡¡ document.getElementById('fontzoom').style.fontSize=(++curfontsize)+'px'; 
+¡¡¡¡ document.getElementById('fontzoom').style.lineHeight=(++curlineheight)+'px'; 
+¡¡¡¡ } 
+¡¡¡¡} 
+</script>
+<!--·Å´óËõÐ¡×ÖÌå¹¦ÄÜ-->
+
+
+</body>
 </html>

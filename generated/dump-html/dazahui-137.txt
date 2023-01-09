@@ -1,625 +1,363 @@
-<!doctype html><html amp i-amphtml-layout i-amphtml-no-boilerplate lang=zh style="padding-top:32px !important;" transformed="google;v=8"><head><meta charset=utf-8><meta content="width=device-width,minimum-scale=1,initial-scale=1" name=viewport><style amp-runtime i-amphtml-version=012212151632002>html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
-/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
-/*# sourceURL=/css/ampshared.css*/</style><meta content=noindex name=robots><meta content=no-referrer-when-downgrade name=referrer><meta content=voachinese.com name=amp-cookie-scope><meta content="10=2,11=2" name=amp-usqp><script id=__AMP_EXP type=text/json>{"flexible-bitrate":0.1,"amp-story-first-page-max-bitrate":0.3,"story-disable-animations-first-page":1,"story-load-first-page-only":1,"story-load-inactive-outside-viewport":1,"story-ad-page-outlink":0.02,"amp-geo-ssr":1,"story-remote-localization":1,"amp-story-subscriptions":1}</script><script async nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0.js></script><script async crossorigin=anonymous src=https://cdn.ampproject.org/rtv/012212151632002/v0.mjs type=module></script><script async src=https://cdn.ampproject.org/viewer/google/va9.js></script><script async custom-element=amp-analytics nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-analytics-0.1.js></script><script async crossorigin=anonymous custom-element=amp-analytics src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-analytics-0.1.mjs type=module></script><script async custom-element=amp-iframe nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-iframe-0.1.js></script><script async crossorigin=anonymous custom-element=amp-iframe src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-iframe-0.1.mjs type=module></script><script async custom-element=amp-sidebar nomodule src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-sidebar-0.1.js></script><script async crossorigin=anonymous custom-element=amp-sidebar src=https://cdn.ampproject.org/rtv/012212151632002/v0/amp-sidebar-0.1.mjs type=module></script><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/favicon.ico rel="shortcut icon"><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/ico-192x192.png rel=icon sizes=192x192><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/ico-128x128.png rel=icon sizes=128x128><link href=https://gdb-voanews-com.cdn.ampproject.org rel="dns-prefetch preconnect"><style amp-custom>
-html,body,div,form,fieldset,legend,label,p,img,ul,ol,li,h1,h2,h3,h4,h5,h6,blockquote{margin:0;padding:0}html{-webkit-box-sizing:border-box;box-sizing:border-box}*,*:before,*:after{-webkit-box-sizing:inherit;box-sizing:inherit}body{-ms-overflow-style:scrollbar}a,area,button,[role="button"],input,label,select,summary,textarea{-ms-touch-action:manipulation;touch-action:manipulation}table{border-collapse:collapse;border-spacing:0}th,td{vertical-align:top}ul,ol{list-style-type:none}h1,h2,h3,h4,h5,h6,th,td,caption{font-weight:normal}img{border:0}a,a:hover .ico,.wsw__a,.wsw strong a,.wsw__a:hover,.wsw strong a:hover,.wsw__a:focus,.wsw strong a:focus,.media-pholder a,.media-pholder a:hover,.media-block a:hover,amp-sidebar #navigation a,amp-sidebar #navigation a:hover,amp-sidebar #navigation a:focus,amp-sidebar #navigation a:active,.foot-nav a:hover{text-decoration:none}a:hover,.wsw .text-underline,.media-pholder .media-download a:hover{text-decoration:underline}.wsw .dateline{text-transform:uppercase}#page,.media-pholder,.media-pholder .thumb,.media-block{position:relative}.btn--rounded{color:#fff}.wsw>ul.categories li:before,.wsw>:not(.wsw__embed) ul:not([class]).categories li:before,.wsw>.cke_editable>ul.categories li:before,.wsw__ul.categories li:before{content:none}#page{display:block;margin-left:auto;margin-right:auto}.btn--rounded,.text-center{text-align:center}.btn--rounded,.foot-nav ul.items>li.socials .inner li .btn{display:table-cell;vertical-align:middle}.media-pholder .media-download,.back-to-top-nav .back-to-top-link .ico{float:right}.wsw .dateline,.media-pholder .btn-popout-player{float:left}.media-pholder .media-download:before,.media-block:before,.media-block-wrap:before,.foot:before,.hdr:before,.hdr .container:before,amp-sidebar .navigationToggle:before,.foot-nav ul.items>li.socials .inner ul.follow:before,.article .publishing-details:before,.media-pholder .media-download:after,.media-block:after,.media-block-wrap:after,.foot:after,.hdr:after,.hdr .container:after,amp-sidebar .navigationToggle:after,.foot-nav ul.items>li.socials .inner ul.follow:after,.article .publishing-details:after{content:" ";display:table}.media-pholder .media-download:after,.media-block:after,.media-block-wrap:after,.foot:after,.hdr:after,.hdr .container:after,amp-sidebar .navigationToggle:after,.foot-nav ul.items>li.socials .inner ul.follow:after,.article .publishing-details:after{clear:both}.btn--rounded .ico,.media-pholder .thumb{margin-left:0;margin-top:0;margin-right:0;margin-bottom:0}.wsw>*:last-child,.wsw .caption,.hdr,.backgrounder p:last-child,.backgrounder div:last-child{margin-bottom:0}.btn--rounded,.hdr .navigationToggle,.foot-nav .container,body.can-ff .foot-nav ul.items>li ul.follow li .btn{padding-left:0;padding-top:0;padding-right:0;padding-bottom:0}.backgrounder p:last-child,.backgrounder div:last-child{padding-bottom:0}.section-head img,.wsw img,.media-pholder.quiz .thumb,.media-pholder img{width:100%}img,video,object{max-width:100%;height:auto}.btn--rounded .ico,.foot-nav ul.items>li.socials .inner li .btn--rounded,.foot-nav ul.items>li ul.follow li{border-left:0;border-top:0;border-right:0;border-bottom:0}amp-sidebar #navigation ul.items .item .handler,.foot-nav ul.items>li a,.foot-nav ul.items>li span.handler{-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}::-moz-selection{background:#3a79b7;color:#fff}::selection{background:#3a79b7;color:#fff}body{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:16px;line-height:1.5;color:#222f3a;-webkit-font-smoothing:antialiased}body strong,body b{font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.container{padding:0 16px;max-width:600px;margin:auto}.btn--rounded{width:40px;height:40px;line-height:40px;border-radius:100%;border:1px solid #cbd1d6;font-family:arial}h1,h2,h3,h4,h5,h6{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}h1{font-size:24px;line-height:1.35}h2{font-size:24px;line-height:1.35}h3{font-size:20px}h4{font-size:18px}a{color:#3a79b7}a:visited{color:#28537d}a:hover{color:#3a79b7}.foot-link{clear:both;text-align:left;padding-top:16px}.link-more{font-size:13px;display:block;text-align:right;clear:both}.link-service{display:inline-block;padding-right:8px;padding-bottom:8px}.link-service .ico{vertical-align:baseline}.media-block .link-service:hover .ico{color:#3a79b7}.link-comments{margin-bottom:8px}.intro{padding-bottom:24px}.article-body .intro{font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.text p{margin-bottom:16px}.text-secondary{font-size:14px;color:#51708a}.pg-title{margin-bottom:16px}.section-head{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:24px;border-bottom:1px solid #cbd1d6;padding-bottom:4px;margin:12px 0;margin-bottom:0;color:#a1aab4;line-height:1.2;text-align:left}.section-head a{color:#a1aab4;display:block}.section-head a:hover{color:#3a79b7;text-decoration:none}.section-head a .ico{margin-right:0}.badge{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:12px;color:#fff;padding:2px 4px;text-transform:uppercase}body.can-ff .badge .ico{border-radius:50%;text-align:center;background:#fff}.img-wrap .badge{position:absolute;top:4px;right:4px}.badge.green{background:#83ab4b}.badge.green .ico:before{color:#83ab4b}.badge.orange{background:#ee8735}.badge.orange .ico:before{color:#ee8735}.badge.blue{background:#007dba}.badge.blue .ico:before{color:#007dba}.badge.red{background:#d12430}.badge.red .ico:before{color:#d12430}.badge--live,.badge--updated{padding:5px 5px 3px;text-transform:uppercase;display:inline-block;margin-right:.3em;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:.875em;line-height:1em;vertical-align:baseline}.badge--live{color:#fff;background:#c11d22}.badge--updated{color:#fff;background:#3a79b7}.category,.label,.date,.time,.repeat{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}hr{border:0;height:3px;background:#cbd1d6;margin:0 0 16px 0}hr.line-head{border-bottom:3px solid #cbd1d6;margin-bottom:0}abbr{border-bottom:1px dotted #768492;cursor:help}small{font-size:14px}.font-1{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.font-1-bold{font-family:false}.font-2{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.font-2-bold{font-family:false}@media (min-width: 640px){h1{font-size:30.4px}}@media (min-width: 992px){h1{font-size:48px}.text h1{font-size:30.4px}}.c-blockquote{color:#768492;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:20px;line-height:130%;position:relative;margin-bottom:24px}.media-block-wrap .c-blockquote{margin-top:8px}.fc-body .c-blockquote{color:#768492;font-size:18px}.c-blockquote__content{margin-bottom:16px}.c-blockquote--wg{font-size:18px}.c-blockquote--has-quote:before{content:"“";float:left;font-size:400%;margin-right:.05em;margin-top:.315em;height:0}.c-blockquote__foot{margin-top:16px;color:#768492;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px;line-height:1.5}.ico-anchor,.ico-arrow-down,.ico-arrow-left,.ico-arrow-backward,.ico-arrow-right,.ico-arrow-forward,.ico-arrow-top-left,.ico-arrow-top-backward,.ico-arrow-top-right,.ico-arrow-top-forward,.ico-arrow-up,.ico-audio,.ico-audio-rounded,.ico-balatarin,.ico-calendar,.ico-camera,.ico-caret-down,.ico-caret-up,.ico-castbox,.ico-check,.ico-check-circle,.ico-check-circle-checked,.ico-chevron-down,.ico-chevron-left,.ico-chevron-backward,.ico-chevron-left-rounded,.ico-chevron-backward-rounded,.ico-chevron-right,.ico-chevron-forward,.ico-chevron-right-rounded,.ico-chevron-forward-rounded,.ico-chevron-up,.ico-clock,.ico-close,.ico-comment,.ico-content-copy,.ico-document,.ico-download,.ico-ellipsis,.ico-email,.ico-embed-code,.ico-exclamation,.ico-exit-fullscreen,.ico-facebook,.ico-facebook-alt,.ico-favourites,.ico-flag,.ico-fullscreen,.ico-gallery,.ico-gallery-rounded,.ico-globe,.ico-google-news,.ico-google-podcast,.ico-grid,.ico-height-chevrons,.ico-info,.ico-infographic,.ico-infographic-rounded,.ico-instagram,.ico-itunes,.ico-languages,.ico-line,.ico-linkedin,.ico-liveblog,.ico-livejournal,.ico-log-out,.ico-logo-rfe,.ico-logo-voa,.ico-mailru,.ico-map-pin,.ico-meneame,.ico-menu,.ico-minus,.ico-mobile,.ico-my-video,.ico-myworld,.ico-no-results,.ico-odnoklassniki,.ico-pause,.ico-pause-rounded,.ico-pinterest,.ico-play,.ico-play-rounded,.ico-playlist,.ico-playlist-add,.ico-plus,.ico-podcast,.ico-podcast-addict,.ico-podcast-republic,.ico-poll,.ico-pop-out,.ico-print,.ico-question,.ico-quiz,.ico-reddit,.ico-refresh,.ico-repeat,.ico-reply,.ico-report,.ico-rss,.ico-search,.ico-settings,.ico-share,.ico-skip-next,.ico-skip-previous,.ico-soundcloud,.ico-soundslide,.ico-spotify,.ico-square,.ico-stop,.ico-telegram,.ico-tv,.ico-twitter,.ico-ugc,.ico-user,.ico-user-rounded,.ico-viber,.ico-video,.ico-vkontakte,.ico-vkontakte-alt,.ico-volume-muted,.ico-volume-unmuted,.ico-whatsapp,.ico-width-chevrons,.ico-yandex-music,.ico-yandex-zen,.ico-youtube{background:url('https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/Responsive/img/ico-sprites-1661417065025.png') no-repeat}.ico-anchor{background-position:0 0;width:16px;height:16px}.ico-arrow-down{background-position:0.847457627118644% 0;width:16px;height:16px}.ico-arrow-left,.ico-arrow-backward{background-position:1.694915254237288% 0;width:16px;height:16px}.ico-arrow-right,.ico-arrow-forward{background-position:2.542372881355932% 0;width:16px;height:16px}.ico-arrow-top-left,.ico-arrow-top-backward{background-position:3.389830508474576% 0;width:16px;height:16px}.ico-arrow-top-right,.ico-arrow-top-forward{background-position:4.237288135593221% 0;width:16px;height:16px}.ico-arrow-up{background-position:5.084745762711864% 0;width:16px;height:16px}.ico-audio{background-position:5.932203389830509% 0;width:16px;height:16px}.ico-audio-rounded{background-position:6.779661016949152% 0;width:16px;height:16px}.ico-balatarin{background-position:7.627118644067797% 0;width:16px;height:16px}.ico-calendar{background-position:8.474576271186441% 0;width:16px;height:16px}.ico-camera{background-position:9.322033898305085% 0;width:16px;height:16px}.ico-caret-down{background-position:10.169491525423728% 0;width:16px;height:16px}.ico-caret-up{background-position:11.016949152542374% 0;width:16px;height:16px}.ico-castbox{background-position:11.864406779661017% 0;width:16px;height:16px}.ico-check{background-position:12.711864406779661% 0;width:16px;height:16px}.ico-check-circle{background-position:13.559322033898304% 0;width:16px;height:16px}.ico-check-circle-checked{background-position:14.40677966101695% 0;width:16px;height:16px}.ico-chevron-down{background-position:15.254237288135593% 0;width:16px;height:16px}.ico-chevron-left,.ico-chevron-backward{background-position:16.10169491525424% 0;width:16px;height:16px}.ico-chevron-left-rounded,.ico-chevron-backward-rounded{background-position:16.949152542372882% 0;width:16px;height:16px}.ico-chevron-right,.ico-chevron-forward{background-position:17.796610169491526% 0;width:16px;height:16px}.ico-chevron-right-rounded,.ico-chevron-forward-rounded{background-position:18.64406779661017% 0;width:16px;height:16px}.ico-chevron-up{background-position:19.491525423728813% 0;width:16px;height:16px}.ico-clock{background-position:20.338983050847457% 0;width:16px;height:16px}.ico-close{background-position:21.1864406779661% 0;width:16px;height:16px}.ico-comment{background-position:22.033898305084747% 0;width:16px;height:16px}.ico-content-copy{background-position:22.88135593220339% 0;width:16px;height:16px}.ico-document{background-position:23.728813559322035% 0;width:16px;height:16px}.ico-download{background-position:24.576271186440678% 0;width:16px;height:16px}.ico-ellipsis{background-position:25.423728813559322% 0;width:16px;height:16px}.ico-email{background-position:26.271186440677965% 0;width:16px;height:16px}.ico-embed-code{background-position:27.11864406779661% 0;width:16px;height:16px}.ico-exclamation{background-position:27.966101694915253% 0;width:16px;height:16px}.ico-exit-fullscreen{background-position:28.8135593220339% 0;width:16px;height:16px}.ico-facebook{background-position:29.661016949152543% 0;width:16px;height:16px}.ico-facebook-alt{background-position:30.508474576271187% 0;width:16px;height:16px}.ico-favourites{background-position:31.35593220338983% 0;width:16px;height:16px}.ico-flag{background-position:32.20338983050848% 0;width:16px;height:16px}.ico-fullscreen{background-position:33.05084745762712% 0;width:16px;height:16px}.ico-gallery{background-position:33.898305084745765% 0;width:16px;height:16px}.ico-gallery-rounded{background-position:34.74576271186441% 0;width:16px;height:16px}.ico-globe{background-position:35.59322033898305% 0;width:16px;height:16px}.ico-google-news{background-position:36.440677966101696% 0;width:16px;height:16px}.ico-google-podcast{background-position:37.28813559322034% 0;width:16px;height:16px}.ico-grid{background-position:38.13559322033898% 0;width:16px;height:16px}.ico-height-chevrons{background-position:38.983050847457626% 0;width:16px;height:16px}.ico-info{background-position:39.83050847457627% 0;width:16px;height:16px}.ico-infographic{background-position:40.67796610169491% 0;width:16px;height:16px}.ico-infographic-rounded{background-position:41.52542372881356% 0;width:16px;height:16px}.ico-instagram{background-position:42.3728813559322% 0;width:16px;height:16px}.ico-itunes{background-position:43.220338983050844% 0;width:16px;height:16px}.ico-languages{background-position:44.067796610169495% 0;width:16px;height:16px}.ico-line{background-position:44.91525423728814% 0;width:16px;height:16px}.ico-linkedin{background-position:45.76271186440678% 0;width:16px;height:16px}.ico-liveblog{background-position:46.610169491525426% 0;width:16px;height:16px}.ico-livejournal{background-position:47.45762711864407% 0;width:16px;height:16px}.ico-log-out{background-position:48.30508474576271% 0;width:16px;height:16px}.ico-logo-rfe{background-position:49.152542372881356% 0;width:16px;height:16px}.ico-logo-voa{background-position:50% 0;width:16px;height:16px}.ico-mailru{background-position:50.847457627118644% 0;width:16px;height:16px}.ico-map-pin{background-position:51.69491525423729% 0;width:16px;height:16px}.ico-meneame{background-position:52.54237288135593% 0;width:16px;height:16px}.ico-menu{background-position:53.389830508474574% 0;width:16px;height:16px}.ico-minus{background-position:54.23728813559322% 0;width:16px;height:16px}.ico-mobile{background-position:55.08474576271186% 0;width:16px;height:16px}.ico-my-video{background-position:55.932203389830505% 0;width:16px;height:16px}.ico-myworld{background-position:56.779661016949156% 0;width:16px;height:16px}.ico-no-results{background-position:57.6271186440678% 0;width:16px;height:16px}.ico-odnoklassniki{background-position:58.47457627118644% 0;width:16px;height:16px}.ico-pause{background-position:59.32203389830509% 0;width:16px;height:16px}.ico-pause-rounded{background-position:60.16949152542373% 0;width:16px;height:16px}.ico-pinterest{background-position:61.016949152542374% 0;width:16px;height:16px}.ico-play{background-position:61.86440677966102% 0;width:16px;height:16px}.ico-play-rounded{background-position:62.71186440677966% 0;width:16px;height:16px}.ico-playlist{background-position:63.559322033898304% 0;width:16px;height:16px}.ico-playlist-add{background-position:64.40677966101696% 0;width:16px;height:16px}.ico-plus{background-position:65.2542372881356% 0;width:16px;height:16px}.ico-podcast{background-position:66.10169491525424% 0;width:16px;height:16px}.ico-podcast-addict{background-position:66.94915254237289% 0;width:16px;height:16px}.ico-podcast-republic{background-position:67.79661016949153% 0;width:16px;height:16px}.ico-poll{background-position:68.64406779661017% 0;width:16px;height:16px}.ico-pop-out{background-position:69.49152542372882% 0;width:16px;height:16px}.ico-print{background-position:70.33898305084746% 0;width:16px;height:16px}.ico-question{background-position:71.1864406779661% 0;width:16px;height:16px}.ico-quiz{background-position:72.03389830508475% 0;width:16px;height:16px}.ico-reddit{background-position:72.88135593220339% 0;width:16px;height:16px}.ico-refresh{background-position:73.72881355932203% 0;width:16px;height:16px}.ico-repeat{background-position:74.57627118644068% 0;width:16px;height:16px}.ico-reply{background-position:75.42372881355932% 0;width:16px;height:16px}.ico-report{background-position:76.27118644067797% 0;width:16px;height:16px}.ico-rss{background-position:77.11864406779661% 0;width:16px;height:16px}.ico-search{background-position:77.96610169491525% 0;width:16px;height:16px}.ico-settings{background-position:78.8135593220339% 0;width:16px;height:16px}.ico-share{background-position:79.66101694915254% 0;width:16px;height:16px}.ico-skip-next{background-position:80.50847457627118% 0;width:16px;height:16px}.ico-skip-previous{background-position:81.35593220338983% 0;width:16px;height:16px}.ico-soundcloud{background-position:82.20338983050847% 0;width:16px;height:16px}.ico-soundslide{background-position:83.05084745762711% 0;width:16px;height:16px}.ico-spotify{background-position:83.89830508474576% 0;width:16px;height:16px}.ico-square{background-position:84.7457627118644% 0;width:16px;height:16px}.ico-stop{background-position:85.59322033898304% 0;width:16px;height:16px}.ico-telegram{background-position:86.44067796610169% 0;width:16px;height:13.2px}.ico-tv{background-position:87.28813559322033% 0;width:16px;height:16px}.ico-twitter{background-position:88.13559322033899% 0;width:16px;height:16px}.ico-ugc{background-position:88.98305084745763% 0;width:16px;height:16px}.ico-user{background-position:89.83050847457628% 0;width:16px;height:16px}.ico-user-rounded{background-position:90.67796610169492% 0;width:16px;height:16px}.ico-viber{background-position:91.50991357397052% 0;width:15.68px;height:16px}.ico-video{background-position:92.37288135593221% 0;width:16px;height:16px}.ico-vkontakte{background-position:93.22033898305085% 0;width:16px;height:16px}.ico-vkontakte-alt{background-position:94.0677966101695% 0;width:16px;height:16px}.ico-volume-muted{background-position:94.91525423728814% 0;width:16px;height:16px}.ico-volume-unmuted{background-position:95.76271186440678% 0;width:16px;height:16px}.ico-whatsapp{background-position:96.61016949152543% 0;width:16px;height:16px}.ico-width-chevrons{background-position:97.45762711864407% 0;width:16px;height:16px}.ico-yandex-music{background-position:98.30508474576271% 0;width:16px;height:16px}.ico-yandex-zen{background-position:99.15254237288136% 0;width:16px;height:16px}.ico-youtube{background-position:100% 0;width:16px;height:16px}@font-face{font-family:"icons-font-1661417065025";src:url('https://www-voachinese-com.cdn.ampproject.org/r/s/www.voachinese.com/Content/Responsive/fonts/icons-font-1661417065025.woff') format("woff"),url('https://www-voachinese-com.cdn.ampproject.org/r/s/www.voachinese.com/Content/Responsive/fonts/icons-font-1661417065025.ttf') format("truetype");font-weight:normal;font-style:normal}.ico{background-repeat:no-repeat;font-family:"icons-font-1661417065025";display:inline-block;font-size:16px;font-weight:normal;font-style:normal;line-height:inherit;vertical-align:middle;speak:none;text-decoration:inherit;text-transform:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#fff;border:4px solid #fff;-webkit-box-sizing:content-box;box-sizing:content-box}.can-ff .ico{background-image:none;background-color:transparent;border:none;vertical-align:baseline;-webkit-box-sizing:border-box;box-sizing:border-box;width:auto;height:auto}a .ico{text-decoration:none}body.can-ff .ico-anchor:before{content:"\f101"}body.can-ff .ico-arrow-down:before{content:"\f102"}body.can-ff .ico-arrow-left:before,body.can-ff .ico-arrow-backward:before{content:"\f103"}body.can-ff .ico-arrow-right:before,body.can-ff .ico-arrow-forward:before{content:"\f104"}body.can-ff .ico-arrow-top-left:before,body.can-ff .ico-arrow-top-backward:before{content:"\f105"}body.can-ff .ico-arrow-top-right:before,body.can-ff .ico-arrow-top-forward:before{content:"\f106"}body.can-ff .ico-arrow-up:before{content:"\f107"}body.can-ff .ico-audio:before{content:"\f108"}body.can-ff .ico-audio-rounded:before{content:"\f109"}body.can-ff .ico-balatarin:before{content:"\f10a"}body.can-ff .ico-calendar:before{content:"\f10b"}body.can-ff .ico-camera:before{content:"\f10c"}body.can-ff .ico-caret-down:before{content:"\f10d"}body.can-ff .ico-caret-up:before{content:"\f10e"}body.can-ff .ico-castbox:before{content:"\f10f"}body.can-ff .ico-check:before{content:"\f110"}body.can-ff .ico-check-circle:before{content:"\f111"}body.can-ff .ico-check-circle-checked:before{content:"\f112"}body.can-ff .ico-chevron-down:before{content:"\f113"}body.can-ff .ico-chevron-left:before,body.can-ff .ico-chevron-backward:before{content:"\f114"}body.can-ff .ico-chevron-left-rounded:before,body.can-ff .ico-chevron-backward-rounded:before{content:"\f115"}body.can-ff .ico-chevron-right:before,body.can-ff .ico-chevron-forward:before{content:"\f116"}body.can-ff .ico-chevron-right-rounded:before,body.can-ff .ico-chevron-forward-rounded:before{content:"\f117"}body.can-ff .ico-chevron-up:before{content:"\f118"}body.can-ff .ico-clock:before{content:"\f119"}body.can-ff .ico-close:before{content:"\f11a"}body.can-ff .ico-comment:before{content:"\f11b"}body.can-ff .ico-content-copy:before{content:"\f11c"}body.can-ff .ico-document:before{content:"\f11d"}body.can-ff .ico-download:before{content:"\f11e"}body.can-ff .ico-ellipsis:before{content:"\f11f"}body.can-ff .ico-email:before{content:"\f120"}body.can-ff .ico-embed-code:before{content:"\f121"}body.can-ff .ico-exclamation:before{content:"\f122"}body.can-ff .ico-exit-fullscreen:before{content:"\f123"}body.can-ff .ico-facebook:before{content:"\f124"}body.can-ff .ico-facebook-alt:before{content:"\f125"}body.can-ff .ico-favourites:before{content:"\f126"}body.can-ff .ico-flag:before{content:"\f127"}body.can-ff .ico-fullscreen:before{content:"\f128"}body.can-ff .ico-gallery:before{content:"\f129"}body.can-ff .ico-gallery-rounded:before{content:"\f12a"}body.can-ff .ico-globe:before{content:"\f12b"}body.can-ff .ico-google-news:before{content:"\f12c"}body.can-ff .ico-google-podcast:before{content:"\f12d"}body.can-ff .ico-grid:before{content:"\f12e"}body.can-ff .ico-height-chevrons:before{content:"\f12f"}body.can-ff .ico-info:before{content:"\f130"}body.can-ff .ico-infographic:before{content:"\f131"}body.can-ff .ico-infographic-rounded:before{content:"\f132"}body.can-ff .ico-instagram:before{content:"\f133"}body.can-ff .ico-itunes:before{content:"\f134"}body.can-ff .ico-languages:before{content:"\f135"}body.can-ff .ico-line:before{content:"\f136"}body.can-ff .ico-linkedin:before{content:"\f137"}body.can-ff .ico-liveblog:before{content:"\f138"}body.can-ff .ico-livejournal:before{content:"\f139"}body.can-ff .ico-log-out:before{content:"\f13a"}body.can-ff .ico-logo-rfe:before{content:"\f13b"}body.can-ff .ico-logo-voa:before{content:"\f13c"}body.can-ff .ico-mailru:before{content:"\f13d"}body.can-ff .ico-map-pin:before{content:"\f13e"}body.can-ff .ico-meneame:before{content:"\f13f"}body.can-ff .ico-menu:before{content:"\f140"}body.can-ff .ico-minus:before{content:"\f141"}body.can-ff .ico-mobile:before{content:"\f142"}body.can-ff .ico-my-video:before{content:"\f143"}body.can-ff .ico-myworld:before{content:"\f144"}body.can-ff .ico-no-results:before{content:"\f145"}body.can-ff .ico-odnoklassniki:before{content:"\f146"}body.can-ff .ico-pause:before{content:"\f147"}body.can-ff .ico-pause-rounded:before{content:"\f148"}body.can-ff .ico-pinterest:before{content:"\f149"}body.can-ff .ico-play:before{content:"\f14a"}body.can-ff .ico-play-rounded:before{content:"\f14b"}body.can-ff .ico-playlist:before{content:"\f14c"}body.can-ff .ico-playlist-add:before{content:"\f14d"}body.can-ff .ico-plus:before{content:"\f14e"}body.can-ff .ico-podcast:before{content:"\f14f"}body.can-ff .ico-podcast-addict:before{content:"\f150"}body.can-ff .ico-podcast-republic:before{content:"\f151"}body.can-ff .ico-poll:before{content:"\f152"}body.can-ff .ico-pop-out:before{content:"\f153"}body.can-ff .ico-print:before{content:"\f154"}body.can-ff .ico-question:before{content:"\f155"}body.can-ff .ico-quiz:before{content:"\f156"}body.can-ff .ico-reddit:before{content:"\f157"}body.can-ff .ico-refresh:before{content:"\f158"}body.can-ff .ico-repeat:before{content:"\f159"}body.can-ff .ico-reply:before{content:"\f15a"}body.can-ff .ico-report:before{content:"\f15b"}body.can-ff .ico-rss:before{content:"\f15c"}body.can-ff .ico-search:before{content:"\f15d"}body.can-ff .ico-settings:before{content:"\f15e"}body.can-ff .ico-share:before{content:"\f15f"}body.can-ff .ico-skip-next:before{content:"\f160"}body.can-ff .ico-skip-previous:before{content:"\f161"}body.can-ff .ico-soundcloud:before{content:"\f162"}body.can-ff .ico-soundslide:before{content:"\f163"}body.can-ff .ico-spotify:before{content:"\f164"}body.can-ff .ico-square:before{content:"\f165"}body.can-ff .ico-stop:before{content:"\f166"}body.can-ff .ico-telegram:before{content:"\f167"}body.can-ff .ico-tv:before{content:"\f168"}body.can-ff .ico-twitter:before{content:"\f169"}body.can-ff .ico-ugc:before{content:"\f16a"}body.can-ff .ico-user:before{content:"\f16b"}body.can-ff .ico-user-rounded:before{content:"\f16c"}body.can-ff .ico-viber:before{content:"\f16d"}body.can-ff .ico-video:before{content:"\f16e"}body.can-ff .ico-vkontakte:before{content:"\f16f"}body.can-ff .ico-vkontakte-alt:before{content:"\f170"}body.can-ff .ico-volume-muted:before{content:"\f171"}body.can-ff .ico-volume-unmuted:before{content:"\f172"}body.can-ff .ico-whatsapp:before{content:"\f173"}body.can-ff .ico-width-chevrons:before{content:"\f174"}body.can-ff .ico-yandex-music:before{content:"\f175"}body.can-ff .ico-yandex-zen:before{content:"\f176"}body.can-ff .ico-youtube:before{content:"\f177"}.caption{color:#768492;font-size:14px;padding-top:8px;display:block}.wsw{padding-bottom:16px;font-size:16px;word-break:break-word}.wsw--wg{font-size:14px}.wsw__h1,.wsw__h2,.wsw__h3,.wsw__h4,.wsw__h5,.wsw__h6{margin-bottom:.75em}.wsw__h1,.wsw :not(.wsw__embed) h1:not([class]){font-size:30.4px}.wsw__h2,.wsw :not(.wsw__embed) h2:not([class]){font-size:24px}.wsw__h3,.wsw :not(.wsw__embed) h3:not([class]){font-size:20px}.wsw__h3:before,.wsw :not(.wsw__embed) h3:not([class]):before{content:"";border-left:3px solid #cbd1d6;margin-right:8px}.wsw__h4,.wsw :not(.wsw__embed) h4:not([class]){font-size:18px}.wsw__h5,.wsw :not(.wsw__embed) h5:not([class]){font-size:14px;color:#3a79b7;font-weight:bold}.wsw__h6,.wsw :not(.wsw__embed) h6:not([class]){font-size:13px}.wsw__h6:after,.wsw :not(.wsw__embed) h6:not([class]):after{content:"";border-bottom:1px dotted #cbd1d6;display:block;display:-webkit-box;display:-ms-flexbox;display:flex}.wsw p,.wsw ul,.wsw ol,.wsw__table,.wsw__table-container{margin-top:0;margin-bottom:24px}.wsw p.caption{margin-bottom:32px}.wsw__a,.wsw strong a{padding-bottom:.05em;border-bottom:1px solid #e8eaec}.wsw__a:hover,.wsw strong a:hover,.wsw__a:focus,.wsw strong a:focus{border-color:#3a79b7}.wsw .also-read{margin-bottom:24px}.wsw__table-container{display:block;width:100%;overflow:auto;word-break:normal}.wsw__table{border-collapse:collapse;border-spacing:0;border:1px solid #768492;width:100%}.wsw__table .wsw__embed{margin-bottom:16px}.wsw__table-container .wsw__table{margin-bottom:8px}.wsw th{text-align:left;border:1px solid #768492;padding:.2em;background-color:#f6f7f8}.wsw td{border:1px solid #768492;padding:.2em}.wsw .text-incorrect{text-decoration:line-through}.wsw:after{clear:both;content:"";display:block}.wsw>ul,.wsw>:not(.wsw__embed) ul:not([class]),.wsw>.cke_editable>ul,.wsw__ul{position:relative;left:20px;max-width:calc( 100% - 20px)}.wsw>ul>li,.wsw>ul .wsw__ul-li,.wsw>:not(.wsw__embed) ul:not([class])>li,.wsw>:not(.wsw__embed) ul:not([class]) .wsw__ul-li,.wsw>.cke_editable>ul>li,.wsw>.cke_editable>ul .wsw__ul-li,.wsw__ul>li,.wsw__ul .wsw__ul-li{padding-right:16px;margin-bottom:8px}.wsw>ul>li:before,.wsw>ul .wsw__ul-li:before,.wsw>:not(.wsw__embed) ul:not([class])>li:before,.wsw>:not(.wsw__embed) ul:not([class]) .wsw__ul-li:before,.wsw>.cke_editable>ul>li:before,.wsw>.cke_editable>ul .wsw__ul-li:before,.wsw__ul>li:before,.wsw__ul .wsw__ul-li:before{content:'\2022';color:#3a79b7;font-size:1.5em;line-height:.75em;vertical-align:middle;margin-left:-20px;width:20px;display:inline-block}.wsw>ul ul,.wsw>:not(.wsw__embed) ul:not([class]) ul,.wsw>.cke_editable>ul ul,.wsw__ul ul{margin-bottom:0;margin-top:8px}.wsw>ol,.wsw>:not(.wsw__embed) ol:not([class]),.wsw>.cke_editable>ol,.wsw__ol{position:relative;left:20px;counter-reset:section}.wsw>ol>li,.wsw>ol .wsw__ol-li,.wsw>:not(.wsw__embed) ol:not([class])>li,.wsw>:not(.wsw__embed) ol:not([class]) .wsw__ol-li,.wsw>.cke_editable>ol>li,.wsw>.cke_editable>ol .wsw__ol-li,.wsw__ol>li,.wsw__ol .wsw__ol-li{padding-right:16px;margin-bottom:8px;counter-increment:section}.wsw>ol>li:before,.wsw>ol .wsw__ol-li:before,.wsw>:not(.wsw__embed) ol:not([class])>li:before,.wsw>:not(.wsw__embed) ol:not([class]) .wsw__ol-li:before,.wsw>.cke_editable>ol>li:before,.wsw>.cke_editable>ol .wsw__ol-li:before,.wsw__ol>li:before,.wsw__ol .wsw__ol-li:before{color:#a1aab4;content:counter(section) ". ";margin-left:-20px;padding-right:8px}.wsw>ol ol,.wsw>:not(.wsw__embed) ol:not([class]) ol,.wsw>.cke_editable>ol ol,.wsw__ol ol{margin-bottom:0;margin-top:8px}.cover-media{padding-bottom:32px}.cover-media--liveblog{padding-bottom:8px}.cover-media--liveblog .media-pholder{padding-bottom:0}.media-pholder{padding-bottom:32px}.media-pholder:after{display:table;content:"";clear:both}.media-pholder--embed{padding-bottom:0}.media-pholder a:hover img{opacity:.95}.media-pholder .media-download .simple-menu{z-index:11}.media-pholder .thumb .duration{position:absolute;bottom:0;right:0;line-height:1;background-color:rgba(0,0,0,0.5);color:#fff;padding:8px}.media-pholder.media-player .ico-action.ico{position:absolute;display:block;cursor:pointer;top:50%;left:50%;opacity:.7;text-align:center;vertical-align:middle;color:#fff;font-size:80px;line-height:1em;text-shadow:2px 2px 8px rgba(0,0,0,0.5)}body.can-ff .media-pholder.media-player .ico-action.ico{background:transparent;margin-left:-40px;margin-top:-40px}.media-pholder.media-link .ico{position:absolute;left:0;top:0;color:#fff;text-align:center}body.can-ff .media-pholder.media-link .ico{background:rgba(0,0,0,0.7);width:40px;font-size:20px;padding:4px}body.can-ff .media-pholder.media-link:hover .ico{background:#000;color:#fff}body.amp-pg .media-pholder.media-link .ico{z-index:1}.media-pholder .btn-popout-player{display:none}.media-pholder .btn-popout-player .ico{margin-right:2px}.media-pholder:hover .ico{opacity:.9}.media-pholder+.media-block__content{margin-top:0}@media (min-width: 992px){body.can-ff .media-pholder.media-link .ico{width:64px;font-size:32px;padding:6.4px}}.media-block{word-wrap:break-word}.media-block .img-wrap{display:block;width:100%;position:relative;padding-bottom:12px}.media-block .img-wrap .thumb.thumb16_9{height:0;padding-bottom:56.25%;overflow:hidden;background-color:#f6f7f8;background-image:url('https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/amp/img/image-placeholder.svg');background-repeat:no-repeat;background-position:center center}.special-sidebar .media-block .img-wrap .thumb.thumb16_9{background-color:#fff}.media-block .img-wrap .ico{position:absolute;left:0;top:0;color:#fff;text-align:center}body.can-ff .media-block .img-wrap .ico{background-color:black;background:rgba(0,0,0,0.7);padding:1px;width:26px}body.can-ff .media-block .img-wrap:hover .ico{background:#000;color:#fff}body.amp-page .media-block .img-wrap .ico{z-index:1}.media-block h4,.media-block li{color:#222f3a;line-height:1.3875;padding-bottom:8px;vertical-align:baseline}.media-block h4 .ico,.media-block li .ico{color:#768492;margin-right:5px;vertical-align:middle}body.can-ff .media-block h4 .ico,body.can-ff .media-block li .ico{vertical-align:baseline}.media-block p{margin-bottom:8px;color:#000}.media-block .category,.media-block .label,.media-block .date,.media-block .date--relative,.media-block .date--time{display:block;font-size:14px;color:#a1aab4;text-transform:uppercase;padding-bottom:4px}.media-block .date{word-wrap:normal}.media-block .date--relative{text-transform:none}.media-block .category{color:#3a79b7;text-decoration:none}.media-block a.category:hover,.media-block a.category:focus{color:#3a79b7;text-decoration:underline}.indent-time .media-block .date--time{float:left;width:88px}.media-block a:hover h4{color:#3a79b7}.media-block a:hover .category{color:#808080}.media-block a:hover p{color:#000}.media-block.size-4 .category,.media-block.size-4 .label,.media-block.size-4 .date,.media-block.size-4 .date--relative,.media-block.size-4 .time{font-size:13px}.media-block.size-4 h4{font-size:14px}.media-block.size-4 h4 .ico{line-height:16.8px;height:16.8px}.media-block.size-4 p{font-size:13px}.media-block.horizontal.media-block--has-img .content{margin-left:38.5%;word-wrap:break-word}.author .media-block.horizontal.media-block--has-img .content,.col-xs-vertical .media-block.horizontal.media-block--has-img .content{margin-left:0}.media-block.horizontal .img-wrap{width:35%;float:left;margin-right:10px}.col-xs-vertical .media-block.horizontal .img-wrap{width:100%;margin-right:0}.media-pholder{padding-bottom:8px}.media-block-wrap{margin-bottom:16px}.media-block-wrap .media-block{border-bottom:1px dotted #e8eaec;margin-top:12px}.media-block-wrap .col-xs-12:nth-last-of-type(1)>.media-block{border-bottom:0}.foot{background-color:#3a79b7;margin-top:16px;padding-bottom:16px}.foot .copyright{font-size:13px;color:#ebebeb;float:right}.hdr{border-top:5px solid #3a79b7;border-bottom:5px solid #3a79b7;background-color:#ebebeb;min-height:60px}.hdr .container{padding:10px 0;height:60px;position:relative;text-align:center}.hdr .logo-link{height:40px}.hdr .navigationToggle{position:absolute;top:0;right:0;margin:16px;vertical-align:middle;color:#3a79b7;background-image:none;background-color:#ebebeb;border:0}.hdr .navigationToggle .ico{font-size:24px;line-height:24px;margin-right:0}.tealium-float{float:left}amp-sidebar{background-color:#fff;-webkit-box-shadow:0 0 15px #768492;box-shadow:0 0 15px #768492}amp-sidebar .navigationToggle{display:block;width:100%;margin:0;padding:8px;vertical-align:middle;color:#3a79b7;background-image:none;background-color:#e5e5e5;border:0;border-bottom:1px solid #bfbfbf;font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px}amp-sidebar .navigationToggle .ico{font-size:24px;line-height:24px;float:right;margin-left:8px;margin-right:0}amp-sidebar .navigationToggle span{display:block;float:right;margin-top:4px;text-transform:uppercase}amp-sidebar #navigation{clear:both;padding:0 8px}amp-sidebar #navigation ul.items .item{display:block}amp-sidebar #navigation ul.items .item .handler{display:block;padding:12px 10px;color:#333;background:#fff;border-top:1px solid #a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px}amp-sidebar #navigation ul.items li:first-child .handler{border-top:0}amp-sidebar #navigation .media ul.items li.item .handler{background:#fff;color:#333;border-top-color:#a1aab4;border-bottom-color:#a1aab4;border-bottom:0;padding:12px 10px}amp-sidebar #navigation .media ul.items li.item .handler .ico{color:#3a79b7;font-size:24px;line-height:24px}amp-sidebar #navigation .media ul.items li.item:first-of-type a{border:0}amp-sidebar #navigation ul.subitems{border-bottom:1px solid #a1aab4}amp-sidebar #navigation ul.subitems li.subitem{position:relative;padding:0;display:block}amp-sidebar #navigation ul.subitems li.subitem .handler{color:#333;padding-left:20px;border-top:1px solid #a1aab4;background:#fff}amp-sidebar #navigation ul.subitems li.subitem .handler:before{position:absolute;left:10px;top:8px;bottom:8px;content:"";display:block;width:1px;border-left:2px solid #bdc4ca}amp-sidebar #navigation ul.subitems li.subitem:first-of-type a{border:0}.foot-nav{clear:both;margin-bottom:16px}.foot-nav ul.items{clear:both;list-style-type:none;margin-left:-12px;margin-right:-12px;border-bottom:1px solid #639cdc}.foot-nav ul.items>li{border-top:1px solid #639cdc}.foot-nav ul.items>li:first-of-type{border-top:0}.foot-nav ul.items>li a,.foot-nav ul.items>li span.handler{text-align:left;position:relative;display:block;color:#a6d0f4;padding:12px 12px;margin:0;cursor:pointer;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px;text-transform:none;vertical-align:bottom}.foot-nav ul.items>li.socials .inner ul.follow{padding:8px 12px;float:none}.foot-nav ul.items>li.socials .inner ul.subitems li{border-top:none}.foot-nav ul.items>li.socials .inner li{background-color:transparent;padding:0}.foot-nav ul.items>li.socials .inner li:hover{background-color:transparent}.foot-nav ul.items>li.socials .inner li .btn{background-color:#fff;color:#768492;text-align:center;padding:0;float:left;margin-right:12px;margin-bottom:12px}.foot-nav ul.items>li.socials .inner li .btn .ico{font-size:inherit}.foot-nav ul.items>li.socials .inner li .btn .ico,.foot-nav ul.items>li.socials .inner li .btn .ico:before{color:#768492}.foot-nav ul.items>li.socials .inner li .btn:hover,.foot-nav ul.items>li.socials .inner li .btn:focus,.foot-nav ul.items>li.socials .inner li .btn:active{background-color:#768492;color:#ebebeb}.foot-nav ul.items>li.socials .inner li .btn:hover .ico,.foot-nav ul.items>li.socials .inner li .btn:hover .ico:before,.foot-nav ul.items>li.socials .inner li .btn:focus .ico,.foot-nav ul.items>li.socials .inner li .btn:focus .ico:before,.foot-nav ul.items>li.socials .inner li .btn:active .ico,.foot-nav ul.items>li.socials .inner li .btn:active .ico:before{color:#ebebeb}.foot-nav ul.items>li ul.subitems li{padding:8px 12px;border-top:1px solid #639cdc;background-color:#3a79b7}.foot-nav ul.items>li ul.subitems li a{color:#ebebeb;border-left:2px solid #639cdc;padding:4px 12px}.foot-nav ul.items>li ul.subitems li a:hover{color:#ebebeb}.foot-nav ul.items>li ul.follow li .btn{border-left:0}.back-to-top-nav{text-align:right}.back-to-top-nav.disabled{margin:16px 0 -15px 0;padding:8px 0;background:#f6f7f8;color:#222f3a}.back-to-top-nav.disabled .back-to-top-link{color:#222f3a}.back-to-top-nav.disabled .back-to-top-link:hover{color:#3a79b7}.back-to-top-nav.disabled .back-to-top-link .ico{margin-right:0;margin-left:5px}.js .back-to-top-nav a.back-to-top-link{display:block;z-index:20;padding:12px;position:fixed;bottom:12px;right:12px;background:#222f3a;color:#ebebeb;opacity:.8;filter:alpha(opacity=80);-webkit-transition-property:right;transition-property:right;-webkit-transition-duration:1s;transition-duration:1s}.js .back-to-top-nav a.back-to-top-link:hover{opacity:1;filter:alpha(opacity=100)}.js .back-to-top-nav a.back-to-top-link .ico{margin-right:0;width:16px;height:16px;line-height:16px}.js .back-to-top-nav a.back-to-top-link span.text{display:none}.js .back-to-top-nav a.back-to-top-link.not-used{right:-100%}@media (min-width: 320px){.js .back-to-top-nav a.back-to-top-link{display:none}}.backgrounder{background-color:#f6f7f8;padding:16px;margin-bottom:32px;border-radius:3px}.backgrounder .wsw p{font-size:14px}.backgrounder .wsw .caption{font-size:13px}.backgrounder .embedded-audio h5{font-size:18px}.can-ff .backgrounder .embedded-audio h5 .ico{font-size:42px;line-height:42px;width:42px;height:42px;margin-right:8px}.article .media-elem{padding-bottom:16px}.article .media-elem+p.caption{margin-top:-8px}.article .also-read{display:block;margin-bottom:32px}.article .also-read span{font-size:18px;color:#222f3a}.article .also-read+.also-read{margin-top:-24px}.article .category{color:#a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:16px;text-transform:uppercase;margin-bottom:16px}.article .category a,.article .category a:visited{color:#3a79b7}.article h1{margin-bottom:16px}.article .publishing-details{font-size:14px;padding-bottom:11.2px}.article .publishing-details .published{float:left;padding-right:1em;padding-bottom:.5em}.article .publishing-details .published .date{color:#a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.article .publishing-details .authors{padding-right:.6em}.article .publishing-details .authors ul li{float:left;list-style-type:none;display:block;margin-right:1em;padding-bottom:8px}.article .article-hdr{padding:16px 0}.article .article-hdr.article-hdr_asim{padding:0}.article .article-body{padding-bottom:32px}.lightbox-close{margin:15px;float:right;font-size:150%}.media-hdr{background:#222f3a;padding:16px 0;color:#ebebeb;margin-bottom:40px}.media-hdr .media-elem{padding-bottom:0}.media-hdr .caption{color:#ebebeb;margin-bottom:32px}.media-hdr:not(.photogallery) .intro{margin-top:24px}.widgets{margin-bottom:40px}
-</style><title>中国式现代化: 习连任后的中国向何处去？</title><link href=https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html rel=canonical><script type=application/ld+json>
-{"articleSection":"中国","headline":"中国式现代化: 习连任后的中国向何处去？","author":{"@type":"Person","name":"许波"},"datePublished":"2022-10-19","dateModified":"2022-10-19 20:14:18Z","publisher":{"logo":{"width":150,"height":60,"@type":"ImageObject","url":"https://www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg"},"@type":"Organization","url":"https://www.voachinese.com","sameAs":["https://www.facebook.com/voachinese","https://twitter.com/voachinese","https://www.youtube.com/voachinese","https://www.instagram.com/voachinese/","/rssfeeds","/podcasts","/subscribe.html"],"name":"美国之音"},"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg"}}
-</script><meta content=2 name=runtime-type></head><body class="can-ff amp-pg" dir=ltr>
-<div class=tealium-float>
-<amp-iframe class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" frameborder=0 height=1 i-amphtml-layout=fixed layout=fixed sandbox="allow-scripts allow-same-origin" src="https://livetracker.voa.pangea-cms.com/Tealium.aspx?pangeasiteid=412&amp;canonical_url=https%3A%2F%2Fwww.voachinese.com%2Fa%2Fxi-jinping-mutual-prosperity-20221019%2F6796624.html&amp;article_uid=6796624&amp;headline=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;byline=%E8%AE%B8%E6%B3%A2&amp;pub_hour=17&amp;pub_day=19&amp;pub_month=10&amp;pub_year=2022&amp;domain=article&amp;content_type=article&amp;entity=VOA&amp;language=Mandarin&amp;language_service=VOA%20Mandarin&amp;platform=googleAMP&amp;platform_short=GA&amp;property_id=521&amp;short_language_service=MAN&amp;section=%E4%B8%AD%E5%9B%BD&amp;page_name=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;page_title=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;page_type=article&amp;subcontent_type=article&amp;enviro_type=prod&amp;srvr=www.voachinese.com&amp;chn=%2Fa%2F" style=width:1px;height:1px; width=1>
-<amp-img class="i-amphtml-layout-fill i-amphtml-layout-size-defined" height=1 i-amphtml-layout=fill layout=fill placeholder src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/spacer.gif width=1></amp-img>
-</amp-iframe>
-</div>
-<amp-pixel class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=6796624&amp;SiteId=412&amp;r=152880003&amp;it=0&amp;pd=20221019171239" style=width:1px;height:1px;></amp-pixel>
-<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=chartbeat>
-<script type=application/json>
-{
-"vars":
-{
-"uid": "62557",
-"domain": "voa.china",
-"sections": "voachinese.com",
-"authors": "许波"
-}
-}
-</script>
-</amp-analytics>
-<div id=page>
-<header class=hdr>
-<div class=container>
-<a class=logo-link href=https://www.voachinese.com/ target=_top>
-<amp-img alt=logo class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=40 i-amphtml-layout=fixed layout=fixed src=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg srcset="https://www-voachinese-com.cdn.ampproject.org/ii/w150/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 150w, https://www-voachinese-com.cdn.ampproject.org/ii/w330/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 330w, https://www-voachinese-com.cdn.ampproject.org/ii/w470/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 470w" style=width:150px;height:40px; width=150>
-</amp-img>
-<noscript></noscript>
-</a>
-<button class=navigationToggle on=tap:primaryNavigation.toggle tabindex=0><span class="ico ico-menu"></span></button>
-</div>
-</header>
-<main id=content role=main>
-<article class=article>
-<header class=article-hdr>
-<div class=container>
-<div class=category>
-<a href=https://www.voachinese.com/z/1757 target=_top>中国</a>
-</div>
-<h1>中国式现代化: 习连任后的中国向何处去？</h1>
-<div class=publishing-details>
-<div class=published>
-<span class=date>
-<time datetime="2022-10-19 17:12:39Z">
-2022年10月19日 17:12
-</time>
-</span>
-</div>
-<div class=authors>
-<ul>
-<li>
-<div title=许波>
-<a href=https://www.voachinese.com/author/%E8%AE%B8%E6%B3%A2/gopoy target=_top>许波</a>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="media-pholder image">
-<div class=media-elem>
-<amp-img alt="中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=608 i-amphtml-layout=responsive i-amphtml-ssr layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg srcset="https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w640_h360_s.jpg 640w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w320_h180_s.jpg 320w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg 1080w" width=1080><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2963%;></i-amphtml-sizer>
-<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAgEAABAwIHAAAAAAAAAAAAAAABAAMRAgYSEzNhcZLh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQITAyFR/9oADAMBAAIRAxEAPwCVm536GKqMqZBg49uFObjfnTPfxERVx4U35FtM/9k=&#39;%3E%3C/image%3E%3C/svg%3E"><img alt="中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)" class="i-amphtml-fill-content i-amphtml-replaced-content" decoding=async src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg srcset="https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w640_h360_s.jpg 640w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w320_h180_s.jpg 320w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg 1080w"></amp-img>
-</div>
-<p class=caption>中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)</p>
-</div>
-</div>
-</header>
-<div class=article-body>
-<div class="container article-share">
-<div class=links>
-<p class=link-comments>
-<a href=https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html/#ext-comments target=_top>
-<span class="ico ico-comment"></span>
-<span class=btn__text>评论</span>
-</a>
-</p>
-</div>
-</div>
-<div class="container wsw">
-<p>习近平在中共二十大政治报告中说，从现在起，中共的中心任务就是“以中国式现代化全面推进中华民族的伟大复兴。”习近平进一步阐明，中国式现代化的本质要求是：坚持中国共产党领导，坚持中共特色的社会主义，发展全过程人民民主，实现全体人民共同富裕等等。有分析说，这是一个大杂烩概念。</p>
-<p>西方媒体注意到，中国式现代化是习近平在二十大提出的唯一一个新名词，中共官媒对此予以密集解读。但是新加坡管理大学法学院教授高树超认为，概念虽新，却并无多大的意义，王沪宁似有江郎才尽的感觉。</p>
-<p>他说：“这个概念同以前的一些概念，比如江泽民的三个代表，胡锦涛的科学发展观，乃至和谐社会相比，可以说是毫无亮点。总的来看，习自从上台之后，他提的很多口号，都有同样的特点 …… 这个中国式现代化实际上是一个大杂烩概念，就是说什么都强调中国独特的逻辑。有人说世界上有两种逻辑，一种是逻辑，一种是中国逻辑。”</p>
-<p>二十大前，《人民日报》以整版篇幅阐述中国式现代化，其中说到，中国式现代化摒弃了西方现代化所遵循的生产力发展单纯服从于资本的逻辑，摒弃了西方以资本为中心的现代化、两极分化的现代化、物质主义膨胀的现代化、对外扩张掠夺的现代化老路，实现了对西方现代化理论的超越。</p>
-<p><strong>习近平要在现代化问题上与西方分道扬镳</strong></p>
-<p>美国彭博新闻社专门就习近平的中国式现代化采访了世界各地的中国问题专家，其中欧亚集团的中国分析师尼尔·托马斯认为，习近平向美国和西方世界传递的讯息是，中国要在现代化问题上另起炉灶。</p>
-<p>他说：“他给‘中国式现代化’增加了一个新东西，这是一个强烈的信号，即习近平打算在富国强兵的问题上走他自己的路，而不是走西方的路。”</p>
-<p>1980年代中国改革开放早期鼓动中国融入“蓝色文明”的宣教片《河殇》的主笔苏晓康目前流亡美国，他对中国现代化道路的问题有更深层次的解读。</p>
-<p>他说“习近平终于托出一盘‘现代化’大菜，谁曾想竟然是馊的，建构于狭隘民族主义的‘复兴’怎可能伟大？因为其价值内核是雪耻、仇恨，这一条思想史脉络，将习近平与1976年前的毛泽东之‘东风压倒西风’路线勾联起来，所以他必定要反邓和否定改革。”<br>
-中国民族主义现代化道路是一条危险之路</p>
-<p>加拿大女王大学历史系兼职助理教授赖小刚进一步指出，历史上实现现代化的道路不外有两条，一条是以英美为代表的西方主流现代化道路，另一条是德日为代表的铁血法西斯和军国主义之路。</p>
-<p>赖教授说，中国式现代化道路抛开普世价值，摒弃世界现代化主流，完全以民族主义为基础，势必走上一条非常危险的道路。</p>
-<p>他说：“现在提中国式现代化，实际上是把中国引上了一个纳粹化，至少来说是一条军国主义化的道路，这是一个非常危险的方向。”</p>
-<p>中国式现代化没有改革开放的位置。</p>
-<p>既然中国式现代化与世界主流现代化道路划清了界限，邓江胡时代与世界接轨为目的的改革开放路线的命运就自然引发外界的普遍关心和担心。习近平在将近两个小时的政治报告中对于过去40年中国人耳熟能详的改革开放只字未提，更加重了人们的疑虑。</p>
-<p>新加坡管理大学的中国问题专家高树超教授说，习近平口头表述中未提改革开放，但72页的政治报告文字版本中还是有几处提到了这个口号，只是改革开放内容和份量已经同邓时代不可同日而语了。</p>
-<p>“你比如说，开放这个问题，对谁开放，以前我们说改革开放就是中国对西方发达国家，特别是欧美进行开放。但是现在如果大家看二十大报告当中提到的开放成果，提到的却是一带一路，对一带一路国家开放，对俄罗斯开放等等。”</p>
-<p>高教授进一步指出，改革开放是邓小平时代的旗帜，雄心勃勃开创了自己新时代的习近平自然不愿意沿用。他预计，邓江胡时代的改革开放将不可避免地成为一个历史名词。中国式现代化的核心是“共同富裕”。</p>
-<p>习近平新时代的旗帜和纲领是共同富裕。《人民日报》的解读是：“中国式现代化坚持以人民为中心的发展思想，把增进人民福祉、促进人的全面发展、朝着共同富裕方向稳步前进作为经济发展的出发点和落脚点，扎实推动共同富裕，不断增强人民群众获得感、幸福感、安全感。”</p>
-<p>英国西敏集团中国市场首席经济学家刘佩倩(音译)接受彭博新闻社采访时说说：“共同富裕仍然被高度强调，这意味着收入和财富的再分配仍然是(中共的)中期实现目标。”</p>
-<p>共同富裕是作为习近平新时代的一面旗帜和纲领提出来的,去年刚出笼时立刻形成一股运动，伴随第三次分配方案等具体措施，大有雷厉风行之势。</p>
-<p>但是很明显，习近平的纲领性国策引发了民营资本的恐慌，甚至在党内也出现争议。习近平去年年中左右推出共同富裕之后，从去年下半年到今年上半年一度沉寂了一段时间，直到最近几个月习近平才又重新提起，并再度火热起来。</p>
-<p><strong>习近平：共同富裕急不得，也等不得</strong></p>
-<p>高树超教授说：“先把共同富裕的问题搁置一下,利用这段时间先把政治问题搞定。搞定之后大家可以看到，为什么最近几个月他又重提这个问题了？表明他已经能够完全掌控局面，已经能够压服党内不同意见以及党外大资本的恐慌，他就可以重提共同富裕这个问题了。”</p>
-<p>以民族主义和共同富裕为基础的中国式现代化目标已定，习近平获得第三个任期后中国向何处去的问题也就清楚了。加拿大女王大学的赖小刚教授预测，均贫富，或者劫富济贫大概是习近平连任之后的政治经济路线，因为这条路线是缓和社会矛盾，巩固共产党和习近平统治的立竿见影的办法。</p>
-<p>赖教授说：“当然，杀鸡取卵可能不是一个好的办法，但习近平已经顾不了那么多了。”</p>
-</div>
-</div>
-</article>
-</main>
-<section class=widgets role=complementary>
-<div class=container>
-<div class=media-block-wrap>
-<h3 class=section-head>相关内容</h3>
-<ul class=row>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/china-economy-party-congress-covid-20221017/6793664.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/095c0000-0a00-0242-cf11-08da9698f4a5_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/095c0000-0a00-0242-cf11-08da9698f4a5_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAcEAACAgMBAQAAAAAAAAAAAAABAgARBAUhA0L/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhL/2gAMAwEAAhEDEQA/AJMLcZKqSjutV9XKTsPZyWLGz09iIdMsok//2Q==&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
-</div>
-</a>
-<div class=content>
-<a href=https://www.voachinese.com/a/china-economy-party-congress-covid-20221017/6793664.html target=_top>
-<h4>
-<span class=title>
-分析：如何解读习近平二十大报告释放的经济信号？
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/us-national-security-strategy-2022-10-13/6788810.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/09690000-0a00-0242-e508-08da70d6b726_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/09690000-0a00-0242-e508-08da70d6b726_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAIhAAAgIBAQkAAAAAAAAAAAAAAQIAAwURBBITISMxUWHS/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAMAwEAAhEDEQA/AMNszN/HS0qpV7Fr3fAHfn7lLnbK1CKb9FGg6ifERGRJBtP/2Q==&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
-</div>
-</a>
-<div class=content>
-<a href=https://www.voachinese.com/a/us-national-security-strategy-2022-10-13/6788810.html target=_top>
-<h4>
-<span class=title>
-美国出台国家安全战略，摸索应对地缘政治和跨国挑战
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/deng-yuwen-on-ccp-20221003/6773744.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/907B7AAD-8BE6-474F-B796-E437240E7B72_cx0_cy2_cw0_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/907B7AAD-8BE6-474F-B796-E437240E7B72_cx0_cy2_cw0_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAHxAAAQQBBQEAAAAAAAAAAAAAAgABAxEhBBITUZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQEBAAIDAAAAAAAAAAAAAAABAwACERIh/9oADAMBAAIRAxEAPwDNaUQmEikF3K6w9N4oc7tjZG9dxj8REcXsmV6z0IzQ9ec//9k=&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
-</div>
-</a>
-<div class=content>
-<a href=https://www.voachinese.com/a/deng-yuwen-on-ccp-20221003/6773744.html target=_top>
-<h4>
-<span class=title>
-聿文视界: 中南海游戏规则早已改变，但政变遥传者思维仍停留在以前
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</section>
-<section class=widgets role=complementary>
-<div class=container>
-<div class=media-block-wrap>
-<h3 class=section-head>您可能感兴趣的内容</h3>
-<ul class=row>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/china-reopens-world-on-high-alert-20230108/6909461.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/03370000-0aff-0242-4169-08dae9de35e2_cx0_cy6_cw0_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/03370000-0aff-0242-4169-08dae9de35e2_cx0_cy6_cw0_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>新冠疫情</span>
-<a href=https://www.voachinese.com/a/china-reopens-world-on-high-alert-20230108/6909461.html target=_top>
-<h4>
-<span class=title>
-中国重开国门之际，多国对其实施限制 专家：这怪不得别人
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/travelers-rush-to-take-advantage-of-china-reopening-20230108/6909448.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/03370000-0aff-0242-4f1a-08daf19bef74_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/03370000-0aff-0242-4f1a-08daf19bef74_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>中国</span>
-<a href=https://www.voachinese.com/a/travelers-rush-to-take-advantage-of-china-reopening-20230108/6909448.html target=_top>
-<h4>
-<span class=title>
-中国取消疫情边控及入境隔离 中港通关首先受益 周边邻国积极跟进
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/protesters-clash-with-police-at-antigen-kit-maker-factory-in-china-20230108/6909330.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/09410000-0a00-0242-180e-08daf1884941_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/09410000-0a00-0242-180e-08daf1884941_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>中国</span>
-<a href=https://www.voachinese.com/a/protesters-clash-with-police-at-antigen-kit-maker-factory-in-china-20230108/6909330.html target=_top>
-<h4>
-<span class=title>
-重庆生产新冠核酸检测试剂厂工人抗议欠薪及解雇与警察爆发冲突
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/china-suspends-social-media-accounts-of-covid-policy-critics-20230108/6909172.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/E05E09ED-1F4F-4ABF-BBF6-BDF6EB1ECB04_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/E05E09ED-1F4F-4ABF-BBF6-BDF6EB1ECB04_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>中国</span>
-<a href=https://www.voachinese.com/a/china-suspends-social-media-accounts-of-covid-policy-critics-20230108/6909172.html target=_top>
-<h4>
-<span class=title>
-中国封禁批评防疫政策的社交媒体账户
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/germany-belgium-luxembourg-discourage-travel-to-covid-hit-china-20230108/6909132.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/09410000-0a00-0242-caba-08daef1971d4_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/09410000-0a00-0242-caba-08daef1971d4_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>中国</span>
-<a href=https://www.voachinese.com/a/germany-belgium-luxembourg-discourage-travel-to-covid-hit-china-20230108/6909132.html target=_top>
-<h4>
-<span class=title>
-德国、比利时和卢森堡劝阻本国国民非必要不要前往中国旅行
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/the-pla-navy-follows-the-maritime-silk-road-to-the-third-island-chain-20230107/6908707.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/9BF4122D-49DE-4E7B-9CB1-D3063CCC251C_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/9BF4122D-49DE-4E7B-9CB1-D3063CCC251C_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>中国</span>
-<a href=https://www.voachinese.com/a/the-pla-navy-follows-the-maritime-silk-road-to-the-third-island-chain-20230107/6908707.html target=_top>
-<h4>
-<span class=title>
-循海上丝绸之路 中国海军能力投向第三岛链
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</section>
-<footer class=foot>
-<div class=container>
-<div class=foot-nav id=foot-nav>
-<div class=menu>
-<ul class=items>
-<li class="socials block-socials">
-<span class=handler id=socials-handler>关注我们</span>
-<div class=inner>
-<ul class="subitems follow">
-<li>
-<a class="btn btn--rounded js-social-btn btn-facebook" data-analytics-text=follow_on_facebook href=https://www.facebook.com/voachinese rel=noopener target=_blank title=在脸书关注我们>
-<span class="ico ico-facebook-alt ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-twitter" data-analytics-text=follow_on_twitter href=https://twitter.com/voachinese rel=noopener target=_blank title=在推特上关注我们>
-<span class="ico ico-twitter ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-youtube" data-analytics-text=follow_on_youtube href=https://www.youtube.com/voachinese rel=noopener target=_blank title=在YouTube上关注我们>
-<span class="ico ico-youtube ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-instagram" data-analytics-text=follow_on_instagram href=https://www.instagram.com/voachinese/ rel=noopener target=_blank title=在Instagram上关注我们>
-<span class="ico ico-instagram ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-g-news" data-analytics-text=follow_on_google_news href=http://bit.ly/VOAgooglenews rel=noopener target=_blank title="欢迎通过&#34;谷歌新闻&#34;关注@美国之音中文网 - VOA Mandarin">
-<span class="ico ico-google-news ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-rss" data-analytics-text=follow_on_rss href=https://www.voachinese.com/rssfeeds target=_top title=聚合新闻>
-<span class="ico ico-rss ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-podcast" data-analytics-text=follow_on_podcast href=https://www.voachinese.com/podcasts target=_top title=播客>
-<span class="ico ico-podcast ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-email" data-analytics-text=follow_on_subscribe href=https://www.voachinese.com/subscribe.html target=_top title=订阅电邮新闻、英语学习教材>
-<span class="ico ico-email ico--rounded"></span>
-</a>
-</li>
-</ul>
-</div>
-</li>
-<li class="block-primary item">
-<span class=handler>网上服务</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=http://bit.ly/dianyou target=_top>订阅电邮新闻/英语教材</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5897.html target=_top>美国之音应用程序简介</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/program-schedule.html target=_top>电视广播节目表和频率表</a>
-</li>
-</ul>
-</div>
-</li>
-<li class="block-primary item">
-<span class=handler>卫星信息</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5985.html target=_top>通过卫星收看VOA卫视</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5869.html target=_top>如何收听VOA短波广播</a>
-</li>
-</ul>
-</div>
-</li>
-<li class="block-primary item">
-<span class=handler>其他信息</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/3862.html target=_top>关于美国之音</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/3848.html target=_top>联系我们</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/7969.html target=_top>VOA+</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5946.html target=_top>美国之音宪章</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/3874.html target=_top>条款及私隐政策</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.usagm.gov/ target=_top>美国全球媒体总署</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://editorials.voa.gov/Chinese.html target=_top>社论</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voacantonese.com/ target=_top>美國之音粵語網</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voanews.com/ target=_top>VOA English</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voatibetan.com/ target=_top>བོད་ཡིག</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.insidevoa.com/ target=_top>Media Relations</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voanews.com/section-508 target=_top>Accessibility</a>
-</li>
-<li class=subitem>
-<a class=handler href=http://www.rfa.org/ target=_top>自由亚洲网站</a>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<p class=copyright></p>
-</div>
-</footer>
-</div>
-<amp-sidebar class=i-amphtml-layout-nodisplay hidden=hidden i-amphtml-layout=nodisplay id=primaryNavigation layout=nodisplay side=right>
-<button class=navigationToggle on=tap:primaryNavigation.close tabindex=0><span class="ico ico-close"></span> <span>关闭</span></button>
-<div class=navigation id=navigation>
-<div class=media>
-<ul class=items>
-<li class=item id=menu-item-listen>
-<a class="handler live" href=https://www.voachinese.com/Navigation/LiveAudioNJS target=_top>
-<span class="ico ico-audio-rounded"></span>
-<span class=text>广播音频</span>
-<span class=live></span>
-</a>
-</li>
-<li class=item id=menu-item-watch>
-<a class=handler href=https://www.voachinese.com/Navigation/LiveVideoNJS target=_top>
-<span class="ico ico-play-rounded"></span>
-<span class=text>电视节目</span>
-</a>
-</li>
-</ul>
-</div>
-<div class=menu>
-<ul class=items>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/6188.html target=_top>主页</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/6317.html target=_top>美国</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/China target=_top>中国</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/Taiwan target=_top>台湾</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/7681.html target=_top>港澳</a>
-</li>
-<li class=" item">
-<span class=handler>国际</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/6143.html target=_top>最新国际新闻</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1745 target=_top>亚太</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1759 target=_top>中东</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1753 target=_top>欧洲</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1741 target=_top>非洲</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1742 target=_top>美洲</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/5374 target=_top>全球议题</a>
-</li>
-</ul>
-</div>
-</li>
-<li class=" item">
-<span class=handler>分类新闻</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1748 target=_top>经济·金融·贸易</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/5120 target=_top>人权·法律·宗教</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/5679 target=_top>科教·文娱·体健</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1772 target=_top>军事</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/2191 target=_top>劳工</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1752 target=_top>环境</a>
-</li>
-</ul>
-</div>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/5625.html target=_top>美中关系</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/8549.html target=_top>2022年终报道</a>
-</li>
-<li class=" item">
-<span class=handler>热点专题</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5625.html target=_top>美中关系</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/3874 target=_top>年终报道</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/UkraineCrisis target=_top>乌克兰局势</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/6107.html target=_top>国会报道</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/PressFreedom target=_top>新闻自由</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/7646.html target=_top>新冠病毒疫情</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/6097.html target=_top>台海两岸关系</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5626.html target=_top>南中国海争端</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/Refugees target=_top>难民问题</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5966.html target=_top>朝鲜半岛局势</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/2393 target=_top>新疆西藏问题</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/6138.html target=_top>美国之音专访</a>
-</li>
-</ul>
-</div>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/Factcheck target=_top>揭谎频道</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/3854.html target=_top>VOA卫视</a>
-</li>
-<li class=" item">
-<span class=handler>音频</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/3637 target=_top>时事大家谈</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1738 target=_top>新闻及采访音频</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/3514 target=_top>学英语音频</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/2370 target=_top>下午5-6点广播(英语教学)</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/2372 target=_top>晚上6-7点广播(时事经纬)</a>
-</li>
-</ul>
-</div>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/4889.html target=_top>上网办法</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/program-schedule.html target=_top>节目表</a>
-</li>
-<li class="last-menu-item item">
-<a class=handler href=https://www.voachinese.com/live/video/ target=_top>直播</a>
-</li>
-</ul>
-</div>
-</div>
-</amp-sidebar>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="robots" content="All" />
+	<title>“充电”又“蓄能”，文登让党员教育走“新”更走“心”-威海新闻网,威海日报,威海晚报,威海短视频</title>
+    <meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0"/>
+	<meta name="Keywords" content=",威海,威海新闻网,威海日报社，威海新闻,威海社会,威海民生，威海区域,蓝色威海,威海图片库,威海天气,威海教育,威海房产,威海人才,威海旅游,威海企业,威海金融,威海汽车,威海商圈,威海供求,威海便民,威海日报,威海晚报" />
+	<meta name="Description" content="“充电”又“蓄能”，文登让党员教育走“新”更走“心”" />
+    <link rel="stylesheet" href="../../../data/14664.files/reset3.css" />
+	<link rel="stylesheet" href="../../../data/14664.files/page10.css" />
 
-</body></html>
+	<SCRIPT type=text/javascript src="https://www.whnews.cn/wh_public/xuxu/shipin/jquery.js"></SCRIPT><!-- 视频-->
+    <script src="https://www.whnews.cn/wh_public/xuxu/shipin/AC_RunActiveContent.js" type="text/javascript"></script>
+    
+	<!--视频调用-->
+
+	<style>
+	  body{background: #fff;}
+      .sec_l5{width:860px; height:100%; overflow:hidden; line-height:28px; font-size:36px; }
+      .sec_l5 p{  line-height:36px;}
+      .sec_l5_l{width:395px; height:285px;}/*控制内文页左上角预留视频空白位置区*/
+      .cleara {clear: both; font-size: 1px;height: 0;line-height: 0; margin-top: 0 !important;visibility: hidden;}
+      .left { float:left;}
+      .right { float:right;}
+    </style>
+</head>
+<body>
+	<!--  ###################### 头部  ###################### -->
+	<div id="header">
+		<div class="header-wrap w1200">
+          			<a href="https://www.whnews.cn/" target="_blank">新闻网首页</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_13444.htm" target="_blank">要闻</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_27446.htm" target="_blank">民生</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_14126.htm" target="_blank">社会</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_32485.htm" target="_blank">视频</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_31364.htm" target="_blank">独家</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_32484.htm" target="_blank">精致城市</a>
+			<span>|</span>
+			<a href="http://photo.whnews.cn/" target="_blank">图库</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_32464.htm" target="_blank">对话</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_31524.htm" target="_blank">威海视界</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_27589.htm" target="_blank">名企商会</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_27591.htm" target="_blank">教育</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_13744.htm" target="_blank">房产</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_13747.htm" target="_blank">汽车</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_27586.htm" target="_blank">文旅</a>
+			<span>|</span>
+			<a href="https://www.whnews.cn/news/node_20771.htm" target="_blank">康养</a>
+
+		</div>
+	</div>
+	<!--  ###################### 头部 end   ######################-->
+
+
+	<!-- w1200广告1-顶部通栏 -->
+		<!--<div class="w1200 mt15">
+    <a href="">
+        <img src="http://www.whnews.cn/wh_pb/20190312_netpx_tonglan.jpg" width="1200px" height="60px;" alt=""  atremote="1">
+    </a>   
+</div>-->
+	<!-- w1200广告 end -->
+
+
+	<!-- logo + 路由 -->
+	<div id="logo-box" class="w1200 mt10 clear">
+		<a id="logo" class="fl" href="">
+			<img style="width:106px;" src="https://www.whnews.cn/wh_public/xuxu/19home/logo.jpg" alt="" />
+		</a>
+		<div class="route fl">
+			<a href="https://www.whnews.cn" target="_blank">首页</a> >
+<a href="../../../node_14067.htm"  target="_blank"  class="">文登区</a>
+		</div>
+	</div>
+	<!-- logo + 路由 end -->
+
+
+	<!-- 标题 + 文章信息 + 分享 -->
+	<div class="w1200 mt10" style=" margin-top:27px;">
+		<h1 class="page-title" style="text-align:center;">
+		  “充电”又“蓄能”，文登让党员教育走“新”更走“心”
+		</h1>
+  <div class="page-msg clear">
+			<div class="fl">
+2023-01-05
+				<span>编辑：
+				威海新闻网·Hi威海新闻客户端
+				</span>            </div>
+	  <div class="share fr">
+				<div class="bdsharebuttonbox cir-btn">
+				    <a href="#" class="bds_qzone icon5" data-cmd="qzone" title="分享到QQ空间"></a>
+				    <a href="#" class="bds_tsina icon4" data-cmd="tsina" title="分享到新浪微博"></a>
+				    <a href="#" class="bds_weixin icon3" data-cmd="weixin" title="分享到微信"></a>
+				    <a href="#" class="bds_more icon6" data-cmd="more"></a>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<!-- 标题 + 文章信息 + 分享 end -->
+
+	
+	<!--   ######################  详情  ###################### -->
+	<div id="detail" class="w1200 clear">
+
+		<!-- ----------  详情 左侧 ----------- -->
+		<div class="detail-left fl">
+			<!-- w865广告  -->
+			<div><!--<div class="ad-w865">-->
+				<!--<a href="">
+	<img src="http://www.whnews.cn/wh_pb/20190312_netpx_tonglan.jpg" width="865px" height="60px;" alt=""  atremote="1">
+</a>-->
+			</div>
+			<!-- end w865广告  -->
+
+			<!-- 内容正文 -->
+			<div id="content">
+				<div class="sec_l5 " style="font-size:18px;">
+
+					<!-- ########### 视频调用 ########### -->
+					<div style=" text-align:center;">
+                <!-- 视频  video_in名字唯一 -->
+                <input type="hidden" value="" id="video_in" />                    <img style="display:none" src="../../../data/20230105/20230105095757200.jpg" border="0" id="video_img">                    
+                <script src="../../../../wh_public/xuxu/shipin/vodwin.js" type="text/javascript"></script>
+				  <!-- vodwin.js 新视频调用-->
+					</div>
+					<!-- ########### end 视频调用 ########### -->                    
+                    
+                    
+                  <div>
+                    <!--enpproperty <articleid>-15531</articleid><date>2023-01-05 10:55:00.0</date><author></author><title>“充电”又“蓄能”，文登让党员教育走“新”更走“心”</title><keyword></keyword><subtitle></subtitle><introtitle></introtitle><siteid>2</siteid><nodeid>14067</nodeid><nodename>文登区</nodename><nodesearchname></nodesearchname><picurl>http://www.whnews.cn/news/data/https://hi.hiweihai.net/uploadfile/2023/0105/20230105095757200.jpg</picurl>/enpproperty--><!--enpcontent--><!--enpcontent-->　　近年来，文登区不断创新教育培训形式，丰富教育培训内容，让党员教育培训“创新”又“走心”，切实提高教育培训实效，为广大党员“充电蓄能”。<br />
+<br />
+<div style="text-align: center;"><img  atremote="1" alt="" src="https://hi.hiweihai.net/uploadfile/2023/0105/20230105095757200.jpg" style="width: 1080px; height: 810px;" /></div>
+<div><em style="display: inline-block;width:1em;height:24px;"></em></div>
+<div>　　<span style="color:#000080;"><strong>组织规范化，培训有“力”更有“效”。</strong></span>每年分级研究制定年度党员教育培训计划，就班次设置、培训内容、培训对象等作出具体安排，确保党员教育培训规范、有序开展。开展党员教育培训需求问卷调查，从培训内容、培训形式、培训时间、培训时长等方面，摸清党员实际需求，针对性制定培训方案，坚持按需施教、分类施教，避免“一锅煮”“大杂烩”，提高培训质效。结合“三会一课”、主题党日等组织生活，通过“我来讲党课”“灯塔大课堂”等活动形式，让党员教育培训融入日常、做在经常；结合重要时间节点，组织开展专题党课集中学习活动，组建红色宣讲团，深入各镇村开展党史宣讲，让党员教育培训入脑入心、走深走实。</div>
+<div><em style="display: inline-block;width:1em;height:24px;"></em></div>
+<div>　　<span style="color:#000080;"><strong>课堂多样化，培训有“料”更有“味”。</strong></span>围绕党员教育培训任务，精心设计培训内容，推动党员教育培训走深走实。用实“书记课堂”，由党组织书记带头上讲台，发挥“头雁效应”，紧密结合自身实际、身边案例、先进典型事迹，为党员讲好“第一课”。用好“专家课堂”，邀请党校教师结合党史学习教育进行授课，开展党性教育和理想信念教育，讲好“理论必修课”；邀请乡村振兴首席专家，结合“一村一品”特色村、漫画村等本地特色案例讲授乡村振兴新思路，上好“能力提升课”。用活“榜样课堂”，突出典型带动作用，通过本地典型、身边事例，讲出“地方味道”，使先进典型事迹成为党员教育培训的鲜活素材。</div>
+<div><em style="display: inline-block;width:1em;height:24px;"></em></div>
+<div>　　<span style="color:#000080;"><strong>形式多元化，培训有“型”更有“范”。</strong></span>充分发挥党性教育基地、产业扶贫基地、农业产业园等现场教学点作用，组织党员到红色印迹、主题场馆、生产一线、田间地头开展现场教学，使“眼见”与“耳听”相结合，让教育培训更立体、更生动。创新开展“青年党员讲党课”“老党员·忆初心”等特色活动，组织党员主动“上讲台”，变“被动听”为“主动讲”，以讲促学、以讲促效。在“网上党校”、微信公众号以及电视频道开设“我来讲党课”专栏，展播优秀党课，方便党员随时随地学、反复深入学，同时方便流动党员、未能按时参加学习的党员通过线上课堂开展自学，扩大教育培训覆盖面。（来源：文登发布）</div>
+<div style="text-align: right;">
+<div><span style="font-size:14px;">总编辑：殷洪军</span></div>
+<div><span style="font-size:14px;">　　值班总编：孙<em style="display: inline-block;width:1em;height:24px;"></em> <em style="display: inline-block;width:1em;height:24px;"></em> 锋</span></div>
+<div><span style="font-size:14px;">　　复审：颜燕军</span></div>
+<div><span style="font-size:14px;">　　编辑：于雨晴</span></div>
+</div>
+<br />
+<!--/enpcontent--><!--/enpcontent-->
+                  </div>
+			
+			  </div>
+		  </div>
+			<!-- 内容正文 end -->
+
+			<!-- 推荐阅读 -->
+			<div class="rec-read">
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+				<div class="rec-read-header clear">
+					<h2 class="fl">推荐阅读</h2>
+				  <a class="more fr" href="https://www.whnews.cn/news/node_13444.htm" target="_blank" atremote="1">更多</a>
+				</div>
+				<div class="rec-read-list">
+<!-- 调用首页幻灯处 -->
+				  <ul><li><a href="http://www.whnews.cn/news/node/2023-01/06/content_7258731.htm" target="_blank" class="clear" atremote="1">                <img src="http://www.whnews.cn/news/data/attachement/jpg/site2/20230106/f4b7e26f55cf2521b8e423.jpg" border="0" class="fl" atremote="1" >		<div class="fl">			<h3>市委经济工作会议举行 坚定信心 担当作为 凝心聚力 埋头苦干 奋力推动高质量发展迈上新台阶</h3>			<div class="rec-read-msg">				<span>2023-01-06</span>			</div>		</div></a>	</li><li><a href="http://www.whnews.cn/news/node/2023-01/07/content_7258967.htm" target="_blank" class="clear" atremote="1">                <img src="http://www.whnews.cn/news/data/attachement/jpg/site2/20230107/e454e89dce8725237b285e.jpg" border="0" class="fl" atremote="1" >		<div class="fl">			<h3>全域精致·共富共美，为威海点赞！</h3>			<div class="rec-read-msg">				<span>2023-01-07</span>			</div>		</div></a>	</li><li><a href="http://www.whnews.cn/news/node/2023-01/06/content_7258730.htm" target="_blank" class="clear" atremote="1">                <img src="http://www.whnews.cn/news/data/attachement/jpg/site2/20230106/f4b7e26f55cf2521b4c206.jpg" border="0" class="fl" atremote="1" >		<div class="fl">			<h3>请您为家乡代言，为威海点赞！</h3>			<div class="rec-read-msg">				<span>2023-01-06</span>			</div>		</div></a>	</li></ul>
+
+
+				</div>
+	
+			</div>
+			<!-- 推荐阅读 end -->
+
+		</div>
+		<!-- ----------- 详情 左侧 end ----------- -->
+
+		<!-- ----------  右侧公共 ------------ -->
+		<div class="fr">
+			<!--  广告位3   -->
+			<!--
+<div>
+    <a href="#" target="_blank"><img src="http://www.whnews.cn/wh_pb/20190312_netpx_tonglan.jpg" width="300px" height="250px;" alt=""  atremote="1" ></a>			
+</div>
+<div class="mt20" ></div>
+-->
+			<!-- end  广告位3   -->
+            
+  		    <!-- ********************************* -- 今日热点 -- ********************************* -->
+			<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<style>
+.today-hot{
+	/*margin-top: 30px;*/
+}
+.today-hot .clear{
+	height: 40px;
+    border-bottom: 1px solid #e7e7e7;
+}
+.today-hot h2{
+    width: 115px;
+    font-size: 22px;
+    color: #0259ab;
+    line-height: 40px;
+    text-align: center;
+    border-bottom: 1px solid #004079;
+}
+.today-hot img{
+	width: 300px;
+}
+.today-hot li{
+	padding-top: 20px;
+}
+.today-hot-title2{
+	width:300px; text-align:center;
+	margin-top: 5px;
+	font-size: 14px;
+	color: #333;
+}
+
+</style>
+
+ 		    <div class="today-hot">
+				<div class="clear">
+				  <h2 class="fl" >今日热点</h2>
+					<!--<a class="more fr" href="">更多</a>-->
+				</div>
+<!--幻灯 3条-->
+<ul><a href="http://www.whnews.cn/news/node/2023-01/06/content_7258731.htm" target="_blank" atremote="1">	<li>                <img src="http://www.whnews.cn/news/data/attachement/jpg/site2/20230106/f4b7e26f55cf2521b8e423.jpg" border="0" atremote="1" width="300px" height="181px;" >		<div class="today-hot-title2">市委经济工作会议举行 坚定信心 担当作为 凝心聚力 埋头苦干 奋力推动高质量发展迈上新台阶</div>	</li></a><a href="http://www.whnews.cn/news/node/2023-01/07/content_7258967.htm" target="_blank" atremote="1">	<li>                <img src="http://www.whnews.cn/news/data/attachement/jpg/site2/20230107/e454e89dce8725237b285e.jpg" border="0" atremote="1" width="300px" height="181px;" >		<div class="today-hot-title2">全域精致·共富共美，为威海点赞！</div>	</li></a><a href="http://www.whnews.cn/news/node/2023-01/06/content_7258730.htm" target="_blank" atremote="1">	<li>                <img src="http://www.whnews.cn/news/data/attachement/jpg/site2/20230106/f4b7e26f55cf2521b4c206.jpg" border="0" atremote="1" width="300px" height="181px;" >		<div class="today-hot-title2">请您为家乡代言，为威海点赞！</div>	</li></a></ul>
+
+
+
+<!--独家1条-->
+<ul><a href="http://www.whnews.cn/news/node/2023-01/07/content_-15560.htm" target="_blank" atremote="1">	<li>                <img src="http://www.whnews.cn/news/data/20230107/20230106092322305.png" border="0" atremote="1" width="300px" height="181px;">		<div class="today-hot-title2">威海人的浪漫，远不止你想的那么简单！</div>	</li></a></ul>
+
+<!--威海视 界1条-->
+<ul><a href="https://mp.weixin.qq.com/s/mrVsRJd-AnIN0SmBaRHTww" target="_blank" atremote="1">	<li>                <img src="http://www.whnews.cn/news/data/attachement/jpg/site2/20230106/f4b7e26f55cf252218c10e.jpg" border="0" atremote="1" width="300px" height="181px;">		<div class="today-hot-title2">威海「焖大鱼」鲜得没道理！</div>	</li></a><a href="https://mp.weixin.qq.com/s/GhUGJ6Ge7cc5foKOg6zkdA" target="_blank" atremote="1">	<li>                <img src="http://www.whnews.cn/news/data/attachement/jpg/site2/20230105/f4b7e26f55cf252083932f.jpg" border="0" atremote="1" width="300px" height="181px;">		<div class="today-hot-title2">威海老味道！脆弹爽口如“盘中明珠”</div>	</li></a></ul>
+ 		    </div>
+
+  		    <!-- ********************************* -- 今日热点 -- ********************************* -->
+			<div class="mt20" ></div>
+		</div>
+		<!-- ------------ 右侧公共 ------------ -->
+
+	</div>
+	<!--  ###################### 详情  end  ###################### -->
+    
+	<!-- ############### 底部 ###################### -->
+		<div id="footer">
+		<div class="footer-nav">
+			<div class="w1200">
+				<a href="https://www.whnews.cn/sitemap.xml" target="_blank">sitemap地图</a>|
+				<a href="https://www.whnews.cn/news/node/2013-08/01/content_5761279.htm" target="_blank">网站简介</a>|
+                <a href="https://www.whnews.cn/news/node/2013-08/01/content_5761278.htm" target="_blank">文明上网</a>|
+                <a href="https://www.whnews.cn/news/node/2013-08/01/content_5761274.htm" target="_blank">管理规定</a>|
+                <a href="https://www.whnews.cn/news/node/2013-08/01/content_5761273.htm" target="_blank">广告服务</a>|
+                <a href="https://www.whnews.cn/news/node/2017-10/18/content_6930461.htm" target="_blank">联系我们</a>|
+                <a href="https://www.whnews.cn/news/node/2017-10/18/content_6930457.htm" target="_blank">免责声明</a>
+			</div>
+		</div>
+		<div class="footer-box">
+			<div class="footer-box-wrap">
+				<div>威海报讯融媒体有限公司版权所有</div>
+				<div>违法和不良信息举报邮箱：whxww704@163.com  &nbsp;&nbsp;违法和不良信息举报电话：0631-5809739</div>
+				<div>
+					互联网新闻信息服务许可证：鲁新网备37120180037　增值电信业务许可证：鲁B2-20140041　
+					<a href="http://beian.miit.gov.cn" style="color:#666666;" target="_blank">鲁ICP备18039776号</a>　
+					<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37100302000370" style="display:inline-block;text-decoration:none; color:#666666; line-height:25px; height:25px;"><img src="http://www.whnews.cn/inc/statice/beian.png" width="20" height="20" border="0" align="absmiddle">鲁公网安备 37100302000370号</a>
+				</div>
+				<div>内容联系/业务洽谈：0631-5191185</div>
+			</div>
+			<div>
+				<table border="0" align="center">
+				    <tbody>
+				        <tr>
+				            <td width="150" align="center">
+				                <a href="http://www.cyberpolice.cn" target="_blank">
+				                    <img src="https://www.whnews.cn/inc/statice/images//footer1.jpg" width="138" height="53" border="0"></a>
+				            </td>
+				            <td width="150" align="center">
+				                <a href="http://218.56.14.20:802/ShowResult.asp?sn=37100021080006" target="_blank">
+				                    <img src="https://www.whnews.cn/inc/statice/images//footer2.jpg" width="138" height="53" border="0"></a>
+				            </td>
+				            <td width="150" align="center">
+				                <a href="#" target="_blank">
+				                    <img src="https://www.whnews.cn/inc/statice/images//footer3.jpg" width="138" height="53" border="0"></a>
+				            </td>
+				            <td width="150" align="center">
+				                <a href="https://www.12377.cn/" target="_blank">
+				                    <img src="https://www.whnews.cn/inc/statice/images//footer4.jpg" width="138" height="53" border="0"></a>
+				            </td>
+				            <td width="150" align="center">
+				                <a href="http://www.sdjubao.cn/" target="_blank">
+				                    <img src="https://www.whnews.cn/inc/statice/images//footer5.jpg" width="138" height="53" border="0"></a>
+				            </td>
+				        </tr>
+				    </tbody>
+				</table>
+			</div>
+
+		</div>
+	</div>
+    <!--微信分享-->
+<script src="https://www.whnews.cn/wh_public/xuxu/shipin/jquery.js"></script>
+ <script src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+ <script src="https://hi.hiweihai.net/htmlinc/wx_share/wx_share_for_whnews.js"></script>
+    
+<footer id="footer-phone">
+    <p>威海新闻网有限公司版权所有</p>
+    <p>互联网新闻信息服务许可证：鲁新网备37120180036</p>
+    <p>增值电信业务许可证：鲁B2-20140041　鲁ICP备05034097号</p>
+</footer>	
+	<!--  ###################### 底部 end  ###################### -->
+
+	<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fefb603930ae3b22c79ae0e0c445ea7bd' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script src="https://hi.hiweihai.net/api.php?op=hiauto&modelid=1" type="text/javascript"></script><!-- HI威海用-->
+
+    <!-- 统计 -->
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?efb603930ae3b22c79ae0e0c445ea7bd";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+    <!-- end 统计 -->
+    <!-- 用户自动推送begin -->
+    <script>
+	(function(){
+		var bp = document.createElement('script');
+		var curProtocol = window.location.protocol.split(':')[0];
+		if (curProtocol === 'https') {
+			bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+		}
+		else {
+			bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+		}
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(bp, s);
+	})();
+	</script>
+    <!-- post end -->
+    <!-- 分享按钮 -->
+    <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"2","bdSize":"32"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+    
+    
+    
+    
+</body>
+</html>

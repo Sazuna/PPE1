@@ -1,252 +1,265 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
-		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta content="telephone=no" name="format-detection">
-		<meta content="email=no" name="format-detection">
-		<title>特朗普集团被判税务欺诈罪名成立，令特朗普2024大选之路雪上加霜</title>
-		<meta name="keywords"
-			content="特朗普 塞尔伯格 集团 支付 奖金" />
-		<meta name="description" content="据路透社12月6日报道，当地时间周二，陪审团在两天内审议了12个小时后，特朗普集团被裁定判犯有长达15年的税务欺诈罪，这使得这位前总统在2024年再次参加大选时面临的法律困境雪上加霜。特朗普集团在世界" />
-				<link rel="stylesheet" href="http://res.yun.cnhubei.com/t/site/10001/a8ed483665c5ea6b2d60933aade78312/assets//mobile_v5/css/wap.css" />
-		<script type="text/javascript" src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/jquery-1.9.1.min.js"></script>
-		<script type="text/javascript">
-		
-		  
-		
-			$(document).ready(function(){
-				
-
-
-				 $(".doc .doc_content p").each(function(){
-					var img_alt = $(this).find("img").attr("alt")
-
-                    var DBS = $(this).find("img").attr('alt')  
-
-
-					if($(this).find("img").length>0){
-						var chinVal= $(this).find("img").attr("alt")
-						if (!$(this).find("img").attr('alt')){							
-						}
-						else{
-							if(chinVal.length!=0){
-							   if(chinVal.match(/^[\u4e00-\u9fa5]+$/)){
-										$(this).find("img").after("<span>"+img_alt+"</span>")
-										$(this).addClass("palt")	
-							   }
-								else{
-									$(this).find("img").attr('alt',"")
-								}							   
-							}	
-							
-
-							
-
-
-						}
-
-							
-					}
-
-
-				 })	 
-			})	
-		</script>
-		
-		<style>
-		a.v5-logo-img { background: url(/a/10001/202007/58ecc2a2ae3cf17133d59749c4966599.png) center center; background-size: auto 100%; background-repeat: no-repeat; width: 154px; height: 35px; margin-top: 8px; margin-left: 15px; }
-		.ico-add:after { content: ''; position: absolute; left: 50%; margin-top: auto; margin-bottom: auto; height: 40%; top: 0; bottom: 0; border-left: 3px solid #187dd0; -webkit-transform: translateX(-1.5px); transform: translateX(-1.5px); }
-		.ico-add:before { content: ''; position: absolute; width: 40%; top: 50%; margin-left: auto; margin-right: auto; left: 0; right: 0; border-top: 3px solid #187dd0; -webkit-transform: translateY(-1.5px); transform: translateY(-1.5px); }
-		.v5-logo-ex { font-size: 14px; white-space: nowrap; padding-right: .75rem; justify-content: center; display: flex; flex-direction: column; color: #FFF; }
-		.nav-more-content { position: fixed; z-index: 10000; top: 0; right: 0; bottom: 0; left: 0; width: 100%; height: 100%; opacity: 0; overflow: auto; background-color: #FFF; -webkit-transform: scale(0, 0.1); transform: scale(0, 0.1); -webkit-transition: all 0.2s; -webkit-transition: all 0.2s ease-out; transition: all 0.2s ease-out; -webkit-transform-origin: 100% 10%; transform-origin: 100% 10%; max-width: 640px; margin-left: auto; margin-right: auto; z-index: 9999 }
-		.nav-more-content.show { opacity: 1; -webkit-transform: scale(1, 1); transform: scale(1, 1); }
-		.nav-list-head { position: relative; height: 30px; z-index: 1; background: #fff;    /*box-shadow: 0 10px 10px #eee;*/ box-shadow: none }
-		.nav-list-wrapper { position: absolute; width: 100%; height: 100%; top: 0; overflow: auto; }
-		.nav-more-content h2 { font-size: 18px; margin-left: 20px; margin-bottom: 15px; }
-		.nav-more-content h2:first-of-type { margin-top: 30px; font-size: 18px; }
-		.nav-more-content ul { width: 92%; margin-bottom: 15px; margin-right: auto; margin-left: auto; font-size: 16px; }
-		.nav-more-content .nav-close { position: absolute; top: 15px; right: 10px; height: 40px; width: 40px; z-index: 2; text-indent: 100%; cursor: pointer; -webkit-transform: rotate(0deg); transform: rotate(0deg); -webkit-transition: all 0.3s 0.4s; transition: all 0.3s 0.4s; overflow: hidden; }
-		.nav-close:after, .nav-close:before { border-color: #333 !important; }
-		.nav-more-content.show .nav-close { -webkit-transform: rotate(135deg); transform: rotate(135deg); -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
-		.nav-more-content ul:after { content: ''; display: block; height: 0; visibility: hidden; clear: both; }
-		.nav-more-content li { float: left; width: calc(30% - 2px); line-height: 32px; text-align: center; margin: 0 5px; margin-bottom: 5px; background-color: #fff; border: 1px solid #eee }
-		.nav-more-content h2 { font-size: 18px }
-		.wap_doc_box .doc .doc_content{
-		    text-align: justify;
-		}
-		.wap_doc_box .doc .doc_content p{
-                            	font-size: 1.125rem!important;
-                            	line-height: 1.8!important;
-                            	padding-bottom:0.75rem!important;
-                            	margin: 0!important;
-                            	color: #333333;
-                            	text-align: justify;
-                                        }
-        .wap_doc_box .doc .doc_content img{
-            margin:0.625rem auto;
-        }        
-        
- 
-        
-		</style>
-	
-		
-	</head>
-	<body>
-<!--下拉菜单-->
-<div class="nav-more-content">
-    <div class="nav-list-head">
-        <div class="nav-close ico-add"></div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <title>霞浦“闽南糊”：家乡的代表符号-手机闽南网</title>
+        <meta name="keywords" content=" 霞浦“闽南糊”：家乡的代表符号" />
+        <meta name="description" content="霞浦“闽南糊”：家乡的代表符号" />
+        <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no,shrink-to-fit=no" name="viewport"/>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta name="applicable-device" content="mobile">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="canonical" href="http://www.mnw.cn/news/nd/2696919.html">
+    <link rel="stylesheet" href="http://img.mnw.cn/2021/css/swiper.css">
+    <link rel="stylesheet" href="http://img.mnw.cn/2021/css/main.css">
+    <link rel="stylesheet" href="http://img.mnw.cn/2021/font/iconfont.css">
+    <script src="http://img.mnw.cn/2021/js/jquery.min.js"></script>
+            <script src="//msite.baidu.com/sdk/c.js?appid=1546861507852587"></script>
+                <script type="application/ld+json">
+        {
+            "@context":"https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+            "@id":"http://m.mnw.cn/news/nd/2696919.html",
+            "appid":"1546861507852587",
+            "title":"霞浦“闽南糊”：家乡的代表符号",
+            "images":["http://img.mnw.cn/images/nopic.gif"],
+            "pubDate":"2022-10-21T11:58:00"
+        }
+    </script>
+</head>
+<body>
+    <div class="head">
+                <header class="u-flex u-row-between u-p-l-30 u-p-r-30">
+            <a class="logo" href="http://m.mnw.cn/"><img src="http://img.mnw.cn/2021/images/logo.png" alt=""></a>
+            <div class="pc u-flex u-col-center" onclick="window.location.href=window.location.href.replace('http://m.', 'http://www.')+'?mobile'"><i class="iconfont icon-qiehuandao u-font-40"></i><span class="u-m-l-10 u-font-26">PC版</span></div>
+        </header>
+         <div class="nav" id="nav">
+            <a href="http://m.mnw.cn/" class="item">首页</a>
+            <a href="http://m.mnw.cn/quanzhou/" data-ids="13,2650,2760-1743" class="item ">泉州</a>
+            <a href="http://m.zz.mnw.cn/" class="item ">漳州</a>
+            <a href="http://m.mnw.cn/xiamen/" class="item ">厦门</a>
+            <a href="http://m.mnw.cn/news/fujian/" class="item active">福建</a>
+            <a href="http://m.mnw.cn/news/th/" class="item ">台海</a>
+            <a href="http://m.mnw.cn/news/china/" class="item ">国内</a>
+            <a href="http://m.mnw.cn/news/world/" class="item ">国际</a>
+            <a href="http://m.caijing.mnw.cn/" class="item ">财经</a>
+            <a href="http://m.mnw.cn/news/shehui/" class="item ">社会</a>
+            <a href="http://m.mnw.cn/edu/" class="item ">教育</a>
+            <a href="http://m.mnw.cn/news/tiyu/" class="item ">体育</a>
+            <a href="http://m.mnw.cn/yule/" class="item ">娱乐</a>
+            <a href="http://m.mnw.cn/news/digi/" class="item ">数码</a>
+            <div class="more primary"><i class="iconfont icon-jia u-font-34"></i></div>
+        </div>
     </div>
-    <div class="nav-list-wrapper">
-        <h2>频道</h2>
-        <ul class="channel-list">
-            <li><a href="http://m.cnhubei.com">新闻</a></li>
-            <li><a href="http://m.cnhubei.com/shipin/index.html">视频</a></li>
-            <li><a href="http://m.cnhubei.com/zhibo/index.html">直播</a></li>
-            <li><a href="http://m.cnhubei.com/tup/index.html" />图片</a></li>
-            <li><a href="http://m.cnhubei.com/pinglun/index.html" />评论</a></li>
-            <li><a href="http://bbs.cnhubei.com/" />社区</a></li>
-            <li><a href="http://m.cnhubei.com/wlwz/index.html" />问政</a></li>
-            <li><a href="http://m.cnhubei.com/zhengwu/index.html" />政务</a></li>
-            <li><a href="http://m.cnhubei.com/yuqing/index.html" />舆情</a></li>
-            <li><a href="http://m.cnhubei.com/renshi/index.html">人事</a></li>
-            <li><a href="http://m.cnhubei.com/guonei/index.html" />国内</a></li>
-            <li><a href="http://m.cnhubei.com/guoji/index.html" />国际</a></li>
-            <li><a href="http://m.cnhubei.com/wenhua/index.html" />文化</a></li>
-            <li><a href="http://m.cnhubei.com/lvyou/caijing/index.html" />财经</a></li>
-            <li><a href="http://m.cnhubei.com/yule/index.html" />娱乐</a></li>
-            <li><a href="http://m.cnhubei.com/tiy/index.html" />体育</a></li>
-            <li><a href="http://m.cnhubei.com/#column-topic-swiper">专题</a></li>
-            <li><a href="http://m.cnhubei.com/jiaoyu/index.html">教育</a></li>
-        </ul>
-        <h2>栏目</h2>
-        <ul class="channel-list">
-            <li><a>荆楚号</a></li>
-            <li><a href="http://m.cnhubei.com/nxw/index.html">暖新闻</a></li>
-            <li><a href="http://m.cnhubei.com/dhpy/index.html">打虎拍蝇</a></li>
-            <li><a href="http://m.cnhubei.com/renshi/index.html">人事动向</a></li>
-            <li><a href="http://m.cnhubei.com/piyao/index.html">辟谣</a></li>
-        </ul>
-        <h2>地方</h2>
-        <ul class="channel-list">
-            <li><a href="http://m.cnhubei.com/wuhan/index.html">武汉</a></li>
-            <li><a href="http://m.cnhubei.com/yichang/index.html">宜昌</a></li>
-            <li><a href="http://m.cnhubei.com/xiangyang/index.html">襄阳</a></li>
-            <li><a href="http://m.cnhubei.com/huangshi/index.html">黄石</a></li>
-            <li><a href="http://m.cnhubei.com/shiyan/index.html">十堰</a></li>
-            <li><a href="http://m.cnhubei.com/ezhou/index.html">鄂州</a></li>
-            <li><a href="http://m.cnhubei.com/jingmen/index.html">荆门</a></li>
-            <li><a href="http://m.cnhubei.com/xiaogan/index.html">孝感</a></li>
-            <li><a href="http://m.cnhubei.com/jingzhou/index.html">荆州</a></li>
-            <li><a href="http://m.cnhubei.com/huanggang/index.html">黄冈</a></li>
-            <li><a href="http://m.cnhubei.com/xianning/index.html">咸宁</a></li>
-            <li><a href="http://m.cnhubei.com/suizhou/index.html">随州</a></li>
-            <li><a href="http://m.cnhubei.com/xiantao/index.html">仙桃</a></li>
-            <li><a href="http://m.cnhubei.com/enshi/index.html">恩施</a></li>
-            <li><a href="http://m.cnhubei.com/qianjiang/index.html">潜江</a></li>
-            <li><a href="http://m.cnhubei.com/tianmen/index.html">天门</a></li>
-            <li><a href="http://m.cnhubei.com/snj/index.html">神农架</a></li>
-        </ul>
+    <div class="nav-mask"></div>    <script>(function() {var s = "_" + Math.random().toString(36).slice(2);document.write('<div id="' + s + '"></div>');(window.slotbydup=window.slotbydup || []).push({id: '6428087',container: s,size: '0,0',display: 'inlay-fix'});})();</script><script src="http://img.mnw.cn/js/config.js" type="text/javascript"></script>
+<div class="u-p-l-30 u-p-r-30" style="background-color: #fff;">
+    <div class="path u-font-28 u-p-b-15 u-p-t-15">
+        <a href="http://m.mnw.cn/">闽南网</a>
+        &gt;         <a href="http://m.mnw.cn/news/">新闻中心</a>
+        &gt;         <a href="http://m.mnw.cn/news/fujian/">福建</a>
+        &gt;         <a href="http://m.mnw.cn/ningde/">宁德</a>
+        &gt;         <a href="http://m.mnw.cn/news/nd/">宁德新闻</a>
+        &gt;  正文
+    </div>
+    <article class="info u-p-t-20">
+        <div>
+            <h1 class="u-font-40 weight">霞浦“闽南糊”：家乡的代表符号</h1>
+            <div class="u-m-t-10 u-font-24" style="color: #515153;">
+                <span>东南网   &nbsp;&nbsp;2022-10-21 11:58</span>
+            </div>
+        </div>
+        <div class="d u-font-32" id="article_content">
+                                            <p>　　霞浦县三沙镇出产的风味小吃&ldquo;闽南糊&rdquo;是地地道道的平民食品，以独特风味闻名遐迩。在外工作的霞浦三沙人只要一回到家乡，在那充满欢情的家宴上，总少不了这道特色美食。</p>
+<p>　　三沙老街一家以&ldquo;闽南糊&rdquo;为主打的传统小吃店，是当地居民陈杰、黄妹夫妻俩经营的，有40多年历史。传统地道的风味，让小店生意一直不错。</p>
+<p>　　&ldquo;每家每户过年过节桌上都要有一碗&lsquo;闽南糊&rsquo;。我从小爱吃，今年70多岁了，还是爱吃。它就是我们家乡的代表符号。&rdquo;三沙镇居民林三寿说。</p>
+<p>　　关于&ldquo;闽南糊&rdquo;的来历，还有一段传说。史书记载，唐代开闽王王审知&ldquo;起自垅田，每以节俭自处，选任良吏，省刑惜费，轻徭薄敛，与民休息&rdquo;，深受民众爱戴。王审知率兵入闽时，百姓纷纷拿出特产佳肴犒劳将士，将士们把吃剩的美味佳肴到处乱扔。王审知发现后，立即命令把将士们吃剩的饭菜和着闽南出产的地瓜粉煮了再吃，还带头品尝。没想到，这种大杂烩的食品极其美味，令众将士大快朵颐。而且，这种混合的食品冷却后，也便于将士们行军携带，于是在军中推行，不久就在闽南民间流传开了。宋明时期迁居到三沙的闽南移民又把这种烹调方法带到了霞浦三沙。为了不忘故土，三沙人就将之命名为&ldquo;闽南糊&rdquo;。</p>
+<p>　　烹制&ldquo;闽南糊&rdquo;，选料极其讲究。要把三沙出产的海鲜虾仁、墨鱼鲞和瘦猪肉、香菇、笋干、芹菜、葱花等切成细块，煮熟做汤料。然后，选用三沙出产的精白地瓜粉，用冷水泡成浆，搅拌均匀后，慢慢倒进煮熟的汤料中。同时，用特制的圆滑细长的木棍，不断搅动锅里的浆料。一边不停地搅动，一边不断地往锅里添加带有葱花的熟猪油，直至锅里的地瓜粉浆煮熟变成油光闪亮的暗绿色。等到火候恰当，往锅里均匀撒入炒熟的花生仁，再用木棍徐徐搅拌片刻。</p>
+<p>　　&ldquo;我们家制售&lsquo;闽南糊&rsquo;，是从我父亲手上传承的，生意相当不错。平时每天烹制6铁锅，逢年过节要制作15锅，年纯收入达30多万元。&rdquo;陈杰说，夫妻俩靠一碗小吃走上了发家致富路，不仅在三沙盖起了小洋楼，还在儿子工作的西安添置了房产，生活过得有滋有味。</p>
+<p>　　如今，随着三沙成为旅游胜地，南来北往的游客将&ldquo;闽南糊&rdquo;的美味日益传扬。它逐渐走出故里，不再只是三沙人的乡愁，更是天下人的口福。<span>（福建日报通讯员 郑培銮）</span></p>            </div>
+                    </div>
+    </article>
+            <div style="margin:0px;padding:0px 0px 5px;">
+    <div>
+        <script type="text/javascript" src="//n.baminw.com.cn/site/h/production/c-r/common/k/ludlb.js"></script>
     </div>
 </div>
-<!--横条菜单-->		
-		
-		
-		<header>
-			<a href="/"><img src="http://res.yun.cnhubei.com/t/site/10001/a8ed483665c5ea6b2d60933aade78312/assets//mobile_v5/img/wap_doc_logo.png"></a>
-			<div class="wap_top_nav">
-				<div class="download"><a href="http://www.cnhubei.com/download/app/">下载APP</a></div>
-				<div class="nav_bnt"></div>
-			</div>
-		</header>
-		<div class="wap_doc_box">
-			<h1>特朗普集团被判税务欺诈罪名成立，令特朗普2024大选之路雪上加霜</h1>
-			<div class="detail">
-				<span class="author"><a href="http://jms.ctdsb.net/jmythshare/#/index_share?contentType=5&contentId=1591175&cId=0" target="_self">极目新闻</a></span><span class="time">2022-12-07 15:02</span>
-			</div>
-			<div class="doc">
-				<div class="doc_content">
-					<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">极目新闻记者 李力力</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">据路透社12月6日报道，当地时间周二，陪审团在两天内审议了12个小时后，特朗普集团被裁定判犯有长达15年的税务欺诈罪，这使得这位前总统在2024年再次参加大选时面临的法律困境雪上加霜。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">特朗普集团在世界各地经营酒店、高尔夫球场和其他房地产，该集团被认定为高管支付个人费用，其中包括前首席财务官艾伦·魏塞尔伯格在内的高管都接受了奖金支票，就像他们是独立承包商一样。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">在所有指控都被定罪后，该集团将面临高达160万美元的罚款，包括密谋诈骗税务部门、伪造商业记录。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">虽然对于特朗普集团这种规模的公司来说，罚款并不算很多，但定罪可能会影响他们继续开展业务。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">此案将在2023年1月13日宣判。值得注意的是，特朗普本人并未在此案中受到指控。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">75岁的前首席财务官魏塞尔伯格与政府签订了认罪协议，他作为主要证人作证。按照协议，他可能被判处五个月监禁。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">魏塞尔伯格在8月承认向税务部门隐瞒了176万美元的收入，他称尽管特朗普签署了涉案的支票，但特朗普本人并没有参与合谋。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">魏塞尔伯格还说，公司通过支付他的房租、水电费、豪车租赁费以及其他个人开支来节省资金，而不是提高他的工资，因为工资上涨会导致纳税增加。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">曼哈顿地区检察官阿尔文·布拉格的办公室负责起诉此案，他称判决“非常公正”。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">特朗普集团的律师艾伦·富特法斯则表示，他们将提出上诉。律师辩护说，魏塞尔伯格作证是为了自己的利益。魏塞尔伯格目前正在带薪休假，并称希望在1月份再拿到50万美元的奖金。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">该案件的重点是该公司为包括魏塞尔伯格在内的高管支付了租金和汽车租赁等个人开支，但没有报告收入，向他们发放奖金的同时没有扣税。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">据悉，特朗普本人每年都会签署奖金支票，为魏塞尔伯格的孙辈支付私立学校的学费，授权为魏塞尔伯格在曼哈顿的豪华公寓交租，并批准通过扣减另一名高管的薪水来避税。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">检察官约书亚·斯坦格拉斯表示，特朗普这种“福利大杂烩”旨在让高层管理人员“感到快乐和保持忠诚”。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">11 月 19 日，特朗普在他自创的社交平台Truth Social上写道，他的家人没有“从中获得任何经济利益”。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">据报道，特朗普集团还面临纽约州总检察长莉蒂夏·詹姆斯提起的欺诈诉讼。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">刚刚宣布第三次参加总统竞选的特朗普在一份声明中称，判决“不公正”。他称此案为“曼哈顿政治迫害”，他说提出指控的都是民主党人。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">此案虽然没有直接指控特朗普，但无疑令他的参选之路雪上加霜。</p>
-<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">特朗普本人正在接受美国司法部的调查，原因是他在2021年1月卸任后处理敏感的政府文件，并试图推翻2020年11月的大选结果。</p>
-									</div>
-								            <!--附件-->
-            			</div>
-		</div>
-		<div class="doc_banner">
-			<img src="http://res.yun.cnhubei.com/a/10001/201905/f1d1fdd4a69f6be6308f5cb8484d6f21.jpg" data-bd-imgshare-binded="1">
-		</div>
-		<footer>
-		 <p>Copyright © 2001-2022</p>
-		 <p>湖北荆楚网络科技股份有限公司</p>
-		</footer>
-	<!-- 微信分享js -->
-	<script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
-<script type="text/javascript" src="http://act.cnhubei.com/web/js/utils/localStoreUtils.js"></script>
-<script type="text/javascript" src="http://act.cnhubei.com/web/js/utils/wxUtils.js"></script>
-<script type="text/javascript">
+<section class="tf-hour">
+    <div class="home-title u-p-l-30 u-p-r-30">
+        <h2 class="tit">新闻推荐</h2>
+    </div>
+    <ul class="cont-list cont-list2 u-p-l-30 u-p-r-30">
+        <li><a href="http://m.mnw.cn/keji/internet/2718263.html" target="_blank">感染奥密克戎变异株主要有什么症状？多久转阴？权威解读</a></li>
+        <li><a href="http://m.mnw.cn/news/china/2571602.html" target="_blank">2023年放假安排时间表及日历 节假日放假和调休安排</a></li>
+        <li><a href="http://m.mnw.cn/keji/mi/2576653.html" target="_blank">行程码多久更新一次城市 行程卡要停留多久会记录到过某地 </a></li>
+    </ul>
+    <script type="text/javascript" src="//n.baminw.com.cn/production/tog/static/pw_k/common/kwl.js"></script>
+    <script>
+        (function () {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('<div id="' + s + '"></div>');
+            (window.slotbydup = window.slotbydup || []).push({
+                id: '2706439',
+                container: s,
+                size: '0,0',
+                display: 'inlay-fix'
+            });
+        })();
+    </script>
+    <script src="http://dup.baidustatic.com/js/os.js"></script>
+</section>
+<script type="text/javascript" src="//n.baminw.com.cn/site/n-ih-kfaa/resource/f/static/f.js"></script>
+        
+    <div class="u-p-l-30 u-p-r-30">
+        <section>
+                        <dl class="nl">
+	<dt>频道<span>推荐</span></dt>
+	<dd>
+	<div class="f">
+    <img src="http://upload.mnw.cn/2022/0930/thumb_120_70_1664523101783.jpg" alt="我国自主研发首套海洋地震勘探拖缆成套装备正式投用" />
+    <p><a href="http://www.mnw.cn/news/china/2688973.html" target="_blank">我国自主研发首套海洋地震勘探拖缆成套装备</a>2022-09-30</p>
+</div>
+<li><a target="_blank"  href="http://www.mnw.cn/news/china/2728276.html">公安部要求依法严厉打击制售假冒涉疫药品及</a></li>
+<li><a target="_blank"  href="http://www.mnw.cn/news/shehui/2728277.html">石家庄今天限行吗？2022年1月石家庄限号最</a></li>
+<li><a target="_blank"  href="http://www.mnw.cn/news/shehui/2728281.html">上海已监测到XBB.1.5毒株 感染XBB1.5会有什</a></li>
+        </dd>
+</dl>
+                    </section>
+    </div>
+    
+    <section class="tf-hour">
+        <div class="home-title u-p-l-30 u-p-r-30"><h2 class="tit">24小时新闻排行榜</h2></div>
+        <ul class="cont-list cont-list2">
+                            <script type="text/javascript" src="//n.baminw.com.cn/common/n_ih_hrq_e/openjs/rk.js"></script>
+                        <div class="u-p-l-30 u-p-r-30">
+                                <li>
+                    <a href="http://m.mnw.cn/news/nd/2696919.html" target="_blank">
+                        霞浦“闽南糊”：家乡的代表符号                    </a>
+                </li>
+                                <li>
+                    <a href="http://m.mnw.cn/news/nd/2696571.html" target="_blank">
+                        宁德市事业单位公开招聘报名人数首次突破2万人                    </a>
+                </li>
+                                <li>
+                    <a href="http://m.mnw.cn/news/nd/2695534.html" target="_blank">
+                        宁德：蕉城小东门街心公园改造完成对外开放                    </a>
+                </li>
+                                <li>
+                    <a href="http://m.mnw.cn/news/nd/2695536.html" target="_blank">
+                        宁德市提升防台风应急响应为III级                    </a>
+                </li>
+                                <li>
+                    <a href="http://m.mnw.cn/news/nd/2695535.html" target="_blank">
+                        未来几日宁德市有明显大风天气                    </a>
+                </li>
+                            </div>
+        </ul>
+    </section>
+</div>
 
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script language="javascript">
+var dir = "share";
+var url = encodeURIComponent(window.location.href);
+if(window.location.href.indexOf("m.zz.mnw.cn")>=0 || window.location.href.indexOf("m.caijing.mnw.cn")>=0) dir = "share_zz";
+document.write("<script src='http://tp.mnw.cn/"+dir+"/weixin_config.php?url="+url+"'><\/script>");
 
-$(function () {
+wx.ready(function () {
+	// 在这里调用 API
+	wx.onMenuShareTimeline({
+		title: '霞浦“闽南糊”：家乡的代表符号_闽南网', // 分享标题
+		link: 'http://m.mnw.cn/news/nd/2696919.html', // 分享链接
+		imgUrl: 'http://upload.mnw.cn/topic/mnw.jpg', // 分享图标
+		success: function () { 
+			// 用户确认分享后执行的回调函数
+		},
+		cancel: function () { 
+			// 用户取消分享后执行的回调函数
+			
+		}
+	});
 
-var currLink = location.href.split('#')[0];
-
-wxUtils.wxShare("特朗普集团被判税务欺诈罪名成立，令特朗普2024大选之路雪上加霜", "据路透社12月6日报道，当地时间周二，陪审团在两天内审议了12个小时后，特朗普集团被裁定判犯有长达15年的税务欺诈罪，这使得这位前总统在2024年再次参加大选时面临的法律困境雪上加霜。特朗普集团在世界", "http://img.yun.cnhubei.com/a/thumb/10001/202012/9974b88043fb3569db9e0b46da7c11c1.png!w300_h300.png", currLink);
-
+	wx.onMenuShareAppMessage({
+		title: '霞浦“闽南糊”：家乡的代表符号_闽南网', // 分享标题
+		desc: '福建主流媒体，闽南门户网站', // 分享描述
+		link: 'http://m.mnw.cn/news/nd/2696919.html', // 分享链接
+		imgUrl: 'http://upload.mnw.cn/topic/mnw.jpg', // 分享图标
+		type: '', // 分享类型,music、video或link，不填默认为link
+		dataUrl: '', // 如果type是music或video，则要提供数据链接，默认为空
+		success: function () { 
+			// 用户确认分享后执行的回调函数
+		},
+		cancel: function () { 
+			// 用户取消分享后执行的回调函数
+			//alert(3);
+		}
+	});
+	
 });
-    </script>			
-        <script type="text/javascript">
-        
-          // 音频无控件，无法展示 添加音频控件
-            var x= document.querySelector('audio');
-            x.controls = true;
-            x.load();
-        
-        $(document).ready(function() {
-            // 展开、关闭导航按钮
-            (function() {
-                
-          
-                
-                var $navShowBtn = $('.nav_bnt');
-                var $navMoreContent = $('.nav-more-content');
-                var $navCloseBtn = $('.nav-close');
-                var $body = $('body');
-                // function forbiddenScroll(e) {
-                //     e.preventDefault();
-                // }
-                $navShowBtn.on('click', function(e) {
-                    e.preventDefault();
-                    $navMoreContent.addClass('show');
-                    // $body.on('touchmove', forbiddenScroll);
-                });
-                $navCloseBtn.on('click', function(e) {
-                    e.preventDefault();
-                    $navMoreContent.removeClass('show');
-                    // $body.off('touchmove', forbiddenScroll);
-                });
-            })();
+
+wx.error(function(res){});
+</script>
+        <div class="footer u-font-21 u-text-center u-p-t-20 u-p-b-20 u-m-t-20">
+      <p>Copyright ©2022 闽南网由福建日报社（集团）主管 版权所有</p>
+      <p>闽ICP备10206509号 公安备案号35050302000379</p>
+      <p>互联网新闻信息服务许可证编号35120190010</p>
+      <p>闽南网拥有闽南网采编人员所创作作品之版权，未经闽南网书面授权，不得转载、摘编或以其他方式使用和传播。</p>
+    </div>
+
+    <script>
+        $('#nav').on('click', '.more', function() {
+            $('.nav-mask').toggle();
+            $('#nav').toggleClass('wrap');
         })
-        </script>			
-	</body>
-</html>
+        $('.nav-mask').click(function() {
+            $('.nav-mask').hide();
+            $('#nav').removeClass('wrap');
+        })
+
+        function fullall() {
+            $.getJSON(APP_URL + '?app=article&controller=article&action=fulltext&jsoncallback=?&contentid=2696919', function(data) {
+                $("#article_content").html(data.content);
+                $("#page").hide();
+            });
+        }
+
+        $(function () { 
+            if($(".ads").length>0) Css3Flip("#wrap");
+
+            $("a[group]").click(function () {
+              var gd=$(this).attr("group");
+              $("a[group='"+gd+"']").removeClass("sel");
+              $(this).addClass("sel");
+              $("dd[group='"+gd+"']").hide();
+              $("dd[group][id='"+$(this).attr("id")+"']").show();
+            }); 
+        });
+    </script>
+    <div style="display:none"><script src="https://s9.cnzz.com/z_stat.php?id=3301342&web_id=3301342" language="JavaScript"></script></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["tsina","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["tsina","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+    <script type="text/javascript" src="//n.baminw.com.cn/production/x/openjs/s/production/k-byphp-o.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?14819a5035a59c152b157af81eca8c9e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<div style="display:none;"><script src="https://s11.cnzz.com/z_stat.php?id=1260920028&web_id=1260920028" language="JavaScript"></script></div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?cf1a05e5acdb7059b63c6f70e9d9fd49";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></body>
+</html>	    
+<div style="display:none;"><script src="https://s4.cnzz.com/z_stat.php?id=1254122839&web_id=1254122839" language="JavaScript"></script></div>

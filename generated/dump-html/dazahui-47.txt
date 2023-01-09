@@ -1,470 +1,84 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
-<meta http-equiv="Content-Language" content="utf-8" />
-<meta content="all" name="robots" />
-<title>×ðÖØ°üÈÝ&nbsp;ºÍÐ³¹²Éú¡ª¡ªÏã¸ÛÕ¹ÏÖ¶àÔªÎÄ»¯÷ÈÁ¦--¸Û°Ä--ÈËÃñÍø </title>
-<meta name="renderer" content="webkit" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0" />
-<meta name="keywords" content="" />
-<meta name="description" content="ÐÂ»ªÉçÏã¸Û5ÔÂ16ÈÕµçÌâ£º×ðÖØ°üÈÝºÍÐ³¹²Éú¡ª¡ªÏã¸ÛÕ¹ÏÖ¶àÔªÎÄ»¯÷ÈÁ¦ÐÂ»ªÉç¼ÇÕß¶¡è÷Ü²5ÔÂ12ÈÕÊÇÏã¸Û·¨¶¨·ðµ®¼ÙÈÕ¡£ÊýÇ§Ãû·ðÃÅµÜ×Ó´ÓËÄÃæ°Ë·½¸Ïµ½Ïã¸ÛÌåÓý¹Ý£¬²Î¼ÓÒ»ÄêÒ»¶ÈµÄÔ¡·ð´óµä¡£Óë´ËÍ¬Ê±£¬ÔÚ¸ÛµºÅÜÂíµØÓ¡" />
-<meta name="copyright" content="ÈËÃñÍø°æÈ¨ËùÓÐ" />
-<meta name="filetype" content="0">
-<meta name="publishedtype" content="1">
-<meta name="pagetype" content="1">
-<meta name="catalogs" content="42272">
-<meta name="contentid" content="31089088">
-<meta name="publishdate" content="2019-05-16">
-<meta name="author" content="103551">
-<meta name="editor" content="">
-<meta name="source" content="À´Ô´£ºÐÂ»ªÍø">
-<meta name="sourcetype" content="">
-<link href="http://www.people.com.cn/img/2020fenxiang/css/share2020.css" type="text/css" rel="stylesheet" media="all" />
-<link href="http://www.people.com.cn/img/2020wbc/css/page2021.css" type="text/css" rel="stylesheet" media="all" />
-<link href="http://www.people.com.cn/img/2020peopleindex/css/pagetyn2.css" type="text/css" rel="stylesheet" media="all" />
-<link href="http://www.people.com.cn/img/2020wbc/css/compatiblen2.css" type="text/css" rel="stylesheet" media="all" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="http://www.nmgnews.com.cn/css/style10.css" rel="stylesheet" type="text/css" />
+<title>è­¦æƒ•æ—¥æœ¬â€œå¹¸ç¦ç§‘å­¦æ•™â€é‚ªæ•™åˆ¶ä½œåŠ¨æ¼«èƒŒåŽçš„ä¼å›¾-é“å¾·æ³•åˆ¶-å†…è’™å¤æ–°é—»ç½‘</title>
+<meta name="keywords" content="">
+<meta name="description" content="ã€€ã€€ã€ä¸­å›½åé‚ªæ•™ç½‘2022å¹´9æœˆ19æ—¥æ¶ˆæ¯ï¼Œé€šè®¯å‘˜ï¼šè‚–æž—ã€‘9æœˆ6æ—¥ï¼ŒåŠ æ‹¿å¤§æ¸¸æˆèµ„è®¯åª’ä½“â€œç”µæ¸¸è°ˆâ€ç½‘ç«™(Gamerant.com)åˆŠæ–‡é€éœ²ï¼Œæ—¥æœ¬é‚ªæ•™â€œå¹¸ç¦ç§‘å­¦æ•™â€ä¼å›¾é€šè¿‡åˆ¶ä½œæ™¦æ¶©ä¸æ˜Žçš„åŠ¨æ¼«ç”µå½±æŽ¨å¹¿è¯¥æ•™ã€‚ã€€ã€€è¿™äº›éšæ™¦ä¸æ˜Žçš„æ—¥æœ¬åŠ¨æ¼«å¹¶æ— ç‰¹åˆ«ä¹‹å¤„ï¼Œä¸è¿‡å®ƒä»¬èƒŒåŽçš„åˆ¶ä½œåŠ¨æœºå´è®©äººçš±çœ‰ã€‚ã€€ã€€â€œå¹¸ç¦ç§‘å­¦æ•™â€(Happy Science)æ˜¯ä¸€ä¸ªç»„ç»‡åŒ–...">
 </head>
+
 <body>
-<div class="main">
-	<!--Í·²¿-->
-    <div class="header cf">
-        <div class="layout">
-            <a href="http://www.people.cn" target="_blank"><img src="/img/2020wbc/imgs/logo.png" alt="ÈËÃñÍø" title="ÈËÃñÍø" /></a>
-        </div>
-    </div>
-    <div class="wb_line"></div>
-	<!--µ¼º½-->
-    <div class="rm_nav cf" id="rm_topnav">
-        <div class="layout rm_nav_con cf">
-			<div class="col col-1">
-				<ul class="cf"><li class="shouye"><a href="http://www.people.com.cn" target="_blank">Ê×Ò³</a></li>
-<li class="menu_item">
-    <span>µ³Õþ<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
-    <div>
-        <ul>
-            <li><a href="http://cpc.people.com.cn/" target="_blank">µ³Íø ¡¤ Ê±Õþ</a></li>
-            <li><a href="http://renshi.people.com.cn/" target="_blank">ÈËÊÂ</a></li>
-            <li><a href="http://fanfu.people.com.cn/" target="_blank">·´¸¯</a></li>
-            <li><a href="http://theory.people.com.cn/" target="_blank">ÀíÂÛ</a></li>
-            <li><a href="http://dangshi.people.com.cn/" target="_blank">µ³Ê·</a></li>
-            <li><a href="http://dangjian.people.com.cn/" target="_blank">µ³½¨</a></li>
-        </ul>
-    </div>
-</li><li class="menu_item">
-        <span>ÒªÎÅ<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
-        <div class="xinwen">
-            <ul>
-                <li><a href="http://finance.people.com.cn/" target="_blank">¾­¼Ã ¡¤ ¿Æ¼¼</a></li>
-                <li><a href="http://society.people.com.cn/" target="_blank">Éç»á ¡¤ ·¨ÖÎ</a></li>
-                <li><a href="http://ent.people.com.cn/" target="_blank">ÎÄÂÃ ¡¤ ÌåÓý</a></li>
-                <li><a href="http://health.people.com.cn/" target="_blank">½¡¿µ ¡¤ Éú»î</a></li>
-                <li><a href="http://world.people.com.cn/" target="_blank">¹ú¼Ê</a></li>
-                <li><a href="http://military.people.com.cn/" target="_blank">¾üÊÂ</a></li>
-                <li><a href="http://hm.people.com.cn/" target="_blank">¸Û°Ä</a></li>
-                <li><a href="http://tw.people.com.cn/" target="_blank">Ì¨Íå</a></li>
-                <li><a href="http://edu.people.com.cn/" target="_blank">½ÌÓý</a></li>
-                <li><a href="http://house.people.com.cn/" target="_blank">·¿²ú</a></li>
-<li><a href="http://lxjk.people.cn/GB/index.html" target="_blank">¿ÆÆÕ</a></li>
-            </ul>
-        </div>
-    </li><li class="menu_item">
-    <span>¹Ûµã<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
-    <div>
-        <ul>
-            <li><a href="http://opinion.people.com.cn/GB/223228/index.html" target="_blank">ÈËÃñÍøÆÀ</a></li>
-            <li><a href="http://opinion.people.com.cn/GB/8213/420650/index.html" target="_blank">ÈýÆÀ</a></li>
-            <li><a href="http://opinion.people.com.cn/GB/427456/index.html" target="_blank">ÈËÃñ²ÆÆÀ</a></li>
-            <li><a href="http://opinion.people.com.cn/GB/431649/index.html" target="_blank">ÈËÃñÀ´ÂÛ</a></li>            
-            <li><a href="http://fangtan.people.com.cn/" target="_blank">ÈËÃñ·ÃÌ¸</a></li>
-        </ul>
-    </div>
-</li><li class="menu_item">
-        <span>»¥¶¯<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
-        <div>
-            <ul>
-                <li><a href="http://liuyan.people.com.cn/" target="_blank">Áìµ¼ÁôÑÔ°å</a></li>                
-                <li><a href="http://djy.people.com.cn/" target="_blank">µ³½¨ÔÆ</a></li>
-                <li><a href="http://bbs1.people.com.cn/" target="_blank">Ç¿¹úÂÛÌ³</a></li>
-                <li><a href="https://weiquan.people.com.cn/#/" target="_blank">Î¬È¨</a></li>                
-            </ul>
-        </div>
-    </li><li class="menu_item">
-        <span>¿ÉÊÓ»¯<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
-        <div>
-            <ul>
-                <li><a href="http://v.people.cn/" target="_blank">ÊÓÆµ</a></li>
-                <li><a href="http://pic.people.com.cn/" target="_blank">Í¼Æ¬</a></li>
-                <li><a href="http://graphicnews.people.com.cn/" target="_blank">Í¼½â</a></li>
-            </ul>
-        </div>
-    </li><li class="menu_item">
-    <span>µØ·½<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
-    <div>
-    <ul class="df">
-        <li><a href="http://bj.people.com.cn/" target="_blank">¾©</a></li>
-        <li><a href="http://tj.people.com.cn/" target="_blank">½ò</a></li>
-        <li><a href="http://he.people.com.cn/" target="_blank">¼½</a></li>
-        <li><a href="http://sx.people.com.cn/" target="_blank">½ú</a></li>
-        <li><a href="http://nm.people.com.cn/" target="_blank">ÃÉ</a></li>
-        <li><a href="http://ln.people.com.cn/" target="_blank">ÁÉ</a></li>
-        <li><a href="http://jl.people.com.cn/" target="_blank">¼ª</a></li>
-        <li><a href="http://hlj.people.com.cn/" target="_blank">ºÚ</a></li>
-        <li><a href="http://sh.people.com.cn/" target="_blank">»¦</a></li>
-        <li><a href="http://js.people.com.cn" target="_blank">ËÕ</a></li>
-        <li><a href="http://zj.people.com.cn/" target="_blank">Õã</a></li>
-        <li><a href="http://ah.people.com.cn/" target="_blank">Íî</a></li>
-        <li><a href="http://fj.people.com.cn/" target="_blank">Ãö</a></li>
-        <li><a href="http://jx.people.com.cn/" target="_blank">¸Ó</a></li>
-        <li><a href="http://sd.people.com.cn/" target="_blank">Â³</a></li>
-        <li><a href="http://henan.people.com.cn/" target="_blank">Ô¥</a></li>
-        <li><a href="http://hb.people.com.cn/" target="_blank">¶õ</a></li>
-        <li><a href="http://hn.people.com.cn/" target="_blank">Ïæ</a></li>
-        <li><a href="http://gd.people.com.cn/" target="_blank">ÔÁ</a></li>
-        <li><a href="http://gx.people.com.cn/" target="_blank">¹ð</a></li>
-        <li><a href="http://hi.people.com.cn/" target="_blank">Çí</a></li>
-        <li><a href="http://cq.people.com.cn/" target="_blank">Óå</a></li>
-        <li><a href="http://sc.people.com.cn/" target="_blank">´¨</a></li>
-        <li><a href="http://gz.people.com.cn/" target="_blank">Ç­</a></li>
-        <li><a href="http://yn.people.com.cn/" target="_blank">µá</a></li>
-        <li><a href="http://xz.people.com.cn/" target="_blank">²Ø</a></li>
-        <li><a href="http://sn.people.com.cn/" target="_blank">ÉÂ</a></li>
-        <li><a href="http://gs.people.com.cn/" target="_blank">¸Ê</a></li>
-        <li><a href="http://qh.people.com.cn/" target="_blank">Çà</a></li>
-        <li><a href="http://nx.people.com.cn/" target="_blank">Äþ</a></li>
-        <li><a href="http://xj.people.com.cn/" target="_blank">ÐÂ</a></li>
-        <li><a href="http://sz.people.com.cn/" target="_blank">Åô</a></li>
-        <li><a href="http://www.rmxiongan.com/" target="_blank">ÐÛ°²</a></li>
-    </ul>
-    </div>
-</li><li class="jubao"><a href="https://www.12377.cn/" target="_blank">¾Ù±¨×¨Çø</a></li><li class="language"><span>¶àÓïÑÔ<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
-<div>
-    <ul class="dyz">
-        <li><a href="http://mongol.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/01.png" class="meng" /></a></li>
-        <li><a href="http://tibet.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/02.png" /></a></li>
-        <li><a href="http://uyghur.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/03.png" /></a></li>
-        <li><a href="http://kazakh.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/04.png" /></a></li>
-        <li><a href="http://korean.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/05.png" /></a></li>
-        <li><a href="http://yi.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/06.png" /></a></li>
-        <li><a href="http://sawcuengh.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/07.png" /></a></li>
-        <li><a href="http://www.people.com.cn/BIG5/" target="_blank"><img src="/img/2020peopleindex/img/dyz/08.png" /></a></li>
-		<li style="font-size:24px;color:#ccc;margin-top:3px;">|</li>
-        <li><a href="http://en.people.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/09.png" /></a></li>
-        <li><a href="http://j.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/10.png" /></a></li>
-        <li><a href="http://french.peopledaily.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/11.png" /></a></li>
-        <li><a href="http://spanish.peopledaily.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/12.png" /></a></li>
-        <li><a href="http://russian.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/13.png" /></a></li>
-        <li><a href="http://arabic.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/14.png" /></a></li>
-        <li><a href="http://kr.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/15.png" /></a></li>
-        <li><a href="http://german.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/16.png" /></a></li>
-        <li><a href="http://portuguese.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/dyz/17.png" /></a></li>
-    </ul>
-</div>
-</li><li class="language dhfj"><span>ºÏ×÷ÍøÕ¾<img src="/img/2020peopleindex/img/arrow2.png" class="zhuan" /></span>
-<div>
-    <ul class="hzwz">
-        <li><a href="http://cpc.people.com.cn/GB/69112/113427/index.html" target="_blank">Ã«Ö÷Ï¯¼ÍÄîÌÃ</a></li>
-        <li><a href="http://zhouenlai.people.cn/" target="_blank">ÖÜ¶÷À´¼ÍÄîÍø</a></li>
-        <li><a href="http://www.dengxiaopingnet.com/" target="_blank">µËÐ¡Æ½¼ÍÄîÍø</a></li>
-        <li style="display:none;"><a href="http://npc.people.com.cn/" target="_blank">ÈË´óÐÂÎÅÍø</a></li>
-        <li><a href="http://acftu.people.com.cn/" target="_blank">¹¤»áÐÂÎÅÍø</a></li>
-        <li><a href="http://www.chinaql.org/GB/index.html" target="_blank">ÖÐ¹úÇÈÁª</a></li>
-        <li><a href="https://www.xuexi.cn/" target="_blank">Ñ§Ï°Ç¿¹ú</a></li>
-        <li><a href="http://www.dswxyjy.org.cn/" target="_blank">ÖÐ¹²ÖÐÑëµ³Ê·ºÍÎÄÏ×ÑÐ¾¿Ôº</a></li>
-        <li><a href="http://www.12380.gov.cn/" target="_blank">ÖÐ×é²¿12380¾Ù±¨Íø</a></li>
-        <li><a href="http://www.nopss.gov.cn/" target="_blank">È«¹úÕÜÑ§Éç¿Æ¹¤×÷°ì</a></li>
-        <li style="display:none;"><a href="http://tyzx.people.cn/" target="_blank">ÖÐ¹úÍ³Ò»Õ½ÏßÐÂÎÅÍø</a></li>
-        <li><a href="http://www.qizhiwang.org.cn/" target="_blank">ÆìÖÄÍø</a></li>
-        <li><a href="http://www.gjbmj.gov.cn/" target="_blank">¹ú¼Ò±£ÃÜ¾Ö</a></li>
-        <li><a href="http://www.cpta.com.cn/" target="_blank">ÈËÊÂ¿¼ÊÔÍø</a></li>
-        <li><a href="http://kpzg.people.com.cn/" target="_blank">¿ÆÆÕÖÐ¹ú</a></li>
-        <li><a href="http://ip.people.com.cn/" target="_blank">ÖªÊ¶²úÈ¨</a></li>
-        <li><a href="http://www.urbanchina.org/" target="_blank">ÖÐ¹ú³ÇÊÐÍø</a></li>
-        <li style="display:none"><a href="http://rwdl.people.cn/" target="_blank">ÖÐ¹ú¹ú¼ÒÈËÎÄµØÀí</a></li>
-    </ul>
-</div>
-</li><li class="nav_jia"><a href="http://www.people.cn/app/download.html" target="_blank"><img src="/img/2020peopleindex/img/rmwjia1.png" alt=""></a></li><li class="nav_more"><img src="/img/2020peopleindex/img/more2.png" alt=""></li><li class="sou"><a href="http://search.people.cn/" target="_blank"><img src="/img/2020peopleindex/img/sou1.png" alt=""></a></li><li class="Sign" id="login_button"><em></em><a href="http://sso.people.com.cn/login?fromUrl=http://people.com.cn" target="_blank">µÇÂ¼</a></li>
-                <div class="p_login" id="p_login">
-                    <div class="jiao"></div>
-                    <div id="txz_dlh">
-                        <div class="lg_up">
-                            <span><img src="/img/2020peopleindex/img/dltx1.png" width="30" height="30" alt=""></span><em id="loginMsg"></em>
-                        </div>
-                        <div class="lg_down">
-                            <a id="logout" target="_self">ÍË³ö</a>
-                        </div>
-                    </div>
-                </div></ul>
-			</div>
-		</div>
-	</div>
-    <div class="nav_more_con cf">
-		<i class="more_btn"></i>
-		<div class="layout cf">
-			<h1 class="cf"><img src="/img/2020peopleindex/img/logo_red.png" alt=""></h1><ul class="cf">
-            	<li><a href="http://www.people.cn/app/download.html" target="_blank"><img src="/img/2020peopleindex/img/icon_more0.png" alt="">ÈËÃñÍø+</a></li>
-				<li><a href="http://cpc.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/icon_more1.png" alt="">ÖÐ¹ú¹²²úµ³ÐÂÎÅÍø</a></li>
-				<li><a href="http://liuyan.people.com.cn/" target="_blank"><img src="/img/2020peopleindex/img/icon_more2.png" alt="">Áìµ¼ÁôÑÔ°å</a></li>
-				<li><a href="http://bbs1.people.com.cn/board/1.html" target="_blank"><img src="/img/2020peopleindex/img/icon_more3.png" alt="">Ç¿¹úÂÛÌ³</a></li>
-				<li><a href="http://v.people.cn/" target="_blank"><img src="/img/2020peopleindex/img/icon_more4.png" alt="">ÈËÃñÊÓÆµ</a></li>
-				<li><a href="http://www.people.cn/rmzy/download.html" target="_blank"><img src="/img/2020peopleindex/img/icon_more5.png" alt="">ÈËÃñÖÇÔÆ</a></li>
-			</ul><h3 class="cf">ÈËÃñÈÕ±¨±¨Ïµ</h3>
-<div class="more_con cf">
-    <a href="http://paper.people.com.cn/rmrb/index.html" target="_blank">ÈËÃñÈÕ±¨</a>
-    <a href="http://paper.people.com.cn/rmrbhwb/paperindex.htm" target="_blank">ÈËÃñÈÕ±¨º£Íâ°æ</a>
-    <a href="http://www.cnautonews.com/" target="_blank">ÖÐ¹úÆû³µ±¨</a>
-    <a href="http://paper.people.com.cn/zgnyb/paperindex.htm" target="_blank">ÖÐ¹úÄÜÔ´±¨</a>
-    <a href="http://paper.people.com.cn/jksb/paperindex.htm" target="_blank">½¡¿µÊ±±¨</a>
-    <a href="http://www.stcn.com/" target="_blank">Ö¤È¯Ê±±¨</a>
-    <a href="http://www.ifnews.com/" target="_blank">¹ú¼Ê½ðÈÚ±¨Íø</a>
-    <a href="http://paper.people.com.cn/fcyym/paperindex.htm" target="_blank">·í´ÌÓëÓÄÄ¬</a>
-    <a href="http://paper.people.com.cn/zgcsb/paperindex.htm" target="_blank">ÖÐ¹ú³ÇÊÐ±¨</a>
-    <a href="http://paper.people.com.cn/xwzx/paperindex.htm" target="_blank">ÐÂÎÅÕ½Ïß</a>
-    <a href="http://paper.people.com.cn/rmlt/paperindex.htm" target="_blank">ÈËÃñÂÛÌ³</a>
-    <a href="http://www.hqrw.com.cn/" target="_blank">»·ÇòÈËÎï</a>
-    <a href="http://www.ceweekly.cn/" target="_blank">ÖÐ¹ú¾­¼ÃÖÜ¿¯</a>
-    <a href="http://www.msweekly.com/" target="_blank">ÃñÉúÖÜ¿¯</a>
-    <a href="http://www.gjrwls.com/" target="_blank">¹ú¼ÒÈËÎÄÀúÊ·</a>
-    <a href="http://paper.people.com.cn/rmzk/paperindex.htm" target="_blank">ÈËÃñÖÜ¿¯</a>
-</div><h3 class="cf">ÆìÏÂÍøÕ¾</h3>
-<div class="more_con cf">
-<a href="http://sklccc.com.cn/" target="_blank">¹ú¼ÒÖØµãÊµÑéÊÒ</a>
-<a href="http://www.huanqiu.com/" target="_blank">»·ÇòÍø</a>
-<a href="http://www.haiwainet.cn/" target="_blank">º£ÍâÍø</a>
-<a href="http://vip.people.com.cn/" target="_blank">ÈËÃñÍ¼Æ¬</a>
-<a href="https://visual.people.cn/editorial" target="_blank">ÈËÃñÊÓ¾õ</a>    
-<a href="http://yjy.people.com.cn/" target="_blank">ÈËÃñÍøÑÐ¾¿Ôº</a>
-</div></div>
-	</div>
-    <div class="layout cf">
- 		<script type="text/javascript" src="http://pgg.people.com.cn/s?z=people&c=20&_people=hm" charset="gbk"></script>
-	</div>
-	<!--Â·¾¶-->
-	<div class="layout route cf" id="rwb_navpath">
-		<a href="http://www.people.com.cn/" class="clink">ÈËÃñÍø</a>&gt;&gt;<a href="http://hm.people.com.cn/" class="clink">¸Û°Ä</a>
-	</div>
-	<!--ÄÚÈÝ-->
-	<div class="layout rm_txt cf">
-		<div class="col col-1 fl">
-			<h3 class="pre"></h3>
-			<h1>×ðÖØ°üÈÝ&nbsp;ºÍÐ³¹²Éú¡ª¡ªÏã¸ÛÕ¹ÏÖ¶àÔªÎÄ»¯÷ÈÁ¦</h1>
-			<h4 class="sub"></h4>
-			<div class="author cf"></div>
-			<div class="channel cf">
-				<div class="col-1-1 fl">
-					2019Äê05ÔÂ16ÈÕ21:37 | À´Ô´£º<a href="http://www.xinhuanet.com/" target="_blank">ÐÂ»ªÍø</a>
-				</div>
-				<div class="col-1-2 fr">
-					<span class="rm_type"><img src="/img/2020wbc/imgs/icon_type.png" alt=""><i>Ð¡×ÖºÅ</i></span>
-				</div>
-			</div>
-			<div class="rm_txt_con cf">
-            	<div class="box_pic"></div>
-				<p style="text-indent: 2em;">
-	ÐÂ»ªÉçÏã¸Û5ÔÂ16ÈÕµç Ìâ£º×ðÖØ°üÈÝ ºÍÐ³¹²Éú¡ª¡ªÏã¸ÛÕ¹ÏÖ¶àÔªÎÄ»¯÷ÈÁ¦</p>
-<p style="text-indent: 2em;">
-	ÐÂ»ªÉç¼ÇÕß ¶¡è÷Ü²</p>
-<p style="text-indent: 2em;">
-	5ÔÂ12ÈÕÊÇÏã¸Û·¨¶¨·ðµ®¼ÙÈÕ¡£ÊýÇ§Ãû·ðÃÅµÜ×Ó´ÓËÄÃæ°Ë·½¸Ïµ½Ïã¸ÛÌåÓý¹Ý£¬²Î¼ÓÒ»ÄêÒ»¶ÈµÄÔ¡·ð´óµä¡£Óë´ËÍ¬Ê±£¬ÔÚ¸ÛµºÅÜÂíµØÓ¡¶È½ÌËÂÃíÄÚ£¬Ó¡¶È½ÌÍ½ÃÇ¾ÙÐÐÁËÒ»³¡¾Û»á£¬ËûÃÇÒ»ÆðÑÝ×àÒôÀÖ£¬ÏíÓÃ²Í·¹¡£ÕâÖÖ²»Í¬×Ú½Ì¡¢ÎÄ»¯Ïà»¥×ðÖØ¡¢ºÍÐ³¹²´¦µÄÇé¾°£¬ÔÚÏã¸ÛÊ±Ê±¿É¼û¡£</p>
-<p style="text-indent: 2em;">
-	Ïã¸Û×Ô¿ª²ºÒÔÀ´£¬Ò»Ö±ÊÇÒ»¸ö»ªÑó¹²´¦µÄ¸Û¿Ú³ÇÊÐ¡£Ó¢¹úÈËÃÜ¸£ÌØÔÚ1865Äê¸øÓÑÈËµÄÐÅÖÐÔøÐ´µÀ£º¡°Ïã¸ÛÊÇÊÀ½çÉÏ×îÏñ´óÔÓ»âµÄµØ·½Ö®Ò»¡£¡±ÔÚÕâÀï£¬²»Í¬×åÈººÍÐ³¹²´¦£¬´¦´¦Õ¹ÏÖ×ÅÏã¸Û×÷Îª¹ú¼Ê´ó¶¼»áµÄÆøÆÇ¡£</p>
-<p style="text-indent: 2em;">
-	¡°»Ø¹ËÀúÊ·£¬°üÈÝ²¢ÐîÕâÖÖÌØÖÊÒ»Ö±´æÔÚ¡£¡±Ïã¸Û·ÇÎïÖÊÎÄ»¯ÒÅ²ú×ÉÑ¯Î¯Ô±»áÖ÷Ï¯Ö£Åà¿­Ëµ£¬ÖÐ»ªÎÄ»¯Ò»Ö±¶¼ÈÝÄÉ¸÷ÖÖ¸÷ÑùµÄ¶«Î÷£¬´Ù½ø×ÅÎÄÃ÷µÄ´«³ÐÓë·¢Ñï¡£</p>
-<p style="text-indent: 2em;">
-	²»Í¬×Ú½ÌºÍÆ½Ïà´¦£¬²»Í¬×åÈºÒ²ºÍÐ³Óë¹²¡£Ïã¸ÛµÄ¾ÓÃñÀ´×ÔÊÀ½ç¸÷µØ£¬ÔÚÏã¸Û·Ç»ªÒáÈË¿ÚÖÐ£¬¶«ÄÏÑÇºÍÄÏÑÇÈËÕ¼ÓÐºÜ´ó±ÈÖØ¡£ÔÚ´ó½ÖÉÏ£¬×ÜÄÜ¼ûµ½¶«ÄÏÑÇÈË¡¢Å·ÖÞÈËºÍ¸÷¹ú»ìÑª¶ùµÄÉíÓ°£¬Ìýµ½»ìÔÓ×ÅÔÁÓïµÄÓ¢ÓïºÍÆäËûÓïÑÔ¡£</p>
-<p style="text-indent: 2em;">
-	½ñÄê30ËêµÄ°Í»ùË¹Ì¹ÒáÀîÌÙ6ËêÊ±Ëæ¸¸Ä¸ÒÆ¾ÓÏã¸Û£¬Ë³Àû¶ÁÍêÐ¡Ñ§¡¢ÖÐÑ§¡¢´óÑ§ºó£¬ÕÒµ½ÁËÒ»·ÝÏ²»¶µÄ¹¤×÷£ºµ£ÈÎÒ»ËùÖÐÑ§µÄÁªÂçÖ÷ÈÎ£¬°ïÖúÐ£ÄÚµÄÉÙÊý×åÒáÑ§Éú¸üºÃµØÈÚÈëÏã¸Û¡£</p>
-<p style="text-indent: 2em;">
-	ÀîÌÙ¸Õµ½Ïã¸ÛÊ±£¬ÎÄ»¯²»Í¬£¬ÓïÑÔ²»Í¨£¬µ«ËýÆ¾½è¼áÇ¿µÄÒãÁ¦ºÍ»ý¼«µÄÐÄÌ¬¿Ë·þÁËÕâÐ©ÕÏ°­¡£¡°Ïã¸ÛµÄ°üÈÝÈÃÎÒÃÇÔ½À´Ô½ºÃµØÉú»î£¬¶øÎÒÃÇÒ²ÒªÍ¨¹ýÅ¬Á¦£¬ÈÃÏã¸ÛµÄÃ÷Ìì¸ü¼ÓÃÀÀö¡£¡±ËýËµ¡£</p>
-<p style="text-indent: 2em;">
-	ÔÚÏã¸ÛÕâ·ùÎå²Ê¶àÔªµÄÃÀÀö»­¾íÉÏ£¬ÖÐ¹ú´«Í³ÎÄ»¯ÊÇ×îÉîºñµÄµ×É«¡£Ö£Åà¿­±íÊ¾£¬Ïã¸ÛµÄÎÄÑ§¡¢ÒôÀÖÒÔ¼°ÈËÃÇµÄË¼Î¬·½Ê½¡¢´«Í³Ï°¹ß¡¢Éú»îÏ¸½ÚµÈ£¬ÎÞ²»ÉøÍ¸×ÅÖÐ»ªÎÄ»¯µÄÓ°Ïì¡£</p>
-<p style="text-indent: 2em;">
-	ÃÀ¹úÈË·½ÃÀ°ºÔøÔÚ±±¾©¾Ó×¡ºÍ¹¤×÷ÁË15Äê£¬ÓÚ2017ÄêÒÆ¾ÓÏã¸Û£¬Ä¿Ç°µ£ÈÎÏã¸ÛÎ÷¾ÅÎÄ»¯Çø¹ÜÀí¾Ö±íÑÝÒÕÊõ×Ü¼à¡£ÉîÚÏÖÐ¹úÎÄ»¯µÄËýÕý´øÁìÇøÄÚµÄÎèµ¸¡¢Ï·¾ç¡¢Ï·Çú¡¢ÒôÀÖÍÅ¶Ó£¬Îª±íÑÝÒÕÊõ½ÚÄ¿ÔÚ¹¹Ë¼¡¢²ß»®ºÍÖ´ÐÐ·½Ãæ×¢Èë»îÁ¦¡£</p>
-<p style="text-indent: 2em;">
-	¡°¸Ð¾õÏã¸ÛºÜÇ×ÇÐ£¬²»»áÓÐÊèÀë¸Ð¡£ÎÒ¼¸ºõÃ¿Ìì¶¼²Î¼Ó²»Í¬µÄÕ¹ÀÀ¡¢ÑÝ³öºÍ»î¶¯£¬Ïã¸ÛÒÕÊõ½çÊ®·Ö·á¸»¶à²Ê¡£¡±²Ù×ÅÒ»¿ÚÁ÷ÀûÆÕÍ¨»°µÄ·½ÃÀ°ºÈÕÇ°ÔÚÒ»³¡ÍíÑçÉÏ£¬ÓëÍ¬×ù¼Î±öÏàÌ¸Éõ»¶¡£Ëý¶ÔÏã¸ÛÕâ×ùÖÐÎ÷ºÏèµµÄ³ÇÊÐÇéÓÐ¶ÀÖÓ£¬ÔÚËýµÄ²ÍÅÌÖÐ£¬ÊÇµØµÀµÄÔÁ²Ë¡£</p>
-<p style="text-indent: 2em;">
-	±»ÓþÎª¡°ÃÀÊ³ÌìÌÃ¡±µÄÏã¸Û£¬»ã¾ÛÁË¶«Î÷·½ÃÀÊ³¡£ÔÚÕâÀï£¬²»½öÄÜ³Ôµ½ÖÐ¹ú´«Í³ÃÀÊ³£¬ÈçÖÐ¹ú°Ë´ó²ËÏµ£¬»¹ÄÜÆ·³¢µ½Å·ÖÞ¡¢¶«ÄÏÑÇ¡¢·ÇÖÞµÈ¶à¸ö¹ú¼ÒºÍµØÇøµÄ¶ÀÌØ·çÎ¶¡£</p>
-<p style="text-indent: 2em;">
-	Íå×ÐÐÇ½ÖÐ¡Çø¡¢ÖÐ»·À¼¹ð·»¡¢ËÕºÀÃÀÊ³Çø¡¢¼âÉ³¾×ÅµÊ¿·ðÌ¨¼°ÌìÎÄÌ¨Î§¡­¡­´ÓÉ«²Ê·á¸»µÄÑÇÖÞÃÀÊ³µ½ÁÕÀÅÂúÄ¿µÄÎ÷Ê½¼ÑëÈ£¬Ó¦ÓÐ¾¡ÓÐ¡£ÓÐÈËËµ£¬ÔÚÏã¸ÛµÄÒ»Ìõ½ÖµÀÉÏ£¬¾Í¿ÉÒÔÌåÑéÒ»ÌË»·ÇòÃÀÎ¶Ö®ÂÃ¡£</p>
-<p style="text-indent: 2em;">
-	¡°²»ÓÃÅÜÄÇÃ´Ô¶£¬ÔÚÎÒµêÀï¾ÍÄÜ³¢µ½ºÃ¼¸¸ö¹ú¼ÒµÄÃÀÊ³¡£¡±Íå×ÐÒ»¼Ò²Í¹ÝµÄÀÏ°åÕÅ¾´³õËµ¡£</p>
-<p style="text-indent: 2em;">
-	³ýÁËÃÀÊ³£¬ÔÚÂÃÓÎ·½Ãæ£¬Ïã¸ÛÒ²¿ÉÎ½ÖÐÎ÷ÜöÝÍ¡£´«Í³µÄ×æÏÈ×Úìô¡¢ÊÏ×åÎ§´å¡¢·ðÌÃÃíÓî£¬´ú±í×Å¶«·½ÀúÊ·ÎÄ»¯µÄÒÅ¼£ºÍ¾°µã±é²¼Ïã¸Û¸÷¸ö½ÇÂä£¬¶øÊ¥Ô¼º²×ùÌÃ¡¢ÓÌÌ«½ÌÀòÑÇÌÃµÈ×Ú½Ì½¨ÖþÒ²ÔÚÕ¹ÏÖ×Å¶ÀÌØµÄ·çÇé¡£</p>
-<p style="text-indent: 2em;">
-	ÔÚÏã¸Û£¬Ò»ÄêËÄ¼¾¶¼¿ÉÒÔÌåÎ¶µ½Å¨ºñµÄ¶àÔªÎÄ»¯ÆøÏ¢¡£¾«²ÊµÄ¹úÍâ½ÚÈÕÈç·¨¹úÎåÔÂ½Ú¡¢Ì©Ê½ÆÃË®½Ú¡¢ºÉÀ¼ÈÕ£»ÊÀ½ç¼¶µÄÒÕÊõÎÄ»¯»î¶¯Èç°ÍÈû¶ûÒÕÊõÕ¹¡¢¹ú¼Ê×ÛÒÕºÏ¼Ò»¶£»¹ú¼Ê¼¶µÄÌåÓýÊ¢ÊÂÈçÏã¸Û¹ú¼ÊÆßÈËé­ÇòÈü¡¢Ïã¸ÛÂíÀ­ËÉ£¬¶¼¾Û¼¯ÔÚÕâ¸ö¡°ÑÇÖÞÊ¢ÊÂÖ®¶¼¡±¡£</p>
-<p style="text-indent: 2em;">
-	²»Í¬ÖÖ×åºÍ×Ú½ÌµÄºÍÐ³¹²Éú£¬ÈÃÏã¸ÛµÄÎÄ»¯ÄÚº­Óú·¢·á¸»¶à²Ê£¬Õ¹Ê¾³ö¶àÔªµÄÎÄ»¯÷ÈÁ¦¡£ÎÞÂÛÄãÀ´×ÔÄÄ¸ö¹ú¼Ò£¬²»¹ÜÄãºÎÖÖ·ôÉ«£¬Ïã¸Û¶¼»á¸øÄãÒ»¸ö°®ÉÏËýµÄÀíÓÉ£¬ÄãÒ²ÄÜÔÚÕâÀïÕÒµ½Ç×ÇÐµÄ¸Ð¾õºÍÊìÏ¤µÄÎ¶µÀ¡£</p>
-<p style="text-indent: 2em;">
-	¡°¼á³Ö¿ª·Å°üÈÝ¡¢»¥Ñ§»¥¼ø¡£¡±ÔÚÖ£Åà¿­¿´À´£¬¶«Î÷·½ÎÄÃ÷Ïà»¥°üÈÝÀí½â£¬¶àÔªÎÄ»¯½«¼ÌÐøÔÚÏã¸ÛÕ¹ÏÖ³ö²ª²ªÉú»ú¡£&nbsp;</p>
-<div class="zdfy clearfix"></div><center><table border="0" align="center" width="40%"><tr></tr></table></center>
-                <div class="box_pic"></div>
-                <div class="edit cf">(Ôð±à£ºÑàÛÂ¡¢ÑîÄÁ)</div>
-				<p class="paper_num"><em class="section-common-share-wrap">·ÖÏíÈÃ¸ü¶àÈË¿´µ½ <i class="btn_share_common"><img src="/img/2020wbc/imgs/share.png" alt=""></i> </em></p>
-			</div>
-			
-			
-            
-			<div class="rm_relevant rm_download cf">
-				<h5><span></span>¿Í»§¶ËÏÂÔØ</h5>
-				<ul>
-					<li><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_rmrb.png" width="70" height="70" alt="">ÈËÃñÈÕ±¨</a></li>
-                    <li><a href="http://www.people.cn/app/download.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_rmwj1.png" width="70" height="70" alt="">ÈËÃñÍø+</a></li>
-					<li><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_rmw.png" width="70" height="70" alt="">ÊÖ»úÈËÃñÍø</a></li>
-					<li><a href="http://leaders.people.com.cn/GB/178291/407226/index.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_ly.png" width="70" height="70" alt="">Áìµ¼ÁôÑÔ°å</a></li>
-					<li><a href="http://5g.people.cn/rmspdown/" target="_blank"><img src="/img/2020wbc/imgs/icon_download_video.png" width="70" height="70" alt="">ÈËÃñÊÓÆµ</a></li>
-					<li><a href="http://www.people.cn/rmzy/download.html" target="_blank"><img src="/img/2020wbc/imgs/icon_download_zy.png" width="70" height="70" alt="">ÈËÃñÖÇÔÆ</a></li>
-                    <li><a href="http://coo.people.cn/" target="_blank"><img src="/img/2020wbc/imgs/icon_download_zz.png" width="70" height="70" alt="">ÈËÃñÖÇ×÷</a></li>                   
-				</ul>
-			</div>
-		</div>
-		<div class="col col-2 fr">
-			<div id="jiansuo"></div>
-            <script type="text/javascript" src="http://pgg.people.com.cn/s?z=people&c=21&_people=hm" charset="gbk"></script>
-			<!--<div class="rm_bbs cf">
-				<a href="http://bbs1.people.com.cn/board/1.html" target="_blank"><img src="/img/2020wbc/imgs/icon_bbs.png" width="340" height="81" alt=""></a>
-			</div>-->
-            <script type="text/javascript" src="http://pgg.people.com.cn/s?z=people&c=22&_people=hm" charset="gbk"></script>
-			<div class="rm_ranking cf">
-				<h3>ÈÈÃÅÅÅÐÐ</h3>
-				<b></b>				
-				<ul class="rm_ranking_list gray cf"><li><span>1</span><a href="/n1/2021/0528/c42272-32115463.html" target=_blank>Ïã¸ÛÁ¢·¨»áÈý¶ÁÍ¨¹ýÍêÉÆÑ¡¾ÙÖÆ¶ÈÌõÀý²Ý°¸</a></li><li><span>2</span><a href="/n1/2021/0601/c42272-32118622.html" title="Ïã¸Û¡¶2021ÄêÍêÉÆÑ¡¾ÙÖÆ¶È£¨×ÛºÏÐÞ¶©£©ÌõÀý¡·ÕýÊ½ÉúÐ§" target=_blank>Ïã¸Û¡¶2021ÄêÍêÉÆÑ¡¾ÙÖÆ¶È£¨×ÛºÏÐÞ¶©¡­</a></li><li><span>3</span><a href="/n1/2021/0531/c42272-32117346.html" title="Ïã¸ÛÖÐÁª°ì£ºÒÀ·¨ÉóÅÐÕÃÏÔÕýÒå ¿ÖÏÅ·¨¹Ù±ØÐëÑÏ³Í" target=_blank>Ïã¸ÛÖÐÁª°ì£ºÒÀ·¨ÉóÅÐÕÃÏÔÕýÒå&nbsp;¿ÖÏÅ·¨¹Ù¡­</a></li><li><span>4</span><a href="/n1/2021/0531/c42272-32118522.html" title="Ïã¸Û¡¶2021ÄêÍêÉÆÑ¡¾ÙÖÆ¶È£¨×ÛºÏÐÞ¶©£©ÌõÀý¡·ÕýÊ½ÉúÐ§" target=_blank>Ïã¸Û¡¶2021ÄêÍêÉÆÑ¡¾ÙÖÆ¶È£¨×ÛºÏÐÞ¶©¡­</a></li><li><span>5</span><a href="/n1/2021/0531/c42272-32117343.html" title="¹úÎñÔº¸Û°Ä°ì£º±ØÐëÑÏ³Í¿ÖÏÅÏã¸ÛÌØÇø·¨¹ÙµÄ¶ñÁÓÐÐ¾¶" target=_blank>¹úÎñÔº¸Û°Ä°ì£º±ØÐëÑÏ³Í¿ÖÏÅÏã¸ÛÌØÇø·¨¹Ù¡­</a></li><li><span>6</span><a href="/n1/2021/0528/c42272-32115466.html" title="Ïã¸ÛÌØÇøÇ°Á½ÈÎÐÐÕþ³¤¹Ù£º»¶Ó­Ö§³ÖÁ¢·¨»áÉóÒéÍ¨¹ýÍêÉÆÑ¡¾ÙÖÆ¶ÈÌõÀý²Ý°¸" target=_blank>Ïã¸ÛÌØÇøÇ°Á½ÈÎÐÐÕþ³¤¹Ù£º»¶Ó­Ö§³ÖÁ¢·¨»á¡­</a></li><li><span>7</span><a href="/n1/2021/0528/c42272-32116294.html" title="Ïã¸ÛÉç»á¸÷½ç£ºÍêÉÆÏã¸ÛÑ¡¾ÙÖÆ¶È ¡°¶«·½Ö®Öé¡±ÔÙ´´»Ô»Í" target=_blank>Ïã¸ÛÉç»á¸÷½ç£ºÍêÉÆÏã¸ÛÑ¡¾ÙÖÆ¶È&nbsp;¡°¶«·½¡­</a></li><li><span>8</span><a href="/n1/2021/0531/c42272-32118047.html" target=_blank>º«±ØÊ¡Êé»­×÷Æ·Õ¹ÔÚ°ÄÃÅ¾Ù°ì</a></li><li><span>9</span><a href="/n1/2021/0529/c42272-32116616.html" target=_blank>ÍêÉÆºóµÄÑ¡¾ÙÖÆ¶ÈÖúÏã¸ÛÖØ»ØÕý¹ì</a></li><li><span>10</span><a href="/n1/2021/0529/c42272-32116968.html" target=_blank>ÁÖÖ£ÔÂ¶ðÇ©ÊðÍêÉÆÑ¡¾ÙÖÆ¶ÈÌõÀý</a></li></ul>
-			</div>
-		</div>
-	</div>
-	<!--footer-->
-	<div class="rm_footer cf">
-		<!--information-->
-		<div class="layout information cf">
-<p><a href="http://www.people.com.cn/GB/1018/22259/index.html" target="_blank">ÈËÃñÈÕ±¨Éç¸Å¿ö</a>
-    <span class="xian">|</span>
-    <a href="http://www.people.com.cn/GB/50142/420117/index.html" target="_blank">¹ØÓÚÈËÃñÍø</a>
-    <span class="xian">|</span>
-    <a href="http://hr.peopledaily.com.cn/" target="_blank">±¨ÉçÕÐÆ¸</a>
-    <span class="xian">|</span>
-    <a href="http://job.people.com.cn/" target="_blank">ÕÐÆ¸Ó¢²Å</a>
-    <span class="xian">|</span>
-    <a href="http://www.people.com.cn/GB/208743/403202/index.html" target="_blank">¹ã¸æ·þÎñ</a>
-    <span class="xian">|</span>
-    <a href="http://www.people.com.cn/GB/208743/403202/403212/index.html" target="_blank">ºÏ×÷¼ÓÃË</a>
-    <span class="xian">|</span>
-    <a href="http://gonggao.people.com.cn/" target="_blank">¹©¸å·þÎñ</a>
-    <span class="xian">|</span>
-    <a href="http://data.people.com.cn/" target="_blank">Êý¾Ý·þÎñ</a>
-    <span class="xian">|</span>
-    <a href="http://www.people.com.cn/n/2013/1227/c373005-23961344.html" target="_blank">ÍøÕ¾ÉùÃ÷</a>
-    <span class="xian">|</span>
-    <a href="http://www.people.com.cn/n1/2019/0308/c420117-30965009.html" target="_blank">ÍøÕ¾ÂÉÊ¦</a>
-    <span class="xian">|</span>
-    <a href="http://sso.people.com.cn/resource/html/userInforPro.html" target="_blank">ÐÅÏ¢±£»¤</a>
-    <span class="xian">|</span>
-    <a href="http://kf.people.com.cn/" target="_blank">ÁªÏµÎÒÃÇ</a>    
-</p>
-    <p>·þÎñÓÊÏä£º<a href="mailto:kf@people.cn" target="_blank">kf@people.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;Î¥·¨ºÍ²»Á¼ÐÅÏ¢¾Ù±¨µç»°£º010-65363263&nbsp;&nbsp;&nbsp;&nbsp;¾Ù±¨ÓÊÏä£º<a href="mailto:jubao@people.cn" target="_blank">jubao@people.cn</a></p>
-    <p><a href="http://www.people.com.cn/img/2014xuke/2018hlwxw.html" target="_blank">»¥ÁªÍøÐÂÎÅÐÅÏ¢·þÎñÐí¿ÉÖ¤10120170001</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2018zzdxxkz.html" target="_blank">ÔöÖµµçÐÅÒµÎñ¾­ÓªÐí¿ÉÖ¤B1-20060139</a></p>
-    <p><a href="http://www.people.com.cn/img/2019peopleindex/html/gbds2019.html" target="_blank">¹ã²¥µçÊÓ½ÚÄ¿ÖÆ×÷¾­ÓªÐí¿ÉÖ¤£¨¹ãÃ½£©×ÖµÚ172ºÅ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2019ypxxfwzg.html" target="_blank">»¥ÁªÍøÒ©Æ·ÐÅÏ¢·þÎñ×Ê¸ñÖ¤Êé£¨¾©£©-·Ç¾­ÓªÐÔ-2016-0098</a></p>
-    <p><a href="http://www.people.com.cn/img/2011zzzs/2018xxwlcb.htm" target="_blank">ÐÅÏ¢ÍøÂç´«²¥ÊÓÌý½ÚÄ¿Ðí¿ÉÖ¤0104065</a>&nbsp;|&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2018wlwh.html" target="_blank">ÍøÂçÎÄ»¯¾­ÓªÐí¿ÉÖ¤ ¾©ÍøÎÄ[2020]5494-1075ºÅ</a>&nbsp;|&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2018wlcb.html" target="_blank">ÍøÂç³ö°æ·þÎñÐí¿ÉÖ¤£¨¾©£©×Ö121ºÅ</a>&nbsp;|&nbsp;<a href="http://www.people.com.cn/img/2014xuke/2018icp.html" target="_blank">¾©ICPÖ¤000006ºÅ</a>&nbsp;|&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008" target="_blank">¾©¹«Íø°²±¸11000002000008ºÅ</a></p>
-    <p class="copyright">
-        ÈË Ãñ Íø °æ È¨ Ëù ÓÐ £¬Î´ ¾­ Êé Ãæ ÊÚ È¨ ½û Ö¹ Ê¹ ÓÃ<br />
-        Copyright &copy; 1997-2021 by www.people.com.cn. all rights reserved
-    </p>
-    <p class="attestation">
-        <a href="http://www.people.com.cn/img/2014xuke/2018icp.html" target="_blank"><img src="/img/2020peopleindex/img/copy_icon1.png" alt=""></a>
-        <a href="https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951" target="_blank"><img src="/img/2020peopleindex/img/copy_icon2.png" alt=""></a>
-        <a href="http://si.trustutn.org/info?sn=470170320027574551118&certType=1" target="_blank"><img src="/img/2020peopleindex/img/copy_icon3.png" alt=""></a>
-        <a href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html" target="_blank"><img src="/img/2020peopleindex/img/copy_icon4.png" alt=""></a>
-    </p>
-</div>
-	</div>
-	<div class="txt_float_r">
-		<ul>
-			<li class="btn_comment">
-				<span><em></em>ÆÀÂÛ</span>
-				<div class="share_con"><a href="http://bbs1.people.com.cn/board/1.html" target="_blank"><img src="/img/2020wbc/imgs/share_bbs.png" alt=""></a></div>
-			</li>
-			<li class="btn_share section-common-share-wrap">
-				<span class="btn_share_common"><em></em>·ÖÏí</span>				
-			</li>
-			<li class="btn_follow">
-				<span><em></em>¹Ø×¢</span>
-				<div class="share_con">
-					<i><strong class="active">Î¢ÐÅ</strong><strong>Î¢²©</strong><strong>¿ìÊÖ</strong></i>
-					<div style="display: block;">
-						<img src="/img/2020wbc/imgs/sj_wx.jpg" width="54" height="54" alt="">
-						<b>µÚÒ»Ê±¼äÎªÄúÍÆËÍÈ¨Íþ×ÊÑ¶</b>
-					</div>
-					<div style="display: none;">
-						<img src="/img/2020wbc/imgs/sj_wb.jpg" width="54" height="54" alt="">
-						<b>±¨µÀÈ«Çò ´«²¥ÖÐ¹ú</b>
-					</div>
-                    <div style="display: none;">
-						<img src="/img/2020wbc/imgs/sj_ks.png" width="54" height="54" alt="">
-						<b>¹Ø×¢ÈËÃñÍø£¬´«²¥ÕýÄÜÁ¿</b>
-					</div>
-				</div>
-			</li>
-		</ul>
-	</div>
-</div>
-<script src="http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js" type="text/javascript"></script>
-<style type="text/css">
-.topb{position:fixed; bottom:80px; right:20px;font-size:18px; font-family:"Microsoft YaHei";background:url(http://www.people.com.cn/img/2020peopleindex/img/topb.png) no-repeat top center; width:90px; height:50px; line-height:50px; padding-left:40px;cursor:pointer; display:none;}
-.topb:hover{color:#fff;background:url(http://www.people.com.cn/img/2020peopleindex/img/topba.png) no-repeat top center;}
-</style><div class="topb">·µ»Ø¶¥²¿</div><script type="text/javascript">
-$(document).ready(function() {
-	$(document).scroll(function(){
-		var bkTop=$(this).scrollTop();
-		if(bkTop > 200){
-			$(".topb").show()
-		}
-		else{
-			$(".topb").hide()	
-		}			
-	})	
-	$(".topb").click(function(){
-        $('html , body').animate({scrollTop: 0},500);
-    });	
-});
-</script>
-<script type="text/javascript">
-var keyw="";
-var keyws= new Array();
-var keyhtml="";
-if(keyw.length>0){
-	//console.log(keyw)
-	keyws=keyw.split(",");
-	keyhtml+="<div class=\"rm_entry cf\">";
-	keyhtml+="<h3>ÎÄÕÂÖÐÌá¼°</h3>";
-	keyhtml+="<b></b>";
-	for (i=0;i<keyws.length ;i++ )
-	{
-	keyhtml+="<a href=\"http://search.people.cn/s?keyword="+encodeURIComponent(keyws[i])+"\" target=\"_blank\"># "+keyws[i]+"</a>"; //·Ö¸îºóµÄ×Ö·ûÊä³ö
-	}
-	keyhtml+="</div>";
-	//$("#jiansuo").html(keyhtml);
-}
-else{
-$(".rm_bbs").css("margin-top","0px")
-}
-</script>
-<script src="http://www.people.com.cn/img/2020peopleindex/js/rmwtyn1.js" charset="utf-8" type="text/javascript"></script>
-<script src="http://www.people.com.cn/img/2020fenxiang/js/share_qr2020.js" type="text/javascript" charset="utf-8"></script>
-<script src="http://www.people.com.cn/img/2020wbc/js/static1.js" type="text/javascript" charset="utf-8"></script>
-<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script>
-<script type="text/javascript">
-var str="×ðÖØ°üÈÝ&nbsp;ºÍÐ³¹²Éú¡ª¡ªÏã¸ÛÕ¹ÏÖ¶àÔªÎÄ»¯÷ÈÁ¦";
-str=str.replace(/&nbsp;/g," ")
-str=str.replace(/&quot;/g,'"')
-str=str.replace(/<br>/g,"")
-var wxData = {
-	"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg", // 200x200
-	"link": window.location.href,
-	"desc": "ÈËÃñÍø£¬ÍøÉÏµÄÈËÃñÈÕ±¨",
-	"title": "" + str + ""
-};
-</script>
-<script src="http://www.people.com.cn/img/2016wb/WeiXinDatatit2020.js" type="text/javascript"></script>
-<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
-<img src="http://counter.people.cn:8000/c.gif?id=31089088" width=0 height=0 style="display:none;">
+<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td>
+	<table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" height="289"><img src="http://lawsocial.nmgnews.com.cn/fxj/wzlb/images/1000.jpg" width="1000" height="279" /></td>
+  </tr>
+</table>
+<table width="94%" border="0" align="center">
+  <tr>
+    <td class="black24_b" style="line-height:45px; height:45px;" align="center">
+	è­¦æƒ•æ—¥æœ¬â€œå¹¸ç¦ç§‘å­¦æ•™â€é‚ªæ•™åˆ¶ä½œåŠ¨æ¼«èƒŒåŽçš„ä¼å›¾	</td>
+  </tr>
+          <tr>
+            <td height="28" align="center" background="http://lawsocial.nmgnews.com.cn/cms_template/100/000/317/images/di01.gif">
+            <table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:12px">
+          <tr>
+            <td bgcolor="DEDEDE"></td>
+          </tr>
+  <tr>
+    <td align="center" height="24" style="color:#888888;"><a href="http://www.nmgnews.com.cn/"  target="_blank" class="black12">å†…è’™å¤æ–°é—»ç½‘</a> &nbsp;&nbsp;  
+                        <span class="black12">22-09-23 08:47</span>&nbsp;&nbsp;
+	                               <a href="javascript:doPrint()();" class="black12">æ‰“å°æœ¬é¡µ</a>	&nbsp;&nbsp;
+								   		<span class="black12"> æ¥æº:ä¸­å›½åé‚ªæ•™ç½‘</span> </td>
+  </tr>
+          <tr>
+            <td bgcolor="DEDEDE"></td>
+          </tr>
+        </table>            </td>
+          </tr>
+          <tr>
+            <td height="20" valign="middle"></td>
+          </tr>
+          <tr>
+            <td align="left" class="STYLE10" style="line-height: 150%;FONT-SIZE: 14px; color: #333333;">
+            <DIV ID="pzoom"><div><p>ã€€ã€€ã€ä¸­å›½åé‚ªæ•™ç½‘2022å¹´9æœˆ19æ—¥æ¶ˆæ¯ï¼Œé€šè®¯å‘˜ï¼šè‚–æž—ã€‘9æœˆ6æ—¥ï¼ŒåŠ æ‹¿å¤§æ¸¸æˆèµ„è®¯åª’ä½“â€œç”µæ¸¸è°ˆâ€ç½‘ç«™(Gamerant.com)åˆŠæ–‡é€éœ²ï¼Œæ—¥æœ¬é‚ªæ•™â€œå¹¸ç¦ç§‘å­¦æ•™â€ä¼å›¾é€šè¿‡åˆ¶ä½œæ™¦æ¶©ä¸æ˜Žçš„åŠ¨æ¼«ç”µå½±æŽ¨å¹¿è¯¥æ•™ã€‚</p><center><img src="https://www.chinafxj.cn/n164/c815683/part/100330.png" /></center><p>ã€€ã€€è¿™äº›éšæ™¦ä¸æ˜Žçš„æ—¥æœ¬åŠ¨æ¼«å¹¶æ— ç‰¹åˆ«ä¹‹å¤„ï¼Œä¸è¿‡å®ƒä»¬èƒŒåŽçš„åˆ¶ä½œåŠ¨æœºå´è®©äººçš±çœ‰ã€‚</p><p>ã€€ã€€â€œå¹¸ç¦ç§‘å­¦æ•™â€(Happy Science)æ˜¯ä¸€ä¸ªç»„ç»‡åŒ–çš„æ•™æ´¾å›¢ä½“ï¼Œå…¶å‰èº«ä¸ºâ€œäººç±»å¹¸ç¦ç ”ç©¶æ‰€â€(The Institute for Research in Human Happiness)ã€‚ç›´æŽ¥è¯´å§ï¼Œè¿™ä¸ªç»„ç»‡å°±æ˜¯ä¸€ä¸ªé‚ªæ•™ã€‚</p><p>ã€€ã€€ä¸ºä½•å°†è¿™ä¸ªæ•™æ´¾å›¢ä½“å½’å…¥é‚ªæ•™èŒƒç•´ï¼ŸåŽŸå› æ—¢ä¸æ˜¯å®ƒæ€ªè¯žçš„æ•™ä¹‰ï¼Œä¹Ÿä¸æ˜¯å®ƒä¿¡å¾’çš„æ•°é‡ï¼Œâ€œâ€˜å¹¸ç¦ç§‘å­¦æ•™â€™ä¹‹æ‰€ä»¥ç§°ä¸ºé‚ªæ•™ï¼Œæ˜¯å› ä¸ºå®ƒæŽ§åˆ¶ä¿¡å¾’çš„æ‰‹æ®µâ€ã€‚</p><p>ã€€ã€€é‚£ä¹ˆï¼Œä»€ä¹ˆæ˜¯â€œå¹¸ç¦ç§‘å­¦æ•™â€æœ€è‡­åæ˜­è‘—çš„æŽ§åˆ¶æ‰‹æ®µå‘¢ï¼Ÿç­”æ¡ˆæ˜¯åŠ¨æ¼«ã€‚</p><p>ã€€ã€€æˆªè‡³2021å¹´ï¼Œè¯¥æ•™å°±åˆ¶ä½œå‡ºä¹éƒ¨è¶³æœ¬åŠ¨æ¼«ç”µå½±ï¼Œç”¨ä»¥æŽ¨å¹¿å…¶æ•™ä¹‰ã€‚è¯¥é‚ªæ•™æˆç«‹æ—¶é—´å¹¶ä¸é•¿ï¼Œä¹Ÿå°±å‡ åå¹´å…‰æ™¯ï¼Œä½†å…¶æ•™ä¹‰å´æ˜¯éžå¸¸å¤æ‚ï¼Œå¯è°“ä¸–ç•Œå®—æ•™ä¿¡ä»°çš„å¤§æ‚çƒ©ã€‚</p><p>ã€€ã€€â€œå¹¸ç¦ç§‘å­¦æ•™â€çš„åŠ¨æ¼«åˆ¶ä½œï¼Œæ˜¯ä¸Žå‡ ä¸ªå·¥ä½œå®¤ç­¾è®¢åˆåŒåˆ¶ä½œå®Œæˆçš„ï¼Œå…¶ä¸­å°±åŒ…æ‹¬æ—¥æœ¬åŠ¨æ¼«ä¸šç•Œå¤§åé¼Žé¼Žçš„â€œäº¬éƒ½åŠ¨ç”»â€(Kyoto Animations)ã€‚</p><p>ã€€ã€€â€œå¹¸ç¦ç§‘å­¦æ•™â€èƒŒåŽçš„åŽ†å²</p><center><img src="https://www.chinafxj.cn/n164/c815683/part/100331.png" /></center><p>ã€€ã€€å¤§å·éš†æ³•(Ryuho Okawa)å½“è¿‡åŽå°”è¡—äº¤æ˜“å‘˜ï¼ŒæœåŠ¡äºŽä¸°ç”°æ±½è½¦æ——ä¸‹çš„é‡‘èžå…¬å¸ä¸°ç”°é€šå•†(Toyota Tsusho)ã€‚ä»–è‡ªç§°çˆ¶æ¯æ—¢ç›¸ä¿¡ä¸Šå¸åˆç›¸ä¿¡ä½›é™€ï¼Œä½†ä»–è‡ªå·±å´å¹¶ä¸çƒ­è¡·è¿™äº›å®—æ•™æ´»åŠ¨ã€‚ä»–ç§°è‡ªå·±ç§¯æžæŠ•èº«çš„ä¿¡ä»°ä¸Žçˆ¶æ¯çš„ä¸åŒï¼Œå¹´çºªè½»è½»çš„æ—¶å€™å°±å¯¹ç²¾ç¥žã€çµé­‚å’Œæ¥ä¸–ç­‰æœ‰äº†â€œéžå¸¸ç‹¬ç‰¹â€çš„è§‚ç‚¹ã€‚1981å¹´3æœˆ23æ—¥ï¼Œå¤§å·éš†æ³•è®¤ä¸ºæœ‰ç§åœ£çµç¬¬ä¸€æ¬¡ä¸Žä»–äº¤æµã€‚</p><p>ã€€ã€€å°±åœ¨é‚£å¹´ï¼Œâ€œç¥žä¹‹å…‰ä¼šâ€(God Light Association)æ•™ä¸»é«˜æ¡¥ä½³å­(Shinji Takahashi)åŽæ¥å‘Šè¯‰ä»–è¯´ï¼Œä»–çš„å¤©å‘½å°±æ˜¯åˆ›å»ºä¸€ä¸ªå¼•é¢†äººä»¬çš„æ–°æ•™ã€‚åŒæœˆï¼Œå¤§å·éš†æ³•è‡ªç§°ç©ºæµ·(æ—¥æœ¬ä½›æ•™çœŸè¨€å®—åˆ›å§‹äººï¼Œä¹ä¸–çºªå”ä»£æ—¶æ›¾åˆ°æ´›é˜³ç­‰åœ°æ¸¸å­¦)ã€äº²é¸¾(1173-1262ï¼Œæ—¥æœ¬ä½›æ•™å‡€åœŸçœŸå®—åˆç¥–)ã€å­”å­ã€è€¶ç¨£åŸºç£ã€æ‘©è¥¿å’Œè¯ºæŸ¥ä¸¹çŽ›æ–¯(åå…­ä¸–çºªæ³•å›½é¢„è¨€å®¶)ä¸Žä»–å‡æœ‰äº¤æµã€‚</p><p>ã€€ã€€æ­¤å¤–ï¼Œè¿˜æœ‰ä¸€äº›æ‰€è°“çš„â€œé€šçµâ€ï¼Œå³å¤§å·éš†æ³•æ‰€ç§°çš„ä»–æœ¬äººä½œä¸ºåª’ä»‹ï¼Œæ•™å¾’å¯ä»¥é€šè¿‡ä»–ä¸Žæ‰€è°“çš„ç¥žçµæ²Ÿé€šè°ˆè¯ã€‚å¤šå¹´æ¥ï¼Œå¤§å·éš†æ³•å‡ºç‰ˆäº†13æœ¬ä¹¦ï¼Œå…¬å¼€ä»–ä¸Žç¥žçµçš„æ‰€è°“äº¤æµå†…å®¹ï¼Œä»¥è‡ªè¯å…¶è¯´ã€‚ä»ŽæŸç§ç¨‹åº¦ä¸Šè¯´ï¼Œåœ¨å‡ºä¹¦è¿‡ç¨‹ä¸­ï¼Œéšç€äººæ°”æ¸æ—ºï¼Œä»–ç»åŽ†äº†ä¸€ä¸ªå¼€å§‹æ—¶ä½¿ç”¨ä¿¡å¾’åå­—åšç¬”ååˆ°ä½¿ç”¨è‡ªå·±çš„çœŸåçš„è¿‡ç¨‹ã€‚æœ€åŽï¼Œä»–è¾žåŽ»äº†ä¸°ç”°é€šå•†çš„å·¥ä½œã€‚</p><p>ã€€ã€€å°±è¿™æ ·ï¼Œâ€œäººç±»å¹¸ç¦ç ”ç©¶æ‰€â€æˆç«‹äº†ï¼ŒåŽæ”¹åä¸ºâ€œå¹¸ç¦ç§‘å­¦æ•™â€ã€‚å¤§å·éš†æ³•è‡ªç§°çš„åŒ–èº«ä¼—å¤šï¼Œæœ€åˆåªæ˜¯è‡ªç§°åƒåŸºç£è€¶ç¨£å’Œå­”å­çš„åŒ–èº«ï¼ŒçŽ°åœ¨å´æˆäº†çˆ±å°”åº·å¤§çµ(El Cantareï¼Œâ€œå¹¸ç¦ç§‘å­¦æ•™â€è‡ªé€ ç¥žçµ)ã€è·é©¬(å¤å¸Œè…Šè¯—äºº)å’Œä½›ç¥–é‡Šè¿¦ç‰Ÿå°¼è½¬ä¸–ï¼Œè€Œä»–çš„çŽ°ä»»å¦»å­åˆ™æ˜¯ç›–å¨…å†ç”Ÿ(Gaiaï¼Œå¤å¸Œè…Šç¥žè¯ä¸­çš„ä¼—ç¥žä¹‹æ¯å¤§åœ°å¥³ç¥ž)ã€‚</p><p>ã€€ã€€æ€»çš„æ¥è¯´ï¼Œâ€œå¹¸ç¦ç§‘å­¦æ•™â€æ´¥æ´¥ä¹é“çš„æ•™ä¹‰å¯å½’çº³ä¸ºå››æ¡ï¼šç»™äºˆä¹‹çˆ±ã€æ™ºæ…§ã€è‡ªæˆ‘åçœå’Œè¿›æ­¥ã€‚ä¸è¿‡ï¼Œæ•™ä¹‰ã€å¸ƒé“å’ŒåŠ¨æ¼«ä¸­çš„è®¸å¤šå†…å®¹ä¼¼ä¹Žå…³æ³¨æ›´å¤šçš„æ˜¯æ•™ä¸»è€Œä¸æ˜¯æ•™ä¹‰æœ¬èº«ã€‚</p><p>ã€€ã€€è¯¥æ•™ä¸ŽåŠ¨æ¼«çš„åŽ†å²</p><center><img src="https://www.chinafxj.cn/n164/c815683/part/100332.png" /></center><p>ã€€ã€€ä¸ºäº†æ‰¾åˆ°æ›´å¤šå¸å¼•äººå…¥æ•™çš„æ–¹æ³•ï¼Œâ€œå¹¸ç¦ç§‘å­¦æ•™â€å¼€å§‹å§”æ‰˜ä¸€äº›äºŸé¡»å®¢æˆ·çš„åˆåˆ›å·¥ä½œå®¤åˆ¶ä½œåŠ¨æ¼«ï¼Œæœ€æ—©çš„ä¸€éƒ¨åŠ¨æ¼«å«ã€Šä»€ä¹ˆæ˜¯å¹¸ç¦ã€‹(Shiawasette Naani)ã€‚â€œäº¬éƒ½åŠ¨ç”»â€ä½œä¸ºä¸»åˆ›å¸®åŠ©è¯¥æ•™åˆ›ä½œçš„ç¬¬ä¸€éƒ¨åŠ¨æ¼«ï¼Œå¼€å§‹è®©è¿™ç±»å®šåˆ¶åŠ¨æ¼«çš„ä½œç”¨å˜å¾—éžåŒå¯»å¸¸ã€‚æ­¤å‰ï¼Œâ€œäº¬éƒ½åŠ¨ç”»â€ä¸»è¦æ›¿æ›´å¤§çš„å·¥ä½œå®¤åˆ¶ä½œèƒŒæ™¯å’Œä¸­é—´å¸§ï¼Œè¿™éƒ¨åŠ¨æ¼«æ˜¯è¯¥å·¥ä½œå®¤ä½œä¸ºä¸»åˆ›æŽ¨å‡ºçš„ç¬¬ä¸€éƒ¨åŠ¨æ¼«ï¼Œä¹Ÿæ˜¯å®ƒæ›¿â€œå¹¸ç¦ç§‘å­¦æ•™â€åˆ¶ä½œçš„å”¯ä¸€ä¸€éƒ¨åŠ¨æ¼«ã€‚</p><p>ã€€ã€€æ­¤åŽï¼Œâ€œå¹¸ç¦ç§‘å­¦æ•™â€åˆä¸Žä¸å°‘å°å…¬å¸åˆä½œåˆ›ä½œäº†ä¸€äº›åŠ¨æ¼«ç”µå½±ï¼Œç›´åˆ°åˆ›ç«‹è‡ªå·±çš„åŠ¨æ¼«å·¥ä½œå®¤â€œå¹¸ç¦ç§‘å­¦åŠ¨æ¼«å·¥ä½œå®¤â€(HS Pictures Studio)ã€‚åˆ©ç”¨è¿™ä¸ªå·¥ä½œå®¤ï¼Œâ€œå¹¸ç¦ç§‘å­¦æ•™â€åˆ¶ä½œäº†ä¸€éƒ¨å››éƒ¨æ›²å½±ç‰‡ï¼Œä¸ä»…èµ¢å¾—äº†å¥–é¡¹ï¼Œè¿˜èƒ½åœ¨å…è´¹æµåª’ä½“å¹³å°Tubiè§‚çœ‹ã€‚å¯¹äºŽè¯¥æ•™çš„æ‰€æœ‰å½±ç‰‡ï¼Œè¯„è®ºå®¶ä¸ŽåŠ¨æ¼«çˆ±å¥½è€…æ™®éæŒå¼ºçƒˆæŠ¨å‡»æ€åº¦ã€‚ç¬”è€…ä»”ç»†è§‚çœ‹äº†å…¶ä¸­äº”éƒ¨ç”µå½±åŽï¼Œå¾—å‡ºå‡ ä¸‹å‡ ç‚¹ç»“è®ºï¼šæ‰€æœ‰åŠ¨æ¼«éƒ½å‡ ä¹Žæ²¡æœ‰æƒ…èŠ‚ï¼Œåªæœ‰å¯¹è¯ï¼›ç”µå½±åªå…³æ³¨å¤§å·éš†æ³•ï¼›æ‰€æœ‰çš„ç”µå½±éƒ½åå¯¹æŽ¥ç§ç–«è‹—ï¼Œå®£æ‰¬æ°‘æ—ä¸»ä¹‰ï¼Œå……æ–¥ç€æ‹›å‹Ÿæ•™å¾’çš„æŠ€å·§ã€‚</p><p>ã€€ã€€è®¸å¤šç½‘ç»œåˆ›ä½œè€…ç‰¹åˆ«æ˜¯æ²¹ç®¡ä¸Šçš„â€œæ¯äº²åœ°ä¸‹å®¤â€(Motherâ€™s Basement)é¢‘é“ï¼Œæœ‰æ®µæ—¶é—´ä¸Šä¼ äº†è¯¥æ•™çš„åŠ¨æ¼«ä¾›ç½‘å‹è§‚çœ‹ã€‚å°½ç®¡æ—¥æœ¬å†…å¤–éƒ½æŠ¨å‡»è¿™äº›åŠ¨æ¼«ï¼Œâ€œå¹¸ç¦ç§‘å­¦æ•™â€è¿˜æ˜¯èƒ½æœ‰è¶³å¤Ÿçš„èµ„é‡‘æ¥ç»§ç»­åˆ¶ä½œåŠ¨æ¼«ã€ä¹¦ç±ã€æ¼”è®²å’Œå…¶ä»–å†…å®¹ã€‚å°½ç®¡â€œå¹¸ç¦ç§‘å­¦æ•™â€è¡¨é¢ä¸Šåœ¨å®£ä¼ å’Œå¹³å’Œå¹¸ç¦ï¼Œä½†å…¶åŠ¨æ¼«æŠ˜å°„å‡ºçš„å´æ˜¯è¯¥æ•™çš„å±é™©è§‚ç‚¹å’Œæ‰“ç€æ‹›å‹Ÿæ——å·æŽ§åˆ¶æ‰‹æ®µã€‚</p></div><p></p> 
+
+<!--enorth cms block start [ name="v5.pages" ]-->
+
+<!--enorth cms block end [ name="v5.pages" cost="7"]--></DIV></td>
+          </tr>
+  <tr>
+    <td class="black12" align="right" style="line-height:20px; padding-right:15px;">
+	[è´£ä»»ç¼–è¾‘ ç¨‹ç£Š]	</td>
+  </tr>        </table>
+<table width="1000" align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="20"></td>
+  </tr>
+</table>
+
+	
+<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+  <tr>
+    <td align="center" height="30">å†…è’™å¤äº’è”ç½‘æ–°é—»ä¸­å¿ƒç‰ˆæƒæ‰€æœ‰ï¼Œæœªç»ä¹¦é¢æŽˆæƒä¸å¾—è½¬è½½æˆ–é•œåƒã€‚ </td>
+  </tr>
+  <tr>
+    <td align="center" height="30">äº’è”ç½‘æ–°é—»ä¿¡æ¯æœåŠ¡è®¸å¯è¯ï¼š1512006001 ä¿¡æ¯ç½‘ç»œä¼ æ’­è§†å¬èŠ‚ç›®è®¸å¯è¯ï¼š0507213 è’™ICPè¯ï¼š09003619å· </td>
+  </tr>
+</table>	
+	
+	</td>
+  </tr>
+</table>
+
+<script src="http://www.nmgnews.com.cn/sys/online_calc.js?ver=1"></script>
+
+
 </body>
 </html>
+
+<!--enorth cms page [ enorth parse_date="2022/09/23 08:47:30.030", cost="62", server=":=$encp$=:8ca3ba59ba3e9675", error_count="0"]-->

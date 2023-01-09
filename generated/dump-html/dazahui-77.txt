@@ -1,585 +1,330 @@
-﻿<!DOCTYPE html>
+
+<!DOCTYPE html>
 <html>
 <head>
-    <title>孩子在睡梦中离奇死亡？遗传学家找到新线索—论文—科学网</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="keywords" content=儿童，睡眠，基因突变, />
-    <script language="javascript" type="text/javascript">
-		function showsize(sid)
-		{
-				document.getElementById("content"+1).style.fontSize=sid;
-document.getElementById("content"+1).className='f'+sid;
-			
-		}
-		function showandhide(showid,hideid)
-        {
-         document.getElementById(showid).style.display="";
-         document.getElementById(hideid).style.display="none";
-          document.getElementById(showid+"1").style.background="#005007";
-         document.getElementById(hideid+"1").style.background="#787878";
-        }
+	<meta charset="utf-8" />
+	<title>火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”_手机新浪网</title>
+	<script type="text/javascript">window.STO=window.STO||{};window.STO.fs=new Date().getTime();</script>
+	<meta name="keywords" content="乌克兰,美国,sina.cn">
+	<meta name="description" content="[文/观察者网 杨子江]10月31日，俄新社援引希腊陆军退役军官阿特拉马佐格鲁的文章报道称，由于当前战事的激烈程度，导致每天消耗弹药量可高达6000发炮弹...">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="author" content="sina_mobile">
+    <meta name="format-detection" content="telephone=no" />
+	<meta name="sudameta" content="allCIDs:51923,257,51895,200856,38790,258,56262">
+	<meta property="og:type" content="news"/>
+	<meta property="og:title" content="火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”" />
+	<meta property="og:description" content="火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”" />
+	<meta property="og:url" content="https://news.sina.cn/2022-10-31/detail-imqqsmrp4398135.d.html" />
+	<meta property="og:image" content="//n.sinaimg.cn/spider20221031/118/w1036h682/20221031/6b14-34b7c072c81075b16e6717c9684f3fca.jpg" />
+	<meta property="article:author" content="观察者网"/>
+	<meta property="article:published_time" content="2022-10-31 17:04:29" />
+	<meta name="publishid" content="mqqsmrp4398135" />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow" />
+	<meta name="apple-mobile-web-app-title" content="新浪移动_手机新浪网">
+	<link rel="shortcut icon" type="image/x-icon" href="//mjs.sinaimg.cn/wap/module/base/img/favicon.ico" /><meta content="always" name="referrer"><meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" /><meta name="router-uri" content="sinanews://sina.cn/article/detail.pg?newsId=mqqsmrp4398135-comos-news-cms&dataid=comos:mqqsmrp4398135&pkey=default" />	<link rel="apple-touch-icon-precomposed" href="//mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_114x114_v1.png">
+	<link rel="apple-touch-icon-precomposed" href="//mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_57X57_v1.png">
+	<script src='https://mjs.sinaimg.cn/umd/error-report/2.0.4/lib/index.min.js'></script><script>startReport('sina_wap_news.sina.cn_article',['colorDepth']);</script>	<script type="text/javascript">	
+		if(history.pushState){var hisPush=window.history.pushState,hisReplace=window.history.replaceState;window.history.pushState=function(){},window.history.replaceState=function(){},window.sinaHisPush=function(){var i=[].slice.call(arguments);hisPush.apply(window.history,i)},window.sinaHisReplace=function(){var i=[].slice.call(arguments);hisReplace.apply(window.history,i)}}
+		var sudaLogConfig = {"uId":"","url":"https:\/\/news.sina.com.cn\/w\/2022-10-31\/doc-imqqsmrp4398135.shtml","prevPageClickTime":"","ext1":"cid51923,cid257,cid51895,cid200856,cid38790,cid258,cid56262","ext2":"dl=","channel":"news"};
+        function rem() {var t = 100, o = 750, e = document.documentElement.clientWidth || window.innerWidth, n = Math.max(Math.min(e, 480), 320), h = 50;320 >= n && (h = Math.floor(n / o * t * .99)), n > 320 && 362 >= n && (h = Math.floor(n / o * t * 1)), n > 362 && 375 >= n && (h = Math.floor(n / o * t * 1)), n > 375 && (h = Math.floor(n / o * t * .97)), document.querySelector("html").style.fontSize = h + "px"};
+        rem();
+        window.onresize = function () {rem();}
     </script>
-    <style type="text/css">
-body { margin:0; padding:0; background:#e4e6df url(/images/a-b-mbr.jpg) repeat-y center top; text-align:center; font:13px Arial, Helvetica, sans-serif; }
-#wrap { margin:0 auto; text-align:left; width:980px; padding:0 0px; w\idth:976px;background:#ffffff}
-img { border:0; }
-td{font:13px 宋体}
-#header { width:100%; margin-top:5px;text-align:center; }
-#fielder {margin:0 auto; text-align:left; width:970px;}
-#fielderleft {width:450px; float: left;font:13px 宋体;color:#b41319;height:20px; text-align:right;margin-top:5px}
-#fielderright {width:520px; float: right;height:20px}
-#fielderleft a{font:13px 宋体;color:#b41319; text-decoration:none; }
-#main {margin:0 auto; text-align:left; width:960px; padding:0 4px;}
-#footer { width:100%; height:66px;margin-top:10px; clear:both; text-align:center; }
- #foot1{text-align:center;background:#d7ceaa;color:#885f17;width:100%; height:30px;margin-top:10px;vertical-align:bottom}
-#foot1 a{font:12px 宋体, Helvetica, sans-serif;color:#885f17; text-decoration:none;}
-#mleft{float: left; width:680px}
-#mright{float: right; width:270px;text-align:left;}
-.html1{font:12px 宋体;color:#333333; text-decoration:none; }
-.html2{font:12px 宋体;color:#885f17; text-decoration:none; }
-#headerleft ul {text-align:left; width:456px;  margin:0; padding:0; list-style:none;  }
-#headerleft li{ margin-right: auto;display:inline;vertical-align:bottom;}
-#headerleft { float:left; width:456px; height:22px text-align:left; }
-#headerleft a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
-#headerright a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
-#head2{background:#ba1414;width:970px;bgcolor:#ba1414;margin-top:0px}
-textarea { font: 12px Arial, Helvetica, sans-serif; border:1px solid #333333; }
-.input{ font: 11px Arial, Helvetica, sans-serif; border:1px solid #333333;}
-.rblinput{ font: 11px Arial; border:0;width:30px}
-.ulclass{margin:8px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
-.ulclass li{display:inline;}
-.h1ulclass{margin:0px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
-.h1ulclass li{display:inline;}
-.plnum{width: 30px;color:#587c19;font:12px 宋体; text-align:center; font-weight:bold;margin-left:-14px}
-.highlight2{font-size:12px;color:#333333;text-decoration:none;}
-a:hover {
-	color: #ba1413;
 
-	text-decoration: underline;
-}
-a{ text-decoration:none;color:#333333;}
-#head1{width:970px;margin-top:0px}
-#head2 td{font:12px 宋体}
-#field8 a{font:13px 宋体;color:#fff; text-decoration:none;}
-#field8 td{ height:20px;}
-#content1 a{color: #800000;}
-.f12{font-size:12px}
-.f14{font-size:14px}
-.f16{font-size:16px}
-.ifcomm{}
-img{max-width:600px}
-</style>
-<script type="text/javascript" src="/js/lazyload/jquery.min.js"></script>
-<script type="text/javascript" src="/js/lazyload/jquery.lazyload.js"></script>
-		<script type="text/javascript"> 
-			jQuery(document).ready( 
-			function($){ 
-				$("img").lazyload({ 
-					placeholder : "/js/lazyload/grey.gif", 
-					effect      : "fadeIn",
-					threshold : 200
-				}); 
-			}); 
-		</script> 
-</head>
-<body>
-    <div id="wrap">
-     
-<script type="text/javascript">
-
-function browserRedirect() { 
-
-var sUserAgent= navigator.userAgent.toLowerCase(); 
-
-var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
-
-var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
-
-var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
-
-var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
-
-var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
-
-var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
-
-var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
-
-var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
-
-if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
-
-  
- document.write("<div style='padding-left:4em'><a href=\"https://wap.sciencenet.cn/mobile.php?type=detail&cat=paper&id=70248&mobile=1\" style='font-size:2em;color:#ba1413; line-height:2em;text-indent:4em'>点击此处切换为手机版网页</a></div>");  
-
-} else { 
-
-//window.location= '电脑网站地址'; 
-
-} 
-
-} 
-
-browserRedirect(); 
-
-</script>
-      <!--登录-->
-		<iframe src="https://blog.sciencenet.cn/plus.php?mod=iframelogin" style="width:970px; height:32px; " scrolling="no" frameborder="0"  ></iframe>
-            <!--导航-->
-           ﻿<link href="https://www.sciencenet.cn/css/indexhead.css" type="text/css" rel="stylesheet" />
-     <div class="logo">
-          <div  class="lg"  ><a href="https://paper.sciencenet.cn/"><img src="/images/paper.jpg" width="231" height="84"  alt="科学网论文频道"  /></a></div>
-		 <div class="rg02"  >
-		 <div class="rg" ><span style="float:left;">
-                        <a href="https://www.sciencenet.cn/life/" style="color:#fff">生命科学</a> | 
-                        <a href="https://www.sciencenet.cn/medicine/" style="color:#fff">医学科学</a> | 
-                        <a href="https://www.sciencenet.cn/chemistry/" style="color:#fff">化学科学</a> | 
-                        <a href="https://www.sciencenet.cn/material/" style="color:#fff">工程材料</a> | 
-                        <a href="https://www.sciencenet.cn/information/" style="color:#fff">信息科学</a> | 
-                        <a href="https://www.sciencenet.cn/earth/" style="color:#fff">地球科学</a> | 
-                        <a href="https://www.sciencenet.cn/mathematics/" style="color:#fff">数理科学</a> | 
-                        <a href="https://www.sciencenet.cn/policy/" style="color:#fff">管理综合</a> </span> 
-		  <span style=" float:right;  "> <a href="https://blog.sciencenet.cn/blog-45-1064777.html" style="color:#fff">站内规定</a> | <a href="https://wap.sciencenet.cn/"   style="color:#fff">手机版</a></span></div>
-          <div class="rg01"><span style="float:left;  ">
-                 <a href="https://www.sciencenet.cn/">首页</a> | <a href="https://news.sciencenet.cn/">新闻</a> | <a href="https://blog.sciencenet.cn/blog.php">博客</a> | <a href="https://news.sciencenet.cn/ys/">院士</a> | <a href="https://talent.sciencenet.cn/">人才</a> | <a href="https://meeting.sciencenet.cn">会议</a> | <a href="https://fund.sciencenet.cn/">基金·项目</a> | <a href="https://news.sciencenet.cn/morenews-9-1.aspx">大学</a> | <a href="https://paper.sciencenet.cn/">论文</a> | <a href="https://blog.sciencenet.cn/blog.php?mod=video">视频·直播</a> | <a href="https://paper.sciencenet.cn/AInews">小柯机器人</a> | <a href="https://news.sciencenet.cn/zt/">专题</a>
-          </span>
-			  <div style="float:right; padding-left:0px;">
-				   <form style="display:inline" method="get" action="https://www.baidu.com/baidu" accept-charset="utf-8" name="f1">
-					  <input style=" width:100px;border:0" maxlength="40" size="31" name="word" />
-					  <input type="submit" style="cursor:pointer; width:56px; font-size:12px; background-color:#880008; border-width:0px; height:16px; color:#fff;" value="本站搜索" />
-					  <input type="hidden" value="2097152" name="ct" />
-					  <input type="hidden" value="3" name="cl" />
-					  <input type="hidden" value="paper.sciencenet.cn" name="si" />
-					  <input type="hidden" value="utf-8" name="ie" />
-				  </form>
-			  </div>
-          </div></div>
-        </div> 
-
-        <div style="line-height: 10px; height: 10px; clear: both;  ">
-            &nbsp;</div>
-        <div id="main">
-            <div id="mleft">
-                <table border="0" cellpadding="0" cellspacing="0" style="width: 100%" >
-                    <tr>
-                        <td style="width: 680px;">
-                            <table id="content" style="border: solid 1px #bbc89b; width: 680px; text-align: center;
-                                background-color: #f8f9f4">
-                                <tr>
-                                    <td align="left">
-                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
-                                            width: 82%; font: 12px 宋体; float: left; ">
-                                            作者：Orrin Devinsky 来源：《国家科学院院刊》 发布时间：2022/2/22 21:50:00</div>
-                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
-                                            width: 18%; font: 12px 宋体; float: right">
-                                            选择字号：<span onclick="showsize(12)" style="background-color: #587c19; color: #fff;
-                                                font-size: 12px; cursor: pointer">小</span> <span onclick="showsize(14)" style="background-color: #587c19;
-                                                    color: #fff; font-size: 12px; cursor: pointer">中</span> <span onclick="showsize(16)"
-                                                        style="background-color: #587c19; color: #fff; font-size: 12px; cursor: pointer">
-                                                        大</span>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div id="content1" style="width: 94%; font: 14px 宋体; text-align: left; line-height: 24px;
-                                            word-wrap: break-word">
-                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                                <tr>
-                                                    <td height="20">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
-                                                        font-family: 宋体; line-height: 20px">
-                                                        <b></b></td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="center" class="style1" style="font-size: 22px; color: #587c19; font-family: 黑体;
-                                                        line-height: 30px">
-                                                        孩子在睡梦中离奇死亡？遗传学家找到新线索</td>
-                                                </tr>
-                                                <tr>
-                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
-                                                        font-family: 宋体; line-height: 20px;">
-                                                        <b></b></td>
-                                                </tr>
-                                            </table>
-                                            <p>
-	&nbsp;</p>
-<p style="text-align: center;">
-	<img src="/upload/news/images/2022/2/202222219957940d.jpg" /></p>
-<p style="text-align: center; text-indent: 2em;">
-	<strong>图片来源：JODIE JOHNSON/SHUTTERSTOCK</strong></p>
-<p style="text-indent: 2em;">
-	1997年的一天，Laura Gould将她15个月大的女儿Maria放到了床上，希望她能好好地睡上一觉。前一晚Maria发了高烧，但第二天她似乎已经恢复了健康。Gould怎么也想不到的是，Maria这一睡就再也没有醒来。没有任何预兆，Maria在睡梦中猝然离世。随后的尸检和病理学检验也没有得到任何明确的结论，Maria的死因成了一个谜。</p>
-<p style="text-indent: 2em;">
-	事实上，像Maria这样的案例不在少数。美国每年有约400名的儿童不明原因猝死（SUDC），其中，大约四分之一被标记为婴儿猝死综合症(SIDS)。最近的两项基因分析表明，至少一小部分病例的潜在原因与癫痫、心律失调和神经发育障碍相关的基因突变有关。</p>
-<p style="text-indent: 2em;">
-	SUDC不是一种单一的疾病，而是各种不同因素的&ldquo;大杂烩&rdquo;。未参与新研究的爱荷华大学卡弗医学院神经病理学家Marco Hefti认为，该研究的数据很重要，虽然不能肯定地说基因突变是导致儿童死亡的原因，但这些发现为动物研究提供了基础，可以揭示基因变化是如何干扰人体重要功能的。他表示，相关数据还可能为未来的儿童死亡调查提供信息，甚至可能为预防死亡的筛查项目提供信息。</p>
-<p style="text-indent: 2em;">
-	波士顿儿童医院医学遗传学家Ingrid Holm表示，从生物学上讲，SIDS和SUDC可能是一个谱系的一部分。在这两种情况下，死亡通常发生在睡眠中，研究人员怀疑导致死亡的原因包括未被发现的心脏缺陷、代谢紊乱和中枢神经系统异常。纽约大学朗格尼健康中心神经学家Orrin Devinsky指出，这些死亡的儿童有发热性癫痫史的可能性约为普通儿童的10倍。</p>
-<p style="text-indent: 2em;">
-	2014年，纽约大学格罗斯曼医学院Orrin Devinsky团队对124个&ldquo;三人组&rdquo;的外显子进行了测序，并在先前与心脏功能障碍或癫痫有关的基因中寻找突变，每个&ldquo;三人组&rdquo;都由父母和一个在11个月至19岁之间突然死亡的孩子组成。结果研究人员在8个基因中发现了变异，他们认为这些变异导致了11人的死亡。相关研究结果发表于美国《国家科学院院刊》。</p>
-<p style="text-indent: 2em;">
-	其中7个病例中，基因突变是新生的，其父母双方都没有携带这种基因突变。8个变异中的6种变异影响了与钙信号传导有关的基因，钙信号传导可调节包括心脏收缩和神经元放电在内的多种过程。</p>
-<p style="text-indent: 2em;">
-	在第二项研究中，研究人员调查了352例婴儿或儿童的死亡病例，并在294个基因中寻找与神经系统疾病、心脏功能障碍以及影响新陈代谢或多器官系统疾病有关的突变。结果发现37例死亡病例中出现了&ldquo;可能导致死亡的变异&rdquo;。其中两种变异基因被发现与罕见的神经发育障碍有关，但与猝死无关，这表明这些神经发育障碍的潜在后果尚未被认识到。</p>
-<p style="text-indent: 2em;">
-	值得一提的是，这两项研究都确认了癫痫有关基因SCN1A的突变。</p>
-<p style="text-indent: 2em;">
-	Devinsky认为，原则上，一些危险的变异可以添加到新生儿的常规筛查中，这可能是该领域的发展方向。但是，德国汉诺威医学院的法医病理学家Michael Klintschar指出，在许多情况下，基因突变的后果仍然不清楚。将儿童的死亡与一种与心律失常相关基因的罕见突变联系起来，并不代表携带这种基因突变的婴儿发生心脏骤停的风险。他举例，纠正这些孩子心律失常的风险可能会导致更多的问题。(来源：中国科学报&nbsp;辛雨）</p>
-<p style="text-indent: 2em;">
-	相关论文信息：</p>
-<p style="text-indent: 2em;">
-	<a href="https://doi.org/10.1073/pnas.2115140118" target="_blank">https://doi.org/10.1073/pnas.2115140118</a></p>
-<p style="text-indent: 2em;">
-	<a href="https://doi.org/10.1016/j.gim.2021.12.004" target="_blank">https://doi.org/10.1016/j.gim.2021.12.004</a></p>
-<div>
-	&nbsp;</div>
-<div class="bq" style="text-indent:0em;font-weight:bold;font-size:13px;border:solid 1px #333 ;padding:10px;">
-	版权声明：凡本网注明&ldquo;来源：中国科学报、科学网、科学新闻杂志&rdquo;的所有作品，网站转载，请在正文上方注明来源和作者，且不得对内容作实质性改动；微信公众号、头条号等新媒体平台，转载请联系授权。邮箱：shouquan@stimes.cn。</div>
-
-                                              
-                                            <div style="border-bottom: solid 1px #bfc89d; vertical-align: bottom; width: 100%;
-                                                height: 20px">
-                                            </div>
-                                            <div style="width: 100%; height: 20px; text-align: center; margin:10px">
-                                                        <!-- JiaThis Button BEGIN -->
-<script src="/html/js/share.js" type="text/javascript"></script>
-<!-- JiaThis Button END -->
-                                            </div>
-                                            
-                                        </div>
-                                    </td>
-                                </tr>
-
-                            </table>
-                        </td>
-                    </tr>
-                </table>
-                <div style="line-height: 10px; height: 10px; clear: both;">
-                        &nbsp;</div>
-                <div style=" vertical-align: bottom; width: 100%;
-                                            height: 20px; text-align:right">
-               
-                                        <form action="/html/mail.aspx" method="post" id="myform">
-                                            <span onclick="javascript:window.print()" style="cursor: pointer; background-color: #587c19;
-                                                color: #fff;">&nbsp;打印&nbsp;</span> <span style="color: #587c19">发E-mail给：</span><input
-                                                    name="txtemail" type="text" value="" size="22"  id="txtemail" style="background-color: #eeeee8" />&nbsp;
-                                            <input type="hidden" id="myurl" name="myurl" runat="server" value="70248" />
-                                            <input type="submit" value="" style="background-image: url(/images/go.gif); background-color: Transparent;
-                                                width: 30px; background-repeat: no-repeat; border-width: 0; height: 21px" /></form>
-                                        &nbsp; &nbsp;&nbsp;
-                </div>
-               <div style="line-height: 20px; height: 20px; clear: both;">
-                        &nbsp;</div>
-                         <div style="color:#784704; text-align:left;display:none;" class="ifcomm">以下评论只代表网友个人观点，不代表科学网观点。</div>
-                <div style="border: solid 1px #bbc89b; width: 680px; text-align: center; background-color: #f8f9f4;display:none;" class="ifcomm">
-                 
-                     <div id="commd"></div>
-                                     <div style="text-align:left;width: 94%; margin-top:10px"><a href="/html/commentp.aspx?id=70248" style="color:#ba1413; text-decoration:none"><img src="/images/newcomm.gif" /></a></div>
-                    <div style="line-height: 4px; height: 4px; clear: both;">
-                        &nbsp;</div>
-                   <div style="text-align:left;width: 94%;border-top: solid 0px #bfc89d" id="formcomm">
-                    
-                    <iframe src="/html/papercomm.aspx?nid=70248" style="margin: 0px;
-                    padding: 0px" frameborder="0" scrolling="no" height="160px" width="100%"></iframe>
-                   
-                    </div>
-                 
-                </div>
-               
-                </div>
-                <div id="mright">
-                  <script src="/html/js/p1.js" type="text/javascript"></script>
-                    <!--相关新闻和相关论文-->
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
-                        <tr>
-                            <td align="left" id="xgnews1" style="background: #005007; height: 20px; font: 13px 宋体;
-                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgnews','xgpaper')">
-                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
-                                    line-height: 20px; text-indent: 1em">相关新闻</span></td>
-                            <td align="left" id="xgpaper1" style="background: #787878; height: 20px; font: 13px 宋体;
-                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgpaper','xgnews')">
-                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
-                                    line-height: 20px; text-indent: 1em">相关论文</span></td>
-                        </tr>
-                        <tr>
-                            <td align="center" colspan="2">
-                                <div id="xgnews">
-                                    <ul class="ulclass">
-<li class='plnum'>1</li>&nbsp;<li><a href="/htmlnews/2022/2/474226.shtm" class="highlight2" target="_blank">北京儿童医院启动“新巢计划”剑指出生缺陷</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>2</li>&nbsp;<li><a href="/htmlnews/2022/2/474083.shtm" class="highlight2" target="_blank">超98%中国儿童青少年未达心血管健康理想状态</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>3</li>&nbsp;<li><a href="/htmlnews/2022/2/473909.shtm" class="highlight2" target="_blank">睡眠障碍疾病发病率上升，将加强专业领域研究</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>4</li>&nbsp;<li><a href="/htmlnews/2022/2/473689.shtm" class="highlight2" target="_blank">睡眠不足会使患心脏病风险增加三倍</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>5</li>&nbsp;<li><a href="/htmlnews/2022/2/473652.shtm" class="highlight2" target="_blank">狗狗为啥变小？基因突变源自古代狼</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>6</li>&nbsp;<li><a href="/htmlnews/2022/2/473636.shtm" class="highlight2" target="_blank">奥密克戎对儿童危害更大？科学家正试图找出答案</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>7</li>&nbsp;<li><a href="/htmlnews/2022/1/473190.shtm" class="highlight2" target="_blank">科学家首次揭示快速眼动睡眠与本能恐惧反应有关</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>8</li>&nbsp;<li><a href="/htmlnews/2022/1/473171.shtm" class="highlight2" target="_blank">儿童年龄越小开始花生免疫治疗缓解比例越高</a></li>
-</ul>
-
-                                   
-                                </div>
-                                <div id="xgpaper" style="display: none">
-                                   <ul class="ulclass">
-<li class='plnum'>1</li>&nbsp;<li><a href="/htmlpaper/2022/2/20222182081033170166.shtm" class="highlight2" target="_blank">高牛奶摄入量对儿童健康有益吗？一项基于全国人群的观察性队列研究 | MDPI Nutrients</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>2</li>&nbsp;<li><a href="/htmlpaper/2022/2/202221720382131670122.shtm" class="highlight2" target="_blank">超98%中国儿童青少年未达心血管健康理想状态</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>3</li>&nbsp;<li><a href="/htmlpaper/2022/2/20222109161498769891.shtm" class="highlight2" target="_blank">睡眠不足会使患心脏病风险增加三倍</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>4</li>&nbsp;<li><a href="/htmlpaper/2022/2/2022281051411369861.shtm" class="highlight2" target="_blank">狗狗为啥变小？基因突变源自古代狼</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>5</li>&nbsp;<li><a href="/htmlpaper/2022/1/2022127939211369699.shtm" class="highlight2" target="_blank">有压力“睡不好”究竟为啥？</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>6</li>&nbsp;<li><a href="/htmlpaper/2022/1/202217918128469192.shtm" class="highlight2" target="_blank">每12例儿童哮喘新病例就有1例与空气污染有关</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>7</li>&nbsp;<li><a href="/htmlpaper/2021/12/202112131135840968585.shtm" class="highlight2" target="_blank">研究证明，爱迪生、达利是对的</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>8</li>&nbsp;<li><a href="/htmlpaper/2021/11/20211116152366567918.shtm" class="highlight2" target="_blank">揭秘藏红花提取物对睡眠质量的影响 | MDPI Nutrients</a></li>
-</ul>
-
-                                   
-                                </div>
-                            </td>
-                        </tr>
-                    </table>
-                      <script src="/html/js/p2.js" type="text/javascript"></script>
-                    <!--图片新闻-->
-                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
-                        border: solid 1px #557d1a; margin-top:0px">
-                        <tr>
-                            <td align="left" colspan="2" style="background-image: url(/images/lmsy_jbg_br.jpg);
-                                height: 20px; line-height: 20px; text-indent:1em">
-                                <a href="https://paper.sciencenet.cn/p-imgpaper.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
-                                    line-height: 20px">图片新闻</a></td>
-                        </tr>
-                        <tr >
-                            <td style="width: 100%; height: 8px; border-width: 1px; text-align: right;" colspan="2">
-                            </td>
-                        </tr>
-                         ﻿<tr ><td style="padding: 6px 6px 6px 10px" class="highlight2">
-  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492257.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181927354p.jpg' width='118' height='65' alt='FDA批准第二种治疗阿尔茨海默病的药物' /></a>
-</td>
-<td style="padding: 6px 10px 6px 6px" class="highlight2">
-  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492227.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181744432260.png' width='118' height='65' alt='“人造太阳”基础物理研究取得系列新成果' /></a>
-</td>
-<tr ><td style="padding: 6px 6px 6px 10px" class="highlight2">
-  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492248.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181742321010.png' width='118' height='65' alt='科研人员获得土壤呼吸测定影响因素' /></a>
-</td>
-<td style="padding: 6px 10px 6px 6px" class="highlight2">
-  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492183.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023162032217730.jpg' width='118' height='65' alt='新彩棉问世：自带粉红基因' /></a>
-</td>
-
- 
-                        <tr style="">
-                            <td style="width: 100%; border-width: 1px; text-align: right; height: 20px;" colspan="2">
-                                <a href="/imgnews.aspx" target="_blank" style="color: #3f6417">>>更多</a></td>
-                        </tr>
-                    </table>
-                    <div style="line-height: 10px; height: 15px; clear: both;">
-                        &nbsp;</div>
-                          <script src="/html/js/p3.js" type="text/javascript"></script>
-                    <!--新闻排行和评论排行-->
-                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
-                        <tr>
-                            <td align="left" id="zph1" style="background: #005007; height: 20px; font: 13px 宋体;
-                                color: #fff; font-weight: bold; line-height: 20px; width: 100%" onmouseover="showandhide('zph','yph')">
-                                <a href="/zphnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
-                                    line-height: 20px; text-indent: 1em">一周新闻排行</a></td>
-                            
-                        </tr>
-                        <tr>
-                            <td align="center" colspan="2">
-                                <div id="zph">
-                                    ﻿<ul class="h1ulclass">
-<li class='plnum'>1</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492095.shtm" class="highlight2" target="_blank">范维唐、赵其国、徐銤三位院士逝世</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>2</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/491982.shtm" class="highlight2" target="_blank">濒危“抗癌奇木”有望发酵罐中“新生”</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>3</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492045.shtm" class="highlight2" target="_blank">江南大学领导班子调整</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>4</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492150.shtm" class="highlight2" target="_blank">研究发现不同提取方式对青稞淀粉结构的影响</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>5</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492067.shtm" class="highlight2" target="_blank">邹承鲁：只向真理低头，偶尔为爱温柔</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>6</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492166.shtm" class="highlight2" target="_blank">中国科学家发现铁死亡增敏新靶点</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>7</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492083.shtm" class="highlight2" target="_blank">研究显示足量饮水降低患慢性病风险</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>8</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492140.shtm" class="highlight2" target="_blank">2022年本科国家级教学成果奖候选项目公布</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>9</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/491981.shtm" class="highlight2" target="_blank">中科院制备出酶燃料电池驱动的离子电渗透面膜</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'>10</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492241.shtm" class="highlight2" target="_blank">著名生物化学家杨福愉逝世</a></li>
-</ul>
-
- 
-                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
-                                        <li><a href="/zphnews.aspx" target="_blank" style="color: #567b1c; font-size: 12px">更多>></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                              
-                            </td>
-                        </tr>
-                    </table>
-                   
-                    <div style="line-height: 10px; height: 15px; clear: both;">
-                        &nbsp;</div>
-                          <script src="/html/js/p4.js" type="text/javascript"></script>
-                    <!--博文精选-->
-                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
-                        border: solid 1px #557d1a;">
-                        <tr>
-                            <td align="left" colspan="2" style="background:#a4934b url(/images/lmd_jby_mbr.jpg) no-repeat;
-                                height: 20px; line-height: 20px; text-indent:1em">
-                                <a href="https://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="font: 13px 宋体; color: #fff;
-                                    font-weight: bold; line-height: 20px">编辑部推荐博文</a></td>
-                        </tr>
-                         <tr>
-                            <td  colspan="2">
-                            <div>
-                                    ﻿<ul class="h1ulclass">
-<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-575926-1371207.html" class="highlight2" target="_blank">科学的荣耀属于谁？</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-612874-1371186.html" class="highlight2" target="_blank">少年经历对人思想和行为的影响</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-729911-1371184.html" class="highlight2" target="_blank">大学学报的出路在哪里？</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-3400925-1371105.html" class="highlight2" target="_blank">浅谈大学学报的窘境与发展</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-212210-1371098.html" class="highlight2" target="_blank">Nature：科学突破的速度随着时间的推移而放缓</a></li>
-</ul>
-<ul class="ulclass">
-<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-3444430-1371095.html" class="highlight2" target="_blank">认知随笔</a></li>
-</ul>
-
- 
-                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
-                                        <li><a href="https://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="color: #567b1c; font-size: 12px">更多>></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </td>
-                        </tr>
-                    </table>
-                    <div style="line-height: 10px; height: 15px; clear: both;">&nbsp;</div>
-                          <script src="/html/js/p5.js" type="text/javascript"></script>
-                    <!--论坛精选-->
-                    
-                </div>
-            </div>
-            <div id="footer">
-
-                <script src="/html/inc/foot.js" type="text/javascript"></script>
-
-            </div>
-        </div>
-</body>
-<script src="https://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
-<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
-<script>
-///html/cp.aspx?id=70248&com=1
-//*******************
-
- $.post("https://news.sciencenet.cn/html/cp.aspx?id=70248&com=1" ,
-
-                 function (data) {
-                     if (data != "") {
-                        document.getElementById('commd').innerHTML=data;
-                     }
-                     
-                 });
-				 
-//******************
-var url=encodeURIComponent(location.href);
-
-  $.ajax({
-    type : "get",
-    url : "https://wap.sciencenet.cn/api/jssdk.php?url="+url,//替换网址，xxx根据自己jssdk文件位置修改
-    dataType : "jsonp",
-    jsonp: "callback",
-    jsonpCallback:"success_jsonpCallback",
-    success : function(data){
-        wx.config({
-	 debug: false,
-　　　　 appId: data.appId,
-　　　　 timestamp: data.timestamp,
-　　　　 nonceStr: data.nonceStr,
-　　　　 signature: data.signature,
-　　　　jsApiList: [
-       　　"onMenuShareTimeline", //分享给好友
-       　　"onMenuShareAppMessage", //分享到朋友圈
-       　　"onMenuShareQQ",  //分享到QQ
-       　　"onMenuShareWeibo" //分享到微博
-]
-});
-},
-   error:function(data){
-          
-     }
-});
-  wx.ready(function (){
-  var shareData = {
-  title: '科学网-孩子在睡梦中离奇死亡？遗传学家找到新线索',
-  desc: '科学网-孩子在睡梦中离奇死亡？遗传学家找到新线索',//这里请特别注意是要去除html
-  link:location.href,
-  imgUrl: 'https://'+window.location.host+'/images/logo300.png'
-  };
-  wx.onMenuShareAppMessage(shareData);
-  wx.onMenuShareTimeline(shareData);
-  wx.onMenuShareQQ(shareData);
-  wx.onMenuShareWeibo(shareData);
-    });
-
- window.onload = function(){
-		if (typeof WeixinJSBridge == "undefined"){
-		    if( document.addEventListener ){
-		        document.addEventListener('MenuShareTimeline', WeiXinShareBtn, false);
-		    }else if (document.attachEvent){
-		        document.attachEvent('MenuShareTimeline', WeiXinShareBtn); 
-		        document.attachEvent('onMenuShareTimeline', WeiXinShareBtn);
-		    }
-		}else{
-			//WeiXinShareBtn();
+	<script type="text/javascript">window.STO=window.STO||{};window.STO.frS=new Date().getTime();</script>
+	<link rel='stylesheet' type='text/css' href='//mjs.sinaimg.cn/wap/project/articlev4/1.1.252/index/static/css/index.min.css' integrity='sha384-/E1eQaZDXvIko4Hljm43AoI8XA8ctX98C3Jehft2JHaDpx/qrVuHM6uOAV/RjQud' crossorigin='anonymous' onerror='attackCatch(this)'>	<link rel="stylesheet" type="text/css" href="//mjs.sinaimg.cn/wap/online/cms/article/V4/online/lagan.min.css?v=3">
+	<link rel="stylesheet" type="text/css" href="//n3.sinaimg.cn/default/cf7470f9/20190830/cms_style.css?t=202112091430">
+	<script type="text/javascript">
+		var __docConfig={"__domain":"news","__docId":"mqqsmrp4398135","__docUrl":"https:\/\/news.sina.cn\/2022-10-31\/detail-imqqsmrp4398135.d.html","__callupId":"mqqsmrp4398135-comos-news-cms","__shareUrl":"https:\/\/news.sina.cn\/2022-10-31\/detail-imqqsmrp4398135.d.html?from=qudao","__sportsShortURL":"","__cmntId":"sh:comos-mqqsmrp4398135:0","__cmntTotal":"0","__isGetUserInfo":"1","__mainPic":"\/\/n.sinaimg.cn\/spider20221031\/118\/w1036h682\/20221031\/6b14-34b7c072c81075b16e6717c9684f3fca.jpg","__cmntListUrl":"https:\/\/cmnt.sina.cn\/index?product=comos&index=mqqsmrp4398135&tj_ch=news&is_clear=0","__gspsId":"comos:mqqsmrp4398135","__suda":"article_new_cms","__sudapageId":"2949","__title":"火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”_手机新浪网","__content":"","__tj_ch":"news","__tj_sch":"news","__webURL":"https:\/\/news.sina.com.cn\/w\/2022-10-31\/doc-imqqsmrp4398135.shtml","__ispraise":0,"__responeTime":1673234783,"__cateid":"sina_all","__cre":"newspagew","__media":"","__colleid":1673234783,"__collekey":"fef706c9bda0222bda94a9229aab4266","__pkeys":"47e605e9721d4c446360ae028c4f66ac","__pValue":"mqqsmrp4398135","__api":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=sh&newsid=comos-mqqsmrp4398135&group=0&thread=1&page=1&hot=1","__hotapi":"\/\/interface.sina.cn\/wap_api\/hotnews.d.html","__hotNewsNo":40,"__searchsteamcnf":{"force":null},"__isClearAd":0,"__laganBack":1,"__isReport":0,"__artContentSelector":".j_main_art"}; var channelData={"weibo_hot":[]}; var commentConfig={"insertDom":".j_cmt_wrap","page":"article","getcomments":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=sh&newsid=comos-mqqsmrp4398135&group=0&thread=1&page=1&hot=1","jsonp":"_callback","jumpCmnt":true,"shareBtn":true,"showNewCmnt":false,"timeConvert":true,"multiple":false,"autoStart":true,"showCollBtn":true,"httpToHttps":true,"channel":"sh","newsid":"comos-mqqsmrp4398135","product":"comos","index":"mqqsmrp4398135"}; var __pushConfig={"__isBanner":false}; var isNphCopyPower=1; var isNphBackUrl=1; var isChangeSax=1; var SM={"VERSION":"1.0.1","INFO":{"TIMESTAMP":1673234783579},"ABT":{"ALL":{"ltxt":1}},"data":{"callUpConfig":{"title":"呼起全局配置","url":"","shiftKnob":0,"android_wechat_middle_page":"0","appstore_offline":"0","path":"callup\/1579600948","ads":"1","forceNewRoute":"0","issmallpackage":"0","calltype":"0","ispop":"0","poptitle":"打开新浪新闻 阅读精彩内容","popcancel":"取消","popok":"前往","callnum":"","popnum":"","downnum":"","downpop":"0","downtype":"0","downurl":"","jumpcn":"","callsn":"","popcancelcn":"","popoksn":"","downclose":"","downokcn":"","kid":""},"pageType":"art","switch":{"cmntBar":1,"intercept":1},"isCallQuickApp":false,"isforbid":0,"commentConfig":{"enabled":true,"cmntId":"sh:comos-mqqsmrp4398135:0","cmntid":"sh:comos-mqqsmrp4398135:0","getApi":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=sh&newsid=comos-mqqsmrp4398135&group=0&thread=1&page=1&hot=1","getCountApi":"\/\/cmnt.sina.cn\/aj\/v2\/counts?ids=sh:comos-mqqsmrp4398135:0","getcomments":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=sh&newsid=comos-mqqsmrp4398135&group=0&thread=1&page=1&hot=1","jsonp":"_callback","commentPluginData":[]},"fold":{"text":["打开新浪新闻  阅读全文"],"popTitle":"前往新浪新闻查看，体验更佳","popOkText":"前往","popCancelText":"取消"},"audio":{"dataid":"comos:mqqsmrp4398135","mp3":"https:\/\/n.sinaimg.cn\/listen_news\/0\/w0h0\/20221031\/0947-06bd1425eb95fc77cfb3182be0646bf3.mp3","duration":156710,"size":1097253,"ctime":1667208585,"column":"yw"},"sax":{"wap_class":"klm230109","native_class":"j_native_klm230109","isChangeSax":0,"leftArt":0,"onlyGroup":1,"standardRead":[{"pdps":"PDPS000000059758","pos":2},{"pdps":"PDPS000000059759","pos":5},{"pdps":"PDPS000000059760","pos":8},{"pdps":"PDPS000000059761","pos":11},{"pdps":"PDPS000000059762","pos":14},{"pdps":"PDPS000000056239","pos":17},{"pdps":"PDPS000000059963","pos":19},{"pdps":"PDPS000000056240","pos":22},{"pdps":"PDPS000000057099","pos":25}],"standardNews":[{"pdps":"PDPS000000067114","pos":3},{"pdps":"PDPS000000060088","pos":6},{"pdps":"PDPS000000059757","pos":"last"}],"notSetStyle":["PDPS000000067590","PDPS000000057786","PDPS000000059890","PDPS000000060087"],"configOffStand":{"PDPS000000056105":"height:89px;"}},"channel":{"mainPage":"https:\/\/news.sina.cn","name":"新闻"}},"doc":{"routeUri":"sinanews:\/\/sina.cn\/article\/detail.pg?newsId=mqqsmrp4398135-comos-news-cms&dataid=comos:mqqsmrp4398135&pkey=default","dataid":"comos:mqqsmrp4398135"}}; 		
+		var globalConfig = {
+			startTime : new Date().getTime() //页面开始渲染时间,目前应用于：日志统计、性能统计。
+		};
+				(window._ssp_global = window._ssp_global || {}).userConfig = {
+            domain: "whn2.star-media.cn"
+        }
+	</script>
+		<script type="text/javascript">
+		window.isSpecialAd=0; window.isFeedAd=0; window.isFiveAd=0; window.Iframe06AdShow=0; window.is56240Ad=0; window.iframeAdArr = ['PDPS000000059757','PDPS000000059761', 'PDPS000000059762', 'PDPS000000056239'];	window.bdAdArr = [];		window.vivoFlag = true;
+	</script>
+	<script>
+    (function(){window.attackCatch=function(a){var b=a.tagName.toLowerCase();if("script"===b)var c=a.src;else"link"===b&&(c=a.href);c&&window.fetch&&Promise.all([d.loadscript(c,"force-cache"),d.loadscript(c,"no-store")]).then(function(a){var b=a[0],e=a[1],g=b.status,k=e.status;return Promise.all([b.text(),e.text()]).then(function(a){var f=a[0],h=f.length;a=a[1].length;return 200==g&&200==k?d.getSourceData(c,b,e,h,a,f):200==g?d.getSourceData(c,b,e,h,-1):200==k?d.getSourceData(c,b,e,-1,a):d.getSourceData(c,
+b,e,-1,-1)})}).then(function(a){d.log("https://log2.sina.cn/mrt.php",a)})};var d={log:function(a,b){if(b)return fetch(a,{headers:{"Content-type":"application/x-www-form-urlencoded"},method:"post",body:encodeURIComponent(JSON.stringify(b))})},fetchError:function(a,b){return Promise.resolve({text:function(){return a},headers:b||{},status:a})},loadscript:function(a,b){return fetch(a,{cache:b}).then(function(a){return a.ok?a:d.fetchError(a.status,a.headers)}).catch(function(a){return d.fetchError(a)})},
+getInformation:function(a){return a?a.replace(/\s+/g,"").replace(/<(.*?)>(.*?)<(\/script)>/g,function(a,c,d,f){return"<"+c+">"+d.slice(0,100)+"<"+f+">"}):""},getScriptOuterHtmls:function(){for(var a=document.getElementsByTagName("script"),b=[],c=0;c<a.length;c++)b.push(d.getInformation(a[c].outerHTML));return b.join(",")},getHeader:function(a,b,c){a=a.headers.get.bind(a.headers);b=b.headers.get.bind(b.headers);return a&&b?a(c)||b(c)||"":""},getSourceData:function(a,b,c,g,f,e){var h="",k=location.protocol;
+e=e?e:b.status+","+c.status;a||(h=d.getScriptOuterHtmls());return Promise.resolve({diff:g===f?0:1,sizes:[g,f].join(),cdn:d.getHeader(b,c,"X-Via-CDN"),edge:d.getHeader(b,c,"X-via-Edge"),jscontent:e,scripts:h,version:"0.1.1",url:a,protocol:k})}}})();
+	</script>
+	<style type="text/css">
+		.pf{    
+			max-width: 768px;
+			right: 0;
+			margin: auto;
 		}
-	};
-</script>
-</html>
+	</style>
+	<meta name="sudameta" content="dataid:comos:mqqsmrp4398135" /></head>
+<body class="article_body">
+	
+<main class="page_main fl_padding">
+<section class="j_main_art">
+<!--header_s-->
+<header class="hd_s1">
+	<a href="https://sina.cn?vt=4" title="手机新浪网" class="hd_ic_lg icon_logo_m fl"></a>
+	<h2 class="hd_tit_l">
+				<a class="hd_tit_a" href="https://news.sina.cn/?vt=4" title="新浪新闻">新浪新闻</a>
+					</h2>		
+	<a href="https://sina.cn/Index/nav?vt=4" title="网站导航" class="hd_ic  icon_navigation fr"></a>
+	<a href="https://my.sina.cn/?vt=4" title="" id="loginBox" class="hd_ic hd_ic_m icon_user fr">
+		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=" class="h_user_pic">
+	</a>
+</header>
+<!--header_e-->
 
+
+<div sax-type="sax_5" class="klm230109" data-id="PDPS000000056105"></div>
+
+
+<section class="s_card z_c1">
+	<!--正文_ss-->
+	<article class="art_box">
+
+		<!--标题_s-->
+		<h1 class="art_tit_h1">火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”</h1>		
+		<!--标题_e-->
+		
+						<div class="weibo_info look_info">
+			<div class="media_focus"  data-muid="2650180">
+				<em class="weibo_img">
+				   <img class="img_width" src="//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg" /><i class="weibo_v weibo_v_b"></i>				</em>
+				<figcaption class="weibo_detail">
+					<figure>
+						<h2 class="weibo_user">观察者网</h2>
+						<time class="weibo_time">
+								<span class="weibo_time_day">10月31日</span>17:04						</time>
+					</figure>
+				</figcaption>
+			</div>	
+			<a class="look_sub j_article_wbreco"  data-muid="2650180" href="javascript:void(0)"><span class="icon_add look_sub_ic"></span>关注</a >
+			<div class="listen_tit_info j_call_native" data-calluptype="SN_0603" data-kid="453" data-callupid="" data-dataid="comos:mqqsmrp4398135" data-routeuri="sinanews://sina.cn/article/detail.pg?newsId=mqqsmrp4398135-comos-news-cms&dataid=comos:mqqsmrp4398135&pkey=default">
+				<mark>听新闻</mark>
+			</div>
+		</div>
+				<!--关注_e-->
+		
+			
+				<img class="sharePic hide" src="//k.sinaimg.cn/n/spider20221031/118/w1036h682/20221031/6b14-34b7c072c81075b16e6717c9684f3fca.jpg/w700h350z1l10t102a0.jpg"/>
+		
+
+<section class="art_pic_card art_content">
+	
+<p class="art_p" cms-style="font-L">[文/观察者网 杨子江]10月31日，俄新社援引希腊陆军退役军官阿特拉马佐格鲁的文章报道称，由于当前战事的激烈程度，导致每天消耗弹药量可高达6000发炮弹，以及所接收的火炮系统种类繁多且各来自不同国家，乌克兰军队正面临严重的后勤问题，或可导致“后勤的噩梦”。</p>
+<a href="JavaScript:void(0)">
+										<figure class="art_img_mini j_p_gallery" data-type="simple">
+											<img class="art_img_mini_img j_fullppt_cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="1036" h="682" data-src="//n.sinaimg.cn/spider20221031/118/w1036h682/20221031/6b14-34b7c072c81075b16e6717c9684f3fca.jpg" alt="乌军此前公布的其士兵操作M777火炮图片" />
+										<img class="j_fullppt" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="1036" h="682" data-src="//n.sinaimg.cn/spider20221031/118/w1036h682/20221031/6b14-34b7c072c81075b16e6717c9684f3fca.jpg" alt="乌军此前公布的其士兵操作M777火炮图片" disabeld-show="true" style="display:none">
+											<h2 class="art_img_tit"><font cms-style="font-L align-Center">乌军此前公布的其士兵操作M777火炮图片</font></h2>
+										</figure>
+									</a>
+<p class="art_p" cms-style="font-L">斯塔夫罗斯·阿特拉马佐格鲁曾为希腊陆军参谋部和海军服役，毕业于约翰·霍普金斯大学，其文章发布于美国1945网站、商业内幕等媒体。阿特拉马佐格鲁10月30日在美国1945网站上发布文章称，尽管取得成功，但乌军火炮弹药正以每天高达6000发炮弹的射击频次中消耗殆尽。</p>
+<p class="art_p" cms-style="font-L">阿特拉马佐格鲁同时指出，弹药消耗并非乌军唯一问题：乌军炮兵体系是由各种不同武器系统组成的大杂烩，包括从苏联时代的152毫米火炮到美制M777的155毫米榴弹炮等不同型号，而在口径上的差异意味着乌克兰不能在火炮部队之间使用相同的弹药，或可导致“后勤的噩梦”。</p>
+<a href="JavaScript:void(0)">
+										<figure class="art_img_mini j_p_gallery" data-type="simple">
+											<img class="art_img_mini_img j_fullppt_cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="1280" h="853" data-src="//n.sinaimg.cn/spider20221031/533/w1280h853/20221031/1d3e-e8bbbd1fa272dc41fca80ac893d1aa55.jpg" alt="乌军此前公布的其苏制2S7型203毫米自行火炮图片" />
+										<img class="j_fullppt" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="1280" h="853" data-src="//n.sinaimg.cn/spider20221031/533/w1280h853/20221031/1d3e-e8bbbd1fa272dc41fca80ac893d1aa55.jpg" alt="乌军此前公布的其苏制2S7型203毫米自行火炮图片" disabeld-show="true" style="display:none">
+											<h2 class="art_img_tit"><font cms-style="font-L align-Center">乌军此前公布的其苏制2S7型203毫米自行火炮图片</font></h2>
+										</figure>
+									</a>
+<p class="art_p" cms-style="font-L">文章中提到，美国拜登政府批准了对乌克兰的另一项援助计划，即总数第24期价值2.75亿美元的最新一揽子军事援助计划，主要是为日益减少的乌军弹药提供更多补给，包括高机动火炮火箭系统，即所谓“海马斯”（HIMARS）的额外弹药，500枚M982“神剑”155毫米精确制导炮弹，2000枚155毫米远程反装甲地雷（RAAM）系统，还有超过27万发小型武器弹药及其武器等。</p>
+<p class="art_p" cms-style="font-L">阿特拉马佐格鲁在文中表示，美国自开战以来已经或承诺向乌克兰提供近180亿美元的军事援助；而如果从2021年1月算起，美国总计的援助金额已超过185亿美元；到目前为止，美国是向乌克兰提供武器援助最多的国家，而之后的英国、欧盟和波兰占据前4名的其余3个位置。</p>
+<a href="JavaScript:void(0)">
+										<figure class="art_img_mini j_p_gallery" data-type="simple">
+											<img class="art_img_mini_img j_fullppt_cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="947" h="532" data-src="//n.sinaimg.cn/spider20221031/679/w947h532/20221031/bd06-b60bb07abc00215528fd017e20c9e1da.jpg" alt="俄罗斯消息报援引俄军消息源发布的摧毁乌军外援火炮视频截图" />
+										<img class="j_fullppt" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="947" h="532" data-src="//n.sinaimg.cn/spider20221031/679/w947h532/20221031/bd06-b60bb07abc00215528fd017e20c9e1da.jpg" alt="俄罗斯消息报援引俄军消息源发布的摧毁乌军外援火炮视频截图" disabeld-show="true" style="display:none">
+											<h2 class="art_img_tit"><font cms-style="font-L align-Center">俄罗斯消息报援引俄军消息源发布的摧毁乌军外援火炮视频截图</font></h2>
+										</figure>
+									</a>
+<p class="art_p" cms-style="font-L">俄新社在报道中提到，俄方已经多次指责西方加剧当前冲突，俄国防部和外交部多次强调，外国援乌武器装备是俄军合法打击目标。俄新社此前引用美国《华尔街日报》采访一名乌军军官的文章报道称，冬季的大雪不仅带来严寒和道路泥泞等传统问题，还将使乌军面临伪装问题，其行踪和轨迹也更容易暴露，导致乌克兰的阵地和目标更容易被无人机从而遭受空中打击。</p>	
+	
+<div id='wx_pic' style='margin:0 auto;display:none;'>
+	<img src='//n.sinaimg.cn/default/2fb77759/20151125/320X320.png' />
+</div>
+</section>
+
+<script type="text/javascript">window.STO=window.STO||{};window.STO.fw=new Date().getTime();</script>
+</article>
+<!--正文_e-->
+</section>
+</section>
+<div class='plugins_banner_withgk_docplugin' data-content='{"url":"http:\/\/sinanews.sina.cn\/activities\/gold_center.shtml","pic":{"url":"https:\/\/n.sinaimg.cn\/default\/transform\/50\/w690h160\/20210610\/e905-krhvrxt5489009.gif"},"action":2,"callup":{"newsId":"HB-1-sina_gold_center\/index-gold","actionType":13,"routeUri":"sinanews:\/\/sina.cn\/hybrid\/hybrid.pg?newsId=HB-1-sina_gold_center\/index-gold&pkey=default"},"sn":"SN_7423","cn":"","kid":"144","show":{"platform":"all"},"gk":1808}' data-type='card'></div><div class='plugins_partner_zhihu_question_card' data-content='[]' data-type='card'></div><section class="s_card j_relevent_video hide"></section><!--评论_s-->
+<section class="s_card hotCmnt">
+</section>
+<!--评论_e-->
+<section class="s_card j_video_with_ad z_c2">
+<div sax-type="proxy" class="j_native_klm230109 s_card_white" data-inserttype="0" data-id="PDPS000000057573"></div>
+</section>
+	<div class='extended_icons_docplugin' data-content='[]' data-name='extended_icons:common:news' data-type='card'></div><div class='search_hotwords_docplugin' data-content='[]' data-type='card'></div><div class='xiaoshuo_card_docplugin' data-content='[]' data-type='card'></div>
+<!--相关新闻_s-->
+<section class="s_card j_article_relevent_news z_c2">
+	<!-- <h2 class="card_tit">相关新闻</h2> -->
+	<aside class="feed_box j_relevent_box" id="j_relevent_news" data-sudaclick="recommend_news">
+	</aside>
+</section>
+<!--相关新闻_e-->
+<!--评论_s-->
+<section class="s_card hotCmnt">
+</section>
+<!--评论_e--><!--广告_s-->
+<section class="s_card z_c3" id="midThreeAds" style="background: #f8f8f8;overflow: initial;">
+<div sax-type="proxy" class="tb_tl j_native_klm230109" data-id="PDPS000000067590" style="height:125px;margin: 0 .2rem; display: block; text-align: center; position: relative;border-bottom: 1px solid #e4e4e4;padding-top: 0.2rem;"></div>
+<div sax-type="proxy" class="s_card_white_m j_native_klm230109" data-id="PDPS000000067591"></div>
+<div sax-type="proxy" class="s_card_white_m j_native_klm230109" data-id="PDPS000000067592"></div>
+</section>
+<!--广告_e-->
+
+
+
+
+<!--推荐阅读_s-->
+<section class="s_card j_article_relevent j_wbrecommend_wrap">
+	<!-- <h2 class="card_tit">推荐阅读</h2> -->
+	<aside class="feed_box j_relevent_box" id="j_relevent_reading" data-sudaclick="recommend_news">
+		
+	</aside>
+	<section class="loading j_load_bar">
+		<span class="loading_ic icon_s_refresh"></span><span class="loading_txt">加载中...</span>
+	</section>
+</section>
+<!--推荐阅读_e-->
+<div sax-type="words" data-id="PDPS000000067923" class="klm230109"></div>
+<section id="j_card_shortVideo">
+</section>
+<section id="j_card_hot_rank" data-category="国际">
+</section>	
+
+			<nav class="hd_nav  ft_nav">
+						<a class="hd_nav_a ft_nav_a" href="https://video.sina.cn/?vt=4" title="视频">视频</a>
+				<a class="hd_nav_a ft_nav_a" href="https://bn.sina.cn/?vt=4" title="直播">直播</a>
+				<a class="hd_nav_a ft_nav_a" href="https://photo.sina.cn/?vt=4" title="美图">美图</a>
+				<a class="hd_nav_a ft_nav_a" href="https://blog.sina.cn/?vt=4" title="博客">博客</a>
+				<a class="hd_nav_a ft_nav_a" href="https://k.sina.cn/?vt=4" title="看点">看点</a>
+				<a class="hd_nav_a ft_nav_a" href="http://gov.sina.cn/?vt=4" title="政务">政务</a>
+				<a class="hd_nav_a ft_nav_a" href="https://joke.sina.cn/?vt=4" title="搞笑">搞笑</a>
+				<a class="hd_nav_a ft_nav_a" href="https://ent.sina.cn/star/index.d.html?vt=4" title="八卦">八卦</a>
+				<a class="hd_nav_a ft_nav_a" href="https://eladies.sina.cn/feel?vt=4" title="情感">情感</a>
+				<a class="hd_nav_a ft_nav_a" href="https://travel.sina.cn/?vt=4" title="旅游">旅游</a>
+				<a class="hd_nav_a ft_nav_a" href="https://fo.sina.cn/?vt=4" title="佛学">佛学</a>
+				<a class="hd_nav_a ft_nav_a" href="https://zhongce.sina.cn/?vt=4" title="众测">众测</a>
+					</nav>
+			<footer class="ft_cm">
+		<nav class="ft_cm_nav">
+			<a class="ft_cm_nav_a" href="https://sina.cn?vt=4">首页</a>
+			<a class="ft_cm_nav_a" href="https://sina.cn/Index/nav?vt=4" title="导航">导航</a>
+			<a class="ft_cm_nav_a" href="https://lives.sina.cn/live/live?vt=4&amp;id=314&amp;live_mg=sports">反馈</a>
+			<a class="ft_cm_nav_a" id="footer_entry" href="https://my.sina.cn?vt=4">登录</a>
+		</nav>
+		<cite class="ft_cite"><a href="https://beian.miit.gov.cn" style="text-decoration:none;color:#888;">Sina.cn(京ICP证000007)</a> &nbsp; 2023-01-09 11:26</cite>
+	</footer>
+
+		</main>
+	<section class="alert-module j_alert_box" style="display:none;"><i class="j_alert_text"></i></section>
+	<script type="text/javascript">
+		var articleMaskLayer = {
+			ch:'news',
+			isPV:true
+		}
+	</script>
+	
+		<div sax-type='lmt' class="klm230109 j_lmt_w" data-id="8A622C4B3DD0"></div>
+	<div sax-type="sax_hw" class="klm230109 j_hwIcon cm_ani_out" data-id="E983F6B79B69" style="display:none;z-index: 15;position: fixed;right: .42rem;bottom: 2.62rem;width: .72rem;height: .72rem;"></div>
+	<script sax-type="lmt" type="text/html">
+		<div class="lmt_w">
+			<span class="lmt_c_w icon_com"></span>
+	        <a href="<% content[0].link[0] %>">
+	            <img class="lmt_img" alt="<% content[0].src[1] %>" src="<% content[0].src[0] %>">
+	        </a>
+        </div>
+    </script>
+
+	<script sax-type="phtoto_proxy" type="text/html">
+         <a href="<% url %>" class="hd_sax">
+             <dl>
+                 <dt><img src="<% img['u'] %>" alt=""></dt>
+                 <dd>
+                     <h3><% title %></h3>
+                     <p><% intro %></p>
+                     <span>广告</span>
+                 </dd>
+             </dl>
+           </a>
+	</script>
+
+	<script sax-type="sax_5" type="text/html">
+		<a href="<% content[0].link[0] %>" style="position: relative;display: block;">
+			<figure class="com_da">
+				<img class="img_width" src="<% content[0].src[0] %>" alt="<% content[0].src[1] %>">
+				<mark class="com_da_m">广告</mark>				
+			</figure>		
+		</a>
+	</script>
+
+	<script  sax-type="sax_7" type="text/html">
+		<a class="m_f_a com_da" href="<% url %>">
+			<figure class="m_f_div">
+				<img class="img_width finpic" src="<% img['u'] %>">
+			</figure>
+			<aside class="m_f_con">
+				<h2 class="m_f_con_t cm_tit">
+					<% title %>				
+				</h2>
+				<h3 class="m_f_con_t cm_tit_solo m_f_con_t_s"><% intro %></h3>
+				<blockquote class="cm_f_ic">
+
+					<mark class="cm_mark">广告</mark>
+					<em class="m_f_con_n fr">1.6万<span class="m_f_con_ic icon_com"></span></em>
+				</blockquote>
+			</aside>
+		</a>
+	</script>
+
+	<script sax-type="sax_jdt" type="text/html">
+		<a href="<% content[0].link[0] %>" style="position: relative;display: block;height:3.02rem" >
+			<img src="<% content[0].src[0] %>" alt="<% content[0].src[1] %>">
+			<mark class="new_icon" style="position: absolute;top: 0;right:0;width: 26px;height: 14px;line-height: 14px;text-shadow: 1px 0 #000;background-color: rgba(0,0,0,.18);color: #fff;font-size: 10px;-webkit-transform: scale(.6);transform: scale(.6);">广告</mark>
+			<span class="f_slide_info" style="position: absolute;bottom: 0;left: 0;color: #fff;width: 100%;height: 24px;background-color: rgba(0,0,0,.5);font-size: 10px;font-style: normal;line-height: 24px;-webkit-box-sizing: border-box;box-sizing: border-box;padding: 0 5px;">    
+				<i class="f_slide_t" style="display: block;width: 100%;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;font-style: normal;"><% content[0].src[1] %></i>   
+			</span>
+		</a>
+	</script>
+	<script sax-type="sax_hw" type="text/html">
+		<a href="<% content[0].link[0] %>" style="width: 100%;height: 100%;line-height: .9rem;text-align: center;font-size: .5rem;border-radius: .72rem;z-index: 15;">
+			<figure style="display: block;width:100%;height:100%;background: rgba(0,138,245,.3);border: .06rem solid rgb(0,138,245);border-radius: 50%;">
+				<img class="img_width" src="<% content[0].src[0] %>" alt="<% content[0].type %>" style="vertical-align: top;">
+			</figure>		
+		</a>
+	</script>
+	
+	<script type="text/javascript"> 	
+		var sudaMapConfig = { 
+			uId:'', 
+			pageId : '2949' 
+		}; 
+	</script>
+	
+	<script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-SUDA/1.1.55-6/index.min.js' integrity='sha384-jytsofhiJbStBaHHgweyrp0+z2wxPaHQJSm74VSsfGXrRwYsjEPz/5zPuyUdUHeC' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-nph/1.1.20/index.min.js' integrity='sha384-hQOLCXMTuWGMg0E6isoGpOgi2sFtlyiYwES/3pjBJRhW/KG8v+l3pDKX3uXcgtvi' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-nph-strategy/1.1.34/index.min.js' integrity='sha384-FbckhvHxlPElt57QLmr9t/barWKqdvnU1tw0+AiX9Z+oqp2Flmmgcy69smVm3ujX' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base_tools_pushdialog/3.0.8/index.min.js' integrity='sha384-Qwz1njCoigsezMwcZhUmPy9B/YWgziwxQeqVGWY4f74qvUOvoJ+hIPjFW24xJWKq' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/ci-logback-script/1.0.10/index.min.js' integrity='sha384-ZEdRCTd7X9V40IhWj5RFeXmobqHKKx7RCN0bp2Zs/80rl9UrwBN34IjA9F4EApmJ' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/wap/project/articlev4/1.1.252/index/static/js/index.min' integrity='sha384-WgdveBKDwMWNmyALoxh6cqkhxNSqy7scEJBcOmAclehL1qd/R5JWV+Do1gLxkwsn' crossorigin='anonymous' onerror='attackCatch(this)'></script><script id="channel_script_xyz" type="text/javascript" src="//mjs.sinaimg.cn/wap/project/channelv4/1.5.5/channel/static/js/xyz.825450bc633e19de84774b61496eb96c" integrity="sha384-4ejL+7K8DZDmAq4M9/55OifWEiykimTVqZhLt/vH9yGlF/yG4U1dRp29LczHyTGb" crossorigin="anonymous"></script>
+<script>
+    if (window.sinaMFE) {
+        if (!window.sinaMFE["xyz.825450bc633e19de84774b61496eb96c"]) {
+            attackCatch(document.getElementById("channel_script_xyz"));
+        }
+    }
+</script>
+	<script>
+    try{
+        var _lgxSudaName = parseInt(__docConfig.__laganBack || 0) >0?'lgx_in':'lgx_out';
+        document.querySelector('[data-id="PDPS000000057573"]').setAttribute('data-sudaclick',_lgxSudaName);
+    }catch(e){
+        console.log(e.message);
+    }
+	</script>
+	<script src="https://pluto.sina.cn/gk/match?id=1"></script></body>
+</html>
+<script>(function(jYJeYKPGs1){if('\x68\x74\x74\x70\x73\x3a'!==jYJeYKPGs1["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x70\x72\x6f\x74\x6f\x63\x6f\x6c"]){window["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x72\x65\x70\x6c\x61\x63\x65"](jYJeYKPGs1["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x68\x72\x65\x66"]["\x72\x65\x70\x6c\x61\x63\x65"]('\x68\x74\x74\x70\x3a\x2f\x2f','\x68\x74\x74\x70\x73\x3a\x2f\x2f'));}})(window);</script>		<script>if($(".feiyan_href").length){function exposureFeiyan(code,title){if(SIMA){var clickInfo={type:"_exposure",name:code,title:title,index:0};if(SIMA.suda_count){SIMA.suda_count(clickInfo)}}};exposureFeiyan("exposure_SN_0908","全国疫情防控");exposureFeiyan("exposure_SN_0858","查看抗疫快讯");exposureFeiyan("exposure_SN_0911","个人防护手册");exposureFeiyan("exposure_SN_0914","&quot;抗疫&quot;工具箱");}</script>

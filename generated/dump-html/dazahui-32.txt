@@ -1,1007 +1,696 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-Hans" lang="zh-Hans" dir="ltr" xmlns:fb="http://ogp.me/ns/fb#">
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-    <meta http-equiv="Content-Language" content="zh-Hans" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>OCNã€Šé»‘æ´ã€‹å¤§ç»“å±€å‰å¤•æ”¶è§†æƒ¨è·Œ0.5ï¼ç½‘æ‰¹ã€Œå‰§æœ¬å¤ªå·®ã€ï¼šçœ‹ä¸æ‡‚åœ¨æ¼”ä»€ä¹ˆ - KSD éŸ©æ˜Ÿç½‘ (éŸ©å‰§) </title>
-    <meta name="description" content="æƒŠæ‚šå‰§é›†ã€Šé»‘æ´ã€‹æœ¬å‘¨å…­ï¼ˆ5æ—¥ï¼‰å³å°†è¿æ¥å¤§ç»“å±€ï¼Œæ•…äº‹ä¸»æ‰“æœ«ä¸–é€ƒéš¾å‰§æƒ…ï¼Œæ”¶è§†ç‡å´å±¡åˆ›æ–°ä½ï¼Œç¬¬ä¹é›†è·Œåˆ°0.5ï¼Œç¬¬10é›†æ‰å›åˆ°1.0ã€‚æœ‰è®¸å¤šç½‘å‹è¯´æ”¶è§†ç‡ä¼šè¿™ä¹ˆä½è¿·ï¼šã€Œä¸€åˆ‡éƒ½æ˜¯å‰§æœ¬çš„é—®é¢˜ã€‚ã€" />
-    <meta name="keywords" content="é»‘æ´,é‡‘ç‰å½¬,ææµšèµ«" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="expires" content="Thu, 06 Dec 1997 13:00:00 GMT" />
-    <meta http-equiv="refresh" content="600" />
-    <meta property="fb:pages" content="150836420761" />
-    <meta property="fb:app_id" content="694211364011889">
-    <meta property="fb:admins" content="1608441254" />
-    <meta property="og:type" content="article"/>
-    <meta property="og:title" content="OCNã€Šé»‘æ´ã€‹å¤§ç»“å±€å‰å¤•æ”¶è§†æƒ¨è·Œ0.5ï¼ç½‘æ‰¹ã€Œå‰§æœ¬å¤ªå·®ã€ï¼šçœ‹ä¸æ‡‚åœ¨æ¼”ä»€ä¹ˆ"/>
-    <meta property="og:site_name" content="KSD éŸ©æ˜Ÿç½‘"/>
-    <meta property="og:description" content="æƒŠæ‚šå‰§é›†ã€Šé»‘æ´ã€‹æœ¬å‘¨å…­ï¼ˆ5æ—¥ï¼‰å³å°†è¿æ¥å¤§ç»“å±€ï¼Œæ•…äº‹ä¸»æ‰“æœ«ä¸–é€ƒéš¾å‰§æƒ…ï¼Œæ”¶è§†ç‡å´å±¡åˆ›æ–°ä½ï¼Œç¬¬ä¹é›†è·Œåˆ°0.5ï¼Œç¬¬10é›†æ‰å›åˆ°1.0ã€‚æœ‰è®¸å¤šç½‘å‹è¯´æ”¶è§†ç‡ä¼šè¿™ä¹ˆä½è¿·ï¼šã€Œä¸€åˆ‡éƒ½æ˜¯å‰§æœ¬çš„é—®é¢˜ã€‚ã€"/>
-    <meta property="og:image" content="https://a.ksd-i.com/a/2021-05-31/135785-908363.jpg"/>
-    <meta property="og:url" content="https://www.koreastardaily.com/sc/news/135785"/>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
 
-    <link rel="stylesheet" type="text/css" media="all" href="//a.ksd-i.com/css/ksd-2.2.6.min.css" />
-
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-
-    <script src="//a.ksd-i.com/js/jquery.ksd-1.0.0.js" type="text/javascript"></script>
-
-    <!--sticky -->
-    <script type="text/javascript" src="//a.ksd-i.com/js/jquery.sticky.min.js"></script>
-
-    <!-- fancybox -->
-    <link rel="stylesheet" href="https://a.ksd-i.com/css/jquery.fancybox.3.1.20.min.css" />
-    <style> .fancybox-container { z-index: 99999999; } </style>
-
-    <script>
-      // jQuery function calls
-      $(function() {
-        //$(".floater").floatingFixed({ 'padding': 80, 'rleft': -90, 'fleft': -562 });
-        $('#gotoc1,#gotoc2').click(function(){
-            $('html, body').animate({scrollTop: $("#comments").offset().top}, 500);
-        });
-
-
-      });
-    </script>
-
-
-
-<link rel="apple-touch-icon" sizes="180x180" href="//a.ksd-i.com/images/apple-touch-icon.png?v=Gv6xgg9MWb">
-<link rel="icon" type="image/png" sizes="32x32" href="//a.ksd-i.com/images/favicon-32x32.png?v=Gv6xgg9MWb">
-<link rel="icon" type="image/png" sizes="16x16" href="//a.ksd-i.com/images/favicon-16x16.png?v=Gv6xgg9MWb">
-<link rel="manifest" href="/site.webmanifest?v=Gv6xgg9MWb">
-<link rel="mask-icon" href="//a.ksd-i.com/images/safari-pinned-tab.svg?v=Gv6xgg9MWb" color="#40e0d0">
-<link rel="shortcut icon" href="//a.ksd-i.com/images/favicon.ico?v=Gv6xgg9MWb">
-<meta name="msapplication-TileColor" content="#00aba9">
-<meta name="theme-color" content="#ffffff">
-
-<script type="application/ld+json">
-{
-"@context": "http://schema.org",
-"@type": "NewsArticle",
-"mainEntityOfPage": "https://www.koreastardaily.com/sc/news/135785",
-"headline": "OCNã€Šé»‘æ´ã€‹å¤§ç»“å±€å‰å¤•æ”¶è§†æƒ¨è·Œ0.5ï¼ç½‘æ‰¹ã€Œå‰§æœ¬å¤ªå·®ã€ï¼šçœ‹ä¸æ‡‚åœ¨æ¼”ä»€ä¹ˆ",
-"image": [
-  "https://a.ksd-i.com/a/2021-05-31/135785-908363.jpg"
-],
-"datePublished": "2021-06-02T09:30:00+08:00",
-"dateModified": "2021-06-02T13:51:47+08:00",
-"description": "æƒŠæ‚šå‰§é›†ã€Šé»‘æ´ã€‹æœ¬å‘¨å…­ï¼ˆ5æ—¥ï¼‰å³å°†è¿æ¥å¤§ç»“å±€ï¼Œæ•…äº‹ä¸»æ‰“æœ«ä¸–é€ƒéš¾å‰§æƒ…ï¼Œæ”¶è§†ç‡å´å±¡åˆ›æ–°ä½ï¼Œç¬¬ä¹é›†è·Œåˆ°0.5ï¼Œç¬¬10é›†æ‰å›åˆ°1.0ã€‚æœ‰è®¸å¤šç½‘å‹è¯´æ”¶è§†ç‡ä¼šè¿™ä¹ˆä½è¿·ï¼šã€Œä¸€åˆ‡éƒ½æ˜¯å‰§æœ¬çš„é—®é¢˜ã€‚ã€",
-"author": {
-  "@type": "Person",
-  "name": "å°æ°´æ»´"
-},
-"publisher": {
-  "@type": "Organization",
-  "name": "KSD éŸ©æ˜Ÿç½‘",
-  "logo": {
-    "@type": "ImageObject",
-    "url": "https://a.ksd-i.com/images/app-icon-192x192.png",
-    "width": 192
-  }
-}
-}
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0"/>
+<meta name="author" content="53" />
+<title>Íøºì´ó´ÉÆ¿Òı·¢ÍÂ²ÛÇ¬Â¡ÉóÃÀ ¹Ê¹¬½²½âÔ±£ºØÍÆ·ÕÕ·ºÀÄËùÖÂ-ĞÂÎÅÖĞĞÄ-ÖĞ¹úÄş²¨Íø</title>
+<meta name="keywords" content="">
+<meta name="description" content="¡¡¡¡¹Ê¹¬¹¤×÷ÈËÔ±ÖÆ×÷µÄ¡°´ÉÄ¸¡±Ê¾ÒâÍ¼
+¡¡¡¡½üÈÕ£¬ÒòÑëÊÓ¡¶¹ú¼Ò±¦²Ø¡·½ÚÄ¿³ÉÎª¡°ÎÄÎïÍøºì¡±µÄ¡°ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±³ÉÎªÖÚ¶àÎ¢ĞÅ¹«ÖÚºÅµÄ³è¶ù£¬Õâ¸öÈ«Éí·Ö²¼×Å17ÖÖÓÔ¡¢²Ê£¬ÍâºÅ¡°´ÉÄ¸¡±µÄ´ÉÆ¿£¬ÈÃĞí¶àÍøÓÑ±çÂÛÆğÇ¬Â¡µÄÉóÃÀ¡£µ«ÊÇ¹Ê¹¬²©ÎïÔº´ÉÆ÷¹İÖ¾Ô¸Õß½²½âÔ±ÕÅ®`·¢ÏÖ£¬Ğí¶à¹«ÖÚºÅÉÏÊ¹ÓÃµÄ¡°´ÉÄ¸¡±Í¼Æ¬²¢·Ç¹Ê¹¬²©ÎïÔº...">
+<meta name="baidu-site-verification" content="6f154d9935f736c6a22afa6078f0ab57"/>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  /*var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?2eca574627295a3b2e49155de8787875";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);*/
+})();
 </script>
-<script type="application/ld+json">
-{
- "@context": "http://schema.org",
- "@type": "BreadcrumbList",
- "itemListElement":
- [
-  {
-   "@type": "ListItem",
-   "position": 1,
-   "item":
-   {
-    "@id": "https://www.koreastardaily.com/sc",
-    "name": "ä¸»é¡µ"
+
+
+<script>
+    function loadScript(url, callback){
+        var script = document.createElement ("script")
+        script.type = "text/javascript";
+        if (script.readyState){ //IE
+            script.onreadystatechange = function(){
+                if (script.readyState == "loaded" || script.readyState == "complete"){
+                    script.onreadystatechange = null;
+                    callback();
+                }
+            };
+        } else { //Others
+            script.onload = function(){
+                callback();
+            };
+        }
+        script.src = url;
+        document.getElementsByTagName("head")[0].appendChild(script);
     }
-  },
-  {
-   "@type": "ListItem",
-  "position": 2,
-  "item":
-   {
-     "@id": "https://www.koreastardaily.com/sc/sc/drama",
-     "name": "éŸ©å‰§"
-   }
-  }
- ]
-}
+    function addSheetFile(path){
+        var fileref = document.createElement("link")
+        fileref.rel = "stylesheet";
+        fileref.type = "text/css";
+        fileref.href = path;
+        fileref.media = "screen";
+        var headobj = document.getElementsByTagName('head')[0];
+        headobj.appendChild(fileref);
+    }
+    window.onload = function(){
+        var ua=navigator.userAgent.toLowerCase();
+        var bIsIpad=ua.match(/ipad/i)=="ipad";
+        var bIsIphoneOs=ua.match(/iphone os/i)=="iphone os";
+        var bIsAndroid=ua.match(/android/i)=="android";
+        var bIsWM=ua.match(/windows mobile/i)=="windows mobile";
+        if(bIsIpad||bIsIphoneOs||bIsAndroid||bIsWM){
+            addSheetFile('http://news.cnnb.com.cn/packages/2015/css/mobile/article_170727.css');
+            addSheetFile('http://news.cnnb.com.cn/packages/2015/css/MPreview.mobile.css');
+            loadScript("http://news.cnnb.com.cn/packages/2015/js/jquery-2.1.4.min.js",function(){
+                loadScript("http://news.cnnb.com.cn/packages/2015/js/MPreview.mobile.min.js",function(){
+                    $('#pc,embed').remove();
+                    $('#mobile').css('display', 'block');
+                    $('a').each(function(index, el) {
+                        $(this).attr('target', '_self');
+                    });
+                    var w = $(document).width() * 0.9;
+                    var h = w * 2 / 3;
+                    if(typeof(video) != "undefined"){         CKobject.embed('http://flash.cnnb.com.cn:8080/ckplayer6.7/ckplayer/ckplayer.swf','a1','ckplayer_a1',w,h,true,flashvars,video,params);
+                    }
+                    if(typeof(video1) != "undefined"){                      CKobject.embed('http://flash.cnnb.com.cn:8080/ckplayer6.7/ckplayer/ckplayer.swf','a1','ckplayer_a1',w,h,true,flashvars1,video1,params1);
+                    }
+                    if(typeof(video2) != "undefined"){                      CKobject.embed('http://flash.cnnb.com.cn:8080/ckplayer6.7/ckplayer/ckplayer.swf','a2','ckplayer_a2',w,h,true,flashvars2,video2,params2);
+                    }
+                    $(window).bind('orientationchange',function(e){
+                        window.location.reload();
+                    });
+                    // var data = [];
+                    var title  = 'Íøºì´ó´ÉÆ¿Òı·¢ÍÂ²ÛÇ¬Â¡ÉóÃÀ ¹Ê¹¬½²½âÔ±£ºØÍÆ·ÕÕ·ºÀÄËùÖÂ';
+                    var direction = 'left';
+                    var wrap = document.querySelector('#overlay');
+                    var elem = document.querySelectorAll('.contentArea img');
+                    $('.contentArea img').each(function(index, el) {
+                        $(this).removeAttr('style');
+                        $(this).removeAttr('height');
+                        // data.push($(this).attr('src'));
+                    });
+                    $("a").on('touch',function(e){
+                        var href = $(this).attr("href");
+                        var classname = $(this).attr("class");
+                        // alert(classname);
+                        if(classname == "gototop"){
+                            $('body,html').animate({scrollTop:0},1000);
+                        }else{
+                            window.location.href = href;
+                        }
+                    })
+                    for(var i = 0,len = elem.length;i < len;i++){
+                        elem[i].addEventListener('touch', function(e) {
+                            // e.preventDefault();
+                            wrap.className = wrap.className + ' in';
+                            var item = [];
+                            item.push(this.src);
+                            setTimeout(function() {
+                                MPreview({
+                                    data: item,
+                                    title: title,
+                                    direction: direction,
+                                    wrap: '#overlay',
+                                    init: function() {
+                                        // window.console && console.log('MPreview.mobile init');
+                                    },
+                                    close: function() {
+                                        wrap.className = wrap.className.replace(' in', '');
+                                    }
+                                });
+                            }, 400);
+                        });
+                    };
+                });
+            });
+        }else{
+            addSheetFile('http://news.cnnb.com.cn/packages/2015/css/article_170724.css');
+            loadScript("http://news.cnnb.com.cn/packages/2015/js/jquery-1.11.3.min.js",function(){
+                loadScript("http://news.cnnb.com.cn/packages/2015/js/public_170725.js",function(){
+                    $('#mobile').remove();
+                    $('#pc').css('display', 'block');
+                    $('a').each(function(index, el) {
+                        $(this).attr('target', '_blank');
+                    });
+                    $('#news_more_page_div_id a').each(function(index, el) {
+                        $(this).attr('target', '_self');
+                    });
+                    $('#Zoom img').each(function(index, el) {
+                        $(this).removeAttr('style');
+                        $(this).removeAttr('height');
+                    });
+                });
+            });
+        }
+    }
 </script>
-
-<link rel="alternate" type="application/rss+xml" title="OCNã€Šé»‘æ´ã€‹å¤§ç»“å±€å‰å¤•æ”¶è§†æƒ¨è·Œ0.5ï¼ç½‘æ‰¹ã€Œå‰§æœ¬å¤ªå·®ã€ï¼šçœ‹ä¸æ‡‚åœ¨æ¼”ä»€ä¹ˆ - KSD éŸ©æ˜Ÿç½‘ (éŸ©å‰§) " href="http://feed.koreastardaily.com/sc/news"/>
-<link rel="canonical" href="https://www.koreastardaily.com/sc/news/135785">
-<link rel="alternate" href="https://www.koreastardaily.com/tc/news/135785" hreflang="zh-Hant" />
-<link rel="alternate" href="https://www.koreastardaily.com/sc/news/135785" hreflang="zh-Hans" />
-<link rel="amphtml" href="https://www.koreastardaily.com/sc/amp/135785" />
-    
-
-    <script type="text/javascript">
-        window.google_analytics_uacct = "UA-10924604-1";
-    </script>
-
-<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-<script async='async' src='//a.ksd-i.com/js/prebid6.15.0.js'></script>
-<script>
-if (sessionStorage.ksdid) {
-} else {
-    sessionStorage.ksdid = "";
-}
-</script>
-<script>
-var m_sizes = [ [300, 250] ];
-var b_sizes = [ [728, 90], [970, 250] ];
-var PREBID_TIMEOUT = 1000;
-var FAILSAFE_TIMEOUT = 3000;
-var adUnits = [
-{
-code: '/12897238/mrec',
-mediaTypes: { banner: { sizes: m_sizes } },
-bids: [
-{ bidder: 'ucfunnel', params: { adid: 'ad-47B47BB26EA629B413646E7AB342932', }},
-{ bidder: 'aol', params: { dcn: '8a96954f01747430358b3356bdb6027f', pos: 'desktop_web_banner_300x250_mrec_hb', }}
-      ]
-},
-{
-code: '/12897238/top_banner',
-mediaTypes: { banner: { sizes: b_sizes } },
-bids: [
-{ bidder: 'aol', params: { dcn: '8a96954f01747430358b3356bdb6027f', pos: 'desktop_web_banner_300x250_top_banner_hb', }}
-      ]
-}
-];
-// ======== DO NOT EDIT BELOW THIS LINE =========== //
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-googletag.cmd.push(function() {
-googletag.pubads().disableInitialLoad();
-});
-var pbjs = pbjs || {};
-pbjs.que = pbjs.que || [];
-pbjs.que.push(function() {
-
-pbjs.setConfig({
-userSync: {
-userIds: [{
-name: "connectId",
-params: {
-pixelId: 58588,
-he: ""
-},
-storage: {
-type: "html5",
-name: "connectid",
-expires: 1
-}
-}]
-}
-});
-
-pbjs.addAdUnits(adUnits);
-pbjs.requestBids({
-bidsBackHandler: initAdserver,
-timeout: PREBID_TIMEOUT
-});
-});
-function initAdserver() {
-if (pbjs.initAdserverSet) return;
-pbjs.initAdserverSet = true;
-googletag.cmd.push(function() {
-pbjs.setTargetingForGPTAsync && pbjs.setTargetingForGPTAsync();
-googletag.pubads().refresh();
-});
-}
-// in case PBJS doesn't load
-setTimeout(function() {
-
-initAdserver();
-}, FAILSAFE_TIMEOUT);
-</script>
-
-<script>
-  googletag.cmd.push(function() {
-googletag.defineSlot('/12897238/top_banner', [[728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1366184678586-4').addService(googletag.pubads());
-googletag.defineSlot('/12897238/mrec', [[300, 250], [300, 600]], 'div-gpt-ad-1366184678586-0').addService(googletag.pubads());
-googletag.defineSlot('/12897238/2nd_mrec', [300, 250], 'div-gpt-ad-1368087819850-0').addService(googletag.pubads());
-googletag.defineSlot('/12897238/floating_1x1_ros', [1, 1], 'div-gpt-ad-1388978134824-1').addService(googletag.pubads());
-googletag.defineSlot('/12897238/native_video', [[1,1], [624, 351]], 'div-gpt-ad-1506065257752-0').addService(googletag.pubads());
-googletag.defineSlot('/12897238/native_text_link', [[1, 1], 'fluid'], 'div-gpt-ad-1576663285717-0').addService(googletag.pubads())
-.setTargeting("tags",["é»‘æ´","é‡‘ç‰å½¬","ææµšèµ«"])
-.setTargeting("author", "å°æ°´æ»´")
-.setTargeting("category", "drama");
-googletag.defineSlot('/12897238/native', ['fluid'], 'div-gpt-ad-1466671915318-0').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.pubads().collapseEmptyDivs();
-googletag.enableServices();
-  });
-</script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-10924604-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-10924604-1');
-</script>
-
-<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript">
-_atrk_opts = { atrk_acct:"Igfcl1ao9rD0O7", domain:"koreastardaily.com",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-</script>
-<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=Igfcl1ao9rD0O7" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->  
-<!-- Begin comScore Tag -->
-<script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "20014575" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=20014575&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3262822889736522"
-     crossorigin="anonymous"></script>
-
 </head>
-
-<body id="TOP" class="content "><!-- google_ad_section_start(name=main) -->
-<div id="debug" style="position:fixed;top:150px;left:10px;"></div>
-
-
-<div style="display:none" typeof="dcmitype:Text sioc:Post"
-  xmlns:dcmitype="http://purl.org/dc/terms/DCMIType/"
-  xmlns:media="http://search.yahoo.com/searchmonkey/media/"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
->
-<span rel="rdfs:seeAlso media:image">
-    <img alt="OCNã€Šé»‘æ´ã€‹å¤§ç»“å±€å‰å¤•æ”¶è§†æƒ¨è·Œ0.5ï¼ç½‘æ‰¹ã€Œå‰§æœ¬å¤ªå·®ã€ï¼šçœ‹ä¸æ‡‚åœ¨æ¼”ä»€ä¹ˆ" src="https://a.ksd-i.com/s/800_86400_1342730d1dcc576bfd1fbb24aa7e37de/static.koreastardaily.com/2021-05-31/135785-908363.jpg"/>
-</span>
-</div>
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v12.0&appId=694211364011889&autoLogAppEvents=1" nonce="ZvqfvY0e"></script>
-<div id="network-bar" class="yui-g">
-
-<ul style="padding-left:0px;">
-<li class="nav">
-
-<ul class="hottopics">
-<li class="expend">æ–°é—»   <ul class="shadow2">
-<li><a href="/sc/kpop">KPOP</a></li>
-<li><a href="/sc/celebs">æ˜æ˜Ÿ</a></li>
-<li><a href="/sc/drama">éŸ©å‰§</a></li>
-<li><a href="/sc/variety">ç»¼è‰º</a></li>
-<li><a href="/sc/movies">ç”µå½±</a></li>
-<li><a href="/sc/magazine">ç”»æŠ¥</a></li>
-<li><a href="/sc/coverage">ä¸“é¢˜</a></li>
-<li><a href="/sc/beauty">Beauty</a></li>
-<li><a href="/sc/life">ç”Ÿæ´»</a></li>
-<li><a href="/sc/travel">æ—…æ¸¸</a></li>
-   </ul>
-</li>
-</ul>
-
-</li>
-<li class="nav">
-
-<ul class="hottopics">
-<li class="expend">è¯é¢˜   <ul class="shadow2">
-<li><a href="/sc/tags/éŸ©æ˜Ÿæ¥æ¸¯æ´»åŠ¨">éŸ©æ˜Ÿæ¥æ¸¯æ´»åŠ¨</a></li>
-<li><a href="/sc/tags/éŸ©æ˜Ÿæ¥å°æ´»åŠ¨">éŸ©æ˜Ÿæ¥å°æ´»åŠ¨</a></li>
-<li><a href="/sc/topics/marketing">æœ‰å¥–æ´»åŠ¨</a></li>
-   </ul>
-</li>
-</ul>
-
-</li>
-</ul>
-
-
-<div id="lang-login" style="width:110px;">
-<ul class="lang">
-<li class="item no-arrow"><a href="/tc/news/135785">ç¹ä¸­</a></li>
-<li class="item arrow"><span><a href="/sc/news/135785">ç®€ä¸­</a></span></li>
-<!-- <li class="item no-arrow"><a href="http://kpopfighting.com">Eng</a></li> -->
-</ul>
-</div>
-
-</div><!--network-bar-->
-
-<div id="header">
-<div class="header-wrapper">
-<div id="header-logo" class="yui-g">
-<div id="header-logo-left" class="yui-u first">
-<a href="/sc"><img src="//a.ksd-i.com/images/t.gif" width="300" height="55" border="0"></a>
-</div>
-<div id="header-logo-right" class="yui-u tright">
-<form action="/sc/search" class="search-form" id="site-search" method="GET">
-<input class="search-input" id="q" name="q" type="search"><input class="but" id="go" name="commit" type="submit" value="s">
-</form>
-<script>
-   $("input#go").mouseover(function() {
-        $(this).css({'background-position': '0px -29px'});
-   }).mouseout(function(){
-        $(this).css({'background-position': '0px 0px'});
-   });
-</script>
-</div>
-</div>
-<div id="mainnav" class="yui-g" style="position:relative;">
-<div id="mainnav-left" class="yui-u first">
-
-<div id="menubar" class="mainmenu sc">
-<ul>
-<li><a title="ä¸»é¡µ" id="mhome" href="/"><span></span></a></li>
-<li><a title="KPOP" id="mkpop" href="/sc/kpop" rel="kpopmenu"><span></span></a></li>
-<li><a title="æ˜æ˜Ÿ" id="mcelebs" href="/sc/celebs" rel="celebsmenu"><span></span></a></li>
-<li><a title="éŸ©å‰§" id="mdrama" href="/sc/drama" rel="dramamenu"><span class="on"></span></a></li>
-<li><a title="ç”µå½±" id="mmovies" href="/sc/movies" rel="moviesmenu"><span></span></a></li>
-<li><a title="ç”»æŠ¥" id="mlifestyle" href="/sc/magazine" rel="lifestylemenu"><span></span></a></li>
-</ul>
-</div>
-
-</div>
-<div id="mainnav-right" class="yui-u">
-
-<ul>
-<li class="item"><a href="/sc/photo/list" title=""><div class="icon24 icon photo"></div><div class="text">å›¾ç‰‡ 
-<!-- <span style="color:red;font-size:11px;font-weight:normal;">new</span> -->
-</div></a></li>
-<li class="item"><a href="/sc/profiles" title=""><div class="icon24 icon folder"></div><div class="text">æ˜Ÿæ¡£ </div></a></li>
-</ul>
-
-</div>
-<div id="fansclub-container" class="shadow2">
-    <div id="my-follow">
-	<a class="icon16 reload" href="javascript:void(0);"></a>
-	<h2>FOLLOWED_PROFILE</h2>
-	<ul class="items"></ul>
-	<div class="loading" style="display:none;"></div>
-	<div class="bar-more" style="display:none;"><a href="javascript:return false;">æ›´å¤š<div class="expend"></div></a></div>
+<body>
+<style>
+    #pc,#mobile{display: none;}
+</style>
+<div id="pc">
+  <div style="position: fixed;display: block; left:0; top:120px;font-size:14px; color:#0c87d4; line-height:30px;"><img src="http://news.cnnb.com.cn/packages/2015/images/ewmfloat.png" />
+    <p>É¨ÃèÏÂÔØÊÖ»ú°æ</p>
+  </div>
+  <div id="topMenu" class="scope">
+    <div class="logo"><img src="http://news.cnnb.com.cn/packages/2015/images/1_2.jpg" /></div>
+    <ul class="mainNav menu1">
+      <li><a href="http://www.cnnb.com.cn/">Ê×Ò³</a></li>
+      <li class="dropdown"> <a href='http://news.cnnb.com.cn/'  rel='dropmenu1'>ĞÂÎÅ</a>
+        <ul>
+          <li class="dropNav"><a href="http://news.cnnb.com.cn/gnyw/gnsz/">Ê±ÕşÒªÎÅ</a></li>
+          <li class="dropNav"><a href="http://news.cnnb.com.cn/gnyw/gngdxw/index.shtml">¸÷µØÈÈµã</a></li>
+          <li class="dropNav"><a href="http://news.cnnb.com.cn/gjyw/">¹ú¼ÊÒªÎÅ</a></li>
+          <li class="dropNav"><a href="http://news.cnnb.com.cn/gjyw/hqsy/index.shtml">»·ÇòÊÓÒ°</a></li>
+          <li class="dropNav"><a href="http://news.cnnb.com.cn/shxw/">Éç»á</a></li>
+          <li class="dropNav"><a href="http://news.cnnb.com.cn/ylxw/">ÓéÀÖ</a></li>
+          <li class="dropNav"><a href="http://www.cnnb.com.cn/xwzxzt/tytd/">ÎÄÌå</a></li>
+        </ul>
+      </li>
+      <li class="dropdown"> <a href='http://nbnews.cnnb.com.cn/'  rel='dropmenu1'>Äş²¨</a>
+        <ul>
+          <li class="dropNav"><a href="http://nbnews.cnnb.com.cn/sz/">Ê±Õş¾­¼Ã</a></li>
+          <li class="dropNav"><a href="http://nbnews.cnnb.com.cn/cj/">ÃñÉú³ÇÊÂ</a></li>
+          <li class="dropNav"><a href="http://nbnews.cnnb.com.cn/sh/">Í»·¢ÏÖ³¡</a></li>
+          <li class="dropNav"><a href="hhttp://nbnews.cnnb.com.cn/kjw/">¿Æ¼¼½ÌÓı</a></li>
+          <li class="dropNav"><a href="http://nbnews.cnnb.com.cn/wt/">ÎÄ»¯ÌåÓı</a></li>
+        </ul>
+      </li>
+      <li class="dropdown"> <a href='http://nb8185.cnnb.com.cn/'  rel='dropmenu1'>eµãÍ¨</a>
+        <ul>
+          <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/plus/list.php?tid=1398">Ğ¡e×·×Ù</a></li>
+          <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/tiezi/minsheng_list.php">²¿ÃÅÖµÊØ</a></li>
+          <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/plus/list.php?tid=105">Õş²ß½â¶Á</a></li>
+          <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/plus/list.php?tid=189">Éú»îÌáĞÑ</a></li>
+          <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/html/292/27/1284/">Î¢ĞÄÔ¸</a></li>
+          <li class="dropNav"><a href="http://nb8185.cnnb.com.cn/tiezi/ys_list.php">ºÃÒ½Éú</a></li>
+        </ul>
+      </li>
+      <li class="dropdown"> <a href='http://bbs.cnnb.com.cn/'  rel='dropmenu1'>ÂÛÌ³</a>
+        <ul>
+          <li class="dropNav"><a href="http://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&fid=2">ÃñÉùÈÈµã</a></li>
+          <li class="dropNav"><a href="http://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&fid=1176&filter=author&orderby=dateline">ÎÒÒªÎÊÕş</a></li>
+          <li class="dropNav"><a href="http://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&fid=17">ÉãÓ°ÌìµØ</a></li>
+          <li class="dropNav"><a href="http://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&fid=63">ÃÈ±¦¹ã³¡</a></li>
+          <li class="dropNav"><a href="http://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&fid=57">·çÔÆÂ¥ÊĞ</a></li>
+          <li class="dropNav"><a href="http://bbs.cnnb.com.cn/forum.php?mod=forumdisplay&fid=2169">ÎÄ»İ»î¶¯</a></li>
+        </ul>
+      </li>
+      <li class="dropdown"> <a href='#'  rel='dropmenu1'>ĞĞÒµ</a>
+        <ul>
+          <li class="dropNav"><a href="http://finance.cnnb.com.cn/">²Æ¾­</a></li> 
+          <li class="dropNav"><a href="http://yy.cnnb.com.cn/">´´Òµ</a></li> 
+          <li class="dropNav"><a href="http://jk.cnnb.com.cn/">½¡¿µ</a></li> 
+          <li class="dropNav"><a href="http://car.cnnb.com.cn/">Æû³µ</a></li> 
+          <li class="dropNav"><a href="http://photoningbo.cnnb.com.cn/">Ó°Ïñ</a></li>
+        </ul>
+      </li>
+      <li><a href="">ÊÓÆµ</a></li>
+    </ul>
+    <ul class="subNav">
+      <li><a href="http://www.cnnb.com.cn/search/index.html">ËÑË÷</a></li>
+      <li><a href="http://vipmail.cnnb.com.cn/">ÓÊÏä</a></li>
+      <li><a href="http://www.cnnb.com.cn/home/sitemap.html">ÍøÕ¾µØÍ¼</a></li>
+    </ul>
+  </div>
+<div id="ad_01_01">
+    <div class="left">
+        <!-- AFP Control Code/Caption.Ê×Ò³Í·ÌõÍ¨À¸(×ó)-->
+        <script language="javascript" src="http://www.cnnb.com.cn/ad/static/AD-NEWS-L.js"></script>
+        <!-- AFP Control Code End/No.-->
+    </div>
+    <div class="right">
+        <!-- AFP Control Code/Caption.Ê×Ò³Í·ÌõÍ¨À¸(ÓÒ)-->
+        <script language="javascript" src="http://www.cnnb.com.cn/ad/static/AD-NEWS-R.js"></script>
+        <!-- AFP Control Code End/No.-->
     </div>
 </div>
 
-</div><!-- mainnav -->
-</div> 
-</div><!-- header -->
 
-<div id="doc-975" class="yui-t6">
-    <div id="bd">
-<style>
-.centerAd {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 250px;
-}
-</style>
-<div id="superAd" class="centerAd">
+  <div class="mainArea scope">
+    <div class="titleArea">
+      <div class="leftPart">
+        <div class="position"> <span class="type"></span> <span>
+<!--enorth cms block start [ name="v5.position" ]-->
+Äúµ±Ç°µÄÎ»ÖÃ £º
+<a href=http://www.cnnb.com.cn/index.shtml>ÖĞ¹úÄş²¨Íø</a>
+&nbsp;&gt;&nbsp;
+<a href=http://news.cnnb.com.cn/index.shtml>ĞÂÎÅÖĞĞÄ</a>
+&nbsp;&gt;&nbsp;
+<a href=http://news.cnnb.com.cn/gnyw/index.shtml>¹úÄÚ</a>
+&nbsp;&gt;&nbsp;
+<a href=http://news.cnnb.com.cn/gnyw/gngdxw/index.shtml>¸÷µØĞÂÎÅ</a>
+<!--enorth cms block end [ name="v5.position" cost="37"]--></span> </div>
+        <div class="heading">Íøºì´ó´ÉÆ¿Òı·¢ÍÂ²ÛÇ¬Â¡ÉóÃÀ ¹Ê¹¬½²½âÔ±£ºØÍÆ·ÕÕ·ºÀÄËùÖÂ</div>
+        <div class="subheading"></div>
+        <div class="source"> <span class="left"> ¸åÔ´£º 
+<!--enorth cms block start [ name="v5.source2013" ]-->
+<a href="http://m.thepaper.cn/newsDetail_forward_1901567" target="_blank">±±¾©ÇàÄê±¨</a>
 
-<!-- top_banner -->
-<div id='div-gpt-ad-1366184678586-4'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366184678586-4'); });
-</script>
+<!--enorth cms block end [ name="v5.source2013" cost="16"]-->¡¡ 2017-12-12 08:03:36 </span> <span class="right"> ±¨ÁÏÈÈÏß£º81850000 </span> </div>
+      </div>
+      <div class="rightPart">
+        <div class="right"><img src="http://news.cnnb.com.cn/packages/2015/images/ewm.png" /></div>
+      </div>
+    </div>
+    <div class="littleline"></div>
+    <div class="contentArea">
+      <div class="leftPart">
+        <div class="tool">
+          <div class="shareBar"> </div>
+          <div class="fontSize"> <a onclick="doZoom(18)"><img src="http://news.cnnb.com.cn/packages/2015/images/1_14.jpg" /></a> <a onclick="doZoom(16)"><img src="http://news.cnnb.com.cn/packages/2015/images/1_15.jpg" /></a> <a onclick="doZoom(14)"><img src="http://news.cnnb.com.cn/packages/2015/images/1_16.png" /></a> </div>
+          <script type="text/javascript">
+                        function doZoom(size) {
+                            var zoom = document.all ? document.all['Zoom'] : document.getElementById('Zoom');
+                            zoom.style.fontSize = size + 'px';
+                        }
+                    </script>
+        </div>
+        <style>
+                    #topic a{font-size: 14px;font-weight: bold;color: #092992;}
+                    .mainArea .contentArea .leftPart .article div img{max-width: 100%;margin-top:10px;}
+                </style>
+        <div class="article" >
+          <center id="topic">
+
+<!--enorth cms block start [ name="cms_topic" ]-->
+
+<!--enorth cms block end [ name="cms_topic" cost="6"]-->          </center>
+          <div id="Zoom"><center><img src="http://www.cnnb.com.cn/pic/003/002/328/00300232888_1413a2b6.jpg" /></center>
+
+<p style="text-align: center;">¡¡¡¡¹Ê¹¬¹¤×÷ÈËÔ±ÖÆ×÷µÄ¡°´ÉÄ¸¡±Ê¾ÒâÍ¼</p>
+
+<p>¡¡¡¡½üÈÕ£¬ÒòÑëÊÓ¡¶¹ú¼Ò±¦²Ø¡·½ÚÄ¿³ÉÎª¡°ÎÄÎïÍøºì¡±µÄ¡°ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±³ÉÎªÖÚ¶àÎ¢ĞÅ¹«ÖÚºÅµÄ³è¶ù£¬Õâ¸öÈ«Éí·Ö²¼×Å17ÖÖÓÔ¡¢²Ê£¬ÍâºÅ¡°´ÉÄ¸¡±µÄ´ÉÆ¿£¬ÈÃĞí¶àÍøÓÑ±çÂÛÆğÇ¬Â¡µÄÉóÃÀ¡£µ«ÊÇ¹Ê¹¬²©ÎïÔº´ÉÆ÷¹İÖ¾Ô¸Õß½²½âÔ±ÕÅ®`·¢ÏÖ£¬Ğí¶à¹«ÖÚºÅÉÏÊ¹ÓÃµÄ¡°´ÉÄ¸¡±Í¼Æ¬²¢·Ç¹Ê¹¬²©ÎïÔºËù²ØµÄÕæÆ·ÕÕÆ¬£¬¶øÊÇÒ»¼şÓĞ×Å²»ÉÙ²î±ğµÄ¡°Àî¹í¡±´ÉÆ¿¡£ÕÅ®`¸æËß±±¾©ÇàÄê±¨¼ÇÕß£¬Ëû·¢ÏÖÕâÕÅ´íÎóÍ¼Æ¬²»µ«±»ÖÚ¶à¹«ºÅ×ªÔØ£¬»¹³öÏÖÔÚ¡°´ÉÄ¸¡±µÄ°Ù¶È°Ù¿ÆÉÏ£¬¸øºÜ¶àÈËÔì³ÉÁËÎóµ¼¡£8ÈÕÍí£¬Ëû½«Ò»ÕÅ×Ô¼ºÖÆ×÷µÄ¡°´ÉÄ¸¡±½²½âÍ¼·¢µ½ÁËÍøÉÏ£¬¡°½«Õæ¡¢¼Ù¡®´ÉÄ¸¡¯Ò»¶Ô±È£¬ºÜ¶àÈËËµ¾õµÃÇ¬Â¡»ÊµÛµÄÉóÃÀÒ²Ã»ÄÇÃ´Ôã¸âÁË¡±¡£</p>
+
+<p>¡¡¡¡ÍøÓÑ£º¡°´ÉÄ¸¡±µ××ùÒ²ËãÒ»ÖÖÓÔ²Ê£¿</p>
+
+<p>¡¡¡¡×Ô³Æ¡°Ê®È«ÀÏÈË¡±µÄÇ¬Â¡»ÊµÛÒ»¶¨²»ÄÜÈİÈÌµÄÊÇ£¬200¶àÄêºó£¬Ëû¾«ĞÄÉè¼ÆµÄÒ»¼ş¼¯ºÏÁË17ÖÖÓÔ¡¢²Ê£¬Ç°ÎŞ¹ÅÈËµÄ´ó´ÉÆ¿»á±»Ò»¸ö·ÂÆ·´úÌæ£¬³ÉÎªÈËÃÇ¿Ú¿ÚÏà´«µÄ¡°ÍÁ³óÉóÃÀ´ó»¨Æ¿¡±¡£</p>
+
+<p>¡¡¡¡½üÈÕ£¬ÑëÊÓ¡¶¹ú¼Ò±¦²Ø¡·½²ÊöÁË±±¾©¹Ê¹¬²©ÎïÔºÊÕ²ØµÄ¡°ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±£¬Õâ¼şÄ¿Ç°°ÚÔÚ¹Ê¹¬´ÉÆ÷¹İÕıÌüÈë¿Ú´¦µÄ´ó´ÉÆ¿ÒòÎªÆ÷Éí×ÔÉÏ¶øÏÂ×°ÊÎµÄÓÔ¡¢²Ê´ï17ÖÖÖ®¶à£¬±»ºÜ¶à´ÉÆ÷°®ºÃÕß³ÆÎª¡°´ÉÄ¸¡±£¬±»ÈÏÎªÊÇÖĞ¹ú¹Å´úÖÆ´É¹¤ÒÕµÄáÛ·åÖ®×÷¡£</p>
+
+<p>¡¡¡¡¶ø¡°´ÉÄ¸¡±Ò²ºÜ¿ì³ÉÎªÎÄÎï¡°Íøºì¡±£¬ºÜ¶àÍøÓÑ¶¼ÔÚ±çÂÛÕâ¿î¡°´óÔÓ»â¡±Ê½µÄ´ÉÆ÷ºÃ²»ºÃ¿´¡£Ò»Ğ©Î¢ĞÅÎÄÕÂÒ²Í¨¹ıÍ¼Æ¬¸æËßÍøÓÑ£¬Õâ¼ş´ÉÆ¿µÄÉóÃÀÓëÆäËûËØÑÅµÄ´ÉÆ÷Ïà±È£¬¾¿¾¹²îÔÚÄÄÀï¡£</p>
+
+<p>¡¡¡¡µ«Ï¸ĞÄµÄÍøÓÑ·¢ÏÖ£¬Î¢ĞÅÎÄÕÂÉÏµÄÍ¼Æ¬ºÜÆæ¹Ö£º¡°´ÉÄ¸¡±´ÓÉÏÍùÏÂÊıµÚÈı²ãÓÔÎª¡°·ÂÈêÓÔ¡±£¬²Ê»­ÏÂ·½µÄÒ»È¦ÓÔ²ÊÎª¡°·Â¸çÓÔ¡±£¬°´ÕÕÕâÕÅÍ¼µÄËµ·¨£¬¡°´ÉÄ¸¡±µÄµ××ù¡°ºìÄ¾ïÎ¿ÕÊÖµñÆ½°²ÈçÒâ×ù¡±³ÉÎª¡°´ÉÄ¸¡±µÄµÚ17ÖÖÓÔ²Ê¡£¡°17ÖÖÓÔ²ÊÔõÃ´»á°üÀ¨´ÉÆ¿µÄµ××ù£¿ÊÇ²»ÊÇÄÄÀïÅª´íÁË¡±£¿</p>
+
+<p>¡¡¡¡¹Ê¹¬²©ÎïÔºÌÕ´É¹İ¡¢ÖÓ±í¹İÖ¾Ô¸Õß½²½âÔ±ÕÅ®`Ôø¸ú×Å¡¶¹ú¼Ò±¦²Ø¡·½ÚÄ¿×éÒ»Æğ´´×÷ÁË¡°´ÉÄ¸¡±µÄ½²½â¹ÊÊÂ£¬Ëû¸æËß±±Çà±¨¼ÇÕß£¬ÕâÕÅ±»¹ã·º´«²¥µÄ¡°´ÉÄ¸¡±Í¼Æ¬ÊÇ´íµÄ£¬¡°ÕâÕÅÍ¼Æ¬ÀïµÄ¡®´ÉÄ¸¡¯±¾ÉíÒ²²»ÊÇÕæµÄ£¬¶øÊÇÒ»¼şÏÖ´ú·ÂÆ·¡±¡£</p>
+
+<p>¡¡¡¡½²½âÔ±£º¸Ğ¾õ¡°À±ÑÛ¾¦¡±</p>
+
+<p>¡¡¡¡10ÈÕ£¬ÕÅ®`ÔÚ½ÓÊÜ±±Çà±¨¼ÇÕß²É·ÃÊ±±íÊ¾£¬ËûÔÚÅäºÏÑëÊÓµÄ¡¶¹ú¼Ò±¦²Ø¡·½ÚÄ¿Â¼ÖÆÊ±£¬¾ÍÔø¾­¿´µ½¹ıÍø´«µÄ¼Ù¡°´ÉÄ¸¡±½²½âÍ¼£¬¡°µ±Ê±ÎÒ¿´µ½ÕâÕÅÍ¼£¬¾Í¾õµÃºÜ¡®À±ÑÛ¾¦¡¯£¬ºóÀ´¿´µ½ºÜ¶à¹«ÖÚºÅ¶¼ÔÚÓÃÕâÕÅÍ¼£¬ÉõÖÁ°Ù¶È°Ù¿ÆÉÏÒ²ÓÃµÄÕâÕÅÍ¼£¬¾Í¾õµÃÊµÔÚÊÇ²»ÄÜÈÌÁË¡±¡£±±Çà±¨¼ÇÕß·¢ÏÖ£¬¸ù¾İ°Ù¶È°Ù¿ÆµÄ´ÊÌõÀúÊ·£¬10ÈÕÏÂÎçÇ°µÄ¡°ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±µÄÅäÍ¼È·ÊµÊÇÍø´«µÄ¼Ù¡°´ÉÄ¸¡±Í¼Æ¬£¬ÕâÕÅÕÕÆ¬ÖĞµÄ¡°´ÉÄ¸¡±Óë¹Ê¹¬²©ÎïÔº¹ÙÍø·¢²¼µÄÕæ¡°´ÉÄ¸¡±Í¼Æ¬ÔÚ¶à´¦ÓÔ²ÊµÄÑÕÉ«ÉÏÓĞÃ÷ÏÔ²»Í¬¡£</p>
+
+<p>¡¡¡¡9ÈÕÍí£¬ÕÅ®`ÔÚÆä¸öÈËÎ¢²©ÉÏ·¢²¼ÁËÒ»ÕÅ×Ô¼ºÖÆ×÷µÄÍ¼Æ¬£¬¶ÔÍø´«µÄ¡°Àî¹í´ÉÄ¸¡±½²½âÍ¼½øĞĞÁË¸üÕı¡£¸ù¾İÕâ·ùÍ¼£¬¼Ù¡°´ÉÄ¸¡±Í¼ÖĞµÄ¡°·ÂÈêÓÔ¡±ÊµÎª¡°·Â¸çÓÔ¡±£¬¡°·Â¸çÓÔ¡±ÊµÎª¡°·Â¹ÙÓÔ¡±£¬¸ù¾İÕÅ®`ÖÆ×÷µÄ¡°´ÉÄ¸¡±½²½âÍ¼£¬¡°´ÉÄ¸¡±µÄËùÓĞÓÔ¡¢²Ê¼ÓÆğÀ´²»¶à²»ÉÙÕıºÃ17ÖÖ¡£</p>
+
+<p>¡¡¡¡³ıÁË±êÃ÷17ÖÖÓÔ¡¢²ÊµÄÃû×Ö¼°ÆäÎ»ÖÃ£¬ÕÅ®`»¹·Ö±ğ×¢Ã÷ÁË¸÷ÖÖÓÔ²ÊµÄÉÕÖÆ¹¤ÒÕ¡£Èç¡°´ÉÄ¸¡±µÄ¡°·Â¸çÓÔ¡±ÊÇÒ»ÖÖ¡°¸ßÎÂµ¥É«ÓÔ¡±£¬Æ¿¾±ÉÏµÄ¡°Çà»¨²øÖ¦Á«¡±ÊÇÒ»ÖÖ¸ßÎÂÓÔÏÂ²Ê£¬Æ¿ÉíµÄ¡°·Û²Ê¿ª¹â¼ªÏéÍ¼°¸¡±ÊÇ¡°µÍÎÂÓÔÉÏ²Ê¡±¡£</p>
+
+<p>¡¡¡¡ÕÅ®`¸æËß±±Çà±¨¼ÇÕß£¬ÉÕÖÆ¹¤ÒÕÊÇ´ÉÆ÷¿ÆÆÕÖĞµÄÒ»Ïî»ù±¾ÄÚÈİ£¬¶ÔÓÚ¡°´ÉÄ¸¡±ÕâÑùµÄ×÷Æ·À´Ëµ£¬»¹ÓĞÌØ±ğµÄÒâÒå£¬¡°¡®´ÉÄ¸¡¯µÄÉÕÖÆ¹¤ÒÕÊÇÏÈÉÕÎÂ¶È¸ßµÄÓÔ²Ê£¬ÔÙÉÕÎÂ¶ÈµÍµÄÓÔ²Ê£¬ÕâÑù£¬Ã¿ÉÕµ½ÏÂÒ»¼¶ÎÂ¶ÈÊ±£¬ÓÉÓÚÎÂ¶È½ÏµÍ£¬¾Í²»»á½«ÒÔÇ°ÉÕºÃµÄ¸ßÈÛµãÓÔ²ã¸øÉÕ»µÁË¡±¡£µ«ÕÅ®`±íÊ¾£¬Ô­ÀíËäÈ»¼òµ¥£¬Êµ¼Ê²Ù×÷È´ºÜ·±¸´£¬ËüÒªÇóÒ¤¹¤¶ÔÃ¿ÖÖÓÔ²ÊµÄÉÕÔìÎÂ¶ÈºÍÒ¤ÊÒÖĞµÄÓÎÀëÑõº¬Á¿ÓĞ¾«È·µÄ°Ñ¿Ø£¬²ÅÄÜ½øĞĞ¾«È·µÄÉÕÔì´ÎĞòÅÅĞò¡£</p>
+
+<p>¡¡¡¡¹ú¼ÒÎÄÎï¾Ö£º³¤ÖªÊ¶Òª³¤ÕıÈ·</p>
+
+<p>¡¡¡¡ÕÅ®`µÄ½²½âÍ¼·¢²¼ºó£¬Òı·¢ÍøÓÑÈÈÒé²¢×ª·¢£¬½ØÖÁ±±Çà±¨¼ÇÕß·¢¸åÊ±£¬×ª·¢ÒÑ³¬1Íò´Î£¬¡°ÒÔÇ°¿´°Ù¿ÆÉÏµÄÕÕÆ¬£¬¾õµÃ¡®´ÉÄ¸¡¯ºÍ¹Ê¹¬¿´µ½µÄ²»Ò»Ñù£¬ÒÔÎªÊÇÉ«²î£¬Ã»Ïëµ½¸ù±¾²»ÊÇ¡®±¾×ğ¡¯¡±¡£±±Çà±¨¼ÇÕß²éÑ¯°Ù¶È°Ù¿Æºó·¢ÏÖ£¬ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿´ÊÌõÏÂµÄ½²½âÍ¼ÔÚ10ÈÕÏÂÎç±»¸ü»»ÎªÕÅ®`·¢²¼µÄ½²½âÍ¼¡£</p>
+
+<p>¡¡¡¡¹ú¼ÒÎÄÎï¾Ö¹Ù·½Î¢²©10ÈÕÒ²×ªÔØÁËÕÅ®`ÖÆ×÷µÄ½²½âÍ¼ºÍÎ¢²©£¬±íÊ¾£º¡°ÎÒÃÇ³¤ÖªÊ¶Òª³¤ÕıÈ·µÄÖªÊ¶¡£¡±</p>
+
+<p>¡¡¡¡´ËÇ°£¬ÓĞµÄÍøÓÑÈÏÎª¡°Ç¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±µÄÉóÃÀ¡°ÓÖÍÁÓÖË×£¬´ÉÆ÷»¹ÊÇÓ¦¸ÃÒÔËØÑÅÎª¼Ñ£¬ÕâÑùµÄ´ÉÆ÷£¬ÍêÈ«ÊÇ¸ö´óÔÓ»â£¬Ò²¿É¿´³öÇ¬Â¡µÄÉóÃÀÊÇ¡®Å©¼ÒÀÖ¡¯Ë®×¼¡±¡£ÁíÒ»ÅúÍøÓÑÈÏÎª£¬ÉóÃÀÃ»ÓĞÒ»¸öÍ³Ò»µÄ±ê×¼£¬Õâ¸ö´ÉÆ¿»¹ÊÇÓĞÒ»¶¨µÄÉóÃÀ¼ÛÖµ£¬¡°ÄÑÄÜ¿É¹óµÄ»¹ÓĞÕâ¸ö´ÉÆ¿µÄÉÕÔì¹¤ÒÕ£¬Ã¿ÖÖÓÔ¡¢²Ê¶¼ĞèÒª¸÷×ÔµÄÉÕÔì¹¤ÒÕ£¬ÄÜ´æÔÚÕâÑùµÄ´ÉÆ¿±¾Éí¾ÍÊÇÀúÊ·µÄÒ»ÖÖÃÀ¡±¡£</p>
+
+<p>¡¡¡¡¡°Õâ¶ÎÊ±¼ä£¬À´´ÉÆ÷¹İ²Î¹ÛµÄÈËÃ÷ÏÔ±ÈÒÔÇ°¶à³öÀ´ºÃ¶à£¬ºÜ¶àÈË¶¼ÊÇ±¼×Å¡®Ç¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡¯À´µÄ¡£¡±ÕÅ®`¶Ô±±Çà±¨¼ÇÕß±íÊ¾£¬×Ô¼ºµÄ½²½âÍ¼·¢²¼ºó£¬ÊÕ»ñÁËÒ»Ğ©ÒâÏë²»µ½µÄ»ØÓ¦¡£¡°ÓĞµÄÍøÓÑËµ£¬Õæ¡®´ÉÄ¸¡¯ºÍ¼Ù¡®´ÉÄ¸¡¯µÄÕÕÆ¬Ò»¶Ô±È£¬¸Ğ¾õÇ¬Â¡µÄÉóÃÀÃ»ÄÇÃ´³ó£¬Õæ¼ÙÁ½¼ş´ÉÆ¿µÄÆøÖÊÃ÷ÏÔ²îÁËºÜ¶à¡£ÎÒ¾õµÃ£¬Í¨¹ıÕæ¼ÙÒÕÊõÆ·µÄ¶Ô±È£¬ÄÜ¹»ÌáÉıÍøÓÑµÄÒÕÊõÆ·ĞŞÑø£¬µ±ÍøÓÑÃÇËµ³öÕâĞ©»°µÄÊ±ºò£¬ÒÑ¾­ÔÚ³ÉÎªÒ»ÃûÒÕÊõÆ·¼øÉÍ¼ÒµÄµÀÂ·ÉÏÂõ³öµÚÒ»²½ÁË¡£¡±</p>
+</div>
+          <div>
+
+<!--enorth cms block start [ name="cms_pages" ]-->
+
+<!--enorth cms block end [ name="cms_pages" cost="9"]-->          </div>
+          <p>Ô­±êÌâ£ºÍøºì´ó´ÉÆ¿Òı·¢ÍÂ²ÛÇ¬Â¡ÉóÃÀ£¬¹Ê¹¬½²½âÔ±£ºØÍÆ·ÕÕ·ºÀÄËùÖÂ</p>
+          <p class="right"><b>±à¼­£º</b> ³Â½İ<span class="right" style="color:rgb(110,110,110);font-size:14px;"><a href="mailto:171964650@qq.com" target="_blank">¾À´í</a>£º171964650@qq.com</span></p>
+          <p class="clearfix"></p>
+          <div> <img src="http://www.cnnb.com.cn/pic/0/04/21/41/4214177_806742.jpg" alt="" style="height:0px;width:0px;"/> </div>
+        </div>
+<div>
+<!--<a href="http://www.lulong.cn" target="_blank"><img src="http://www.cnnb.com.cn/pic/0/04/16/04/4160461_914457.gif" width="650" height="40"></a>-->
 </div>
 
+        <div class="picnewsArea">
+          <div class="title">Í¼Æ¬ĞÂÎÅ</div>
+          <ul>
 
+<!--enorth cms block start [ name="gnyw_jctp" ]-->
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707448.shtml' target='_blank' title='ÎÒ¹ú³É¹¦·¢Éä°¢¶û¼°ÀûÑÇÒ»ºÅÍ¨ĞÅÎÀĞÇ'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232762_28f9c209.jpg' alt='ÎÒ¹ú³É¹¦·¢Éä°¢¶û¼°ÀûÑÇÒ»ºÅÍ¨ĞÅÎÀĞÇ' width='150' height='90'></a><div class='tip'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707448.shtml'>ÎÒ¹ú³É¹¦·¢Éä°¢¶û¼°ÀûÑÇÒ»ºÅÍ¨ĞÅÎÀĞÇ</a></div></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707512.shtml' target='_blank' title='12ÈÕÆğÔªµ©»ğ³µÆ±¿ª¹º Ô¤ÊÛÆÚ»Ö¸´30Ìì'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232786_51c3c8a0.jpg' alt='12ÈÕÆğÔªµ©»ğ³µÆ±¿ª¹º Ô¤ÊÛÆÚ»Ö¸´30Ìì' width='150' height='90'></a><div class='tip'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707512.shtml'>12ÈÕÆğÔªµ©»ğ³µÆ±¿ª¹º Ô¤ÊÛÆÚ»Ö¸´30Ìì</a></div></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707509.shtml' target='_blank' title='½ô¼±ÌáĞÑ!Äêµ××îĞèÒª¹Ø×¢Õâ5¼şÊÂ'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232783_ba5def0c.jpg' alt='½ô¼±ÌáĞÑ!Äêµ××îĞèÒª¹Ø×¢Õâ5¼şÊÂ' width='150' height='90'></a><div class='tip'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707509.shtml'>½ô¼±ÌáĞÑ!Äêµ××îĞèÒª¹Ø×¢Õâ5¼şÊÂ</a></div></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707508.shtml' target='_blank' title='ÍøÓÑÑ¡³öµÄ2017ÄêÊ®´óÍøÂçÁ÷ĞĞÓï'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232782_b4788004.jpg' alt='ÍøÓÑÑ¡³öµÄ2017ÄêÊ®´óÍøÂçÁ÷ĞĞÓï' width='150' height='90'></a><div class='tip'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707508.shtml'>ÍøÓÑÑ¡³öµÄ2017ÄêÊ®´óÍøÂçÁ÷ĞĞÓï</a></div></li>
+<!--enorth cms block end [ name="gnyw_jctp" cost="13"]-->          </ul>
+          <ul>
+
+<!--enorth cms block start [ name="gjxw_jctp" ]-->
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707522.shtml' target='_blank' title='Ó¢¹úÅ·ÃË´ï³ÉÍÑÅ·³õ²½Ğ­Òé Ó¢Ê×Ïà¶ÔÌ¸ÅĞ±íÊ¾ÀÖ¹Û'><img src='http://www.cnnb.com.cn/pic/003/002/328/00300232800_7c97868c.jpg' alt='Ó¢¹úÅ·ÃË´ï³ÉÍÑÅ·³õ²½Ğ­Òé Ó¢Ê×Ïà¶ÔÌ¸ÅĞ±íÊ¾ÀÖ¹Û' width='150' height='90'></a><div class='tip'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707522.shtml'>Ó¢¹úÅ·ÃË´ï³ÉÍÑÅ·³õ²½Ğ­Òé Ó¢Ê×Ïà¶ÔÌ¸ÅĞ±íÊ¾ÀÖ¹Û</a></div></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707361.shtml' target='_blank' title='Óâ7000Ãû¡°Ê¥µ®ÀÏÈË¡±ÂíµÂÀï¾ºÅÜ Ä¼¼¯¿¹°©»ù½ğ'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232734_ef06a3b0.jpg' alt='Óâ7000Ãû¡°Ê¥µ®ÀÏÈË¡±ÂíµÂÀï¾ºÅÜ Ä¼¼¯¿¹°©»ù½ğ' width='150' height='90'></a><div class='tip'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707361.shtml'>Óâ7000Ãû¡°Ê¥µ®ÀÏÈË¡±ÂíµÂÀï¾ºÅÜ Ä¼¼¯¿¹°©»ù½ğ</a></div></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707521.shtml' target='_blank' title='·¨¹ú¹²ºÍµ³½«Ñ¡¾ÙĞÂµ³¿ı ÈÈÃÅºòÑ¡ÈËÌôÕ½Âí¿ËÁú'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232795_beeef666.jpg' alt='·¨¹ú¹²ºÍµ³½«Ñ¡¾ÙĞÂµ³¿ı ÈÈÃÅºòÑ¡ÈËÌôÕ½Âí¿ËÁú' width='150' height='90'></a><div class='tip'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707521.shtml'>·¨¹ú¹²ºÍµ³½«Ñ¡¾ÙĞÂµ³¿ı ÈÈÃÅºòÑ¡ÈËÌôÕ½Âí¿ËÁú</a></div></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707527.shtml' target='_blank' title='ÈÕ±¾½«¿ª·ÅÍâ¹úÈË´´Òµ×¼±¸Ç©Ö¤ ´ÙµØ·½¾­¼Ã·¢Õ¹'><img src='http://www.cnnb.com.cn/pic/003/002/328/00300232801_213d4ff5.jpg' alt='ÈÕ±¾½«¿ª·ÅÍâ¹úÈË´´Òµ×¼±¸Ç©Ö¤ ´ÙµØ·½¾­¼Ã·¢Õ¹' width='150' height='90'></a><div class='tip'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707527.shtml'>ÈÕ±¾½«¿ª·ÅÍâ¹úÈË´´Òµ×¼±¸Ç©Ö¤ ´ÙµØ·½¾­¼Ã·¢Õ¹</a></div></li>
+<!--enorth cms block end [ name="gjxw_jctp" cost="14"]-->          </ul>
+        </div>
+        <div class="quickLink">
+          <div class="link"><a href="http://www.cnnb.com.cn/">ÖĞ¹úÄş²¨ÍøÊ×Ò³</a></div>
+          <div class="link"><a href="http://news.cnnb.com.cn/">ĞÂÎÅÖĞĞÄÊ×Ò³</a></div>
+        </div>
+      </div>
+      <div class="rightPart">
+        <style media="screen">
+                    .ovh{overflow: hidden;}
+                    li.withPic {height: 72px;margin: 20px 0;}
+                    li.withPic img {float: left;margin-right: 10px;width: 90pt;height: 72px;}
+                    li.withPic .content {float: left;width: 175px;}
+                    p.date {font-family: "Arial";padding-top: 5px;font-size: 12px;color: #999;}
+                    ul.items li {height: 30px;overflow: hidden;}
+                    ul.items li a {font-size: 14px;color: rgb(57, 57, 57);line-height: 1.5em;white-space: nowrap;font-family: 'MicroSoft YaHei',"Î¢ÈíÑÅºÚ";}
+                </style>
+        <div class="rightPart">
+          <div class="section-01 ovh">
+            <div class="module"><span class="orangle">24Ğ¡Ê±</span>ĞÂÎÅµã»÷°ñ</div>
+            <ul>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707222.shtml' target='_blank' title='¹ìµÀ½»Í¨´¢±¸µØ¹©Ó¦¼Ó¿ì Èı×ÚµØ¿é×Ü³öÈÃÃæ»ı³¬7¹«Çê'>¹ìµÀ½»Í¨´¢±¸µØ¹©Ó¦¼Ó¿ì Èı×ÚµØ¿é×Ü³öÈÃÃæ...</a></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/10/008707136.shtml' target='_blank' title='¶«²¿ĞÂ³ÇĞÂÏîÄ¿½øÕ¹À´À²£¡Ò»ÕÅ³¤Í¼¿´¡°Äş²¨ĞÂÖĞĞÄ¡±'>¶«²¿ĞÂ³ÇĞÂÏîÄ¿½øÕ¹À´À²£¡Ò»ÕÅ³¤Í¼¿´¡°Äş²¨...</a></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707205.shtml' target='_blank' title='Äş²¨³¬ÊĞÌáÇ°´òÏìË«12´ÙÏú ÉÌ¼ÒÁ¦ÍÆAPP ÓÅ»İ·ù¶È¶¯éüÎåÕÛ'>Äş²¨³¬ÊĞÌáÇ°´òÏìË«12´ÙÏú ÉÌ¼ÒÁ¦ÍÆAPP ÓÅ»İ...</a></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/10/008707169.shtml' target='_blank' title='ÊıÊ®ÍòÂò¡°»áÔ±×Ê¸ñ¡± Äş²¨ÑøÀÏµØ²ú¿¿²»¿¿Æ×£¿'>ÊıÊ®ÍòÂò¡°»áÔ±×Ê¸ñ¡± Äş²¨ÑøÀÏµØ²ú¿¿²»¿¿Æ×£¿</a></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707359.shtml' target='_blank' title='Å®×Ó»éÇ°ÒşÂ÷²¡Çé ÕÉ·òÖªµÀºóÒªÀë»é Å®·½ÒªÇóÄÃÒ½ÁÆ·Ñ±»¾Ü'>Å®×Ó»éÇ°ÒşÂ÷²¡Çé ÕÉ·òÖªµÀºóÒªÀë»é Å®·½Òª...</a></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707402.shtml' target='_blank' title='È«Çò×î´óÖÇÄÜ¼¯×°ÏäÂëÍ·ÉÏº£ÑóÉ½¸ÛÊÔÔËĞĞ'>È«Çò×î´óÖÇÄÜ¼¯×°ÏäÂëÍ·ÉÏº£ÑóÉ½¸ÛÊÔÔËĞĞ</a></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/11/008707220.shtml' target='_blank' title='ÖĞÉ½Â·±äÉí¹«¹²ÒÕÊõ³ÂÁĞ´óµÀ£¡Ê®´óµñËÜÁÁÏàÎÄÒÕ·¶¶ùÊ®×ã'>ÖĞÉ½Â·±äÉí¹«¹²ÒÕÊõ³ÂÁĞ´óµÀ£¡Ê®´óµñËÜÁÁÏà...</a></li>
+<li><a href='http://news.cnnb.com.cn/system/2017/12/10/008707138.shtml' target='_blank' title='Äş²¨¸ßĞÂ¼¼Êõ´´ĞÂÄÄ¼ÒÇ¿£¿¿´¿´Õã½­³öµÄÕâ¼¸ÕÅ°ñµ¥'>Äş²¨¸ßĞÂ¼¼Êõ´´ĞÂÄÄ¼ÒÇ¿£¿¿´¿´Õã½­³öµÄÕâ¼¸...</a></li>            </ul>
+          </div>
+          <div class="section-03 ovh">
+            <div class="module"><a href="http://news.cnnb.com.cn/"><span class="orangle">ÈÈµã</span>ÍÆ¼ö</a></div>
+            <ul>
+<li class='withPic'>
+<a href='http://news.cnnb.com.cn/system/2017/12/11/008707280.shtml' target='_blank' title='ÖĞ¹ú¿ç¾³µçÉÌ¿ìËÙĞËÆğ º£ÌÔÓĞ¶àÈÈ£¿ÈçºÎÂòµÃ·ÅĞÄ£¿'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232703_eb84629c.jpg' alt='ÖĞ¹ú¿ç¾³µçÉÌ¿ìËÙĞËÆğ º£ÌÔÓĞ¶àÈÈ£¿ÈçºÎÂòµÃ·ÅĞÄ£¿'></a>
+<div class='content'>
+<p class='title'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707280.shtml' target='_blank' title='ÖĞ¹ú¿ç¾³µçÉÌ¿ìËÙĞËÆğ º£ÌÔÓĞ¶àÈÈ£¿ÈçºÎÂòµÃ·ÅĞÄ£¿'>ÖĞ¹ú¿ç¾³µçÉÌ¿ìËÙĞËÆğ º£ÌÔÓĞ¶àÈÈ£¿ÈçºÎÂòµÃ·ÅĞÄ£¿</a></p>
+<!--<p class='date'>2017-12-11 08:51</p>-->
 </div>
+</li>
+<li class='withPic'>
+<a href='http://news.cnnb.com.cn/system/2017/12/11/008707266.shtml' target='_blank' title='Íü´©Çï¿ãÏÕ¡¢ĞÜº¢×ÓÈÇ»öÏÕ...ÕâĞ©"»¥ÁªÍøÏÕ"ÓĞµã"ÏÕ"'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232701_e14a2411.jpg' alt='Íü´©Çï¿ãÏÕ¡¢ĞÜº¢×ÓÈÇ»öÏÕ...ÕâĞ©"»¥ÁªÍøÏÕ"ÓĞµã"ÏÕ"'></a>
+<div class='content'>
+<p class='title'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707266.shtml' target='_blank' title='Íü´©Çï¿ãÏÕ¡¢ĞÜº¢×ÓÈÇ»öÏÕ...ÕâĞ©"»¥ÁªÍøÏÕ"ÓĞµã"ÏÕ"'>Íü´©Çï¿ãÏÕ¡¢ĞÜº¢×ÓÈÇ»öÏÕ...ÕâĞ©"»¥ÁªÍøÏÕ"ÓĞµã"ÏÕ"</a></p>
+<!--<p class='date'>2017-12-11 08:43</p>-->
+</div>
+</li>
+<li class='withPic'>
+<a href='http://news.cnnb.com.cn/system/2017/12/11/008707511.shtml' target='_blank' title='½­¸è°¸½ñÈÕ¿ªÉó ³ÂÊÀ·å:²»³ĞÈÏ¹ÊÒâÉ±ÈË µ¶ÊÇÁõöÎÌá¹©'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232785_00d52c65.jpg' alt='½­¸è°¸½ñÈÕ¿ªÉó ³ÂÊÀ·å:²»³ĞÈÏ¹ÊÒâÉ±ÈË µ¶ÊÇÁõöÎÌá¹©'></a>
+<div class='content'>
+<p class='title'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707511.shtml' target='_blank' title='½­¸è°¸½ñÈÕ¿ªÉó ³ÂÊÀ·å:²»³ĞÈÏ¹ÊÒâÉ±ÈË µ¶ÊÇÁõöÎÌá¹©'>½­¸è°¸½ñÈÕ¿ªÉó ³ÂÊÀ·å:²»³ĞÈÏ¹ÊÒâÉ±ÈË µ¶ÊÇÁõöÎÌá¹©</a></p>
+<!--<p class='date'>2017-12-11 13:51</p>-->
+</div>
+</li>            </ul>
+            <ul class="items">
 
-        <div id="yui-main">
-            <div class="yui-b bd-main">
-
-
-                <div id="content-title">     
-                		<h1>OCNã€Šé»‘æ´ã€‹å¤§ç»“å±€å‰å¤•æ”¶è§†æƒ¨è·Œ0.5ï¼ç½‘æ‰¹ã€Œå‰§æœ¬å¤ªå·®ã€ï¼šçœ‹ä¸æ‡‚åœ¨æ¼”ä»€ä¹ˆ  </h1>
-                		<h2><span style='background-color:#777;padding:2px 4px;'><a href="/sc/drama" style='color:#fff;text-decoration:none;'>éŸ©å‰§</a></span> &nbsp; 2021å¹´6æœˆ2æ—¥ &nbsp; æ˜ŸæœŸä¸‰09:30 &nbsp; <a class="author-link" href="/sc/author/å°æ°´æ»´">å°æ°´æ»´</a>  &nbsp;
-<span class="comm"><a id="gotoc1" class="comm" href="javascript:void(0);""><span id="totalc" class="comments_total" data-href="https://www.koreastardaily.com/sc/news/135785" data-post-id="150836420761_10159485781750762" data-post-comments-total="23">
-23</span></a></span>
-
-<script>
-//$(document).ready(function($) {
-    //$('#totalc').commentstotal({replacement: 'comments_total'});
-//});
-</script>
-
-</h2>
-
-                </div><!--/content-title-->
-
-<style>
-#content-title h1 {
-   font-size: 2em;
-}
-#content-body p {
-   font-size: 1.3em;
-   margin-bottom: 1.8em;
-   line-height: 1.8em;
-}
-#content-body p img {
-   width: 480px;
-   max-width: 480px;
-   display: block;
-   margin: .5em auto;
-}
-#content-body p iframe {
-   /*width: 100%;*/
-   margin: .5em 0;
-}
-#content-body .caption {
-   font-size: .8em;
-   color: grey;
-   display: block;
-   margin-top: .5em;
-   text-align: center;
-   line-height: 1.5em;
-}
-
-.instagram-media, .twitter-tweet {
-  margin: 0 auto!important;
-}
-
-
-</style>
-                <div id="content-body" class=""> 
-<p>
-<a data-fancybox="images" data-caption="é»‘æ´" href="https://a.ksd-i.com/a/2021-05-31/135785-908363.jpg">
-	<img style="max-width:100%;width:100%;margin:0 auto;" src="https://a.ksd-i.com/s/800_86400_1342730d1dcc576bfd1fbb24aa7e37de/static.koreastardaily.com/2021-05-31/135785-908363.jpg" title="é»‘æ´"></a>
-<span class="caption">é»‘æ´</span>
-</p>
-
-<p class="content-body-summary">æƒŠæ‚šå‰§é›†ã€Šé»‘æ´ã€‹æœ¬å‘¨å…­ï¼ˆ5æ—¥ï¼‰å³å°†è¿æ¥å¤§ç»“å±€ï¼Œæ•…äº‹ä¸»æ‰“æœ«ä¸–é€ƒéš¾å‰§æƒ…ï¼Œæ”¶è§†ç‡å´å±¡åˆ›æ–°ä½ï¼Œç¬¬ä¹é›†è·Œåˆ°0.5ï¼Œç¬¬10é›†æ‰å›åˆ°1.0ã€‚æœ‰è®¸å¤šç½‘å‹è¯´æ”¶è§†ç‡ä¼šè¿™ä¹ˆä½è¿·ï¼šã€Œä¸€åˆ‡éƒ½æ˜¯å‰§æœ¬çš„é—®é¢˜ã€‚ã€</p>
-
-<!-- /12897238/native_text_link -->
-<div id='div-gpt-ad-1576663285717-0' style="margin-bottom:2em;">
+<!--enorth cms block start [ name="ktx_focus" ]-->
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707358.shtml" target="_blank">È«ÇòÊ×¸öA-±±¶··şÎñÓÃ»§Í»ÆÆ1ÒÚ 97%À´×ÔÖĞ¹ú</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707380.shtml" target="_blank">×öÉçÇø·şÎñ×í¼İÄÜÃâĞÌ?¼ì·½³Æ£º²»Ò»¶¨</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707234.shtml" target="_blank">±£°²±»×¹Â¥Å®ÔÒÖĞË«Ë«ÉíÍö:Ö±½ÓÉìÊÖ½Ó</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707340.shtml" target="_blank">¹«Ë¾Æ­²¹ÉÏÒÚ:Ãñ¾¯Îª154Á¾³µÉÏÅÆ±»²¶</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707231.shtml" target="_blank">Å®º¢ĞŞµçÄÔÖ²ÈëÍµÅÄÈí¼ş »»ÒÂ·ş±»Ö±²¥</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707240.shtml" target="_blank">ÆµÆØ¾ü¹º¸¯°Ü³óÎÅ ÃÀ¹ú·À²¿Ê·ÉÏÊ×´Î½ÓÊÜÈ«ÃæÉó¼Æ</a>
+</li>
+<!--enorth cms block end [ name="ktx_focus" cost="41"]-->            </ul>
+            <ul>
+<li class='withPic'>
+<a href='http://news.cnnb.com.cn/system/2017/12/11/008707354.shtml' target='_blank' title='Ò®Â·ÈöÀäÕù¶ËÎ£¼°ºÍÆ½Ô¸¾° ÒÔÉ«ÁĞÒ»ÎÀ±ø±»´ÌÖØÉË'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232729_e3c7796b.png' alt='Ò®Â·ÈöÀäÕù¶ËÎ£¼°ºÍÆ½Ô¸¾° ÒÔÉ«ÁĞÒ»ÎÀ±ø±»´ÌÖØÉË'></a>
+<div class='content'>
+<p class='title'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707354.shtml' target='_blank' title='Ò®Â·ÈöÀäÕù¶ËÎ£¼°ºÍÆ½Ô¸¾° ÒÔÉ«ÁĞÒ»ÎÀ±ø±»´ÌÖØÉË'>Ò®Â·ÈöÀäÕù¶ËÎ£¼°ºÍÆ½Ô¸¾° ÒÔÉ«ÁĞÒ»ÎÀ±ø±»´ÌÖØÉË</a></p>
+<!--<p class='date'>2017-12-11 09:18</p>-->
+</div>
+</li>
+<li class='withPic'>
+<a href='http://news.cnnb.com.cn/system/2017/12/11/008707237.shtml' target='_blank' title='ÃÀ¹ú×¤ÁªºÏ¹ú´óÊ¹¡°µ¥Ìô¡±14¹ú:ÉÙ¶ÔÎÒËµ½Ì'><img src='http://www.cnnb.com.cn/pic/003/002/326/00300232685_98c3879c.jpg' alt='ÃÀ¹ú×¤ÁªºÏ¹ú´óÊ¹¡°µ¥Ìô¡±14¹ú:ÉÙ¶ÔÎÒËµ½Ì'></a>
+<div class='content'>
+<p class='title'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707237.shtml' target='_blank' title='ÃÀ¹ú×¤ÁªºÏ¹ú´óÊ¹¡°µ¥Ìô¡±14¹ú:ÉÙ¶ÔÎÒËµ½Ì'>ÃÀ¹ú×¤ÁªºÏ¹ú´óÊ¹¡°µ¥Ìô¡±14¹ú:ÉÙ¶ÔÎÒËµ½Ì</a></p>
+<!--<p class='date'>2017-12-11 07:56</p>-->
+</div>
+</li>
+<li class='withPic'>
+<a href='http://news.cnnb.com.cn/system/2017/12/11/008707363.shtml' target='_blank' title='ÃÀ¹ú¼ÓÖİ×î´ó»ğÔÖÂûÑÓµ½Ê¥°Å°ÅÀ­ ÍşĞ²ÑØº£³ÇÕò'><img src='http://www.cnnb.com.cn/pic/003/002/327/00300232735_99637381.jpg' alt='ÃÀ¹ú¼ÓÖİ×î´ó»ğÔÖÂûÑÓµ½Ê¥°Å°ÅÀ­ ÍşĞ²ÑØº£³ÇÕò'></a>
+<div class='content'>
+<p class='title'><a href='http://news.cnnb.com.cn/system/2017/12/11/008707363.shtml' target='_blank' title='ÃÀ¹ú¼ÓÖİ×î´ó»ğÔÖÂûÑÓµ½Ê¥°Å°ÅÀ­ ÍşĞ²ÑØº£³ÇÕò'>ÃÀ¹ú¼ÓÖİ×î´ó»ğÔÖÂûÑÓµ½Ê¥°Å°ÅÀ­ ÍşĞ²ÑØº£³ÇÕò</a></p>
+<!--<p class='date'>2017-12-11 09:25</p>-->
+</div>
+</li>            </ul>
+          </div>
+          <div class="section-01 ovh">
+            <div class="module"><a href="http://nbnews.cnnb.com.cn/"><span class="orangle">±¾µØ</span>¿´µã</a></div>
+            <ul>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707603.shtml" target="_blank">Äş²¨¼ÓÇ¿ÇøÏØÊĞÁìµ¼°à×ÓË¼ÏëÕşÖÎ½¨Éè</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707602.shtml" target="_blank">Á½ÄêÏîÄ¿Í¶×Ê³¬200ÒÚ ÖĞÒâÄş²¨ÉúÌ¬Ô°¶¯Á¦ÅìÅÈ</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707586.shtml" target="_blank">Ôªµ©Èı½­µÆ¹âĞãÓĞÄÄĞ©¾ªÏ²?ÃÀ¾°ÊÇÔõÑùÁ¶³ÉµÄ?</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707591.shtml" target="_blank">ÉÏÖÜÄş²¨¶şÊÖ·¿³É½»¾ù¼Û»·±ÈÏÂ½µ4.5%</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707594.shtml" target="_blank">³µ¹ºË°ÓÅ»İ»¹ÓĞ²»µ½°ë¸öÔÂ?ÔÚÄêµ×Ç°¿ªÆ±¾ÍĞĞ</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707596.shtml" target="_blank">ÒøĞĞÀí²ÆÄêÄ©ÊÕÒæÂÊ×ß¸ß Í¶×ÊÕßÎñ±ØÒª¶à¿¼Á¿</a>
+</li>            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="littleline"></div>
+  </div>
+  <div id="foot" style="width:1050px;margin:auto;">
+    <iframe width="1050" scrolling="no" height="214" frameborder="0" src="http://news.cnnb.com.cn/packages/public/foot.html"></iframe>
+  </div>
   <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1576663285717-0'); });
-  </script>
-</div>
-<p>è¯¥å‰§ç”±ã€Šç§˜å¯†æ£®æ—ã€‹ã€ã€Š365ï¼šé€†è½¬å‘½è¿çš„1å¹´ã€‹ææµšèµ«ã€ã€Šé˜¿æ–¯è¾¾å¹´ä»£è®°ã€‹é‡‘ç‰å½¬åˆ†åˆ«æ‹…ä»»ç”·å¥³ä¸»è§’ã€‚æ•…äº‹è®²è¿°è¯¡å¼‚é»‘çƒŸè¢­å‡»äººç±»ä»¥åï¼Œæœ‰è®¸å¤šäººæˆä¸ºå˜ç§äººç±»ï¼Œå‰©ä¸‹çš„äººä»¬ä¸ºäº†ç”Ÿå­˜ä¸‹å»ï¼Œæ‰€å±•å¼€ä¸€åœºæ¿€çƒˆçš„å¤§é€ƒéš¾ã€‚<br><a data-fancybox="images" data-caption="é»‘æ´" href="https://a.ksd-i.com/a/2021-05-31/135785-908368.jpg"><img src="https://a.ksd-i.com/s/480x_86400_8ff47fd4ad5f46d8bf0c09a900f94b34/static.koreastardaily.com/2021-05-31/135785-908368.jpg"></a><span class="caption">é»‘æ´</span></p>
-<!-- /12897238/native_video -->
-<div id='div-gpt-ad-1506065257752-0'>
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1506065257752-0'); });
-</script>
-</div>
-<p>ç„¶è€Œå¤–ç•Œè¯´æ˜æ•…äº‹æ”¾å…¥å¤ªå¤šå…ƒç´ ï¼Œã€Œä¸€ä¸‹å­è·‘å‡ºå¥³å·«ã€ã€ã€Œä¸€ä¸‹å­è·‘å‡ºè¿ç¯æ€äººçŠ¯æç§€å¦ã€ï¼Œå†è¿‡ä¸ä¹…ç°åœ¨ã€ŒåŒ»é™¢å¥³åŒ»ç”Ÿçªç„¶åˆé¢†ä¾¿å½“äº†ï¼Ÿã€ä¸ä»…å¦‚æ­¤ï¼Œåœ¨æ¥ä¸‹æ¥çš„å‰§æƒ…å½“ä¸­ï¼Œåˆå³å°†æ¼”åˆ°ã€Œè§¦æ‰‹æ€ªç‰©æ”»å‡»äººç±»ã€‚ã€ç§ç§å¤§æ‚çƒ©åŠ åœ¨ä¸€èµ·ï¼Œç½‘å‹éƒ½çº·çº·è¡¨ç¤ºã€Œå®åœ¨æ˜¯çœ‹ä¸æ‡‚åˆ°åº•åœ¨æ¼”ç”šä¹ˆï¼Ÿã€æ˜æ˜æ¼”å‘˜çš„æ¼”æŠ€éƒ½è¿‡ç¡¬ï¼Œã€Œå´æ¯åœ¨ç¼–å‰§æ‰‹ä¸­ã€‚ã€<br><a data-fancybox="images" data-caption="é»‘æ´" href="https://a.ksd-i.com/a/2021-05-31/135785-908369.jpg"><img src="https://a.ksd-i.com/s/480x_86400_d0b9a3584dd63aaefbd357bfbfff5831/static.koreastardaily.com/2021-05-31/135785-908369.jpg"></a><span class="caption">é»‘æ´</span><br><a data-fancybox="images" data-caption="é»‘æ´" href="https://a.ksd-i.com/a/2021-05-31/135785-908366.jpg"><img src="https://a.ksd-i.com/s/480x_86400_51a20824c54576b9a9cc0cb3d097a269/static.koreastardaily.com/2021-05-31/135785-908366.jpg"></a><span class="caption">é»‘æ´</span></p>
-<p>æ­¤å¤–ï¼Œå¥³ä¸»è§’é‡‘ç‰å½¬ä¸ç”·ä¸»è§’ææµšèµ«ï¼Œåˆ†åˆ«åœ¨å­¦æ ¡å’ŒåŒ»é™¢å¸¦é¢†ä¼—äººé€ƒéš¾ï¼Œåœ¨è¿™è¿‡ç¨‹å½“ä¸­å‡ ä¹æ²¡æœ‰äº¤é›†ï¼Œä¹Ÿé­å—åˆ°è®¸å¤šç½‘å‹æ‰¹è¯„ã€‚è¯¥å‰§ç”±ã€Šä»–äººå³åœ°ç‹±ã€‹ç¼–å‰§éƒ‘æ€¡é“ä½œå®¶å‰§æ‰§ç¬”ï¼Œå…¨å‰§æ€»å…±12é›†ï¼Œå³å°†æ–¼æœ¬å‘¨äº”ã€å…­æ’­å‡ºæœ€åç»“å±€ã€‚<br><a data-fancybox="images" data-caption="é»‘æ´" href="https://a.ksd-i.com/a/2021-05-31/135785-908364.jpg"><img src="https://a.ksd-i.com/s/480x_86400_6bb30fd573b3d82ce69eb1be5a056525/static.koreastardaily.com/2021-05-31/135785-908364.jpg"></a><span class="caption">é»‘æ´</span><br><a data-fancybox="images" data-caption="é»‘æ´" href="https://a.ksd-i.com/a/2021-05-31/135785-908367.jpg"><img src="https://a.ksd-i.com/s/480x_86400_254143969818db73ff148c187221d69b/static.koreastardaily.com/2021-05-31/135785-908367.jpg"></a><span class="caption">é»‘æ´</span></p>
-<p>(é¦–å›¾ï¼†å†…æ–‡å›¾ï¼šé»‘æ´ OCN å‰§ç…§&æµ·æŠ¥)</p>
-<p>è¯¥å‰§æ¼”å‘˜æ¼”å‡ºç›¸å½“è®¤çœŸï¼š<br><iframe width="560" height="315" src="https://www.youtube.com/embed/Equ2_whBfEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-
-<p class="copyright" style="margin-top:-2em;margin-bottom:1em;"><a style="font-size:1em;" href="/sc/author/å°æ°´æ»´">å°æ°´æ»´@KSD / éå¾—æœ¬ç«™ä¹¦é¢åŒæ„ è¯·å‹¿æŠ„è¢­ã€è½¬è½½ã€æ”¹å†™æˆ–å¼•è¿°æœ¬ç«™å†…å®¹ã€‚å¦‚æœ‰è¿è€…ï¼Œæœ¬ç«™å°†äºˆä»¥è¿½ç©¶</a></p>
-
-<div id="belowcomment" style="height:280px;width:336px;margin:20px auto;padding-top:20px;padding-bottom:25px;text-align:center;" class="">
-<span style="display:block;padding:.5em;font-size:1em;color:#cccccc;">å¹¿å‘Š</span>
-<!-- lrec bottom -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3262822889736522"
-     data-ad-slot="7792052201"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
-
-<div style="margin-bottom:1em;">
-
-<fb:like href="https://www.koreastardaily.com/sc/news/135785" layout="standard" action="like" show_faces="true" share="true"></fb:like>
-
-</div>
-
-<div id="content-tags" class="shadow1" style="margin-bottom:20px;">
-<ul>
-<li class="first">æ ‡ç­¾ : </li>
-<li><a href='/sc/tags/%E9%BB%91%E6%B4%9E'>é»‘æ´</a></li><li><a href='/sc/tags/%E9%87%91%E7%8E%89%E5%BD%AC'>é‡‘ç‰å½¬</a></li><li><a href='/sc/tags/%E6%9D%8E%E6%B5%9A%E8%B5%AB'>ææµšèµ«</a></li></ul>
-</div><!--/content-tags-->
-
-<span class="comm">ç›¸å…³æ–°é—»</span>
-<div id="content-related-list">
-<div class="leftdiv_">
-<ul>
-<li class="first" style="margin-bottom:8px;">
-<a href="/sc/news/144448"  title="é©¬ä¸œçŸ³IGæŠ¥å–œï¼šã€Œã€ŠçŠ¯ç½ªéƒ½å¸‚3ã€‹å·²æ‹æ‘„å®Œæ¯•ï¼Œã€ŠçŠ¯ç½ªéƒ½å¸‚4ã€‹æ­£åŒæ—¶è¿›è¡Œæ‹æ‘„ä¸­ï¼ã€é’“å‡ºå­™é”¡æ±‚ç•™è¨€å›åº”ï¼">
-<span>é©¬ä¸œçŸ³IGæŠ¥å–œï¼šã€Œã€ŠçŠ¯ç½ªéƒ½å¸‚3ã€‹å·²æ‹æ‘„å®Œæ¯•ï¼Œã€ŠçŠ¯ç½ªéƒ½å¸‚4ã€‹æ­£åŒæ—¶è¿›è¡Œæ‹æ‘„ä¸­ï¼ã€é’“å‡ºå­™é”¡æ±‚ç•™è¨€å›åº”ï¼</span>
-</a>
-</li>
-<li style="margin-bottom:8px;">
-<a href="/sc/news/144409"  title="ã€Šé˜¿æ–¯è¾¾å¹´ä»£è®°2ã€‹æå‡†åŸºã€ç”³ä¸–æ™¯ã€å¼ ä¸œå¥ã€é‡‘ç‰å½¬é¦–æ³¢å‰§ç…§ï¼è®²è¿°8å¹´åçš„æ•…äº‹ï¼Œå°†åœ¨æ˜å¹´æ’­å‡º">
-<span>ã€Šé˜¿æ–¯è¾¾å¹´ä»£è®°2ã€‹æå‡†åŸºã€ç”³ä¸–æ™¯ã€å¼ ä¸œå¥ã€é‡‘ç‰å½¬é¦–æ³¢å‰§ç…§ï¼è®²è¿°8å¹´åçš„æ•…äº‹ï¼Œå°†åœ¨æ˜å¹´æ’­å‡º</span>
-</a>
-</li>
-<li style="margin-bottom:8px;">
-<a href="/sc/news/144057"  title="ã€Šç§˜å¯†æ£®æ—3ã€‹æ¥äº†ï¼è¿™æ¬¡æ˜¯è¡ç”Ÿå‰§ç‰ˆæœ¬ï¼å‰§è¿·ï¼šæœŸå¾…åŸç­äººé©¬ï¼Œæ›¹æ‰¿ä½‘&è£´æ–—å¨œé‡ç»„">
-<span>ã€Šç§˜å¯†æ£®æ—3ã€‹æ¥äº†ï¼è¿™æ¬¡æ˜¯è¡ç”Ÿå‰§ç‰ˆæœ¬ï¼å‰§è¿·ï¼šæœŸå¾…åŸç­äººé©¬ï¼Œæ›¹æ‰¿ä½‘&è£´æ–—å¨œé‡ç»„</span>
-</a>
-</li>
-</ul>
-</div>
-
-<!-- <div class="rightdiv"> -->
-<!-- </div> -->
-</div><!--/content-related-->
-
-
-                </div><!--/content-body-->
-<!-- /12897238/native -->
-<div id='div-gpt-ad-1466671915318-0'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466671915318-0'); });
-</script>
-</div>
-
-
-
-<!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5976cbd9ca3a6157"></script> -->
-
-<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="margin-left:-80px; top:190px;" data-a2a-icon-color="transparent,turquoise">
-<!-- <a class="a2a_button_facebook a2a_counter"></a> -->
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_twitter"></a>
-<a class="a2a_button_line"></a>
-<!-- <a class="a2a_button_sina_weibo"></a> -->
-<a class="a2a_button_copy_link"></a>
-<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-</div>
-<script>
-var a2a_config = a2a_config || {};
-a2a_config.onclick = 1;
-a2a_config.counts = { recover_protocol: 'http' };
-</script>
-
-
-<a id="comments" name="comments"></a>
-
-
-
-<!-- facebook comment box -->
-
-<div style="margin-top:20px;">
-<span class="comm">ç•™è¨€/è¯„è®º</span>
-
-<div class="content-comments">
-<div class="fb-comments" data-href="https://www.koreastardaily.com/sc/news/135785" data-width="630" data-numposts="5"></div>
-</div>
-
-
-<link href="https://cdn.staticfile.org/emoji/0.2.2/emoji.css" rel="stylesheet" type="text/css" />
-<script src="https://cdn.staticfile.org/emoji/0.2.2/emoji.js"></script>
-<script>
-$( document ).ready(function() {
-var $text = $('#pcomm');
-var html = $text.html();
-$text.html(jEmoji.unifiedToHTML(html));
-});
-</script>
-<style>
-#pcomm .name {
-    font-size: 15px;
-}
-#pcomm .message {
-    font-size: 15px;
-    line-height: 1.358;
-}
-#pcomm img {
-    width: 48px;
-    height: 48px;
-}
-#pcomm .meta img {
-    width: 13px;
-    height: 15px;
-}
-
-#pcomm .container {
-    margin-left: 0px;
-}
-</style>
-<div id="pcomm">
-<ul>
-
-<li>
-<div class="clearfix">
-<!-- <a href="https://facebook.com/profile.php?id=" target="_blank"><img src="https://graph.facebook.com//picture"></a> -->
-
-<div class="container">
-<!-- <div class="name"><a href="https://www.facebook.com/profile.php?id=" target="_blank"></a></div> -->
-<div class="name"><b></b></div>
-<div class="message">é›–ç„¶ä¸çŸ¥é“åœ¨å¹¹å˜›ä½†è »å¥½çœ‹çš„å•Š</div>
-<div class="meta">2021å¹´6æœˆ2æ—¥ 14:59</div>
-</div>
-
-</div>
-</li>
-
-
-<li>
-<div class="clearfix">
-<!-- <a href="https://facebook.com/profile.php?id=" target="_blank"><img src="https://graph.facebook.com//picture"></a> -->
-
-<div class="container">
-<!-- <div class="name"><a href="https://www.facebook.com/profile.php?id=" target="_blank"></a></div> -->
-<div class="name"><b></b></div>
-<div class="message">çœ‹å®Œç¬¬ä¸€é›†å€™å†ä¹Ÿæ‡¶å¾—çœ‹äº†</div>
-<div class="meta">2021å¹´6æœˆ3æ—¥ 00:23</div>
-</div>
-
-</div>
-</li>
-
-
-<li>
-<div class="clearfix">
-<!-- <a href="https://facebook.com/profile.php?id=" target="_blank"><img src="https://graph.facebook.com//picture"></a> -->
-
-<div class="container">
-<!-- <div class="name"><a href="https://www.facebook.com/profile.php?id=" target="_blank"></a></div> -->
-<div class="name"><b></b></div>
-<div class="message">è§‰å¾—ä¸é”™çœ‹å•Š</div>
-<div class="meta">2021å¹´6æœˆ3æ—¥ 11:32</div>
-</div>
-
-</div>
-</li>
-
-
-<li>
-<div class="clearfix">
-<!-- <a href="https://facebook.com/profile.php?id=" target="_blank"><img src="https://graph.facebook.com//picture"></a> -->
-
-<div class="container">
-<!-- <div class="name"><a href="https://www.facebook.com/profile.php?id=" target="_blank"></a></div> -->
-<div class="name"><b></b></div>
-<div class="message">çœŸçš„çœ‹ä¸æ‡‚ï¼Œæµªè²»äº†é‡‘ç‰å½¬ï¼</div>
-<div class="meta">2021å¹´6æœˆ3æ—¥ 10:39</div>
-</div>
-
-</div>
-</li>
-
-
-<li>
-<div class="clearfix">
-<!-- <a href="https://facebook.com/profile.php?id=" target="_blank"><img src="https://graph.facebook.com//picture"></a> -->
-
-<div class="container">
-<!-- <div class="name"><a href="https://www.facebook.com/profile.php?id=" target="_blank"></a></div> -->
-<div class="name"><b></b></div>
-<div class="message">æ‡‚çš„ä¸ç”¨è§£é‡Šï¼Œä¸æ‡‚çš„ä¸å¿…è§£é‡Šï¼ğŸ˜‚</div>
-<div class="meta">2021å¹´6æœˆ2æ—¥ 14:16</div>
-</div>
-
-</div>
-</li>
-
-</ul>
-<div class="more"><a href="https://www.facebook.com/150836420761/posts/10159485781750762" target="_blank">&#8594;æ›´å¤šç•™è¨€...(18)</a></div>
-<div class="pagelink">
-<a href="https://www.facebook.com/150836420761/posts/10159485781750762" target="_blank">åœ¨Facebookä¸Šçš„ç•™è¨€</a>
-</div>
-</div>
-</div>
-
-
-
-<div id="content-prevnext" class="yui-g">
-<div class="yui-u first">
-<div>
-<a class="prevnext-link" onclick="javascript:pageTracker._trackPageview('/prevLink')" href='/sc/news/135803'/>
-â† ä¸Šä¸€åˆ™</a>
-</div>
-</div>
-<div class="yui-u tright">
-<div>
-<a class="prevnext-link" onclick="javascript:pageTracker._trackPageview('/nextLink')" href='/sc/news/135808'/>
-ä¸‹ä¸€åˆ™ â†’
-</a>
-</div>
-</div>
-</div><!--/prevnext-->
-
-            </div><!--/bd-main-->
-        </div><!--/yui-main-->
-    
-       <div id="sidebar" class="yui-b">
-<style>
-        section {
-            display: block;
-        }
-        .sticky {
-            position: -webkit-sticky;
-            position: sticky;
-            top: 0;
-            padding: 0em;
-        }
-</style>
-<script>
-        $(document).ready(function(){
-            //var h1 = $('#page1').height();
-            //var h0 = $('#content-body').height();
-            $('#page1-margin').height(500);
+(function(){
+    var cityUrl = 'http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js';
+    $.getScript(cityUrl, function(script, textStatus, jqXHR) {
+        var citytq = remote_ip_info.city ;// »ñÈ¡³ÇÊĞ
+        var url = "http://php.weather.sina.com.cn/iframe/index/w_cl.php?code=js&city=" + citytq + "&day=0&dfc=3";
+        $.ajax({
+            url : url,
+            dataType : "script",
+            scriptCharset : "gbk",
+            success : function(data) {
+                var _w = window.SWther.w[citytq][0];
+                var _f= _w.f1+"_0.png";
+                if(new Date().getHours() > 17){
+                     _f= _w.f2+"_1.png";                
+                }
+                var img = "<img width='16px' height='16px' src='http://i2.sinaimg.cn/dy/main/weather/weatherplugin/wthIco/20_20/" + _f + "' />";
+                //var tq = citytq + " " + img + " " + _w.s1 + " " + _w.t1 + "¡æ¡«" + _w.t2 + "¡æ  " + _w.d1 + _w.p1 + "¼¶";
+                var tq = citytq + " " + img + " " + _w.s1 + " " + _w.t1 + "¡æ¡«" + _w.t2 + "¡æ  ";
+                //#weather×Ô¼ºĞŞ¸Ä,ÌìÆøÑùÊ½×Ô¼º´ò¶Ïµãµ÷ÊÔ
+                $('.weather').html(tq);
+            }
         });
-</script>
-    <section>
-        <div id="page1" class="sticky" style="top:10px;">
-<div id="mrecAd">
-
-
-<!-- mrec -->
-<div id='div-gpt-ad-1366184678586-0' style="width:300px;margin-bottom:10px;">
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1366184678586-0'); });
-</script>
-</div>
-
-
-
-</div>
-<h1 class="bar"><span>è¿½è¸ªéŸ©æ˜Ÿç½‘</span></h1>
-<div class="btn">
-
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fkoreastardaily%2F&tabs&width=300&height=70&small_header=true&adapt_container_width=false&hide_cover=false&show_facepile=false&appId=694211364011889" width="300" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style a2a_follow"  style="background-color:#fff;padding:10px;display: flex; justify-content: center;">
-    <a class="a2a_button_facebook" data-a2a-follow="koreastardaily"></a>
-    <a class="a2a_button_instagram" data-a2a-follow="koreastardaily"></a>
-    <a class="a2a_button_youtube" href="https://www.youtube.com/c/Koreastardaily"></a>
-    <a class="a2a_button_twitter" data-a2a-follow="koreastardaily"></a>
-<!--    <a class="a2a_button_mewe" data-a2a-follow="ksd" href="https://mewe.com/p/ksd"></a> -->
-    <a class="a2a_button_feed" href="https://www.koreastardaily.com/rss/sc"></a>
-</div>
-
-</div>
-<h1 class="bar"><span class="white">çƒ­é—¨</span></h1>
-<style>
-
-#mod-buzz li {
-     margin-bottom: 5px;
-}
-
-#mod-buzz .image img {
-     width: 300px;
-     height: 100px;
-}
-
-#mod-buzz h4 a {
-    display: block;
-    padding: .5em .5em .5em 0;
-    text-decoration: none;
-    color: #555;
-    font-weight: bold;
-    line-height: 1.6em;
-}
-
-#mod-buzz h4 a:hover {
-    text-decoration: underline;
-}
-
-
-</style>
-<div id="mod-buzz" class="btn">
-<ul>
-   <li>
-        <div class="image"><a href="/sc/news/145348"><img src="https://a.ksd-i.com/s/300*100l_86400_4120779366870e02ca621e01915ccbc5/static.koreastardaily.com/2023-01-09/145348-962493.jpg" border="0"></a>
-        <h4><a href="/sc/news/145348">ã€Šè¿˜é­‚ï¼šå…‰ä¸å½±ã€‹æå®°æ—­é‡‡è®¿ä¸­å¤§åŠ›ç§°èµé»„æ—¼ç‚«ï¼šã€Œå“¥å®åœ¨å¤ªå®Œç¾ï¼Œåœ¨ä»–èº«ä¸Šå­¦åˆ°å¾ˆå¤šã€‚ã€</a></h4>
-	</div>
-   </li>
-   <li>
-        <div class="image"><a href="/sc/news/145347"><img src="https://a.ksd-i.com/s/300*100l_86400_485a445dec05966269a6d52f1096c8ee/static.koreastardaily.com/2023-01-09/145347-962491.jpg" border="0"></a>
-        <h4><a href="/sc/news/145347">ã€Šé»‘æš—è£è€€2ã€‹ä¼šæ˜¯ç‹—è¡€å‹å¤ä»‡å‰§å—ï¼Ÿé‡‘æ©æ·‘ä¸€å¥è¯æ¦‚æ‹¬ï¼šä¼šè®©å¤§å®¶çœ‹å¾—å¾ˆçˆ½</a></h4>
-	</div>
-   </li>
-   <li>
-        <div class="image"><a href="/sc/news/145346"><img src="https://a.ksd-i.com/s/300*100l_86400_1fe05767f3a15095c5a1a82fab69bdf7/static.koreastardaily.com/2023-01-09/145346-962489.jpg" border="0"></a>
-        <h4><a href="/sc/news/145346">å¦‚æœIUå’Œæé’Ÿç¡•ç»“å©šçš„è¯ï¼ŸéŸ©åª’æ¨ç®—ä¸¤ä½é¡¶æµèµ„äº§ï¼ŒåŠ åœ¨ä¸€èµ·è¶…åƒäº¿ï¼</a></h4>
-	</div>
-   </li>
-</ul>
-
-</div><!-- /mod-buzz -->
-	</div>
-	 <div id="page1-margin" style="margin-bottom:10px;"></div>
-    </section>
-<div id="sticker">
-<!-- sticky-mrec -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:250px"
-     data-ad-client="ca-pub-3262822889736522"
-     data-ad-slot="3859300074"></ins>
-
-
-<style>
-#sidebar-bottom-sub {
-   margin-top: 30px;
-
-}
-#sidebar-bottom-sub .download {
-   height: 40px;
-   margin-bottom: 20px;
-}
-#sidebar-bottom-sub .download .left {
-   display: inline-block;
-   width: 145px;
-}
-#sidebar-bottom-sub .download .right {
-   float: right;
-   display: inline-block;
-   width: 150px;
-   text-align: right;
-}
-#sidebar-bottom-sub .hd {
-   margin-bottom: 8px;
-   font-size: 14px;
-   color: #ddd;
-}
-</style>
-<div id="sidebar-bottom-sub">
-<h4 class="hd">ä¸‹è½½KSD App</h4>
-<div class="download">
-<div class="left">
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.koreastardaily.apps.android.media"><img src="https://a.ksd-i.com/images/google-play-badge.svg"></a>
-</div>
-<div class="right">
-<a target="_blank" href="https://itunes.apple.com/app/id502735061"><img src="https://a.ksd-i.com/images/app-store-badge.svg"></a>
-</div>
-</div>
-</div><!--/sidebar-bottom-sub-->
-
-</div><!--/sticker-->
-
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
+    });
+})()
 </script>
 
-<script>
-$("#sticker").sticky({topSpacing:10});
-</script>
+ </div>
+<div id="mobile">
+  <div id="header">
+    <div class="logo"><a href="http://www.cnnb.com.cn/home/index_mobile.html" style="display:block;height:100%;"></a></div>
+    <div class="channel left"><a href="http://news.cnnb.com.cn/index_mobile.html" style="color:#fff;">¿´ÌìÏÂ</a></div>
+    <div class="channel left" style="border:none;"><a href="http://nbnews.cnnb.com.cn/index_mobile.html" style="color:#fff;">¿´Äş²¨</a></div>
+    <ul class="menu">
+      <!-- <li><a href=""><img src="images/mobile/03.png" alt="" /></a></li> -->
+      <!-- <li><a href="#"><img src="images/mobile/04.png" /></a></li> -->
+    </ul>
+  </div>
+  <div class="newsArea">
+    <div class="newsTitle">
+      <p class="title">Íøºì´ó´ÉÆ¿Òı·¢ÍÂ²ÛÇ¬Â¡ÉóÃÀ ¹Ê¹¬½²½âÔ±£ºØÍÆ·ÕÕ·ºÀÄËùÖÂ</p>
+      <p class="subtitle"></p>
+      <p ><span class="source">¸åÔ´£º 
+<!--enorth cms block start [ name="v5.source2013" ]-->
+<a href="http://m.thepaper.cn/newsDetail_forward_1901567" target="_blank">±±¾©ÇàÄê±¨</a>
 
-</div><!--/sidebar-->
-    
-    </div><!--/bd-->
+<!--enorth cms block end [ name="v5.source2013" cost="9"]--></span><span class="time">2017-12-12 08:03:36</span></p>
+    </div>
+	<style>
+	.contentArea img{margin:10px auto;}
+	</style>
+    <div class="contentArea">
+      <div><center><img src="http://www.cnnb.com.cn/pic/003/002/328/00300232888_1413a2b6.jpg" /></center>
 
-    <div id="ft">
+<p style="text-align: center;">¡¡¡¡¹Ê¹¬¹¤×÷ÈËÔ±ÖÆ×÷µÄ¡°´ÉÄ¸¡±Ê¾ÒâÍ¼</p>
 
-<div id="content-nav">
-<a href="/sc">ä¸»é¡µ</a> &raquo; 
-<a href="/sc/drama">éŸ©å‰§</a> &raquo; 
-OCNã€Šé»‘æ´ã€‹å¤§ç»“å±€å‰å¤•æ”¶è§†æƒ¨è·Œ0.5ï¼ç½‘æ‰¹ã€Œå‰§æœ¬å¤ªå·®ã€ï¼šçœ‹ä¸æ‡‚åœ¨æ¼”ä»€ä¹ˆ</div>
+<p>¡¡¡¡½üÈÕ£¬ÒòÑëÊÓ¡¶¹ú¼Ò±¦²Ø¡·½ÚÄ¿³ÉÎª¡°ÎÄÎïÍøºì¡±µÄ¡°ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±³ÉÎªÖÚ¶àÎ¢ĞÅ¹«ÖÚºÅµÄ³è¶ù£¬Õâ¸öÈ«Éí·Ö²¼×Å17ÖÖÓÔ¡¢²Ê£¬ÍâºÅ¡°´ÉÄ¸¡±µÄ´ÉÆ¿£¬ÈÃĞí¶àÍøÓÑ±çÂÛÆğÇ¬Â¡µÄÉóÃÀ¡£µ«ÊÇ¹Ê¹¬²©ÎïÔº´ÉÆ÷¹İÖ¾Ô¸Õß½²½âÔ±ÕÅ®`·¢ÏÖ£¬Ğí¶à¹«ÖÚºÅÉÏÊ¹ÓÃµÄ¡°´ÉÄ¸¡±Í¼Æ¬²¢·Ç¹Ê¹¬²©ÎïÔºËù²ØµÄÕæÆ·ÕÕÆ¬£¬¶øÊÇÒ»¼şÓĞ×Å²»ÉÙ²î±ğµÄ¡°Àî¹í¡±´ÉÆ¿¡£ÕÅ®`¸æËß±±¾©ÇàÄê±¨¼ÇÕß£¬Ëû·¢ÏÖÕâÕÅ´íÎóÍ¼Æ¬²»µ«±»ÖÚ¶à¹«ºÅ×ªÔØ£¬»¹³öÏÖÔÚ¡°´ÉÄ¸¡±µÄ°Ù¶È°Ù¿ÆÉÏ£¬¸øºÜ¶àÈËÔì³ÉÁËÎóµ¼¡£8ÈÕÍí£¬Ëû½«Ò»ÕÅ×Ô¼ºÖÆ×÷µÄ¡°´ÉÄ¸¡±½²½âÍ¼·¢µ½ÁËÍøÉÏ£¬¡°½«Õæ¡¢¼Ù¡®´ÉÄ¸¡¯Ò»¶Ô±È£¬ºÜ¶àÈËËµ¾õµÃÇ¬Â¡»ÊµÛµÄÉóÃÀÒ²Ã»ÄÇÃ´Ôã¸âÁË¡±¡£</p>
 
-    </div><!--/ft-->
+<p>¡¡¡¡ÍøÓÑ£º¡°´ÉÄ¸¡±µ××ùÒ²ËãÒ»ÖÖÓÔ²Ê£¿</p>
 
-<script src="https://a.ksd-i.com/js/jquery.fancybox.3.1.20.min.js"></script>
+<p>¡¡¡¡×Ô³Æ¡°Ê®È«ÀÏÈË¡±µÄÇ¬Â¡»ÊµÛÒ»¶¨²»ÄÜÈİÈÌµÄÊÇ£¬200¶àÄêºó£¬Ëû¾«ĞÄÉè¼ÆµÄÒ»¼ş¼¯ºÏÁË17ÖÖÓÔ¡¢²Ê£¬Ç°ÎŞ¹ÅÈËµÄ´ó´ÉÆ¿»á±»Ò»¸ö·ÂÆ·´úÌæ£¬³ÉÎªÈËÃÇ¿Ú¿ÚÏà´«µÄ¡°ÍÁ³óÉóÃÀ´ó»¨Æ¿¡±¡£</p>
 
-<script>
-$(document).ready(function() {
+<p>¡¡¡¡½üÈÕ£¬ÑëÊÓ¡¶¹ú¼Ò±¦²Ø¡·½²ÊöÁË±±¾©¹Ê¹¬²©ÎïÔºÊÕ²ØµÄ¡°ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±£¬Õâ¼şÄ¿Ç°°ÚÔÚ¹Ê¹¬´ÉÆ÷¹İÕıÌüÈë¿Ú´¦µÄ´ó´ÉÆ¿ÒòÎªÆ÷Éí×ÔÉÏ¶øÏÂ×°ÊÎµÄÓÔ¡¢²Ê´ï17ÖÖÖ®¶à£¬±»ºÜ¶à´ÉÆ÷°®ºÃÕß³ÆÎª¡°´ÉÄ¸¡±£¬±»ÈÏÎªÊÇÖĞ¹ú¹Å´úÖÆ´É¹¤ÒÕµÄáÛ·åÖ®×÷¡£</p>
 
-    //var $allVideos = $("iframe[src*='//www.facebook.com/plugins/video'], iframe[src*='//player.vimeo.com'], iframe[src*='//www.youtube.com'], object, embed"),
-    var $allVideos = $("#content-body iframe, #content-body object, #content-body embed"),
-    $fluidEl = $("#content-body");
+<p>¡¡¡¡¶ø¡°´ÉÄ¸¡±Ò²ºÜ¿ì³ÉÎªÎÄÎï¡°Íøºì¡±£¬ºÜ¶àÍøÓÑ¶¼ÔÚ±çÂÛÕâ¿î¡°´óÔÓ»â¡±Ê½µÄ´ÉÆ÷ºÃ²»ºÃ¿´¡£Ò»Ğ©Î¢ĞÅÎÄÕÂÒ²Í¨¹ıÍ¼Æ¬¸æËßÍøÓÑ£¬Õâ¼ş´ÉÆ¿µÄÉóÃÀÓëÆäËûËØÑÅµÄ´ÉÆ÷Ïà±È£¬¾¿¾¹²îÔÚÄÄÀï¡£</p>
 
-        $allVideos.each(function() {
-          $(this).attr('data-aspectRatio', this.height / this.width).removeAttr('height').removeAttr('width');
-        });
+<p>¡¡¡¡µ«Ï¸ĞÄµÄÍøÓÑ·¢ÏÖ£¬Î¢ĞÅÎÄÕÂÉÏµÄÍ¼Æ¬ºÜÆæ¹Ö£º¡°´ÉÄ¸¡±´ÓÉÏÍùÏÂÊıµÚÈı²ãÓÔÎª¡°·ÂÈêÓÔ¡±£¬²Ê»­ÏÂ·½µÄÒ»È¦ÓÔ²ÊÎª¡°·Â¸çÓÔ¡±£¬°´ÕÕÕâÕÅÍ¼µÄËµ·¨£¬¡°´ÉÄ¸¡±µÄµ××ù¡°ºìÄ¾ïÎ¿ÕÊÖµñÆ½°²ÈçÒâ×ù¡±³ÉÎª¡°´ÉÄ¸¡±µÄµÚ17ÖÖÓÔ²Ê¡£¡°17ÖÖÓÔ²ÊÔõÃ´»á°üÀ¨´ÉÆ¿µÄµ××ù£¿ÊÇ²»ÊÇÄÄÀïÅª´íÁË¡±£¿</p>
 
-        $(window).resize(function() {
+<p>¡¡¡¡¹Ê¹¬²©ÎïÔºÌÕ´É¹İ¡¢ÖÓ±í¹İÖ¾Ô¸Õß½²½âÔ±ÕÅ®`Ôø¸ú×Å¡¶¹ú¼Ò±¦²Ø¡·½ÚÄ¿×éÒ»Æğ´´×÷ÁË¡°´ÉÄ¸¡±µÄ½²½â¹ÊÊÂ£¬Ëû¸æËß±±Çà±¨¼ÇÕß£¬ÕâÕÅ±»¹ã·º´«²¥µÄ¡°´ÉÄ¸¡±Í¼Æ¬ÊÇ´íµÄ£¬¡°ÕâÕÅÍ¼Æ¬ÀïµÄ¡®´ÉÄ¸¡¯±¾ÉíÒ²²»ÊÇÕæµÄ£¬¶øÊÇÒ»¼şÏÖ´ú·ÂÆ·¡±¡£</p>
 
-          var newWidth = $fluidEl.width();
-          $allVideos.each(function() {
+<p>¡¡¡¡½²½âÔ±£º¸Ğ¾õ¡°À±ÑÛ¾¦¡±</p>
 
-            var $el = $(this);
-            $el
-                .width(newWidth)
-                .height(newWidth * $el.attr('data-aspectRatio'));
+<p>¡¡¡¡10ÈÕ£¬ÕÅ®`ÔÚ½ÓÊÜ±±Çà±¨¼ÇÕß²É·ÃÊ±±íÊ¾£¬ËûÔÚÅäºÏÑëÊÓµÄ¡¶¹ú¼Ò±¦²Ø¡·½ÚÄ¿Â¼ÖÆÊ±£¬¾ÍÔø¾­¿´µ½¹ıÍø´«µÄ¼Ù¡°´ÉÄ¸¡±½²½âÍ¼£¬¡°µ±Ê±ÎÒ¿´µ½ÕâÕÅÍ¼£¬¾Í¾õµÃºÜ¡®À±ÑÛ¾¦¡¯£¬ºóÀ´¿´µ½ºÜ¶à¹«ÖÚºÅ¶¼ÔÚÓÃÕâÕÅÍ¼£¬ÉõÖÁ°Ù¶È°Ù¿ÆÉÏÒ²ÓÃµÄÕâÕÅÍ¼£¬¾Í¾õµÃÊµÔÚÊÇ²»ÄÜÈÌÁË¡±¡£±±Çà±¨¼ÇÕß·¢ÏÖ£¬¸ù¾İ°Ù¶È°Ù¿ÆµÄ´ÊÌõÀúÊ·£¬10ÈÕÏÂÎçÇ°µÄ¡°ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±µÄÅäÍ¼È·ÊµÊÇÍø´«µÄ¼Ù¡°´ÉÄ¸¡±Í¼Æ¬£¬ÕâÕÅÕÕÆ¬ÖĞµÄ¡°´ÉÄ¸¡±Óë¹Ê¹¬²©ÎïÔº¹ÙÍø·¢²¼µÄÕæ¡°´ÉÄ¸¡±Í¼Æ¬ÔÚ¶à´¦ÓÔ²ÊµÄÑÕÉ«ÉÏÓĞÃ÷ÏÔ²»Í¬¡£</p>
 
-          });
+<p>¡¡¡¡9ÈÕÍí£¬ÕÅ®`ÔÚÆä¸öÈËÎ¢²©ÉÏ·¢²¼ÁËÒ»ÕÅ×Ô¼ºÖÆ×÷µÄÍ¼Æ¬£¬¶ÔÍø´«µÄ¡°Àî¹í´ÉÄ¸¡±½²½âÍ¼½øĞĞÁË¸üÕı¡£¸ù¾İÕâ·ùÍ¼£¬¼Ù¡°´ÉÄ¸¡±Í¼ÖĞµÄ¡°·ÂÈêÓÔ¡±ÊµÎª¡°·Â¸çÓÔ¡±£¬¡°·Â¸çÓÔ¡±ÊµÎª¡°·Â¹ÙÓÔ¡±£¬¸ù¾İÕÅ®`ÖÆ×÷µÄ¡°´ÉÄ¸¡±½²½âÍ¼£¬¡°´ÉÄ¸¡±µÄËùÓĞÓÔ¡¢²Ê¼ÓÆğÀ´²»¶à²»ÉÙÕıºÃ17ÖÖ¡£</p>
 
-        }).resize();
+<p>¡¡¡¡³ıÁË±êÃ÷17ÖÖÓÔ¡¢²ÊµÄÃû×Ö¼°ÆäÎ»ÖÃ£¬ÕÅ®`»¹·Ö±ğ×¢Ã÷ÁË¸÷ÖÖÓÔ²ÊµÄÉÕÖÆ¹¤ÒÕ¡£Èç¡°´ÉÄ¸¡±µÄ¡°·Â¸çÓÔ¡±ÊÇÒ»ÖÖ¡°¸ßÎÂµ¥É«ÓÔ¡±£¬Æ¿¾±ÉÏµÄ¡°Çà»¨²øÖ¦Á«¡±ÊÇÒ»ÖÖ¸ßÎÂÓÔÏÂ²Ê£¬Æ¿ÉíµÄ¡°·Û²Ê¿ª¹â¼ªÏéÍ¼°¸¡±ÊÇ¡°µÍÎÂÓÔÉÏ²Ê¡±¡£</p>
 
-});
-</script>
+<p>¡¡¡¡ÕÅ®`¸æËß±±Çà±¨¼ÇÕß£¬ÉÕÖÆ¹¤ÒÕÊÇ´ÉÆ÷¿ÆÆÕÖĞµÄÒ»Ïî»ù±¾ÄÚÈİ£¬¶ÔÓÚ¡°´ÉÄ¸¡±ÕâÑùµÄ×÷Æ·À´Ëµ£¬»¹ÓĞÌØ±ğµÄÒâÒå£¬¡°¡®´ÉÄ¸¡¯µÄÉÕÖÆ¹¤ÒÕÊÇÏÈÉÕÎÂ¶È¸ßµÄÓÔ²Ê£¬ÔÙÉÕÎÂ¶ÈµÍµÄÓÔ²Ê£¬ÕâÑù£¬Ã¿ÉÕµ½ÏÂÒ»¼¶ÎÂ¶ÈÊ±£¬ÓÉÓÚÎÂ¶È½ÏµÍ£¬¾Í²»»á½«ÒÔÇ°ÉÕºÃµÄ¸ßÈÛµãÓÔ²ã¸øÉÕ»µÁË¡±¡£µ«ÕÅ®`±íÊ¾£¬Ô­ÀíËäÈ»¼òµ¥£¬Êµ¼Ê²Ù×÷È´ºÜ·±¸´£¬ËüÒªÇóÒ¤¹¤¶ÔÃ¿ÖÖÓÔ²ÊµÄÉÕÔìÎÂ¶ÈºÍÒ¤ÊÒÖĞµÄÓÎÀëÑõº¬Á¿ÓĞ¾«È·µÄ°Ñ¿Ø£¬²ÅÄÜ½øĞĞ¾«È·µÄÉÕÔì´ÎĞòÅÅĞò¡£</p>
 
-<style>
-#page-ft {
-    border-top: 1px solid lightgrey;
-    padding-top:10px;
-    padding-bottom:20px;
-}
+<p>¡¡¡¡¹ú¼ÒÎÄÎï¾Ö£º³¤ÖªÊ¶Òª³¤ÕıÈ·</p>
 
-#page-ft .copy {
-    color: #999;
-    display: inline-block;
-    padding-bottom: 10px;
-    padding-right: 20px;
-}
+<p>¡¡¡¡ÕÅ®`µÄ½²½âÍ¼·¢²¼ºó£¬Òı·¢ÍøÓÑÈÈÒé²¢×ª·¢£¬½ØÖÁ±±Çà±¨¼ÇÕß·¢¸åÊ±£¬×ª·¢ÒÑ³¬1Íò´Î£¬¡°ÒÔÇ°¿´°Ù¿ÆÉÏµÄÕÕÆ¬£¬¾õµÃ¡®´ÉÄ¸¡¯ºÍ¹Ê¹¬¿´µ½µÄ²»Ò»Ñù£¬ÒÔÎªÊÇÉ«²î£¬Ã»Ïëµ½¸ù±¾²»ÊÇ¡®±¾×ğ¡¯¡±¡£±±Çà±¨¼ÇÕß²éÑ¯°Ù¶È°Ù¿Æºó·¢ÏÖ£¬ÇåÇ¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿´ÊÌõÏÂµÄ½²½âÍ¼ÔÚ10ÈÕÏÂÎç±»¸ü»»ÎªÕÅ®`·¢²¼µÄ½²½âÍ¼¡£</p>
 
-#page-ft .link {
-    color: #999;
-    text-decoration: none;
-    display: inline-block;
-    padding-right: 10px;
-}
-#page-ft .follow {
-    display: inline-block;
-    float: right;
-}
-</style>
+<p>¡¡¡¡¹ú¼ÒÎÄÎï¾Ö¹Ù·½Î¢²©10ÈÕÒ²×ªÔØÁËÕÅ®`ÖÆ×÷µÄ½²½âÍ¼ºÍÎ¢²©£¬±íÊ¾£º¡°ÎÒÃÇ³¤ÖªÊ¶Òª³¤ÕıÈ·µÄÖªÊ¶¡£¡±</p>
 
-	<div id="page-ft">
-<span class="copy">&copy 2023 KSD éŸ©æ˜Ÿç½‘<br/>ç‰ˆæƒæ‰€æœ‰ ä¸å¾—è½¬è½½</span>
-<a class="link" href="https://about.koreastardaily.com">å…³æ–¼æˆ‘ä»¬</a>
-<a class="link" href="https://about.koreastardaily.com/t-and-c">å…è´£å£°æ˜</a>
-<a class="link" href="https://about.koreastardaily.com/privacy-policy">ç§éšæ”¿ç­–</a>
-<a class="link" href="https://about.koreastardaily.com/advertising">å¹¿å‘ŠæŸ¥è¯¢</a>
-<a class="link" href="https://about.koreastardaily.com/recruit">æ‹›å‹Ÿå†™æ‰‹</a>
-<div class="follow">
-<div class="a2a_kit a2a_kit_size_24 a2a_default_style a2a_follow"  data-a2a-icon-color="lightgrey">
-    <a class="a2a_button_facebook" data-a2a-follow="koreastardaily"></a>
-    <a class="a2a_button_instagram" data-a2a-follow="koreastardaily"></a>
-    <a class="a2a_button_youtube" href="https://www.youtube.com/c/Koreastardaily"></a>
-    <a class="a2a_button_twitter" data-a2a-follow="koreastardaily"></a>
-    <!-- <a class="a2a_button_sina_weibo" href="https://www.weibo.com/koreastardaily"></a> -->
-    <a class="a2a_button_feed" href="http://feed.koreastardaily.com/sc"></a>
+<p>¡¡¡¡´ËÇ°£¬ÓĞµÄÍøÓÑÈÏÎª¡°Ç¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡±µÄÉóÃÀ¡°ÓÖÍÁÓÖË×£¬´ÉÆ÷»¹ÊÇÓ¦¸ÃÒÔËØÑÅÎª¼Ñ£¬ÕâÑùµÄ´ÉÆ÷£¬ÍêÈ«ÊÇ¸ö´óÔÓ»â£¬Ò²¿É¿´³öÇ¬Â¡µÄÉóÃÀÊÇ¡®Å©¼ÒÀÖ¡¯Ë®×¼¡±¡£ÁíÒ»ÅúÍøÓÑÈÏÎª£¬ÉóÃÀÃ»ÓĞÒ»¸öÍ³Ò»µÄ±ê×¼£¬Õâ¸ö´ÉÆ¿»¹ÊÇÓĞÒ»¶¨µÄÉóÃÀ¼ÛÖµ£¬¡°ÄÑÄÜ¿É¹óµÄ»¹ÓĞÕâ¸ö´ÉÆ¿µÄÉÕÔì¹¤ÒÕ£¬Ã¿ÖÖÓÔ¡¢²Ê¶¼ĞèÒª¸÷×ÔµÄÉÕÔì¹¤ÒÕ£¬ÄÜ´æÔÚÕâÑùµÄ´ÉÆ¿±¾Éí¾ÍÊÇÀúÊ·µÄÒ»ÖÖÃÀ¡±¡£</p>
+
+<p>¡¡¡¡¡°Õâ¶ÎÊ±¼ä£¬À´´ÉÆ÷¹İ²Î¹ÛµÄÈËÃ÷ÏÔ±ÈÒÔÇ°¶à³öÀ´ºÃ¶à£¬ºÜ¶àÈË¶¼ÊÇ±¼×Å¡®Ç¬Â¡¸÷ÖÖÓÔ²Ê´óÆ¿¡¯À´µÄ¡£¡±ÕÅ®`¶Ô±±Çà±¨¼ÇÕß±íÊ¾£¬×Ô¼ºµÄ½²½âÍ¼·¢²¼ºó£¬ÊÕ»ñÁËÒ»Ğ©ÒâÏë²»µ½µÄ»ØÓ¦¡£¡°ÓĞµÄÍøÓÑËµ£¬Õæ¡®´ÉÄ¸¡¯ºÍ¼Ù¡®´ÉÄ¸¡¯µÄÕÕÆ¬Ò»¶Ô±È£¬¸Ğ¾õÇ¬Â¡µÄÉóÃÀÃ»ÄÇÃ´³ó£¬Õæ¼ÙÁ½¼ş´ÉÆ¿µÄÆøÖÊÃ÷ÏÔ²îÁËºÜ¶à¡£ÎÒ¾õµÃ£¬Í¨¹ıÕæ¼ÙÒÕÊõÆ·µÄ¶Ô±È£¬ÄÜ¹»ÌáÉıÍøÓÑµÄÒÕÊõÆ·ĞŞÑø£¬µ±ÍøÓÑÃÇËµ³öÕâĞ©»°µÄÊ±ºò£¬ÒÑ¾­ÔÚ³ÉÎªÒ»ÃûÒÕÊõÆ·¼øÉÍ¼ÒµÄµÀÂ·ÉÏÂõ³öµÚÒ»²½ÁË¡£¡±</p>
 </div>
-	</div><!--/page-ft-->
-</div><!--/doc2-->
+      <div>
 
+<!--enorth cms block start [ name="cms_pages" ]-->
 
-<!-- social button -->
-<script async src="https://static.addtoany.com/menu/page.js"></script>
-<script>
-var a2a_config = a2a_config || {};
-a2a_config.locale = "zh-CN";
-a2a_config.thanks = {
-    postShare: true,
-    ad: '<ins class=\"adsbygoogle\"\
-             style=\"display:inline-block;width:300px;height:250px\"\
-             data-ad-client=\"ca-pub-3262822889736522\"\
-             data-ad-slot=\"9797373328\"></ins>\
-        <\script>\
-        (adsbygoogle = window.adsbygoogle || []).push({});\
-        <\/script>'
-};
-a2a_config.color_main = "D7E5ED";
-a2a_config.color_border = "40e0d0";
-a2a_config.color_link_text = "333333";
-a2a_config.color_link_text_hover = "333333";
-a2a_config.track_links = 'ga';
-</script>
-
-<!-- Start of eXelate Tag -->
-<script type="text/javascript">
-window.xl8_config =
-{ "p": 1562, "g": 1 }
-var xl8_script = document.createElement("script");
-xl8_script.src = "https://cdn.exelator.com/build/static.min.js";
-xl8_script.type = "text/javascript";
-xl8_script.async = true;
-document.body.appendChild(xl8_script);
-</script>
-<!-- End of eXelate Tag -->
-
-
-
-<!-- floating_1x1_ros -->
-<div id='div-gpt-ad-1388978134824-1' style='width:1px; height:1px;'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1388978134824-1'); });
-</script>
+<!--enorth cms block end [ name="cms_pages" cost="3"]-->      </div>
+      <p>Ô­±êÌâ£ºÍøºì´ó´ÉÆ¿Òı·¢ÍÂ²ÛÇ¬Â¡ÉóÃÀ£¬¹Ê¹¬½²½âÔ±£ºØÍÆ·ÕÕ·ºÀÄËùÖÂ</p>
+      <p class="editor"> <span class="left" style="color:rgb(110,110,110);font-size:14px;"><a href="mailto:171964650@qq.com" target="_blank" style="color:rgb(110,110,110);">¾À´í</a>£º171964650@qq.com</span> ±à¼­£º ³Â½İ</p>
+      <div style="margin-top:35px;">
+        <ul class="newslist-01" style="border-top: 1px #eaeaea solid;">
+<li style="overflow: hidden;">
+<div style="float: left;width: 70%;height: 100%;overflow: hidden;text-align:justify;">
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707579.shtml"><p style="margin:0;line-height: 1.4em;">ÈÕ±¾ÂÃÓÎ´ó°Í³µ»öÖÂ¶àÃûÖĞ¹úÓÎ¿ÍÊÜÉË ÎŞÉúÃüÎ£ÏÕ</p></a>
 </div>
-
-
-<!-- google_ad_section_end --> </body>
+<div style="float: right;height: 10%;width:25%;overflow: hidden;">
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707579.shtml"><img src="http://www.cnnb.com.cn/pic/003/002/328/00300232853_484b4366.jpg" /></a>
+</div>
+</li>
+<li style="overflow: hidden;">
+<div style="float: left;width: 70%;height: 100%;overflow: hidden;text-align:justify;">
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707578.shtml"><p style="margin:0;line-height: 1.4em;">ºşÄÏÀÏÈË½øÑøÀÏÔº22ÌìºóÂúÉíÉËºÛÉíÍö ¹Ù·½³ÆÒò²¡â§ËÀ</p></a>
+</div>
+<div style="float: right;height: 10%;width:25%;overflow: hidden;">
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707578.shtml"><img src="http://www.cnnb.com.cn/pic/003/002/328/00300232852_9735c19f.jpg" /></a>
+</div>
+</li><li style="overflow: hidden;">
+<div style="float: left;width: 70%;height: 100%;overflow: hidden;text-align:justify;">
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707511.shtml"><p style="margin:0;line-height: 1.4em;">½­¸è°¸½ñÈÕ¿ªÉó ³ÂÊÀ·å:²»³ĞÈÏ¹ÊÒâÉ±ÈË µ¶ÊÇÁõöÎÌá¹©</p></a>
+</div>
+<div style="float: right;height: 10%;width:25%;overflow: hidden;">
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707511.shtml"><img src="http://www.cnnb.com.cn/pic/003/002/327/00300232785_00d52c65.jpg" /></a>
+</div>
+</li>
+<li style="overflow: hidden;">
+<div style="float: left;width: 70%;height: 100%;overflow: hidden;text-align:justify;">
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707510.shtml"><p style="margin:0;line-height: 1.4em;">½ÌÓı²¿¹æ·¶ÒåÎñ½ÌÓıÑ§Ğ£¹ÜÀí:¿¼ÊÔ³É¼¨²»½øĞĞ¹«¿ªÅÅÃû</p></a>
+</div>
+<div style="float: right;height: 10%;width:25%;overflow: hidden;">
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707510.shtml"><img src="http://www.cnnb.com.cn/pic/003/002/327/00300232787_53c3655e.jpg" /></a>
+</div>
+</li>        </ul>
+      </div>
+      <div>
+        <h2 class="jxyd usu"></h2>
+        <ul class="lajiduo">
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707603.shtml" target="_blank">Äş²¨¼ÓÇ¿ÇøÏØÊĞÁìµ¼°à×ÓË¼ÏëÕşÖÎ½¨Éè</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707602.shtml" target="_blank">Á½ÄêÏîÄ¿Í¶×Ê³¬200ÒÚ ÖĞÒâÄş²¨ÉúÌ¬Ô°¶¯Á¦ÅìÅÈ</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707586.shtml" target="_blank">Ôªµ©Èı½­µÆ¹âĞãÓĞÄÄĞ©¾ªÏ²?ÃÀ¾°ÊÇÔõÑùÁ¶³ÉµÄ?</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/12/008707591.shtml" target="_blank">ÉÏÖÜÄş²¨¶şÊÖ·¿³É½»¾ù¼Û»·±ÈÏÂ½µ4.5%</a>
+</li><li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707280.shtml" target="_blank">ÖĞ¹ú¿ç¾³µçÉÌ¿ìËÙĞËÆğ º£ÌÔÓĞ¶àÈÈ£¿ÈçºÎÂòµÃ·ÅĞÄ£¿</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707266.shtml" target="_blank">Íü´©Çï¿ãÏÕ¡¢ĞÜº¢×ÓÈÇ»öÏÕ...ÕâĞ©"»¥ÁªÍøÏÕ"ÓĞµã"ÏÕ"</a>
+</li>        </ul>
+      </div>
+      <div>
+        <h2 class="tfh usu"></h2>
+        <ul class="lajiduo">
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707222.shtml" target="_blank">¹ìµÀ½»Í¨´¢±¸µØ¹©Ó¦¼Ó¿ì Èı×ÚµØ¿é×Ü³öÈÃÃæ»ı³¬7¹«Çê</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/10/008707136.shtml" target="_blank">¶«²¿ĞÂ³ÇĞÂÏîÄ¿½øÕ¹À´À²£¡Ò»ÕÅ³¤Í¼¿´¡°Äş²¨ĞÂÖĞĞÄ¡±</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707205.shtml" target="_blank">Äş²¨³¬ÊĞÌáÇ°´òÏìË«12´ÙÏú ÉÌ¼ÒÁ¦ÍÆAPP ÓÅ»İ·ù¶È¶¯éüÎåÕÛ</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/10/008707169.shtml" target="_blank">ÊıÊ®ÍòÂò¡°»áÔ±×Ê¸ñ¡± Äş²¨ÑøÀÏµØ²ú¿¿²»¿¿Æ×£¿</a>
+</li>
+<li>
+<a href="http://news.cnnb.com.cn/system/2017/12/11/008707359.shtml" target="_blank">Å®×Ó»éÇ°ÒşÂ÷²¡Çé ÕÉ·òÖªµÀºóÒªÀë»é Å®·½ÒªÇóÄÃÒ½ÁÆ·Ñ±»¾Ü</a>
+</li>        </ul>
+      </div>
+      <div> <a href="http://m.cnnb.com.cn"><img src="http://www.cnnb.com.cn/pic/0/04/21/41/4214178_061342.jpg" alt="" width="100%"  style="margin-bottom:0;"/></a> </div>
+    </div>
+  </div>
+  <div class="link-01"><a href="http://www.cnnb.com.cn/home/index_mobile.html">»ØÊ×Ò³</a><a class="gototop">»Ø¶¥²¿</a></div>
+  <div class="footer">
+    <p style="font-size:14px">ÖĞ¹úÄş²¨Íø(Äş²¨ğ®ÅÉ´«Ã½¹É·İÓĞÏŞ¹«Ë¾)°æÈ¨ËùÓĞ</p>
+    <p style="font-size:12px;">Copyright(C) 2001-2016 cnnb.com.cn¡¡All Rights Reserved</p>
+  </div>
+  <style>
+        .overlay { background: #000; width: 100%; height: 100%; overflow: hidden; position: fixed; top: 0; left: 0; z-index: 999999;
+            -webkit-transition: all 300ms ease-in 0s;
+                    transition: all 300ms ease-in 0s;
+            -webkit-backface-visibility: hidden;
+                    backface-visibility: hidden;
+            -webkit-transform: translate3d(100%, 0px, 0px); 
+                transform: translate3d(100%, 0px, 0px);
+        }
+        .overlay.in { 
+            -webkit-transform: translate3d(0px, 0px, 0px); 
+                    transform: translate3d(0px, 0px, 0px);
+        }
+        .lajiduo{}
+        .lajiduo li{line-height: 1.4em;}
+        .lajiduo li a{text-overflow: ellipsis;white-space: nowrap;width: 100%;display: inline-block;overflow: hidden;font-size: 0.9em;color: rgb(110,110,100);}
+        .usu{margin:0;height:40px;overflow:hidden;color:#129bf0;line-height: 40px;font-size: 1.2em;}
+        .jxyd{background:url(/xinwen/cms_template/100/000/447/images/sqr.jpg) no-repeat left center;background-size: contain;padding-left: 18px;}
+        .jxyd::after{content: '¼ÌĞøÔÄ¶Á';}
+        .tfh{background-size: contain;}
+        .tfh::after{content: '24Ğ¡Ê±ÅÅĞĞ';background-color: white;padding-right: 10px;}
+     .newslist-01 li {
+        font-size: 0.9em;
+		color:rgb(110,110,110);
+        border-bottom: 1px #eaeaea solid;
+        padding: 10px 0;
+    }
+    </style>
+  <div class="overlay" id="overlay"></div>
+</div>
+<div style="display:none">
+  <script type="text/javascript">
+document.write(unescape("%3Cscript src='http://webd.cnnb.com.cn/webdig.js?z=5' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+  <script type="text/javascript">
+wd_paramtracker("_wdxid=010010010011004000000000011100000008707631");
+        </script>
+  <script src="http://www.cnnb.com.cn/sys/online_calc.js?ver="></script>
+</div>
+</body>
 </html>
-<!-- www.koreastardaily.com, 2023-01-09-10-34-27 -->
-<!-- 497 -->
+
+<!--enorth cms page [ enorth parse_date="2017/12/12 08:03:37.037", cost="823", server=":=$encp$=:4c4bb872f4d38328f7341a67b81df86d", error_count="0"]-->

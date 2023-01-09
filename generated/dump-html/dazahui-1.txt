@@ -1,152 +1,666 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-Hans" prefix="og: http://ogp.me/ns#">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/style_s222_ndsj.css" rel="stylesheet" type="text/css" />
-<title>
-霞浦“闽南糊”：家乡的代表符号
--
-福建日报看宁德
-- 东南网-福建官方新闻门户
-</title>
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="renderer" content="webkit">
-<meta name="viewport" content="width=640" />
-<script src="//www.fjsen.com/js/jquery-1.9.1.min.js" atremote="atremote"></script>
-<script src="//api.media.fjsen.com/w/wx_share.js" atremote="atremote"></script>
-<script>
-fjsenWx.setData('desc', '福建官方新闻门户');
-fjsenWx.setData('imgUrl', '//www.fjsen.com/js/ipa/logo2.png');
-</script>
-<script>
-function gotopc()
-{
-	//window.location.href=window.location.href.replace('.com/wap','.com');//
-	var u = ''
-		if(typeof window.pcUrl == 'undefined'){
-			u = location.href.replace('/wap/','/');
-		}else{
-			u = window.pcUrl;
-		}
-		
-		if(u.indexOf('?')>-1)u=u.replace('?','?page=pc&');
-		else {
-			if(u.indexOf('#')>-1)u=u.replace('#','?page=pc#');
-			else u=u+'?page=pc';
-		}
-		//alert(u);
-		window.location.href=u;
-}
-$(function() {
-	$('.gotopc').click(function(){
-		gotopc();
-	});
-});
-</script>
+<meta charset="UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="icon" href="/DJY32.png" sizes="32x32"/><link rel="apple-touch-icon-precomposed" href="/DJY180.png" /><link rel="icon" href="/DJY192.png" sizes="192x192"/><meta name="msapplication-TileImage" content="https://www.epochtimes.com/DJY270.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name="date" content="2006-10-06 4:11:14 PM" />
+<title>“百变小胖”被恶搞 无奈现身说苦恼 | 大纪元</title>
+<meta name="description" content="初中生小胖无心一瞥的图片先不知被哪位好事者上传到网上，接着被无数喜欢恶搞的人用PS软件修改成数百个版本，只要输入关键词“the famous fat boy”在“百度”或“Google”一搜，你就会发现“小胖”如今已成为世界名画、影视大片等..."/>
+<meta name="keywords" content="恶搞,大纪元"/>
+<link rel="canonical" href="https://www.epochtimes.com/gb/6/10/6/n1478576.htm" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="“百变小胖”被恶搞 无奈现身说苦恼 - 大纪元" />
+<meta property="og:description" content="初中生小胖无心一瞥的图片先不知被哪位好事者上传到网上，接着被无数喜欢恶搞的人用PS软件修改成数百个版本，只要输入关键词“the famous fat boy”在“百度”或“Google”一搜，你就会发现“小胖”如今已成为世界名画、影视大片等..." />
+<meta property="og:url" content="https://www.epochtimes.com/gb/6/10/6/n1478576.htm" />
+<meta property="og:site_name" content="大纪元 www.epochtimes.com" />
+<meta property="article:publisher" content="https://www.facebook.com/djy.news/" />
+<meta property="article:tag" content="恶搞" />
+<meta property="article:section" content="新闻" />
+<meta property="article:published_time" content="2006-10-06T16:11:14+08:00" />
+<meta property="article:modified_time" content="2000-01-01T00:00:00+08:00" />
+<meta property="og:updated_time" content="2000-01-01T00:00:00+08:00" />
+<meta property="og:image" content="https://i.epochtimes.com/assets/uploads/2017/02/DJY_FB_DefaultImage2017.jpg" />
+<meta property="fb:app_id" content="1571885662850711" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="初中生小胖无心一瞥的图片先不知被哪位好事者上传到网上，接着被无数喜欢恶搞的人用PS软件修改成数百个版本，只要输入关键词“the famous fat boy”在“百度”或“Google”一搜，你就会发现“小胖”如今已成为世界名画、影视大片等..."/>
+<meta name="twitter:title" content="“百变小胖”被恶搞 无奈现身说苦恼 - 大纪元"/>
+<meta name="twitter:site" content="@dajiyuan"/>
+<meta name="twitter:domain" content="大纪元 www.epochtimes.com"/>
+<meta name="twitter:image" content="https://i.epochtimes.com/assets/uploads/2017/02/DJY_FB_DefaultImage2017.jpg"/>
+<meta name="twitter:creator" content="@dajiyuan"/>
+<link rel='stylesheet' id='djy-style-css'  href='https://www.epochtimes.com/assets/themes/djy/style.css?ver=20150811' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-global-css'  href='https://www.epochtimes.com/assets/themes/djy/css/global-v2.css?ver=20201222' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-article-css'  href='https://www.epochtimes.com/assets/themes/djy/css/article-v2.min.css?ver=20220615' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-print-css'  href='https://www.epochtimes.com/assets/themes/djy/css/print.min.css?ver=20160303' type='text/css' media='print' />
+
+			<style type="text/css">
+			body{ font-family: Simsun; }
+			</style>
+		<meta property="fb:pages" content="394510747593181" />
+<meta name="news_keywords" content="恶搞,大纪元" />
+	<script>
+		var djy_primary_category, djy_user_id, djy_cat_ids, djy_term_ids, djy_all_term_ids, djy_all_term_names_full, djy_domain, djy_ads_term_ids, djy_publish_date, djy_no_ads = false;
+		var encoding = "gb";
+	djy_primary_category = '994';
+djy_user_id = '1';
+djy_cat_ids = '401,994';
+djy_term_ids = '13737,3,6';
+djy_all_term_ids = '401,994,13737,3,6';
+djy_all_term_names_full = '新闻-ncnews;软性新闻-nsc994;网上恶搞-nf3737;今日头版-frnt3;类别重点-frnt6';
+djy_ads_term_ids = '401,994,13737,3,6';
+djy_publish_date = '20061006';
+	</script>
+	<meta property="dable:item_id" content="1478576">
+<meta property="dable:author" content="djy">
+<link rel="amphtml" href="https://www.epochtimes.com/gb/6/10/6/n1478576.htm/amp" /><!--[if lt IE 9]>
+     <script type="text/javascript" src="/assets/themes/djy/js/html5.js"></script>
+     <link href="/assets/themes/djy/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
 </head>
+<body class="post-template-default single single-post postid-1478576 single-format-standard">
+	<script>
+	var epochload = [];
+	var slots =  new Array();
+	function loadGTM(id) {
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+			j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', id);
+	}
+		</script>
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHM2XS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>
+	if (document.getElementsByClassName('archive tag').length > 0) {
+		setTimeout(function() {
+			loadGTM('GTM-WHM2XS');
+		}, 3000);
+	} else {
+		loadGTM('GTM-WHM2XS');
+	}
+	</script>
+	<header class="header">
+	<div class="top_row">
+		<div class="container">
+			<div class="logo">
+				<a title="大纪元首页" href="/"><img alt="大纪元 LOGO" src="https://www.epochtimes.com/assets/themes/djy/images/ET_Logo_2_cn.png"></a>
+			</div>
+			<div class="b5_gb">
+							<span class="b5"><a href="https://www.epochtimes.com/b5/6/10/6/n1478576.htm">正体</a></span>
+				<span class="gb active"><a href="https://www.epochtimes.com/gb/6/10/6/n1478576.htm">简体</a></span>
+						</div>
+			<div class="search">
+				<form class="search-form" method="post" role="search" action="https://www.epochtimes.com/gb/search.htm">
+					<input type="hidden" name="encoding" value="gb">
+					<input type="text" role="search" name="q" size="2" value="" maxlength="100" title="搜寻" placeholder="搜寻" class="search_input">
+					<button type="submit" class="search_btn" title="submit">搜寻</button>
+				</form>
+			</div>
+			<div class="user_block"></div>
+		</div>
+	</div>
+	<div class="nav_row">
+		<div class="container">
+			<ul>
+				<li><a href="/gb/nsc413.htm">大陆</a></li>
+				<li><a href="/gb/nsc412.htm">美国</a></li>
+				<li><a href="/gb/ncid1349362.htm">香港</a></li>
+				<li><a href="/gb/nsc418.htm">国际</a></li>
+				<li><a href="/gb/ncid1349361.htm">台湾</a></li>
+				<li>|</li>
+				<li><a href="/gb/instant-news.htm">即时</a></li>
+				<li><a href="/gb/nccomment.htm">评论</a></li>
+				<li><a href="/gb/nf1191090.htm">专题</a></li>
+				<li><a href="/gb/ncid1247351.htm">视频</a></li>
+				<li>|</li>
+				<li><a href="/gb/nsc419.htm">科技</a></li>
+				<li><a href="/gb/nsc420.htm">财经</a></li>
+				<li><a href="/gb/ncyule.htm">娱乐</a></li>
+				<li><a href="/gb/nsc2007.htm">文化</a></li>
+				<li>|</li>
+				<li><a href="/gb/nsc2008.htm">生活</a></li>
+				<li><a href="/gb/nsc1002.htm">健康</a></li>
+				<li class="has_dropdown">
+					<a target="_blank" href="/gb/ncChineseCommunity.htm">社区网<span class="arrow-right"></span></a>
+					<ul class="sub-menu">
+						<li><a target="_blank" href="/gb/nsc529.htm">纽约</a></li>
+						<li><a target="_blank" href="/gb/nsc533.htm">旧金山</a></li>
+						<li><a target="_blank" href="/gb/nsc970.htm">洛杉矶</a></li>
+						<li><a target="_blank" href="/gb/ncid1139891.htm">多伦多</a></li>
+						<li><a target="_blank" href="/gb/ncid1143942.htm">温哥华</a></li>
+						<li><a target="_blank" href="/gb/nsc980.htm">澳洲</a></li>
+						<li><a target="_blank" href="/gb/nsc974.htm">欧洲</a></li>
+						<li><a target="_blank" href="/gb/ncChineseCommunity.htm">更多</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</header><main id="main" role="main">
+	<div class="main_container">
+		<div id="topad728"><div id="topad728_inner"></div></div>
+		<div class="show-for-medium-up" id="breadcrumb"><a href = "/gb/" target="blank">首页</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/ncnews.htm">新闻</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/nsc994.htm">软性新闻</a> > <span class="current">正文</span></div>		<div class="main_content">
+			<div class="print_logo">
+				<a href="/"><img alt="site logo: www.epochtimes.com" src="https://www.epochtimes.com/assets/themes/djy/images/DJY-logo20140623-2.jpg"></a>
+			</div>
+			<div class="article">
+				<div class="titles">
+					
+										<h1 class="title">“百变小胖”被恶搞 无奈现身说苦恼</h1>
 
-<body>
-<div class="logo"><img src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_logo.jpg"></div>
-<div class="bt_box">
-  <div class="bt_pc gotopc"><img src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_bt_pc.png"></div>
-  <!--
-  <div class="bt_sr"><a href=""><img src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_bt_sr.png"></a></div>
-  -->
+					
+									</div>
+								<div class=info>
+					<time datetime="2000-01-01T00:00:00+08:00">更新 2006-10-06 4:11 PM</time>
+					<span class="pageview">人气 168</span>					<div class="tags"><span>标签: </span><a href="https://www.epochtimes.com/gb/tag/%E6%81%B6%E6%90%9E.html" rel="tag">恶搞</a></div>
+				</div>
+				<div class="share">
+							<span class="facebook social">
+			<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.epochtimes.com%2Fgb%2F6%2F10%2F6%2Fn1478576.htm" target="_blank">Facebook</a>
+		</span>
+			<span class="twitter social">
+			<a href="https://twitter.com/intent/tweet?text=%E3%80%8C%E7%99%BE%E8%AE%8A%E5%B0%8F%E8%83%96%E3%80%8D%E8%A2%AB%E6%83%A1%E6%90%9E+%E7%84%A1%E5%A5%88%E7%8F%BE%E8%BA%AB%E8%AA%AA%E8%8B%A6%E6%83%B1&amp;via=dajiyuan&amp;url=https%3A%2F%2Fwww.epochtimes.com%2Fgb%2F6%2F10%2F6%2Fn1478576.htm" target="_blank">Twitter</a>
+		</span>
+			<span class="line social">
+			<a href="https://line.me/R/msg/text/?%E3%80%8C%E7%99%BE%E8%AE%8A%E5%B0%8F%E8%83%96%E3%80%8D%E8%A2%AB%E6%83%A1%E6%90%9E+%E7%84%A1%E5%A5%88%E7%8F%BE%E8%BA%AB%E8%AA%AA%E8%8B%A6%E6%83%B1https://www.epochtimes.com/gb/6/10/6/n1478576.htm?openExternalBrowser=1" target="_blank">Line</a>
+		</span>
+			<span class="copy-url">
+			<a href="javascript:void(0)" id="copy_current_url">复制链接</a>
+		</span>
+						<span class="print_icon social">
+						<a href="#Print" onclick="window.print(); return false;" rel="nofollow" target="_blank">Print</a>
+					</span>
+					<div class="font_size">【字号】
+						<a href="#" onclick="changeArticleFont('b');return false;">大</a>&nbsp;
+						<a href="#"	onclick="changeArticleFont('m');return false;">中</a>&nbsp;
+						<a class="textLink" href="#" onclick="changeArticleFont('s');return false;">小</a>
+					</div>
+					<div class="gb_b5">
+						<span class="b5"><a href="https://www.epochtimes.com/b5/6/10/6/n1478576.htm">正体</a></span>
+						<span class="gb active"><a href="https://www.epochtimes.com/gb/6/10/6/n1478576.htm">简体</a></span>
+					</div>
+				</div>
+				<div id="artbody" class="post_content" itemprop="articleBody">
+					<!-- article content begin -->
+					<p>【大纪元10月6日讯】(大纪元综合报导)初中生小胖无心一瞥的图片先不知被哪位好事者上传到网上，接着被无数喜欢<a href="https://www.epochtimes.com/gb/tag/%E6%81%B6%E6%90%9E.html">恶搞</a>的人用PS软件修改成数百个版本，只要输入关键词“the famous fat boy”在“百度”或“Google”一搜，你就会发现“小胖”如今已成为世界名画、影视大片等图片或海报里的主角。</p>
+<p>最近，传说中的小胖终于现身了，一篇题为《我终于见到传说中的小胖》的帖子本月初突然出现在某网站大杂烩栏目，从而揭开网络名人“百变小胖”的真实面目。</p>
+<p>“我就是小胖”</p>
+<p>自从知道自己成名后，小胖开始没事就上网看看大家怎样修改照片，有时忍不住发帖说：“我就是小胖。”可是没人相信他。小胖父母偶然从一家不知名的报纸上看到有关自己儿子的照片和文章，才知道这些事情。但小胖父母并没有对此吐露过什么看法，甚至没和小胖就此事进行过任何交流。<center></p>
+<table cellpadding=3 cellspacing=3 border=0 width=100%>
+<tr>
+<td align=center> </td>
+</tr>
+<tr>
+<td align=center><span class=bn12>001真实的小胖（网络图片）</span></td>
+</tr>
+</table>
+<p></center><br />“有一次我在上海台看刘仪伟主持的《夜上海》栏目，刘仪伟在节目中说，‘最近有个百变小胖成了网络名人，传说这个是南宁的一名中学生。’但是刘仪伟并不知道其实我就是上海人。”小胖说。 </p>
+<p>回首一瞥  名扬天下</p>
+<p>据小胖透露，“当时上初二，学校组织我们参加一次和交通安全有关的活动，当时有警察叔叔和记者给我们拍照，但是谁拍的那张照片我就不知道了。”</p>
+<p>小胖说，活动结束后好几个月，有一天同学突然面带微笑告诉他，“网上有你照片，快去看看。”后来小胖的化学老师也告诉他，“我在网上看到你照片了。”可是老师没有告诉他在哪家网站上看到的。充满狐疑的小胖在网吧终于看到自己的原始照片以及被修改成机器猫、海盗辛巴达和餐厅小丫头的照片。<br /><center></p>
+<table cellpadding=3 cellspacing=3 border=0 width=100%>
+<tr>
+<td align=center> </td>
+</tr>
+<tr>
+<td align=center><span class=bn12>小胖被<a href="https://www.epochtimes.com/gb/tag/%E6%81%B6%E6%90%9E.html">恶搞</a>（网络图片）</span></td>
+</tr>
+</table>
+<p></center><br />因小胖表情滑稽，迅速成为众多KUSO一族们恶搞的对象——于是小胖的形象变得五花八门，一会儿是郭靖，一会儿是《指环王》里的精灵射手，一会儿露出蒙娜丽莎的微笑，一会儿又闪露野蛮女友的霸道……<center></p>
+<table cellpadding=3 cellspacing=3 border=0 width=100%>
+<tr>
+<td align=center> </td>
+</tr>
+<tr>
+<td align=center><span class=bn12>小胖被恶搞（网络图片）</span></td>
+</tr>
+</table>
+<p></center></p>
+<p>如今只要在“百度”或“Google”上搜索一下“the famous fat boy”就会发现，英、美、法、德、日、俄，甚至连智利都有小胖的网站了，而且其中还有很多是老外们的原创作品，制作非常细致，国内网站很少见到。<br /><center></p>
+<table cellpadding=3 cellspacing=3 border=0 width=100%>
+<tr>
+<td align=center> </td>
+</tr>
+<tr>
+<td align=center><span class=bn12>小胖被恶搞（网络图片）</span></td>
+</tr>
+</table>
+<p></center><br />不喜欢低级趣味的恶搞</p>
+<p>“我是3年前知道自己的照片被恶搞，当时心情很不好，也可以说是很郁闷。”小胖说，“我同学和亲戚都跟我说过‘去告他们’，但我不想这样做。” “我感到大部分恶搞没什么恶意，大家只是开开心罢了。” <center></p>
+<table cellpadding=3 cellspacing=3 border=0 width=100%>
+<tr>
+<td align=center> </td>
+</tr>
+<tr>
+<td align=center><span class=bn12>小胖被恶搞（网络图片）</span></td>
+</tr>
+</table>
+<p></center></p>
+<p>小胖说，他最生气的是有一个用GIF软件制作的动画，动画人物头像是小胖，可是身体是一个赤身裸体正在摇摆的舞女。“你拿我的照片开些善意的玩笑我没什么意见，但是我不欢迎把我的照片修改成这种低级趣味的东西。” </p>
+<p>小胖自己比较喜欢的一个作品，是一部把他上百张照片连在一起编成故事，还配上音乐和解说的短片，片名叫《一个神奇小胖的诞生》。短片开始就用了几张小胖坐在婴儿车里被推着在英国海德公园散步的照片，还有穿着婴儿服爬在床上的照片，解说词是讲解小胖如何横空出世；接着用小胖身着中学生、海盗、服务员等衣服的图片，讲解小胖身世如何飘忽；最后用小胖大批被修改成影视人物海报的图片，讲解小胖在影视界如何叱咤风云…… </p>
+<p>面对新一轮恶搞  网民不平</p>
+<p>最新几张小胖长大后的图片被小胖网站长高先生发帖上传到网上后，新一轮修改小胖照片热潮又开始了。短短数天，高先生帖子后面的跟帖就达到700多条。跟帖者在夸奖小胖“厉害”，说“感谢小胖，你给我们带来那么多欢乐”的同时，有人已经把小胖最新照片修改成了《夜宴》、《王的男人》等影片中的人物。</p>
+<p>一些网民看不过去了，纷纷发帖斥责这种行为：“请不要再这样做了，小胖够可怜的了。”“放过小胖吧。”“有本事你们把自己的照片放到网上恶搞”…… </p>
+<p> “我也曾经用小胖照片制作过QQ聊天表情，很受欢迎。但是自从认识小胖后我就不好意思这样做了，小胖为人非常好，很善良很宽容。”小胖网站长高先生说，“其实大多数人是觉得小胖可爱才修改他照片的，修改后形象也更加可爱，例如机器猫小胖。但是也有少数确实有些恶意。”</p>
+<p>小胖说：“虽然我不恨这些任意修改我照片的人，但是我很感激这些替我说话的人。”</p>
+<p>如今的小胖</p>
+<p>小胖今年已经19岁，身高172cm，体重98kg，中专即将毕业，目前正在上海奉贤一加油站当实习生，每月收入500元。问起将来的打算，小胖说他还没有成形的东西，“如果好好干，将来能当上加油站管理人员，收入也就高上去了。” </p>
+<p>有朋友曾向小胖建议：你这么有名，干吗不进入娱乐圈？小胖认为这必须顺其自然，不能抱过多期望。而且自己也没什么演艺才能，只是平时喜欢唱阿牛的一首名为《我是你的一只小小狗》的歌曲。 </p>
+<p>小胖网站长高先生说：“我觉得小胖很有潜力，小胖的形象可以制作成动画人物，或被制作成小游戏，或者真的去演搞笑片，在片中扮演各种好莱坞和中国大片的人物，一定非常有市场。”<br /><font color=#ffffff>(http://www.dajiyuan.com)</font></p>
+					<!-- article content end -->
+					<div id="below_article_ad"></div>
+				</div>
+									<div class="related_focuses">
+						<span>相关专题:</span> <a href="https://www.epochtimes.com/gb/nf3737.htm" rel="tag">网上恶搞</a>					</div>
+												<div class="related_post post_list">
+					<div class="block_title">相关新闻</div>
+											<div class="one_post">
+							<div class="img"><a href="https://www.epochtimes.com/gb/6/9/24/n1465020.htm"><img alt="【热点互动】红色经典正搞？恶搞？" src="/assets/themes/djy/images/djy_post_default_featured_image_320x200.jpg"></a></div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/6/9/24/n1465020.htm">【热点互动】红色经典正搞？恶搞？</a>
+								<span class="pageview">人气 14</span>							</div>
+						</div>
+												<div class="one_post">
+							<div class="img"><a href="https://www.epochtimes.com/gb/6/9/26/n1466849.htm"><img alt="刘晓波：民间&quot;恶搞&quot;对官方&quot;正搞&quot;" src="/assets/themes/djy/images/djy_post_default_featured_image_320x200.jpg"></a></div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/6/9/26/n1466849.htm">刘晓波：民间"恶搞"对官方"正搞"</a>
+								<span class="pageview">人气 19</span>							</div>
+						</div>
+												<div class="one_post">
+							<div class="img"><a href="https://www.epochtimes.com/gb/6/9/29/n1471379.htm"><img alt="国家级女诗人被恶搞的时代背景" src="/assets/themes/djy/images/djy_post_default_featured_image_320x200.jpg"></a></div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/6/9/29/n1471379.htm">国家级女诗人被恶搞的时代背景</a>
+								<span class="pageview">人气 13</span>							</div>
+						</div>
+												<div class="one_post">
+							<div class="img"><a href="https://www.epochtimes.com/gb/6/10/2/n1473462.htm"><img alt="中共经典影片《地雷战》遭恶搞" src="/assets/themes/djy/images/djy_post_default_featured_image_320x200.jpg"></a></div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/6/10/2/n1473462.htm">中共经典影片《地雷战》遭恶搞</a>
+								<span class="pageview">人气 24</span>							</div>
+						</div>
+										</div>
+								<div id="dable_block"></div>
+						<div class="post_list hot_posts hot_posts_1247351">
+			<div class="block_title">最热视频</div>
+								<div class="one_post top seq0">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/7/n13901678.htm"><img alt="【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901686-9c9253e6d2ae897f346ff1041ac4d1c9-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/7/n13901678.htm">【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊</a>
+							<div class="pageview">人气 9641</div>
+						</div>
+					</div>
+ 										<div class="one_post seq1">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/7/n13901823.htm"><img alt="【菁英论坛】大瘟疫降临 中国要死多少人" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901824-fb8fe880ba5fbc0df18f6ef1-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/7/n13901823.htm">【菁英论坛】大瘟疫降临 中国要死多少人</a>
+							<div class="pageview">人气 7674</div>
+						</div>
+					</div>
+ 										<div class="one_post seq2">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/8/n13901851.htm"><img alt="【新闻看点】重庆工人抗暴击退警察 当局让步" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902031-8517e00919ebcace0bdb36c92bbe2aad-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/8/n13901851.htm">【新闻看点】重庆工人抗暴击退警察 当局让步</a>
+							<div class="pageview">人气 5890</div>
+						</div>
+					</div>
+ 										<div class="one_post seq3">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/8/n13902019.htm"><img alt="【时事军事】普京将得到迟来的圣诞礼物：布雷德利的导弹" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902024-0108_1200x8005-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/8/n13902019.htm">【时事军事】普京将得到迟来的圣诞礼物：布雷德利的导弹</a>
+							<div class="pageview">人气 1072</div>
+						</div>
+					</div>
+ 										<div class="one_post seq4">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/8/n13902089.htm"><img alt="【舞蹈三剑客】5个秘诀！神韵舞蹈演员如何克服舞台恐惧症?" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902094-DJY_CN_1200_800_0107-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/8/n13902089.htm">【舞蹈三剑客】5个秘诀！神韵舞蹈演员如何克服舞台恐惧症?</a>
+							<div class="pageview">人气 329</div>
+						</div>
+					</div>
+ 							</div>
+						<div class="comment_block" id="comment_block">
+					<div class="tougao">
+						如果您有新闻线索或资料给大纪元，请进入<a href="https://tougao.epochtimes.com/tougao_gb.php">安全投稿爆料平台</a>。
+					</div>
+					<div class="mtop10 commentbar large-12 medium-12 small-12 column" style="background:#eee;padding:10px;" id="comments">
+评论
 </div>
-<div class="newcl"></div>
-<div class="sitemap" id="smbg">
-  <div class="sm_main">
-    <ul>
-      <li><a href="/wap/">首页</a></li>
-       <li><a href="/wap/node_105129.htm">要闻</a></li>
-    <li><a href="/wap/node_105503.htm">原创</a></li>
-      <li><a href="/wap/node_100352.htm">视频</a></li>
-      <li><a href="/wap/node_100321.htm">区县</a></li>
-        <li><a href="/wap/node_105500.htm">民生</a></li>
-    </ul>
-    <ul style="display:none;" id="smpl">
-      <li><a href="/wap/node_100344.htm">热图</a></li>
-      <li><a href="/wap/node_154015.htm">乡镇</a></li>
-    </ul>
-  </div>
-  <div class="sm_bt" style="cursor:pointer"><img src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_sm_bt.jpg" id="smbt"></div>
-  <div class="newcl"></div>
+
+<div id="commentpost" style="display:block;margin-bottom:30px;" class="large-12 medium-12 small-12 column">
+	<form id="commentForm" action="#" method="post">
+		<textarea title="评论" rows="5" style="width:100%;" name="commentContent" id="commentContent" onfocus="this.value=''; this.onfocus=null;">
+“大纪元将选取精彩读者评论在全球报纸版面上刊登，请您与我们一起记录历史”
+“大纪元保留删除脏话贴、下流话贴、攻击个人信仰贴等恶意留言的权利”
+		</textarea>
+		<input type="submit" name="submit" value="发表留言" style="float:right;margin-right:20px;font-size:1em;" />
+		<input type="hidden" name="t" value="uc" />
+		<input type="hidden" name="aid" value="1478576" />
+	</form>
 </div>
 
-<div class="wapcc" style="padding:0px 10px;">
-    
-    <div class="weiz_k" style=" display:none;">
-      <div class="weiz"><a href="http://nd.fjsen.com/index.htm" target="_blank" class="daohang">东南网宁德频道</a> &gt; <a href="http://nd.fjsen.com/node_100323.htm" target="_blank" class="daohang">福建日报看宁德</a> > 正文 </div>
-      <div class="fh"><a href="/wap/">回到首页</a></div>
-      <div class="hwcl"></div>
-    </div>
-    <div class="hwcl" style="height:10px;"></div>
-    
-    <div class="zw_dbt">
-    霞浦“闽南糊”：家乡的代表符号
-     </div>
-    <div class="zw_xbt">2022-10-21 09:50:00 
-    作者：郑培銮&nbsp;&nbsp;
-    来源：东南网&nbsp;&nbsp;
-    责任编辑：王予捷
-</div>
-    <div class="zw_rub">
-      <div class="newcl"></div>
-    </div>
-    <div class="newcl"></div>
-    <div class="nr_xxxx"></div>
-    <div class="nr_zwzw">
-    
-    
-     
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td>
-    <div class="videodiv">
-    <div class="fjsen-player" player-data="{src:''}"></div>
-    </div>
-    </td>
-          </tr>
-    <tr><td><!--enpcontent--><p style="text-indent: 2em; margin-bottom: 15px;">东南网10月21日讯（福建日报通讯员 郑培銮 文/图）霞浦县三沙镇出产的风味小吃“闽南糊”是地地道道的平民食品，以独特风味闻名遐迩。在外工作的霞浦三沙人只要一回到家乡，在那充满欢情的家宴上，总少不了这道特色美食。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/a3007864-5721-4891-9025-43a4614d2750.jpg.2" style="" width="600" height="429" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">烹制“闽南糊”</span></p><p style="text-indent: 2em; margin-bottom: 15px;">三沙老街一家以“闽南糊”为主打的传统小吃店，是当地居民陈杰、黄妹夫妻俩经营的，有40多年历史。传统地道的风味，让小店生意一直不错。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/d7905f2d-6a45-4a26-bf50-d73fe54a99e1.jpg.2" style="" width="600" height="429" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">顾客在吃“闽南糊”</span></p><p style="text-indent: 2em; margin-bottom: 15px;">“每家每户过年过节桌上都要有一碗‘闽南糊’。我从小爱吃，今年70多岁了，还是爱吃。它就是我们家乡的代表符号。”三沙镇居民林三寿说。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/e67b86c2-3bab-491e-bf69-350c73d258b1.jpg.2" style="" width="600" height="429" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">烹制“闽南糊”</span></p><p style="text-indent: 2em; margin-bottom: 15px;">关于“闽南糊”的来历，还有一段传说。史书记载，唐代开闽王王审知“起自垅田，每以节俭自处，选任良吏，省刑惜费，轻徭薄敛，与民休息”，深受民众爱戴。王审知率兵入闽时，百姓纷纷拿出特产佳肴犒劳将士，将士们把吃剩的美味佳肴到处乱扔。王审知发现后，立即命令把将士们吃剩的饭菜和着闽南出产的地瓜粉煮了再吃，还带头品尝。没想到，这种大杂烩的食品极其美味，令众将士大快朵颐。而且，这种混合的食品冷却后，也便于将士们行军携带，于是在军中推行，不久就在闽南民间流传开了。宋明时期迁居到三沙的闽南移民又把这种烹调方法带到了霞浦三沙。为了不忘故土，三沙人就将之命名为“闽南糊”。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/98c4d527-2326-49e6-a517-3e0c758e1445.jpg.2" style="" width="600" height="429" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">上菜</span></p><p style="text-indent: 2em; margin-bottom: 15px;">烹制“闽南糊”，选料极其讲究。要把三沙出产的海鲜虾仁、墨鱼鲞和瘦猪肉、香菇、笋干、芹菜、葱花等切成细块，煮熟做汤料。然后，选用三沙出产的精白地瓜粉，用冷水泡成浆，搅拌均匀后，慢慢倒进煮熟的汤料中。同时，用特制的圆滑细长的木棍，不断搅动锅里的浆料。一边不停地搅动，一边不断地往锅里添加带有葱花的熟猪油，直至锅里的地瓜粉浆煮熟变成油光闪亮的暗绿色。等到火候恰当，往锅里均匀撒入炒熟的花生仁，再用木棍徐徐搅拌片刻。</p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><img src="http://nd.fjsen.com/wap/images/2022-10/21/f47cceca-c212-464e-859e-3b65595ed24d.jpg.2" style="" width="600" height="480" border="0" vspace="0" title="" alt=""/></p><p style="margin-bottom: 15px; text-align: center; text-indent: 0em;"><span style="font-size: 14px; font-family: 楷体, 楷体_GB2312, SimKai;">烹制“闽南糊”</span></p><p style="text-indent: 2em; margin-bottom: 15px;">“我们家制售‘闽南糊’，是从我父亲手上传承的，生意相当不错。平时每天烹制6铁锅，逢年过节要制作15锅，年纯收入达30多万元。”陈杰说，夫妻俩靠一碗小吃走上了发家致富路，不仅在三沙盖起了小洋楼，还在儿子工作的西安添置了房产，生活过得有滋有味。</p><p style="text-indent: 2em; margin-bottom: 15px;">如今，随着三沙成为旅游胜地，南来北往的游客将“闽南糊”的美味日益传扬。它逐渐走出故里，不再只是三沙人的乡愁，更是天下人的口福。</p><!--/enpcontent--><!--enpproperty <articleid>31162376</articleid><date>2022-10-21 09:50:00:0</date><author>郑培銮</author><title>霞浦“闽南糊”：家乡的代表符号</title><keyword>闽南,烹制,出产,王审知,将士</keyword><subtitle></subtitle><introtitle></introtitle><siteid>162</siteid><nodeid>100323</nodeid><nodename>福建日报看宁德</nodename><nodesearchname>福建日报看宁德</nodesearchname><picurl></picurl><url>http://nd.fjsen.com/2022-10/21/content_31162376.htm</url><urlpad>http://nd.fjsen.com/wap/2022-10/21/content_31162376.htm</urlpad><sourcename>东南网</sourcename><abstract>烹制“闽南糊”三沙老街一家以“闽南糊”为主打的传统小吃店，是当地居民陈杰、黄妹夫妻俩经营的，有40多年历史。王审知发现后，立即命令把将士们吃剩的饭菜和着闽南出产的地瓜粉煮了再吃，还带头品尝。烹制“闽南糊”“我们家制售‘闽南糊’，是从我父亲手上传承的，生意相当不错。</abstract><channel>2</channel>/enpproperty-->
-    <p></p></td>
-      </tr>
-    </table>
+<section id="comments" class="large-12 medium-12 small-12 columns">
+	<div id="comment_box">
+		<div name="comments"></div>
+	</div>
+</section><!-- #comments -->
+				</div>
+			</div>
+			<div class="sidebar">
+				<aside class="sidebar_single">
+	<div id="right_top_1"></div>
+	<div class="newsletter live_stream"></div>
+	<div class="news_letter"><div id="box_16092"></div></div>
+		<div class="post_list hot_infogram">
+		<div class="block_title">
+			<span class="title">纪元图解</span>
+			<span class="more"><a target="_blank" href="/gb/nf1373494.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+																<a href="https://www.epochtimes.com/gb/22/8/23/n13808112.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/08/id13808114-TIMELINE-ONE-PAGEdjy-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【图解】FBI突袭川普庄园时间线" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/08/id13808114-TIMELINE-ONE-PAGEdjy-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【图解】FBI突袭川普庄园时间线" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/22/8/23/n13808112.htm">【图解】FBI突袭川普庄园时间线</a>
+								<div class="pageview">人气 7490</div>
+							</div>
+						</div>
+							</div>
+		<div class="post_list hot_news">
+		<div class="block_title">
+			<span class="title">新闻排行</span>
+			<span class="more"><a target="_blank" href="/gb/nscrw401.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+								<div class="seq">1</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901673.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901679-e138862497aa4eb7f9b8945eea4b7f40-320x200.png" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【一线采访】重庆核酸企业突裁员 员工怒砸厂" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901679-e138862497aa4eb7f9b8945eea4b7f40-320x200.png" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【一线采访】重庆核酸企业突裁员 员工怒砸厂" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901673.htm">【一线采访】重庆核酸企业突裁员 员工怒砸厂</a>
+								<div class="pageview">人气 13523</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">2</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901563.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/11/id13869027-GettyImages-1239658452-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="张文宏：大范围感染正发生 许多病人白白等死" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/11/id13869027-GettyImages-1239658452-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="张文宏：大范围感染正发生 许多病人白白等死" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901563.htm">张文宏：大范围感染正发生 许多病人白白等死</a>
+								<div class="pageview">人气 10042</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">3</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901678.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901686-9c9253e6d2ae897f346ff1041ac4d1c9-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901686-9c9253e6d2ae897f346ff1041ac4d1c9-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901678.htm">【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊</a>
+								<div class="pageview">人气 9923</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">4</div>								<a href="https://www.epochtimes.com/gb/23/1/8/n13901880.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13902170-ef07c5b258bb11e2b3d9ac51e567fdc5-320x200.png" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="江西货车突然冲进出殡队伍 造成重大伤亡" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902170-ef07c5b258bb11e2b3d9ac51e567fdc5-320x200.png" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="江西货车突然冲进出殡队伍 造成重大伤亡" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/8/n13901880.htm">江西货车突然冲进出殡队伍 造成重大伤亡</a>
+								<div class="pageview">人气 8758</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">5</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901816.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901817-000_1P63AQ-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="北京大学医学部人员密集离世 两周发21份讣告" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901817-000_1P63AQ-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="北京大学医学部人员密集离世 两周发21份讣告" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901816.htm">北京大学医学部人员密集离世 两周发21份讣告</a>
+								<div class="pageview">人气 8645</div>
+							</div>
+						</div>
+							</div>
+	<div id="rightmiddle2"></div>	<div class="post_list hot_yule">
+		<div class="block_title">
+			<span class="title">娱乐排行</span>
+			<span class="more"><a target="_blank" href="/gb/nscrw406.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+								<div class="seq">1</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13900366.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/09/id13816517-220419090435100707-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="玄彬描述儿子长相：像我和孙艺珍的混合版" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/09/id13816517-220419090435100707-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="玄彬描述儿子长相：像我和孙艺珍的混合版" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13900366.htm">玄彬描述儿子长相：像我和孙艺珍的混合版</a>
+								<div class="pageview">人气 3080</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">2</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13901055.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901088-lu-haichao-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="粤剧名伶卢海潮猝逝 同剧组近期4人病亡" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901088-lu-haichao-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="粤剧名伶卢海潮猝逝 同剧组近期4人病亡" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13901055.htm">粤剧名伶卢海潮猝逝 同剧组近期4人病亡</a>
+								<div class="pageview">人气 2018</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">3</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13901092.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/09/id13830832-GettyImages-1407786455-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="陈乔恩自曝患睡眠呼吸中止症 已接受手术治疗" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/09/id13830832-GettyImages-1407786455-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="陈乔恩自曝患睡眠呼吸中止症 已接受手术治疗" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13901092.htm">陈乔恩自曝患睡眠呼吸中止症 已接受手术治疗</a>
+								<div class="pageview">人气 1402</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">4</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901191.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901198-20230105-HCM-002-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="被误认成“翁立友太太” 谢金晶：新娘不是我" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901198-20230105-HCM-002-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="被误认成“翁立友太太” 谢金晶：新娘不是我" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901191.htm">被误认成“翁立友太太” 谢金晶：新娘不是我</a>
+								<div class="pageview">人气 1252</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">5</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13901132.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2020/11/GettyImages-502170172-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="产后复出首秀综艺节目 唐嫣回应切胃减肥传闻" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2020/11/GettyImages-502170172-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="产后复出首秀综艺节目 唐嫣回应切胃减肥传闻" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13901132.htm">产后复出首秀综艺节目 唐嫣回应切胃减肥传闻</a>
+								<div class="pageview">人气 1106</div>
+							</div>
+						</div>
+							</div>
+		<div class="post_list hot_culture">
+		<div class="block_title">
+			<span class="title">文化排行</span>
+			<span class="more"><a target="_blank" href="/gb/nscrw2007.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+								<div class="seq">1</div>								<a href="https://www.epochtimes.com/gb/23/1/1/n13896885.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2020/02/11d0a0bf40ec5d5266108fde616cddff-320x200.png" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="《推背图》第五十六象奥义对应当今大疫幻变" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2020/02/11d0a0bf40ec5d5266108fde616cddff-320x200.png" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="《推背图》第五十六象奥义对应当今大疫幻变" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/1/n13896885.htm">《推背图》第五十六象奥义对应当今大疫幻变</a>
+								<div class="pageview">人气 2285</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">2</div>								<a href="https://www.epochtimes.com/gb/23/1/4/n13899460.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13899472-01201debbb22a3c58bdd094659056542-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【未解之谜】预言家珍妮之二 最意外的总统选举" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13899472-01201debbb22a3c58bdd094659056542-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【未解之谜】预言家珍妮之二 最意外的总统选举" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/4/n13899460.htm">【未解之谜】预言家珍妮之二 最意外的总统选举</a>
+								<div class="pageview">人气 1416</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">3</div>								<a href="https://www.epochtimes.com/gb/23/1/1/n13897321.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13897328-1200x800-11-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【百年真相】“子承父业” 汉奸江泽民卖国实录" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13897328-1200x800-11-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【百年真相】“子承父业” 汉奸江泽民卖国实录" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/1/n13897321.htm">【百年真相】“子承父业” 汉奸江泽民卖国实录</a>
+								<div class="pageview">人气 998</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">4</div>								<a href="https://www.epochtimes.com/gb/22/12/21/n13889120.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/12/id13889141-1722e53a59d7b595fd18322a83ddc05f-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【爱丽话五千】古人白头偕老到底有什么秘诀？如何保持婚姻长久" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/12/id13889141-1722e53a59d7b595fd18322a83ddc05f-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【爱丽话五千】古人白头偕老到底有什么秘诀？如何保持婚姻长久" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/22/12/21/n13889120.htm">【爱丽话五千】古人白头偕老到底有什么秘诀？如何保持婚姻长久</a>
+								<div class="pageview">人气 850</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">5</div>								<a href="https://www.epochtimes.com/gb/22/12/22/n13889509.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2020/11/Mogao-Caves-No61-Temple-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【佛教在中国古代的四次法难】之三——唐武宗李炎时期" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2020/11/Mogao-Caves-No61-Temple-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【佛教在中国古代的四次法难】之三——唐武宗李炎时期" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/22/12/22/n13889509.htm">【佛教在中国古代的四次法难】之三——唐武宗李炎时期</a>
+								<div class="pageview">人气 581</div>
+							</div>
+						</div>
+							</div>
+		<div class="post_list hot_life">
+		<div class="block_title">
+			<span class="title">生活排行</span>
+			<span class="more"><a target="_blank" href="/gb/nscrw2008.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+								<div class="seq">1</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901636.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901643-bc9e9fd04251282216f9366e648bbf49-320x200.jpeg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="中医养生成疫后健康潮流 绿色东方美国开业" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901643-bc9e9fd04251282216f9366e648bbf49-320x200.jpeg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="中医养生成疫后健康潮流 绿色东方美国开业" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901636.htm">中医养生成疫后健康潮流 绿色东方美国开业</a>
+								<div class="pageview">人气 742</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">2</div>								<a href="https://www.epochtimes.com/gb/23/1/4/n13899573.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13900183-shutterstock_2221211133-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="体温升高1度免疫力增30% 日医师推荐暖身4诀窍" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13900183-shutterstock_2221211133-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="体温升高1度免疫力增30% 日医师推荐暖身4诀窍" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/4/n13899573.htm">体温升高1度免疫力增30% 日医师推荐暖身4诀窍</a>
+								<div class="pageview">人气 519</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">3</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901344.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901356-shutterstock_2169404327-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="2023年房价会见底吗？投资机构蠢蠢欲动" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901356-shutterstock_2169404327-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="2023年房价会见底吗？投资机构蠢蠢欲动" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901344.htm">2023年房价会见底吗？投资机构蠢蠢欲动</a>
+								<div class="pageview">人气 426</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">4</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901565.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13902299-Fred4-320x200.jpeg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="断食可抗癌？三期结肠癌四个月竟痊愈" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902299-Fred4-320x200.jpeg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="断食可抗癌？三期结肠癌四个月竟痊愈" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901565.htm">断食可抗癌？三期结肠癌四个月竟痊愈</a>
+								<div class="pageview">人气 370</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">5</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13900721.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13900723-shutterstock_439368427-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="游轮公司告诉你 在船上应该穿什么衣服？" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13900723-shutterstock_439368427-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="游轮公司告诉你 在船上应该穿什么衣服？" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13900721.htm">游轮公司告诉你 在船上应该穿什么衣服？</a>
+								<div class="pageview">人气 346</div>
+							</div>
+						</div>
+							</div>
+		<div class="post_list signature_view">
+		<div class="block_title">
+			<span class="title">独家视角</span>
+			<span class="more"><a target="_blank" href="/gb/nf6092.htm">更多 &gt;</a></span>
+		</div>
+						<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/23/1/2/n13897482.htm" >【特稿】中共与天斗自取灭亡 现在还乐吗</a>
+					<span class="tu">图</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/23/1/1/n13897273.htm" >沈舟：2023年俄乌战争的前景分析</a>
+					<span class="tu">图</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/22/12/30/n13895469.htm" >【新闻大家谈】大咖云集 热评2022年度之最</a>
+					<span class="title_video">&nbsp;</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/22/12/30/n13895040.htm" >王友群：中共“与天斗”的十大恶</a>
+					<span class="tu">图</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/22/12/28/n13893335.htm" >李正宽：中共斗天“战疫” 下场几何？</a>
+					<span class="tu">图</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/22/12/24/n13891183.htm" >周晓辉：北京疫情现五大现象 背后有密码</a>
+					<span class="tu">图</span>				</div>
+					</div>
+	<div id="rightmiddle3"></div>
+</aside>
 
-    
-    
-    </div>
-</div>
+			</div>
+		</div>
+	</div>
+	<div id="breaking_news_container"></div>
+</main>
+<footer>
+	<div class="container">
+		<div class="logo">
+			<a title="大纪元首页" href="/"><img alt="大纪元 LOGO" src="https://www.epochtimes.com/assets/themes/djy/images/djy_logo3.png"></a>
+		</div>
+		<div class="copyright">
+			本网站图文内容归大纪元所有，任何单位及个人未经许可，不得擅自转载使用。 <br>
+			Copyright© 2000 - 2023&nbsp;&nbsp; The Epoch Times Association Inc. All Rights Reserved.
+		</div>
+	</div>
+	<div id="back-top"><a href="javascript:void(0)" class="cd-top">Back to Top</a></div>
+</footer>
 
+<div class="cookie-bar"><span class="warning-text">我们使用cookies来了解您如何使用我们的网站并改善您的用户体验。这包括个性化的内容和广告。若您继续使用我们的网站，即表示您同意我们使用cookies，以及我们更新的隐私政策（Privace Policy）和使用条款。</span><span class="read-more"><a href="https://www.epochtimes.com/gb/UserAgreement.htm" target="_blank">更多信息</a></span><span class="accept-btn"><a href="javascript:void(0)">我同意</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">&#215;</a></span></div>	<script>
+	djy_ga_id = 'UA-10465455-10';
+djy_domain = 'epochtimes.com';
+	function loadGA() {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<div class="bottom">网络出版服务许可证 （署）网出证（闽）字第018号<br>网络文化经营许可证 闽网文〔2019〕3630-217号<br>信息网络传播视听节目许可 许可证号：1310572 <br>广播电视节目制作经营许可证(闽)字第085号<br>增值电信业务经营许可证 闽B2-20100029<br>福建日报报业集团拥有东南网采编人员所创作作品之版权，<br>未经报业集团书面授权，不得转载、摘编或以其他方式使用和传播</div>
+		ga('create', djy_ga_id, 'auto');
+		if ( typeof(djy_primary_category) != "undefined" && djy_primary_category !== null ) {
+			ga('set', 'dimension1', djy_primary_category);
+		}
+		if ( typeof(djy_user_id) != "undefined" && djy_user_id !== null ) {
+			ga('set', 'dimension2', djy_user_id);
+		}
+		if ( typeof(djy_cat_ids) != "undefined" && djy_cat_ids !== null ) {
+			ga('set', 'dimension3', djy_cat_ids);
+		}
+		if ( typeof(djy_term_ids) != "undefined" && djy_term_ids !== null ) {
+			ga('set', 'dimension4', djy_term_ids);
+		}
+		if ( typeof(djy_all_term_ids) != "undefined" && djy_all_term_ids !== null ) {
+			ga('set', 'dimension5', djy_all_term_ids);
+		}
+		if ( typeof(djy_all_term_names_full) != "undefined" && djy_all_term_names_full !== null ) {
+			ga('set', 'dimension7', djy_all_term_names_full);
+		}
+		if ( typeof(djy_publish_date) != "undefined" && djy_publish_date !== null ) {
+			ga('set', 'dimension30', djy_publish_date);
+		}
+		ga('send', 'pageview');
+	}
 
-
-<script>
- var smbt=document.getElementById("smbt");
- var smpl=document.getElementById("smpl");
- var smbg=document.getElementById("smbg");
- smbt.onclick=function(){
-     var smi=smpl.style.display;
- if (smi=="none"||smi=="")
-     {smpl.style.display="block";
-     smbt.src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_sm_bt_r.jpg";
-     }
-     else
-     {smpl.style.display="none";
-      smbt.src="https://fjsenresource.fjsen.com/ndresource/templateRes/202002/03/60145/60145/20220516_sm_bt.jpg";
-     }
- }
-</script>
-
-
-<script src="//cdn.media.fjsen.com/fjsenPlayer/FjsenPlayer.min.js"  atremote="atremote"></script>
-<script src="//www.fjsen.com/js/paging.js"></script>
-
-
-<!-- stat.fjsen.com:81/mysql -->
-<script language="javascript">var __$nodeid=100323;var __$contentid=31162376;var __$title='霞浦“闽南糊”：家乡的代表符号';var __$AuthorPh='郑培銮';var __$Editor='王予捷';var __$Liability='王予捷';var __$pubtime='2022-10-21 09:50:00';</script>
-<script language="JavaScript" charset="gb2312" src="//stat.fjsen.com/mysql/count/abchffgh/abchffgh.js" ></script><noscript><img src="//stat.fjsen.com/mysql/count/abchffgh/abchffgh.php" alt="" style="border:0" /></noscript>
-<!-- /stat.fjsen.com:81/mysql -->
-
+	if (document.getElementsByClassName('archive tag').length > 0) {
+		setTimeout(function() {
+			loadGA();
+		}, 3000);
+	} else {
+		loadGA();
+	}
+	</script>
+	<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/jquery-all.min.js?ver=20200218'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/bottom.min.js?ver=20220913'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/sticky.min.js?ver=20160401'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/news.min.js?ver=20150802'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/ads/www/default_article.min.js?ver=20220913'></script>
 </body>
 </html>

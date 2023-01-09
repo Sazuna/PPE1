@@ -1,2508 +1,754 @@
-<!--getArticle 0.0164 --><!--hottest_news long cache--><!--getReporter 0.0062 --><!--extend_news 0.0007 --><!-- enter else --><!-- 118 --><!--related_news 0.0259 --><!--content 0.4003 --><!--ad_1 0.0270 --><!--ad 0.1064 --><!--view_type 0.0000 --><!--meta 0.0075 --><!--family_bar 0.0019 --><!--family_bar sub  --><!--breaking_news 0.0177 --><!--top 0.0217 --><!--bottom 0.0052 --><!--nav 0.0000 --><!--code 0.5512 --><!DOCTYPE html>
-<html lang="zh-TW">
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
 <head>
-<!--
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="description" content="網頁敘述">
-  <meta name="theme-color" content="#f46c00" />
--->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="content-language" content="zh-Hant-TW">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0" />
-<!-- favicon -->
-<link rel="icon" href="/static/img/icons/icon-128x128.png" sizes="128x128">
-<link rel="icon" href="/static/img/icons/icon-192x192.png" sizes="192x192">
-<link rel="icon" type="image/x-icon" href="/static/img/favicon.ico" />
-<meta name="twitter:card" content="summary" />
-<!-- for Facebook -->
-<meta property="og:title" content="中國開放國門恐大範圍傳播病毒？外媒憂毒株大雜燴 | 聯合新聞網"/>
-<meta property="og:type" content="article"/>
-<meta property="og:url" content="https://udn.com/news/story/122650/6870334"/>
-<meta property="og:image" content="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"/>
-<meta property="og:image:width" content="1000"/>
-<meta property="og:image:height" content="1000"/>
-<meta property="og:site_name" content="聯合新聞網"/>
-<meta property="og:description" content="中國宣布明年初停止嚴格入境隔離措施，並有序恢復民眾出境旅遊。在微博上，網民歡呼出入境封鎖終於結束，出境遊、機票搜索度暴增..."/>
-<meta property="fb:admins" content="100002847892748" />
-<meta property="fb:app_id" content="350231215126101" />
-<meta property="fb:pages" content="241284961029" />
-<meta property="article:author" content="https://www.facebook.com/myudn/" />
-<meta property="article:publisher" content="https://www.facebook.com/myudn/" />
 
-<!-- for Google -->
-<meta name="description" content="中國宣布明年初停止嚴格入境隔離措施，並有序恢復民眾出境旅遊。在微博上，網民歡呼出入境封鎖終於結束，出境遊、機票搜索度暴增..." />
-<meta name="author" content="聯合新聞網" />
-<meta name="copyright" content="聯合新聞網" />
-<meta name="application-name" content="聯合新聞網" />
-<meta name="google-site-verification" content="zxOxo5I1xPvrdU_l5_sX9kZ8v0SiUC18mtRszIAsHqk" />
-<!-- for follow & save -->
-<meta name="date.available" content="2022-12-28 15:25:54">
-<!-- for idle page -->
-<meta name="channel_id" content="2">
-<meta name="cate_id" content="6640">
-<meta name="sub_id" content="122650">
-<meta name="art_id" content="6870334">
+<meta charset="utf-8">
 
+<meta name="img" id="img" value="//wap.xinmin.cn/assets/m/images/xinmin300.png" />
 
+<meta name="keywords" content="手机新民网,新民网,新民晚报" />
 
+<meta name="description" content="新民网是新民晚报官方网站。" />
 
-<meta name="news_keywords" content="新冠肺炎,隔離,開放邊境,傳染病,春節,清零">
+<meta name="format-detection" content="telephone=no"/>
 
-<!--<link href="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600" rel="image_src" type="image/jpeg">-->
-<meta name="URL" content="https://udn.com/news/story/122650/6870334"/>
-<meta name="date" content="2022-12-28 15:25:54">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 
-<meta name="robots" content="NOODP">
-<link rel="canonical" href="https://www.worldjournal.com/wj/story/121344/6870334"/>
+<title>谁爱吃什果冰？谁有把植物伞？来看上海动物园防暑降温“大作战”！-手机新民网</title>
+<!-- <link rel="stylesheet" href="//pic0.xinmin.cn/web/xinmin/2022/css/special.css"> -->
+<link rel="stylesheet" href="//wap.xinmin.cn/assets/m/css/bootstrap.min.css">
 
-<link rel="amphtml" href="https://udn.com/news/amp/story/122650/6870334">
+<link rel="stylesheet" href="//wap.xinmin.cn/assets/m/css/common.css">
 
-<meta property="article:section" content="udn">
-<meta property="article:published_time" content="20221228T152554Z">
+<link rel="stylesheet" href="//wap.xinmin.cn/assets/m/css/content.css">
 
-<meta property="taboola:image" content="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600&w=300"/>
+<link href="//wap.xinmin.cn/assets/m/images/xinmin300.png" sizes="64x64" rel="apple-touch-icon">
 
-<!-- 57×57px -->
-<link rel="apple-touch-icon" href="https://uc.udn.com.tw/upf/news/2017/images/icon_mobile_57x57.png">
-<!-- 72×72px ipad-->
-<link rel="apple-touch-icon" sizes="72×72" href="https://uc.udn.com.tw/upf/news/2017/images/icon_mobile_72x72.png">
-<!-- 114×114px iphone4-->
-<link rel="apple-touch-icon" sizes="114×114" href="https://uc.udn.com.tw/upf/news/2017/images/icon_mobile_114x114.png">
+<script language="javascript" src="//wap.xinmin.cn/assets/m/js/jquery-2.1.3.min.js"></script>
+<!-- <script type="text/javascript" src="//pic0.xinmin.cn/web/xinmin/2022/js/special.js"></script> -->
+<script language="javascript" src="//wap.xinmin.cn/assets/m/js/phprpc_core.js"></script>
 
-<!--<meta name="news_keywords" content="" />-->
-  <title>中國開放國門恐大範圍傳播病毒？外媒憂毒株大雜燴 | 陸將鬆綁邊境 | 兩岸 | 聯合新聞網</title>
-    <link rel="dns-prefetch" href="//s.udn.com.tw" />
-  <link rel="dns-prefetch" href="//p.udn.com.tw" />
-  <link rel="dns-prefetch" href="//fonts.googleapis.com" />
-  <link rel="dns-prefetch" href="//fonts.gstatic.com">
-  <link rel="dns-prefetch" href="//www.google-analytics.com" />
-  <link rel="dns-prefetch" href="//www.googletagservices.com" />
-  
-  <link rel="manifest" href="/static/manifest.json" crossorigin="use-credentials">
-  
-  
-  <!--<link href="https://s.udn.com.tw/static/font-icons/css/fontello.css" rel="stylesheet" type="text/css">
-  <link href="https://s.udn.com.tw/static/font-icons/css/animation.css" rel="stylesheet" type="text/css"> -->
-    
-<link rel="preload" href="/static/js/vendor.bundle.js?202301091003" as="script">
-<link rel="preload" href="/static/js/story.bundle.js?202301091003" as="script">
-<!-- #Location: /inc/meta/cssjs_preload -->
-  
-    <!--<link href="https://s.udn.com.tw/static/font-icons/css/fontello.css" rel="stylesheet" type="text/css">-->
-<link href="https://s.udn.com.tw/static/font-icons/css/fontello.css?202301091003" rel="stylesheet" type="text/css">
-<link href="https://s.udn.com.tw/static/font-icons/css/animation.css?202301091003" rel="stylesheet" type="text/css">
-<link href="/static/css/google-dfp-native.css?202301091003" rel="stylesheet" type="text/css">
-<link href="/static/css/story.css?202301091003" rel="stylesheet" type="text/css">
+<script language="javascript" src="//wap.xinmin.cn/assets/m/js/common.m.pc.js"></script>
 
-<script src="/static/js/vendor_head.bundle.js?202301091003" ></script>
-<script src="/static/js/utils_head.bundle.js?202301091003" ></script>
-<script src="/static/js/google-dfp-native.js?202301091003" ></script>
-<!-- #Location: /inc/meta/cssjs_header -->
-<!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <script>
-  
-    if (navigator.userAgent.indexOf("MSIE") >= 0) {
-      var root = document.documentElement;
-      root.className += 'ie-incompatible';
-    }
-  
-  
-    if (window.CSS && CSS.supports('color', 'var(--test)')) {
-      console.log('styles.css');
-    } else {
-      console.log('styles.no-vars.css');
-      
-        var link = document.createElement("link");
-        var root = document.documentElement;
-        root.className += ' ie-fallback';
-  
-        link.href = '/static/css/ie-polyfill.css';
-        link.type = 'text/css';
-        link.rel = 'stylesheet';
-        document.getElementsByTagName("head")[0].appendChild(link);
-  
-    }
-  
-  </script>
-    <script> rId = function(){ return 6870334; } </script>
-  
-  <script>
-function getCookie(name) {
-	var value = "; " + document.cookie;
-	var parts = value.split("; " + name + "=");
-	if (parts.length == 2) return parts.pop().split(";").shift();
-}
+<!-- <script language="javascript" src="//wap.xinmin.cn/assets/m/js/app_detail.js"></script> -->
 
-var _ga = getCookie('_ga');
-var _gaA = _ga.split(".");
-var google_id = '';
-for (i=2;i<_gaA.length;i++) google_id = google_id+_gaA[i]+'.';
-google_id = google_id.substring(0,google_id.length-1);
-//console.log(google_id);
-//if (typeof _ga !== 'undefined') var google_id = _ga.split(".")[2]+'.'+_ga.split(".")[3];
-//else var google_id = '__';
-var user_id = getCookie("udnland");
-//if (typeof user_id === 'undefined' || user_id == '') user_id = undefined;
-if (typeof user_id === 'undefined' || user_id == '') {
-	user_id = undefined;
-	var auth_type = '未登入';
-}
-else {
-	var auth_type = '已登入_會員';
-}
-var etu_id = getCookie("__eruid");
 
-console.log('1.   etu_id: '+etu_id);
-console.log('2.  user_id: '+user_id);
-console.log('3.google_id: '+google_id);
+<style>
 
-</script>
+/*播放图标*/
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	</script>
-<!-- #Location: /inc/meta/trace_ga -->
-<!-- Begin comScore Tag -->
-<script>
-var _comscore = _comscore || [];
-_comscore.push({ c1: "2", c2: "7390954" });
-(function() {
-var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-el.parentNode.insertBefore(s, el);
-})();
-</script>
-<noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=7390954&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-<!-- #Location: /inc/meta/trace_comScore -->
-<!-- Data Layer -->
-<script>
-dataLayer = [{
-	'etu_id': etu_id,
-	'user_id': user_id,
-	'google_id': google_id,
-	'cat': ['news','cms','6640,兩岸','122650,陸將鬆綁邊境','122650,陸將鬆綁邊境'],
-	'words': 809,
-	'content_tag': '新冠肺炎,隔離,開放邊境,傳染病,春節,清零',
-	'auth_type': auth_type,
-	'publication_date': '2022-12-28 15:25'
-}];
-</script>
-<!-- End Data Layer -->
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5CMHR66');</script>
-<!-- End Google Tag Manager -->
+#voice-pic{display: inline-block;width: 25px;height: 25px;background-image: url(//wap.xinmin.cn/assets/m/images/voice3_red.png);background-repeat: no-repeat; background-size: 100%;position: relative;top: 6px;left: 0px;display: none;}
 
-<!-- #Location: /inc/meta/trace_GTM -->
-<!-- #Location: /inc/meta/trace -->
-  <script type="application/ld+json">
-[{
-	"@context": "https://schema.org",
-	"@type": "NewsArticle",
-	"thumbnailUrl": "https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg",
-	"url": "https://udn.com/news/story/122650/6870334",
-	"mainEntityOfPage": "https://udn.com/news/story/122650/6870334",
-	"headline": "中國開放國門恐大範圍傳播病毒？外媒憂毒株大雜燴",
-	"articleSection": "兩岸",
-	"datePublished": "2022-12-28T15:25:54+08:00",
-	"dateModified": "2022-12-28T16:12:27+08:00",
-	"keywords": "新冠肺炎,隔離,開放邊境,傳染病,春節,清零",	
-	"image": {
-		"@type": "ImageObject",
-		"contentUrl": "https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg",
-		"url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-		"name": "中國宣布明年初停止嚴格入境隔離措施，並恢復民眾出境旅遊。",
-		"height": "1000",
-		"width": "800"
-	},
-	"author": {
-		"@type": "Person",
-		"name": "中國新聞組／北京28日電"
-	},
-	"publisher": {
-		"@type": "Organization",
-		"name": "聯合新聞網 | 聯合新聞網",
-		"url": "https://udn.com",
-		"sameAs": "",
-		"logo": {
-			"@type": "ImageObject",
-			"url": "https://udn.com/static/img/UDN_BABY.png",
-			"height": "1000",
-			"width": "800"
-		}
-	}
-}]
-</script>
-<!-- #Location: /inc/meta/structured_schemaorg_story -->
-<!-- Schema.org implementation - BreadcrumbList schema -->             
-<script type="application/ld+json">
-{
-	"@context": "https://schema.org",
-	"@type": "BreadcrumbList",  
-	"itemListElement": [
-								
-		{	
-			"@type": "ListItem",       
-			"position": 1,       
-			"item": {
-				"@id": "https://udn.com",
-				"name": "udn"                 
-			}
-		}
-						, 
-		{	
-			"@type": "ListItem",       
-			"position": 2,       
-			"item": {
-				"@id": "/news/cate/2/6640",
-				"name": "兩岸"                 
-			}
-		}
-						, 
-		{	
-			"@type": "ListItem",       
-			"position": 3,       
-			"item": {
-				"@id": "https://udn.com/news/story/122650/6870334",
-				"name": "陸將鬆綁邊境"                 
-			}
-		}
-				
-	]
-}
-</script>
-<!-- #Location: /inc/meta/structured_schemaorg_nav -->
-<!-- #Location: /inc/meta/structured -->
 
-  <!-- 20220801 還原 taboola catestroy headscript-->
-<!-- taboola desktop after comment -->
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  window.__UDN__.isMobile = window.innerWidth < 767;
-  var taboolaScriptRoute = window.__UDN__.isMobile ? 'udntw2-udnmobile' : 'udntw-udndesktop';
-  console.log('isMobile', window.__UDN__.isMobile);
-  _taboola.push({article:'auto'});
-  !function (e, f, u, i) {
-    if (!document.getElementById(i)){
-      e.async = 1;
-      e.src = u;
-      e.id = i;
-      f.parentNode.insertBefore(e, f);
-    }
-  }(document.createElement('script'),
-  document.getElementsByTagName('script')[0],
-  '//cdn.taboola.com/libtrc/' + taboolaScriptRoute + '/loader.js',
-  'tb_loader_script');
-  if(window.performance && typeof window.performance.mark == 'function')
-    {window.performance.mark('tbl_ic');}
-</script>
+.MainContentBox .article_content{border-bottom: 1px #ddd solid}
 
 
-<!-- 20180717 要塞進 DFP key-value 的 client id -->
-<script src="https://unpkg.com/pure-md5@0.1.13/lib/index.js"></script>
-
-<script>
-  console.log('DFP clientId: '+google_id);
-  console.log('DFP eruId: '+etu_id);
-  console.log('DFP user_id: '+user_id);
-</script>
-
-<!-- 20181204 -->
-<!-- 20180913 Prebid 0628 0723 0904-->
-
-<!-- Prebid Config Section START -->
-<!-- Make sure this is inserted before your GPT tag -->
-<script>
-  var adUnits = [
-          {
-              // 巨無霸版位
-              // code: 'div-gpt-ad-1500260348414-0', 
-              code: 'ads-superBanner',
-              mediaTypes: {
-                  banner: {
-                      sizes: [[970, 250],[970, 90]],
-                  }
-              },
-              bids: [{
-                  bidder: 'appnexus',
-                  labelAny: ['display'],
-                  params: {
-                      placementId: '11800258'
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['display'],
-                  params: {
-                      //ChannelID: 'CgUxNzk3MxIBMRoENDczMSIJdWRucHJlYmlkKgwIygcQ-gEaAjE2IAE4AA'
-                      cid: 17973
-                  }
-              },{
-                  bidder: 'openx',
-                  labelAny: ['display'],
-                  params: {
-                      unit: '541147516',
-                      delDomain: 'udn-usd-d.openx.net',
-                  }
-              },{
-                  bidder: 'rubicon',
-                  labelAny: ['display'],
-                  params: {
-                      accountId: "18056",
-                      siteId: "188856",
-                      zoneId: "920134",
-                  }
-              },{
-                  bidder : 'aol',
-                  params : {
-                      dcn : '8a969162017373e3f4b2fb08e6a00704' ,
-                      pos : 'udn_pc_top_970x250_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }, {
-              // 大佈告版位
-              // code: 'div-gpt-ad-1499139546098-0',
-              code: 'ads-billboard',
-              mediaTypes: {
-                  banner: {
-                      sizes: [[300, 250],[300, 600]],
-                  }
-              },
-              bids: [{
-                  bidder: 'appnexus',
-                  labelAny: ['display'],
-                  params: {
-                      placementId: '11800259'
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['display'],
-                  params: {
-                      //ChannelID: 'CgUxNzk3NBIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ2AQaATYgATgA'
-                      cid: 17974
-                  }
-              },{
-                  bidder: 'openx',
-                  labelAny: ['display'],
-                  params: {
-                      unit: '541147524',
-                      delDomain: 'udn-usd-d.openx.net',
-                  }
-              },{
-                  bidder: 'rubicon',
-                  labelAny: ['display'],
-                  params: {
-                      accountId: "18056",
-                      siteId: "188856",
-                      zoneId: "920134",
-                  }
-              },{
-                  bidder : 'aol',
-                  params : {
-                      dcn : '8a969162017373e3f4b2fb08e6a00704' ,
-                      pos : 'udn_pc_right1_300x250_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }, {
-              // PC延伸閱讀三
-              code: 'ads-native_extend_news-3',
-              mediaTypes: {
-                  banner: {
-                      sizes: [300, 250],
-                  }
-              },
-              bids: [{
-                  bidder: 'bridgewell',
-                  labelAny: ['display'],
-                  params: {
-                      //ChannelID: 'CgUxODIwNhIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ-gEaATkgATgA'
-                      cid: 18206
-                  }
-              }]
-          }, {
-              // PC延伸閱讀六
-              code: 'ads-native_extend_news-6',
-              mediaTypes: {
-                  banner: {
-                      sizes: [300, 250],
-                  }
-              },
-              bids: [{
-                  bidder: 'bridgewell',
-                  labelAny: ['display'],
-                  params: {
-                      //ChannelID: 'CgUxODIwNxIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ-gEaATkgATgA'
-                      cid: 18207
-                  }
-              },{
-                  bidder : 'aol',
-                  params : {
-                      dcn : '8a969162017373e3f4b2fb08e6a00704' ,
-                      pos : 'udn_pc_recommend2_300x250_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              }]
-          }, {
-              // PC_CPM大佈告
-              // code: 'div-gpt-ad-1500889082311-2',
-              code: 'ads-recommendation-300x250',
-              mediaTypes: {
-                  banner: {
-                      sizes: [300, 250],
-                  }
-              },
-              bids: [{
-                  bidder: 'appnexus',
-                  labelAny: ['display'],
-                  params: {
-                      placementId: '11800260'
-                  }
-              },{
-                  bidder: 'rubicon',
-                  labelAny: ['display'],
-                  params: {
-                      accountId: "18056",
-                      siteId: "188856",
-                      zoneId: "920134",
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['display'],
-                  params: {
-                      //ChannelID: 'CgUxNTc5MRIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ-gEaATkgAQ'
-                      cid: 18752
-                  }
-              },{
-                  bidder: 'openx',
-                  labelAny: ['display'],
-                  params: {
-                      unit: '541147525',
-                      delDomain: 'udn-usd-d.openx.net',
-                  }
-              },{
-                  bidder : 'aol',
-                  params : {
-                      dcn : '8a969162017373e3f4b2fb08e6a00704' ,
-                      pos : 'udn_pc_right2_300x250_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }, {
-              // PC_精準版位_1
-              // code: 'div-gpt-ad-1500889082311-0',
-              code: 'ads-300x250-1',
-              mediaTypes: {
-                  banner: {
-                      sizes: [300, 250],
-                  }
-              },
-              bids: [{
-                  bidder: 'appnexus',
-                  labelAny: ['display'],
-                  params: {
-                      placementId: '11800261'
-                  }
-              },{
-                  bidder: 'rubicon',
-                  labelAny: ['display'],
-                  params: {
-                      accountId: "18056",
-                      siteId: "188856",
-                      zoneId: "920134",
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['display'],
-                  params: {
-                      //ChannelID: 'CgUxNTgxNhIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ-gEaATkgAQ'
-                      cid: 18753
-                  }
-              },{
-                  bidder: 'openx',
-                  labelAny: ['display'],
-                  params: {
-                      unit: '541052419',
-                      delDomain: 'udn-usd-d.openx.net',
-                  }
-              },{
-                  bidder : 'aol',
-                  params : {
-                      dcn : '8a969162017373e3f4b2fb08e6a00704' ,
-                      pos : 'udn_pc_right3_300x250_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }, {
-              // PC_精準版位_2
-              // code: 'div-gpt-ad-1500889082311-1',
-              code: 'ads-300x250-2',
-              mediaTypes: {
-                  banner: {
-                      sizes: [300, 250],
-                  }
-              },
-              bids: [{
-                  bidder: 'appnexus',
-                  labelAny: ['display'],
-                  params: {
-                      placementId: '11800262'
-                  }
-              },{
-                  bidder: 'rubicon',
-                  labelAny: ['display'],
-                  params: {
-                      accountId: "18056",
-                      siteId: "188856",
-                      zoneId: "920134",
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['display'],
-                  params: {
-                      //ChannelID: 'CgUxNTgxNxIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ-gEaATkgAQ'
-                      cid: 18754
-                  }
-              },{
-                  bidder: 'openx',
-                  labelAny: ['display'],
-                  params: {
-                      unit: '541052420',
-                      delDomain: 'udn-usd-d.openx.net',
-                  }
-              },{
-                  bidder : 'aol',
-                  params : {
-                      dcn : '8a969162017373e3f4b2fb08e6a00704' ,
-                      pos : 'udn_pc_right4_300x250_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }, {
-              // Mobile_頭版大佈告
-              // code: 'div-gpt-ad-1503287606545-0',
-              code: 'ads-index-top--mobile',
-              mediaTypes: {
-                  banner: {
-                      sizes: [[336, 280],[300, 250]],
-                  }
-              },
-              bids: [{
-                  bidder: 'appnexus',
-                  labelAny: ['phone'],
-                  params: {
-                      placementId: '11800263'
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['phone'],
-                  params: {
-                      //ChannelID: 'CgUxNzk3NRIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ-gEaATkgATgA'
-                      cid: 17975
-                  }
-              },{
-                  bidder: 'openx',
-                  labelAny: ['phone'],
-                  params: {
-                      unit: '541147526',
-                      delDomain: 'udn-usd-d.openx.net',
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }, {
-              // Mobile_文中大佈告
-              // code: 'div-gpt-ad-1503996040247-0',
-              code: 'ads-inline',
-              mediaTypes: {
-                  banner: {
-                      sizes: [[336, 280],[300, 250]],
-                  }
-              },
-              bids: [{
-                  bidder: 'appnexus',
-                  labelAny: ['phone'],
-                  params: {
-                      placementId: '11800264'
-                  }
-              },{
-                  bidder: 'rubicon',
-                  labelAny: ['phone'],
-                  params: {
-                      accountId: "18056",
-                      siteId: "188856",
-                      zoneId: "920134",
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['phone'],
-                  params: {
-                      //ChannelID: 'CgUxNzk3NhIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ-gEaATkgATgA'
-                      cid: 17976
-                  }
-              },{
-                  bidder: 'openx',
-                  labelAny: ['phone'],
-                  params: {
-                      unit: '541147527',
-                      delDomain: 'udn-usd-d.openx.net',
-                  }
-              },{
-                  bidder : 'aol' ,
-                  params : {
-                      dcn : '8a96954f01747430358b4249c19f043f' ,
-                      pos : 'udn_mb_inarticle_300x250_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }, {
-              // Mobile_文末大佈告
-              // code: 'div-gpt-ad-1503891902709-0',
-              code: 'ads-Mobile_300x250--article',
-              mediaTypes: {
-                  banner: {
-                      sizes: [[336, 280],[1, 1],[300, 250]],
-                  }
-              },
-              bids: [{
-                  bidder: 'appnexus',
-                  labelAny: ['phone'],
-                  params: {
-                      placementId: '11800266'
-                  }
-              },{
-                  bidder: 'rubicon',
-                  labelAny: ['phone'],
-                  params: {
-                      accountId: "18056",
-                      siteId: "188856",
-                      zoneId: "920134",
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['phone'],
-                  params: {
-                      //ChannelID: 'CgUxNTgyMBIBMRoENDczMSIJdWRucHJlYmlkKgsIrAIQ-gEaATkgAQ'
-                      cid: 18755
-                  }
-              },{
-                  bidder: 'openx',
-                  labelAny: ['phone'],
-                  params: {
-                      unit: '541147530',
-                      delDomain: 'udn-usd-d.openx.net',
-                  }
-              },{
-                  bidder : 'aol',
-                  params : {
-                      dcn : '8a96954f01747430358b4249c19f043f' ,
-                      pos : 'udn_mb_button_300x250_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }, {
-              // Mobile_置底廣告
-              code: 'stickyAds',
-              mediaTypes: {
-                  banner: {
-                      sizes: [[320, 50]],
-                  }
-              },
-              bids: [{
-                  bidder : 'aol',
-                  params : {
-                      dcn : '8a96954f01747430358b4249c19f043f' ,
-                      pos : 'udn_mb_float_320x50_display_hb',
-                      ext: {
-                          //additional parameters here
-                      }
-                  }
-              },{
-                  bidder: 'bridgewell',
-                  labelAny: ['phone'],
-                  params: {
-                      cid: 18756
-                  }
-              },{
-                bidder: 'criteo', 
-                params: {
-                  networkId: 4424
-                }
-              }]
-          }];
-  var pbjs = pbjs || {};
-  pbjs.que = pbjs.que || [];
-</script>
-<!-- Prebid Config Section END -->
-
-<!-- Prebid Boilerplate Section START. No Need to Edit. -->
-<!-- <script async='async' src='https://p.udn.com.tw/upf/static/common/prebid20200204.js'></script> -->
-<!-- <script async='async' src='https://p.udn.com.tw/upf/static/common/prebid20200409.js?1'></script> -->
-<!-- <script async='async' src='https://p.udn.com.tw/upf/static/common/prebid4.7.0_20200918.js'></script> -->
-<!-- <script async='async' src='https://p.udn.com.tw/upf/static/common/prebid4.30.0_202103.js'></script> -->
-<!-- <script async='async' src='https://p.udn.com.tw/upf/static/common/prebid4.31.0_20210322.js'></script> -->
-<script async='async' src='https://p.udn.com.tw/upf/static/common/prebid4.35.0_20210415.js'></script>
-
-<script>
-  //var PREBID_TIMEOUT = 1500;
-  var PREBID_TIMEOUT = 800;
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-  googletag.cmd.push(function () {
-      googletag.pubads().disableInitialLoad();
-  });
-  pbjs.que.push(function () {
-      pbjs.setConfig({
-      debug: true,
-      priceGranularity: "dense",
-      enableSendAllBids: true, // Default will be `true` as of 1.0
-  sizeConfig: [{
-      'mediaQuery': '(min-width: 767px)',
-      'sizesSupported': [[1024,768], [970,250], [970,90], [800,600], [768,1024], [728,90], [640,360], [480,360], [480,320], [480,270], [480,60], [336,280], [320,480], [320,100], [320,50], [300,1050], [300,600], [300,250], [300,276], [300,100], [320,50], [300,75], [300,50], [250,250], [240,400], [160,600], [1,1]],
-      'labels': ['display']
-      }, {
-      'mediaQuery': '(min-width: 0px) and (max-width: 767px)',
-      'sizesSupported': [[336,280], [300,250], [300,100], [320,50], [300,75], [300,50], [250,250], [120,20], [168,28], [1,1]],
-      'labels': ['phone']
-      }]
-  });
-  pbjs.bidderSettings = {
-      rubicon: {
-      bidCpmAdjustment: function (bidCpm, bid) {
-          console.log('Bidder is: ' + bid.bidderCode);
-          return bidCpm * 0.8;
-      }
-      }
-  };
-  pbjs.addAdUnits(adUnits);
-  pbjs.requestBids({
-      bidsBackHandler: function () {sendAdServerRequest}
-  });
-  });
-  setTimeout(function () {
-    sendAdServerRequest();
-  }, PREBID_TIMEOUT);
-
-  function sendAdServerRequest() {
-    if (pbjs.adserverRequestSent) return;
-    pbjs.adserverRequestSent = true;
-    googletag.cmd.push(function () {
-      pbjs.que.push(function () {
-        pbjs.setTargetingForGPTAsync();
-        googletag.pubads().refresh();
-      });
-    });
-  }
-</script>
-<!-- Prebid Boilerplate Section END -->
-
-<script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
-<script>
-  //var googletag = googletag || {};
-  //googletag.cmd = googletag.cmd || [];
-  //window.googletag = window.googletag || {cmd: []};
-  var inDapIF = true;
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
-  
-<script>
-googletag.cmd.push(function() {
-  
-/* 尺寸設定 */
-/* 唯網頁呈現 */
-
-var ads_pcfluid = googletag.sizeMapping().
-    addSize([1280, 200], ['fluid']).
-    addSize([0, 0], []).
-    build();
-
-var ads_Slider = googletag.sizeMapping().
-    //addSize([1024, 200], ['fluid']).
-    addSize([0, 0], ['fluid']).
-    build();
-  
-var ads_superBanner = googletag.sizeMapping().
-    addSize([1024, 200], [[1, 1], [970, 1], [970, 90], [970, 250], 'fluid']).
-    addSize([0, 0], []).
-    build();
-              
-var ads_billboard = googletag.sizeMapping().
-    addSize([1024, 200], [[300, 250], [300, 600], 'fluid']).
-    addSize([0, 0], []).
-    build();
-
-var ads_billboard_300x250 = googletag.sizeMapping().
-    addSize([1024, 200], [[1, 1], [300, 250], 'fluid']).
-    addSize([0, 0], []).
-    build();
-
-var ads_SP_300x250 = googletag.sizeMapping().
-    //addSize([1024, 200], [[1, 1], [300, 250], 'fluid']).
-    addSize([0, 0], [300, 250]).
-    build();
-
-var ads_news_txtdown = googletag.sizeMapping().
-    //addSize([1024, 200], ['fluid']).
-    addSize([0, 0], [[1, 1], 'fluid']).
-    build();
-
-var ads_news_txtdown_banner = googletag.sizeMapping().
-    addSize([1280, 200], [[1, 1], [520, 290], [640, 480], 'fluid']).
-    addSize([0, 0], []).
-    build();
-
-var ads_news_extend = googletag.sizeMapping().
-    addSize([1024, 200], [[1, 1], [300, 250], [300, 276], 'fluid']).
-    addSize([0, 0], []).
-    build();
-
-var ads_news_extend_mb = googletag.sizeMapping().
-    addSize([1024, 200], []).
-    addSize([0, 0], [[1, 1], [320, 100], [350, 110], 'fluid']).
-    build();
-
-var ads_news_hottest = googletag.sizeMapping().
-    addSize([1024, 200], [[1, 1], [300, 50], 'fluid']).
-    addSize([0, 0], []).
-    build();
-
-var ads_news_hottest_mb = googletag.sizeMapping().
-    addSize([1024, 200], []).
-    addSize([0, 0], ['fluid']).
-    build();
-
-/*
-var ads_news_related = googletag.sizeMapping().
-    addSize([1024, 200], [[300, 250], 'fluid']).
-    addSize([0, 0], [[1, 1], 'fluid']).
-    build();
-
-var ads_news_related_banner = googletag.sizeMapping().
-    addSize([1024, 200], [[300, 250], 'fluid']).
-    addSize([0, 0], [[300, 250], [336, 280], 'fluid']).
-    build();
-*/
-
-var ads_idle = googletag.sizeMapping().
-    addSize([1024, 200], [970, 250]).
-    addSize([0, 0], []).
-    build(); 
-
-var ads_Mobile_300x250 = googletag.sizeMapping().
-    addSize([768, 200], []).
-    addSize([0, 0], [[1, 1], [300, 250], [336, 280], 'fluid']).
-    build();
-
-var ads_Mobile_sticky = googletag.sizeMapping().
-    addSize([768, 200], []).
-    addSize([0, 0], [[1, 1], [320, 50], [320, 100], 'fluid']).
-    build();
-
-var ads_Mobile_cover = googletag.sizeMapping().
-    addSize([768, 200], []).
-    addSize([0, 0], [[1, 1], [320, 480], 'fluid']).
-    build();
-
-var ads_pc_welcomevideo = googletag.sizeMapping().
-    addSize([1024, 200], [[1, 1], 'fluid']).
-    addSize([0, 0], []).
-    build();
-
-var ads_news_Andbeyond = googletag.sizeMapping().
-    //addSize([1024, 200], [1, 1]).
-    addSize([0, 0], [1, 1]).
-    build();
-  
-/* 參數定義 */
-/* 鍵值Key value */
-/* CMS -- 【新聞網_2020】頻道內頁大橫幅 (google DFP) google拆code */
-/* googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a13', ['fluid'], 'ultraDesktopBanner').defineSizeMapping(ads_pcfluid).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-
-
-/* CMS -- 【新聞網_2020】PC&Mobile_要聞頻道第三頁籤穿插 (免費版 google DFP) google拆code */
-googletag.defineSlot('/4576170/free-1_News-PC-a01', ['fluid'], 'udn-dfpSlider2').defineSizeMapping(ads_Slider).setCollapseEmptyDiv(true).addService(googletag.pubads());
-  
-
-/* (ads_superBanner) */
-/* CMS -- 【新聞網_2020】PC_SuperBanner_970x250 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a06', [[1, 1], [970, 90], [970, 250], 'fluid'], 'ads-superBanner').defineSizeMapping(ads_superBanner).addService(googletag.pubads());
-  
-
-/* (ads_billboard) */
-/* CMS -- 【新聞網_2020】PC_Billboard_300x250 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a07', [[300, 250], [300, 600], 'fluid'], 'ads-billboard').defineSizeMapping(ads_billboard).addService(googletag.pubads());
-  
-  
-/* (ads_billboard_300x250) */
-/* CMS -- 【新聞網_2020】PC_Billboard_多媒體_300x250 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a03', [[300, 250], [1, 1], 'fluid'], 'ads-recommendation-300x250').defineSizeMapping(ads_billboard_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads());
-/* CMS -- 【新聞網_2020】PC_猜你喜歡&精準1&精準2&內頁大佈告A&內頁大佈告B_300x250 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a04', [300, 250], 'ads-300x250-1').defineSizeMapping(ads_billboard_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads());
-/* CMS -- 【新聞網_2020】PC_猜你喜歡&精準1&精準2&內頁大佈告A&內頁大佈告B_300x250 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a05', [[300, 250], [1, 1], 'fluid'], 'ads-300x250-2').defineSizeMapping(ads_billboard_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads());
-/* CMS -- 【新聞網_2020】PC_猜你喜歡&精準1&精準2&內頁大佈告A&內頁大佈告B_300x250 (google DFP) google拆code */
-googletag.defineSlot('/4576170/free-1_News-PC-a03', [300, 250], 'ads-300x250-side-3').defineSizeMapping(ads_billboard_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads());
-/* CMS -- 【新聞網_2020】PC_猜你喜歡&精準1&精準2&內頁大佈告A&內頁大佈告B_300x250 (google DFP) google拆code */
-googletag.defineSlot('/4576170/free-1_News-PC-a04', [300, 250], 'ads-300x250-sponsor-list-2').defineSizeMapping(ads_billboard_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-
-/* (ads_SP_300x250) */
-/* CMS -- 【新聞網_2020】PC_贊助廣告_300x250 (google DFP) google拆code */
-/* googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a09', [300, 250], 'ads-SP300x259_L').defineSizeMapping(ads_SP_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-/* CMS -- 【新聞網_2020】PC_贊助廣告_300x250 (google DFP) google拆code */
-/* googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a10', [300, 250], 'ads-SP300x259_R').defineSizeMapping(ads_SP_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-
-  
-/* (ads_news_txtdown) */
-/* CMS -- 【新聞網_2020】PC&Mobile_文尾文字 (免費版 google DFP) google拆code */
-googletag.defineSlot('/4576170/news_txtdown', [[1, 1], 'fluid'], 'news_txtdown').defineSizeMapping(ads_news_txtdown).setCollapseEmptyDiv(true).addService(googletag.pubads());
-/* (ads_news_txtdown_banner) */
-/* CMS -- 【新聞網_2020】PC_文尾大刊版 (免費版 google DFP) google拆code */
-googletag.defineSlot('/4576170/news_520*290', [[1, 1], [520, 290], [640, 480], 'fluid'], 'udn-520x290').defineSizeMapping(ads_news_txtdown_banner).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-
-/* CMS -- 【閒置頁面無CMS位置】 */
-/* window.idle_slot1 = googletag.defineSlot('/4576170/idle_Native', [[380, 120], 'fluid'], 'idle-1').defineSizeMapping(ads_idle).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-/* window.idle_slot2 = googletag.defineSlot('/4576170/idle_Native', [[380, 120], 'fluid'], 'idle-2').defineSizeMapping(ads_idle).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-window.idle_slot1 = googletag.defineSlot('/4576170/idle_Native', [970, 250], 'idle-1').defineSizeMapping(ads_idle).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-
-/* (ads_news_extend) */
-/* CMS -- 【新聞網_2020】PC&Mobile_延伸閱讀_3 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a08', [[1, 1], [300, 250], [300, 276], 'fluid'], 'ads-native_extend_news-3').defineSizeMapping(ads_news_extend).setCollapseEmptyDiv(true).addService(googletag.pubads());
-/* CMS -- 【新聞網_2020】PC&Mobile_延伸閱讀_6 (google DFP) google拆code */
-/* googletag.defineSlot('/4576170/news_extend_Native_6', [[1, 1], [300, 250], [300, 276], 'fluid'], 'ads-native_extend_news-6').defineSizeMapping(ads_news_extend).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a14', [[1, 1], [300, 250], [300, 276], 'fluid'], 'ads-native_extend_news-6').defineSizeMapping(ads_news_extend).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-  
-/* (ads_news_extend_mb) */
-/* CMS -- 【新聞網_2020】PC&Mobile_延伸閱讀_3 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a05', [[1, 1], [320, 100], [350, 110], 'fluid'], 'ads-native_extend_news-3-mobile').defineSizeMapping(ads_news_extend_mb).setCollapseEmptyDiv(true).addService(googletag.pubads());
-/* CMS -- 【新聞網_2020】PC&Mobile_延伸閱讀_6 (google DFP) google拆code */
-/* googletag.defineSlot('/4576170/news_extend_Native_6_Mobile', [[1, 1], [320, 100], [350, 110], 'fluid'], 'ads-native_extend_news-6-mobile').defineSizeMapping(ads_news_extend_mb).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a08', [[1, 1], [320, 100], [350, 110], 'fluid'], 'ads-native_extend_news-6-mobile').defineSizeMapping(ads_news_extend_mb).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-
-/* CMS -- 【新聞網_2020】PC_WelcomeVideo (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/news_WelcomeVideo_MEDICAL', [[1, 1], 'fluid'], 'desktopSticky').defineSizeMapping(ads_pc_welcomevideo).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-
-
-/* (ads_news_hottest) */
-/* CMS -- 【新聞網_2020】熱門新聞第六則_PC (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/free-1_News-PC-a13', [[1, 1], [300, 50], 'fluid'], 'div-gpt-ad-1602729579465-0').defineSizeMapping(ads_news_hottest).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-/* (ads_news_hottest_mb) */
-/* CMS -- 【新聞網_2020】熱門新聞第六則_Mobile (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/free-1_News-PC-a13', ['fluid'], 'div-gpt-ad-1602729579465-1').defineSizeMapping(ads_news_hottest_mb).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-
-
-/* (ads_Mobile_cover) */
-/* CMS -- 【新聞網_2020】Mobile_覆蓋式_320x480 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a06', [[1, 1], [320, 480], 'fluid'], 'ads-Mobile_cover').defineSizeMapping(ads_Mobile_cover).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-  
-/* (ads_Mobile_300x250) */
-/* CMS -- 【新聞網_2020】Mobile_頭版大佈告_300x250 (google DFP) google拆code */
-/* googletag.defineSlot('/129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a01', [[300, 250], [336, 280], 'fluid'], 'ads-index-top--mobile').defineSizeMapping(ads_Mobile_300x250).setCollapseEmptyDiv(true,true).addService(googletag.pubads()); */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a01', [[300, 250], [336, 280], 'fluid'], 'ads-index-top--mobile').defineSizeMapping(ads_Mobile_300x250).addService(googletag.pubads());
-/* CMS -- 【新聞網_2020】Mobile_文中大佈告_300x250 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a02', [[1, 1], [300, 250], [336, 280], 'fluid'], 'ads-inline').defineSizeMapping(ads_Mobile_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads());
-/* CMS -- 【新聞網_2020】Mobile_文末大佈告_300x250 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a03', [[1, 1], [300, 250], [336, 280], 'fluid'], 'ads-Mobile_300x250--article').defineSizeMapping(ads_Mobile_300x250).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-
-/* (ads_Mobile_sticky) */
-/* CMS -- 【新聞網_2020】Mobile_置底_320x50 (google DFP) google拆code */
-googletag.defineSlot('/129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a07', [[1, 1], [320, 50], [320, 100], 'fluid'], 'stickyAds').defineSizeMapping(ads_Mobile_sticky).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-
-/* (ads_news_related) */
-/* CMS -- 【新聞網_2020】PC&Mobile 相關新聞_3 (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/free-1_News-PC-a05', [[1, 1], [300, 250], 'fluid'], 'ads-native_related-3').defineSizeMapping(ads_news_related).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-/* CMS -- 【新聞網_2020】PC&Mobile 相關新聞_8 (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/free-1_News-PC-a07', [[300, 250], 'fluid'], 'ads-native_related-8').defineSizeMapping(ads_news_related).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-/* CMS -- 【新聞網_2020】PC&Mobile 相關新聞_13 (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/free-1_News-PC-a09', [[300, 250], 'fluid'], 'ads-native_related-13').defineSizeMapping(ads_news_related).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-/* (ads_news_related_banner) */
-/* CMS -- 【新聞網_2020】PC&Mobile 相關新聞_6 (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/free-1_News-PC-a06', [[300, 250], [336, 280], 'fluid'], 'ads-native_related-6').defineSizeMapping(ads_news_related_banner).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-/* CMS -- 【新聞網_2020】PC&Mobile 相關新聞_11 (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/free-1_News-PC-a08', [[300, 250], [336, 280], 'fluid'], 'ads-native_related-11').defineSizeMapping(ads_news_related_banner).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-/* CMS -- 【新聞網_2020】PC&Mobile 相關新聞_16 (免費版 google DFP) google拆code */
-/* googletag.defineSlot('/4576170/free-1_News-PC-a10', [[300, 250], [336, 280], 'fluid'], 'ads-native_related-16').defineSizeMapping(ads_news_related_banner).setCollapseEmptyDiv(true).addService(googletag.pubads()); */
-  
-
-/* CMS -- 【新聞網_2020】Andbeyond 1x1 (免費版) */
-googletag.defineSlot('/4576170/free-1_News-PC-a12', [1, 1], 'ads-Andbeyond').defineSizeMapping(ads_news_Andbeyond).setCollapseEmptyDiv(true).addService(googletag.pubads());
-
-googletag.pubads().setTargeting("eruid", etu_id);
-googletag.pubads().setTargeting("clientId", google_id);
-googletag.pubads().setTargeting("userId", user_id);
-googletag.pubads().enableSingleRequest();
-
-if (google_id) {
-      googletag.pubads().setPublisherProvidedId(md5(google_id));
-      //googletag.pubads().setPublisherProvidedId(window.btoa(google_id).replace(/=+$/, ''));
-    }   
-
-		googletag.pubads().setTargeting('cat', ["2","聯合新聞網","6640","兩岸","122650","陸將鬆綁邊境"]);
-		googletag.pubads().setTargeting('aid', '6870334');
-		googletag.pubads().setTargeting('page', 'ARTICLE');
-		googletag.pubads().setTargeting('tag', ["新冠肺炎","隔離","開放邊境","傳染病","春節","清零"]);
-		googletag.enableServices();
-	
-
-  
-//setInterval(function() {
-  //googletag.pubads().refresh([idle_slot2]);
-//}, 60000)
-
-
-  });
-</script>
-<!-- Innity Welcome Video HEAD script起 -->
-<script type="text/javascript" src="https://cdn.innity.net/zone.js"></script>
-<!-- Innity Welcome Video HEAD script止 --><!-- Facebook Pixel Code Sales-->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '498033667216293');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=498033667216293&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code Sales--><!-- #Location: /inc/ads/no_more_top -->
+</style>
 
 </head>
+
+
+
 <body>
-  <div class="udn-overlay"></div>
-  <!-- /129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a06 ※Mobile_覆蓋式廣告_320x480※ -->
-<div class='udn-ads udn-ads--mobile' id='ads-Mobile_cover'>
-<script>
-googletag.cmd.push(function() { googletag.display('ads-Mobile_cover'); });
-</script>
-</div>
 
-<!-- 強制DFP影音播放 2020/10/27-->
-<script>
-window.addEventListener('message', function(e){
-  if (e.data.type === 'overlayIframeReady') {
-console.log('test scroll');
-   window.scrollTo({top: window.scrollY + 1});
-  }
-});
-</script>
-<!-- 強制DFP影音播放 2020/10/27--><!-- #Location: /inc/ads/under_the_body -->
-  <div id="fb-root"></div>
-  <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
-    <header class="header">
-    <script>
-      var __UDN__ = __UDN__ || {};
-      __UDN__.initialMenu = {
-        current: '6640', // which menu is active
-        version: '1',
-        fixed: [
-	          {
-            id: '1',
-            title: '即時',
-            href: '/news/breaknews/1',
-          },
-	        ],
-        mobile: [
-          {
-            id: 'hottest',
-            title: '熱門',
-            href: 'https://udn.com/rank/pv/2',
-          }
-        ],
-/*
-        shopping: {
-          id: '',
-          title: '',
-          href: '',
-        },
-*/
-        selected: [
-	          {
-            id: '6638',
-            title: '要聞',
-            href: '/news/cate/2/6638',
-          },
-	          {
-            id: '1022',
-            title: '娛樂',
-            href: 'https://stars.udn.com',
-          },
-	          {
-            id: '7227',
-            title: '運動',
-            href: '/news/cate/2/7227',
-          },
-	          {
-            id: '7225',
-            title: '全球',
-            href: '/news/cate/2/7225',
-          },
-	          {
-            id: '6639',
-            title: '社會',
-            href: '/news/cate/2/6639',
-          },
-	          {
-            id: '6641',
-            title: '地方',
-            href: '/news/cate/2/6641',
-          },
-	          {
-            id: '6644',
-            title: '產經',
-            href: '/news/cate/2/6644',
-          },
-	          {
-            id: '6645',
-            title: '股市',
-            href: '/news/cate/2/6645',
-          },
-	          {
-            id: '1009',
-            title: '房市',
-            href: 'https://house.udn.com',
-          },
-	          {
-            id: '6649',
-            title: '生活',
-            href: '/news/cate/2/6649',
-          },
-	          {
-            id: '1005',
-            title: '健康',
-            href: 'https://health.udn.com',
-          },
-	          {
-            id: '8887',
-            title: '橘世代',
-            href: 'https://orange.udn.com',
-          },
-	          {
-            id: '11195',
-            title: '文教',
-            href: '/news/cate/2/11195',
-          },
-	          {
-            id: '6643',
-            title: '評論',
-            href: '/news/cate/2/6643',
-          },
-	          {
-            id: '6640',
-            title: '兩岸',
-            href: '/news/cate/2/6640',
-          },
-	          {
-            id: '7226',
-            title: '數位',
-            href: '/news/cate/2/7226',
-          },
-	          {
-            id: '1013',
-            title: '旅遊',
-            href: '/news/cate/1013',
-          },
-	          {
-            id: '120909',
-            title: 'Oops',
-            href: '/news/cate/2/120909',
-          },
-	          {
-            id: '1014',
-            title: '閱讀',
-            href: 'https://reading.udn.com/read/index',
-          },
-	          {
-            id: '1015',
-            title: '雜誌',
-            href: '/news/cate/1015',
-          },
-	          {
-            id: '8787',
-            title: '500輯',
-            href: 'https://500times.udn.com',
-          },
-	          {
-            id: '8006',
-            title: '倡議+',
-            href: 'https://ubrand.udn.com',
-          },
-	          {
-            id: '8009',
-            title: '報時光',
-            href: 'https://time.udn.com',
-          },
-	          {
-            id: '4870',
-            title: '美妝',
-            href: 'https://mybeauty.udn.com',
-          },
-	          {
-            id: '1020',
-            title: '轉角國際',
-            href: 'https://global.udn.com',
-          },
-	          {
-            id: '2000',
-            title: 'NBA',
-            href: 'https://tw-nba.udn.com',
-          },
-	          {
-            id: '2002',
-            title: '時尚',
-            href: 'https://style.udn.com',
-          },
-	          {
-            id: '1018',
-            title: '汽車',
-            href: 'https://autos.udn.com',
-          },
-	          {
-            id: '8007',
-            title: '棒球',
-            href: 'https://udn.com/ctba/index',
-          },
-	          {
-            id: '3007',
-            title: 'HBL',
-            href: 'https://udn.com/hbl/index',
-          },
-	          {
-            id: '2003',
-            title: '遊戲',
-            href: 'https://game.udn.com',
-          },
-	          {
-            id: '1008',
-            title: '鳴人堂',
-            href: 'https://opinion.udn.com',
-          },
-	          {
-            id: 'topic',
-            title: '專題',
-            href: '/topic/index',
-          },
-	          {
-            id: '2004',
-            title: 'U值',
-            href: 'https://udn.com/umedia/',
-          },
-	          {
-            id: 'blog',
-            title: '網誌',
-            href: 'http://blog.udn.com',
-          },
-	          {
-            id: '1023',
-            title: '寵物部落',
-            href: 'https://pets.udn.com',
-          },
-	        ],
-        ads: [
-	        ],
-      };
-    </script>
-  
-    
-<!-- #Location: /inc/ads/udn_logo_header-->
+<img src="//wap.xinmin.cn/assets/m/images/xinmin300.png" width="64" height="0" style="display:none;"/>
 
-    <div class="container">
-      <section class="header-wrapper">
-        <div class="logo">
-          <!-- logo start -->
-<a href="/news/index" alt="udn-logo" title="回聯合新聞網首頁"><img src="/static/img/logo.svg?2020020601"></a>
-<a href="/news/index" alt="udn-news" title="回首頁"><img src="/static/img/logo_name.svg?2020020601"></a>
-<!-- logo end -->
-<!-- #Location: /inc/ads/udn_logo-->
-          <!-- #Location: /inc/ads/logo_right-->
-        </div>
-        <div class="tools-box">
-          <nav class="channel-link">
-            <a title="聯合報" href="https://vip.udn.com/vip/index?utm_source=udnnews&utm_medium=familybar" style="color: #cb2529;"><i class="i-vip-udn"></i>聯合報</a>
-            <a title="經濟日報" href="https://money.udn.com/money/index?utm_source=udnnews&utm_medium=familybar" style="color: #cb2529;"><i class="i-edn"></i>經濟日報</a>
-            <a title="陽光行動" href="https://sdgs.udn.com/?utm_source=udnnews&utm_medium=familybar"><i class="i-sdgs"></i>陽光行動</a>
-            <a title="有設計" href="https://udesign.udnfunlife.com/mall/Cc1a00.do?sid=91_udn&utm_source=udn.com&utm_medium=referral_familybar_udn&utm_term=familybar_udn&utm_campaign=20170118_UDN"><i class="i-udesign"></i>有設計</a>
-            <a title="有行旅" href="https://utravel.udn.com/index.jsp?utm_source=udnnews&utm_medium=familybar"><i class="i-utravel"></i>有行旅</a>
-            <a title="願景" href="https://visionproject.org.tw/?utm_source=udnnews&utm_medium=familybar"><i class="i-visionproject"></i>願景</a>
-            <a title="我的新聞" href="https://udn.com/mypage/mynewsFeature?utm_source=udnnews&utm_medium=familybar"><i class="i-heart-fill"></i>我的新聞</a>
-          </nav>
-  
-          <div class="tools-box__items">
-          <a title="聯合報數位版" href="https://vip.udn.com/" class="vip-button" style="color: #cb2529;">
-            <i class="i-vip-udn"></i>
-          </a>
+<div class="AppBanner" id="app-banner"><a href="javascript:void(0);"><img src="//wap.xinmin.cn/assets/m/images/app_rec.png"/></a></div>
 
 
-          <div class="member-button member-button--isloading" role="button" aria-label="login" aria-pressed="false" title="登入">
-            <i class="i-user-not-login"></i>
-          </div>
 
-          <div class="menu-toggler" role="button" aria-label="menu" aria-pressed="false" title="選單/搜尋">
-            <i class="i-list-search"></i>
-          </div>
+<header class="TopBox ContentStyle" id="top-box">
 
+  <section>
 
-        </div>
+    <a href="javascript:void(0)" id="history-back"><div class="back"></div></a>
 
-        <div id="memberDropdown" class="member-dropdown dropdown-box" role="tooltip">
-          <a href="//member.udn.com/member/center.jsp?hold=y">會員中心</a>  
-          <a href="//member.udn.com/member/ShowMember?actiontype=update">我的設定</a> 
-          <a href="//member.udn.com/member/order_list.jsp">訂閱管理</a> 
-          <a href="//member.udn.com/member/ProcessLogout">登出</a> 
-        </div>
+    <div class="menu menu_con" id="top-menu"></div>
 
+  </section>
 
-</div>
-
-<!-- by kangw3n temp use --> 
-<style>
-.vip-edn--promotion a { white-space: pre; }
-</style><!-- #Location: /inc/ads/menu_top_right-->
-      </section>
-
-      <section class="navigation-wrapper">
-        <nav class="navigation">
-          <a href="/news/index" class="navigation-list navigation-fixed home" aria-label="回聯合新聞網首頁">
-            <img alt="udn-logo" title="回聯合新聞網首頁" src="/static/img/logo.svg?2020020601">
-          </a>
-          <a href="/news/breaknews/1" class="navigation-list navigation-fixed" data-id="1">即時</a>
-
-          <a href="/news/cate/2/6638" class="navigation-list" data-id="6638">要聞</a>
-          <a href="https://stars.udn.com" class="navigation-list" data-id="1022">娛樂</a>
-          <a href="/news/cate/2/7227" class="navigation-list" data-id="7227">運動</a>
-          <a href="/news/cate/2/7225" class="navigation-list" data-id="7225">全球</a>
-          <a href="/news/cate/2/6639" class="navigation-list" data-id="6639">社會</a>
-          <a href="/news/cate/2/6641" class="navigation-list" data-id="6641">地方</a>
-          <a href="/news/cate/2/6644" class="navigation-list" data-id="6644">產經</a>
-          <a href="/news/cate/2/6645" class="navigation-list" data-id="6645">股市</a>
-          <a href="https://house.udn.com" class="navigation-list" data-id="1009">房市</a>
-          <a href="/news/cate/2/6649" class="navigation-list" data-id="6649">生活</a>
-          <a href="https://health.udn.com" class="navigation-list" data-id="1005">健康</a>
-          <a href="https://orange.udn.com" class="navigation-list" data-id="8887">橘世代</a>
-          <a href="/news/cate/2/11195" class="navigation-list" data-id="11195">文教</a>
-          <a href="/news/cate/2/6643" class="navigation-list" data-id="6643">評論</a>
-          <a href="/news/cate/2/6640" class="navigation-list" data-id="6640">兩岸</a>
-          <a href="/news/cate/2/7226" class="navigation-list" data-id="7226">數位</a>
-          <a href="/news/cate/1013" class="navigation-list" data-id="1013">旅遊</a>
-          <a href="/news/cate/2/120909" class="navigation-list" data-id="120909">Oops</a>
-          <a href="https://reading.udn.com/read/index" class="navigation-list" data-id="1014">閱讀</a>
-          <a href="/news/cate/1015" class="navigation-list" data-id="1015">雜誌</a>
-          <a href="https://500times.udn.com" class="navigation-list" data-id="8787">500輯</a>
-          <a href="https://ubrand.udn.com" class="navigation-list" data-id="8006">倡議+</a>
-          <a href="https://time.udn.com" class="navigation-list" data-id="8009">報時光</a>
-          <a href="https://mybeauty.udn.com" class="navigation-list" data-id="4870">美妝</a>
-          <a href="https://global.udn.com" class="navigation-list" data-id="1020">轉角國際</a>
-          <a href="https://tw-nba.udn.com" class="navigation-list" data-id="2000">NBA</a>
-          <a href="https://style.udn.com" class="navigation-list" data-id="2002">時尚</a>
-          <a href="https://autos.udn.com" class="navigation-list" data-id="1018">汽車</a>
-          <a href="https://udn.com/ctba/index" class="navigation-list" data-id="8007">棒球</a>
-          <a href="https://udn.com/hbl/index" class="navigation-list" data-id="3007">HBL</a>
-          <a href="https://game.udn.com" class="navigation-list" data-id="2003">遊戲</a>
-          <a href="https://opinion.udn.com" class="navigation-list" data-id="1008">鳴人堂</a>
-          <a href="/topic/index" class="navigation-list" data-id="topic">專題</a>
-          <a href="https://udn.com/umedia/" class="navigation-list" data-id="2004">U值</a>
-          <a href="http://blog.udn.com" class="navigation-list" data-id="blog">網誌</a>
-          <a href="https://pets.udn.com" class="navigation-list" data-id="1023">寵物部落</a>
-          <a class="navigation-list" data-id="shopping" href="#">購物</a>
-        </nav>
-        <span class="btn navigation-toggler" role="button" aria-label="more-menu"></span>
-      </section>
-  
-  
-    </div>
-  
-    <section class="overlay-menu full-menu">
-          <span class="btn close-btn" aria-label="close" role="button"><i class="i-close"></i></span>
-      <div class="container">
-  
-        <div class="input-holder" role="search">
-          <input type="search" placeholder="請輸入關鍵字" aria-label="input-search">
-          <span class="btn btn-search text-orange" aria-label="submit-search"><i class="i-search"></i></span>
-        </div>
-  
-        <section class="site-links">
-          <h3 class="site-links__title">全產品速覽</h3>
-          <div class="site-links__wrapper">
-
-            <section class="site-product">
-              <h4 class="context-box__title--orange site-product__title">新聞評論</h4>
-              <a href="https://udn.com/news/index" title="聯合新聞網" target="_blank" class="site-product__link list-ellipsis">聯合新聞網</a>
-              <a href="https://sdgs.udn.com/sdgs/index" title="陽光行動" target="_blank" class="site-product__link list-ellipsis">陽光行動</a>
-              <a href="https://vip.udn.com/vip/index" title="聯合報數位版" target="_blank" class="site-product__link list-ellipsis">聯合報數位版</a>
-              <a href="https://udn70.udn.com/" title="聯合70" target="_blank" class="site-product__link list-ellipsis">聯合70</a>
-              <a href="https://global.udn.com/global_vision/index" title="轉角國際" target="_blank" class="site-product__link list-ellipsis">轉角國際</a>
-              <a href="https://opinion.udn.com/opinion/index" title="鳴人堂" target="_blank" class="site-product__link list-ellipsis">鳴人堂</a>
-              <a href="https://ubrand.udn.com/ubrand/index" title="倡議家" target="_blank" class="site-product__link list-ellipsis">倡議家</a>
-              <a href="https://theme.udn.com/theme/index" title="時事話題" target="_blank" class="site-product__link list-ellipsis">時事話題</a>
-              <a href="https://www.worldjournal.com/" title="世界日報" target="_blank" class="site-product__link list-ellipsis">世界日報</a>
-              <a href="https://topic.udn.com/issue/index" title="新聞話題" target="_blank" class="site-product__link list-ellipsis">新聞話題</a>
-            </section>
-  
-            <section class="site-product">
-              <h4 class="context-box__title--orange site-product__title">服務</h4>
-              <a href="https://member.udn.com" title="會員中心" target="_blank" class="site-product__link--member site-product__link list-ellipsis">會員中心</a>
-              <a href="https://upoints.udn.com/upt/index.jsp?utm_source=head" title="U利點數" target="_blank" class="site-product__link list-ellipsis">U利點數</a>
-              <a href="https://udn.com/mypage/mynewsFeature" title="我的新聞" target="_blank" class="site-product__link list-ellipsis">我的新聞</a>
-              <a href="https://udn.com/news/archive" title="歷史新聞" target="_blank" class="site-product__link list-ellipsis">歷史新聞</a>
-              <a href="https://event.udn.com/index/index.html" title="活動專區" target="_blank" class="site-product__link list-ellipsis">活動專區</a>
-              <a href="https://www.facebook.com/myudn" title="udn粉絲團" target="_blank" class="site-product__link list-ellipsis">udn粉絲團</a>
-              <a href="https://event.udn.com/line/" title="udn line 好友" target="_blank" class="site-product__link list-ellipsis">udn line 好友</a>
-            </section>
-  
-            <section class="site-product">
-              <h4 class="context-box__title--orange site-product__title">股市理財</h4>
-              <a href="https://money.udn.com/money/index" title="經濟日報網" target="_blank" class="site-product__link list-ellipsis">經濟日報網</a>
-              <a href="https://house.udn.com/house/index" title="房地產" target="_blank" class="site-product__link list-ellipsis">房地產</a>
-              <a href="https://fund.udn.com/" title="基金" target="_blank" class="site-product__link list-ellipsis">基金</a>
-              <a href="https://www.cens.com/cens/html/zh/?utm_source=udn&utm_medium=ref_familybar_udn&utm_term=familybar_udn" title="中經社" target="_blank" class="site-product__link list-ellipsis">中經社</a>
-              <a href="https://udn.com/lotto/" title="樂透" target="_blank" class="site-product__link list-ellipsis">樂透</a>
-              <a href="https://udn.com/invoice/" title="發票" target="_blank" class="site-product__link list-ellipsis">發票</a>
-            </section>
-  
-            <section class="site-product">
-              <h4 class="context-box__title--orange site-product__title">生活娛樂</h4>
-              <a href="https://stars.udn.com/star/index" title="噓！星聞" target="_blank" class="site-product__link list-ellipsis">噓！星聞</a>
-              <a href="https://udn.com/upf/upeople/index.html" title="優人物" target="_blank" class="site-product__link list-ellipsis">優人物</a>
-              <a href="https://style.udn.com/style/index" title="udnSTYLE" target="_blank" class="site-product__link list-ellipsis">udnSTYLE</a>
-              <a href="https://500times.udn.com" title="500輯" target="_blank" class="site-product__link list-ellipsis">500輯</a>
-              <a href="https://game.udn.com/game/index" title="遊戲角落" target="_blank" class="site-product__link list-ellipsis">遊戲角落</a>
-              <a href="https://autos.udn.com/autos/index" title="發燒車訊" target="_blank" class="site-product__link list-ellipsis">發燒車訊</a>
-              <a href="https://health.udn.com/health/index" title="元氣網" target="_blank" class="site-product__link list-ellipsis">元氣網</a>
-              <a href="https://orange.udn.com/orange/index" title="橘世代" target="_blank" class="site-product__link list-ellipsis">橘世代</a>
-              <a href="https://mybeauty.udn.com/mybeauty/index" title="有好美" target="_blank" class="site-product__link list-ellipsis">myBeauty</a>
-              <a href="https://pets.udn.com/pets/index" title="寵物部落" target="_blank" class="site-product__link list-ellipsis">寵物部落</a>
-            </section>
-  
-            <section class="site-product">
-              <h4 class="context-box__title--orange site-product__title">運動</h4>
-              <a href="https://tw-nba.udn.com/nba/index" title="udn NBA" target="_blank" class="site-product__link list-ellipsis">udn NBA</a>
-              <a href="https://udn.com/ctba/index" title="野球夢田" target="_blank" class="site-product__link list-ellipsis">野球夢田</a>
-              <a href="https://udn.com/hbl/index" title="HBL" target="_blank" class="site-product__link list-ellipsis">HBL</a>
-              <a href="https://running.biji.co/" title="運動筆記" target="_blank" class="site-product__link list-ellipsis">運動筆記</a>
-              <a href="https://hiking.udn.com/" title="健行筆記" target="_blank" class="site-product__link list-ellipsis">健行筆記</a>
-            </section>
-  
-            <section class="site-product">
-              <h4 class="context-box__title--orange site-product__title">閱讀創作</h4>
-              <a href="https://reading.udn.com/read/index" title="琅琅悅讀" target="_blank" class="site-product__link list-ellipsis">琅琅悅讀</a>
-              <a href="https://reading.udn.com/v2/bookMain.do" title="讀書吧" target="_blank" class="site-product__link list-ellipsis">讀書吧</a>
-              <a href="https://story.udn.com/" title="讀創故事" target="_blank" class="site-product__link list-ellipsis">讀創故事</a>
-              <a href="https://event.udn.com/lianfu70/" title="聯副70" target="_blank" class="site-product__link list-ellipsis">聯副70</a>
-              <a href="https://blog.udn.com/" title="udn部落格" target="_blank" class="site-product__link list-ellipsis">udn部落格</a>
-              <a href="https://udn.com/umedia/" title="u 值媒體" target="_blank" class="site-product__link list-ellipsis">u 值媒體</a>
-              <a href="http://unitas.udngroup.com.tw/" title="聯合文學" target="_blank" class="site-product__link list-ellipsis">聯合文學</a>
-              <a href="https://www.linkingbooks.com.tw/LNB/index.aspx" title="聯經出版" target="_blank" class="site-product__link list-ellipsis">聯經出版</a>
-              <a href="https://www.unitas.me/" title="聯文雜誌" target="_blank" class="site-product__link list-ellipsis">聯文雜誌</a>
-            </section>
-  
-            <section class="site-product">
-              <h4 class="context-box__title--orange site-product__title">文創購物</h4>
-              <a href="https://udnfunlife.com/?utm_source=udn.com&utm_medium=familybar" title="數位文創" target="_blank" class="site-product__link list-ellipsis">數位文創</a>
-              <a href="https://ulicensing.udnfunlife.com/?utm_source=udn.com&utm_medium=familybar" title="IP 授權" target="_blank" class="site-product__link list-ellipsis">IP 授權</a>
-              <a href="https://uevent.udnfunlife.com/?utm_source=udn.com&utm_medium=familybar" title="瘋活動" target="_blank" class="site-product__link list-ellipsis">瘋活動</a>
-              <a href="https://tickets.udnfunlife.com/application/utk01/utk0101_.aspx?sid=91_udn&utm_source=udn.com&utm_medium=referral_familybar_udn&utm_term=familybar_udn&utm_campaign=20170118_UDN" title="售票網" target="_blank" class="site-product__link list-ellipsis">售票網</a>
-              <a href="https://udndata.com/ndapp/udntime/udntag/UtIndex" title="報時光" target="_blank" class="site-product__link list-ellipsis">報時光</a>
-            </section>
-  
-            <section class="site-product">
-              <h4 class="context-box__title--orange site-product__title">更多產品</h4>
-              <a href="https://udndata.com/ndapp/Index" title="聯合知識庫" target="_blank" class="site-product__link list-ellipsis">聯合知識庫</a>
-              <a href="https://paper.udn.com/" title="聯合電子報" target="_blank" class="site-product__link list-ellipsis">聯合電子報</a>
-              <a href="https://video.udn.com/" title="聯合影音網" target="_blank" class="site-product__link list-ellipsis">聯合影音網</a>
-              <a href="https://udncollege.udn.com/" title="聯合學苑" target="_blank" class="site-product__link list-ellipsis">聯合學苑</a>
-              <a href="https://utravel.udn.com/" title="有行旅" target="_blank" class="site-product__link list-ellipsis">有行旅</a>
-              <a href="https://mobile.udn.com/" title="APP行動網" target="_blank" class="site-product__link list-ellipsis">APP行動網</a>
-            </section>
-  
-          </div>
-        </section>
-      </div>
-  
-  
-      <footer class="footer">
-        <div class="container">
-          <section class="footer-social">
-            <a href="https://www.facebook.com/myudn" title="Facebook" class="btn btn-social" aria-label="Facebook"><i class="i-fb-round"></i></a>
-            <a href="https://www.instagram.com/myudn/" title="Instagram" class="btn btn-social" aria-label="Instagram"><i class="i-instagram-1"></i></a>
-            <a href="https://www.youtube.com/channel/UC2M61YK4ntt9iK-23XhDwcw" title="Youtube" class="btn btn-social" aria-label="Youtube"><i class="i-youtube3"></i></a>
-            <a href="https://play.google.com/store/apps/details?id=com.udn.news" title="Playstore" class="btn btn-social" aria-label="Playstore"><i class="i-playstore"></i></a>
-            <a href="https://apps.apple.com/tw/app/id370132213?l=zh" title="AppleStore" class="btn btn-social" aria-label="AppleStore"><i class="i-applestore"></i></a>
-            <span class="pwa-install btn btn-social show">P</span>
-            
-            <form class="newsletter" action="https://paper.udn.com/ZOPE/UDN/Subscribe/Pkg_Add" method="GET" target="_blank">
-              <input type="email" required placeholder="輸Email訂聯合電子報" name="p_email" aria-label="subscription-email">
-              <input checked hidden value="H" name="p_PID0001" type="checkbox">
-              <button aria-label="subscription" class="btn btn-ripple btn-dark-grey" type="submit">訂閱</button>
-            </form>
-      
-          </section>
-      
-          <section class="footer-note">
-            <nav class="footer-note__wrapper">
-          <a href="https://event.udn.com/AD/" class="footer-note__link">刊登廣告</a>
-          <span class="footer-note__link"><a href="https://udn.com/page/topic/184" title="FAQ">FAQ</a>·<a href="https://co.udn.com/co/contactus" title="客服">客服</a></span>
-          <a href="https://udndata.com/udnauthority.html" class="footer-note__link">新聞授權</a>
-          <span class="footer-note__link"><a href="https://member.udn.com/member/rule.jsp" title="服務條款">服務條款</a>·<a href="https://udn.com/page/topic/495" title="著作權">著作權</a>·<a href="https://www.udngroup.com/members/udn_privacy" title="隱私權聲明">隱私權聲明</a></span>
-          <a href="https://www.udngroup.com/" class="footer-note__link">聯合報系</a>
-          <a href="https://bit.ly/3OYwisd" class="footer-note__link">訂報紙</a>
-          <a href="https://co.udn.com/" class="footer-note__link">關於我們</a>
-          <a href="https://udn.com/page/topic/496" class="footer-note__link">網站總覽</a>
-            </nav>
-            <div class="footer-word">
-              聯合線上公司 著作權所有 ©2020
-            </div>
-          </section>
-      
-        </div>
-      </footer>
-<style>
-.logo-sponsor a:first-of-type img {aspect-ratio: unset;}
-</style>
-<!-- #Location: /inc/ads/three_lines-->
-    </section>
-  
-    <section class="overlay-menu context-box custom-menu">
-      <span class="btn close-btn" aria-label="close" role="button"><i class="i-close"></i></span>
-      <div class="container">
-        <header class="context-box__header">
-          <h3 class="context-box__title">我的頻道 </h3>
-          <div class="custom-menu__tools">
-            <span class="custom-menu__info">* 拖拉選單自訂排序儲存</span>
-            <section class="custom-menu__confirm">
-              <div class="btn-holder btn-holder--right">
-                <span class="btn btn-border btn-border--grey" id="resetMenu" role="button" aria-label="reset-menu">恢復預設</span>
-                <span class="btn btn-blue disabled" id="setMenu" role="button" aria-label="confirm-menu">確定</span>
-              </div>
-            </section>
-            <span class="btn btn-border btn-border--grey btn--customize" role="button" aria-label="customize-menu" id="customize">設定</span>
-          </div>
-        </header>
-	<!--橘世代短期活動 start -->
-	<style>
-            .orange-promotion {
-              display: none;
-              font-size: 16px;
-              background: #eee;
-              width: 100vw;
-              margin: 0 calc(-50vw + 50%);
-    
-              padding: 2px 10px;
-            }
-  
-            .orange-promotion a  {
-              display: flex;
-              align-items: center;
-              width: 100%;
-            }
-  
-            .orange-promotion span {
-              display: inline-block;
-              width: calc(100% - 50px);
-              /*text-align: center;*/
-              line-height: 1.24;
-            }
-            .orange-promotion img{
-              width: 45px;
-              height: 45px;
-            }
-            @media (max-width: 768px) {
-              .orange-promotion {
-                display: block;
-              }
-  
-              .orange-promotion + .custom-menu__wrapper {
-                padding-top: 0;
-              }
-            }
-        </style>
-	<section class="orange-promotion">
-		<a href="https://orange.udn.com/orange/index?utm_source=udnnews&utm_medium=mobilemenu"><img src="https://udn.com/upf/news/2021/orange-promotion-logo.gif" alt=""><span>加入橘世代VIP富活人生下半場。</span></a>
-	</section>
-	<!--橘世代短期活動 end -->
-        <section class="custom-menu__wrapper">
-          <section class="custom-menu__content custom-menu--main">
-            <div class="custom-menu--button__holder">
-              <span data-href="#" data-id="1"
-                class="btn btn-border btn-border--blue custom-menu--button custom-menu--button-disabled disabled">即時</span>
-              <span data-href="#" data-id="2"
-                class="btn btn-border btn-border--blue custom-menu--button custom-menu--button-disabled disabled">要聞</span>
-            </div>
-          </section>
-  
-  
-        </section>
-      </div>
-  
-  
-    </section>
-    
-      
-  </header>
-
-    <section class="navigation-submenu">
-      <div class="container">
-
-        <navigation class="navigation-submenu__selector">
-
-        </navigation>
-        <div class="navigation-submenu__wrapper">
-
-          <!-- insert from here -->
-
-        </div>
-
-        <div class="navigation-submenu__controls">
-          <div class="arrow-area left">
-            <span class="arrow left-arrow i-arrow7-left"></span>
-          </div>
-          <div class="arrow-area right">
-            <span class="arrow right-arrow i-arrow7-right"></span>
-          </div>
-        </div>
-      </div>
-      <footer class="navigation-submenu__footer">
-        <div class="container">
-        </div>
-      </footer>
-    </section>
-  <section class="udn-idle"></section>
-  <main class="main-content two-column main-story ">
-<div class="container">
-	<!-- breaking-news : add "breaking-news-\-single" classes if only 1 news  -->
-<section class="breaking-news__wrapper  breaking-news--double">
-      
-	<div class="breaking-news__icon">快訊
-		<span class="breaking-news__arrow"></span>
-		<span class="breaking-news__arrow"></span>
-	</div>
-	<h2 class="breaking-news">
-		<a href="https://udn.com/news/story/7268/6896735?from=redpush" title="12生肖「癸卯兔年」運勢排行曝光！易經命理師斷言：「3類人」吉星高照" data-story_list="list_快訊" data-content_level="開放閱讀">
-			<span class="breaking-news__title">12生肖「癸卯兔年」運勢排行曝光！易經命理師斷言：「3類人」吉星高照</span>
-			<time class="breaking-news__time" datetime="10:09">10:09</time>
-		</a>
-	</h2>
-	<h2 class="breaking-news">
-		<a href="https://vip.udn.com/vip/story/121160/6895905?from=udn-category?from=redpush" title="陳其邁搶宣布高鐵南延路線引黑箱爭議 為何高雄屏東都不埋單" data-story_list="list_快訊" data-content_level="限付費訂戶">
-			<span class="breaking-news__title">陳其邁搶宣布高鐵南延路線引黑箱爭議 為何高雄屏東都不埋單</span>
-			<time class="breaking-news__time" datetime="10:04">10:04</time>
-		</a>
-	</h2>
-</section>
-		<style>
-#ads-index-top--mobile {
-  min-height: inherit;
-}
-</style>
-
-<!-- /129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a01 ※Mobile_頭版大佈告_3000x250※-->
-<div class='udn-ads udn-ads--mobile' id='ads-index-top--mobile' style='min-height: 280px;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('ads-index-top--mobile'); });
-  </script>
-</div><!-- #Location: /inc/ads/index_top_ads -->
-	<!-- normal index ads -->
-	<section class="wrapper-left main-content__wrapper">
-				<!-- /129853887/udn.com/2_News/3_News-PC/4_News-PC-a06  ※PC巨無霸_970x250※ -->
-<div class='udn-ads' id='ads-superBanner' style="min-width: 970px; min-height: 250px;">
-<script>
-googletag.cmd.push(function() { googletag.display('ads-superBanner'); });
-</script>
-</div><!-- #Location: /inc/ads/menu_bottom_left -->
-		<section class="article-content__wrapper" data-pv="https://misc.udn.com/record/pageview/2/6640/122650/6870334">
-			          <section class="article-content__info">
-            <nav class="article-content__breadcrumb" aria-label="Breadcrumb">
-              <a href='https://udn.com' class="breadcrumb-items">udn</a>
-              <a href='/news/cate/2/6640' class="breadcrumb-items">兩岸</a>
-              <a  class="breadcrumb-items">陸將鬆綁邊境</a>
-            </nav>
-
-          </section>
-			          <h1 class="article-content__title">中國開放國門恐大範圍傳播病毒？外媒憂毒株大雜燴</h1>
-
-          <div class="article-content__subinfo">
-            <section class="authors">
-              <time class="article-content__time">2022-12-28 15:25</time>
-              <span class="article-content__author">
-                世界日報／
-                中國新聞組／北京28日電
-              </span>
-            </section>
-
-            <section class="follow-tags__holder">
-              <span role="listitem" tabindex="-1" title="春節" data-id="123039" data-type="tag" data-site="6640" class="btn btn-follow">
-                春節              </span>
-            </section>
-
-          </div>
-
-          <figure class="article-content__cover"style="--bg-image: url('https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=930&nt=1');"><picture><source media="(min-width: 1024px)" srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=930&nt=1" type="image/webp"><source media="(min-width: 1024px)" srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=930" type="image/jpeg"><source srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=465&nt=1" type="image/webp"><source srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=465" type="image/jpeg"><img class="lazyload" src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/12/28/4/19776335.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=930" loading="lazy" alt="中國宣布明年初停止嚴格入境隔離措施，並恢復民眾出境旅遊。 美聯社" title="中國宣布明年初停止嚴格入境隔離措施，並恢復民眾出境旅遊。 美聯社"></picture><figcaption>中國宣布明年初停止嚴格入境隔離措施，並恢復民眾出境旅遊。 美聯社</figcaption></figure>
-          <section class="article-content__plugins">
-            <div class="fb-like" data-href="https://udn.com/news/story/122650/6870334" data-width=""
-              data-layout="button_count" data-action="like" data-size="small" data-show-faces="true"
-              data-share="true"></div>
-            <span class="plugins-line">
-              <div class="line-it-button" data-lang="zh_Hant" data-type="share-a" data-ver="3"
-                data-url="https://udn.com/news/story/122650/6870334?utm_source=lineapi&utm_medium=share" data-color="default" data-size="small" data-count="false"
-                style="display: none;" class=""></div>
-            </span>
-            <!--<span class="btn btn-sponsor">贊助本文</span>-->
-          </section>
-          <article class="article-content">
-            <aside class="article-content__social">
-              <div class="social-wrapper">
-                <span role="button" aria-label="like-news" title="喜歡此新聞" data-id="articleid124" class="btn btn-social btn-icon btn-like btn-like-filled"></span>
-                <a href="#" aria-label="Facebook" title="分享FB" class="btn btn-social btn-social--facebook"><i class="i-fb-round"></i></a>
-                <a href="#" aria-label="Line" title="分享Line" class="btn btn-social btn-social--line"><i class="i-line"></i></a>
-                <span role="button" aria-label="comment" class="btn btn-social btn-comment"><i class="i-discuss"></i></span>
-                <span role="button" aria-label="bookmark" title="收藏" class="btn btn-social btn-icon btn-bookmark"><i class="i-bookmark-empty"></i></span>
-                <span role="button" aria-label="text-size" title="調整字形大小" class="btn btn-social btn-text" id="text-size"><i class="i-text-size"></i></span>
-              </div>
-            </aside>
-
-            <div class="article-content__paragraph">
-
-              <section class="article-content__editor ">
-                <!-- content from cms -->
-                <!--0--><p></p><p>
-中國宣布明年初停止嚴格入境<a href='/search/tagging/2/隔離' rel='隔離' data-rel='/2/179843' class='tag'><strong>隔離</strong></a>措施，並有序恢復民眾出境旅遊。在微博上，網民歡呼出入境封鎖終於結束，出境遊、機票搜索度暴增。但外媒引述網民憂心「毒株大雜燴要來了」，指中國突然開放國門，大範圍的病毒傳播可能會引發病毒變種，反而加速疫情擴散。</p><!--1--><p>
-</p><p>
-美國之音報導，國家衛健委26日發布消息，取消針對入境人員的全員核酸檢測和集中隔離，前往中國的人士只需在出發前48小時進行核酸檢測，結果陰性者便可以入境，無需向中國駐外使領館申請健康碼。</p><style>
-/*.innity-apps-underlay-ad {z-index: 34 !important; }*/
-.innity-apps-underlay-ad ~ .header {z-index: 35;}
-.innity-apps-underlay-ad ~ .main-content .inline-ads { background: transparent;}
-#eyeDiv ~ .footer{ position: relative; z-index: 2;} /* sizmek_underlay 投遞調整置底 z-index 權重 */
-.article-content__abbr__text {display:inline-block;} /* to be remove */
-</style>
-<!-- /129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a02 ※Mobile文中大佈告_3000x250※-->
-<div class='inline-ads'>
-<div class='udn-ads udn-ads-300x250 udn-ads--mobile' id='ads-inline'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('ads-inline'); });
-  </script>
-</div>
-
-<div id="underlay-checkpoint"></div>
-<!-- innity_underlay直售 -->
-<span id="innity-custom-premium-span-9661"></span>
-<!-- innity_underlay聯播 -->
-<span id="innity-custom-adnetwork-span-67883"></span>
-
-</div><!--2--><p>
-</p><p>
-文件還要求各地進一步優化復工復產、商務、留學、探親、團聚等外籍人士赴中安排，提供相應簽證便利，並有序恢復中國公民出境旅遊。</p><!--3--><p>
-</p><p>
-這一宣布在中國網上引起了不少正面的反應，攜程網數據顯示，自新政策後，澳門、香港、日本、泰國、南韓、美國等地的搜索熱度迅速上升，<a href='/search/tagging/2/春節' rel='春節' data-rel='/2/123039' class='tag'><strong>春節</strong></a>出境跟團遊的相關搜索也漲了六倍。</p><!--4--><p>
-</p><p>
-但是，在官方宣傳了三年<a href='/search/tagging/2/清零' rel='清零' data-rel='/2/204603' class='tag'><strong>清零</strong></a>及病毒危害性後，不少支持管控的網民對突然的「放開」感到不適和反感。他們擔心，開放後國外的病毒將進入中國，但也有人反酸此舉是幫助中國人「投毒」，把病毒帶到全世界，以報復西方國家，「國外病毒株算什麽，國內也有養點大得，不給全世界享受一下怎麽行」，這則留言獲得上千按讚。</p><!--5--><p>
-</p><p>
-美聯社引述約翰·霍普金斯大學<a href='/search/tagging/2/傳染病' rel='傳染病' data-rel='/2/104935' class='tag'><strong>傳染病</strong></a>專家斯圖爾特·坎貝爾·雷（Stuart Campbell Ray）說：「中國人口很多，而且免疫力有限。這種環境似乎我們可能會看到新變種爆發。」</p><!--6--><p>
-</p><p>
-美國西北大學預防醫學系教授張暉則告訴BBC，病毒在大面積蔓延、大量複製時可能會出現新的變異株。但他認為，預計這個風險還沒有大到決策部門改變入境政策的地步。</p><!--7--><p>
-</p><p>
-而中國對外國<a href='/search/tagging/2/開放邊境' rel='開放邊境' data-rel='/2/190494' class='tag'><strong>開放邊境</strong></a>也是同理，「雙向的風險都不可能是零，但風險是比較低的」。張暉表示，「目前歐美非常擔心中國會出現新的更強的毒株再次橫掃世界，雖然我理解他們這種顧慮背後的科學道理，但是因為其概率很低，不應該影響中國居民入境世界各國。」</p><!--8--><!--99-->                <!-- end of articles -->
-              </section>
-
-              <section class="keywords" id="keywords">
-  <a data-rel="/2/151877" href="/search/tagging/2/新冠肺炎" class="btn btn-border btn-border--blue btn-keyword tag">新冠肺炎</a>
-  <a data-rel="/2/179843" href="/search/tagging/2/隔離" class="btn btn-border btn-border--blue btn-keyword tag">隔離</a>
-  <a data-rel="/2/190494" href="/search/tagging/2/開放邊境" class="btn btn-border btn-border--blue btn-keyword tag">開放邊境</a>
-  <a data-rel="/2/104935" href="/search/tagging/2/傳染病" class="btn btn-border btn-border--blue btn-keyword tag">傳染病</a>
-  <a data-rel="/2/123039" href="/search/tagging/2/春節" class="btn btn-border btn-border--blue btn-keyword tag">春節</a>
-  <a data-rel="/2/204603" href="/search/tagging/2/清零" class="btn btn-border btn-border--blue btn-keyword tag">清零</a>
-</section>
-              <!-- /4576170/news_txtdown ※PC&Mobile_文尾文字※-->
-<div class='udn-ads ads-all' id='news_txtdown' style="margin-top: 20px; margin-bottom: 20px;">
-  <script>
-    googletag.cmd.push(function() { googletag.display('news_txtdown'); });
-  </script>
-</div><!-- /4576170/news_520*290 -->
-<div class='udn-ads article-content__ads--video' id='udn-520x290'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('udn-520x290'); });
-  </script>
-</div><!-- /129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a03 ※Mobile文末大佈告_300x250※ -->
-<div class='udn-ads udn-ads--mobile' id='ads-Mobile_300x250--article' style='min-height: 250px;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('ads-Mobile_300x250--article'); });
-  </script>
-</div><!-- #Location: /inc/ads/bottom_of_article-->
-            </div>
-          </article>
-
-<script>
-  var tags = document.querySelectorAll(".tag");
-  for (let tag of tags) {
-    tag.addEventListener("click",function(e) {
-      e.preventDefault(); // 不讓他過去
-      var rel = tag.getAttribute("data-rel");
-      tag_url = "https://misc.udn.com/api/EventCollect"+rel;
-      fetch(tag_url,{cache: "no-cache"})
-        .then(function(response) {
-          location.href = tag.getAttribute('href');
-        })
-        .catch(function () {
-          location.href = tag.getAttribute('href');
-        })
-    });
-  }
-</script>
-						<div id="taboola-mobile-below-article-thumbnails"></div>
-<script type="text/javascript">
-	window._taboola = window._taboola || [];
-	if (window.__UDN__.isMobile) {
-		_taboola.push({
-			mode:'alternating-mobile-1x5',
-			container: 'taboola-mobile-below-article-thumbnails',
-			placement: 'Mobile Below Article Thumbnails-BothSides',
-			target_type: 'mix'
-		});
-	}
-</script>
-			          <section class="related-news more-news context-box article-section">
-            <header class="context-box__header">
-              <h3 class="context-box__title">相關新聞</h3>
-            </header>
-          
-            <div class="context-box__content story-list__holder">
-
-              <div  class="story-list__news"  >
-                <div class="story-list__image ">
-                  <a href="/news/story/122650/6896750?from=udn-relatednews_ch2" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀" title="亞洲多國歡迎中國遊客 泰國副總理親到機場迎接首批陸客" class="story-list__image--holder"><picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/09/realtime/19858581.png&s=Y&x=170&y=0&sw=741&sh=495&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/09/realtime/19858581.png&s=Y&x=170&y=0&sw=741&sh=495&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/09/realtime/19858581.png&s=Y&x=170&y=0&sw=741&sh=495&exp=3600&w=300" alt=""></picture></a>
-                </div>
-                <div class="story-list__text">
-                  <h3>
-                    <a href="/news/story/122650/6896750?from=udn-relatednews_ch2" title="亞洲多國歡迎中國遊客 泰國副總理親到機場迎接首批陸客" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀">亞洲多國歡迎中國遊客 泰國副總理親到機場迎接首批陸客</a>
-                  </h3>
-                  <p>
-                    大陸1月8日起解除邊境管制，並恢復公民出境旅遊，多國表示歡迎，當中泰國副總理表示，今天（9日）中午將到機場歡迎第一批遊泰...                  </p>
-                  <div class="story-list__info">
-                    <time class="story-list__time">2023-01-09 09:32</time>
-                  </div>
-                </div>
-              </div>
-              <div  class="story-list__news"  >
-                <div class="story-list__image ">
-                  <a href="/news/story/122650/6896466?from=udn-relatednews_ch2" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀" title="「回到疫情前了」 大陸重開國境" class="story-list__image--holder"><picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856982.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856982.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856982.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300" alt=""></picture></a>
-                </div>
-                <div class="story-list__text">
-                  <h3>
-                    <a href="/news/story/122650/6896466?from=udn-relatednews_ch2" title="「回到疫情前了」 大陸重開國境" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀">「回到疫情前了」 大陸重開國境</a>
-                  </h3>
-                  <p>
-                    中國大陸昨天重開國門，取消實施近三年的入境隔離管制，境外人員憑行前四十八小時核酸檢測陰性證明即可入境，大陸和香港首階段通...                  </p>
-                  <div class="story-list__info">
-                    <time class="story-list__time">2023-01-09 00:53</time>
-                  </div>
-                </div>
-              </div>
-              <div  class="story-list__news"  >
-                <div class="story-list__image ">
-                  <a href="/news/story/122650/6890321?from=udn-relatednews_ch2" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀" title="港陸周日通關 雙向每日各限6萬人" class="story-list__image--holder"><picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/05/realtime/19836195.jpg&s=Y&x=0&y=0&sw=3561&sh=2369&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/05/realtime/19836195.jpg&s=Y&x=0&y=0&sw=3561&sh=2369&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/05/realtime/19836195.jpg&s=Y&x=0&y=0&sw=3561&sh=2369&exp=3600&w=300" alt=""></picture></a>
-                </div>
-                <div class="story-list__text">
-                  <h3>
-                    <a href="/news/story/122650/6890321?from=udn-relatednews_ch2" title="港陸周日通關 雙向每日各限6萬人" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀">港陸周日通關 雙向每日各限6萬人</a>
-                  </h3>
-                  <p>
-                    大陸國務院昨公布「優化內地（中國大陸）與港澳人員往來措施」後，香港政府隨後公布一月八日起的首階段通關安排，香港八日起開放...                  </p>
-                  <div class="story-list__info">
-                    <time class="story-list__time">2023-01-06 00:56</time>
-                  </div>
-                </div>
-              </div>
-              <div  class="story-list__news"  >
-                <div class="story-list__image ">
-                  <a href="/news/story/122650/6889610?from=udn-relatednews_ch2" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀" title="澳門：8日起台灣入境旅客無需出示新冠檢測證明" class="story-list__image--holder"><picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/05/realtime/19834469.jpg&s=Y&x=0&y=0&sw=5568&sh=3712&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/05/realtime/19834469.jpg&s=Y&x=0&y=0&sw=5568&sh=3712&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/05/realtime/19834469.jpg&s=Y&x=0&y=0&sw=5568&sh=3712&exp=3600&w=300" alt=""></picture></a>
-                </div>
-                <div class="story-list__text">
-                  <h3>
-                    <a href="/news/story/122650/6889610?from=udn-relatednews_ch2" title="澳門：8日起台灣入境旅客無需出示新冠檢測證明" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀">澳門：8日起台灣入境旅客無需出示新冠檢測證明</a>
-                  </h3>
-                  <p>
-                    澳門特別行政區政府宣布自8日零時起調整防疫措施，由大陸、香港或台灣入境澳門特別行政區的人士無須出示任何新冠病毒檢測證明。...                  </p>
-                  <div class="story-list__info">
-                    <time class="story-list__time">2023-01-05 18:05</time>
-                  </div>
-                </div>
-              </div>
-              <div  class="story-list__news"  >
-                <div class="story-list__image ">
-                  <a href="/news/story/122650/6884726?from=udn-relatednews_ch2" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀" title="上海估7成染疫 陸轉向防重症" class="story-list__image--holder"><picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/03/realtime/19819806.jpg&s=Y&x=0&y=0&sw=4126&sh=2751&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/03/realtime/19819806.jpg&s=Y&x=0&y=0&sw=4126&sh=2751&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/03/realtime/19819806.jpg&s=Y&x=0&y=0&sw=4126&sh=2751&exp=3600&w=300" alt=""></picture></a>
-                </div>
-                <div class="story-list__text">
-                  <h3>
-                    <a href="/news/story/122650/6884726?from=udn-relatednews_ch2" title="上海估7成染疫 陸轉向防重症" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀">上海估7成染疫 陸轉向防重症</a>
-                  </h3>
-                  <p>
-                    中國大陸各地陸續迎來疫情感染及重症高峰期，經濟大省浙江省昨指，近期全省感染病例數，日增約百萬，上海交大附屬瑞金醫院副院長...                  </p>
-                  <div class="story-list__info">
-                    <time class="story-list__time">2023-01-04 02:04</time>
-                  </div>
-                </div>
-              </div>
-              <div  class="story-list__news"  >
-                <div class="story-list__image ">
-                  <a href="/news/story/122650/6880588?from=udn-relatednews_ch2" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀" title="陸估6億人染疫 上海現殯葬黃牛" class="story-list__image--holder"><picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/01/realtime/19806290.jpg&s=Y&x=0&y=0&sw=6309&sh=4206&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/01/realtime/19806290.jpg&s=Y&x=0&y=0&sw=6309&sh=4206&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/01/realtime/19806290.jpg&s=Y&x=0&y=0&sw=6309&sh=4206&exp=3600&w=300" alt=""></picture></a>
-                </div>
-                <div class="story-list__text">
-                  <h3>
-                    <a href="/news/story/122650/6880588?from=udn-relatednews_ch2" title="陸估6億人染疫 上海現殯葬黃牛" data-story_list="list_兩岸_相關新聞" data-content_level="開放閱讀">陸估6億人染疫 上海現殯葬黃牛</a>
-                  </h3>
-                  <p>
-                    大陸正處於疫情海嘯，陸媒推估，全大陸感染人數恐上看六億人。大陸多地醫院重症床位緊缺，數據顯示，北京大學人民醫院急症接診人...                  </p>
-                  <div class="story-list__info">
-                    <time class="story-list__time">2023-01-02 00:45</time>
-                  </div>
-                </div>
-              </div>
-
-              <section class="story-list__holder--append"></section>
-            </div>
-          </section>
-			<div id="taboola-below-article-thumbnails"></div>
-<script type="text/javascript">
-	window._taboola = window._taboola || [];
-	if (!window.__UDN__.isMobile) {
-		_taboola.push({
-			mode: 'alternating-desktop-3x6',
-			container: 'taboola-below-article-thumbnails',
-			placement: 'Desktop Below Article Thumbnails-BothSides',
-			target_type: 'mix'
-		});
-	}
-</script>
-						<section class="sponsor-ads article-section context-box">
-<header class="context-box__header">
-    <h3 class="context-box__title">贊助廣告</h3>
 </header>
 
-<div class="context-box__content">
-	<!-- /129853887/udn.com/2_News/3_News-PC/4_News-PC-a09 ※PC贊助廣告L_3000x250※-->
-	<div class='udn-ads' id='ads-SP300x259_L' style='min-height: 250px;'>
-		<script>
-  		    googletag.cmd.push(function() {
-                var ads_SP_300x250 = googletag.sizeMapping().
-                    addSize([768, 200], [300, 250]).
-                    addSize([0, 0], []).
-                    build();
-                googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a09', [300, 250], 'ads-SP300x259_L').defineSizeMapping(ads_SP_300x250).addService(googletag.pubads());
-                googletag.display('ads-SP300x259_L'); 
-            });
-		</script>
-  	</div>           
-	<!-- /129853887/udn.com/2_News/3_News-PC/4_News-PC-a10 ※PC贊助廣告R_3000x250※-->
-	<div class='udn-ads' id='ads-SP300x259_R' style='min-height: 250px;'>
-		<script>
-	  	    googletag.cmd.push(function() {
-                var ads_SP_300x250 = googletag.sizeMapping().
-                    addSize([768, 200], [300, 250]).
-                    addSize([0, 0], []).
-                    build();
-                googletag.defineSlot('/129853887/udn.com/2_News/3_News-PC/4_News-PC-a10', [300, 250], 'ads-SP300x259_R').defineSizeMapping(ads_SP_300x250).addService(googletag.pubads());
-                googletag.display('ads-SP300x259_R'); 
-            });
-		</script>
-  	</div>  
-</div>
-</section><!--ad_id: 16290--><section class="ec-section article-section context-box">
-<header class="context-box__header"><h3 class="context-box__title">商品推薦</h3></header>
-<div class="context-box__content"><iframe id="udesign" src="https://udesign.udnfunlife.com/mall/cus/cat/OutWebAd.do?dc_btn_0=udnComNews&kdid=ERumainland" width="100%" height="320" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe></div>
-</section><!--ad_id: 19050--><section class="facebook-comment article-section context-box">
-  <header class="context-box__header">
-    <h3 class="context-box__title">FB留言</h3>
-  </header>
-          
-  <div class="context-box__content">
-  </div>
-</section><!--ad_id: 16342-->          <!-- udn-discuss -->
-          <section class="discuss-board article-section context-box">
-            <header class="context-box__header">
-              <h3 class="context-box__title">udn討論區</h3>
-            </header>
-          
-            <div class="context-box__content" id="comments_body">
-          
-              <div class="input-field">
-                <div class="discuss-board__total">共 <span class="text-number">0</span> 則留言</div>
-                <section class="emoji-selection"></section>
-                <textarea id="postText" aria-label="comment-textarea" cols="45" rows="5"
-                  class="discuss-board__textarea"></textarea>
-          
-                <div class="discuss-board__tools">
-                  <span href="#" class="btn btn-dark-grey rules-toggler" id="rulesToggler">規範 <i
-                      class="i-arrow5-down"></i></span>
-          
-                  <div class="user-tools">
-                    <div class="udn-emoji">
-                      <img class="lazyload emoticon" title="讚拉!" data-id="emoticons_01.gif" data-src="//j.udn.com.tw/img/emoticons_01.gif">
-                      <img class="lazyload emoticon" title="哈哈哈" data-id="emoticons_02.gif" data-src="//j.udn.com.tw/img/emoticons_02.gif">
-                      <img class="lazyload emoticon" title="+1" data-id="emoticons_03.gif" data-src="//j.udn.com.tw/img/emoticons_03.gif">
-                      <img class="lazyload emoticon" title="開心" data-id="emoticons_04.gif" data-src="//j.udn.com.tw/img/emoticons_04.gif">
-                      <img class="lazyload emoticon" title="好感動" data-id="emoticons_05.gif" data-src="//j.udn.com.tw/img/emoticons_05.gif">
-                      <img class="lazyload emoticon" title="好笑" data-id="emoticons_06.gif" data-src="//j.udn.com.tw/img/emoticons_06.gif">
-                      <img class="lazyload emoticon" title="加油!!" data-id="emoticons_07.gif" data-src="//j.udn.com.tw/img/emoticons_07.gif">
-                      <img class="lazyload emoticon" title="NO~~~~" data-id="emoticons_08.gif" data-src="//j.udn.com.tw/img/emoticons_08.gif">
-                      <img class="lazyload emoticon" title="蛤？！" data-id="emoticons_09.gif" data-src="//j.udn.com.tw/img/emoticons_09.gif">
-                      <img class="lazyload emoticon" title="OMG~" data-id="emoticons_10.gif" data-src="//j.udn.com.tw/img/emoticons_10.gif">
-                      <img class="lazyload emoticon" title="噗～好瞎！" data-id="emoticons_11.gif" data-src="//j.udn.com.tw/img/emoticons_11.gif">
-                      <img class="lazyload emoticon" title="踹共！！！" data-id="emoticons_12.gif" data-src="//j.udn.com.tw/img/emoticons_12.gif">
-                      <img class="lazyload emoticon" title="有事嗎？" data-id="emoticons_13.gif" data-src="//j.udn.com.tw/img/emoticons_13.gif">
-                      <img class="lazyload emoticon" title="無言(不予置data-評)" data-id="emoticons_14.gif" data-src="//j.udn.com.tw/img/emoticons_14.gif">
-                      <img class="lazyload emoticon" title="怒" data-id="emoticons_15.gif" data-src="//j.udn.com.tw/img/emoticons_15.gif">
-                      </dl>
-                    </div>
-          
-                    <button class="udn-emoji--toggler" aria-label="emoji"></button>
-          
-                    <a href="#" class="btn btn-blue" id="postDiscuss" aria-label="post">發布</a>
-                  </div>
-                </div>
-          
-                <div class="discuss-board__rules">
-                  <ul>
-                    <li>張貼文章或下標籤，不得有違法或侵害他人權益之言論，違者應自負法律責任。</li>
-                    <li>對於明知不實或過度情緒謾罵之言論，經網友檢舉或本網站發現，聯合新聞網有權逕予刪除文章、停權或解除會員資格。不同意上述規範者，請勿張貼文章。</li>
-                    <li>對於無意義、與本文無關、明知不實、謾罵之標籤，聯合新聞網有權逕予刪除標籤、停權或解除會員資格。不同意上述規範者，請勿下標籤。</li>
-                    <li>凡「暱稱」涉及謾罵、髒話穢言、侵害他人權利，聯合新聞網有權逕予刪除發言文章、停權或解除會員資格。不同意上述規範者，請勿張貼文章。</li>
-                  </ul>
-                </div>
-              </div>
-          
-          
-              <div class="discuss-board__content"></div>
-              <div class="btn-holder btn-holder--center">
-                <button class="btn btn-ripple btn-more" aria-label="more-comment"
-                  data-id="more-comment">More <i class="i-arrow5-down"></i></button>
-              </div>
-          
-            </div>
-          </section><!--ad_id: 16343--><!-- #Location: /inc/ads/article_ads_block -->
-			<!-- article-sales-bottom -->
-<div id="taboola-below-discuss-thumbnails"></div>
-<script type="text/javascript">
-	window._taboola = window._taboola || [];
-                
-	_taboola.push({
-		mode: window.__UDN__.isMobile ? 'thumbs-feed-01' : 'thumbs-feed-01-b',
-		container: 'taboola-below-discuss-thumbnails',
-		placement: window.__UDN__.isMobile ? 'Mobile Below Article Feed-BothSides' : 'Desktop Below Article Feed-BothSides',
-		target_type: 'mix'
-	});
-</script>
-			<!-- #Location: /inc/ads/under_the_article_ads_block -->
-		</section>
-	</section>
-	<aside class="wrapper-aside">
-		<div class="wrapper-aside__container">
-						<!-- /129853887/udn.com/2_News/3_News-PC/4_News-PC-a07  ※PC大佈告_3000x250※ -->
-<div class='udn-ads udn-ads-300x600' id='ads-billboard' style='width: 300px; min-height: 250px; overflow: hidden;'>
-<script>
-googletag.cmd.push(function() { googletag.display('ads-billboard'); });
-</script>
-</div><!-- #Location: /inc/ads/menu_bottom_right -->
-			        <div class="hottest-news context-box">
-          <header class="context-box__header">
-            <h3 class="context-box__title">熱門新聞</h3>
-            <a href="/rank/pv/2/6640" class="btn context-box__more"></a>
-          </header>
+
+
+<aside class="NavEffectBox" id="nav-effect">
+
+  <nav class="NavBox">
+
+    <section>
+
+      <div class="title" id="nav-title">
+
+		
+			<a href="//wap.xinmin.cn/toutiao/index.htm" >头条</a>
+
+		
+			<a href="//wap.xinmin.cn/jbh/index.htm" >进博会</a>
+
+		
+			<a href="//wap.xinmin.cn/video/index.htm" >上海时刻</a>
+
+		
+			<a href="//wap.xinmin.cn/shizhen/index.htm" >时政</a>
+
+		
+			<a href="//wap.xinmin.cn/minsheng/index.htm" >民生</a>
+
+		
+			<a href="//wap.xinmin.cn/wentihui/index.htm" >文体汇</a>
+
+		
+			<a href="//wap.xinmin.cn/yeguangbei/index.htm" >夜光杯</a>
+
+		
+			<a href="//wap.xinmin.cn/photo/index.htm" >读图</a>
+
+		
+			<a href="//wap.xinmin.cn/mp3/index.htm" >新声入耳</a>
+
+		
+      </div>
+
+    </section>
+
+  </nav>
+
+  <script language="javascript" src="//wap.xinmin.cn/assets/m/js/nav.js"></script>
+
+</aside>
+
+
+
+<section class="MainContentBox">
+
+  <h2 class="title">谁爱吃什果冰？谁有把植物伞？来看上海动物园防暑降温“大作战”！</h2>
+
+  <div class="appshare_title"><font id="main-title">谁爱吃什果冰？谁有把植物伞？来看上海动物园防暑降温“大作战”！</font><font id="sub-title">飞入寻常百姓家</font></div>
+
+  <div class="info">
+
+    <span>
+
+		<span id="voice-pic"></span>
+
+      
         
-          <div class="context-box__content">
+          <span>
 
-              <div class="rounded-thumb__list">
-                <div class="rounded-thumb__image">
-                <picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856982.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856982.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856982.jpg&s=Y&x=0&y=0&sw=5500&sh=3668&exp=3600&w=300" alt=""></picture>                </div>
-                <h3 class="rounded-thumb__title">
-                  <a href="/news/story/122650/6896466?from=udn-catehotnews_ch2" title="「回到疫情前了」 大陸重開國境" data-story_list="list_兩岸_熱門新聞" data-content_level="開放閱讀">「回到疫情前了」 大陸重開國境</a>
-                </h3>
-              </div>
-              <div class="rounded-thumb__list">
-                <div class="rounded-thumb__image">
-                <picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19853909.jpg&s=Y&x=45&y=0&sw=360&sh=240&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19853909.jpg&s=Y&x=45&y=0&sw=360&sh=240&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19853909.jpg&s=Y&x=45&y=0&sw=360&sh=240&exp=3600&w=300" alt=""></picture>                </div>
-                <h3 class="rounded-thumb__title">
-                  <a href="/news/story/122650/6895505?from=udn-catehotnews_ch2" title="大陸重慶核酸企業大裁員 上千員工上街抗爭爆衝突" data-story_list="list_兩岸_熱門新聞" data-content_level="開放閱讀">大陸重慶核酸企業大裁員 上千員工上街抗爭爆衝突</a>
-                </h3>
-              </div>
-              <div class="rounded-thumb__list">
-                <div class="rounded-thumb__image">
-                <picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19854127.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19854127.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19854127.jpg&s=Y&x=0&y=336&sw=4032&sh=2688&exp=3600&w=300" alt=""></picture>                </div>
-                <h3 class="rounded-thumb__title">
-                  <a href="/news/story/7331/6895638?from=udn-catehotnews_ch2" title="影／金廈小三通首日陽性率18.9% 陳福海要求入境金門要有PCR陰性證明" data-story_list="list_兩岸_熱門新聞" data-content_level="開放閱讀">影／金廈小三通首日陽性率18.9% 陳福海要求入境金門要有PCR陰性證明</a>
-                </h3>
-              </div>
-              <div class="rounded-thumb__list">
-                <div class="rounded-thumb__image">
-                <picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2023/01/08/19854121.png&s=Y&x=0&y=0&sw=500&sh=333&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2023/01/08/19854121.png&s=Y&x=0&y=0&sw=500&sh=333&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2023/01/08/19854121.png&s=Y&x=0&y=0&sw=500&sh=333&exp=3600&w=300" alt=""></picture>                </div>
-                <h3 class="rounded-thumb__title">
-                  <a href="/news/story/7332/6895636?from=udn-catehotnews_ch2" title="疑因這張圖辱華…索尼微博遭禁言 新年「有尼」賀圖也被刪" data-story_list="list_兩岸_熱門新聞" data-content_level="開放閱讀">疑因這張圖辱華…索尼微博遭禁言 新年「有尼」賀圖也被刪</a>
-                </h3>
-              </div>
-              <div class="rounded-thumb__list">
-                <div class="rounded-thumb__image">
-                <picture><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856742.png&s=Y&x=44&y=0&sw=1320&sh=880&exp=3600&w=300&nt=1" type="image/webp"><source data-srcset="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856742.png&s=Y&x=44&y=0&sw=1320&sh=880&exp=3600&w=300" type="image/jpeg"><img class="lazyload" data-src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/08/realtime/19856742.png&s=Y&x=44&y=0&sw=1320&sh=880&exp=3600&w=300" alt=""></picture>                </div>
-                <h3 class="rounded-thumb__title">
-                  <a href="/news/story/7333/6896280?from=udn-catehotnews_ch2" title="談判失敗 輝瑞Paxlovid因高價未納入大陸醫保藥品清單" data-story_list="list_兩岸_熱門新聞" data-content_level="開放閱讀">談判失敗 輝瑞Paxlovid因高價未納入大陸醫保藥品清單</a>
-                </h3>
-              </div>
-<!-- /4576170/free-1_News-PC-a13 ※PC熱門新聞第六則※ -->
-<div id='div-gpt-ad-1602729579465-0'>
-  <script>
-    googletag.cmd.push(function() {
-      var ads_news_hottest = googletag.sizeMapping().
-          addSize([1024, 200], [[1, 1], [300, 50], 'fluid']).
-          addSize([0, 0], []).
-          build();
-      googletag.defineSlot('/4576170/free-1_News-PC-a13', [[1, 1], [300, 50], 'fluid'], 'div-gpt-ad-1602729579465-0').defineSizeMapping(ads_news_hottest).setCollapseEmptyDiv(true).addService(googletag.pubads());
-      googletag.display('div-gpt-ad-1602729579465-0');
-    });
-  </script>
-</div>
-          </div>
-        </div>
-			<!-- BEGIN 498848 - UDN - TW - RTA - Adblocking - 300x250 -->
-<script type="text/javascript" async src="//static.criteo.net/js/ld/publishertag.js"></script>
-<div id="crt-4b79cc74" style="width:300px;height:250px;"></div>
-<script type="text/javascript">
-var Criteo = Criteo || {};
-Criteo.events = Criteo.events || [];
-Criteo.events.push(function() {
-    Criteo.DisplayAcceptableAdIfAdblocked({
-       "zoneid": 498848,
-       "containerid": "crt-4b79cc74",
-       "overrideZoneFloor": false
-    });
-});
-</script>
-<!-- END TAG -->
-<!-- /129853887/udn.com/2_News/3_News-PC/4_News-PC-a03  ※多媒體大佈告CPM_300x250※ -->
-<div class='udn-ads' id='ads-recommendation-300x250' style='min-height: 250px;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('ads-recommendation-300x250'); });
-  </script>
-</div><div class="feature-guess context-box">
-    <header class="context-box__header">
-        <h3 class="context-box__title">
-            <span>猜你喜歡</span>
-            <span id="featureRefresh" role="button" aria-label="feature-refresh" class="btn feature-refresh" title="刷新"></span>
-        </h3>
-        <a href="https://udn.com/mypage/mynewsFeature" title="猜你喜歡" class="btn context-box__more"></a>
-    </header>
-    
-    <div class="context-box__content">
-        <!--猜你喜歡第1則-->
-        <div class="feature-guess__list story-list__news" >
-        <div class="story-list__image"><a class="story-list__image--holder" href="#"></a></div>
-        <div class="story-list__text"><h3><a href="#"></a></h3></div>
-        <div class="feature-guess__tools">
-            <span class="btn btn-icon btn-like" data-id="1" role="button" aria-label="喜愛此內容"></span>
-            <span class="btn btn-icon btn-setting" data-settings="" role="button" aria-label="最愛設定"></span>
-        </div>
-        </div>
-    
-        <!--猜你喜歡第2則-->
-        <div class="feature-guess__list story-list__news" >
-        <div class="story-list__image"><a class="story-list__image--holder" href="#"></a></div>
-        <div class="story-list__text"><h3><a href="#"></a></h3></div>
-        <div class="feature-guess__tools">
-            <span class="btn btn-icon btn-like" data-id="1" role="button" aria-label="喜愛此內容"></span>
-            <span class="btn btn-icon btn-setting" data-settings="" role="button" aria-label="最愛設定"></span>
-        </div>
-        </div>
-    
-        <!-- /129853887/udn.com/2_News/3_News-PC/4_News-PC-a04 ※PC精準1_300x250※ -->
-        <!-- BEGIN 525376 UDN - TW - RTA - Adblocking - 300x250 - B -->
-        <script type="text/javascript" async src="//static.criteo.net/js/ld/publishertag.js"></script>
-        <div id="crt-8b4f7626" style="width:300px;height:250px;"></div>
-        <script type="text/javascript">
-            var Criteo = Criteo || {};
-            Criteo.events = Criteo.events || [];
-            Criteo.events.push(function() {
-                Criteo.DisplayAcceptableAdIfAdblocked({
-                "zoneid": 525376,
-                "containerid": "crt-8b4f7626",
-                "overrideZoneFloor": false
-                });
-            });
-        </script>
-        <!-- END -->
-        <div class='udn-ads' id='ads-300x250-1' style='min-height: 250px;'>
-            <script>
-                googletag.cmd.push(function() { googletag.display('ads-300x250-1'); });
-            </script>
-        </div>
-    
-        <!--猜你喜歡第3則-->
-        <div class="feature-guess__list story-list__news" >
-        <div class="story-list__image"><a class="story-list__image--holder" href="#"></a></div>
-        <div class="story-list__text"><h3><a href="#"></a></h3></div>
-        <div class="feature-guess__tools">
-            <span class="btn btn-icon btn-like" data-id="1" role="button" aria-label="喜愛此內容"></span>
-            <span class="btn btn-icon btn-setting" data-settings="" role="button" aria-label="最愛設定"></span>
-        </div>
-        </div>
-    
-        <!--猜你喜歡第4則-->
-        <div class="feature-guess__list story-list__news" >
-        <div class="story-list__image"><a class="story-list__image--holder" href="#"></a></div>
-        <div class="story-list__text"><h3><a href="#"></a></h3></div>
-        <div class="feature-guess__tools">
-            <span class="btn btn-icon btn-like" data-id="1" role="button" aria-label="喜愛此內容"></span>
-            <span class="btn btn-icon btn-setting" data-settings="" role="button" aria-label="最愛設定"></span>
-        </div>
-        </div>
-    
-        <!-- /129853887/udn.com/2_News/3_News-PC/4_News-PC-a05 ※PC精準2_300x250※ -->
-        <!-- BEGIN 525377 UDN - TW - RTA - Adblocking - 300x250 - C -->
-        <script type="text/javascript" async src="//static.criteo.net/js/ld/publishertag.js"></script>
-        <div id="crt-0e928390" style="width:300px;height:250px;"></div>
-        <script type="text/javascript">
-            var Criteo = Criteo || {};
-            Criteo.events = Criteo.events || [];
-            Criteo.events.push(function() {
-                Criteo.DisplayAcceptableAdIfAdblocked({
-                "zoneid": 525377,
-                "containerid": "crt-0e928390",
-                "overrideZoneFloor": false
-                });
-            });
-        </script>
-        <!-- END -->
-        <div class='udn-ads' id='ads-300x250-2' style='min-height: 250px;'>
-            <script>
-                googletag.cmd.push(function() { googletag.display('ads-300x250-2'); });
-            </script>
-        </div>
-    
-        <!--猜你喜歡第5則-->
-        <div class="feature-guess__list story-list__news" >
-        <div class="story-list__image"><a class="story-list__image--holder" href="#"></a></div>
-        <div class="story-list__text"><h3><a href="#"></a></h3></div>
-        <div class="feature-guess__tools">
-            <span class="btn btn-icon btn-like" data-id="1" role="button" aria-label="喜愛此內容"></span>
-            <span class="btn btn-icon btn-setting" data-settings="" role="button" aria-label="最愛設定"></span>
-        </div>
-        </div>
-    
-        <!--猜你喜歡第6則-->
-        <div class="feature-guess__list story-list__news" >
-        <div class="story-list__image"><a class="story-list__image--holder" href="#"></a></div>
-        <div class="story-list__text"><h3><a href="#"></a></h3></div>
-        <div class="feature-guess__tools">
-            <span class="btn btn-icon btn-like" data-id="1" role="button" aria-label="喜愛此內容"></span>
-            <span class="btn btn-icon btn-setting" data-settings="" role="button" aria-label="最愛設定"></span>
-        </div>
-        </div>
-    
-        <!-- ※廣告版位給BD※ -->
-    
-        <!--猜你喜歡第7則-->
-        <div class="feature-guess__list story-list__news" >
-        <div class="story-list__image"><a class="story-list__image--holder" href="#"></a></div>
-        <div class="story-list__text"><h3><a href="#"></a></h3></div>
-        <div class="feature-guess__tools">
-            <span class="btn btn-icon btn-like" data-id="1" role="button" aria-label="喜愛此內容"></span>
-            <span class="btn btn-icon btn-setting" data-settings="" role="button" aria-label="最愛設定"></span>
-        </div>
-        </div>
-    
-        <!--猜你喜歡第8則-->
-        <div class="feature-guess__list story-list__news" >
-        <div class="story-list__image"><a class="story-list__image--holder" href="#"></a></div>
-        <div class="story-list__text"><h3><a href="#"></a></h3></div>
-        <div class="feature-guess__tools">
-            <span class="btn btn-icon btn-like" data-id="1" role="button" aria-label="喜愛此內容"></span>
-            <span class="btn btn-icon btn-setting" data-settings="" role="button" aria-label="最愛設定"></span>
-        </div>
-        </div>
-  
-        <!-- /4576170/free-1_News-PC-a03 ※PC內頁大佈告_A_300x250※ -->
-        <div class='udn-ads' id='ads-300x250-side-3' style='min-height: 250px;'>
-            <script>
-                googletag.cmd.push(function() { googletag.display('ads-300x250-side-3'); });
-            </script>
-        </div>
-  
-        <!-- /4576170/free-1_News-PC-a04 ※PC內頁大佈告_B_300x250※ -->
-        <div class='udn-ads' id='ads-300x250-sponsor-list-2' style='min-height: 250px;'>
-            <script>
-                googletag.cmd.push(function() { googletag.display('ads-300x250-sponsor-list-2'); });
-            </script>
-        </div>
+            来源：新民晚报&nbsp;&nbsp;
+            作者：金旻矣&nbsp;&nbsp;
+            
 
-    </div>
-</div><script language=javascript>
-		var i, i_s, i_su;
-		var sars = new Array("https://p.udn.com.tw/upf/2014_banners/hype/230101_member01_jane.gif","https://p.udn.com.tw/upf/2014_banners/hype/221226_party_jane.gif","https://p.udn.com.tw/upf/2014_banners/hype/220719_event_jane.gif");
-		var sars_url = new 
-Array("https://lihi1.com/KB4iK","https://event.udn.com/2023partytogether/?utm_source=udnnews&utm_medium=banner&utm_campaign=2023partytogether","https://event.udn.com/index/index.html?utm_source=udn&utm_medium=event&utm_campaign=BD_people&utm_content=300x250");
-		i = Math.random() * 3; i = Math.ceil(i); i = i - 1;
-		i_s = sars[i]; i_su = sars_url[i];
-		document.write("<a href='"+i_su+"' target='_blank'><img src='"+i_s+"' width='300' height='250' border='0'></a>");
-	</script><!-- #Location: /inc/ads/look_right -->
-		</div>
-	</aside>
-</div>
-</main>
-    <!-- #Location: /inc/ads/upstairs_of_no_more_down-->
-  <footer class="footer">
-    <div class="container">
-    <!-- /129853887/udn.com/2_News/3_News-Mobile/4_News-Mobile-a07 ※Mobile置底廣告※-->
-<style>
-iframe[id="19039_frame"] {z-index: 33 !important;} /* 當有聯播酷比廣告修正z-index層級 */
-</style>
-<div class='udn-ads udn-ads--mobile sticky-ads' id='stickyAds'>
-<script>
-googletag.cmd.push(function() { googletag.display('stickyAds'); });
-</script>
-</div>
-<!-- kangw3n -->
-<!-- <iframe src="https://udn.com/room.html" width="300" height="40" style="border: 0; overflow: hidden;"></iframe> -->
+          </span>
 
-<!-- <script src="https://p.udn.com.tw/upf/static/common/scroll-lock.js"></script> -->      <section class="footer-social">
-        <a href="https://www.facebook.com/myudn" class="btn btn-social"><i class="i-fb-round"></i></a>
-        <a href="https://www.instagram.com/myudn/" class="btn btn-social"><i class="i-instagram-1"></i></a>
-        <a href="https://www.youtube.com/channel/UC2M61YK4ntt9iK-23XhDwcw" class="btn btn-social"><i class="i-youtube3"></i></a>
-        <a href="https://play.google.com/store/apps/details?id=com.udn.news" class="btn btn-social"><i class="i-playstore"></i></a>
-        <a href="https://apps.apple.com/tw/app/id370132213?l=zh" class="btn btn-social"><i class="i-applestore"></i></a>
-        <form class="newsletter" action="https://paper.udn.com/ZOPE/UDN/Subscribe/Pkg_Add" method="GET" target="_blank">
-        <input type="email" required placeholder="訂閱udn兩岸新聞報" name="p_email" aria-label="subscription-email">
-        <input checked hidden value="H" name="p_PID0005" type="checkbox">
-        <button aria-label="subscription" class="btn btn-ripple btn-dark-grey" type="submit">訂閱</button>
-        </form>
-      </section>      <section class="footer-note">
-        <nav class="footer-note__wrapper">
-          <a href="https://event.udn.com/AD/" class="footer-note__link">刊登廣告</a>
-          <span class="footer-note__link"><a href="https://udn.com/page/topic/184" title="FAQ">FAQ</a>·<a href="https://co.udn.com/co/contactus" title="客服">客服</a></span>
-          <a href="https://udndata.com/faq/authority.html" class="footer-note__link">新聞授權</a>
-          <span class="footer-note__link"><a href="https://member.udn.com/member/rule.jsp" title="服務條款">服務條款</a>·<a href="https://udn.com/page/topic/495" title="著作權">著作權</a>·<a href="https://www.udngroup.com/members/udn_privacy" title="隱私權聲明">隱私權聲明</a></span>
-          <a href="https://www.udngroup.com/" class="footer-note__link">聯合報系</a>
-          <a href="https://bit.ly/3OYwisd" class="footer-note__link">訂報紙</a>
-          <a href="https://co.udn.com/" class="footer-note__link">關於我們</a>
-          <a href="https://udn.com/page/topic/496" class="footer-note__link">網站總覽</a>
-        </nav>
-        <div class="footer-word">
-          聯合線上公司 著作權所有 ©2020
-        </div>
-      </section><!-- /4576170/free-1_News-PC-a12 ※PC&Mobile Andbeyond※ -->
-<div class='udn-ads' id='ads-Andbeyond'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('ads-Andbeyond'); });
-  </script>
-</div><!-- taboola body end -->
-<script type="text/javascript">
-  window._taboola = window._taboola || [];
-  _taboola.push({flush: true});
-</script><script>
-// fixed safari bug : css invalidation on position upon iPhone XS;
-window.addEventListener('message', function (e) {
-  if (e.data.type === 'overlayIframeReady') {
-    setTimeout(function() {
-      document.querySelector('#ads-Mobile_cover > div').style.position = 'relative';
-    }, 0);
-  }
-});
-</script>
+        
+      
+	  <img src="//wap.xinmin.cn/assets/m/images/time.png" style="height: 13px; width: 13px;margin-top: -2px;" /> 2021-08-09 19:30:52
 
-<style>
-.article-content__cover figcaption a, .article-content__image figcaption a {color: var(--udn-blue);}
-</style>
-<!-- #Location: /inc/ads/no_more_down-->
-    </div>
-  </footer>
-  <div id="gotop" role="button" aria-label="go-top" class="btn btn-blue">
-    <i class="i-arrow5-up"></i>
+    </span>
+
   </div>
 
+  <article class="article_content" id="article-content">
+
+        
+
+
+
     
-<script src="/static/js/vendor.bundle.js?202301091003"></script>
-<!--<link rel="preload" href="/static/js/vendor.bundle.js?202301091003" as="script">-->
-<script src="/static/js/story.bundle.js?202301091003"></script>
-<!--<link rel="preload" href="/static/js/story.bundle.js?202301091003" as="script">-->
-<!--udn.com--><script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-app.js?2020041701"></script>
-<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-messaging.js?2020041701"></script>
-<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-performance.js?2020041701"></script>
-<script src="/static/fcm/fcm_init.js?2020041701"></script>
-<script>var perf = firebase.performance();</script>
-<!-- #Location: /inc/meta/cssjs_footer -->
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500&display=swap&subset=chinese-traditional" rel="stylesheet" type="text/css">
+
+
+    
+    
+    
+
+
+    <body xmlns="http://www.w3.org/1999/xhtml">
+<p>
+
+</p>
+<p style="text-align: center;">
+<img alt="大熊猫吃冷饮_副本.jpg" title="" type="image" src="//img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922189.jpg" id="http://img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922189.jpg"/>
+</p>
+<p style="text-align: center;">
+<em>图说：大熊猫吃冷饮 采访对象提供（下同）</em>
+</p>
+<p>今日午后，上海发布高温黄色预警，气温达到近35℃。热浪又来，上海动物园里的动物们是如何避暑消夏的呢？记者获悉，园方采用自制冰镇食物、采用设施降温、改造喷淋头等方式，给动物消暑。6月20日起，上海动物园饲料配送中心就开始自制冰块，15斤和30斤两种规格的冰块按需配送到各展区降温。</p>
+<p style="text-align: center;">
+<img alt="什果冰的制作_副本.jpg" title="" type="image" src="//img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922191.jpg" id="http://img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922191.jpg"/>
+</p>
+<p style="text-align: center;">
+<em>图说：什果冰的制作</em>
+</p>
+<p><strong>“什果冰”消暑解热</strong>
+</p>
+<p>大熊猫喜寒怕热，饲养员早早把大熊猫收进内场，空调全开，还贴心地做了冰块，并在上面放上了水果和窝头。饲养员把冰块放到了大熊猫的新玩具里，并在上面盖上了竹叶，让“风光兄弟”一顿好找，最后还是凭着其过人的嗅觉“完成任务”。</p>
+<p>
+<span style="line-height: 1.5;">而在熊山，狗熊们在水池中泡泡澡，玩玩水，好不惬意。饲养员们还会为它们准备一个个堪比脸盆大小的8424西瓜，大棕熊元元一次就能吃掉一整个，连皮都不剩。 饲养员们还会将苹果、黄瓜、胡萝卜等切成小块，放上清水后做成“水果冰大杂烩”，解暑降温，补充水分。同样，冰镇西瓜也是非洲长颈鹿们的最爱。</span>
+</p>
+<p>给东北虎的特制“冷饮”则是牛奶冰砖。水中加入几袋奶后冷冻，就做成了牛奶冰砖。再将牛奶冰块敲碎，倒在室外的大石头上，东北虎吃得可满意了。</p>
+<p style="text-align: center;">
+<img alt="大象洗澡_副本.jpg" title="" type="image" src="//img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922192.jpg" id="http://img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922192.jpg"/>
+</p>
+<p style="text-align: center;">
+<em>图说：大象洗澡</em>
+</p>
+<p><strong>“植物伞”一举两得</strong>
+</p>
+<p>展区设计中有许多针对动物福利的场地元素，可以用来降温。比如水池必不可少，华南虎、象龟都很喜欢泡澡，以躲避毒日头。</p>
+<p>个性化的“阳伞”也不少。遮阴网是“基本款”；树荫是“实用款”，比如园内新种了不少棕榈、桑树等大型植物；“植物伞”则是“时尚款”，象龟的饲养员准备了植物球，上面插满了可吃的桑叶、女贞叶等枝条，等龟龟们吃饱后植物球又变成了“植物伞”，象龟们可以在下面睡觉，真是一举两得。</p>
+<p>亚洲象则喜欢待在“浴场”，等待饲养员们喷水降温。一般来说，亚洲象早晨在室外，十点多收回室内，室内有4个大风扇，可以经受热浪的考验。</p>
+<p style="text-align: center;">
+<img alt="金刚鹦鹉喷雾_副本.jpg" title="" type="image" src="//img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922193.jpg" id="http://img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922193.jpg"/>
+</p>
+<p style="text-align: center;">
+<em>图说：金刚鹦鹉喷雾</em>
+</p>
+<p><strong>遮阴网未雨绸缪</strong>
+</p>
+<p>鸟类是如何避暑的呢？早在6月初，园方就已经提前做好了防暑降温准备工作。热带鸟馆、犀鸟室外笼舍顶部都铺设了遮阴网，可以有效降低太阳光透过率。</p>
+<p>每一间笼舍也都安装有喷淋系统，并提前检修。今年热带鸟馆、金刚鹦鹉、企鹅、犀鸟展区更换了喷淋头，将原来水滴状喷头改为了雾状喷头，水雾更为细腻，也能覆盖到更多空间。</p>
+<p>斑嘴环企鹅和金刚鹦鹉的室内还有空调，一般设置在26-28℃。如果室外达到高温时，会让它们回到室内防止高温地面对企鹅脚掌造成伤害。</p>
+<p>此外，虽然两栖爬行动物不怕高温，但展箱里也都安装了喷淋装置，每次开喷淋，陆龟和蜥蜴都很兴奋，像是在淋浴。</p>
+<p>新民晚报记者 金旻矣</p>
+<p>
+
+</p>
 </body>
+
+    <div class="article_bottom">
+
+      <span>编辑：解雯贇</span>
+
+      
+    </div>
+
+  </article>
+
+</section>
+
+
+
+
+<section class="SubContentBox" id="kan-pl">
+
+  <h2 class="title" id="show-comment">
+
+    看评论
+
+  </h2>
+
+  <div class="comment_box">
+
+    <div id="comment-box"></div>
+
+    <button class="open_app" id="open-app"><a href="https://mobile.xinmin.cn/dlm.html">打开新民更多精彩<img src="//wap.xinmin.cn/assets/m/images/comments-icon.png"/></a></button>
+
+  </div>
+
+</section>
+
+
+
+
+<section class="SubContentBox" id="blocks-recommend">
+
+  <h2 class="title title_none">推荐阅读</h2>
+
+  <div class="RecommendBox" id="recommend-box">
+
+    
+
+  </div>
+
+</section>
+
+
+
+
+
+<footer class="BottomBox" id="bottom-box">
+
+  <p>新民晚报官方网站 xinmin.cn ©2023 All rights reserved! Tech-vm-2-10</p>
+
+</footer>
+
+<aside class="BackTop"></aside>
+
+<aside class="BackHome"></aside>
+
+
+
+
+
+
+<script>
+
+/**
+
+ * [get_url_ext_before 获取url地址栏静态文件名（过滤去除后缀扩展名）,wap业务用于末级页获取url地址栏中contentIndexId]
+
+ * @params [string] ext [后缀名，带“.”]
+
+ * @return [string/undefined] ext_before [后缀名前的文件名]
+
+ * @author xyq
+
+ * @date 2020-04-28 11:18
+
+ */
+
+
+
+function get_url_ext_before(ext)
+
+{
+
+  var ext_before;
+
+  if(ext){
+
+    // 后缀长度
+
+    var ext_len = ext.length;
+
+    // 获取url
+
+    var url = window.location.href;
+
+    // 获取静态html路径
+
+    var pathname = window.location.pathname;
+
+
+
+    // 必须是.html静态页面
+
+    if(pathname.indexOf('.html') > -1){
+
+      // 获取路径中最后一个“/”出现的索引
+
+      var last_index = pathname.lastIndexOf('/');
+
+      // 截取位置，从最后一个“/”的索引位置开始，到文件后缀前结束
+
+      var file_name = pathname.substring(last_index + 1, pathname.length - ext_len);
+
+      // 判断去掉后缀名的字符串是否是正整数
+
+      if(/(^[1-9]\d*$)/.test(file_name)){
+
+        ext_before = file_name;
+
+      }
+
+    }
+
+  }
+
+  
+
+  return ext_before;
+
+}
+
+
+
+var ext_before = get_url_ext_before('.html');
+
+
+
+var JsParams = {
+
+  contentIndexId:ext_before,
+
+  contentId:'30383132',
+
+  commentState:'1',
+
+  ZanUid:'52921234',
+
+  this_url:window.location.href,
+
+  title_txt:'谁爱吃什果冰？谁有把植物伞？来看上海动物园防暑降温“大作战”！',
+
+  title_code:'%E8%B0%81%E7%88%B1%E5%90%83%E4%BB%80%E6%9E%9C%E5%86%B0%EF%BC%9F%E8%B0%81%E6%9C%89%E6%8A%8A%E6%A4%8D%E7%89%A9%E4%BC%9E%EF%BC%9F%E6%9D%A5%E7%9C%8B%E4%B8%8A%E6%B5%B7%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%98%B2%E6%9A%91%E9%99%8D%E6%B8%A9%E2%80%9C%E5%A4%A7%E4%BD%9C%E6%88%98%E2%80%9D%EF%BC%81',
+
+  des_txt:'今日午后，上海发布高温黄色预警，气温达到近35℃。热浪又来，上海动物园里的动物们是如何避暑消夏的呢？',
+
+  des_txt_code:'%E4%BB%8A%E6%97%A5%E5%8D%88%E5%90%8E%EF%BC%8C%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E9%AB%98%E6%B8%A9%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%8C%E6%B0%94%E6%B8%A9%E8%BE%BE%E5%88%B0%E8%BF%9135%E2%84%83%E3%80%82%E7%83%AD%E6%B5%AA%E5%8F%88%E6%9D%A5%EF%BC%8C%E4%B8%8A%E6%B5%B7%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%87%8C%E7%9A%84%E5%8A%A8%E7%89%A9%E4%BB%AC%E6%98%AF%E5%A6%82%E4%BD%95%E9%81%BF%E6%9A%91%E6%B6%88%E5%A4%8F%E7%9A%84%E5%91%A2%EF%BC%9F',
+
+  image_url:'https://img.xinmin.cn/xmwb/2021/8/NEM1_20210809_C0326668840_A2922190.jpg',
+
+  
+  share_img_url:'https://wap.xinmin.cn/assets/m/images/xinmin300.png',
+
+  
+  content_text:'图说：大熊猫吃冷饮 采访对象提供（下同）今日午后，上海发布高温黄色预警，气温达到近35℃。热浪又来，上海动物园里的动物们是如何避暑消夏的呢？记者获悉，园方采用自制冰镇食物、采用设施降温、改造喷淋头等方式，给动物消暑。6月20日起，上海动物园饲料配送中心就开始自制冰块，15斤和30斤两种规格的冰块按需配送到各展区降温。图说：什果冰的制作“什果冰”消暑解热大熊猫喜寒怕热，饲养员早早把大熊猫收进内场，空调全开，还贴心地做了冰块，并在上面放上了水果和窝头。饲养员把冰块放到了大熊猫的新玩具里，并在上面盖上了竹叶，让“风光兄弟”一顿好找，最后还是凭着其过人的嗅觉“完成任务”。而在熊山，狗熊们在水池中泡泡澡，玩玩水，好不惬意。饲养员们还会为它们准备一个个堪比脸盆大小的8424西瓜，大棕熊元元一次就能吃掉一整个，连皮都不剩。 饲养员们还会将苹果、黄瓜、胡萝卜等切成小块，放上清水后做成“水果冰大杂烩”，解暑降温，补充水分。同样，冰镇西瓜也是非洲长颈鹿们的最爱。给东北虎的特制“冷饮”则是牛奶冰砖。水中加入几袋奶后冷冻，就做成了牛奶冰砖。再将牛奶冰块敲碎，倒在室外的大石头上，东北虎吃得可满意了。图说：大象洗澡“植物伞”一举两得展区设计中有许多针对动物福利的场地元素，可以用来降温。比如水池必不可少，华南虎、象龟都很喜欢泡澡，以躲避毒日头。个性化的“阳伞”也不少。遮阴网是“基本款”；树荫是“实用款”，比如园内新种了不少棕榈、桑树等大型植物；“植物伞”则是“时尚款”，象龟的饲养员准备了植物球，上面插满了可吃的桑叶、女贞叶等枝条，等龟龟们吃饱后植物球又变成了“植物伞”，象龟们可以在下面睡觉，真是一举两得。亚洲象则喜欢待在“浴场”，等待饲养员们喷水降温。一般来说，亚洲象早晨在室外，十点多收回室内，室内有4个大风扇，可以经受热浪的考验。图说：金刚鹦鹉喷雾遮阴网未雨绸缪鸟类是如何避暑的呢？早在6月初，园方就已经提前做好了防暑降温准备工作。热带鸟馆、犀鸟室外笼舍顶部都铺设了遮阴网，可以有效降低太阳光透过率。每一间笼舍也都安装有喷淋系统，并提前检修。今年热带鸟馆、金刚鹦鹉、企鹅、犀鸟展区更换了喷淋头，将原来水滴状喷头改为了雾状喷头，水雾更为细腻，也能覆盖到更多空间。斑嘴环企鹅和金刚鹦鹉的室内还有空调，一般设置在26-28℃。如果室外达到高温时，会让它们回到室内防止高温地面对企鹅脚掌造成伤害。此外，虽然两栖爬行动物不怕高温，但展箱里也都安装了喷淋装置，每次开喷淋，陆龟和蜥蜴都很兴奋，像是在淋浴。新民晚报记者 金旻矣',
+
+  content_text_code:'%E5%9B%BE%E8%AF%B4%EF%BC%9A%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%90%83%E5%86%B7%E9%A5%AE%C2%A0%E9%87%87%E8%AE%BF%E5%AF%B9%E8%B1%A1%E6%8F%90%E4%BE%9B%EF%BC%88%E4%B8%8B%E5%90%8C%EF%BC%89%E4%BB%8A%E6%97%A5%E5%8D%88%E5%90%8E%EF%BC%8C%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E9%AB%98%E6%B8%A9%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%EF%BC%8C%E6%B0%94%E6%B8%A9%E8%BE%BE%E5%88%B0%E8%BF%9135%E2%84%83%E3%80%82%E7%83%AD%E6%B5%AA%E5%8F%88%E6%9D%A5%EF%BC%8C%E4%B8%8A%E6%B5%B7%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%87%8C%E7%9A%84%E5%8A%A8%E7%89%A9%E4%BB%AC%E6%98%AF%E5%A6%82%E4%BD%95%E9%81%BF%E6%9A%91%E6%B6%88%E5%A4%8F%E7%9A%84%E5%91%A2%EF%BC%9F%E8%AE%B0%E8%80%85%E8%8E%B7%E6%82%89%EF%BC%8C%E5%9B%AD%E6%96%B9%E9%87%87%E7%94%A8%E8%87%AA%E5%88%B6%E5%86%B0%E9%95%87%E9%A3%9F%E7%89%A9%E3%80%81%E9%87%87%E7%94%A8%E8%AE%BE%E6%96%BD%E9%99%8D%E6%B8%A9%E3%80%81%E6%94%B9%E9%80%A0%E5%96%B7%E6%B7%8B%E5%A4%B4%E7%AD%89%E6%96%B9%E5%BC%8F%EF%BC%8C%E7%BB%99%E5%8A%A8%E7%89%A9%E6%B6%88%E6%9A%91%E3%80%826%E6%9C%8820%E6%97%A5%E8%B5%B7%EF%BC%8C%E4%B8%8A%E6%B5%B7%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%A5%B2%E6%96%99%E9%85%8D%E9%80%81%E4%B8%AD%E5%BF%83%E5%B0%B1%E5%BC%80%E5%A7%8B%E8%87%AA%E5%88%B6%E5%86%B0%E5%9D%97%EF%BC%8C15%E6%96%A4%E5%92%8C30%E6%96%A4%E4%B8%A4%E7%A7%8D%E8%A7%84%E6%A0%BC%E7%9A%84%E5%86%B0%E5%9D%97%E6%8C%89%E9%9C%80%E9%85%8D%E9%80%81%E5%88%B0%E5%90%84%E5%B1%95%E5%8C%BA%E9%99%8D%E6%B8%A9%E3%80%82%E5%9B%BE%E8%AF%B4%EF%BC%9A%E4%BB%80%E6%9E%9C%E5%86%B0%E7%9A%84%E5%88%B6%E4%BD%9C%E2%80%9C%E4%BB%80%E6%9E%9C%E5%86%B0%E2%80%9D%E6%B6%88%E6%9A%91%E8%A7%A3%E7%83%AD%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%96%9C%E5%AF%92%E6%80%95%E7%83%AD%EF%BC%8C%E9%A5%B2%E5%85%BB%E5%91%98%E6%97%A9%E6%97%A9%E6%8A%8A%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%94%B6%E8%BF%9B%E5%86%85%E5%9C%BA%EF%BC%8C%E7%A9%BA%E8%B0%83%E5%85%A8%E5%BC%80%EF%BC%8C%E8%BF%98%E8%B4%B4%E5%BF%83%E5%9C%B0%E5%81%9A%E4%BA%86%E5%86%B0%E5%9D%97%EF%BC%8C%E5%B9%B6%E5%9C%A8%E4%B8%8A%E9%9D%A2%E6%94%BE%E4%B8%8A%E4%BA%86%E6%B0%B4%E6%9E%9C%E5%92%8C%E7%AA%9D%E5%A4%B4%E3%80%82%E9%A5%B2%E5%85%BB%E5%91%98%E6%8A%8A%E5%86%B0%E5%9D%97%E6%94%BE%E5%88%B0%E4%BA%86%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9A%84%E6%96%B0%E7%8E%A9%E5%85%B7%E9%87%8C%EF%BC%8C%E5%B9%B6%E5%9C%A8%E4%B8%8A%E9%9D%A2%E7%9B%96%E4%B8%8A%E4%BA%86%E7%AB%B9%E5%8F%B6%EF%BC%8C%E8%AE%A9%E2%80%9C%E9%A3%8E%E5%85%89%E5%85%84%E5%BC%9F%E2%80%9D%E4%B8%80%E9%A1%BF%E5%A5%BD%E6%89%BE%EF%BC%8C%E6%9C%80%E5%90%8E%E8%BF%98%E6%98%AF%E5%87%AD%E7%9D%80%E5%85%B6%E8%BF%87%E4%BA%BA%E7%9A%84%E5%97%85%E8%A7%89%E2%80%9C%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E2%80%9D%E3%80%82%E8%80%8C%E5%9C%A8%E7%86%8A%E5%B1%B1%EF%BC%8C%E7%8B%97%E7%86%8A%E4%BB%AC%E5%9C%A8%E6%B0%B4%E6%B1%A0%E4%B8%AD%E6%B3%A1%E6%B3%A1%E6%BE%A1%EF%BC%8C%E7%8E%A9%E7%8E%A9%E6%B0%B4%EF%BC%8C%E5%A5%BD%E4%B8%8D%E6%83%AC%E6%84%8F%E3%80%82%E9%A5%B2%E5%85%BB%E5%91%98%E4%BB%AC%E8%BF%98%E4%BC%9A%E4%B8%BA%E5%AE%83%E4%BB%AC%E5%87%86%E5%A4%87%E4%B8%80%E4%B8%AA%E4%B8%AA%E5%A0%AA%E6%AF%94%E8%84%B8%E7%9B%86%E5%A4%A7%E5%B0%8F%E7%9A%848424%E8%A5%BF%E7%93%9C%EF%BC%8C%E5%A4%A7%E6%A3%95%E7%86%8A%E5%85%83%E5%85%83%E4%B8%80%E6%AC%A1%E5%B0%B1%E8%83%BD%E5%90%83%E6%8E%89%E4%B8%80%E6%95%B4%E4%B8%AA%EF%BC%8C%E8%BF%9E%E7%9A%AE%E9%83%BD%E4%B8%8D%E5%89%A9%E3%80%82+%E9%A5%B2%E5%85%BB%E5%91%98%E4%BB%AC%E8%BF%98%E4%BC%9A%E5%B0%86%E8%8B%B9%E6%9E%9C%E3%80%81%E9%BB%84%E7%93%9C%E3%80%81%E8%83%A1%E8%90%9D%E5%8D%9C%E7%AD%89%E5%88%87%E6%88%90%E5%B0%8F%E5%9D%97%EF%BC%8C%E6%94%BE%E4%B8%8A%E6%B8%85%E6%B0%B4%E5%90%8E%E5%81%9A%E6%88%90%E2%80%9C%E6%B0%B4%E6%9E%9C%E5%86%B0%E5%A4%A7%E6%9D%82%E7%83%A9%E2%80%9D%EF%BC%8C%E8%A7%A3%E6%9A%91%E9%99%8D%E6%B8%A9%EF%BC%8C%E8%A1%A5%E5%85%85%E6%B0%B4%E5%88%86%E3%80%82%E5%90%8C%E6%A0%B7%EF%BC%8C%E5%86%B0%E9%95%87%E8%A5%BF%E7%93%9C%E4%B9%9F%E6%98%AF%E9%9D%9E%E6%B4%B2%E9%95%BF%E9%A2%88%E9%B9%BF%E4%BB%AC%E7%9A%84%E6%9C%80%E7%88%B1%E3%80%82%E7%BB%99%E4%B8%9C%E5%8C%97%E8%99%8E%E7%9A%84%E7%89%B9%E5%88%B6%E2%80%9C%E5%86%B7%E9%A5%AE%E2%80%9D%E5%88%99%E6%98%AF%E7%89%9B%E5%A5%B6%E5%86%B0%E7%A0%96%E3%80%82%E6%B0%B4%E4%B8%AD%E5%8A%A0%E5%85%A5%E5%87%A0%E8%A2%8B%E5%A5%B6%E5%90%8E%E5%86%B7%E5%86%BB%EF%BC%8C%E5%B0%B1%E5%81%9A%E6%88%90%E4%BA%86%E7%89%9B%E5%A5%B6%E5%86%B0%E7%A0%96%E3%80%82%E5%86%8D%E5%B0%86%E7%89%9B%E5%A5%B6%E5%86%B0%E5%9D%97%E6%95%B2%E7%A2%8E%EF%BC%8C%E5%80%92%E5%9C%A8%E5%AE%A4%E5%A4%96%E7%9A%84%E5%A4%A7%E7%9F%B3%E5%A4%B4%E4%B8%8A%EF%BC%8C%E4%B8%9C%E5%8C%97%E8%99%8E%E5%90%83%E5%BE%97%E5%8F%AF%E6%BB%A1%E6%84%8F%E4%BA%86%E3%80%82%E5%9B%BE%E8%AF%B4%EF%BC%9A%E5%A4%A7%E8%B1%A1%E6%B4%97%E6%BE%A1%E2%80%9C%E6%A4%8D%E7%89%A9%E4%BC%9E%E2%80%9D%E4%B8%80%E4%B8%BE%E4%B8%A4%E5%BE%97%E5%B1%95%E5%8C%BA%E8%AE%BE%E8%AE%A1%E4%B8%AD%E6%9C%89%E8%AE%B8%E5%A4%9A%E9%92%88%E5%AF%B9%E5%8A%A8%E7%89%A9%E7%A6%8F%E5%88%A9%E7%9A%84%E5%9C%BA%E5%9C%B0%E5%85%83%E7%B4%A0%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E6%9D%A5%E9%99%8D%E6%B8%A9%E3%80%82%E6%AF%94%E5%A6%82%E6%B0%B4%E6%B1%A0%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91%EF%BC%8C%E5%8D%8E%E5%8D%97%E8%99%8E%E3%80%81%E8%B1%A1%E9%BE%9F%E9%83%BD%E5%BE%88%E5%96%9C%E6%AC%A2%E6%B3%A1%E6%BE%A1%EF%BC%8C%E4%BB%A5%E8%BA%B2%E9%81%BF%E6%AF%92%E6%97%A5%E5%A4%B4%E3%80%82%E4%B8%AA%E6%80%A7%E5%8C%96%E7%9A%84%E2%80%9C%E9%98%B3%E4%BC%9E%E2%80%9D%E4%B9%9F%E4%B8%8D%E5%B0%91%E3%80%82%E9%81%AE%E9%98%B4%E7%BD%91%E6%98%AF%E2%80%9C%E5%9F%BA%E6%9C%AC%E6%AC%BE%E2%80%9D%EF%BC%9B%E6%A0%91%E8%8D%AB%E6%98%AF%E2%80%9C%E5%AE%9E%E7%94%A8%E6%AC%BE%E2%80%9D%EF%BC%8C%E6%AF%94%E5%A6%82%E5%9B%AD%E5%86%85%E6%96%B0%E7%A7%8D%E4%BA%86%E4%B8%8D%E5%B0%91%E6%A3%95%E6%A6%88%E3%80%81%E6%A1%91%E6%A0%91%E7%AD%89%E5%A4%A7%E5%9E%8B%E6%A4%8D%E7%89%A9%EF%BC%9B%E2%80%9C%E6%A4%8D%E7%89%A9%E4%BC%9E%E2%80%9D%E5%88%99%E6%98%AF%E2%80%9C%E6%97%B6%E5%B0%9A%E6%AC%BE%E2%80%9D%EF%BC%8C%E8%B1%A1%E9%BE%9F%E7%9A%84%E9%A5%B2%E5%85%BB%E5%91%98%E5%87%86%E5%A4%87%E4%BA%86%E6%A4%8D%E7%89%A9%E7%90%83%EF%BC%8C%E4%B8%8A%E9%9D%A2%E6%8F%92%E6%BB%A1%E4%BA%86%E5%8F%AF%E5%90%83%E7%9A%84%E6%A1%91%E5%8F%B6%E3%80%81%E5%A5%B3%E8%B4%9E%E5%8F%B6%E7%AD%89%E6%9E%9D%E6%9D%A1%EF%BC%8C%E7%AD%89%E9%BE%9F%E9%BE%9F%E4%BB%AC%E5%90%83%E9%A5%B1%E5%90%8E%E6%A4%8D%E7%89%A9%E7%90%83%E5%8F%88%E5%8F%98%E6%88%90%E4%BA%86%E2%80%9C%E6%A4%8D%E7%89%A9%E4%BC%9E%E2%80%9D%EF%BC%8C%E8%B1%A1%E9%BE%9F%E4%BB%AC%E5%8F%AF%E4%BB%A5%E5%9C%A8%E4%B8%8B%E9%9D%A2%E7%9D%A1%E8%A7%89%EF%BC%8C%E7%9C%9F%E6%98%AF%E4%B8%80%E4%B8%BE%E4%B8%A4%E5%BE%97%E3%80%82%E4%BA%9A%E6%B4%B2%E8%B1%A1%E5%88%99%E5%96%9C%E6%AC%A2%E5%BE%85%E5%9C%A8%E2%80%9C%E6%B5%B4%E5%9C%BA%E2%80%9D%EF%BC%8C%E7%AD%89%E5%BE%85%E9%A5%B2%E5%85%BB%E5%91%98%E4%BB%AC%E5%96%B7%E6%B0%B4%E9%99%8D%E6%B8%A9%E3%80%82%E4%B8%80%E8%88%AC%E6%9D%A5%E8%AF%B4%EF%BC%8C%E4%BA%9A%E6%B4%B2%E8%B1%A1%E6%97%A9%E6%99%A8%E5%9C%A8%E5%AE%A4%E5%A4%96%EF%BC%8C%E5%8D%81%E7%82%B9%E5%A4%9A%E6%94%B6%E5%9B%9E%E5%AE%A4%E5%86%85%EF%BC%8C%E5%AE%A4%E5%86%85%E6%9C%894%E4%B8%AA%E5%A4%A7%E9%A3%8E%E6%89%87%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%BB%8F%E5%8F%97%E7%83%AD%E6%B5%AA%E7%9A%84%E8%80%83%E9%AA%8C%E3%80%82%E5%9B%BE%E8%AF%B4%EF%BC%9A%E9%87%91%E5%88%9A%E9%B9%A6%E9%B9%89%E5%96%B7%E9%9B%BE%E9%81%AE%E9%98%B4%E7%BD%91%E6%9C%AA%E9%9B%A8%E7%BB%B8%E7%BC%AA%E9%B8%9F%E7%B1%BB%E6%98%AF%E5%A6%82%E4%BD%95%E9%81%BF%E6%9A%91%E7%9A%84%E5%91%A2%EF%BC%9F%E6%97%A9%E5%9C%A86%E6%9C%88%E5%88%9D%EF%BC%8C%E5%9B%AD%E6%96%B9%E5%B0%B1%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E5%81%9A%E5%A5%BD%E4%BA%86%E9%98%B2%E6%9A%91%E9%99%8D%E6%B8%A9%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C%E3%80%82%E7%83%AD%E5%B8%A6%E9%B8%9F%E9%A6%86%E3%80%81%E7%8A%80%E9%B8%9F%E5%AE%A4%E5%A4%96%E7%AC%BC%E8%88%8D%E9%A1%B6%E9%83%A8%E9%83%BD%E9%93%BA%E8%AE%BE%E4%BA%86%E9%81%AE%E9%98%B4%E7%BD%91%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%95%88%E9%99%8D%E4%BD%8E%E5%A4%AA%E9%98%B3%E5%85%89%E9%80%8F%E8%BF%87%E7%8E%87%E3%80%82%E6%AF%8F%E4%B8%80%E9%97%B4%E7%AC%BC%E8%88%8D%E4%B9%9F%E9%83%BD%E5%AE%89%E8%A3%85%E6%9C%89%E5%96%B7%E6%B7%8B%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%B9%B6%E6%8F%90%E5%89%8D%E6%A3%80%E4%BF%AE%E3%80%82%E4%BB%8A%E5%B9%B4%E7%83%AD%E5%B8%A6%E9%B8%9F%E9%A6%86%E3%80%81%E9%87%91%E5%88%9A%E9%B9%A6%E9%B9%89%E3%80%81%E4%BC%81%E9%B9%85%E3%80%81%E7%8A%80%E9%B8%9F%E5%B1%95%E5%8C%BA%E6%9B%B4%E6%8D%A2%E4%BA%86%E5%96%B7%E6%B7%8B%E5%A4%B4%EF%BC%8C%E5%B0%86%E5%8E%9F%E6%9D%A5%E6%B0%B4%E6%BB%B4%E7%8A%B6%E5%96%B7%E5%A4%B4%E6%94%B9%E4%B8%BA%E4%BA%86%E9%9B%BE%E7%8A%B6%E5%96%B7%E5%A4%B4%EF%BC%8C%E6%B0%B4%E9%9B%BE%E6%9B%B4%E4%B8%BA%E7%BB%86%E8%85%BB%EF%BC%8C%E4%B9%9F%E8%83%BD%E8%A6%86%E7%9B%96%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%A9%BA%E9%97%B4%E3%80%82%E6%96%91%E5%98%B4%E7%8E%AF%E4%BC%81%E9%B9%85%E5%92%8C%E9%87%91%E5%88%9A%E9%B9%A6%E9%B9%89%E7%9A%84%E5%AE%A4%E5%86%85%E8%BF%98%E6%9C%89%E7%A9%BA%E8%B0%83%EF%BC%8C%E4%B8%80%E8%88%AC%E8%AE%BE%E7%BD%AE%E5%9C%A826-28%E2%84%83%E3%80%82%E5%A6%82%E6%9E%9C%E5%AE%A4%E5%A4%96%E8%BE%BE%E5%88%B0%E9%AB%98%E6%B8%A9%E6%97%B6%EF%BC%8C%E4%BC%9A%E8%AE%A9%E5%AE%83%E4%BB%AC%E5%9B%9E%E5%88%B0%E5%AE%A4%E5%86%85%E9%98%B2%E6%AD%A2%E9%AB%98%E6%B8%A9%E5%9C%B0%E9%9D%A2%E5%AF%B9%E4%BC%81%E9%B9%85%E8%84%9A%E6%8E%8C%E9%80%A0%E6%88%90%E4%BC%A4%E5%AE%B3%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E8%99%BD%E7%84%B6%E4%B8%A4%E6%A0%96%E7%88%AC%E8%A1%8C%E5%8A%A8%E7%89%A9%E4%B8%8D%E6%80%95%E9%AB%98%E6%B8%A9%EF%BC%8C%E4%BD%86%E5%B1%95%E7%AE%B1%E9%87%8C%E4%B9%9F%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%96%B7%E6%B7%8B%E8%A3%85%E7%BD%AE%EF%BC%8C%E6%AF%8F%E6%AC%A1%E5%BC%80%E5%96%B7%E6%B7%8B%EF%BC%8C%E9%99%86%E9%BE%9F%E5%92%8C%E8%9C%A5%E8%9C%B4%E9%83%BD%E5%BE%88%E5%85%B4%E5%A5%8B%EF%BC%8C%E5%83%8F%E6%98%AF%E5%9C%A8%E6%B7%8B%E6%B5%B4%E3%80%82%E6%96%B0%E6%B0%91%E6%99%9A%E6%8A%A5%E8%AE%B0%E8%80%85+%E9%87%91%E6%97%BB%E7%9F%A3',
+
+  link:'https://wap.xinmin.cn/content/'+ext_before+'.html',
+
+  LiveUrl:'',
+
+  upvoteState:'0',
+
+  unixtime:'1628508652',
+
+  isLiveFlag:'0',
+
+  liveVideoType:'0'
+
+};
+
+</script>
+
+<script language="javascript" src="//wap.xinmin.cn/assets/m/js/common.js"></script>
+
+<script language="javascript" src="//wap.xinmin.cn/assets/m/js/content.js"></script>
+
+<script language="javascript" src="//wap.xinmin.cn/assets/m/js/content_others.js"></script>
+
+<script>
+
+if($.Browser().versions.isappios){
+
+  // ios app
+
+  if(CheckAppVer()){
+
+    // 版本号7.0.0以上含7.0.0
+
+    
+    $('#voice-pic').css('display','inline-block');
+
+    
+    // PlayStatus(2);//默认进来关闭
+
+    $('#voice-pic').click(function(){
+
+      PlayOrPause('ios');
+
+    });
+
+  }
+
+}else if($.Browser().versions.isappandroid){
+
+  // android app
+
+  if(CheckAppVer()){
+
+    // 版本号7.0.0以上含7.0.0
+
+    
+    $('#voice-pic').css('display','inline-block');
+
+    
+    // PlayImgStatus(2);
+
+    $('#voice-pic').click(function(){
+
+      PlayOrPause('andriod');
+
+    });
+
+  }
+
+}
+
+
+
+if($.Browser().versions.isxmapp && $.checkVer(800)){
+
+  $('#voice-pic').hide();
+
+}
+
+</script>
+
+
+
+<!-- share -->
+
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+
+<script>
+
+var WcsParams = {
+
+  tit : JsParams.title_txt,
+
+  des : JsParams.des_txt,
+
+  url : JsParams.this_url,
+
+  imgUrl : JsParams.share_img_url
+
+}
+
+</script>
+
+<!-- <script src="https://img0.xinmin.cn/web/xinmin/2018/js/wechatshare.js"></script>  -->
+
+<script src="https://wap.xinmin.cn/assets/m/js/wechatshare.js"></script> 
+
+<!-- share/ -->
+
+
+
+<!-- 深度链接 -->
+
+
+
+
+
+
+
+
+
+
+<script>
+
+var deep_params = {
+
+  contentId : JsParams.contentId,
+
+  contentIndexId : JsParams.contentIndexId,
+
+  link : JsParams.link,
+
+  iosLiveUrl : JsParams.LiveUrl.replace('http://','rtmp://').replace('https://','rtmp://').replace('.m3u8',''),
+
+  LiveUrl : JsParams.LiveUrl.replace('http://','rtmp://').replace('https://','rtmp://').replace('.m3u8',''),
+
+  commentState : JsParams.commentState,
+
+  upvoteState : JsParams.upvoteState,
+
+  title_txt : JsParams.title_txt,
+
+  thumbnail : JsParams.share_img_url,
+
+  unixtime : JsParams.unixtime,
+
+  des_txt : '飞入寻常百姓家.',
+
+  des_txt_code : '',
+
+  isLiveFlag : JsParams.isLiveFlag,
+
+  liveVideoType : JsParams.liveVideoType,
+
+  content_text : JsParams.content_text,
+
+  content_text_code : JsParams.content_text_code,
+
+  image : JsParams.image_url,
+
+  deep_type : 'xinmin',
+
+  ios_type : 'news',
+
+  haibaoShare : '1',
+
+  isVideo : '0',
+
+  video : ''
+
+}
+
+// console.log(DeepParams);
+
+</script>
+
+<script src="//wap.xinmin.cn/assets/m/js/xm_deep.js"></script> 
+
+<script type="text/javascript">
+
+$('#app-banner').click(function(e){
+
+  // alert('ok1')
+
+  // alert(window.navigator.userAgent);
+
+  // var agent_to_lower = window.navigator.userAgent.toLowerCase();
+
+  var agent_to_lower = window.navigator.userAgent.toLowerCase();
+
+  // if(agent_to_lower.indexOf('micromessenger')>-1 || (agent_to_lower.indexOf('iphone')>-1&&agent_to_lower.indexOf('qq')>-1)){
+
+  // if(window.navigator.userAgent.toLowerCase().indexOf('micromessenger')>-1){
+
+  if(agent_to_lower.indexOf('micromessenger')>-1 || agent_to_lower.indexOf('safari')>-1 || (agent_to_lower.indexOf('iphone')>-1&&agent_to_lower.indexOf('qq')>-1)){
+
+    // 微信&iphone的qq
+
+    // e.preventDefault();
+
+    // alert('ok3');
+
+    xmContentDeeplink(deep_params);
+
+  }     
+
+});
+
+</script>
+
+<!-- 深度链接/ -->
+
+
+
+<script>
+
+$('#article-content img').click(function(){
+
+  var _this = $(this);
+
+  var that = this;
+
+  var content_imgs = '["https:\/\/img.xinmin.cn\/xmwb\/2021\/8\/NEM1_20210809_C0326668840_A2922189.jpg","https:\/\/img.xinmin.cn\/xmwb\/2021\/8\/NEM1_20210809_C0326668840_A2922191.jpg","https:\/\/img.xinmin.cn\/xmwb\/2021\/8\/NEM1_20210809_C0326668840_A2922192.jpg","https:\/\/img.xinmin.cn\/xmwb\/2021\/8\/NEM1_20210809_C0326668840_A2922193.jpg"]';
+
+  var current_index = $('#article-content p img').index(_this);
+
+  // console.log(jQuery.parseJSON(content_imgs))
+
+
+
+  if($.Browser().versions.isappandroid){
+
+    if(!_this.parent('a').prop('href')){
+
+      if(window.xinminUserInterface){
+
+        window.xinminUserInterface.contentAlbum(content_imgs, current_index);
+
+      }
+
+    }
+
+  }
+
+
+
+  if($.Browser().versions.isappios){
+
+    if(!_this.parent('a').prop('href')){
+
+      loadURL("contentAlbum://contentAlbum###"+content_imgs+"###"+current_index);
+
+    }
+
+  }
+
+  
+
+});
+
+
+
+$('#article-content video').height($('#article-content video').width()*9/16)
+
+</script>
+
+
+
+<script type="text/javascript">
+
+  var _xinminaq = _xinminaq || [];_xinminaq.push('t5=32005454','t6=30383132');(function() {var u = "//tongji.xinmin.cn/";var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.type='text/javascript'; g.src=u+'stat-p-1.0.1.min.js'; s.parentNode.insertBefore(g,s);})();
+
+
+
+</script>
+
+
+
+<!-- 流量统计代码 start-->
+
+<div style="display:none">
+
+    <!--百度统计-->
+
+    <script type="text/javascript">
+
+    var _hmt = _hmt || [];
+
+    (function() {
+
+      var hm = document.createElement("script");
+
+      hm.src = "https://hm.baidu.com/hm.js?8ab7263c9280868f0c3ef17366bf585a";
+
+      var s = document.getElementsByTagName("script")[0]; 
+
+      s.parentNode.insertBefore(hm, s);
+
+    })();
+
+    </script>
+
+    <!--百度统计-->
+
+    
+    <script>
+
+    window["ItsmoreAnalytics"]={SiteId:"201709070869",ContentId:"30383132"};
+
+    (function () {
+
+      var url = (("https:" == document.location.protocol) ? " https://a.itsmore.cn" : " http://a.itsmore.com") + "/?_=" + (new Date()).getTime();
+
+      var script = "script";
+
+      var f = document.getElementsByTagName(script)[0],j = document.createElement(script);
+
+      j.async = true;
+
+      j.src = url;
+
+      f.parentNode.insertBefore(j, f);
+
+    })();
+
+    </script>
+
+    
+    <!--cnzz统计代码 start-->
+
+    <script type="text/javascript">
+
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_1253710412'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1253710412' type='text/javascript'%3E%3C/script%3E"));
+
+    </script>
+
+    <!--cnzz统计代码 end-->
+
+</div>
+
+<!-- 流量统计代码 end-->
+
+
+
+<!-- 广告代码20190227 新民app之外并且稿件广告状态为开放时，呈现-->
+
+
+<div>
+
+</div>
+
+
+<!-- 广告代码/ -->
+
+
+
+</body>
+
 </html>

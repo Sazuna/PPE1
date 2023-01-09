@@ -1,84 +1,610 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta https-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<title>德媒述评：欧盟进军非洲发令枪已响 但目标模糊_参考消息网</title>
+		<meta name="keywords" content="" />
+		<meta name="description" content="报道指出，到目前为止还看不到有什么战略焦点。欧盟的倡议似乎是一个由很多项目构成的大杂烩，而不是像中国成功示范的那样把精力集中于公路、铁路或线缆等大型基础设施计划。" />
+		<link href="//img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/mobile_150708.css" type="text/css" rel="stylesheet"/>
+		<script type='text/javascript' src='//img.cankaoxiaoxi.com/js/lib/jquery.js'></script>
+        <script src="//img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/nativeShare.js"></script>
+		<script type="text/javascript" src="//img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/mbart.js" ></script>
+        <script src="http://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+        <script type="text/javascript" src="http://www.cankaoxiaoxi.com/test/touch/js/hammer.min.js"></script>
+		<base target="_blank">
+        <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?5143eafec4b1937cb9b23c20f3de8f4d";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="http://www.nmgnews.com.cn/css/style10.css" rel="stylesheet" type="text/css" />
-<title>警惕日本“幸福科学教”邪教制作动漫背后的企图-道德法制-内蒙古新闻网</title>
-<meta name="keywords" content="">
-<meta name="description" content="　　【中国反邪教网2022年9月19日消息，通讯员：肖林】9月6日，加拿大游戏资讯媒体“电游谈”网站(Gamerant.com)刊文透露，日本邪教“幸福科学教”企图通过制作晦涩不明的动漫电影推广该教。　　这些隐晦不明的日本动漫并无特别之处，不过它们背后的制作动机却让人皱眉。　　“幸福科学教”(Happy Science)是一个组织化...">
-</head>
+        var more_state=0;
+        $(function(){
+            $('nav.nav_line a.more').click(function(){
+                $('.nav_rect').toggle();
+                more_state?$("nav.nav_line a.more").css({"backgroundImage":"url(http://upload.cankaoxiaoxi.com/2016/0818/1471506867789.png)", "display":"block"}):$("nav.nav_line a.more").css({"backgroundImage":"url(http://upload.cankaoxiaoxi.com/2016/0818/1471507191537.png)", "display":"block"});
+                more_state = !more_state;
+            });
+            
+            var x = document.getElementById("nav_pan").offsetLeft;
+            var hammertime = new Hammer(document.getElementById("nav_pan"));
+            hammertime.on("pan", function (e) {
+                var l=document.getElementById("nav_pan").offsetLeft;
 
-<body>
-<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td>
-	<table width="1000" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" height="289"><img src="http://lawsocial.nmgnews.com.cn/fxj/wzlb/images/1000.jpg" width="1000" height="279" /></td>
-  </tr>
-</table>
-<table width="94%" border="0" align="center">
-  <tr>
-    <td class="black24_b" style="line-height:45px; height:45px;" align="center">
-	警惕日本“幸福科学教”邪教制作动漫背后的企图	</td>
-  </tr>
-          <tr>
-            <td height="28" align="center" background="http://lawsocial.nmgnews.com.cn/cms_template/100/000/317/images/di01.gif">
-            <table width="94%" border="0" align="center" cellpadding="0" cellspacing="0" style="font-size:12px">
-          <tr>
-            <td bgcolor="DEDEDE"></td>
-          </tr>
-  <tr>
-    <td align="center" height="24" style="color:#888888;"><a href="http://www.nmgnews.com.cn/"  target="_blank" class="black12">内蒙古新闻网</a> &nbsp;&nbsp;  
-                        <span class="black12">22-09-23 08:47</span>&nbsp;&nbsp;
-	                               <a href="javascript:doPrint()();" class="black12">打印本页</a>	&nbsp;&nbsp;
-								   		<span class="black12"> 来源:中国反邪教网</span> </td>
-  </tr>
-          <tr>
-            <td bgcolor="DEDEDE"></td>
-          </tr>
-        </table>            </td>
-          </tr>
-          <tr>
-            <td height="20" valign="middle"></td>
-          </tr>
-          <tr>
-            <td align="left" class="STYLE10" style="line-height: 150%;FONT-SIZE: 14px; color: #333333;">
-            <DIV ID="pzoom"><div><p>　　【中国反邪教网2022年9月19日消息，通讯员：肖林】9月6日，加拿大游戏资讯媒体“电游谈”网站(Gamerant.com)刊文透露，日本邪教“幸福科学教”企图通过制作晦涩不明的动漫电影推广该教。</p><center><img src="https://www.chinafxj.cn/n164/c815683/part/100330.png" /></center><p>　　这些隐晦不明的日本动漫并无特别之处，不过它们背后的制作动机却让人皱眉。</p><p>　　“幸福科学教”(Happy Science)是一个组织化的教派团体，其前身为“人类幸福研究所”(The Institute for Research in Human Happiness)。直接说吧，这个组织就是一个邪教。</p><p>　　为何将这个教派团体归入邪教范畴？原因既不是它怪诞的教义，也不是它信徒的数量，“‘幸福科学教’之所以称为邪教，是因为它控制信徒的手段”。</p><p>　　那么，什么是“幸福科学教”最臭名昭著的控制手段呢？答案是动漫。</p><p>　　截至2021年，该教就制作出九部足本动漫电影，用以推广其教义。该邪教成立时间并不长，也就几十年光景，但其教义却是非常复杂，可谓世界宗教信仰的大杂烩。</p><p>　　“幸福科学教”的动漫制作，是与几个工作室签订合同制作完成的，其中就包括日本动漫业界大名鼎鼎的“京都动画”(Kyoto Animations)。</p><p>　　“幸福科学教”背后的历史</p><center><img src="https://www.chinafxj.cn/n164/c815683/part/100331.png" /></center><p>　　大川隆法(Ryuho Okawa)当过华尔街交易员，服务于丰田汽车旗下的金融公司丰田通商(Toyota Tsusho)。他自称父母既相信上帝又相信佛陀，但他自己却并不热衷这些宗教活动。他称自己积极投身的信仰与父母的不同，年纪轻轻的时候就对精神、灵魂和来世等有了“非常独特”的观点。1981年3月23日，大川隆法认为有种圣灵第一次与他交流。</p><p>　　就在那年，“神之光会”(God Light Association)教主高桥佳子(Shinji Takahashi)后来告诉他说，他的天命就是创建一个引领人们的新教。同月，大川隆法自称空海(日本佛教真言宗创始人，九世纪唐代时曾到洛阳等地游学)、亲鸾(1173-1262，日本佛教净土真宗初祖)、孔子、耶稣基督、摩西和诺查丹玛斯(十六世纪法国预言家)与他均有交流。</p><p>　　此外，还有一些所谓的“通灵”，即大川隆法所称的他本人作为媒介，教徒可以通过他与所谓的神灵沟通谈话。多年来，大川隆法出版了13本书，公开他与神灵的所谓交流内容，以自证其说。从某种程度上说，在出书过程中，随着人气渐旺，他经历了一个开始时使用信徒名字做笔名到使用自己的真名的过程。最后，他辞去了丰田通商的工作。</p><p>　　就这样，“人类幸福研究所”成立了，后改名为“幸福科学教”。大川隆法自称的化身众多，最初只是自称像基督耶稣和孔子的化身，现在却成了爱尔康大灵(El Cantare，“幸福科学教”自造神灵)、荷马(古希腊诗人)和佛祖释迦牟尼转世，而他的现任妻子则是盖娅再生(Gaia，古希腊神话中的众神之母大地女神)。</p><p>　　总的来说，“幸福科学教”津津乐道的教义可归纳为四条：给予之爱、智慧、自我反省和进步。不过，教义、布道和动漫中的许多内容似乎关注更多的是教主而不是教义本身。</p><p>　　该教与动漫的历史</p><center><img src="https://www.chinafxj.cn/n164/c815683/part/100332.png" /></center><p>　　为了找到更多吸引人入教的方法，“幸福科学教”开始委托一些亟须客户的初创工作室制作动漫，最早的一部动漫叫《什么是幸福》(Shiawasette Naani)。“京都动画”作为主创帮助该教创作的第一部动漫，开始让这类定制动漫的作用变得非同寻常。此前，“京都动画”主要替更大的工作室制作背景和中间帧，这部动漫是该工作室作为主创推出的第一部动漫，也是它替“幸福科学教”制作的唯一一部动漫。</p><p>　　此后，“幸福科学教”又与不少小公司合作创作了一些动漫电影，直到创立自己的动漫工作室“幸福科学动漫工作室”(HS Pictures Studio)。利用这个工作室，“幸福科学教”制作了一部四部曲影片，不仅赢得了奖项，还能在免费流媒体平台Tubi观看。对于该教的所有影片，评论家与动漫爱好者普遍持强烈抨击态度。笔者仔细观看了其中五部电影后，得出几下几点结论：所有动漫都几乎没有情节，只有对话；电影只关注大川隆法；所有的电影都反对接种疫苗，宣扬民族主义，充斥着招募教徒的技巧。</p><p>　　许多网络创作者特别是油管上的“母亲地下室”(Mother’s Basement)频道，有段时间上传了该教的动漫供网友观看。尽管日本内外都抨击这些动漫，“幸福科学教”还是能有足够的资金来继续制作动漫、书籍、演讲和其他内容。尽管“幸福科学教”表面上在宣传和平和幸福，但其动漫折射出的却是该教的危险观点和打着招募旗号控制手段。</p></div><p></p> 
+                if(e.isFinal){
+                    if(l+e.deltaX<0 && document.getElementById("nav_pan").offsetWidth+ l+20+e.deltaX -document.getElementById("nav_line").offsetWidth>0){
+                        $("#nav_pan").css({"left":x+e.deltaX});
+                    }else if(l+e.deltaX>0){
+                        $("#nav_pan").css({"left":0});
+                    }else{
+                        $("#nav_pan").css({"left":document.getElementById("nav_line").offsetWidth-20-document.getElementById("nav_pan").offsetWidth});
+                    }
+                    x = document.getElementById("nav_pan").offsetLeft;
+                }else{
+                    $("#nav_pan").css({"left":x+e.deltaX});
+                }
+                return false;
+            })
+        });
+        </script>
 
-<!--enorth cms block start [ name="v5.pages" ]-->
+                <style>
+            body>span, body>a {display:none;}
+            .ov {overflow:hidden;}
+            .content {margin-top:10px;}
+            .content p span{ text-align:justify; line-height:18px; margin-bottom:8px;}
+            .content p.img_area {margin-top:8px;}
+            .waidi {display:none;}
 
-<!--enorth cms block end [ name="v5.pages" cost="7"]--></DIV></td>
-          </tr>
-  <tr>
-    <td class="black12" align="right" style="line-height:20px; padding-right:15px;">
-	[责任编辑 程磊]	</td>
-  </tr>        </table>
-<table width="1000" align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td height="20"></td>
-  </tr>
-</table>
+			.nav_rect a{width: 19.58%;height:50px;}
+            header {border-bottom:1px solid #eee; height:auto; padding:8px 0 0;}
+            header .share {display:none;}
+            nav.nav_line {height:0.88rem; width:100%; position:relative; background:#fff;}
+            #nav_pan {padding-left:0.3rem; height:100%; position:absolute; padding-right:1rem;}
+            #nav_pan a {line-height:0.88rem; color:#666; font-size:0.34rem; margin-right:0.34rem;}
+            #nav_pan a:last-child, nav.nav_rect a:last-child {margin-right:0;}
+            #nav_pan a.active {color:#c33; font-size:0.36rem; font-weight:bold;}
+            nav.nav_line a.more {display:block; top:0; width:20px; height:0.88rem; background: url(http://upload.cankaoxiaoxi.com/2016/0818/1471506867789.png)#fff 50% center/40% no-repeat; position:absolute; padding:0 0.25rem; right:0;}
+            nav.nav_rect {height:4rem; background-color:#eee;padding-left:0.24rem; position:relative; display:none;}
+            nav.nav_rect a {font-size:0.32rem; line-height:1.1rem; color:#666; margin-right:0.35rem; float:auto; background:none; display:inline;}
 
+            nav.nav_rect span {position:absolute; width:0.38rem; height:0.14rem; top:-0.12rem; right: 4%; background:url(http://upload.cankaoxiaoxi.com/2016/0819/1471569722312.png) 0 0 no-repeat;}
+        </style>	
+        
 	
-<table width="100%" border="0" cellspacing="0" cellpadding="0" >
-  <tr>
-    <td align="center" height="30">内蒙古互联网新闻中心版权所有，未经书面授权不得转载或镜像。 </td>
-  </tr>
-  <tr>
-    <td align="center" height="30">互联网新闻信息服务许可证：1512006001 信息网络传播视听节目许可证：0507213 蒙ICP证：09003619号 </td>
-  </tr>
-</table>	
-	
-	</td>
-  </tr>
-</table>
+	</head>
+	<body>
+		<header class="ov">
+			<div class="ov logo">
+				<a href="http://m.cankaoxiaoxi.com/" title = "参考消息"><img src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/mobile/logo_140825.png" height="30" alt="参考消息" /></a>
+			</div>
+			<div class="share">
+				<a href="#shareTotal" target="_self"><img src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/mobile/share.png" height="20" /></a>
+			</div>
+            <div style="width:100%; height:1px; clear:both;"></div>	
+            <nav class="nav_line" id="nav_line">
+                <div id="nav_pan">
+                    <a href="//m.cankaoxiaoxi.com/" title="">推荐</a>
+					<a href="//m.cankaoxiaoxi.com/politics/" title="">第一关注</a>
+					<a href="//m.cankaoxiaoxi.com/china/" title="">中国</a>
+					<a href="//m.cankaoxiaoxi.com/world/" title="">国际</a>
+					<a href="//m.cankaoxiaoxi.com/mil/" title="">军事</a>
+					<a href="//m.cankaoxiaoxi.com/tw/" title="">台海</a>
+					<a href="//m.cankaoxiaoxi.com/column/" title="">观点</a>
+					<a href="//m.cankaoxiaoxi.com/finance/" title="">财经</a>
+					<a href="//m.cankaoxiaoxi.com/science/" title="">科技</a>
+					<a href="//m.cankaoxiaoxi.com/health/" title="">健康</a>
+					<a href="//m.cankaoxiaoxi.com/culture/" title="">文化</a>
+					<a href="//m.cankaoxiaoxi.com/ym/" title="">双语</a>
+					<a href="//m.cankaoxiaoxi.com/sports/" title="">体育</a>
+					<a href="//m.cankaoxiaoxi.com/zhiku/" title="">智库</a>
+                </div>
+                <a href="javascript:;" title="" class="more" target="_self"></a>
+            </nav>
+            <nav class="nav_rect">
+                <div class="ov">
+                    <a class="rect_a" href="//m.cankaoxiaoxi.com/" title="">推荐</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/politics/" title="">第一关注</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/china/" title="">中国</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/world/" title="">国际</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/mil/" title="">军事</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/tw/" title="">台海</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/column/" title="">观点</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/finance/" title="">财经</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/science/" title="">科技</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/health/" title="">健康</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/culture/" title="">文化</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/ym/" title="">双语</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/sports/" title="">体育</a>
+					<a class="rect_a" href="//m.cankaoxiaoxi.com/zhiku/" title="">智库</a>
+                </div>
+                <span></span>
+            </nav>
+		</header>
+		<article>
+			<h1>德媒述评：欧盟进军非洲发令枪已响 但目标模糊</h1>
+			<p class="time"><span>2022.02.18</span><span>来源：参考消息网</span></p>
+                        <style>
+            video {width:100%;}
+            .addon-video{display:none;}
+            </style>
+            <script>
+                $(function(){
+                    var oA = document.createElement("a");
+                oA.href = "#";
+                oA.innerHTML = '<img src="//count.cankaoxiaoxi.com/count.png?contentid=2469712" alt="count">';
+                document.body.appendChild(oA);
+                });
 
-<script src="http://www.nmgnews.com.cn/sys/online_calc.js?ver=1"></script>
+                window.onload=function(){
+                    var string = $(".content").html();
+                    var video = string.match(/flashvars\"\svalue=\".*?(http.*?)\"/);
+                    if(video){
+                        if(video[1].indexOf("pearvideo")>0 || video[1].indexOf("cankaoxiaoxi")>0){
+                            var num = video[1].indexOf(".mp4");
+                            video[1] = video[1].substring(0,num+4);
+                        }
+                        video[1] = video[1].replace(/%26/g,'&');
+                        var video_html = $("<video src='"+video[1]+"' controls='controls' autoplay></video>");
+                    $(".addon-video").before(video_html);
+                    }
+                }
+            </script>
+            <div class="content">
+                                                                                        <p><strong><a href="http://www.cankaoxiaoxi.com?toindex=2" target="_blank">参考消息网</a>2月18日报道</strong> 据德国《商报》网站2月16日报道，近年来，欧洲为了应对中国的&ldquo;一带一路&rdquo;倡议一直在做准备，现在终于可以打响发令枪了。本周四和周五，欧盟与非盟在布鲁塞尔召开峰会，并提出1500亿欧元的一揽子投资计划。此举的战略目标是遏制中国在非洲日益增长的影响力。</p><p>据报道，欧盟委员会主席冯德莱恩将欧洲的这一项目称为&ldquo;全球门户&rdquo;计划。她曾承诺将欧盟委员会打造成&ldquo;地缘政治的委员会&rdquo;，并计划通过战略性的基础设施政策来兑现该承诺。去年年底，欧盟委员会宣布将为&ldquo;全球门户&rdquo;计划筹措共计3000亿欧元资金。</p><p>然而，报道指出，到目前为止还看不到有什么战略焦点。欧盟的倡议似乎是一个由很多项目构成的大杂烩，而不是像中国成功示范的那样把精力集中于公路、铁路或线缆等大型基础设施计划。</p><p>德国马歇尔基金会中欧关系专家诺亚&middot;巴尔金说：&ldquo;欧盟关注非洲是一件好事，因为中国在这片大陆上的影响力连年增加。&rdquo;但是，单凭&ldquo;动听的承诺&rdquo;改变不了什么。迄今为止，欧洲针对中国的&ldquo;一带一路&rdquo;倡议只是提出了意向声明。</p>                <!-- @end 文章内容 -->
+                                                                                        			</div>
+            <style>
+                ul.pages {width:100%; overflow:hidden; margin: 10px auto;}
+                ul.pages li {width:30%; float:left; border:1px solid #ccc; margin-right:4%; text-align:center; height:30px; line-height:30px; font-size:18px; color:#aaa;}
+                ul.pages li:last-child {margin:0;}
+                ul.pages li span {color:#000;}
+                ul.pages a{color:#aaa;}
+                ul.pages .next a {color:#f11212;}
+                .news .ad {padding:10px 0;  border-bottom:1px solid #aaa; display:none;}
+                .news a p {font-weight:bold;}
+                .ad {width:100%; overflow:hidden; }
+                .ad img {width:100%;}
+                .content p {padding-bottom:15px;}
+                .news {margin-bottom:5px;}
+                .news li {position:relative;}
+                .news li .time {position:absolute; bottom:10px; width:100%;}
+            </style>				
+			<ul class="pages">
+                <li><a target="_self" href="javascript:;">上一页</a></li>
+                <li><span>1</span>/1</li>
+                <li class="next"><a target="_self" href="javascript:;" style="color:#aaa;">下一页</a></li>
+            </ul>
+            <!--参考消息手机端内页分页符下方-->
+			<div class="clear"></div>
+		</article>
 
+                <style>
+            .content p:np-child(2){margin-top:-10px;}
+            .media {width:90%; margin-top:30px; font-family:"microsoft yahei"; line-height:30px;}
+            .media .voice>p{background:url(//upload.cankaoxiaoxi.com/2015/0909/1441787469377.jpg) no-repeat 0 5px; padding-left:30px; color:#cc3333; font-size:16px; line-height:30px; font-weight:bold;margin-left:10px;}
+            .media .clear {clear:both; height:1px;}
+            .media .voice a p {padding:20px 0 0 20px; line-height:25px; color:#333;}
+            .media .voice a p:last-child {text-align:right; color:#999;}
+            .media a p span {color:#c33;}
+            .media .num>p{background:url(//upload.cankaoxiaoxi.com/2015/0909/1441787507989.jpg) no-repeat 0 5px; padding-left:30px; color:#cc3333; font-size:16px; line-height:30px; font-weight:bold;margin-left:10px;}
+            .media .num, .media .person {margin-top:30px;}
+            .media .num .num_l {/*width:162px;*/ /*float:left;*/ margin:0 auto; font-size:50px; font-weight:bold; text-align:center; margin-top:20px;}
+            .media .num .num_r {/*width:415px; float:left;*/ /*border-left:1px dashed #000;*/ padding:20px 0 0 20px; line-height:25px; color:#333;}
+            .media .person>p{background:url(//upload.cankaoxiaoxi.com/2015/0909/1441787520134.jpg) no-repeat 0 5px; padding-left:30px; color:#cc3333; font-size:16px; line-height:30px; font-weight:bold;margin-left:10px;}
+            .media .person .person_l {width:162px; float:left; font-size:16px; font-weight:bold; text-align:center; margin-top:10px;}
+            .media .person .person_r {/*width:415px; height:168px; float:left;border-left:1px dashed #000;*/ padding:20px 0 0 20px; line-height:25px; color:#333;}
+            .media .person .person_l span {color:#000; display:block; margin-top:10px;}
+            .media a {display:block; border-left:2px solid #ccc; font-size:14px; margin-left:10px;}
+            .media a:hover, ul.rel a:hover, ul.zt a:hover, ul.read a:hover{text-decoration:none;}
+            ul.rel,ul.zt,ul.read {margin-top:30px; border:2px solid #ebebeb;font-family:"microsoft yahei"; line-height:30px; font-size:14px; width: 95%; margin: 0 auto; margin-top: 15px;}
+            ul.rel>p,ul.zt>p,ul.read>p {font-size:18px; font-weight:bold; color:#fff; margin:15px 0 0 -7px; background:url(//upload.cankaoxiaoxi.com/2015/0910/1441850291184.png) no-repeat 0 0; height:36px; line-height:28px; padding-left:15px;}
+            ul.rel li {border-top: 1px solid #ebebeb;   padding: 15px 20px;}
+            ul.rel li h3{font-size:18px; margin-bottom:10px; font-weight:bold;}
+            ul.rel li p{margin-bottom:10px; text-indent:28px; line-height:23px; color:#333;}
+            ul.rel li p span {color:#c33;}
+            ul.zt li{ background:url(upload.cankaoxiaoxi.com/2015/0910/1441851867866.jpg) no-repeat 570px center; line-height:50px; font-size:16px; border-bottom: 1px solid #eee; clear:both;}
+            ul.zt span { padding:0 20px;}
+            ul.zt a span:first-child{color:#369; border-right:1px solid #369;}
+            ul.read>p span{color:#369; margin-left:20px; font-weight:normal; font-size:14px;}
+            ul.read>p span a{color:#369;}
+            ul.read>p span:first-child{margin-left:40px;}
+            ul.read li{background:url(//upload.cankaoxiaoxi.com/2015/0910/1441852686500.jpg) no-repeat left center; font-size:16px; line-height:40px; padding-left:20px; margin-left:20px;}
+            .media a:hover p.num_r,.media .voice a:hover p, .media .person a:hover .person_r, .media .person a:hover .person_r,ul.rel li a:hover p {color: #AE3F3D;}
+            ul.read li {background: url(//upload.cankaoxiaoxi.com/2015/0910/1441852686500.jpg) no-repeat top 0.5em left; font-size: 14px;line-height: 1.8em;padding-left: 20px; margin-left: 20px;}
+            .bshare-custom a {float: left; width: 30px; height: 50px;/* padding-left: 25px;*/text-decoration: none;display: none;zoom: 1;vertical-align: middle;cursor: pointer;color: #333;margin-right: 3px;-moz-opacity: 1;-khtml-opacity: 1;}
+            ul.read li {line-height: 1.3em;margin-top: 15px;}
+            ul.read li:last-child {line-height: 1.3em;margin-top: 15px;margin-bottom:15px;}
+            ul.rel li p {line-height: 20px;}
+            ul.rel li h3 {line-height: 1.3em;}
+            .media .voice a p {line-height: 1.3em;}
+            .media .voice>p {font-size: 18px;}
+            .media .num>p{font-size: 18px;}
+            ul.zt a span:first-child {color: #369;border-right: none;}
+            ul.zt span {padding: 0;}
+            ul.zt li {line-height: 1.4em;font-size: 16px;border-bottom: 1px solid #eee;clear: both;margin-top:10px;}
+		</style>
+        <script>
+            $(document).ready(function(){
+                var h = document.body.scrollWidth||document.documentElement.scrollWidth  ;
+                if(h>380){
+                    $(".hot a img").css("height",135);    
+                    $(".share").css("padding-right",18);
+                    $(".news ul li .desc").css({"line-height":"1.8em"});
+                }
+            });
+        </script>
+		<!--精编区块 start-->
+        
+        <style>
+            #toutiao_container .section {width:92%; margin:0 auto;}
+            .waidi {display:none;}
+            .news ul>div {float:left; margin-left:-4%; border-bottom: 1px solid rgba(229,229,229,0.5); border-top: 1px solid rgba(229,229,229,0.5);}
+        </style>
+		<section class="news">
+			<p class="btitle">
+				热点新闻
+			</p> 
+			<ul>
+                                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220218/2469712.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0218/1645154237389.jpg" width="100%" alt="德媒述评：欧盟进军非洲发令枪已响 但目标模糊"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220218/2469712.shtml" target="_blank"><p>德媒述评：欧盟进军非洲发令枪已响 但目标模糊</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.18</span><span class="f-r"style="font-size:13px"></span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469654.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0217/1645094779875.jpg" width="100%" alt="谁是中美洲能源转型的盟友？中国、美国还是欧盟"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469654.shtml" target="_blank"><p>谁是中美洲能源转型的盟友？中国、美国还是欧盟</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.17</span><span class="f-r"style="font-size:13px">厄瓜多尔拉丁美洲新</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469640.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0217/1645090307465.jpg" width="100%" alt="新媒文章：中俄宣言开启国际关系新时代"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469640.shtml" target="_blank"><p>新媒文章：中俄宣言开启国际关系新时代</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.17</span><span class="f-r"style="font-size:13px">新加坡《海峡时报》</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469639.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0217/1645090048959.jpg" width="100%" alt="俄媒文章：北约将随美国衰落而衰落"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469639.shtml" target="_blank"><p>俄媒文章：北约将随美国衰落而衰落</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.17</span><span class="f-r"style="font-size:13px">俄罗斯战略文化基金</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469611.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0217/1645078433551.jpg" width="100%" alt="西媒文章：拜登需要炮制一场热战转移视线"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469611.shtml" target="_blank"><p>西媒文章：拜登需要炮制一场热战转移视线</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.17</span><span class="f-r"style="font-size:13px"></span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469577.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0217/1645059188817.jpg" width="100%" alt="俄专家文章：乌克兰成美对俄宣传战牺牲品"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469577.shtml" target="_blank"><p>俄专家文章：乌克兰成美对俄宣传战牺牲品</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.17</span><span class="f-r"style="font-size:13px">《俄罗斯报》网站</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469527.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2021/0630/1625025532669.jpg" width="100%" alt="港媒：中国在欧亚大棋局地位愈发重要"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220217/2469527.shtml" target="_blank"><p>港媒：中国在欧亚大棋局地位愈发重要</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.17</span><span class="f-r"style="font-size:13px">香港《南华早报》网</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469526.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0216/1645008090711.jpg" width="100%" alt="美媒：美国重振科学不能专注于打压中国"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469526.shtml" target="_blank"><p>美媒：美国重振科学不能专注于打压中国</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.16</span><span class="f-r"style="font-size:13px">美国《华尔街日报》</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469516.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0216/1645003496725.jpg" width="100%" alt="阿媒文章：阿根廷对华外交“更加积极”"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469516.shtml" target="_blank"><p>阿媒文章：阿根廷对华外交“更加积极”</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.16</span><span class="f-r"style="font-size:13px">阿根廷《第十二页报</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469512.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0216/1645002991516.jpg" width="100%" alt="俄媒：美国从夸大俄罗斯威胁中获利颇丰"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469512.shtml" target="_blank"><p>俄媒：美国从夸大俄罗斯威胁中获利颇丰</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.16</span><span class="f-r"style="font-size:13px">俄罗斯《生意人报》</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469510.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0216/1645002829614.jpg" width="100%" alt="伊申格尔警告：西方国家感到越来越无助"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469510.shtml" target="_blank"><p>伊申格尔警告：西方国家感到越来越无助</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.16</span><span class="f-r"style="font-size:13px">德国《商报》网站</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469443.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0130/1643542222862.jpg" width="100%" alt="德媒文章：西方制裁威胁不会让俄屈服"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220216/2469443.shtml" target="_blank"><p>德媒文章：西方制裁威胁不会让俄屈服</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.16</span><span class="f-r"style="font-size:13px">德国《经济周刊》网</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220215/2469407.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0215/1644922536214.jpg" width="100%" alt="澳专家文章：澳大利亚大选中的中国话题"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220215/2469407.shtml" target="_blank"><p>澳专家文章：澳大利亚大选中的中国话题</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.15</span><span class="f-r"style="font-size:13px">香港亚洲时报网站</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220215/2469406.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0130/1643542222862.jpg" width="100%" alt="俄媒文章：俄罗斯或面临欧亚两难选择"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220215/2469406.shtml" target="_blank"><p>俄媒文章：俄罗斯或面临欧亚两难选择</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.15</span><span class="f-r"style="font-size:13px">俄罗斯《生意人报》</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220215/2469387.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0215/1644913493234.jpg" width="100%" alt="学者认为：美国不能用旧思维解决21世纪问题"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220215/2469387.shtml" target="_blank"><p>学者认为：美国不能用旧思维解决21世纪问题</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.15</span><span class="f-r"style="font-size:13px">美国《国家利益》双</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220215/2469349.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0215/1644897032669.jpg" width="100%" alt="俄媒文章：制造“战争恐慌”将重创乌克兰经济"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220215/2469349.shtml" target="_blank"><p>俄媒文章：制造“战争恐慌”将重创乌克兰经济</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.15</span><span class="f-r"style="font-size:13px">今日俄罗斯电视台网</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220214/2469271.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0214/1644841203936.jpg" width="100%" alt="哈佛教授：全球创新应转向劳动力友好方向"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220214/2469271.shtml" target="_blank"><p>哈佛教授：全球创新应转向劳动力友好方向</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.14</span><span class="f-r"style="font-size:13px">世界报业辛迪加网站</span></p>
+					</div>
+                                                        
+                </li>
+				                <li class="ov">
+                					<div class="img">
+						<a href="//m.cankaoxiaoxi.com/column/20220214/2469265.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2021/1215/1639523795362.jpg" width="100%" alt="英媒文章：尼克松访华对中美关系的启示"></a>
+					</div>
+					<div class="desc">
+						<a href="//m.cankaoxiaoxi.com/column/20220214/2469265.shtml" target="_blank"><p>英媒文章：尼克松访华对中美关系的启示</p></a>
+						<p class="time"><span class="f-l"style="font-size:13px">2022.02.14</span><span class="f-r"style="font-size:13px"></span></p>
+					</div>
+                                                        
+                </li>
+				                             
+			</ul>
+			<div class="clear"></div>
+		</section>
+		<footer>
+            <div class="footerLinks"><a href="//m.cankaoxiaoxi.com">首页</a> <a href="javascript:;" target="_self">导航</a> <a href="//m.cankaoxiaoxi.com/x/?fr=mb">彩版</a> <a href="//m.cankaoxiaoxi.com" class="cor_ccc">触屏版</a> <a href="//www.cankaoxiaoxi.com/?fr=mb">PC版</a> </div>
+            <a href="#" target="_self" class="b mar-t-20">返回顶部</a>
+            <p class="fz-12 cor_666 mar-t-10">-参考消息报社 版权所有-</p>
+		</footer>
 
-</body>
+		<div class="share_t">
+			<div class="share_i">
+				<div class="share_t1"></div>
+				<div class="clear"></div>
+				<div class="share_c">
+					<a href="javascript:;" target="_self">取消</a>
+				</div>
+			</div>
+		</div>
+		<div class="shareicon">
+			<div class="bshare-custom">
+				<div class="bsPromo bsPromo2"></div>
+				<a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
+				<a title="分享到QQ空间" class="bshare-qzone"></a>
+				<a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a>
+			</div>
+		</div>
+        <style>
+            .shareicon {height:627px; width:100%; position:absolute; top:0; display:none;}
+            .shareicon .bshare-custom {position:absolute;bottom:80px; height:80px; width:100%; z-index:31;}
+            .shareicon .bshare-custom a {float: left; width: 11%; height: 50px; margin: 0 2%;}
+            .shareicon .bshare-custom .bshare-sinaminiblog {margin-left:24%;}
+
+            .news ul li {padding-bottom:0.2rem; margin-right:0.3rem; border-bottom:1px solid rgba(229,229,229,0.5); margin-top:0.1rem; position:relative; height:auto; margin-left:-3.5%; width:105%;}
+            .news ul li .img {width:33%;}
+            .news ul li .desc {width:64%;}
+            .news ul li>a {display:block; zoom:1; overflow:hidden;}
+            .news ul li img {display:block; float:left; width:100%; margin-right:0.2rem;}
+            .news ul ul li .desc {float:right; width:70%;  height:auto; margin-bottom:0.5rem;}
+            .news ul li h3 {margin-top:0.02rem; color:#333; font-size:0.36rem; /*text-align:justify;*/}
+
+            .news ul li .etc {font-size:0.24rem; position:absolute; bottom:0.24rem; right:0; width:67%;}
+            .news ul li .etc p {float:right;  color:#666;}
+            .news ul li .etc p.time {float:right;}
+            .news ul li .etc {position: absolute; bottom: 0.2rem; width: 100%;}
+            .news ul li a {padding-bottom:0.5rem;}
+            .news a p {font-weight:normal; line-height:0.4rem;}
+        </style>
+        <script>
+            var h = $(window).height();
+             $('.shareicon').css("height",h+"px");
+            
+            (function(){
+                var Dpr = 1, uAgent = window.navigator.userAgent;
+                var isIOS = uAgent.match(/iphone/i);
+                var isYIXIN = uAgent.match(/yixin/i);
+                var is2345 = uAgent.match(/Mb2345/i);
+                var ishaosou = uAgent.match(/mso_app/i);
+                var isSogou = uAgent.match(/sogoumobilebrowser/ig);
+                var isLiebao = uAgent.match(/liebaofast/i);
+                var isGnbr = uAgent.match(/GNBR/i);
+                function resizeRoot(){
+                    var wWidth = (screen.width > 0) ? (window.innerWidth >= screen.width || window.innerWidth == 0) ? screen.width : window.innerWidth : window.innerWidth, wDpr, wFsize;
+                    var wHeight = (screen.height > 0) ? (window.innerHeight >= screen.height || window.innerHeight == 0) ? screen.height : window.innerHeight : window.innerHeight;
+                    if (window.devicePixelRatio) {
+                        wDpr = window.devicePixelRatio;
+                    } else {
+                        wDpr = isIOS ? wWidth > 818 ? 3 : wWidth > 480 ? 2 : 1 : 1;
+                    }
+                    
+                    if(isIOS) {
+                        wWidth = screen.width;
+                        wHeight = screen.height;
+                    }
+
+                    if(wWidth > wHeight){
+                        wWidth = wHeight;
+                    }
+                    wFsize = wWidth > 1080 ? 144 : wWidth / 7.5;
+                    wFsize = wFsize > 32 ? wFsize : 32;
+                    window.screenWidth_ = wWidth;
+                    if(isYIXIN || is2345 || ishaosou || isSogou || isLiebao || isGnbr){//YIXIN 和 2345 这里有个刚调用系统浏览器时候的bug，需要一点延迟来获取
+                        setTimeout(function(){
+                            wWidth = (screen.width > 0) ? (window.innerWidth >= screen.width || window.innerWidth == 0) ? screen.width : window.innerWidth : window.innerWidth;
+                            wHeight = (screen.height > 0) ? (window.innerHeight >= screen.height || window.innerHeight == 0) ? screen.height : window.innerHeight : window.innerHeight;
+                            wFsize = wWidth > 1080 ? 144 : wWidth / 7.5;
+                            wFsize = wFsize > 32 ? wFsize : 32;
+                            document.getElementsByTagName('html')[0].style.fontSize = wFsize + 'px';
+                            document.getElementById("fixed").style.display="none";
+                        },500);
+                    }else{
+                        document.getElementsByTagName('html')[0].style.fontSize = wFsize + 'px';
+                    }
+                }
+                resizeRoot();
+                $(function(){
+                    $(".desc").css({"height":"auto"});
+                });
+            })();
+        </script>
+
+        <script> 
+        //微信分享
+        $(function(){
+            var url = encodeURIComponent(location.href.split("#")[0]);
+            $.getJSON('//app.cankaoxiaoxi.com/?app=newspaper&controller=vxsdk&action=jssdk&url='+url+'&jsoncallback=?',function(json){
+                if(json){
+                    var thumb1;
+                    thumb1 = 'http://upload.cankaoxiaoxi.com/2020/0610/1591751754414.jpg';
+                    
+                    wx.config({
+                        debug: false,
+                        appId: json.appId,
+                        timestamp: json.timestamp,
+                        nonceStr: json.nonceStr,
+                        signature: json.signature,
+                        jsApiList: [
+                            "updateAppMessageShareData",
+                            "updateTimelineShareData",
+                            "onMenuShareAppMessage",
+                            "onMenuShareTimeline",
+                            "onMenuShareQQ",
+                            "onMenuShareQZone",
+                            "showOptionMenu"// 所有要调用的 API 都要加到这个列表中
+                        ]
+                    });
+                    
+                    //wx.checkJsApi({
+                    //jsApiList: ['updateAppMessageShareData'],
+                      //success: function(res) {
+                      //}
+                    //});
+
+                    wx.ready(function(){
+                        wx.showOptionMenu();
+                        //分享给朋友
+                        wx.updateAppMessageShareData({
+                            title: document.title, // 分享标题
+                            desc: '报道指出，到目前为止还看不到有什么战略焦点。欧盟的倡议似乎是一个由很多项目构成的大杂烩，而不是像中国成功示范的那样把精力集中于公路、铁路或线缆等大型基础设施计划。', // 分享描述
+                            link: json.url, // 分享链接
+                            imgUrl: thumb1, // 分享图标
+                            success: function(){
+                            },
+                            cancel: function(){
+                            }
+                        });
+                        
+                        //分享到朋友圈
+                        wx.updateTimelineShareData({
+                            title: document.title, // 分享标题
+                            link: json.url, // 分享链接
+                            imgUrl: thumb1, // 分享图标
+                            success: function(){
+                            },
+                            cancel: function(){
+                            }
+                        });
+                       wx.onMenuShareAppMessage({
+                            title: document.title, // 分享标题
+                            link: json.url, // 分享链接
+                            imgUrl: thumb1, // 分享图标
+                            success: function () {
+                            }
+                        });
+                        //分享到朋友圈
+                        wx.onMenuShareTimeline({
+                            title: document.title,// 分享标题
+                            link: json.url, // 分享链接
+                            imgUrl: thumb1, // 分享图标
+                            success: function () {
+                            }
+                        });
+                    });
+                }
+            });
+        });
+        </script>
+            </body>
 </html>
-
-<!--enorth cms page [ enorth parse_date="2022/09/23 08:47:30.030", cost="62", server=":=$encp$=:8ca3ba59ba3e9675", error_count="0"]-->

@@ -1,248 +1,1160 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="zh-Hans" prefix="og: http://ogp.me/ns#">
 <head>
 <meta charset="UTF-8">
-<link rel="dns-prefetch" href="//apps.bdimg.com">
-<meta http-equiv="X-UA-Compatible" content="IE=11,IE=10,IE=9,IE=8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
-<meta name="apple-mobile-web-app-title" content="新华侨网">
-<meta http-equiv="Cache-Control" content="no-siteapp">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="icon" href="/DJY32.png" sizes="32x32"/><link rel="apple-touch-icon-precomposed" href="/DJY180.png" /><link rel="icon" href="/DJY192.png" sizes="192x192"/><meta name="msapplication-TileImage" content="https://www.epochtimes.com/DJY270.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name="date" content="2016-12-31 3:30:34 AM" />
+<title>多伦多10大最常用语 中文排第2 | 多伦多，中文 | 大纪元</title>
+<meta name="description" content="多伦多是全球公认最多元化的国际大都市，人们日常生活中，又有哪些语言是平日最经常说的呢？共10大语言，按语言人口排名，分别是英语、中文（国语和粤语）、泰米尔语（Tamil）、西班牙语、菲律宾语（Tagalog）、意大利语、葡萄牙语、波斯语和俄语。"/>
+<meta name="keywords" content="多伦多，中文,大纪元"/>
+<link rel="canonical" href="https://www.epochtimes.com/gb/16/12/5/n8561913.htm" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="多伦多10大最常用语 中文排第2 - 大纪元" />
+<meta property="og:description" content="多伦多是全球公认最多元化的国际大都市，人们日常生活中，又有哪些语言是平日最经常说的呢？共10大语言，按语言人口排名，分别是英语、中文（国语和粤语）、泰米尔语（Tamil）、西班牙语、菲律宾语（Tagalog）、意大利语、葡萄牙语、波斯语和俄语。" />
+<meta property="og:url" content="https://www.epochtimes.com/gb/16/12/5/n8561913.htm" />
+<meta property="og:site_name" content="大纪元 www.epochtimes.com" />
+<meta property="article:publisher" content="https://www.facebook.com/djy.news/" />
+<meta property="article:tag" content="多伦多，中文" />
+<meta property="article:section" content="副刊" />
+<meta property="article:published_time" content="2016-12-31T03:30:34+08:00" />
+<meta property="article:modified_time" content="2016-12-31T03:40:05+08:00" />
+<meta property="og:updated_time" content="2016-12-31T03:40:05+08:00" />
+<meta property="og:image" content="https://i.epochtimes.com/assets/uploads/2016/12/Fotolia_40305500_M1-1024x682-e1480966481259.jpg" />
+<meta property="fb:app_id" content="1571885662850711" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="多伦多是全球公认最多元化的国际大都市，人们日常生活中，又有哪些语言是平日最经常说的呢？共10大语言，按语言人口排名，分别是英语、中文（国语和粤语）、泰米尔语（Tamil）、西班牙语、菲律宾语（Tagalog）、意大利语、葡萄牙语、波斯语和俄语。"/>
+<meta name="twitter:title" content="多伦多10大最常用语 中文排第2 - 大纪元"/>
+<meta name="twitter:site" content="@dajiyuan"/>
+<meta name="twitter:domain" content="大纪元 www.epochtimes.com"/>
+<meta name="twitter:image" content="https://i.epochtimes.com/assets/uploads/2016/12/Fotolia_40305500_M1-1024x682-e1480966481259.jpg"/>
+<meta name="twitter:creator" content="@dajiyuan"/>
+<link rel='stylesheet' id='djy-style-css'  href='https://www.epochtimes.com/assets/themes/djy/style.css?ver=20150811' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-foundation-css'  href='https://www.epochtimes.com/assets/themes/djy/css/foundation/foundation.min.css?ver=20150811' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-global-css'  href='https://www.epochtimes.com/assets/themes/djy/css/global-v2.css?ver=20200818' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-article-css'  href='https://www.epochtimes.com/assets/themes/djy/css/article-v2.min.css?ver=20220615' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-slick-css-css'  href='https://www.epochtimes.com/assets/themes/djy/css/community/slick.css?ver=20160303' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-widget-template-css'  href='https://www.epochtimes.com/assets/themes/djy/css/widget-v2.min.css?ver=20200107' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-print-css'  href='https://www.epochtimes.com/assets/themes/djy/css/print.min.css?ver=20160303' type='text/css' media='print' />
 
-<!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
-<link rel="manifest" href="/superpwa-manifest.json">
-<link rel="prefetch" href="/superpwa-manifest.json">
-<meta name="theme-color" content="#dd3333">
-<!-- / SuperPWA.com -->
-
-		<!-- All in One SEO 4.2.1.1 -->
-		<title>“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样… | 新华侨网</title>
-		<meta name="description" content="【CFC新闻】世界地图，大家都见过，但是你见过“偏见地图”吗？ 偏见地图，是指根据一些地区的人对其他地区的偏见" />
-		<meta name="robots" content="max-image-preview:large" />
-		<link rel="canonical" href="https://cfcnews.com/170536/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7/" />
-		<meta property="og:locale" content="zh_CN" />
-		<meta property="og:site_name" content="CFC新闻" />
-		<meta property="og:type" content="article" />
-		<meta property="og:title" content="“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样… | 新华侨网" />
-		<meta property="og:description" content="【CFC新闻】世界地图，大家都见过，但是你见过“偏见地图”吗？ 偏见地图，是指根据一些地区的人对其他地区的偏见" />
-		<meta property="og:url" content="https://cfcnews.com/170536/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7/" />
-		<meta property="og:image" content="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612134301.jpg" />
-		<meta property="og:image:secure_url" content="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612134301.jpg" />
-		<meta property="og:image:width" content="658" />
-		<meta property="og:image:height" content="582" />
-		<meta property="article:published_time" content="2017-06-12T18:19:50+00:00" />
-		<meta property="article:modified_time" content="2017-06-12T20:14:19+00:00" />
-		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:title" content="“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样… | 新华侨网" />
-		<meta name="twitter:description" content="【CFC新闻】世界地图，大家都见过，但是你见过“偏见地图”吗？ 偏见地图，是指根据一些地区的人对其他地区的偏见" />
-		<meta name="twitter:image" content="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612134301.jpg" />
-		<script type="application/ld+json" class="aioseo-schema">
-			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/cfcnews.com\/#website","url":"https:\/\/cfcnews.com\/","name":"\u65b0\u534e\u4fa8\u7f51","description":"CFCNEWS.COM","inLanguage":"zh-CN","publisher":{"@id":"https:\/\/cfcnews.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/cfcnews.com\/#organization","name":"CFC\u65b0\u95fb","url":"https:\/\/cfcnews.com\/","logo":{"@type":"ImageObject","@id":"https:\/\/cfcnews.com\/#organizationLogo","url":"https:\/\/cfcnews.com\/wp-content\/uploads\/2020\/07\/6fb21f3198e80ce-1.png","width":1000,"height":618},"image":{"@id":"https:\/\/cfcnews.com\/#organizationLogo"}},{"@type":"BreadcrumbList","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/cfcnews.com\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/cfcnews.com\/","name":"\u4e3b\u9801","description":"CFCNEWS.COM","url":"https:\/\/cfcnews.com\/"},"nextItem":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#listItem"},{"@type":"ListItem","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/","name":"\u201c\u6076\u610f\u6ee1\u6ee1\u201d\u7684\u4e16\u754c\u504f\u89c1\u5730\u56fe\u6765\u88ad\uff0c \u4e2d\u56fd\u3001\u52a0\u62ff\u5927\u5728\u4e16\u754c\u773c\u4e2d\u662f\u8fd9\u6837...","description":"\u3010CFC\u65b0\u95fb\u3011\u4e16\u754c\u5730\u56fe\uff0c\u5927\u5bb6\u90fd\u89c1\u8fc7\uff0c\u4f46\u662f\u4f60\u89c1\u8fc7\u201c\u504f\u89c1\u5730\u56fe\u201d\u5417\uff1f \u504f\u89c1\u5730\u56fe\uff0c\u662f\u6307\u6839\u636e\u4e00\u4e9b\u5730\u533a\u7684\u4eba\u5bf9\u5176\u4ed6\u5730\u533a\u7684\u504f\u89c1","url":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/"},"previousItem":"https:\/\/cfcnews.com\/#listItem"}]},{"@type":"Person","@id":"https:\/\/cfcnews.com\/author\/rita-zhang\/#author","url":"https:\/\/cfcnews.com\/author\/rita-zhang\/","name":"\u738b \u8011"},{"@type":"WebPage","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#webpage","url":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/","name":"\u201c\u6076\u610f\u6ee1\u6ee1\u201d\u7684\u4e16\u754c\u504f\u89c1\u5730\u56fe\u6765\u88ad\uff0c \u4e2d\u56fd\u3001\u52a0\u62ff\u5927\u5728\u4e16\u754c\u773c\u4e2d\u662f\u8fd9\u6837\u2026 | \u65b0\u534e\u4fa8\u7f51","description":"\u3010CFC\u65b0\u95fb\u3011\u4e16\u754c\u5730\u56fe\uff0c\u5927\u5bb6\u90fd\u89c1\u8fc7\uff0c\u4f46\u662f\u4f60\u89c1\u8fc7\u201c\u504f\u89c1\u5730\u56fe\u201d\u5417\uff1f \u504f\u89c1\u5730\u56fe\uff0c\u662f\u6307\u6839\u636e\u4e00\u4e9b\u5730\u533a\u7684\u4eba\u5bf9\u5176\u4ed6\u5730\u533a\u7684\u504f\u89c1","inLanguage":"zh-CN","isPartOf":{"@id":"https:\/\/cfcnews.com\/#website"},"breadcrumb":{"@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#breadcrumblist"},"author":"https:\/\/cfcnews.com\/author\/rita-zhang\/#author","creator":"https:\/\/cfcnews.com\/author\/rita-zhang\/#author","image":{"@type":"ImageObject","@id":"https:\/\/cfcnews.com\/#mainImage","url":"https:\/\/cfcnews.com\/wp-content\/uploads\/2017\/06\/QQ\u622a\u56fe20170612134301.jpg","width":658,"height":582},"primaryImageOfPage":{"@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#mainImage"},"datePublished":"2017-06-12T18:19:50-04:00","dateModified":"2017-06-12T20:14:19-04:00"},{"@type":"Article","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#article","name":"\u201c\u6076\u610f\u6ee1\u6ee1\u201d\u7684\u4e16\u754c\u504f\u89c1\u5730\u56fe\u6765\u88ad\uff0c \u4e2d\u56fd\u3001\u52a0\u62ff\u5927\u5728\u4e16\u754c\u773c\u4e2d\u662f\u8fd9\u6837\u2026 | \u65b0\u534e\u4fa8\u7f51","description":"\u3010CFC\u65b0\u95fb\u3011\u4e16\u754c\u5730\u56fe\uff0c\u5927\u5bb6\u90fd\u89c1\u8fc7\uff0c\u4f46\u662f\u4f60\u89c1\u8fc7\u201c\u504f\u89c1\u5730\u56fe\u201d\u5417\uff1f \u504f\u89c1\u5730\u56fe\uff0c\u662f\u6307\u6839\u636e\u4e00\u4e9b\u5730\u533a\u7684\u4eba\u5bf9\u5176\u4ed6\u5730\u533a\u7684\u504f\u89c1","inLanguage":"zh-CN","headline":"\u201c\u6076\u610f\u6ee1\u6ee1\u201d\u7684\u4e16\u754c\u504f\u89c1\u5730\u56fe\u6765\u88ad\uff0c \u4e2d\u56fd\u3001\u52a0\u62ff\u5927\u5728\u4e16\u754c\u773c\u4e2d\u662f\u8fd9\u6837...","author":{"@id":"https:\/\/cfcnews.com\/author\/rita-zhang\/#author"},"publisher":{"@id":"https:\/\/cfcnews.com\/#organization"},"datePublished":"2017-06-12T18:19:50-04:00","dateModified":"2017-06-12T20:14:19-04:00","articleSection":"\u5934\u6761\u65b0\u95fb, \u6e25\u592a\u534e\u65b0\u95fb","mainEntityOfPage":{"@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#webpage"},"isPartOf":{"@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#webpage"},"image":{"@type":"ImageObject","@id":"https:\/\/cfcnews.com\/#articleImage","url":"https:\/\/cfcnews.com\/wp-content\/uploads\/2017\/06\/QQ\u622a\u56fe20170612134301.jpg","width":658,"height":582}}]}
-		</script>
-		<!-- All in One SEO -->
-
-<link rel='dns-prefetch' href='//code.jquery.com' />
-<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='gtranslate-style-css'  href='https://cfcnews.com/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://cfcnews.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' />
-<style id='global-styles-inline-css' type='text/css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-</style>
-<link rel='stylesheet' id='_bootstrap-css'  href='https://cfcnews.com/wp-content/themes/dux-4/css/bootstrap.min.css?ver=6.4' type='text/css' media='all' />
-<link rel='stylesheet' id='_fontawesome-css'  href='https://cfcnews.com/wp-content/themes/dux-4/css/font-awesome.min.css?ver=6.4' type='text/css' media='all' />
-<link rel='stylesheet' id='_main-css'  href='https://cfcnews.com/wp-content/themes/dux-4/css/main.css?ver=6.4' type='text/css' media='all' />
-<link rel="alternate" type="application/json+oembed" href="https://cfcnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcfcnews.com%2F170536%2F%25e6%2581%25b6%25e6%2584%258f%25e6%25bb%25a1%25e6%25bb%25a1%25e7%259a%2584%25e4%25b8%2596%25e7%2595%258c%25e5%2581%258f%25e8%25a7%2581%25e5%259c%25b0%25e5%259b%25be%25e6%259d%25a5%25e8%25a2%25ad%25ef%25bc%258c-%25e4%25b8%25ad%25e5%259b%25bd%25e3%2580%2581%25e5%258a%25a0%25e6%258b%25bf%25e5%25a4%25a7%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://cfcnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcfcnews.com%2F170536%2F%25e6%2581%25b6%25e6%2584%258f%25e6%25bb%25a1%25e6%25bb%25a1%25e7%259a%2584%25e4%25b8%2596%25e7%2595%258c%25e5%2581%258f%25e8%25a7%2581%25e5%259c%25b0%25e5%259b%25be%25e6%259d%25a5%25e8%25a2%25ad%25ef%25bc%258c-%25e4%25b8%25ad%25e5%259b%25bd%25e3%2580%2581%25e5%258a%25a0%25e6%258b%25bf%25e5%25a4%25a7%2F&#038;format=xml" />
-<script>var gt_request_uri = '/170536/%E6%81%B6%E6%84%8F%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%96%E7%95%8C%E5%81%8F%E8%A7%81%E5%9C%B0%E5%9B%BE%E6%9D%A5%E8%A2%AD%EF%BC%8C-%E4%B8%AD%E5%9B%BD%E3%80%81%E5%8A%A0%E6%8B%BF%E5%A4%A7/';</script><style>.logo img {
-    vertical-align: top;
-    max-height: 32px;
-    display: block;
-    margin-bottom: 32px;
-}
-
-.wencode
-{
-margin-top:3px;
-}
-.widget_wpcc{
-padding:10px;
-}</style>
-<!--HEADER_CODE_START-->
-<meta name=“referrer” content=“no-referrer” />
-<!--HEADER_CODE_END-->
-<link rel="amphtml" href="https://cfcnews.com/170536/%E6%81%B6%E6%84%8F%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%96%E7%95%8C%E5%81%8F%E8%A7%81%E5%9C%B0%E5%9B%BE%E6%9D%A5%E8%A2%AD%EF%BC%8C-%E4%B8%AD%E5%9B%BD%E3%80%81%E5%8A%A0%E6%8B%BF%E5%A4%A7/amp/"><link rel="icon" href="https://cfcnews.com/wp-content/uploads/2020/06/596f5a99e238155-32x32.jpg" sizes="32x32" />
-<link rel="icon" href="https://cfcnews.com/wp-content/uploads/2020/06/596f5a99e238155-192x192.jpg" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://cfcnews.com/wp-content/uploads/2020/06/596f5a99e238155-180x180.jpg" />
-<meta name="msapplication-TileImage" content="https://cfcnews.com/wp-content/uploads/2020/06/596f5a99e238155-270x270.jpg" />
-		<style type="text/css" id="wp-custom-css">
-			
-.at-resp-share-element {
-    text-align: center; 
-}
-
-.header {
-
-    padding: 20px 0 20px;
-	
-}
-
-a.glink.nturl.notranslate {
-    display: inline-block;
-}		</style>
-		<link rel="shortcut icon" href="https://cfcnews.com/favicon.ico">
-<!--[if lt IE 9]><script src="https://cfcnews.com/wp-content/themes/dux-4/js/libs/html5.min.js"></script><![endif]-->
+			<style type="text/css">
+			body{ font-family: Simsun; }
+			</style>
+		<meta property="fb:pages" content="394510747593181" />
+<meta name="news_keywords" content="多伦多，中文,大纪元" />
+	<script>
+		var djy_primary_category, djy_user_id, djy_cat_ids, djy_term_ids, djy_all_term_ids, djy_all_term_names_full, djy_domain, djy_ads_term_ids, djy_publish_date, djy_no_ads = false;
+		var encoding = "gb";
+	djy_primary_category = '1143312';
+djy_user_id = '253';
+djy_cat_ids = '399,1143312,391,267,1139891,2008,995,1141063';
+djy_term_ids = '6';
+djy_all_term_ids = '399,1143312,391,267,1139891,2008,995,1141063,6';
+djy_all_term_names_full = '副刊-nclife;加国移民生活-ncid1143312;各地分网-ncChineseCommunity;各地最新动态-ncid267;多伦多-ncid1139891;生活-nsc2008;留学移民-nsc995;移民生活-ncid1141063;类别重点-frnt6';
+djy_ads_term_ids = '399,1143312,391,267,1139891,2008,995,1141063,6';
+djy_publish_date = '20161231';
+	</script>
+	<meta property="dable:item_id" content="8561913">
+<meta property="dable:author" content="djy">
+<link rel="amphtml" href="https://www.epochtimes.com/gb/16/12/5/n8561913.htm/amp" /><!--[if lt IE 9]>
+     <script type="text/javascript" src="/assets/themes/djy/js/html5.js"></script>
+     <link href="/assets/themes/djy/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
 </head>
-<body data-rsssl=1 class="post-template-default single single-post postid-170536 single-format-standard wp-embed-responsive m-excerpt-cat m-excerpt-time topbar-off site-layout-2 text-justify-on m-sidebar">
-<header class="header">
-	<div class="container">
-		<div class="logo"><a href="https://cfcnews.com" title="新华侨网-CFCNEWS.COM"><img src="https://cfcnews.com/wp-content/uploads/2020/06/358bdc5d1453b1e.png" alt="新华侨网-CFCNEWS.COM">新华侨网</a></div>		<div class="brand">COME FROM CHINA<br>新华侨网</div>		<ul class="site-nav site-navbar">
-			<li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-61"><a href="https://cfcnews.com">首页</a></li>
-<li id="menu-item-280449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-280449"><a href="https://cfcnews.com/us/">美国</a></li>
-<li id="menu-item-8052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8052"><a href="https://cfcnews.com/canada/">加拿大</a>
-<ul class="sub-menu">
-	<li id="menu-item-104371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104371"><a href="https://cfcnews.com/vancouver/">温哥华</a></li>
-	<li id="menu-item-228724" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-228724"><a href="https://cfcnews.com/montreal/">蒙特利尔</a></li>
-	<li id="menu-item-104370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104370"><a href="https://cfcnews.com/toronto/">多伦多</a></li>
-	<li id="menu-item-104372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104372"><a href="https://cfcnews.com/news/ottawa">渥太华</a></li>
-</ul>
-</li>
-<li id="menu-item-291554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-291554"><a href="https://cfcnews.com/food/">美食</a></li>
-<li id="menu-item-295071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-295071"><a href="https://cfcnews.com/health/">健康</a></li>
-<li id="menu-item-294617" class="menu-item menu-item-type-gs_sim menu-item-object-gs_sim menu-item-294617"><!-- GTranslate: https://gtranslate.io/ -->
-<a href="https://cfcnews.com" onclick="doGTranslate('zh-CN|zh-CN');return false;" title="简体中文" class="glink nturl notranslate">简体中文</a> <a href="https://cfcnews.com/zh-TW" onclick="doGTranslate('zh-CN|zh-TW');return false;" title="繁體中文" class="glink nturl notranslate">繁體中文</a> 
-
-<script type="text/javascript">
-function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(typeof _gaq!='undefined'){_gaq.push(['_trackEvent', 'GTranslate', lang, location.pathname+location.search]);}else {if(typeof ga!='undefined')ga('send', 'event', 'GTranslate', lang, location.pathname+location.search);}var plang=location.pathname.split('/')[1];if(plang.length !=2 && plang != 'zh-CN' && plang != 'zh-TW' && plang != 'hmn' && plang != 'haw' && plang != 'ceb')plang='zh-CN';if(lang == 'zh-CN')location.href=location.protocol+'//'+location.host+gt_request_uri;else location.href=location.protocol+'//'+location.host+'/'+lang+gt_request_uri;}
-</script>
-</li>
-							<li class="navto-search"><a href="javascript:;" class="search-show active"><i class="fa fa-search"></i></a></li>
-					</ul>
-							<i class="fa fa-bars m-icon-nav"></i>
-					</div>
-</header>
-<div class="site-search">
-	<div class="container">
-		<form method="get" class="site-search-form" action="https://cfcnews.com/" ><input class="search-input" name="s" type="text" placeholder="输入关键字" value=""><button class="search-btn" type="submit"><i class="fa fa-search"></i></button></form>	</div>
-</div>
-	<div class="breadcrumbs">
-		<div class="container">当前位置：<a href="https://cfcnews.com">新华侨网</a> <small>></small> <a href="https://cfcnews.com/breaking/">头条新闻</a> <small>></small> 正文</div>
-	</div>
-<div class="orbui orbui-site orbui-site-01"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- News Top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9940573697171738"
-     data-ad-slot="5834044019"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-	
-
-<section class="container">
-	<div class="content-wrap">
-	<div class="content">
-				<header class="article-header">
-			<h1 class="article-title"><a href="https://cfcnews.com/170536/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7/">“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样&#8230;</a></h1>
-			<div class="article-meta">
-				<span class="item">2017-06-12</span>
-												<span class="item">分类：<a href="https://cfcnews.com/breaking/" rel="category tag">头条新闻</a> / <a href="https://cfcnews.com/ottawa/" rel="category tag">渥太华新闻</a></span>
-								<span class="item">评论(0)</span>				<span class="item"></span>
-				
+<body class="post-template-default single single-post postid-8561913 single-format-standard single-template-living-article">	<script>
+	var epochload = [];
+	var slots =  new Array();
+	function loadGTM(id) {
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+			j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', id);
+	}
+		</script>
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHM2XS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>
+	if (document.getElementsByClassName('archive tag').length > 0) {
+		setTimeout(function() {
+			loadGTM('GTM-WHM2XS');
+		}, 3000);
+	} else {
+		loadGTM('GTM-WHM2XS');
+	}
+	</script>
+	<header role="banner" class="djy-global-header">
+	<div class="top_row">
+		<div class="container">
+			<div class="logo">
+				<a title="大纪元首页" href="/"><img alt="大纪元 LOGO" src="https://www.epochtimes.com/assets/themes/djy/images/ET_Logo_2_cn.png"></a>
 			</div>
-		</header>
-		<article class="article-content">
-			<div class="orbui orbui-post orbui-post-01"></div>			<p>【CFC新闻】世界地图，大家都见过，但是你见过“偏见地图”吗？</p>
-<p><img class="alignnone size-full wp-image-170538" src="https://cfcnews.com/wp-content/uploads/2017/06/49916756.jpg" alt="" width="580" height="435" /></p>
-<p>偏见地图，是指根据一些地区的人对其他地区的偏见看法而描绘出来的地图。 在中国，网络上流行着“北京人眼中的中国地图”、“上海人眼中的中国地图”、“湖南人眼中的中国地图”等国内版本的“偏见地图”。</p>
-<p>其实，偏见地图的概念很早就出现了。保加利亚摄影师Yanko Tsvetkov从2009年就开始绘制“世界偏见地图”。</p>
-<p><img loading="lazy" class="alignnone size-full wp-image-170550" src="https://cfcnews.com/wp-content/uploads/2017/06/11-4.jpg" alt="" width="570" height="441" /></p>
-<p>看看美国人眼中的亚洲，笑哭！中国物产丰饶人民心灵手巧；丰田最能代表日本；印度就是各种咖喱大集合&#8230;</p>
-<p>最近， 美国旅游公司Exeter International基于google 的自动提示功能，也制作了一张国际版的“偏见地图”。自动提示功能中的短语， 通常是人们被人们搜索最多的事物，通过这种方式，可以将一个国家与另一种事物紧密相连。</p>
-<p><img loading="lazy" class="alignnone size-medium wp-image-170539" src="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133052-800x338.jpg" alt="" width="800" height="338" srcset="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133052-800x338.jpg 800w, https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133052-768x325.jpg 768w, https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133052.jpg 1024w" sizes="(max-width: 800px) 100vw, 800px" /></p>
-<p>通过搜索“Best * COUNTRY NAME”， Exeter International 画出了一张“世家偏见地图”，以了解人们在某一个特定国家搜索做多的东西是什么。 一起来探索下， 这张“恶意”满满的地图：</p>
-<p><strong>北美：</strong></p>
-<p><img loading="lazy" class="alignnone size-full wp-image-170541" src="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612134301.jpg" alt="" width="658" height="582" />提起加拿大，人们 可能会想到“枫叶”、“冰球”和“寒冷”。 在这张大杂烩的地图上，加拿大被人们搜索最多的是“滑雪胜地”， 倒是很符合加拿大的气质。拥有众多名校的美国，给世界人们的印象是“大学”。</p>
-<p><strong>亚洲：</strong><img loading="lazy" class="alignnone size-full wp-image-170544" src="https://cfcnews.com/wp-content/uploads/2017/06/亚洲.jpg" alt="" width="664" height="579" /></p>
-<p>民以食为天的中国，给世界人民的印象竟然是“炒锅， Wok”！</p>
-<p><strong>欧洲：</strong></p>
-<p><img loading="lazy" class="alignnone size-full wp-image-170542" src="https://cfcnews.com/wp-content/uploads/2017/06/欧洲.jpg" alt="" width="659" height="583" /></p>
-<p><strong>大洋洲</strong></p>
-<p><img loading="lazy" class="alignnone size-full wp-image-170545" src="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133633.jpg" alt="" width="658" height="505" /></p>
-<p><strong>南美</strong></p>
-<p><img loading="lazy" class="alignnone size-full wp-image-170548" src="https://cfcnews.com/wp-content/uploads/2017/06/微信截图_20170612140819.jpg" alt="" width="500" height="589" /></p>
-<p>非洲：</p>
-<p><img loading="lazy" class="alignnone size-full wp-image-170549" src="https://cfcnews.com/wp-content/uploads/2017/06/非洲.jpg" alt="" width="500" height="550" /></p>
-<p>（CFC记者王耑编译）</p>
-		</article>
-						            <div class="post-actions">
-            	<a href="javascript:;" etap="like" class="post-like action action-like" data-pid="170536"><i class="fa fa-thumbs-o-up"></i>赞(<span>0</span>)</a>            	            	            </div>
-        		<div class="post-copyright"><a href="https://cfcnews.com">新华侨网</a> &raquo; <a href="https://cfcnews.com/170536/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7/">“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样&#8230;</a></div>		
-					<div class="action-share"></div>
+			<div class="b5_gb">
+							<span class="b5"><a href="https://www.epochtimes.com/b5/16/12/5/n8561913.htm">正体</a></span>
+				<span class="gb active"><a href="https://www.epochtimes.com/gb/16/12/5/n8561913.htm">简体</a></span>
+						</div>
+			<div class="search">
+				<form class="search-form" method="post" role="search" action="https://www.epochtimes.com/gb/search.htm">
+					<input type="hidden" name="encoding" value="b5">
+					<input type="text" role="search" name="q" size="2" value="" maxlength="100" placeholder="搜寻" title="搜寻" class="search_input">
+					<button type="submit" class="search_btn"></button>
+				</form>
+			</div>
+			<div class="user_block"></div>
+		</div>
+	</div>
+	<div class="nav_row">
+		<div class="container">
+			<ul>
+				<li><a href="/gb/nsc413.htm">大陆</a></li>
+				<li><a href="/gb/nsc412.htm">美国</a></li>
+				<li><a href="/gb/ncid1349362.htm">香港</a></li>
+				<li><a href="/gb/nsc418.htm">国际</a></li>
+				<li><a href="/gb/ncid1349361.htm">台湾</a></li>
+				<li>|</li>
+				<li><a href="/gb/instant-news.htm">即时</a></li>
+				<li><a href="https://www.epochtimes.com/gb/opinion.htm">评论</a></li>
+				<li><a href="/gb/nf1191090.htm">专题</a></li>
+				<li><a href="/gb/ncid1247351.htm">视频</a></li>
+				<li>|</li>
+				<li><a href="/gb/nsc419.htm">科技</a></li>
+				<li><a href="/gb/nsc420.htm">财经</a></li>
+				<li><a href="/gb/ncyule.htm">娱乐</a></li>
+				<li><a href="/gb/nsc2007.htm">文化</a></li>
+				<li>|</li>
+				<li><a href="/gb/nsc2008.htm">生活</a></li>
+				<li><a href="/gb/nsc1002.htm">健康</a></li>
+				<li class="has_dropdown">
+					<a target="_blank" href="/gb/ncChineseCommunity.htm">社区网<span class="arrow-right"></span></a>
+					<ul class="sub-menu">
+						<li><a target="_blank" href="/gb/nsc529.htm">纽约</a></li>
+						<li><a target="_blank" href="/gb/nsc533.htm">旧金山</a></li>
+						<li><a target="_blank" href="/gb/nsc970.htm">洛杉矶</a></li>
+						<li><a target="_blank" href="/gb/ncid1139891.htm">多伦多</a></li>
+						<li><a target="_blank" href="/gb/ncid1143942.htm">温哥华</a></li>
+						<li><a target="_blank" href="/gb/nsc980.htm">澳洲</a></li>
+						<li><a target="_blank" href="/gb/nsc974.htm">欧洲</a></li>
+						<li><a target="_blank" href="/gb/ncChineseCommunity.htm">更多</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</header>
+<div class="clear"></div>
+
+<div class="single_column_container" style="width: 100%; background-color: #eeeeee; border: ;">
+	<div class="content" style="background-color: #eeeeee; padding: 40px 0 0 0; ">
+	
+<div class="single_column_container" style="width: 1200px; margin: 0 auto;; background-color: #dddddd; border: ;">
+	<div class="content" style="background-color: #dddddd; padding: 0; ">
+	
+<div class="single_column_container" style="width: 100%; background-color: #dddddd; border: ;">
+	<div class="content" style="background-color: #dddddd; padding: 0; ">
+	
+<div class="single_column_container" style="width: 728px; margin: 0 auto;; background-color: #dddddd; border: ;">
+	<div class="content" style="background-color: #dddddd; padding: 8px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="293" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="399" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="400" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 1200px; margin: 0 auto;; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 0 15px; ">
+	
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 0; ">
+	<div class="living-header">
+	<header role="banner">
+		<div class="city">
+		<span>多伦多大纪元时报 </span><span>Epoch Times</span>
+				</div>
+
+		<div class="date"></div>
+		<a href="https://www.epochtimes.com/gb/ncid1139891.htm" target="_blank"><div class="icon" style="background: url('https://i.epochtimes.com/assets/uploads/2016/12/toronto-logo-s6.png') no-repeat left top;">&nbsp;</div></a>
+
+		<div class="font_b5_gb">	<span><a href="https://www.epochtimes.com/b5/16/12/5/n8561913.htm">正</a></span>
+	<span>|</span>
+	<span><a href="https://www.epochtimes.com/gb/16/12/5/n8561913.htm">简</a></span>
+	</div>	</header>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #eeeeee; border: ;">
+	<div class="content" style="background-color: #eeeeee; padding: 0; ">
+	
+<div class="single_column_container" style="width: 1200px; margin: 0 auto;; background-color: #101f84; border: ;">
+	<div class="content" style="background-color: #101f84; padding: 0 15px; ">
+	<div class="living-navigation" style="background-color:#101f84">
+		<header role="navigation">
+		<ul style="float: left;">
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1139891.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					首页				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1141077.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					加国				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1141078.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					城市				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1141332.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					社区				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1141063.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					移民				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1141073.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					投资				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1141068.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					法律				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1141072.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					尚•Style				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1141069.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					房•地产				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://auto.epochtimes.com/" target="_self" style="font-size:16px;color:#ffffff;">
+					汽车				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://travel.epochtimes.com/" target="_self" style="font-size:16px;color:#ffffff;">
+					旅游				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://toronto.epochtimes.com/epaper/last" target="_self" style="font-size:16px;color:#ffffff;">
+					读报				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="https://www.epochtimes.com/gb/ncid1288057.htm" target="_self" style="font-size:16px;color:#ffffff;">
+					Sponsored				</a>
+				<span style="width:30px">&nbsp;</span>
+			</li>
+					</ul>
+				<div class="search_button"><span>&nbsp;</span></div>
+			</header>
+		<div class="search_area">
+	    <span class="search_hide">×</span>
+        <form method="post" role="search" action="https://www.epochtimes.com/gb/search.htm">
+            <div>
+            	<input type="hidden" name="encoding" value="gb">
+                <input name="q" type="text" autocomplete="off">
+                <button type="submit">搜寻</button>
+            </div>
+        </form>
+	</div>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 1200px; margin: 0 auto;; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 0; ">
+		</div>
+	<div class="clear"></div>
+</div>
+
+<main id="main" role="main">
+	<div class="row"><div id="topad728" class="large-12 medium-12 small-12 column">
+	<div class="adshow728 row ad-center" id="topad728_inner"></div></div></div>
+	<div class="row">
+		<div class="large-12 medium-12 small-12 column" id="breadcrumbs">
+		<div class="show-for-medium-up" id="breadcrumb"><a href = "/gb/" target="blank">首页</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/ncChineseCommunity.htm">各地分网</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/ncid1163171.htm">加拿大</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/ncid1139891.htm">多伦多</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/ncid1141063.htm">移民生活</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/ncid1143312.htm">加国移民生活</a> > <span class="current">正文</span></div>		</div>
+	</div>
+
+	<div class="row">
+		<div class="column" id="hd1">
+			<div class="large-12 medium-12 small-12 column print">
+			<a href="/"><img border="0" alt="site logo: www.epochtimes.com"	src="https://www.epochtimes.com/assets/themes/djy/images/DJY-logo20140623-2.jpg"></a>
+			</div>
+		</div>
+		<div class="columns scrollrelated">
+			<div class="bd">
+				<div class="large-8 medium-8 small-12 bgcolor column left">
+	<div class="arttop arttop2">
 		
-		<div class="article-tags"></div>
+				<h1 class="blue18 title">多伦多10大最常用语 中文排第2</h1>
+
+		
+				<h4 class="mtop10"></h4>
+		
+    		<a href="https://i.epochtimes.com/assets/uploads/2016/12/Fotolia_40305500_M1-1024x682-600x400.jpg" target="_blank"><img width="600" height="400" src="https://i.epochtimes.com/assets/uploads/2016/12/Fotolia_40305500_M1-1024x682-600x400.jpg" class="aligncenter wp-post-image" alt="" /></a><div class="red16 caption"><p>(Fotolia)</p>
+</div>	</div>
+	<div id="artbody" class="column" itemprop="articleBody">
+		<header role="heading">
+			<div id="topbar" class="large-12 medium-12 small-12 columns articleBodyTopBar">
+				<div class="large-9 medium-9 small-12 column" id="v2015_share">
+					<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.epochtimes.com/gb/16/12/5/n8561913.htm" class="facebook-round icons" target="_blank"></a>
+					<a href="https://twitter.com/intent/tweet?text=%E5%A4%9A%E5%80%AB%E5%A4%9A10%E5%A4%A7%E6%9C%80%E5%B8%B8%E7%94%A8%E8%AA%9E+%E4%B8%AD%E6%96%87%E6%8E%92%E7%AC%AC2&amp;via=dajiyuan&amp;url=https://www.epochtimes.com/gb/16/12/5/n8561913.htm"	class="twitter-round icons" target="_blank"></a>
+					<a class="email-round icons" displaytext="Email" href="mailto:?subject=%E5%A4%9A%E5%80%AB%E5%A4%9A10%E5%A4%A7%E6%9C%80%E5%B8%B8%E7%94%A8%E8%AA%9E+%E4%B8%AD%E6%96%87%E6%8E%92%E7%AC%AC2&body=%E5%A4%9A%E5%80%AB%E5%A4%9A10%E5%A4%A7%E6%9C%80%E5%B8%B8%E7%94%A8%E8%AA%9E+%E4%B8%AD%E6%96%87%E6%8E%92%E7%AC%AC2%20https://www.epochtimes.com/gb/16/12/5/n8561913.htm" target="_top"></a>
+					<span class="stButton">
+						<span class="stLarge">
+							<a href="https://www.epochtimes.com/b5/16/12/5/n8561913.htm" class="djy-fonts icons"></a>
+						</span>
+					</span>
+					<span class="stButton">
+						<span class="stLarge">
+							<a href="#Print" onclick="window.print(); return false;" class="story_function djy-print icons" rel="nofollow" target="_blank"></a>
+						</span>
+					</span>
+												<span class="stButton">
+							<span class="pageview">人气: 630</span>
+						</span>
+											</div>
+
+				<div class="large-3 medium-3 small-12 column">【字号】
+				<a href="#" onclick="changeArticleFont('b');return false;" style="color: rgb(153, 153, 153);">大</a>&nbsp;
+				<a href="#"	onclick="changeArticleFont('m');return false;"	style="color: rgb(153, 153, 153);">中</a>&nbsp;
+				<a class="textLink" href="#" onclick="changeArticleFont('s');return false;"	style="color: rgb(153, 153, 153);">小</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="mbottom10 large-12 medium-12 small-12 columns">
+				<time datetime="2016-12-31T03:40:05+08:00">更新: 2016-12-31 3:30 AM	</time>
+				&nbsp;&nbsp; <span style="font-weight: bold;">标签</span>: <span	style="display: none;">tags:</span>
+				<a href="https://www.epochtimes.com/gb/tag/%E5%A4%9A%E4%BC%A6%E5%A4%9A%EF%BC%8C%E4%B8%AD%E6%96%87.html" rel="tag">多伦多，中文</a>			</div>
+		</header>
+		<!-- article content begin -->
+		<p>【大纪元2016年12月31日讯】（大纪元记者李平多伦多编译报导）多伦多是全球公认最多元化的国际大都市，人们日常生活中，又有哪些语言是平日最经常说的呢？共10大语言，按语言人口排名，分别是英语、中文（国语和粤语）、泰米尔语（Tamil）、西班牙语、菲律宾语（Tagalog）、意大利语、葡萄牙语、波斯语和俄语。</p>
+<p><strong>英文</strong><br />
+其中，英文仍是大多区日常使用人口最多的语言，许多说其他语言的人群，都能流利说英语。多伦多被认为是一个大型文化中心，仍在寻求一个公开能被广泛接受的定位。许多人认为，多伦多的真正定位就是一个由各个不同族裔文化组成的大杂烩。</p>
+<p><strong>中文</strong><br />
+多伦多华裔人口众多，有2个市内遍布大大小小的华裔社区，同时华人还有最大室内购物中心之一的太古广场，中文自然也当之无愧地成为仅次于英文的第2大日常语言，位于市中心皇后街和学院街的唐人街，被认为是中国大陆之外的最大华人聚居地之一。</p>
+<p><strong>泰米尔语</strong><br />
+过去30多年来，泰米尔社区已成为大多区最大少数族裔社区之一。</p>
+<p><strong>西班牙语</strong><br />
+西班牙和葡萄牙气候和纬度接近，在多伦多这2个社区自然也多彼此相邻。西班牙以外向友好著称，每个西班牙人都会告诉你，多伦多评价最高的餐厅是Bar Isabel!西班牙餐厅，是每个来多伦多旅游的必去之目的地。</p>
+<p><strong>菲律宾语</strong><br />
+菲律宾社区是多伦多发展最快社区之一，有人认为，菲律宾将加拿大视为一块充满机遇的新大陆。菲律宾语社区中心附近是Kapisanan菲律宾中心，在这里，游客通过参加各种文化活动，了解和熟悉菲律宾传统和文化。</p>
+<p><strong>意大利语</strong><br />
+多伦多的小意大利，面积可能不大，但意裔性格活泼开朗外向友好。意大利喜美食，在逛小意大利社区时，就可发现这一点。Black Hoof意式餐厅被公认是多伦多餐厅中最顶级餐厅之一，鞑靼式生拌马肉末（horse tartar）、鹅肝和猪肝冻糕（pork liver parfait），是其招牌菜，许多人吃了还想回来再吃。</p>
+<p><strong>葡萄牙语</strong><br />
+Ossington西和 College南是小葡萄牙，以前这一块多为葡萄人，但近年许多巴西裔开始大量涌入。要想体验真正的葡萄牙文化，最好上McCormick Recreation Center娱乐中心，多数年轻人都会上此消遣。逛饿了，上小葡萄边上的Enoteca Sociale葡萄牙餐厅美餐一顿。</p>
+<p><strong>波斯语</strong><br />
+大多区，波斯社区到处遍布。和俄罗斯社区一样，波斯社区都是小片聚居，而不是形成一个高度集中的社区。城中最好的波斯餐厅是Shomal或 North，以烧烤美食闻名，烤羊肉串份量足，味道鲜美，伴着现场波斯音乐伴奏，无比享受。</p>
+<p><strong>俄语</strong><br />
+俄罗斯裔多聚居在北约克，不像其他大型社区明显能够轻易找到，但要找的话，也能找到。城中最有名的俄罗斯餐厅是Imperator，俄式美味熏鲱鱼和肝肉酱，令人食之难忘。</p>
+<p>责任编辑:滕冬育</p>
+		<!-- article content end -->
+
+		<div id="below_article_ad"></div>
+
+				<aside role="complementary">
+						<div class="large-12 medium-12 column" id="related">
+				<div class="related-news">
+					相关文章					<span class="triangle"></span>
+				</div>
+				<div class="related-list">
+					<ul class="related-posts">
+					<li><span><a href="https://www.epochtimes.com/gb/13/11/1/n4000169.htm"></a></span><span class="dot1 icons"><a href="https://www.epochtimes.com/gb/13/11/1/n4000169.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/13/11/1/n4000169.htm">【移民生活】吃点啥?</a>&nbsp;<span class="post-date">2014-02-01</span></span></li><li><span><a href="https://www.epochtimes.com/gb/14/4/20/n4135709.htm"></a></span><span class="dot2 icons"><a href="https://www.epochtimes.com/gb/14/4/20/n4135709.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/14/4/20/n4135709.htm">语言不通 影响加拿大移民就医</a>&nbsp;<span class="post-date">2014-04-20</span></span></li><li><span><a href="https://www.epochtimes.com/gb/15/11/27/n4582875.htm"></a></span><span class="dot3 icons"><a href="https://www.epochtimes.com/gb/15/11/27/n4582875.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/15/11/27/n4582875.htm">豪华房产热销 多伦多渐成中国有钱人关注中心</a>&nbsp;<span class="post-date">2015-11-27</span></span></li><li><span><a href="https://www.epochtimes.com/gb/23/1/8/n13902538.htm"></a></span><span class="dot4 icons"><a href="https://www.epochtimes.com/gb/23/1/8/n13902538.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/23/1/8/n13902538.htm">2023年 有这些技能在加拿大最易找工作</a><span class="tu">图</span>&nbsp;<span class="post-date">2023-01-09</span></span></li><li><span><a href="https://www.epochtimes.com/gb/23/1/3/n13898782.htm"></a></span><span class="dot5 icons"><a href="https://www.epochtimes.com/gb/23/1/3/n13898782.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/23/1/3/n13898782.htm">2022年加拿大新增移民逾43万 创新高</a><span class="tu">图</span>&nbsp;<span class="post-date">2023-01-04</span></span></li><li><span><a href="https://www.epochtimes.com/gb/22/12/8/n13880430.htm"></a></span><span class="dot6 icons"><a href="https://www.epochtimes.com/gb/22/12/8/n13880430.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/22/12/8/n13880430.htm">VR语言教学试点计划 助新移民更快掌握英语</a><span class="tu">图</span>&nbsp;<span class="post-date">2022-12-08</span></span></li><li><span><a href="https://www.epochtimes.com/gb/22/2/24/n13602822.htm"></a></span><span class="dot0 icons"><a href="https://www.epochtimes.com/gb/22/2/24/n13602822.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/22/2/24/n13602822.htm">加拿大10大流行冬季运动</a><span class="tu">图</span>&nbsp;<span class="post-date">2022-11-01</span></span></li><li><span><a href="https://www.epochtimes.com/gb/22/7/3/n13772708.htm"></a></span><span class="dot1 icons"><a href="https://www.epochtimes.com/gb/22/7/3/n13772708.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/22/7/3/n13772708.htm">在家工作 如何保持积极和动力?</a><span class="tu">图</span>&nbsp;<span class="post-date">2022-08-30</span></span></li><li><span><a href="https://www.epochtimes.com/gb/22/7/3/n13772705.htm"></a></span><span class="dot2 icons"><a href="https://www.epochtimes.com/gb/22/7/3/n13772705.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/22/7/3/n13772705.htm">您了解加拿大的社会规范吗？</a><span class="tu">图</span>&nbsp;<span class="post-date">2022-08-15</span></span></li><li><span><a href="https://www.epochtimes.com/gb/22/5/19/n13740352.htm"></a></span><span class="dot3 icons"><a href="https://www.epochtimes.com/gb/22/5/19/n13740352.htm"></a></span><span class="post-title"><a href="https://www.epochtimes.com/gb/22/5/19/n13740352.htm">拥抱的6个基本规则</a>&nbsp;<span class="post-date">2022-07-30</span></span></li>					 </ul>
+				</div>
+			</div>
+							</aside>
+	</div>
+</div>
+
+				<div class="large-4 medium-4 small-12 column right living-article-sidebar">
 				
-		            <nav class="article-nav">
-                <span class="article-nav-prev">上一篇<br><a href="https://cfcnews.com/170442/%e7%ac%ac%e4%b8%80%e6%b3%a2%e7%83%ad%e6%b5%aa%e6%9d%a5%e8%a2%ad%ef%bc%9a9%e7%ba%a7%e7%b4%ab%e5%a4%96%e7%ba%bf35%e6%91%84%e6%b0%8f%e5%ba%a6%ef%bc%81%e6%b8%a5%e5%a4%aa%e5%8d%8e%e5%8f%98%e7%81%ab/" rel="prev">第一波热浪来袭：9级紫外线+39摄氏度！渥太华变火焰山！</a></span>
-                <span class="article-nav-next">下一篇<br><a href="https://cfcnews.com/170558/%e8%b5%b6%e7%b4%a7%e5%9b%a4%e9%85%92%ef%bc%81lcbo%e6%88%96%e5%9c%a8%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%9b%bd%e5%ba%86%e8%8a%82%e5%89%8d%e7%bd%a2%e5%b7%a5%ef%bc%81/" rel="next">赶紧囤酒！LCBO或在加拿大国庆节前罢工！</a></span>
-            </nav>
-        
-		<div class="orbui orbui-post orbui-post-02"></div>		<div class="relates relates-thumb"><div class="title"><h3>相关推荐</h3></div><ul><li><a href="https://cfcnews.com/335004/%e7%89%b9%e6%9c%97%e6%99%ae%e8%a2%ab%e7%ba%bd%e7%ba%a6%e5%b7%9e%e6%80%bb%e6%a3%80%e5%af%9f%e9%95%bf%e8%b5%b7%e8%af%89%e6%ac%ba%e8%af%88/"><img data-src="https://mmbiz.qpic.cn/mmbiz_jpg/ukSNKulNV94EvJcPFgicaHbJibw3ibQKqYL7U3RXmDrnI7VyxUDKjBdIDEP5PxNVBabZmiam89XQJg8Bkc14PCBWCg/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="特朗普被纽约州总检察长起诉欺诈-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/335004/%e7%89%b9%e6%9c%97%e6%99%ae%e8%a2%ab%e7%ba%bd%e7%ba%a6%e5%b7%9e%e6%80%bb%e6%a3%80%e5%af%9f%e9%95%bf%e8%b5%b7%e8%af%89%e6%ac%ba%e8%af%88/">特朗普被纽约州总检察长起诉欺诈</a></li><li><a href="https://cfcnews.com/334054/28%e5%b2%81%e7%94%b7%e5%ad%90%e9%81%ad%e8%ad%a6%e6%96%b9%e8%bf%bd%e6%8d%95%e8%bd%a6%e7%a5%b8%e6%ad%bb%e4%ba%a1/"><img data-src="https://p0.51img.ca/i/62fe2187e6daa.jpg" alt="28岁男子遭警方追捕车祸死亡-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/334054/28%e5%b2%81%e7%94%b7%e5%ad%90%e9%81%ad%e8%ad%a6%e6%96%b9%e8%bf%bd%e6%8d%95%e8%bd%a6%e7%a5%b8%e6%ad%bb%e4%ba%a1/">28岁男子遭警方追捕车祸死亡</a></li><li><a href="https://cfcnews.com/333964/%e5%b0%8f%e9%a3%9e%e6%9c%ba%e5%9c%a8%e5%ae%89%e7%9c%81%e5%9d%a0%e6%af%81-%e4%b8%a4%e4%ba%ba%e9%81%87%e9%9a%be/"><img data-src="https://p0.51img.ca/i/62f93587dbd88.jpeg" alt="小飞机在安省坠毁 两人遇难-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333964/%e5%b0%8f%e9%a3%9e%e6%9c%ba%e5%9c%a8%e5%ae%89%e7%9c%81%e5%9d%a0%e6%af%81-%e4%b8%a4%e4%ba%ba%e9%81%87%e9%9a%be/">小飞机在安省坠毁 两人遇难</a></li><li><a href="https://cfcnews.com/333712/%e7%aa%81%e5%8f%91%ef%bc%81%e4%b8%80%e8%be%86%e6%97%85%e6%b8%b8%e5%a4%a7%e5%b7%b4%e6%92%9e%e4%b8%8a%e4%ba%86%e6%80%bb%e7%90%86%e6%9d%9c%e9%b2%81%e5%a4%9a%e5%ae%98%e9%82%b8%e7%9a%84%e5%a4%a7%e9%97%a8/"><img data-src="https://media-proc.singtao.ca/photo.php?s=https://media.singtao.ca/wp-content/uploads/dushi_toronto/2022/08/截屏2022-08-03-11.55.12-696x392.png&amp;f=jpeg&amp;w=696&amp;q=75&amp;v=1" alt="突发！一辆旅游大巴撞上了总理杜鲁多官邸的大门！-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333712/%e7%aa%81%e5%8f%91%ef%bc%81%e4%b8%80%e8%be%86%e6%97%85%e6%b8%b8%e5%a4%a7%e5%b7%b4%e6%92%9e%e4%b8%8a%e4%ba%86%e6%80%bb%e7%90%86%e6%9d%9c%e9%b2%81%e5%a4%9a%e5%ae%98%e9%82%b8%e7%9a%84%e5%a4%a7%e9%97%a8/">突发！一辆旅游大巴撞上了总理杜鲁多官邸的大门！</a></li><li><a href="https://cfcnews.com/333539/75%e5%b2%81%e8%80%81%e5%a6%87%e9%97%a8%e5%89%8d%e8%b7%8c%e5%80%92-%e8%8b%a6%e7%ad%89%e6%95%91%e6%8a%a4%e8%bd%a66%e5%b0%8f%e6%97%b6/"><img data-src="https://media-proc.singtao.ca/photo.php?s=https://media.singtao.ca/wp-content/uploads/dushi_toronto/../master_sandbox/2022/07/2022-07-25_165440-696x473.png&amp;f=jpeg&amp;w=696&amp;q=75&amp;v=1" alt="75岁老妇门前跌倒 苦等救护车6小时-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333539/75%e5%b2%81%e8%80%81%e5%a6%87%e9%97%a8%e5%89%8d%e8%b7%8c%e5%80%92-%e8%8b%a6%e7%ad%89%e6%95%91%e6%8a%a4%e8%bd%a66%e5%b0%8f%e6%97%b6/">75岁老妇门前跌倒 苦等救护车6小时</a></li><li><a href="https://cfcnews.com/333184/%e6%80%a5%e6%ad%bb%e4%ba%ba%ef%bc%81%e5%ae%89%e7%9c%81%e5%a5%b3%e5%ad%90%e6%97%a9%e6%97%a9%e6%9f%a5%e5%87%ba%e7%99%8c%e7%97%87%ef%bc%8c%e5%8c%bb%e9%99%a2%e5%8d%b4%e8%bf%9f%e8%bf%9f%e4%b8%8d%e5%ae%89/"><img data-src="https://p0.51img.ca/i/62cd791b5ef8b.png" alt="急死人！安省女子早早查出癌症，医院却迟迟不安排手术！-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333184/%e6%80%a5%e6%ad%bb%e4%ba%ba%ef%bc%81%e5%ae%89%e7%9c%81%e5%a5%b3%e5%ad%90%e6%97%a9%e6%97%a9%e6%9f%a5%e5%87%ba%e7%99%8c%e7%97%87%ef%bc%8c%e5%8c%bb%e9%99%a2%e5%8d%b4%e8%bf%9f%e8%bf%9f%e4%b8%8d%e5%ae%89/">急死人！安省女子早早查出癌症，医院却迟迟不安排手术！</a></li><li><a href="https://cfcnews.com/333146/%e5%ae%89%e5%80%8d%e9%81%87%e5%88%ba%e5%85%a8%e8%bf%bd%e8%b8%aa%ef%bc%81%e5%87%b6%e6%89%8b3d%e6%89%93%e5%8d%b0%e6%ad%a6%e5%99%a8-%e9%98%b2%e5%bc%b9%e5%85%ac%e5%8a%a1%e5%8c%85%e6%b2%a1%e6%9c%89/"><img data-src="https://media-proc.singtao.ca/photo.php?s=https://media.singtao.ca/wp-content/uploads/dushi_toronto/2022/07/photo.php-2022-07-08T103227.440-696x392.jpg&amp;f=jpeg&amp;w=696&amp;q=75&amp;v=1" alt="安倍遇刺全追踪！凶手3D打印武器 防弹公务包没有打开-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333146/%e5%ae%89%e5%80%8d%e9%81%87%e5%88%ba%e5%85%a8%e8%bf%bd%e8%b8%aa%ef%bc%81%e5%87%b6%e6%89%8b3d%e6%89%93%e5%8d%b0%e6%ad%a6%e5%99%a8-%e9%98%b2%e5%bc%b9%e5%85%ac%e5%8a%a1%e5%8c%85%e6%b2%a1%e6%9c%89/">安倍遇刺全追踪！凶手3D打印武器 防弹公务包没有打开</a></li><li><a href="https://cfcnews.com/332641/%e9%a6%99%e6%b8%af%e7%bb%8f%e8%b4%b8%e5%a4%84%e5%a4%84%e9%95%bf%e5%88%b0%e8%ae%bf%e6%b8%a5%e5%a4%aa%e5%8d%8e%e8%bf%9b%e8%a1%8c%e5%95%86%e5%8a%a1%e6%8e%a8%e5%b9%bf/"><img data-src="https://p0.51img.ca/i/62ac92d837bcb.jpg" alt="香港经贸处处长到访渥太华进行商务推广-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/332641/%e9%a6%99%e6%b8%af%e7%bb%8f%e8%b4%b8%e5%a4%84%e5%a4%84%e9%95%bf%e5%88%b0%e8%ae%bf%e6%b8%a5%e5%a4%aa%e5%8d%8e%e8%bf%9b%e8%a1%8c%e5%95%86%e5%8a%a1%e6%8e%a8%e5%b9%bf/">香港经贸处处长到访渥太华进行商务推广</a></li></ul></div>				
+<div class="sidebar_container">
+	<div class="widget_sidebar" id="_widget_sidebar">
+				<div class="list_wrap">
+							<div class="sidebar_column" style="padding: 0; background-color: #ffffff ; min-width: 300px; float: left; width:100%">
+					
+<div class="sidebar_container">
+	<div class="widget_sidebar" id="_widget_sidebar">
+				<div class="list_wrap">
+							<div class="sidebar_column" style="padding: 5px 0 0 0; background-color: #ffffff ; min-width: 300px; float: left; width:100%">
+					
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 2px 5px; ">
+	
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 0; ">
+	
+<div class="inspired_block_title" style="margin: 0;float: left">
+			<h2 style="font-size: 20px; color: #000000;">
+					<span style=" background-color: #ffffff; border: ; border-radius: ; padding: 0;">
+			【征文】病毒与华人被歧视			</span>
+				</h2>
+	</div>
+<div class="clear"></div>
+
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="living-horizontal-line" style="margin: ;">
+<hr style="border-top: 1px solid #008000; width: 100%; ">
+</div>
+<div class="inspired-sidebar-image-post-list">
+	<ul>
+	<li class="small-image clear"><a href="https://www.epochtimes.com/gb/21/5/31/n12989450.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2021/06/id12989461-CP124113258-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/21/5/31/n12989450.htm" target="_blank"><span>加媒：质疑政府对华政策并非煽动种族主义</span></a></li>	</ul>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 9px 0 0 5px; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="312" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="324" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="325" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
 	</div>
 	</div>
-	<div class="sidebar">
-<div class="widget widget_ui_tags"><h3>热门标签</h3><div class="items"><a href="https://cfcnews.com/tag/%e7%be%8e%e5%9b%bd/">美国 (908)</a><a href="https://cfcnews.com/?taxonomy=tag_keyword&term=%e5%8a%a0%e6%8b%bf%e5%a4%a7">加拿大 (0)</a><a href="https://cfcnews.com/tag/%e8%8b%b1%e5%9b%bd/">英国 (356)</a><a href="https://cfcnews.com/?taxonomy=tag_keyword&term=%e6%b8%a5%e5%a4%aa%e5%8d%8e">渥太华 (0)</a><a href="https://cfcnews.com/tag/%e5%a4%9a%e4%bc%a6%e5%a4%9a/">多伦多 (144)</a><a href="https://cfcnews.com/?taxonomy=tag_keyword&term=%e9%a6%99%e6%b8%af">香港 (0)</a><a href="https://cfcnews.com/tag/%e6%b8%a9%e5%93%a5%e5%8d%8e/">温哥华 (75)</a><a href="https://cfcnews.com/?taxonomy=tag_keyword&term=%e9%9d%9e%e6%b4%b2">非洲 (0)</a><a href="https://cfcnews.com/tag/%e7%a7%bb%e6%b0%91/">移民 (44)</a><a href="https://cfcnews.com/tag/%e5%86%a0%e7%8a%b6%e7%97%85%e6%af%92/">冠状病毒 (43)</a><a href="https://cfcnews.com/tag/%e7%95%99%e5%ad%a6%e7%94%9f/">留学生 (32)</a><a href="https://cfcnews.com/tag/%e9%87%91%e6%ad%a3%e6%81%a9/">金正恩 (32)</a><a href="https://cfcnews.com/tag/%e4%bf%84%e7%bd%97%e6%96%af/">俄罗斯 (30)</a><a href="https://cfcnews.com/tag/%e7%ba%bd%e7%ba%a6/">纽约 (26)</a><a href="https://cfcnews.com/tag/%e9%92%9f%e5%8d%97%e5%b1%b1/">钟南山 (23)</a></div></div><div class="widget widget_ui_posts"><h3>24小时热点追踪</h3><ul></ul></div><div class="widget widget_ui_posts"><h3>评论最多</h3><ul></ul></div></div></section>
+	<div class="clear"></div>
+</div>
 
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 5px; ">
+	
+<div class="inspired_block_title" style="margin: 21px 0 0 0;float: left">
+		<a href="https://www.epochtimes.com/gb/ncid1224615.htm" target="_blank">
+			<h2 style="font-size: 20px; color: #000000;">
+					<span style=" background-color: #ffffff; border: ; border-radius: ; padding: 0;">
+			社区记事			</span>
+				</h2>
+	</a></div>
+<div class="clear"></div>
 
-<footer class="footer">
-	<div class="container">
-						<p>&copy; 2023 <a href="https://cfcnews.com">新华侨网</a> &nbsp; <a href="https://cfcnews.com/sitemap.xml">网站地图</a>
-</p>
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66833101-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<div class="living-horizontal-line" style="margin: ;">
+<hr style="border-top: 1px solid #008000; width: 100%; ">
+</div>
 
-  gtag('config', 'UA-66833101-1');
-</script>
+<div class="living-image-post">
+	<ul>
+			<li class="container clear" style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/22/12/22/n13889675.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13889682-20221221_Montreal_PatrickNamroud-2-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/22/12/22/n13889675.htm" target="_blank"> 组图：圣诞节回报社区 餐馆老板免费送千份披萨</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+				<li class="container " style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/22/12/14/n13884851.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13884854-Fotolia_229883351_Subscription_L-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/22/12/14/n13884851.htm" target="_blank"> 我的房东西尔维太太</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+				<li class="container " style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/22/12/14/n13884847.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13884848-Fotolia_4302799_Subscription_L-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/22/12/14/n13884847.htm" target="_blank"> 放空的日子</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+				<li class="container clear" style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/22/12/14/n13884463.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13884485-shutterstock_683550358-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/22/12/14/n13884463.htm" target="_blank"> 冬冬的留学生活</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+				<li class="container " style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/22/6/11/n13757101.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/06/id13757117-20220610_Montreal_raspberry_1-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/22/6/11/n13757101.htm" target="_blank"> 后院笔记——种植树莓</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+				<li class="container " style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/22/4/7/n13702415.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/04/id13707393-shutterstock_644948443-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/22/4/7/n13702415.htm" target="_blank"> 职场管理小故事：解决办公室的鼠患</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+				<li class="container clear" style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/21/12/18/n13445028.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2021/12/id13445050-20211218_Montreal_snow-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/21/12/18/n13445028.htm" target="_blank"> 暖冬·雪</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+				<li class="container " style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/21/12/15/n13438324.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2021/12/id13438347-Fotolia_177098916_Subscription_L-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/21/12/15/n13438324.htm" target="_blank"> 圣诞老人的回信</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+				<li class="container " style="float: left; width: 33.333333333333%;">
+				<dl>
+					<dt>
+						<a href="https://www.epochtimes.com/gb/21/10/8/n13291636.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2021/10/id13291677-20211005_Montreal_Autumn_reading_book-320x200.jpg"></a>
+						<span class="title-wrap" style="font-size: 12px; line-height: 18px">
+							<a  href="https://www.epochtimes.com/gb/21/10/8/n13291636.htm" target="_blank"> 听雨读书</a>
+						</span>
+					</dt>
+				</dl>
+			</li>
+			<div class="clear"></div>
+	</ul>
 	</div>
-</footer>
+
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="314" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="326" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="327" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 5px; ">
+	
+<div class="inspired_block_title" style="margin: 0;float: left">
+			<h2 style="font-size: 20px; color: #000000;">
+					<span style=" background-color: #ffffff; border: ; border-radius: ; padding: 0;">
+			你可能会喜欢			</span>
+				</h2>
+	</div>
+<div class="clear"></div>
+
+<div class="living-horizontal-line" style="margin: ;">
+<hr style="border-top: 1px solid #008000; width: 100%; ">
+</div>
+<div class="inspired-sidebar-image-post-list">
+	<ul>
+	<li class="small-image clear"><a href="https://www.epochtimes.com/gb/22/12/28/n13893841.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13893842-shutterstock_672962314-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/22/12/28/n13893841.htm" target="_blank"><span>庆祝新年 安省有机构仍开门</span></a></li><li class="small-image clear"><a href="https://www.epochtimes.com/gb/22/12/21/n13889204.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2012/12/121226202830985-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/22/12/21/n13889204.htm" target="_blank"><span>2022年圣诞节 多伦多哪里开门哪里关门</span></a></li><li class="small-image clear"><a href="https://www.epochtimes.com/gb/22/12/20/n13888500.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13888501-gunman-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/22/12/20/n13888500.htm" target="_blank"><span>旺市公寓六死枪案 死者身份公布 73岁凶手动机调查中</span></a></li><li class="small-image clear"><a href="https://www.epochtimes.com/gb/22/12/19/n13887290.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13887499-CrawfordLakeD_452x452-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/22/12/19/n13887290.htm" target="_blank"><span>冬季远足 多伦多周边十条美丽步道</span></a></li>	</ul>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="317" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="332" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="333" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 5px; ">
+	
+<div class="inspired_block_title" style="margin: 0;float: left">
+			<h2 style="font-size: 20px; color: #000000;">
+					<span style=" background-color: #ffffff; border: ; border-radius: ; padding: 0;">
+			一周热门 Top 10			</span>
+				</h2>
+	</div>
+<div class="clear"></div>
+
+<div class="living-horizontal-line" style="margin: ;">
+<hr style="border-top: 1px solid #008000; width: 100%; ">
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 10px 15px 10px 0; ">
+	<div class="inspired-ranking-posts">
+	<ul>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="colored-num" style="color: #ffffff; background-color: #068bcc;">1</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/2/n13898104.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					个人增税！ 2023年11项征税变化和新规					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="colored-num" style="color: #ffffff; background-color: #068bcc;">2</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/5/n13900234.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					加拿大强制电动车计划预计耗资1千亿					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="colored-num" style="color: #ffffff; background-color: #068bcc;">3</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/5/n13900213.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					加国两机场将对中国航班进行污水病毒检测					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="empty-num">4</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/5/n13900224.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					1月5日起 抵加中国旅客须提供COVID-19检测					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="empty-num">5</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/5/n13900214.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					2023年加国6大新规 如何影响你的生活					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="empty-num">6</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/3/n13898782.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					2022年加拿大新增移民逾43万 创新高					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="empty-num">7</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/4/n13899529.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					从医疗到控枪 2023年加拿大政坛9大展望					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="empty-num">8</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/2/n13898137.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					民调：在不同餐厅就餐 加拿大人视情况给小费					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="empty-num">9</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/3/n13898757.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					加拿大人今年起访问欧洲将需交额外费用					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+			<li class="clear">
+					<dl  >
+				<dt>
+					<span class="empty-num">10</span>
+				</dt>
+				<dd>
+					<a href="https://www.epochtimes.com/gb/23/1/2/n13898110.htm" target="_blank" style="font-size: 16px; color: #000000; font-weight: normal;">
+					2023年加拿大经济或陷温和衰退					</a><span class="tu">图</span>				</dd>
+			</dl>
+		</li>
+		</ul>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="370" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="371" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="372" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="394" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="395" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="396" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="424" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="427" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="428" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="709" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="710" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="711" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 5px; ">
+	
+<div class="inspired_block_title" style="margin: 0;float: left">
+			<h2 style="font-size: 20px; color: #000000;">
+					<span style=" background-color: #ffffff; border: ; border-radius: ; padding: 0;">
+			生活信息			</span>
+				</h2>
+	</div>
+<div class="clear"></div>
+
+<div class="living-horizontal-line" style="margin: ;">
+<hr style="border-top: 1px solid #008000; width: 100%; ">
+</div>
+<div class="inspired-sidebar-image-post-list">
+	<ul>
+	<li class="small-image clear"><a href="https://www.epochtimes.com/gb/23/1/4/n13899570.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2023/01/id13899575-GettyImages-1407371840-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/23/1/4/n13899570.htm" target="_blank"><span>安省COIVD口服药处方量增 药剂师提醒注意事项</span></a></li><li class="small-image clear"><a href="https://www.epochtimes.com/gb/23/1/3/n13898757.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2023/01/id13898774-shutterstock_459099973-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/23/1/3/n13898757.htm" target="_blank"><span>加拿大人今年起访问欧洲将需交额外费用</span></a></li><li class="small-image clear"><a href="https://www.epochtimes.com/gb/22/12/28/n13893841.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13893842-shutterstock_672962314-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/22/12/28/n13893841.htm" target="_blank"><span>庆祝新年 安省有机构仍开门</span></a></li><li class="small-image clear"><a href="https://www.epochtimes.com/gb/22/12/21/n13889285.htm" target="_blank"><img src="https://i.epochtimes.com/assets/uploads/2022/12/id13889287-CP13362728-320x200.jpg"></a><a style="font-size: 16px; color: #000000" href="https://www.epochtimes.com/gb/22/12/21/n13889285.htm" target="_blank"><span>冬季风暴周四袭击安省 持续到圣诞节周末</span></a></li>	</ul>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="318" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="334" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="335" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="459" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="460" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="461" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 15px 0 0 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="750" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="751" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="752" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="777" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="778" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="779" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="780" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="781" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="782" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+				</div>
+					</div>
+				<div class="clear"></div>
+	</div>
+</div>
+
+				</div>
+					</div>
+				<div class="clear"></div>
+	</div>
+</div>
+
+				</div>
+
+			</div>
+			<div class="left large-8 medium-8 small-12 column">
+				<div class="mtop10 commentbar large-12 medium-12 small-12 column" style="background:#eee;padding:10px;" id="comments">
+评论
+</div>
+
+<div id="commentpost" style="display:block;margin-bottom:30px;" class="large-12 medium-12 small-12 column">
+	<form id="commentForm" action="#" method="post">
+		<textarea title="评论" rows="5" style="width:100%;" name="commentContent" id="commentContent" onfocus="this.value=''; this.onfocus=null;">
+“大纪元将选取精彩读者评论在全球报纸版面上刊登，请您与我们一起记录历史”
+“大纪元保留删除脏话贴、下流话贴、攻击个人信仰贴等恶意留言的权利”
+		</textarea>
+		<input type="submit" name="submit" value="发表留言" style="float:right;margin-right:20px;font-size:1em;" />
+		<input type="hidden" name="t" value="uc" />
+		<input type="hidden" name="aid" value="8561913" />
+	</form>
+</div>
+
+<section id="comments" class="large-12 medium-12 small-12 columns">
+	<div id="comment_box">
+		<div name="comments"></div>
+	</div>
+</section><!-- #comments -->
+			</div>
+		</div>
+	</div>
+</main>
 
 
+<div class="single_column_container" style="width: 100%; background-color: #eeeeee; border: ;">
+	<div class="content" style="background-color: #eeeeee; padding: 0; ">
+	
+<div class="single_column_container" style="width: 1200px; margin: 0 auto;; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 30px 0; ">
+	
+<div class="single_column_container" style="width: 100%; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 0; ">
+	
+<div class="single_column_container" style="width: 728px; margin: 0 auto;; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="121" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="290" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="291" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="living-horizontal-line" style="margin: ;">
+<hr style="border-top: 1px solid #000000; width: 100%; ">
+</div>
 
-<script>
-window.jsui={
-	www: 'https://cfcnews.com',
-	uri: 'https://cfcnews.com/wp-content/themes/dux-4',
-	ver: '6.4',
-	roll: [],
-	ajaxpager: '5',
-	url_rp: 'https://cfcnews.com/password/'
-};
-</script>
-<script type="text/javascript" src="https://cfcnews.com/wp-content/themes/dux-4/zh-cn-tw.js"></script>
+<div class="living_2_columns_container" style="width: 1200px; margin: 0 auto;; border: ;">
+	<div class="content">
+				<div class="list_wrap">
+							<div class="left_column " style="border-right: ; padding: 5px; background-color: #ffffff; float: left; display: inline-block; width: 20%;">
+					
+<div class="living_2_columns_container" style="width: 100%; border: ;">
+	<div class="content">
+				<div class="list_wrap">
+							<div class="left_column " style="border-right: ; padding: 0; background-color: #ffffff; float: left; display: inline-block; width: 50%;">
+					<div class="living_image_box">
+	<a href="https://www.epochtimes.com/" target="_blank">
+		<img src="https://www.epochtimes.com/assets/themes/djy/images/living-health/djy_icon_119_36.png">
+			</a>
+</div>
+				</div>
+							<div class="right_column " style="padding: 0; background-color: #ffffff; float: right; display:inline-block; width: 50%;">
+					<div class="living_image_box">
+	<a href="https://www.epochtimes.com/gb/ncid1139891.htm" target="_blank">
+		<img src="https://i.epochtimes.com/assets/uploads/2016/12/toronto-logo-s6.png">
+			</a>
+</div>
+				</div>
+					</div>
+				<div class="clear"></div>
+	</div>
+</div>
 
+				</div>
+							<div class="right_column " style="padding: 5px 0 5px 40px; background-color: #ffffff; float: right; display:inline-block; width: 80%;">
+					<div class="living-navigation" style="background-color:#ffffff">
+		<header role="navigation">
+		<ul style="float: left;">
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1141077.htm" target="_self" style="font-size:14px;color:#000000;">
+					加国				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1141078.htm" target="_self" style="font-size:14px;color:#000000;">
+					城市				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1141332.htm" target="_self" style="font-size:14px;color:#000000;">
+					社区				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1149519.htm" target="_self" style="font-size:14px;color:#000000;">
+					社会				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1149216.htm" target="_self" style="font-size:14px;color:#000000;">
+					趣闻				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1141063.htm" target="_self" style="font-size:14px;color:#000000;">
+					移民				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1141073.htm" target="_self" style="font-size:14px;color:#000000;">
+					投资				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1141068.htm" target="_self" style="font-size:14px;color:#000000;">
+					法律				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1141072.htm" target="_self" style="font-size:14px;color:#000000;">
+					尚•Style				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//www.epochtimes.com/gb/ncid1141069.htm" target="_self" style="font-size:14px;color:#000000;">
+					房•地产				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//auto.epochtimes.com/" target="_self" style="font-size:14px;color:#000000;">
+					汽车				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//travel.epochtimes.com/" target="_self" style="font-size:14px;color:#000000;">
+					旅游				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+						<li>
+				<a href="//e-paper.epochtimes.com/CanadaEast/" target="_self" style="font-size:14px;color:#000000;">
+					读报				</a>
+				<span style="width:40px">&nbsp;</span>
+			</li>
+					</ul>
+			</header>
+	</div>
+				</div>
+					</div>
+				<div class="clear"></div>
+	</div>
+</div>
 
+<div class="living-horizontal-line" style="margin: ;">
+<hr style="border-top: 1px solid #000000; width: 100%; ">
+</div>
+		<div class="living-simple-text" style="text-align: center; font-size: 12px; font-weight: lighter; font-style: normal; color: #000000;">
+		<p>Copyright© 2017-2020 The Epochtimes Media Inc. All Rights Reserved.</p><p>344 Consumers Road, Toronto, ON M2J 1P8</p>		</div>
+			</div>
+	<div class="clear"></div>
+</div>
 
-<script type='text/javascript' src='//code.jquery.com/jquery-1.9.1.min.js?ver=6.4' id='jquery-js'></script>
-<script type='text/javascript' id='superpwa-register-sw-js-extra'>
-/* <![CDATA[ */
-var superpwa_sw = {"url":"\/superpwa-sw.js","disable_addtohome":"0","enableOnDesktop":""};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://cfcnews.com/wp-content/uploads/hummingbird-assets/b5c38d228c2206021c1b69b2c897a849.js' id='superpwa-register-sw-js'></script>
-<script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js?ver=6.4' id='bootstrap-js'></script>
-<script type='text/javascript' src='https://cfcnews.com/wp-content/themes/dux-4/js/loader.js?ver=6.4' id='_loader-js'></script>
-</body>
-</html>
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+<div class="single_column_container" style="width: 1px; margin: 0 auto;; background-color: #ffffff; border: ;">
+	<div class="content" style="background-color: #ffffff; padding: 0; ">
+		<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="274" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="292" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="291" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	<div class="living_revive_ads" data-jssrc="das_epochtimes_delivery">
+		<ins data-revive-zoneid="398" data-revive-id="c9295b5f9707574a26385cec6f59175b"></ins>
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="cookie-bar"><span class="warning-text">我们使用cookies来了解您如何使用我们的网站并改善您的用户体验。这包括个性化的内容和广告。若您继续使用我们的网站，即表示您同意我们使用cookies，以及我们更新的隐私政策（Privace Policy）和使用条款。</span><span class="read-more"><a href="https://www.epochtimes.com/gb/UserAgreement.htm" target="_blank">更多信息</a></span><span class="accept-btn"><a href="javascript:void(0)">我同意</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">&#215;</a></span></div>	<script>
+	djy_ga_id = 'UA-10465455-10';
+djy_domain = 'epochtimes.com';
+	function loadGA() {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-Page Caching using disk: enhanced 
-Database Caching 32/91 queries in 0.154 seconds using disk
+		ga('create', djy_ga_id, 'auto');
+		if ( typeof(djy_primary_category) != "undefined" && djy_primary_category !== null ) {
+			ga('set', 'dimension1', djy_primary_category);
+		}
+		if ( typeof(djy_user_id) != "undefined" && djy_user_id !== null ) {
+			ga('set', 'dimension2', djy_user_id);
+		}
+		if ( typeof(djy_cat_ids) != "undefined" && djy_cat_ids !== null ) {
+			ga('set', 'dimension3', djy_cat_ids);
+		}
+		if ( typeof(djy_term_ids) != "undefined" && djy_term_ids !== null ) {
+			ga('set', 'dimension4', djy_term_ids);
+		}
+		if ( typeof(djy_all_term_ids) != "undefined" && djy_all_term_ids !== null ) {
+			ga('set', 'dimension5', djy_all_term_ids);
+		}
+		if ( typeof(djy_all_term_names_full) != "undefined" && djy_all_term_names_full !== null ) {
+			ga('set', 'dimension7', djy_all_term_names_full);
+		}
+		if ( typeof(djy_publish_date) != "undefined" && djy_publish_date !== null ) {
+			ga('set', 'dimension30', djy_publish_date);
+		}
+		ga('send', 'pageview');
+	}
 
-Served from: cfcnews.com @ 2023-01-03 11:59:45 by W3 Total Cache
--->
+	if (document.getElementsByClassName('archive tag').length > 0) {
+		setTimeout(function() {
+			loadGA();
+		}, 3000);
+	} else {
+		loadGA();
+	}
+	</script>
+	<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/jquery-all.min.js?ver=20200218'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/foundation/foundation.min.js?ver=20150811'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/bottom.min.js?ver=20220913'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/slick.min.js?ver=20150811'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/widget.min.js?ver=20160809'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/sticky.min.js?ver=20160401'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/news.min.js?ver=20150802'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/ads/www/default_article.min.js?ver=20220913'></script>
+</body></html>

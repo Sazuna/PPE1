@@ -1,626 +1,843 @@
-<!doctype html><html amp i-amphtml-layout i-amphtml-no-boilerplate lang=zh style="padding-top:32px !important;" transformed="google;v=8"><head><meta charset=utf-8><meta content="width=device-width,minimum-scale=1,initial-scale=1" name=viewport><style amp-runtime i-amphtml-version=012211302304002>html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
-/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
-/*# sourceURL=/css/ampshared.css*/</style><meta content=noindex name=robots><meta content=no-referrer-when-downgrade name=referrer><meta content=voachinese.com name=amp-cookie-scope><meta content="10=2,11=2" name=amp-usqp><script id=__AMP_EXP type=text/json>{"flexible-bitrate":0.1,"amp-story-first-page-max-bitrate":0.3,"story-disable-animations-first-page":1,"story-load-first-page-only":1,"story-load-inactive-outside-viewport":1,"story-ad-page-outlink":0.02,"amp-geo-ssr":1,"story-remote-localization":1,"amp-story-subscriptions":1}</script><script async nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0.js></script><script async crossorigin=anonymous src=https://cdn.ampproject.org/rtv/012211302304002/v0.mjs type=module></script><script async src=https://cdn.ampproject.org/viewer/google/va9.js></script><script async custom-element=amp-analytics nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-analytics-0.1.js></script><script async crossorigin=anonymous custom-element=amp-analytics src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-analytics-0.1.mjs type=module></script><script async custom-element=amp-iframe nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-iframe-0.1.js></script><script async crossorigin=anonymous custom-element=amp-iframe src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-iframe-0.1.mjs type=module></script><script async custom-element=amp-sidebar nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-sidebar-0.1.js></script><script async crossorigin=anonymous custom-element=amp-sidebar src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-sidebar-0.1.mjs type=module></script><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/favicon.ico rel="shortcut icon"><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/ico-192x192.png rel=icon sizes=192x192><link href=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/img/webApp/ico-128x128.png rel=icon sizes=128x128><link href=https://gdb-voanews-com.cdn.ampproject.org rel="dns-prefetch preconnect"><style amp-custom>
-html,body,div,form,fieldset,legend,label,p,img,ul,ol,li,h1,h2,h3,h4,h5,h6,blockquote{margin:0;padding:0}html{-webkit-box-sizing:border-box;box-sizing:border-box}*,*:before,*:after{-webkit-box-sizing:inherit;box-sizing:inherit}body{-ms-overflow-style:scrollbar}a,area,button,[role="button"],input,label,select,summary,textarea{-ms-touch-action:manipulation;touch-action:manipulation}table{border-collapse:collapse;border-spacing:0}th,td{vertical-align:top}ul,ol{list-style-type:none}h1,h2,h3,h4,h5,h6,th,td,caption{font-weight:normal}img{border:0}a,a:hover .ico,.wsw__a,.wsw strong a,.wsw__a:hover,.wsw strong a:hover,.wsw__a:focus,.wsw strong a:focus,.media-pholder a,.media-pholder a:hover,.media-block a:hover,amp-sidebar #navigation a,amp-sidebar #navigation a:hover,amp-sidebar #navigation a:focus,amp-sidebar #navigation a:active,.foot-nav a:hover{text-decoration:none}a:hover,.wsw .text-underline,.media-pholder .media-download a:hover{text-decoration:underline}.wsw .dateline{text-transform:uppercase}#page,.media-pholder,.media-pholder .thumb,.media-block{position:relative}.btn--rounded{color:#fff}.wsw>ul.categories li:before,.wsw>:not(.wsw__embed) ul:not([class]).categories li:before,.wsw>.cke_editable>ul.categories li:before,.wsw__ul.categories li:before{content:none}#page{display:block;margin-left:auto;margin-right:auto}.btn--rounded,.text-center{text-align:center}.btn--rounded,.foot-nav ul.items>li.socials .inner li .btn{display:table-cell;vertical-align:middle}.media-pholder .media-download,.back-to-top-nav .back-to-top-link .ico{float:right}.wsw .dateline,.media-pholder .btn-popout-player{float:left}.media-pholder .media-download:before,.media-block:before,.media-block-wrap:before,.foot:before,.hdr:before,.hdr .container:before,amp-sidebar .navigationToggle:before,.foot-nav ul.items>li.socials .inner ul.follow:before,.article .publishing-details:before,.media-pholder .media-download:after,.media-block:after,.media-block-wrap:after,.foot:after,.hdr:after,.hdr .container:after,amp-sidebar .navigationToggle:after,.foot-nav ul.items>li.socials .inner ul.follow:after,.article .publishing-details:after{content:" ";display:table}.media-pholder .media-download:after,.media-block:after,.media-block-wrap:after,.foot:after,.hdr:after,.hdr .container:after,amp-sidebar .navigationToggle:after,.foot-nav ul.items>li.socials .inner ul.follow:after,.article .publishing-details:after{clear:both}.btn--rounded .ico,.media-pholder .thumb{margin-left:0;margin-top:0;margin-right:0;margin-bottom:0}.wsw>*:last-child,.wsw .caption,.hdr,.backgrounder p:last-child,.backgrounder div:last-child{margin-bottom:0}.btn--rounded,.hdr .navigationToggle,.foot-nav .container,body.can-ff .foot-nav ul.items>li ul.follow li .btn{padding-left:0;padding-top:0;padding-right:0;padding-bottom:0}.backgrounder p:last-child,.backgrounder div:last-child{padding-bottom:0}.section-head img,.wsw img,.media-pholder.quiz .thumb,.media-pholder img{width:100%}img,video,object{max-width:100%;height:auto}.btn--rounded .ico,.foot-nav ul.items>li.socials .inner li .btn--rounded,.foot-nav ul.items>li ul.follow li{border-left:0;border-top:0;border-right:0;border-bottom:0}amp-sidebar #navigation ul.items .item .handler,.foot-nav ul.items>li a,.foot-nav ul.items>li span.handler{-webkit-touch-callout:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}::-moz-selection{background:#3a79b7;color:#fff}::selection{background:#3a79b7;color:#fff}body{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:16px;line-height:1.5;color:#222f3a;-webkit-font-smoothing:antialiased}body strong,body b{font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.container{padding:0 16px;max-width:600px;margin:auto}.btn--rounded{width:40px;height:40px;line-height:40px;border-radius:100%;border:1px solid #cbd1d6;font-family:arial}h1,h2,h3,h4,h5,h6{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}h1{font-size:24px;line-height:1.35}h2{font-size:24px;line-height:1.35}h3{font-size:20px}h4{font-size:18px}a{color:#3a79b7}a:visited{color:#28537d}a:hover{color:#3a79b7}.foot-link{clear:both;text-align:left;padding-top:16px}.link-more{font-size:13px;display:block;text-align:right;clear:both}.link-service{display:inline-block;padding-right:8px;padding-bottom:8px}.link-service .ico{vertical-align:baseline}.media-block .link-service:hover .ico{color:#3a79b7}.link-comments{margin-bottom:8px}.intro{padding-bottom:24px}.article-body .intro{font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.text p{margin-bottom:16px}.text-secondary{font-size:14px;color:#51708a}.pg-title{margin-bottom:16px}.section-head{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:24px;border-bottom:1px solid #cbd1d6;padding-bottom:4px;margin:12px 0;margin-bottom:0;color:#a1aab4;line-height:1.2;text-align:left}.section-head a{color:#a1aab4;display:block}.section-head a:hover{color:#3a79b7;text-decoration:none}.section-head a .ico{margin-right:0}.badge{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:12px;color:#fff;padding:2px 4px;text-transform:uppercase}body.can-ff .badge .ico{border-radius:50%;text-align:center;background:#fff}.img-wrap .badge{position:absolute;top:4px;right:4px}.badge.green{background:#83ab4b}.badge.green .ico:before{color:#83ab4b}.badge.orange{background:#ee8735}.badge.orange .ico:before{color:#ee8735}.badge.blue{background:#007dba}.badge.blue .ico:before{color:#007dba}.badge.red{background:#d12430}.badge.red .ico:before{color:#d12430}.badge--live,.badge--updated{padding:5px 5px 3px;text-transform:uppercase;display:inline-block;margin-right:.3em;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:.875em;line-height:1em;vertical-align:baseline}.badge--live{color:#fff;background:#c11d22}.badge--updated{color:#fff;background:#3a79b7}.category,.label,.date,.time,.repeat{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}hr{border:0;height:3px;background:#cbd1d6;margin:0 0 16px 0}hr.line-head{border-bottom:3px solid #cbd1d6;margin-bottom:0}abbr{border-bottom:1px dotted #768492;cursor:help}small{font-size:14px}.font-1{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.font-1-bold{font-family:false}.font-2{font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.font-2-bold{font-family:false}@media (min-width: 640px){h1{font-size:30.4px}}@media (min-width: 992px){h1{font-size:48px}.text h1{font-size:30.4px}}.c-blockquote{color:#768492;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:20px;line-height:130%;position:relative;margin-bottom:24px}.media-block-wrap .c-blockquote{margin-top:8px}.fc-body .c-blockquote{color:#768492;font-size:18px}.c-blockquote__content{margin-bottom:16px}.c-blockquote--wg{font-size:18px}.c-blockquote--has-quote:before{content:"“";float:left;font-size:400%;margin-right:.05em;margin-top:.315em;height:0}.c-blockquote__foot{margin-top:16px;color:#768492;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px;line-height:1.5}.ico-anchor,.ico-arrow-down,.ico-arrow-left,.ico-arrow-backward,.ico-arrow-right,.ico-arrow-forward,.ico-arrow-top-left,.ico-arrow-top-backward,.ico-arrow-top-right,.ico-arrow-top-forward,.ico-arrow-up,.ico-audio,.ico-audio-rounded,.ico-balatarin,.ico-calendar,.ico-camera,.ico-caret-down,.ico-caret-up,.ico-castbox,.ico-check,.ico-check-circle,.ico-check-circle-checked,.ico-chevron-down,.ico-chevron-left,.ico-chevron-backward,.ico-chevron-left-rounded,.ico-chevron-backward-rounded,.ico-chevron-right,.ico-chevron-forward,.ico-chevron-right-rounded,.ico-chevron-forward-rounded,.ico-chevron-up,.ico-clock,.ico-close,.ico-comment,.ico-content-copy,.ico-document,.ico-download,.ico-ellipsis,.ico-email,.ico-embed-code,.ico-exclamation,.ico-exit-fullscreen,.ico-facebook,.ico-facebook-alt,.ico-favourites,.ico-flag,.ico-fullscreen,.ico-gallery,.ico-gallery-rounded,.ico-globe,.ico-google-news,.ico-google-podcast,.ico-grid,.ico-height-chevrons,.ico-info,.ico-infographic,.ico-infographic-rounded,.ico-instagram,.ico-itunes,.ico-languages,.ico-line,.ico-linkedin,.ico-liveblog,.ico-livejournal,.ico-log-out,.ico-logo-rfe,.ico-logo-voa,.ico-mailru,.ico-map-pin,.ico-meneame,.ico-menu,.ico-minus,.ico-mobile,.ico-my-video,.ico-myworld,.ico-no-results,.ico-odnoklassniki,.ico-pause,.ico-pause-rounded,.ico-pinterest,.ico-play,.ico-play-rounded,.ico-playlist,.ico-playlist-add,.ico-plus,.ico-podcast,.ico-podcast-addict,.ico-podcast-republic,.ico-poll,.ico-pop-out,.ico-print,.ico-question,.ico-quiz,.ico-reddit,.ico-refresh,.ico-repeat,.ico-reply,.ico-report,.ico-rss,.ico-search,.ico-settings,.ico-share,.ico-skip-next,.ico-skip-previous,.ico-soundcloud,.ico-soundslide,.ico-spotify,.ico-square,.ico-stop,.ico-telegram,.ico-tv,.ico-twitter,.ico-ugc,.ico-user,.ico-user-rounded,.ico-viber,.ico-video,.ico-vkontakte,.ico-vkontakte-alt,.ico-volume-muted,.ico-volume-unmuted,.ico-whatsapp,.ico-width-chevrons,.ico-yandex-music,.ico-yandex-zen,.ico-youtube{background:url('https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/Responsive/img/ico-sprites-1661417065025.png') no-repeat}.ico-anchor{background-position:0 0;width:16px;height:16px}.ico-arrow-down{background-position:0.847457627118644% 0;width:16px;height:16px}.ico-arrow-left,.ico-arrow-backward{background-position:1.694915254237288% 0;width:16px;height:16px}.ico-arrow-right,.ico-arrow-forward{background-position:2.542372881355932% 0;width:16px;height:16px}.ico-arrow-top-left,.ico-arrow-top-backward{background-position:3.389830508474576% 0;width:16px;height:16px}.ico-arrow-top-right,.ico-arrow-top-forward{background-position:4.237288135593221% 0;width:16px;height:16px}.ico-arrow-up{background-position:5.084745762711864% 0;width:16px;height:16px}.ico-audio{background-position:5.932203389830509% 0;width:16px;height:16px}.ico-audio-rounded{background-position:6.779661016949152% 0;width:16px;height:16px}.ico-balatarin{background-position:7.627118644067797% 0;width:16px;height:16px}.ico-calendar{background-position:8.474576271186441% 0;width:16px;height:16px}.ico-camera{background-position:9.322033898305085% 0;width:16px;height:16px}.ico-caret-down{background-position:10.169491525423728% 0;width:16px;height:16px}.ico-caret-up{background-position:11.016949152542374% 0;width:16px;height:16px}.ico-castbox{background-position:11.864406779661017% 0;width:16px;height:16px}.ico-check{background-position:12.711864406779661% 0;width:16px;height:16px}.ico-check-circle{background-position:13.559322033898304% 0;width:16px;height:16px}.ico-check-circle-checked{background-position:14.40677966101695% 0;width:16px;height:16px}.ico-chevron-down{background-position:15.254237288135593% 0;width:16px;height:16px}.ico-chevron-left,.ico-chevron-backward{background-position:16.10169491525424% 0;width:16px;height:16px}.ico-chevron-left-rounded,.ico-chevron-backward-rounded{background-position:16.949152542372882% 0;width:16px;height:16px}.ico-chevron-right,.ico-chevron-forward{background-position:17.796610169491526% 0;width:16px;height:16px}.ico-chevron-right-rounded,.ico-chevron-forward-rounded{background-position:18.64406779661017% 0;width:16px;height:16px}.ico-chevron-up{background-position:19.491525423728813% 0;width:16px;height:16px}.ico-clock{background-position:20.338983050847457% 0;width:16px;height:16px}.ico-close{background-position:21.1864406779661% 0;width:16px;height:16px}.ico-comment{background-position:22.033898305084747% 0;width:16px;height:16px}.ico-content-copy{background-position:22.88135593220339% 0;width:16px;height:16px}.ico-document{background-position:23.728813559322035% 0;width:16px;height:16px}.ico-download{background-position:24.576271186440678% 0;width:16px;height:16px}.ico-ellipsis{background-position:25.423728813559322% 0;width:16px;height:16px}.ico-email{background-position:26.271186440677965% 0;width:16px;height:16px}.ico-embed-code{background-position:27.11864406779661% 0;width:16px;height:16px}.ico-exclamation{background-position:27.966101694915253% 0;width:16px;height:16px}.ico-exit-fullscreen{background-position:28.8135593220339% 0;width:16px;height:16px}.ico-facebook{background-position:29.661016949152543% 0;width:16px;height:16px}.ico-facebook-alt{background-position:30.508474576271187% 0;width:16px;height:16px}.ico-favourites{background-position:31.35593220338983% 0;width:16px;height:16px}.ico-flag{background-position:32.20338983050848% 0;width:16px;height:16px}.ico-fullscreen{background-position:33.05084745762712% 0;width:16px;height:16px}.ico-gallery{background-position:33.898305084745765% 0;width:16px;height:16px}.ico-gallery-rounded{background-position:34.74576271186441% 0;width:16px;height:16px}.ico-globe{background-position:35.59322033898305% 0;width:16px;height:16px}.ico-google-news{background-position:36.440677966101696% 0;width:16px;height:16px}.ico-google-podcast{background-position:37.28813559322034% 0;width:16px;height:16px}.ico-grid{background-position:38.13559322033898% 0;width:16px;height:16px}.ico-height-chevrons{background-position:38.983050847457626% 0;width:16px;height:16px}.ico-info{background-position:39.83050847457627% 0;width:16px;height:16px}.ico-infographic{background-position:40.67796610169491% 0;width:16px;height:16px}.ico-infographic-rounded{background-position:41.52542372881356% 0;width:16px;height:16px}.ico-instagram{background-position:42.3728813559322% 0;width:16px;height:16px}.ico-itunes{background-position:43.220338983050844% 0;width:16px;height:16px}.ico-languages{background-position:44.067796610169495% 0;width:16px;height:16px}.ico-line{background-position:44.91525423728814% 0;width:16px;height:16px}.ico-linkedin{background-position:45.76271186440678% 0;width:16px;height:16px}.ico-liveblog{background-position:46.610169491525426% 0;width:16px;height:16px}.ico-livejournal{background-position:47.45762711864407% 0;width:16px;height:16px}.ico-log-out{background-position:48.30508474576271% 0;width:16px;height:16px}.ico-logo-rfe{background-position:49.152542372881356% 0;width:16px;height:16px}.ico-logo-voa{background-position:50% 0;width:16px;height:16px}.ico-mailru{background-position:50.847457627118644% 0;width:16px;height:16px}.ico-map-pin{background-position:51.69491525423729% 0;width:16px;height:16px}.ico-meneame{background-position:52.54237288135593% 0;width:16px;height:16px}.ico-menu{background-position:53.389830508474574% 0;width:16px;height:16px}.ico-minus{background-position:54.23728813559322% 0;width:16px;height:16px}.ico-mobile{background-position:55.08474576271186% 0;width:16px;height:16px}.ico-my-video{background-position:55.932203389830505% 0;width:16px;height:16px}.ico-myworld{background-position:56.779661016949156% 0;width:16px;height:16px}.ico-no-results{background-position:57.6271186440678% 0;width:16px;height:16px}.ico-odnoklassniki{background-position:58.47457627118644% 0;width:16px;height:16px}.ico-pause{background-position:59.32203389830509% 0;width:16px;height:16px}.ico-pause-rounded{background-position:60.16949152542373% 0;width:16px;height:16px}.ico-pinterest{background-position:61.016949152542374% 0;width:16px;height:16px}.ico-play{background-position:61.86440677966102% 0;width:16px;height:16px}.ico-play-rounded{background-position:62.71186440677966% 0;width:16px;height:16px}.ico-playlist{background-position:63.559322033898304% 0;width:16px;height:16px}.ico-playlist-add{background-position:64.40677966101696% 0;width:16px;height:16px}.ico-plus{background-position:65.2542372881356% 0;width:16px;height:16px}.ico-podcast{background-position:66.10169491525424% 0;width:16px;height:16px}.ico-podcast-addict{background-position:66.94915254237289% 0;width:16px;height:16px}.ico-podcast-republic{background-position:67.79661016949153% 0;width:16px;height:16px}.ico-poll{background-position:68.64406779661017% 0;width:16px;height:16px}.ico-pop-out{background-position:69.49152542372882% 0;width:16px;height:16px}.ico-print{background-position:70.33898305084746% 0;width:16px;height:16px}.ico-question{background-position:71.1864406779661% 0;width:16px;height:16px}.ico-quiz{background-position:72.03389830508475% 0;width:16px;height:16px}.ico-reddit{background-position:72.88135593220339% 0;width:16px;height:16px}.ico-refresh{background-position:73.72881355932203% 0;width:16px;height:16px}.ico-repeat{background-position:74.57627118644068% 0;width:16px;height:16px}.ico-reply{background-position:75.42372881355932% 0;width:16px;height:16px}.ico-report{background-position:76.27118644067797% 0;width:16px;height:16px}.ico-rss{background-position:77.11864406779661% 0;width:16px;height:16px}.ico-search{background-position:77.96610169491525% 0;width:16px;height:16px}.ico-settings{background-position:78.8135593220339% 0;width:16px;height:16px}.ico-share{background-position:79.66101694915254% 0;width:16px;height:16px}.ico-skip-next{background-position:80.50847457627118% 0;width:16px;height:16px}.ico-skip-previous{background-position:81.35593220338983% 0;width:16px;height:16px}.ico-soundcloud{background-position:82.20338983050847% 0;width:16px;height:16px}.ico-soundslide{background-position:83.05084745762711% 0;width:16px;height:16px}.ico-spotify{background-position:83.89830508474576% 0;width:16px;height:16px}.ico-square{background-position:84.7457627118644% 0;width:16px;height:16px}.ico-stop{background-position:85.59322033898304% 0;width:16px;height:16px}.ico-telegram{background-position:86.44067796610169% 0;width:16px;height:13.2px}.ico-tv{background-position:87.28813559322033% 0;width:16px;height:16px}.ico-twitter{background-position:88.13559322033899% 0;width:16px;height:16px}.ico-ugc{background-position:88.98305084745763% 0;width:16px;height:16px}.ico-user{background-position:89.83050847457628% 0;width:16px;height:16px}.ico-user-rounded{background-position:90.67796610169492% 0;width:16px;height:16px}.ico-viber{background-position:91.50991357397052% 0;width:15.68px;height:16px}.ico-video{background-position:92.37288135593221% 0;width:16px;height:16px}.ico-vkontakte{background-position:93.22033898305085% 0;width:16px;height:16px}.ico-vkontakte-alt{background-position:94.0677966101695% 0;width:16px;height:16px}.ico-volume-muted{background-position:94.91525423728814% 0;width:16px;height:16px}.ico-volume-unmuted{background-position:95.76271186440678% 0;width:16px;height:16px}.ico-whatsapp{background-position:96.61016949152543% 0;width:16px;height:16px}.ico-width-chevrons{background-position:97.45762711864407% 0;width:16px;height:16px}.ico-yandex-music{background-position:98.30508474576271% 0;width:16px;height:16px}.ico-yandex-zen{background-position:99.15254237288136% 0;width:16px;height:16px}.ico-youtube{background-position:100% 0;width:16px;height:16px}@font-face{font-family:"icons-font-1661417065025";src:url('https://www-voachinese-com.cdn.ampproject.org/r/s/www.voachinese.com/Content/Responsive/fonts/icons-font-1661417065025.woff') format("woff"),url('https://www-voachinese-com.cdn.ampproject.org/r/s/www.voachinese.com/Content/Responsive/fonts/icons-font-1661417065025.ttf') format("truetype");font-weight:normal;font-style:normal}.ico{background-repeat:no-repeat;font-family:"icons-font-1661417065025";display:inline-block;font-size:16px;font-weight:normal;font-style:normal;line-height:inherit;vertical-align:middle;speak:none;text-decoration:inherit;text-transform:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#fff;border:4px solid #fff;-webkit-box-sizing:content-box;box-sizing:content-box}.can-ff .ico{background-image:none;background-color:transparent;border:none;vertical-align:baseline;-webkit-box-sizing:border-box;box-sizing:border-box;width:auto;height:auto}a .ico{text-decoration:none}body.can-ff .ico-anchor:before{content:"\f101"}body.can-ff .ico-arrow-down:before{content:"\f102"}body.can-ff .ico-arrow-left:before,body.can-ff .ico-arrow-backward:before{content:"\f103"}body.can-ff .ico-arrow-right:before,body.can-ff .ico-arrow-forward:before{content:"\f104"}body.can-ff .ico-arrow-top-left:before,body.can-ff .ico-arrow-top-backward:before{content:"\f105"}body.can-ff .ico-arrow-top-right:before,body.can-ff .ico-arrow-top-forward:before{content:"\f106"}body.can-ff .ico-arrow-up:before{content:"\f107"}body.can-ff .ico-audio:before{content:"\f108"}body.can-ff .ico-audio-rounded:before{content:"\f109"}body.can-ff .ico-balatarin:before{content:"\f10a"}body.can-ff .ico-calendar:before{content:"\f10b"}body.can-ff .ico-camera:before{content:"\f10c"}body.can-ff .ico-caret-down:before{content:"\f10d"}body.can-ff .ico-caret-up:before{content:"\f10e"}body.can-ff .ico-castbox:before{content:"\f10f"}body.can-ff .ico-check:before{content:"\f110"}body.can-ff .ico-check-circle:before{content:"\f111"}body.can-ff .ico-check-circle-checked:before{content:"\f112"}body.can-ff .ico-chevron-down:before{content:"\f113"}body.can-ff .ico-chevron-left:before,body.can-ff .ico-chevron-backward:before{content:"\f114"}body.can-ff .ico-chevron-left-rounded:before,body.can-ff .ico-chevron-backward-rounded:before{content:"\f115"}body.can-ff .ico-chevron-right:before,body.can-ff .ico-chevron-forward:before{content:"\f116"}body.can-ff .ico-chevron-right-rounded:before,body.can-ff .ico-chevron-forward-rounded:before{content:"\f117"}body.can-ff .ico-chevron-up:before{content:"\f118"}body.can-ff .ico-clock:before{content:"\f119"}body.can-ff .ico-close:before{content:"\f11a"}body.can-ff .ico-comment:before{content:"\f11b"}body.can-ff .ico-content-copy:before{content:"\f11c"}body.can-ff .ico-document:before{content:"\f11d"}body.can-ff .ico-download:before{content:"\f11e"}body.can-ff .ico-ellipsis:before{content:"\f11f"}body.can-ff .ico-email:before{content:"\f120"}body.can-ff .ico-embed-code:before{content:"\f121"}body.can-ff .ico-exclamation:before{content:"\f122"}body.can-ff .ico-exit-fullscreen:before{content:"\f123"}body.can-ff .ico-facebook:before{content:"\f124"}body.can-ff .ico-facebook-alt:before{content:"\f125"}body.can-ff .ico-favourites:before{content:"\f126"}body.can-ff .ico-flag:before{content:"\f127"}body.can-ff .ico-fullscreen:before{content:"\f128"}body.can-ff .ico-gallery:before{content:"\f129"}body.can-ff .ico-gallery-rounded:before{content:"\f12a"}body.can-ff .ico-globe:before{content:"\f12b"}body.can-ff .ico-google-news:before{content:"\f12c"}body.can-ff .ico-google-podcast:before{content:"\f12d"}body.can-ff .ico-grid:before{content:"\f12e"}body.can-ff .ico-height-chevrons:before{content:"\f12f"}body.can-ff .ico-info:before{content:"\f130"}body.can-ff .ico-infographic:before{content:"\f131"}body.can-ff .ico-infographic-rounded:before{content:"\f132"}body.can-ff .ico-instagram:before{content:"\f133"}body.can-ff .ico-itunes:before{content:"\f134"}body.can-ff .ico-languages:before{content:"\f135"}body.can-ff .ico-line:before{content:"\f136"}body.can-ff .ico-linkedin:before{content:"\f137"}body.can-ff .ico-liveblog:before{content:"\f138"}body.can-ff .ico-livejournal:before{content:"\f139"}body.can-ff .ico-log-out:before{content:"\f13a"}body.can-ff .ico-logo-rfe:before{content:"\f13b"}body.can-ff .ico-logo-voa:before{content:"\f13c"}body.can-ff .ico-mailru:before{content:"\f13d"}body.can-ff .ico-map-pin:before{content:"\f13e"}body.can-ff .ico-meneame:before{content:"\f13f"}body.can-ff .ico-menu:before{content:"\f140"}body.can-ff .ico-minus:before{content:"\f141"}body.can-ff .ico-mobile:before{content:"\f142"}body.can-ff .ico-my-video:before{content:"\f143"}body.can-ff .ico-myworld:before{content:"\f144"}body.can-ff .ico-no-results:before{content:"\f145"}body.can-ff .ico-odnoklassniki:before{content:"\f146"}body.can-ff .ico-pause:before{content:"\f147"}body.can-ff .ico-pause-rounded:before{content:"\f148"}body.can-ff .ico-pinterest:before{content:"\f149"}body.can-ff .ico-play:before{content:"\f14a"}body.can-ff .ico-play-rounded:before{content:"\f14b"}body.can-ff .ico-playlist:before{content:"\f14c"}body.can-ff .ico-playlist-add:before{content:"\f14d"}body.can-ff .ico-plus:before{content:"\f14e"}body.can-ff .ico-podcast:before{content:"\f14f"}body.can-ff .ico-podcast-addict:before{content:"\f150"}body.can-ff .ico-podcast-republic:before{content:"\f151"}body.can-ff .ico-poll:before{content:"\f152"}body.can-ff .ico-pop-out:before{content:"\f153"}body.can-ff .ico-print:before{content:"\f154"}body.can-ff .ico-question:before{content:"\f155"}body.can-ff .ico-quiz:before{content:"\f156"}body.can-ff .ico-reddit:before{content:"\f157"}body.can-ff .ico-refresh:before{content:"\f158"}body.can-ff .ico-repeat:before{content:"\f159"}body.can-ff .ico-reply:before{content:"\f15a"}body.can-ff .ico-report:before{content:"\f15b"}body.can-ff .ico-rss:before{content:"\f15c"}body.can-ff .ico-search:before{content:"\f15d"}body.can-ff .ico-settings:before{content:"\f15e"}body.can-ff .ico-share:before{content:"\f15f"}body.can-ff .ico-skip-next:before{content:"\f160"}body.can-ff .ico-skip-previous:before{content:"\f161"}body.can-ff .ico-soundcloud:before{content:"\f162"}body.can-ff .ico-soundslide:before{content:"\f163"}body.can-ff .ico-spotify:before{content:"\f164"}body.can-ff .ico-square:before{content:"\f165"}body.can-ff .ico-stop:before{content:"\f166"}body.can-ff .ico-telegram:before{content:"\f167"}body.can-ff .ico-tv:before{content:"\f168"}body.can-ff .ico-twitter:before{content:"\f169"}body.can-ff .ico-ugc:before{content:"\f16a"}body.can-ff .ico-user:before{content:"\f16b"}body.can-ff .ico-user-rounded:before{content:"\f16c"}body.can-ff .ico-viber:before{content:"\f16d"}body.can-ff .ico-video:before{content:"\f16e"}body.can-ff .ico-vkontakte:before{content:"\f16f"}body.can-ff .ico-vkontakte-alt:before{content:"\f170"}body.can-ff .ico-volume-muted:before{content:"\f171"}body.can-ff .ico-volume-unmuted:before{content:"\f172"}body.can-ff .ico-whatsapp:before{content:"\f173"}body.can-ff .ico-width-chevrons:before{content:"\f174"}body.can-ff .ico-yandex-music:before{content:"\f175"}body.can-ff .ico-yandex-zen:before{content:"\f176"}body.can-ff .ico-youtube:before{content:"\f177"}.caption{color:#768492;font-size:14px;padding-top:8px;display:block}.wsw{padding-bottom:16px;font-size:16px;word-break:break-word}.wsw--wg{font-size:14px}.wsw__h1,.wsw__h2,.wsw__h3,.wsw__h4,.wsw__h5,.wsw__h6{margin-bottom:.75em}.wsw__h1,.wsw :not(.wsw__embed) h1:not([class]){font-size:30.4px}.wsw__h2,.wsw :not(.wsw__embed) h2:not([class]){font-size:24px}.wsw__h3,.wsw :not(.wsw__embed) h3:not([class]){font-size:20px}.wsw__h3:before,.wsw :not(.wsw__embed) h3:not([class]):before{content:"";border-left:3px solid #cbd1d6;margin-right:8px}.wsw__h4,.wsw :not(.wsw__embed) h4:not([class]){font-size:18px}.wsw__h5,.wsw :not(.wsw__embed) h5:not([class]){font-size:14px;color:#3a79b7;font-weight:bold}.wsw__h6,.wsw :not(.wsw__embed) h6:not([class]){font-size:13px}.wsw__h6:after,.wsw :not(.wsw__embed) h6:not([class]):after{content:"";border-bottom:1px dotted #cbd1d6;display:block;display:-webkit-box;display:-ms-flexbox;display:flex}.wsw p,.wsw ul,.wsw ol,.wsw__table,.wsw__table-container{margin-top:0;margin-bottom:24px}.wsw p.caption{margin-bottom:32px}.wsw__a,.wsw strong a{padding-bottom:.05em;border-bottom:1px solid #e8eaec}.wsw__a:hover,.wsw strong a:hover,.wsw__a:focus,.wsw strong a:focus{border-color:#3a79b7}.wsw .also-read{margin-bottom:24px}.wsw__table-container{display:block;width:100%;overflow:auto;word-break:normal}.wsw__table{border-collapse:collapse;border-spacing:0;border:1px solid #768492;width:100%}.wsw__table .wsw__embed{margin-bottom:16px}.wsw__table-container .wsw__table{margin-bottom:8px}.wsw th{text-align:left;border:1px solid #768492;padding:.2em;background-color:#f6f7f8}.wsw td{border:1px solid #768492;padding:.2em}.wsw .text-incorrect{text-decoration:line-through}.wsw:after{clear:both;content:"";display:block}.wsw>ul,.wsw>:not(.wsw__embed) ul:not([class]),.wsw>.cke_editable>ul,.wsw__ul{position:relative;left:20px;max-width:calc( 100% - 20px)}.wsw>ul>li,.wsw>ul .wsw__ul-li,.wsw>:not(.wsw__embed) ul:not([class])>li,.wsw>:not(.wsw__embed) ul:not([class]) .wsw__ul-li,.wsw>.cke_editable>ul>li,.wsw>.cke_editable>ul .wsw__ul-li,.wsw__ul>li,.wsw__ul .wsw__ul-li{padding-right:16px;margin-bottom:8px}.wsw>ul>li:before,.wsw>ul .wsw__ul-li:before,.wsw>:not(.wsw__embed) ul:not([class])>li:before,.wsw>:not(.wsw__embed) ul:not([class]) .wsw__ul-li:before,.wsw>.cke_editable>ul>li:before,.wsw>.cke_editable>ul .wsw__ul-li:before,.wsw__ul>li:before,.wsw__ul .wsw__ul-li:before{content:'\2022';color:#3a79b7;font-size:1.5em;line-height:.75em;vertical-align:middle;margin-left:-20px;width:20px;display:inline-block}.wsw>ul ul,.wsw>:not(.wsw__embed) ul:not([class]) ul,.wsw>.cke_editable>ul ul,.wsw__ul ul{margin-bottom:0;margin-top:8px}.wsw>ol,.wsw>:not(.wsw__embed) ol:not([class]),.wsw>.cke_editable>ol,.wsw__ol{position:relative;left:20px;counter-reset:section}.wsw>ol>li,.wsw>ol .wsw__ol-li,.wsw>:not(.wsw__embed) ol:not([class])>li,.wsw>:not(.wsw__embed) ol:not([class]) .wsw__ol-li,.wsw>.cke_editable>ol>li,.wsw>.cke_editable>ol .wsw__ol-li,.wsw__ol>li,.wsw__ol .wsw__ol-li{padding-right:16px;margin-bottom:8px;counter-increment:section}.wsw>ol>li:before,.wsw>ol .wsw__ol-li:before,.wsw>:not(.wsw__embed) ol:not([class])>li:before,.wsw>:not(.wsw__embed) ol:not([class]) .wsw__ol-li:before,.wsw>.cke_editable>ol>li:before,.wsw>.cke_editable>ol .wsw__ol-li:before,.wsw__ol>li:before,.wsw__ol .wsw__ol-li:before{color:#a1aab4;content:counter(section) ". ";margin-left:-20px;padding-right:8px}.wsw>ol ol,.wsw>:not(.wsw__embed) ol:not([class]) ol,.wsw>.cke_editable>ol ol,.wsw__ol ol{margin-bottom:0;margin-top:8px}.cover-media{padding-bottom:32px}.cover-media--liveblog{padding-bottom:8px}.cover-media--liveblog .media-pholder{padding-bottom:0}.media-pholder{padding-bottom:32px}.media-pholder:after{display:table;content:"";clear:both}.media-pholder--embed{padding-bottom:0}.media-pholder a:hover img{opacity:.95}.media-pholder .media-download .simple-menu{z-index:11}.media-pholder .thumb .duration{position:absolute;bottom:0;right:0;line-height:1;background-color:rgba(0,0,0,0.5);color:#fff;padding:8px}.media-pholder.media-player .ico-action.ico{position:absolute;display:block;cursor:pointer;top:50%;left:50%;opacity:.7;text-align:center;vertical-align:middle;color:#fff;font-size:80px;line-height:1em;text-shadow:2px 2px 8px rgba(0,0,0,0.5)}body.can-ff .media-pholder.media-player .ico-action.ico{background:transparent;margin-left:-40px;margin-top:-40px}.media-pholder.media-link .ico{position:absolute;left:0;top:0;color:#fff;text-align:center}body.can-ff .media-pholder.media-link .ico{background:rgba(0,0,0,0.7);width:40px;font-size:20px;padding:4px}body.can-ff .media-pholder.media-link:hover .ico{background:#000;color:#fff}body.amp-pg .media-pholder.media-link .ico{z-index:1}.media-pholder .btn-popout-player{display:none}.media-pholder .btn-popout-player .ico{margin-right:2px}.media-pholder:hover .ico{opacity:.9}.media-pholder+.media-block__content{margin-top:0}@media (min-width: 992px){body.can-ff .media-pholder.media-link .ico{width:64px;font-size:32px;padding:6.4px}}.media-block{word-wrap:break-word}.media-block .img-wrap{display:block;width:100%;position:relative;padding-bottom:12px}.media-block .img-wrap .thumb.thumb16_9{height:0;padding-bottom:56.25%;overflow:hidden;background-color:#f6f7f8;background-image:url('https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/amp/img/image-placeholder.svg');background-repeat:no-repeat;background-position:center center}.special-sidebar .media-block .img-wrap .thumb.thumb16_9{background-color:#fff}.media-block .img-wrap .ico{position:absolute;left:0;top:0;color:#fff;text-align:center}body.can-ff .media-block .img-wrap .ico{background-color:black;background:rgba(0,0,0,0.7);padding:1px;width:26px}body.can-ff .media-block .img-wrap:hover .ico{background:#000;color:#fff}body.amp-page .media-block .img-wrap .ico{z-index:1}.media-block h4,.media-block li{color:#222f3a;line-height:1.3875;padding-bottom:8px;vertical-align:baseline}.media-block h4 .ico,.media-block li .ico{color:#768492;margin-right:5px;vertical-align:middle}body.can-ff .media-block h4 .ico,body.can-ff .media-block li .ico{vertical-align:baseline}.media-block p{margin-bottom:8px;color:#000}.media-block .category,.media-block .label,.media-block .date,.media-block .date--relative,.media-block .date--time{display:block;font-size:14px;color:#a1aab4;text-transform:uppercase;padding-bottom:4px}.media-block .date{word-wrap:normal}.media-block .date--relative{text-transform:none}.media-block .category{color:#3a79b7;text-decoration:none}.media-block a.category:hover,.media-block a.category:focus{color:#3a79b7;text-decoration:underline}.indent-time .media-block .date--time{float:left;width:88px}.media-block a:hover h4{color:#3a79b7}.media-block a:hover .category{color:#808080}.media-block a:hover p{color:#000}.media-block.size-4 .category,.media-block.size-4 .label,.media-block.size-4 .date,.media-block.size-4 .date--relative,.media-block.size-4 .time{font-size:13px}.media-block.size-4 h4{font-size:14px}.media-block.size-4 h4 .ico{line-height:16.8px;height:16.8px}.media-block.size-4 p{font-size:13px}.media-block.horizontal.media-block--has-img .content{margin-left:38.5%;word-wrap:break-word}.author .media-block.horizontal.media-block--has-img .content,.col-xs-vertical .media-block.horizontal.media-block--has-img .content{margin-left:0}.media-block.horizontal .img-wrap{width:35%;float:left;margin-right:10px}.col-xs-vertical .media-block.horizontal .img-wrap{width:100%;margin-right:0}.media-pholder{padding-bottom:8px}.media-block-wrap{margin-bottom:16px}.media-block-wrap .media-block{border-bottom:1px dotted #e8eaec;margin-top:12px}.media-block-wrap .col-xs-12:nth-last-of-type(1)>.media-block{border-bottom:0}.foot{background-color:#3a79b7;margin-top:16px;padding-bottom:16px}.foot .copyright{font-size:13px;color:#ebebeb;float:right}.hdr{border-top:5px solid #3a79b7;border-bottom:5px solid #3a79b7;background-color:#ebebeb;min-height:60px}.hdr .container{padding:10px 0;height:60px;position:relative;text-align:center}.hdr .logo-link{height:40px}.hdr .navigationToggle{position:absolute;top:0;right:0;margin:16px;vertical-align:middle;color:#3a79b7;background-image:none;background-color:#ebebeb;border:0}.hdr .navigationToggle .ico{font-size:24px;line-height:24px;margin-right:0}.tealium-float{float:left}amp-sidebar{background-color:#fff;-webkit-box-shadow:0 0 15px #768492;box-shadow:0 0 15px #768492}amp-sidebar .navigationToggle{display:block;width:100%;margin:0;padding:8px;vertical-align:middle;color:#3a79b7;background-image:none;background-color:#e5e5e5;border:0;border-bottom:1px solid #bfbfbf;font-weight:bold;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px}amp-sidebar .navigationToggle .ico{font-size:24px;line-height:24px;float:right;margin-left:8px;margin-right:0}amp-sidebar .navigationToggle span{display:block;float:right;margin-top:4px;text-transform:uppercase}amp-sidebar #navigation{clear:both;padding:0 8px}amp-sidebar #navigation ul.items .item{display:block}amp-sidebar #navigation ul.items .item .handler{display:block;padding:12px 10px;color:#333;background:#fff;border-top:1px solid #a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px}amp-sidebar #navigation ul.items li:first-child .handler{border-top:0}amp-sidebar #navigation .media ul.items li.item .handler{background:#fff;color:#333;border-top-color:#a1aab4;border-bottom-color:#a1aab4;border-bottom:0;padding:12px 10px}amp-sidebar #navigation .media ul.items li.item .handler .ico{color:#3a79b7;font-size:24px;line-height:24px}amp-sidebar #navigation .media ul.items li.item:first-of-type a{border:0}amp-sidebar #navigation ul.subitems{border-bottom:1px solid #a1aab4}amp-sidebar #navigation ul.subitems li.subitem{position:relative;padding:0;display:block}amp-sidebar #navigation ul.subitems li.subitem .handler{color:#333;padding-left:20px;border-top:1px solid #a1aab4;background:#fff}amp-sidebar #navigation ul.subitems li.subitem .handler:before{position:absolute;left:10px;top:8px;bottom:8px;content:"";display:block;width:1px;border-left:2px solid #bdc4ca}amp-sidebar #navigation ul.subitems li.subitem:first-of-type a{border:0}.foot-nav{clear:both;margin-bottom:16px}.foot-nav ul.items{clear:both;list-style-type:none;margin-left:-12px;margin-right:-12px;border-bottom:1px solid #639cdc}.foot-nav ul.items>li{border-top:1px solid #639cdc}.foot-nav ul.items>li:first-of-type{border-top:0}.foot-nav ul.items>li a,.foot-nav ul.items>li span.handler{text-align:left;position:relative;display:block;color:#a6d0f4;padding:12px 12px;margin:0;cursor:pointer;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:14px;text-transform:none;vertical-align:bottom}.foot-nav ul.items>li.socials .inner ul.follow{padding:8px 12px;float:none}.foot-nav ul.items>li.socials .inner ul.subitems li{border-top:none}.foot-nav ul.items>li.socials .inner li{background-color:transparent;padding:0}.foot-nav ul.items>li.socials .inner li:hover{background-color:transparent}.foot-nav ul.items>li.socials .inner li .btn{background-color:#fff;color:#768492;text-align:center;padding:0;float:left;margin-right:12px;margin-bottom:12px}.foot-nav ul.items>li.socials .inner li .btn .ico{font-size:inherit}.foot-nav ul.items>li.socials .inner li .btn .ico,.foot-nav ul.items>li.socials .inner li .btn .ico:before{color:#768492}.foot-nav ul.items>li.socials .inner li .btn:hover,.foot-nav ul.items>li.socials .inner li .btn:focus,.foot-nav ul.items>li.socials .inner li .btn:active{background-color:#768492;color:#ebebeb}.foot-nav ul.items>li.socials .inner li .btn:hover .ico,.foot-nav ul.items>li.socials .inner li .btn:hover .ico:before,.foot-nav ul.items>li.socials .inner li .btn:focus .ico,.foot-nav ul.items>li.socials .inner li .btn:focus .ico:before,.foot-nav ul.items>li.socials .inner li .btn:active .ico,.foot-nav ul.items>li.socials .inner li .btn:active .ico:before{color:#ebebeb}.foot-nav ul.items>li ul.subitems li{padding:8px 12px;border-top:1px solid #639cdc;background-color:#3a79b7}.foot-nav ul.items>li ul.subitems li a{color:#ebebeb;border-left:2px solid #639cdc;padding:4px 12px}.foot-nav ul.items>li ul.subitems li a:hover{color:#ebebeb}.foot-nav ul.items>li ul.follow li .btn{border-left:0}.back-to-top-nav{text-align:right}.back-to-top-nav.disabled{margin:16px 0 -15px 0;padding:8px 0;background:#f6f7f8;color:#222f3a}.back-to-top-nav.disabled .back-to-top-link{color:#222f3a}.back-to-top-nav.disabled .back-to-top-link:hover{color:#3a79b7}.back-to-top-nav.disabled .back-to-top-link .ico{margin-right:0;margin-left:5px}.js .back-to-top-nav a.back-to-top-link{display:block;z-index:20;padding:12px;position:fixed;bottom:12px;right:12px;background:#222f3a;color:#ebebeb;opacity:.8;filter:alpha(opacity=80);-webkit-transition-property:right;transition-property:right;-webkit-transition-duration:1s;transition-duration:1s}.js .back-to-top-nav a.back-to-top-link:hover{opacity:1;filter:alpha(opacity=100)}.js .back-to-top-nav a.back-to-top-link .ico{margin-right:0;width:16px;height:16px;line-height:16px}.js .back-to-top-nav a.back-to-top-link span.text{display:none}.js .back-to-top-nav a.back-to-top-link.not-used{right:-100%}@media (min-width: 320px){.js .back-to-top-nav a.back-to-top-link{display:none}}.backgrounder{background-color:#f6f7f8;padding:16px;margin-bottom:32px;border-radius:3px}.backgrounder .wsw p{font-size:14px}.backgrounder .wsw .caption{font-size:13px}.backgrounder .embedded-audio h5{font-size:18px}.can-ff .backgrounder .embedded-audio h5 .ico{font-size:42px;line-height:42px;width:42px;height:42px;margin-right:8px}.article .media-elem{padding-bottom:16px}.article .media-elem+p.caption{margin-top:-8px}.article .also-read{display:block;margin-bottom:32px}.article .also-read span{font-size:18px;color:#222f3a}.article .also-read+.also-read{margin-top:-24px}.article .category{color:#a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif;font-size:16px;text-transform:uppercase;margin-bottom:16px}.article .category a,.article .category a:visited{color:#3a79b7}.article h1{margin-bottom:16px}.article .publishing-details{font-size:14px;padding-bottom:11.2px}.article .publishing-details .published{float:left;padding-right:1em;padding-bottom:.5em}.article .publishing-details .published .date{color:#a1aab4;font-family:NSimSun,SimSun,PMingLiU,Arial,Helvetica,"Arial Unicode MS",sans-serif}.article .publishing-details .authors{padding-right:.6em}.article .publishing-details .authors ul li{float:left;list-style-type:none;display:block;margin-right:1em;padding-bottom:8px}.article .article-hdr{padding:16px 0}.article .article-hdr.article-hdr_asim{padding:0}.article .article-body{padding-bottom:32px}.lightbox-close{margin:15px;float:right;font-size:150%}.media-hdr{background:#222f3a;padding:16px 0;color:#ebebeb;margin-bottom:40px}.media-hdr .media-elem{padding-bottom:0}.media-hdr .caption{color:#ebebeb;margin-bottom:32px}.media-hdr:not(.photogallery) .intro{margin-top:24px}.widgets{margin-bottom:40px}
-</style><title>中国式现代化: 习连任后的中国向何处去？</title><link href=https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html rel=canonical><script type=application/ld+json>
-{"articleSection":"中国","headline":"中国式现代化: 习连任后的中国向何处去？","author":{"@type":"Person","name":"许波"},"datePublished":"2022-10-19","dateModified":"2022-10-19 20:14:18Z","publisher":{"logo":{"width":150,"height":60,"@type":"ImageObject","url":"https://www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg"},"@type":"Organization","url":"https://www.voachinese.com","sameAs":["https://www.facebook.com/voachinese","https://twitter.com/voachinese","https://www.youtube.com/voachinese","https://www.instagram.com/voachinese/","/rssfeeds","/podcasts","/subscribe.html"],"name":"美国之音"},"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html","image":{"width":1080,"height":608,"@type":"ImageObject","url":"https://gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg"}}
-</script><meta content=2 name=runtime-type></head><body class="can-ff amp-pg" dir=ltr>
-<div class=tealium-float>
-<amp-iframe class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" frameborder=0 height=1 i-amphtml-layout=fixed layout=fixed sandbox="allow-scripts allow-same-origin" src="https://livetracker.voa.pangea-cms.com/Tealium.aspx?pangeasiteid=412&amp;canonical_url=https%3A%2F%2Fwww.voachinese.com%2Fa%2Fxi-jinping-mutual-prosperity-20221019%2F6796624.html&amp;article_uid=6796624&amp;headline=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;byline=%E8%AE%B8%E6%B3%A2&amp;pub_hour=17&amp;pub_day=19&amp;pub_month=10&amp;pub_year=2022&amp;domain=article&amp;content_type=article&amp;entity=VOA&amp;language=Mandarin&amp;language_service=VOA%20Mandarin&amp;platform=googleAMP&amp;platform_short=GA&amp;property_id=521&amp;short_language_service=MAN&amp;section=%E4%B8%AD%E5%9B%BD&amp;page_name=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;page_title=%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%3A%20%E4%B9%A0%E8%BF%9E%E4%BB%BB%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BD%95%E5%A4%84%E5%8E%BB%EF%BC%9F&amp;page_type=article&amp;subcontent_type=article&amp;enviro_type=prod&amp;srvr=www.voachinese.com&amp;chn=%2Fa%2F" style=width:1px;height:1px; width=1>
-<amp-img class="i-amphtml-layout-fill i-amphtml-layout-size-defined" height=1 i-amphtml-layout=fill layout=fill placeholder src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/spacer.gif width=1></amp-img>
-</amp-iframe>
-</div>
-<amp-pixel class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=6796624&amp;SiteId=412&amp;r=1787209769&amp;it=0&amp;pd=20221019171239" style=width:1px;height:1px;></amp-pixel>
-<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=chartbeat>
-<script type=application/json>
-{
-"vars":
-{
-"uid": "62557",
-"domain": "voa.china",
-"sections": "voachinese.com",
-"authors": "许波"
-}
-}
-</script>
-</amp-analytics>
-<div id=page>
-<header class=hdr>
-<div class=container>
-<a class=logo-link href=https://www.voachinese.com/ target=_top>
-<amp-img alt=logo class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=40 i-amphtml-layout=fixed layout=fixed src=https://www-voachinese-com.cdn.ampproject.org/ii/AW/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg srcset="https://www-voachinese-com.cdn.ampproject.org/ii/w150/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 150w, https://www-voachinese-com.cdn.ampproject.org/ii/w330/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 330w, https://www-voachinese-com.cdn.ampproject.org/ii/w470/s/www.voachinese.com/Content/responsive/VOA/zh-CN/img/logo-compact.svg 470w" style=width:150px;height:40px; width=150>
-</amp-img>
-<noscript></noscript>
-</a>
-<button class=navigationToggle on=tap:primaryNavigation.toggle tabindex=0><span class="ico ico-menu"></span></button>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="format-detection" content="telephone=no">
+  <title>热门：假如马斯克当上总统，他会做什么？_迪族网</title>
+  <meta name="keywords" content="竞选总统,很有可能,做的事情">
+  <meta name="description" content="推特退市，马斯克全权掌控，这意味着他能够借助这个世界上最出名的社交平台之一，更好地发出自己的声音，去影响上亿乃至数十亿人的想法。凭借">
+  <link rel="stylesheet" href="http://news.dizo.com.cn/wap_static/css/swiper.min.css">
+  <link rel="stylesheet" href="http://news.dizo.com.cn/wap_static/css/ymwap-main.css">
+  <script type="text/javascript" src="http://news.dizo.com.cn/wap_static/js/jquery-1.8.3.js"></script>
+  <script type="text/javascript" src="http://news.dizo.com.cn/wap_static/js/touch-0.2.14.min.js"></script>
+</head>
+<body>
+<header class="ymw-header">
+<aside>
+ <a href="http://5g.dizo.com.cn" class="ymw-logo">
+   <img src="http://news.dizo.com.cn/wap_static/logo/2.png" alt="迪族网">   
+ </a>
+ </aside>
 </header>
-<main id=content role=main>
-<article class=article>
-<header class=article-hdr>
-<div class=container>
-<div class=category>
-<a href=https://www.voachinese.com/z/1757 target=_top>中国</a>
-</div>
-<h1>中国式现代化: 习连任后的中国向何处去？</h1>
-<div class=publishing-details>
-<div class=published>
-<span class=date>
-<time datetime="2022-10-19 17:12:39Z">
-2022年10月19日 17:12
-</time>
-</span>
-</div>
-<div class=authors>
-<ul>
-<li>
-<div title=许波>
-<a href=https://www.voachinese.com/author/%E8%AE%B8%E6%B3%A2/gopoy target=_top>许波</a>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<div class="media-pholder image">
-<div class=media-elem>
-<amp-img alt="中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=608 i-amphtml-layout=responsive i-amphtml-ssr layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg srcset="https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w640_h360_s.jpg 640w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w320_h180_s.jpg 320w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg 1080w" width=1080><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2963%;></i-amphtml-sizer>
-<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAgEAABAwIHAAAAAAAAAAAAAAABAAMRAgYSEzNhcZLh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAaEQACAgMAAAAAAAAAAAAAAAAAAQITAyFR/9oADAMBAAIRAxEAPwCVm536GKqMqZBg49uFObjfnTPfxERVx4U35FtM/9k=&#39;%3E%3C/image%3E%3C/svg%3E"><img alt="中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)" class="i-amphtml-fill-content i-amphtml-replaced-content" decoding=async src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg srcset="https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w640_h360_s.jpg 640w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w320_h180_s.jpg 320w, https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/80470000-c0a8-0242-eb59-08dab02cef3f_w1080_h608_s.jpg 1080w"></amp-img>
-</div>
-<p class=caption>中共领导人习近平在北京人大会堂出席中共二十大开幕式 (2022年10月16日)</p>
-</div>
-</div>
-</header>
-<div class=article-body>
-<div class="container article-share">
-<div class=links>
-<p class=link-comments>
-<a href=https://www.voachinese.com/a/xi-jinping-mutual-prosperity-20221019/6796624.html/#ext-comments target=_top>
-<span class="ico ico-comment"></span>
-<span class=btn__text>评论</span>
-</a>
-</p>
-</div>
-</div>
-<div class="container wsw">
-<p>习近平在中共二十大政治报告中说，从现在起，中共的中心任务就是“以中国式现代化全面推进中华民族的伟大复兴。”习近平进一步阐明，中国式现代化的本质要求是：坚持中国共产党领导，坚持中共特色的社会主义，发展全过程人民民主，实现全体人民共同富裕等等。有分析说，这是一个大杂烩概念。</p>
-<p>西方媒体注意到，中国式现代化是习近平在二十大提出的唯一一个新名词，中共官媒对此予以密集解读。但是新加坡管理大学法学院教授高树超认为，概念虽新，却并无多大的意义，王沪宁似有江郎才尽的感觉。</p>
-<p>他说：“这个概念同以前的一些概念，比如江泽民的三个代表，胡锦涛的科学发展观，乃至和谐社会相比，可以说是毫无亮点。总的来看，习自从上台之后，他提的很多口号，都有同样的特点 …… 这个中国式现代化实际上是一个大杂烩概念，就是说什么都强调中国独特的逻辑。有人说世界上有两种逻辑，一种是逻辑，一种是中国逻辑。”</p>
-<p>二十大前，《人民日报》以整版篇幅阐述中国式现代化，其中说到，中国式现代化摒弃了西方现代化所遵循的生产力发展单纯服从于资本的逻辑，摒弃了西方以资本为中心的现代化、两极分化的现代化、物质主义膨胀的现代化、对外扩张掠夺的现代化老路，实现了对西方现代化理论的超越。</p>
-<p><strong>习近平要在现代化问题上与西方分道扬镳</strong></p>
-<p>美国彭博新闻社专门就习近平的中国式现代化采访了世界各地的中国问题专家，其中欧亚集团的中国分析师尼尔·托马斯认为，习近平向美国和西方世界传递的讯息是，中国要在现代化问题上另起炉灶。</p>
-<p>他说：“他给‘中国式现代化’增加了一个新东西，这是一个强烈的信号，即习近平打算在富国强兵的问题上走他自己的路，而不是走西方的路。”</p>
-<p>1980年代中国改革开放早期鼓动中国融入“蓝色文明”的宣教片《河殇》的主笔苏晓康目前流亡美国，他对中国现代化道路的问题有更深层次的解读。</p>
-<p>他说“习近平终于托出一盘‘现代化’大菜，谁曾想竟然是馊的，建构于狭隘民族主义的‘复兴’怎可能伟大？因为其价值内核是雪耻、仇恨，这一条思想史脉络，将习近平与1976年前的毛泽东之‘东风压倒西风’路线勾联起来，所以他必定要反邓和否定改革。”<br>
-中国民族主义现代化道路是一条危险之路</p>
-<p>加拿大女王大学历史系兼职助理教授赖小刚进一步指出，历史上实现现代化的道路不外有两条，一条是以英美为代表的西方主流现代化道路，另一条是德日为代表的铁血法西斯和军国主义之路。</p>
-<p>赖教授说，中国式现代化道路抛开普世价值，摒弃世界现代化主流，完全以民族主义为基础，势必走上一条非常危险的道路。</p>
-<p>他说：“现在提中国式现代化，实际上是把中国引上了一个纳粹化，至少来说是一条军国主义化的道路，这是一个非常危险的方向。”</p>
-<p>中国式现代化没有改革开放的位置。</p>
-<p>既然中国式现代化与世界主流现代化道路划清了界限，邓江胡时代与世界接轨为目的的改革开放路线的命运就自然引发外界的普遍关心和担心。习近平在将近两个小时的政治报告中对于过去40年中国人耳熟能详的改革开放只字未提，更加重了人们的疑虑。</p>
-<p>新加坡管理大学的中国问题专家高树超教授说，习近平口头表述中未提改革开放，但72页的政治报告文字版本中还是有几处提到了这个口号，只是改革开放内容和份量已经同邓时代不可同日而语了。</p>
-<p>“你比如说，开放这个问题，对谁开放，以前我们说改革开放就是中国对西方发达国家，特别是欧美进行开放。但是现在如果大家看二十大报告当中提到的开放成果，提到的却是一带一路，对一带一路国家开放，对俄罗斯开放等等。”</p>
-<p>高教授进一步指出，改革开放是邓小平时代的旗帜，雄心勃勃开创了自己新时代的习近平自然不愿意沿用。他预计，邓江胡时代的改革开放将不可避免地成为一个历史名词。中国式现代化的核心是“共同富裕”。</p>
-<p>习近平新时代的旗帜和纲领是共同富裕。《人民日报》的解读是：“中国式现代化坚持以人民为中心的发展思想，把增进人民福祉、促进人的全面发展、朝着共同富裕方向稳步前进作为经济发展的出发点和落脚点，扎实推动共同富裕，不断增强人民群众获得感、幸福感、安全感。”</p>
-<p>英国西敏集团中国市场首席经济学家刘佩倩(音译)接受彭博新闻社采访时说说：“共同富裕仍然被高度强调，这意味着收入和财富的再分配仍然是(中共的)中期实现目标。”</p>
-<p>共同富裕是作为习近平新时代的一面旗帜和纲领提出来的,去年刚出笼时立刻形成一股运动，伴随第三次分配方案等具体措施，大有雷厉风行之势。</p>
-<p>但是很明显，习近平的纲领性国策引发了民营资本的恐慌，甚至在党内也出现争议。习近平去年年中左右推出共同富裕之后，从去年下半年到今年上半年一度沉寂了一段时间，直到最近几个月习近平才又重新提起，并再度火热起来。</p>
-<p><strong>习近平：共同富裕急不得，也等不得</strong></p>
-<p>高树超教授说：“先把共同富裕的问题搁置一下,利用这段时间先把政治问题搞定。搞定之后大家可以看到，为什么最近几个月他又重提这个问题了？表明他已经能够完全掌控局面，已经能够压服党内不同意见以及党外大资本的恐慌，他就可以重提共同富裕这个问题了。”</p>
-<p>以民族主义和共同富裕为基础的中国式现代化目标已定，习近平获得第三个任期后中国向何处去的问题也就清楚了。加拿大女王大学的赖小刚教授预测，均贫富，或者劫富济贫大概是习近平连任之后的政治经济路线，因为这条路线是缓和社会矛盾，巩固共产党和习近平统治的立竿见影的办法。</p>
-<p>赖教授说：“当然，杀鸡取卵可能不是一个好的办法，但习近平已经顾不了那么多了。”</p>
-</div>
-</div>
-</article>
-</main>
-<section class=widgets role=complementary>
-<div class=container>
-<div class=media-block-wrap>
-<h3 class=section-head>相关内容</h3>
-<ul class=row>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/china-economy-party-congress-covid-20221017/6793664.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/095c0000-0a00-0242-cf11-08da9698f4a5_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/095c0000-0a00-0242-cf11-08da9698f4a5_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAcEAACAgMBAQAAAAAAAAAAAAABAgARBAUhA0L/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhL/2gAMAwEAAhEDEQA/AJMLcZKqSjutV9XKTsPZyWLGz09iIdMsok//2Q==&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
-</div>
-</a>
-<div class=content>
-<a href=https://www.voachinese.com/a/china-economy-party-congress-covid-20221017/6793664.html target=_top>
-<h4>
-<span class=title>
-分析：如何解读习近平二十大报告释放的经济信号？
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/us-national-security-strategy-2022-10-13/6788810.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/09690000-0a00-0242-e508-08da70d6b726_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/09690000-0a00-0242-e508-08da70d6b726_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<a href=https://www.voachinese.com/a/us-national-security-strategy-2022-10-13/6788810.html target=_top>
-<h4>
-<span class=title>
-美国出台国家安全战略，摸索应对地缘政治和跨国挑战
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/deng-yuwen-on-ccp-20221003/6773744.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/907B7AAD-8BE6-474F-B796-E437240E7B72_cx0_cy2_cw0_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/907B7AAD-8BE6-474F-B796-E437240E7B72_cx0_cy2_cw0_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-<img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAFAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAHxAAAQQBBQEAAAAAAAAAAAAAAgABAxEhBBITUZHR/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAaEQEBAAIDAAAAAAAAAAAAAAABAwACERIh/9oADAMBAAIRAxEAPwDNaUQmEikF3K6w9N4oc7tjZG9dxj8REcXsmV6z0IzQ9ec//9k=&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
-</div>
-</a>
-<div class=content>
-<a href=https://www.voachinese.com/a/deng-yuwen-on-ccp-20221003/6773744.html target=_top>
-<h4>
-<span class=title>
-聿文视界: 中南海游戏规则早已改变，但政变遥传者思维仍停留在以前
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</section>
-<section class=widgets role=complementary>
-<div class=container>
-<div class=media-block-wrap>
-<h3 class=section-head>您可能感兴趣的内容</h3>
-<ul class=row>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/nasa-chief-says-china-could-claim-the-moon-as-its-own-territory-if-it-beats-the-us-to-the-lunar-surface-20230102/6900609.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/022a0000-0aff-0242-5bec-08dad956dace_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/022a0000-0aff-0242-5bec-08dad956dace_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>美国</span>
-<a href=https://www.voachinese.com/a/nasa-chief-says-china-could-claim-the-moon-as-its-own-territory-if-it-beats-the-us-to-the-lunar-surface-20230102/6900609.html target=_top>
-<h4>
-<span class=title>
-美NASA主管：月球竞争日趋激烈，中国若捷足先登恐将霸为己有
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/interview-with-dr-ho-mei-shang--the-end-of-the-epidemic-in-china-is-the-real-end-of-covid-19-pandemic-20230102/6900774.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/03370000-0aff-0242-85fb-08daecca7e27_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/03370000-0aff-0242-85fb-08daecca7e27_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>台湾</span>
-<a href=https://www.voachinese.com/a/interview-with-dr-ho-mei-shang--the-end-of-the-epidemic-in-china-is-the-real-end-of-covid-19-pandemic-20230102/6900774.html target=_top>
-<h4>
-<span class=title>
-专访何美乡：中国疫情走完才算是新冠终点
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/some-in-china-return-to-regular-activity-after-covid-infections-20230102/6901000.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/09410000-0a00-0242-e763-08daecca7e17_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/09410000-0a00-0242-e763-08daecca7e17_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>新冠疫情</span>
-<a href=https://www.voachinese.com/a/some-in-china-return-to-regular-activity-after-covid-infections-20230102/6901000.html target=_top>
-<h4>
-<span class=title>
-中国各大城市疫情肆虐之后，染疫康复民众试图恢复正常户外活动
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/japan-says-it-scrambled-jet-to-monitor-chinese-20230102/6900543.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/6B09F89C-DFBD-4513-A3E4-C426DF36D6F6_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/6B09F89C-DFBD-4513-A3E4-C426DF36D6F6_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>亚太</span>
-<a href=https://www.voachinese.com/a/japan-says-it-scrambled-jet-to-monitor-chinese-20230102/6900543.html target=_top>
-<h4>
-<span class=title>
-日本战机和军舰监视中国辽宁号等6艘军舰出没冲绳周边 
- 
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/hong-kong-china-covid-border-20230102/6900403.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/022a0000-0aff-0242-ce21-08dae8016c75_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/022a0000-0aff-0242-ce21-08dae8016c75_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>港澳</span>
-<a href=https://www.voachinese.com/a/hong-kong-china-covid-border-20230102/6900403.html target=_top>
-<h4>
-<span class=title>
-香港争取1月8日与大陆初步通关，有限额需核酸
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-<li class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-<div class="media-block horizontal with-category has-img size-4">
-<a class=img-wrap href=https://www.voachinese.com/a/yale-historian-to-ccp-away-from-imperial-legacy-and-focus-on-people-s-well-being-20230101/6899610.html target=_top>
-<div class=thumb>
-<amp-img class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-src=https://gdb.voanews.com/691A596E-3796-4B90-AC56-68227A13A18E_w144_h81.jpg height=81 i-amphtml-layout=responsive layout=responsive src=https://gdb-voanews-com.cdn.ampproject.org/ii/AW/s/gdb.voanews.com/691A596E-3796-4B90-AC56-68227A13A18E_w144_h81.jpg width=144><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer>
-</amp-img>
-</div>
-</a>
-<div class=content>
-<span class=category>中国</span>
-<a href=https://www.voachinese.com/a/yale-historian-to-ccp-away-from-imperial-legacy-and-focus-on-people-s-well-being-20230101/6899610.html target=_top>
-<h4>
-<span class=title>
-耶鲁历史学者劝中国：摆脱帝国遗风 关注百姓福祉
-</span>
-</h4>
-</a>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</section>
-<footer class=foot>
-<div class=container>
-<div class=foot-nav id=foot-nav>
-<div class=menu>
-<ul class=items>
-<li class="socials block-socials">
-<span class=handler id=socials-handler>关注我们</span>
-<div class=inner>
-<ul class="subitems follow">
-<li>
-<a class="btn btn--rounded js-social-btn btn-facebook" data-analytics-text=follow_on_facebook href=https://www.facebook.com/voachinese rel=noopener target=_blank title=在脸书关注我们>
-<span class="ico ico-facebook-alt ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-twitter" data-analytics-text=follow_on_twitter href=https://twitter.com/voachinese rel=noopener target=_blank title=在推特上关注我们>
-<span class="ico ico-twitter ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-youtube" data-analytics-text=follow_on_youtube href=https://www.youtube.com/voachinese rel=noopener target=_blank title=在YouTube上关注我们>
-<span class="ico ico-youtube ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-instagram" data-analytics-text=follow_on_instagram href=https://www.instagram.com/voachinese/ rel=noopener target=_blank title=在Instagram上关注我们>
-<span class="ico ico-instagram ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-g-news" data-analytics-text=follow_on_google_news href=http://bit.ly/VOAgooglenews rel=noopener target=_blank title="欢迎通过&#34;谷歌新闻&#34;关注@美国之音中文网 - VOA Mandarin">
-<span class="ico ico-google-news ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-rss" data-analytics-text=follow_on_rss href=https://www.voachinese.com/rssfeeds target=_top title=聚合新闻>
-<span class="ico ico-rss ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-podcast" data-analytics-text=follow_on_podcast href=https://www.voachinese.com/podcasts target=_top title=播客>
-<span class="ico ico-podcast ico--rounded"></span>
-</a>
-</li>
-<li>
-<a class="btn btn--rounded js-social-btn btn-email" data-analytics-text=follow_on_subscribe href=https://www.voachinese.com/subscribe.html target=_top title=订阅电邮新闻、英语学习教材>
-<span class="ico ico-email ico--rounded"></span>
-</a>
-</li>
-</ul>
-</div>
-</li>
-<li class="block-primary item">
-<span class=handler>网上服务</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=http://bit.ly/dianyou target=_top>订阅电邮新闻/英语教材</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5897.html target=_top>美国之音应用程序简介</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/program-schedule.html target=_top>电视广播节目表和频率表</a>
-</li>
-</ul>
-</div>
-</li>
-<li class="block-primary item">
-<span class=handler>卫星信息</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5985.html target=_top>通过卫星收看VOA卫视</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5869.html target=_top>如何收听VOA短波广播</a>
-</li>
-</ul>
-</div>
-</li>
-<li class="block-primary item">
-<span class=handler>其他信息</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/3862.html target=_top>关于美国之音</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/3848.html target=_top>联系我们</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/7969.html target=_top>VOA+</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5946.html target=_top>美国之音宪章</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/3874.html target=_top>条款及私隐政策</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.usagm.gov/ target=_top>美国全球媒体总署</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://editorials.voa.gov/Chinese.html target=_top>社论</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voacantonese.com/ target=_top>美國之音粵語網</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voanews.com/ target=_top>VOA English</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voatibetan.com/ target=_top>བོད་ཡིག</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.insidevoa.com/ target=_top>Media Relations</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voanews.com/section-508 target=_top>Accessibility</a>
-</li>
-<li class=subitem>
-<a class=handler href=http://www.rfa.org/ target=_top>自由亚洲网站</a>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-</div>
-<p class=copyright></p>
-</div>
-</footer>
-</div>
-<amp-sidebar class=i-amphtml-layout-nodisplay hidden=hidden i-amphtml-layout=nodisplay id=primaryNavigation layout=nodisplay side=right>
-<button class=navigationToggle on=tap:primaryNavigation.close tabindex=0><span class="ico ico-close"></span> <span>关闭</span></button>
-<div class=navigation id=navigation>
-<div class=media>
-<ul class=items>
-<li class=item id=menu-item-listen>
-<a class="handler live" href=https://www.voachinese.com/Navigation/LiveAudioNJS target=_top>
-<span class="ico ico-audio-rounded"></span>
-<span class=text>广播音频</span>
-<span class=live></span>
-</a>
-</li>
-<li class=item id=menu-item-watch>
-<a class=handler href=https://www.voachinese.com/Navigation/LiveVideoNJS target=_top>
-<span class="ico ico-play-rounded"></span>
-<span class=text>电视节目</span>
-</a>
-</li>
-</ul>
-</div>
-<div class=menu>
-<ul class=items>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/6188.html target=_top>主页</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/6317.html target=_top>美国</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/China target=_top>中国</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/Taiwan target=_top>台湾</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/7681.html target=_top>港澳</a>
-</li>
-<li class=" item">
-<span class=handler>国际</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/6143.html target=_top>最新国际新闻</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1745 target=_top>亚太</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1759 target=_top>中东</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1753 target=_top>欧洲</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1741 target=_top>非洲</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1742 target=_top>美洲</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/5374 target=_top>全球议题</a>
-</li>
-</ul>
-</div>
-</li>
-<li class=" item">
-<span class=handler>分类新闻</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1748 target=_top>经济·金融·贸易</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/5120 target=_top>人权·法律·宗教</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/5679 target=_top>科教·文娱·体健</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1772 target=_top>军事</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/2191 target=_top>劳工</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1752 target=_top>环境</a>
-</li>
-</ul>
-</div>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/5625.html target=_top>美中关系</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/8549.html target=_top>2022年终报道</a>
-</li>
-<li class=" item">
-<span class=handler>热点专题</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5625.html target=_top>美中关系</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/3874 target=_top>年终报道</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/UkraineCrisis target=_top>乌克兰局势</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/6107.html target=_top>国会报道</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/PressFreedom target=_top>新闻自由</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/7646.html target=_top>新冠病毒疫情</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/6097.html target=_top>台海两岸关系</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5626.html target=_top>南中国海争端</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/Refugees target=_top>难民问题</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/5966.html target=_top>朝鲜半岛局势</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/2393 target=_top>新疆西藏问题</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/p/6138.html target=_top>美国之音专访</a>
-</li>
-</ul>
-</div>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/Factcheck target=_top>揭谎频道</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/3854.html target=_top>VOA卫视</a>
-</li>
-<li class=" item">
-<span class=handler>音频</span>
-<div class=inner>
-<ul class=subitems>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/3637 target=_top>时事大家谈</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/1738 target=_top>新闻及采访音频</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/3514 target=_top>学英语音频</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/2370 target=_top>下午5-6点广播(英语教学)</a>
-</li>
-<li class=subitem>
-<a class=handler href=https://www.voachinese.com/z/2372 target=_top>晚上6-7点广播(时事经纬)</a>
-</li>
-</ul>
-</div>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/4889.html target=_top>上网办法</a>
-</li>
-<li class=" item">
-<a class=handler href=https://www.voachinese.com/p/program-schedule.html target=_top>节目表</a>
-</li>
-<li class="last-menu-item item">
-<a class=handler href=https://www.voachinese.com/live/video/ target=_top>直播</a>
-</li>
-</ul>
-</div>
-</div>
-</amp-sidebar>
 
-</body></html>
+  <section class="ymw-contxt">
+   
+    <aside class="ymw-contxt-aside">
+      <h1>热门：假如马斯克当上总统，他会做什么？</h1>
+      <span>时间：2022-10-30 09:44:23 来源：互联狗</span>
+   
+    </aside>
+    <article>
+<div><div class="adver_3"><script type="text/javascript" src="//user.042.cn/adver/adver.js"></script><script type="text/javascript">getAdvert('.adver_3',2,'','80px');</script></div></div>
+      <p>推特退市，马斯克全权掌控，这意味着他能够借助这个世界上最出名的社交平台之一，更好地发出自己的声音，去影响上亿乃至数十亿人的想法。凭借埃隆马斯克的个人魅力，他将会收获更多的铁杆粉丝。  </p><p style="text-align: center"><img style="display:block;margin:auto;" width="450" src="http://img.henan.wang/2022/0610/20220610021132558.jpg" /></br>(相关资料图)</p><p>如此一来，很多人又要提起那个讨论了好几年的问题：马斯克会去竞选总统吗？  </p><p><strong>没有多少人相信马斯克会任选总统   </strong></p><p>虽然很多人在讨论马斯克是否会去竞选总统，但真正相信马斯克能当上总统的人估计也没几个。马斯克的思维和行动模式，有着想一出是一出的洒脱任性。并且，他体内似乎有无穷无尽的情绪和能量，他又不能很好地控制他们。  </p><p>而总统，注定是一个需要理性的职位，马斯克这样的人，你让他做所谓的意见领袖还可以，真要他在那个位置上干事，恐怕过不了多久，整个社会就要鸡飞狗跳。  </p><p><strong>如果马斯克真的当上总统，他会做什么   </strong></p><p>虽然是个小概率事件，但这不妨碍咱们去发挥一下想象力：假如真的有这种可能，马斯克会做什么呢？  </p><p>笔者认为，他会做的事情很多，而我们能预测到的，就是他一直以来坚持去做的那些事。比如说对于科技的追求，马斯克热衷于新能源，脑机借口，机器人，航天这样的，能够给社会带来变革力量的科技。  </p><p>马斯克上台的第一件事，很有可能就是继续大力发展科技。由此，他可能会放弃一些针对我们的限制措施，来集中资源去做自己感兴趣的领域。当然了，他对太空的追求，有可能会使得他大力投资SpaceX 和NASA，美的太空霸权有可能会持续更久。  </p><p>在社会管理方面，马斯克或许会更开放，更宽容。因为他本人就是一个没有什么拘束，又非常敢说话的人。就好像他曾说过的要让人们不被推特的规则限制一样，马斯克有可能会让社交平台成为一个大杂烩。  </p><p>除此之外，马斯克的精力是非常旺盛的，但他可能会将目光放到更多其他的领域，而疏于管理系统。这可能会导致原本和谐运转的机构出现混乱，不利于社会运转。  </p><p>说白了就是有些格格不入。  </p><p><strong>或许马斯克当火星总统更合适   </strong></p><p>其实我们会发现，马斯克并不适合竞选总统，这只是我们的一厢情愿。如果马斯克真的有意愿的话，笔者认为火星总统可能更适合他。  </p><p>这不是开玩笑，太空移民是马斯克的梦想，为此他建立特斯拉努力赚钱，投资太阳能，发展航天技术和脑机接口，这一切的一切，其实都是在为移民火星而准备。他计划在火星上打造一个新文明，一个新世界。  </p><p>如果马斯克真的能够实现他的梦想，那么在那一天天地里，他决定有资格出任“管理人”。老实说，地面的总统并不适合马斯克，而且退一万步，他也不可能出任，因为当地法律早已规定，不是在美出生，就没有资格。  </p>    </article>
+	<div class="page_button">
+		</div>
+  
+</section>
+<div class="ad_class">
+<script type="text/javascript" src="http://news.dizo.com.cn/wap_static/ads/ads_gg.js"></script>
+</div>
+  <section class="ymw-rel-list">
+    <h4 class="ymw-title-lev2">
+      <span>推荐内容</span>
+    </h4>
+    <ul class="ymw-list-tp1 slLis wrap">
+            <li class="mm_b"><img src="http://img.henan.wang/2022/0610/20220610021132558.jpg" alt="热门：假如马斯克当上总统，他会做什么？">
+      <h5 class="yu-danger">热门：假如马斯克当上总统，他会做什么？</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3059009.html"  title="热门：假如马斯克当上总统，他会做什么？"></a> </li>
+       
+        <li class="mm_b"><img src="http://baiduimg.baiduer.com.cn/2022/0610/20220610012923174.jpg" alt="美的集团副总裁张小懿履历漂亮 年薪高达581万比王金亮等高多了">
+      <h5 class="yu-danger">美的集团副总裁张小懿履历漂亮 年薪高达581万比王金亮等高多了</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3059008.html"  title="美的集团副总裁张小懿履历漂亮 年薪高达581万比王金亮等高多了"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.inpai.com.cn/2022/0923/20220923110344775.jpg" alt="天天即时看！史带财险董秘李婷婷此前是律师 现还任集团亚太区法务总监">
+      <h5 class="yu-danger">天天即时看！史带财险董秘李婷婷此前是律师 现还任集团亚太区法务总监</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221030/3059007.html"  title="天天即时看！史带财险董秘李婷婷此前是律师 现还任集团亚太区法务总监"></a> </li>
+       
+        <li class="mm_b"><img src="http://adminimg.szweitang.cn/2022/0923/20220923095312188.jpg" alt="每日焦点！阳光人寿总经理助理赵宇平一直干精算 业务能力很强">
+      <h5 class="yu-danger">每日焦点！阳光人寿总经理助理赵宇平一直干精算 业务能力很强</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221030/3059006.html"  title="每日焦点！阳光人寿总经理助理赵宇平一直干精算 业务能力很强"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.c33v.cn/2022/0610/20220610015228980.jpg" alt="【环球报资讯】中国移动近期高层干部变动：含甘肃移动、西藏移动副总调整">
+      <h5 class="yu-danger">【环球报资讯】中国移动近期高层干部变动：含甘肃移动、西藏移动副总调整</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221030/3059005.html"  title="【环球报资讯】中国移动近期高层干部变动：含甘肃移动、西藏移动副总调整"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.9774.com.cn/2022/0923/20220923111756538.jpg" alt="【全球时快讯】招商蛇口江南区域总经理张涛不断提拔  曾在公司总经理蒋铁峰手下">
+      <h5 class="yu-danger">【全球时快讯】招商蛇口江南区域总经理张涛不断提拔  曾在公司总经理蒋铁峰手下</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221030/3059004.html"  title="【全球时快讯】招商蛇口江南区域总经理张涛不断提拔  曾在公司总经理蒋铁峰手下"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.dzwindows.com/2022/0610/20220610113247348.jpg" alt="焦点资讯：腾势总经理赵长江为腾势D9营销很费心 甚至拿股东的豪车品牌作比较">
+      <h5 class="yu-danger">焦点资讯：腾势总经理赵长江为腾势D9营销很费心 甚至拿股东的豪车品牌作比较</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221030/3059003.html"  title="焦点资讯：腾势总经理赵长江为腾势D9营销很费心 甚至拿股东的豪车品牌作比较"></a> </li>
+       
+        <li class="mm_b"><img src="http://adminimg.szweitang.cn/2022/0923/20220923095312188.jpg" alt="云米发布AI：Helpful 2.0，创新引领行业，让全屋智能有用好用">
+      <h5 class="yu-danger">云米发布AI：Helpful 2.0，创新引领行业，让全屋智能有用好用</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3059002.html"  title="云米发布AI：Helpful 2.0，创新引领行业，让全屋智能有用好用"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0610/20220610014802260.jpg" alt="天天新资讯：抖音号运营全流程！">
+      <h5 class="yu-danger">天天新资讯：抖音号运营全流程！</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3059001.html"  title="天天新资讯：抖音号运营全流程！"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0923/20220923111016331.jpg" alt="环球热消息：聊一款质感不错的薄型游戏本">
+      <h5 class="yu-danger">环球热消息：聊一款质感不错的薄型游戏本</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3059000.html"  title="环球热消息：聊一款质感不错的薄型游戏本"></a> </li>
+       
+        <li class="mm_b"><img src="http://yazhou.964.cn/www/uploadfile/2022/0610/20220610102409399.jpg" alt="国产手机市场诞生“新爆款”，人气突破1个亿，仅售1699元起">
+      <h5 class="yu-danger">国产手机市场诞生“新爆款”，人气突破1个亿，仅售1699元起</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058999.html"  title="国产手机市场诞生“新爆款”，人气突破1个亿，仅售1699元起"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.lygmedia.com/uploadfile/2022/0923/20220923104011293.jpg" alt="环球新动态：快闪活动爆满！周末打卡一加Pop-up，原神手机太吸粉了">
+      <h5 class="yu-danger">环球新动态：快闪活动爆满！周末打卡一加Pop-up，原神手机太吸粉了</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058998.html"  title="环球新动态：快闪活动爆满！周末打卡一加Pop-up，原神手机太吸粉了"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.lygmedia.com/uploadfile/2022/0923/20220923103939213.jpg" alt="用AI发帖意外爆火，点赞量几十倍还涨了粉，剑桥学霸自曝制作过程">
+      <h5 class="yu-danger">用AI发帖意外爆火，点赞量几十倍还涨了粉，剑桥学霸自曝制作过程</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058997.html"  title="用AI发帖意外爆火，点赞量几十倍还涨了粉，剑桥学霸自曝制作过程"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.tiantaivideo.com/2022/0610/20220610111446607.jpg" alt="今日热搜：AI鉴定出17种潜力型新金属，可用于研发强化航天器和潜艇等">
+      <h5 class="yu-danger">今日热搜：AI鉴定出17种潜力型新金属，可用于研发强化航天器和潜艇等</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058996.html"  title="今日热搜：AI鉴定出17种潜力型新金属，可用于研发强化航天器和潜艇等"></a> </li>
+       
+        <li class="mm_b"><img src="http://imgnews.ruanwen.com.cn/2022/0610/20220610111050641.jpg" alt="焦点简讯:大促销来临 罗技GPW狗屁王旗舰鼠标449元">
+      <h5 class="yu-danger">焦点简讯:大促销来临 罗技GPW狗屁王旗舰鼠标449元</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058995.html"  title="焦点简讯:大促销来临 罗技GPW狗屁王旗舰鼠标449元"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0923/20220923105447241.jpg" alt="降价：256GB只卖1299元，这千元机有点香">
+      <h5 class="yu-danger">降价：256GB只卖1299元，这千元机有点香</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058994.html"  title="降价：256GB只卖1299元，这千元机有点香"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.9774.com.cn/2022/0923/20220923111824165.jpg" alt="爱仕达副总高华明去年薪酬高达147.2万元 比其他副总都多">
+      <h5 class="yu-danger">爱仕达副总高华明去年薪酬高达147.2万元 比其他副总都多</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058993.html"  title="爱仕达副总高华明去年薪酬高达147.2万元 比其他副总都多"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104641571.jpg" alt="【环球速看料】荣耀X40 GT还是红米Note 12 Pro系列？网友的总结亮了">
+      <h5 class="yu-danger">【环球速看料】荣耀X40 GT还是红米Note 12 Pro系列？网友的总结亮了</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058992.html"  title="【环球速看料】荣耀X40 GT还是红米Note 12 Pro系列？网友的总结亮了"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.9774.com.cn/2022/0923/20220923111824165.jpg" alt="世界实时：真正懂玩家，全大核+165Hz高刷，暗影精灵8PRO演绎新一代游戏本">
+      <h5 class="yu-danger">世界实时：真正懂玩家，全大核+165Hz高刷，暗影精灵8PRO演绎新一代游戏本</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058991.html"  title="世界实时：真正懂玩家，全大核+165Hz高刷，暗影精灵8PRO演绎新一代游戏本"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0610/20220610012348753.jpg" alt="每日报道：最大的蜈蚣能有多长？30.5厘米的蜈蚣，每年能吃3700只海鸟">
+      <h5 class="yu-danger">每日报道：最大的蜈蚣能有多长？30.5厘米的蜈蚣，每年能吃3700只海鸟</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058990.html"  title="每日报道：最大的蜈蚣能有多长？30.5厘米的蜈蚣，每年能吃3700只海鸟"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kjw.cc/2022/0923/20220923103253964.jpg" alt="环球热讯:官翻机是个好生意，但只有苹果做出了知名度">
+      <h5 class="yu-danger">环球热讯:官翻机是个好生意，但只有苹果做出了知名度</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058989.html"  title="环球热讯:官翻机是个好生意，但只有苹果做出了知名度"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104652766.jpg" alt="全球观点：人气拉满！一加Ace Pro原神限定版线下快闪活动，还有额外周边送">
+      <h5 class="yu-danger">全球观点：人气拉满！一加Ace Pro原神限定版线下快闪活动，还有额外周边送</h5 >
+      <p>
+        <time>2022-10-30</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221030/3058988.html"  title="全球观点：人气拉满！一加Ace Pro原神限定版线下快闪活动，还有额外周边送"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0923/20220923110939446.jpg" alt="世界关注：英特尔发布Arc显卡驱动程序31.0.101.3793：为多款新游戏提供支持">
+      <h5 class="yu-danger">世界关注：英特尔发布Arc显卡驱动程序31.0.101.3793：为多款新游戏提供支持</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958987.html"  title="世界关注：英特尔发布Arc显卡驱动程序31.0.101.3793：为多款新游戏提供支持"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.bfce.cn/2022/0610/20220610015935603.jpg" alt="当前快报:《2022年中国电器服务市场报告》：服务既能省心更能省钱">
+      <h5 class="yu-danger">当前快报:《2022年中国电器服务市场报告》：服务既能省心更能省钱</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958986.html"  title="当前快报:《2022年中国电器服务市场报告》：服务既能省心更能省钱"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.dcgqt.com/2022/0610/20220610013459914.jpg" alt="环球热头条丨总算创新了，苹果Phone15系列或迎来近几年来最大的创新">
+      <h5 class="yu-danger">环球热头条丨总算创新了，苹果Phone15系列或迎来近几年来最大的创新</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958985.html"  title="环球热头条丨总算创新了，苹果Phone15系列或迎来近几年来最大的创新"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kaijiage.com/2022/0610/20220610024802976.jpg" alt="【全球独家】苹果也疯狂 64GB iPad 2099元">
+      <h5 class="yu-danger">【全球独家】苹果也疯狂 64GB iPad 2099元</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958984.html"  title="【全球独家】苹果也疯狂 64GB iPad 2099元"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104641571.jpg" alt="埃隆马斯克收购推特交易完成：从纽交所退市，三名高管被炒">
+      <h5 class="yu-danger">埃隆马斯克收购推特交易完成：从纽交所退市，三名高管被炒</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958983.html"  title="埃隆马斯克收购推特交易完成：从纽交所退市，三名高管被炒"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.lygmedia.com/uploadfile/2022/0923/20220923103853871.jpg" alt="天天微头条丨原来沙盘模型还有这些类型！四川中汇创佳模型带你深入了解">
+      <h5 class="yu-danger">天天微头条丨原来沙盘模型还有这些类型！四川中汇创佳模型带你深入了解</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958982.html"  title="天天微头条丨原来沙盘模型还有这些类型！四川中汇创佳模型带你深入了解"></a> </li>
+       
+        <li class="mm_b"><img src="http://adminimg.szweitang.cn/2022/0923/20220923095231181.jpg" alt="环球快播：多模无线游戏机械键盘，性价比首选，雷柏V700-8A机械键盘评测">
+      <h5 class="yu-danger">环球快播：多模无线游戏机械键盘，性价比首选，雷柏V700-8A机械键盘评测</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958981.html"  title="环球快播：多模无线游戏机械键盘，性价比首选，雷柏V700-8A机械键盘评测"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.tiantaivideo.com/2022/0610/20220610111646542.jpg" alt="马化腾、张小龙的产品观">
+      <h5 class="yu-danger">马化腾、张小龙的产品观</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958980.html"  title="马化腾、张小龙的产品观"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0923/20220923105528627.jpg" alt="每日看点!双头设计、全科辅导，作业帮学习笔二代确实比单头词典笔好用">
+      <h5 class="yu-danger">每日看点!双头设计、全科辅导，作业帮学习笔二代确实比单头词典笔好用</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958979.html"  title="每日看点!双头设计、全科辅导，作业帮学习笔二代确实比单头词典笔好用"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0610/20220610014802260.jpg" alt="冷冬预警来了？世界最大美国活火山或将喷发！分析：拉尼娜是关键">
+      <h5 class="yu-danger">冷冬预警来了？世界最大美国活火山或将喷发！分析：拉尼娜是关键</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958978.html"  title="冷冬预警来了？世界最大美国活火山或将喷发！分析：拉尼娜是关键"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.henan.wang/2022/0610/20220610021104444.jpg" alt="全球微动态丨红魔MiniLED电竞显示器开售，搭载毫米波投屏+90W反向USB-C快充">
+      <h5 class="yu-danger">全球微动态丨红魔MiniLED电竞显示器开售，搭载毫米波投屏+90W反向USB-C快充</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958977.html"  title="全球微动态丨红魔MiniLED电竞显示器开售，搭载毫米波投屏+90W反向USB-C快充"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.9774.com.cn/2022/0923/20220923111824165.jpg" alt="当前关注：清理一次=拖地两次！石头A10 Plus洗地机的清洁力为什么这么强？">
+      <h5 class="yu-danger">当前关注：清理一次=拖地两次！石头A10 Plus洗地机的清洁力为什么这么强？</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958976.html"  title="当前关注：清理一次=拖地两次！石头A10 Plus洗地机的清洁力为什么这么强？"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0610/20220610012244670.jpg" alt="【当前独家】中固维科（成都）告诉你，怎样判断步进电机驱动器的好坏">
+      <h5 class="yu-danger">【当前独家】中固维科（成都）告诉你，怎样判断步进电机驱动器的好坏</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958975.html"  title="【当前独家】中固维科（成都）告诉你，怎样判断步进电机驱动器的好坏"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104608741.jpg" alt="环球精选！开封电信总经理刘盛已上任两年多 前任当的时间挺长">
+      <h5 class="yu-danger">环球精选！开封电信总经理刘盛已上任两年多 前任当的时间挺长</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958974.html"  title="环球精选！开封电信总经理刘盛已上任两年多 前任当的时间挺长"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kjw.cc/2022/0923/20220923103230205.jpg" alt="今日要闻!行业前沿 | 元宇宙赔掉底裤？小扎用13个月「烧完」50个白宫">
+      <h5 class="yu-danger">今日要闻!行业前沿 | 元宇宙赔掉底裤？小扎用13个月「烧完」50个白宫</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958973.html"  title="今日要闻!行业前沿 | 元宇宙赔掉底裤？小扎用13个月「烧完」50个白宫"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kjw.cc/2022/0923/20220923103336253.jpg" alt="BOE（京东方）科技赋能景德镇 为智慧文旅园区注入新引擎新活力">
+      <h5 class="yu-danger">BOE（京东方）科技赋能景德镇 为智慧文旅园区注入新引擎新活力</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958972.html"  title="BOE（京东方）科技赋能景德镇 为智慧文旅园区注入新引擎新活力"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104557680.jpg" alt="东芝P300 2TB 7200转机械硬盘用作 iMac 外置存储扩展体验">
+      <h5 class="yu-danger">东芝P300 2TB 7200转机械硬盘用作 iMac 外置存储扩展体验</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958971.html"  title="东芝P300 2TB 7200转机械硬盘用作 iMac 外置存储扩展体验"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0923/20220923105447241.jpg" alt="天天日报丨小米室外摄像机评测：无论日晒雨淋都能给我24小时专业安防">
+      <h5 class="yu-danger">天天日报丨小米室外摄像机评测：无论日晒雨淋都能给我24小时专业安防</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958970.html"  title="天天日报丨小米室外摄像机评测：无论日晒雨淋都能给我24小时专业安防"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.cjcn.com/uploadfile/2022/0610/20220610020212966.jpg" alt="环球快讯:这届程序员们，为什么都热衷做公益？">
+      <h5 class="yu-danger">环球快讯:这届程序员们，为什么都热衷做公益？</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958969.html"  title="环球快讯:这届程序员们，为什么都热衷做公益？"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104608741.jpg" alt="聚焦：【纯分享】拼多多领券攻略">
+      <h5 class="yu-danger">聚焦：【纯分享】拼多多领券攻略</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958968.html"  title="聚焦：【纯分享】拼多多领券攻略"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.henan.wang/2022/0610/20220610021043336.jpg" alt="双十一大促预热已打响，倍思快充团购活动一览">
+      <h5 class="yu-danger">双十一大促预热已打响，倍思快充团购活动一览</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958967.html"  title="双十一大促预热已打响，倍思快充团购活动一览"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.bfce.cn/2022/0610/20220610020050418.jpg" alt="独家：传中国电信旗下天翼云要分拆上市 估值能达几千亿？">
+      <h5 class="yu-danger">独家：传中国电信旗下天翼云要分拆上市 估值能达几千亿？</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958966.html"  title="独家：传中国电信旗下天翼云要分拆上市 估值能达几千亿？"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.dzwindows.com/2022/0610/20220610113230722.jpg" alt="今日份双十一好物清单（内附千元神券）YOGA 7000投影仪劲省399">
+      <h5 class="yu-danger">今日份双十一好物清单（内附千元神券）YOGA 7000投影仪劲省399</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958965.html"  title="今日份双十一好物清单（内附千元神券）YOGA 7000投影仪劲省399"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.cnmyjj.cn/uploadfile/2022/0610/20220610113604867.jpg" alt="互联网应用软件衰落记：属于超级APP的时代过去了？">
+      <h5 class="yu-danger">互联网应用软件衰落记：属于超级APP的时代过去了？</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958964.html"  title="互联网应用软件衰落记：属于超级APP的时代过去了？"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0610/20220610012319342.jpg" alt="乔思伯D500机箱亮相：支持E-ATX主板，双420水冷安装位，电源可顶或底置">
+      <h5 class="yu-danger">乔思伯D500机箱亮相：支持E-ATX主板，双420水冷安装位，电源可顶或底置</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958963.html"  title="乔思伯D500机箱亮相：支持E-ATX主板，双420水冷安装位，电源可顶或底置"></a> </li>
+       
+        <li class="mm_b"><img src="http://yazhou.964.cn/www/uploadfile/2022/0610/20220610102459967.jpg" alt="【世界速看料】华硕首个AI示范工厂已启用：高效、集成且智能，可能会改变制造业">
+      <h5 class="yu-danger">【世界速看料】华硕首个AI示范工厂已启用：高效、集成且智能，可能会改变制造业</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958962.html"  title="【世界速看料】华硕首个AI示范工厂已启用：高效、集成且智能，可能会改变制造业"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.inpai.com.cn/2022/0923/20220923110333789.jpg" alt="【报资讯】推荐一款现在值得入手的高价比手机，各方面配置都很强劲">
+      <h5 class="yu-danger">【报资讯】推荐一款现在值得入手的高价比手机，各方面配置都很强劲</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958961.html"  title="【报资讯】推荐一款现在值得入手的高价比手机，各方面配置都很强劲"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kjw.cc/2022/0923/20220923103253964.jpg" alt="天天快报!米家眼镜相机，去改变，去发现另一个视角的世界">
+      <h5 class="yu-danger">天天快报!米家眼镜相机，去改变，去发现另一个视角的世界</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958960.html"  title="天天快报!米家眼镜相机，去改变，去发现另一个视角的世界"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.dcgqt.com/2022/0610/20220610013247930.jpg" alt="全球关注：双无线充+双有线充，今翔推出多功能桌面磁吸充电器">
+      <h5 class="yu-danger">全球关注：双无线充+双有线充，今翔推出多功能桌面磁吸充电器</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958959.html"  title="全球关注：双无线充+双有线充，今翔推出多功能桌面磁吸充电器"></a> </li>
+       
+        <li class="mm_b"><img src="http://imgs.hnmdtv.com/2022/0610/20220610024336741.jpg" alt="环球今日报丨送打印机送卡 佳能EOS R6只要13999元">
+      <h5 class="yu-danger">环球今日报丨送打印机送卡 佳能EOS R6只要13999元</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958958.html"  title="环球今日报丨送打印机送卡 佳能EOS R6只要13999元"></a> </li>
+       
+        <li class="mm_b"><img src="http://hnimg.zgyouth.cc/2022/0610/20220610114939904.jpg" alt="今日热讯：千方科技韩婧会计出身已当6年副总 年度薪酬82.77万还有不少股票">
+      <h5 class="yu-danger">今日热讯：千方科技韩婧会计出身已当6年副总 年度薪酬82.77万还有不少股票</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958957.html"  title="今日热讯：千方科技韩婧会计出身已当6年副总 年度薪酬82.77万还有不少股票"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kjw.cc/2022/0923/20220923103253964.jpg" alt="焦点！今日消息 我国成功布设“海底实验站”，将实现深海长周期无人科考">
+      <h5 class="yu-danger">焦点！今日消息 我国成功布设“海底实验站”，将实现深海长周期无人科考</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/nm/20221029/2958956.html"  title="焦点！今日消息 我国成功布设“海底实验站”，将实现深海长周期无人科考"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kjw.cc/2022/0923/20220923103413888.jpg" alt="世界最资讯丨农村市场拓展很重要 中国电信竟还有一家公司发展进度慢？有何内因">
+      <h5 class="yu-danger">世界最资讯丨农村市场拓展很重要 中国电信竟还有一家公司发展进度慢？有何内因</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958955.html"  title="世界最资讯丨农村市场拓展很重要 中国电信竟还有一家公司发展进度慢？有何内因"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.dzwindows.com/2022/0610/20220610113247348.jpg" alt="每日热闻!爱仕达副总高华明去年薪酬高达147.2万元 比其他副总都多">
+      <h5 class="yu-danger">每日热闻!爱仕达副总高华明去年薪酬高达147.2万元 比其他副总都多</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958954.html"  title="每日热闻!爱仕达副总高华明去年薪酬高达147.2万元 比其他副总都多"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0923/20220923110912522.jpg" alt="动态：旅行必备 公牛迷你两极插座仅售21元">
+      <h5 class="yu-danger">动态：旅行必备 公牛迷你两极插座仅售21元</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958953.html"  title="动态：旅行必备 公牛迷你两极插座仅售21元"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kaijiage.com/2022/0610/20220610024838983.jpg" alt="【当前独家】穿梭30周年时光之旅，小红点再进化，ThinkPad Z13/Z16正式发布">
+      <h5 class="yu-danger">【当前独家】穿梭30周年时光之旅，小红点再进化，ThinkPad Z13/Z16正式发布</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958952.html"  title="【当前独家】穿梭30周年时光之旅，小红点再进化，ThinkPad Z13/Z16正式发布"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.cqtimes.cn/2022/0610/20220610114143690.jpg" alt="每日速读!暴风雨之前，CEO、CFO们都开溜了">
+      <h5 class="yu-danger">每日速读!暴风雨之前，CEO、CFO们都开溜了</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958951.html"  title="每日速读!暴风雨之前，CEO、CFO们都开溜了"></a> </li>
+       
+        <li class="mm_b"><img src="http://adminimg.szweitang.cn/2022/0923/20220923095300418.jpg" alt="首发骁龙8 Gen 2猛攻性价比 moto X40详细配置曝光">
+      <h5 class="yu-danger">首发骁龙8 Gen 2猛攻性价比 moto X40详细配置曝光</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958950.html"  title="首发骁龙8 Gen 2猛攻性价比 moto X40详细配置曝光"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.rexun.cn/2022/0610/20220610100834173.jpg" alt="热文：AI预测LOL冠军、押题高考作文——这位“AI区up主”属实是把人工智能玩明白了">
+      <h5 class="yu-danger">热文：AI预测LOL冠军、押题高考作文——这位“AI区up主”属实是把人工智能玩明白了</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958949.html"  title="热文：AI预测LOL冠军、押题高考作文——这位“AI区up主”属实是把人工智能玩明白了"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104618738.jpg" alt="全球热议:浙江联通客服部总经理钟志强从信息安全部平调 他是IT技术出身">
+      <h5 class="yu-danger">全球热议:浙江联通客服部总经理钟志强从信息安全部平调 他是IT技术出身</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958948.html"  title="全球热议:浙江联通客服部总经理钟志强从信息安全部平调 他是IT技术出身"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.tiantaivideo.com/2022/0610/20220610111552670.jpg" alt="焦点精选！有方科技财务总监李银耿0元增股11.47万后 被通报批评又收警示函">
+      <h5 class="yu-danger">焦点精选！有方科技财务总监李银耿0元增股11.47万后 被通报批评又收警示函</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958947.html"  title="焦点精选！有方科技财务总监李银耿0元增股11.47万后 被通报批评又收警示函"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.rexun.cn/2022/0610/20220610100600952.jpg" alt="环球即时：尘埃落定：马斯克440亿美元入主推特，原CEO、CFO已被开">
+      <h5 class="yu-danger">环球即时：尘埃落定：马斯克440亿美元入主推特，原CEO、CFO已被开</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958946.html"  title="环球即时：尘埃落定：马斯克440亿美元入主推特，原CEO、CFO已被开"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kaijiage.com/2022/0610/20220610024802976.jpg" alt="焦点！BFe10-1-1（UNSC70600）铁白铜化学成分">
+      <h5 class="yu-danger">焦点！BFe10-1-1（UNSC70600）铁白铜化学成分</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958945.html"  title="焦点！BFe10-1-1（UNSC70600）铁白铜化学成分"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0923/20220923111103643.jpg" alt="焦点！飞利浦279M1RVE大促：NANO IPS材质，高刷高素质屏">
+      <h5 class="yu-danger">焦点！飞利浦279M1RVE大促：NANO IPS材质，高刷高素质屏</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958944.html"  title="焦点！飞利浦279M1RVE大促：NANO IPS材质，高刷高素质屏"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.viltd.com/uploadfile/2022/0610/20220610102535435.jpg" alt="全球热讯:GH2132高温合金锻造GH2132性能">
+      <h5 class="yu-danger">全球热讯:GH2132高温合金锻造GH2132性能</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958943.html"  title="全球热讯:GH2132高温合金锻造GH2132性能"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.viltd.com/uploadfile/2022/0610/20220610102535435.jpg" alt="当前速讯：火爆全网的泰山众筹 到底是个怎样的玩法 消费返利如何做到？">
+      <h5 class="yu-danger">当前速讯：火爆全网的泰山众筹 到底是个怎样的玩法 消费返利如何做到？</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958942.html"  title="当前速讯：火爆全网的泰山众筹 到底是个怎样的玩法 消费返利如何做到？"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.cnmyjj.cn/uploadfile/2022/0610/20220610113604867.jpg" alt="当前热文：监控为什么没回放，监控不能回放怎么办">
+      <h5 class="yu-danger">当前热文：监控为什么没回放，监控不能回放怎么办</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958941.html"  title="当前热文：监控为什么没回放，监控不能回放怎么办"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.rexun.cn/2022/0610/20220610100600952.jpg" alt="双边柱是什么意思，双边开仓是什么意思">
+      <h5 class="yu-danger">双边柱是什么意思，双边开仓是什么意思</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958940.html"  title="双边柱是什么意思，双边开仓是什么意思"></a> </li>
+       
+        <li class="mm_b"><img src="http://imgnews.ruanwen.com.cn/2022/0610/20220610111157274.jpg" alt="天天最新：小厂使用监控 大华dvr 什么系列，大华DHHCVR4104HSV3是NVR还是DVR">
+      <h5 class="yu-danger">天天最新：小厂使用监控 大华dvr 什么系列，大华DHHCVR4104HSV3是NVR还是DVR</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958939.html"  title="天天最新：小厂使用监控 大华dvr 什么系列，大华DHHCVR4104HSV3是NVR还是DVR"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0923/20220923105447241.jpg" alt="治安卡口查什么，路上的治安卡口查超载吗">
+      <h5 class="yu-danger">治安卡口查什么，路上的治安卡口查超载吗</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958938.html"  title="治安卡口查什么，路上的治安卡口查超载吗"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0923/20220923111041355.jpg" alt="天天视讯！什么品牌的汽车锁好，汽车锁哪一个品牌好">
+      <h5 class="yu-danger">天天视讯！什么品牌的汽车锁好，汽车锁哪一个品牌好</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958937.html"  title="天天视讯！什么品牌的汽车锁好，汽车锁哪一个品牌好"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.lygmedia.com/uploadfile/2022/0923/20220923104001836.jpg" alt="美的集团副总裁张小懿履历漂亮 年薪高达581万比王金亮等高多了">
+      <h5 class="yu-danger">美的集团副总裁张小懿履历漂亮 年薪高达581万比王金亮等高多了</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958936.html"  title="美的集团副总裁张小懿履历漂亮 年薪高达581万比王金亮等高多了"></a> </li>
+       
+        <li class="mm_b"><img src="http://hnimg.zgyouth.cc/2022/0610/20220610115050980.jpg" alt="当前聚焦：海尔资本董事总经理张嘉诚曾在3个投资公司工作过  说话挺实在">
+      <h5 class="yu-danger">当前聚焦：海尔资本董事总经理张嘉诚曾在3个投资公司工作过  说话挺实在</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958935.html"  title="当前聚焦：海尔资本董事总经理张嘉诚曾在3个投资公司工作过  说话挺实在"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0923/20220923105344745.jpg" alt="新希望地产武汉公司总经理张颖聪提拔早 上任时39岁今年仅41岁">
+      <h5 class="yu-danger">新希望地产武汉公司总经理张颖聪提拔早 上任时39岁今年仅41岁</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958934.html"  title="新希望地产武汉公司总经理张颖聪提拔早 上任时39岁今年仅41岁"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.dzwindows.com/2022/0610/20220610113213263.jpg" alt="万和电气CFO李越是兰州大学管理学硕士研究生？描述准确吗？">
+      <h5 class="yu-danger">万和电气CFO李越是兰州大学管理学硕士研究生？描述准确吗？</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958933.html"  title="万和电气CFO李越是兰州大学管理学硕士研究生？描述准确吗？"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.inpai.com.cn/2022/0923/20220923110411602.jpg" alt="环球短讯！开封电信总经理刘盛已上任两年多 前任当的时间挺长">
+      <h5 class="yu-danger">环球短讯！开封电信总经理刘盛已上任两年多 前任当的时间挺长</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958932.html"  title="环球短讯！开封电信总经理刘盛已上任两年多 前任当的时间挺长"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.9774.com.cn/2022/0923/20220923111756538.jpg" alt="《猎人海力布》的整理者到底是谁？">
+      <h5 class="yu-danger">《猎人海力布》的整理者到底是谁？</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/jy/20221029/2958931.html"  title="《猎人海力布》的整理者到底是谁？"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.inpai.com.cn/2022/0923/20220923110323402.jpg" alt="天天新资讯：美的披露三季度业绩：净利84.74亿元 同比增长0.33%">
+      <h5 class="yu-danger">天天新资讯：美的披露三季度业绩：净利84.74亿元 同比增长0.33%</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958930.html"  title="天天新资讯：美的披露三季度业绩：净利84.74亿元 同比增长0.33%"></a> </li>
+       
+        <li class="mm_b"><img src="http://yazhou.964.cn/www/uploadfile/2022/0610/20220610102409399.jpg" alt="【世界播资讯】思科宣布进一步增强Webex 提供更具协作性和生产力的混合办公体验">
+      <h5 class="yu-danger">【世界播资讯】思科宣布进一步增强Webex 提供更具协作性和生产力的混合办公体验</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958929.html"  title="【世界播资讯】思科宣布进一步增强Webex 提供更具协作性和生产力的混合办公体验"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104557680.jpg" alt="天天关注：声网发布“RTE万象图谱”：元宇宙成今年TOP1的热门场景 | 甲子发现">
+      <h5 class="yu-danger">天天关注：声网发布“RTE万象图谱”：元宇宙成今年TOP1的热门场景 | 甲子发现</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958928.html"  title="天天关注：声网发布“RTE万象图谱”：元宇宙成今年TOP1的热门场景 | 甲子发现"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0923/20220923111052351.jpg" alt="每日快看：英伟达悄悄发布新版RTX3060系列显卡，预计下月初大量出货">
+      <h5 class="yu-danger">每日快看：英伟达悄悄发布新版RTX3060系列显卡，预计下月初大量出货</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958927.html"  title="每日快看：英伟达悄悄发布新版RTX3060系列显卡，预计下月初大量出货"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.xhyb.net.cn/2022/0923/20220923104726824.jpg" alt="快递员后双十一又一职业火了 主播千元时薪仍招不到人">
+      <h5 class="yu-danger">快递员后双十一又一职业火了 主播千元时薪仍招不到人</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958926.html"  title="快递员后双十一又一职业火了 主播千元时薪仍招不到人"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.c33v.cn/2022/0610/20220610015245723.jpg" alt="功放输入接口L用什么颜色，音响中 lrg分别对应什么颜色的线">
+      <h5 class="yu-danger">功放输入接口L用什么颜色，音响中 lrg分别对应什么颜色的线</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958925.html"  title="功放输入接口L用什么颜色，音响中 lrg分别对应什么颜色的线"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.bfce.cn/2022/0610/20220610020050418.jpg" alt="环球微速讯：什么是电气火灾监控，电气火灾监控系统是什么">
+      <h5 class="yu-danger">环球微速讯：什么是电气火灾监控，电气火灾监控系统是什么</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958924.html"  title="环球微速讯：什么是电气火灾监控，电气火灾监控系统是什么"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0923/20220923110939446.jpg" alt="当前关注：有什么方法解决无误传输，电脑椅弹不起来有什么解决办法">
+      <h5 class="yu-danger">当前关注：有什么方法解决无误传输，电脑椅弹不起来有什么解决办法</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958923.html"  title="当前关注：有什么方法解决无误传输，电脑椅弹不起来有什么解决办法"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0923/20220923105356520.jpg" alt="独家：传中国电信旗下天翼云要分拆上市 估值能达几千亿？">
+      <h5 class="yu-danger">独家：传中国电信旗下天翼云要分拆上市 估值能达几千亿？</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958922.html"  title="独家：传中国电信旗下天翼云要分拆上市 估值能达几千亿？"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.inpai.com.cn/2022/0923/20220923110244704.jpg" alt="平安人寿贵州分公司总经理黄壮刚上任 是从南通分公司升任而来">
+      <h5 class="yu-danger">平安人寿贵州分公司总经理黄壮刚上任 是从南通分公司升任而来</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958921.html"  title="平安人寿贵州分公司总经理黄壮刚上任 是从南通分公司升任而来"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kaijiage.com/2022/0610/20220610024838983.jpg" alt="每日视讯：仁恒置地苏州公司总经理阮信坤真稳定入职30年  如今又回苏州任职">
+      <h5 class="yu-danger">每日视讯：仁恒置地苏州公司总经理阮信坤真稳定入职30年  如今又回苏州任职</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958920.html"  title="每日视讯：仁恒置地苏州公司总经理阮信坤真稳定入职30年  如今又回苏州任职"></a> </li>
+       
+        <li class="mm_b"><img src="http://adminimg.szweitang.cn/2022/0923/20220923095158396.jpg" alt="全球通讯！广汽传祺蹊跷针对经销商加价发声明 其实又没说具体怎么处理">
+      <h5 class="yu-danger">全球通讯！广汽传祺蹊跷针对经销商加价发声明 其实又没说具体怎么处理</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958919.html"  title="全球通讯！广汽传祺蹊跷针对经销商加价发声明 其实又没说具体怎么处理"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.dzwindows.com/2022/0610/20220610113247348.jpg" alt="千方科技韩婧会计出身已当6年副总 年度薪酬82.77万还有不少股票">
+      <h5 class="yu-danger">千方科技韩婧会计出身已当6年副总 年度薪酬82.77万还有不少股票</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/eptica/20221029/2958918.html"  title="千方科技韩婧会计出身已当6年副总 年度薪酬82.77万还有不少股票"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.inpai.com.cn/2022/0923/20220923110333789.jpg" alt="当前快播：药企数字化浪潮汹涌，隐秘大数据跑出新商用场景">
+      <h5 class="yu-danger">当前快播：药企数字化浪潮汹涌，隐秘大数据跑出新商用场景</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958917.html"  title="当前快播：药企数字化浪潮汹涌，隐秘大数据跑出新商用场景"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.cjcn.com/uploadfile/2022/0610/20220610020249816.jpg" alt="环球微动态丨乐歌升降台藏摄像头引争议，官方迅速回应">
+      <h5 class="yu-danger">环球微动态丨乐歌升降台藏摄像头引争议，官方迅速回应</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958916.html"  title="环球微动态丨乐歌升降台藏摄像头引争议，官方迅速回应"></a> </li>
+       
+        <li class="mm_b"><img src="http://imgnews.ruanwen.com.cn/2022/0610/20220610110728100.jpg" alt="今日热门!redmi诸多新品发布：入门级平板、86寸大电视">
+      <h5 class="yu-danger">今日热门!redmi诸多新品发布：入门级平板、86寸大电视</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958915.html"  title="今日热门!redmi诸多新品发布：入门级平板、86寸大电视"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.lygmedia.com/uploadfile/2022/0923/20220923104001836.jpg" alt="环球今日报丨《还是觉得你最好》弹道精准的破亿之路">
+      <h5 class="yu-danger">环球今日报丨《还是觉得你最好》弹道精准的破亿之路</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958914.html"  title="环球今日报丨《还是觉得你最好》弹道精准的破亿之路"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.kaijiage.com/2022/0610/20220610025523481.jpg" alt="TP-LINK全自动智能门锁569元">
+      <h5 class="yu-danger">TP-LINK全自动智能门锁569元</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/zhpd/20221029/2958913.html"  title="TP-LINK全自动智能门锁569元"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.dianxian.net/uploadfile2022/0610/20220610021935495.jpg" alt="热点评！什么是交换机有什么功能，交换机有什么作用">
+      <h5 class="yu-danger">热点评！什么是交换机有什么功能，交换机有什么作用</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958912.html"  title="热点评！什么是交换机有什么功能，交换机有什么作用"></a> </li>
+       
+        <li class="mm_b"><img src="http://img.haixiafeng.com.cn/2022/0923/20220923111016331.jpg" alt="焦点快播：医院三防建设是什么，帝国与文明武馆需要三防吗 哪些建筑需要三防">
+      <h5 class="yu-danger">焦点快播：医院三防建设是什么，帝国与文明武馆需要三防吗 哪些建筑需要三防</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958911.html"  title="焦点快播：医院三防建设是什么，帝国与文明武馆需要三防吗 哪些建筑需要三防"></a> </li>
+       
+        <li class="mm_b"><img src="http://www.jxyuging.com/uploadfile/2022/0610/20220610012319342.jpg" alt="世界快报:海康机子icr是什么意思，海康摄像头到了晚上ICR一直切换是怎么回事">
+      <h5 class="yu-danger">世界快报:海康机子icr是什么意思，海康摄像头到了晚上ICR一直切换是怎么回事</h5 >
+      <p>
+        <time>2022-10-29</time>
+      </p>
+      <a href="http://5g.dizo.com.cn/qa/20221029/2958910.html"  title="世界快报:海康机子icr是什么意思，海康摄像头到了晚上ICR一直切换是怎么回事"></a> </li>
+       
+        <div class="need_more">
+   <div id="xfeeds" style="font-size: 110.4px;"></div>
+</div>     
+  </ul> 
+  </section>
+ 
+
+  <footer class="ymw-footer">
+      迪族网  </footer>
+  <script src="http://news.dizo.com.cn/wap_static/js/swiper-3.3.1.jquery.min.js"></script>
+ <script type="text/javascript" charset="utf-8">
+    $(function() {
+        $(".ymw-contxt img").attr("width","100%");
+        $(".ymw-contxt img").parents("p").attr("style","text-indent:0em");
+    });
+  </script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>    
+<script charset="UTF-8" language="javascript" src="//data.dzxwnews.com/a.php"></script>
+<style>
+.news-pic {
+    display: flex;
+    margin-top: 10px;
+}
+.news-card .title {
+    font-weight: normal;
+    max-height: 45.4px;
+    overflow: hidden;
+    line-height: 19.2px;
+    font-size: 16px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    word-break: break-word;
+    color: #333 !important;
+}
+.card-type-three .news-pic img {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 33.1%;
+    -ms-flex: 0 0 33.1%;
+    flex: 0 0 33.1%;
+    display: block;
+    width: 30%;
+    height: 70px;
+    -o-object-fit: contain;
+    object-fit: contain;
+    font-size: 16px;
+}
+.news-card .detail {
+    color: #b4b4b4;
+    line-height: 20px;
+    height: 20px;
+    margin-top: 10px;
+    font-size: 0;
+    letter-spacing: 0;
+    overflow: hidden;
+}
+.news-card .detail span {
+    font-size: 8px;
+    margin-right: 10px;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.slLis .news-card {
+    border-bottom: 1px solid #e5e5e5;
+    padding: 13px 0 7px;
+}
+</style>
+<script type="text/javascript">
+$(function(){
+ $(".news-pic").each(function(){
+    if($(this).children('img').length == 1){
+      $(this).children('img').css({"height":"70px"});
+      $(this).prev().css({"width":"68%",'float':'left'});
+    }
+  });
+});
+</script>
+</body>
+</html>

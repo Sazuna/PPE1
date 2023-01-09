@@ -1,17 +1,881 @@
+<!DOCTYPE html>
+<html>
 
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta name="theme-color" content="#90080e" /><meta name="keywords" content="欧洲议会,欧盟,欧洲,政治,改革,欧尔,成员国,议员"/><meta name="description" content="与西方国家的议会一样，各种利益集团的游说是欧盟层面立法机构的“运行常态”，不仅企业、非政府组织通过所谓“政策网络”，以“讨论和合作”的方式接近和影响立法者，很多议员本身为了谋取政策影响力，乃至期待未来通过“旋转门”机制谋得企业高薪顾问职位，也热衷于接触各种游说者，布鲁塞尔种种隐秘的利益链条早已根深蒂固，彻底的改革会动了很多人的奶酪"/><meta property="og:title" content="董一凡：欧洲议会难有“刮骨疗毒”式改革"/><meta property="og:type" content="article"/><meta property="og:url" content="https://www.huanqiu.com/article/4B2JPjfMQ28"/><meta property="og:description" content="与西方国家的议会一样，各种利益集团的游说是欧盟层面立法机构的“运行常态”，不仅企业、非政府组织通过所谓“政策网络”，以“讨论和合作”的方式接近和影响立法者，很多议员本身为了谋取政策影响力，乃至期待未来通过“旋转门”机制谋得企业高薪顾问职位，也热衷于接触各种游说者，布鲁塞尔种种隐秘的利益链条早已根深蒂固，彻底的改革会动了很多人的奶酪"/><meta property="og:image" content="https://rs2.huanqiucdn.cn/huanqiu/image/www/common/200.jpg"/><meta property="og:image:width" content="200"/><meta property="og:image:height" content="200"/><meta property="og:site_name" content="环球网"/><title>董一凡：欧洲议会难有“刮骨疗毒”式改革</title><link rel="stylesheet" href="https://rs2.huanqiucdn.cn/csr/pc/css/global.css">
-<script src="https://rs2.huanqiucdn.cn/huanqiu/js/www/browse/browse_ua.js"></script>
-<script src="https://rs2.huanqiucdn.cn/huanqiu/js/www/common/jquery-3.6.0.min.js"></script>
-<script src="https://ipengtai.huanqiu.com/resource/js/base_mobile2.js"></script><script src="https://www.huanqiu.com/csr/service-worker.js"></script>
-<script src="https://www.huanqiu.com/csr/csr.js" defer=""></script>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edga" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" type="text/css" href="/index/xhtml/css/newBootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/index/xhtml/css/common_detail_kp.css">
+    
+<meta name="SiteName" content="国际科技频道"/>
+<meta name="SiteDomain" content=""/>
+<meta name="SiteIDCode" content="N0000083288"/>
+<meta name="ColumnName" content="今日视点" />
+<meta name="ColumnDescription" content=""/>
+<meta name="ColumnKeywords" content=""/>
+<meta name="ColumnType" content=""/>
+<meta name="ArticleTitle" content="人工智能预测蛋白质结构数量将超亿阿尔法折叠革命何去何从？|科技创新世界潮"/>
+<meta name="PubDate" content="2022-04-21 14:45:45"/>
+<meta name="Keywords" content=""/>
+<meta name="Description" content="十多年来，德国马克斯普朗克生物物理研究所分子生物学家马丁·贝克及其同事一直试图拼凑出世界上最难的拼图游戏之一：人类细胞中最大分子机器的详细模型。这个庞然大物被称为核孔复合体，控制着分子进出细胞核的流动，而细胞核正是基因组所在之处。每个细胞中都存在数百个这样的复合物，每个都由超过1000种蛋白组成，它们形成一个环，镶嵌在核膜上。"/>
 
-<script>function linkChange(){var i=window.location.href,n=i.indexOf("?")>-1?i.indexOf("?"):i.length;i=i.substring(0,n).replace(/([\w\W]+)\/$/,"$1");var u,o=window.location.hostname,a=window.location.href;i.indexOf("article")>-1&&"m.huanqiu.com"!=o?(u=a.indexOf("/article"),a=a.substring(u,a.length),window.location.href="//m.huanqiu.com"+a):i.indexOf("gallery")>-1&&"m.huanqiu.com"!=o?(u=a.indexOf("/gallery"),a=a.substring(u,a.length),window.location.href="//m.huanqiu.com"+a):"china.huanqiu.com/lh"===i.split("//")[1]||"china.huanqiu.com/fjxzc"===i.split("//")[1]||"china.huanqiu.com/cpc100"===i.split("//")[1]||"china.huanqiu.com/year"===i.split("//")[1]||"china.huanqiu.com/chinahealth"===i.split("//")[1]?(u=a.indexOf("china.huanqiu.com"),a=a.substring(u+17,a.length),window.location.href="//m.huanqiu.com/list/"+a.split("/").join("")):"opinion.huanqiu.com/shanrenping"===i.split("//")[1]||"opinion.huanqiu.com/hsrp"===i.split("//")[1]||"opinion.huanqiu.com/editorial"===i.split("//")[1]?(u=a.indexOf("opinion.huanqiu.com"),a=a.substring(u+19,a.length),window.location.href="//m.huanqiu.com/list/"+a.split("/").join("")):["go.huanqiu.com","mil.huanqiu.com","tech.huanqiu.com","china.huanqiu.com","world.huanqiu.com","finance.huanqiu.com","opinion.huanqiu.com","taiwan.huanqiu.com","ent.huanqiu.com","oversea.huanqiu.com","health.huanqiu.com","sports.huanqiu.com","auto.huanqiu.com","v.huanqiu.com","hope.huanqiu.com","look.huanqiu.com","fashion.huanqiu.com","society.huanqiu.com","women.huanqiu.com","uav.huanqiu.com","lx.huanqiu.com","ski.huanqiu.com","smart.huanqiu.com","city.huanqiu.com","quality.huanqiu.com","cul.huanqiu.com","biz.huanqiu.com","chamber.huanqiu.com","art.huanqiu.com","capital.huanqiu.com","movie.huanqiu.com","house.huanqiu.com","qinzi.huanqiu.com","5gcenter.huanqiu.com","energy.huanqiu.com","shopping.huanqiu.com","silkroad.huanqiu.com","xy.huanqiu.com","zy.huanqiu.com","media.huanqiu.com","newmedia.huanqiu.com"].indexOf(o)>-1&&"/"===window.location.pathname?(u=a.indexOf("com"),a=a.substring(u+3,a.length),window.location.href="//m.huanqiu.com/list/"+o.split(".")[0]+a.split("/").join("")):"www.huanqiu.com"===o&&(u=a.indexOf("www.huanqiu.com"),a=a.substring(u+15,a.length),window.location.href="//m.huanqiu.com"+a.split("/").join(""))}/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)&&linkChange();</script><link rel="stylesheet" type="text/css" href="//rs1.huanqiucdn.cn/dp/api/assets?dp_csid=cse3pl8tdbi&dp_instanceid=dpe3plc9q0n&dp_commit=d858ec4a1bc81b22b2564d20018134596e763a1d&web_id=1&dp_path=layouts/csr_article/csr_article.css">
-<link href="//rs2.huanqiucdn.cn/huanqiu/image/www/common/favicon1.ico" rel="shortcut icon" /></head><body><img src="https://rs2.huanqiucdn.cn/huanqiu/image/www/common/200.jpg" style="display:none;"><div id="config_page" style="display:none;">/csr-component/config/article/index.js</div><div id="global_constant" style="display:none"><span class="global_host">lx.huanqiu.com</span><span class="global_path"></span></div><div class="data-container" style="visibility:hidden;height:0; overflow:hidden;"><div id="csr_topheader_ad">7003383</div><div id="csr_bottomheaderl_ad">7005136</div><div id="csr_bottomheaderr_ad">7005137</div><div id="article_ad">
-    <div id="7004636" class="ad" style="display: block">
-      <aside id="content-ad">
-      <!-- Ad Survey 广告位代码  文章内页画中画-->
-      <script type="text/javascript">window.AD_SURVEY_Add_AdPos && AD_SURVEY_Add_AdPos("7004636");</script>
-      </aside>
-    </div></div><article><textarea class="article-aid">4B2JPjfMQ28</textarea><textarea class="article-author">作者：董一凡</textarea><textarea class="article-host">opinion.huanqiu.com</textarea><textarea class="article-addltype">article</textarea><textarea class="article-title">董一凡：欧洲议会难有“刮骨疗毒”式改革</textarea><textarea class="article-catnode">/e3pmub6h5/e3pr9baf6</textarea><textarea class="article-content"><article><section data-type="rtext"><p>欧洲议会近期爆出腐败丑闻震惊整个欧洲，欧洲媒体称这一事件敲醒了“昏昏欲睡的布鲁塞尔”，各方对于欧洲议会透明度、功能性和履职公正性的质疑达到前所未有的高度。匈牙利总理欧尔班日前对此发表评论，称腐败事件表明欧洲议会应被解散，并由各国国家议会议员重新组建新的欧洲议会。这一观点也将有关欧盟政治和决策机制改革的讨论推上高潮。</p><p>欧洲议会作为欧盟三大机构中的立法机构，其在欧盟政治中本应扮演推动和优化欧盟政策制定的角色，其当选议员亦应淡化国别和其他利益色彩，而为“欧盟共同利益”服务。然而，此次腐败丑闻却牵连了包括一位副议长在内的欧洲议会高层，暴露出部分国家和利益集团对欧洲议会具有隐秘而强大的影响力，欧盟政客对于所谓“外国干预影响欧洲议会公正运作”的担忧急剧上升。而在地缘政治形势日趋紧张，欧洲政治日益意识形态化的今天，这类涉及“渗透”和“干涉”的事件将极大触及欧盟机构的敏感神经，欧洲议会内部势必对此进行详细调查，并制定相应机制以防止类似事件再次发生。欧洲议会主席罗伯塔·梅佐拉表示，欧洲议会将引入新的道德规则并“进行重组”。</p><p>然而，期待欧洲议会就其运行方式进行“刮骨疗毒”式的改革恐怕并不现实。与西方国家的议会一样，各种利益集团的游说是欧盟层面立法机构的“运行常态”，不仅企业、非政府组织通过所谓“政策网络”，以“讨论和合作”的方式接近和影响立法者，很多议员本身为了谋取政策影响力，乃至期待未来通过“旋转门”机制谋得企业高薪顾问职位，也热衷于接触各种游说者，布鲁塞尔种种隐秘的利益链条早已根深蒂固，彻底的改革会动了很多人的奶酪。</p>
-              <adv-loader __attr__inner="7004636" __attr__style="width: auto;position: relative;float: left;border: 1px solid #ebebeb; padding: 20px;overflow: hidden;margin: 10px 30px 40px 0;"></adv-loader>
-            <p>因此，欧尔班的惊人言论在这一背景下虽然实现难度极大，但也反映出一些成员国和民众对欧洲议会的不满。欧洲议会本是欧盟政治架构下代表民众诉求的机构，1975年欧洲议会的直选改革更是突出了“代表民众”的色彩。然而，欧洲议会近年来愈发变成政治光谱的大杂烩，议员为了博出位纷纷在外交、环境、人权等方面提出极端议案和看法，而对于解决欧洲民众的民生和社会问题鲜有作为，直选以来不断下降的投票率就是重要的标志。另一方面，欧洲议会议员本是依托其在各国国内政治支持而当选，然而欧洲议会常常出于 “政治正确”，而在部分政策领域与一些成员国利益相悖。比如在欧盟因“法治问题”而暂停匈牙利享受欧盟复苏基金的问题上，欧洲议会持有最强硬的立场，也难怪欧尔班对这些超脱于民族国家主权的“布鲁塞尔老爷们”心生怨气。</p><p>目前，欧盟机构和主要大国对于欧盟决策效率和一致性上的短板颇为担忧，认为其将使得欧盟在复杂的国际形势和地缘博弈中处于行动劣势，欧盟政治和决策机制改革则被视作其实现“战略自主”以及推动欧洲一体化深入发展的必由之路。然而，各方就改革的方向和重点仍存在较大的争议。</p><p>比如德国希望成员国在外交等重大事务上的决策机制由“全体一致”转向“多数决定”来提升效率；法国则倡导在欧洲一体化的部分领域由“先锋国家”率先引领合作，将欧洲一体化的重心从地理上的扩张转向政策领域的深层次建设；欧盟委员会和欧洲议会则更注重强化自身机构权力。在此趋势下，欧盟决策机制改革更多体现为，在成员国之间以及欧盟机构和成员国之间的权力和影响力的再分配，而利益的此消彼长势必让各方难以形成一致改革意见。</p><p>从欧洲一体化的历史来看，欧盟作为建设主权国家联合体的政治实验，其发展历程是不断遇到问题并进行制度创新和修复的循环进程，当前欧盟能否继续化问题为发展动力，很大程度上也取决于其能否高度坚持欧洲建设“促和平、谋发展”的初心。（作者是中国现代国际关系研究院欧洲所副研究员）</p></section></article></textarea><textarea class="article-time">1672082170726</textarea><textarea class="article-copyright">环球网版权作品，未经书面授权，严禁转载或镜像，违者将被追究法律责任。</textarea><textarea class="article-editor-name">责编：袁小存</textarea><textarea class="article-source-name">环球时报</textarea><textarea class="article-ext-xtime">1672094925601</textarea><textarea class="article-ext-CommentStatus">1</textarea><textarea class="article-ext-serious">1</textarea><textarea class="article-ext-relation">[]</textarea><textarea class="article-cover"></textarea></article><div id="csr_other_1">7003385</div><div class="article_aside_hqss"><div class="hd"><textarea class="title">环球时事</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4BD4qCEA4m5</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">美对华禁令扰乱市场!巨头&#34;业绩休克&#34;警告芯片业</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BD5HFjENRI</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">麦卡锡终获&#34;惨胜&#34; 美媒：闹剧恐引发更大危机</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BD3kbT6sPG</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">哈里新书掀起轩然大波，英王室成立“作战室”</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BD4NHboECq</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">德媒：对德国经济来说，没有中国可不行</textarea><textarea class="item-cnf-host">oversea.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDEz51LsqN</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">152.5万人参加2023国考笔试 竞争比约41：1</textarea><textarea class="item-cnf-host">china.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDCsu85aT6</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">我国成功发射实践二十三号卫星</textarea><textarea class="item-cnf-host">china.huanqiu.com</textarea></div></div></div><div id="csr_other_2">7003386</div><div class="article_aside_hqyj"><div class="hd"><textarea class="title">环球业界</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4BDJCmufpwH</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/3307e0167e5aa8aa54ec99ac8a95417c.jpg</textarea><textarea class="item-title">江苏：捕蟹供市场</textarea><textarea class="item-subtitle">江苏：捕蟹供市场</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea><textarea class="item-time">1673227059825</textarea></div><div class="item"><textarea class="item-aid">4BDJdTEjqa7</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/0fc09a26634f086551a8274e27960cda.jpg</textarea><textarea class="item-title">黄河宁夏段现冰封河段</textarea><textarea class="item-subtitle">黄河宁夏段现冰封河段</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea><textarea class="item-time">1673227782138</textarea></div><div class="item"><textarea class="item-aid">4BDI1fUW4ZK</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">拓展境内外汇市场深度广度</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDI0zOpxjp</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">期货市场持续扩容前景看好</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDIDppNcOp</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">AI绘画的“小秘密”都在这一篇文章里</textarea><textarea class="item-cnf-host">tech.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDHOc62hoe</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">积极因素汇聚 A股市场乐观预期逐步兑现</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDI9RUXLW1</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">“最薄”非线性量子光源首次实现</textarea><textarea class="item-cnf-host">tech.huanqiu.com</textarea></div></div></div><div id="csr_other_3">7003387</div><div class="article_aside_hqfc"><div class="hd"><textarea class="title">环球风尚</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4BDKEMU2eyP</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/b9933f754f808c3d3e0e96d8fab8494c.png</textarea><textarea class="item-title">名家齐聚新年音乐会</textarea><textarea class="item-cnf-host">ent.huanqiu.com</textarea><textarea class="item-time">1673228781707</textarea></div><div class="item"><textarea class="item-aid">47WFQPMfZbE</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/f82eb648ac8b63f2b6a1261f3bb914d0.jpg</textarea><textarea class="item-title">鹿晗时尚大片  帅气有型</textarea><textarea class="item-cnf-host">fashion.huanqiu.com</textarea><textarea class="item-time">1649378908859</textarea></div><div class="item"><textarea class="item-aid">448L0xOP60T</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/bfde77be2047f312c65dbde58bf7ee55.png</textarea><textarea class="item-title">宝珀Blancpain鼎力支持“腔棘鱼探险研究”第六次考察之旅——初探科西嘉角</textarea><textarea class="item-cnf-host">luxury.huanqiu.com</textarea><textarea class="item-time">1627524632846</textarea></div><div class="item"><textarea class="item-aid">47Yl00qAEAf</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/cc591483d68d301cdf6fd14c301bd91a.jpg</textarea><textarea class="item-title">童笔绘春天</textarea><textarea class="item-cnf-host">lx.huanqiu.com</textarea><textarea class="item-time">1649640154845</textarea></div></div></div><div id="csr_other_4">7003388</div><div class="article_aside_hqcj"><div class="hd"><textarea class="title">环球产经</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">40wovOuAJMZ</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/aea266fa9cf70679d8af20d340042c4d.png</textarea><textarea class="item-title">别克君越艾维亚、GL8 ES陆尊荣膺第17届中国－东盟博览会官方指定用车</textarea><textarea class="item-subtitle">助力亚洲顶级盛会共显时代向上风采</textarea><textarea class="item-cnf-host">auto.huanqiu.com</textarea><textarea class="item-time">1606960549716</textarea></div><div class="item"><textarea class="item-aid">9CaKrnKmQBQ</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//himg2.huanqiucdn.cn/attachment2010/2019/0916/10/23/20190916102314980.jpg</textarea><textarea class="item-title">寄望新品提振业绩 济川药业消字号产品却涉嫌虚假宣传</textarea><textarea class="item-subtitle">济川药业涉嫌虚假宣传</textarea><textarea class="item-cnf-host">health.huanqiu.com</textarea><textarea class="item-time">1568599980000</textarea></div><div class="item"><textarea class="item-aid">4BB2zIkFbgZ</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">湖北推进省属高校一流学科建设</textarea><textarea class="item-cnf-host">lx.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">9CaKrnKmROO</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">致癌物质减少其他危害增加 揭开电子烟的真面目</textarea><textarea class="item-cnf-host">health.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4BDKUU2cY6c</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">国内首次放电状态测电池安全，捷途大圣i-DM底气十足</textarea><textarea class="item-cnf-host">auto.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">7Q2P3389HpK</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover"></textarea><textarea class="item-title">大众汽车在澳大利亚“排放门”新进展：大众与澳车主和解或赔1.27亿澳元</textarea><textarea class="item-cnf-host">quality.huanqiu.com</textarea><textarea class="item-time">1568708543125</textarea></div><div class="item"><textarea class="item-aid">4AeU2wdG5GH</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover"></textarea><textarea class="item-title">辽宁省大力推进沈阳现代化都市圈建设</textarea><textarea class="item-cnf-host">city.huanqiu.com</textarea><textarea class="item-time">1669601320834</textarea></div></div></div><div class="article_aside_tyly"><div class="hd"><textarea class="title">体育·旅游</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">48zhEaT0QhU</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/e73f4b27cd37ba03dd13bd26515c73c8.jpg</textarea><textarea class="item-title">长春亚泰备战中超联赛第二阶段比赛</textarea><textarea class="item-cnf-host">sports.huanqiu.com</textarea><textarea class="item-time">1658899861549</textarea></div><div class="item"><textarea class="item-aid">48zYom8QDvH</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/69b418e4c6b66473001cb377f52c25e0.jpg</textarea><textarea class="item-title">东亚杯：中国女足平日本女足</textarea><textarea class="item-cnf-host">sports.huanqiu.com</textarea><textarea class="item-time">1658885728003</textarea></div><div class="item"><textarea class="item-aid">4Anb2WhZXWk</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/f8ea35fb10d682d8f926754b9528edf4.jpg</textarea><textarea class="item-title">克拉玛依油田雪挂美景</textarea><textarea class="item-cnf-host">go.huanqiu.com</textarea><textarea class="item-time">1670550078265</textarea></div><div class="item"><textarea class="item-aid">4AmiqteVjua</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/335f19496d2565f6affcdc5c7e594b96.jpg</textarea><textarea class="item-title">昆明樱花谷樱花盛开</textarea><textarea class="item-cnf-host">go.huanqiu.com</textarea><textarea class="item-time">1670459084802</textarea></div></div></div><div id="csr_other_5">7004638</div><div class="article_aside_hqqyg"><div class="hd"><textarea class="title">环球趣云购</textarea></div><div class="bd"><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">点击进入环球趣云购</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://shop91383817.youzan.com/v2/showcase/homepage?alias=xKm5S6rjcJ&dc_ps=2617908957523691520.300001</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/bc7974eadae0ca5f3a13fb8c2317e10a.jpeg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">荞麦菊花U型枕</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://shop91383817.m.youzan.com/wscgoods/detail/3f1xqpnglb2hd?scan=1&activity=none&from=kdt&qr=directgoods_833339180&shopAutoEnter=1&showsku=true</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/7ff23f44caec3da5cfa77f29db636466.jpg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">益元黑八珍代餐粉</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://j.youzan.com/ZLgT6s</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/57f8e29c1ee6294ed3f72111a6e0575d.jpg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">轩妈芝士蛋黄酥</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://j.youzan.com/Z8AT6s</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/42534005cb0523ebe71d8864168e91d6.jpg</textarea></div></div></div><div id="csr_other_6">7004639</div><div id="csr_other_7">7004637</div><div id="csr_article_dl_ad">7003389</div></div><script src="//rs2.huanqiucdn.cn/huanqiu/js/www/common/all_statistics.js"></script><script type="text/javascript" src="//rs1.huanqiucdn.cn/dp/api/assets?dp_csid=cse3pl8tdbi&dp_instanceid=dpe3plc9q0n&dp_commit=d858ec4a1bc81b22b2564d20018134596e763a1d&web_id=1&dp_path=layouts/csr_article/csr_article.js"></script></body></html>
+<meta name="others" content="页面生成时间 2022-04-21 14:45:45" />
+<meta name="template,templategroup,version" content="386,32,2.1" />
+<title>
+        人工智能预测蛋白质结构数量将超亿阿尔法折叠革命何去何从？|科技创新世界潮-中国科技网
+    </title>
+    <meta name='keywords' content="">
+    <meta name='description' content="人工智能预测蛋白质结构数量将超亿阿尔法折叠革命何去何从？|科技创新世界潮">
+    <meta name="baidu-site-verification" content="8VsUZuJwJp" />
+    <link rel="icon" href="/index/xhtml/images/ico/icon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/index/xhtml/images/ico/icon.ico" type="image/x-icon" />
+    <script src="/index/xhtml/js/jquery.min.js"></script>
+    <script src="/index/xhtml/js/bootstrap.min.js"></script>
+    <script src="/index/xhtml/js/header2020.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/index/xhtml/js/jquery.PrintArea.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/index/xhtml/js/article.js"></script>
+    <!--[if lt IE 9]>
+		  <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+</head>
+
+<body>
+    <link rel="stylesheet" type="text/css" href="/index/xhtml/css/common_header_2021.css" />
+<!-- 分享默认图 开始 -->
+<div class="shareImg">
+	<img src="http://www.stdaily.com/index/xhtml/images/share_logo.jpg" atremote>
+</div>
+<!-- 分享默认图 结束 -->
+<div class="mainHeader">
+	<div class="headerCont">
+		<div class="headerLogo">
+			<a href="http://www.stdaily.com/" target="_blank">
+				<img src="/index/xhtml/index/images/header2020/logo.png">
+			</a>
+		</div>
+		<div class="headerButton">
+			<div class="menuBox">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		<div class="headerMenu">
+			<ul>
+				
+					<li>
+						<a href="/kjxx/index.shtml" target="_blank"  >时政</a>
+					</li>
+
+					<li>
+						<a href="/index/fmxw/common_list_2021.shtml" target="_blank"  >封面</a>
+					</li>
+
+					<li>
+						<a href="/index/kjxw/kjxw.shtml" target="_blank"  >热点</a>
+					</li>
+
+					<li>
+						<a href="/kjzc/index.shtml" target="_blank"  >政务</a>
+					</li>
+
+					<li>
+						<a href="/cehua/kjrbst/shentong.shtml" target="_blank"  >深瞳</a>
+					</li>
+
+					<li>
+						<a href="/index/sysp/cxzg_list.shtml" target="_blank"  >视频</a>
+					</li>
+
+					<li>
+						<a href="http://www.stdaily.com/guoji/" target="_blank"  >国际</a>
+					</li>
+
+					<li>
+						<a href="/02/index.shtml" target="_blank"  >地方</a>
+					</li>
+
+					<li>
+						<a href="/cxyq/index.shtml" target="_blank"  >园区</a>
+					</li>
+
+					<li>
+						<a href="/index/ztlm/common_list_2021.shtml" target="_blank"  >专题</a>
+					</li>
+
+					<li>
+						<a href="/English/index.shtml" target="_blank"  >English</a>
+					</li>
+
+					<li>
+						<a href="/index/kejixinwen/kejixinwen.shtml" target="_blank"  >滚动</a>
+					</li>
+
+			</ul>
+		</div>
+		<div class="headerSearch">
+			<div class="searchBox">
+				<div class="bLeft">
+					<input name="searchWord" autocomplete="off" type="text" id="searchWord" size="50"
+						placeholder="请输入您要搜索的关键字" />
+				</div>
+				<div class="bRight">
+					<input type="submit" id="searchBtn" value="" />
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	$(function() {
+		$(window).on("resize", function(){
+			if($(".menuBox").hasClass("on")){	
+				$(".menuBox").removeClass("on")
+				$(".headerMenu").attr("style", '')
+			}
+		})
+		$(".menuBox").on("click", function() {
+			if ($(".headerMenu").is(":hidden")) {
+				$(this).addClass("on")
+				$(".headerMenu").slideDown()
+			} else {
+				$(this).removeClass("on")
+				$(".headerMenu").slideUp()
+			}
+		})
+		$('#searchBtn').click(function() {
+			zz_search();
+		});
+		document.getElementById("searchWord").onkeydown = function(e) {
+			e = e || event;
+			if (e.keyCode == 13) {
+				zz_search();
+			}
+		}
+		function zz_search() {
+			var qt1 = $('#searchWord').val();
+			if (qt1 != '') {
+				var searchword = encodeURI(qt1);
+				var searchurl = 'http://search01.stdaily.com:8080/guestweb/s?siteCode=N000008328' +
+					'&searchWord=' + searchword;
+				window.open(searchurl);
+			} else {
+				window.open("http://search01.stdaily.com:8080/guestweb/index/N000008328")
+			}
+		}
+	})
+</script>
+    <!-- 头部 E -->
+    <div class="clear"></div>
+    <section class="content-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8   col-xs-12 article">
+                    <ol class="breadcrumb">
+                       所在位置：
+<a href='/guoji/index.shtml'  target="_blank">首页</a>&nbsp;>&nbsp;<a href='/guoji/shidian/jrsd.shtml'  target="_blank"><span>今日视点</span></a>
+> 正文
+                    </ol>
+                    <div class="articleHead">
+                        <h1>
+                            人工智能预测蛋白质结构数量将超亿阿尔法折叠革命何去何从？|科技创新世界潮
+                        </h1>
+                        <div class="time1 ">
+                            2022-04-21 01:00:00
+                            <span class="f_source">来源:</span> <span class="f_source sourceCont">
+                                科技日报
+                            </span>
+                            <span class="f_author">作者:</span> <span class="f_author authorCont">
+                                张佳欣
+                            </span>
+                        </div>
+                        <div class="pages_print pull-right hidden-xs"><span class="btnPrint" id="btnPrint"></span><span class="font index_switchsize"><span class="bigger"></span> <span class="smaller"></span></span>
+
+                        </div>
+                        <div class="content-l2-l-share-l hidden-xs">
+                            <div class="content-l2-l-share-l3">
+                                <div class="bdsharebuttonbox bdshare-button-style0-24" data-bd-bind="1515725685875">
+                                    <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                                    <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <div id="printContent" class="pages_content">
+                        <div class="content">
+                            <div class="videoBox">
+                                <p id="video" align="center">
+                                    <script src="" type="text/javascript"></script>
+                                </p>
+                            </div>
+                            <p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;" align="center"><span style="font-size: 14pt;"><img src="064ebc99867b4628a82f65788840ff5f/images/4c6a6e1efa8d4232831239197005a7a9.png" align="center"></span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt; text-align: center;"><span style="font-size: 9pt;">AI预测的人类白介素12蛋白与其受体结合的结构。图片来源：Ian Haydon，威斯康星大学蛋白质设计医学研究所</span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;"><span style="font-size: 14pt; font-weight: bold;">科技日报实习记者&ensp;张佳欣</span></p>
+<div style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">
+<div style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">
+<div style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">
+<div style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">&ensp;&ensp;&ensp;&ensp;十多年来，德国马克斯普朗克生物物理研究所分子生物学家马丁·贝克及其同事一直试图拼凑出世界上最难的拼图游戏之一：人类细胞中最大分子机器的详细模型。这个庞然大物被称为核孔复合体，控制着分子进出细胞核的流动，而细胞核正是基因组所在之处。每个细胞中都存在数百个这样的复合物，每个都由超过1000种蛋白组成，它们形成一个环，镶嵌在核膜上。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　这1000块拼图由30多种蛋白质构建块组成，它们以多种方式交织在一起。让拼图更难的是，实验确定的这些构建块的三维结构是来自许多物种的结构大杂烩，并不能总是很好地融合在一起。而且，拼图的终极目标，即核孔复合体的低分辨率三维视图缺乏足够的细节，人们无法知道需要有多少块能精确地拼在一起。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　2016年，贝克团队报告了一个模型，它覆盖了核孔复合体约30%以及30个构建块的约一半，称为Nup蛋白。2021年7月，深度思维公司公开了一款名为阿尔法折叠2的人工智能（AI）工具。该软件可从蛋白质的基因序列中预测其三维结构，并且大部分情况下是精确的。这改变了贝克的任务，以及成千上万其他生物学家的研究。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　在某些情况下，AI为科学家们节省了时间；在其他情况下，它使以前难以想象或极不现实的研究成为可能。尽管它有局限性，但它的发展已经不可阻挡。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　<span style="font-weight: bold;">　“一鸣惊人”的成功</span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　2020年12月，阿尔法折叠引起了轰动。当时，它在一场名为“蛋白质结构预测关键评估”的比赛中大放异彩。而阿尔法折叠2的预测平均而言已与大多数实验数据不相上下。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　在阿尔法折叠算法广泛开源之前，美国华盛顿大学医学院蛋白质设计研究所研究人员开发了AI工具RoseTTAFold，其拥有可媲美阿尔法折叠2的蛋白质结构预测超高准确度，而且速度更快、所需计算机处理能力更低。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　2021年7月15日，深度思维宣布，它已经使用阿尔法折叠预测了几乎每一种人类制造的蛋白质的结构，以及其他20种被广泛研究的生物的整个蛋白质组（比如小鼠和大肠杆菌），共计超过36.5万个结构。深度思维还将这些数据公开发布到欧洲生物信息学研究所维护的数据库中，这个数据库已扩展到近100万个结构。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　今年，深度思维计划发布总计超过1亿个结构预测。这几乎占所有已知蛋白质的一半，是蛋白质数据库(PDB)结构库中实验确定的蛋白质数量的数百倍。阿尔法折叠还部署了深度学习神经网络，目前已经接受了PDB和其他数据库中的数十万个实验确定的蛋白质结构和序列的训练。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　<span style="font-weight: bold;">从结构角度解答新科学问题</span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　阿尔法折叠解决结构的能力给生物学家们留下了深刻的印象。“只要一种蛋白质卷曲成单一的明确的三维结构，阿尔法折叠的预测就很难被推翻。”瑞典斯德哥尔摩大学蛋白质生物信息学家阿恩·埃洛夫松说，“这是一种一键式解决方案，你可能会得到最佳模型。”</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　英国伦敦大学学院计算生物学家克里斯汀·奥伦戈团队正在利用其确定新的蛋白质种类，并发现了数百、甚至数千个潜在的新蛋白质家族，扩大了科学家对蛋白质外观和功能的了解。在另一项工作中，该团队正在搜索从海洋和废水中收集的DNA序列数据库，试图识别新的分解塑料的酶。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　美国哈佛大学进化生物学家谢尔盖·奥夫钦尼科夫表示，将任何蛋白质编码的基因序列转化为可靠结构的能力都非常可贵。研究人员通过比较基因序列，以确定生物及其基因在不同物种之间的关系。但对于远亲基因，仅通过比较，可能找不到进化上的近亲，因为序列发生了太大的变化。而通过比较蛋白质结构，其变化速度往往不如基因序列那么快，研究人员或能揭示被忽视的古老关系。这为研究蛋白质的进化和生命起源提供了一个绝佳的机会。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　<span style="font-weight: bold;">　存在一定局限性</span></p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　目前已有尝试证明，阿尔法折叠不具备预测蛋白质新突变后果的能力，因为没有与进化相关的序列来检验。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　研究人员表示，许多蛋白质具有多种构象，并与DNA和RNA等配体、脂肪分子和铁等矿物质一起发挥作用，但阿尔法折叠的预测是针对孤立结构，它不能真正处理那些可在不同构象中采用不同结构的蛋白质。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　美国哥伦比亚大学的计算生物学家穆罕默德·库雷希说，开发下一代神经网络将是一个巨大的挑战。目前还无法获得大量的数据来捕捉蛋白质动力学，或者蛋白质可能与之相互作用的数万亿个较小分子的形状。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　欧洲生物信息学研究所计算生物学家珍妮特·桑顿认为，阿尔法折叠最大的影响之一可能只是说服生物学家对计算和理论方法的见解持更开放的态度。“对我来说，这场革命就是观念的改变”。</p>
+<p style="margin-bottom: 1.5em; line-height: 1.8; font-size: 14pt;">　　但阿尔法折叠革命激发了欧洲分子生物学实验室结构建模师扬·科辛斯基的远大梦想。他设想，受阿尔法折叠启发的工具不仅可用来对单个蛋白质和复合体进行建模，还可用来对整个细胞器甚至细胞进行建模，直到完整单个蛋白质分子，“这是我们在接下来的几十年里要追寻的梦想”。</p>
+</div>
+</div>
+</div>
+</div>
+                        </div>
+                        <div class="text-right editor">责任编辑：
+                            左常睿
+                        </div>
+                    </div>
+                    <div id="commentDiv"></div>
+                </div>
+                <div class="col-md-4 hidden-xs hidden-sm article_right">
+                    <!--公共右侧S-->
+                    <!--公共右侧S-->
+ <div class="aside">
+ 	<div class="right_one">
+ 		<div class="top_tit">
+ 			<div class="pubTit">
+ 				<a href="/index/kjxw/kjxw.shtml" target="_blank">
+ 					热点
+ 				</a>
+ 			</div>
+ 		</div>
+ 		 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="http://www.stdaily.com/zhuantij/xxesdjs/xxesdjs.shtml" target="_blank">
+<img src="/index//kejixinwen/202211/c74a67efacf5490cae8838e8f96545ca/images/14cb005be6974815b18d7c05b9ac074f.jpg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<div class="fp_subtitle">
+ 						<a href="http://www.stdaily.com/zhuantij/xxesdjs/xxesdjs.shtml" target="_blank" title='专题丨学习贯彻党的二十大精神'  >专题丨学习贯彻党的二十大精神</a>
+ 					</div>
+ 					<div class="fp_title">
+ 						<a href="http://www.stdaily.com/zhuantij/xxesdjs/xxesdjs.shtml" target="_blank" title='专题丨学习贯彻党的二十大精神'  >专题丨学习贯彻党的二十大精神</a>
+ 					</div>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+ 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="/index/kejixinwen/202301/943e5738c5fd431b85df0c464e4789b1.shtml" target="_blank">
+<img src="/index//kejixinwen/202301/943e5738c5fd431b85df0c464e4789b1/images/bcf764a66f63490f81ef8e46c234eb51.jpg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<div class="fp_subtitle">
+ 						<a href="/index/kejixinwen/202301/943e5738c5fd431b85df0c464e4789b1.shtml" target="_blank" title='新冠疫苗、流感疫苗和肺炎疫苗要不要都打？三位医学专家详解'  >新冠疫苗、流感疫苗和肺炎疫苗要不要都打？三位医学专家详解</a>
+ 					</div>
+ 					<div class="fp_title">
+ 						<a href="/index/kejixinwen/202301/943e5738c5fd431b85df0c464e4789b1.shtml" target="_blank" title='新冠疫苗、流感疫苗和肺炎疫苗要不要都打？三位医学专家详解'  >新冠疫苗、流感疫苗和肺炎疫苗要不要都打？三位医学专家详解</a>
+ 					</div>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+ 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="/index/kejixinwen/202301/6856a56b9ee149d889ec64a5d7b4d3f2.shtml" target="_blank">
+<img src="/index//kejixinwen/202301/6856a56b9ee149d889ec64a5d7b4d3f2/images/ae28337ee10a4f739ae716419bb57b08.jpg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<div class="fp_subtitle">
+ 						<a href="/index/kejixinwen/202301/6856a56b9ee149d889ec64a5d7b4d3f2.shtml" target="_blank" title='2022国家医保谈判落幕 大病用药是重点'  >2022国家医保谈判落幕 大病用药是重点</a>
+ 					</div>
+ 					<div class="fp_title">
+ 						<a href="/index/kejixinwen/202301/6856a56b9ee149d889ec64a5d7b4d3f2.shtml" target="_blank" title='2022国家医保谈判落幕 大病用药是重点'  >2022国家医保谈判落幕 大病用药是重点</a>
+ 					</div>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+ 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="/index/kejixinwen/202301/54c793219026460ca9883a11af080937.shtml" target="_blank">
+<img src="/index//kejixinwen/202301/54c793219026460ca9883a11af080937/images/c1f5da925e564c42a592831250317fab.jpg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<div class="fp_subtitle">
+ 						<a href="/index/kejixinwen/202301/54c793219026460ca9883a11af080937.shtml" target="_blank" title='各地陆续公布2022年成绩单，GDP两万亿城市已增至7个'  >各地陆续公布2022年成绩单，GDP两万亿城市已增至7个</a>
+ 					</div>
+ 					<div class="fp_title">
+ 						<a href="/index/kejixinwen/202301/54c793219026460ca9883a11af080937.shtml" target="_blank" title='各地陆续公布2022年成绩单，GDP两万亿城市已增至7个'  >各地陆续公布2022年成绩单，GDP两万亿城市已增至7个</a>
+ 					</div>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+
+ 	</div>
+ 	<!-- 封面新闻 -->
+ 	<div class="right_sp">
+ 		<div class="top_tit">
+ 			<div class="pubTit">
+ 				<a href="/index/fmxw/common_list_2021.shtml" target="_blank">
+ 					封面新闻
+ 				</a>
+ 			</div>
+ 		</div>
+ 		<div class="list_sp">
+ 			<ul>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="http://www.stdaily.com/cehua/Jan4thg/fmxw.shtml" target="_blank">
+<img
+ 										src="/index//kejixinwen/202301/3820ce418e784873a20d086226128ed5/images/18d87f9b410f4e8d828e3d6a41b799e9.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="http://www.stdaily.com/cehua/Jan4thg/fmxw.shtml" target="_blank"  >封面新闻丨XBB毒株刷屏！致病力如何？会引发新一轮感染高峰吗？</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="http://stdaily.com/cehua/Jan3rd/fmxw.shtml" target="_blank">
+<img
+ 										src="/index//kejixinwen/202301/758732fcf405483ebec84f078c973d99/images/5f9859a04b304382980a03b9e8973f32.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="http://stdaily.com/cehua/Jan3rd/fmxw.shtml" target="_blank"  >封面新闻丨新冠病毒感染没有“特效药”！囤药不如囤“好身体”</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="http://www.stdaily.com/cehua/Dec29thq/fmxw.shtml" target="_blank">
+<img
+ 										src="/index//kejixinwen/202212/0b4a26b0ef254b549c47d26221659a60/images/e484f8674a6840779a8072059564e72b.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="http://www.stdaily.com/cehua/Dec29thq/fmxw.shtml" target="_blank"  >封面新闻丨出入境迎来新政策，更好保障交流合作</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="http://stdaily.com/cehua/Dec28thb/fmxw.shtml" target="_blank">
+<img
+ 										src="/index//kejixinwen/202212/f0d8519288ab44c3b02fabbb861e755d/images/df45caf25aed479c9f3937cf92df30a6.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="http://stdaily.com/cehua/Dec28thb/fmxw.shtml" target="_blank"  >封面新闻丨“白肺”是啥？“阳康”后能不能运动？医疗储备如何？专家解读→</a>
+ 						</p>
+ 					</li>
+
+ 			</ul>
+ 		</div>
+ 		<div class="clear"></div>
+ 	</div>
+ 	<!-- 视频S -->
+ 	<div class="right_sp">
+ 		<div class="top_tit">
+ 			<div class="pubTit">
+ 				<a href="/index/sysp/cxzg_list.shtml" target="_blank">
+ 					精彩视频
+ 				</a>
+ 			</div>
+ 		</div>
+ 		<div class="list_sp">
+ 			<ul>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="/index/kejixinwen/202301/db8260a0db5248a6b1a9e4c26a56b5bd.shtml" target="_blank">
+ 								<i></i>
+<img
+ 										src="/index//kejixinwen/202301/db8260a0db5248a6b1a9e4c26a56b5bd/images/8bda9844243a4b55a714fe93e1fc4b76.png">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="/index/kejixinwen/202301/db8260a0db5248a6b1a9e4c26a56b5bd.shtml" target="_blank"  >科普一下丨多价新冠疫苗预防效果更好吗？</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="/index/kejixinwen/202301/49bc0efbd8af4183afa3ff439d600ac7.shtml" target="_blank">
+ 								<i></i>
+<img
+ 										src="/index//kejixinwen/202301/49bc0efbd8af4183afa3ff439d600ac7/images/32b1ff76c5ee48b391dc5606b33efa8c.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="/index/kejixinwen/202301/49bc0efbd8af4183afa3ff439d600ac7.shtml" target="_blank"  >直播 | 浅谈食管癌的防与治</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="/index/kejixinwen/202301/06ae78164dd64be4aec6f2c01087d85e.shtml" target="_blank">
+ 								<i></i>
+<img
+ 										src="/index//kejixinwen/202301/06ae78164dd64be4aec6f2c01087d85e/images/8dc14d6032644e3e9ce5ec945b89d4cb.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="/index/kejixinwen/202301/06ae78164dd64be4aec6f2c01087d85e.shtml" target="_blank"  >科学新发现丨长着恐龙头骨的鸟类新属种被发现</a>
+ 						</p>
+ 					</li>
+ 					<li class="fl">
+ 						<div class="con_img">
+ 							<a href="/index/kejixinwen/202301/d059764d5ee0415cb317b1a4b2df369c.shtml" target="_blank">
+ 								<i></i>
+<img
+ 										src="/index//kejixinwen/202301/d059764d5ee0415cb317b1a4b2df369c/images/3b5dc6fe02624559852d80d04b543c86.jpg">
+ 							</a>
+ 						</div>
+ 						<p>
+ 							<a href="/index/kejixinwen/202301/d059764d5ee0415cb317b1a4b2df369c.shtml" target="_blank"  >科学新发现丨人类的发现与技术发明正随时间流逝减慢</a>
+ 						</p>
+ 					</li>
+
+ 			</ul>
+ 		</div>
+ 		<div class="clear"></div>
+ 	</div>
+ 	<!-- 专题S -->
+ 	<div class="right_one">
+ 		<div class="top_tit">
+ 			<div class="pubTit">
+ 				<a href="/index/ztlm/common_list_2021.shtml" target="_blank">
+ 					专题报道
+ 				</a>
+ 			</div>
+ 		</div>
+ 			<div class="con">
+ 				<div class="con_img fl">
+ 					<a href="http://www.stdaily.com/zhuantij/ztcxgs/ztcxgs.shtml" target="_blank">
+<img src="/index//kejixinwen/202209/04ea9adc041d4a19a12979a0fbe65bb0/images/5cfc69d04cd747d2892a790f0a1cab4e.jpeg"
+ 								alt="<CMSPRO_DOCUMENT FIELD='title' num='25'>标题</CMSPRO_DOCUMENT>">
+ 					</a>
+ 				</div>
+ 				<div class="con_tit fr">
+ 					<p>
+ 						<a href="http://www.stdaily.com/zhuantij/ztcxgs/ztcxgs.shtml" target="_blank"  >创新故事</a>
+ 					</p>
+ 				</div>
+ 				<div class="clear"></div>
+ 			</div>
+
+ 		<ul class="list_zt">
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/kyzlgw/zbmmzt.shtml" target="_blank"  >科研助理岗位，等你来！</a>
+ 				</li>
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/jhbt/jhbt.shtml" target="_blank"  >江河奔腾看中国</a>
+ 				</li>
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/gjkjcxcjz/gjkjcxcjz.shtml" target="_blank"  >国家科技创新成就展</a>
+ 				</li>
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/ztkpyx/ztkpyx.shtml" target="_blank"  >科普一下</a>
+ 				</li>
+
+ 				<li>
+ 					<a href="http://www.stdaily.com/zhuantij/wmdja/wmdcxja.shtml" target="_blank"  >打造原创技术策源地</a>
+ 				</li>
+
+ 		</ul>
+ 	</div>
+ </div>
+                    <!--公共右侧E-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- footS -->
+    <link rel="icon" href="http://www.stdaily.com/index/xhtml/images/ico/icon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.stdaily.com/index/xhtml/images/ico/icon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/index/xhtml/css/common_footer_2021.css" />
+<style>
+#video {
+	height: auto;
+}
+#video .ccH5playerBox,
+#video .ccH5Poster,
+#video .CCH5playerContainer{
+	width: 100% !important;
+	height: 350px !important;
+}
+</style>
+<script  type="text/javascript">
+	$(function() {
+		var videos = $("video");
+      	if(videos.length <= 1) return;
+		for (var i = 0; i < videos.length; i++) {
+			videos[i].addEventListener("play", function() {
+				var vs = $("video");
+				for (var j = 0; j < vs.length; j++) {
+					if (vs[j] !== this) {
+						vs[j].pause();
+					}
+				}
+			})
+		};
+	});
+</script>
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="http://www.stdaily.com/index/xhtml/css/main.css">
+ <script src="http://www.stdaily.com/index/xhtml/js/jquery.min.js"></script>
+<div id="goodcover"></div>
+<div id="code">
+  <div class="code1"></div>
+  <div class="close1"><a id="closebt" class="closebt"><img src="http://www.stdaily.com/index/xhtml/images/close.png"></a></div>
+  <div class="goodtxt">
+    <h4>抱歉，您使用的浏览器版本过低,这会影响您正常浏览本网页</h4>
+    <h3>您可以进行以下操作:</h3>
+    <h2>1.点击下面图标可升级或更换您的浏览器</h2>
+    <div class="code-img"> 
+        <a href="http://rj.baidu.com/soft/detail/23356.html?ald" target="_blank"><img src="http://www.stdaily.com/index/xhtml/images/ie.jpg"></a>	
+    	<a href="http://www.firefox.com.cn/download/" target="_blank"><img  src="http://www.stdaily.com/index/xhtml/images/firefox.jpg"></a>
+    	<a href="http://www.chromeliulanqi.com/" target="_blank"><img  src="http://www.stdaily.com/index/xhtml/images/chrome.jpg"></a></div>
+    <h2>2.暂不升级，继续浏览</h2>
+    <input type="button" id="closebt1"  class="closebt" value="继续浏览" />
+  </div>
+</div>
+<script>
+$(function() {
+      var hb = $("body").outerHeight(); //获取body高度   
+     $("#goodcover").height(hb); //
+    $('.closebt').click(function() {
+        $('#code').hide();
+        $('#goodcover').hide();
+    });
+})
+</script>
+<![endif]-->
+<div class="mainFooter">
+	<div class="footerCont">
+			<div class="footerCode">
+				<img src="/index/xhtml/images/cxzgewm.png">
+			</div>
+			<div class="footerLink">
+				<h3>友情链接</h3>
+				<ul>
+					
+						<li>
+							<a href="https://www.gov.cn/" target="_blank"  >中国政府网</a>
+						</li>
+
+						<li>
+							<a href="http://www.ndrc.gov.cn/" target="_blank"  >国家发展和改革委员会</a>
+						</li>
+
+						<li>
+							<a href="http://www.moe.gov.cn/" target="_blank"  >教育部</a>
+						</li>
+
+						<li>
+							<a href="http://www.most.gov.cn/index.html" target="_blank"  >科学技术部</a>
+						</li>
+
+						<li>
+							<a href="https://www.miit.gov.cn/" target="_blank"  >工业和信息化部</a>
+						</li>
+
+						<li>
+							<a href="https://www.mps.gov.cn/" target="_blank"  >公安部</a>
+						</li>
+
+						<li>
+							<a href="http://www.mca.gov.cn/" target="_blank"  >民政部</a>
+						</li>
+
+						<li>
+							<a href="http://www.moj.gov.cn/" target="_blank"  >司法部</a>
+						</li>
+
+						<li>
+							<a href="http://www.mnr.gov.cn/" target="_blank"  >自然资源部</a>
+						</li>
+
+						<li>
+							<a href="https://www.mee.gov.cn/" target="_blank"  >生态环境部</a>
+						</li>
+
+						<li>
+							<a href="https://www.mohurd.gov.cn/" target="_blank"  >住房和城乡建设部</a>
+						</li>
+
+						<li>
+							<a href="https://www.mot.gov.cn/" target="_blank"  >交通运输部</a>
+						</li>
+
+						<li>
+							<a href="http://www.mwr.gov.cn/" target="_blank"  >水利部</a>
+						</li>
+
+						<li>
+							<a href="http://www.moa.gov.cn/" target="_blank"  >农业农村部</a>
+						</li>
+
+						<li>
+							<a href="http://www.nhc.gov.cn/" target="_blank"  >国家卫生健康委员会</a>
+						</li>
+
+						<li>
+							<a href="https://www.samr.gov.cn/" target="_blank"  >国家市场监督管理总局</a>
+						</li>
+
+						<li>
+							<a href="http://www.nrta.gov.cn/" target="_blank"  >国家广播电视总局</a>
+						</li>
+
+						<li>
+							<a href="https://www.sport.gov.cn/" target="_blank"  >国家体育总局</a>
+						</li>
+
+						<li>
+							<a href="http://www.cac.gov.cn/" target="_blank"  >国家互联网信息办公室</a>
+						</li>
+
+						<li>
+							<a href="http://www.scio.gov.cn/index.htm" target="_blank"  >国务院新闻办公室</a>
+						</li>
+
+						<li>
+							<a href="https://www.cas.cn/" target="_blank"  >中国科学院</a>
+						</li>
+
+						<li>
+							<a href="http://cass.cssn.cn/" target="_blank"  >中国社会科学院</a>
+						</li>
+
+						<li>
+							<a href="https://www.cae.cn/" target="_blank"  >中国工程院</a>
+						</li>
+
+						<li>
+							<a href="http://www.ncha.gov.cn/" target="_blank"  >国家文物局</a>
+						</li>
+
+						<li>
+							<a href="https://www.cnipa.gov.cn/" target="_blank"  >国家知识产权局</a>
+						</li>
+
+						<li>
+							<a href="http://www.people.com.cn/" target="_blank"  >人民网</a>
+						</li>
+
+						<li>
+							<a href="http://www.news.cn/" target="_blank"  >新华网</a>
+						</li>
+
+						<li>
+							<a href="http://www.china.com.cn/" target="_blank"  >中国网</a>
+						</li>
+
+						<li>
+							<a href="http://www.cri.cn/" target="_blank"  >国际在线</a>
+						</li>
+
+						<li>
+							<a href="https://cn.chinadaily.com.cn/" target="_blank"  >中国日报网</a>
+						</li>
+
+						<li>
+							<a href="https://www.cctv.com/" target="_blank"  >央视网</a>
+						</li>
+
+						<li>
+							<a href="https://www.youth.cn/index.htm" target="_blank"  >中国青年网</a>
+						</li>
+
+						<li>
+							<a href="http://www.ce.cn/" target="_blank"  >中国经济网</a>
+						</li>
+
+						<li>
+							<a href="http://www.taiwan.cn/" target="_blank"  >中国台湾网</a>
+						</li>
+
+						<li>
+							<a href="http://www.tibet.cn/" target="_blank"  >中国西藏网</a>
+						</li>
+
+						<li>
+							<a href="http://www.cnr.cn/" target="_blank"  >央广网</a>
+						</li>
+
+						<li>
+							<a href="https://www.gmw.cn/" target="_blank"  >光明网</a>
+						</li>
+
+						<li>
+							<a href="http://www.81.cn/" target="_blank"  >中国军网</a>
+						</li>
+
+						<li>
+							<a href="https://www.chinanews.com.cn/" target="_blank"  >中国新闻网</a>
+						</li>
+
+						<li>
+							<a href="http://www.rmzxb.com.cn/index.shtml" target="_blank"  >人民政协网</a>
+						</li>
+
+						<li>
+							<a href="http://www.legaldaily.com.cn/" target="_blank"  >法治网</a>
+						</li>
+
+				</ul>
+			</div>
+			<div class="footerInfo">
+				<ul class="Line">
+
+						<li>
+							<a href="/index/yqlj2/2019-07/12/content_777187.shtml" target="_blank"  >科技日报社概况</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202201/b1fa7143d2e04ce88033866956fdcebb.shtml" target="_blank"  >科技日报概况</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202108/560250.shtml" target="_blank"  >报社领导</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202203/57700e207355471a9341e0dd5b11fa57.shtml" target="_blank"  >关于中国科技网</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/2016-09/02/content_143082.shtml" target="_blank"  >联系我们</a>
+						</li>
+
+						<li>
+							<a href="http://www.stdaily.com/index/zhaopinxx/common_list_2021.shtml" target="_blank"  >科技日报社公开招聘公告</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202206/cae9791c6ba24b01bc44bf84af642d53.shtml" target="_blank"  >互联网新闻信息服务许可证</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/202112/1238037.shtml" target="_blank"  >信息网络传播视听节目许可证</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/2021-09/10/content_1218859.shtml" target="_blank"  >举报平台</a>
+						</li>
+
+						<li>
+							<a href="/index/yqlj2/2017-01/01/content_595705.shtml" target="_blank"  >版权声明</a>
+						</li>
+
+				</ul>
+				<dl>
+					<dt>Copyright © Science and Technology Daily, All Rights Reserved</dt>
+					<dd>中国科技网 版权所有</dd>
+				</dl>
+				<ul>
+					<li><a href="https://beian.miit.gov.cn/" target="_blank">京ICP备<span>06005116</span>号</a></li>
+
+						<li>
+							<a href="/index/yqlj2/201612/479754.shtml" target="_blank"  >违法和不良信息举报电话：010-58884065</a>
+						</li>
+
+					<li>京公网安备 110402500060</li>
+				</ul>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+<script type="text/javascript" src="/index/xhtml/index/js/share.js"></script>
+<script type="text/javascript">
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?d11e62e2e2c8d774bb326bab95dd0a4d";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+	(function() {
+		var bp = document.createElement('script');
+		var curProtocol = window.location.protocol.split(':')[0];
+		if (curProtocol === 'https') {
+			bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+		} else {
+			bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+		}
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(bp, s);
+	})();
+	var _trackDataType = 'web';
+	var _trackData = _trackData || [];
+</script>
+<script type="text/javascript" charset="utf-8" id="kpyfx_js_id_10007769" src="//fxsjcj.kaipuyun.cn/count/10007769/10007769.js"></script>
+    <!-- footE -->
+    <script>
+        $("#myCarousel4").carousel('cycle');
+        window._bd_share_config = {
+            "common": {
+                "bdSnsKey": {},
+                "bdText": "",
+                "bdMini": "2",
+                "bdMiniList": false,
+                "bdPic": "",
+                "bdStyle": "0",
+                "bdSize": "24"
+            },
+            "share": {},
+            "image": {
+                "viewList": ["qzone", "tsina", "weixin"],
+                "viewText": "分享到：",
+                "viewSize": "24"
+            }
+        };
+        with(document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+    </script>
+    <script type="text/javascript">
+        $(function() {
+            var fp_subtitle = $.trim($(".fp_subtitle").html());
+            if (fp_subtitle == null || fp_subtitle == "") {
+                $(".fp_title").css('display', 'inline');
+                $(".fp_subtitle").hide();
+            }
+            if ($('.indexNumber').html() == '') {
+                $('.indexNumber').html('0')
+            }
+            var f_source = $('.sourceCont').html();
+            var f_author = $('.authorCont').html();
+            if ($.trim(f_source) == '') {
+                $('.f_source').hide()
+            } else {
+                $('.f_source').show();
+            }
+            if ($.trim(f_author) == '') {
+                $('.f_author').hide()
+            } else {
+                $('.f_author').show();
+            }
+        })
+    </script>
+</body>
+
+</html>

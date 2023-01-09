@@ -1,14 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<script type="text/javascript">
+  var pvinsight_page_ancestors = '204635152;252416676;252416802;405847566';
+</script>
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=gb2312" />
-<title>《爱情悠悠药草香》引争议 豪宅争宠被指大杂烩-搜狐娱乐</title>
-<meta name="keywords" content="爱情悠悠药草香 韩栋 娄艺潇">
-<meta name="description" content="大太太宣萱二姨太倪虹洁韩栋、娄艺潇真爱无限搜狐娱乐讯由上海辛迪加影视公司出品，蒋家骏担任导演的“民国爱情美剧”《爱情悠悠药草香》正在安徽、江苏两大卫视黄金档热播">
-<link rel="canonical" href="http://yule.sohu.com/20130820/n384593657.shtml"/>
+<title>《露水红颜》评：看完敢点赞？敬你是条汉！-搜狐娱乐</title>
+<meta name="keywords" content="红颜 露水">
+<meta name="description" content="《露水红颜》是混搭了各种元素的大杂烩。搜狐娱乐（三三/文）前不久，搜狐娱乐刚刚推出过一期《国产爱情片纷纷患上“清新癌”》的策划【点击阅读】，文中提到了国产爱情片">
+<link rel="canonical" href="http://yule.sohu.com/20141106/n405847566.shtml"/>
 <meta name="robots" content="all">
+<!-- 购买url变量获取 -->
 <script type="text/javascript">
-  var category =  '204635152;220049438;227749922;384593657';  var videoNum = 1;  var relate_from_sohu = false;
+ var shoppingCnf = {url:''};
+</script>
+<!-- 购买url变量获取end -->
+<script type="text/javascript">
+  var category =  '204635152;252416676;252416802;405847566';  var videoNum = 1;  var relate_from_sohu = false;
 </script>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 <script src="http://www.sohu.com/sohuflash_1.js" type="text/javascript"></script>
@@ -180,8 +189,11 @@ function media_span_url(id_media_span_url) {
         fid = sid;       
     });
 </script>
-<link type="text/css" rel="stylesheet" href="http://css.sohu.com/upload/global1.4.1.css" />
-<link type="text/css" rel="stylesheet" href="http://news.sohu.com/upload/article/2012/style.v20130805.css" />
+<link type="text/css" rel="stylesheet" href="//css.sohu.com/upload/global1.4.1.css" />
+<link type="text/css" rel="stylesheet" href="//news.sohu.com/upload/article/2012/style.v20150623.css" />
+<style>
+.original-tit{font-size:14px;line-height:24px;padding-left:28px;}
+</style>
 <style>
 #channel-nav{border-bottom:3px #BA0A0A solid;}
 #container .rightbar-wrapper h2,.search-hotword .search .search-btn{background:url(//news.sohu.com/upload/article/2012/images/themes/bg_right_themes.gif) no-repeat 0 -500px;}
@@ -215,6 +227,7 @@ sogou_is_brand["pid"]  = 'sohu__brand';
 sogou_is_brand["charset"]   = 'gb2312';
 sogou_is_brand["sohuurl"] = document.location.href;
 </script>
+
 </head>
 
 <body>
@@ -670,8 +683,8 @@ if(/debug=2/.test(document.location.search))
     if(cval!=null) 
         document.cookie= "indexpoped=1;expires="+exp.toGMTString()+";path=/;domain=.sohu.com"; 
 }
-</script><span>&gt; <a href=http://yule.sohu.com/tv.shtml>电视 TV</a> &gt; <a href=http://yule.sohu.com/ndds.shtml>内地电视</a></span></div>
-	<div class="navigation" style="display:none" ><a href=http://yule.sohu.com/>搜狐娱乐</a> &gt; <a href=http://yule.sohu.com/tv.shtml>电视 TV</a> &gt; <a href=http://yule.sohu.com/ndds.shtml>内地电视</a></div>
+</script><span>&gt; <a href=http://yule.sohu.com/scoops/>独家频道</a> &gt; <a href=http://yule.sohu.com/scoopplan/>独家策划案</a></span></div>
+	<div class="navigation" style="display:none" ><a href=http://yule.sohu.com/>搜狐娱乐</a> &gt; <a href=http://yule.sohu.com/scoops/>独家频道</a> &gt; <a href=http://yule.sohu.com/scoopplan/>独家策划案</a></div>
 	<div class="right"><a href="http://yule.sohu.com/movie.shtml" target="_blank">电影</a> | <a href="http://yule.sohu.com/tv.shtml" target="">电视</a> | <a href="http://music.yule.sohu.com/" target="_blank">音乐</a> | <a href="http://yule.sohu.com/drama.shtml" target="_blank">戏剧</a>  | <a href="http://tv.sohu.com/" target="_blank">视频</a></div>
 </div>
 <!-- 频道导航 end -->
@@ -684,13 +697,13 @@ if(/debug=2/.test(document.location.search))
 		</div>		
 		<div class="content-box clear">
 			<!-- 文章标题 -->
-			<h1 itemprop="headline">《爱情悠悠药草香》引争议 豪宅争宠被指大杂烩</h1>			
+			<h1 itemprop="headline">《露水红颜》评：看完敢点赞？敬你是条汉！</h1>
 			<!-- 正文标签 -->
 			<div class="label-ad clear" id="commentTab">
 				<div class="label">
 					<ul>
 						<li class="text-label" itemprop="isHot" content="true"><em>正文</em></li>
-						<li class="com-label"><em><a href="http://pinglun.sohu.com/s384593657.html" itemprop="discussionUrl">我来说两句<span class="f12">(<span class="red" id="changyan_parti_unit"><img src="http://comment.news.sohu.com/upload/comment4/images/loading_blue.gif" width="16px" height="16px" /></span>人参与)</span></a></em></li>
+						<li class="com-label"><em><a href="http://pinglun.sohu.com/s405847566.html" itemprop="discussionUrl">我来说两句<span class="f12">(<span class="red" id="changyan_parti_unit"><img src="http://comment.news.sohu.com/upload/comment4/images/loading_blue.gif" width="16px" height="16px" /></span>人参与)</span></a></em></li>
 					</ul>
 				</div>
 				<div class="ad">
@@ -705,7 +718,7 @@ if(/debug=2/.test(document.location.search))
 				<script type="text/javascript">
 					jQuery(function(jq){
 					    if(jq("#scan-layer-id .scan-pic img").length > 0){
-	                           var theU = "http://s1.rr.itc.cn/qrcode/m/n/"+384593657+".png";
+	                           var theU = "http://s1.rr.itc.cn/qrcode/m/n/"+405847566+".png";
 	                           jq("#scan-layer-id .scan-pic img").attr("src",theU);
 	                    }
 						jq("#scan-handset").click(function(){
@@ -718,19 +731,24 @@ if(/debug=2/.test(document.location.search))
 				</script>
 			</div>				
 			<!-- 时间 来源 -->
-			<div class="time-fun clear">
+		    <div class="time-fun clear">
 				<div class="time-source">
-					<div class="time" itemprop="datePublished" content="2013-08-20T10:36:38+08:00">2013年08月20日10:36</div>						
+					<div class="time" id="pubtime_baidu" itemprop="datePublished" content="2014-11-06T23:17:13+08:00">2014-11-06 23:17:13</div>						
 					<div class="source">
 						
-						<span class="sc">来源：<span id="media_span" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">搜狐娱乐</span></span></span>
+						<span class="sc" id="source_baidu" >来源：<span id="media_span" itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">搜狐娱乐</span></span></span>
 						
 						
 					</div>				
 				</div>
-				<div class="function">
+				<style>
+				#container .time-fun .time-source{width:420px}
+				#container .time-fun .time-source .source{width:293px}
+				#container .time-fun .function .phone-ctcp a{padding-left:16px;background:url(http://news.sohu.com/upload/article/2012/images20140613/down.gif) no-repeat 0 1px}
+				</style>
+                <div class="function">
 					<ul>
-						<li class="phone-ctcp"><a href="http://k.sohu.com/" target="_blank">手机客户端</a></li>
+						<li class="phone-ctcp"><a href="http://k.sohu.com/" target="_blank">手机看新闻</a></li>
 						<li class="transmit_txt"><a href="javascript:void(0)">保存到博客</a></li>
 						<li class="fontsize"><a href="javascript:void(0)"></a>
 							<div class="fontsize-layer"><a href="javascript:doZoom(16)">大</a>|<a href="javascript:doZoom(14)">中</a>|<a href="javascript:doZoom(12)">小</a></div>
@@ -740,117 +758,131 @@ if(/debug=2/.test(document.location.search))
 						</li>                                      
 					</ul>
 				</div>
-			</div>			
-			<SOHUADCODE></SOHUADCODE>			
+			</div>
+			<SOHUADCODE></SOHUADCODE>
+                        
+                        			
 			<!-- 正文 -->
 			<div class="text clear" id="contentText">
 				<div itemprop="articleBody"><div class="text-pic">
 <table class="tableImg" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align: center;"><img src="http://photocdn.sohu.com/20130820/Img384593661.jpg" alt="大太太宣萱" align="middle" /></td>
+<td style="text-align: center;"><img src="http://photocdn.sohu.com/20141106/Img405847578.jpg" alt="" align="middle" /></td>
 </tr>
 <tr>
-<td class="text-pic-tt" style="text-align: center;">大太太宣萱</td>
+<td class="text-pic-tt" style="text-align: center;">《露水红颜》是混搭了各种元素的大杂烩。</td>
 </tr>
 </tbody>
 </table>
 </div>
-<p></p>
-<div class="text-pic">
-<table class="tableImg" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody>
-<tr>
-<td style="text-align: center;"><img src="http://photocdn.sohu.com/20130820/Img384593662.jpg" alt="二姨太倪虹洁" align="middle" /></td>
-</tr>
-<tr>
-<td class="text-pic-tt" style="text-align: center;">二姨太倪虹洁</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p></p>
-<div class="text-pic">
-<table class="tableImg" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody>
-<tr>
-<td style="text-align: center;"><img src="http://photocdn.sohu.com/20130820/Img384593663.jpg" alt="韩栋、娄艺潇真爱无限" align="middle" /></td>
-</tr>
-<tr>
-<td class="text-pic-tt" style="text-align: center;">韩栋、娄艺潇真爱无限</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p><br />　　搜狐娱乐讯 由上海辛迪加影视公司出品，蒋家骏担任导演的“民国爱情美剧”《爱情悠悠药草香》正在安徽、江苏两大卫视黄金档热播。该剧由娄艺潇、韩栋、宣萱、钱泳辰、倪虹洁、仝晓燕、夏台凤、曾江等领衔主演。该剧在女人与女人之间的斗争中突出了民国时期的各种情感纠纷，有评论称：“这是一部拼盘大杂烩，宫斗、励志、爱情、悬疑，热播剧的元素全都囊括其中了”。导演第一次执导民国戏，通过不同的拍摄手法和理念，将民国大家族的点滴记录在一部剧中，并表示对这部戏很有信心。</p>
+<p><br />　　搜狐娱乐（三三/文）前不久，搜狐娱乐刚刚推出过一期《国产爱情片纷纷患上“清新癌”》的策划<a href="http://yule.sohu.com/20141027/n405487753.shtml" target="_blank">【点击阅读】</a>，文中提到了国产爱情片中存在太多情节弱智、节奏奇怪、场景单一的问题电影。没想到，这种在新锐导演或者日韩导演身上的“高发病”，竟然也传染给了在电视剧界颇有威望的高希希导演。经搜狐娱乐鉴定，<span style="color: #3366ff;">他的银幕处女作《露水红颜》不仅罹患清新癌晚期，更让人痛心的是，高希希在采访时却将这部电影定性为“这是一部属于观众、迎合市场的电影”。</span></p>
+
 <!-- auto_video_begin --><div class="video">
 <div class="text-video-focus">
 <script type="text/javascript" src="http://tv.sohu.com/upload/swf/showVrsPlayer.js"></script>
 <script type="text/javascript">// <![CDATA[
-showVrsPlayer({vid: '1244841',pid: '227749922',width: '360',height: '305',autoplay: 'false',playercover: 'http://photocdn.sohu.com/20130718/vrs907294.jpg',playerID:'player44',showCtrlBar:1});
+showVrsPlayer({vid: '2054428',pid: '252416802',width: '360',height: '305',autoplay: 'false',playercover: 'http://photocdn.sohu.com/20141029/vrs1442896.jpg',playerID:'player44',showCtrlBar:1});
 // ]]></script></div>
-<div class="num-share">		<div class="btn-num"><a href="javascript:void(0)" class="vbtn-ding"></a><a href="javascript:void(0)" class="vbtn-cai"></a></div>		<div class="vbtn-fa">			<ul>				<li class="s-tv"><a title="转发至视频空间" href="#"></a></li>				<li class="s-wb-sina"><a title="转发至新浪微博" href="#"></a></li>				<li class="s-kj-qq"><a title="转发至QQ空间" href="#"></a></li>				<li class="s-rr"><a title="转发至人人网" href="#"></a></li>			</ul>		</div>	</div>
-<div class="video-mutu"></div></div><script>_vid = "1244841"; _pid = "227749922"; _title = "《爱情悠悠药草香》片头MV"; _url = "http://tv.sohu.com/20130718/n381975015.shtml"; cover = "http://photocdn.sohu.com/20130718/vrs907294.jpg";</script><script src="http://tv.sohu.com/upload/static/frag/news_video.js"></script><!-- auto_video_end -->
-
-<p>　　<strong>女人相争 宫斗影子随处可见</strong></p>
-<p>　　《爱情悠悠药草香》播出近一周的时间里，不断有评论称该剧就是一部民国版的《甄嬛传》。剧中妻妾之间为争宠上位而使劲手段，为了寻得富贵的生活想尽一切办法怀孕，这种思路几乎就是宫廷女人的进阶史。下药、流产、扮鬼、找替罪羊，一切恶行都是为了保住自己的地位，而这些就更是宫廷女人才会做的事。尤其是宣萱饰演的二爷的大太太，名正言顺地打压着所有会对自己造成威胁的人。有网友称：“这俨然一副皇后样，背后使坏却让人浑然不知。”</p>
-<p>　　虽然宣萱的角色属于腹黑型，但她却有别于所谓的“皇后”，民国时期虽然是一夫一妻多妾，但妻子在家中的地位还是无法被轻易撼动，再加上家族间存在着利益关系，所以夫妻二人还是处于相对平等的地位，并非与宫廷一样。而宣萱所展现的绝对权力，不只是针对妾室，就连与丈夫白乾笙（韩栋饰）也会有现代夫妻之间的争吵拌嘴，《爱情悠悠药草香》是一部更接近于现代人的宅斗大戏。比起宣萱的腹黑程度，倪虹洁饰演的二姨太也是个不折不扣的“幕后黑手”，暗中挑拨离间实则为了死去的儿子复仇，谈到这个角色的悲情命运，倪虹洁本人表示：“一切都是为了争宠，我总结暗争是一种狡猾的手段，但是明斗就会死的早。”导演也称：“《爱情悠悠药草香》女人之间极致的矛盾很吸引我，这部年代戏有自己的味道。”</p>
-<p>　　<strong>励志传奇 堪称民国版大长今</strong></p>
-<p>　　《爱情悠悠药草香》不仅是一部豪门宅斗戏，更是一部讲述了励志人生的正能量情感大戏。女主角娄艺潇饰演的黄采薇，是个从仆人之女摇身一变成为受宠姨太太的女子，她精通药理，懂得经营之道，更会为人处事。尽管生活的身不由己，但在这样一个狭窄的宅院内生存，她深谙豪门之内的规则。虽然无数次被虐被陷害，但一颗打不倒的坚强内心还是支撑着她生存了下来。有很多观众表示：“这不就是当年宫廷里的大长今吗！什么都懂什么都会，还一直很善良。”</p>
-<p>　　娄艺潇在接受采访时也表示：“黄采薇身上有一种恬静又大气的双重性格，对待任何人也是友善为先。”无辜被虐的她总是希望能够平息事态，不要连累更多的人，但命运弄人，因为周转在兄弟二人的感情中间，采薇不断遭受到闲言碎语，仿佛怎么做怎么都是错。一直在委屈自己成全别人的采薇，也让观众爱上了这个白家大院内的女人。</p>
-<p>　　<strong>唯美爱情 开启琼瑶式的浪漫</strong></p>
-<p>　　辛迪加影视公司专注于出品美人、美景、美情的“爱情美剧”，尽管《爱情悠悠药草香》是一部年代戏，但是在爱情的唯美程度上绝对不输浪漫之母琼瑶阿姨。从拍摄的角度说，导演蒋家骏有着执导多部爱情戏的经验基础；从剧本的角度说，豪宅之内争斗不断，却始终存在着善良的人，这就与阴谋算计形成了一种中和；从爱情的角度说，表面的一夫多妻都只是特殊年代的无奈选择，在男女主角心中仍然有美好单纯的爱。韩栋深知自己心爱的女人爱着自己的大哥，但经过多年的等待，终于在道德舆论允许的情况下娶回爱妻，用真心实意打动了这个固执于过去的女子。有观众调侃说：“这么浪漫的故事只有琼瑶阿姨的剧本里才会有吧！“</p>
-<p>　　有网友把《爱情悠悠药草香》与琼瑶式爱情作比：“男女主角日久生情，一方出身低贱无背景，一方高贵在上有学识，他们的爱情遭到家庭的反对，后因二人坚持不懈，用真心证明了爱情可以冲破一切，终于赢得了圆满结为秦晋之好。”剧中，韩栋与娄艺潇从小一起长大，有着相同的人生目标和兴趣爱好，对任何人都心存善意，惺惺相惜的二人会通过自己的行动为观众撒下爱。</p>
-<p>　　<strong>设计陷害 充满侦探剧的悬疑</strong></p>
-<p>　　《爱情悠悠药草香》一开篇便是三姨太仝晓燕被陷害导致两度流产，无论是太太指使下人在三姨太的鞋上动手脚制造意外的假象，还是半夜扮鬼导致三姨太惊吓过度流产，种种手段之阴险让观众直呼：“这简直就是悬疑作案的节奏啊！”擅长女人戏的导演蒋家骏透露：“剧中细腻的女人争斗让我觉得很有成就感，除此之外，女人使坏的&lsquo;高招&rsquo;也是层出不穷。”除了女人之间的暗斗，生意场上的设计陷害也一直存在，马馥芳的父亲马国安（曾江饰）堪称商场上的“老油条”，为了获得更多的利益，他不惜设圈套杀害自己的女婿白乾笙，令人发指的行为也为该剧增添了更多的精彩元素。</p>
-<p>　　只要宅院内有姨太太怀孕或是得宠，总会发生一些惨剧，看上去真实的像是意外现场，但实际上都是人为操纵。精彩的剧情配合着迷雾缭绕的音效，漆黑的夜晚总要发生一些惊人的事件。而《爱情悠悠药草香》所讲述的药草世家白家大院，是以经营药品而闻名于当时，剧中常常出现的“三七”也成了治愈神药，所有的意外只要有“三七”，定会有立竿见影的效果，网友调侃：“真是侦探悬疑外带治愈的一条龙服务啊。”</p>
-<p>　　<strong>家庭纠纷 婆媳矛盾亘古不变</strong></p>
-<p>　　《爱情悠悠药草香》既然是发生在豪宅内，又有这么多的儿媳妇，剧中自然少不了亘古不变的婆媳矛盾。白老太太（夏台凤饰）有着绝对的当家地位，但出于亲生儿子在家中的地位还未稳固，所以百般阻碍二少爷白乾笙以及多房妻妾的发展。面对面的质问惩戒，背地里的暗插奸细，白家的大小事情都在她的掌控范围之下。虽然儿媳妇们心知肚明，但却无人敢反抗，封建残余制度下的婆媳之争还是以唯听是从为主。</p>
-<p>　　《爱情悠悠药草香》集合了所有与家庭、女人、夫妻有关的看点，虽然看似是一部杂烩剧，但剧中所诠释的人性和家庭核心还是让很多观众看到了一部浓缩的民国史，其中蕴藏着观众或了解或不了解的多面内容。在女人争斗中也暗示了用人和生存的智慧，《爱情悠悠药草香》是值得用心品看的爱情励志大戏。</p>
-<div class="text-pic">
-<table class="tableImg" border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody>
-<tr>
-<td style="text-align: center;"><img src="http://i1.itc.cn/20130607/b22_8d2972ca_9633_976b_3fe8_c717c56dd1c5_1.png" alt="" align="middle" /></td>
-</tr>
-</tbody>
-</table>
-</div></div>
+<div class="num-share">		<div class="btn-num"><a href="javascript:void(0)" class="vbtn-ding"></a><a href="javascript:void(0)" class="vbtn-cai"></a></div>		<div class="vbtn-fa">			<ul>				<li class="s-tv"><a title="转发至视频空间" href="#"></a></li>				<li class="s-wb-sina"><a title="转发至新浪微博" href="#"></a></li>				<li class="s-kj-qq"><a title="转发至QQ空间" href="#"></a></li>				<li class="s-rr"><a title="转发至人人网" href="#"></a></li>			</ul>		</div>	</div><div class="video-mutu-a">[相关]<a href="http://tv.sohu.com/20141024/n405424901.shtml?src=sohuBP_left_QR" target="_blank" title="露水红颜 群星特辑">露水红颜 群星特辑..</a>&nbsp;|&nbsp;&nbsp;<a href="http://tv.sohu.com/20140917/n404403623.shtml?src=sohuBP_left_QR" target="_blank" title="露水红颜刘亦菲特辑“遭罪记”">露水红颜刘亦菲特辑“遭..</a></div>
+<div class="video-mutu"></div></div><script>_vid = "2054428"; _pid = "252416802"; _title = "露水红颜主题曲MV"; _url = "http://tv.sohu.com/20141029/n405571032.shtml"; cover = "http://photocdn.sohu.com/20141029/vrs1442896.jpg";</script><script src="http://tv.sohu.com/upload/static/frag/news_video.js"></script><!-- auto_video_end -->
+<p>　　当然，从某种角度来看，高希希也并没有说错。《露水红颜》里，他热衷于将这部电影打造成一个混搭了各种元素的大杂烩：爱情片、商战片、赛车片、悬疑片，然后再用一个韩剧式的故事结构包装起来。他将这部电影做成了一份麻辣烫，里面搭配了最受欢迎的涮菜，却没注意食材之间的相宜相克，导致肠胃敏感的食客上吐下泻。</p>
+<p><strong>　　【剧情梗概】</strong></p>
+<p>　　这部电影是根据张小娴的同名小说改编，这本爱情小说诞生在将近十年以前。在当时或许能算是新颖但十年之间，相同题材的故事实在太多。不过高希希说了，电影与小说完全是两件事情，也就是说，高希希觉得自己完全打破了原小说，二次创作。</p>
+<p>　　而结果如何呢？事实上是，相信在很多人的成长经历中，一定看过至少一部与《露水红颜》故事概念相似的电影/电视剧：其实并不怎么缺钱用的咖啡店老板娘（<a href="http://quan.sohu.com/taghome/%E5%88%98%E4%BA%A6%E8%8F%B2" target="_blank">刘亦菲</a>饰演），因为一千多万的酬劳，需要勾引一位不愿意接受家族产业，一心想画画的富二代（Rain饰演）。原计划是让他喜欢上她，最后她再因为他穷，也没才华狠狠甩掉他，以此让富二代受挫，以便回去继承家业。</p>
+<p>　　毫无意外地，刘亦菲虽然圆满完成了任务，但还是喜欢上了Rain，然后毫无意外地，Rain也知道了真相&hellip;&hellip;为了避免剧透，接下来的故事我们就不再一一赘述，因为故事说到这里，相信很多观众都可以凭过往的看片经验继续联想下去。（或许当你们带着自己的猜测走进电影院后，会意外发现，自己不去当编剧真的太可惜了。）</p>
+<p><strong>　　【论剧情：这是一部科幻片！】</strong></p>
+<p><span style="font-family: 幼圆;">　　男女主角自带人肉GPS导航，逻辑去哪儿了？</span></p>
+<p>　　爱情电影里，男女主角的街角重逢是一件多么浪漫且有戏剧感的事情。巧遇一次是缘分，两次是注定，如果三次就有点跳戏了。但如果还有四次、五次，甚至在一些莫名其妙的场合都能重逢，那真的就是科幻片了。《露水红颜》自然属于后者。自从电影的开头，Rain开的车差点撞到小学同学刘亦菲这第一次“重逢”之后，两人之后的见面就朝着不可思议的方向发展下去。在上海，刘亦菲想要跳楼，恰好碰到了来找回忆的Rain；在外滩，Rain坐在赛车里，刚往前开没多久，刘亦菲突然冲出来，拦在了Rain的面前——刘亦菲竟然能在两辆长得一模一样且高速行驶的赛车面前，精准判断出哪一辆是Rain开的，不得不佩服她的好眼力。</p>
+<p>　　最具有科幻气质的“重逢”莫过于快到结尾的地方，Rain千里迢迢跑去找刘亦菲吵架。争吵后的两人似乎有些意犹未尽，于是原本已经开车离开的Rain掉头回去。与此同时，刘亦菲也一把冲出房门，准备去追车&hellip;&hellip;从背后的风景判断，两人走的是不同的路，并且一前一后时间隔了有一会。但最终在某一个拐角，带着伤跑了可能不止一千米的刘亦菲竟然再次与坐在车里的Rain重逢！这样都能撞见，不得不怀疑这两人是否都在身体里装了人肉GPS导航系统。</p>
+<p><span style="font-family: 幼圆;">　　被急刹车撞出抛物线，地心引力去哪儿了？</span></p>
+<p>　　电影里有一处美轮美奂的撞车场景。一位美丽的女子撞上了一辆小轿车，然后慢镜头叙事开始，只见这位女子先是被撞出一条抛物线，然后从马路的左侧在空中划出一条美丽的曲线，然后掉入了右测的河里。这时候问题就来了：明明这辆小轿车已经采取了紧急制动模式，并且这不是高速公路，在一条有限速的普通公路上，一个体重看上去明显超过50KG的女孩，是如何能够被撞出一条那么高的抛物线呢？并且车是竖着开的怎么就撞成横着的抛物线了呢？是这位女子脚上安装了喷气装置，还是维也纳这座城市没有地心引力？</p>
+<p><span style="font-family: 幼圆;">　　外滩可以赛黑车，警察去哪儿了？</span></p>
+<p>　　为了增加电影的商业元素，电影里将穷得只剩下画的Rain设定成一个靠赛车赚钱的人。于是奇妙的一幕开始了，在上海的外滩，竟然有一条没有人烟的高速公路能够赛黑车，并且大晚上的所有热爱这一项目的人都集中在了这里。</p>
+<p>　　赌博、赛车的超速与喧嚣、群众的呼喊，还有乱七八糟的护栏和垃圾，堂堂大上海怎么允许这样的事情发生？</p>
+<p><strong>　　【聊台词：这是一部哲理片！】</strong></p>
+<p>　　说完神展开的剧情之后，还有一些台词听过之后让人对自己的智商产生了深深的怀疑，具体心里活动如下：这句话说出来不是等于没说吗？难道有潜台词？可是&hellip;&hellip;想了很久还是觉得没有潜台词啊&hellip;&hellip;</p>
+<p><span style="font-family: 幼圆;">　　“因为你是个画家”</span></p>
+<p>　　说这句话的是刘亦菲饰演的角色：咖啡店老板娘说出来的。有一天刘亦菲实在看不下去Rain又穷又爱闹事，所以让他留下来在咖啡店工作。Rain在一杯咖啡的奶泡上用巧克力画了一个简笔涂鸦，刘亦菲大加赞赏地说“知道你为什么做得这么好吗？”当你以为她会说出一句让你眼前一亮的哲理时，她说：“因为你是个画家。”——这难道这不是整部电影在一开头就不停在告诉观众的事实吗？最可怕的是Rain竟然还若有所思地点了点头。</p>
+<p><span style="font-family: 幼圆;">　　“老公会用一辈子的时间弥补缺憾”</span></p>
+<p>　　刘亦菲和Rain一起去吃法餐，服务员误将藏着戒指的蛋糕端上了他们的桌子。刘亦菲很熟练地一秒钟就找到了藏在偌大蛋糕里的小钻戒，并把它藏了起来，对Rain说“订婚的时候没有这枚戒指，以后老公会用一辈子的时间来弥补这次的缺憾。”乍一听特别浪漫对不对？可是事实上如果没有这枚戒指，当女孩吃完整个蛋糕都没吐出戒指的时候，男孩的第一反应该是“糟糕这枚戒指不会被女孩吞下去了吧”，然后男孩告诉女孩真相，两人接下来两人应该直接去医院了。</p>
+<p>　　电影里特地加了这样一个完全经不起推敲，只是为了矫情而矫情的桥段，往积极正面的方向来说，大抵是编剧在自黑，以此来讽刺那些因为矫情而忽略了智商的“清新癌”们。</p>
+<p><span style="font-family: 幼圆;">　　“你的眼睛像孩子一样纯洁清澈，但你的心却难逃世俗”</span></p>
+<p>　　说这句话的时候，是Rain在酒店里发现了刘亦菲与别人开房，心碎的时候说出来的一句分手台词。Rain在电影里，一直都是一个阳光大男孩的形象出现，全程只负责做一些很蠢却很浪漫的事情讨刘亦菲欢心，在分手时，竟然能说出这样一句文邹邹的话语也是太让人大跌眼镜。不仅如此，除了部分较为简单且要给脸部大特写的镜头是用中文对的口型之外，Rain全程都在说韩语，所以最直观的视觉体验是，Rain对着镜头胡说一气，然后一个陌生的声音飘出来，念了这样一句文艺到不行的话语，如何叫人不跳戏。</p>
+<p><strong>　　【气氛：这是一部电视剧！】</strong></p>
+<p><span style="font-family: 幼圆;">　　用音乐铺垫所有气氛</span></p>
+<p>　　因为电影又有爱情又有商战又有悬疑成分，如何将这些成分恰如其分地糅合在一起，且能在短短一个半小时之内让观众马上转换情绪呢？导演想到了一个妙招，就是用不同氛围的音乐来进行铺垫，浪漫就用小提琴，抒情就用钢琴，煽情就用大提琴，紧张就用鼓点，并且这些音乐，统统要在画面开始的前一秒钟响起。这样一个懒办法，也是常常能在电视剧中看到的。《露水红颜》在表现悬疑桥段时，画面还未切换，凝重的音乐已经响起，虽然画面中出现的是再正常不过的演员开门入画，然后径直穿过房间的场面。那一刻，把耳朵捂上，光看画面，你是完全看不出任何变化的。</p>
+<p><span style="font-family: 幼圆;">　　镜头语言莫名其妙，导演对演员吃相没信心？</span></p>
+<p>　　另外顺嘴说一说高希希贫乏的镜头语言，这部电影几乎看不到电影感的最大症结就是镜头语言太贫乏，也没什么特别的炫技之处，有的地方还特别莫名其妙。在刘亦菲与Rain浪漫地吃着烛光晚餐分享彼此身世的时候，高希希拼命用旋转的移动旋转镜头拍出了一种紧张感。问题来了，这样的镜头语言常常是为了烘托紧张感、史诗感，可明明两个人是在那里掏心掏肺地、安静地说话和吃饭，这样摇来摇去只会让人产生一种联想——导演对两位演员的吃相没有信心。</p>
+<p><strong>　　结语：高希希是灾难片界的良心</strong></p>
+<p>　　《露水红颜》给人提供了一种这样的观影感受：抱着看爱情片的情绪进场，却怀着看完灾难片的心情离场。就如同我们观看《狂蟒之灾》后会怕蛇，看《不惧风暴》后会怕龙卷风，看《2012》会怕世界末日一样，看完这部电影后，最怕听到和看到的，莫过于导演“高希希”这三个字。</p>
+<p>　　听说当初<a href="http://quan.sohu.com/taghome/%E8%B5%B5%E5%AE%9D%E5%88%9A" target="_blank">赵宝刚</a>银幕处女作《触不可及》在京举行过一场明星首映，许多与他合作过的演员纷纷在观后的饭局上，把导演、表演、故事等等全部赞了一遍。想必在今天上映之后，也一定会有这样的观影场和讨论局出现。对此，我只能说：看完《露水红颜》后还敢点赞的人，我敬你们是条汉子！</p>
+<iframe height="100" src="http://yule.sohu.com/s2013/weixin/" frameborder="0" width="620" scrolling="no"></iframe></div>
+                                
 				<!-- seo标签描述 -->
 				<div style="display:none;">
-					<span id="url" itemprop="url">http://yule.sohu.com/20130820/n384593657.shtml</span>
+					<span id="url" itemprop="url">http://yule.sohu.com/20141106/n405847566.shtml</span>
 					<span id="indexUrl" itemprop="indexUrl">yule.sohu.com</span>
 					<span id="isOriginal" itemprop="isOriginal">true</span>
 					<span id="sourceOrganization" itemprop="sourceOrganization" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">搜狐娱乐</span></span>
 					<span id="author" itemprop="author" itemscope itemtype="http://schema.org/Organization"><span itemprop="name"></span></span>
-					<span id="isBasedOnUrl" itemprop="isBasedOnUrl">http://yule.sohu.com/20130820/n384593657.shtml</span>
+					<span id="isBasedOnUrl" itemprop="isBasedOnUrl">http://yule.sohu.com/20141106/n405847566.shtml</span>
 					<span id="genre" itemprop="genre">report</span>
-					<span id="wordCount" itemprop="wordCount">5302</span>
-					<span id="description" itemprop="description">大太太宣萱二姨太倪虹洁韩栋、娄艺潇真爱无限搜狐娱乐讯由上海辛迪加影视公司出品，蒋家骏担任导演的“民国爱情美剧”《爱情悠悠药草香》正在安徽、江苏两大卫视黄金档热播</span>
+					<span id="wordCount" itemprop="wordCount">6478</span>
+					<span id="description" itemprop="description">《露水红颜》是混搭了各种元素的大杂烩。搜狐娱乐（三三/文）前不久，搜狐娱乐刚刚推出过一期《国产爱情片纷纷患上“清新癌”》的策划【点击阅读】，文中提到了国产爱情片</span>
 				</div>
 			</div>	
-            <div class="original-title"><span class="editer">(责任编辑：王鑫)</span>
+           <div class="original-title"><span class="editer" id="editor_baidu">(责任编辑：秦丽)</span>
 					
-			</div>						
+			</div>					
 			<!-- 分享 -->
 			<div class="share clear" id="share">
 				
 				
-				<ul>
+				
+              <ul>
                                                <li class="share-tt">分享：</li>
                                                <li class="blg"><a href="javascript:void(0)" onclick="jumpUrl('t')" title="分享到搜狐微博"></a><em></em></li>
                                                <li class="qq"><a href="javascript:void(0)" onclick="jumpUrl('qq')" title="分享给QQ好友"></a><em></em></li>
                                                <li class="rrw"><a href="javascript:void(0)" onclick="jumpUrl('renren')" title="分享到人人网"></a></li>
                                                <li class="sohukan"><a href="javascript:void(0)" onclick="jumpUrl('sohukan')" title="收藏到搜狐随身看"></a><em></em></li>
+                                               <li class="pr-code" id="uc_reader"><a href="javascript:void(0)"></a>
+						<div class="pr-code-con">
+							<div id="ucshare_config"  appid="142"  width="116" server="http://plus.uc.cn" appCenter="http://app.uc.cn"></div>
+							<div id="ucshare_picture" ></div>
+							<script  type="text/javascript" src="http://ccs.ucweb.com/ccs/13?_e=1h&_t=http%3A%2F%2Fplus.uc.cn%2Fpublic%2Fjs-min%2Fucshare_qrcode_normal.js"></script>
+						</div>
+					</li>
+
                                                <li class="transmit_txt"><a href="javascript:void(0)">[保存到博客]</a></li>
                                      </ul>
-<div class="go_sohu_home"><a href="http://www.sohu.com" target="_blank" onclick="toHomePage();"></a></div>
+				<div class="go_sohu_home"><a href="http://www.sohu.com" target="_blank" onclick="toHomePage();"></a></div>
+				<script type="text/javascript">
+				(function(){
+					var $uvReader = $('#uc_reader');
+					$uvReader.hover(function(){
+						$uvReader.find('.pr-code-con').show();
+					},function(){
+						$uvReader.find('.pr-code-con').hide();
+					});
+				})();
+				</script>
+				<style>
+				#container .share .world-link{float:left;display:inline;margin:5px 0 0 160px;line-height:20px}
+				#container .share .world-link a{padding-left:16px;display:inline-block;background:url(http://news.sohu.com/upload/article/2012/images20140613/down.gif) no-repeat 0 2px}
+				</style>
+				<div class="world-link"><a href="http://k.sohu.com" target="_blank">手机看新闻</a></div>
 				     				
                 
+				
             </div>			
 			<!-- 相关 -->
 			<!-- 本文相关推荐-->
-			<!-- 其它频道 -->
+            <!-- 其它频道 -->
+<style>
+#container .tagHotg .tagIntg li a{color:#000}
+#container .tagHotg .tagIntg li a:hover{color:#c00}
+</style>
 			<style>
 /* 相关热点 2010-09-09 */
 #contentA .tagHotg{clear:both;margin:10px auto 0;text-align:left}
@@ -862,62 +894,114 @@ showVrsPlayer({vid: '1244841',pid: '227749922',width: '360',height: '305',autopl
 #contentA .text .line{width:100%}
 </style>
 <div class="tagHotg">
-  <h3>本文相关推荐</h3>
+  <h3><a href="http://www.sogou.com/" target="_blank">本文相关推荐</a></h3>
   <div class="tagIntg">
     <ul>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香床戏&p=02210102&fhintidx=0" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="1">爱情悠悠药草香床戏</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香花絮&p=02210102&fhintidx=1" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="2">爱情悠悠药草香花絮</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香结局是什么&p=02210102&fhintidx=2" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="3">爱情悠悠药草香结局是什么</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香全部演员&p=02210102&fhintidx=3" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="4">爱情悠悠药草香全部演员</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香图片&p=02210102&fhintidx=4" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="5">爱情悠悠药草香图片</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香主演&p=02210102&fhintidx=5" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="6">爱情悠悠药草香主演</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香剧照&p=02210102&fhintidx=6" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="7">爱情悠悠药草香剧照</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香第一集&p=02210102&fhintidx=7" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="8">爱情悠悠药草香第一集</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香采薇怀孕&p=02210102&fhintidx=8" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="9" ind="9">爱情悠悠药草香采薇怀孕</a></li>
-		</ul>
+                        <li><a class="hot-icon" href="http://www.sogou.com/web?query=红颜露水刘亦菲剧照图片&p=02210102&fhintidx=0" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len
+="12" ind="1">红颜露水刘亦菲剧照图片</a></li>
+                                <li><a href="http://www.sogou.com/web?query=刘亦菲露水红颜花絮视频&p=02210102&fhintidx=1" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="2">
+刘亦菲露水红颜花絮视频</a></li>
+                                <li><a href="http://www.sogou.com/web?query=露水红颜唐嫣&p=02210102&fhintidx=2" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="3">
+露水红颜唐嫣</a></li>
+                                <li><a href="http://www.sogou.com/web?query=刘亦菲rain红颜露水&p=02210102&fhintidx=3" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="4">
+刘亦菲rain红颜露水</a></li>
+                                <li><a href="http://www.sogou.com/web?query=露水红颜刘亦菲近乎崩溃&p=02210102&fhintidx=4" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="5">
+露水红颜刘亦菲近乎崩溃</a></li>
+                                <li><a href="http://www.sogou.com/web?query=露水红颜演员表&p=02210102&fhintidx=5" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="6">
+露水红颜演员表</a></li>
+                                <li><a href="http://www.sogou.com/web?query=红颜露水结局&p=02210102&fhintidx=6" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="7">
+红颜露水结局</a></li>
+                                <li><a href="http://www.sogou.com/web?query=露水红颜预告片&p=02210102&fhintidx=7" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="8">
+露水红颜预告片</a></li>
+                                <li><a href="http://www.sogou.com/web?query=露水红颜剧情&p=02210102&fhintidx=8" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="9">
+露水红颜剧情</a></li>
+                                <li><a href="http://www.sogou.com/web?query=红颜露水经典语句&p=02210102&fhintidx=9" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="10">
+红颜露水经典语句</a></li>
+                                <li><a href="http://www.sogou.com/web?query=红颜露水张小娴&p=02210102&fhintidx=10" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="11">
+红颜露水张小娴</a></li>
+                                <li><a href="http://www.sogou.com/web?query=刘亦菲红颜露水海报&p=02210102&fhintidx=11" onclick="return sogouRelateWeb(this);" target="_blank" onclick="return sogouRelateWeb(this);" len="12" ind="12">
+刘亦菲红颜露水海报</a></li>
+                                </ul>
   </div>
 </div>
-
-					
-			<script type="text/javascript">var entityId = 384593657;</script>
+			<script type="text/javascript">var entityId = 405847566;</script>	
 			
-				
-			
-				<!--我说两句项-->
-				<script type="text/javascript" src="http://comment.news.sohu.com/upload/comment4_1/javascript/sohu.comment.v2013091217.js"></script>
-<script src="http://news.sohu.com/upload/javascript/news_scrolltop.js"></script>
-<script src="http://news.sohu.com/upload/javascript/news_commentbar.20120710.js"></script>
-				<script>
-					var conmmShowlist = typeof conmmShowlist == "undefined" ? {} : conmmShowlist;
-					conmmShowlist =jQuery.extend(conmmShowlist,{type:"hot",openSharedQuanzi:false,$inputbox_topright_adver2:'<span class=""><a class="red" target="_blank" href="http://quan.sohu.com/topic.html#6b57fcf0572c11e3a8c00016363326c4">圈主招募ING</a></span>',onAfterDataShow:function(d){					
-					try{
-					  jQuery(function(){
-					     newsCommentBar(d.allCount,"http://pinglun.sohu.com/s"+d.topicId+".html");$.scrollTop(".scroll-top");
-					  });
-					}catch(e){}
-					}});
-				</script>
-
-<script type="text/javascript">var APPID_SOHUCY ='cyqemw6s1'</script>
-<script type="text/javascript" src="http://assets.changyan.sohu.com/upload/plugins/plugins.preload.sohu.js"></script>
- <!--[if IE]>
-<script type="text/javascript" event="FSCommand(command,args)" for="myFlash">
-		eval(args);
+				<div id='changyanface'></div>
+<div id="SOHUCS" sid=""></div>
+<script>
+document.domain = "sohu.com";
+if(typeof entityId != 'undefined'){
+    document.getElementById('SOHUCS').setAttribute('sid',entityId); 
+    var category = typeof category != 'undefined' ? category :'';                 
+    var _config = {
+                    jumpUrl: 'http://pinglun.sohu.com/s[topicId].html',
+                    varName: entityId, 
+                    customSohu: true,
+                    //listStyle: 'indent',
+                    //listModule: 'scs.listIndent',
+                    //listType: 'hot',
+                    cyanTitle : '我来说两句',
+                    commentHide : true ,
+                    pageSize: 10,
+                    categoryId: category
+                }
+    }
+    window.SCS_NO_IFRAME = true;
 </script>
-<![endif]-->
-				<div id="SOHUcomment" class="comment clear"></div>
-				<script type="text/javascript">
-					var commConfig = typeof conmmShowlist == "undefined" ? {} : conmmShowlist;
-					SohuComment.Init(jQuery.extend({topicId: 384593657},commConfig));
+
+<script src="http://assets.changyan.sohu.com/upload/changyan.js?appid=cyqemw6s1&conf=prod_0266e33d3f546cb5436a10798e657d97" charset="utf-8"></script>
+<script type="text/javascript" src="http://assets.changyan.sohu.com/upload/plugins/plugins.count.js"></script>
+
+<link type="text/css" rel="stylesheet" href="http://comment.news.sohu.com/upload/comment4_1/chagnyan.face.v2013091220.css"/>
+<script type="text/javascript" src="http://comment.news.sohu.com/upload/comment4_1/javascript/changyan.freeaccount.v2013112016.js" charset="gbk"></script>
+<script type="text/javascript" src="http://comment.news.sohu.com/upload/comment4_1/javascript/changyan.face.v2013102411.js" charset="gbk"></script>
+
+<script type="text/javascript">
+function createFace(){
+if(!window.SOHUCS || !SOHUCS.nodeData)
+{
+setTimeout(createFace,1000);
+return;
+}
+		var afterVoteCallback=function(desc,voteId,topicId, changYanId){
+			var saymore=new window.changYanSayMore({el:"#changyanface",voteId:voteId,changYanId:changYanId,topicId:newsId,defaultText:desc,afterSubmitCallback:function(){saymore.destory();}});
+			saymore.render();
+		};
+		
+		var face=new window.changYanFace({el:"#changyanface",topicId:newsId,afterVoteCallback:afterVoteCallback,changYanId:SOHUCS.nodeData.listData.topic_id});
+		face.render();
+	}
+
+ $(function(){createFace();});
+
+</script>
+<script>
+if(!window.PassportSC)
+{
+document.write("<script"+" src=\"http://comment.news.sohu.com/upload/comment4_1/javascript/core/passport.js\">"+"</script"+">");
+}
+</script>
+<link type="text/css" rel="stylesheet" href="http://comment.news.sohu.com/upload/comment4_1/comment2.v2013032608.css"/>
+<script type="text/javascript" src="http://comment.news.sohu.com/upload/comment4_1/javascript/sohu.comment.v2013040210.js"></script>
+<script type="text/javascript" src="http://comment.news.sohu.com/upload/comment4_1/javascript/comm.login.v2013040210.js"></script>
+
+				<script src="http://news.sohu.com/upload/javascript/news_scrolltop.js"></script>
+				<script src="http://news.sohu.com/upload/js20150623/news_commentbar.js"></script>
+				<script>
+					evtDispatcher.addEvent('public.jsonData', function(evt){
+					    var data = evt.json;
+					   var url = $('#commentTab .com-label a').attr('href');
+					   if(typeof url == 'undefined')
+    					      url = 'http://pinglun.sohu.com/s'+entityId+'.html';
+    					   newsCommentBar(data.partiCount||0,url)
+         			           $.scrollTop(".scroll-top"); 
+					});
 				</script>
-				<link href="http://s3.suc.itc.cn/i/card/d/card.v.2012080801.css" rel="stylesheet" type="text/css" charset="gbk">
-		 <script type="text/javascript" src="http://s.suc.itc.cn/combo.action?p=mysohu&v.2012080801&r=/mysohu/plugins/effects/jquery.effects.core.js|/mysohu/plugins/effects/jquery.effects.slide.js|/i/card/icard.ext.js&c=utf-8&t=js" charset="utf-8"></script>
-				<!--我说两句配置项 end-->
 				
 			<!--图文转载-->
 			<script type="text/javascript" src="http://news.sohu.com/upload/article/2012/js/pubPicTextV6_20130926.js"></script>
 			<script type="text/javascript">
-				var newsId = 384593657;
+				var newsId = 405847566;
 				jQuery.picText.init();
 			</script>
 			<!--图文转载 end-->
@@ -933,7 +1017,6 @@ showVrsPlayer({vid: '1244841',pid: '227749922',width: '360',height: '305',autopl
 			<!-- 20130121 st -->
 			<div class="lottery-box clear" id="sougocaipiao1"><a href="http://caipiao.sohu.com/20181219/n558625553.shtml" target="_blank" rel="nofollow">彩民车牌号投注中3.9万</a>&nbsp;&nbsp;<a href="http://caipiao.sohu.com/20181219/n558623240.shtml" target="_blank" rel="nofollow">双色球148期开奖:头奖11注666万</a>&nbsp;&nbsp;<a href="http://caipiao.sohu.com/20181219/n558626104.shtml" target="_blank" rel="nofollow">徐州小伙中得639万大奖</a>&nbsp;&nbsp;<a href="http://caipiao.sohu.com/tycpkj1/index.shtml" target="_blank" rel="nofollow">体彩摇奖</a></div>	
 			<!-- 20130121 end -->
-			
 			<div class="mutu clear">
 				<div class="mutu-title">
 					<div class="mutu-news-tt">
@@ -947,28 +1030,28 @@ showVrsPlayer({vid: '1244841',pid: '227749922',width: '360',height: '305',autopl
 						<div class="list14">
 							
 
-			 <ul> 		<li><span>13-08-19</span>·<a href="http://yule.sohu.com/20130819/n384493950.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="1" target="_blank">《爱情悠悠药草香》热播 钱泳辰复活成护花使者</a></li>
-								<li><span>13-08-19</span>·<a href="http://yule.sohu.com/20130819/n384474067.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="2" target="_blank">《爱情悠悠药草香》收视走高 韩栋诠释痴情男</a></li>
-								<li><span>13-08-17</span>·<a href="http://yule.sohu.com/20130817/n384396582.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="3" target="_blank">《爱情悠悠药草香》首播 一部戏看尽女人心计</a></li>
-								<li><span>13-08-16</span>·<a href="http://yule.sohu.com/20130816/n384318845.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="4" target="_blank">《爱情悠悠药草香》获赞 女人耍心机紧张刺激</a></li>
-								<li><span>13-08-16</span>·<a href="http://yule.sohu.com/20130816/n384317761.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="5" target="_blank">《爱情悠悠药草香》卫视开播 孙雅女屌丝逆袭</a></li>
-								<li><span>13-08-15</span>·<a href="http://yule.sohu.com/20130815/n384251515.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="6" target="_blank">《爱情悠悠药草香》开播 辛新被称年代版温太医</a></li>
+			 <ul> 		<li><span>14-11-07</span><a href="http://yule.sohu.com/20141107/n405843693.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="1" target="_blank">第一审片室《露水红颜》 刘亦菲变欲女情挑二男(图</a></li>
+								<li><span>14-11-06</span><a href="http://yule.sohu.com/20141106/n405836828.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="2" target="_blank">《露水红颜》亮相成都 刘亦菲四川话示爱粉丝(图)</a></li>
+								<li><span>14-11-05</span><a href="http://yule.sohu.com/20141105/n405791190.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="3" target="_blank">《露水红颜》曝终极预告 刘亦菲变身绝美画模(图)</a></li>
+								<li><span>14-11-05</span><a href="http://yule.sohu.com/20141105/n405786013.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="4" target="_blank">《露水红颜》超前点映 邵峰称自己角色“剪不掉”(</a></li>
+								<li><span>14-11-03</span><a href="http://yule.sohu.com/20141103/n405723802.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="5" target="_blank">《露水红颜》百人超前观影 刘亦菲颜值获赞(图)</a></li>
+								<li><span>14-07-01</span><a href="http://music.yule.sohu.com/20140701/n401609911.shtml" onclick="return sogouRelateNews(this);" len="6"  ind="6" target="_blank">草莓闪耀长沙 绿地海外滩草莓音乐节总攻略(图)</a></li>
 		 </ul> 	
 
 							
-								<div class="more"><a href="http://news.sogou.com/news?query=爱情悠悠药草香 韩栋 娄艺潇&pid=31023101&md=listTopics&name=&mode=0&sort=0" rel="nofollow" target="_blank" >更多关于 <strong>爱情悠悠药草香 韩栋 娄艺潇</strong> 的新闻&gt;&gt;</a> </div>
+								<div class="more"><a href="http://news.sogou.com/news?query=红颜 露水&pid=31023101&md=listTopics&name=&mode=0&sort=0" rel="nofollow" target="_blank" >更多关于 <strong>红颜 露水</strong> 的新闻&gt;&gt;</a> </div>
 							
 						</div>
 				</div>
 				<div class="mutu-keyWord">
 						<div class="list14">
 							<ul>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香小说&p=31210100&fhintidx=0" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="1">爱情悠悠药草香小说</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香视频&p=31210100&fhintidx=1" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="2">爱情悠悠药草香视频</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香分集介绍&p=31210100&fhintidx=2" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="3">爱情悠悠药草香分...</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香09&p=31210100&fhintidx=3" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="4">爱情悠悠药草香09</a></li>
-	<li><a href="http://www.sogou.com/web?query=爱情悠悠药草香宣萱&p=31210100&fhintidx=4" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="5">爱情悠悠药草香宣萱</a></li>
-	<li><a href="http://www.sogou.com/web?query=哪里能看到爱情悠悠药草香&p=31210100&fhintidx=5" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="6">哪里能看到爱情悠...</a></li>
+	<li><a href="http://www.sogou.com/web?query=露水红颜韩国新闻&p=31210100&fhintidx=0" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="1">露水红颜韩国新闻</a></li>
+	<li><a href="http://www.sogou.com/web?query=露水红颜什么时候上映&p=31210100&fhintidx=1" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="2">露水红颜什么时候上映</a></li>
+	<li><a href="http://www.sogou.com/web?query=红颜露水txt&p=31210100&fhintidx=2" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="3">红颜露水txt</a></li>
+	<li><a href="http://www.sogou.com/web?query=红颜露水在线阅读&p=31210100&fhintidx=3" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="4">红颜露水在线阅读</a></li>
+	<li><a href="http://www.sogou.com/web?query=中国电影报道露水红颜&p=31210100&fhintidx=4" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="5">中国电影报道露水红颜</a></li>
+	<li><a href="http://www.sogou.com/web?query=露水红颜电影票价&p=31210100&fhintidx=5" onclick="return sogouRelateWeb(this);" target="_blank" len="6" ind="6">露水红颜电影票价</a></li>
 <script >
 try{    
         var i=new Image();
@@ -979,7 +1062,7 @@ try{
 						</div>
 				</div>
 			</div>
-			 			
+	
 			<!-- 搜狗服务 -->
 			<div class="sogouService clear">
             	<h2><span><a href="http://www.sogou.com/" target="_blank"><img src="http://news.sohu.com/upload/pagerevision20090916/sogou.png" width="74" height="22" alt="" /></a></span><a href="http://www.sogou.com/fuwu/" rel="nofollow" target="_blank"><strong>我要发布</strong></a></h2>
@@ -997,7 +1080,7 @@ try{
 		<div class="search-hotword clear">
 			<div class="search">
 				<form action="http://news.sogou.com/news" method="get" target="_blank" id="searchform" name="searchform" onsubmit="return CheckKeyWord();" autocomplete="off"> 
-					<input type="text" name="query" id="query" class="search-in" value="爱情悠悠药草香 韩栋 娄艺潇" />
+					<input type="text" name="query" id="query" class="search-in" value="红颜 露水" />
 					<input type="hidden" name="t" id="t" value="news" />
 					<input type="submit" class="search-btn" value="搜狗搜索" onmouseover="this.className='search-btn search-btn-over'" onmouseout="this.className='search-btn'" />
 				</form>
@@ -1012,9 +1095,9 @@ try{
         function CheckKeyWord(){
                  var sf = document.searchform;
                  with(sf){
-          //if (query.value == "爱情悠悠药草香 韩栋 娄艺潇") {
+          //if (query.value == "红颜 露水") {
           //                query.value = "";
-          //                setTimeout("query.value='爱情悠悠药草香 韩栋 娄艺潇'", 1000);
+          //                setTimeout("query.value='红颜 露水'", 1000);
           //       }
         }
                  return true;
@@ -1061,11 +1144,7 @@ try{
    <a href="http://k.sohu.com" onclick="_pv.send('5af69b5503b22dd5')" target="_blank"><img src="http://i0.itc.cn/20160913/a75_6b415468_0160_9d9d_2462_6621521fdc30_1.jpg" width="300" height="92"></a></div>
 <div class="blank5B"></div>		
 		<!-- 相关微博 -->
-		<div class="mutu-t clear">
-			<h2><span>微博推荐</span><strong><a href="" target=_blank ></a></strong></h2><div class="blank5"></div><div class="t-box clear">	<div class="t-pic"><a href="http://t.sohu.com/u/50299389" target="_blank"><img src="http://s5.cr.itc.cn/mblog/icon/ca/e8/m_12987038313078.jpg" alt="" height="50" width="50"></a></div>	<div class="t-txt">		<p><a href="http://t.sohu.com/u/50299389" target="_blank">袁岳</a><a href="http://t.sohu.com/news/vinfo" target="_blank"><img src="http://s2.t.itc.cn/mblog/resource/20131_9_9/bs2ku166127753142.png" alt="" height="16" width="17"></a><em><a href="http://t.sohu.com/m/10269825276/100230001" target=_blank >当浮层化现象严重时，我们遇到的挑战是，出的主意没有太大实操价值，从事实际操作的人…</a></em></p>		<h5><a href="http://t.sohu.com/m/10269825276/100230001" target="_blank">转发</a> | <a href="http://t.sohu.com/m/10269825276/100230001" target="_blank">评论</a></h5>	</div></div><div class="broken-line"></div><div class="t-box clear">	<div class="t-pic"><a href="http://wangtaozuye.t.sohu.com" target="_blank"><img src="http://s4.cr.itc.cn/mblog/icon/5b/87/m_5781100200833038.jpg" alt="" height="50" width="50"></a></div>	<div class="t-txt">		<p><a href="http://wangtaozuye.t.sohu.com" target="_blank">足夜王涛</a><a href="http://t.sohu.com/news/vinfo" target="_blank"><img src="http://s2.t.itc.cn/mblog/resource/20131_9_9/bs2ku166127753142.png" alt="" height="16" width="17"></a><em><a href="http://t.sohu.com/m/10269497792/100230002" target=_blank >恒大与拜仁这场比赛太有价值，展现了自己，也终于真刀真枪下看清了自己，更成为一把标尺…</a></em></p>		<h5><a href="http://t.sohu.com/m/10269497792/100230002" target="_blank">转发</a> | <a href="http://t.sohu.com/m/10269497792/100230002" target="_blank">评论</a></h5>	</div></div><div class="broken-line"></div><div class="t-box clear">	<div class="t-pic"><a href="http://t.sohu.com/u/255803241" target="_blank"><img src="http://s5.cr.itc.cn/mblog/icon/60/c7/m_72716271649462092.jpg" alt="" height="50" width="50"></a></div>	<div class="t-txt">		<p><a href="http://t.sohu.com/u/255803241" target="_blank">罗崇敏</a><a href="http://t.sohu.com/news/vinfo" target="_blank"><img src="http://s2.t.itc.cn/mblog/resource/20131_9_9/bs2ku166127753142.png" alt="" height="16" width="17"></a><em><a href="http://t.sohu.com/m/10269943320/100230003" target=_blank >人的生命本无意义，是学习和实践赋予了它意义。应该把学习作为人生的习惯和信仰。</a></em></p>		<h5><a href="http://t.sohu.com/m/10269943320/100230003" target="_blank">转发</a> | <a href="http://t.sohu.com/m/10269943320/100230003" target="_blank">评论</a></h5>	</div></div><div class="broken-line"></div><div class="t-box clear">	<div class="t-pic"><a href="http://jiandanluqi.t.sohu.com" target="_blank"><img src="http://s4.cr.itc.cn/mblog/icon/60/c7/m_23927514005006574.jpg" alt="" height="50" width="50"></a></div>	<div class="t-txt">		<p><a href="http://jiandanluqi.t.sohu.com" target="_blank">陆琪</a><a href="http://t.sohu.com/news/vinfo" target="_blank"><img src="http://s2.t.itc.cn/mblog/resource/20131_9_9/bs2ku166127753142.png" alt="" height="16" width="17"></a><em><a href="http://t.sohu.com/m/10268724136/100230004" target=_blank >幸福是什么？当你功成名就时，发现成功不会让你幸福，和人分享才会。当你赚到很多钱时…</a></em></p>		<h5><a href="http://t.sohu.com/m/10268724136/100230004" target="_blank">转发</a> | <a href="http://t.sohu.com/m/10268724136/100230004" target="_blank">评论</a></h5>	</div></div><div class="broken-line"></div><div class="t-box clear">	<div class="t-pic"><a href="http://lawyerlyj.t.sohu.com" target="_blank"><img src="http://s4.cr.itc.cn/mblog/icon/9b/6b/m_13042614419833.jpg" alt="" height="50" width="50"></a></div>	<div class="t-txt">		<p><a href="http://lawyerlyj.t.sohu.com" target="_blank">李英俊律师</a><a href="http://t.sohu.com/news/vinfo" target="_blank"><img src="http://s2.t.itc.cn/mblog/resource/20131_9_9/bs2ku166127753142.png" alt="" height="16" width="17"></a><em><a href="http://t.sohu.com/m/10269851021/100230005" target=_blank >哥们充话费输错号，替别人交了100元，就打过去电话想让对方充点回来。对方特郁闷地说…</a></em></p>		<h5><a href="http://t.sohu.com/m/10269851021/100230005" target="_blank">转发</a> | <a href="http://t.sohu.com/m/10269851021/100230005" target="_blank">评论</a></h5>	</div></div><div class="broken-line"></div><div class="t-box clear">	<div class="t-pic"><a href="http://yuying1974.t.sohu.com" target="_blank"><img src="http://s4.cr.itc.cn/mblog/icon/60/c7/m_28312420683088407.jpg" alt="" height="50" width="50"></a></div>	<div class="t-txt">		<p><a href="http://yuying1974.t.sohu.com" target="_blank">急诊科于莺</a><a href="http://t.sohu.com/news/vinfo" target="_blank"><img src="http://s2.t.itc.cn/mblog/resource/20131_9_9/bs2ku166127753142.png" alt="" height="16" width="17"></a><em><a href="http://t.sohu.com/m/10270039811/100230006" target=_blank >出门时发现没下雪，还有太阳，还能看到蓝天，惊呼这一天值了！</a></em></p>		<h5><a href="http://t.sohu.com/m/10270039811/100230006" target="_blank">转发</a> | <a href="http://t.sohu.com/m/10270039811/100230006" target="_blank">评论</a></h5>	</div></div>
-
-		</div>
-		<div class="rightbar-foot"></div>		
+		
 		<!-- 广告 -->
 		<SOHUADCODE><div style=" margin-bottom: 10px">
 
@@ -1425,7 +1504,7 @@ document.write(dns_requrl);
 		<br />Copyright <span class="fontArial">&copy;</span> 2018 Sohu.com Inc. All Rights Reserved. 搜狐公司 <span class="unline"><a href="http://corp.sohu.com/s2007/copyright/" target="_blank" rel="nofollow">版权所有</a></span>
 		<br />搜狐不良信息举报邮箱：<a href="mailto:jubao@contact.sohu.com">jubao@contact.sohu.com</a>
 	</div>
-	<SCRIPT language=JavaScript src="http://js.sohu.com/pv.js"></SCRIPT>
+	<SCRIPT language=JavaScript src="http://a1.itc.cn/pv/js/spv.1309051632.js"></SCRIPT>
 	<script language="javascript" src="http://js.sohu.com/wrating20120726.js"></script>
 	<script language="javascript"> 
 		var  _wratingId = null;

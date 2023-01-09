@@ -1,987 +1,585 @@
-<!doctype html>
+﻿<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>史上最丑改装！国外用户爆改奥迪S4：尾翼叠了四层--快科技--科技改变未来</title>
-<meta name="keywords" content="奥迪,改装,奥迪S4,史上最丑改装！国外用户爆改奥迪S4：尾翼叠了四层,快科技">
-<meta name="description" content="史上最丑改装！国外用户爆改奥迪S4：尾翼叠了四层">
-<meta name="robots" content="index,follow" /> 
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://rss.mydrivers.com/rss.aspx?Tid=1" />
-<meta property="og:title" content="史上最丑改装！国外用户爆改奥迪S4：尾翼叠了四层" />
-<meta property="og:site_name" content="快科技" />
-<meta property="og:url" content="https://news.mydrivers.com/1/883/883271.htm" />
-<meta property="og:type" content="article" />
-<meta property="og:locale" content="zh_CN" />
-<meta property="og:description" content="作为汽车文化的一部分，改装在世界各地都有不少粉丝，也确实出现了很多很多优秀的作品，当然，也有一些十分辣眼睛的存在，近日，有外媒体曝光了一台经过&amp;ldquo;爆改&amp;rdquo;的奥迪S4，不少人看完" />
-<meta property="og:image" content="https://img1.mydrivers.com/img/20230103/b5abfee6e44f43e0b59178b163e9bd20.png" />
-<meta name="applicable-device" content="pc" />
-<meta http-equiv="Content-Language" content="zh-CN">
-<link href="https://m.mydrivers.com/newsview/883271.html" rel="alternate" media="only screen and (max-width: 640px)" />
-<link href="//11.mydrivers.com/css/2023/public.css?v=1122" rel="stylesheet" type="text/css" />
-<link href="//11.mydrivers.com/css/2023/main_news.css?v=121201" rel="stylesheet" type="text/css" />
-<link href="//11.mydrivers.com/2020/css/winpop.css" rel="stylesheet" type="text/css">
-<!--<link href="//11.mydrivers.com/2020/css/model.css" rel="stylesheet" type="text/css">-->
-<link href="//11.mydrivers.com/css/2023/model_newsinfo.css?v=1222" rel="stylesheet" type="text/css" />
-<link href="//11.mydrivers.com/comments/css/20230101/newstopnv5.min.css" rel="stylesheet" type="text/css">
-<link href="//11.mydrivers.com/css/2022/picinfo_view.css" rel="stylesheet" type="text/css">
+    <title>孩子在睡梦中离奇死亡？遗传学家找到新线索—论文—科学网</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content=儿童，睡眠，基因突变, />
+    <script language="javascript" type="text/javascript">
+		function showsize(sid)
+		{
+				document.getElementById("content"+1).style.fontSize=sid;
+document.getElementById("content"+1).className='f'+sid;
+			
+		}
+		function showandhide(showid,hideid)
+        {
+         document.getElementById(showid).style.display="";
+         document.getElementById(hideid).style.display="none";
+          document.getElementById(showid+"1").style.background="#005007";
+         document.getElementById(hideid+"1").style.background="#787878";
+        }
+    </script>
+    <style type="text/css">
+body { margin:0; padding:0; background:#e4e6df url(/images/a-b-mbr.jpg) repeat-y center top; text-align:center; font:13px Arial, Helvetica, sans-serif; }
+#wrap { margin:0 auto; text-align:left; width:980px; padding:0 0px; w\idth:976px;background:#ffffff}
+img { border:0; }
+td{font:13px 宋体}
+#header { width:100%; margin-top:5px;text-align:center; }
+#fielder {margin:0 auto; text-align:left; width:970px;}
+#fielderleft {width:450px; float: left;font:13px 宋体;color:#b41319;height:20px; text-align:right;margin-top:5px}
+#fielderright {width:520px; float: right;height:20px}
+#fielderleft a{font:13px 宋体;color:#b41319; text-decoration:none; }
+#main {margin:0 auto; text-align:left; width:960px; padding:0 4px;}
+#footer { width:100%; height:66px;margin-top:10px; clear:both; text-align:center; }
+ #foot1{text-align:center;background:#d7ceaa;color:#885f17;width:100%; height:30px;margin-top:10px;vertical-align:bottom}
+#foot1 a{font:12px 宋体, Helvetica, sans-serif;color:#885f17; text-decoration:none;}
+#mleft{float: left; width:680px}
+#mright{float: right; width:270px;text-align:left;}
+.html1{font:12px 宋体;color:#333333; text-decoration:none; }
+.html2{font:12px 宋体;color:#885f17; text-decoration:none; }
+#headerleft ul {text-align:left; width:456px;  margin:0; padding:0; list-style:none;  }
+#headerleft li{ margin-right: auto;display:inline;vertical-align:bottom;}
+#headerleft { float:left; width:456px; height:22px text-align:left; }
+#headerleft a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#headerright a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#head2{background:#ba1414;width:970px;bgcolor:#ba1414;margin-top:0px}
+textarea { font: 12px Arial, Helvetica, sans-serif; border:1px solid #333333; }
+.input{ font: 11px Arial, Helvetica, sans-serif; border:1px solid #333333;}
+.rblinput{ font: 11px Arial; border:0;width:30px}
+.ulclass{margin:8px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.ulclass li{display:inline;}
+.h1ulclass{margin:0px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.h1ulclass li{display:inline;}
+.plnum{width: 30px;color:#587c19;font:12px 宋体; text-align:center; font-weight:bold;margin-left:-14px}
+.highlight2{font-size:12px;color:#333333;text-decoration:none;}
+a:hover {
+	color: #ba1413;
 
-<script type="text/javascript" src="//11.mydrivers.com/2018/news/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="//11.mydrivers.com/2018/news/jquery.artDialog.min.js"></script>
-<script type="text/javascript" src="//11.mydrivers.com/2018/news/jquery.lazyload.min.js"></script>
-<script type="text/javascript" src="//11.mydrivers.com/rank/jquery.qrcode.min.js"></script>
-<script type="text/javascript" src="//11.mydrivers.com/2020/news/ver.js?v=092203"></script>
-<style>
-  body.night  .close{
-	        background: none !important;
-         } 
-  .main_box {
-	width: 1340px;
-	overflow: inherit;
+	text-decoration: underline;
 }
-.main_left {
-	width: 980px;
-}
+a{ text-decoration:none;color:#333333;}
+#head1{width:970px;margin-top:0px}
+#head2 td{font:12px 宋体}
+#field8 a{font:13px 宋体;color:#fff; text-decoration:none;}
+#field8 td{ height:20px;}
+#content1 a{color: #800000;}
+.f12{font-size:12px}
+.f14{font-size:14px}
+.f16{font-size:16px}
+.ifcomm{}
+img{max-width:600px}
 </style>
-
-<script language="javascript">
-    MTiaoZhuan(883271);
-    var s_NewsID = 883271;
-    var s_authorID = 1461185; 
-</script>
-<base target="_blank"/>
+<script type="text/javascript" src="/js/lazyload/jquery.min.js"></script>
+<script type="text/javascript" src="/js/lazyload/jquery.lazyload.js"></script>
+		<script type="text/javascript"> 
+			jQuery(document).ready( 
+			function($){ 
+				$("img").lazyload({ 
+					placeholder : "/js/lazyload/grey.gif", 
+					effect      : "fadeIn",
+					threshold : 200
+				}); 
+			}); 
+		</script> 
 </head>
 <body>
-<script type="text/javascript" src="//11.mydrivers.com/2020/news/bindtings.js"></script>
-  <!-- <div style="margin:0 auto; width:1333px; height:90px;"><a href="https://ccc-x.jd.com/dsp/tp?log=ENpPSxpPBtVYeGaEenaSHfIp0Im9p3fD0p7sfSSf2Up_xnaMXZTPwcwm2FVYlmXJeNrsOihos1IJjHIcI_qvfQ&v=708&to=https%3A%2F%2Fitem.jd.com%2F100028140656.html%3Fpmf_source%3DP0000003105M0017&mobiletype=__MOBILETYPE__&adt=9&didmd5=__IMEI__&idfamd5=__IDFAMD5__&idfa=__IDFA__&aid=__ANDROIDID__&oaid=__OAID__&caid=__CAID__" target="_blank"><img src="//img1.mydrivers.com/img/2005/lenovo1333.jpg" width="1333" height="90" /></a></div> -->
-
-
-
-<div class="top">
-  <div class="top_1a">
-    <div class="top_1_left">
-      <ul>
-        <li class="kkjlogo"><a title="科技改变未来" href="https://www.mydrivers.com"></a></li>
-        <li><a title="快科技手机版" href="https://m.mydrivers.com">手机版</a></li>
-        <li><a target="_blank" href="http://app.kkj.cn/">安卓版</a></li>
-        <li><a target="_blank" href="http://app.kkj.cn/">苹果端</a></li>
-        <li><a target="_blank" href="https://blog.mydrivers.com/">博客版</a></li>
-      </ul>
-    </div>
-	  <div style="float:right" style="*+width:800px;">
-    <div class="top_1_center">
-      <div class="search_form">
-        <form action="#" target="_blank" onsubmit="return search()" name="myform" id="myform">
-          <div class="search_word_warp">
-            <input type="text" autocomplete="off" placeholder="请输入关键字" name="q" id="myform_q" class="search_word">
-          </div>
-               <input name="tn" value="98012088_dg" type="hidden">
-          <input name="ch" value="16" type="hidden">
-          <input type="hidden" value="0" name="s_class" id="s_class">
-          <div class="search_button_warp">
-            <input type="submit" name="button" id="button" value="" class="search_button">
-          </div>
-        </form>
-      </div>
-    </div>
-	  <div class="top_1_center1" id="tianqi_my"></div>
-    <div class="top_1_right" style="position:relative">   
-	   <ul>
-        <li id="i_login"><a target="_self" id="a_login" href="javascript:;">登录</a></li>
-        <li id="i_reg"><a href="//passport.mydrivers.com/reg.htm">注册</a></li>
-      </ul>
-    </div>
-	</div>
-  </div>
-</div>
-<div class="nav_box" id="menu_2023">
-  <div class="nav">
-    <script type="text/javascript" src="//11.mydrivers.com/menu2023.js?v=0930"></script>
-  </div>
-</div>
-<div class="pathway">
-  <ul>
-    <li>当前位置：<a target="_self" href="https://www.mydrivers.com">首页</a> &gt; <a href="//news.mydrivers.com/">资讯中心</a> > <a href="//news.mydrivers.com?sortid=807">爱车一族</a> > <a href="//news.mydrivers.com?sortid=258">传统汽车</a> &gt; 文章详情</li>
-       <li class="science">
-	<a href="https://rank.kkj.cn/"><img src="//icons.mydrivers.com/2021/news/bangdan_pc.svg" alt="榜单"/></a>
-    <a href="https://news.mydrivers.com/1/758/758016.htm"><img src="//icons.mydrivers.com/2021/news/zhaopin_pc.svg" alt="招聘"></a></li>
-<!--<li class="science" style="padding-top: 5px;padding-right: 15px;">
-    <a href="http://cnzonemax.mikecrm.com/kxwzQba">IT采购专业调查</a>
-</li>-->
-
-  </ul>
-</div>
- <div class="baidu">
-  <div class="baidu_left" style="padding-top:16px;padding-bottom:12px;height: 94px;">
-  <!-- -->
- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 文章内页顶部banner97090 -->
- <ins class="adsbygoogle"
-     style="display:inline-block;width:970px;height:90px"
-     data-ad-client="ca-pub-3265093218051583"
-     data-ad-slot="1576815137"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script> 
-       
-   <!--   <div>
-    <a href="https://dt.mydrivers.com/bp.ashx?ma=4DG1" target="_blank"><img src="//img1.kkeji.com/img/2005/kkjsolidigm980124_1104.jpg"></a>
-</div> -->
-
-</div>
-  <div class="baidu_right">
-  <script src="//news.mydrivers.com/incutf8/pc_info_tophotnews_20200909_V4.js"></script>
-  </div>
-</div>
-<!--文章正文-->
-	<div class="main_box">
-  <div class="main_left">
-<h4> <a href="javascript:;" class="cur" target="_self">正文内容</a> <a id="newsinfomainh4acommentnums" href="javascript:;" target="_self">评论（<span>0</span>）</a> </h4>
-    <div id="main_contents">
-    <div class="news_n"> 
-      <div class="news_bt" id="thread_subject">史上最丑改装！国外用户爆改奥迪S4：尾翼叠了四层</div>
-          <!--<div style="width:580px;margin:auto; padding:10px 0"><a id="dangbei_down" href="https://jd.dangbei.com/x3.html" target="_blank" rel="nofollow"><img src="//img1.kkeji.com/img/2005/dangbei_580_1111.gif" width="580" height="60"></a></div>-->
-
-  <div style="margin: auto;width: 580px;padding: 10px 0;"><a href="https://jd.dangbei.com/d5x.html" target="_blank"><img src="//img1.kkeji.com/img/2005/20221227/114825524.gif"></a></div>
-       
-      <div class="news_bt1" style="overflow:hidden;">
-        <div class="news_bt1_left"> 2023-01-03 15:01:23&nbsp;&nbsp;出处：快科技 作者：<a href="//passport.mydrivers.com/author/1461185.html" title="落木的主页" class="newstiao4">落木</a>  编辑：落木 <span id="Hits"></span>&nbsp;&nbsp;<span>&nbsp;&nbsp;评论<a style="color:#F00;" href="//comment8.mydrivers.com/review/883271-1.htm">(<span id="span_commentsnum">0</span>)</a></span><a title="点击可以复制本篇文章的标题和链接" target="_self"  href="javascript:copyNewsUrl();"><img src="//icons.mydrivers.com/news/2013/copy_link.png?id=1" alt="点击可以复制本篇文章的标题和链接" width="20" height="15" /></a></div>
-      </div>
-          
-             <div style="height:50px;">
-		<div class="bqian1"><a href="//news.mydrivers.com/tag/aodis4.htm"><i>#</i>奥迪S4</a><a href="//news.mydrivers.com/tag/aodi.htm"><i>#</i>奥迪</a></div>
-      <div class="share"><ul>
-          <li> <a class="a2 like_zan" href="javascript:;" target="_self">0</a> </li>
-		  <li>
-		  <a class="a2 pub" target="_self" href="javascript:;" id="new_share_a">0</a>
-              <div style="display:none;" id="new_share">
-			  <img src="//icons.mydrivers.com/2020/www/top.png" width="20" height="10" class="pub_pub_img" alt=""/>
-              <div class="pub_pub">
-			  <p><a class="a1 qq" target="_self" href="javascript:;" id="share_qq"><i class="pqq"> </i>QQ好友</a></p> 
-<p> <a class="a1 weibo" href="javascript:;" id="share_weibo" target="_self"><i class="pweibo"></i>微博</a></p> 
-<p><a class="a1 weixin" target="_self" href="javascript:;" id="share_wechat"><i class="pweixin"></i>微信好友</a> <object style="display:none;"><div class="ewmer1"></div></object></p>
-<p>  <a class="a1 Qzone" href="javascript:;" id="share_qqzone" target="_self"><i class="pQzone"></i>QQ空间</a></p> 
-<p><a target="_self"  href="javascript:copyNewsUrl();"><i class="plink"></i>复制链接</a></p>
-				 </div> 
-              </div>
-			  </li>
-		  <li>
-		    <a class="a2 collect" id="kkjshoucangnews_2" href="javascript:;" target="_self">0</a>
-			  </li>
-		<li>
-		   <a class="a2 pl" id="new_a_commentsnum" href="javascript:;" target="_self">0</a>
-		  </li>
-		</ul>
-		</div>
-	  </div>
-
-         
-  
-      <div class="news_info">
-          
-           <p>作为汽车文化的一部分，改装在世界各地都有不少粉丝，也确实出现了很多很多优秀的作品，当然，也有一些十分辣眼睛的存在，近日，有外媒体曝光了<strong>一台经过&ldquo;爆改&rdquo;的奥迪S4</strong>，不少人看完之后表示真的是&ldquo;无语凝噎&rdquo;。</p>
-<p>这台改装了的S4怎么形容呢？猛一看就像是个刺猬一般，全身上下加入了各种各样的装饰件，甭管跟车到底匹不匹配，先安装再说，<strong>比如大灯组竟然加入了蜂窝状的外壳</strong>，这是要保护奥迪的&ldquo;本体&rdquo;一般。</p>
-<p>前脸装备了大尺寸的前唇以及各种各样的拉杆，发动机仓盖上粘贴了进气口装饰、微型扰流板，还张贴有各种各样让人眼花缭乱的贴纸，据不完全统计，这些贴纸有麦当劳、格子旗拉花、耐克商标、海盗队标识等等，可谓是大杂烩，一锅乱炖。</p>
-<p>侧面同样是改装的重灾区，车主给它加装了晴雨挡，造型十分怪异的侧裙，门板上当然也少不了各式贴纸，<strong>轮眉上还有&ldquo;减振器&rdquo;</strong>，唯一比较正常的怕就是五辐式轮圈了。</p>
-<p>相比于车头，尾部更是&ldquo;没眼看&rdquo;，令人惊叹的是，车主大概率为了彰显个性化，<span style="color:#ff0000;"><strong>竟然给这台S4加装了四层大尾翼</strong></span>，像是在盖楼一般，不仅如此，还有很多奇形怪状的副翼，尾灯进行了熏黑处理不说，下方扩散器同样经过了大改，双边共四出的排气尾嘴更是被修改为了火焰样式，着实另类。</p>
-<p>网友：这是改装？怕是一开上路就各种往下掉零件吧。</p>
-<p align="center"><a href="//img1.mydrivers.com/img/20230103/76c9ee54683044ddb14e62d84b4b77e0.jpg" target="_blank"><img alt="史上最丑改装！国外用户爆改奥迪S4：尾翼叠了四层" h="450" src="//img1.mydrivers.com/img/20230103/s_76c9ee54683044ddb14e62d84b4b77e0.jpg" style="border: black 1px solid;" w="600" /></a></p>
-<p align="center"><a href="//img1.mydrivers.com/img/20230103/897698741a2b4e72ad5099fa189e2f4c.jpg" target="_blank"><img alt="史上最丑改装！国外用户爆改奥迪S4：尾翼叠了四层" h="450" src="//img1.mydrivers.com/img/20230103/s_897698741a2b4e72ad5099fa189e2f4c.jpg" style="border: black 1px solid;" w="600" /></a></p>
-<p align="center"><a href="//img1.mydrivers.com/img/20230103/3dac29b8816646dcbdf9cdfdfa530dba.jpg" target="_blank"><img alt="史上最丑改装！国外用户爆改奥迪S4：尾翼叠了四层" h="450" src="//img1.mydrivers.com/img/20230103/s_3dac29b8816646dcbdf9cdfdfa530dba.jpg" style="border: black 1px solid;" w="600" /></a></p>
-
-            
- <div style="overflow: hidden;font-size:14px;padding-top:30px;border-bottom:1px solid #eee;">
-           <p class="zhuanzai">【本文结束】如需转载请务必注明出处：快科技</p>  
-          <p class="url"><span style="color:#666">责任编辑：落木</span></p>
-        </div>
+    <div id="wrap">
      
-      </div>
-    </div> 
-       
-       
-      
-        <div class="navs_newsinfo xg_newsinfo">
-        <h6>相关资讯</h6>
-        <ul>
-              <li><a href="https://news.mydrivers.com/1/882/882885.htm">奥迪最帅量产电车！RS e-tron GT上市：146.88万秒杀保时捷</a></li><li><a href="https://news.mydrivers.com/1/882/882055.htm">奥迪最美纯电瓦罐登场！广州车展新车抢先看：哪款你最爱？</a></li><li><a href="https://news.mydrivers.com/1/881/881694.htm">奥迪官宣A6 Avant e-tron Concept：史上最美纯电瓦罐来了</a></li><li><a href="https://news.mydrivers.com/1/881/881319.htm">江苏女子30万买奥迪A4L被发现二次做漆 律师：可主张退一赔三</a></li><li><a href="https://news.mydrivers.com/1/881/881245.htm">华为与奔驰/宝马/奥迪/保时捷达成专利授权：全球1500万辆车用上华为技术</a></li>
-        </ul>
-      </div>
-
-         <div class="news_zc">
-        <ul>
-            <li class="h6">支持打赏</li>
-            <li><a class="zzhichi"></a>
-                <p>支持<span>0</span>人</p>
-            </li>
-             <li style="display:none;"><a class="ffandui"></a>
-                <p>反对</p>
-            </li>
-            <li><a class="ddashang" href="javascript:;" target="_self" onclick="$('.dashang_float_2').toggle();performbj();"></a>
-            <p>打赏</p>
-            </li> 
-        </ul> 
-    </div>
-
-    <div class="news_df">
-        <h6>文章价值打分</h6>
-        <p>
-            <a onclick="news_df(-1,2);" href="javascript:;" target="_self" onmouseover="setBack(1)" onmouseout="setBackNone(this)"></a>
-            <a onclick="news_df(0,0)" href="javascript:;" target="_self" onmouseover="setBack(2)" onmouseout="setBackNone(this)"></a>
-            <a onclick="news_df(-2,3)" href="javascript:;" target="_self" onmouseover="setBack(3)" onmouseout="setBackNone(this)"></a>
-            <a onclick="news_df(-3,4)" href="javascript:;" target="_self" onmouseover="setBack(4)" onmouseout="setBackNone(this)"></a>
-            <a onclick="news_df(1,1)" href="javascript:;" target="_self" onmouseover="setBack(5)" onmouseout="setBackNone(this)"></a>
-        </p>
-        <div class="jzdf">当前文章打分<span id="news_df_score" class="red">0</span> 分，共有<span id="news_df_peoplenum">0</span>人打分</div> 
-    </div>
-
-    <div class="function">
-        <ul>
-            <li><a href="javascript:;" target="_self" class="dianzan">0</a></li>
-            <li><a href="javascript:;" target="_self" class="shoucang" id="kkjshoucangnews_3">0</a></li>
-            <li><a href="javascript:;" target="_self" class="pinglun" id="newspl">0</a></li>
-            <li><a href="javascript:;" target="_self" class="dashang" onmouseover="$('.dashang_float_1').attr('style','display:block');" onmouseout="$('.dashang_float_1').attr('style','display:none');">打赏</a>
-                <!--dashang-->
-                <div class="dashang_float dashang_float_1">
-                    <div class="dashang_erwm">
-                        <img src="//icons.mydrivers.com/news/play.png" width="256" height="136" alt="" />
-                    </div>
-                    <div class="box_triangle_bottom"></div>
-                </div>
-            </li>
-            <li style="padding-right: 25px">| </li>
-        </ul>
-        <ul class="fenxiang">
-            <li><span href="javascript:;" class="sshare">分享好友:</span></li>
-            <li><a href="javascript:;" class="sshare_qq" id="shareNewQQ"></a>
-                <div class="sshare_float" style="display: none">
-                    <div class="box_triangle"></div>
-                    <div class="sshare_info">分享至QQ</div>
-                </div>
-            </li>
-            <li><a href="javascript:;" class="sshare_weibo" id="shareNewWeibo"></a>
-                <div class="sshare_float" style="display: none">
-                    <div class="box_triangle"></div>
-                    <div class="sshare_info">分享至微博</div>  
-                </div>
-            </li>
-             <li><a href="javascript:;" class="sshare_weixin" id="shareNewWX"></a>
-          <div class="sshare_weixinfloat" style="display:none">
- <div class="box_triangle"></div>
-                   <object><div class="ewmer1"><canvas width="100" height="92"></canvas></div></object> 
-                </div> 
-            </li> 
-            <li><a href="javascript:;" class="sshare_Qzone" id="shareNewQzone"></a>
-                <div class="sshare_float" style="display: none">
-                    <div class="box_triangle"></div>
-                    <div class="sshare_info">分享至QQ空间</div>
-                </div>
-            </li>
-            <li style="padding-right: 25px">| </li>
-        </ul>
-        <ul>
-            <li><a href="javascript:;" target="_self" class="haibao">生成海报</a></li>
-        </ul>
-    </div>
-
-
-   <div class="haibao_float" style="display:none;">	
-       <div class="hbclose"><a style="cursor:pointer;"><img src="//icons.mydrivers.com/news/haibao_close.png" width="16" height="16" alt=""></a></div>
-	<div class="haibao_top"></div>
-	<div class="haibao_bottom">
-		<ul>			
-	    <li><a class="saveimg" href="javascript:;" target="_self"></a>保存图片</li>
-		<li><a class="haibaoqq" href="javascript:;" target="_self" id="sharePosterQQ"></a>QQ好友</li>
-		<li><a class="haibaoweibo" href="javascript:;" target="_self" id="sharePosterWB"></a>微博</li>
-		<li><a class="haibaowx" href="javascript:;" target="_self" id="sharePosterWX"></a>微信好友
-               <div class="sshare_weixinfloat" style="display: none;"> 
-                <div class="showPosterWX" style="display:none"></div>
-                <object><div class="ewmer1"><canvas width="100" height="92"></canvas></div></object>
-                <div class="box_triangle"></div>  
-</div>
-
-		</li>
-		<li><a class="baibaoQzone" href="javascript:;" target="_self" id="sharePosterQzone"></a>QQ空间</li>
-			</ul>
-		</div>
-	</div>
-
- <div class="dashang_float dashang_float_2" style="display:none">
-        <div class="float_close"><a href="javascript:;" target="_self" onclick="$('#kkj_news_bj').click();"></a></div>
-  <div class="dashang_erwm">
-	<span>给作者大大一些小奖励</span>  
-	  <img src="https://icons.mydrivers.com/news/play.png" width="256" height="136" alt=""> </div>
-</div> 
-
-        <div class="adds"> 
-
-  <!--  <div style="width:800px;height:100px; margin: auto; padding-top: 5px;padding-bottom: 13px;">
-    <a href="https://sunlogin.oray.com/" target="_blank"><img src="//img1.mydrivers.com/img/2005/xrkoray.png"></a>
-</div>-->
-
-    <!--  <div style="width:800px;height:100px; margin: auto; padding-top: 5px;padding-bottom: 10px;">
-    <a href="http://cnzonemax.mikecrm.com/kxwzQba" target="_blank"><img src="//img1.kkeji.com/img/2005/intel20220620.jpg"></a>
-</div>-->
-
-<!--<div style="width:800px;height:100px; margin: auto;">
-  <a href="https://dt.mydrivers.com/bp.ashx?ma=YAbG" target="_blank"><img src="//img1.kkeji.com/img/2005/kkjmsi84380_1107.jpg"></a>
-</div>-->
-
-<!--<div style="width:800px;height:100px; margin: auto; padding-top: 5px;padding-bottom: 10px;">
-    <a href="https://dt.mydrivers.com/a.ashx?aa=OLXQ" target="_blank"><img src="//img1.kkeji.com/img/2005/kkjsolidigm890100.jpg"></a>
-</div>-->
-
-    <div style="width:800px; margin:auto; padding-top:10px;padding-bottom:10px;text-align:center">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-3265093218051583"
-     data-ad-slot="1321902567"></ins>
-<script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
-</div> 
-  </div>
-    <iframe align="middle" src="//comment8.mydrivers.com/ShowNewsIframeUTF8.aspx?cid=1&tid=883271" frameborder="0" width="100%" height="200" scrolling="no" id="commentsiframe"></iframe>   
-         <!--标签-->
-    <div class="bqian1 bqian">
-      <h6>本文收录在</h6>
-      <a href="//news.mydrivers.com/tag/aodis4.htm"><i>#</i>奥迪S4</a><a href="//news.mydrivers.com/tag/aodi.htm"><i>#</i>奥迪</a><a href="//news.mydrivers.com/tag/gaizhuang.htm"><i>#</i>改装</a></div>
-  </div>
-  <div class="main_right"> 
-        <script language="javascript" src="//blog.mydrivers.com/authorinfo/index.ashx?v=2023&a=1461185"></script>  
-
-   
- <div style="margin:10px 20px 20px 20px" id="div_newsyjgg">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-<!-- pc_news_info_r_300_600_1 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:600px"
-     data-ad-client="ca-pub-3265093218051583"
-     data-ad-slot="8955730440"></ins>
-<script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
-<div class="main_right_div">
-      <h3 class="righttitle">
-        <ul>
-          <li>热门文章</li>
-          <li class="day" data-index="1" onclick="swhotnews(this);" style="cursor:pointer;">换一波</li> 
-        </ul>
-      </h3>
-      <div class="article_ph" id="hot_article_ph_2023">
-       <script type="text/javascript" src="/incutf8/New_ReMenWenZhangTop20_2023.js"></script>
-      </div>
-    <script>
-        function swhotnews(obj)
-        {
-            var dd = $(obj).attr("data-index");
-            switch (dd) {
-                case "1":
-                    $("#hot_article_ph_2023").find('ul').hide().end().find('ul:eq(1)').show();
-                    dd = 2;
-                    break;
-                case "2":
-                    $("#hot_article_ph_2023").find('ul').hide().end().find('ul:eq(2)').show();
-                    dd = 0;
-                    break;
-                case "0":
-                    $("#hot_article_ph_2023").find('ul').hide().end().find('ul:eq(0)').show();
-                    dd = 1;
-                    break;
-            }
-            $(obj).attr("data-index", dd);
-        }  
-    </script>
-</div>
-
-<!--<div class="main_right_div" style="padding-top: 10px;">
-    <a href="https://online.wangsu.com/activity/free?rsr=mall_advert"><img style="width:300px;height:250px;" src="//img1.kkeji.com/img/2005/newsinfo-wangsu.jpg"></a>
-</div>-->
-
-<div class="main_right_div" style="padding-top: 10px;">
-    <a href="https://click.aliyun.com/m/1000365575/"><img style="width:300px;height:300px;" src="//img1.kkeji.com/img/2005/aliy300300_1202.png"></a>
-</div>
-
-<!--<div class="main_right_div" style="padding-top: 10px;">
-    <a href="https://url.cn/PW9aNMwM"><img style="width:300px;height:300px;" src="//img1.kkeji.com/img/2005/tengxyunyun20221028.png"></a>
-</div>-->
-
-   <div class="main_right_div">
-      <h3 class="righttitle">
-        <ul>
-          <li>好物推荐</li>
-          <li class="day"  onclick="$('#div_haowutuijian_2023 ul').toggle();$('#div_haowutuijian_2023 img.lazy').lazyload({effect : 'fadeIn'});" style="cursor:pointer;" >换一波</li>
-        </ul>
-      </h3>
-      <div class="good_ths" id="div_haowutuijian_2023">
-          <script type="text/javascript" src="/incutf8/HaoWuTuiJianTop6_2023.js"></script>
-      </div>
-    </div>
-<script>
-    $("#div_newsyjgg").css({ "background": "url(//icons.mydrivers.com/icon/newsyjgg_" + Math.floor((Math.random() * 2) + 1) + ".png) no-repeat" });
-</script>
-    <div id="flostxinfodiv">
-<div class="main_right_div" id="bnext"></div> 
-<div id="news_guanzhu" style="background:#fff;z-index:1;">
-      <div class="main_right_div">
-        <h3 class="righttitle">
-          <ul>
-            <li>关注我们</li>
-          </ul>
-        </h3>
-      </div>
-      <div class="guanzhume">
-        <ul>
-          <li>
-            <div class="guanzhume_left"> <img src="//icons.mydrivers.com/2020/www/weibo1.png" width="50" height="50" alt="微博"/> </div>
-            <div class="guanzhume_right">
-              <h3>微博：<span>快科技官方</span></h3>
-              快科技(原驱动之家)官方微博</div>
-          </li>
-          <li>
-            <div class="guanzhume_left"> <img src="//icons.mydrivers.com/2020/www/toutiao1.png" width="50" height="50" alt="今日头条"/> </div>
-            <div class="guanzhume_right">
-              <h3>今日头条：<span>快科技</span></h3>
-              带来硬件软件、手机数码最快资讯！</div>
-          </li>
-          <li>
-            <div class="guanzhume_left"> <img src="//icons.mydrivers.com/2020/www/douyin1.png" width="50" height="50" alt="抖音"/> </div>
-            <div class="guanzhume_right">
-              <h3>抖音：<span>kkjcn</span></h3>
-              科技快讯、手机开箱、产品体验、应用推荐...</div>
-          </li>
-        </ul>
-      </div>
-    </div>
-</div>
-</div>
-   <div style="clear:both"></div>
-    </div>
-    <script language="JavaScript" type="text/JavaScript" src="//count.mydrivers.com/UpdateHitsUTF8.aspx?Tid=883271"></script>
-    <script language="JavaScript" type="text/JavaScript" src="//count.mydrivers.com/HitsUTF8.aspx?Tid=883271"></script>
-    <div class="footer_about">
-  <div class="pageFooter">
-    <div class="footerleft">
-      <dl>
-        <dd> 关于我们 </dd>
-        <dt> <a href="//www.mydrivers.com/contact/Company.html">关于我们</a> </dt>
-        <dt> <a href="//www.mydrivers.com/contact/privacy.html">隐私权说明 </a></dt>
-      </dl>
-      <dl>
-        <dd> 交流合作 </dd>
-        <dt><a href="//www.mydrivers.com/contact/jobs.html">加入我们</a> </dt>
-        <dt> <a id="a_fankui" href="javascript:;" target="_self">意见反馈</a> </dt>
-        <dt> <a href="//www.mydrivers.com/contact/advertising.html">广告刊例</a> </dt>
-      </dl>
-      <dl>
-        <dd> 关注我们 </dd>
-        <dt id="mydrivers_wx" style="color:#888;position: relative;"> 微信公众号：<img src="//icons.mydrivers.com/2018/common/erwm_small.png" width="25" height="25" alt="驱动之家微信公众号"/>
-          <!-- 悬浮二维码-->
-          <div id="mydrivers_wx_dia" class="wxewm_cur" style="none;">
-            <div class="float_ewm"><img src="//icons.mydrivers.com/2018/common/kkj_wx.png" width="127" height="127"></div>
-            <div class="float_ewmar"><img src="//icons.mydrivers.com/2018/common/ewmar.png" width="6" height="15" /></div>
-          </div>
-           </dt>
-        <dt> 微博号：<a title="快科技官方微博" href="https://weibo.com/mydrivers">快科技官方</a></dt>
-        <dt> QQ群：53467377 </dt>
-      </dl>
-    </div>
-    <div class="footerright">
-      <ul>
-        <li> <span><img src="//icons.mydrivers.com/2018/common/kkj_android.png" width="110" height="110" alt="安卓客户端下载"/></span>安卓客户端下载 </li>
-        <li> <span><img src="//icons.mydrivers.com/2018/common/kkj_ios.png" width="110" height="110" alt="IOS客户端下载"/></span>IOS客户端下载 </li>
-      </ul>
-    </div>
-    <div class="footerForm clear1"> </div>
-  </div>
-</div>
-   <link href="//11.mydrivers.com/css/2023/fl_login.css" rel="stylesheet" type="text/css" />
-<div id="footer">  
-    <p class="copyright">快科技（驱动之家旗下媒体）·1997-2023 版权所有</p>
-    <p class="copyright">Copyright(C)Mydrivers.com, All Rights Reserved.</p>
-    <p class="copyright"><a href="https://beian.miit.gov.cn/">豫ICP备18024899号-2</a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41010502003949" style="margin-left:20px;"><img src="//icons.mydrivers.com/2018/news/batb.png"/>豫公网安备 41010502003949号</a>
-      <br>
-      <br>
-</p>
-</div>
-<div id="append_parent"></div>
-<div id="div_login" class="pinglun_login"></div>
-<div id="div_fankui" class="pinglun_login" style="width:514px; height:530px;"></div>
-<div class="dafen_float" id="win_float" style="display: none"></div>
-<style>
-/*--页面停留推荐--*/
-#a_showhotnews_list_dia{
-    width:100%;
-    height:1000px;
-    background-color: rgba(0,0,0,0.6);    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);
-    position: absolute;
-    z-index: 999999999999999999999999;
-    top: 0;
-    left: 0;
-}
-.tj_box{
-	width:1115px;
-	height:565px;
-	background-color:rgb(250,250,250);
-    margin:96px auto 0;
-    border-radius: 15px;
-	background: #f9f9f9;
-	/*padding:30px;*/
-}
-.tj_top{
-	height:20px;
-	position:relative;
-}
-.tj_center{
-	height:250px;
-	padding:0 30px;
-}
-.tj_center .tjleft{
-	width:600px;
-	height:auto;
-	float:left;	
-}
-.hotnews_list{	
-	padding:0 25px;
-	background: #fff;
-	border-radius: 10px;
-	height:465px;
-}
-.tjleft li{
-    height: 57px;
-    overflow: hidden;
-    line-height: 57px !important;   
-	border-bottom:1px solid #eee;
-}
-.tjleft li:last-child {
-    border: 0;
-}
-.tjleft li a{	
-	display:inline-block;
-	overflow:hidden;
-	float:left;
-	font-size:16px;
-	padding:0 0 0 18px !important;
-	color: #333;
-	text-decoration:none; 
-	background: url(//icons.mydrivers.com/news/rhombus_icon.png) no-repeat 0 25x;		
-	}
-.tjleft a:visited {
-    color: #aaa;
-}
-.tjleft a:hover {
-	background: url(//icons.mydrivers.com/news/rhombus_cur_icon.png) no-repeat 0 25px;
-    color: #f00;
-}
-.tjleft span.t{
-	padding-left: 20px;
-    float: left;
-    white-space: nowrap;
-    color: #999;
-    margin-left: 30px;
-    background: url(//icons.mydrivers.com/news/hot_icon.png) no-repeat 0px 22px;
-}
-.tjright span.t font {
-    color: #F00;
-    display: inline-block;
-    padding-left：2px;
-	font-size:14px;	
-}
-.tj_center .tjright{
-	width:425px;
-	float:right;	
-}
-.goods{
-	background: #fff;
-    border-radius: 10px;
-	padding:10px 0;
-	height:445px;	
-}
-.goods li {
-	color: silver;
-	height: auto;	
-	overflow: hidden;
-	position: relative;
-	padding: 10px 22px 10px 22px;
-}
-.goods_title {
-	display: inline-block;
-	float: right;
-	width: 67.5%
-}		
-.goodst {
-	font-size: 12px;
-	line-height: 18px;
-	height:auto;
-	width: 100%;	
-}
-.goodst a{
-	display: block;
-	color:#191919;
-	overflow: hidden;
-	text-decoration: none;
-	height: 40px;
-	margin-bottom:2px;
-		}
-.goodst a:hover{
-	color:#f00
-		}
-.goodst a:visited{
-	color:#999
-		}
-.goodsimg {
-	display: inline-block;
-	float: left;
-	height: auto;
-	padding-left: 1%;
-	text-align: right
-}
-.goodsimg img{
-	border-radius: 3px;
-	width: 100px;
-	height: 66px;
-}		
-.price{
-	color: #999;
-	font-size: 11px;
-	display: block;
-	padding: 0
-}	
-.price p{
-    display: inline-block;
-    float: left;
-	line-height: 24px; 
-    padding: 0;
-    padding-right: 10px;
-}
-.price p.price1{
-    color: #f00;
-	font-size:14px;
-}		
-.price p.price2{
-    color: #999;
-    font-size:12px;
-	padding-top:1px;
-}
-.tj_center h3{
-	display: inline-block;
-	height:50px;
-	line-height:36px;	
-	color:#333;
-	font-size:20px;
-	font-weight:bold;
-	padding-left:20px;
-}
-.tj_center h3 i {
-    display: block;    
-    width: 38px;
-	height:3px;
-	background:#32a6fe;
-	margin: auto;
-	border-radius: 2px;
-}
-.tj_center h3 .centerright{
-	float:right;
-	line-height:35px;
-	padding-right:22px;
-	background:url(//icons.mydrivers.com/news/2017/arrow.png) no-repeat 117px 13px;
-}
-.tj_center h3 a{
-	color:#444;
-	text-decoration:none !important;
-}
-.tj_center h3 a:visited{
-	color:#666;
-	text-decoration:none;
-}
-.tj_center h3 a:hover{
-	color:#e51414;
-	text-decoration:none;
-}
-.tj_bottom{
-	padding:25px 20px 0 20px;
-}
-.tj_top .close1{
-    position: absolute;
-    top: -16px;
-    right: -16px;
-}
-.tj_top .close1 a {
-    height: 54px;
-    width: 54px;
-    display: inline-block;
-    background: url(//icons.mydrivers.com/news/tj_topclose.png) no-repeat;  
-}
-.tj_top .close1 a:hover{
-	background: url(//icons.mydrivers.com/news/tj_topclose_cur.png) no-repeat; 
-}
-</style>
-<div id="a_showhotnews_list_dia" style="display:none">
-<div id="a_showhotnews_list" class="tj_box">
-  <div class="tj_top"><div id="a_showhotnews_top_close" class="close1"><a target="_self" href="javascript:void(0)"></a></div></div>
-  <div class="tj_center">
-   <div class="tjleft">
-		 <h3>热点推荐<i></i></h3>
-          <ul class="hotnews_list">
-         <script src="/incutf8/pc_info_hotnews_20220217.js"></script>
-          </ul>  
-      </div>
-      <div class="tjright">
-		 <h3>好物推荐<i></i></h3>
-        <ul class="goods">
-          <script src="/incutf8/pc_info_haohuo_20220217.js"></script>
-        </ul>
-      </div>
-  </div>
-  <div class="tj_bottom">
 <script type="text/javascript">
-    function getvideoisplay() {
-        var vp = $(".vedio_float iframe").length > 0 ? $(".vedio_float").find("iframe")[0].contentWindow : null;
-        if (vp == null)
-            return false;
-        if (vp.isplay)
-            $(window).resetIdleTimeup();
-        return vp.isplay;
-    }
-    (function () {
-        var s = "_" + Math.random().toString(36).slice(2);
-        document.write('<div style="" id="' + s + '"></div>');
-        (window.slotbydup = window.slotbydup || []).push({
-            id: "u3979135",
-            container: s
-        });
 
-        var f = ((3 * 60) + 2) * 1000;
-        var g;
-        var e = 0;
-        var b = $('#a_showhotnews_list_dia');
-        var d = $("#a_showhotnews_list");
-        var h = parseInt(d.css("margin-top").replace(/px/, ""));
-        var a = $("#a_showhotnews_list_close");
-        a.click(function () {
-            b.hide()
-        });
-        var xf_top = $("#a_showhotnews_top_close");
-        xf_top.click(function () {
-            b.hide()
-        });
-        $(window).keypress(function () {
-            b.hide()
-        });
-        b.click(function () {
-            b.hide()
-        });
-        d.click(function (i) {
-            i.stopPropagation()
-        });
-        $.fn.triggerPageRefresh = function () {
-            location.reload()
-        };
-        $.fn.resetIdleTimeup = function () {
-            if (g !== null) {
-                clearTimeout(g)
-            }
-            g = setTimeout(function () {
-                if (b.css("display") === "none" && !getvideoisplay()) {
-                    var i = h + $(window).scrollTop();
-                    d.css({
-                        "margin-top": i
-                    });
-                    b.css({
-                        "height": $(document).height()
-                    });
+function browserRedirect() { 
 
-                    b.show();
+var sUserAgent= navigator.userAgent.toLowerCase(); 
 
-                }
-            }, f)
-        };
-        $("body").mousemove(function () {
-            if (b.css("display") === "none") {
-                b.resetIdleTimeup()
-            }
-        }).resetIdleTimeup();
-        $(window).keydown(function () {
-            if (b.css("display") === "none") {
-                b.resetIdleTimeup()
-            }
-        }).resetIdleTimeup();
-        $(window).scroll(function () {
-            if (b.css("display") === "none") {
-                b.resetIdleTimeup()
-            }
-        }).resetIdleTimeup();
-    })();
+var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
+
+var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
+
+var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
+
+var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
+
+var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
+
+var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
+
+var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
+
+var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+
+if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
+
+  
+ document.write("<div style='padding-left:4em'><a href=\"https://wap.sciencenet.cn/mobile.php?type=detail&cat=paper&id=70248&mobile=1\" style='font-size:2em;color:#ba1413; line-height:2em;text-indent:4em'>点击此处切换为手机版网页</a></div>");  
+
+} else { 
+
+//window.location= '电脑网站地址'; 
+
+} 
+
+} 
+
+browserRedirect(); 
+
 </script>
-  </div>
-  <div id="a_showhotnews_list_close" class="close"></div>
-</div>
-</div>
-<style>
-#DDYYUOPWkkj{height:140px !important;}
-</style>
-<!--左侧滑动-->
-<div id="vleft_tab">
-  <ul>
-      <!-- <li style="height:300px;left: -20px;"><a style="border:0;background:none;padding:0;" href="https://www.hihonor.com/cn/shop/product/10086301129828.html?cid=128649"><img src="//icons.mydrivers.com/2021/news/kkj_honor_100_300_2.jpg?v=1" width="100" height="300"></a></li>-->
-<!-- <li id="DDYYUOPWkkj"><a style="border:0;background:none;padding:0;" href="https://dt.mydrivers.com/zt.ashx?gp=v2za"><img src="//img1.mydrivers.com/img/2005/tmnianhuo.png" width="80" height="140"></a></li> -->
-    <li><a id="kkj_app_client" href="//app.kkj.cn/"><i class="app">&nbsp;</i>APP下载</a>
-        <img src="//icons.mydrivers.com/2020/www/left.png" width="17" height="33" alt="" class="ewmer_left" style="display:none;">
-      <div class="ewmer" style="display:none;"><img src="//icons.mydrivers.com/2020/news/8/app_ewm.png" width="164" height="150" alt="快科技APP"></div>
-    </li>
-    <li><a href="https://blog.mydrivers.com/tougao.htm"><i class="tougao">&nbsp;</i>投稿</a></li>
-    <li><a id="contentjiucuo"><i class="jiucuo">&nbsp;</i><font>纠错</font></a></li>
-  <!--    <li><a id="kkjshoucangnews"><i class="shoucang">&nbsp;</i><font>收藏</font></a></li>-->
-  </ul>
-</div>
-<!--右侧滑动-->
-<div id="vright_tab">
-<ul>
-<!-- <li style="height:300px;"><a style="border:0;background:none;padding:0;" href="https://www.hihonor.com/cn/shop/product/10086301129828.html?cid=128649"><img src="//icons.mydrivers.com/2021/news/kkj_honor_100_300_2.jpg?v=1" width="100" height="300"></a></li>-->
-<!--<li id="DDYYUOPWkkj"><a style="border:0;background:none;padding:0;" href="https://dt.mydrivers.com/zt.ashx?gp=AJdq"><img src="//img1.mydrivers.com/img/2005/nianhuo.png" width="80" height="140"></a></li> -->
-<li><a id="rightfankui"><i class="fankui">&nbsp;</i>意见反馈</a></li>
-<li><a id="rightplun"><i class="pinglun">&nbsp;</i>评论</a></li>
-<li><a id="gotop" style="display:none;"><i class="top1">&nbsp;</i>返回顶部</a></li>
-	
-</ul>
-</div>
-<!--右侧滑动-->
-<!--<div class="gettop" id="right_tab" style="display:none;">
-  <ul>
-    <li><a id="gotop"></a></li>
-  </ul>
-</div>-->
-<div class="vedio_float" style="display:none;"></div>
-<div class="vedio_pinlun_float" style="display:none;"></div>
-﻿     <div class="afimg_container" style="display:none">
-            <div class="afimg_head">
-                <span><a href="javascript:;" class="enlarge" target="_self"></a></span>
-                <span>
-                    <label id="lblzoom">100</label>%</span>
-                <span><a href="javascript:;" class="reduce" target="_self"></a></span>
-                <span><a href="javascript:;" class="onetoone" target="_self"></a></span>
-                <span class="lines">&nbsp;</span>
-                <span><a href="javascript:;" class="down_img" target="_self" onclick="downloadImg()"></a></span>
-                <span><a href="javascript:;" class="stamp" target="_self"></a></span>
-                <a class="close5" href="javascript:;" target="_self">&nbsp;</a>
-            </div>
-            <div class="afimg_div"  style="*opacity:1">
-                <div class="afimg_left">
-                    <a href="javascript:;" class="imgarrow_left gry_left" id="imleft" target="_self"></a>
-                    <a href="javascript:;" class="imgarrow_right" id="imright" target="_self"></a>
-                    <div class="afimg_original">
-                        <table style="width: 100%; height: 100%">
-                            <tr>
-                                <td align="center" valign="middle">
-                                    <img id="imgNeed" src="" alt="" /></td>
-                            </tr>
-                        </table>
-
-                    </div>
-                    <div style="clear: both"></div>
-                </div>
-                <div class="afimg_right">
-                    <h6>图片信息</h6>
-                    <div class="afimg_info">
-                        <ul>
-                            <li>
-                                <span style="display: block; padding-bottom: 10px;">图片描述:</span>
-                                <label id="lblDesc"></label>
-                            </li>
-                            <li>
-                                <span>图片格式：</span><label id="lblFormat"></label>
-                            </li>
-                            <li>
-                                <span>图片尺寸：</span>
-                                <label id="lblSize"></label>
-                            </li>
-                            <li>
-                                <span>上传时间：</span>
-                                <label id="lblPostDate"></label>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div style="clear: both"></div>
-            </div>
-            <div class="afimg_bottom"> 
-                <div class="bottom_div">
-	<i class="reverseleft bottom_brightness" id="_ileft"><a href="javascript:;" id="bottomLeftTag" target="_self">&nbsp;</a></i>
-	<i class="reverseright"  id="_iright"><a href="javascript:;" id="bottomRightTag"  target="_self">&nbsp;</a></i>
-                    <div style="float:left;overflow:hidden;margin:auto;width:894px;">
-                        <div id="s_needSrc"></div>
-                    </div>
-</div>
-<div style="clear:both"></div>		
+      <!--登录-->
+		<iframe src="https://blog.sciencenet.cn/plus.php?mod=iframelogin" style="width:970px; height:32px; " scrolling="no" frameborder="0"  ></iframe>
+            <!--导航-->
+           ﻿<link href="https://www.sciencenet.cn/css/indexhead.css" type="text/css" rel="stylesheet" />
+     <div class="logo">
+          <div  class="lg"  ><a href="https://paper.sciencenet.cn/"><img src="/images/paper.jpg" width="231" height="84"  alt="科学网论文频道"  /></a></div>
+		 <div class="rg02"  >
+		 <div class="rg" ><span style="float:left;">
+                        <a href="https://www.sciencenet.cn/life/" style="color:#fff">生命科学</a> | 
+                        <a href="https://www.sciencenet.cn/medicine/" style="color:#fff">医学科学</a> | 
+                        <a href="https://www.sciencenet.cn/chemistry/" style="color:#fff">化学科学</a> | 
+                        <a href="https://www.sciencenet.cn/material/" style="color:#fff">工程材料</a> | 
+                        <a href="https://www.sciencenet.cn/information/" style="color:#fff">信息科学</a> | 
+                        <a href="https://www.sciencenet.cn/earth/" style="color:#fff">地球科学</a> | 
+                        <a href="https://www.sciencenet.cn/mathematics/" style="color:#fff">数理科学</a> | 
+                        <a href="https://www.sciencenet.cn/policy/" style="color:#fff">管理综合</a> </span> 
+		  <span style=" float:right;  "> <a href="https://blog.sciencenet.cn/blog-45-1064777.html" style="color:#fff">站内规定</a> | <a href="https://wap.sciencenet.cn/"   style="color:#fff">手机版</a></span></div>
+          <div class="rg01"><span style="float:left;  ">
+                 <a href="https://www.sciencenet.cn/">首页</a> | <a href="https://news.sciencenet.cn/">新闻</a> | <a href="https://blog.sciencenet.cn/blog.php">博客</a> | <a href="https://news.sciencenet.cn/ys/">院士</a> | <a href="https://talent.sciencenet.cn/">人才</a> | <a href="https://meeting.sciencenet.cn">会议</a> | <a href="https://fund.sciencenet.cn/">基金·项目</a> | <a href="https://news.sciencenet.cn/morenews-9-1.aspx">大学</a> | <a href="https://paper.sciencenet.cn/">论文</a> | <a href="https://blog.sciencenet.cn/blog.php?mod=video">视频·直播</a> | <a href="https://paper.sciencenet.cn/AInews">小柯机器人</a> | <a href="https://news.sciencenet.cn/zt/">专题</a>
+          </span>
+			  <div style="float:right; padding-left:0px;">
+				   <form style="display:inline" method="get" action="https://www.baidu.com/baidu" accept-charset="utf-8" name="f1">
+					  <input style=" width:100px;border:0" maxlength="40" size="31" name="word" />
+					  <input type="submit" style="cursor:pointer; width:56px; font-size:12px; background-color:#880008; border-width:0px; height:16px; color:#fff;" value="本站搜索" />
+					  <input type="hidden" value="2097152" name="ct" />
+					  <input type="hidden" value="3" name="cl" />
+					  <input type="hidden" value="paper.sciencenet.cn" name="si" />
+					  <input type="hidden" value="utf-8" name="ie" />
+				  </form>
+			  </div>
+          </div></div>
         </div> 
-            </div> 
-<script>
-    document.domain = 'mydrivers.com';
-</script>
-<script type="text/javascript" src="//11.mydrivers.com/2022/news/common.js"></script>
-<script type="text/javascript" src="//11.mydrivers.com/js/2022/newsinfo0923.js?v=0930"></script>
-<script type="text/javascript" src="//11.mydrivers.com/2020/news/reward.js?v=1"></script>  
-<script type="text/javascript" src="//11.mydrivers.com/2021/winpop.min.js"></script>  
-<script type="text/javascript" src="//11.mydrivers.com/js/2022/bigtosmpic.js?v=1213"></script>
-<link href="//11.mydrivers.com/css/2022/main_shipin.css?v=0511" rel="stylesheet" type="text/css" />
-<link href="//11.mydrivers.com/2020/css/nav_font/nav_iconfont.css" rel="stylesheet" type="text/css" />  
-<script type="text/javascript">
-    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " //");
-    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ffa993fdd33f32c39cbb6e7d66096c422' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-    var _hmt = _hmt || [];
-    (function () {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?3dbeb68670c06338ee9042281d2bea6d";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
-</script>
-<!--<script>
-    (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-    ga('create', 'UA-2034714-3', 'auto');
-    ga('send', 'pageview');
-</script>-->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2034714-3"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
 
-    gtag('config', 'UA-2034714-3');
-</script>
-<!-- <style>
-        .taobao_tab{
-		position: fixed;
-		bottom:0;
-		right:0;
-		z-index: 10000;
-		width:320px;
-		height: 410px;
-	}
-	.taobao_tab .close {
-	position: absolute;
-	top: 2px;
-	right: -12px;
-	z-index: 10001;
-	width: 13px;
-	height: 13px;
-	background: none !important;
-}
-    </style>
-    	<div class="taobao_tab"><a href="https://news.mydrivers.com/1/788/788013.htm" target="_blank" ><img src="https://icons.mydrivers.com/news/guanbi.png" onclick="$('.taobao_tab').hide();return false;" width="13" height="13" alt="关闭" class="close"/><img src="https://icons.mydrivers.com/news/taobao_tab.jpg" width="320" height="410" alt="淘宝种草机"/></a></div>--> 
+        <div style="line-height: 10px; height: 10px; clear: both;  ">
+            &nbsp;</div>
+        <div id="main">
+            <div id="mleft">
+                <table border="0" cellpadding="0" cellspacing="0" style="width: 100%" >
+                    <tr>
+                        <td style="width: 680px;">
+                            <table id="content" style="border: solid 1px #bbc89b; width: 680px; text-align: center;
+                                background-color: #f8f9f4">
+                                <tr>
+                                    <td align="left">
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 82%; font: 12px 宋体; float: left; ">
+                                            作者：Orrin Devinsky 来源：《国家科学院院刊》 发布时间：2022/2/22 21:50:00</div>
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 18%; font: 12px 宋体; float: right">
+                                            选择字号：<span onclick="showsize(12)" style="background-color: #587c19; color: #fff;
+                                                font-size: 12px; cursor: pointer">小</span> <span onclick="showsize(14)" style="background-color: #587c19;
+                                                    color: #fff; font-size: 12px; cursor: pointer">中</span> <span onclick="showsize(16)"
+                                                        style="background-color: #587c19; color: #fff; font-size: 12px; cursor: pointer">
+                                                        大</span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div id="content1" style="width: 94%; font: 14px 宋体; text-align: left; line-height: 24px;
+                                            word-wrap: break-word">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td height="20">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px">
+                                                        <b></b></td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="style1" style="font-size: 22px; color: #587c19; font-family: 黑体;
+                                                        line-height: 30px">
+                                                        孩子在睡梦中离奇死亡？遗传学家找到新线索</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px;">
+                                                        <b></b></td>
+                                                </tr>
+                                            </table>
+                                            <p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<img src="/upload/news/images/2022/2/202222219957940d.jpg" /></p>
+<p style="text-align: center; text-indent: 2em;">
+	<strong>图片来源：JODIE JOHNSON/SHUTTERSTOCK</strong></p>
+<p style="text-indent: 2em;">
+	1997年的一天，Laura Gould将她15个月大的女儿Maria放到了床上，希望她能好好地睡上一觉。前一晚Maria发了高烧，但第二天她似乎已经恢复了健康。Gould怎么也想不到的是，Maria这一睡就再也没有醒来。没有任何预兆，Maria在睡梦中猝然离世。随后的尸检和病理学检验也没有得到任何明确的结论，Maria的死因成了一个谜。</p>
+<p style="text-indent: 2em;">
+	事实上，像Maria这样的案例不在少数。美国每年有约400名的儿童不明原因猝死（SUDC），其中，大约四分之一被标记为婴儿猝死综合症(SIDS)。最近的两项基因分析表明，至少一小部分病例的潜在原因与癫痫、心律失调和神经发育障碍相关的基因突变有关。</p>
+<p style="text-indent: 2em;">
+	SUDC不是一种单一的疾病，而是各种不同因素的&ldquo;大杂烩&rdquo;。未参与新研究的爱荷华大学卡弗医学院神经病理学家Marco Hefti认为，该研究的数据很重要，虽然不能肯定地说基因突变是导致儿童死亡的原因，但这些发现为动物研究提供了基础，可以揭示基因变化是如何干扰人体重要功能的。他表示，相关数据还可能为未来的儿童死亡调查提供信息，甚至可能为预防死亡的筛查项目提供信息。</p>
+<p style="text-indent: 2em;">
+	波士顿儿童医院医学遗传学家Ingrid Holm表示，从生物学上讲，SIDS和SUDC可能是一个谱系的一部分。在这两种情况下，死亡通常发生在睡眠中，研究人员怀疑导致死亡的原因包括未被发现的心脏缺陷、代谢紊乱和中枢神经系统异常。纽约大学朗格尼健康中心神经学家Orrin Devinsky指出，这些死亡的儿童有发热性癫痫史的可能性约为普通儿童的10倍。</p>
+<p style="text-indent: 2em;">
+	2014年，纽约大学格罗斯曼医学院Orrin Devinsky团队对124个&ldquo;三人组&rdquo;的外显子进行了测序，并在先前与心脏功能障碍或癫痫有关的基因中寻找突变，每个&ldquo;三人组&rdquo;都由父母和一个在11个月至19岁之间突然死亡的孩子组成。结果研究人员在8个基因中发现了变异，他们认为这些变异导致了11人的死亡。相关研究结果发表于美国《国家科学院院刊》。</p>
+<p style="text-indent: 2em;">
+	其中7个病例中，基因突变是新生的，其父母双方都没有携带这种基因突变。8个变异中的6种变异影响了与钙信号传导有关的基因，钙信号传导可调节包括心脏收缩和神经元放电在内的多种过程。</p>
+<p style="text-indent: 2em;">
+	在第二项研究中，研究人员调查了352例婴儿或儿童的死亡病例，并在294个基因中寻找与神经系统疾病、心脏功能障碍以及影响新陈代谢或多器官系统疾病有关的突变。结果发现37例死亡病例中出现了&ldquo;可能导致死亡的变异&rdquo;。其中两种变异基因被发现与罕见的神经发育障碍有关，但与猝死无关，这表明这些神经发育障碍的潜在后果尚未被认识到。</p>
+<p style="text-indent: 2em;">
+	值得一提的是，这两项研究都确认了癫痫有关基因SCN1A的突变。</p>
+<p style="text-indent: 2em;">
+	Devinsky认为，原则上，一些危险的变异可以添加到新生儿的常规筛查中，这可能是该领域的发展方向。但是，德国汉诺威医学院的法医病理学家Michael Klintschar指出，在许多情况下，基因突变的后果仍然不清楚。将儿童的死亡与一种与心律失常相关基因的罕见突变联系起来，并不代表携带这种基因突变的婴儿发生心脏骤停的风险。他举例，纠正这些孩子心律失常的风险可能会导致更多的问题。(来源：中国科学报&nbsp;辛雨）</p>
+<p style="text-indent: 2em;">
+	相关论文信息：</p>
+<p style="text-indent: 2em;">
+	<a href="https://doi.org/10.1073/pnas.2115140118" target="_blank">https://doi.org/10.1073/pnas.2115140118</a></p>
+<p style="text-indent: 2em;">
+	<a href="https://doi.org/10.1016/j.gim.2021.12.004" target="_blank">https://doi.org/10.1016/j.gim.2021.12.004</a></p>
+<div>
+	&nbsp;</div>
+<div class="bq" style="text-indent:0em;font-weight:bold;font-size:13px;border:solid 1px #333 ;padding:10px;">
+	版权声明：凡本网注明&ldquo;来源：中国科学报、科学网、科学新闻杂志&rdquo;的所有作品，网站转载，请在正文上方注明来源和作者，且不得对内容作实质性改动；微信公众号、头条号等新媒体平台，转载请联系授权。邮箱：shouquan@stimes.cn。</div>
+
+                                              
+                                            <div style="border-bottom: solid 1px #bfc89d; vertical-align: bottom; width: 100%;
+                                                height: 20px">
+                                            </div>
+                                            <div style="width: 100%; height: 20px; text-align: center; margin:10px">
+                                                        <!-- JiaThis Button BEGIN -->
+<script src="/html/js/share.js" type="text/javascript"></script>
+<!-- JiaThis Button END -->
+                                            </div>
+                                            
+                                        </div>
+                                    </td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <div style="line-height: 10px; height: 10px; clear: both;">
+                        &nbsp;</div>
+                <div style=" vertical-align: bottom; width: 100%;
+                                            height: 20px; text-align:right">
+               
+                                        <form action="/html/mail.aspx" method="post" id="myform">
+                                            <span onclick="javascript:window.print()" style="cursor: pointer; background-color: #587c19;
+                                                color: #fff;">&nbsp;打印&nbsp;</span> <span style="color: #587c19">发E-mail给：</span><input
+                                                    name="txtemail" type="text" value="" size="22"  id="txtemail" style="background-color: #eeeee8" />&nbsp;
+                                            <input type="hidden" id="myurl" name="myurl" runat="server" value="70248" />
+                                            <input type="submit" value="" style="background-image: url(/images/go.gif); background-color: Transparent;
+                                                width: 30px; background-repeat: no-repeat; border-width: 0; height: 21px" /></form>
+                                        &nbsp; &nbsp;&nbsp;
+                </div>
+               <div style="line-height: 20px; height: 20px; clear: both;">
+                        &nbsp;</div>
+                         <div style="color:#784704; text-align:left;display:none;" class="ifcomm">以下评论只代表网友个人观点，不代表科学网观点。</div>
+                <div style="border: solid 1px #bbc89b; width: 680px; text-align: center; background-color: #f8f9f4;display:none;" class="ifcomm">
+                 
+                     <div id="commd"></div>
+                                     <div style="text-align:left;width: 94%; margin-top:10px"><a href="/html/commentp.aspx?id=70248" style="color:#ba1413; text-decoration:none"><img src="/images/newcomm.gif" /></a></div>
+                    <div style="line-height: 4px; height: 4px; clear: both;">
+                        &nbsp;</div>
+                   <div style="text-align:left;width: 94%;border-top: solid 0px #bfc89d" id="formcomm">
+                    
+                    <iframe src="/html/papercomm.aspx?nid=70248" style="margin: 0px;
+                    padding: 0px" frameborder="0" scrolling="no" height="160px" width="100%"></iframe>
+                   
+                    </div>
+                 
+                </div>
+               
+                </div>
+                <div id="mright">
+                  <script src="/html/js/p1.js" type="text/javascript"></script>
+                    <!--相关新闻和相关论文-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tr>
+                            <td align="left" id="xgnews1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgnews','xgpaper')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关新闻</span></td>
+                            <td align="left" id="xgpaper1" style="background: #787878; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgpaper','xgnews')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关论文</span></td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="xgnews">
+                                    <ul class="ulclass">
+<li class='plnum'>1</li>&nbsp;<li><a href="/htmlnews/2022/2/474226.shtm" class="highlight2" target="_blank">北京儿童医院启动“新巢计划”剑指出生缺陷</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>2</li>&nbsp;<li><a href="/htmlnews/2022/2/474083.shtm" class="highlight2" target="_blank">超98%中国儿童青少年未达心血管健康理想状态</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>3</li>&nbsp;<li><a href="/htmlnews/2022/2/473909.shtm" class="highlight2" target="_blank">睡眠障碍疾病发病率上升，将加强专业领域研究</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>4</li>&nbsp;<li><a href="/htmlnews/2022/2/473689.shtm" class="highlight2" target="_blank">睡眠不足会使患心脏病风险增加三倍</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>5</li>&nbsp;<li><a href="/htmlnews/2022/2/473652.shtm" class="highlight2" target="_blank">狗狗为啥变小？基因突变源自古代狼</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>6</li>&nbsp;<li><a href="/htmlnews/2022/2/473636.shtm" class="highlight2" target="_blank">奥密克戎对儿童危害更大？科学家正试图找出答案</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>7</li>&nbsp;<li><a href="/htmlnews/2022/1/473190.shtm" class="highlight2" target="_blank">科学家首次揭示快速眼动睡眠与本能恐惧反应有关</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>8</li>&nbsp;<li><a href="/htmlnews/2022/1/473171.shtm" class="highlight2" target="_blank">儿童年龄越小开始花生免疫治疗缓解比例越高</a></li>
+</ul>
+
+                                   
+                                </div>
+                                <div id="xgpaper" style="display: none">
+                                   <ul class="ulclass">
+<li class='plnum'>1</li>&nbsp;<li><a href="/htmlpaper/2022/2/20222182081033170166.shtm" class="highlight2" target="_blank">高牛奶摄入量对儿童健康有益吗？一项基于全国人群的观察性队列研究 | MDPI Nutrients</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>2</li>&nbsp;<li><a href="/htmlpaper/2022/2/202221720382131670122.shtm" class="highlight2" target="_blank">超98%中国儿童青少年未达心血管健康理想状态</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>3</li>&nbsp;<li><a href="/htmlpaper/2022/2/20222109161498769891.shtm" class="highlight2" target="_blank">睡眠不足会使患心脏病风险增加三倍</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>4</li>&nbsp;<li><a href="/htmlpaper/2022/2/2022281051411369861.shtm" class="highlight2" target="_blank">狗狗为啥变小？基因突变源自古代狼</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>5</li>&nbsp;<li><a href="/htmlpaper/2022/1/2022127939211369699.shtm" class="highlight2" target="_blank">有压力“睡不好”究竟为啥？</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>6</li>&nbsp;<li><a href="/htmlpaper/2022/1/202217918128469192.shtm" class="highlight2" target="_blank">每12例儿童哮喘新病例就有1例与空气污染有关</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>7</li>&nbsp;<li><a href="/htmlpaper/2021/12/202112131135840968585.shtm" class="highlight2" target="_blank">研究证明，爱迪生、达利是对的</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>8</li>&nbsp;<li><a href="/htmlpaper/2021/11/20211116152366567918.shtm" class="highlight2" target="_blank">揭秘藏红花提取物对睡眠质量的影响 | MDPI Nutrients</a></li>
+</ul>
+
+                                   
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                      <script src="/html/js/p2.js" type="text/javascript"></script>
+                    <!--图片新闻-->
+                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a; margin-top:0px">
+                        <tr>
+                            <td align="left" colspan="2" style="background-image: url(/images/lmsy_jbg_br.jpg);
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="https://paper.sciencenet.cn/p-imgpaper.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px">图片新闻</a></td>
+                        </tr>
+                        <tr >
+                            <td style="width: 100%; height: 8px; border-width: 1px; text-align: right;" colspan="2">
+                            </td>
+                        </tr>
+                         ﻿<tr ><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492257.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181927354p.jpg' width='118' height='65' alt='FDA批准第二种治疗阿尔茨海默病的药物' /></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492227.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181744432260.png' width='118' height='65' alt='“人造太阳”基础物理研究取得系列新成果' /></a>
+</td>
+<tr ><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492248.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181742321010.png' width='118' height='65' alt='科研人员获得土壤呼吸测定影响因素' /></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492183.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023162032217730.jpg' width='118' height='65' alt='新彩棉问世：自带粉红基因' /></a>
+</td>
+
+ 
+                        <tr style="">
+                            <td style="width: 100%; border-width: 1px; text-align: right; height: 20px;" colspan="2">
+                                <a href="/imgnews.aspx" target="_blank" style="color: #3f6417">>>更多</a></td>
+                        </tr>
+                    </table>
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                          <script src="/html/js/p3.js" type="text/javascript"></script>
+                    <!--新闻排行和评论排行-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tr>
+                            <td align="left" id="zph1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 100%" onmouseover="showandhide('zph','yph')">
+                                <a href="/zphnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">一周新闻排行</a></td>
+                            
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="zph">
+                                    ﻿<ul class="h1ulclass">
+<li class='plnum'>1</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492095.shtm" class="highlight2" target="_blank">范维唐、赵其国、徐銤三位院士逝世</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>2</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/491982.shtm" class="highlight2" target="_blank">濒危“抗癌奇木”有望发酵罐中“新生”</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>3</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492045.shtm" class="highlight2" target="_blank">江南大学领导班子调整</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>4</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492150.shtm" class="highlight2" target="_blank">研究发现不同提取方式对青稞淀粉结构的影响</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>5</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492067.shtm" class="highlight2" target="_blank">邹承鲁：只向真理低头，偶尔为爱温柔</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>6</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492166.shtm" class="highlight2" target="_blank">中国科学家发现铁死亡增敏新靶点</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>7</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492083.shtm" class="highlight2" target="_blank">研究显示足量饮水降低患慢性病风险</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>8</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492140.shtm" class="highlight2" target="_blank">2022年本科国家级教学成果奖候选项目公布</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>9</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/491981.shtm" class="highlight2" target="_blank">中科院制备出酶燃料电池驱动的离子电渗透面膜</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>10</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492241.shtm" class="highlight2" target="_blank">著名生物化学家杨福愉逝世</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="/zphnews.aspx" target="_blank" style="color: #567b1c; font-size: 12px">更多>></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                              
+                            </td>
+                        </tr>
+                    </table>
+                   
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                          <script src="/html/js/p4.js" type="text/javascript"></script>
+                    <!--博文精选-->
+                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a;">
+                        <tr>
+                            <td align="left" colspan="2" style="background:#a4934b url(/images/lmd_jby_mbr.jpg) no-repeat;
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="https://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="font: 13px 宋体; color: #fff;
+                                    font-weight: bold; line-height: 20px">编辑部推荐博文</a></td>
+                        </tr>
+                         <tr>
+                            <td  colspan="2">
+                            <div>
+                                    ﻿<ul class="h1ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-575926-1371207.html" class="highlight2" target="_blank">科学的荣耀属于谁？</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-612874-1371186.html" class="highlight2" target="_blank">少年经历对人思想和行为的影响</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-729911-1371184.html" class="highlight2" target="_blank">大学学报的出路在哪里？</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-3400925-1371105.html" class="highlight2" target="_blank">浅谈大学学报的窘境与发展</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-212210-1371098.html" class="highlight2" target="_blank">Nature：科学突破的速度随着时间的推移而放缓</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-3444430-1371095.html" class="highlight2" target="_blank">认知随笔</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="https://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="color: #567b1c; font-size: 12px">更多>></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    <div style="line-height: 10px; height: 15px; clear: both;">&nbsp;</div>
+                          <script src="/html/js/p5.js" type="text/javascript"></script>
+                    <!--论坛精选-->
+                    
+                </div>
+            </div>
+            <div id="footer">
+
+                <script src="/html/inc/foot.js" type="text/javascript"></script>
+
+            </div>
+        </div>
 </body>
+<script src="https://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+///html/cp.aspx?id=70248&com=1
+//*******************
+
+ $.post("https://news.sciencenet.cn/html/cp.aspx?id=70248&com=1" ,
+
+                 function (data) {
+                     if (data != "") {
+                        document.getElementById('commd').innerHTML=data;
+                     }
+                     
+                 });
+				 
+//******************
+var url=encodeURIComponent(location.href);
+
+  $.ajax({
+    type : "get",
+    url : "https://wap.sciencenet.cn/api/jssdk.php?url="+url,//替换网址，xxx根据自己jssdk文件位置修改
+    dataType : "jsonp",
+    jsonp: "callback",
+    jsonpCallback:"success_jsonpCallback",
+    success : function(data){
+        wx.config({
+	 debug: false,
+　　　　 appId: data.appId,
+　　　　 timestamp: data.timestamp,
+　　　　 nonceStr: data.nonceStr,
+　　　　 signature: data.signature,
+　　　　jsApiList: [
+       　　"onMenuShareTimeline", //分享给好友
+       　　"onMenuShareAppMessage", //分享到朋友圈
+       　　"onMenuShareQQ",  //分享到QQ
+       　　"onMenuShareWeibo" //分享到微博
+]
+});
+},
+   error:function(data){
+          
+     }
+});
+  wx.ready(function (){
+  var shareData = {
+  title: '科学网-孩子在睡梦中离奇死亡？遗传学家找到新线索',
+  desc: '科学网-孩子在睡梦中离奇死亡？遗传学家找到新线索',//这里请特别注意是要去除html
+  link:location.href,
+  imgUrl: 'https://'+window.location.host+'/images/logo300.png'
+  };
+  wx.onMenuShareAppMessage(shareData);
+  wx.onMenuShareTimeline(shareData);
+  wx.onMenuShareQQ(shareData);
+  wx.onMenuShareWeibo(shareData);
+    });
+
+ window.onload = function(){
+		if (typeof WeixinJSBridge == "undefined"){
+		    if( document.addEventListener ){
+		        document.addEventListener('MenuShareTimeline', WeiXinShareBtn, false);
+		    }else if (document.attachEvent){
+		        document.attachEvent('MenuShareTimeline', WeiXinShareBtn); 
+		        document.attachEvent('onMenuShareTimeline', WeiXinShareBtn);
+		    }
+		}else{
+			//WeiXinShareBtn();
+		}
+	};
+</script>
 </html>
+
