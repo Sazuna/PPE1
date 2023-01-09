@@ -1,763 +1,740 @@
-<!DOCTYPE html>
-<html lang="es" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
-  <head>
-    <meta charset="utf-8"/>
-<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create","UA-2096164-16",{"cookieDomain":"auto"});ga("set","anonymizeIp",true);ga("send","pageview");</script>
-<meta name="twitter:card" content="summary"/>
-<meta property="og:site_name" content="Excelencias Gourmet"/>
-<meta name="robots" content="index, follow"/>
-<link rel="canonical" href="https://www.excelenciasgourmet.com/es/noticias-gourmet/gastronomia-paraguaya-en-la-expo-mariano-2022"/>
-<meta name="twitter:description" content="La Secretaría Nacional de Turismo (Senatur) de Paraguay, en alianza con la Asociación Paraguaya de Gastronomía (APYGA), llevó una muestra que permitió exponer lo mejor de la gastronomía de ese país, durante la “Noche de Turismo”, en la Expo Mariano 2022."/>
-<meta name="description" content="Despliegan muestra de gastronomía paraguaya en la Expo Internacional de Agricultura, Ganadería, Industria, Comercio y Servicios de Mariano Roque Alonso."/>
-<meta property="og:type" content="Artículo"/>
-<meta name="twitter:title" content="Excelencias Gourmet"/>
-<meta name="twitter:site" content="@excelen_gourmet"/>
-<meta property="og:url" content="https://www.excelenciasgourmet.com/es/noticias-gourmet/gastronomia-paraguaya-en-la-expo-mariano-2022"/>
-<link rel="image_src" href="https://www.excelenciasgourmet.com/sites/default/files/styles/large/public/2022-07/gastronom%C3%ADa%20paraguaya.jpg?itok=TvGsNafp"/>
-<meta property="og:title" content="Gastronomía paraguaya en la Expo Mariano 2022"/>
-<meta name="twitter:url" content="https://www.excelenciasgourmet.com/es"/>
-<meta property="og:description" content="La Secretaría Nacional de Turismo (Senatur) de Paraguay, en alianza con la Asociación Paraguaya de Gastronomía (APYGA), llevó una muestra que permitió exponer lo mejor de la gastronomía de ese país, durante la “Noche de Turismo”, en la Expo Mariano 2022."/>
-<meta name="twitter:image" content="https://www.excelenciasgourmet.com/sites/default/files/styles/large/public/2022-07/gastronom%C3%ADa%20paraguaya.jpg?itok=TvGsNafp"/>
-<meta property="og:image" content="https://www.excelenciasgourmet.com/sites/default/files/styles/medium/public/2022-07/gastronom%C3%ADa%20paraguaya.jpg?itok=bYgzczJl"/>
-<meta property="og:image:url" content="https://www.excelenciasgourmet.com/sites/default/files/styles/large/public/2022-07/gastronom%C3%ADa%20paraguaya.jpg?itok=TvGsNafp"/>
-<meta property="article:publisher" content="Mar, 19/07/2022 - 14:24"/>
-<meta property="article:section" content="Noticias Gourmet"/>
-<meta name="twitter:gallery:image0" content="https://www.excelenciasgourmet.com/sites/default/files/styles/large/public/2022-07/gastronom%C3%ADa%20paraguaya.jpg?itok=TvGsNafp"/>
-<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','924510761329768',[],{"agent":"pldrupal-8-8.8.6"});fbq('track','PageView',[]);</script>
-<noscript>
-
-
-<img height="1" width="1" alt="fbpx" src="https://www.facebook.com/tr?id=924510761329768&amp;ev=PageView&amp;noscript=1"/>
-
-
-</noscript>
-<meta name="Generator" content="Drupal 8 (https://www.drupal.org)"/>
-<meta name="MobileOptimized" content="width"/>
-<meta name="HandheldFriendly" content="true"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<style>div#sliding-popup,div#sliding-popup .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#000}div#sliding-popup.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup h1,#sliding-popup h2,#sliding-popup h3,#sliding-popup p,#sliding-popup label,#sliding-popup div,.eu-cookie-compliance-more-button,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#fff}.eu-cookie-withdraw-tab{border-color:#fff}</style>
-<script src="https://www.google.com/recaptcha/api.js?hl=es" async defer></script>
-<link rel="alternate" hreflang="es" href="https://www.excelenciasgourmet.com/es/noticias-gourmet/gastronomia-paraguaya-en-la-expo-mariano-2022"/>
-<link rel="alternate" hreflang="en" href="https://www.excelenciasgourmet.com/en/node/14307"/>
-<link rel="shortcut icon" href="/sites/default/files/xicono.png.pagespeed.ic.PCtux13IdW.png" type="image/png"/>
-<link rel="revision" href="https://www.excelenciasgourmet.com/es/noticias-gourmet/gastronomia-paraguaya-en-la-expo-mariano-2022"/>
-
-    <title>Gastronomía paraguaya en la Expo Mariano 2022 | Excelencias Gourmet</title>
-	
-	
-    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/A.align.module.css,,qrl49fx+fieldgroup.module.css,,qrl49fx+container-inline.module.css,,qrl49fx+clearfix.module.css,,qrl49fx+details.module.css,,qrl49fx+hidden.module.css,,qrl49fx+item-list.module.css,,qrl49fx+js.module.css,,qrl49fx+nowrap.module.css,,qrl49fx+position-container.module.css,,qrl49fx+progress.module.css,,qrl49fx+reset-appearance.module.css,,qrl49fx+resize.module.css,,qrl49fx+sticky-header.module.css,,qrl49fx+system-status-counter.css,,qrl49fx+system-status-report-counters.css,,qrl49fx+system-status-report-general-info.css,,qrl49fx+tablesort.module.css,,qrl49fx+tree-child.module.css,,qrl49fx,Mcc.rn82O5mxnY.css.pagespeed.cf.WNN2kqb0ww.css"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link rel="stylesheet" media="all" href="/A.modules,,_poll,,_css,,_poll.base.css,,qrl49fx+modules,,_poll,,_css,,_poll.theme.css,,qrl49fx+core,,_modules,,_views,,_css,,_views.module.css,,qrl49fx+modules,,_eu_cookie_compliance,,_css,,_eu_cookie_compliance.css,,qrl49fx+modules,,_back_to_top,,_css,,_back_to_top.css,,qrl49fx,Mcc.k7s6BsLJQC.css.pagespeed.cf.CUZ26CEld2.css"/>
-
-
-
-
-<link rel="stylesheet" media="all" href="//cdn.jsdelivr.net/bootstrap/3.3.7/css/bootstrap.css"/>
-<link rel="stylesheet" media="all" href="/themes/bootstrap/css/3.3.7/overrides.min.css,qrl49fx.pagespeed.ce._6uxC5a3b5.css"/>
-<link rel="stylesheet" media="all" href="/themes/quatro/css/A.style.css,qrl49fx.pagespeed.cf.tx2-C_KOYq.css"/>
-<link rel="stylesheet" media="all" href="/themes/quatro/css/font-awesome/A.font-awesome.min.css,qrl49fx.pagespeed.cf.eQHFSwmCg0.css"/>
-<link rel="stylesheet" media="all" href="/themes/quatro/css/A.red-style.css,qrl49fx.pagespeed.cf.YqWmYlD8h1.css"/>
-
-    
-<!--[if lte IE 8]>
-<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
-<![endif]-->
-<script src="/core/assets/vendor/modernizr/modernizr.min.js,qv=3.3.1.pagespeed.jm.Bt7Z6w9h8I.js"></script>
-
-    <meta name="facebook-domain-verification" content="xfdlaevnjbadvxek3in9kvs0wbwdtz"/>
-
-  
-
-	<!-- Matomo
-#	<script type="text/javascript">
-#	  var _paq = window._paq || [];
-#	  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-#	  _paq.push(['trackPageView']);
-#	  _paq.push(['enableLinkTracking']);
-#	  (function() {
-#		var u="//testeo.excelencias.com/";
-#		_paq.push(['setTrackerUrl', u+'matomo.php']);
-#		_paq.push(['setSiteId', '15']);
-#		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-#		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-#	  })();
-#	</script>
-#	 End Matomo Code -->
-
-<!-- Matomo -->
-<script type="text/javascript">var _paq=window._paq||[];_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function(){var u="//matomo.excelencias.com/";_paq.push(['setTrackerUrl',u+'matomo.php']);_paq.push(['setSiteId','15']);var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];g.type='text/javascript';g.async=true;g.defer=true;g.src=u+'matomo.js';s.parentNode.insertBefore(g,s);})();</script>
-<!-- End Matomo Code -->
-
-<!--<script data-ad-client="ca-pub-7831262607975582" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
-</head>
-  <body class="path-not-frontpage path-node page-node-type-article has-glyphicons">
-    <a href="#main-content" class="visually-hidden focusable skip-link">
-      Pasar al contenido principal
-    </a>
-    
-      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    
-
-<div id="header-navbar-wrapper" class="header-navbar-wrapper">
-          <header class="navbar navbar-default container" id="navbar" role="banner">
-      	  <div class="row">
-      <div class="navbar-header col-sm-12 col-md-12 col-xs-12">
-          <div class="region region-navigation">
-    <div class="site-branding">
-      <a class="logo navbar-btn pull-left" href="/index.php/es" title="Inicio" rel="home">
-      <img src="/sites/default/files/logo_0_1_0.png,Mce_.SmsCzYw-_W.png.pagespeed.ce.SmsCzYw-_W.png" alt="Inicio"/>
-    </a>
-        <a class="name navbar-brand" href="/index.php/es" title="Inicio" rel="home">Drupal</a>
-        <p class="navbar-text">Un periódico del Grupo Excelencias</p>
-  </div>
-
-  </div>
-
-                          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-			<span class="menu-text"><i class="fa fa-bars" aria-hidden="true"></i>
-Menú</span>
-          </button>
-              </div>
-	  </div>
-
-            	  	<div class="row">
-        <div id="navbar-collapse" class="navbar-collapse collapse col-sm-12 col-md-12 col-xs-12">
-            <div class="region region-navigation-collapsible">
-    <nav role="navigation" aria-labelledby="block-quatro-main-menu-menu" id="block-quatro-main-menu">
-            <h2 class="sr-only" id="block-quatro-main-menu-menu">Main navigation</h2>
-
-      
-      <ul class="menu menu--main nav navbar-nav">
-                      <li class="first">
-              <a href="/index.php/es">Inicio</a>
-                  </li>
-                      <li class="expanded dropdown">
-              <a target="_self" class="dropdown-toggle" href="/index.php/es/noticias-gourmet" data-toggle="dropdown">Noticias<span class="caret"></span></a>
-                          <ul class="dropdown-menu">
-                      <li class="first last">
-              <a href="/index.php/es/eventos">Eventos</a>
-                  </li>
-        </ul>
-  
-            </li>
-                      <li>
-              <a target="" href="/index.php/es/opinion">Opinión</a>
-                  </li>
-                      <li>
-              <a title="Armonías" href="/index.php/es/armonias">Armonías</a>
-                  </li>
-                      <li>
-              <a target="" href="/index.php/es/tastevin">Tastevin</a>
-                  </li>
-                      <li>
-              <a target="" href="/index.php/es/cocteles-bebidas">Mixología</a>
-                  </li>
-                      <li>
-              <a target="" href="/index.php/es/aibg">AIBG</a>
-                  </li>
-                      <li class="expanded dropdown">
-              <a target="" class="dropdown-toggle" href="/index.php/es" data-toggle="dropdown">Otras Secciones<span class="caret"></span></a>
-                          <ul class="dropdown-menu">
-                      <li class="first">
-              <a href="/index.php/es/turismo-gastronomico">Gastroturismo</a>
-                  </li>
-                      <li>
-              <a href="/index.php/es/entrevistas">Entrevistas</a>
-                  </li>
-                      <li>
-              <a href="/index.php/es/habanos">Habanos</a>
-                  </li>
-                      <li>
-              <a href="/index.php/es/curiosidades">Curiosidades</a>
-                  </li>
-                      <li>
-              <a href="/index.php/es/recetas">Recetas</a>
-                  </li>
-                      <li>
-              <a href="/index.php/es/tradiciones">Tradiciones</a>
-                  </li>
-                      <li class="last">
-              <a href="/index.php/es/salud">Salud</a>
-                  </li>
-        </ul>
-  
-            </li>
-                      <li class="last">
-              <a class="menu-path-search" target="" href="/index.php/es/search">Buscar</a>
-                  </li>
-        </ul>
-  
-
-  </nav>
-
-  </div>
-
-        </div>
-		</div>
-                </header>
-  </div>
-
-
-  <div role="main" id="main-container" class="main-container container js-quickedit-main-content">
-	
-	<div class="row">
-            
-                  <section class="col-md-9">
-
-                
-                
-        						
-                
-                                      
-                  
-                          <a id="main-content"></a>
-            <div class="region region-content">
-    <div data-drupal-messages-fallback class="hidden"></div>    <h1 class="page-header"><span property="schema:name">Gastronomía paraguaya en la Expo Mariano 2022</span>
-</h1>
-
-  <article data-history-node-id="14307" role="article" about="/es/noticias-gourmet/gastronomia-paraguaya-en-la-expo-mariano-2022" typeof="schema:Article" class="node node--type-article article is-promoted full clearfix">
-
-  
-      <span property="schema:name" content="Gastronomía paraguaya en la Expo Mariano 2022" class="hidden"></span>
-  <span property="schema:interactionCount" content="UserComments:0" class="hidden"></span>
-
-
-      <footer>
-      
-      <div class="author header-info">
-	    <div class="article-create-date">
-          <i class="fa fa-clock-o themecolor-text"></i> <span class="label">Creado:</span> <span property="schema:dateCreated" content="2022-07-19T18:24:54+00:00">Mar, 19/07/2022 - 14:24</span>
-		</div>
-		<div class="article-create-autor">
-		  <i class="fa fa-user themecolor-text"></i> <span class="label">Autor:</span> <div class="content-autor">
-  <div class="field field--name-field-credito field--type-string field--label-inline">
-    <div class="field--label">Credito</div>
-              <div class="field--item">Redacción Excelencias Gourmet</div>
-          </div>
- </div>
-		</div>
-		<div class="article-tags">
-		  <i class="fa fa-tags themecolor-text"></i> <span class="label">Categor&iacute;a:</span> 
-		</div>
-		<div class="content-categoria">
-  <div class="field field--name-field-category field--type-entity-reference field--label-inline">
-    <div class="field--label">Categoría</div>
-              <div class="field--item"><a href="/es/noticias-gourmet" hreflang="es">Noticias Gourmet</a></div>
-          </div>
- </div>
-          <span property="schema:dateCreated" content="2022-07-19T18:24:54+00:00" class="hidden"></span>
-
-      </div>
-    </footer>
-    <div class="content">
-	<div id="node_id" style="display:none">14307</div>
-    
-            <div class="field field--name-field-image field--type-image field--label-hidden field--item">  <img property="schema:image" src="/sites/default/files/styles/slideshow_large/public/2022-07/xgastronom,PC3,PADa,P20paraguaya.jpg,qitok=x1LLol6f.pagespeed.ic.PMG-9log76.jpg" width="850" height="410" alt="noche de turismo gastronomía paraguaya" typeof="foaf:Image" class="img-responsive"/>
-
-
-</div>
-      
-            <div property="schema:text" class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>La <strong>Secretaría Nacional de Turismo (Senatur</strong>) de Paraguay, en alianza con la <strong>Asociación Paraguaya de Gastronomía (APYGA</strong>), llevó una muestra que permitió exponer lo mejor de la gastronomía de ese país, durante la <strong>“Noche de Turismo”</strong>, en la <strong>Expo Mariano 2022</strong>.</p>
-
-<p>Según publicó <strong>Senatur</strong> en su <a href="https://senatur.gov.py/" target="_blank" title="Secretaría Nacional de Turismo">sitio web</a>, los presentes probaron la tradicional chipa paraguaya, el chorizo sanjuanino, la chastaka, el batiburrillo y bebieron tragos preparados a base de caña nacional.</p>
-
-<p>La Secretaria Nacional de Turismo agradeció el apoyo de la<strong> APYGA</strong>, así como del <strong>Centro de Información y Capacitación (INFORCAP)</strong>, la <strong>Compañía Paraguaya de Levaduras S.A. (COPALSA</strong>), la chiperia <strong>Don Pipo de Coronel Bogado</strong>, empresa <strong>Don Anibal</strong>, de San Juan Bautista Misiones, y <strong>Fortín S.A</strong>.</p>
-<img alt="gastronomía paraguaya" data-entity-type="file" data-entity-uuid="fffe9323-bd71-4517-8346-7860e8612e4b" height="517" src="/sites/default/files/inline-images/776x517xsenatur,P20gastronom,PC3,PADa,P20paraguaya.jpg.pagespeed.ic.N43b4jd7Fj.jpg" width="776" class="align-center"/>
-<p> </p>
-
-<p>La “Noche de Turismo” se realizó en el marco de la edición número 39 de la <a href="https://expo.org.py/" target="_blank" title="Expo San Mariano 2022"><strong>Expo Internacional de Agricultura, Ganadería, Industria, Comercio y Servicios de Mariano Roque Alonso</strong></a>, evento que regresó este 2022 luego de dos años de pausa por la Covid-19. La feria inició el 9 de julio y se extenderá hasta el 24 de este mes, en el predio de la <a href="https://www.arp.org.py/" target="_blank" title="Asociación Rural del Paraguay "><strong>Asociación Rural del Paraguay (ARP)</strong></a>, ubicado en la ciudad de Mariano Roque Alonso.</p>
-
-<p>La <strong>Expo Mariano 2022</strong> se presenta como un espacio en donde se exhibe todo el potencial y los avances de la producción pecuaria paraguaya, atractivos culturales y tecnológicos, grandes oportunidades de negocios para las empresas y espectáculos artísticos de primer nivel para el público en general.</p>
-
-<p>Sobre el evento, el <strong>Dr. Pedro Galli Romañach</strong>, presidente de la ARP, mencionó que esta exposición es una muestra del trabajo de los sectores que sostienen la economía paraguaya. La feria busca posicionarse nuevamente como una fiesta del trabajo para todos los paraguayos. Es considerada la mayor feria rural e industrial del país.</p>
-
-<p>Por su parte, el presidente de la <strong>Unión Industrial Paraguaya (UIP)</strong>, <strong>Enrique Duarte</strong>, manifestó que la esencia de la feria sigue siendo la misma, la de reflejar el trabajo que se realiza en los sectores de la industria, la ganadería y las empresas privadas. Igualmente, señaló que en esta edición la <strong>Rueda de Negocios</strong> estará impulsada por los propios organizadores de la muestra, para la cual llegarán 25 delegaciones de diferentes países.</p>
-
-<p>La <strong>Expo Rueda Internacional de Negocios de Paraguay</strong>, que en su XXIV edición tiene como meta de superar los 190 millones de dólares en intenciones de negocios, se ha desarrollado entre este 18 y 19 de julio, con la participación de empresarios de <strong>28 países</strong>.</p>
-
-<p>Después de dos años de pandemia, este encuentro se celebra por primera vez de forma híbrida, con reuniones presenciales y telemáticas, y contará de forma paralela con una feria virtual. Entre los participantes se cuentan delegaciones de empresarios procedentes de Argentina, Brasil, Bolivia, México, Turquía, Taiwán y Uruguay.</p>
-
-<p>Fuente: <strong>SENATUR</strong>, <strong>EFE</strong>, <strong>ARP</strong></p>
-
-<p>Foto de portada: <strong>SENATUR</strong></p>
-</div>
-      
-  <div class="field field--name-field-tags field--type-entity-reference field--label-inline">
-    <div class="field--label">Etiquetas</div>
-          <div class="field--items">
-              <div class="field--item"><a href="/es/taxonomy/term/5426" property="schema:about" hreflang="es">Expo Mariano 2022</a></div>
-          <div class="field--item"><a href="/es/taxonomy/term/5425" property="schema:about" hreflang="es">Senatur</a></div>
-          <div class="field--item"><a href="/es/taxonomy/term/2345" property="schema:about" hreflang="es">Paraguay</a></div>
-          <div class="field--item"><a href="/es/taxonomy/term/2344" property="schema:about" hreflang="es">Gastronomía paraguaya</a></div>
-          <div class="field--item"><a href="/es/taxonomy/term/91" property="schema:about" hreflang="es">gastronomía</a></div>
-              </div>
-      </div>
-<section rel="schema:comment">
-  
-  
-
-      <h2>Añadir nuevo comentario</h2>
-    <form class="comment-comment-form comment-form" data-drupal-selector="comment-form" action="/es/comment/reply/node/14307/comment" method="post" id="comment-form" accept-charset="UTF-8">
-  <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-name js-form-item-name form-group">
-      <label for="edit-name" class="control-label">Su nombre</label>
-  
-  
-  <input data-drupal-default-value="Anónimo" data-drupal-selector="edit-name" class="form-text form-control" type="text" id="edit-name" name="name" value="" size="30" maxlength="60"/>
-
-  
-  
-  </div>
-<input autocomplete="off" data-drupal-selector="form-1ijpsbnumvgqbhxxbmjhhjngitdukc-syr3qxmgeh-g" type="hidden" name="form_build_id" value="form-1IjPSBNuMVGQbHXXBmjhHJNGitdukC-SYr3qXmGEh_g"/><input data-drupal-selector="edit-comment-comment-form" type="hidden" name="form_id" value="comment_comment_form"/><div class="field--type-string field--name-subject field--widget-string-textfield form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-subject-wrapper" id="edit-subject-wrapper">      <div class="form-item js-form-item form-type-textfield js-form-type-textfield form-item-subject-0-value js-form-item-subject-0-value form-group">
-      <label for="edit-subject-0-value" class="control-label">Asunto</label>
-  
-  
-  <input class="js-text-full text-full form-text form-control" data-drupal-selector="edit-subject-0-value" type="text" id="edit-subject-0-value" name="subject[0][value]" value="" size="60" maxlength="64" placeholder=""/>
-
-  
-  
-  </div>
-
-  </div>
-<div class="field--type-text-long field--name-comment-body field--widget-text-textarea form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-wrapper" id="edit-comment-body-wrapper">      <div class="js-text-format-wrapper text-format-wrapper js-form-item form-item">
-  <div class="form-item js-form-item form-type-textarea js-form-type-textarea form-item-comment-body-0-value js-form-item-comment-body-0-value">
-      <label for="edit-comment-body-0-value" class="control-label js-form-required form-required">Comentario</label>
-  
-  
-  <div class="form-textarea-wrapper">
-  <textarea class="js-text-full text-full form-textarea required form-control resize-vertical" data-drupal-selector="edit-comment-body-0-value" id="edit-comment-body-0-value" name="comment_body[0][value]" rows="5" cols="60" placeholder="" required="required" aria-required="true"></textarea>
-</div>
-
-
-  
-  
-  </div>
-<div class="js-filter-wrapper form-inline form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-0-format" id="edit-comment-body-0-format"><div data-drupal-selector="edit-comment-body-0-format-help" class="form-group js-form-wrapper form-wrapper" id="edit-comment-body-0-format-help"><a href="/es/filter/tips" target="_blank" title="Opens in new window" data-toggle="tooltip" data-drupal-selector="edit-comment-body-0-format-help-about" class="icon-before" id="edit-comment-body-0-format-help-about"><span class="icon glyphicon glyphicon-question-sign" aria-hidden="true"></span>Acerca de formatos de texto</a></div>
-</div>
-
-  </div>
-
-  </div>
-  <div class="captcha js-form-wrapper form-wrapper form-item js-form-item panel panel-default" id="captcha" aria-describedby="captcha--description">
-
-              <div class="panel-heading">
-                          <a aria-controls="captcha--content" aria-expanded="true" aria-pressed="true" data-toggle="collapse" role="button" class="panel-title" href="#captcha--content">CAPTCHA</a>
-              </div>
-      
-            
-    
-    <div id="captcha--content" class="panel-body panel-collapse collapse fade in">
-              <p id="captcha--description" class="help-block">Esta pregunta es para comprobar si usted es un visitante humano y prevenir envíos de spam automatizado.</p>
-            <input data-drupal-selector="edit-captcha-sid" type="hidden" name="captcha_sid" value="1963724"/><input data-drupal-selector="edit-captcha-token" type="hidden" name="captcha_token" value="T_rYH78BshVj1LEbee0Nej7dPculEfge_m8LkJ6b4fM"/><input data-drupal-selector="edit-captcha-response" type="hidden" name="captcha_response" value="Google no captcha"/><div class="g-recaptcha" data-sitekey="6LdtjToUAAAAAGI7R49lZ1R3IWO67OfJ0cRpve89" data-theme="light" data-type="image"></div><input data-drupal-selector="edit-captcha-cacheable" type="hidden" name="captcha_cacheable" value="1"/>
-          </div>
-  
-    
-</div>
-
-<div data-drupal-selector="edit-actions" class="form-actions form-group js-form-wrapper form-wrapper" id="edit-actions"><button data-drupal-selector="edit-submit" class="button button--primary js-form-submit form-submit btn-success btn icon-before" type="submit" id="edit-submit" name="op" value="Guardar"><span class="icon glyphicon glyphicon-ok" aria-hidden="true"></span>
-Guardar</button><button data-drupal-selector="edit-preview" class="button js-form-submit form-submit btn-default btn icon-before" type="submit" id="edit-preview" name="op" value="Preview"><span class="icon glyphicon glyphicon-eye-open" aria-hidden="true"></span>
-Preview</button></div>
-
-</form>
-
-  
-</section>
-
-  <div class="field field--name-field-credito field--type-string field--label-inline">
-    <div class="field--label">Credito</div>
-              <div class="field--item">Redacción Excelencias Gourmet</div>
-          </div>
-
-  </div>
-
-</article>
-
-<section class="views-element-container block block-views block-views-blocknews-blog-block-2 clearfix" id="block-views-block-news-blog-block-2">
-<div class="block-inner">
-  
-      <h2 class="block-title">Noticias similares</h2>
-    
-
-      <div class="form-group"><div class="view-more-articles view view-news-blog view-id-news_blog view-display-id-block_2 js-view-dom-id-0d5fd9d07b294c093d8b5b49b2b82852fc73a7ea95695f089eb124d47eee2f92">
-  
-    
-      
-      <div class="view-content">
-          <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticia/tostones-con-caviar-de-salmon-y-espuma-al-wasabi" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/sites/default/files/es/imagenes_noticias/x6d555035481f40aaa19664722ff3b69dnewsx.jpg,qitok=NlsTfGrm.pagespeed.ic.KD8ysNr3kG.jpg" width="100" height="100" alt="Tostones con caviar de salmón y espuma al wasabi" title="Tostones con caviar de salmón y espuma al wasabi" typeof="foaf:Image" class="img-responsive"/>
-
-</a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticia/tostones-con-caviar-de-salmon-y-espuma-al-wasabi" hreflang="es">Tostones con caviar de salmón y espuma al wasabi</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Mayo 08, 2009</span></div><div class="views-field views-field-comment-count"><span class="field-content">1</span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticias-gourmet/la-comida-domicilio-preferida-en-el-verano" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2019-09/xglovo-app-comida-domicilio-verano.jpg,qitok=h56NAo3q.pagespeed.ic.WSPlSJpdGA.jpg" width="100" height="100" alt="comida a domicilio" typeof="foaf:Image" class="img-responsive"/>
-
-</a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticias-gourmet/la-comida-domicilio-preferida-en-el-verano" hreflang="es">La comida a domicilio preferida en el verano </a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Ago 28, 2019</span></div><div class="views-field views-field-comment-count"><span class="field-content">0</span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticia/pinar-del-rio-donde-nace-el-habano" hreflang="es">Pinar del Río, Donde nace el habano</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Mayo 14, 2010</span></div><div class="views-field views-field-comment-count"><span class="field-content">1</span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/es/noticias-gourmet/repsol-y-guia-repsol-presentan-la-comunidad-horeca-sostenible" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2022-03/xComunidad,P20HORECA,P20Sostenible.jpg,qitok=zBg8rVtb.pagespeed.ic.VUj6Zf80E6.jpg" width="100" height="100" alt="Comunidad HORECA Sostenible" typeof="foaf:Image" class="img-responsive"/>
-
-</a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/es/noticias-gourmet/repsol-y-guia-repsol-presentan-la-comunidad-horeca-sostenible" hreflang="es">Repsol y Guía Repsol presentan la Comunidad HORECA Sostenible</a></span></div><div class="views-field views-field-created"><span class="field-content"><i class="fa fa-clock-o"></i> Mar 30, 2022</span></div><div class="views-field views-field-comment-count"><span class="field-content">0</span></div></div>
-
-    </div>
-  
-          </div>
-</div>
-
-  </div>
-</section>
-
-<section id="block-simpleadsenseblock" class="block block-simple-adsense block-simple-adsense-block clearfix">
-<div class="block-inner">
-  
-    
-
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7831262607975582" data-ad-slot="2094447898" data-ad-format="auto">
-  </ins>
-<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
-
-  </div>
-</section>
-
-
-  </div>
-
-              </section>
-
-                              <aside id="sidebar-second" class="col-md-3" role="complementary">
-              <div class="region region-sidebar-second">
-    <section class="views-element-container block-transparent block block-views block-views-blockbanner-publicitarios-block-8 clearfix" id="block-views-block-banner-publicitarios-block-8">
-<div class="block-inner">
-  
-      <h2 class="block-title">Descargue nuestra última edición</h2>
-    
-
-      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_8 js-view-dom-id-6e78e8f30c75da0c0d4a728702854a17368a6edab1bfa541c5f90998b96a9b87">
-  
-    
-      
-      <div class="view-content">
-          <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"> 
-<a href="https://revistasexcelencias.pressreader.com/excelencias-gourmet/20220929" target="_blank">  <img src="/sites/default/files/2022-11/xSAVE_20221104_121640.jpg.pagespeed.ic.zZLRsqZzdZ.jpg" width="372" height="502" alt="Revista Excelencias Gourmet 87" typeof="Image" class="img-responsive"/>
-
-</a>
-</span></div></div>
-
-    </div>
-  
-          </div>
-</div>
-
-  </div>
-</section>
-
-<section class="views-element-container block block-views block-views-blockbanner-publicitarios-block-11 clearfix" id="block-views-block-banner-publicitarios-block-11">
-<div class="block-inner">
-  
-    
-
-      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_11 js-view-dom-id-454438e32c247a7dc8094b2d69e519c3c91eff189d364951a8935d028f690706">
-  
-    
-      
-  
-          </div>
-</div>
-
-  </div>
-</section>
-
-<section class="views-element-container block block-views block-views-blockmost-read-block-1 clearfix" id="block-views-block-most-read-block-1">
-<div class="block-inner">
-  
-      <h2 class="block-title">Más leídas</h2>
-    
-
-      <div class="form-group"><div class="block-most-read view view-most-read view-id-most_read view-display-id-block_1 js-view-dom-id-8b754dafc53c7ee6547095a4ca86eccbe01ec56dd0f78b9d8cda182a5c97c17a">
-  
-    
-      
-      <div class="view-content">
-          <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/index.php/es/salud/alimentos-que-refuerzan-el-sistema-inmunologico" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2018-02/xAqu,PC3,PAD-les-dejo-la-lista-de-los-alimentos-perfectos-para-proteger-tu-sistema-inmunol,PC3,PB3gico..jpg,qitok=nv2wtWGi.pagespeed.ic.sl0EUN6NXK.jpg" width="100" height="100" alt="Alimentos que refuerzan el sistema inmunologico" typeof="foaf:Image" class="img-responsive"/>
-
-</a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/es/salud/alimentos-que-refuerzan-el-sistema-inmunologico" hreflang="es">Alimentos que refuerzan el sistema inmunológico</a></span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/index.php/es/noticia/receta-de-torta-de-chocolate-casera" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/sites/default/files/es/imagenes_noticias/xurl_8.jpg,qitok=QHpsxHRY.pagespeed.ic.dHbro4-dBU.jpg" width="100" height="100" alt="Receta de Torta de chocolate casera " title="Receta de Torta de chocolate casera " typeof="foaf:Image" class="img-responsive"/>
-
-</a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/es/noticia/receta-de-torta-de-chocolate-casera" hreflang="es">Receta de Torta de chocolate casera </a></span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/index.php/es/salud-news/sesamo-propiedades-y-beneficios-para-la-salud" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2017-11/xsesame-oil-e1436201468330.jpg,qitok=aeMBJsdL.pagespeed.ic.1MWVLrE6VS.jpg" width="100" height="100" alt="sesamo" typeof="foaf:Image" class="img-responsive"/>
-
-</a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/es/salud-news/sesamo-propiedades-y-beneficios-para-la-salud" hreflang="es">Sésamo: propiedades y beneficios para la salud</a></span></div></div>
-    <div class="views-row"><div class="views-field views-field-field-image"><div class="field-content">  <a href="/index.php/es/opinion/cuales-son-los-tipos-de-pizza-mas-conocidos" hreflang="es"><img src="/sites/default/files/styles/thumb_square/public/2020-05/xpizza-preferencias.jpg,qitok=adif0jmr.pagespeed.ic.wXusaFWrqQ.jpg" width="100" height="100" alt="pizza" typeof="foaf:Image" class="img-responsive"/>
-
-</a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/es/opinion/cuales-son-los-tipos-de-pizza-mas-conocidos" hreflang="es">¿Cuáles son los tipos de pizza más conocidos?</a></span></div></div>
-
-    </div>
-  
-          </div>
-</div>
-
-  </div>
-</section>
-
-<section id="block-likeboxfacebook" class="block block-block-content block-block-content4a685c36-c68e-4eee-bbe7-1c1e9298e9dd clearfix">
-<div class="block-inner">
-  
-    
-
-      
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p class="like-box-facebook"><iframe allowtransparency="true" frameborder="0" height="400" scrolling="no" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FExcelenciasGourmet%2F&amp;tabs=timeline&amp;width=265&amp;height=400&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" style="border:none;overflow:hidden;margin-left:-17px" width="265"></iframe></p>
-</div>
-      
-  </div>
-</section>
-
-<section id="block-prnewswire" class="block block-block-content block-block-contentea0aba85-234b-4e23-a6b3-1a0626edd941 clearfix">
-<div class="block-inner">
-  
-      <h2 class="block-title">PR Newswire</h2>
-    
-
-      
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><style type="text/css">.noticias-front h3{display:none}.w11131_release:hover{background-color:#f5f5f5!important}.w11131_release{background-color:#fff!important}#w11131_widget img{display:none!important}.w11131_release{border:1px solid #ddd!important}#w11131_widget{width:100%!important}.w11131_title{color:#555}.w11131_datetime{font-size:10px}.w11131_release{padding:10px 15px!important}.w11131_widgetTitle{display:none}.w11131_footer{margin-top:12px!important}</style>
-<div class="col-md-12 col-sm-12 col-xs-12 noticias-front" style="padding-left: 0; margin-top: -20px">
-<h3>PR Newswire</h3>
-</div>
-<script>//<![CDATA[
-var _wsc=document.createElement('script');_wsc.src="//tools.prnewswire.com/es/live/11131/widget.js";document.getElementsByTagName('Head')[0].appendChild(_wsc);
-//]]></script>
-
-<div class="col-md-12" id="w11131_widget" style="padding-top: 15px; padding-bottom: 15px; margin-top: -10px;"> </div>
-</div>
-      
-  </div>
-</section>
-
-<section class="views-element-container suscripcion-boletin block block-views block-views-blockboletin-block-1 clearfix" id="block-views-block-boletin-block-1">
-<div class="block-inner">
-  
-      <h2 class="block-title">NEWSLETTER</h2>
-    
-
-      <div class="form-group"><div class="view view-boletin view-id-boletin view-display-id-block_1 js-view-dom-id-2b169d779a8d20d2793357874c73728d570161b4329b9e8a43b3d1f3ef5d9b13">
-  
-    
-      
-      <div class="view-content">
-          <div class="views-row"><div class="views-field views-field-nothing"><span class="field-content"><p>Reciba completamente gratis nuestro Periódico Digital semanal</p>
-
-<div class="suscribase-block"><a href="mailto:registro@excelencias.com?subject=Suscripción a Excelencias Gourmet&amp;body=Deseo suscribir mi usuario a su boletín de Excelencias Gourmet">Suscribirse</a></div></span></div></div>
-
-    </div>
-  
-          </div>
-</div>
-
-  </div>
-</section>
-
-<section class="views-element-container block block-views block-views-blockbanner-publicitarios-block-12 clearfix" id="block-views-block-banner-publicitarios-block-12">
-<div class="block-inner">
-  
-    
-
-      <div class="form-group"><div class="view view-banner-publicitarios view-id-banner_publicitarios view-display-id-block_12 js-view-dom-id-3f04fb6c882b5430c3d5143982a152616a23936c31f0f62b35128b45e5b6fe12">
-  
-    
-      
-  
-          </div>
-</div>
-
-  </div>
-</section>
-
-<section id="block-simpleadsenseblock-2" class="block block-simple-adsense block-simple-adsense-block clearfix">
-<div class="block-inner">
-  
-    
-
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7831262607975582" data-ad-slot="2094447898" data-ad-format="auto">
-  </ins>
-<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
-
-  </div>
-</section>
-
-<section id="block-simpleadsenseblock-3" class="block block-simple-adsense block-simple-adsense-block clearfix">
-<div class="block-inner">
-  
-    
-
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7831262607975582" data-ad-slot="2094447898" data-ad-format="auto">
-  </ins>
-<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
-
-  </div>
-</section>
-
-<section id="block-simpleadsenseblock-4" class="block block-simple-adsense block-simple-adsense-block clearfix">
-<div class="block-inner">
-  
-    
-
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7831262607975582" data-ad-slot="2094447898" data-ad-format="auto">
-  </ins>
-<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
-
-  </div>
-</section>
-
-
-  </div>
-
-          </aside>
-                  </div>
-  </div>
-      <div class="container">
-          
-	  </div>
-      <footer class="footer container-fluid" role="contentinfo">
-      <div class="footer-inner container">
-            <div class="region region-footer">
-    <nav role="navigation" aria-labelledby="block-quatro-footer-menu" id="block-quatro-footer">
-            
-  <h2 class="visually-hidden" id="block-quatro-footer-menu">Footer menu</h2>
-  
-
+<!DOCTYPE html><html lang="es">
+    	<head>
+
+		        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="https://digitalmisiones.com.py/xmlrpc.php">
+    <title>Festival del Siriki, Batiburrillo y Chorizo Sanjuanino hasta ahora no se suspende &#8211; Digital Misiones</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link href='https://sp-ao.shortpixel.ai' rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Digital Misiones &raquo; Feed" href="https://digitalmisiones.com.py/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Digital Misiones &raquo; Feed de los comentarios" href="https://digitalmisiones.com.py/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/digitalmisiones.com.py\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.6"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='pt-cv-public-style-css'  href='https://digitalmisiones.com.py/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=2.4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://digitalmisiones.com.py/wp-includes/css/dist/block-library/style.min.css?ver=5.8.6' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://digitalmisiones.com.py/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://digitalmisiones.com.py/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://digitalmisiones.com.py/wp-includes/css/dist/components/style.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://digitalmisiones.com.py/wp-includes/css/dist/block-editor/style.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://digitalmisiones.com.py/wp-includes/css/dist/nux/style.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css'  href='https://digitalmisiones.com.py/wp-includes/css/dist/reusable-blocks/style.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://digitalmisiones.com.py/wp-includes/css/dist/editor/style.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-iframe-style-css'  href='https://digitalmisiones.com.py/wp-content/plugins/simple-iframe/dist/blocks.style.build.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://digitalmisiones.com.py/wp-content/plugins/so-widgets-bundle/css/lib/slick.css?ver=1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-post-carousel-base-16185f985534-css'  href='https://digitalmisiones.com.py/wp-content/uploads/siteorigin-widgets/sow-post-carousel-base-16185f985534.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css-css'  href='https://digitalmisiones.com.py/wp-content/plugins/widget-post-slider/assets/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-post-slider-style-css'  href='https://digitalmisiones.com.py/wp-content/plugins/widget-post-slider/assets/css/style.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-slick-style-css'  href='https://digitalmisiones.com.py/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/slick.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='logo_showcase_style-css'  href='https://digitalmisiones.com.py/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/logo-showcase.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-bxslider-css'  href='https://digitalmisiones.com.py/wp-content/themes/supermag/assets/library/bxslider/css/jquery.bxslider.min.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='supermag-googleapis-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A600%2C400%7CRoboto%3A300italic%2C400%2C500%2C700&#038;ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://digitalmisiones.com.py/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='supermag-style-css'  href='https://digitalmisiones.com.py/wp-content/themes/dupermag/style.css?ver=1.4.9' type='text/css' media='all' />
+<style id='supermag-style-inline-css' type='text/css'>
+
+            mark,
+            .comment-form .form-submit input,
+            .read-more,
+            .bn-title,
+            .home-icon.front_page_on,
+            .header-wrapper .menu li:hover > a,
+            .header-wrapper .menu > li.current-menu-item a,
+            .header-wrapper .menu > li.current-menu-parent a,
+            .header-wrapper .menu > li.current_page_parent a,
+            .header-wrapper .menu > li.current_page_ancestor a,
+            .header-wrapper .menu > li.current-menu-item > a:before,
+            .header-wrapper .menu > li.current-menu-parent > a:before,
+            .header-wrapper .menu > li.current_page_parent > a:before,
+            .header-wrapper .menu > li.current_page_ancestor > a:before,
+            .header-wrapper .main-navigation ul ul.sub-menu li:hover > a,
+            .header-wrapper .main-navigation ul ul.children li:hover > a,
+            .slider-section .cat-links a,
+            .featured-desc .below-entry-meta .cat-links a,
+            #calendar_wrap #wp-calendar #today,
+            #calendar_wrap #wp-calendar #today a,
+            .wpcf7-form input.wpcf7-submit:hover,
+            .breadcrumb{
+                background: #289dcc;
+            }
         
-      <ul class="menu menu--footer nav">
-                      <li class="first">
-              <a target="" href="/index.php/es">Inicio</a>
-                  </li>
-                      <li>
-              <a target="" href="/index.php/es/quienes-somos">Quiénes somos</a>
-                  </li>
-                      <li>
-              <a target="" href="/index.php/es/video">Videos</a>
-                  </li>
-                      <li>
-              <a target="" href="/index.php/es/photo">Galería</a>
-                  </li>
-                      <li>
-              <a href="/index.php/es/contact">Contacto</a>
-                  </li>
-                      <li class="last">
-              <a target="" title="Política de privacidad de Excelencias Gourmet" href="/index.php/es/politica-de-privacidad">Política de privacidad</a>
-                  </li>
-        </ul>
-  
+            a:hover,
+            .screen-reader-text:focus,
+            .bn-content a:hover,
+            .socials a:hover,
+            .site-title a,
+            .search-block input#menu-search,
+            .widget_search input#s,
+            .search-block #searchsubmit,
+            .widget_search #searchsubmit,
+            .footer-sidebar .featured-desc .above-entry-meta a:hover,
+            .slider-section .slide-title:hover,
+            .besides-slider .post-title a:hover,
+            .slider-feature-wrap a:hover,
+            .slider-section .bx-controls-direction a,
+            .besides-slider .beside-post:hover .beside-caption,
+            .besides-slider .beside-post:hover .beside-caption a:hover,
+            .featured-desc .above-entry-meta span:hover,
+            .posted-on a:hover,
+            .cat-links a:hover,
+            .comments-link a:hover,
+            .edit-link a:hover,
+            .tags-links a:hover,
+            .byline a:hover,
+            .nav-links a:hover,
+            #supermag-breadcrumbs a:hover,
+            .wpcf7-form input.wpcf7-submit,
+             .woocommerce nav.woocommerce-pagination ul li a:focus, 
+             .woocommerce nav.woocommerce-pagination ul li a:hover, 
+             .woocommerce nav.woocommerce-pagination ul li span.current{
+                color: #289dcc;
+            }
+            .search-block input#menu-search,
+            .widget_search input#s,
+            .tagcloud a{
+                border: 1px solid #289dcc;
+            }
+            .footer-wrapper .border,
+            .nav-links .nav-previous a:hover,
+            .nav-links .nav-next a:hover{
+                border-top: 1px solid #289dcc;
+            }
+             .besides-slider .beside-post{
+                border-bottom: 3px solid #289dcc;
+            }
+            .widget-title,
+            .footer-wrapper,
+            .page-header .page-title,
+            .single .entry-header .entry-title,
+            .page .entry-header .entry-title{
+                border-bottom: 1px solid #289dcc;
+            }
+            .widget-title:before,
+            .page-header .page-title:before,
+            .single .entry-header .entry-title:before,
+            .page .entry-header .entry-title:before {
+                border-bottom: 7px solid #289dcc;
+            }
+           .wpcf7-form input.wpcf7-submit,
+            article.post.sticky{
+                border: 2px solid #289dcc;
+            }
+           .breadcrumb::after {
+                border-left: 5px solid #289dcc;
+            }
+           .rtl .breadcrumb::after {
+                border-right: 5px solid #289dcc;
+                border-left:medium none;
+            }
+           .header-wrapper #site-navigation{
+                border-bottom: 5px solid #289dcc;
+            }
+           @media screen and (max-width:992px){
+                .slicknav_btn.slicknav_open{
+                    border: 1px solid #289dcc;
+                }
+                 .header-wrapper .main-navigation ul ul.sub-menu li:hover > a,
+                 .header-wrapper .main-navigation ul ul.children li:hover > a
+                 {
+                         background: #2d2d2d;
+                 }
+                .slicknav_btn.slicknav_open:before{
+                    background: #289dcc;
+                    box-shadow: 0 6px 0 0 #289dcc, 0 12px 0 0 #289dcc;
+                }
+                .slicknav_nav li:hover > a,
+                .slicknav_nav li.current-menu-ancestor a,
+                .slicknav_nav li.current-menu-item  > a,
+                .slicknav_nav li.current_page_item a,
+                .slicknav_nav li.current_page_item .slicknav_item span,
+                .slicknav_nav li .slicknav_item:hover a{
+                    color: #289dcc;
+                }
+            }
+                    .cat-links .at-cat-item-3{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-3:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-6{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .at-cat-color-wrap-6 .widget-title::before,
+                    body.category-6 .page-header .page-title::before
+                    {
+                     border-bottom: 7px solid #289dcc;
+                    }
+                    
+                    .at-cat-color-wrap-6 .widget-title,
+                     body.category-6 .page-header .page-title
+                    {
+                     border-bottom: 1px solid #289dcc;
+                    }
+                    .cat-links .at-cat-item-6:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-27{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-27:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-28{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-28:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-29{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-29:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-30{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-30:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-31{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-31:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-36{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-36:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-37{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-37:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-46{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-46:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-128{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-128:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-256{
+                    background: #289dcc!important;
+                    color : #fff!important;
+                    }
+                    
+                    .cat-links .at-cat-item-256:hover{
+                    background: #2d2d2d!important;
+                    color : #fff!important;
+                    }
+                    
 
-  </nav>
-<section id="block-blocksocialicons" class="block-social-icons block block-block-content block-block-content120e3ce7-6b02-4550-8127-7a6699d1648d clearfix">
-<div class="block-inner">
-  
-    
+           .widget-title span,
+           .widget-title span:after,
+           
+           .page-header .page-title>span,
+           .page-header .page-title>span:after,
+           
+           .single .entry-header .entry-title > span,
+           .single .entry-header .entry-title > span:after,
+           
+           .page .entry-header .entry-title > span,
+           .page .entry-header .entry-title > span:after
+           {
+                background: #289dcc;
+                color : #fff;
+            }
+        
+                    .at-cat-color-wrap-6 .widget-title span,
+                    .at-cat-color-wrap-6 .widget-title span:after,
+                    
+                     body.category-6 .page-header .page-title>span,
+                     body.category-6 .page-header .page-title>span::after
+                    {
+                      background: #289dcc;
+                      color:#fff;
+                    }
+</style>
+<link rel='stylesheet' id='supermag-block-front-styles-css'  href='https://digitalmisiones.com.py/wp-content/themes/supermag/acmethemes/gutenberg/gutenberg-front.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='https://digitalmisiones.com.py/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dry_awp_theme_style-css'  href='https://digitalmisiones.com.py/wp-content/plugins/advanced-wp-columns/assets/css/awp-columns.css?ver=5.8.6' type='text/css' media='all' />
+<style id='dry_awp_theme_style-inline-css' type='text/css'>
+@media screen and (max-width: 1024px) {	.csColumn {		clear: both !important;		float: none !important;		text-align: center !important;		margin-left:  10% !important;		margin-right: 10% !important;		width: 80% !important;	}	.csColumnGap {		display: none !important;	}}
+</style>
+<link rel='stylesheet' id='animate-css'  href='https://digitalmisiones.com.py/wp-content/plugins/pe-recent-posts/css/animate.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='pe-recent-posts-css'  href='https://digitalmisiones.com.py/wp-content/plugins/pe-recent-posts/css/pe-recent-posts.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dupermag-parent-style-css'  href='https://digitalmisiones.com.py/wp-content/themes/supermag/style.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dupermag-style-css'  href='https://digitalmisiones.com.py/wp-content/themes/dupermag/style.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://digitalmisiones.com.py/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=10.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://digitalmisiones.com.py/wp-content/plugins/jetpack/css/jetpack.css?ver=10.7' type='text/css' media='all' />
+<!--n2css--><script type='text/javascript' src='https://digitalmisiones.com.py/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
 
-      
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><div>Síganos     <a href="https://www.facebook.com/ExcelenciasGourmet/" target="_blank"><i class="fa fa-facebook-square fa-lg" style="color:#3b5998"> </i></a>  <a href="https://twitter.com/excelen_gourmet" target="_blank"><i class="fa fa-twitter-square fa-lg" style="color:#00aced"> </i></a>  <a href="https://www.youtube.com/channel/UCy3f7BWEfaVYmEmEiorGHLA/videos" target="_blank"><i class="fa fa-youtube-square fa-lg" style="color:#bb0000"> </i></a>  <a href="https://www.instagram.com/excelenciasgourmet/" target="_blank"><i class="fa fa-instagram fa-lg" style="color:#E94E4B"> </i></a></div>
+
+
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://digitalmisiones.com.py/wp-content/themes/supermag/assets/library/html5shiv/html5shiv.min.js?ver=3.7.3' id='html5-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://digitalmisiones.com.py/wp-content/themes/supermag/assets/library/respond/respond.min.js?ver=1.1.2' id='respond-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://digitalmisiones.com.py/wp-json/" /><link rel="alternate" type="application/json" href="https://digitalmisiones.com.py/wp-json/wp/v2/posts/40364" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://digitalmisiones.com.py/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://digitalmisiones.com.py/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.6" />
+<link rel="canonical" href="https://digitalmisiones.com.py/festival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende/" />
+<link rel='shortlink' href='https://digitalmisiones.com.py/?p=40364' />
+<link rel="alternate" type="application/json+oembed" href="https://digitalmisiones.com.py/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdigitalmisiones.com.py%2Ffestival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://digitalmisiones.com.py/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdigitalmisiones.com.py%2Ffestival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style>
+				<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Festival del Siriki, Batiburrillo y Chorizo Sanjuanino hasta ahora no se suspende" />
+<meta property="og:url" content="https://digitalmisiones.com.py/festival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende/" />
+<meta property="og:description" content="Ante la suspensión de los corsos encarnacenos por aumento de casos de covid, surgen dudas sobre el Festival del Siriki, Batiburrillo y Chorizo Sanjuanino que se prepara para el 28 y 29 de enero, pe…" />
+<meta property="article:published_time" content="2022-01-10T15:26:16+00:00" />
+<meta property="article:modified_time" content="2022-01-10T15:26:19+00:00" />
+<meta property="og:site_name" content="Digital Misiones" />
+<meta property="og:image" content="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2022/01/festiva-por.jpg?fit=1083%2C800&#038;ssl=1" />
+<meta property="og:image:width" content="1083" />
+<meta property="og:image:height" content="800" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="es_ES" />
+<meta name="twitter:site" content="@DMisionesPy" />
+<meta name="twitter:text:title" content="&lt;span&gt;Festival del Siriki, Batiburrillo y Chorizo Sanjuanino hasta ahora no se suspende&lt;/span&gt;" />
+<meta name="twitter:image" content="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2022/01/festiva-por.jpg?fit=1083%2C800&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2017/04/LOGO-GIF.gif?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2017/04/LOGO-GIF.gif?fit=183%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2017/04/LOGO-GIF.gif?fit=172%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2017/04/LOGO-GIF.gif?fit=191%2C200&#038;ssl=1" />
+
+	</head>
+<body class="post-template-default single single-post postid-40364 single-format-standard wp-custom-logo dpt boxed-layout supermag-enable-box-shadow single-large-image left-logo-right-ainfo right-sidebar at-sticky-sidebar group-blog elementor-default elementor-kit-34128">
+
+        <div id="page" class="hfeed site">
+            <a class="skip-link screen-reader-text" href="#content" title="link">Saltar al contenido</a>
+            <header id="masthead" class="site-header" role="banner">
+            <div class="top-header-section clearfix">
+                <div class="wrapper">
+                     <div class="header-latest-posts float-left bn-title">lunes, enero 9, 2023</div>                            <div class="header-latest-posts bn-wrapper float-left">
+                                <div class="bn-title">
+                                    Últimas noticias                                </div>
+                                <ul class="bn">
+                                                                            <li class="bn-content">
+                                            <a href="https://digitalmisiones.com.py/fram-nina-de-6-anos-fallecio-tras-ser-embestida-cuando-cruzaba-la-calle/" title="Fram: niña de 6 años falleció tras ser embestida cuando cruzaba la calle">
+                                                Fram: niña de 6 años falleció tras ser embestida cuando cruzaba la calle                                            </a>
+                                        </li>
+                                                                            <li class="bn-content">
+                                            <a href="https://digitalmisiones.com.py/historicos-de-la-anr-piden-la-unidad-de-cara-al-30-de-abril/" title="Históricos de la ANR piden la unidad de cara al 30 de abril">
+                                                Históricos de la ANR piden la unidad de cara al 30 de abril                                            </a>
+                                        </li>
+                                                                            <li class="bn-content">
+                                            <a href="https://digitalmisiones.com.py/anuncian-lunes-caluroso-para-misiones/" title="Anuncian lunes caluroso para Misiones">
+                                                Anuncian lunes caluroso para Misiones                                            </a>
+                                        </li>
+                                                                            <li class="bn-content">
+                                            <a href="https://digitalmisiones.com.py/caazapa-50-parejas-dieron-el-si-en-boda-comunitaria/" title="Caazapá: 50 parejas dieron el sí en boda comunitaria">
+                                                Caazapá: 50 parejas dieron el sí en boda comunitaria                                            </a>
+                                        </li>
+                                                                            <li class="bn-content">
+                                            <a href="https://digitalmisiones.com.py/incautan-mas-de-1-000-litros-de-combustible/" title="Incautan más de 1.000 litros de combustible">
+                                                Incautan más de 1.000 litros de combustible                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </div> <!-- .header-latest-posts -->
+                                            <div class="right-header float-right">
+                                <div class="socials">
+                            <a href="https://www.facebook.com/digitalmisionespy/" class="facebook" data-title="Facebook" target="_blank">
+                    <span class="font-icon-social-facebook"><i class="fa fa-facebook"></i></span>
+                </a>
+                            <a href="https://twitter.com/DMisionesPy" class="twitter" data-title="Twitter" target="_blank">
+                    <span class="font-icon-social-twitter"><i class="fa fa-twitter"></i></span>
+                </a>
+                    </div>
+                            </div>
+                </div>
+            </div><!-- .top-header-section -->
+            <div class="header-wrapper clearfix">
+                <div class="header-container">
+	                                    <div class="wrapper">
+                        <div class="site-branding clearfix">
+                                                            <div class="site-logo float-left">
+                                    <a href="https://digitalmisiones.com.py/" class="custom-logo-link" rel="home"><img decoding="async" width="290" height="101" src="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2020/10/cropped-logovertical-1.png?fit=290%2C101&amp;ssl=1" class="custom-logo jetpack-lazy-image" alt="Digital Misiones" data-lazy-src="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2020/10/cropped-logovertical-1.png?fit=290%2C101&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a>                                </div><!--site-logo-->
+                                                            <div class="header-ainfo float-right">
+                                    <aside id="block-5" class="widget widget_block"><div id="cont_b1991339218e41953d924d4c6942f182"><script type="text/javascript" async src="https://www.meteored.com.py/wid_loader/b1991339218e41953d924d4c6942f182"></script></div></aside>                                </div>
+                                                        <div class="clearfix"></div>
+                        </div>
+                    </div>
+	                                    <nav id="site-navigation" class="main-navigation supermag-enable-sticky-menu clearfix" role="navigation">
+                        <div class="header-main-menu wrapper clearfix">
+                                                            <div class="home-icon">
+                                    <a href="https://digitalmisiones.com.py/" title="Digital Misiones"><i class="fa fa-home"></i></a>
+                                </div>
+                                <div class="acmethemes-nav"><ul id="menu-menu_1" class="menu"><li id="menu-item-614" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-614"><a href="https://digitalmisiones.com.py/category/misiones/"><span>Misiones</span></a></li>
+<li id="menu-item-496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-496"><a href="https://digitalmisiones.com.py/category/nacionales/"><span>Nacionales</span></a></li>
+<li id="menu-item-497" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-497"><a href="https://digitalmisiones.com.py/category/politica/"><span>Política</span></a></li>
+<li id="menu-item-498" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-498"><a href="https://digitalmisiones.com.py/category/deportes/"><span>Deportes</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-936"><a href="https://digitalmisiones.com.py/statistics/futbol/"><span><span>Fútbol</span></span></a></li>
+</ul>
+</li>
+<li id="menu-item-775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-775"><a href="https://digitalmisiones.com.py/category/mundo/"><span>Mundo</span></a></li>
+<li id="menu-item-1869" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1869"><a href="https://digitalmisiones.com.py/category/editorial/"><span>Editorial</span></a></li>
+<li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="https://digitalmisiones.com.py/contact-us/"><span><span>Contacto</span></span></a></li>
+</ul></div><div class="random-post">                                        <a title="&lt;span&gt;Anuncian lluvias entre hoy y mañana&lt;/span&gt;" href="https://digitalmisiones.com.py/anuncian-lluvias-entre-hoy-y-manana/">
+                                            <i class="fa fa-random icon-menu"></i>
+                                        </a>
+                                        </div><a class="fa fa-search icon-menu search-icon-menu" href="#"></a><div class='menu-search-toggle'><div class='menu-search-inner'><div class="search-block">
+    <form action="https://digitalmisiones.com.py" class="searchform" id="searchform" method="get" role="search">
+        <div>
+            <label for="menu-search" class="screen-reader-text"></label>
+                        <input type="text"  placeholder="Buscar"  id="menu-search" name="s" value="">
+            <button class="fa fa-search" type="submit" id="searchsubmit"></button>
+        </div>
+    </form>
+</div></div></div>                        </div>
+                        <div class="responsive-slick-menu wrapper clearfix"></div>
+                    </nav>
+                    <!-- #site-navigation -->
+	                                </div>
+                <!-- .header-container -->
+            </div>
+            <!-- header-wrapper-->
+        </header>
+        <!-- #masthead -->
+            <div class="wrapper content-wrapper clearfix">
+            <div id="content" class="site-content">
+    	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+		<article id="post-40364" class="post-40364 post type-post status-publish format-standard has-post-thumbnail hentry category-misiones">
+	<header class="entry-header">
+		<h1 class="entry-title"><span>Festival del Siriki, Batiburrillo y Chorizo Sanjuanino hasta ahora no se suspende</span></h1>
+		<div class="entry-meta">
+			<span class="posted-on"><a href="https://digitalmisiones.com.py/festival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende/" rel="bookmark"><i class="fa fa-calendar"></i><time class="entry-date published" datetime="2022-01-10T12:26:16-03:00">10 enero, 2022</time><time class="updated" datetime="2022-01-10T12:26:19-03:00">10 enero, 2022</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://digitalmisiones.com.py/author/esneider-meza/"><i class="fa fa-user"></i>Edición Central</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+	<!--post thumbnal options-->
+			<div class="single-feat clearfix">
+			<figure class="single-thumb single-thumb-full">
+				<img decoding="async" width="640" height="472" src="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2022/01/festiva-por.jpg?fit=640%2C472&amp;ssl=1" class="attachment-large size-large wp-post-image jetpack-lazy-image" alt="" loading="lazy" data-lazy-srcset="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2022/01/festiva-por.jpg?w=1083&amp;ssl=1 1083w, https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2022/01/festiva-por.jpg?resize=494%2C365&amp;ssl=1 494w, https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2022/01/festiva-por.jpg?resize=840%2C620&amp;ssl=1 840w, https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2022/01/festiva-por.jpg?resize=768%2C567&amp;ssl=1 768w" data-lazy-sizes="(max-width: 640px) 100vw, 640px" data-lazy-src="https://i0.wp.com/digitalmisiones.com.py/wp-content/uploads/2022/01/festiva-por.jpg?fit=640%2C472&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />			</figure>
+		</div><!-- .single-feat-->
+		<div class="entry-content">
+		
+<p>Ante la suspensión de los corsos encarnacenos por aumento de casos de covid, surgen dudas sobre el Festival del Siriki, Batiburrillo y Chorizo Sanjuanino que se prepara para el 28 y 29 de enero, pero, autoridades sanitarias de Misiones prefieren esperar para analizar el caso.</p>
+
+
+
+<p>Desde la Octava Región Sanitaria, el Dr. Rodeney Giménez, expresó que a pesar de la explosión de casos del virus en el departamento de Misiones, aún hay tiempo para analizar si recomienda desde el Ministerio la suspensión o no del Festival.</p>
+
+
+
+<p>«Todavía hay tiempo para analizar lo del Festival del Siriki, acá lo que debemos de entender es que debemos de seguir cuidandonos con el uso de tapabocas, y si hay actividades tratar de mantener la burbuja, es decir, compartir solo con la familia», expresó Giménez.</p>
+
+
+
+<p>El Festival del Siriki, Batiburrillo y Chorizo Sanjuanino está previsto este fin de mes en la Plaza Boquerón de San Juan Bautista, suele aglomerar a más de 20.000 personas.  </p>
+
+
+
+<p> </p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Comparte esto:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-40364" class="share-facebook sd-button share-icon" href="https://digitalmisiones.com.py/festival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende/?share=facebook" target="_blank" title="Haz clic para compartir en Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-40364" class="share-twitter sd-button share-icon" href="https://digitalmisiones.com.py/festival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende/?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span>Twitter</span></a></li><li class="share-jetpack-whatsapp"><a rel="nofollow noopener noreferrer" data-shared="" class="share-jetpack-whatsapp sd-button share-icon" href="https://digitalmisiones.com.py/festival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende/?share=jetpack-whatsapp" target="_blank" title="Haz clic para compartir en WhatsApp"><span>WhatsApp</span></a></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>Más</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;width:150px;"><ul style="background-image:none;"><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://digitalmisiones.com.py/festival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende/#print" target="_blank" title="Haz clic para imprimir"><span>Imprimir</span></a></li><li class="share-end"></li></ul></div></div></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-125061200-40364-63bc2124cb1da' data-src='https://widgets.wp.com/likes/#blog_id=125061200&amp;post_id=40364&amp;origin=digitalmisiones.com.py&amp;obj_id=125061200-40364-63bc2124cb1da' data-name='like-post-frame-125061200-40364-63bc2124cb1da' data-title='Me gusta o Compartir'><h3 class="sd-title">Me gusta esto:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>	</div><!-- .entry-content -->
+	<footer class="entry-footer featured-desc">
+		            <div class="below-entry-meta">
+				<span class="cat-links"><a class="at-cat-item-3" href="https://digitalmisiones.com.py/category/misiones/"  rel="category tag">Misiones</a>&nbsp;</span>            </div>
+				</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+	<nav class="navigation post-navigation" role="navigation" aria-label="Entradas">
+		<h2 class="screen-reader-text">Navegación de entradas</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://digitalmisiones.com.py/suspenden-carnaval-de-encarnacion-por-ola-de-contagios/" rel="prev"><span>Suspenden carnaval de Encarnación por ola de contagios</span></a></div><div class="nav-next"><a href="https://digitalmisiones.com.py/robert-piris-da-motta-esta-para-firmar-por-cerro-porteno/" rel="next"><span>Robert Piris Da Motta está para firmar por Cerro Porteño</span></a></div></div>
+	</nav>		</main><!-- #main -->
+	</div><!-- #primary -->
+    <div id="secondary-right" class="widget-area sidebar secondary-sidebar float-right" role="complementary">
+        <div id="sidebar-section-top" class="widget-area sidebar clearfix">
+			<aside id="custom_html-11" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"></div></aside><aside id="text-19" class="widget widget_text">			<div class="textwidget"><p><iframe src="http://www.cambioschaco.com.py/widgets/cotizacion/?lang=es" frameborder="0"></iframe></p>
 </div>
-      
-  </div>
-</section>
+		</aside><aside id="dpt_display_post_types-3" class="widget display_posts_types"><h3 class="widget-title"><span>Noticias recientes</span></h3>			<style type="text/css">
+			.display-post-types {opacity: 0;} #dpt-wrapper-869 .dpt-featured-content, #dpt-wrapper-869 a.dpt-permalink, #dpt-wrapper-869 .dpt-featured-content:after, #dpt-wrapper-869 .dpt-thumbnail img { border-radius: 5px; }			</style>
+						<div class="display-post-types"><div id="dpt-wrapper-869" class="dpt-wrapper dpt-list2 centercrop dpt-flex-wrap" >
 
-<section id="block-sitiosexternos" class="block block-block-content block-block-contente3714333-446e-4e2d-9c18-d022e7921d7c clearfix">
-<div class="block-inner">
-  
+							<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/nacionales/" rel="category tag">Nacionales</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/fram-nina-de-6-anos-fallecio-tras-ser-embestida-cuando-cruzaba-la-calle/" rel="bookmark"><span>Fram: niña de 6 años falleció tras ser embestida cuando cruzaba la calle</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-09T07:46:16-03:00">9 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/politica/" rel="category tag">Política</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/historicos-de-la-anr-piden-la-unidad-de-cara-al-30-de-abril/" rel="bookmark"><span>Históricos de la ANR piden la unidad de cara al 30 de abril</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-09T07:31:08-03:00">9 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/misiones/" rel="category tag">Misiones</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/anuncian-lunes-caluroso-para-misiones/" rel="bookmark"><span>Anuncian lunes caluroso para Misiones</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-09T07:17:27-03:00">9 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/nacionales/" rel="category tag">Nacionales</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/caazapa-50-parejas-dieron-el-si-en-boda-comunitaria/" rel="bookmark"><span>Caazapá: 50 parejas dieron el sí en boda comunitaria</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-07T10:23:27-03:00">7 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/nacionales/" rel="category tag">Nacionales</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/incautan-mas-de-1-000-litros-de-combustible/" rel="bookmark"><span>Incautan más de 1.000 litros de combustible</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-07T10:20:38-03:00">7 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/misiones/" rel="category tag">Misiones</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/san-ignacio-detienen-a-ciudadano-con-frondoso-denuncias-penales/" rel="bookmark"><span>San Ignacio: detienen a ciudadano con frondoso denuncias penales</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-07T10:10:53-03:00">7 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/misiones/" rel="category tag">Misiones</a>, <a href="https://digitalmisiones.com.py/category/politica/" rel="category tag">Política</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/richard-ramirez-ya-hable-con-michel-flores-y-derlis-maidana-me-llamo/" rel="bookmark"><span>Richard Ramirez: «ya hablé con Michel Flores y Derlis Maidana me llamó»</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-06T10:13:52-03:00">6 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/nacionales/" rel="category tag">Nacionales</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/crimen-de-menor-en-un-motel-detienen-al-brasileno-sindicado-como-autor/" rel="bookmark"><span>Crimen de menor en un motel: detienen al brasileño sindicado como autor</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-06T07:40:02-03:00">6 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/nacionales/" rel="category tag">Nacionales</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/soldaban-tanque-de-combustible-y-termino-explotando-un-muerto-y-tres-heridos/" rel="bookmark"><span>Soldaban tanque de combustible y terminó explotando: un muerto y tres heridos</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-05T11:46:26-03:00">5 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+								<div class="dpt-entry has-thumbnail">
+					<div class="dpt-entry-wrapper"><div class=" sub-entry"><div class="dpt-meta2"><div class="dpt-categories"><a href="https://digitalmisiones.com.py/category/misiones/" rel="category tag">Misiones</a></div></div><h3 class="dpt-title"><a class="dpt-title-link" href="https://digitalmisiones.com.py/la-fiuna-inicia-preinscripcion-de-las-dos-carreras-habilitadas-en-su-sede-de-ayolas-misiones/" rel="bookmark"><span>La FIUNA inicia preinscripción de las dos carreras habilitadas en su sede de Ayolas Misiones</span></a></h3><div class="dpt-meta dpt-meta1"><div class="dpt-author"><a href="https://digitalmisiones.com.py/author/esneider-meza/"><span>Edición Central</span></a></div> &middot; <div class="dpt-date"><time datetime="2023-01-04T22:49:46-03:00">4 enero, 2023</time></div></div></div></div>
+				</div><!-- .dpt-entry -->
+				
+			</div>
+						</div>
+			</aside>        </div>
+    </div>
+        </div><!-- #content -->
+        </div><!-- content-wrapper-->
+    		<div class="clearfix"></div>
+		<footer id="colophon" class="site-footer" role="contentinfo">
+			<div class="footer-wrapper">
+				<div class="top-bottom wrapper">
+					<div id="footer-top">
+						<div class="footer-columns">
+															<div class="footer-sidebar acme-col-3">
+									<aside id="text-21" class="widget widget_text"><h3 class="widget-title"><span>Cotización del Día</span></h3>			<div class="textwidget"></div>
+		</aside><aside id="block-8" class="widget widget_block"><iframe loading="lazy" src="https://www.maxicambios.com.py//share" width="100%" height="500"></iframe></aside>								</div>
+															<div class="footer-sidebar acme-col-3">
+									<aside id="custom_html-13" class="widget_text widget widget_custom_html"><h3 class="widget-title"><span>FANPAGE</span></h3><div class="textwidget custom-html-widget"><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdigitalmisionespy%2F&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div></aside>								</div>
+															<div class="footer-sidebar acme-col-3">
+									<aside id="custom_html-14" class="widget_text widget widget_custom_html"><h3 class="widget-title"><span>Publicaciones de Twitter</span></h3><div class="textwidget custom-html-widget"><a class="twitter-timeline" data-width="340" data-height="500" href="https://twitter.com/DMisionesPy?ref_src=twsrc%5Etfw">Tweets by DMisionesPy</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></aside>								</div>
+													</div>
+					</div><!-- #foter-top -->
+					<div class="clearfix"></div>
+				</div><!-- top-bottom-->
+				<div class="wrapper footer-copyright border text-center">
+					<p>
+													Copyright © Todos los derechos reservados Digital Misiones 2020											</p>
+					<div class="site-info">
+						<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+						<span class="sep"> | </span>
+						Theme: DuperMag by <a href="https://www.acmethemes.com/" rel="designer">Acme Themes</a>					</div><!-- .site-info -->
+				</div>
+			</div><!-- footer-wrapper-->
+		</footer><!-- #colophon -->
+		        </div><!-- #page -->
     
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/digitalmisiones.com.py\/festival-del-siriki-batiburrillo-y-chorizo-sanjuanino-hasta-ahora-no-se-suspende\/":40364};
+	</script>
+				<link rel='stylesheet' id='dpt-style-css'  href='https://digitalmisiones.com.py/wp-content/plugins/display-post-types/frontend/css/style.css?ver=2.1.0' type='text/css' media='all' />
 
-      
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><style type="text/css">.img-link-externo{width:60%!important}@media (max-width:767px){.img-link-externo{width:40%!important;float:left}}</style>
-<div class="row enlaces-externos" style="margin-top:120px">
-<div class="col-md-2 caribbeannewsdigital"><a href="http://www.caribbeannewsdigital.com" target="_blank"><img class="img-responsive img-link-externo" src="/sites/default/files/logo/xldeogo_cnd,P20Hi_res.png.pagespeed.ic.AbGD8aDT89.png"/> </a></div>
-
-<div class="col-md-2 excelencias"><a href="http://www.excelencias.com" target="_blank"><img class="img-responsive img-link-externo" src="/sites/default/files/logo/xLogo,P20Grupo,P20Excelencias.png.pagespeed.ic.H6JpKqyWxD.png"/> </a></div>
-
-<div class="col-md-2 arteporexcelencias"><a href="http://www.arteporexcelencias.com" target="_blank"><img class="img-responsive img-link-externo" src="/sites/default/files/logo/xlogo_Exc,P20Arte.png.pagespeed.ic.cTjgHhd7up.png"/> </a></div>
-
-<div class="col-md-2 caribeinside"><a href="http://www.caribeinside.com" target="_blank"><img class="img-responsive img-link-externo" src="/sites/default/files/logo/xlogo_caribe,P20insider_peque.png.pagespeed.ic.G4EcN79NNf.png"/> </a></div>
-
-<div class="col-md-2 mallhabana"><a href="https://www.mallhabana.com/" target="_blank"><img class="img-responsive img-link-externo" src="/sites/default/files/logo/xlogosMH_ET.png.pagespeed.ic.qcIJAQKOoe.png"/> </a></div>
-
-<div class="col-md-2 excelenciasdelmotor"><a href="http://www.excelenciasdelmotor.com" target="_blank"><img class="img-responsive img-link-externo" src="/sites/default/files/logo/xLogo,P20ExcelenciasMotor.png.pagespeed.ic.KHHjqDI4RE.png"/> </a></div>
-</div>
-</div>
-      
-  </div>
-</section>
-
-<section id="block-blockcopyright" class="block-copyright block block-block-content block-block-content50c2be9d-e7ec-4843-9f5a-30510bcd8add clearfix">
-<div class="block-inner">
-  
-    
-
-      
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p>Todos los derechos reservados © 2020 Excelencias Gourmet</p>
-</div>
-      
-  </div>
-</section>
+<script type='text/javascript' id='pt-cv-content-views-script-js-extra'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"5928693158","is_admin":"","is_mobile":"","ajaxurl":"https:\/\/digitalmisiones.com.py\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Ir a la primera p\u00e1gina","goto_prev":"Ir a la p\u00e1gina anterior","goto_next":"Ir a la p\u00e1gina siguiente","goto_last":"Ir a la \u00faltima p\u00e1gina","current_page":"La p\u00e1gina actual es","goto_page":"Ir a la p\u00e1gina"};
+/* ]]> */
+</script>
 
 
-  </div>
 
-	  </div>
-    </footer>
-  
-  </div>
 
-    
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"es\/","currentPath":"node\/14307","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"es"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":false,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","popover_trigger_autoclose":1,"tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"statistics":{"data":{"nid":"14307"},"url":"\/core\/modules\/statistics\/statistics.php"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EUtilizamos cookies en este sitio para mejorar su experiencia de usuario\u003C\/h2\u003E\u003Cp\u003EAl hacer clic en el bot\u00f3n Aceptar, usted acepta que hagamos esto.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EM\u00e1s info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003EAceptar\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003ENo, gracias\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EM\u00e1s info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003EAceptar\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003ENo, gracias\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.excelenciasgourmet.com\/es\/politica-de-privacidad","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"es","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EOpciones de privacidad\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003E Utilizamos cookies en este sitio para mejorar su experiencia de usuario \u003C\/h2\u003E\n\u003Cp\u003E  Ha dado su consentimiento para que establezcamos cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"ajaxTrustedUrl":{"\/es\/comment\/reply\/node\/14307\/comment":true},"user":{"uid":0,"permissionsHash":"dc8437a2acd7c70f1fbcf65c0d03a54d8c90c15a32344ec336e38badce546bc0"}}</script>
-<script src="/core/assets/vendor/jquery/jquery.min.js,qv=3.4.1.pagespeed.jm.tJmcu2pzqb.js"></script>
-<script src="/core,_assets,_vendor,_underscore,_underscore-min.js,qv==1.8.3+core,_assets,_vendor,_jquery,_jquery-htmlprefilter-3.5.0.js,qv==3.4.1+core,_assets,_vendor,_jquery-once,_jquery.once.min.js,qv==2.2.0+core,_misc,_drupalSettingsLoader.js,qv==8.8.6+sites,_default,_files,_languages,_es_fOgNxdmw8jnf291xzMsjl3LdI7S6i77krR5fxIMYzp0.js,qrl49fx+core,_misc,_drupal.js,qv==8.8.6+core,_misc,_drupal.init.js,qv==8.8.6+core,_assets,_vendor,_jquery.ui,_ui,_effect-min.js,qv==1.12.1+modules,_back_to_top,_js,_back_to_top.js,qv==8.8.6+modules,_google_analytics,_js,_google_analytics.js,qv==8.8.6+themes,_bootstrap,_js,_drupal.bootstrap.js,qrl49fx.pagespeed.jc._hAv03WIrL.js"></script><script>eval(mod_pagespeed_6HqmPgR6Hu);</script>
-<script>eval(mod_pagespeed_mYD_CI2XyN);</script>
-<script>eval(mod_pagespeed_60MzD4x5b3);</script>
-<script>eval(mod_pagespeed_e6t5j9TPRQ);</script>
-<script>eval(mod_pagespeed_zu51xzWl0$);</script>
-<script>eval(mod_pagespeed_CKAr7gftOO);</script>
-<script>eval(mod_pagespeed_I0utueiXAH);</script>
-<script>eval(mod_pagespeed_o_lX$VYjhg);</script>
-<script>eval(mod_pagespeed_Yl9s9z1Z$0);</script>
-<script>eval(mod_pagespeed_$2SKyVFMlK);</script>
-<script src="//cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.js"></script>
-<script>eval(mod_pagespeed_iPiIcYOSx0);</script>
-<script src="/themes/bootstrap,_js,_attributes.js,qrl49fx+bootstrap,_js,_theme.js,qrl49fx+quatro,_js,_migrate.js,qrl49fx.pagespeed.jc.0-_ETGmDIo.js"></script><script>eval(mod_pagespeed_YncR2mmcPP);</script>
-<script>eval(mod_pagespeed_7oCbouPtuI);</script>
-<script>eval(mod_pagespeed_8V6mpfj6OO);</script>
-<script src="/themes/quatro/js/jquery.js,qrl49fx.pagespeed.jm.nuS5c6ouhf.js"></script>
-<script src="/themes,_quatro,_js,_script.js,qrl49fx+themes,_bootstrap,_js,_popover.js,qrl49fx+themes,_bootstrap,_js,_tooltip.js,qrl49fx+core,_modules,_statistics,_statistics.js,qv==8.8.6+core,_assets,_vendor,_jquery.cookie,_jquery.cookie.min.js,qv==1.4.1.pagespeed.jc.W3x2RDgr7k.js"></script><script>eval(mod_pagespeed_2eTqrXm9gP);</script>
-<script>eval(mod_pagespeed_AUNA_I0wyx);</script>
-<script>eval(mod_pagespeed_FAXhxbgjnv);</script>
-<script>eval(mod_pagespeed_MivJl8dPYY);</script>
-<script>eval(mod_pagespeed__HB13uNnb3);</script>
-<script src="/modules/eu_cookie_compliance/js/eu_cookie_compliance.js,qv=1.9.pagespeed.jm.eCr0HujttC.js" defer></script>
-<script src="/core,_misc,_debounce.js,qv==8.8.6+core,_misc,_form.js,qv==8.8.6+themes,_bootstrap,_js,_misc,_form.js,qrl49fx+core,_misc,_details-aria.js,qv==8.8.6+core,_misc,_collapse.js,qv==8.8.6+themes,_bootstrap,_js,_modules,_filter,_filter.js,qv==8.8.6.pagespeed.jc.TTTbkeu9rE.js"></script><script>eval(mod_pagespeed_bPjGJH0Z_n);</script>
-<script>eval(mod_pagespeed_Mb0Vij5GAl);</script>
-<script>eval(mod_pagespeed_jIxlM6278N);</script>
-<script>eval(mod_pagespeed_VSjB67aoit);</script>
-<script>eval(mod_pagespeed_rt58gopRk5);</script>
-<script>eval(mod_pagespeed_5W02mWBjHq);</script>
 
-  </body>
+
+
+
+<script type='text/javascript' id='jetpack-lazy-images-js-extra'>
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"Las im\u00e1genes a\u00fan est\u00e1n cargando. Cancela la impresi\u00f3n y vuelve a intentarlo."};
+/* ]]> */
+</script>
+
+
+
+
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"es","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+
+<script type='text/javascript' id='sharing-js-js-after'>
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=202302#ver=202302&amp;lang=es' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'><div class="likes-text">A <span>%d</span> blogueros les gusta esto:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	<script src='https://stats.wp.com/e-202302.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.7',blog:'125061200',post:'40364',tz:'-3',srv:'digitalmisiones.com.py'} ]);
+	_stq.push([ 'clickTrackerInit', '125061200', '40364' ]);
+</script>
+<script defer src="https://digitalmisiones.com.py/wp-content/cache/autoptimize/js/autoptimize_6025c0026e93cc9084e65a527e860d67.js"></script></body>
 </html>
+<!-- Dynamic page generated in 0.281 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2023-01-09 11:13:56 -->
+
+<!-- super cache -->

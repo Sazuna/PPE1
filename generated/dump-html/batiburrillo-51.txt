@@ -1,736 +1,945 @@
 <!DOCTYPE html>
-<html lang="es">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf8" />
-<title> Salteado de pollo con verduras | Recetas El Comidista EL PA&Iacute;S</title>
-<meta name="lang" content="es" />
-<meta name="viewport" content="width=device-width,initial-scale=1, user-scalable=no" />
-<meta name="author" content="Ediciones El País" />
-<meta name="description" content="Hacer un salteado es la cosa más sencilla del mundo, pero para que el resultado no sea un pollo seco y unas verduras blandas hay que respetar unos cuantos pasos. Aquí va una receta infalible." />
-<meta name="keywords" content="saltear, pollo, verdura, hacer, ser, cosa, sencilla, sencillo, mundo, resultado, seco, blandas, blando, haber, respetar, paso, ir, receta, infalible" />
-<meta name="date" scheme="W3CDTF" content="2022-04-20T12:48:46+02:00" />
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-status-bar-style" content="transparent" />
-<meta name="mobile-web-app-capable" content="yes" />
-<meta name="news_keywords" content="Cocina muy fácil,Segundos,Pollo (carnes),Verduras,Recetas cocina,Ingredientes recetas,Gastronomía"/>
-<meta name="DC.date.issued" scheme="W3CDTF" content="2022-04-20T12:48:46+02:00" />
-<meta name="DC.date" scheme="W3CDTF" content="2022-04-20T12:48:46+02:00" />
-<meta property="article:modified_time" content="2022-04-20T12:48:46+02:00" />
-<meta property="article:publisher" content="https://plus.google.com/114624877258504976206/posts" />
-<meta property="article:published_time" content="2022-04-20T12:48:46+02:00" />
-<meta property="article:section" content="receta" />
-<meta property="article:tag" content="Cocina muy fácil" />
-<meta property="article:tag" content="Segundos" />
-<meta property="article:tag" content="Pollo (carnes)" />
-<meta property="article:tag" content="Verduras" />
-<meta property="article:tag" content="Recetas cocina" />
-<meta property="article:tag" content="Ingredientes recetas" />
-<meta property="article:tag" content="Gastronomía" />
-<meta property="og:title" content="Salteado de pollo con verduras"/>
-<meta property="og:description" content="Hacer un salteado es la cosa más sencilla del mundo, pero para que el resultado no sea un pollo seco y unas verduras blandas hay que respetar unos cuantos pasos. Aquí va una receta infalible."/>
-<meta property="og:image" content="https://ep00.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541407_rrss_normal.jpg"/>
-<meta property="og:image:width" content="720">
-<meta property="og:image:height" content="377">
-<meta property="og:updated_time" content="2022-04-20T12:48:46+02:00" />
-<meta property="og:url" content="https://elcomidista.elpais.com/elcomidista/2022/03/29/receta/1648541175_113670.html" />
-<meta property="og:type" content="article"/>
-<meta property="og:site_name" content="El Comidista"/>
-<meta property="fb:pages"     content="100761573337047" />
-<meta property="fb:app_id" content="94039431626"/>
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:site" content="@elcomidista" />
-<link rel="alternate" href="https://elcomidista.elpais.com/rss/elcomidista/portada.xml" type="application/rss+xml" title="RSS de la portada de El Comidista"/>
-<link rel="apple-touch-icon-precomposed" href="//ep01.epimg.net/elcomidista/iconos/v1.x/v1.0/logos/ico_app.png" />
-<link rel="shortcut icon" sizes="196x196" href="//ep01.epimg.net/elcomidista/iconos/v1.x/v1.0/logos/ico_app.png" />
-<link rel="canonical" href="https://elcomidista.elpais.com/elcomidista/2022/03/29/receta/1648541175_113670.html" />
-<link rel="icon" href="https://ep01.epimg.net/elcomidista/iconos/v1.x/v1.0/logos/favicon.ico" type="image/png" />
-<link rel="publisher" href="https://plus.google.com/114624877258504976206/posts"/>
-<link rel="amphtml" href="https://elcomidista.elpais.com/elcomidista/2022/03/29/receta/1648541175_113670.amp.html" />
-<script language="javaScript" type="text/javascript">
-var c_title         = encodeURIComponent('Salteado de pollo con verduras');
-var c_via           = '@elcomidista';
-    c_via           = c_via.split('@');
-    c_via           = c_via[1];
-var c_url           = 'https://elcomidista.elpais.com/elcomidista/2022/03/29/receta/1648541175_113670.html';
+<html lang="es-ES">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="viewport" content="width=1024">
+            <link rel="dns-prefetch" href="https://imagenes.20minutos.es"><link rel="dns-prefetch" href="https://sdk.privacy-center.org"><link rel="dns-prefetch" href="https://sb.scorecardresearch.com"><link rel="dns-prefetch" href="https://cdns.eu1.gigya.com"><link rel="dns-prefetch" href="https://www.googletagmanager.com"><link rel="dns-prefetch" href="https://www.googletagservices.com"><link rel="dns-prefetch" href="https://hb.20m.es"><link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net"><link rel="dns-prefetch" href="https://static.criteo.net"><link rel="dns-prefetch" href="https://dkumiip2e9ary.cloudfront.net"><link rel="dns-prefetch" href="https://dt15fd2xumytl.cloudfront.net"><link rel="dns-prefetch" href="https://comentarios.20minutos.es"><meta name="robots" content="index,follow"/><meta name="title" content="Duelo en el TC | Opinión de Encarna Samitier"><meta name="description" content="Duelo en el TC. De adversarios legítimos capaces de pactar por mayoría amplia asuntos relevantes, PSOE y PP se han convertido en enemigos encarnizados. El..."><meta name="keywords" content="Actualidad,Nacional,Opinión,Encarna Samitier,Tribunal Constitucional"><meta name="news_keywords" content="Actualidad,Nacional,Opinión,Encarna Samitier,Tribunal Constitucional"><link rel="canonical" href="https://www.20minutos.es/noticia/5085640/0/encarna-samitier-duelo-en-el-tc/"><meta property="og:type" content="article"/><meta property="og:url" content="https://www.20minutos.es/noticia/5085640/0/encarna-samitier-duelo-en-el-tc/"/><meta property="og:site_name" content="www.20minutos.es - Últimas Noticias"><meta property="fb:app_id" content="217041948309757"/><meta property="fb:pages" content="38352573027"><meta property="og:locale" content="es_ES"/><meta property="og:title" content="Duelo en el TC | Opinión de Encarna Samitier"/><meta property="og:description" content="Duelo en el TC. De adversarios legítimos capaces de pactar por mayoría amplia asuntos relevantes, PSOE y PP se han convertido en enemigos encarnizados. El..."/><meta property="og:image" content="https://imagenes.20minutos.es/files/og_thumbnail_panoramic/files/og_20m/uploads/imagenes/2021/03/31/archivo-fachada-y-entrada-al-edificio-del-tribunal-constitucional.jpeg"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@20m"><meta name="twitter:creator" content="20m"><meta name="twitter:url" content="https://www.20minutos.es/noticia/5085640/0/encarna-samitier-duelo-en-el-tc/"/><meta name="twitter:title" content="Duelo en el TC | Opinión de Encarna Samitier"/><meta name="twitter:description" content="Duelo en el TC. De adversarios legítimos capaces de pactar por mayoría amplia asuntos relevantes, PSOE y PP se han convertido en enemigos encarnizados. El..."/><meta name="twitter:image" content="https://imagenes.20minutos.es/files/og_thumbnail_panoramic/files/og_20m/uploads/imagenes/2021/03/31/archivo-fachada-y-entrada-al-edificio-del-tribunal-constitucional.jpeg"/><meta property="article:tag" content="Tribunal Constitucional"/><meta property="article:tag" content="Encarna Samitier"/><meta property="article:tag" content="Opinión"/>            <meta http-equiv="Refresh" content="600" /><!-- Datalayer --><script>
+            dataLayer = [
+                    {
+        "layout" : "articulo_opinion",
+        "categoria_id" : "1",
+        "categoria" : "actualidad",
+        "subcategoria_id" : "7",
+        "subcategoria" : "nacional",
+        "terciariacategoria_id" : "",
+        "terciariacategoria" : "sinct",
+        "isVertical" : "0",
+        "lastmodify" : "129",
+        "createdby" : "2017",
+        "firma" : "Encarna Samitier",
+        "fechapublicacion" : "20221219",
+        "fechaactualizacion" : "2022-12-19 05:41:18",
+        "semantictag" : "",
+        "semanticCategory" : "",
+        "keywords" : "Actualidad,Nacional,Opinion,Encarna Samitier,Tribunal Constitucional",
+        "noticia_id" : "5085640",
+        "user_logged" : "0",
+        "user_id" : "",
+        "sesionCount" : "",
+        "mediatype" : "imagen",
+        "accesstype" : "abierto",
+        "seotag" : "tribunal-constitucional,encarna-samitier,opinion",
+        "platform" : "desktop",
+        "gaid" : "",
+        "superusuario" : "",
+        "kid" : ""        }
+            ];
+        </script><!-- End Datalayer --><meta name="google-site-verification" content="hHmd_lXK-PR-Q8NtBojQ-rauw3RfbP3HoRqmf8y3O9o" /><meta name="msvalidate.01" content="FEFB9C7AAA84047559979888837C0022" /><meta name="robots" content="max-image-preview:large" /><meta name="author" content="20minutos" /><meta name="geo.region" content="ES" /><meta name="geo.position" content="40.463667;-3.74922" /><meta name="ICBM" content="40.463667;-3.74922" /><meta name="genre" content="News" /><meta name="owner" content="20minutos" /><meta name="contributor" content="20minutos" /><meta name="publisher" content="20minutos" /><meta name="locality" content="España, U.E." /><meta name="language" content="es" /><meta name="rating" content="General" /><meta property="fb:app_id" content="217041948309757" /><meta name="p:domain_verify" content="c11a031c063e5e0934e54d4e61d1c7e9" /><meta name="Petal-Search-site-verification" content="2b6b4cb9b7" /><!-- FB index meta-tags --><meta property="article:opinion" content="true"/><meta property="article:content_tier" content="free"/><meta property="article:location" content="region:esp"/><meta property="article:tag" content="Politics"/><meta property="article:tag" content="Crime & Tragedy"/><meta property="article:tag" content="Social Issues"/><meta property="article:tag" content="Business, Finance, & Economics"/><meta property="article:tag" content="Education & Learning"/><meta property="article:tag" content="Health & Medical"/><meta property="article:tag" content="History & Philosophy"/><meta property="article:tag" content="Holidays & Celebrations"/><!-- end FB index meta-tags -->        <title>
+                            Duelo en el TC | Opinión de Encarna Samitier</title>
+            <link rel="stylesheet" href="https://www.20minutos.es/static/css/4158e47.css?1671014775"/>            <script src="https://www.20minutos.es/static/js/20m.js?1671014775"></script><script defer src="https://cdns.eu1.gigya.com/js/gigya.js?apikey=3_Hob3SXLWsBRwjPFz4f4ZEuxPo2PyeElFMWgWO2EXdBYUqwMk8lxNj78Fi_2VW5cH&lang=es">{sessionExpiration:-2}</script><script type="text/javascript" src="https://www.gstatic.com/firebasejs/7.9.1/firebase-app.js" defer></script><script type="text/javascript" src="https://www.gstatic.com/firebasejs/7.9.1/firebase-messaging.js" defer></script><script type="text/javascript">
+    const __isAmpReferrer = window.location.href && window.location.href.includes('#amp=1');
 
+    window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("6e7011c3-735d-4a5c-b4d8-c8b97a71fd01")})();
+</script><script>
+    !function(){window.hb_now=Date.now();var e=document.getElementsByTagName("script")[0],t="https://hb.20m.es/stable/config/xk.20minutos.es/desktop.min.js";window.location.search.match(/hb_test=true/)&&(t=t.replace("/stable/","/test/"));var n=document.createElement("script");n.async=!0,n.src=t,e.parentNode.insertBefore(n,e)}();
+    </script><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsMediaOrganization",
+        "name": "20minutos",
+                "image": "https://www.20minutos.es/static/images/logo-20minutos.png",
+                "foundingDate": "2000-02-03",
+        "missionCoveragePrioritiesPolicy": "https://www.20minutos.es/estaticos/buenas-practicas/#mision",
+        "ethicsPolicy": "https://www.20minutos.es/estaticos/buenas-practicas/#codigo-etico",
+        "verificationFactCheckingPolicy": "https://www.20minutos.es/estaticos/buenas-practicas/#verificacion",
+        "unnamedSourcesPolicy": "https://www.20minutos.es/estaticos/buenas-practicas/#fuentes",
+        "correctionsPolicy": "https://www.20minutos.es/estaticos/buenas-practicas/#correcciones",
+        "noBylinesPolicy": "https://www.20minutos.es/estaticos/buenas-practicas/#firma",
+        "actionableFeedbackPolicy": "https://www.20minutos.es/estaticos/buenas-practicas/#lectores",
+        "diversityPolicy": "https://www.20minutos.es/estaticos/buenas-practicas/#diversidad",
+        "diversityStaffingReport": "https://www.20minutos.es/estaticos/buenas-practicas/#diversidad",
+        "masthead": "https://www.20minutos.es/estaticos/buenas-practicas/#estructura",
+        "ownershipFundingInfo": "https://www.20minutos.es/estaticos/buenas-practicas/#codigo-etico",
+        "contactPoint" : {
+            "@type" : "ContactPoint",
+            "contactType" : "Newsroom Contact",
+            "email" : "20minutoseditora@20minutos.es"
+        },
+        "address": {
+            "name": "20minutos",
+            "telephone":"917 015 600",
+            "email": "20minutoseditora@20minutos.es",
+            "@type": "PostalAddress",
+            "addressLocality": "Madrid",
+            "postalCode": "28027",
+            "streetAddress": "Condesa de Venadito 1, 2a planta",
+            "url" : "https://www.20minutos.es" ,
+            "sameAs" : ["https://www.facebook.com/20minutos.es", "https://twitter.com/20m", "https://www.youtube.com/user/20minutos/"]
+        },
+        "memberOf": [
+        {
+          "@type": "Organization",
+          "name": "Henneo",
+          "logo" : "https://www.20minutos.es/static/images/logo-henneo.png"
+        }
+      ]
+    }
+    </script><script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+                    "@type": "OpinionNewsArticle",
+            "@id": "https://www.20minutos.es/noticia/5085640/0/encarna-samitier-duelo-en-el-tc/",
+            "headline": "Duelo en el TC",
+            "description": "Duelo en el TC. De adversarios legítimos capaces de pactar por mayoría amplia asuntos relevantes, PSOE y PP se han convertido en enemigos encarnizados. El...",
+            "articleSection": "Nacional",
+            "articleBody": "<b>Duelo en el TC.<\/b> De adversarios legítimos capaces de pactar por mayoría amplia asuntos relevantes, <a href=\u0022https:\/\/www.20minutos.es\/minuteca\/psoe\/\u0022 title=\u0022PSOE\u0022>PSOE<\/a> y <a href=\u0022https:\/\/www.20minutos.es\/minuteca\/pp\/\u0022 title=\u0022PP\u0022>PP<\/a> se han convertido en enemigos encarnizados. El fondo del asunto, <a href=\u0022https:\/\/www.20minutos.es\/minuteca\/cgpj\/\u0022 title=\u0022CGPJ\u0022>el bloqueo a la renovación del Poder Judicial<\/a>, se ha visto superado por las formas: un batiburrillo de enmiendas planteadas apresuradamente por la vía de la reforma del Código Penal. El Constitucional afronta hoy recursos y recusaciones de PP, PSOE y UP. <b>Es básico que se le deje deliberar sin ruido y con respeto.<\/b>",
+            "datePublished": "2022-12-19T05:41:13+01:00",
+            "dateModified": "2022-12-19T05:41:13+01:00",
+                        "publishingPrinciples": "https://www.20minutos.es/estaticos/buenas-practicas/",
+            "locationCreated": {"@type":"Place", "name":"España"},
+            "mainEntityOfPage": {
+                "@id": "https://www.20minutos.es/noticia/5085640/0/encarna-samitier-duelo-en-el-tc/"
+            },
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2021/03/31/archivo-fachada-y-entrada-al-edificio-del-tribunal-constitucional.jpeg",
+                "width": "1200",
+                "height": "675"
+            },
+                    "author": {
+                "@type": "Person",
+                "name": "Encarna Samitier",
+                "sameAs": "https://www.20minutos.es/autor/encarna-samitier"
 
-var c_media         = 'https://ep00.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541407_rrss_normal.jpg';
-var c_description   = 'Hacer un salteado es la cosa más sencilla del mundo, pero para que el resultado no sea un pollo seco y unas verduras blandas hay que respetar unos cuantos pasos. Aquí va una receta infalible.';
-var url_cache       = '';
-</script>
-<link href="//ep01.epimg.net/elcomidista/estilos/v1.x/v1.0/comunes.css"  rel="stylesheet" />
-<link href="//ep01.epimg.net/elcomidista/estilos/v1.x/v1.0/noticia.css"  rel="stylesheet" />
-<link href="//ep01.epimg.net/elcomidista/estilos/v1.x/v1.0/imprimir.css" media="print" rel="stylesheet" />
-<!--[if lt IE 9]> <script type="text/javascript" src="//ep01.epimg.net/elcomidista/js/v1.x/v1.0/html5.js"></script> <link rel="stylesheet" href="//ep01.epimg.net/elcomidista/estilos/v1.x/v1.0/ie.css"/> <![endif]--> 
-<script type="text/javascript" src="//ep01.epimg.net/elcomidista/js/v1.x/v1.0/funciones.min.js"></script>
-<script type="text/javascript" src="//ep01.epimg.net/elcomidista/js/v1.x/v1.0/noticia.min.js"></script>
-<script type="text/javascript" src="//ep01.epimg.net/elcomidista/js/v1.x/v1.0/noticia_pasapasa.min.js"></script>
-<script type="text/javascript">
-//<![CDATA[
-	var videoPublicityDown = false;
-	var videoFuente = "0";
-	var url_cache = "//ep02.epimg.net";
-	var url_reproductor_epet = "/reproductores/playerPEP.swf";
-
-	var UrlPublicidad = "//pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=%2F7811748%2Felpais_web%2Fplayer_video%2Fflash&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=vast&correlator={random}&unviewed_position_start=1&description_url=[description_url]";
-	var UrlPublicidadOveron = "//pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=%2F7811748%2Foveron_player%2Felpais_web%2Fflash&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=vast&correlator={random}&unviewed_position_start=1&description_url=[description_url]";
-
-	var publicidad_HTML5 = true;
-	var postroll_HTML5 = true;
-	var marcado_logtrust = true;
-	var MPEP_responsive = true;
-
-	// Id cuenta y Player de TOP
-        var id_player_mediateca_PEP = "232";
-        var id_cuenta_mediateca_PEP = "elcomidista";
-
-        var mediateca_activo_PEP = true;
-	var simplemediaplayer_mediateca_PEP = "//playertop.elpais.com/psdmedia/media/simple/js/SimpleMediaPlayer.min.js"
-	//var simplemediaplayer_mediateca_PEP = "//playertop.elpais.com/psdmedia/media/simple/js/SimpleMediaPlayer.youtube2.js"
-	var prebidVideoPEP = true;
-	var PEPedition = 'españa';
-	var listado_norm_tags = 'cocina_muy_facil_a,segundos_platos_a,pollo_a,verduras_a,recetas_cocina_a,ingredientes_recetas_a,gastronomia_a';
-	var DFP_tags = ["cocina_muy_facil_a","segundos_platos_a","pollo_a","verduras_a","recetas_cocina_a","ingredientes_recetas_a","gastronomia_a"];
-	var listado_id_tags = '151248,151018,155234,77995,68229,151022,34841';
-	var listado_id_autores = '196067';
-	var listado_norm_autores = 'alfonso_dominguez_martin_a';
-	var listado_nb_autores = 'Alfonso D. Martín';
-	window.listado_nombre_autores = 'Alfonso D. Martín';
-
-	var referrer = document.referrer;
-	if (referrer.indexOf("//t.co/") >-1 || (referrer.indexOf("twitter.com") > 0 && referrer.indexOf("twitter.com") < 30) )
-	{
-		if (typeof(DFP_tags) != "undefined")
-			DFP_tags.push("fromtwitter");
-		else
-			var DFP_tags = ["fromtwitter"];
-	}
-
-	var reg_ref_noticia = /http.?:\/\/[^\/]*\/[^\/]*\/\d+\/\d+\/\d+\/[^\/]*\/(.*?)\.html/i;
-	var result_rrn = reg_ref_noticia.exec(document.location.href);
-	if (result_rrn)
-	{
-		if (typeof(DFP_tags) != "undefined")
-                    DFP_tags.push(result_rrn[1]);
-		else
-			var DFP_tags = [result_rrn[1]];
-	}
-
-//]]>
-</script>
-<script language="Javascript" type="text/javascript" src="//ep01.epimg.net/js/comun/cx/recomendador.min.js"></script></head>
-<body id="noticia" class="noticia noticia_media" ><div id="pxlhddncntrl" style="display:none"><script src="//ep00.epimg.net/js/prisa/user.min.js?i=1"></script><script src="//ep00.epimg.net/elcomidista/js/v1.x/v1.0/user.min.js?v=1"></script><script src="//ep00.epimg.net/js/comun/avisopcdidomi2.js"></script><script src="//ep00.epimg.net/js/gdt/0681c221600c/a81a11db86dc/launch-f2b3c876fe9c.min.js"></script><script src="//ep00.epimg.net/js/comun/comun.min.js"></script><script src="https://arcsubscriptions.elpais.com/shareSession.js"></script></div><script src="//ep00.epimg.net/js/comun/ll/lazyload.min.js"></script>
-<script type="text/javascript" src="//ak-ads-ns.prisasd.com/slot/elpais/slot.js"></script>
-<div id="AdsCode" style="display:none">
-<script type="text/javascript">	
-		if (typeof(PBS) != "undefined") 
-		{
-			var gtpdivid= 'elpais_gpt';
-			var gtpadunit="";
-			huecosPBS = {};
-			
-			var listadoKW = [];
-			
-			if (typeof(DFP_tags) != "undefined")
-				listadoKW = DFP_tags;			
-
-			if (document.referrer == "http://elpais.com/" )
-			{
-					listadoKW.push("articuloportada");
-			}					
-			
-		    var la_kw_edicion_y_pais = ['p_1','g_default'];
-		    listadoKW = listadoKW.concat(la_kw_edicion_y_pais);
-
-			var pbs_dimensiones = EPETBrowserDims();
-			
-			if (pbs_dimensiones.ancho >= 600)
-			{
-				gtpadunit= 'elpais_comidista_web/receta';
-				huecosPBS = {
-					"inter":true,
-					"skin":true,
-					"ldb1":[[728, 90],[980, 90]],
-					"ldb2":[[728, 90],[980, 90]],					
-					"mpu1":[[300, 250],[300, 600]],
-					"mpu2":[300, 250]
-				};			
-			}
-			else
-			{
-				gtpadunit= 'elpais_comidista_mob/receta';
-				huecosPBS = {
-					"mldb1":[[320, 50],[320, 100]],
-					"mldb2":[320, 50],
-					"mpu1":[[300, 250],[300, 600]],
-					"mpu2":[300, 250]
-				};				
-			}
-			
-			PBS.setAds({
-				asy:false,
-				adunit:gtpadunit,
-				divid:gtpdivid,
-				key:{ pbskey:listadoKW },				
-				ads:huecosPBS
-			});
-		}
-		else
-			var PBS = {display:function(){}};			
-	</script>  
-</div>
-<div class="envoltorio_publi estirar">
-<div id='elpais_gpt-INTER'>
-<script type='text/javascript'>
-			if (gtpadunit.indexOf('_mob') == -1)
-				PBS.display('INTER');
-			else
-				PBS.display('MINTER');
-		</script>
-</div>
-<div id='elpais_gpt-SKIN'>
-<script type='text/javascript'>
-			PBS.display('SKIN');
-		</script>
-</div>	
-</div>
-<div class="contenedor estirar">
-<div class="envoltorio_publi estirar">
-<script type='text/javascript'>
-	if (gtpadunit.indexOf('_mob') == -1)
-		document.write("<div id='elpais_gpt-LDB1' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('LDB1');<\/script></div>");
-	else
-		document.write("<div id='elpais_gpt-MLDB1' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('MLDB1');<\/script></div>");
-</script>
-</div>
-<header id="cabecera" class="cabecera cabecera_fija">
-<div class="interior estirar">
-<div class="contenedor_barra_superior">
-<div class="barra_superior estirar">
-<a href="//elpais.com" class="el_pais">El País</a>
-<div class="usuario">
-<div class="fuera" id="boton_usuario">
-<a href="https://elpais.com/subscriptions/#/sign-in?prod=ELCOMIDISTA&o=CABEP&backURL=https%3A%2F%2Felcomidista.elpais.com%2Felcomidista%2F2022%2F03%2F29%2Freceta%2F1648541175_113670.html" id="botonIniciarSesion" class="boton iniciar_sesion" title="Con&eacute;ctate">Con&eacute;ctate</a>
-<a href="https://elpais.com/subscriptions/#/register?prod=ELCOMIDISTA&o=CABEP&backURL=https%3A%2F%2Felcomidista.elpais.com%2Felcomidista%2F2022%2F03%2F29%2Freceta%2F1648541175_113670.html" class="boton registro">Crea tu cuenta </a>
-<a href="https://usuarios.elpais.com/newsletters/?prm=cab_comidista_201509_nwl" class="boton boton_newsletter" title="Newsletter"><span class="sobre_newsletter"></span>Newsletter</a>
-</div>
-</div>
-</div>
-</div>
-<ul class="siguenos_en estirar">
-<li class="facebook"><a href="https://www.facebook.com/elcomidista">Síguenos en Facebook</a></li>
-<li class="twitter"><a href="https://twitter.com/elcomidista">Síguenos en Twitter</a></li>
-<li class="instagram"><a href="https://instagram.com/elcomidista" rel="nofollow" target="_blank">Síguenos en Instagram</a></li>
-</ul>
-<span class="logo" itemscope itemtype="https://data-vocabulary.org/Breadcrumb"><a itemprop="url title" href="//elcomidista.elpais.com">El Comidista</a></span>
-<div class="contenedor_menu">
-<div class="menu estirar" id="menu">
-<button id="desplegar_menu" class="boton desplegar_menu">Desplegar menú</button>
-<button id="boton_capa_buscar_temas" class="boton mostrar_buscador">Mostrar buscador</button>
-<div class="navegacion estirar" itemscope="" itemtype="https://www.schema.org/SiteNavigationElement">
-<div class="contenedor_listado_temas estirar">
-<button id="boton_plegar_menu" class="boton boton_plegar_menu">Ocultar buscador</button>
-<ul class="listado_temas estirar">
-<li itemprop="name"><a href="/r/elcomidista/seccion/receta/" itemprop="url">Recetas</a>
-<div class="sublistado_temas estirar">
-<ul>
-<li itemprop="name"><a itemprop="url" href="/r/elcomidista/tag/aperitivos/a/">aperitivos</a></li>
-<li itemprop="name"><a itemprop="url" href="/r/elcomidista/tag/primeros_platos/a/">primeros</a></li>
-<li itemprop="name"><a itemprop="url" href="/r/elcomidista/tag/segundos_platos/a/">segundos</a></li>
-<li itemprop="name"><a itemprop="url" href="/r/elcomidista/tag/postres/a/">postres</a></li>
-<li itemprop="name"><a itemprop="url" href="/r/elcomidista/tag/bebidas/a/">bebidas</a></li>
-<li itemprop="name"><a itemprop="url" href="/r/elcomidista/tag/bolleria/a/">panes</a></li>
-</ul>
-</div>
-</li>
-<li itemprop="name"><a href="/r/elcomidista/seccion/articulo/" itemprop="url">Artículos</a></li>
-<li itemprop="name"><a href="/r/elcomidista/tag/videos/" itemprop="url">Vídeos</a></li>
-<li itemprop="name"><a href="/agr/consultorio/" itemprop="url">Consultorio</a></li>
-<li class="news" itemprop="name"><a href="https://usuarios.elpais.com/newsletters/?prm=cab_comidista_201509_nwl" itemprop="url">Newsletter</a></li>
-</ul>
-</div>
-<div class="autor">
-<figure>
-<img width="110" height="110"  onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/iconos/v1.x/v1.0/varios/foto_autor.png" alt="Foto de Mikel López Iturriaga">
-</figure>
-<a href="/elcomidista/2015/06/18/articulo/1434636663_314571.html"><p>Mikel López Iturriaga <span>y su equipo</span></p></a>
-</div>
-</div>
-</div>
-</div>
-<div id="capa_buscar_temas" class="capa_buscar_temas">
-<div class="eleccion_temas estirar">
-<form  method="POST" action="/buscador/" name="formulario_busquedas" id="formulario_busquedas">
-<input id="busqueda" type="search" name="qt" class="temas" placeholder="Quiero cocinar...">
-</form>
-<script>//new EPETSuggestTag(document.getElementById('busqueda'));</script>
-</div>
-</div>
-</div>
-<script type="text/javascript">init_buscador();</script>
-</header>
-<div class="embed">
-<figure class="foto centro alineacion_ninguna" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-<img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541826_media_normal.jpg" width="1800" height="799"  srcset="//ep00.epimg.net/t.gif 200w" data-srcset="//ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541826_media_normal_recorte1.jpg 1960w, //ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541826_media_normal_recorte2.jpg 720w, //ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541826_media_normal.jpg 1800w"   alt="Qué elegante es la servilleta" />
-<meta itemprop="representativeOfPage" content="true">
-<meta itemprop="width"  content="1800">
-<meta itemprop="height" content="799">
-<meta itemprop="url"    content="https://ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541826_media_normal.jpg">
-<figcaption  itemprop="caption" class="pie">Qué elegante es la servilleta. <span itemprop="author" class="autor">ALFONSO D. MARTÍN</span></figcaption>
-</figure>
-</div>
-<div class="contenido estirar">
-<main class="principal" id="principal">
-<article class="articulo_completo" itemscope itemtype="https://schema.org/Recipe" itemprop="mainEntity" itemref="organizacion">
-<header class="encabezado">
-<div class="antetitulo"><span class="enlace"><a class="enlace" href="//elcomidista.elpais.com/r/elcomidista/tag/cocina_muy_facil/a" title="Cocina muy fácil">Cocina muy fácil</a></span></div>
-<h1 id="titulo_noticia" itemprop="headline" class="titulo">Salteado de pollo con verduras</h1>
-<div class="barra_compartir estirar">
-<ul class="redes estirar" id="compartir_social_superior">
-<li class="facebook"><button id="superior_fb" class="boton estirar"><span class="ico">Compartir en Facebook</span> <span class="contador" id="fbnumsuperior_"></span></button></li>
-<li class="twitter"><button id="superior_twit" class="boton estirar"><span class="ico">Compartir en Twiter</span> <span class="contador" id="tnumsuperior_"></span></button></li>
-<li class="pinterest"><button id="superior_pinit" class="boton estirar"><span class="ico">Compartir en Pinterest</span><span id="pnumsuperior_" class="contador"></span></button></li>
-<li class="mas"><button class="boton boton_capa_mas" id="boton_capa_mas_superior">Compartir en otras redes</button>
-<div class="capa capa_mas estirar" id="capa_mas_superior"> <button class="boton cerrar" id="cerrar_capa_mas_superior">Cerrar</button>
-<ul class="estirar">
-<li class="googleplus"><button id="superior_gp" class="boton estirar"><span class="ico">Google Plus</span></button></li>
-<li class="linkedin"><button id="superior_linkedin" class="boton estirar"><span class="ico">LinkedIn</span></button></li>
-</ul>
-</div>
-</li>
-</ul>
-<ul class="varios estirar" >
-<li class="comentarios " id="li_comentarios_noticia_superior_1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5"><a href="#bloque_comentarios" class="boton estirar" title="Ver comentarios"  id="enlace_num_comentarios_header_superior_1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5"><span class="ico">Comentar</span> <span class="contador" id="num_comentarios_header_superior_1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5"></span> </a></li>
-<li class="imprimir"><a id='superior_bomn_imprimir' href="javascript:print();" class="boton">Imprimir</a></li>
-<li class="enviar_correo" id="enviar_correo_superior"><button class="boton boton_enviar_correo"   >Enviar por correo</button></li>
-<script>
-    
-    new EPETTwitter ( document.getElementById('superior_twit'), document.getElementById('tnumsuperior_'), params );
-    new EPETFacebook ( document.getElementById('superior_fb'), document.getElementById('fbnumsuperior_'), params );
-    new EPETGooglePlus ( document.getElementById('superior_gp'), params );
-    new EPETLinkedin ( document.getElementById('superior_linkedin'), params );
-    new EPETPinterest ( document.getElementById('superior_pinit'), document.getElementById('pnumsuperior_'), params );
-</script>
-</ul>
-</div>
-<div id="subtitulo_noticia">
-<h2  itemprop="description"  class="subtitulo">Hacer un salteado es la cosa más sencilla del mundo, pero para que el resultado no sea un pollo seco y unas verduras blandas hay que respetar unos cuantos pasos. Aquí va una receta infalible.</h2>
-</div>
-</header>
-<div class="envoltorio estirar">
-<div class="contenido">
-<div class="barra_meta">
-<meta content="2022-04-20T12:48:46+02:00" itemprop="datePublished">
-<span class="autor" itemprop="author"  itemscope="" itemtype="https://schema.org/Person">
-<meta itemprop="url" content="https://elcomidista.elpais.com/autor/alfonso_dominguez_martin/a/"/>
-<a href="/autor/alfonso_dominguez_martin/a/" class="autor" title="Ver todas las noticias de Alfonso D. Martín" itemprop="url">
-<span itemprop="name">Alfonso D. Martín</span>
-</a>
-</span>
-<time datetime="2022-04-20T12:48:46+02:00" itemprop="dateModified" class="actualizado">
-<a href="/r/elcomidista/tag/fecha/20220420" title="Ver todas las noticias de esta fecha">20/04/2022 - 12:48 <abbr title="Central European Summer Time">CEST</abbr></a>
-</time>
-</div>
-<div class="cuerpo" itemprop="recipeInstructions" id="cuerpo_noticia">
-<p dir="ltr">Todo el mundo debería saber preparar un salteado: probablemente no haya algo tan universal como cocinar unas proteínas con algunas <a href="//elcomidista.elpais.com/r/elcomidista/tag/verduras/a">verduras</a> e hidratos. Sin embargo, todo tiene su ciencia, y algo tan básico como esto no queda exento de ella. Hay una serie de normas para que lo que preparamos realmente cumpla con las características de un salteado y no se convierta en un batiburrillo de verduras blandas y proteína seca o chiclosa.</p>
-<p dir="ltr">Las dos características fundamentales son la potencia y el tiempo. El salteado se basa en una cocción relativamente corta a una temperatura considerablemente alta, por lo que requiere unos pasos de preparación previos si no queremos fastidiar el resultado final. Es imprescindible dejar todo preparado y cortado para que el tiempo de cocción esté controlado. Otra cuestión a tener en cuenta es el tamaño de la sartén que vayamos a usar, ya que necesitamos que sea relativamente grande para que todo lo que hay en ella pueda estar en contacto con la superficie y así dorarse adecuadamente.</p>
-<p dir="ltr">También vamos a aprender cómo cocinar pechuga de <a href="//elcomidista.elpais.com/r/elcomidista/tag/carne_pollo/a">pollo</a> sin que quede con textura de suela de zapato. Marinar alimentos -proteínas, concretamente- no solo trata de aportar sabor: también consiste en mejorar texturas. La mezcla de almidón de maíz -o fécula de patata- junto al aceite de oliva y la sal sirve para crear una fina capa que ayuda a retener humedad, de modo que facilitará el obtener una pechuga jugosa. No obstante, esto no te salvará si dejas tu pollo cocinándose indefinidamente: para cocciones algo más largas, trata de buscar partes de carne más oscura, como la del contramuslo.</p>
-<p dir="ltr">Respecto a la duración de la cocción de las verduras, personalmente me gustan casi crudas, y considero que el vapor de la cocción y el propio calor residual que quede en el salteado es todo lo que necesitan. Sobre la elección de <a href="//elcomidista.elpais.com/r/elcomidista/tag/especias/a">especias</a> podéis experimentar con lo que tengáis en la despensa: en mi caso la combinación curry, comino, ajo y pimentón satisface los pecados capitales de gula y pereza.</p>
-<p dir="ltr"><strong>Dificultad</strong></p>
-<p dir="ltr">Manejar bien los tiempos y tenerlo todo preparado para que las verduras no queden blandurrias.</p>
-<p dir="ltr"><strong>Ingredientes</strong></p>
-<p dir="ltr">Para 2 personas</p>
-<p dir="ltr"><em>Para el pollo</em></p>
-<ul class="en_contenido"><li>300 g de pechuga de pollo</li><li>Una cucharadita de curry en polvo</li><li>Media cucharadita de comino en polvo</li><li>Una cucharada de aceite de oliva</li><li>2 cucharadas de almidón de maíz o fécula de patata</li><li>Sal al gusto</li></ul>
-<p dir="ltr"><em>Para el salteado</em></p>
-<ul class="en_contenido"><li>El pollo marinado</li><li>80 g de pimiento rojo</li><li>100 g de brócoli (flores por una parte y tronco por otra)</li><li>Una cebolla morada pequeña</li><li>4 dientes de ajo</li><li>Una cucharadita de jengibre fresco</li><li>Una cucharadita de pimentón dulce</li><li>Una cucharadita de comino molido</li><li>Una cucharadita de curry en polvo</li><li>1,5 cucharadas de mantequilla</li><li>½ cucharada de aceite de oliva</li><li>Sal al gusto</li></ul>
-<p dir="ltr"><strong>Preparación</strong></p>
-<ol><li dir="ltr">
-<p dir="ltr">Cortar la pechuga en dados de unos 1,5 o dos centímetros de grosor y marinarla con el curry, el comino, el almidón de maíz o fécula de patata, el aceite de oliva y la sal mientras cortamos las verduras.</p></li><li dir="ltr">
-<p dir="ltr">Cortar el pimiento rojo, la cebolla y el brócoli de forma que tengan más o menos el mismo tamaño.</p></li><li dir="ltr">
-<p dir="ltr">Majar los dientes de ajo con el jengibre, el pimentón, el comino, el curry y un poco de sal hasta que formen una pasta.</p></li><li dir="ltr">
-<p dir="ltr">Calentar la mantequilla en una sartén a fuego alto y añadir el pollo. Repartir bien y dejar que se dore sin remover. Cuando esté bien marcado por una sola cara, remover 10 segundos y retiramos de la sartén.</p></li><li dir="ltr">
-<p dir="ltr">Añadir el aceite junto a la mantequilla que queda en la sartén y saltear la pasta de ajos a fuego medio hasta que huela.</p></li><li dir="ltr">
-<p dir="ltr">Subir el fuego a alto y añadir el pollo y las verduras. Remover para que se impregne todo de la pasta de ajos. Repartir por toda la sartén y cocinar sin mover 15 segundos. Remover otros 10 segundos y servir.</p></li></ol>
-<p><em>Si haces esta receta, comparte el resultado en tus redes sociales con la etiqueta #RecetasComidista. Y si te sale mal, quéjate a la Defensora del Cocinero enviando un mail a <a href="mailto:defensoracomidista@gmail.com">defensoracomidista@gmail.com</a>.</em></p>
-</div>
-<div class="barra_compartir estirar">
-<ul class="redes estirar" id="compartir_social_inferior">
-<li class="facebook"><button id="inferior_fb" class="boton estirar"><span class="ico">Compartir en Facebook</span> <span class="contador" id="fbnuminferior_"></span></button></li>
-<li class="twitter"><button id="inferior_twit" class="boton estirar"><span class="ico">Compartir en Twiter</span> <span class="contador" id="tnuminferior_"></span></button></li>
-<li class="pinterest"><button id="inferior_pinit" class="boton estirar"><span class="ico">Compartir en Pinterest</span><span id="pnuminferior_" class="contador"></span></button></li>
-<li class="mas"><button class="boton boton_capa_mas" id="boton_capa_mas_inferior">Compartir en otras redes</button>
-<div class="capa capa_mas estirar" id="capa_mas_inferior"> <button class="boton cerrar" id="cerrar_capa_mas_inferior">Cerrar</button>
-<ul class="estirar">
-<li class="googleplus"><button id="inferior_gp" class="boton estirar"><span class="ico">Google Plus</span></button></li>
-<li class="linkedin"><button id="inferior_linkedin" class="boton estirar"><span class="ico">LinkedIn</span></button></li>
-</ul>
-</div>
-</li>
-</ul>
-<ul class="varios estirar" >
-<li class="comentarios " id="li_comentarios_noticia_inferior_1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5"><a href="#bloque_comentarios" class="boton estirar" title="Ver comentarios"  id="enlace_num_comentarios_header_inferior_1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5"><span class="ico">Comentar</span> <span class="contador" id="num_comentarios_header_inferior_1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5"></span> </a></li>
-<li class="imprimir"><a id='inferior_bomn_imprimir' href="javascript:print();" class="boton">Imprimir</a></li>
-<li class="enviar_correo" id="enviar_correo_inferior"><button class="boton boton_enviar_correo"   >Enviar por correo</button></li>
-<script>
-    
-    new EPETTwitter ( document.getElementById('inferior_twit'), document.getElementById('tnuminferior_'), params );
-    new EPETFacebook ( document.getElementById('inferior_fb'), document.getElementById('fbnuminferior_'), params );
-    new EPETGooglePlus ( document.getElementById('inferior_gp'), params );
-    new EPETLinkedin ( document.getElementById('inferior_linkedin'), params );
-    new EPETPinterest ( document.getElementById('inferior_pinit'), document.getElementById('pnuminferior_'), params );
-</script>
-</ul>
-</div>
-</div> 
-<div class="enlaces_abajo estirar">
-<section class="enlaces">
-<p class="sigue_leyendo">Sigue leyendo</p>
-<ul class="listado_enlaces">
-<li class="confoto">
-<figure itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject" class="foto">
-<meta itemprop="url" content="https://ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541930_noticiarelacionadaprincipal_normal.jpg">
-<a href="//elcomidista.elpais.com/elcomidista/2020/04/21/receta/1587490595_611218.html" title="">
-<img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648541930_noticiarelacionadaprincipal_normal.jpg" alt="" title="">
-<meta itemprop="width" content="486">
-<meta itemprop="height" content="347">
-</a>
-</figure>
-<a href="//elcomidista.elpais.com/elcomidista/2020/04/21/receta/1587490595_611218.html"  >VERDURAS SALTEADAS EN CINCO MINUTOS </a>			</li>
-<li class="confoto">
-<figure itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject" class="foto">
-<meta itemprop="url" content="https://ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648542176_noticiarelacionadaprincipal_normal.jpg">
-<a href="//elcomidista.elpais.com/elcomidista/2022/03/21/receta/1647870193_696014.html" title="">
-<img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/imagenes/2022/03/29/receta/1648541175_113670_1648542176_noticiarelacionadaprincipal_normal.jpg" alt="" title="">
-<meta itemprop="width" content="486">
-<meta itemprop="height" content="347">
-</a>
-</figure>
-<a href="//elcomidista.elpais.com/elcomidista/2022/03/21/receta/1647870193_696014.html"  >GUISANTES CON JAMÓN: UNA RECETA FÁCIL PARA PRINCIPIANTES </a>			</li>
-</ul>
-</section>
-</div>
-<div class="barra_etiquetas estirar">
-<p class="archivado_en">Archivado en:</p>
-<div class="contenedor_listado_etiquetas desplegado" id="contenedorLista2041">
-<ul class="listado_etiquetas estirar">
-<li><a href="/r/elcomidista/tag/cocina_muy_facil/a/" title="Ver m&aacute;s [Cocina muy fácil]">Cocina muy fácil</a></li>
-<li><a href="/r/elcomidista/tag/segundos_platos/a/" title="Ver m&aacute;s [Segundos]">Segundos</a></li>
-<li><a href="/r/elcomidista/tag/pollo/a/" title="Ver m&aacute;s [Pollo (carnes)]">Pollo (carnes)</a></li>
-<li><a href="/r/elcomidista/tag/verduras/a/" title="Ver m&aacute;s [Verduras]">Verduras</a></li>
-<li><a href="/r/elcomidista/tag/recetas_cocina/a/" title="Ver m&aacute;s [Recetas cocina]">Recetas cocina</a></li>
-<li><a href="/r/elcomidista/tag/ingredientes_recetas/a/" title="Ver m&aacute;s [Ingredientes recetas]">Ingredientes recetas</a></li>
-<li><a href="/r/elcomidista/tag/gastronomia/a/" title="Ver m&aacute;s [Gastronomía]">Gastronomía</a></li>
-</ul>
-</div> 
-</div> 
-</article>
-</main>
-<aside class="secundaria" itemscope itemtype="https://www.schema.org/WPSidebar">
-<section class="bloque">
-<h3 itemprop="name" class="encabezado"><span class="sin_enlace">COSAS QUE DEBERÍAS LEER</span></h3>
-<article id="elcomidista-receta-1670847233_636231" class="articulo " itemtype="https://schema.org/Recipe" itemref="organizacion" itemscope="" data-vr-contentbox="">
-<div class="interior estirar">
-<figure class="foto" itemtype="https://schema.org/ImageObject" itemscope itemprop="image">
-<a title="" href="/elcomidista/2022/12/12/receta/1670847233_636231.html">
-<img title="" alt="" onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/imagenes/2022/12/12/receta/1670847233_636231_1670847921_miniatura_normal.jpg">
-<meta itemprop="width" content="486">
-<meta itemprop="height" content="347">
-<meta content="https://ep01.epimg.net/elcomidista/imagenes/2022/12/12/receta/1670847233_636231_1670847921_miniatura_normal.jpg" itemprop="url">
-</a>
-</figure>
-<div class="antetitulo">
-<a href="//elcomidista.elpais.com/r/elcomidista/tag/portugal/a" class="enlace">Menos mal que nos queda Portugal</a>
-</div>
-<h2 itemprop="name headline" class="titulo"><a itemprop="url" href="/elcomidista/2022/12/12/receta/1670847233_636231.html">Salame de chocolate: un dulce para preparar en familia</a></h2>
-<div class="barra_meta">
-<meta content="2022-12-27T16:04:54+01:00" itemprop="datePublished">
-<span class="autor" itemprop="author"  itemscope="" itemtype="https://schema.org/Person">
-<meta itemprop="url" content="/autor/miriam_garcia_martinez/a/"/>
-<a href="/autor/miriam_garcia_martinez/a/" class="autor" title="Ver todas las noticias de Miriam García" itemprop="url">
-<span itemprop="name">Miriam García</span>
-</a>
-</span>
-<time datetime="2022-12-27T16:04:54+01:00" itemprop="dateModified" class="actualizado">
-<a href="/r/elcomidista/tag/fecha/20221227" title="Ver todas las noticias de esta fecha">27/12/2022</a>
-</time>
-</div>
-</div>  
-</article>
-<article id="elcomidista-articulo-1670264080_958880" class="articulo " itemtype="https://schema.org/Article" itemref="organizacion" itemscope="" data-vr-contentbox="">
-<div class="interior estirar">
-<figure class="foto" itemtype="https://schema.org/ImageObject" itemscope itemprop="image">
-<a title="" href="/elcomidista/2022/12/05/articulo/1670264080_958880.html">
-<img title="" alt="" onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/imagenes/2022/12/05/articulo/1670264080_958880_1670318351_miniatura_normal.jpg">
-<meta itemprop="width" content="486">
-<meta itemprop="height" content="347">
-<meta content="https://ep01.epimg.net/elcomidista/imagenes/2022/12/05/articulo/1670264080_958880_1670318351_miniatura_normal.jpg" itemprop="url">
-</a>
-</figure>
-<div class="antetitulo">
-<a href="//elcomidista.elpais.com/r/elcomidista/tag/dulces_navidad/" class="enlace">Historias navideñas</a>
-</div>
-<h2 itemprop="name headline" class="titulo"><a itemprop="url" href="/elcomidista/2022/12/05/articulo/1670264080_958880.html">De la Colchona a las ‘mantecaeras’: las mujeres de los mantecados de Estepa</a></h2>
-<div class="barra_meta">
-<meta content="2022-12-29T16:06:45+01:00" itemprop="datePublished">
-<span class="autor" itemprop="author"  itemscope="" itemtype="https://schema.org/Person">
-<meta itemprop="url" content="/autor/carlos_doncel_moriano_valencia/a/"/>
-<a href="/autor/carlos_doncel_moriano_valencia/a/" class="autor" title="Ver todas las noticias de Carlos Doncel" itemprop="url">
-<span itemprop="name">Carlos Doncel</span>
-</a>
-</span>
-<time datetime="2022-12-29T16:06:45+01:00" itemprop="dateModified" class="actualizado">
-<a href="/r/elcomidista/tag/fecha/20221229" title="Ver todas las noticias de esta fecha">29/12/2022</a>
-</time>
-</div>
-</div>  
-</article>
-<div class="bloque_newsletter">
-<div class="interior">
-<img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/iconos/v1.x/v1.0/varios/destacado_newsletter.png" alt="Icono El comidista" width="58" height="56">
-<div class="texto">
-<p>Recibe nuestra newsletter</p>
-<p class="llamada_accion"><a href="https://plus.elpais.com/newsletters/lnp/1/320/?prm=not_landingnwl_comid">Apúntate <strong>aquí</strong></a></p>
-</div>
-</div>
-</div>
-<div class="envoltorio_publi estirar">
-<div id='elpais_gpt-MPU1' class='publi_luto_horizontal'>
-<script type='text/javascript'>
-			PBS.display('MPU1');
-		</script>
-</div>
-</div>
-<article id="elcomidista-articulo-1671125450_329186" class="articulo " itemtype="https://schema.org/Article" itemref="organizacion" itemscope="" data-vr-contentbox="">
-<div class="interior estirar">
-<figure class="foto" itemtype="https://schema.org/ImageObject" itemscope itemprop="image">
-<a title="" href="/elcomidista/2022/12/15/articulo/1671125450_329186.html">
-<img title="" alt="" onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/imagenes/2022/12/15/articulo/1671125450_329186_1671211918_miniatura_normal.jpg">
-<meta itemprop="width" content="486">
-<meta itemprop="height" content="347">
-<meta content="https://ep01.epimg.net/elcomidista/imagenes/2022/12/15/articulo/1671125450_329186_1671211918_miniatura_normal.jpg" itemprop="url">
-</a>
-</figure>
-<div class="antetitulo">
-<a href="//elcomidista.elpais.com/r/elcomidista/tag/2022/a/" class="enlace">UN AÑO MOVIDITO</a>
-</div>
-<h2 itemprop="name headline" class="titulo"><a itemprop="url" href="/elcomidista/2022/12/15/articulo/1671125450_329186.html">Lo peor de 2022 en comida (y algunos buenos virales)</a></h2>
-<div class="barra_meta">
-<meta content="2022-12-28T16:06:20+01:00" itemprop="datePublished">
-<span class="autor" itemprop="author"  itemscope="" itemtype="https://schema.org/Person">
-<meta itemprop="url" content="/autor/monica_escudero/a/"/>
-<a href="/autor/monica_escudero/a/" class="autor" title="Ver todas las noticias de Mònica Escudero" itemprop="url">
-<span itemprop="name">Mònica Escudero</span>
-</a>
-</span>
-/ 
-<span class="autor" itemprop="author"  itemscope="" itemtype="https://schema.org/Person">
-<meta itemprop="url" content="/autor/mikel_lopez_iturriaga/a/"/>
-<a href="/autor/mikel_lopez_iturriaga/a/" class="autor" title="Ver todas las noticias de Mikel López Iturriaga" itemprop="url">
-<span itemprop="name">Mikel López Iturriaga</span>
-</a>
-</span>
-<time datetime="2022-12-28T16:06:20+01:00" itemprop="dateModified" class="actualizado">
-<a href="/r/elcomidista/tag/fecha/20221228" title="Ver todas las noticias de esta fecha">28/12/2022</a>
-</time>
-</div>
-</div>  
-</article>
-<article id="elcomidista-articulo-1668598305_587349" class="articulo " itemtype="https://schema.org/Article" itemref="organizacion" itemscope="" data-vr-contentbox="">
-<div class="interior estirar">
-<figure class="foto" itemtype="https://schema.org/ImageObject" itemscope itemprop="image">
-<a title="" href="/elcomidista/2022/11/16/articulo/1668598305_587349.html">
-<img title="" alt="" onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/imagenes/2022/11/16/articulo/1668598305_587349_1668697464_miniatura_normal.jpg">
-<meta itemprop="width" content="486">
-<meta itemprop="height" content="347">
-<meta content="https://ep01.epimg.net/elcomidista/imagenes/2022/11/16/articulo/1668598305_587349_1668697464_miniatura_normal.jpg" itemprop="url">
-</a>
-</figure>
-<div class="antetitulo">
-<a href="//elcomidista.elpais.com/agr/pataletas/a" class="enlace">Pataletas</a>
-</div>
-<h2 itemprop="name headline" class="titulo"><a itemprop="url" href="/elcomidista/2022/11/16/articulo/1668598305_587349.html">Aceite de trufa: el ingrediente más odiado de la gastronomía actual</a></h2>
-<div class="barra_meta">
-<meta content="2022-12-25T17:42:29+01:00" itemprop="datePublished">
-<span class="autor" itemprop="author"  itemscope="" itemtype="https://schema.org/Person">
-<meta itemprop="url" content="/autor/david_remartinez_martinez/a/"/>
-<a href="/autor/david_remartinez_martinez/a/" class="autor" title="Ver todas las noticias de David Remartínez" itemprop="url">
-<span itemprop="name">David Remartínez</span>
-</a>
-</span>
-<time datetime="2022-12-25T17:42:29+01:00" itemprop="dateModified" class="actualizado">
-<a href="/r/elcomidista/tag/fecha/20221225" title="Ver todas las noticias de esta fecha">25/12/2022</a>
-</time>
-</div>
-</div>  
-</article>
-</section> 
-</aside>
-<script language="javaScript" type="text/javascript" src="//ep01.epimg.net/js/comun/ll/lazyload.20130319.min.js"></script>
-<script language="javaScript">
-
-var _urlThreadeskup        = '/Threadeskup';
-var _urlThreadeskupSimple  = '/ThreadeskupSimple';
-
-function EPET_obtenerYPintarNumComentarios(idComentariosNoticia) {
-
-    EPETUtils_makeHttpRequestGet(function(httpRequest) {
-
-        var _numeroComentariosNoticia = -1;
-
-        if (httpRequest.status != 200) {
-            // ante un error, no pintamos nada
-        } else {
-
-            var _hashTMP = Array();
-            var data = httpRequest.responseText;
-
-            eval("_hashTMP = " + data);
-
-            // Se obtiene el numero de mensajes del hilo
-            if (typeof _hashTMP.perfilesHilos != "undefined" &&
-                typeof _hashTMP.perfilesHilos['_' + idComentariosNoticia] != "undefined" &&
-                typeof _hashTMP.perfilesHilos['_' + idComentariosNoticia].numero_mensajes != "undefined") {
-
-                _numeroComentariosNoticia = _hashTMP.perfilesHilos['_' + idComentariosNoticia].numero_mensajes;
-
+            },
+            "editor": {
+                "@type": "Person",
+                "name": "Alejandro González Vizuete"
+            },
+            "publisher": {
+                "@type": "NewsMediaOrganization",
+                "name": "20minutos",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.20minutos.es/static/images/logo_20m.png",
+                    "width": 600,
+                    "height": 60
+                }
             }
+
         }
+        </script><script src="https://www.20minutos.es/static/js/breaking-news.js?1671014775" type="text/javascript"></script><script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" async="true"></script><script src="https://www.20minutos.es/static/js/04247d0.js?1671014775" type="text/javascript"></script><script type="text/javascript">
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
 
-        EPET_pintaNumComentarios(idComentariosNoticia, _numeroComentariosNoticia);
+        }(document.createElement('script'), document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/henneonetwork-20minutos/loader.js');
+    </script>                  <link rel="icon" type="image/png" href="https://www.20minutos.es/uploads/icons/favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.20minutos.es/uploads/icons/apple-touch-icon-180x180.png">
+<meta name="msapplication-TileColor" content="#0b419b">
+<meta name="msapplication-square150x150logo" content="https://www.20minutos.es/uploads/icons/icon_mediumtile.png">
+<meta name="theme-color" content="#0b419b">  
+            <!-- Google Tag Manager --><script>
+        window.addEventListener('DOMContentLoaded', () => {
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-T7GD96G')
+            });</script><!-- End Google Tag Manager --><script type="application/javascript">
+        var page_type = "opinion";
+                var page_id = "5085640";
+                var base_url = "https://www.20minutos.es";
+    </script><link rel="preload" as="font" href="https://www.20minutos.es/static/bundles/veinteminutoscms/fonts/SourceSerifPro-Regular.woff2" crossorigin><link rel="preload" as="font" href="https://www.20minutos.es/static/bundles/veinteminutoscms/fonts/SourceSerifPro-Bold.woff2" crossorigin><link rel="preload" as="font" href="https://www.20minutos.es/static/bundles/veinteminutoscms/fonts/SourceSerifPro-SemiBold.woff2" crossorigin><link rel="preload" as="font" href="https://www.20minutos.es/static/bundles/veinteminutoscms/fonts/SourceSerifPro-SemiBoldIt.woff2" crossorigin><link rel="preload" as="font" href="https://www.20minutos.es/static/bundles/veinteminutoscms/fonts/SourceSerifPro-Black.woff2" crossorigin><link rel="preload" as="font" href="https://www.20minutos.es/static/bundles/veinteminutoscms/fonts/Roboto-Regular.woff2" crossorigin><link rel="preload" as="font" href="https://www.20minutos.es/static/bundles/veinteminutoscms/fonts/Roboto-Bold.woff2" crossorigin><link rel="preload" as="font" href="https://www.20minutos.es/static/bundles/veinteminutoscms/fonts/multimedia-icons.woff2?17022022" crossorigin>    </head>
+    <body         
+    class=""
+>
+                      <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7GD96G"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
-    }, _urlThreadeskupSimple + "?action=info&th=" + idComentariosNoticia);
+      <!-- comScore Tag -->
+  <script type="text/javascript">
 
-}
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiOnReady.push(() => {
+      window._comscore = window._comscore || [];
+      window._comscore.push({c1: "2", c2: "8189131"});
+      (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = "https://sb.scorecardresearch.com/cs/8189131/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
 
-function EPET_pintaNumComentarios(idComentariosNoticia, _numeroComentariosNoticia) {
+    });
 
-    var _objDivNumComentariosWidget = document.getElementById('num_comentarios_noticia_' + idComentariosNoticia);
-    if (_objDivNumComentariosWidget) {
-        if (_numeroComentariosNoticia < 1) {
-            _objDivNumComentariosWidget.innerHTML = "";
-        } else {
-            _objDivNumComentariosWidget.innerHTML = '<span class="ico"></span><span id="eskup_num" class="contador">' + _numeroComentariosNoticia + '</span>  comentario';
-             if (_numeroComentariosNoticia > 1) {
-                 _objDivNumComentariosWidget.innerHTML += 's';
-            }
-        }
-    }
+  </script>
+  <noscript>
+    <img loading="lazy" src="https://sb.scorecardresearch.com/p?c1=2&c2=8189131&cs_ucfr=0&cv=3.6&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
 
-    var _objDivNumComentariosFirma  = document.getElementById('num_comentarios_header_superior_' + idComentariosNoticia);
-    var _objLiNumComentariosFirma   = document.getElementById('li_comentarios_noticia_superior_' + idComentariosNoticia);
-    if (_objDivNumComentariosFirma) {
-        if (_numeroComentariosNoticia < 1) {
-            _objDivNumComentariosFirma.innerHTML = " ";
-        } else {
-            _objDivNumComentariosFirma.innerHTML = _numeroComentariosNoticia;
-            _objDivNumComentariosFirma.style.display = "inline-block";
-            _objLiNumComentariosFirma.style.display = "inline-block";
-        }
-    }
 
-    var _objDivNumComentariosFirmaInferior  = document.getElementById('num_comentarios_header_inferior_' + idComentariosNoticia);
-    var _objLiNumComentariosFirmaInferior   = document.getElementById('li_comentarios_noticia_inferior_' + idComentariosNoticia);
-    if (_objDivNumComentariosFirmaInferior) {
-        if (_numeroComentariosNoticia < 1) {
-            _objDivNumComentariosFirmaInferior.innerHTML = " ";
-        } else {
-            _objDivNumComentariosFirmaInferior.innerHTML = _numeroComentariosNoticia;
-            _objDivNumComentariosFirmaInferior.style.display = "inline-block";
-            _objLiNumComentariosFirmaInferior.style.display = "inline-block";
-        }
-    }
-
-}
-
-var _idComentariosNoticia = '1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5';
-EPET_obtenerYPintarNumComentarios(_idComentariosNoticia);
-
-</script>
-<section id="bloque_comentarios" class="bloque_comentarios">
-<div class="encabezado estirar">
-<h4>Comentar
-<a class="normas_comentarios" target="_blank" href="//elpais.com/estaticos/normas-de-participacion/">Normas</a>
-</h4>
-<a href="http://eskup.elpais.com" class="logo_eskup" title="Ir a Eskup" style="display: none;"></a>
-<div class="contador" id="num_comentarios_noticia_1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5"><span class="numero"></span></div>
+            
+<div id="axds-x01" class="axds">
+  <div id="x01" class="henneoHB"></div>
 </div>
-<div class="registro estirar" id="articulo-comentarios-form">
-<div id="botones_suscripcion" class="formulario formulario_comentarios-suscripcion-necesaria">
-<button id="boton_suscripcion_new" class="boton_suscripcion-necesaria"><a href="https://suscripciones.elpais.com/?prm=suscrip_comentarios_ep.com"> Suscríbete en EL PAÍS para participar </a></button>
-<a id="boton_suscripcion_login" class="enlace_suscripcion-necesaria" href="https://elpais.com/subscriptions/#/sign-in?prod=ELCOMIDISTA&o=COM&backURL=https%3A%2F%2Felcomidista.elpais.com%2Felcomidista%2F2022%2F03%2F29%2Freceta%2F1648541175_113670.html">Ya tengo una suscripción</a>
+
+
+    
+                        
+<div id="axds-Skyscraper">
+  <div id="x31" class="henneoHB"></div>
+  <div id="x41" class="henneoHB"></div>
 </div>
+
+
+            
+            <header class="header-main "><div id="ui-header-land" class="header-scroll-wrapper" style=""><div class="header-primary"><div id="ui-toggle-menu" class="menu"><a><svg class="ui-unfold-menu icon-bars"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-bars"></use></svg><svg class="ui-unfold-menu icon-times" style="display:none"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-times"></use></svg></a></div><div class="logo"><a href="https://www.20minutos.es/"><img alt="Logo del sitio" src="https://www.20minutos.es/static/images/logo-horizontal-20m.svg?04042022" width="130" height="40" class="noLazyImage"></a></div><div class="category-title"><a itemprop="url"  href="https://www.20minutos.es/nacional/"><span>Nacional</span></a></div><div class="search-user"><ul><li class="user" id="ui_circle_user"><svg class="icon-member trk-cabecera-user" id="ui_fake_user"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-member"></use></svg></li></ul></div><div id="ui_menu_user" class="unfold-menu menu-user" data-effect="slide" style="display: none;"><svg class="ui-icon-close icon-close" id=""><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-times"></use></svg><ul><li><a href="#" class="loginGigya bttn trk-cabecera-entrar"><span>Entrar</span></a></li><li><a href="#" class="registerGigya bttn trk-cabecera-registarse"><span>Registrarse</span></a></li></ul></div><div id="ui_logged_menu_user" class="unfold-menu menu-user" data-effect="slide" style="display: none;"><svg class="ui-icon-close icon-close" id=""><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-times"></use></svg><ul><li><a href="#" class="profileGigya bttn"><span>Mi Perfil</span></a></li><li><a href="#" class="logoutGigya bttn"><span>Salir</span></a></li></ul></div><div id="ui-primary-sub-menu" class="unfold-menu primary-sub-menu hide"><div class="menu-search"><form method="get" action="https://www.20minutos.es/busqueda/"><input type="text" name="q" placeholder="¿Qué estás buscando?" onsubmit="onSearchSubmit(this);"><a class="submit-action" title="Buscar" onclick="jQuery(this).parent().submit(); return false;"><svg class="icon-search"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-search"></use></svg></a><a class="show-advance" onclick="jQuery(this).parent().find($('.search-advance')).toggle('slide');">Buscador avanzado <svg class="icon-arrow-down"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-arrow-down"></use></svg></a><div class="search-advance" style="display: none;"><fieldset><select title="Busqueda fecha/relevancia" id="busqueda-fecha" onchange="" name="sort_field"><option value>Ordenar por</option><option value="publishedAt">Fecha</option><option value="score">Relevancia</option></select></fieldset><fieldset><select title="Busqueda sección" id="busqueda-seccion" name="category" onchange=""><option value>Sección</option><option value="actualidad">Actualidad</option><option value="branded-content">Branded Content</option><option value="ciencia">Ciencia</option><option value="ciudades">Ciudades</option><option value="cultura">Cultura</option><option value="deportes">Deportes</option><option value="gastronomia">Gastronomía</option><option value="gente">Gente</option><option value="gonzoo">Gonzoo</option><option value="loterias">Lotería</option><option value="medio-ambiente">Medio Ambiente</option><option value="motor">Motor</option><option value="salud">Salud</option><option value="tecnologia">Tecnología</option><option value="television">Televisión</option><option value="viajes">Viajes</option><option value="videojuegos">Videojuegos</option><option value="zona-20">Zona 20</option><option value="paginas-libres">Más información</option><option value="noticias-positivas">Noticias positivas</option><option value="cinemania">Cinemanía</option><option value="especiales">Especiales</option><option value="mujer">Mujer</option><option value="capaces">Capaces</option><option value="comunicacion">Comunicación</option></select></fieldset><fieldset><label>Desde:</label><input type="date" name="publishedAt[from]" step="1" placeholder="Desde"></fieldset><fieldset><label>Hasta:</label><input type="date" name="publishedAt[until]" step="1" placeholder="Hasta"></fieldset><fieldset><label class="input-check"><input type="checkbox" id="1" name="articleTypes[]" value="default"><span class="checkmark"></span><span class="text-check">Artículo</span></label><label class="input-check"><input type="checkbox" id="2" name="articleTypes[]" value="galeria"><span class="checkmark"></span><span class="text-check">Galería</span></label><label class="input-check"><input type="checkbox" id="3" name="articleTypes[]" value="video"><span class="checkmark"></span><span class="text-check">Vídeo</span></label></fieldset></div></form></div><div class="sub-menu-row"><nav itemscope itemtype="http://www.schema.org/SiteNavigationElement"><div class="sub-menu-block sub-menu-sections"><h2>Secciones</h2><div class="sections-col"><ul class="default-secciones-menu"><li class="madrid no-expandable first" itemprop="name"><a href="https://www.20minutos.es/madrid/" itemprop="url"><span>Madrid</span></a></li><li class="cataluna no-expandable" itemprop="name"><a href="https://www.20minutos.es/cataluna/" itemprop="url"><span>Catalu&ntilde;a</span></a></li><li class="comunidad-valenciana no-expandable" itemprop="name"><a href="https://www.20minutos.es/comunidad-valenciana/" itemprop="url"><span>C. Valenciana</span></a></li><li class="andalucia no-expandable" itemprop="name"><a href="https://www.20minutos.es/andalucia/" itemprop="url"><span>Andaluc&iacute;a</span></a></li><li class="nacional no-expandable" itemprop="name"><a href="https://www.20minutos.es/nacional/" itemprop="url"><span>Nacional</span></a></li><li class="internacional no-expandable" itemprop="name"><a href="https://www.20minutos.es/internacional/" itemprop="url"><span>Internacional</span></a></li><li class="deportes no-expandable" itemprop="name"><a href="https://www.20minutos.es/deportes/" itemprop="url"><span>Deportes</span></a></li><li class="cultura no-expandable" itemprop="name"><a href="https://www.20minutos.es/cultura/" itemprop="url"><span>Cultura</span></a></li><li class="link no-expandable" itemprop="name"><a href="https://www.20minutos.es/minuteca/opinion/" itemprop="url"><span>Opini&oacute;n</span></a></li><li class="gente no-expandable" itemprop="name"><a href="https://www.20minutos.es/gente/" itemprop="url"><span>Gente</span></a></li><li class="cinemania no-expandable" itemprop="name"><a href="https://www.20minutos.es/cinemania/" itemprop="url"><span>Cineman&iacute;a</span></a></li><li class="economia no-expandable" itemprop="name"><a href="https://www.20minutos.es/economia/" itemprop="url"><span>Econom&iacute;a</span></a></li><li class="television no-expandable" itemprop="name"><a href="https://www.20minutos.es/television/" itemprop="url"><span>TV</span></a></li><li class="salud no-expandable" itemprop="name"><a href="https://www.20minutos.es/salud/" itemprop="url"><span>Salud</span></a></li><li class="viajes no-expandable" itemprop="name"><a href="https://www.20minutos.es/viajes/" itemprop="url"><span>Viajes</span></a></li><li class="motor no-expandable" itemprop="name"><a href="https://www.20minutos.es/motor/" itemprop="url"><span>Motor</span></a></li><li class="ciencia no-expandable" itemprop="name"><a href="https://www.20minutos.es/ciencia/" itemprop="url"><span>Ciencia</span></a></li><li class="vivienda no-expandable" itemprop="name"><a href="https://www.20minutos.es/vivienda/" itemprop="url"><span>Vivienda</span></a></li><li class="capaces no-expandable" itemprop="name"><a href="https://www.20minutos.es/capaces/" itemprop="url"><span>Capaces</span></a></li><li class="tecnologia no-expandable" itemprop="name"><a href="https://www.20minutos.es/tecnologia/" itemprop="url"><span>Tecnolog&iacute;a</span></a></li><li class="gonzoo no-expandable" itemprop="name"><a href="https://www.20minutos.es/gonzoo/" itemprop="url"><span>Gonzoo</span></a></li><li class="gastronomia no-expandable" itemprop="name"><a href="https://www.20minutos.es/gastronomia/" itemprop="url"><span>Gastro</span></a></li><li class="link no-expandable" itemprop="name"><a href="https://www.20minutos.es/animaleros/" itemprop="url"><span>Animaleros</span></a></li><li class="link no-expandable last" itemprop="name"><a href="https://www.20minutos.es/mujer/" itemprop="url"><span>Mujer</span></a></li></ul></div></div><div class="sub-menu-block sub-menu-services"><h2>Servicios</h2><ul class="default-services-menu"><li class="bt-compras link external no-expandable first" itemprop="name"><a href="https://www.20minutos.es/minuteca/20decompras/" target="_blank" itemprop="url"><span>20deCompras</span></a></li><li class="bt-horoscopo link no-expandable" itemprop="name"><a href="https://www.20minutos.es/horoscopo/" itemprop="url"><span>Hor&oacute;scopo</span></a></li><li class="bt-blogs link no-expandable" itemprop="name"><a href="https://www.20minutos.es/blogs_opinion/" itemprop="url"><span>Blogs</span></a></li><li class="bt-fotos link no-expandable" itemprop="name"><a href="https://www.20minutos.es/fotos/" itemprop="url"><span>Fotos</span></a></li><li class="bt-videos link no-expandable last" itemprop="name"><a href="https://www.20minutos.es/videos/" itemprop="url"><span>V&iacute;deos</span></a></li></ul><ul class="default-marketplace-menu"><li class="juegos link external no-expandable first" itemprop="name"><a href="https://www.minijuegos.com/" target="_blank" itemprop="url"><span>Minijuegos</span></a></li><li class="citiservi link external no-expandable" itemprop="name"><a href="https://servicios.20minutos.es/" target="_blank" itemprop="url"><span>Gu&iacute;a Local</span></a></li><li class="descuentos link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/codigo-descuento" target="_blank" itemprop="url"><span>C&oacute;digos descuento</span></a></li><li class="finanzas link no-expandable last" itemprop="name"><a href="https://www.20minutos.es/servicios/productos-financieros/" itemprop="url"><span>Prod. Financieros</span></a></li></ul></div><div class="sub-menu-block sub-menu-edition"><h2>Ediciones</h2><nav itemscope itemtype="http://www.schema.org/SiteNavigationElement"><ul><li itemprop="name" class="selected"><a itemprop="url" href="https://www.20minutos.es/set_edition/es/">España</a></li><li itemprop="name" class=""><a itemprop="url" href="https://www.20minutos.es/set_edition/cat/">Cataluña</a></li><li itemprop="name" class=""><a itemprop="url" href="https://www.20minutos.es/set_edition/mad/">Madrid</a></li></ul></nav></div><div class="sub-menu-block sub-menu-foryou"><h2>Para ti</h2><ul><li><a href="#" class="loginGigya bttn trk-cabecera-entrar"><span>Entrar</span></a></li><li><a href="#" class="registerGigya bttn trk-cabecera-registarse"><span>Registrarse</span></a></li></ul><div class="newsletter-link"><a href="https://www.20minutos.es/estaticos/home-newsletters/" alt="Newsletters">
+                            Newsletters
+                        </a></div></div><div class="sub-menu-block sub-menu-cover"><h2>Portada 20M</h2><div class="cover-img"><a href="https://www.20minutos.es/edicion_impresa/ver/madrid/2023/01/09/"><img src="https://cdn.20m.es/edicionimpresa/madrid/23/01/PORTADA_MADR_09_01_23.jpg" width="187" height="226" loading="lazy" /></a></div><div class="subscribe-btn">
+                        Recibe la edición en PDF</br><a href="https://www.20minutos.es/estaticos/edicion-impresa/">
+                            en tu correo
+                        </a></div></div></nav></div><div class="sub-menu-block sub-menu-topics"><div>Temas del día <i class="fal fa-angle-right"></i></div><ul class="default-topics-menu"><li class="link no-expandable first" itemprop="name"><a href="https://www.20minutos.es/noticia/5089813/0/loteria-del-nino-2023-directo-ultima-hora-numeros-premios-extraciones-reintegros/" itemprop="url"><span>Loter&iacute;a del Ni&ntilde;o</span></a></li><li class="link no-expandable" itemprop="name"><a href="https://www.20minutos.es/noticia/5089840/0/donde-ha-tocado-la-loteria-del-nino-2023/" itemprop="url"><span>D&oacute;nde ha tocado la Loter&iacute;a del Ni&ntilde;o 2023</span></a></li><li class="link no-expandable" itemprop="name"><a href="https://www.20minutos.es/noticia/5089960/0/extracciones-y-aproximaciones-premiadas-en-la-loteria-del-nino-2023/" itemprop="url"><span>Extracciones loter&iacute;a del Ni&ntilde;o</span></a></li><li class="link no-expandable last" itemprop="name"><a href="https://www.20minutos.es/noticia/5005410/0/que-es-gfk-dam-medidor-oficial-consumo-digital-medios-espana/" itemprop="url"><span>GFK</span></a></li></ul></div><div class="sub-menu-block sub-menu-social"><ul class="default-redes-menu"><li class="facebook link external no_follow no-expandable first" itemprop="name"><a href="http://www.facebook.com/20minutos.es" target="_blank" rel="nofollow" itemprop="url"><span>Facebook</span></a></li><li class="twitter link external no_follow no-expandable" itemprop="name"><a href="http://twitter.com/20m" target="_blank" rel="nofollow" itemprop="url"><span>Twitter</span></a></li><li class="flipboard link external no_follow no-expandable" itemprop="name"><a href="https://flipboard.com/@20Minutos" target="_blank" rel="nofollow" itemprop="url"><span>Flipboard</span></a></li><li class="youtube link external no_follow no-expandable" itemprop="name"><a href="https://www.youtube.com/user/20minutos" target="_blank" rel="nofollow" itemprop="url"><span>Youtube</span></a></li><li class="instagram link external no_follow no-expandable" itemprop="name"><a href="http://instagram.com/20m" target="_blank" rel="nofollow" itemprop="url"><span>Instagram</span></a></li><li class="linkedin link external no_follow no-expandable" itemprop="name"><a href="http://www.linkedin.com/company/20-minutos" target="_blank" rel="nofollow" itemprop="url"><span>Linkedin</span></a></li><li class="whatsapp link external no_follow no-expandable last" itemprop="name"><a href="http://ver.20m.es/f0slr" target="_blank" rel="nofollow" itemprop="url"><span>Whatsapp</span></a></li></ul></div></div></div></div></header>    
+                                    <div class="page-custom-top">
+                                                        
+<div id="axds-Top" class="axds">
+  <div id="Top" class="henneoHB"></div>
 </div>
-<div class="contenido">
-<script language="javaScript" type="text/javascript" src="https://elcomidista.elpais.com/Comentarios/comentarios_js.html?ghi=1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5&gcss=/estilos/v2.x/v2.0/comentarios/eskup_comentarios_noticia.css&gjs=1&vCom=V2&gll=1"></script>
-<script type="text/javascript">
-        function EPET_setNumMensajescomentarios(num) {
-            EPET_pintaNumComentarios('1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5', num);
-        }
-        ESKUP.setOnReceiveNumMensajes("comentarios_noticia_1650451726-51ec5c459a2e7fa3ab061dd5d0ce19b5", EPET_setNumMensajescomentarios);
+
+
+                    
+                                                                                                                                                                                                                                                                        <div class="breaking-news-wrapper container">
+    <div  id="m20-18-21"><div class="breaking-news trk-ultimahora " id="m25-24-26">
+        <div>
+            <div class="break-icon">
+                <svg class="icon-bell trk-cabecera-user" id="ui_fake_user"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?30052022#icon-bell"></use></svg>
+            </div>
+            
+            
+        <span class="breaking-news-label " id="m33-32-34">FÚTBOL</span><a id="m38-37-39"  href="https://www.20minutos.es/deportes/noticia/5090490/0/francia-polvorin-le-graet-pilla-dedos-zidane-mbappe-encabeza-criticas/">Zidane, Mbappé, el Madrid y hasta el Gobierno... El fútbol francés se convierte en un polvorín</a></div>
+    </div></div>
+    <div  id="m20-18-21"><div class="breaking-news breaking-news-live trk-directo " id="m25-24-26">
+        <div>
+            <div class="break-icon">
+                <svg class="icon-podcast-solid trk-cabecera-user" id="ui_fake_user"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?30052022#icon-podcast-solid"></use></svg>
+            </div>
+            
+            
+        <span class="breaking-news-label " id="m33-32-34">POLÍTICA</span><a id="m38-37-39"  href="https://www.20minutos.es/noticia/5090517/0/nuevo-rifirrafe-entre-gobierno-y-pp-a-cuenta-del-asalto-de-bolsonaristas-en-brasil-contigo-esto-ahora-es-un-simple-desorden-publico/">Nuevo rifirrafe entre Gobierno y PP a cuenta del asalto de bolsonaristas en Brasil</a></div>
+    </div></div>
+</div>
+
+                                        
+            <div id="category_hack_origin">
+        
+    </div>
+
+                            </div>
+    <div  id="m20-18-21"><div>
+                                            <main class="page-article tbl_main-container page-opinion ">
+                        <section class="article-titles">
+                                    <div class="htmldirecto"></div>                
+                    <div class="opinion-author-wrapper"><figure><img loading="lazy" src="https://imagenes.20minutos.es/files/image_144_144/uploads/imagenes/2021/04/22/encarna-samitier.png" width="120" height="120" border="0"></figure><div class="opinion-author-info"><span class="opinion_author_name"><a href="https://www.20minutos.es/autor/encarna-samitier">
+                        <strong>Encarna Samitier</strong>
+                    </a>&nbsp;</span><span class="opinion_author_position">Directora de '20minutos'</span></div></div><div class="opinion-info"><span class="tooltip tooltip-opinion-info" data-tooltip-title="Basado en interpretaciones y juicios del autor sobre hechos, datos y eventos." data-tooltip-position="bottom">OPINIÓN</span><span class="article-date">19.12.2022 - 05:41h</span></div><div class="title"><h1 class="article-title " id="m25-24-26" itemprop="headline">Duelo en el TC</h1></div><div class="social social-share"><ul><li class="facebook sharrre"><a class="facebook sharrre" href="#"><svg class="icon-facebook"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-facebook"></use></svg></a></li><li class="twitter sharrre"><a class="twitter sharrre" href="#"><svg class="icon-twitter"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-twitter"></use></svg></a></li><li class="mail"><a href="#"><svg class="icon-envelop"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-envelop"></use></svg></a></li></ul></div>            <div class="article-intro " id="m30-29-31"><div id="m35-34-36" ><ul><li><a href="https://www.20minutos.es/autor/encarna-samitier/">Consulte todos los artículos escritos por Encarna Samitier en nuestra página web.</a></li></ul></div></div></section>
+                        <div class="container-grid-box">
+                <section class="container-grid-cell content">
+                    <article class="article-body"><div class="multimedia">
+                                                                
+                                                                
+                                                                
+                            <div id="m40-39-41" >
+                                    <div class="image-container">
+                                                                                <figure class="image">
+                                            <div style="display: block;">
+                                                <img class="noLazyImage" width="990" height="556" alt="Archivo - Fachada y entrada al edificio del Tribunal Constitucional." src="https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2021/03/31/archivo-fachada-y-entrada-al-edificio-del-tribunal-constitucional.jpeg" data-full-src="https://www.20minutos.es/uploads/imagenes/2021/03/31/archivo-fachada-y-entrada-al-edificio-del-tribunal-constitucional.jpeg">
+                                                
+                                                
+                                            <figcaption id="m59-58-60" >Fachada y entrada al edificio del Tribunal Constitucional.</figcaption><span class="author " id="m64-63-65">Eduardo Parra - Europa Press - Archivo</span></div>
+                                            <div style="display: none;">
+                                                <div style="display: none;">
+                                                    
+                                                    
+                                                    
+                                                </div>
+                                            </div>
+                                        </figure>
+                                                                                
+                                    </div>
+                                </div></div>
+                                                    
+                                                                            <div class="article-text">
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            <p class="paragraph " id="m92-91-93"><strong>Duelo en el TC.</strong> De adversarios legítimos capaces de pactar por mayoría amplia asuntos relevantes, <a href="https://www.20minutos.es/minuteca/psoe/" title="PSOE">PSOE</a> y <a href="https://www.20minutos.es/minuteca/pp/" title="PP">PP</a> se han convertido en enemigos encarnizados. El fondo del asunto, <a href="https://www.20minutos.es/minuteca/cgpj/" title="CGPJ">el bloqueo a la renovación del Poder Judicial</a>, se ha visto superado por las formas: un batiburrillo de enmiendas planteadas apresuradamente por la vía de la reforma del Código Penal. El Constitucional afronta hoy recursos y recusaciones de PP, PSOE y UP. <strong>Es básico que se le deje deliberar sin ruido y con respeto.</strong></p></div>
+                                            </article>
+                                            <div class="trustproject_logo">
+    <div class="trustproject_container">
+        <figure class="trustproject">
+            <figcaption class="trustproject_title">Conforme a los criterios de</figcaption>
+            <a class="trustproject_img" href="https://thetrustproject.org/" target="_blank" rel="nofollow"><img loading="lazy" src="https://www.20minutos.es/static/images/Trust-Logo-Horizontal.svg" width="146" height="25"></a>
+        </figure>
+        <div class="trustproject_link"><a href="https://www.20minutos.es/estaticos/buenas-practicas/">Más información</a></div>
+    </div>
+</div>
+                                        <div id="content-article-bottom-destination"></div>
+                </section>
+                                                        <aside class="container-grid-cell article-sidebar">
+                        <section class="container-article-sidebar-100">
+                            <section class="container-modules-sidebar">
+                                <div class="wrapper-sidebar">
+                                    
+                                <div >
+    
+
+
+                    
+                    
+    
+    
+    
+    <div  id="m20-18-21"><div class="first-sidebar">
+        
+<div class="select1">
+
+        
+
+    
+
+    
+
+    
+</div>
+
+        
+<div class="select2">
+
+        
+
+    
+
+    
+
+    
+</div>
+
+        <div class="axds-lane lane-750">
+            <div class="axds-lane-child">
+                
+<div class="axds axds-Right">
+  <div class="henneoHB henneoHB-Right"></div>
+</div>
+
+
+            </div>
+        </div>
+
+                    
+<div class="select3">
+
+        
+
+    
+
+    
+
+    
+<div class="freehtml-module 3 " id="m45-44-46">
+
+        <div class="free-content module">
+            
+        <div class="free-content module 3 " id="m50-49-51"><div style="display: inline-block; width: 100%;" id="integrado-sidebar-20am" data-prometeo-mediaid="002" data-prometeo-widget="WIDGET-PROMETEO-BOX-ACTIVATOR" class="WIDGET-PROMETEO-BOX-ACTIVATOR prometeo-content"></div></div></div>
+    </div></div>
+            </div></div>
+</div></div>
+                                                                <div class="module module-related">
+                                    <h3 class="module-title">
+                                        Más información sobre:
+                                    </h3>
+                                    <ul>
+                            <li class="tag">
+                                <h2>
+                                    <a href="https://www.20minutos.es/minuteca/tribunal-constitucional/">
+                                        Tribunal Constitucional
+                                    </a>
+                                </h2>
+                            </li>
+                            <li class="tag">
+                                <h2>
+                                    <a href="https://www.20minutos.es/minuteca/encarna-samitier/">
+                                        Encarna Samitier
+                                    </a>
+                                </h2>
+                            </li>
+                            <li class="tag">
+                                <h2>
+                                    <a href="https://www.20minutos.es/minuteca/opinion/">
+                                        Opinión
+                                    </a>
+                                </h2>
+                            </li></ul>
+                                </div>
+                                <div class="category-sidebar">
+                                    
+                                <div class="sidebar-b ">
+    
+
+
+                    
+                    
+    
+    
+    
+    <div  id="m20-18-21"><div class="second-sidebar">
+        
+<div class="select1">
+
+        
+
+    
+
+    
+
+    
+</div>
+
+        
+<div class="select2">
+
+        
+
+    
+
+    
+
+    
+</div>
+
+        <div class="axds-lane lane-750">
+            <div class="axds-lane-child">
+                
+<div class="axds axds-Right">
+  <div class="henneoHB henneoHB-Right"></div>
+</div>
+
+
+            </div>
+        </div>
+
+        
+<div class="select3">
+
+        
+
+    
+
+    
+
+    
+<div class="freehtml-module 3 " id="m45-44-46">
+
+        <div class="free-content module">
+            
+        <div class="free-content module 3 " id="m50-49-51"><div id="NfGp7Dj3YzL3L5aGO8vE" data-prometeo-mediaid="002" data-prometeo-widget="WIDGET-PROMETEO-V2" class="WIDGET-PROMETEO-V2 prometeo-content content-NfGp7Dj3YzL3L5aGO8vE block_1"></div></div>
+    </div></div>
+
+        <div id="cityservi" class="module cityservi"></div>
+    </div></div>
+</div></div>
+                                <div class="sidebar-c">
+                                    
+                                <div >
+    
+
+
+                    
+                    
+    
+    
+    
+    <div  id="m20-18-21"><div class="third-sidebar">
+        
+<div class="select1">
+
+        
+
+    
+
+    
+
+    
+<div class="horscope-module 1 " id="m25-24-26">
+        <div class="module module-horoscope">
+            <h4 class="module-title">Horóscopo</h4>
+                <div class="module-content">
+        <ul>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/aries/" class="aries" title="Aries">
+                    <span></span>
+                    <p>Aries</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/tauro/" class="tauro" title="Tauro">
+                    <span></span>
+                    <p>Tauro</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/geminis/" class="geminis" title="Géminis">
+                    <span></span>
+                    <p>Géminis</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/cancer/" class="cancer" title="Cáncer">
+                    <span></span>
+                    <p>Cáncer</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/leo/" class="leo" title="Leo">
+                    <span></span>
+                    <p>Leo</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/virgo/" class="virgo" title="Virgo">
+                    <span></span>
+                    <p>Virgo</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/libra/" class="libra" title="Libra">
+                    <span></span>
+                    <p>Libra</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/escorpio/" class="escorpio" title="Escorpio">
+                    <span></span>
+                    <p>Escorpio</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/sagitario/" class="sagitario" title="Sagitario">
+                    <span></span>
+                    <p>Sagitario</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/capricornio/" class="capricornio" title="Capricornio">
+                    <span></span>
+                    <p>Capricornio</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/acuario/" class="acuario" title="Acuario">
+                    <span></span>
+                    <p>Acuario</p>
+                </a>
+            </li>
+            <li class="sign">
+                <a href="https://www.20minutos.es/horoscopo/solar/prediccion/piscis/" class="piscis" title="Piscis">
+                    <span></span>
+                    <p>Piscis</p>
+                </a>
+            </li>
+        </ul>
+    </div>
+        </div>
+    </div></div>
+        <div class="axds-lane lane-750">
+            <div class="axds-lane-child">
+                
+<div class="axds axds-Right">
+  <div class="henneoHB henneoHB-Right"></div>
+</div>
+
+
+            </div>
+        </div>
+        
+<div class="select2">
+
+        
+
+    
+
+    
+
+    
+<div class="services-module 2 " id="m30-29-31">
+        <div class="module module-services">
+    <a href="#" class="module-title">Servicios</a>
+    <ul>
+        <li class="lottery">
+            <a href="https://www.20minutos.es/loterias/">
+                <svg class="icon-lottery"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-lottery"></use></svg>
+                <span>Loterías</span>
+            </a>
+        </li>
+        <li class="shopping">
+            <a href="https://www.20minutos.es/minuteca/20decompras/">
+                <svg class="icon-shopping-bag"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-shopping-bag-solid"></use></svg>
+                <span>20deCompras</span>
+            </a>
+        </li>
+        <li class="newsletter">
+            <a href="https://www.20minutos.es/estaticos/home-newsletters/">
+                <svg class="icon-newsletter"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-newsletter-solid"></use></svg>
+                <span>Newsletter</span>
+            </a>
+        </li>
+        <li class="blogs">
+            <a href="https://www.20minutos.es/blogs_opinion/" target="_blank">
+                <svg class="icon-blogs"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-blog-solid"></use></svg>
+                <span>Blogs</span>
+            </a>
+        </li>
+        <li class="horoscope">
+            <a href="https://www.20minutos.es/horoscopo/">
+                <svg class="icon-yin-yang"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-yin-yang-solid"></use></svg>
+                <span>Horóscopo</span>
+            </a>
+        </li>
+        <li class="aplications">
+            <a href="https://microsite.20minutos.es/moviles/">
+                <svg class="icon-mobile"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-mobile"></use></svg>
+                <span>Aplicaciones</span>
+            </a>
+        </li>
+        <li class="citiservi">
+            <a href="https://servicios.20minutos.es/" target="_blank">
+                <svg class="icon-map-marker"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-map-marker-solid"></use></svg>
+                <span>Guía local</span>
+            </a>
+        </li>
+        <li class="discount">
+            <a href="https://www.20minutos.es/codigo-descuento" target="_blank">
+                <svg class="icon-money-bill"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-money-bill-solid"></use></svg>
+                <span>Códigos Desc.</span>
+            </a>
+        </li>
+        <li class="store">
+            <a href="https://www.20minutos.es/edicion_impresa" target="_blank">
+                <svg class="icon-newspaper"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?19052022#icon-newspaper-solid"></use></svg>
+                <span>Ed. Impresa</span>
+            </a>
+        </li>
+    </ul>
+</div>
+    </div></div>
+    </div></div>
+</div></div>
+                            </section>
+
+                            <div class="axds-lane last-lane">
+                                <div class="axds-lane-child"></div>
+                            </div>
+
+                        </section>
+                    </aside>
+                            </div>
+                    </main>
+    </div></div>
+
+                                     <div id="content-article-bottom">
+
+            <div class="taboola_container">
+                <div></div>
+
+    <script type="text/javascript">
+        (function () {
+            if (window.__henneo_taboola_loaded) return;
+            window.__henneo_taboola_loaded = true;
+
+            window._taboola = window._taboola || [];
+
+            const debugEnabled = window.location.search.includes('tbl_debug=true');
+
+            const loadTaboola = (isFirstPage, detail = {}) => {
+                const blockId = isFirstPage ? 'block_1' : detail.blockId;
+                const url = isFirstPage
+                    ? document.querySelector("link[rel='canonical']").getAttribute('href')
+                    : detail.path;
+
+                debug(`Block ${blockId} (${url})`);
+
+                const blockSelector = isFirstPage ? 'main.tbl_main-container' : `#${blockId}`;
+                const blockElement = document.querySelector(blockSelector);
+                if (!blockElement) {
+                    return debug(`Block ${blockSelector} not found`);
+                }
+
+                const taboolaWrapper = blockElement.querySelector(
+                    '.taboola_container > div'
+                );
+                if (!taboolaWrapper) {
+                    return debug(`Element ${taboolaWrapperSelector} not found`);
+                }
+                if (taboolaWrapper.hasChildNodes()) {
+                    return debug(`Element ${taboolaWrapperSelector} already loaded`);
+                }
+
+                const blockIndex = blockId.split('_').pop();
+                const elementId = `taboola-below-article-thumbnail_${blockIndex}`;
+                taboolaWrapper.id = elementId;
+
+                if (isMobile() && isFirstPage) {
+                    debug('First page of mobile');
+                    _taboola.push({
+                        mode: 'thumbnails-a-1x1',
+                        container: elementId,
+                        placement: `Below Article Thumbnails ${blockIndex}`,
+                        target_type: 'mix',
+                    });
+
+                    _taboola.push({
+                        listenTo: 'render',
+                        handler: function (e) {
+                            let mode = e.detail.baseMode;
+                            debug(`Handler ${mode} (${e.detail.placement})`);
+
+                            switch (mode) {
+                                case 'thumbnails-a-1x1-loyal':
+                                    onTaboolaFinish(blockElement, 'loyal');
+                                    break;
+                                case 'thumbnails-a-1x1-casual':
+                                    onTaboolaFinish(blockElement, 'casual');
+                                    break;
+                                case 'thumbnails-a-1x1-flyby':
+                                    onTaboolaFinish(blockElement, 'flyby');
+                                    break;
+                            }
+                        },
+                    });
+                } else {
+                    debug('Desktop or next pages');
+
+                    blockElement
+                        .querySelectorAll('.WIDGET-PROMETEO-V2.prometeo-external')
+                        .forEach((elem) => {
+                            debug(`Remove unnecessary widget ${elem.classList.value}`);
+                            elem.remove();
+                        });
+
+                    _taboola.push({
+                        mode: 'thumbnails-a',
+                        container: elementId,
+                        placement: elementId,
+                        target_type: 'mix',
+                    });
+                }
+
+                _taboola.push({
+                    article: 'auto',
+                    url,
+                });
+            };
+
+            const debug = (message) => {
+                if (!debugEnabled) return;
+                console.log('NewTBL: ' + message);
+            };
+
+            const onTaboolaFinish = (blockElement, userSegment) => {
+                debug('Taboola segment found: ' + userSegment);
+                blockElement
+                    .querySelectorAll('.WIDGET-PROMETEO-V2.prometeo-external')
+                    .forEach((elem) => {
+                        if (!elem.classList.contains(userSegment)) {
+                            debug(`Remove unnecessary widget ${elem.classList.value}`);
+                            elem.remove();
+                        }
+                    });
+
+                const loadExternalWidgets = () => {
+                    debug('Call PrometeoExternalWidget function');
+                    window._PROMETEO_MEDIA_CONFIG.loadExternalWidget();
+                };
+
+                if (
+                    window._PROMETEO_MEDIA_CONFIG &&
+                    typeof window._PROMETEO_MEDIA_CONFIG.loadExternalWidget === 'function'
+                ) {
+                    loadExternalWidgets();
+                } else {
+                    debug('Waiting PrometeoReady event...');
+                    document.addEventListener('prometeo_ready', loadExternalWidgets, {
+                        once: true,
+                    });
+                }
+            };
+
+            window.addEventListener('DOMContentLoaded', () => loadTaboola(true));
+            document.addEventListener('is.append', (e) => loadTaboola(false, e.detail));
+        })();
     </script>
-</div>
-</section>
-</div> 
-<section class="caja caja_lo_mas_visto estirar">
-<h3 class="encabezado"><a class="enlace" href="https://elcomidista.elpais.com">Lo más visto en El Comidista</a></h3>
-<div class="interior estirar">
-<ol class="lista estirar">
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/13/articulo/1670920208_338379.html" title="Ver Noticia">El fin de las croquetas “caseras” en los bares y restaurantes</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/11/07/receta/1667823712_333587.html" title="Ver Noticia">La receta renovada de los huevos benedict</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2020/09/16/articulo/1600248026_666077.html" title="Ver Noticia">La salsa picante española que más se vende en internet</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/12/receta/1670841174_296684.html" title="Ver Noticia">Ocho bebidas no alcohólicas para gozar lo que queda de fiestas</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2020/12/14/receta/1607944635_607254.html" title="Ver Noticia">Galette des rois: el roscón francés</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/10/18/articulo/1666089995_627612.html" title="Ver Noticia">Las mejores freidoras de aire: guía para comprar el electrodoméstico de moda</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/12/15/articulo/1671125450_329186.html" title="Ver Noticia">Lo peor de 2022 en comida (y algunos buenos virales)</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/10/03/receta/1664803602_238929.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Espaguetis con huevo frito: lo mejor de dos mundos</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2018/11/14/receta/1542217305_684429.html" title="Ver Noticia">Sopa de tomate, huevo y garbanzos</a></li>
-<li class="estirar"><a href="https://elcomidista.elpais.com/elcomidista/2022/11/23/articulo/1669218075_224704.html" title="Ver Noticia">Los mejores restaurantes de 2022 para el equipo de El Comidista</a></li>
-</ol>
-</div>
-</section>
-<div class="envoltorio_publi estirar">
-<script type='text/javascript'>
-	if (gtpadunit.indexOf('_mob') == -1)
-		document.write("<div id='elpais_gpt-LDB2' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('LDB2');<\/script></div>");
-	else
-		document.write("<div id='elpais_gpt-MLDB2' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('MLDB2');<\/script></div>");
-</script>
-</div>
-<footer class="pie_comidista">
-<span itemtype="https://data-vocabulary.org/Breadcrumb" itemscope="" class="logo"><a href="//elcomidista.elpais.com" itemprop="url title">El comidista</a></span>
-<div class="siguenos_en estirar" id="organizacion" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
-<meta itemprop="url" content="https://elcomidista.elpais.com">
-<meta itemprop="name" content="El Comidista">
-<span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
-<meta itemprop="url" content="https://ep01.epimg.net/elcomidista/iconos/v1.x/v1.0/logos/comidista.png">
-<meta itemprop="width" content="361">
-<meta itemprop="height" content="106">
-</span>
-<ul>
-<li class="facebook"><a itemprop="sameAs" rel="nofollow" href="https://www.facebook.com/elcomidista">Síguenos en Facebook</a></li>
-<li class="twitter"><a itemprop="sameAs" rel="nofollow" href="https://twitter.com/elcomidista">Síguenos en Twitter</a></li>
-<li class="instagram"><a href="https://instagram.com/elcomidista" rel="nofollow" target="_blank">Síguenos en Instagram</a></li>
-</ul>
-</div>
-<div class="autor">
-<figure><img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elcomidista/iconos/v1.x/v1.0/varios/foto_autor.png" alt="Foto de Mikel López Iturriaga"></figure>
-<p>Mikel López <br>Iturriaga <span>y su equipo</span><a href="/contacto.html" title="contacto">(contacto)</a></p>
-</div>
-</footer>
-<footer class="pie_corporativo">
-<a itemprop="name" href="//elpais.com" class="el_pais">EL PAÍS</a>
-<div class="barra_corporativos">
-© EDICIONES EL PAÍS S.L.  
-<a href="//elpais.com/estaticos/publicidad/">Publicidad</a> 
-<a href="//elpais.com/estaticos/aviso-legal/">Aviso legal</a> 
-<a rel="nofollow" href="//elpais.com/estaticos/politica-privacidad/">Política de privacidad</a> 
-<a href="https://www.prisa.com/es/info/politica-de-cookies-publi">Política cookies</a> 
-<a rel="nofollow" href="#" onclick="Didomi.preferences.show();return false;">Configuración de cookies</a> 
-<a href="//servicios.elpais.com/rss/">RSS</a> 
-<a href="http://www.prisa.com">PRISA</a> 
-</div>
-</footer>
-<script language="javaScript" type="text/javascript"> if (typeof _inicializar == 'function') { _inicializar(); } </script>
-</body>
+
+            </div>
+
+                    
+    
+                    
+                        <div class="prometeo-20m" id="gadget-002" style="display:none" class=""></div>
+            
+
+                    
+    
+                    
+                        <div class="prometeo-20m" id="gadget-003" style="display:none" class=""></div>
+            
+
+
+            
+            <span id="show-comments" class="show-comments" ><svg class="icon-chevron-circle-down"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-chevron-circle-down"></use></svg>Mostrar comentarios</span>
+        <div class="module module-comments module-lined" style="display: none">
+            <h2>Comentarios</h2>
+                                        
+                                                
+                            <div id="coral_thread" class="coralThread" 
+                    data-coral-url="https://comentarios.20minutos.es"
+                    data-story-id="prod-20minutos-5085640"
+                    data-story-url="https://www.20minutos.es/noticia/5085640/0/encarna-samitier-duelo-en-el-tc/">
+                </div>
+                    </div>
+    
+
+                                                                        <div class="module module-coupons module-lined">
+                            <h3 class="section-title">
+                                <a target="_blank" href="https://www.20minutos.es/codigo-descuento">Códigos Descuento</a>
+                            </h3>
+                                <div class="su-content">
+                    <div class="item">
+                <h4 class="title">
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/fnac">
+                        Código descuento Fnac
+                    </a>
+                </h4>
+                <span>
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/fnac">
+                        Hasta 15% descuento en los Días Fnac en Tecnología y Gaming
+                    </a>
+                </span>
+            </div>
+                    <div class="item">
+                <h4 class="title">
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/el-corte-ingles">
+                        Cupón El Corte Inglés
+                    </a>
+                </h4>
+                <span>
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/el-corte-ingles">
+                        Prueba 30 Días GRATIS + 10% ahorro El Corte Inglés PLUS
+                    </a>
+                </span>
+            </div>
+                    <div class="item">
+                <h4 class="title">
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/ebay">
+                        Cupón ebay
+                    </a>
+                </h4>
+                <span>
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/ebay">
+                        Hasta 40% menos en las Ofertas de la Semana de eBay
+                    </a>
+                </span>
+            </div>
+                    <div class="item">
+                <h4 class="title">
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/aliexpress">
+                        Código promocional Aliexpress 
+                    </a>
+                </h4>
+                <span>
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/aliexpress">
+                        Hasta 90% + hasta 40€ Cupón Aliexpress en las mejores Ofertas del Día
+                    </a>
+                </span>
+            </div>
+                    <div class="item">
+                <h4 class="title">
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/amazon">
+                        Código promocional Amazon
+                    </a>
+                </h4>
+                <span>
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/amazon">
+                        Códigos promocionales del 30% en Amazon
+                    </a>
+                </span>
+            </div>
+                    <div class="item">
+                <h4 class="title">
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/carrefour-online">
+                        Cupón Carrefour
+                    </a>
+                </h4>
+                <span>
+                    <a target="_blank" href="https://www.20minutos.es/codigo-descuento/carrefour-online">
+                        20€ cupón Bienvenida Carrefour Supermercado Online
+                    </a>
+                </span>
+            </div>
+            </div>
+
+                        </div>
+                                                        </div>
+        
+            <footer><div class="footer-wrapper" xtcz="footer"><nav itemscope itemtype="http://www.schema.org/SiteNavigationElement"><ul class="menu"><li itemprop="name" class="brand"><span>Una publicación de:</span><p class="acm">20 MINUTOS EDITORA, S.L.</p><div class="logo"><a itemprop="url"  href="https://www.henneo.com/" target="_blank" title="Grupo Henneo" class="logo-footer"><img src="https://www.20minutos.es/static/images/logo_henneo_gris.svg" alt="Grupo Henneo" width="85" height="59" loading="lazy"></a></div></li><li itemprop="name" class="sections"><h4>España</h4><div class="col-izq"><ul class="footer-ciudades1-menu"><li class="link external no-expandable first" itemprop="name"><a href="https://www.20minutos.es/madrid/" target="_blank" itemprop="url"><span>Madrid</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/cataluna/" target="_blank" itemprop="url"><span>Catalu&ntilde;a</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/andalucia/" target="_blank" itemprop="url"><span>Andaluc&iacute;a</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/comunidad-valenciana/" target="_blank" itemprop="url"><span>C.Valenciana</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/pais-vasco/" target="_blank" itemprop="url"><span>Pa&iacute;s Vasco</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/aragon/" target="_blank" itemprop="url"><span>Arag&oacute;n</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/asturias/" target="_blank" itemprop="url"><span>Asturias</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/extremadura/" target="_blank" itemprop="url"><span>Extremadura</span></a></li><li class="link external no-expandable last" itemprop="name"><a href="https://www.20minutos.es/galicia/" target="_blank" itemprop="url"><span>Galicia</span></a></li></ul></div><div class="col-der"><ul class="footer-ciudades2-menu"><li class="link external no-expandable first" itemprop="name"><a href="https://www.20minutos.es/murcia/" target="_blank" itemprop="url"><span>Murcia</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/castilla-y-leon/" target="_blank" itemprop="url"><span>Castilla y Le&oacute;n</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/castilla-la-mancha/" target="_blank" itemprop="url"><span>Castilla-La Mancha</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/canarias/" target="_blank" itemprop="url"><span>Canarias</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/baleares/" target="_blank" itemprop="url"><span>Baleares</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/cantabria/" target="_blank" itemprop="url"><span>Cantabria</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/ceuta/" target="_blank" itemprop="url"><span>Ceuta</span></a></li><li class="link external no-expandable last" itemprop="name"><a href="https://www.20minutos.es/melilla/" target="_blank" itemprop="url"><span>Melilla</span></a></li></ul></div></li><li itemprop="name" class="misc"><h4>Te interesa</h4><div class="link-list"><ul class="footer-te-interesa-menu"><li class="link external no_follow no-expandable first" itemprop="name"><a href="https://www.petitchef.es/" target="_blank" rel="nofollow" itemprop="url"><span>Recetas f&aacute;ciles</span></a></li><li class="link external no_follow no-expandable" itemprop="name"><a href="https://www.minijuegos.com/" target="_blank" rel="nofollow" itemprop="url"><span>Juegos</span></a></li><li class="link external no_follow no-expandable" itemprop="name"><a href="https://servicios.20minutos.es/" target="_blank" rel="nofollow" itemprop="url"><span>Gu&iacute;a local</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/codigo-descuento/" target="_blank" itemprop="url"><span>C&oacute;digos descuento</span></a></li><li class="link no-expandable" itemprop="name"><a href="https://www.20minutos.es/especiales/" itemprop="url"><span>Especiales</span></a></li><li class="link no-expandable last" itemprop="name"><a href="https://www.20minutos.es/estaticos/home-newsletters/" itemprop="url"><span>Newsletters</span></a></li></ul></div></li><li itemprop="name" class="corporative"><div class="logo-20m"><a href="https://www.20minutos.es/"><img loading="lazy" alt="Logo del sitio" src="https://www.20minutos.es/static/images/logo-horizontal-20m.svg?04042022" width="174" height="30"></a></div><h4>Corporativo</h4><div class="col-izq"><ul class="footer-corporativo1-menu"><li class="link external no_follow no-expandable first" itemprop="name"><a href="https://www.heraldo.es/" target="_blank" rel="nofollow" itemprop="url"><span>Heraldo</span></a></li><li class="link external no_follow no-expandable" itemprop="name"><a href="https://www.lainformacion.com/" target="_blank" rel="nofollow" itemprop="url"><span>La Informacion</span></a></li><li class="link no-expandable" itemprop="name"><a href="https://www.20minutos.es/cinemania/" itemprop="url"><span>Cineman&iacute;a</span></a></li><li class="link external no-expandable last" itemprop="name"><a href="https://www.20minutos.es/branded/premios-20minutos-en-la-red/" target="_blank" itemprop="url"><span>Premios Creadores</span></a></li></ul><ul class="footer-corporativo2-menu"><li class="link external no_follow no-expandable first" itemprop="name"><a href="http://www.bluemedia.es/" target="_blank" rel="nofollow" itemprop="url"><span>Publicidad</span></a></li><li class="link external no_follow no-expandable last" itemprop="name"><a href="https://henneoprintingservices.com/" target="_blank" rel="nofollow" itemprop="url"><span>Henneo Printing Services</span></a></li></ul></div></li></ul></nav></div><div class="footer-search"><form method="get" action="https://www.20minutos.es/busqueda/"><input type="text" name="q" placeholder="¿Qué estás buscando?" onsubmit="onSearchSubmit(this);"><a class="submit-action" title="Buscar" onclick="jQuery(this).parent().submit(); return false;"><svg class="icon-search"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-search"></use></svg></a></form></div><div class="legal-footer"><nav itemscope itemtype="http://www.schema.org/SiteNavigationElement"><ul class="footer-legal-menu"><li class="link external no-expandable first" itemprop="name"><a href="https://www.20minutos.es/documento/legal/" target="_blank" itemprop="url"><span>Aviso legal y condiciones de uso</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/documento/privacy/" target="_blank" itemprop="url"><span>Pol&iacute;tica de privacidad</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/documento/cookie/" target="_blank" itemprop="url"><span>Pol&iacute;tica de cookies</span></a></li><li class="link external no-expandable" itemprop="name"><a href="https://www.20minutos.es/estaticos/contacto/" target="_blank" itemprop="url"><span>Contacto</span></a></li><li class="link external no-expandable last" itemprop="name"><a href="https://www.20minutos.es/estaticos/quienes-somos/" target="_blank" itemprop="url"><span>Qui&eacute;nes somos</span></a></li></ul></nav></div><div class="social-footer social"><ul><li itemprop="name" class="facebook"><a itemprop="url"  href="https://www.facebook.com/20minutos.es/" target="_blank"><svg class="icon-facebook"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-facebook"></use></svg></a></li><li itemprop="name" class="twitter"><a itemprop="url"  href="https://twitter.com/20m" target="_blank"><svg class="icon-twitter"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-twitter"></use></svg></a></li><li itemprop="name" class="instagram"><a itemprop="url"  href="https://www.instagram.com/20m/" target="_blank"><svg class="icon-instagram"><use xlink:href="https://www.20minutos.es/static/images/henneo-icons.svg?05042022#icon-instagram"></use></svg></a></li></ul></div></footer><div class="footer-copyright"><span>© 20 Minutos Editora, S.L.</span><p>Queda prohibida toda reproducción sin permiso escrito de la empresa a los efectos del artículo 32.1, párrafo segundo, de la Ley de Propiedad Intelectual. Asimismo, a los efectos establecidos en el artículo 33.1 de Ley de Propiedad Intelectual, la empresa hace constar la correspondiente reserva de derechos, por sí y por medio de sus redactores o autores.</p></div>                        </body>
 </html>

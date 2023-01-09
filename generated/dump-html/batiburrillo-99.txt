@@ -1,0 +1,499 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<title>Llena tu estómago, no el contenedor: cómo reducir el desperdicio alimentario en las comidas y cenas de Navidad · Maldita.es - Periodismo para que no te la cuelen</title>
+<style>
+                @charset "UTF-8";body{margin:0}a.no-decoration{text-decoration:none}a.no-decoration.black{color:#000}#mobile-header{height:55px;border-bottom:1px solid #eee;font-family:Lato,sans-serif}#stickyheader{height:64px;box-shadow:0 1px 9px 0 grey}.stickyheader-wrap{display:flex!important;flex-direction:row;max-width:1170px;justify-content:space-between;align-items:center;margin:0 auto}#mobile-header div{display:flex;justify-content:center;align-items:center}#mobile-logo img{max-height:32px}#header{font-family:Lato,sans-serif}#header-actions{display:flex;justify-content:space-between}#header #logo{margin:32px auto}#header #logo img{width:282px;height:64px}#mobile-menu{font-size:12px;font-weight:700;font-family:Lato,sans-serif;width:82px;border-right:1px solid #eee}#mobile-register-button div{width:58px}#menu-wrap{font-family:Lato,sans-serif;overflow:hidden;background:#000;color:#fff}@media (max-width:1023px){.menu-closed{display:none}}@media (min-width:1024px){#menu-wrap ul{display:flex;justify-content:center;gap:45px;align-items:center}}#menu-wrap li{font-weight:bolder;text-transform:uppercase;font-family:Lato,sans-serif}#menu-icon{height:8px;width:11px;margin-right:8px}#header-mobile-actions label,#maldita-search label{position:relative}@media (min-width:1024px){#header-mobile-actions label,#maldita-search label{position:inherit}}.search_input{outline:none}#header-mobile-actions label:before,#maldita-search label:before{content:"";position:absolute;left:10px;top:0;bottom:0;width:20px;opacity:.7;background:url(/images/icons/search.png) 50%/contain no-repeat}@media (min-width:1024px){#header-mobile-actions label:before,#maldita-search label:before{position:inherit;display:none}}#become-maldito-button{background:#fce76c;font-family:Roboto Mono,Consolas,Lucida Console,monospace}#sticky-logo{display:block}#sticky-logo img{width:193px;height:44px}#mobile-logo img{width:132px;height:30px}#login-underline{position:relative;color:#000;text-decoration:none}#login-underline:before{content:"";position:absolute;width:100%;height:2px;bottom:0;left:0;background-color:#000;visibility:hidden;transform:scaleX(0)}#main a{position:relative;color:#fff;text-decoration:none;padding-bottom:6px}#main a:before{content:"";position:absolute;width:100%;height:2px;bottom:0;left:0;background-color:#fff;visibility:hidden;transform:scaleX(0)}#sections_sticky{-webkit-appearance:none;-moz-appearance:none;background:transparent url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>") no-repeat;background-position-x:96%;background-position-y:4px}#sub-main a{position:relative;color:#747474;text-decoration:none;padding-bottom:6px}#sub-main a:before{content:"";position:absolute;width:100%;height:2px;bottom:0;left:0;background-color:#747474;visibility:hidden;transform:scaleX(0)}.sub-menu-wrap{display:flex;align-items:center;height:38px}.space-between{justify-content:space-between}.content-wrapper{max-width:1170px}.hazte-maldito-button{background:#fce76c;font-family:Roboto Mono,Consolas,Lucida Console,monospace;font-weight:700;font-size:13px}.newsloader{display:none!important}.three-column{margin:40px auto!important;width:100%;height:-webkit-fit-content;height:-moz-fit-content;height:fit-content;display:flex;flex-direction:column}@media (min-width:769px){.three-column{flex-direction:row;max-width:1170px;justify-content:space-between}}.columnt{height:auto;min-height:100px;width:100%;margin-bottom:40px}@media (min-width:769px){.columnt{max-width:32%;margin-bottom:0}}.max-width-base{height:auto;min-height:100px;margin:0 auto!important;padding:0!important}.max-width-base .content-wrapper{margin:0 auto}.ad-full-live{max-width:1170px;margin:0 auto 2%;text-align:left;border:4px solid #000}.ad-full-live-text{font-family:Lato,sans-serif;font-size:18px;font-weight:900;color:#000;margin-left:2%}.one-piece{display:flex;flex-direction:column;justify-content:space-evenly;width:100%;max-width:390px;margin:0 auto}.one-piece-image{z-index:1;width:100%;height:190px;-o-object-fit:cover;object-fit:cover}.one-piece-text{width:85%;z-index:2;margin:-36px auto 0;background:#fff}.one-piece-headline{font-family:Fira Sans Condensed,sans-serif;font-size:24px;padding:5%;font-weight:700;line-height:1.06;color:#000}.one-piece-lead{font-family:Lato,sans-serif;font-size:14px;font-weight:300;line-height:1.25;color:#000}@media (min-width:768px){.one-piece-lead{padding:5%}}.entradilla-gone{display:none}.loader-none{display:none}.super-high-full{width:100%;display:flex;flex-flow:row nowrap}@media (min-width:768px){.super-high-full{height:400px;display:block}}.super-high-full-image{width:100%;height:auto;-o-object-fit:cover;object-fit:cover;box-sizing:border-box;flex:none}@media (min-width:768px){.super-high-full-image{height:400px;min-width:revert}}.super-high-full-headline{font-family:Fira Sans Extra Condensed,sans-serif;font-size:36px;padding:5%;font-weight:800;line-height:1.4;color:#fff;box-sizing:border-box;flex:none}@media (min-width:768px){.super-high-full-headline{width:80%}}.super-link{background-color:#171717;display:inline;white-space:pre-wrap;max-width:1170px;padding:8px;-webkit-box-decoration-break:clone;box-decoration-break:clone}.super-high-full-content-wrapper{max-width:1170px;margin:0 auto;position:relative;top:-90%;min-width:90%;left:-95%}@media (min-width:1170px){.super-high-full-content-wrapper{left:revert;min-width:revert}}@media (min-width:768px){.super-high-full-content-wrapper{left:0}}.link{color:inherit;text-decoration:none}html{-moz-tab-size:4;-o-tab-size:4;tab-size:4;line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji}input,optgroup,select{font-family:inherit;font-size:100%;line-height:1.15;margin:0}select{text-transform:none}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}ul{margin:0;padding:0}ul{list-style:none}html{font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}body{font-family:inherit;line-height:inherit}*,:after,:before{box-sizing:border-box;border:0 solid}img{border-style:solid}input::-moz-placeholder{color:#9ca3af}input:-ms-input-placeholder{color:#9ca3af}a{color:inherit;text-decoration:inherit}input,optgroup,select{padding:0;line-height:inherit;color:inherit}iframe,img{display:block;vertical-align:middle}img{max-width:100%;height:auto}*,:after,:before{--tw-border-opacity:1;border-color:rgba(229,231,235,var(--tw-border-opacity))}[type=search],select{-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:#fff;border-color:#6b7280;border-width:1px;border-radius:0;padding:.5rem .75rem;font-size:1rem;line-height:1.5rem}input::-moz-placeholder{color:#6b7280;opacity:1}input:-ms-input-placeholder{color:#6b7280;opacity:1}select{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");background-position:right .5rem center;background-repeat:no-repeat;background-size:1.5em 1.5em;padding-right:2.5rem;-webkit-print-color-adjust:exact;color-adjust:exact}.mx-4{margin-left:1rem;margin-right:1rem}.mt-4{margin-top:1rem}.mr-2{margin-right:.5rem}.mb-1{margin-bottom:.25rem}.block{display:block}.flex{display:flex}.contents{display:contents}.hidden{display:none}.h-8{height:2rem}.h-16{height:4rem}.h-20{height:5rem}.h-full{height:100%}.w-8{width:2rem}.w-96{width:24rem}.w-full{width:100%}.flex-col{flex-direction:column}.items-center{align-items:center}.justify-center{justify-content:center}.justify-around{justify-content:space-around}.gap-4{gap:1rem}.overflow-hidden{overflow:hidden}.rounded-full{border-radius:9999px}.border{border-width:1px}.border-black{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgba(255,255,255,var(--tw-bg-opacity))}.bg-gray-50{--tw-bg-opacity:1;background-color:rgba(249,250,251,var(--tw-bg-opacity))}.p-1{padding:.25rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.px-10{padding-left:2.5rem;padding-right:2.5rem}.py-1{padding-top:.25rem;padding-bottom:.25rem}.py-4{padding-top:1rem;padding-bottom:1rem}.pb-1{padding-bottom:.25rem}.text-right{text-align:right}.text-xs{font-size:.75rem;line-height:1rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-lg{font-size:1.125rem}.text-lg{line-height:1.75rem}.font-bold{font-weight:700}.uppercase{text-transform:uppercase}.text-gray-200{--tw-text-opacity:1;color:rgba(229,231,235,var(--tw-text-opacity))}.text-gray-900{--tw-text-opacity:1;color:rgba(17,24,39,var(--tw-text-opacity))}*,:after,:before{--tw-shadow:0 0 transparent}*,:after,:before{--tw-ring-inset:var(--tw-empty,/*!*/ /*!*/);--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,0.5);--tw-ring-offset-shadow:0 0 transparent;--tw-ring-shadow:0 0 transparent}@media (min-width:1024px){.lg\:flex{display:flex}.lg\:hidden{display:none}.lg\:h-12{height:3rem}.lg\:flex-row{flex-direction:row}.lg\:flex-col{flex-direction:column}.lg\:justify-center{justify-content:center}.lg\:gap-10{gap:2.5rem}.lg\:place-self-center{place-self:center}.lg\:text-xs{font-size:.75rem;line-height:1rem}.lg\:text-gray-800{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}}
+            </style>
+<link rel="alternate" type="application/rss+xml" title="Maldita.es - Periodismo para que no te la cuelen &raquo; Feed" href="/feed" />
+<link rel="icon" href="https://maldita.es/images/logos/maldita_logo_cuadrado.webp" sizes="32x32" />
+<link rel="icon" href="https://maldita.es/images/logos/maldita_logo_cuadrado_grande.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://maldita.es/images/logos/maldita_logo_cuadrado_grande.png" />
+<script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', function () {
+                cookieconsent.run({
+                    "notice_banner_type": "simple",
+                    "consent_type": "express",
+                    "palette": "light",
+                    "language": "es",
+                    "website_name": "Maldita.es",
+                    "cookies_policy_url": "https://maldita.es/aviso-legal/"
+                });
+            });
+        </script>
+<script type="text/plain" cookie-consent="strictly-necessary">(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-M8Q2QSV');
+
+
+
+        </script>
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Llena tu estómago, no el contenedor: cómo reducir el desperdicio alimentario en las comidas y cenas de Navidad · Maldita.es - Periodismo para que no te la cuelen" />
+<meta property="og:description" content="
+Ya fuesen alimentos olvidados en el fondo de la despensa o en el rincón más inaccesible de la nevera, productos caducados,…" />
+<meta property="og:url" content="https://maldita.es/alimentacion/20221225/reducir-desperdicio-alimentario-comidas-cenas-navidad/" />
+<meta property="og:site_name" content="Maldita.es — Periodismo para que no te la cuelen" />
+<meta property="article:publisher" content="https://www.facebook.com/mhemeroteca/" />
+<meta property="article:section" content="Maldita Ciencia" />
+<meta property="article:section" content="Maldita Alimentación" />
+<meta property="article:published_time" content="2021-12-28T13:29:15+01:00" />
+<meta name="DC.date.issued" content="2021-12-28T13:29:15+01:00">
+<meta name="date" content="2021-12-28T13:29:15+01:00" />
+<meta property="article:modified_time" content="2022-12-25T08:54:00+01:00" />
+<meta property="og:updated_time" content="2022-12-25T08:54:00+01:00" />
+<meta property="og:image" content="https://maldita.es/uploads/images/2021/12/61caf9cfe480epexels-karolina-grabowska-5718104-1-1-jpg.jpg" />
+<meta property="og:image:secure_url" content="https://maldita.es/uploads/images/2021/12/61caf9cfe480epexels-karolina-grabowska-5718104-1-1-jpg.jpg" />
+<meta property="og:image:width" content="1600" />
+<meta property="og:image:height" content="675" />
+<meta name="twitter:image" content="https://maldita.es/uploads/images/2021/12/61caf9cfe480epexels-karolina-grabowska-5718104-1-1-jpg.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="
+Ya fuesen alimentos olvidados en el fondo de la despensa o en el rincón más inaccesible de la nevera, productos caducados,…" />
+<meta name="twitter:title" content="Llena tu estómago, no el contenedor: cómo reducir el desperdicio alimentario en las comidas y cenas de Navidad - Maldita.es" />
+<meta name="twitter:site" content="@maldita_es" />
+<meta name="twitter:creator" content="@maldita_es" />
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://maldita.es/alimentacion/20221225/reducir-desperdicio-alimentario-comidas-cenas-navidad/"
+        },
+        "headline": "Llena tu estómago, no el contenedor: cómo reducir el desperdicio alimentario en las comidas y cenas de Navidad",
+        "image": [
+            "https://maldita.es/uploads/images/2021/12/61caf9cfe480epexels-karolina-grabowska-5718104-1-1-jpg.jpg"
+        ],
+        "datePublished": "2022-12-25 08:54:00",
+        "dateModified": "2022-12-25 08:54:00",
+        "author": {
+            "@type": "Organization",
+            "name": "Maldita.es",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Maldita.es",
+                "url": "https://maldita.es/",
+                "sameAs": ["https://www.facebook.com/mhemeroteca/", "https://twitter.com/maldita_es"],
+
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://maldita.es/images/logo_maldita.png",
+                  "caption": "Maldita.es"
+                }
+            }
+        },
+                "articleSection": "Maldita Ciencia",
+                "inLanguage": "es"
+    }
+
+
+</script>
+<link rel="alternate" type="application/rss+xml" title="Feed de Maldita Ciencia" href="https://maldita.es/malditaciencia/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de Maldita Alimentación" href="https://maldita.es/alimentacion/feed/" />
+<link rel="amphtml" href="https://maldita.es/alimentacion/20221225/reducir-desperdicio-alimentario-comidas-cenas-navidad/?amp">
+<meta property="article:section" content="Maldita Ciencia" />
+<meta property="article:section" content="Maldita Alimentación" />
+</head>
+<body>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M8Q2QSV"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<div id="hot-topics" class="hidden md:flex justify-center" style="padding-top: 6px; padding-bottom: 6px; background-color: #747474">
+<a style="font-weight:bold; color:#f4f4f4" href="https://maldita.es/malditobulo/20230103/desinformaciones-conspiraciones-investidura-lula-da-silva-brasil/">Brasil</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a style="font-weight:bold; color:#f4f4f4" href="https://maldita.es/malditatecnologia/20230109/chatgpt-uso-buscador-google-bing/">ChatGPT</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a style="font-weight:bold; color:#f4f4f4" href="https://maldita.es/malditateexplica/20230105/fechas-elecciones-2023-municipales-autonomicas-generales/">Elecciones 2023</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a style="font-weight:bold; color:#f4f4f4" href="https://maldita.es/malditaciencia/20221219/promocion-medicamentos-tiktok-consecuencias-respuesta-plataforma/">Medicamentos TikTok</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a style="font-weight:bold; color:#f4f4f4" href="https://maldita.es/malditodato/20221227/negacionistas-telegram/">Los negacionistas de Telegram</a>
+</div>
+<div id="headernav">
+<header id="mobile-header" class="flex space-between row bg-white lg:hidden">
+<div id="mobile-menu" class="flex flx-row items-center justify-around" onclick="openNav()">
+<img id="menu-icon" src="/images/icons/menu-icon.png">
+MENÚ
+</div>
+<div id="mobile-logo">
+<a href="/"><img src="https://maldita.es/images/logos/logo-peque.svg" alt="logo" /></a>
+</div>
+<div id="mobile-register-button" class="px-4 hazte-maldito-button">
+<div><a target="_blank" class="no-decoration black" href="https://comunidad.maldita.es/u/register">HAZTE
+MALDITO</a></div>
+</div>
+</header>
+<header id="header" class="hidden lg:flex lg:justify-center lg:flex-col bg-white">
+<div id="logo">
+<a href="/"><img id="logo-img" src="https://maldita.es/images/logos/logo-desktop.svg" alt="logo" /></a>
+</div>
+<div id="header-actions" class="content-wrapper w-max-content flex w-full lg:place-self-center items-center h-16 overflow-hidden">
+<div id="maldita-tools" class="bg-gray-50 rounded-full flex p-1 items-center mb-1">
+<span class="mx-4 text-sm">Herramientas</span>
+<div id="maldita-tool" class="mr-2 border border-black h-8 w-8 rounded-full"><a class="flex justify-center h-full items-center" href="https://api.whatsapp.com/send?phone=34644229319&text=&source=&data=&app_absent=" target="_blank"> <img class="tool-image" src="/images/icons/whatsapp.svg" alt="android"></a></div>
+<div id="maldita-tool" class="mr-2 border border-black h-8 w-8 rounded-full"><a class="flex justify-center h-full items-center" href="/nosotros/20190416/maldita-app-descarga-nuestra-nueva-herramienta-para-luchar-contra-la-desinformacion/">
+<img class="tool-image" src="/images/icons/android.svg" alt="android"></a></div>
+<div id="maldita-tool" class="mr-2 border border-black h-8 w-8 rounded-full"><a class="flex justify-center h-full items-center" href="/herramientas-de-verificacion">
+<img id="tool-image" src="/images/icons/cajaherramientas.svg" alt="android"></a></div>
+<div id="maldita-tool" class="mr-2 border border-black h-8 w-8 rounded-full"><a class="flex justify-center h-full items-center" href="/descarga-la-extension-de-maldito-bulo-para-google-chrome-y-firefox"> <img id="tool-image" src="/images/icons/extension.svg" alt="android"></a></a>
+</div>
+<div id="maldita-tool" class="mr-2 border border-black h-8 w-8 rounded-full"><a class="flex justify-center h-full items-center" href="/buloteca">
+<img class="tool-image" src="/images/icons/buloteca.svg" alt="android"></a></div>
+</div>
+<div id="maldita-search" class="mb-1">
+<label>
+<input class="search_input bg-gray-50 border border-black rounded-full px-10 py-1 w-96 focus:outline-none" type="search" placeholder="Busca en Maldita.es…" />
+</label>
+</div>
+<a id="login-underline" href="https://comunidad.maldita.es/u/login">
+<div id="login-button" class="mb-1"><span class="font-bold">Inicia sesión</span></div>
+</a>
+<a href="https://comunidad.maldita.es"><span id="become-maldito-button" class="block uppercase font-bold h-16 px-6 flex items-center"><span class="pb-1">Hazte Maldito</span></span></a>
+</div>
+
+</header>
+<div id="menu-wrap" class="menu-closed" style="background: #00000">
+<div class="flex flex-col lg:hidden" id="header-mobile-actions">
+<label>
+<input class="search_input text-gray-900 bg-gray-50 border border-black rounded-full px-10 py-1 w-full mr-2 focus:outline-none" type="search" id="site-search" aria-label="Buscar en Maldita.es">
+</label>
+<a id="login-underline-mobile" class="no-decoration py-4 text-right" href="https://comunidad.maldita.es/u/login">Inicia sesión</a>
+</div>
+<div id="main-nav" class="contents lg:flex justify-center text-lg lg:text-xs lg:h-12 items-center" style="background: #00000">
+<nav id="main" class="menu ">
+<ul class="gap-4 lg:gap-10 flex flex-col lg:flex-row h-full">
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="/">Portada</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="/malditahemeroteca/">Hemeroteca</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="/malditobulo/">Bulo</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="/malditaciencia/">Ciencia</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="/malditodato/">Dato</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="/malditateexplica/">Te Explica</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="/malditatecnologia/">Tecnología</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="/nosotros-maldita/">Nosotros</a></li>
+</ul>
+</nav>
+<div class="lg:hidden mt-4 lg:text-gray-800 text-gray-200" style="background: #00000">
+<nav id="sub-main" class="menu ">
+<ul class="gap-4 lg:gap-10 flex flex-col lg:flex-row h-full">
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/migracion/">Migración</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/feminismo/">Feminismo</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/alimentacion/">Alimentación</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/clima/">Clima</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/malditaeduca/">Educa</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/timo/">Timo</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div id="menu-wrap" class="sub-menu-wrap hidden lg:flex justify-center text-xs" style="background: #f4f4f4">
+<div class="sub-menu">
+<nav id="sub-main" class="menu ">
+<ul class="gap-4 lg:gap-10 flex flex-col lg:flex-row h-full">
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/migracion/">Migración</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/feminismo/">Feminismo</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/alimentacion/">Alimentación</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/clima/">Clima</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/malditaeduca/">Educa</a></li>
+<li class="first-of-type:mt-8 first-of-type:md:mt-0 first-of-type:mb-4 first-of-type:md:mb-0 no-decoration "><a class="no-decoration" href="https://maldita.es/timo/">Timo</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div id="stickyheader" class="hidden bg-white">
+<div class="stickyheader-wrap">
+<div id="sticky-logo"><a href="/">
+<img class="lazyload" src="https://maldita.es/images/logos/logo-peque.svg" data-src="https://maldita.es/images/logos/logo-peque.svg" alt="logo" /></a>
+</div>
+<div id="maldita-search" class="mb-1">
+<label>
+<input class="search_input bg-gray-50 border border-black rounded-full px-10 py-1 w-96 focus:outline-none" type="search" placeholder="Busca en Maldita.es…" />
+</label>
+</div>
+<div id="sticky-sections-menu" class="mb-1">
+<select class="border border-black rounded-full px-4 py-1" name="sections_sticky" id="sections_sticky">
+<optgroup label="Secciones">Secciones</optgroup>
+<option value="portada">Portada</option>
+<option value="malditahemeroteca">Maldita Hemeroteca</option>
+<option value="malditobulo">Maldito Bulo</option>
+<option value="malditaciencia">Maldita Ciencia</option>
+<option value="malditodato">Maldito Dato</option>
+<option value="malditateexplica">Maldita Te Explica</option>
+<option value="malditatecnologia">Maldita Tecnología</option>
+<optgroup label="Más Maldita">Más Maldita</optgroup>
+<option value="malditamigracion">Maldita Migración</option>
+<option value="malditofeminismo">Maldito Feminismo</option>
+<option value="malditaalimentacion">Maldita Alimentación</option>
+<option value="clima">Maldito Clima</option>
+<option value="malditaeduca">Maldita Educa</option>
+<option value="buloteca">La Buloteca</option>
+<option value="nosotros-maldita">Nosotros</option>
+</select>
+</div>
+<a id="login-underline" href="https://comunidad.maldita.es/u/login">
+<div id="login-button" class="mb-1"><span class="font-bold">Inicia sesión</span></div>
+</a>
+<a href="https://comunidad.maldita.es"><span id="become-maldito-button" class="block uppercase font-bold h-16 px-6 flex items-center"><span class="pb-1">Hazte Maldito</span></span></a>
+</div>
+</div>
+<div id="content">
+<div id="section-data" style="display: none;" data-section-slug="malditaciencia"></div>
+<div id="article-with-sidebar" class="max-w-mobile lg:max-w-desktop flex flex-col lg:flex-row justify-between mx-auto mt-8">
+<div id="article-wrapper" class="max-w-article-wrap">
+<div class="article-section-headline section-title section-background-malditaciencia">
+<a class="link" href="/malditaciencia/">
+MALDITA
+<strong class="section-title-malditaciencia">CIENCIA</strong></a>
+</div>
+<h1 class="mb-6">Llena tu estómago, no el contenedor: cómo reducir el desperdicio alimentario en las comidas y cenas de Navidad</h1>
+<div id="article-meta" class="mb-6">
+<div id="article-date-published" class="flex mb-6">
+<span class="meta-label w-1/4">Publicado</span>
+<span class="meta-value w-3/4"><time datetime="2021-12-28T13:29:15+01:00" class="created">28/12/2021 13:29</time></span>
+</div>
+<div id="article-date-updated" class="flex  mb-6">
+<span class="meta-label w-1/4">Actualizado</span>
+<span class="meta-value w-3/4"><time datetime="2022-12-25T08:54:00+01:00" class="modified">25/12/2022 08:54</time></span>
+</div>
+<div id="article-share" class="flex mb-6">
+<span class="meta-label w-1/4">Comparte</span>
+<div class="meta-value w-3/4">
+<div class="flex flex-row justify-around">
+<a target="_blank" href="https://www.facebook.com/sharer.php?u=https://maldita.es/alimentacion/20221225/reducir-desperdicio-alimentario-comidas-cenas-navidad/?utm_source=twitter&amp;utm_medium=compartido&amp;utm_campaign=Llena%20tu%20est%C3%B3mago%2C%20no%20el%20contenedor%3A%20c%C3%B3mo%20reducir%20el%20desperdicio%20alimentario%20en%20las%20comidas%20y%20cenas%20de%20Navidad&t=Llena tu estómago, no el contenedor: cómo reducir el desperdicio alimentario en las comidas y cenas de Navidad"><div class="share-icon social-facebook-icon"></div></a>
+<a class="icon-link" target="_blank" href="https://twitter.com/intent/tweet?text=Llena tu estómago, no el contenedor: cómo reducir el desperdicio alimentario en las comidas y cenas de Navidad https%3A%2F%2Fmaldita.es%2Falimentacion%2F20221225%2Freducir-desperdicio-alimentario-comidas-cenas-navidad%2F%3Futm_source%3Dtwitter%26utm_medium%3Dcompartido%26utm_campaign%3DLlena%2520tu%2520est%25C3%25B3mago%252C%2520no%2520el%2520contenedor%253A%2520c%25C3%25B3mo%2520reducir%2520el%2520desperdicio%2520alimentario%2520en%2520las%2520comidas%2520y%2520cenas%2520de%2520Navidad"><div class="share-icon social-twitter-icon"></div></a>
+<a class="icon-link" target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=https://maldita.es/alimentacion/20221225/reducir-desperdicio-alimentario-comidas-cenas-navidad/?utm_source=linkedin&amp;utm_medium=compartido&amp;utm_campaign=Llena%20tu%20est%C3%B3mago%2C%20no%20el%20contenedor%3A%20c%C3%B3mo%20reducir%20el%20desperdicio%20alimentario%20en%20las%20comidas%20y%20cenas%20de%20Navidad"><div class="share-icon social-linkedin-icon"></div> </a>
+<a class="icon-link" target="_blank" href="https://wa.me/?text=Llena tu estómago, no el contenedor: cómo reducir el desperdicio alimentario en las comidas y cenas de Navidad https%3A%2F%2Fmaldita.es%2Falimentacion%2F20221225%2Freducir-desperdicio-alimentario-comidas-cenas-navidad%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dcompartido%26utm_campaign%3DLlena%2520tu%2520est%25C3%25B3mago%252C%2520no%2520el%2520contenedor%253A%2520c%25C3%25B3mo%2520reducir%2520el%2520desperdicio%2520alimentario%2520en%2520las%2520comidas%2520y%2520cenas%2520de%2520Navidad"><div class="share-icon social-whatsapp-icon"></div></a>
+</div>
+</div>
+</div>
+</div>
+<img id="article-featured-image" class="mb-6" src="https://maldita.es/uploads/images/2021/12/61caf9cfe480epexels-karolina-grabowska-5718104-1-1-jpg.jpg">
+<div id="article-content" class="flex flex-col-reverse lg:flex-row">
+<div id="article-context" class="lg:w-40 lg:min-w-context md:pr-6">
+<div class="font-bold text-sm  mr-2 mb-2" style="color: #989898;font-family: 'Fira Sans', sans-serif;font-weight: bold">Categorías
+</div>
+<div class="flex flex-row flex-wrap mb-4">
+<div style="word-break: break-word" class="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 break-words rounded-full bg-white text-gray-700 border mb-2">
+<a href="/tema/alimentacion-alimentos" class="text-gray-700 no-underline border-0 text-gray-700 hover-bg-gray-600 hover-text-white"> Alimentación/Alimentos
+</a> </div>
+</div>
+<div class="font-bold text-sm mr-2 mb-2" style="color: #989898;font-family: 'Fira Sans', sans-serif;font-weight: bold">Recursos utilizados
+</div>
+<div class="flex flex-row flex-wrap mb-4">
+<div style="word-break: break-word" class="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 break-words rounded-full bg-white text-gray-700 border mb-2">
+Expertos
+</div>
+<div style="word-break: break-word" class="text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 break-words rounded-full bg-white text-gray-700 border mb-2">
+Fuentes oficiales (comunicados, bases de datos, BOE)
+</div>
+</div>
+</div>
+<div id="article-text" class="max-w-regular-content">
+
+<p>Ya fuesen alimentos olvidados en el fondo de la despensa o en el rincón más inaccesible de la nevera, productos caducados, frutas y verduras estropeadas por no haberlas comido a tiempo y un largo etcétera, la realidad es que<strong> no consumimos gran parte de los suministros que compramos</strong>. ¿Y dónde acaban? <a href="https://maldita.es/malditaciencia/20210928/reducir-perdida-desperdicio-alimentos/">En la basura</a>. Según el <a href="https://www.mapa.gob.es/es/prensa/ultimas-noticias/aqu%C3%AD-no-se-tira-nada.-luis-planas-presenta-la-nueva-campa%C3%B1a-para-concienciar-contra-el-desperdicio-alimentario/tcm:30-562841">Ministerio de Agricultura, Pesca y Alimentación</a>, en 2020 cada español tiró una media de 31 kilos/litros de comida, lo que supone un total de 1.354 millones.&nbsp;&nbsp;&nbsp;</p>
+
+
+<p>No hay mejor momento para ilustrar la situación que fechas como estas, las <a href="https://maldita.es/malditaciencia/20211222/salud-mental-comida-cena-navidad-conversaciones-soledad-ausencias/">Navidades</a>, en las que <a href="https://maldita.es/malditaciencia/20211225/trastornos-conduca-alimentaria-tca-navidad-facilitar-fechas/">todo parece girar en torno a mesas rebosantes de comida</a>. Ya sea porque<strong> comemos fuera de casa</strong> y pedimos más de la cuenta por motivo de celebración o al ponernos nosotros mismos el delantal y <strong>calcular mal las cantidades</strong> (al ser normalmente <strong>más comensales</strong> que de costumbre), es fácil que mucha de la comida que nos ha acompañado durante la comida o la cena termine en la basura. ¿Qué podemos hacer para evitarlo?&nbsp;</p>
+
+
+<p><a href="https://www.uoc.edu/portal/es/news/kit-premsa/guia-experts/directori/anna-bach.html">Anna Bach</a> y <a href="https://www.uoc.edu/portal/es/news/kit-premsa/guia-experts/directori/alicia-aguilar.html">Alicia Aguilar</a>, docentes e investigadoras del <a href="http://transfer.rdi.uoc.edu/es/grupo/grupo-interdisciplinario-en-alimentacin-nutricin-sociedad-y-salud">Foodlab</a> en la Universidad Oberta de Catalunya (UOC) <a href="https://www.uoc.edu/portal/es/news/actualitat/2021/352-evitar-desperdicio-comida-Navidad.html">proponen seis consejos</a> para intentar no ‘empachar’ al contenedor del final de la calle con las delicias culinarias navideñas.&nbsp;</p>
+
+
+<h2>¿Hay menú preparado? Haz una lista con los ingredientes necesarios para cocinarlo</h2>
+
+
+<p>Para evitar llegar a casa con un ingente batiburrillo de productos sin oficio ni beneficio mejor ir a la compra a tiro hecho <strong>con una lista de la compra preparada</strong>. Para ello es útil desmenuzar el menú de la comida o cena.&nbsp;</p>
+
+
+<p>¿Qué ingredientes vamos a necesitar para prepararlo? En caso de querer añadir algún que otro entrante, ¿cuáles queremos? Mejor que nuestro estómago no decida por nosotros en los pasillos del supermercado, es decir, no ir a hacer la compra con hambre. “Esto es especialmente importante para los <strong>productos frescos</strong>, que tienen una vida útil más corta”, señalan las expertas.&nbsp;</p>
+
+
+<h2>Presta atención a la conservación de los productos</h2>
+
+
+<p>No se conservan igual los <a href="https://maldita.es/malditaciencia/20190517/si-es-mejor-guardar-los-huevos-en-la-nevera-aunque-en-el-supermercado-no-esten-refrigerados/">huevos</a>, que las <a href="https://maldita.es/malditaciencia/20211108/cual-es-mejor-forma-conservar-patatas-duren-mas-tiempo/">patatas </a>o la <a href="https://maldita.es/malditaciencia/20211208/distinguir-frutas-climatericas-no-climatericas-conservar-alimentos/">fruta</a>. Tampoco los <a href="https://maldita.es/malditaciencia/20211208/tiempo-yogur-fuera-nevera-refrigeracion/">yogures </a>y los distintos tipos de <a href="https://maldita.es/malditaciencia/20211118/leche-nevera-tratamiento-envase-abierto-cerrado/#:~:text=Como%20ya%20hemos%20explicado%20en,a%20la%20hora%20de%20comer.">leche</a>. Y si hablamos de productos procesados, en los que son los fabricantes quienes indican las especificaciones necesarias, nos juntamos con un<a href="https://maldita.es/malditaciencia/20211209/caducidad-consumo-preferente-duracion-alimentos/"> manual de instrucciones al completo</a>.&nbsp;</p>
+
+
+<p>“Hay que <strong>leer las etiquetas, comprobar las fechas de caducidad y seguir las recomendaciones de conservación</strong> (en la nevera, congelador o armarios), según el tipo de producto”, señalan Bach y Aguilar. Si quieres un consejo sobre cómo empezar, en <em>Maldita.es</em> te explicamos <a href="https://maldita.es/malditaciencia/20211208/ordenar-alimentos-nevera-recomendaciones-cocinados/">la mejor forma de ordenar la nevera</a>, tanto para que los productos no se estropeen como para<a href="https://maldita.es/malditaciencia/20211210/nevera-encimera-descongelar-alimento-temperatura-ambiente/"> garantizar su seguridad alimentaria</a>.&nbsp;</p>
+
+
+<h2>Cuidado con la cantidad en las raciones&nbsp;</h2>
+
+
+<p>El consejo de las expertas es revisar la despensa antes de comprar y planificar para reducir la compra por impulso. Y, por supuesto, organizar el menú ciñéndonos al número de invitados. Una vez tenemos la fuente sobre la mesa, presta atención a las <strong>porciones que repartes</strong>: en caso de que sobre comida en el recipiente, puede guardarse y reutilizarse en otra ocasión pero, si sobra una vez en el plato, probablemente termine en la basura.</p>
+
+
+<p>“Así pues, hay que pensar antes de llenar el plato (calcular lo que se comerá) sin pasarse”, señalan las docentes de la UOC. ¿Que nos quedamos con hambre? Siempre habrá tiempo de echarse un cacito, porción o cucharada de más. En caso de que la comilona se haga en un restaurante y sobre comida, <strong>recuerda que puedes pedir que te la preparen para llevar</strong>.&nbsp;</p>
+
+
+<h2>¿Ha sobrado? Al congelador…</h2>
+
+
+<p>Has hecho una lista y has procurado ceñirte a ella. Has ajustado raciones y repartido la cantidad apropiada en cada plato. Aun así, ha sobrado comida que probablemente no vayas a comer en los próximos días. ¿Solución? Congelarla.&nbsp;</p>
+
+
+<p>“Si se hace bien, <strong>es un método de conservación que nos permite alargar el tiempo de consumo de un alimento <a href="https://alimentacion.maldita.es/seguridad-conservacion-alimentos/20210710/la-comida-pierde-nutrientes-al-congelarla-no-siempre-que-se-haga-de-manera-correcta">sin que pierda valor nutritivo</a></strong>”, recuerdan las expertas. Además, proponen un consejo: congelar en recipientes que contengan las raciones que después se consumirán. Si son individuales, pueden facilitarnos situaciones como llevar el <em>tupper </em>de comida al trabajo, por ejemplo.&nbsp;</p>
+
+
+<p>No solo puedes congelar el plato más elaborado: en <em>Maldita.es</em> también te explicamos cómo hacerlo con el <a href="https://maldita.es/malditaciencia/20210205/congelar-descongelar-pan-calidad/">pan</a> y la <a href="https://maldita.es/malditaciencia/20201222/bolleria-congelar-envolverla-bien-evitar-olores/">repostería</a>, los <a href="https://maldita.es/malditaciencia/20210822/los-huevos-se-pueden-congelar-no-cualquier-manera/">huevos</a>, las <a href="https://maldita.es/malditaciencia/20210903/congelar-patatas-cafe-bano-chicle-comida-3-consultorio-maldita-alimentacion/">patatas</a> y por qué es especialmente importante en alimentos como el <a href="https://maldita.es/malditaciencia/20210814/congelar-pescado-vamos-comer-crudo-cuando-hace-falta-temperatura/">pescado.</a> A la hora de descongelar, recuerda:<a href="https://maldita.es/malditaciencia/20211210/nevera-encimera-descongelar-alimento-temperatura-ambiente/"> mejor en la nevera que sobre la encimera</a>. </p>
+
+
+<p>Si piensas comer las sobras durante el mismo día o los siguientes, <a href="https://maldita.es/malditaciencia/20211111/sobras-alimentos-cuidado-volver-preparar-comer/">basta con conservarlas en la nevera</a>. Eso sí, <strong>no esperes mucho a guardarlas</strong>, mejor antes de la sobremesa.&nbsp;</p>
+
+
+<h2>… o de vuelta a una nueva receta</h2>
+
+
+<p>Otra de las recomendaciones consiste en<strong> utilizar las sobras como ingredientes en recetas distintas</strong>. ¿Quién no ha hecho croquetas con los restos del cocido o del pollo asado? De primero de cocina casera. Lo mismo sucede con el puré a base de las verduras que han hecho de guarnición o el montadito de tortilla de patata o embutido con los restos de sus respectivos platos: hay opciones para dar y regalar. De hecho, ¿sabías que el origen de los canelones tiene que ver con reaprovechar los restos del asado? Es más, <a href="https://blogs.20minutos.es/yaestaellistoquetodolosabe/el-origen-de-comer-los-tradicionales-canelones-de-sant-esteve-en-cataluna-el-26-de-diciembre/">es uno de los platos típicos navideños en Cataluña</a> precisamente por ello, como explica el divulgador Alfred López.&nbsp;</p>
+
+
+<h2>Ante todo, haz un consumo responsable</h2>
+
+
+<p>“En general, el <strong><a href="https://maldita.es/malditaciencia/20210923/importante-consumir-alimentos-proximidad/">consumo de proximidad</a> y de <a href="https://maldita.es/malditaciencia/20210914/por-que-importante-consumir-alimentos-temporada/">temporada</a></strong><a href="https://maldita.es/malditaciencia/20210914/por-que-importante-consumir-alimentos-temporada/"> </a>mejora la vida de las pequeñas comunidades agrícolas, aumenta la biodiversidad, requiere menos energía para el transporte, tiene una buena relación calidad-precio y contribuye a una alimentación sana”, señalan las expertas.&nbsp;</p>
+
+
+<p>Por otra parte, recomiendan <strong>evitar los alimentos con embalajes de plástico</strong> y optar por otros más sostenibles como el cartón o usar solo envases reciclables: “Hay que buscar cómo evitar el desperdicio de embalajes que, como el desperdicio de alimentos, es una forma de contribuir a la sostenibilidad alimentaria”.</p>
+
+
+<p><em>Este contenido es apoyado por la iniciativa “</em><a href="http://www.alimentandoelcambio.es/"><em>Alimentando el cambio</em></a><em>” de DANONE EDP en el que Maldita.es colabora elaborando contenidos independientes según su metodología</em>.</p>
+
+<hr>
+<p class="font-thin text-xs">
+Primera
+fecha
+de
+publicación
+de
+este
+artículo: 28/12/2021</p>
+</div>
+</div>
+</div>
+<div id="section-sidebar" class="mb-8 md:mb-8 w-full md:w-sidebar md:flex md:flex-col">
+<style type="text/css">* { box-sizing: border-box; } body {margin: 0;}#i2wjo{font-size:14px;}#ikxcn{font-weight:400;}#iu7ew{color:#27c974;font-size:22px;}</style>
+<div class="msidebar"><div draggable="false" droppable=".promo-three, .news-three, .promo-sidebar" class="sidebar-column"><div data-section="10" class="news-three news-block"><div draggable="false" class="news-three-top"><div data-gjsselectable="false" draggable="false" class="news-three-headline"><span id="ikxcn">Apúntate a la newsletter de</span><span> Maldita <span id="iu7ew">Ciencia</span></span></div><img src="../../../images/newsletter-bro.svg" draggable="false" class="news-three-image" /></div><div draggable="false" class="news-three-input-container"><input data-selectable="false" draggable="false" type="text" placeholder="Escribe tu e-mail" class="newsletter-block-input news-three-input" /><label draggable="false" class="news-three-checkbox news-checkbox"><input type="checkbox" value="first_checkbox" class="pp-checkbox" /> <a href="https://maldita.es/politica-de-privacidad-de-maldita-es/" class="news-pp-link" id="i2wjo">Acepto la <b>política de privacidad</b></a></label><button data-selectable="false" draggable="false" class="newsletter-block-button news-three-button">SUSCRIBIRSE</button></div></div><div class="send-questions" data-section="2"><div draggable="false" class="send-questions-top"><div data-gjsselectable="false" draggable="false" class="send-questions-headline">Mándanos tus preguntas</div><img src="../../../images/mail-bro.png" draggable="false" class="send-questions-image" />&#96;
+</div><input draggable="false" type="text" placeholder="Envía tu pregunta" class="send-questions-question" /><input draggable="false" type="text" placeholder="Tu e-mail" class="send-questions-email" /><div draggable="false" class="send-questions-input-container"><label draggable="false" class="send-questions-checkbox"><input type="checkbox" id="pp-checkbox" value="first_checkbox" /> <a href="https://maldita.es/politica-de-privacidad-de-maldita-es/" class="news-pp-link">Acepto la política de privacidad</a></label><p class="pp-error text-danger hidden">Por favor, lee y acepta la Política de Privacidad.</p><button draggable="false" class="send-questions-button">ENVIAR</button></div></div><div headline="Hacemos peticiones de transparencia por ti" image="../../images/promo-def.png" class="super-three" data-link="https://maldita.es/malditobulo/1"><div draggable="false" class="super-three-top"><div data-gjsselectable="false" draggable="false" class="super-three-headline"><a draggable="false" href="https://comunidad.maldita.es/u/register" class="link"><strong class="lato-bold">Usa tus superpoderes</strong> y ayúdanos en esta batalla contra la mentira</a></div><img src="../../../images/superhero-bro.png" draggable="false" class="super-three-image" />&#96;
+</div></div><div class="promo-sidebar promo-sidebar-ciencia" data-section="2" data-headline="Metodología de Maldita Ciencia" data-hastext data-link="https://maldita.es/metodologia-de-maldita-ciencia/"><div draggable="false" class="promo-sidebar-headline"><a draggable="false" href="https://maldita.es/metodologia-de-maldita-ciencia/" class="link">Metodología de Maldita Ciencia</a></div><div draggable="false" class="promo-sidebar-text notext"><strong draggable="false" class="lato-bold">Únete</strong> y apóyanos en nuestra batalla contra la mentira</div></div><div class="promo-sidebar promo-sidebar-ciencia" data-section="2" data-headline="Política de rectificación" data-hastext data-link="https://maldita.es/politica-de-rectificacion/"><div draggable="false" class="promo-sidebar-headline"><a draggable="false" href="https://maldita.es/politica-de-rectificacion/" class="link">Política de rectificación</a></div><div draggable="false" class="promo-sidebar-text notext"><strong draggable="false" class="lato-bold">Únete</strong> y apóyanos en nuestra batalla contra la mentira</div></div><div class="promo-three"><div data-selectable="false" draggable="false" class="promo-headline-three">Hazte maldito, Hazte maldita</div><div draggable="false" class="promo-text-three"><a draggable="false" href="https://comunidad.maldita.es/u/register" class="link"><strong class="lato-bold">Únete</strong> y apóyanos en nuestra batalla contra la mentira</a></div></div><div class="whatsapp-three"><div draggable="false" class="whatsapp-three-top"><div draggable="false" class="whatsapp-three-headline"><a draggable="false" href="https://api.whatsapp.com/send?phone=34644229319&text=&source=&data=&app_absent=" class="link">Verifica automáticamente los bulos que te mandan en <strong class="lato-bold-green">nuestro número de whatsapp</strong><br /><br /><strong class="lato-ultra-bold">+34 644 229 319</strong></a></div><img src="../../../images/whatsapp-bro.png" draggable="false" class="whatsapp-three-image" />&#96;
+</div></div><div class="master-three"><a href="https://mastermaldita.es/" id="isefs"><img src="../../../images/logo-master.svg" draggable="false" class="master-three-image" /><div draggable="false" class="master-three-text">
+Máster en
+Investigación Periodística,
+Nuevas Narrativas,
+Datos, Fact-checking
+y Transparencia
+</div><div data-gjsselectable="false" draggable="false" class="master-three-logo-container"><img src="../../../images/logo-urjc.svg" draggable="false" class="master-three-image-urjc" /><img src="../../../images/logo-maldita.webp" draggable="false" class="master-three-image-maldita" /></div></a></div></div></div>
+</div>
+</div>
+<div>
+<style type="text/css">* { box-sizing: border-box; } body {margin: 0;}.three-column{margin:40px 0 auto auto;}.three-column.relacionados{margin:40px auto auto auto;max-width:1170px;}.max-width-base.related-articles{padding:40px 0 40px 0;background-color:#e8e8e8;}#ivk1f{padding:10px;}.related-articles-title{max-width:1170px;margin:0 auto 0 auto;font-size:29px;font-family:Helvetica, sans-serif;}</style>
+<div class="max-width-base"><div draggable="false" droppable=".promo-three, .news-three, .promo-sidebar" class="content-wrapper"></div><div class="promo-full-extended" data-buttonurl="https://comunidad.maldita.es/?utm_source=malditaweb&utm_medium=cajamaldito"><div title="Hazte Maldito" class="content-wrapper"><div data-selectable="false" draggable="false" class="promo-headline-ex">Hazte maldito, Hazte maldita</div><div draggable="false" class="promo-ex-text-container"><div draggable="false" class="promo-text-ex"><strong title="Gh" class="lato-bold">Te necesitamos para combatir los bulos y la mentira</strong>: sólo juntos podemos pararla. En Maldita.es queremos darte herramientas para protegerte contra la desinformación, pero sólo con tu apoyo será posible. <br /><br /><strong class="lato-bold">Eres muy importante en esta batalla para que no nos la cuelen</strong>. Seguro que tienes conocimientos útiles para nuestra batalla contra los bulos. ¿Tienes conocimientos de idiomas? ¿Lo tuyo es la historia? ¿Sabes mucho sobre leyes? ¡Préstanos tu Superpoder y acabemos juntos con los bulos! <br /><br /><strong class="lato-bold">También puedes apoyarnos económicamente</strong>. Maldita.es una entidad sin ánimo de lucro y que sea sostenible e independiente, libre de publicidad y con profesionales bien remunerados dedicados a luchar, contigo, contra la desinformación depende de tu ayuda. Cada aportación cuenta, cualquier cantidad es importante. <br /><br /></div><a draggable="false" href="https://comunidad.maldita.es/?utm_source=malditaweb&utm_medium=cajamaldito" class="promo-button-url-ex"><button draggable="false" class="promo-button-ex">HAZTE <span class="__cf_email__" data-cfemail="24696568606d7064">[email&#160;protected]</span> Y ÚNETE A ESTA LUCHA CONTRA LA MENTIRA</button></a></div></div></div></div><div class="max-width-base related-articles"><div id="ivk1f" class="related-articles-title"><b>Artículos relacionados</b></div><div draggable="false" droppable=".promo-three, .news-three, .promo-sidebar" class="content-wrapper"></div><div class="three-column relacionados"><div draggable="false" droppable=".promo-three, .news-three" class="columnt"><div data-offset="0" data-id="-1" data-exclude="" data-section="-1" class="one-piece article-block article one-article"><img src="https://maldita.es/uploads/images/2023/01/63bc17b5780e2rodea-congreso-1-jpg.jpg" draggable="false" class="one-piece-image" /><div draggable="false" class="one-piece-text"><div draggable="false" class="news-headline one-piece-headline"><a draggable="false" href="https://maldita.es/malditobulo/20230109/podemos-asalto-congreso-diputados-investidura-rajoy/" class="link">¿Qué sabemos sobre el vídeo viral que supuestamente muestra a miembros de Podemos “asaltando el Congreso de los Diputados para impedir la investidura de Mariano Rajoy”?</a></div><div draggable="false" class="news-lead one-piece-lead entradilla-gone">null</div></div></div></div><div draggable="false" droppable=".promo-three, .news-three" class="columnt"><div data-offset="1" data-id="-1" data-exclude="" data-section="-1" class="one-piece article-block article one-article"><img src="https://maldita.es/uploads/images/2023/01/63bbee92c5c69main-jpg.jpg" draggable="false" class="one-piece-image" /><div draggable="false" class="one-piece-text"><div draggable="false" class="news-headline one-piece-headline"><a draggable="false" href="https://maldita.es/malditobulo/20230109/Jennytrans17-cuenta-troll-trans/" class="link">Cuidado con el perfil de Jennytrans17 que asegura que las trans son “las verdaderas mujeres”: es una cuenta trol</a></div><div draggable="false" class="news-lead one-piece-lead entradilla-gone">null</div></div></div></div><div draggable="false" droppable=".promo-three, .news-three" class="columnt"><div data-offset="2" data-id="-1" data-exclude="" data-section="-1" class="one-piece article-block article one-article"><img src="https://maldita.es/uploads/images/2023/01/63bbe371b2d512022provincias-jpg.jpg" draggable="false" class="one-piece-image" /><div draggable="false" class="one-piece-text"><div draggable="false" class="news-headline one-piece-headline"><a draggable="false" href="https://maldita.es/clima/20230109/2022-ano-calido-provincias-espana/" class="link">2022 ha sido el año más cálido en todas las provincias españolas salvo las canarias</a></div><div draggable="false" class="news-lead one-piece-lead entradilla-gone">null</div></div></div></div></div></div>
+</div>
+</div>
+<footer class="text-white bg-black">
+<div class="px-8 lg:px-0 content-wrapper centered py-8 flex flex-col md:flex-row gap-8">
+<div id="branding" class="md:w-1/2">
+<div>
+<div class="flex flex-row">
+<img id="first-logo-footer" class="w-20 h-20" src="https://maldita.es/images/logo-maldita-footer.png" alt="logo">
+<a href="https://maldita.es/maldita-es-firmante-del-codigo-de-principios-del-international-fact-checking-network">
+<img class="w-20" src="/images/badgemaldita.png" alt="logo ifcn">
+</a>
+</div>
+<p class="py-8">Creamos herramientas periodísticas para que no te la cuelen: Maldita Hemeroteca, Maldito Bulo, Maldita Ciencia, Maldito Dato y Maldita Tecnología.</p>
+<div class="hazte-maldito-button p-4 w-48 text-center">
+<div><a target="_blank" class="no-decoration black w-full" href="https://comunidad.maldita.es/u/register">HAZTE MALDITO</a></div>
+</div>
+</div>
+</div>
+<div id="mas-maldita" class="md:w-1/2 md:flex md:items-center md:flex-col">
+<div>
+<strong class="mb-4 block"><b>MÁS MALDITA</b></strong>
+<ul>
+<li class="leading-2 m-4"><a target="_blank" href="https://maldita.es/quienes-somos/">Conoce al equipo</a>
+ </li>
+<li class="leading-2 m-4"><a target="_blank" href="https://maldita.es/maldita-es-journalism-to-not-be-fooled/">Maldita in English</a>
+</li>
+<li class="leading-2 m-4"><a target="_blank" href="https://open.spotify.com/show/5zWm9bW6SFxx11a1AOjhtJ?si=oUftcc-2TPStwoJEM4V6vg">Podcast</a>
+</li>
+<li class="leading-2 m-4"><a target="_blank" href="https://maldita.es/malditas-cuentas-de-donde-vienen-donde-van-nuestros-ingresos/">Nuestras cuentas</a>
+</li>
+<li class="leading-2 m-4"><a target="_blank" href="/nosotros-maldita/">Nosotros</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="metodologías" class="md:w-1/2 md:flex md:items-center md:flex-col">
+<div>
+<strong class="mb-4 block"><b>METODOLOGÍAS</b></strong>
+<ul>
+<li class="leading-2 m-4"><a target="_blank" href="https://maldita.es/metodologia-de-maldito-dato/">Metodología de Maldito Dato</a>
+</li>
+<li class="leading-2 m-4"><a target="_blank" href="https://maldita.es/metodologia-de-maldito-bulo/">Metodología de Maldito Bulo</a>
+</li>
+<li class="leading-2 m-4"><a target="_blank" href="https://www.maldita.es/metodologia-de-maldita-ciencia/">Metodología de Maldita Ciencia</a>
+</li>
+<li class="leading-2 m-4"><a target="_blank" href="https://maldita.es/politica-de-neutralidad/">Política de neutralidad</a>
+</li>
+<li class="leading-2 m-4"><a target="_blank" href="https://maldita.es/politica-de-rectificacion/">Política de rectificación</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="redes" class="md:w-1/2 md:flex md:items-center md:flex-col">
+<div>
+<strong class="mb-4 block">REDES</strong>
+<div class="flex flex-wrap">
+<a target="_blank" href="https://www.facebook.com/mhemeroteca/">
+<img class="m-3 w-6 h-6" src="/images/rrss/fb-footer.png" alt="facebook">
+</a> <a target="_blank" href="https://twitter.com/maldita">
+<img class="m-3 w-6 h-6" src="/images/rrss/twitter-footer.png" alt="tw">
+</a> <a target="_blank" href="https://www.instagram.com/maldita.es/?hl=es">
+<img class="m-3 w-6 h-6" src="/images/rrss/ig-footer.png" alt="ig"></a> <a target="_blank" href="https://www.youtube.com/channel/UC2sbPyIvF9U7Rk-6b_MggGw">
+<img class="m-3 w-6 h-6" src="/images/rrss/youtube-footer.png" alt="yt">
+</a> <a target="_blank" href="https://www.linkedin.com/company/malditaes/?originalSubdomain=es">
+<img class="m-3 w-6 h-6" src="/images/rrss/linkedin-footer.png" alt="linkedin">
+</a> <a target="_blank" href="https://www.tiktok.com/@malditobulo?lang=es"><img class="m-3 w-6 h-6" src="/images/rrss/tiktok-footer.png" alt="tiktok">
+</a> <a target="_blank" href="https://t.me/malditobulo">
+<img class="m-3 w-6 h-6" src="/images/rrss/telegram-footer.png" alt="telegram">
+</a> </div>
+</div>
+</div>
+</div>
+<div class="px-8 lg:px-0 content-wrapper centered py-8 flex flex-col md:flex-row gap-8">
+<a target="_blank" href="https://creativecommons.org/licenses/by-sa/3.0/es/">Maldita.es - Contenido bajo
+licencia Creative Commons BY-SA</a>
+<a href="/politica-de-privacidad-de-maldita-es">Política de privacidad</a>
+<a href="/aviso-legal">Aviso legal</a>
+</div>
+</footer>
+<link rel="stylesheet" href="/build/frontend.f3dcf494.css">
+<link rel="stylesheet" href="/build/landing-components.dca99d0d.css">
+<link rel="stylesheet" href="/build/tailwind.566be0ab.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans+Condensed:wght@700&family=Fira+Sans+Extra+Condensed:wght@800&family=Fira+Sans:ital,wght@0,700;1,400&family=Lato:ital,wght@0,300;0,400;0,700;1,400;1,700&family=Roboto+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/build/editor-blocks-css.13775f12.css">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        function openNav() {
+            document.getElementById("menu-wrap").classList.toggle('menu-closed');
+            document.getElementById("menu-wrap").classList.toggle('menu-opened');
+        }
+    </script>
+<script type="text/javascript" src="/js/cookie-consent.js"></script>
+<script src="/build/runtime.77ae2f68.js" defer></script><script src="/build/9755.02973625.js" defer></script><script src="/build/2109.72c345a3.js" defer></script><script src="/build/8426.f645394b.js" defer></script><script src="/build/1957.42233041.js" defer></script><script src="/build/117.8d9f0f92.js" defer></script><script src="/build/frontend-js.823e05c7.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js" integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="/build/questions.05eeb11d.js" defer></script>
+<script src="/build/newsletter.5b8f36b6.js" defer></script>
+<script src="/build/promos.ba7546d7.js" defer></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'786dcb7698aef0e3',m:'VIvzLDsBnUuolrvRqpt692VZw_7gxtJ9U1lbpkkSM6Q-1673273829-0-ATvuD5I2kmqB1Mv032zLcZ6wz9RBfTje1GYrLir9rEGznLLdGqUoHUV5StsdWXM9UsL2vFkdQmtop97/9Pl0LKNl57LVJ3+J+/F73mFsMV7z2523IzGAUqf3gyz3/jIluqIXAkXGMCK6z6WiO/HDVUE5BNbcnLesZ58L5Hae/JeaYkqj2s9ECp/TuP98iVhkh7m/DUKVdCYjHl7yycoJIww=',s:[0x10cf5999ad,0x1f05a67587],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

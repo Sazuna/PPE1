@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# If there are less than two arguments
+# If there is no argument
 if [[ $# -lt 1 ]]
 then
 	echo "Minimum one argument."

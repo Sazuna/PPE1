@@ -1,0 +1,2236 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="es"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="pingback" href="https://nortexpres.com/xmlrpc.php" />
+<style type="text/css">
+
+/* ===============================================
+ 0- post
+  ===============================================  */
+	  .go_trend_widget_2{
+	  	background:url() no-repeat center;
+	  	background-size: cover;
+	  	overflow: hidden;
+	  }
+	.go_trend_widget_2 article{
+		border-bottom: 0px solid #cccccc ;
+		padding-top: 10px ;
+		padding-bottom: 10px ;
+		padding-left: 0px ;
+		padding-right: 0px ;
+		position: relative;
+		float: left;
+    	min-height: 70px;
+		overflow: hidden;
+	}
+
+	/* ---------------------------------
+	  responsive style
+	-----------------------------------*/
+	@media (min-width: 100px) {
+	  .go_trend_widget_2 article {
+	  	width: 100%;
+	  }
+	}
+	@media (min-width: 768px) {
+	  .go_trend_widget_2 article {
+	  	width: 100%;
+	  }
+	}
+/* ===============================================
+ 1 - Div
+  ===============================================  */
+
+	.go_trend_widget_2 div{
+		display: table-cell;
+	}
+
+/* ===============================================
+ 2- Image div
+  ===============================================  */
+
+	.go_trend_widget_2  .go_trend_post_img{
+					width:100%;
+				height: 120px;
+		position: relative;
+	}
+
+/* ===============================================
+ 3- Image
+  ===============================================  */
+
+	.go_trend_widget_2 img{
+		width: 100%;
+		min-width: 100%;
+		height: 120px;
+	}
+
+/* ===============================================
+ 4- Content
+  ===============================================  */
+
+	.go_trend_widget_2 .go_trend_post_content{
+		padding: 20px;position: absolute;left: 10%;bottom: 0;right:10%;background: #fff;	}
+
+/* ===============================================
+ 5- post title
+  ===============================================  */
+	.go_trend_widget_2 .go_trend_post_content a{
+		color:  ;
+		font-family: ;
+		font-size:12px;
+		font-weight:600;
+		text-transform: capitalize;
+	    line-height: normal;
+	}
+
+/* ===============================================
+ 6- counter
+  ===============================================  */
+	.go_trend_widget_2 .go_trend_post_content span{
+		color: #cecece ;
+		font-family: sans-serif;
+		font-size:12px;
+		font-weight:400;
+		display: block;
+		text-transform: capitalize;
+		line-height: normal;
+	}
+/* ===============================================
+ 6- post number
+  ===============================================  */
+
+	.go_trend_widget_2 .post_number {
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    z-index: 5;
+	    font-size: 11px;
+	    line-height: 20px;
+	    width: 20px;
+	    height: 20px;
+	    text-align: center;
+	    background: rgba(0, 0, 0, 0.1);
+	    color: #fff;
+	    margin-top:10px;margin-left:0px;
+	}
+
+</style>
+<style type="text/css">
+
+/* ===============================================
+ 0- post
+  ===============================================  */
+	  .go_trend_widget_3{
+	  	background:url() no-repeat center;
+	  	background-size: cover;
+	  	overflow: hidden;
+	  }
+	.go_trend_widget_3 article{
+		border-bottom: 0px solid #eeeeee ;
+		padding-top: 10px ;
+		padding-bottom: 10px ;
+		padding-left: 0px ;
+		padding-right: 0px ;
+		position: relative;
+		float: left;
+    	min-height: 70px;
+		overflow: hidden;
+	}
+
+	/* ---------------------------------
+	  responsive style
+	-----------------------------------*/
+	@media (min-width: 100px) {
+	  .go_trend_widget_3 article {
+	  	width: 100%;
+	  }
+	}
+	@media (min-width: 768px) {
+	  .go_trend_widget_3 article {
+	  	width: 100%;
+	  }
+	}
+/* ===============================================
+ 1 - Div
+  ===============================================  */
+
+	.go_trend_widget_3 div{
+		display: table-cell;
+	}
+
+/* ===============================================
+ 2- Image div
+  ===============================================  */
+
+	.go_trend_widget_3  .go_trend_post_img{
+					width:100%;
+				height: 120px;
+		position: relative;
+	}
+
+/* ===============================================
+ 3- Image
+  ===============================================  */
+
+	.go_trend_widget_3 img{
+		width: 100%;
+		min-width: 100%;
+		height: 120px;
+	}
+
+/* ===============================================
+ 4- Content
+  ===============================================  */
+
+	.go_trend_widget_3 .go_trend_post_content{
+		padding: 20px;position: absolute;left: 10%;bottom: 0;right:10%;background: #fff;	}
+
+/* ===============================================
+ 5- post title
+  ===============================================  */
+	.go_trend_widget_3 .go_trend_post_content a{
+		color:  ;
+		font-family: ;
+		font-size:12px;
+		font-weight:600;
+		text-transform: capitalize;
+	    line-height: normal;
+	}
+
+/* ===============================================
+ 6- counter
+  ===============================================  */
+	.go_trend_widget_3 .go_trend_post_content span{
+		color: #cecece ;
+		font-family: sans-serif;
+		font-size:12px;
+		font-weight:400;
+		display: block;
+		text-transform: capitalize;
+		line-height: normal;
+	}
+/* ===============================================
+ 6- post number
+  ===============================================  */
+
+	.go_trend_widget_3 .post_number {
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    z-index: 5;
+	    font-size: 11px;
+	    line-height: 20px;
+	    width: 20px;
+	    height: 20px;
+	    text-align: center;
+	    background: rgba(0, 0, 0, 0.1);
+	    color: #fff;
+	    margin-top:10px;margin-left:0px;
+	}
+
+</style>
+<style type="text/css">
+
+/* ===============================================
+ 0- post
+  ===============================================  */
+	  .go_trend_widget_4{
+	  	background:url() no-repeat center;
+	  	background-size: cover;
+	  	overflow: hidden;
+	  }
+	.go_trend_widget_4 article{
+		border-bottom: 0px solid #eeeeee ;
+		padding-top: 10px ;
+		padding-bottom: 10px ;
+		padding-left: 0px ;
+		padding-right: 0px ;
+		position: relative;
+		float: left;
+    	min-height: 70px;
+		overflow: hidden;
+	}
+
+	/* ---------------------------------
+	  responsive style
+	-----------------------------------*/
+	@media (min-width: 100px) {
+	  .go_trend_widget_4 article {
+	  	width: 100%;
+	  }
+	}
+	@media (min-width: 768px) {
+	  .go_trend_widget_4 article {
+	  	width: 100%;
+	  }
+	}
+/* ===============================================
+ 1 - Div
+  ===============================================  */
+
+	.go_trend_widget_4 div{
+		display: table-cell;
+	}
+
+/* ===============================================
+ 2- Image div
+  ===============================================  */
+
+	.go_trend_widget_4  .go_trend_post_img{
+					width:100%;
+				height: 120px;
+		position: relative;
+	}
+
+/* ===============================================
+ 3- Image
+  ===============================================  */
+
+	.go_trend_widget_4 img{
+		width: 100%;
+		min-width: 100%;
+		height: 120px;
+	}
+
+/* ===============================================
+ 4- Content
+  ===============================================  */
+
+	.go_trend_widget_4 .go_trend_post_content{
+		padding: 20px;position: absolute;left: 10%;bottom: 0;right:10%;background: #fff;	}
+
+/* ===============================================
+ 5- post title
+  ===============================================  */
+	.go_trend_widget_4 .go_trend_post_content a{
+		color:  ;
+		font-family: ;
+		font-size:12px;
+		font-weight:600;
+		text-transform: capitalize;
+	    line-height: normal;
+	}
+
+/* ===============================================
+ 6- counter
+  ===============================================  */
+	.go_trend_widget_4 .go_trend_post_content span{
+		color: #cecece ;
+		font-family: sans-serif;
+		font-size:12px;
+		font-weight:400;
+		display: block;
+		text-transform: capitalize;
+		line-height: normal;
+	}
+/* ===============================================
+ 6- post number
+  ===============================================  */
+
+	.go_trend_widget_4 .post_number {
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    z-index: 5;
+	    font-size: 11px;
+	    line-height: 20px;
+	    width: 20px;
+	    height: 20px;
+	    text-align: center;
+	    background: rgba(0, 0, 0, 0.1);
+	    color: #fff;
+	    margin-top:10px;margin-left:0px;
+	}
+
+</style>
+<style type="text/css">
+
+/* ===============================================
+ 0- post
+  ===============================================  */
+	  .go_trend_widget_5{
+	  	background:url() no-repeat center;
+	  	background-size: cover;
+	  	overflow: hidden;
+	  }
+	.go_trend_widget_5 article{
+		border-bottom: 0px solid #eeeeee ;
+		padding-top: 10px ;
+		padding-bottom: 10px ;
+		padding-left: 0px ;
+		padding-right: 0px ;
+		position: relative;
+		float: left;
+    	min-height: 70px;
+		overflow: hidden;
+	}
+
+	/* ---------------------------------
+	  responsive style
+	-----------------------------------*/
+	@media (min-width: 100px) {
+	  .go_trend_widget_5 article {
+	  	width: 100%;
+	  }
+	}
+	@media (min-width: 768px) {
+	  .go_trend_widget_5 article {
+	  	width: 100%;
+	  }
+	}
+/* ===============================================
+ 1 - Div
+  ===============================================  */
+
+	.go_trend_widget_5 div{
+		display: table-cell;
+	}
+
+/* ===============================================
+ 2- Image div
+  ===============================================  */
+
+	.go_trend_widget_5  .go_trend_post_img{
+					width:100%;
+				height: 120px;
+		position: relative;
+	}
+
+/* ===============================================
+ 3- Image
+  ===============================================  */
+
+	.go_trend_widget_5 img{
+		width: 100%;
+		min-width: 100%;
+		height: 120px;
+	}
+
+/* ===============================================
+ 4- Content
+  ===============================================  */
+
+	.go_trend_widget_5 .go_trend_post_content{
+		padding: 20px;position: absolute;left: 10%;bottom: 0;right:10%;background: #fff;	}
+
+/* ===============================================
+ 5- post title
+  ===============================================  */
+	.go_trend_widget_5 .go_trend_post_content a{
+		color:  ;
+		font-family: ;
+		font-size:10px;
+		font-weight:600;
+		text-transform: capitalize;
+	    line-height: normal;
+	}
+
+/* ===============================================
+ 6- counter
+  ===============================================  */
+	.go_trend_widget_5 .go_trend_post_content span{
+		color: #cecece ;
+		font-family: sans-serif;
+		font-size:12px;
+		font-weight:400;
+		display: block;
+		text-transform: capitalize;
+		line-height: normal;
+	}
+/* ===============================================
+ 6- post number
+  ===============================================  */
+
+	.go_trend_widget_5 .post_number {
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    z-index: 5;
+	    font-size: 11px;
+	    line-height: 20px;
+	    width: 20px;
+	    height: 20px;
+	    text-align: center;
+	    background: rgba(0, 0, 0, 0.1);
+	    color: #fff;
+	    margin-top:10px;margin-left:0px;
+	}
+
+</style>
+<style type="text/css">
+
+/* ===============================================
+ 0- post
+  ===============================================  */
+	  .go_trend_widget_6{
+	  	background:url() no-repeat center;
+	  	background-size: cover;
+	  	overflow: hidden;
+	  }
+	.go_trend_widget_6 article{
+		border-bottom: 0px solid #eeeeee ;
+		padding-top: 10px ;
+		padding-bottom: 10px ;
+		padding-left: 0px ;
+		padding-right: 0px ;
+		position: relative;
+		float: left;
+    	min-height: 70px;
+		overflow: hidden;
+	}
+
+	/* ---------------------------------
+	  responsive style
+	-----------------------------------*/
+	@media (min-width: 100px) {
+	  .go_trend_widget_6 article {
+	  	width: 100%;
+	  }
+	}
+	@media (min-width: 768px) {
+	  .go_trend_widget_6 article {
+	  	width: 100%;
+	  }
+	}
+/* ===============================================
+ 1 - Div
+  ===============================================  */
+
+	.go_trend_widget_6 div{
+		display: table-cell;
+	}
+
+/* ===============================================
+ 2- Image div
+  ===============================================  */
+
+	.go_trend_widget_6  .go_trend_post_img{
+					width:100%;
+				height: 120px;
+		position: relative;
+	}
+
+/* ===============================================
+ 3- Image
+  ===============================================  */
+
+	.go_trend_widget_6 img{
+		width: 100%;
+		min-width: 100%;
+		height: 120px;
+	}
+
+/* ===============================================
+ 4- Content
+  ===============================================  */
+
+	.go_trend_widget_6 .go_trend_post_content{
+		padding: 20px;position: absolute;left: 10%;bottom: 0;right:10%;background: #fff;	}
+
+/* ===============================================
+ 5- post title
+  ===============================================  */
+	.go_trend_widget_6 .go_trend_post_content a{
+		color:  ;
+		font-family: ;
+		font-size:12px;
+		font-weight:600;
+		text-transform: capitalize;
+	    line-height: normal;
+	}
+
+/* ===============================================
+ 6- counter
+  ===============================================  */
+	.go_trend_widget_6 .go_trend_post_content span{
+		color: #cecece ;
+		font-family: sans-serif;
+		font-size:12px;
+		font-weight:400;
+		display: block;
+		text-transform: capitalize;
+		line-height: normal;
+	}
+/* ===============================================
+ 6- post number
+  ===============================================  */
+
+	.go_trend_widget_6 .post_number {
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    z-index: 5;
+	    font-size: 11px;
+	    line-height: 20px;
+	    width: 20px;
+	    height: 20px;
+	    text-align: center;
+	    background: rgba(0, 0, 0, 0.1);
+	    color: #fff;
+	    margin-top:10px;margin-left:0px;
+	}
+
+</style>
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<meta property="og:image" content="https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg" /><meta name="author" content="Norte Exprés">
+<link rel="icon" type="image/png" href="https://nortexpres.com/wp-content/uploads/2016/09/favicon1.png"><link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://nortexpres.com/wp-content/uploads/2016/11/fav72.png" /><link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://nortexpres.com/wp-content/uploads/2016/11/fav114.png" /><link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://nortexpres.com/wp-content/uploads/2016/11/fav144.png" /><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://nortexpres.com/wp-content/uploads/2016/11/fav114.png" /><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://nortexpres.com/wp-content/uploads/2016/11/fav144.png" />
+
+<title>Batiburrillo político con vinos de Rioja Alavesa - Norte Exprés | Noticias de Vitoria-Gasteiz y Álava.</title>
+<meta name="description" content="Vamos con las declaraciones de los políticos en la Fiesta de la Vendimia de Rioja Alavesa. Un batiburrillo que no suma y genera confusión. Diálogo de sordos." />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Batiburrillo político con vinos de Rioja Alavesa - Norte Exprés | Noticias de Vitoria-Gasteiz y Álava." />
+<meta property="og:description" content="Vamos con las declaraciones de los políticos en la Fiesta de la Vendimia de Rioja Alavesa. Un batiburrillo que no suma y genera confusión. Diálogo de sordos." />
+<meta property="og:url" content="https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/" />
+<meta property="og:site_name" content="Norte Exprés | Noticias de Vitoria-Gasteiz y Álava." />
+<meta property="article:tag" content="Rioja Alavesa" />
+<meta property="article:tag" content="vino" />
+<meta property="article:section" content="Actualidad Álava" />
+<meta property="article:published_time" content="2022-09-17T23:55:54+00:00" />
+<meta property="article:modified_time" content="2022-09-19T07:12:32+00:00" />
+<meta property="og:updated_time" content="2022-09-19T07:12:32+00:00" />
+<meta property="og:image" content="https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg" />
+<meta property="og:image:secure_url" content="https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg" />
+<meta property="og:image:width" content="640" />
+<meta property="og:image:height" content="426" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Vamos con las declaraciones de los políticos en la Fiesta de la Vendimia de Rioja Alavesa. Un batiburrillo que no suma y genera confusión. Diálogo de sordos." />
+<meta name="twitter:title" content="Batiburrillo político con vinos de Rioja Alavesa - Norte Exprés | Noticias de Vitoria-Gasteiz y Álava." />
+<meta name="twitter:site" content="@Nortexpres" />
+<meta name="twitter:image" content="https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg" />
+<meta name="twitter:creator" content="@Nortexpres" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://nortexpres.com/#organization","name":"Nortexpres","url":"https://nortexpres.com/","sameAs":["https://twitter.com/Nortexpres"],"logo":{"@type":"ImageObject","@id":"https://nortexpres.com/#logo","url":"https://nortexpres.com/wp-content/uploads/2022/05/logo-nortexpres-serps.png","width":450,"height":60,"caption":"Nortexpres"},"image":{"@id":"https://nortexpres.com/#logo"}},{"@type":"WebSite","@id":"https://nortexpres.com/#website","url":"https://nortexpres.com/","name":"Norte Expr\u00e9s | Noticias de Vitoria-Gasteiz y \u00c1lava.","publisher":{"@id":"https://nortexpres.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://nortexpres.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#primaryimage","url":"https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg","width":640,"height":426,"caption":"Batiburrillo pol\u00edtico con vinos de Rioja Alavesa"},{"@type":"WebPage","@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#webpage","url":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/","inLanguage":"es","name":"Batiburrillo pol\u00edtico con vinos de Rioja Alavesa - Norte Expr\u00e9s | Noticias de Vitoria-Gasteiz y \u00c1lava.","isPartOf":{"@id":"https://nortexpres.com/#website"},"primaryImageOfPage":{"@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#primaryimage"},"datePublished":"2022-09-17T23:55:54+00:00","dateModified":"2022-09-19T07:12:32+00:00","description":"Vamos con las declaraciones de los pol\u00edticos en la Fiesta de la Vendimia de Rioja Alavesa. Un batiburrillo que no suma y genera confusi\u00f3n. Di\u00e1logo de sordos.","breadcrumb":{"@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://nortexpres.com/","url":"https://nortexpres.com/","name":"Portada"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/","url":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/","name":"Batiburrillo pol\u00edtico con vinos de Rioja Alavesa"}}]},{"@type":"Article","@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#article","isPartOf":{"@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#webpage"},"author":{"@id":"https://nortexpres.com/#/schema/person/ce9965bacd43314e3530117568142478"},"headline":"Batiburrillo pol\u00edtico con vinos de Rioja Alavesa","datePublished":"2022-09-17T23:55:54+00:00","dateModified":"2022-09-19T07:12:32+00:00","commentCount":"1","mainEntityOfPage":{"@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#webpage"},"publisher":{"@id":"https://nortexpres.com/#organization"},"image":{"@id":"https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#primaryimage"},"keywords":"Rioja Alavesa,vino","articleSection":"Actualidad \u00c1lava,Opini\u00f3n \u00c1lava"},{"@type":["Person"],"@id":"https://nortexpres.com/#/schema/person/ce9965bacd43314e3530117568142478","name":"Norte Expr\u00e9s","image":{"@type":"ImageObject","@id":"https://nortexpres.com/#authorlogo","url":"https://nortexpres.com/wp-content/uploads/2016/09/512.jpg","caption":"Norte Expr\u00e9s"},"sameAs":["https://twitter.com/https://twitter.com/Nortexpres"]}]}</script>
+
+<link rel='dns-prefetch' href='//nortexpres.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Norte Exprés | Noticias de Vitoria-Gasteiz y Álava. &raquo; Feed" href="https://nortexpres.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Norte Exprés | Noticias de Vitoria-Gasteiz y Álava. &raquo; RSS de los comentarios" href="https://nortexpres.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Norte Exprés | Noticias de Vitoria-Gasteiz y Álava. &raquo; Batiburrillo político con vinos de Rioja Alavesa RSS de los comentarios" href="https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nortexpres.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.18"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://nortexpres.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='qc-choice-css' href='https://nortexpres.com/wp-content/plugins/quantcast-choice/public/css/style.min.css?ver=2.0.2' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='google_font_open_sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=4.9.18' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='google_font_roboto-css' href='https://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&#038;ver=4.9.18' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='google-fonts-style-css' href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700&#038;ver=4.9.18' type='text/css' media='all' />
+<link rel='stylesheet' id='sccss_style-css' href='https://nortexpres.com/?sccss=1&#038;ver=4.9.18' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://nortexpres.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12.1' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css' href='https://nortexpres.com/wp-content/themes/Newspaper/style.css?ver=4.9.18' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css' href='https://nortexpres.com/wp-content/themes/Newspaper-child/style.css?b-modified=1640592889&#038;ver=7.4.1605016715' type='text/css' media='all' />
+<script type='text/javascript' src='https://nortexpres.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://nortexpres.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var choice_cmp_config = {"utid":"3xd5hnvVeH6Fa","enabled":"all","ccpa":"","datalayer":""};
+/* ]]> */
+</script>
+<script type='text/javascript' async="async" src='https://nortexpres.com/wp-content/plugins/quantcast-choice/public/js/script.min.js?ver=2.0.2-b-modified-1620393365'></script>
+<script type='text/javascript' src='https://nortexpres.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.5-b-modified-1620393361'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cookie_data = {"cookie_value":"","cookie_name":"nortexpres_portada","cookie_time":"30","cookie_path":"\/","cookie_domain":"","cookie_secure":"1","bizkaias":["actualidad","destacado","opinion","rankings","sucesos"],"portadas":["https:\/\/nortexpres.com","https:\/\/nortexpres.com\/actualidad","https:\/\/nortexpres.com\/actualidad-bizkaia","https:\/\/nortexpres.com\/bizkaia"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://nortexpres.com/wp-content/themes/Newspaper-child/js/cookie-portada.js?ver=0.0.2-b-modified-1629727720'></script>
+<link rel='https://api.w.org/' href='https://nortexpres.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nortexpres.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nortexpres.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.18" />
+<link rel='shortlink' href='https://nortexpres.com/?p=236057' />
+<link rel="alternate" type="application/json+oembed" href="https://nortexpres.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnortexpres.com%2Fbatiburrillo-politico-vinos-rioja-alavesa%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://nortexpres.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnortexpres.com%2Fbatiburrillo-politico-vinos-rioja-alavesa%2F&#038;format=xml" />
+
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">//<![CDATA[
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["actualidad-alava","opinion"],"pageAttributes":["rioja-alavesa","vino"],"pagePostAuthor":"Norte Exprés"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MHF44S7');//]]>
+</script>
+
+<script async src="https://ssm.codes/smart-tag/nortexpres.js"></script>
+<script defer id='display-library' data-id='498c51e9c59b5dc5f263fbcd176ecbb354fa45300c8a32f77059baa01030c924' src='https://display.videoo.tv/498c51e9c59b5dc5f263fbcd176ecbb354fa45300c8a32f77059baa01030c924.js'></script>
+<!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress." />
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://nortexpres.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://nortexpres.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link rel="amphtml" href="https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/amp/">
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="https:\/\/nortexpres.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=7.4";
+var td_get_template_directory_uri="https:\/\/nortexpres.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="snap";
+var tds_logo_on_sticky="show";
+var tds_header_style="5";
+var td_please_wait="Por favor espera...";
+var td_email_user_pass_incorrect="Usuario o contrase\u00f1a incorrecta!";
+var td_email_user_incorrect="Correo electr\u00f3nico o nombre de usuario incorrecto!";
+var td_email_incorrect="Correo electr\u00f3nico incorrecto!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4ea2fc";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Anterior (tecla de flecha izquierda)";
+var td_magnific_popup_translation_tNext="Siguiente (tecla de flecha derecha)";
+var td_magnific_popup_translation_tCounter="%curr% de %total%";
+var td_magnific_popup_translation_ajax_tError="El contenido de %url% no pudo cargarse.";
+var td_magnific_popup_translation_image_tError="La imagen #%curr% no pudo cargarse.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+<style>
+    
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-style-12 .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .sf-menu ul .td-menu-item > a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .sf-menu ul .current-menu-item > a,
+    .td-header-style-12 .td-affix,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .td_category_template_3 .td-current-sub-category,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after {
+        background-color: #4ea2fc;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover {
+        background-color: #4ea2fc !important;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #4ea2fc;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #4ea2fc !important;
+    }
+
+    a,
+    cite a:hover,
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .widget a:hover,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .footer-text-wrap .footer-email-wrap a,
+    .td-subfooter-menu li a:hover,
+    .footer-social-wrap a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-instagram-user a {
+        color: #4ea2fc;
+    }
+
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover,
+    .td-mega-menu-page .wpb_content_element ul li a:hover {
+        color: #4ea2fc !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover {
+        border-color: #4ea2fc;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #4ea2fc !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #4ea2fc transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2,
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more {
+    	background-color: #4ea2fc;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #4ea2fc !important;
+    }
+
+    .block-title,
+    .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #4ea2fc;
+    }
+    .td_block_wrap .td-subcat-item .td-cur-simple-item {
+	    color: #4ea2fc;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(78, 162, 252, 0.7);
+    }
+
+    
+    .block-title > span,
+    .block-title > span > a,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2,
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before {
+        background-color: #006ac6;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #006ac6 !important;
+    }
+
+    .block-title,
+    .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #006ac6;
+    }
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu {
+        background-color: #ffffff;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #ffffff;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-top-menu,
+    .td-header-top-menu a,
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full a,
+    .td-header-style-8 .td-header-top-menu,
+    .td-header-style-8 .td-header-top-menu a {
+        color: #006ac6;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget .td-icon-font {
+        color: #006ac6;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget i.td-icon-font:hover {
+        color: #4ea2fc;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-ancestor > a,
+    .sf-menu > .current-category-ancestor > a,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: #006ac6;
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap {
+    	background-color: #006ac6 !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+
+
+    
+    .sf-menu ul .td-menu-item > a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .sf-menu ul .current-menu-item > a,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .td-mega-span .td-post-category:hover,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a {
+        background-color: #4ea2fc;
+    }
+
+
+    .td_block_mega_menu .td-next-prev-wrap a:hover {
+        border-color: #4ea2fc;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #4ea2fc transparent;
+    }
+
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td_mod_mega_menu:hover .entry-title a {
+        color: #4ea2fc;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
+    .td-header-wrap .header-search-wrap .td-icon-search {
+        color: #ffffff;
+    }
+
+
+    
+    @media (max-width: 767px) {
+        body .td-header-wrap .td-header-main-menu {
+            background-color: #006ac6 !important;
+        }
+    }
+
+
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: #ffffff;
+        background: -moz-linear-gradient(top, #ffffff 0%, #ffffff 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #ffffff));
+        background: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 100%);
+        background: -o-linear-gradient(top, #ffffff 0%, @mobileu_gradient_two_mob 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%, #ffffff 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #4ea2fc;
+    }
+
+    
+    .td-mobile-content li a,
+    .td-mobile-content .td-icon-menu-right,
+    .td-mobile-content .sub-menu .td-icon-menu-right,
+    #td-mobile-nav .td-menu-login-section a,
+    #td-mobile-nav .td-menu-logout a,
+    #td-mobile-nav .td-menu-socials-wrap .td-icon-font,
+    .td-mobile-close .td-icon-close-mobile,
+    .td-search-close .td-icon-close-mobile,
+    .td-search-wrap-mob,
+    .td-search-wrap-mob #td-header-search-mob,
+    #td-mobile-nav .td-register-section,
+    #td-mobile-nav .td-register-section .td-login-input,
+    #td-mobile-nav label,
+    #td-mobile-nav .td-register-section i,
+    #td-mobile-nav .td-register-section a,
+    #td-mobile-nav .td_display_err,
+    .td-search-wrap-mob .td_module_wrap .entry-title a,
+    .td-search-wrap-mob .td_module_wrap:hover .entry-title a,
+    .td-search-wrap-mob .td-post-date {
+        color: #006ac6;
+    }
+    .td-search-wrap-mob .td-search-input:before,
+    .td-search-wrap-mob .td-search-input:after,
+    #td-mobile-nav .td-menu-login-section .td-menu-login span {
+        background-color: #006ac6;
+    }
+
+    #td-mobile-nav .td-register-section .td-login-input {
+        border-bottom-color: #006ac6 !important;
+    }
+
+
+    
+    .td-header-wrap .td-logo-text-container .td-tagline-text {
+        color: #006ac6;
+    }
+
+
+
+
+
+    
+    .td-module-meta-info .td-post-author-name a {
+    	color: #006ac6;
+    }
+
+    
+    .top-header-menu > li > a,
+    .td-weather-top-widget .td-weather-now .td-big-degrees,
+    .td-weather-top-widget .td-weather-header .td-weather-city,
+    .td-header-sp-top-menu .td_data_time {
+        font-family:Lato;
+	
+    }
+    
+    ul.sf-menu > .td-menu-item > a {
+        font-family:Lato;
+	font-size:10px;
+	font-weight:normal;
+	
+    }
+</style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55387767-2', 'auto');
+  ga('send', 'pageview');
+
+</script> <style type="text/css" id="wp-custom-css">
+			.td-a-rec.td-a-rec-id-content_bottom, .td-a-rec.td-a-rec-id-content_inline {
+    display: none;
+}		</style>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript> 
+<script type="text/javascript">
+		  window._taboola = window._taboola || [];
+		  _taboola.push({article:'auto'});
+		  !function (e, f, u, i) {
+			if (!document.getElementById(i)){
+			  e.async = 1;
+			  e.src = u;
+			  e.id = i;
+			  f.parentNode.insertBefore(e, f);
+			}
+		  }(document.createElement('script'),
+			  document.getElementsByTagName('script')[0],
+			  '//cdn.taboola.com/libtrc/digitalgreenpublisher-norteexpres/loader.js',
+			  'tb_loader_script');
+			  if(window.performance && typeof window.performance.mark == 'function')
+			{window.performance.mark('tbl_ic');}
+		</script>
+
+</head>
+<body class="post-template-default single single-post postid-236057 single-format-standard batiburrillo-politico-vinos-rioja-alavesa single_template_2 wpb-js-composer js-comp-ver-4.12.1 vc_responsive td-animation-stack-type0 td-full-layout ">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHF44S7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<br style="display:none;">
+<div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+<div class="td-menu-background">
+<div id="td-mobile-nav">
+<div class="td-mobile-container">
+
+<div class="td-menu-socials-wrap">
+
+<div class="td-menu-socials">
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.facebook.com/nortexprescom/?fref=ts" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://twitter.com/Nortexpres" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.youtube.com/channel/UCo781ePM2sqt5pBDz7u7lcw" title="Youtube">
+<i class="td-icon-font td-icon-youtube"></i>
+</a>
+</span> </div>
+
+<div class="td-mobile-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+</div>
+
+
+<div class="td-mobile-content">
+<div class="menu-principal-container"><ul id="menu-principal" class="td-mobile-main-menu"><li id="menu-item-205832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first menu-item-205832"><a href="https://nortexpres.com/actualidad-bizkaia/">Cambiar a Bizkaia</a></li>
+<li id="menu-item-22656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22656"><a href="https://nortexpres.com/actualidad/">Actualidad</a></li>
+<li id="menu-item-181218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181218"><a href="https://nortexpres.com/euskadi/">Euskadi</a></li>
+<li id="menu-item-22655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22655"><a href="https://nortexpres.com/sucesos/">Sucesos</a></li>
+<li id="menu-item-22653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22653"><a href="https://nortexpres.com/opinion/">Opinión</a></li>
+<li id="menu-item-84933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84933"><a href="https://nortexpres.com/rankings/">Rankings</a></li>
+<li id="menu-item-121800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121800"><a href="https://nortexpres.com/category/deportes/">Deportes</a></li>
+<li id="menu-item-22651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22651"><a href="https://nortexpres.com/app/">App</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://nortexpres.com/contacto/">Contacto</a></li>
+</ul></div> </div>
+</div>
+
+</div>
+</div>
+<div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+<form method="get" class="td-search-form" action="https://nortexpres.com/">
+
+<div class="td-search-close">
+<a href="#"><i class="td-icon-close-mobile"></i></a>
+</div>
+<div role="search" class="td-search-input">
+<span>Buscar</span>
+<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+</div>
+</form>
+<div id="td-aj-search-mob"></div>
+</div>
+</div>
+<div id="td-outer-wrap">
+
+<div class="td-header-wrap td-header-style-5">
+<div class="td-header-top-menu-full">
+<div class="td-container td-header-row td-header-top-menu">
+<div class="top-bar-style-1">
+<div class="td-header-sp-top-menu">
+<div class="td_data_time">
+<div>
+martes, septiembre 20, 2022
+</div>
+</div>
+<div class="menu-top-container"><ul id="menu-cambio-edicion" class="top-header-menu edicion-alava"><li id="menu-item-205810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-205810"><a href="https://nortexpres.com/">Portada de Álava</a></li>
+<li id="menu-item-205811" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-205811"><a href="https://nortexpres.com/actualidad-bizkaia/">Portada de Bizkaia</a></li>
+</ul></div></div>
+<div class="td-header-sp-top-widget">
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.facebook.com/nortexprescom/?fref=ts" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://twitter.com/Nortexpres" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.youtube.com/channel/UCo781ePM2sqt5pBDz7u7lcw" title="Youtube">
+<i class="td-icon-font td-icon-youtube"></i>
+</a>
+</span></div>
+</div>
+
+<div id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+<div class="td-login-wrap">
+<a href="#" class="td-back-button"><i class="td-icon-modal-back"></i></a>
+<div id="td-login-div" class="td-login-form-div td-display-block">
+<div class="td-login-panel-title">Sign in</div>
+<div class="td-login-panel-descr">¡Bienvenido! Ingresa en tu cuenta</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email" value="" required><label>tu nombre de usuario</label></div>
+<div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" required><label>tu contraseña</label></div>
+<input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
+<div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
+</div>
+<div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
+<div class="td-login-panel-title">Password recovery</div>
+<div class="td-login-panel-descr">Recupera tu contraseña</div>
+<div class="td_display_err"></div>
+<div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label>tu correo electrónico</label></div>
+<input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
+<div class="td-login-info-text">Se te ha enviado una contraseña por correo electrónico.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="td-header-menu-wrap-full">
+<div class="td-header-menu-wrap">
+<div class="td-container td-header-row td-header-main-menu black-menu">
+<div id="td-header-menu" role="navigation">
+<div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+<div class="td-main-menu-logo td-logo-in-menu">
+<a class="td-mobile-logo td-sticky-mobile" href="https://nortexpres.com/">
+<img src="https://nortexpres.com/wp-content/uploads/2016/09/logo.png" alt="norte expres logo" title="home logo" />
+</a>
+<a class="td-header-logo td-sticky-mobile" href="https://nortexpres.com/">
+<img src="https://nortexpres.com/wp-content/uploads/2016/09/logo-300x74.png" alt="norte expres logo" title="home logo" />
+<span class="td-visual-hidden">Norte Exprés | Noticias de Vitoria-Gasteiz y Álava.</span>
+</a>
+</div>
+<div class="menu-principal-container"><ul id="menu-principal-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-205832"><a href="https://nortexpres.com/actualidad-bizkaia/">Cambiar a Bizkaia</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-22656"><a href="https://nortexpres.com/actualidad/">Actualidad</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-181218"><a href="https://nortexpres.com/euskadi/">Euskadi</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-22655"><a href="https://nortexpres.com/sucesos/">Sucesos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-22653"><a href="https://nortexpres.com/opinion/">Opinión</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-84933"><a href="https://nortexpres.com/rankings/">Rankings</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-121800"><a href="https://nortexpres.com/category/deportes/">Deportes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-22651"><a href="https://nortexpres.com/app/">App</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-214"><a href="https://nortexpres.com/contacto/">Contacto</a></li>
+</ul></div></div>
+<div class="td-search-wrapper">
+<div id="td-top-search">
+
+<div class="header-search-wrap">
+<div class="dropdown header-search">
+<a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+<a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="header-search-wrap">
+<div class="dropdown header-search">
+<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+<form method="get" class="td-search-form" action="https://nortexpres.com/">
+<div role="search" class="td-head-form-search-wrap">
+<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Buscar" />
+</div>
+</form>
+<div id="td-aj-search"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="td-banner-wrap-full">
+<div class="td-header-container td-header-row td-header-header">
+<div class="td-header-sp-recs">
+<div class="td-header-rec-wrap">
+</div> </div>
+</div>
+</div>
+</div>
+<div class="td-main-content-wrap">
+<div class="td-container td-post-template-2">
+<article id="post-236057" class="post-236057 post type-post status-publish format-standard has-post-thumbnail hentry category-actualidad-alava category-opinion tag-rioja-alavesa tag-vino">
+<div class="td-pb-row">
+<div class="td-pb-span12">
+<div class="td-post-header">
+
+<div class="wpb_wrapper"><div class="vc_empty_space" style="height: 1px"><span class="vc_empty_space_inner"></span></div>
+<div class="wpb_single_image wpb_content_element vc_align_center">
+
+<div class="billboard" id='nortexpres.com_articulo_billboard2'></div>
+
+</div>
+<div class="vc_empty_space" style="height: 1px"><span class="vc_empty_space_inner"></span></div>
+
+</div>
+
+<div class="td-crumb-container"><div class="entry-crumbs"><span><a title="" class="entry-crumb" href="https://nortexpres.com/"><span>Inicio</span></a></span> <i class="td-icon-right td-bread-sep"></i> <span><a title="Ver todas las publicaciones en Actualidad Álava" class="entry-crumb" href="https://nortexpres.com/category/actualidad-alava/"><span>Actualidad Álava</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last"><meta content="Batiburrillo político con vinos de Rioja Alavesa"><meta content="https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/">Batiburrillo político con vinos de Rioja Alavesa</span></div></div>
+<ul class="td-category"><li class="entry-category"><a href="https://nortexpres.com/category/actualidad-alava/">Actualidad Álava</a></li><li class="entry-category"><a href="https://nortexpres.com/category/opinion/">Opinión Álava</a></li></ul>
+<header class="td-post-title">
+<h1 class="entry-title">Batiburrillo político con vinos de Rioja Alavesa</h1>
+<div class="td-module-meta-info">
+<div class="td-post-author-name"><div class="td-author-by">Por</div> <a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a><div class="td-author-line"> - </div> </div> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-18T01:55:54+00:00">18 septiembre, 2022</time></span> <div class="td-post-comments"><a href="https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#comments"><i class="td-icon-comments"></i>1</a></div> </div>
+</header>
+</div>
+</div>
+</div> 
+<div class="td-pb-row">
+<div class="td-pb-span8 td-main-content" role="main">
+<div class="td-ss-main-content">
+<div class="td-post-content">
+<div class="td-post-featured-image"><a href="https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg" data-caption=""><img width="640" height="426" class="entry-thumb td-modal-image" src="https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg" srcset="https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg 640w, https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920-300x200.jpg 300w, https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920-631x420.jpg 631w" sizes="(max-width: 640px) 100vw, 640px" alt="Batiburrillo político con vinos de Rioja Alavesa" title="vino" /></a></div><div class="td-post-sharing td-post-sharing-top "><div class="td-default-sharing">
+<a class="td-social-sharing-buttons td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnortexpres.com%2Fbatiburrillo-politico-vinos-rioja-alavesa%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Compartir en Facebook</div></a>
+<a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Batiburrillo+pol%C3%ADtico+con+vinos+de+Rioja+Alavesa&url=https%3A%2F%2Fnortexpres.com%2Fbatiburrillo-politico-vinos-rioja-alavesa%2F&via=Nortexpres"><i class="td-icon-twitter"></i><div class="td-social-but-text">Compartir en Twitter</div></a>
+<a class="td-social-sharing-buttons td-social-google" href="https://plus.google.com/share?url=https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+<a class="td-social-sharing-buttons td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/&amp;media=https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg&description=Vamos con las declaraciones de los políticos en la Fiesta de la Vendimia de Rioja Alavesa. Un batiburrillo que no suma y genera confusión. Diálogo de sordos." onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+<a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Batiburrillo+pol%C3%ADtico+con+vinos+de+Rioja+Alavesa%20-%20https%3A%2F%2Fnortexpres.com%2Fbatiburrillo-politico-vinos-rioja-alavesa%2F"><i class="td-icon-whatsapp"></i></a>
+</div></div><script defer id="videoo-audio-library" data-id="e461a4586521fb17fc6e565d20de938fa8d92b9ca8d5e53f10ab549d91c19ff5" src="https://static.videoo.tv/voice/e461a4586521fb17fc6e565d20de938fa8d92b9ca8d5e53f10ab549d91c19ff5.js" type="text/javascript"></script><div class="px-md-0 px-2">
+<p><strong>Vamos con las declaraciones de los políticos en la Fiesta de la Vendimia de Rioja Alavesa. Un batiburrillo que no suma y genera confusión. Diálogo de sordos.</strong></p>
+<h1 class="">González: Permitir modelos de mayor diferenciación refuerza la marca Rioja</h1>
+</div>
+<div id="" class="d-flex flex-column flex-md-row no-gutters">
+<div class="col-xl-8 col-md-8 .col-sm-11 col-xs-12 detalleALL">El diputado general de Álava, Ramiro González, ha insistido en que permitir modelos de mayor diferenciación en el seno de la Denominación de Origen Calificada (DOCa) Rioja «refuerza» el conjunto de la marca y ha opinado que es «fundamental» que el Consejo Regulador «se abra a fórmulas» que lo faciliten.</div>
+<div></div>
+</div>
+<p>González ha hecho estas declaraciones a los medios de comunicación en su visita a la Fiesta de la Vendimia de Rioja Alavesa este domingo en Lanciego, un evento que se celebra de nuevo tras dos años de paréntesis por la covid.</p>
+<p>El diputado general ha sido interpelado por la decisión del pleno del Consejo de blindar la exclusividad de sus viñedos inscritos, con lo que se pone un impedimento a la posibilidad de que las bodegas que se quieren agrupar en «Viñedos de Álava» pudieran estar amparadas en la DOCa.</p>
+<p>González ha opinado que «llama» la atención que se quiera establecer esa limitación, que ha dicho es algo que tiene que ser autorizado por el Gobierno central, ya que existen en la actualidad productores y bodegas que tienen en su seno dos denominaciones, Cava y Rioja. «Parece que este cambio solo busca desanimar a quienes puedan incorporarse a Viñedos de Álava», ha afirmado el diputado general.<script defer id="videoo-library" data-id="e461a4586521fb17fc6e565d20de938fa8d92b9ca8d5e53f10ab549d91c19ff5" src="https://static.videoo.tv/e461a4586521fb17fc6e565d20de938fa8d92b9ca8d5e53f10ab549d91c19ff5.js"></script></p>
+<p>«Yo creo que esa no es la fórmula, esto va contra la libre competencia y contra la forma en la que se ha trabajado siempre en Rioja Alavesa», ha añadido González, quien ha remarcado que el camino es «abrirse a esa diferenciación que se pide por parte de más bodegas no solo en Rioja Alavesa sino también en Rioja».</p>
+<div class="px-md-0 px-2">
+<h1 class="">PSE defiende la diferenciación del vino de Rioja Alavesa dentro de DOCa Rioja</h1>
+</div>
+<div id="" class="d-flex flex-column flex-md-row no-gutters">
+<div class="col-xl-8 col-md-8 .col-sm-11 col-xs-12 detalleALL">
+<div class="p-4 m-0 BOX-light ">
+<p>El secretario general del PSE-EE, Eneko Andueza, ha opinado que los vinos de Rioja Alavesa tienen unas cualidades específicas pero ha defendido una diferenciación «amparada y bajo el paraguas» de la Denominación de Origen Calificada (DOCa) Rioja.</p>
+<p>En declaraciones a los medios en Lanciego con motivo de la Fiesta de la Vendimia de Rioja Alavesa, Andueza ha indicado que siempre es positivo que el consumidor tenga la máxima información posible y ha reconocido que dentro de la DOCa hay una tipología de vinos «muy diferentes».</p>
+<p>«Tengo muy claro también que los vinos de Rioja Alavesa tienen un carácter y unas cualidades específicas que si el consumidor las conoce redunda también en beneficio de las propias bodegas y vinos de la zona», ha afirmado.</p>
+<p>Sobre la decisión del Consejo Regulador de la DOCa Rioja de blindar la exclusividad de sus viñedos inscritos, con lo que se pone un impedimento a la posibilidad de que las bodegas que se quieren agrupar en «Viñedos de Álava» pudieran estar amparadas en la DOCa, Andueza ha afirmado que espera que todos los cambios que se tengan que producir se hagan dentro «del marco legal» y ha apelado a la «unidad» para potenciar la DOCa Rioja.</p>
+<p>Andueza ha añadido por otro lado que a los socialistas les preocupa «muchísimo» la situación de incertidumbre que afecta también al sector de vino, por la subida de los precios del carburante y el transporte y los efectos del cambio climático.</p>
+<h1>El PP acusa al PNV de dañar la imagen de la Denominacion de Origen Rioja</h1>
+<div id="" class="d-flex flex-column flex-md-row no-gutters">
+<div class="col-xl-8 col-md-8 .col-sm-11 col-xs-12 detalleALL">
+<div class="p-4 m-0 BOX-light ">
+<p>El presidente del PP en Álava, Iñaki Oyarzabal, ha denunciado la «obsesión del PNV de romper, enfrentar y dividir al sector del vino” y ha acusado a esta formación de dañar la imagen de la Denominación de Origen Calificada (DOCa) Rioja y de la Rioja Alavesa al tratar de «politizar al sector».</p>
+<p>“Tenemos que sacar la política del sector del vino y pedir al PNV que deje de atacar a la Denominación de Origen Rioja», ha afirmado Oyarzabal en declaraciones a los medios durante la Feria de la Vendimia de Rioja Alavesa que se ha celebrado este domingo en Lanciego.</p>
+<p>El dirigente del PP alavés ha apostado por avanzar en la «diferenciación de los vinos por la vía de la calidad», desde el «acuerdo y el consenso» entre viticultores y bodegueros, algo que a su juicio «no hace ni el PNV ni la Diputación alavesa» .</p>
+<p>Ha censurado que el diputado general de Álava, Ramiro González, se «autoerige con capacidad para decirle al sector vitícola y bodeguero de Rioja Alavesa y también a toda la Denominación de Origen Rioja lo que tiene que hacer y lo que puede o no puede hacer con sus cosechas”.</p>
+<p>El diputado general «lleva siete años hablando de romper e intervenir en una Denominación que no necesita de injerencias políticas», ha insistido Oyarzabal.</p>
+</div>
+</div>
+</div>
+<div class="px-md-0 px-2">
+<h1 class="">Bildu pide al Consejo Regulador que respete a las pequeñas bodegas alavesas</h1>
+</div>
+<div id="" class="d-flex flex-column flex-md-row no-gutters">
+<div class="col-xl-8 col-md-8 .col-sm-11 col-xs-12 detalleALL">
+<div class="p-4 m-0 BOX-light ">
+<p>La juntera de EH Bildu y candidata a diputada general de Álava, Eva López de Arroyabe, ha pedido al Consejo Regulador de la Denominación de Origen (DOCa) Rioja que «respete» a las pequeñas y medianas bodegas alavesas y no «ponga palos en las ruedas» a quienes no se sienten representadas por esa denominación.</p>
+<p>López de Arroyabe ha estado este domingo en Lanciego donde ha tenido lugar la Fiesta de la Vendimia de Rioja Alavesa tras dos años sin celebrarse por la covid.</p>
+<p>Allí ha censurado la decisión del Consejo Regulador de la Denominación de Origen Calificada (DOCa) Rioja de blindar la exclusividad de sus viñedos inscritos, que pone un impedimento a la posibilidad de que las bodegas que se quieren agrupar en «Viñedos de Álava» puedan estar amparadas en la DOCa.</p>
+<p>La representante de EH Bildu ha afirmado que el Consejo Regulador «ni ampara ni defiende a las pequeñas y medianas bodegas, sino que las amenaza con tomar medidas a todas luces de dudosa legalidad”. En ese sentido, ha asegurado que «discriminando» a quienes optan por buscar alternativas de producción y venta de sus productos se pone en peligro a las bodegas y a la comarca.</p>
+<p>“El Consejo Regulador tiene que ser responsable y no actuar de forma autoritaria, poniendo palos en las ruedas a quienes no se sienten representados por la Denominación de Origen Rioja”, ha añadido la juntera de EH Bildu que ha opinado que proyectos como «Viñedos de Álava» no pretenden confrontar sino sobrevivir a un mundo globalizado.</p>
+<p>También ha reclamado que el precio que se paga por la uva cubra no solo los costes de producción para garantizar el futuro del sector.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="td-all-devices">
+
+
+
+<div id='nortexpres.com_articulo_banner1'></div>
+
+</div>
+<br>
+</div>
+<footer>
+<div class="td-post-source-tags">
+<ul class="td-tags td-post-small-box clearfix"><li><span>Etiquetas</span></li><li><a href="https://nortexpres.com/tag/rioja-alavesa/">Rioja Alavesa</a></li><li><a href="https://nortexpres.com/tag/vino/">vino</a></li></ul> </div>
+<div class="td-post-sharing td-post-sharing-bottom "><span class="td-post-share-title">Compartir</span>
+<div class="td-default-sharing">
+<a class="td-social-sharing-buttons td-social-facebook" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnortexpres.com%2Fbatiburrillo-politico-vinos-rioja-alavesa%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Facebook</div></a>
+<a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Batiburrillo+pol%C3%ADtico+con+vinos+de+Rioja+Alavesa&url=https%3A%2F%2Fnortexpres.com%2Fbatiburrillo-politico-vinos-rioja-alavesa%2F&via=Nortexpres"><i class="td-icon-twitter"></i><div class="td-social-but-text">Twitter</div></a>
+<a class="td-social-sharing-buttons td-social-google" href="https://plus.google.com/share?url=https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+<a class="td-social-sharing-buttons td-social-pinterest" href="https://pinterest.com/pin/create/button/?url=https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/&amp;media=https://nortexpres.com/wp-content/uploads/2020/10/wine-4813260_1920.jpg&description=Vamos con las declaraciones de los políticos en la Fiesta de la Vendimia de Rioja Alavesa. Un batiburrillo que no suma y genera confusión. Diálogo de sordos." onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+<a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Batiburrillo+pol%C3%ADtico+con+vinos+de+Rioja+Alavesa%20-%20https%3A%2F%2Fnortexpres.com%2Fbatiburrillo-politico-vinos-rioja-alavesa%2F"><i class="td-icon-whatsapp"></i></a>
+</div></div> <div class="author-box-wrap"><a href="https://nortexpres.com/author/norte-expres/"><img src="https://nortexpres.com/wp-content/uploads/2016/09/512-96x96.jpg" width="96" height="96" alt="Norte Exprés" class="avatar avatar-96 wp-user-avatar wp-user-avatar-96 alignnone photo" /></a><div class="desc"><div class="td-author-name vcard author"><span class="fn"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a></span></div><div class="td-author-description"></div><div class="td-author-social">
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://twitter.com/Nortexpres" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span></div><div class="clearfix"></div></div></div>
+</footer>
+<div class="td_block_wrap td_block_related_posts td_uid_2_6329ec51e2719_rand td_with_ajax_pagination td-pb-border-top" data-td-block-uid="td_uid_2_6329ec51e2719"><script>var block_td_uid_2_6329ec51e2719 = new tdBlock();
+block_td_uid_2_6329ec51e2719.id = "td_uid_2_6329ec51e2719";
+block_td_uid_2_6329ec51e2719.atts = '{"limit":3,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"Todo","color_preset":"","border_top":"","class":"td_uid_2_6329ec51e2719_rand","el_class":"","offset":"","css":"","live_filter":"cur_post_same_tags","live_filter_cur_post_id":236057,"live_filter_cur_post_author":"13"}';
+block_td_uid_2_6329ec51e2719.td_column_number = "3";
+block_td_uid_2_6329ec51e2719.block_type = "td_block_related_posts";
+block_td_uid_2_6329ec51e2719.post_count = "3";
+block_td_uid_2_6329ec51e2719.found_posts = "169";
+block_td_uid_2_6329ec51e2719.header_color = "";
+block_td_uid_2_6329ec51e2719.ajax_pagination_infinite_stop = "";
+block_td_uid_2_6329ec51e2719.max_num_pages = "57";
+tdBlocksArray.push(block_td_uid_2_6329ec51e2719);
+</script><h4 class="td-related-title"><a id="td_uid_3_6329ec51e44c1" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_2_6329ec51e2719" href="#">Artículo relacionados</a><a id="td_uid_4_6329ec51e44c5" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_2_6329ec51e2719" href="#">Más del autor</a></h4><div id=td_uid_2_6329ec51e2719 class="td_block_inner">
+<div class="td-related-row">
+<div class="td-related-span4">
+<div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://nortexpres.com/nociones-vid-rioja-alavesa/" rel="bookmark" title="Rioja Alavesa: 10 nociones básicas de la vid"><img width="218" height="150" class="entry-thumb" src="https://nortexpres.com/wp-content/uploads/2016/09/Captura-de-pantalla-9235-218x150.png" srcset="https://nortexpres.com/wp-content/uploads/2016/09/Captura-de-pantalla-9235-218x150.png 218w, https://nortexpres.com/wp-content/uploads/2016/09/Captura-de-pantalla-9235-100x70.png 100w" sizes="(max-width: 218px) 100vw, 218px" alt="10 nociones básicas alrededor de la vid" title="Rioja Alavesa: 10 nociones básicas de la vid" /></a></div> </div>
+<div class="item-details">
+<h3 class="entry-title td-module-title"><a href="https://nortexpres.com/nociones-vid-rioja-alavesa/" rel="bookmark" title="Rioja Alavesa: 10 nociones básicas de la vid">Rioja Alavesa: 10 nociones básicas de la vid</a></h3> </div>
+</div>
+</div> 
+<div class="td-related-span4">
+<div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://nortexpres.com/rioja-alavesa-esferica/" rel="bookmark" title="Rioja Alavesa se llenará de música, arte y gastronomía"><img width="218" height="150" class="entry-thumb" src="https://nortexpres.com/wp-content/uploads/2022/08/esferica_esfera-roja-218x150.png" srcset="https://nortexpres.com/wp-content/uploads/2022/08/esferica_esfera-roja-218x150.png 218w, https://nortexpres.com/wp-content/uploads/2022/08/esferica_esfera-roja-100x70.png 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Rioja Alavesa se llenará de música, arte y gastronomía" title="Rioja Alavesa se llenará de música, arte y gastronomía" /></a></div> </div>
+<div class="item-details">
+<h3 class="entry-title td-module-title"><a href="https://nortexpres.com/rioja-alavesa-esferica/" rel="bookmark" title="Rioja Alavesa se llenará de música, arte y gastronomía">Rioja Alavesa se llenará de música, arte y gastronomía</a></h3> </div>
+</div>
+</div> 
+<div class="td-related-span4">
+<div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+<div class="td-module-image">
+<div class="td-module-thumb"><a href="https://nortexpres.com/413-millones-de-kilos-de-uva/" rel="bookmark" title="413 millones de kilos de uva"><img width="218" height="150" class="entry-thumb" src="https://nortexpres.com/wp-content/uploads/2016/09/image-218x150.png" srcset="https://nortexpres.com/wp-content/uploads/2016/09/image-218x150.png 218w, https://nortexpres.com/wp-content/uploads/2016/09/image-100x70.png 100w" sizes="(max-width: 218px) 100vw, 218px" alt="Sigue el lío con &quot;Viñedos de Álava&quot; ¡Declaraciones!" title="413 millones de kilos de uva" /></a></div> </div>
+<div class="item-details">
+<h3 class="entry-title td-module-title"><a href="https://nortexpres.com/413-millones-de-kilos-de-uva/" rel="bookmark" title="413 millones de kilos de uva">413 millones de kilos de uva</a></h3> </div>
+</div>
+</div> </div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_2_6329ec51e2719" data-td_block_id="td_uid_2_6329ec51e2719"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" id="next-page-td_uid_2_6329ec51e2719" data-td_block_id="td_uid_2_6329ec51e2719"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> 
+<div id="M601749ScriptRootC941414">
+</div>
+
+
+<div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'alternating-thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+
+<div class="td-all-devices">
+
+
+
+<div id='nortexpres.com_articulo_banner2'></div>
+
+</div>
+<br>
+<div class="comments" id="comments">
+<div class="td-comments-title-wrap ">
+<h4 class="td-comments-title block-title"><span>1 Comentario</span></h4>
+</div>
+<ol class="comment-list ">
+<li class="comment " id="comment-114188">
+<article>
+<footer>
+<img src="https://secure.gravatar.com/avatar/3ab9fd72cc68241b0ee507bd869749b7?s=50&#038;d=mm&#038;r=g" width="50" height="50" alt="Avatar" class="avatar avatar-50 wp-user-avatar wp-user-avatar-50 photo avatar-default" /> <cite>Román</cite>
+<a class="comment-link" href="#comment-114188">
+<time pubdate="1663683488">20 septiembre, 2022 at 16:18</time>
+</a>
+</footer>
+<div class="comment-content">
+<p>La gente que vive en la Rioja Alavesa sabe que no es un asunto de política, es una lucha de hace años entre los pequeños agricultores y bodegueros y las grandes bodegas que son quienes controlan el Consejo Regulador y por ende los precios de la uva y vino, lo cual lleva a la situación de que uva y vinos de alta calidad tengan unos precios irrisorios, parecidos al vino que se hace en otras zonas para quemar o hacer vinagre.</p>
+</div>
+<div class="comment-meta" id="comment-114188">
+<a rel='nofollow' class='comment-reply-link' href='#comment-114188' onclick='return addComment.moveForm( "comment-114188", "114188", "respond", "236057" )' aria-label='Responder a Román'>Responder</a> </div>
+</article>
+</li>
+</ol>
+ <div class="comment-pagination">
+</div>
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Dejar respuesta <small><a rel="nofollow" id="cancel-comment-reply-link" href="/batiburrillo-politico-vinos-rioja-alavesa/#respond" style="display:none;">Cancelar respuesta</a></small></h3> <form action="https://nortexpres.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+<div class="clearfix"></div>
+<p class="comment-form-input-wrap td-form-comment">
+<textarea placeholder="Norte Expres no se hace responsable de los comentarios de los lectores. No están permitidos comentarios racistas, que lleven insultos, o acusaciones sin fundamento. Ni desprecios por razones de sexo, raza, religión o condición sexual." id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea>
+</p><p class="comment-form-input-wrap td-form-author">
+<span class="comment-req-wrap">
+<input class="" id="author" name="author" placeholder="Nombre:" type="text" value="" size="30" /></span></p>
+<p class="comment-form-input-wrap td-form-email">
+<span class="comment-req-wrap"><input class="" id="email" name="email" placeholder="Correo electrónico:" type="text" value="" size="30" /></span></p>
+<p class="comment-form-input-wrap td-form-url">
+<input class="" id="url" name="url" placeholder="Sitio web:" type="text" value="" size="30" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Publicar comentario" /> <input type='hidden' name='comment_post_ID' value='236057' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b96e7bdf9e" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="202" /></p> </form>
+</div>
+</div> 
+</div>
+</div>
+<div class="td-pb-span4 td-main-sidebar" role="complementary">
+<div class="td-ss-main-sidebar">
+<aside class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='nortexpres.com_seccion_mpu1'></div>
+</div></aside><aside class="widget foratthemes_go_trend"><div class="block-title"><span>NOTICIAS MÁS LEÍDAS</span></div><div class="go_trend_widget_3"> <article>
+
+<span class="post_number">1</span> <a href="https://nortexpres.com/3-mejores-bodegas-alava/">
+<img width="640" height="480" src="https://nortexpres.com/wp-content/uploads/2022/09/bodegas-barrica-alava.jpg" class="attachment-large size-large wp-post-image" alt="Las 3 mejores bodegas de Álava" srcset="https://nortexpres.com/wp-content/uploads/2022/09/bodegas-barrica-alava.jpg 960w, https://nortexpres.com/wp-content/uploads/2022/09/bodegas-barrica-alava-300x225.jpg 300w, https://nortexpres.com/wp-content/uploads/2022/09/bodegas-barrica-alava-768x576.jpg 768w, https://nortexpres.com/wp-content/uploads/2022/09/bodegas-barrica-alava-80x60.jpg 80w, https://nortexpres.com/wp-content/uploads/2022/09/bodegas-barrica-alava-265x198.jpg 265w, https://nortexpres.com/wp-content/uploads/2022/09/bodegas-barrica-alava-696x522.jpg 696w, https://nortexpres.com/wp-content/uploads/2022/09/bodegas-barrica-alava-560x420.jpg 560w" sizes="(max-width: 640px) 100vw, 640px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/3-mejores-bodegas-alava/">
+Las 3 mejores bodegas de Álava </a>
+<span>
+</span>
+</div>
+</article>
+<article>
+
+<span class="post_number">2</span> <a href="https://nortexpres.com/problemas-aparcamiento-mercedes-vitoria/">
+<img width="640" height="360" src="https://nortexpres.com/wp-content/uploads/2022/09/PARCELAAMPLIACION-PARKINGMERCEDES-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="Mercedes Vitoria: No quieren mitigar problemas de aparcamiento" srcset="https://nortexpres.com/wp-content/uploads/2022/09/PARCELAAMPLIACION-PARKINGMERCEDES-1024x576.jpg 1024w, https://nortexpres.com/wp-content/uploads/2022/09/PARCELAAMPLIACION-PARKINGMERCEDES-300x169.jpg 300w, https://nortexpres.com/wp-content/uploads/2022/09/PARCELAAMPLIACION-PARKINGMERCEDES-768x432.jpg 768w, https://nortexpres.com/wp-content/uploads/2022/09/PARCELAAMPLIACION-PARKINGMERCEDES-696x392.jpg 696w, https://nortexpres.com/wp-content/uploads/2022/09/PARCELAAMPLIACION-PARKINGMERCEDES-1068x601.jpg 1068w, https://nortexpres.com/wp-content/uploads/2022/09/PARCELAAMPLIACION-PARKINGMERCEDES-747x420.jpg 747w, https://nortexpres.com/wp-content/uploads/2022/09/PARCELAAMPLIACION-PARKINGMERCEDES.jpg 1280w" sizes="(max-width: 640px) 100vw, 640px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/problemas-aparcamiento-mercedes-vitoria/">
+Mercedes Vitoria: No quieren mitigar problemas de aparcamiento </a>
+<span>
+</span>
+</div>
+</article>
+<article>
+
+<span class="post_number">3</span> <a href="https://nortexpres.com/lenguaje-chulesco-burlon-vitoria-coches/">
+<img width="640" height="427" src="https://nortexpres.com/wp-content/uploads/2022/09/grito-chulesco.jpg" class="attachment-large size-large wp-post-image" alt="Lenguaje burlón y chulesco de Vitoria contra los coches" srcset="https://nortexpres.com/wp-content/uploads/2022/09/grito-chulesco.jpg 960w, https://nortexpres.com/wp-content/uploads/2022/09/grito-chulesco-300x200.jpg 300w, https://nortexpres.com/wp-content/uploads/2022/09/grito-chulesco-768x512.jpg 768w, https://nortexpres.com/wp-content/uploads/2022/09/grito-chulesco-696x464.jpg 696w, https://nortexpres.com/wp-content/uploads/2022/09/grito-chulesco-630x420.jpg 630w" sizes="(max-width: 640px) 100vw, 640px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/lenguaje-chulesco-burlon-vitoria-coches/">
+Faltan aparcamientos y el Ayuntamiento de Vitoria se burla </a>
+<span>
+</span>
+</div>
+</article>
+<article>
+
+<span class="post_number">4</span> <a href="https://nortexpres.com/aumenta-caos-autobuses-vitoria/">
+<img width="640" height="368" src="https://nortexpres.com/wp-content/uploads/2022/09/bei-vitoria-696x400.jpg" class="attachment-large size-large wp-post-image" alt="Aumenta el caos del servicio de autobuses en Vitoria" srcset="https://nortexpres.com/wp-content/uploads/2022/09/bei-vitoria-696x400.jpg 696w, https://nortexpres.com/wp-content/uploads/2022/09/bei-vitoria-696x400-300x172.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/aumenta-caos-autobuses-vitoria/">
+Aumenta el caos del servicio de autobuses en Vitoria </a>
+<span>
+</span>
+</div>
+</article>
+<article>
+
+<span class="post_number">5</span> <a href="https://nortexpres.com/mercedes-vitoria-furgonetas-menos/">
+<img width="640" height="380" src="https://nortexpres.com/wp-content/uploads/2022/07/MercedesCurrelas.jpg" class="attachment-large size-large wp-post-image" alt="Mercedes Vitoria deja de fabricar 32 furgonetas al día" srcset="https://nortexpres.com/wp-content/uploads/2022/07/MercedesCurrelas.jpg 640w, https://nortexpres.com/wp-content/uploads/2022/07/MercedesCurrelas-300x178.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/mercedes-vitoria-furgonetas-menos/">
+Mercedes Vitoria deja de fabricar 32 furgonetas al día </a>
+<span>
+</span>
+</div>
+</article>
+<article>
+
+<span class="post_number">6</span> <a href="https://nortexpres.com/atropello-nina-vitoria/">
+<img width="640" height="452" src="https://nortexpres.com/wp-content/uploads/2022/09/blue-light-73088_960_720.jpg" class="attachment-large size-large wp-post-image" alt="Otra niña atropellada en Vitoria" srcset="https://nortexpres.com/wp-content/uploads/2022/09/blue-light-73088_960_720.jpg 960w, https://nortexpres.com/wp-content/uploads/2022/09/blue-light-73088_960_720-300x212.jpg 300w, https://nortexpres.com/wp-content/uploads/2022/09/blue-light-73088_960_720-768x542.jpg 768w, https://nortexpres.com/wp-content/uploads/2022/09/blue-light-73088_960_720-100x70.jpg 100w, https://nortexpres.com/wp-content/uploads/2022/09/blue-light-73088_960_720-696x492.jpg 696w, https://nortexpres.com/wp-content/uploads/2022/09/blue-light-73088_960_720-595x420.jpg 595w" sizes="(max-width: 640px) 100vw, 640px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/atropello-nina-vitoria/">
+Otra niña atropellada en Vitoria </a>
+<span>
+</span>
+</div>
+</article>
+<article>
+
+<span class="post_number">7</span> <a href="https://nortexpres.com/reivindican-movimiento-okupa-vitoria/">
+<img width="454" height="265" src="https://nortexpres.com/wp-content/uploads/2022/09/zzz.png" class="attachment-large size-large wp-post-image" alt="Reivindican el &quot;movimiento okupa&quot; en Vitoria" srcset="https://nortexpres.com/wp-content/uploads/2022/09/zzz.png 454w, https://nortexpres.com/wp-content/uploads/2022/09/zzz-300x175.png 300w" sizes="(max-width: 454px) 100vw, 454px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/reivindican-movimiento-okupa-vitoria/">
+Reivindican el «movimiento okupa» en Vitoria </a>
+<span>
+</span>
+</div>
+</article>
+<article>
+
+<span class="post_number">8</span> <a href="https://nortexpres.com/coche-bomba-mendi-vitoria-juicio/">
+<img width="300" height="225" src="https://nortexpres.com/wp-content/uploads/2020/08/gi_18291.png" class="attachment-large size-large wp-post-image" alt="Repetición del juicio por el coche bomba de Mendi en Vitoria" srcset="https://nortexpres.com/wp-content/uploads/2020/08/gi_18291.png 300w, https://nortexpres.com/wp-content/uploads/2020/08/gi_18291-80x60.png 80w, https://nortexpres.com/wp-content/uploads/2020/08/gi_18291-265x198.png 265w" sizes="(max-width: 300px) 100vw, 300px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/coche-bomba-mendi-vitoria-juicio/">
+Vitoria: Exjefa de ETA niega que intentara atentar junto a Mendi </a>
+<span>
+</span>
+</div>
+</article>
+<article>
+
+<span class="post_number">9</span> <a href="https://nortexpres.com/trabajadores-alcantarillas-vitoria/">
+<img width="640" height="479" src="https://nortexpres.com/wp-content/uploads/2022/09/7FD1C8EE-BF93-41F3-AF13-8EAAE9F618DF-696x521.jpeg" class="attachment-large size-large wp-post-image" alt="Vitoria sigue sin trabajadores para limpiar alcantarillas" srcset="https://nortexpres.com/wp-content/uploads/2022/09/7FD1C8EE-BF93-41F3-AF13-8EAAE9F618DF-696x521.jpeg 696w, https://nortexpres.com/wp-content/uploads/2022/09/7FD1C8EE-BF93-41F3-AF13-8EAAE9F618DF-696x521-300x225.jpeg 300w, https://nortexpres.com/wp-content/uploads/2022/09/7FD1C8EE-BF93-41F3-AF13-8EAAE9F618DF-696x521-80x60.jpeg 80w, https://nortexpres.com/wp-content/uploads/2022/09/7FD1C8EE-BF93-41F3-AF13-8EAAE9F618DF-696x521-265x198.jpeg 265w, https://nortexpres.com/wp-content/uploads/2022/09/7FD1C8EE-BF93-41F3-AF13-8EAAE9F618DF-696x521-561x420.jpeg 561w" sizes="(max-width: 640px) 100vw, 640px" /> </a>
+
+<div class="go_trend_post_content">
+<a href="https://nortexpres.com/trabajadores-alcantarillas-vitoria/">
+Vitoria sin trabajadores para limpiar alcantarillas que inundan </a>
+<span>
+</span>
+</div>
+</article>
+<a href="https://codecanyon.net/item/pixo-modern-wordpress-admin-theme/20775379" style="height: 1px;visibility: hidden !important;float: left;">WordPress admin themes</a></div></aside><aside class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='nortexpres.com_seccion_mpu2'></div>
+</div></aside><div class="td_block_wrap td_block_10 td_block_widget td_uid_5_6329ec51e7897_rand td-pb-border-top" data-td-block-uid="td_uid_5_6329ec51e7897">
+<style scoped>
+.td_uid_5_6329ec51e7897_rand .td_module_wrap:hover .entry-title a,
+            .td_uid_5_6329ec51e7897_rand a.td-pulldown-filter-link:hover,
+            .td_uid_5_6329ec51e7897_rand .td-subcat-item a:hover,
+            .td_uid_5_6329ec51e7897_rand .td-subcat-item .td-cur-simple-item,
+            .td_uid_5_6329ec51e7897_rand .td_quote_on_blocks,
+            .td_uid_5_6329ec51e7897_rand .td-opacity-cat .td-post-category:hover,
+            .td_uid_5_6329ec51e7897_rand .td-opacity-read .td-read-more a:hover,
+            .td_uid_5_6329ec51e7897_rand .td-opacity-author .td-post-author-name a:hover,
+            .td_uid_5_6329ec51e7897_rand .td-instagram-user a {
+                color: #006ac6;
+            }
+
+            .td_uid_5_6329ec51e7897_rand .td-next-prev-wrap a:hover,
+            .td_uid_5_6329ec51e7897_rand .td-load-more-wrap a:hover {
+                background-color: #006ac6;
+                border-color: #006ac6;
+            }
+
+            .td_uid_5_6329ec51e7897_rand .block-title span,
+            .td_uid_5_6329ec51e7897_rand .td-trending-now-title,
+            .td_uid_5_6329ec51e7897_rand .block-title a,
+            .td_uid_5_6329ec51e7897_rand .td-read-more a,
+            .td_uid_5_6329ec51e7897_rand .td-weather-information:before,
+            .td_uid_5_6329ec51e7897_rand .td-weather-week:before,
+            .td_uid_5_6329ec51e7897_rand .td-subcat-dropdown:hover .td-subcat-more,
+            .td_uid_5_6329ec51e7897_rand .td-exchange-header:before,
+            .td_uid_5_6329ec51e7897_rand .td-post-category:hover {
+                background-color: #006ac6;
+            }
+
+            .td_uid_5_6329ec51e7897_rand .block-title {
+                border-color: #006ac6;
+            }
+
+            
+            .td_uid_5_6329ec51e7897_rand .block-title span,
+            .td_uid_5_6329ec51e7897_rand .td-trending-now-title,
+            .td_uid_5_6329ec51e7897_rand .block-title a {
+                color: #;
+            }
+</style><script>var block_td_uid_5_6329ec51e7897 = new tdBlock();
+block_td_uid_5_6329ec51e7897.id = "td_uid_5_6329ec51e7897";
+block_td_uid_5_6329ec51e7897.atts = '{"limit":"10","sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"1702","category_ids":"","custom_title":"OPINI\u00d3N","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"#006ac6","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_5_6329ec51e7897_rand","el_class":"","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_5_6329ec51e7897.td_column_number = "1";
+block_td_uid_5_6329ec51e7897.block_type = "td_block_10";
+block_td_uid_5_6329ec51e7897.post_count = "10";
+block_td_uid_5_6329ec51e7897.found_posts = "7682";
+block_td_uid_5_6329ec51e7897.header_color = "#006ac6";
+block_td_uid_5_6329ec51e7897.ajax_pagination_infinite_stop = "";
+block_td_uid_5_6329ec51e7897.max_num_pages = "769";
+tdBlocksArray.push(block_td_uid_5_6329ec51e7897);
+</script><div class="td-block-title-wrap"><h4 class="block-title"><span>OPINIÓN</span></h4></div><div id=td_uid_5_6329ec51e7897 class="td_block_inner">
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/estudios-informes-vitoria/#comments">2</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/estudios-informes-vitoria/" rel="bookmark" title="Más dinero en Vitoria para informes ¿Y decidir?">Más dinero en Vitoria para informes ¿Y decidir?</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-18T11:03:54+00:00">18 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/crisis-diputado-general-alava/#comments">5</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/crisis-diputado-general-alava/" rel="bookmark" title="¿Qué propondrá con el dineral de impuestos que gana Álava?">¿Qué propondrá con el dineral de impuestos que gana Álava?</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-18T09:37:31+00:00">18 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/#comments">1</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/batiburrillo-politico-vinos-rioja-alavesa/" rel="bookmark" title="Batiburrillo político con vinos de Rioja Alavesa">Batiburrillo político con vinos de Rioja Alavesa</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-18T01:55:54+00:00">18 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/franquismo-flores-vitoria/#comments">3</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/franquismo-flores-vitoria/" rel="bookmark" title="Homenaje en Vitoria a represaliados del franquismo">Homenaje en Vitoria a represaliados del franquismo</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-17T13:53:43+00:00">17 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/tercer-encuentro-de-politicos-de-vitoria-con-baiona/#comments">8</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/tercer-encuentro-de-politicos-de-vitoria-con-baiona/" rel="bookmark" title="Tercer encuentro de políticos de Vitoria con Baiona">Tercer encuentro de políticos de Vitoria con Baiona</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-17T11:00:32+00:00">17 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/luces-boulevard-vitoria/#respond">0</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/luces-boulevard-vitoria/" rel="bookmark" title="Vitoria cambiará luces en los túneles de El Boulevard">Vitoria cambiará luces en los túneles de El Boulevard</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-16T12:20:26+00:00">16 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/feria-libro-ocasion-vitoria/#comments">1</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/feria-libro-ocasion-vitoria/" rel="bookmark" title="Feria del Libro de saldo y ocasión de Vitoria">Feria del Libro de saldo y ocasión de Vitoria</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-16T10:06:52+00:00">16 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/memorial-vitoria-exposicion-para-no-olvidar-el-11-m/#comments">1</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/memorial-vitoria-exposicion-para-no-olvidar-el-11-m/" rel="bookmark" title="Memorial Vitoria: Exposición para no olvidar el 11-M">Memorial Vitoria: Exposición para no olvidar el 11-M</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-15T07:40:56+00:00">15 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/noruega-parques-eolicos-alava/#comments">1</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/noruega-parques-eolicos-alava/" rel="bookmark" title="Unos noruegos prevén parques eólicos entre Álava y Gipuzkoa">Unos noruegos prevén parques eólicos entre Álava y Gipuzkoa</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-13T18:53:08+00:00">13 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> 
+<div class="td-block-span12">
+<div class="td_module_9 td_module_wrap">
+<div class="item-details">
+<div class="td-module-comments"><a href="https://nortexpres.com/eh-bildu-reivindica-en-alava-intervenir-sectores-energeticos/#comments">20</a></div> <h3 class="entry-title td-module-title"><a href="https://nortexpres.com/eh-bildu-reivindica-en-alava-intervenir-sectores-energeticos/" rel="bookmark" title="EH Bildu reivindica en Álava intervenir sectores energéticos">EH Bildu reivindica en Álava intervenir sectores energéticos</a></h3>
+<div class="td-module-meta-info">
+<span class="td-post-author-name"><a href="https://nortexpres.com/author/norte-expres/">Norte Exprés</a> <span>-</span> </span> <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2022-09-11T12:15:07+00:00">11 septiembre, 2022</time></span> </div>
+</div>
+</div>
+</div> </div></div> <aside class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<div id='nortexpres.com_seccion_mpu3'></div>
+</div></aside><aside class="widget widget_text"> <div class="textwidget"><p><a href="https://nortexpres.com/category/deportes/"><img class="aligncenter size-full wp-image-17574" src="https://nortexpres.com/wp-content/uploads/2016/09/banner-kirol.jpg" alt="Norte_Expres" width="500" height="120" /></a></p>
+</div>
+</aside><aside class="widget widget_search"><div class="block-title"><span>BUSCADOR DE NOTICIAS</span></div><form method="get" class="td-search-form-widget" action="https://nortexpres.com/">
+<div role="search">
+<input class="td-widget-search-input" type="text" value="" name="s" id="s" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="searchsubmit" value="Buscar" />
+</div>
+</form></aside><aside class="widget widget_text"> <div class="textwidget"><p><a href="http://datoeconomico.com/"><img class="aligncenter size-full wp-image-17574" src="https://nortexpres.com/wp-content/uploads/2016/09/banner-DATO2.jpg" alt="Norte_Expres" width="500" height="120" /></a></p>
+</div>
+</aside> </div>
+</div>
+</div> 
+</article> 
+</div> 
+</div> 
+
+
+<div class="td-footer-wrapper">
+<div class="td-container">
+<div class="td-pb-row">
+<div class="td-pb-span12">
+</div>
+</div>
+<div class="td-pb-row">
+<div class="td-pb-span12">
+</div>
+</div>
+</div>
+<div class="td-footer-bottom-full">
+<div class="td-container">
+<div class="td-pb-row">
+<div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://nortexpres.com/"><img src="https://nortexpres.com/wp-content/uploads/2016/09/logo.png" alt="norte expres logo" title="home logo" /></a></aside></div><div class="td-pb-span5"><aside class="footer-text-wrap"><div class="block-title"><span>SOBRE NOSOTROS</span></div>Medio de comunicación de Vitoria-Gasteiz, Bilbao y Euskadi.</aside></div><div class="td-pb-span4"><aside class="footer-social-wrap td-social-style-2"><div class="block-title"><span>SÍGUENOS</span></div>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.facebook.com/nortexprescom/?fref=ts" title="Facebook">
+<i class="td-icon-font td-icon-facebook"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://twitter.com/Nortexpres" title="Twitter">
+<i class="td-icon-font td-icon-twitter"></i>
+</a>
+</span>
+<span class="td-social-icon-wrap">
+<a target="_blank" href="https://www.youtube.com/channel/UCo781ePM2sqt5pBDz7u7lcw" title="Youtube">
+<i class="td-icon-font td-icon-youtube"></i>
+</a>
+</span></aside></div> </div>
+</div>
+</div>
+</div>
+
+<div class="td-sub-footer-container">
+<div class="td-container">
+<div class="td-pb-row">
+<div class="td-pb-span7 td-sub-footer-menu">
+<div class="menu-pie1-container"><ul id="menu-pie1" class="td-subfooter-menu"><li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-376"><a href="https://nortexpres.com/aviso-legal/">Aviso Legal</a></li>
+<li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-374"><a href="https://nortexpres.com/tratamiento-de-datos/">Tratamiento de datos</a></li>
+<li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-375"><a href="https://nortexpres.com/copyright/">Copyright</a></li>
+</ul></div> </div>
+<div class="td-pb-span5 td-sub-footer-copy">
+&copy; Norte Exprés 2021 </div>
+</div>
+</div>
+</div>
+</div>
+<div id="divFLRARight" style="display: none;position: absolute;top: 0px;width:160px;height:600px;overflow:hidden;z-index:9999;">
+<div id='nortexpres.com_articulo_sky-derecha'></div>
+</div>
+<div id="divFLRALeft" style="display: none;position: absolute;top: 0px;width:160px;height:600px;overflow:hidden;z-index:9999;"></div>
+<script type="text/javascript">(function($) {function the_post_views() { $.getJSON("https://nortexpres.com/wp-content/plugins/go-trend/ajax.php",{action: 'post_views_count',postid: 236057}, function (data) {})} var the_post_views = new the_post_views(); })(jQuery);</script>
+
+
+<style type="text/css" media="screen">
+/* custom css theme panel */
+.td-main-page-wrap { 
+padding-top: 0px;
+}
+#divFLRALeft{
+    display:none !important;
+}
+
+.go_trend_widget_3 .go_trend_post_content {
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    background: none !important;
+}
+
+.go_trend_widget_4 .go_trend_post_content {
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    background: none !important;
+}
+.go_trend_widget_4 .go_trend_post_content a {
+    color: #fff !important;
+    text-transform: none !important;
+    background-color: rgba(0,0,0,0.6);
+    display: block;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 14px;
+}
+.go_trend_widget_3 .go_trend_post_content a {
+    color: #fff !important;
+    text-transform: none !important;
+    background-color: rgba(0,0,0,0.6);
+    display: block;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 14px;
+}
+.billboard{ 
+    text-align:center;
+    overflow:hidden;
+}
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/nortexpres.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://nortexpres.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7-b-modified-1620393578'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcJCoAcAAAAAA7Cx-lw0AzCXOayU7Qp_ALSqc9g&#038;ver=3.0'></script>
+<script type='text/javascript' src='https://nortexpres.com/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=7.4-b-modified-1623226091'></script>
+<script type='text/javascript' src='https://nortexpres.com/wp-includes/js/comment-reply.min.js?ver=4.9.18'></script>
+<script type='text/javascript' src='https://nortexpres.com/wp-includes/js/wp-embed.min.js?ver=4.9.18'></script>
+<script async="async" type='text/javascript' src='https://nortexpres.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var flra_array = {"MainContentW":"1200","LeftBannerW":"160","RightBannerW":"160","LeftAdjust":"0","RightAdjust":"0","TopAdjust":"20","TopAdjustScroll":"50"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://nortexpres.com/wp-content/plugins/devvn-float-left-right-ads/left-right-ads/float-left-right.js?ver=1.0.7-b-modified-1623226143'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LcJCoAcAAAAAA7Cx-lw0AzCXOayU7Qp_ALSqc9g',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+
+<script>
+    
+
+                jQuery().ready(function jQuery_ready() {
+                    tdAjaxCount.tdGetViewsCountsAjax("post","[236057]");
+                });
+            
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'https://nortexpres.com/wp-content/themes/Newspaper-child/style.css?b-modified=1640592889';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'https://nortexpres.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+</body>
+</html>
