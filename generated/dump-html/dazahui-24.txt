@@ -1,759 +1,248 @@
 <!DOCTYPE HTML>
-<html lang="zh-CN"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta http-equiv="Cache-Control" content="no-cache" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
-    <meta name="MobileOptimized" content="320"/>
-    <meta name="robots" content="all" />
-    <title>美国疾控中心缩短新冠病毒感染者隔离期至5天-中国侨网</title>
-    <meta name="keywords" content="CDC,新冠,疫苗,病例,变种" />
-    <meta name="description" content="CDC周一(27日)最新发布的隔离指南全文如下：　　如果新冠病毒检测呈阳性　　无论疫苗接种状态如何：　　在家待5天。如果接触了新冠病毒检测呈阳性者　　如果已经接种加强剂，或全面接种辉瑞或(莫德纳)Moderna疫苗不超过6个月，或全面接种强生疫苗不超过2个月：　　在有其他人的场所戴口罩10天。" />
-    <!--[894,5,317961] published at 2021-12-28 11:13:09 from #10 by 王琴 -->
-    <link href="/part/wap/index.css" rel="stylesheet" type="text/css" />
-    <link href="/part/wap/indexadd.css" rel="stylesheet" type="text/css" />
-    <script src="/js/zepto.js"></script>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="dns-prefetch" href="//apps.bdimg.com">
+<meta http-equiv="X-UA-Compatible" content="IE=11,IE=10,IE=9,IE=8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-title" content="新华侨网">
+<meta http-equiv="Cache-Control" content="no-siteapp">
 
-    <style>
-        .list_jrzr{height:auto;}
-        .qw_list_title {display:none;}
-        .content_s_right{    text-align: right;  margin-bottom: 15px;}
-    </style>
-    <script src="/js/jquery1.11.3.js"></script>
-    <script>
-        // JavaScript Document
+<!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
+<link rel="manifest" href="/superpwa-manifest.json">
+<link rel="prefetch" href="/superpwa-manifest.json">
+<meta name="theme-color" content="#dd3333">
+<!-- / SuperPWA.com -->
 
-        $.fn.toggle = function( fn, fn2 ) {
-            var args = arguments,guid = fn.guid || $.guid++,i=0,
-                    toggle = function( event ) {
-                        var lastToggle = ( $._data( this, "lastToggle" + fn.guid ) || 0 ) % i;
-                        $._data( this, "lastToggle" + fn.guid, lastToggle + 1 );
-                        event.preventDefault();
-                        return args[ lastToggle ].apply( this, arguments ) || false;
-                    };
-            toggle.guid = guid;
-            while ( i < args.length ) {
-                args[ i++ ].guid = guid;
-            }
-            return this.click( toggle );
-        };
+		<!-- All in One SEO 4.2.1.1 -->
+		<title>“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样… | 新华侨网</title>
+		<meta name="description" content="【CFC新闻】世界地图，大家都见过，但是你见过“偏见地图”吗？ 偏见地图，是指根据一些地区的人对其他地区的偏见" />
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://cfcnews.com/170536/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7/" />
+		<meta property="og:locale" content="zh_CN" />
+		<meta property="og:site_name" content="CFC新闻" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样… | 新华侨网" />
+		<meta property="og:description" content="【CFC新闻】世界地图，大家都见过，但是你见过“偏见地图”吗？ 偏见地图，是指根据一些地区的人对其他地区的偏见" />
+		<meta property="og:url" content="https://cfcnews.com/170536/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7/" />
+		<meta property="og:image" content="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612134301.jpg" />
+		<meta property="og:image:secure_url" content="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612134301.jpg" />
+		<meta property="og:image:width" content="658" />
+		<meta property="og:image:height" content="582" />
+		<meta property="article:published_time" content="2017-06-12T18:19:50+00:00" />
+		<meta property="article:modified_time" content="2017-06-12T20:14:19+00:00" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样… | 新华侨网" />
+		<meta name="twitter:description" content="【CFC新闻】世界地图，大家都见过，但是你见过“偏见地图”吗？ 偏见地图，是指根据一些地区的人对其他地区的偏见" />
+		<meta name="twitter:image" content="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612134301.jpg" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/cfcnews.com\/#website","url":"https:\/\/cfcnews.com\/","name":"\u65b0\u534e\u4fa8\u7f51","description":"CFCNEWS.COM","inLanguage":"zh-CN","publisher":{"@id":"https:\/\/cfcnews.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/cfcnews.com\/#organization","name":"CFC\u65b0\u95fb","url":"https:\/\/cfcnews.com\/","logo":{"@type":"ImageObject","@id":"https:\/\/cfcnews.com\/#organizationLogo","url":"https:\/\/cfcnews.com\/wp-content\/uploads\/2020\/07\/6fb21f3198e80ce-1.png","width":1000,"height":618},"image":{"@id":"https:\/\/cfcnews.com\/#organizationLogo"}},{"@type":"BreadcrumbList","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/cfcnews.com\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/cfcnews.com\/","name":"\u4e3b\u9801","description":"CFCNEWS.COM","url":"https:\/\/cfcnews.com\/"},"nextItem":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#listItem"},{"@type":"ListItem","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#listItem","position":2,"item":{"@type":"WebPage","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/","name":"\u201c\u6076\u610f\u6ee1\u6ee1\u201d\u7684\u4e16\u754c\u504f\u89c1\u5730\u56fe\u6765\u88ad\uff0c \u4e2d\u56fd\u3001\u52a0\u62ff\u5927\u5728\u4e16\u754c\u773c\u4e2d\u662f\u8fd9\u6837...","description":"\u3010CFC\u65b0\u95fb\u3011\u4e16\u754c\u5730\u56fe\uff0c\u5927\u5bb6\u90fd\u89c1\u8fc7\uff0c\u4f46\u662f\u4f60\u89c1\u8fc7\u201c\u504f\u89c1\u5730\u56fe\u201d\u5417\uff1f \u504f\u89c1\u5730\u56fe\uff0c\u662f\u6307\u6839\u636e\u4e00\u4e9b\u5730\u533a\u7684\u4eba\u5bf9\u5176\u4ed6\u5730\u533a\u7684\u504f\u89c1","url":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/"},"previousItem":"https:\/\/cfcnews.com\/#listItem"}]},{"@type":"Person","@id":"https:\/\/cfcnews.com\/author\/rita-zhang\/#author","url":"https:\/\/cfcnews.com\/author\/rita-zhang\/","name":"\u738b \u8011"},{"@type":"WebPage","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#webpage","url":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/","name":"\u201c\u6076\u610f\u6ee1\u6ee1\u201d\u7684\u4e16\u754c\u504f\u89c1\u5730\u56fe\u6765\u88ad\uff0c \u4e2d\u56fd\u3001\u52a0\u62ff\u5927\u5728\u4e16\u754c\u773c\u4e2d\u662f\u8fd9\u6837\u2026 | \u65b0\u534e\u4fa8\u7f51","description":"\u3010CFC\u65b0\u95fb\u3011\u4e16\u754c\u5730\u56fe\uff0c\u5927\u5bb6\u90fd\u89c1\u8fc7\uff0c\u4f46\u662f\u4f60\u89c1\u8fc7\u201c\u504f\u89c1\u5730\u56fe\u201d\u5417\uff1f \u504f\u89c1\u5730\u56fe\uff0c\u662f\u6307\u6839\u636e\u4e00\u4e9b\u5730\u533a\u7684\u4eba\u5bf9\u5176\u4ed6\u5730\u533a\u7684\u504f\u89c1","inLanguage":"zh-CN","isPartOf":{"@id":"https:\/\/cfcnews.com\/#website"},"breadcrumb":{"@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#breadcrumblist"},"author":"https:\/\/cfcnews.com\/author\/rita-zhang\/#author","creator":"https:\/\/cfcnews.com\/author\/rita-zhang\/#author","image":{"@type":"ImageObject","@id":"https:\/\/cfcnews.com\/#mainImage","url":"https:\/\/cfcnews.com\/wp-content\/uploads\/2017\/06\/QQ\u622a\u56fe20170612134301.jpg","width":658,"height":582},"primaryImageOfPage":{"@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#mainImage"},"datePublished":"2017-06-12T18:19:50-04:00","dateModified":"2017-06-12T20:14:19-04:00"},{"@type":"Article","@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#article","name":"\u201c\u6076\u610f\u6ee1\u6ee1\u201d\u7684\u4e16\u754c\u504f\u89c1\u5730\u56fe\u6765\u88ad\uff0c \u4e2d\u56fd\u3001\u52a0\u62ff\u5927\u5728\u4e16\u754c\u773c\u4e2d\u662f\u8fd9\u6837\u2026 | \u65b0\u534e\u4fa8\u7f51","description":"\u3010CFC\u65b0\u95fb\u3011\u4e16\u754c\u5730\u56fe\uff0c\u5927\u5bb6\u90fd\u89c1\u8fc7\uff0c\u4f46\u662f\u4f60\u89c1\u8fc7\u201c\u504f\u89c1\u5730\u56fe\u201d\u5417\uff1f \u504f\u89c1\u5730\u56fe\uff0c\u662f\u6307\u6839\u636e\u4e00\u4e9b\u5730\u533a\u7684\u4eba\u5bf9\u5176\u4ed6\u5730\u533a\u7684\u504f\u89c1","inLanguage":"zh-CN","headline":"\u201c\u6076\u610f\u6ee1\u6ee1\u201d\u7684\u4e16\u754c\u504f\u89c1\u5730\u56fe\u6765\u88ad\uff0c \u4e2d\u56fd\u3001\u52a0\u62ff\u5927\u5728\u4e16\u754c\u773c\u4e2d\u662f\u8fd9\u6837...","author":{"@id":"https:\/\/cfcnews.com\/author\/rita-zhang\/#author"},"publisher":{"@id":"https:\/\/cfcnews.com\/#organization"},"datePublished":"2017-06-12T18:19:50-04:00","dateModified":"2017-06-12T20:14:19-04:00","articleSection":"\u5934\u6761\u65b0\u95fb, \u6e25\u592a\u534e\u65b0\u95fb","mainEntityOfPage":{"@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#webpage"},"isPartOf":{"@id":"https:\/\/cfcnews.com\/170536\/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7\/#webpage"},"image":{"@type":"ImageObject","@id":"https:\/\/cfcnews.com\/#articleImage","url":"https:\/\/cfcnews.com\/wp-content\/uploads\/2017\/06\/QQ\u622a\u56fe20170612134301.jpg","width":658,"height":582}}]}
+		</script>
+		<!-- All in One SEO -->
 
-        $(function(){
-            $(".more").toggle(function(){
-                // $("#daohang_ul").animate({height:"90px"},0);
-                $("#navlayer").slideDown("fast");
-            },function(){
-                //$("#daohang_ul").animate({height:"30px"},0);
-                $("#navlayer").slideUp("fast");
-            })
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='gtranslate-style-css'  href='https://cfcnews.com/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://cfcnews.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='_bootstrap-css'  href='https://cfcnews.com/wp-content/themes/dux-4/css/bootstrap.min.css?ver=6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='_fontawesome-css'  href='https://cfcnews.com/wp-content/themes/dux-4/css/font-awesome.min.css?ver=6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='_main-css'  href='https://cfcnews.com/wp-content/themes/dux-4/css/main.css?ver=6.4' type='text/css' media='all' />
+<link rel="alternate" type="application/json+oembed" href="https://cfcnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcfcnews.com%2F170536%2F%25e6%2581%25b6%25e6%2584%258f%25e6%25bb%25a1%25e6%25bb%25a1%25e7%259a%2584%25e4%25b8%2596%25e7%2595%258c%25e5%2581%258f%25e8%25a7%2581%25e5%259c%25b0%25e5%259b%25be%25e6%259d%25a5%25e8%25a2%25ad%25ef%25bc%258c-%25e4%25b8%25ad%25e5%259b%25bd%25e3%2580%2581%25e5%258a%25a0%25e6%258b%25bf%25e5%25a4%25a7%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://cfcnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcfcnews.com%2F170536%2F%25e6%2581%25b6%25e6%2584%258f%25e6%25bb%25a1%25e6%25bb%25a1%25e7%259a%2584%25e4%25b8%2596%25e7%2595%258c%25e5%2581%258f%25e8%25a7%2581%25e5%259c%25b0%25e5%259b%25be%25e6%259d%25a5%25e8%25a2%25ad%25ef%25bc%258c-%25e4%25b8%25ad%25e5%259b%25bd%25e3%2580%2581%25e5%258a%25a0%25e6%258b%25bf%25e5%25a4%25a7%2F&#038;format=xml" />
+<script>var gt_request_uri = '/170536/%E6%81%B6%E6%84%8F%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%96%E7%95%8C%E5%81%8F%E8%A7%81%E5%9C%B0%E5%9B%BE%E6%9D%A5%E8%A2%AD%EF%BC%8C-%E4%B8%AD%E5%9B%BD%E3%80%81%E5%8A%A0%E6%8B%BF%E5%A4%A7/';</script><style>.logo img {
+    vertical-align: top;
+    max-height: 32px;
+    display: block;
+    margin-bottom: 32px;
+}
 
-            $(".daohang").toggle(function(){
-                // $("#daohang_ul").animate({height:"90px"},0);
-                $("#fnavlayer").show("");
-                $("footer i a em.dhem").show("");
-                $("#fnavlayer_link").hide("");
-                $("footer i a em.linkem").hide("");
+.wencode
+{
+margin-top:3px;
+}
+.widget_wpcc{
+padding:10px;
+}</style>
+<!--HEADER_CODE_START-->
+<meta name=“referrer” content=“no-referrer” />
+<!--HEADER_CODE_END-->
+<link rel="amphtml" href="https://cfcnews.com/170536/%E6%81%B6%E6%84%8F%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%96%E7%95%8C%E5%81%8F%E8%A7%81%E5%9C%B0%E5%9B%BE%E6%9D%A5%E8%A2%AD%EF%BC%8C-%E4%B8%AD%E5%9B%BD%E3%80%81%E5%8A%A0%E6%8B%BF%E5%A4%A7/amp/"><link rel="icon" href="https://cfcnews.com/wp-content/uploads/2020/06/596f5a99e238155-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://cfcnews.com/wp-content/uploads/2020/06/596f5a99e238155-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cfcnews.com/wp-content/uploads/2020/06/596f5a99e238155-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://cfcnews.com/wp-content/uploads/2020/06/596f5a99e238155-270x270.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			
+.at-resp-share-element {
+    text-align: center; 
+}
 
-            },function(){
-                //$("#daohang_ul").animate({height:"30px"},0);
-                $("#fnavlayer").hide("");
-                $("footer i a em.dhem").hide("");
+.header {
 
-            })
+    padding: 20px 0 20px;
+	
+}
 
-            $(".linkwap").toggle(function(){
-                // $("#daohang_ul").animate({height:"90px"},0);
-                $("#fnavlayer_link").show("");
-                $("footer i a em.linkem").show("");
-                $("#fnavlayer").hide("");
-                $("footer i a em.dhem").hide("");
-
-            },function(){
-                //$("#daohang_ul").animate({height:"30px"},0);
-                $("#fnavlayer_link").hide("");
-                $("footer i a em.linkem").hide("");
-
-            })
-
-            $(".load_more1").click(function(){
-                $(this).parent().find(".list_ulc").css({"height":"auto"});
-                $(this).parent().find(".list_jrzr").css({"height":"auto"});
-                $(this).parent().find(".list_ulc1").css({"height":"auto"});
-                $(this).hide();
-                $(this).next().show();
-            })
-            $("#closeapp").click(function(){
-                $("#bottomapp").hide("slow");
-
-            })
-
-            var averttwx = setInterval(initwx,5000);
-            function initwx(){
-                $("#cns_topappwx").hide("slow");
-                // $('#topapp').hide("slow");
-            }
-
-        })
-    </script>
-
-    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-
-    <div id='wx_pic' style='margin:0 auto;display:none;'>
-        <img src='//www.chinaqw.com/pic/pic300.jpg' alt="关注侨网微信"/>
-    </div>
-
+a.glink.nturl.notranslate {
+    display: inline-block;
+}		</style>
+		<link rel="shortcut icon" href="https://cfcnews.com/favicon.ico">
+<!--[if lt IE 9]><script src="https://cfcnews.com/wp-content/themes/dux-4/js/libs/html5.min.js"></script><![endif]-->
 </head>
-
-<body id="backtop">
-
-<div class="backtop" style="display:none;"><a href="#backtop"><img src="https://i3.chinanews.com/2014/wap/images/top.png" height="37" alt="返回顶部"/></a></div>
-<script language="javascript">
-    function goTop(){
-        var windowHeight = window.innerHeight ? window.innerHeight : $(window).height();
-        if($(window).scrollTop()>(windowHeight*1.5)){
-            $(".backtop").fadeIn("slow");
-        }else{
-            $(".backtop").fadeOut("slow");
-        }
-    }
-    $(window).scroll(function(){goTop();});
-    $(window).resize(function(){goTop();});
-</script>
-<script type="text/javascript">
-
-    if(window.location.href.indexOf('f=qbapp')>=0)
-    {
-        $(document).ready(function(e) {
-            $("#theader").remove();
-            $("#pl").css("display","none");
-            $("#jctj").remove();
-            $("#b_ban").remove();
-            $("#fenx_box").remove();
-            $(".cnsnav").remove();
-            $("#navlayer").remove();
-            $(".xzqb").show();
-            $(".qbhead-right-button").val("立即打开");
-            $(".content_title h1").css("fontSize","1.4rem");
-            $(".content_title time").css("fontSize","0.9rem");
-            $(".content_context p").css("fontSize","1.1rem");
-        });
-    }else if(window.location.href.indexOf('f=qbwap')>=0){
-        $(document).ready(function(e) {
-            $("#theader").remove();
-            $("#pl").remove();
-            $("#jctj").remove();
-            $("#b_ban").remove();
-            $("#fenx_box").remove();
-            $("#navlayer").remove();
-            $(".xzqb").show();
-            $("#appxg").remove();
-        });
-    }else{
-
-        $(document).ready(function(e) {
-            $("#appxg").remove();
-            $("#theader").show();
-            $("#pl").show();
-            $("#jctj").show();
-            $("#b_ban").show();
-            $("#fenx_box").show();
-            $("#loadmore").remove();
-        });
-
-    }
-</script>
-
-<header class="content_top" id="theader" style="display:none;">
-    <div class="arrowl"><a onClick="javascript :history.back(-1);"><img src="https://i2.chinanews.com/2014/wap/images/arrow_l.png" alt="dropdown" height="22"></a></div>
-    <div class="context"><a href="/m/">侨网</a>  &#8226; <a>正文</a></div>
-    <div class="arrowr"><a href="#" class="more"><img src="https://i2.chinanews.com/2014/wap/images/more.png" alt="dropdown" height="23"></a></div>
-</header>
-
-<div style="display: none" class="xzqb">
-    <style>
- @media screen and (max-width:768px){
-            #qiaobao_head{height: 62px;background-color: #ebebeb;    position: fixed;  bottom: 0;  width: 100%;  z-index: 1000;}
-            .qbhead{padding: 10px 12px;}
-            .qbhead-left{float: left;overflow: hidden;}
-            .qbhead-img{float: left;}
-            .qbhead-ul{float: left;margin-left: 12px;height: 44px;}
-            .qbhead-li1{font-size: 20px;color: #434343;margin-top: -2px;}
-            .qbhead-li2{font-size: 14px;color: #a0a0a0;}
-            .qbhead-right{float: right;overflow: hidden;}
-            .qbhead-right-button{    height: 35px;width: 87px;color: #ff0000;font-size: 16px;border: 1px solid #ff0000;border-radius: 6px;background-color: #ebebeb;}
-        }
-        #qiaobao_head{height: 62px;background-color: #ebebeb;    position: fixed;  bottom: 0;  width: 100%;  z-index: 1000;}
-        .qbhead{padding: 10px 12px;}
-        .qbhead-left{float: left;overflow: hidden;}
-        .qbhead-img{float: left;}
-        .qbhead-ul{float: left;margin-left: 12px;height: 44px;}
-        .qbhead-li1{font-size: 20px;color: #434343;margin-top: -2px;}
-        .qbhead-li2{font-size: 14px;color: #a0a0a0;}
-        .qbhead-right{float: right;overflow: hidden;}
-        .qbhead-right-button{    height: 35px;width: 87px;color: #ff0000;font-size: 16px;border: 1px solid #ff0000;border-radius: 6px;background-color: #ebebeb;    margin-top: 4px;}
-.qbhead-img img{border-radius: 6px;}
-body{margin-bottom:60px}
-</style>
-<div id="qiaobao_head" style="">
-    <ul class="qbhead">
-        <li class="qbhead-left">
-            <div class="qbhead-img"><img src="/upload_pic/1/201703/21/U674P894T1D1434F2DT20170321151831.jpg" width="40px" height="40px" alt="侨宝客户端"></div>
-            <ul class="qbhead-ul">
-                <li class="qbhead-li1">侨宝</li>
-                <li class="qbhead-li2">为侨服务 尽在侨宝</li>
-
-            </ul>
-        </li>
-        <li class="qbhead-right">
-            <a href="/m/qiaobao/app.shtml"><input type="button" class="qbhead-right-button" value="立即打开"></a>
-        </li>
-    </ul>
-</div>
-</div>
-
-<div class="cnsnav">
-    <div class="navlayer" id="navlayer">
-        <div class="cnsnav">
-            <ul id="">
-                <li class="selimg"><a href="/m/">首页</a></li>
-                 
-
-<li><a href="/m/hqhr/">华人</a></li>
-<li><a href="/m/gqqj/">侨务</a></li>
-<li><a href="/m/zhwh/">文教</a></li>
-<li><a href="/m/jjkj/">经济</a></li>
-<li><a href="/m/hqly/">出境</a></li>
-<li><a href="/m/hdfw/">服务</a></li>
-<li><a href="/m/sp/">视频</a></li>
-<li><a href="http://weibo.com/5137261048">@侨网</a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-
-<div class="channltt_con">
-
-    <div class="content_title" id="fromapp">
-        <h1 id='test0511'>美国疾控中心缩短新冠病毒感染者隔离期至5天</h1>
-        <div class="subtitle">
-            <time>2021年12月28日 09:48　来源：<a href='http://www.chinaqw.com/' style='color:#666;font-weight:normal;'>中国侨网</a> </time>
-        </div>
-    </div>
-
-    <div class="content_context">
-
-        <div class="spss"></div>
-
-<p>　　中国侨网12月28日电 据美国中文网报道，美国卫生官员周一(27日)将对感染新冠病毒的美国人的隔离期从10天减少到5天，并同样缩短了密切接触者需要隔离的时间。</p>
-
-<p>　　美国疾病控制与预防中心CDC官员表示，该指南与越来越多的证据一致，即新冠病毒感染者在症状出现前两天和后三天最具传染性。</p>
-
-<p>　　在该决定做出之际，在奥密克戎(Omicron)变种传播的推动下，各地都出现了病例激增。</p>
-
-<p>　　早期研究表明，与最初的新冠病毒和其他变种相比，Omicron变种可能会导致更轻微的疾病。但专家表示，由于被感染的人数太多，因此不得不采取隔离措施，以免威胁医院、航空公司和其他企业保持营业的能力。</p>
-
-<p>　　CDC主任瓦伦斯基(Rochelle Walensky)表示，美国即将出现大量Omicron变种病例。</p>
-
-<p>　　“并非所有这些病例都会很严重。事实上，许多人将没有症状。”瓦伦斯基周一(27日)告诉美联社，“我们希望确保有一种机制，我们可以在遵循科学的同时安全地继续保持社会运转。”</p>
-
-<p>　　上周，CDC已经放宽了对医护人员的隔离规定，现在，CDC改变了对公众的隔离指南，使其更加不严格。</p>
-
-<p>　　CDC的最新指南不是强制的，而是对雇主、州和地方官员的建议。在各州开始自行扩大或改变CDC的指导意见之际，瓦伦斯基表示，“拥有统一的CDC指导将很有帮助”，其他人可以借鉴，而不是一个政策的大杂烩。</p>
-
-<p>　　<strong>CDC周一(27日)最新发布的隔离指南全文如下：</strong></p>
-
-<p>　　<strong>如果新冠病毒检测呈阳性</strong></p>
-
-<p>　　无论疫苗接种状态如何：</p>
-
-<p>　　在家待5天。</p>
-
-<p>　　如果无症状，或症状在5天后消失，你可以离开住所。</p>
-
-<p>　　继续在有其他人的场所戴口罩5天。</p>
-
-<p>　　如果发烧，继续待在家里，直到发烧症状消失。</p>
-
-<p>　　<strong>如果接触了新冠病毒检测呈阳性者</strong></p>
-
-<p>　　如果已经接种加强剂，或全面接种辉瑞或(莫德纳)Moderna疫苗不超过6个月，或全面接种强生疫苗不超过2个月：</p>
-
-<p>　　在有其他人的场所戴口罩10天。</p>
-
-<p>　　如果可行，在第五天进行检测。</p>
-
-<p>　　如果出现症状，请检测并待在家中。</p>
-
-<p>　　如果全面接种辉瑞疫苗超过6个月但没有打加强剂，或全面接种强生疫苗超过2个月但没有打加强剂，或没有接种：</p>
-
-<p>　　在家待5天。并在之后继续在有其他人的场所戴口罩5天。</p>
-
-<p>　　如果无法自我隔离，必须戴10天口罩。</p>
-
-<p>　　如果可行，在第五天进行检测。</p>
-
-<p>　　如果出现症状，请检测并待在家中。</p>
-
-<!--编辑姓名-->
-      <div class="content_s_right">
-            	<span>【责任编辑:王琴】 </span> 
-             </div>
-<!--编辑姓名-->
-
-        <div class="fenx_box " id="fenx_box" style="display:none;"><div class="bshare-custom">
-            <!--[894,7,23] published at 2023-01-01 10:58:34 from #10 by 刘洋--> 
-<span>分享</span>
-
-<a title="分享到新浪微博" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
-<a title="分享到QQ空间" class="bshare-qzone"></a>
-<a title="分享到腾讯微博" class="bshare-qqmb"></a>
-
-        </div>
-            <script type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/buttonLite.js#uuid=7bd5e381-914d-47fe-be18-9c61404c93b8&style=-1&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="//static.bshare.cn/b/bshareC0.js"></script>
-
-            <style>
-
-                .fenx_box{width: 160px;height: 27px;}
-                .bshare-custom .bshare-qzone{
-                    background:url(//www.chinanews.com/m/fileftp/2015/06/2015-06-01/U412P885T32D2340F498DT20150603161119.png) no-repeat;
-                    background-size:22px 20px;
-                    margin-left:7px;
-
-                }
-                .bshare-custom a{ height:20px;margin-right:0px;}
-                .fenx_box span {
-                    float: left;
-                    padding: 0 15px;
-                }
-                .bshare-custom .bshare-weixin{
-                    background:url(https://i2.chinanews.com/2014/wap/images/wx.png) no-repeat;
-                    background-size:19px 19px;
-                    margin-left:2px;
-                }
-                .bshare-custom .bshare-qqxiaoyou{
-                    background:url(https://i2.chinanews.com/2014/wap/images/pyq.png) no-repeat;
-                    background-size:19px 19px;
-                    margin-left:2px;
-                }
-                .bshare-custom .bshare-qqmb{
-                    background:url(https://i2.chinanews.com/2014/wap/images/qq.png) no-repeat;
-                    background-size:17px 20px;
-                    margin-left:9px;
-                }
-                .bshare-custom .bshare-sinaminiblog{
-                    background:url(https://i2.chinanews.com/2014/wap/images/sina.png) no-repeat;
-                    background-size:20px 18px;
-                    margin-top:1px;
-                }
-                .fenx_box span{padding:1px 11px 0 14px;}
-            </style>
-        </div>
-
-    </div>
-    <style>
-        #appxg{padding: 0 10px}
-        .xgyd h2{
-            color: #0491ed;
-            padding-left: 16px;
-            font-size: 1.2rem;
-            margin: 10px 0;
-            background: url(//www.chinaqw.com/upload_pic/1/201703/14/U674P894T1D1423F7DT20170315150015.gif) no-repeat 3px center;
-        }
-        .xgyd .xgydjctj{margin-top:15px;}
-        .xgyd li{
-            height: 6rem;
-            border-bottom: 1px solid #EBEBEB;
-            clear: both;
-            padding: 13px 0 10px 0;
-            position: relative;
-        }
-        .xgyd li:first-child{
-            padding-top: 2px;
-        }
-        .xgyd li h4{
-            overflow: hidden;
-            height: 1.6rem;
-            line-height: 1.6rem;
-        }
-        .xgyd li h4 a{
-            color: #000;
-            font-size: 1.1rem;
-        }
-        .fbsj {
-            font-size: .8rem;
-            line-height: .8rem;
-            color: #000;
-            position: absolute;
-            bottom: 18px;
-            left: 0;
-        }
-        #appxg .zeropic {
-            height: 3.6rem;
-        }
-        #appxg .onepic h4{height: 3.2rem}
-        .onepic .lt {
-            width: 60%;
-            float: left;
-        }
-        .onepic .lt p,.zeropic p{
-            line-height: 1rem;
-            color: #575757;
-            font-size: .8rem;
-            height: 2rem;
-            overflow: hidden;
-        }
-        .onepic .rt {
-            width: 39%;
-            height: 100%;
-            float: right;
-            margin-top: .1rem;
-        }
-        .onepic .rt img {
-            width: 100%;
-            height: 95%;
-        }
-        #appxg .twopic{height: 8rem}
-        .morepic{
-            height: 5rem;
-            width: 100%;
-            padding-top: 8px;
-        }
-        .morepic img {
-            float: left;
-            margin-right: 4%;
-            width: 48%;
-            height: 100%;
-        }
-        #appxg .threepic{height: 9rem}
-        .morepic img:last-child,.threepic .morepic img:last-child{
-            margin-right: 0;
-        }
-        .threepic .morepic img{
-            width: 31%;
-            margin-right: 10px;
-        }
-        .threepic .morepic{
-            height: 5rem;
-        }
-        #loadmore,#loaded{
-            display: none;
-            font-size: 16px;
-            line-height: 20px;
-            padding: 10px 20px;
-            width: 90px;
-            margin: 0 auto 93px;
-        }
-        #loadmore img{
-            float: left;
-        }
-        #loadmore p{
-            float: right;
-            color: #000;
-        }
-        #qiaobao_head{
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-            z-index: 1000;
-        }
-        .content_context p{
-            padding-top: 0;
-        }
-        .newslogo{color:#0491ed}
-        #qiaobao_head{height: 62px}
-        .qbhead{
-            padding: 10px 12px;
-        }
-        .qbhead-right-button{margin-top: 4px;}
-    </style>
-    <div id="appxg">
-        <div class="xgyd">
-            <h2 class="xgydtt">相关阅读</h2>
-            <ul class="xgydlist">
-            </ul>
-        </div>
-        <div class="xgyd">
-            <h2 class="xgydjctj">精彩推荐</h2>
-            <ul class="jctjlist">
-            </ul>
-        </div>
-    </div>
-    <div id="loadmore"><img src="//www.chinaqw.com/upload_pic/1/201701/12/U674P894T1D1225F11DT20170112160628.gif"
-                            alt="loadmore" width="20" height="20"/><p>加载更多</p></div>
-    <input type="hidden" name="pageNo" id="pageNo" value="1" />
-    <input type="hidden" name="pageNo" id="zwid" value="317961" />
-</div>
-
-<script>
-    var loading=true;
-    function xgxw(num){
-        $.ajax({
-            url: "https://qb.chinaqw.com/api/wapRelatedNews?id="+num,
-            type: 'GET',
-            dataType: 'JSONP',
-            success: function (data) {
-                var html = "";
-                var isLastPage=data.isLastPage;
-                for(var i=0;i<data.contentlist.length;i++){
-                    var title = data.contentlist[i].title;
-                    var url = data.contentlist[i].wapUrl+"?f=qbapp";
-                    var img = data.contentlist[i].img;
-                    var source = data.contentlist[i].source+" ";
-                    var pubtime = data.contentlist[i].pubtime;
-                    var myDate = new Date();
-                    var year=myDate.getFullYear();
-                    var month=myDate.getMonth()+1;
-                    var day=myDate.getDate();
-                    month =(month<10 ? "0"+month:month);
-                    var nowday=month+"-"+day;
-                    var pubdate=pubtime.split(" ");
-                    var pubyear=pubdate[0].split("-")[0];
-                    var pubmonth=pubdate[0].split("-")[1];
-                    var pubday=pubdate[0].split("-")[2];
-                    var pubhour=pubdate[1].split(":")[0];
-                    var pubmin=pubdate[1].split(":")[1];
-                    if(year==pubyear){
-                        if(nowday==(pubmonth+"-"+pubday)){
-                            pubtime=pubhour+":"+pubmin
-                        }
-                        else{
-                            pubtime=pubmonth+"-"+pubday
-                        }
-                    }
-                    else{
-                        pubtime=pubyear+"-"+pubmonth+"-"+pubday
-                    }
-                    var type = data.contentlist[i].type;
-                    if((type=='zw'&&img!='')||type=='sp'||type=='zt'){
-                        if(type=='sp'){
-                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+'<span class="newslogo">视频 </span>'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
-                        }
-                        else if(type=='zt'){
-                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+'<span class="newslogo">专题 </span>'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
-                        }
-                        else{
-                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
-                        }
-                    }
-                    else if(type=='zw' && img==''){
-                        html=html+'<li class="zeropic"><h4><a href="'+url+'">'+title+'</a></h4><span class="fbsj">'+source+pubtime+'</span></li>'
-                    }
-                    else if(type=='llt'){
-                        var src=imgs.split("|");
-                        html=html+'<li class="twopic"><h4><a href="'+url+'">'+title+'</a></h4><div class="morepic"><a href="'+url+'"><img src='+src[0]+' alt="'+title+'"><img src='+src[1]+' alt="'+title+'"></a></div><span class="fbsj">'+source+pubtime+'</span></li>'
-                    }
-                    else if(type=='tj'){
-                        var src=imgs.split("|");
-                        html=html+'<li class="threepic"><h4><a href="'+url+'">'+title+'</a></h4><div class="morepic"><a href="'+url+'"><img src='+src[0]+' alt="'+title+'"><img src='+src[1]+' alt="'+title+'"><img src='+src[2]+' alt="'+title+'"></a></div><span class="fbsj">'+'<span class="newslogo">图集 </span>'+source+pubtime+'</span></li>'
-                    }
-                }
-                if(html==""){
-                    $(".xgydtt").remove()
-                }
-                else{
-                    $(".xgydlist").append(html);
-                }
-            },
-            error : function(){
-                loading=true;
-                alert("查询数据出错啦，请刷新再试");
-            }
-        });
-    }
-    function jctj(id,num){
-        $.ajax({
-            url: "https://qb.chinaqw.com/api/wapMoreNews?id="+id+"&pageSize=5&pageNum="+num+"",
-            type: 'GET',
-            dataType: 'JSONP',
-            success: function (data) {
-                var html = "";
-                var islastpage=data.islastpage;
-                if(islastpage=="false"){
-                    loading=true;
-                    $("#loadmore").show();
-                }
-                else if(islastpage=="true"){
-                    loading=false;
-                    $("#loadmore").hide();
-                }
-                for(var i=0;i<data.contentlist.length;i++){
-                    var title = data.contentlist[i].title;
-                    var url = data.contentlist[i].wapUrl+"?f=qbapp";
-                    var img = data.contentlist[i].img;
-                    var imgs = data.contentlist[i].imgs;
-                    var source = data.contentlist[i].source+" ";
-                    var pubtime = data.contentlist[i].pubtime;
-                    var myDate = new Date();
-                    var year=myDate.getFullYear();
-                    var month=myDate.getMonth()+1;
-                    var day=myDate.getDate();
-                    month =(month<10 ? "0"+month:month);
-                    var nowday=month+"-"+day;
-                    var pubdate=pubtime.split(" ");
-                    var pubyear=pubdate[0].split("-")[0];
-                    var pubmonth=pubdate[0].split("-")[1];
-                    var pubday=pubdate[0].split("-")[2];
-                    var pubhour=pubdate[1].split(":")[0];
-                    var pubmin=pubdate[1].split(":")[1];
-                    if(year==pubyear){
-                        if(nowday==(pubmonth+"-"+pubday)){
-                            pubtime=pubhour+":"+pubmin
-                        }
-                        else{
-                            pubtime=pubmonth+"-"+pubday
-                        }
-                    }
-                    var type = data.contentlist[i].type;
-                    if((type=='zw'&&img!='')||type=='sp'||type=='zt'){
-                        if(type=='sp'){
-                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+'<span class="newslogo">视频 </span>'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
-                        }
-                        else if(type=='zt'){
-                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+'<span class="newslogo">专题 </span>'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
-                        }
-                        else{
-                            html=html+'<li class="onepic"> <div class="lt"> <h4><a href="'+url+'">'+title+'</a></h4> <span class="fbsj">'+source+pubtime+'</span></div><div class="rt"><a href="'+url+'"><img src="'+img+'" alt="'+title+'"></a></div></li>'
-                        }
-                    }
-                    else if(type=='zw' && img==''){
-                        html=html+'<li class="zeropic"><h4><a href="'+url+'">'+title+'</a></h4><span class="fbsj">'+source+pubtime+'</span></li>'
-                    }
-                    else if(type=='llt'){
-                        var src=imgs.split("|");
-                        html=html+'<li class="twopic"><h4><a href="'+url+'">'+title+'</a></h4><div class="morepic"><a href="'+url+'"><img src='+src[0]+' alt="'+title+'"><img src='+src[1]+' alt="'+title+'"></a></div><span class="fbsj">'+source+pubtime+'</span></li>'
-                    }
-                    else if(type=='tj'){
-                        var src=imgs.split("|");
-                        html=html+'<li class="threepic"><h4><a href="'+url+'">'+title+'</a></h4><div class="morepic"><a href="'+url+'"><img src='+src[0]+' alt="'+title+'"><img src='+src[1]+' alt="'+title+'"><img src='+src[2]+' alt="'+title+'"></a></div><span class="fbsj">'+'<span class="newslogo">图集 </span>'+source+pubtime+'</span></li>'
-                    }
-                }
-                if(html==""){
-                    $(".xgydjctj").remove()
-                }
-                else{
-                    $(".jctjlist").append(html);
-                }
-            },
-            error : function(){
-                loading=true;
-                $("#pageNo").val(parseInt($("#pageNo").val())-1);
-                alert("查询数据出错啦，请刷新再试");
-            }
-        });
-    }
-    Zepto(function($){
-        $(window).scroll(function(){
-            if(($(window).scrollTop()+$(window).height()>$(document).height()-10)&&loading){
-                loading=false;
-                $("#pageNo").val(parseInt($("#pageNo").val())+1);
-                var num=$("#pageNo").val();
-                var id =  $("#zwid").val();
-                setTimeout("jctj("+id+","+num+")",1000);
-            }
-        });
-    });
-    $(document).ready(function(){
-        var id =  $("#zwid").val();
-        xgxw(id);
-        jctj(id,1);
-        var aaa=document.getElementsByTagName("p");
-        for(var i=0;i<aaa.length;i++){
-            if(aaa[i].innerHTML=="&nbsp;"){
-                aaa[i].remove();
-            }
-        }
-    })
-</script>
-
-<section>
-    <div class="mt20">
-        <div style="display:none"></div>
-    </div>
-</section>
-
-<section>
-    <div class="w320" id="pl" style="display:none;">
-        <div id="SOHUCS" sid="894-5-317961"></div>
-        <script id="changyan_mobile_js" charset="utf-8" type="text/javascript"
-                src="https://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=cysWhJpTK&conf=prod_8b669edc60fa271cff940dba5f7b08a2">
-        </script>
-    </div>
-</section>
-
-<div class="channl_appc mt20" id="jctj" style="display:none;">
-    <h3><span><a href="//www.chinanews.com/m/channel/sp/index.htm">精彩推荐</a></span></h3>
-    <div class="recommend o_h ">
-
-        <div class="img_recom o_h clear">
-            <ul id="hotspwd">
-                <li><a href="http://www.chinaqw.com/zhwh/hd2011/2021/12-28/52297.shtml"><img src="/m/zhwh/2021/12-28/U892P894T5D317975F42DT20211228103032.jpg" alt="日本海狮叼笔书写汉字“寅” 迎接中国农历虎年"><i>日本海狮叼笔书写汉字“寅” 迎接中国农历虎年</i></a><em></em></li>
-                <li><a href="/qx/2021/12-28/317966.shtml"><img src="/m/qx/2021/12-28/U892P894T5D317966F42DT20211228100541.jpg" alt="福州烟台山银杏节：感受银杏与冬日的浪漫"><i>福州烟台山银杏节：感受银杏与冬日的浪漫</i></a><em></em></li>
-
-            </ul>
-        </div>
-
-    </div>
-    <div class="mt10">
-        <ul class="list_ulc">
-            <!--[894,7,2] published at 2023-01-02 15:43:05 from #10 by 王琴--> 
-<div class="mt10 ">
-               <div class="qw_list_title ">
-                  <div class="life_title_zhichang_text"><a href="http://www.chinaqw.com/pdjx/news1.shtml">频道精选</a></div>
-                </div>
-                <div class="mt10">
-                   <ul class="module_list_ul">
-
-    <li><a href="/yw/2023/01-02/348197.shtml">东西问丨短评：为何说人权思想在中国源远流长？</a></li>
-
-    <li><a href="/zhwh/2023/01-02/348180.shtml">东西问｜余隆：如何让世界爱上来自中国的“音乐之声”？</a></li>
-
-    <li><a href="/huazhu/2023/01-02/348172.shtml">转发收藏！《个人防疫手册(第四版)》来了</a></li>
-
-    <li><a href="/ydylpc/2023/01-01/348163.shtml">生效一周年，RCEP给世界带来了什么？</a></li>
-
-    <li><a href="/yw/2023/01-01/348162.shtml">纽约时报广场百万人热闹迎新年</a></li>
-
-    <li><a href="/huazhu/2023/01-01/348161.shtml">泰国举办跨年烟花秀迎新年 期待中国游客赴泰旅游</a></li>
-
-    <li><a href="/qx/2023/01-01/348156.shtml">2023“聚英”论坛在京举行：为中国式现代化提供人才智力支撑</a></li>
-
-    <li><a href="/kong/2023/01-01/348155.shtml">中国杂技团魔幻新杂剧《造梦师之秘境》跨年首演 探索技艺与故事“形神兼备”</a></li>
-
-    <li><a href="/ydylpc/2023/01-01/348154.shtml">首列“粤陕”国际班列迎新启航 “+西欧”线路达18条</a></li>
-
+<body data-rsssl=1 class="post-template-default single single-post postid-170536 single-format-standard wp-embed-responsive m-excerpt-cat m-excerpt-time topbar-off site-layout-2 text-justify-on m-sidebar">
+<header class="header">
+	<div class="container">
+		<div class="logo"><a href="https://cfcnews.com" title="新华侨网-CFCNEWS.COM"><img src="https://cfcnews.com/wp-content/uploads/2020/06/358bdc5d1453b1e.png" alt="新华侨网-CFCNEWS.COM">新华侨网</a></div>		<div class="brand">COME FROM CHINA<br>新华侨网</div>		<ul class="site-nav site-navbar">
+			<li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-61"><a href="https://cfcnews.com">首页</a></li>
+<li id="menu-item-280449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-280449"><a href="https://cfcnews.com/us/">美国</a></li>
+<li id="menu-item-8052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8052"><a href="https://cfcnews.com/canada/">加拿大</a>
+<ul class="sub-menu">
+	<li id="menu-item-104371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104371"><a href="https://cfcnews.com/vancouver/">温哥华</a></li>
+	<li id="menu-item-228724" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-228724"><a href="https://cfcnews.com/montreal/">蒙特利尔</a></li>
+	<li id="menu-item-104370" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104370"><a href="https://cfcnews.com/toronto/">多伦多</a></li>
+	<li id="menu-item-104372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104372"><a href="https://cfcnews.com/news/ottawa">渥太华</a></li>
 </ul>
-                </div>
-              </div>
-        </ul>
+</li>
+<li id="menu-item-291554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-291554"><a href="https://cfcnews.com/food/">美食</a></li>
+<li id="menu-item-295071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-295071"><a href="https://cfcnews.com/health/">健康</a></li>
+<li id="menu-item-294617" class="menu-item menu-item-type-gs_sim menu-item-object-gs_sim menu-item-294617"><!-- GTranslate: https://gtranslate.io/ -->
+<a href="https://cfcnews.com" onclick="doGTranslate('zh-CN|zh-CN');return false;" title="简体中文" class="glink nturl notranslate">简体中文</a> <a href="https://cfcnews.com/zh-TW" onclick="doGTranslate('zh-CN|zh-TW');return false;" title="繁體中文" class="glink nturl notranslate">繁體中文</a> 
 
-    </div>
+<script type="text/javascript">
+function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(typeof _gaq!='undefined'){_gaq.push(['_trackEvent', 'GTranslate', lang, location.pathname+location.search]);}else {if(typeof ga!='undefined')ga('send', 'event', 'GTranslate', lang, location.pathname+location.search);}var plang=location.pathname.split('/')[1];if(plang.length !=2 && plang != 'zh-CN' && plang != 'zh-TW' && plang != 'hmn' && plang != 'haw' && plang != 'ceb')plang='zh-CN';if(lang == 'zh-CN')location.href=location.protocol+'//'+location.host+gt_request_uri;else location.href=location.protocol+'//'+location.host+'/'+lang+gt_request_uri;}
+</script>
+</li>
+							<li class="navto-search"><a href="javascript:;" class="search-show active"><i class="fa fa-search"></i></a></li>
+					</ul>
+							<i class="fa fa-bars m-icon-nav"></i>
+					</div>
+</header>
+<div class="site-search">
+	<div class="container">
+		<form method="get" class="site-search-form" action="https://cfcnews.com/" ><input class="search-input" name="s" type="text" placeholder="输入关键字" value=""><button class="search-btn" type="submit"><i class="fa fa-search"></i></button></form>	</div>
 </div>
-<!--广告位开始-->
-<div class="madbanner" id="b_ban">
-    <style>
-.appdown{
-background:#CDCDCD;  height:35px;  width:100%;  padding:10px 0;  position:fixed;  bottom:0;z-index:1000;}
-.appleft{float:left;  margin-left:10px;}
-.appright{float:right;  margin-right:15px;}
-</style>
-<img src="http://www.chinaqw.com/upload_pic/1/201509/15/U412P894T1D448F6DT20150923134248.jpg" width="100%" heigh="100%" alt="关注侨网微信">
-<p style="height: 120px;width: 100%;line-height:30px;color:#333;text-align:center">Copyright&#169;2003-2023 chinaqw.com. All Rights Reserved</p>
-<div class="appdown">
-<div class="appleft" style="margin-left:15px"><img src="http://www.chinaqw.com/upload_pic/1/201608/22/U674P894T1D828F2DT20160822140851.jpg" width="35" alt="侨宝客户端"/></div>
-<div class="appleft"><img src="http://www.chinaqw.com/upload_pic/1/201608/22/U674P894T1D828F5DT20160822140851.jpg" alt="侨宝客户端" width="130"/></div>
-<div class="appright"><a href="/m/qiaobao/app.shtml"><img src="http://www.chinaqw.com/upload_pic/1/201608/22/U674P894T1D828F4DT20160822140851.jpg" alt="侨宝客户端" width="95"/></a></div>
-</div>
-</div>
-<!--广告位end-->
+	<div class="breadcrumbs">
+		<div class="container">当前位置：<a href="https://cfcnews.com">新华侨网</a> <small>></small> <a href="https://cfcnews.com/breaking/">头条新闻</a> <small>></small> 正文</div>
+	</div>
+<div class="orbui orbui-site orbui-site-01"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- News Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9940573697171738"
+     data-ad-slot="5834044019"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+	
+
+<section class="container">
+	<div class="content-wrap">
+	<div class="content">
+				<header class="article-header">
+			<h1 class="article-title"><a href="https://cfcnews.com/170536/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7/">“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样&#8230;</a></h1>
+			<div class="article-meta">
+				<span class="item">2017-06-12</span>
+												<span class="item">分类：<a href="https://cfcnews.com/breaking/" rel="category tag">头条新闻</a> / <a href="https://cfcnews.com/ottawa/" rel="category tag">渥太华新闻</a></span>
+								<span class="item">评论(0)</span>				<span class="item"></span>
+				
+			</div>
+		</header>
+		<article class="article-content">
+			<div class="orbui orbui-post orbui-post-01"></div>			<p>【CFC新闻】世界地图，大家都见过，但是你见过“偏见地图”吗？</p>
+<p><img class="alignnone size-full wp-image-170538" src="https://cfcnews.com/wp-content/uploads/2017/06/49916756.jpg" alt="" width="580" height="435" /></p>
+<p>偏见地图，是指根据一些地区的人对其他地区的偏见看法而描绘出来的地图。 在中国，网络上流行着“北京人眼中的中国地图”、“上海人眼中的中国地图”、“湖南人眼中的中国地图”等国内版本的“偏见地图”。</p>
+<p>其实，偏见地图的概念很早就出现了。保加利亚摄影师Yanko Tsvetkov从2009年就开始绘制“世界偏见地图”。</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-170550" src="https://cfcnews.com/wp-content/uploads/2017/06/11-4.jpg" alt="" width="570" height="441" /></p>
+<p>看看美国人眼中的亚洲，笑哭！中国物产丰饶人民心灵手巧；丰田最能代表日本；印度就是各种咖喱大集合&#8230;</p>
+<p>最近， 美国旅游公司Exeter International基于google 的自动提示功能，也制作了一张国际版的“偏见地图”。自动提示功能中的短语， 通常是人们被人们搜索最多的事物，通过这种方式，可以将一个国家与另一种事物紧密相连。</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-170539" src="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133052-800x338.jpg" alt="" width="800" height="338" srcset="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133052-800x338.jpg 800w, https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133052-768x325.jpg 768w, https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133052.jpg 1024w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>通过搜索“Best * COUNTRY NAME”， Exeter International 画出了一张“世家偏见地图”，以了解人们在某一个特定国家搜索做多的东西是什么。 一起来探索下， 这张“恶意”满满的地图：</p>
+<p><strong>北美：</strong></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-170541" src="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612134301.jpg" alt="" width="658" height="582" />提起加拿大，人们 可能会想到“枫叶”、“冰球”和“寒冷”。 在这张大杂烩的地图上，加拿大被人们搜索最多的是“滑雪胜地”， 倒是很符合加拿大的气质。拥有众多名校的美国，给世界人们的印象是“大学”。</p>
+<p><strong>亚洲：</strong><img loading="lazy" class="alignnone size-full wp-image-170544" src="https://cfcnews.com/wp-content/uploads/2017/06/亚洲.jpg" alt="" width="664" height="579" /></p>
+<p>民以食为天的中国，给世界人民的印象竟然是“炒锅， Wok”！</p>
+<p><strong>欧洲：</strong></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-170542" src="https://cfcnews.com/wp-content/uploads/2017/06/欧洲.jpg" alt="" width="659" height="583" /></p>
+<p><strong>大洋洲</strong></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-170545" src="https://cfcnews.com/wp-content/uploads/2017/06/QQ截图20170612133633.jpg" alt="" width="658" height="505" /></p>
+<p><strong>南美</strong></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-170548" src="https://cfcnews.com/wp-content/uploads/2017/06/微信截图_20170612140819.jpg" alt="" width="500" height="589" /></p>
+<p>非洲：</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-170549" src="https://cfcnews.com/wp-content/uploads/2017/06/非洲.jpg" alt="" width="500" height="550" /></p>
+<p>（CFC记者王耑编译）</p>
+		</article>
+						            <div class="post-actions">
+            	<a href="javascript:;" etap="like" class="post-like action action-like" data-pid="170536"><i class="fa fa-thumbs-o-up"></i>赞(<span>0</span>)</a>            	            	            </div>
+        		<div class="post-copyright"><a href="https://cfcnews.com">新华侨网</a> &raquo; <a href="https://cfcnews.com/170536/%e6%81%b6%e6%84%8f%e6%bb%a1%e6%bb%a1%e7%9a%84%e4%b8%96%e7%95%8c%e5%81%8f%e8%a7%81%e5%9c%b0%e5%9b%be%e6%9d%a5%e8%a2%ad%ef%bc%8c-%e4%b8%ad%e5%9b%bd%e3%80%81%e5%8a%a0%e6%8b%bf%e5%a4%a7/">“恶意满满”的世界偏见地图来袭， 中国、加拿大在世界眼中是这样&#8230;</a></div>		
+					<div class="action-share"></div>
+		
+		<div class="article-tags"></div>
+				
+		            <nav class="article-nav">
+                <span class="article-nav-prev">上一篇<br><a href="https://cfcnews.com/170442/%e7%ac%ac%e4%b8%80%e6%b3%a2%e7%83%ad%e6%b5%aa%e6%9d%a5%e8%a2%ad%ef%bc%9a9%e7%ba%a7%e7%b4%ab%e5%a4%96%e7%ba%bf35%e6%91%84%e6%b0%8f%e5%ba%a6%ef%bc%81%e6%b8%a5%e5%a4%aa%e5%8d%8e%e5%8f%98%e7%81%ab/" rel="prev">第一波热浪来袭：9级紫外线+39摄氏度！渥太华变火焰山！</a></span>
+                <span class="article-nav-next">下一篇<br><a href="https://cfcnews.com/170558/%e8%b5%b6%e7%b4%a7%e5%9b%a4%e9%85%92%ef%bc%81lcbo%e6%88%96%e5%9c%a8%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%9b%bd%e5%ba%86%e8%8a%82%e5%89%8d%e7%bd%a2%e5%b7%a5%ef%bc%81/" rel="next">赶紧囤酒！LCBO或在加拿大国庆节前罢工！</a></span>
+            </nav>
+        
+		<div class="orbui orbui-post orbui-post-02"></div>		<div class="relates relates-thumb"><div class="title"><h3>相关推荐</h3></div><ul><li><a href="https://cfcnews.com/335004/%e7%89%b9%e6%9c%97%e6%99%ae%e8%a2%ab%e7%ba%bd%e7%ba%a6%e5%b7%9e%e6%80%bb%e6%a3%80%e5%af%9f%e9%95%bf%e8%b5%b7%e8%af%89%e6%ac%ba%e8%af%88/"><img data-src="https://mmbiz.qpic.cn/mmbiz_jpg/ukSNKulNV94EvJcPFgicaHbJibw3ibQKqYL7U3RXmDrnI7VyxUDKjBdIDEP5PxNVBabZmiam89XQJg8Bkc14PCBWCg/640?wx_fmt=jpeg&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="特朗普被纽约州总检察长起诉欺诈-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/335004/%e7%89%b9%e6%9c%97%e6%99%ae%e8%a2%ab%e7%ba%bd%e7%ba%a6%e5%b7%9e%e6%80%bb%e6%a3%80%e5%af%9f%e9%95%bf%e8%b5%b7%e8%af%89%e6%ac%ba%e8%af%88/">特朗普被纽约州总检察长起诉欺诈</a></li><li><a href="https://cfcnews.com/334054/28%e5%b2%81%e7%94%b7%e5%ad%90%e9%81%ad%e8%ad%a6%e6%96%b9%e8%bf%bd%e6%8d%95%e8%bd%a6%e7%a5%b8%e6%ad%bb%e4%ba%a1/"><img data-src="https://p0.51img.ca/i/62fe2187e6daa.jpg" alt="28岁男子遭警方追捕车祸死亡-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/334054/28%e5%b2%81%e7%94%b7%e5%ad%90%e9%81%ad%e8%ad%a6%e6%96%b9%e8%bf%bd%e6%8d%95%e8%bd%a6%e7%a5%b8%e6%ad%bb%e4%ba%a1/">28岁男子遭警方追捕车祸死亡</a></li><li><a href="https://cfcnews.com/333964/%e5%b0%8f%e9%a3%9e%e6%9c%ba%e5%9c%a8%e5%ae%89%e7%9c%81%e5%9d%a0%e6%af%81-%e4%b8%a4%e4%ba%ba%e9%81%87%e9%9a%be/"><img data-src="https://p0.51img.ca/i/62f93587dbd88.jpeg" alt="小飞机在安省坠毁 两人遇难-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333964/%e5%b0%8f%e9%a3%9e%e6%9c%ba%e5%9c%a8%e5%ae%89%e7%9c%81%e5%9d%a0%e6%af%81-%e4%b8%a4%e4%ba%ba%e9%81%87%e9%9a%be/">小飞机在安省坠毁 两人遇难</a></li><li><a href="https://cfcnews.com/333712/%e7%aa%81%e5%8f%91%ef%bc%81%e4%b8%80%e8%be%86%e6%97%85%e6%b8%b8%e5%a4%a7%e5%b7%b4%e6%92%9e%e4%b8%8a%e4%ba%86%e6%80%bb%e7%90%86%e6%9d%9c%e9%b2%81%e5%a4%9a%e5%ae%98%e9%82%b8%e7%9a%84%e5%a4%a7%e9%97%a8/"><img data-src="https://media-proc.singtao.ca/photo.php?s=https://media.singtao.ca/wp-content/uploads/dushi_toronto/2022/08/截屏2022-08-03-11.55.12-696x392.png&amp;f=jpeg&amp;w=696&amp;q=75&amp;v=1" alt="突发！一辆旅游大巴撞上了总理杜鲁多官邸的大门！-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333712/%e7%aa%81%e5%8f%91%ef%bc%81%e4%b8%80%e8%be%86%e6%97%85%e6%b8%b8%e5%a4%a7%e5%b7%b4%e6%92%9e%e4%b8%8a%e4%ba%86%e6%80%bb%e7%90%86%e6%9d%9c%e9%b2%81%e5%a4%9a%e5%ae%98%e9%82%b8%e7%9a%84%e5%a4%a7%e9%97%a8/">突发！一辆旅游大巴撞上了总理杜鲁多官邸的大门！</a></li><li><a href="https://cfcnews.com/333539/75%e5%b2%81%e8%80%81%e5%a6%87%e9%97%a8%e5%89%8d%e8%b7%8c%e5%80%92-%e8%8b%a6%e7%ad%89%e6%95%91%e6%8a%a4%e8%bd%a66%e5%b0%8f%e6%97%b6/"><img data-src="https://media-proc.singtao.ca/photo.php?s=https://media.singtao.ca/wp-content/uploads/dushi_toronto/../master_sandbox/2022/07/2022-07-25_165440-696x473.png&amp;f=jpeg&amp;w=696&amp;q=75&amp;v=1" alt="75岁老妇门前跌倒 苦等救护车6小时-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333539/75%e5%b2%81%e8%80%81%e5%a6%87%e9%97%a8%e5%89%8d%e8%b7%8c%e5%80%92-%e8%8b%a6%e7%ad%89%e6%95%91%e6%8a%a4%e8%bd%a66%e5%b0%8f%e6%97%b6/">75岁老妇门前跌倒 苦等救护车6小时</a></li><li><a href="https://cfcnews.com/333184/%e6%80%a5%e6%ad%bb%e4%ba%ba%ef%bc%81%e5%ae%89%e7%9c%81%e5%a5%b3%e5%ad%90%e6%97%a9%e6%97%a9%e6%9f%a5%e5%87%ba%e7%99%8c%e7%97%87%ef%bc%8c%e5%8c%bb%e9%99%a2%e5%8d%b4%e8%bf%9f%e8%bf%9f%e4%b8%8d%e5%ae%89/"><img data-src="https://p0.51img.ca/i/62cd791b5ef8b.png" alt="急死人！安省女子早早查出癌症，医院却迟迟不安排手术！-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333184/%e6%80%a5%e6%ad%bb%e4%ba%ba%ef%bc%81%e5%ae%89%e7%9c%81%e5%a5%b3%e5%ad%90%e6%97%a9%e6%97%a9%e6%9f%a5%e5%87%ba%e7%99%8c%e7%97%87%ef%bc%8c%e5%8c%bb%e9%99%a2%e5%8d%b4%e8%bf%9f%e8%bf%9f%e4%b8%8d%e5%ae%89/">急死人！安省女子早早查出癌症，医院却迟迟不安排手术！</a></li><li><a href="https://cfcnews.com/333146/%e5%ae%89%e5%80%8d%e9%81%87%e5%88%ba%e5%85%a8%e8%bf%bd%e8%b8%aa%ef%bc%81%e5%87%b6%e6%89%8b3d%e6%89%93%e5%8d%b0%e6%ad%a6%e5%99%a8-%e9%98%b2%e5%bc%b9%e5%85%ac%e5%8a%a1%e5%8c%85%e6%b2%a1%e6%9c%89/"><img data-src="https://media-proc.singtao.ca/photo.php?s=https://media.singtao.ca/wp-content/uploads/dushi_toronto/2022/07/photo.php-2022-07-08T103227.440-696x392.jpg&amp;f=jpeg&amp;w=696&amp;q=75&amp;v=1" alt="安倍遇刺全追踪！凶手3D打印武器 防弹公务包没有打开-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/333146/%e5%ae%89%e5%80%8d%e9%81%87%e5%88%ba%e5%85%a8%e8%bf%bd%e8%b8%aa%ef%bc%81%e5%87%b6%e6%89%8b3d%e6%89%93%e5%8d%b0%e6%ad%a6%e5%99%a8-%e9%98%b2%e5%bc%b9%e5%85%ac%e5%8a%a1%e5%8c%85%e6%b2%a1%e6%9c%89/">安倍遇刺全追踪！凶手3D打印武器 防弹公务包没有打开</a></li><li><a href="https://cfcnews.com/332641/%e9%a6%99%e6%b8%af%e7%bb%8f%e8%b4%b8%e5%a4%84%e5%a4%84%e9%95%bf%e5%88%b0%e8%ae%bf%e6%b8%a5%e5%a4%aa%e5%8d%8e%e8%bf%9b%e8%a1%8c%e5%95%86%e5%8a%a1%e6%8e%a8%e5%b9%bf/"><img data-src="https://p0.51img.ca/i/62ac92d837bcb.jpg" alt="香港经贸处处长到访渥太华进行商务推广-新华侨网" src="https://cfcnews.com/wp-content/themes/dux-4/img/thumbnail.png" class="thumb"></a><a href="https://cfcnews.com/332641/%e9%a6%99%e6%b8%af%e7%bb%8f%e8%b4%b8%e5%a4%84%e5%a4%84%e9%95%bf%e5%88%b0%e8%ae%bf%e6%b8%a5%e5%a4%aa%e5%8d%8e%e8%bf%9b%e8%a1%8c%e5%95%86%e5%8a%a1%e6%8e%a8%e5%b9%bf/">香港经贸处处长到访渥太华进行商务推广</a></li></ul></div>				
+	</div>
+	</div>
+	<div class="sidebar">
+<div class="widget widget_ui_tags"><h3>热门标签</h3><div class="items"><a href="https://cfcnews.com/tag/%e7%be%8e%e5%9b%bd/">美国 (908)</a><a href="https://cfcnews.com/?taxonomy=tag_keyword&term=%e5%8a%a0%e6%8b%bf%e5%a4%a7">加拿大 (0)</a><a href="https://cfcnews.com/tag/%e8%8b%b1%e5%9b%bd/">英国 (356)</a><a href="https://cfcnews.com/?taxonomy=tag_keyword&term=%e6%b8%a5%e5%a4%aa%e5%8d%8e">渥太华 (0)</a><a href="https://cfcnews.com/tag/%e5%a4%9a%e4%bc%a6%e5%a4%9a/">多伦多 (144)</a><a href="https://cfcnews.com/?taxonomy=tag_keyword&term=%e9%a6%99%e6%b8%af">香港 (0)</a><a href="https://cfcnews.com/tag/%e6%b8%a9%e5%93%a5%e5%8d%8e/">温哥华 (75)</a><a href="https://cfcnews.com/?taxonomy=tag_keyword&term=%e9%9d%9e%e6%b4%b2">非洲 (0)</a><a href="https://cfcnews.com/tag/%e7%a7%bb%e6%b0%91/">移民 (44)</a><a href="https://cfcnews.com/tag/%e5%86%a0%e7%8a%b6%e7%97%85%e6%af%92/">冠状病毒 (43)</a><a href="https://cfcnews.com/tag/%e7%95%99%e5%ad%a6%e7%94%9f/">留学生 (32)</a><a href="https://cfcnews.com/tag/%e9%87%91%e6%ad%a3%e6%81%a9/">金正恩 (32)</a><a href="https://cfcnews.com/tag/%e4%bf%84%e7%bd%97%e6%96%af/">俄罗斯 (30)</a><a href="https://cfcnews.com/tag/%e7%ba%bd%e7%ba%a6/">纽约 (26)</a><a href="https://cfcnews.com/tag/%e9%92%9f%e5%8d%97%e5%b1%b1/">钟南山 (23)</a></div></div><div class="widget widget_ui_posts"><h3>24小时热点追踪</h3><ul></ul></div><div class="widget widget_ui_posts"><h3>评论最多</h3><ul></ul></div></div></section>
+
+
+<footer class="footer">
+	<div class="container">
+						<p>&copy; 2023 <a href="https://cfcnews.com">新华侨网</a> &nbsp; <a href="https://cfcnews.com/sitemap.xml">网站地图</a>
+</p>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66833101-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66833101-1');
+</script>
+	</div>
+</footer>
+
+
 
 <script>
-    var url=encodeURIComponent(window.location.href);
-    var shareImg="http://www.chinaqw.com/pic/pic300.jpg";
-    var shareTitle='中国侨网';
-    var shareDesc="美国疾控中心缩短新冠病毒感染者隔离期至5天";
+window.jsui={
+	www: 'https://cfcnews.com',
+	uri: 'https://cfcnews.com/wp-content/themes/dux-4',
+	ver: '6.4',
+	roll: [],
+	ajaxpager: '5',
+	url_rp: 'https://cfcnews.com/password/'
+};
 </script>
-<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
-<script src="https://www.chinaqw.com/wechat/share.js"></script>
+<script type="text/javascript" src="https://cfcnews.com/wp-content/themes/dux-4/zh-cn-tw.js"></script>
 
+
+
+<script type='text/javascript' src='//code.jquery.com/jquery-1.9.1.min.js?ver=6.4' id='jquery-js'></script>
+<script type='text/javascript' id='superpwa-register-sw-js-extra'>
+/* <![CDATA[ */
+var superpwa_sw = {"url":"\/superpwa-sw.js","disable_addtohome":"0","enableOnDesktop":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cfcnews.com/wp-content/uploads/hummingbird-assets/b5c38d228c2206021c1b69b2c897a849.js' id='superpwa-register-sw-js'></script>
+<script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js?ver=6.4' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://cfcnews.com/wp-content/themes/dux-4/js/loader.js?ver=6.4' id='_loader-js'></script>
 </body>
 </html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+Database Caching 32/91 queries in 0.154 seconds using disk
+
+Served from: cfcnews.com @ 2023-01-03 11:59:45 by W3 Total Cache
+-->

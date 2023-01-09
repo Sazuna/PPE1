@@ -1,330 +1,960 @@
-
 <!DOCTYPE html>
-<html>
+
+<html lang="zh_CN" style="overflow-y: scroll">
+
 <head>
-	<meta charset="utf-8" />
-	<title>火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”_手机新浪网</title>
-	<script type="text/javascript">window.STO=window.STO||{};window.STO.fs=new Date().getTime();</script>
-	<meta name="keywords" content="乌克兰,美国,sina.cn">
-	<meta name="description" content="[文/观察者网 杨子江]10月31日，俄新社援引希腊陆军退役军官阿特拉马佐格鲁的文章报道称，由于当前战事的激烈程度，导致每天消耗弹药量可高达6000发炮弹...">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<meta name="author" content="sina_mobile">
-    <meta name="format-detection" content="telephone=no" />
-	<meta name="sudameta" content="allCIDs:51923,257,51895,200856,38790,258,56262">
-	<meta property="og:type" content="news"/>
-	<meta property="og:title" content="火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”" />
-	<meta property="og:description" content="火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”" />
-	<meta property="og:url" content="https://news.sina.cn/2022-10-31/detail-imqqsmrp4398135.d.html" />
-	<meta property="og:image" content="//n.sinaimg.cn/spider20221031/118/w1036h682/20221031/6b14-34b7c072c81075b16e6717c9684f3fca.jpg" />
-	<meta property="article:author" content="观察者网"/>
-	<meta property="article:published_time" content="2022-10-31 17:04:29" />
-	<meta name="publishid" content="mqqsmrp4398135" />
-	<meta name="robots" content="index, follow" />
-	<meta name="googlebot" content="index, follow" />
-	<meta name="apple-mobile-web-app-title" content="新浪移动_手机新浪网">
-	<link rel="shortcut icon" type="image/x-icon" href="//mjs.sinaimg.cn/wap/module/base/img/favicon.ico" /><meta content="always" name="referrer"><meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" /><meta name="router-uri" content="sinanews://sina.cn/article/detail.pg?newsId=mqqsmrp4398135-comos-news-cms&dataid=comos:mqqsmrp4398135&pkey=default" />	<link rel="apple-touch-icon-precomposed" href="//mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_114x114_v1.png">
-	<link rel="apple-touch-icon-precomposed" href="//mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_57X57_v1.png">
-	<script src='https://mjs.sinaimg.cn/umd/error-report/2.0.4/lib/index.min.js'></script><script>startReport('sina_wap_news.sina.cn_article',['colorDepth']);</script>	<script type="text/javascript">	
-		if(history.pushState){var hisPush=window.history.pushState,hisReplace=window.history.replaceState;window.history.pushState=function(){},window.history.replaceState=function(){},window.sinaHisPush=function(){var i=[].slice.call(arguments);hisPush.apply(window.history,i)},window.sinaHisReplace=function(){var i=[].slice.call(arguments);hisReplace.apply(window.history,i)}}
-		var sudaLogConfig = {"uId":"","url":"https:\/\/news.sina.com.cn\/w\/2022-10-31\/doc-imqqsmrp4398135.shtml","prevPageClickTime":"","ext1":"cid51923,cid257,cid51895,cid200856,cid38790,cid258,cid56262","ext2":"dl=","channel":"news"};
-        function rem() {var t = 100, o = 750, e = document.documentElement.clientWidth || window.innerWidth, n = Math.max(Math.min(e, 480), 320), h = 50;320 >= n && (h = Math.floor(n / o * t * .99)), n > 320 && 362 >= n && (h = Math.floor(n / o * t * 1)), n > 362 && 375 >= n && (h = Math.floor(n / o * t * 1)), n > 375 && (h = Math.floor(n / o * t * .97)), document.querySelector("html").style.fontSize = h + "px"};
-        rem();
-        window.onresize = function () {rem();}
-    </script>
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no , maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" />
+  <meta name="keywords" />
+  <meta content="yes" name="apple-mobile-web-app-capable" />
+  <meta content="yes" name="apple-touch-fullscreen" />
+  <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+  <meta content="320" name="MobileOptimized" />
+  <script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+  <script type="text/javascript" src="https://z.timedg.com/2021/08timedg-channel-stat/1.0.8/timedgChannelStat.min.js"></script>
+  <link rel="stylesheet" charset="utf-8" href="/mobiletemplate/css/bootstrap.min.css" />
+  <link rel="stylesheet" charset="utf-8" href="https://pub.timedg.com//static/dgapp/css/contentApp.css?v=20220601" />
+  <link rel="stylesheet" charset="utf-8" href="https://pub.timedg.com//static/dgapp/css/webContent.css" />
+  <link rel="stylesheet" charset="utf-8" href="https://pub.timedg.com//static/dgapp/css/openapp.css" />
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/mobiletemplate/js/jquery.min.js"></script>
+  <script type="text/javascript" charset="utf-8" rel="stylesheet" src="/mobiletemplate/js/bootstrap.min.js"></script>
+  <!--<script type="text/javascript" cms:src="js/jquery.lazyload.min.js"></script>-->
+  <script type="text/javascript" src="https://pub.timedg.com//static/dgapp/js/moment.js"></script>
+  <script type="text/javascript" src="https://pub.timedg.com//static/dgapp/js/webcommon.js"></script>
+  <script type="text/javascript" src="https://pub.timedg.com//static/dgapp/js/axios.js"></script>
+  <script type="text/javascript" src="https://pub.timedg.com//static/dgapp/js/vue.js"></script>
 
-	<script type="text/javascript">window.STO=window.STO||{};window.STO.frS=new Date().getTime();</script>
-	<link rel='stylesheet' type='text/css' href='//mjs.sinaimg.cn/wap/project/articlev4/1.1.252/index/static/css/index.min.css' integrity='sha384-/E1eQaZDXvIko4Hljm43AoI8XA8ctX98C3Jehft2JHaDpx/qrVuHM6uOAV/RjQud' crossorigin='anonymous' onerror='attackCatch(this)'>	<link rel="stylesheet" type="text/css" href="//mjs.sinaimg.cn/wap/online/cms/article/V4/online/lagan.min.css?v=3">
-	<link rel="stylesheet" type="text/css" href="//n3.sinaimg.cn/default/cf7470f9/20190830/cms_style.css?t=202112091430">
-	<script type="text/javascript">
-		var __docConfig={"__domain":"news","__docId":"mqqsmrp4398135","__docUrl":"https:\/\/news.sina.cn\/2022-10-31\/detail-imqqsmrp4398135.d.html","__callupId":"mqqsmrp4398135-comos-news-cms","__shareUrl":"https:\/\/news.sina.cn\/2022-10-31\/detail-imqqsmrp4398135.d.html?from=qudao","__sportsShortURL":"","__cmntId":"sh:comos-mqqsmrp4398135:0","__cmntTotal":"0","__isGetUserInfo":"1","__mainPic":"\/\/n.sinaimg.cn\/spider20221031\/118\/w1036h682\/20221031\/6b14-34b7c072c81075b16e6717c9684f3fca.jpg","__cmntListUrl":"https:\/\/cmnt.sina.cn\/index?product=comos&index=mqqsmrp4398135&tj_ch=news&is_clear=0","__gspsId":"comos:mqqsmrp4398135","__suda":"article_new_cms","__sudapageId":"2949","__title":"火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”_手机新浪网","__content":"","__tj_ch":"news","__tj_sch":"news","__webURL":"https:\/\/news.sina.com.cn\/w\/2022-10-31\/doc-imqqsmrp4398135.shtml","__ispraise":0,"__responeTime":1672685290,"__cateid":"sina_all","__cre":"newspagew","__media":"","__colleid":1672685290,"__collekey":"94a5b1835d4ca53a3a6a02643a373018","__pkeys":"47e605e9721d4c446360ae028c4f66ac","__pValue":"mqqsmrp4398135","__api":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=sh&newsid=comos-mqqsmrp4398135&group=0&thread=1&page=1&hot=1","__hotapi":"\/\/interface.sina.cn\/wap_api\/hotnews.d.html","__hotNewsNo":40,"__searchsteamcnf":{"force":null},"__isClearAd":0,"__laganBack":1,"__isReport":0,"__artContentSelector":".j_main_art"}; var channelData={"weibo_hot":[]}; var commentConfig={"insertDom":".j_cmt_wrap","page":"article","getcomments":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=sh&newsid=comos-mqqsmrp4398135&group=0&thread=1&page=1&hot=1","jsonp":"_callback","jumpCmnt":true,"shareBtn":true,"showNewCmnt":false,"timeConvert":true,"multiple":false,"autoStart":true,"showCollBtn":true,"httpToHttps":true,"channel":"sh","newsid":"comos-mqqsmrp4398135","product":"comos","index":"mqqsmrp4398135"}; var __pushConfig={"__isBanner":false}; var isNphCopyPower=1; var isNphBackUrl=1; var isChangeSax=1; var SM={"VERSION":"1.0.1","INFO":{"TIMESTAMP":1672685290147},"ABT":{"ALL":{"ltxt":1}},"data":{"callUpConfig":{"title":"呼起全局配置","url":"","shiftKnob":0,"android_wechat_middle_page":"0","appstore_offline":"0","path":"callup\/1579600948","ads":"1","forceNewRoute":"0","issmallpackage":"0","calltype":"0","ispop":"0","poptitle":"打开新浪新闻 阅读精彩内容","popcancel":"取消","popok":"前往","callnum":"","popnum":"","downnum":"","downpop":"0","downtype":"0","downurl":"","jumpcn":"","callsn":"","popcancelcn":"","popoksn":"","downclose":"","downokcn":"","kid":""},"pageType":"art","switch":{"cmntBar":1,"intercept":1},"isCallQuickApp":false,"isforbid":0,"commentConfig":{"enabled":true,"cmntId":"sh:comos-mqqsmrp4398135:0","cmntid":"sh:comos-mqqsmrp4398135:0","getApi":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=sh&newsid=comos-mqqsmrp4398135&group=0&thread=1&page=1&hot=1","getCountApi":"\/\/cmnt.sina.cn\/aj\/v2\/counts?ids=sh:comos-mqqsmrp4398135:0","getcomments":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=sh&newsid=comos-mqqsmrp4398135&group=0&thread=1&page=1&hot=1","jsonp":"_callback","commentPluginData":[]},"fold":{"text":["打开新浪新闻  阅读全文"],"popTitle":"前往新浪新闻查看，体验更佳","popOkText":"前往","popCancelText":"取消"},"audio":{"dataid":"comos:mqqsmrp4398135","mp3":"https:\/\/n.sinaimg.cn\/listen_news\/0\/w0h0\/20221031\/0947-06bd1425eb95fc77cfb3182be0646bf3.mp3","duration":156710,"size":1097253,"ctime":1667208585,"column":"yw"},"sax":{"wap_class":"bcd230103","native_class":"j_native_bcd230103","isChangeSax":0,"leftArt":0,"standardRead":[{"pdps":"PDPS000000059758","pos":2},{"pdps":"PDPS000000059759","pos":5},{"pdps":"PDPS000000059760","pos":8},{"pdps":"PDPS000000059761","pos":11},{"pdps":"PDPS000000059762","pos":14},{"pdps":"PDPS000000056239","pos":17},{"pdps":"PDPS000000059963","pos":19},{"pdps":"PDPS000000056240","pos":22},{"pdps":"PDPS000000057099","pos":25}],"standardNews":[{"pdps":"PDPS000000067114","pos":3},{"pdps":"PDPS000000060088","pos":6},{"pdps":"PDPS000000059757","pos":"last"}],"notSetStyle":["PDPS000000067590","PDPS000000057786","PDPS000000059890","PDPS000000060087"]},"channel":{"mainPage":"https:\/\/news.sina.cn","name":"新闻"}},"doc":{"routeUri":"sinanews:\/\/sina.cn\/article\/detail.pg?newsId=mqqsmrp4398135-comos-news-cms&dataid=comos:mqqsmrp4398135&pkey=default","dataid":"comos:mqqsmrp4398135"}}; 		
-		var globalConfig = {
-			startTime : new Date().getTime() //页面开始渲染时间,目前应用于：日志统计、性能统计。
-		};
-				(window._ssp_global = window._ssp_global || {}).userConfig = {
-            domain: "whn2.star-media.cn"
-        }
-	</script>
-		<script type="text/javascript">
-		window.isSpecialAd=0; window.isFeedAd=0; window.isFiveAd=0; window.Iframe06AdShow=0; window.is56240Ad=0; window.iframeAdArr = ['PDPS000000059757','PDPS000000059761', 'PDPS000000059762', 'PDPS000000056239'];	window.bdAdArr = [];		window.vivoFlag = true;
-	</script>
-	<script>
-    (function(){window.attackCatch=function(a){var b=a.tagName.toLowerCase();if("script"===b)var c=a.src;else"link"===b&&(c=a.href);c&&window.fetch&&Promise.all([d.loadscript(c,"force-cache"),d.loadscript(c,"no-store")]).then(function(a){var b=a[0],e=a[1],g=b.status,k=e.status;return Promise.all([b.text(),e.text()]).then(function(a){var f=a[0],h=f.length;a=a[1].length;return 200==g&&200==k?d.getSourceData(c,b,e,h,a,f):200==g?d.getSourceData(c,b,e,h,-1):200==k?d.getSourceData(c,b,e,-1,a):d.getSourceData(c,
-b,e,-1,-1)})}).then(function(a){d.log("https://log2.sina.cn/mrt.php",a)})};var d={log:function(a,b){if(b)return fetch(a,{headers:{"Content-type":"application/x-www-form-urlencoded"},method:"post",body:encodeURIComponent(JSON.stringify(b))})},fetchError:function(a,b){return Promise.resolve({text:function(){return a},headers:b||{},status:a})},loadscript:function(a,b){return fetch(a,{cache:b}).then(function(a){return a.ok?a:d.fetchError(a.status,a.headers)}).catch(function(a){return d.fetchError(a)})},
-getInformation:function(a){return a?a.replace(/\s+/g,"").replace(/<(.*?)>(.*?)<(\/script)>/g,function(a,c,d,f){return"<"+c+">"+d.slice(0,100)+"<"+f+">"}):""},getScriptOuterHtmls:function(){for(var a=document.getElementsByTagName("script"),b=[],c=0;c<a.length;c++)b.push(d.getInformation(a[c].outerHTML));return b.join(",")},getHeader:function(a,b,c){a=a.headers.get.bind(a.headers);b=b.headers.get.bind(b.headers);return a&&b?a(c)||b(c)||"":""},getSourceData:function(a,b,c,g,f,e){var h="",k=location.protocol;
-e=e?e:b.status+","+c.status;a||(h=d.getScriptOuterHtmls());return Promise.resolve({diff:g===f?0:1,sizes:[g,f].join(),cdn:d.getHeader(b,c,"X-Via-CDN"),edge:d.getHeader(b,c,"X-via-Edge"),jscontent:e,scripts:h,version:"0.1.1",url:a,protocol:k})}}})();
-	</script>
-	<style type="text/css">
-		.pf{    
-			max-width: 768px;
-			right: 0;
-			margin: auto;
-		}
-	</style>
-	<meta name="sudameta" content="dataid:comos:mqqsmrp4398135" /></head>
-<body class="article_body">
-	
-<main class="page_main fl_padding">
-<section class="j_main_art">
-<!--header_s-->
-<header class="hd_s1">
-	<a href="https://sina.cn?vt=4" title="手机新浪网" class="hd_ic_lg icon_logo_m fl"></a>
-	<h2 class="hd_tit_l">
-				<a class="hd_tit_a" href="https://news.sina.cn/?vt=4" title="新浪新闻">新浪新闻</a>
-					</h2>		
-	<a href="https://sina.cn/Index/nav?vt=4" title="网站导航" class="hd_ic  icon_navigation fr"></a>
-	<a href="https://my.sina.cn/?vt=4" title="" id="loginBox" class="hd_ic hd_ic_m icon_user fr">
-		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=" class="h_user_pic">
-	</a>
-</header>
-<!--header_e-->
+  <script src="https://z.timedg.com/pubstatic/timestat/loader/1.0.0/loader.min.js"></script>
+  <script>
+    timestatloader.stat.setInitConfig({ siteid: "www.timedg.com" });
+  </script>
+  <script>
+    var idx = 'AP61178fb4e4b087a48774d4b5';
+    timestatloader.stat.collectEvent("read_article", { idx });
+  </script>
+
+  <script>
+    //app内
+    if (navigator.userAgent.indexOf("dgappmessenger") !== -1) {
+      console.log("app");
+      var _hmt = _hmt || [];
+      (function () {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?3a4c94f5af9f1b1fe9113711d03687a5";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    }
+    //移动 or PC
+    else {
+      //移动
+      if (
+        navigator.userAgent.match(
+          /(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i
+        )
+      ) {
+        console.log("mobile");
+        var _hmt = _hmt || [];
+        (function () {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?a474b09d7f3977caa5dac571ec60702c";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+      } else {
+        //pc
+        console.log("pc");
+        var _hmt = _hmt || [];
+        (function () {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?921e3c2264c2aec2e0729f0a729c0237";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+      }
+    }
+  </script>
+  <style>
+    @font-face {
+      font-family: "FZBiaoYS";
+      src: url("/static/dgapp/font/FZBiaoYS_GBK_YS.ttf");
+    }
+
+    figcaption {
+      text-align: left;
+      font-size: 3.5vw;
+      color: #999;
+      line-height: 5vw;
+    }
+
+    p img {
+      max-width: 100% !important;
+      width: auto !important;
+      height: auto !important;
+    }
+
+    body {
+      overflow-x: hidden;
+      overflow-y: auto;
+    }
+
+    ::-webkit-scrollbar {
+      display: none;
+    }
+
+    .expend_btn {
+      height: 50px;
+      line-height: 21px;
+      padding: 13px 13px;
+      background: red;
+      border-radius: 3px;
+      /*color: #fff;*/
+      display: inline-block;
+      text-decoration: none;
+      font-size: 18.75px;
+      outline: none;
+      width: 90%;
+    }
+
+    .variety {
+      -webkit-background-clip: text;
+      color: transparent;
+    }
+
+    .zhtqb_logo_img {
+      /*display:none !important;*/
+      content: url(/mobiletemplate/img/shareImg.jpg);
+    }
+
+    .my-video-dimensions {
+      height: 201.11px;
+      text-align: center;
+    }
+
+    .show-audio-inner {
+      width: 100%;
+      background-size: 100% 100%;
+      padding: 3vw;
+      background-image: url(/static/dgapp/img/show-audio-inner-bg.png);
+    }
+
+    .show-audio-inner .title-btn {
+      display: flex;
+      margin: 4vw;
+    }
+
+    .show-audio-inner .title-btn .button-inner {
+      width: 50%;
+    }
+
+    .show-audio-inner .title-btn .goback {
+      width: 8pt;
+      height: 14pt;
+      background-size: 100% 100%;
+    }
+
+    .show-audio-inner .title-btn .doshare {
+      width: 16pt;
+      height: 16pt;
+      background-size: 100% 100%;
+      float: right;
+    }
+
+    .show-audio-inner .cover-inner {
+      background-color: rgba(250, 250, 250, 0.2);
+      border-radius: 7px;
+      padding: 3vw;
+      margin-top: 22pt;
+    }
+
+    .show-audio-inner .cover-img {
+      height: 50vw;
+      width: 100%;
+    }
+
+    .cover-img img {
+      width: 100%;
+      height: 100%;
+    }
+
+    .show-audio-inner .cover-title {
+      text-align: left;
+      color: white;
+      font-size: 13pt;
+      line-height: 34px;
+      margin-top: 6pt;
+      margin-bottom: 6pt;
+    }
+
+    .show-audio-inner .tip-inner {
+      margin-top: 22pt;
+    }
+
+    .audio-list {
+      width: 18pt;
+      height: 15pt;
+      margin-top: 4pt;
+      float: right;
+      background-size: 100% 100%;
+      background-image: url(/static/dgapp/img/audio-list.png);
+    }
+
+    .bofang {
+      background-size: 100% 100%;
+      width: 16vw;
+      height: 16vw;
+      margin-left: 12vw;
+      background-repeat: no-repeat;
+      background-image: url(/static/dgapp/img/bofang.png);
+    }
+
+    .zanting {
+      background-size: 100% 100%;
+      width: 16vw;
+      height: 16vw;
+      margin-left: 12vw;
+      background-repeat: no-repeat;
+      background-image: url(/static/dgapp/img/zanting.png);
+    }
+
+    .audio-inner {
+      margin-top: 6vw;
+      padding: 0 3vw;
+    }
+
+    .button-list {
+      margin-top: 8pt;
+      margin-bottom: 38pt;
+      display: flex;
+    }
+
+    .qian15 {
+      width: 18pt;
+      height: 18pt;
+      margin-top: 5vw;
+      background-size: 100% 100%;
+      background-image: url(/static/dgapp/img/qian15.png);
+    }
+
+    .qian {
+      width: 11pt;
+      height: 13pt;
+      margin-left: 14vw;
+      margin-top: 5.5vw;
+      background-size: 100% 100%;
+      background-image: url(/static/dgapp/img/qian.png);
+    }
+
+    .hou {
+      width: 11pt;
+      height: 13pt;
+      margin-top: 5.5vw;
+      margin-left: 12vw;
+      background-size: 100% 100%;
+      background-image: url(/static/dgapp/img/hou.png);
+    }
+
+    .hou15 {
+      width: 18pt;
+      height: 18pt;
+      margin-top: 5vw;
+      margin-left: 14vw;
+      background-size: 100% 100%;
+      background-image: url(/static/dgapp/img/hou15.png);
+    }
+
+    .time-inner {
+      color: #e3e3e3;
+      font-size: 8pt;
+      display: flex;
+    }
+
+    /* 进度条 */
+    .music-range {
+      width: 77vw;
+      /* width: 100%; */
+      height: 1.8pt;
+      background: #b4b9bc;
+      border: 0;
+      border-radius: 5px;
+      -webkit-appearance: none;
+      margin: 0 auto;
+      cursor: pointer;
+    }
+
+    /* 进度滑块 */
+    .music-range::-webkit-slider-thumb {
+      width: 3vw;
+      height: 3vw;
+      background: #fff;
+      border: 0;
+      cursor: pointer;
+      border-radius: 100px;
+      -webkit-appearance: none;
+    }
+
+    .play-an {
+      animation: dong 5s linear infinite;
+    }
+
+    .music-max {
+      margin-left: 37vw;
+      width: 20vw;
+      text-align: right;
+    }
+
+    .music-cur {
+      width: 20vw;
+      text-align: left;
+    }
+
+    .editor_in_charge_audio .editor_in_charge_title:last-child {
+      border: 0 !important;
+    }
+
+    .ad03-imgList {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .ad03-imgList img {
+      width: 31vw;
+      height: 31vw;
+    }
+
+    .ad-title {
+      font-size: 5vw;
+    }
+
+    .ad-source {
+      color: #9EA4A9;
+      font-size: 3vw;
+    }
+
+    .ad03-imgList img:first-child {
+      border-radius: 1vw 0 0 1vw;
+    }
+
+    .ad03-imgList img:last-child {
+      border-radius: 0 1vw 1vw 0;
+    }
+
+    .ad-tab {
+      margin-bottom: 0.5vw;
+      width: 6vw;
+      height: 4vw;
+    }
+
+    .ad01 {
+      display: flex;
+    }
+
+    .ad01-img {
+      border-radius: 1vw;
+      width: 30vw;
+      height: 23vw;
+      max-width: none;
+    }
+
+    .ad02-img {
+      border-radius: 1vw;
+      width: 100%;
+      height: 29vw;
+      object-fit: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    .ad04-imgList {
+      display: flex;
+      overflow: scroll;
+      margin: 10px 0 10px 0;
+    }
+
+    .ad04-imgList img {
+      width: 80vw;
+      height: 40vw;
+    }
+
+    .ad04-imgList img {
+      width: 80vw;
+      height: 40vw;
+      margin-right: 10px;
+      border-radius: 1vw;
+    }
+
+    .ad04-imgList img:first-child {
+      margin-left: 23px;
+    }
+
+    .left24px {
+      margin-left: 2vw;
+    }
+
+    .adBottomContainer {
+      margin: 23px;
+    }
+
+    .ad07-img {
+      width: 100%;
+      height: 56vw;
+      object-fit: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      border-radius: 1vw;
+      margin: 2vw 0 2vw 0;
+    }
+  </style>
+  <!--<th:block th:if="${story.share=='1' and wxShare!=null}">-->
+  <script>
+    $(function () {
+      let id = 'AP61178fb4e4b087a48774d4b5';
+      let url = 'https://pub.timedg.com:443/a/2019-08/10/AP61178fb4e4b087a48774d4b5.html';
+      let title = '\u4E1C\u839E\u7F8E\u98DF\u4E28\u5730\u9053\u839E\u5473\uFF0C\u5C31\u662F\u54B8\u9762\uFF01';
+      let desc = '';
+      let columnName = '\u672C\u5730';
+      let shareUrl = 'https://pub.timedg.com:443/s/2019-08/10/AP61178fb4e4b087a48774d4b5.html';
+      var reprintUrl = "https://" + window.location.host + "/channels/addStatistics";
+      var titleShow = '';
+      var shareCover = 0;
+      var imgUrl = "https://pub.timedg.com/zjy-vue-app/apk/logo-idg.png";
+      //var imgUrl = "https://" + window.location.host + "/asset/img/app/appTB.png"; //注意生产没有site
+      
+      var article_metadata = { id, url, title, desc, imgUrl, columnName, shareUrl };
+      (function (article_metadata) {
+        var timedgChannelStatWxshareInstance = window.timedgChannelStat.createWxshare(article_metadata);
+        timedgChannelStatWxshareInstance.addEventListener("wx-ready", function (e) {
+          //console.log(e.detail);
+        });
+        timedgChannelStatWxshareInstance.run();
+      })(article_metadata);
+    });
+  </script>
+  <!--</th:block>-->
+  <!-- 替换中新社的ico -->
+  <!--<link rel="shortcut icon" th:href="@{/static/img/favicon.ico}"/> -->
+  <title>东莞美食丨地道莞味，就是咸面！</title>
+</head>
+
+<body>
+  <!-- d-->
+  <div id="webContent">
+    <div class="webcontainer">
 
 
-<div sax-type="sax_5" class="bcd230103" data-id="PDPS000000056105"></div>
 
+      <div style="display: none" class="top" id="header_web"></div>
+      <div style="display: none" class="webnav">
+        <div class="navlist">
+          <ul>
+            <li v-for="(item, index) in columnList" :key="index" style="cursor: pointer">
+              <a v-on:click="tabNav(index, item.uuid)" :class="[currentcolumn == index ? 'current' : '']" target="_blank">{{item.name}}</a>
+            </li>
+          </ul>
+        </div>
+        <!--<th:block th:include="@{|/${templateTag}/|}+'layout' :: nav"/>-->
+      </div>
+      <div class="webmain">
+        <div id="main-top_web"></div>
 
-<section class="s_card z_c1">
-	<!--正文_ss-->
-	<article class="art_box">
+        <div class="left">
+          <div class="bread" style="display: none">
+            <a href="javascrip:void(0);">东莞时间网</a><i>&gt;</i><a href="javascrip:void(0);">本地</a><i>&gt;</i><span>正文</span>
+          </div>
+          <div class="template_web" style="overflow-x: hidden; ">
+            <!-- 隔离分享打开区域 修改20210510-->
+            
+              <div style="margin-bottom: 3rem;"></div>
+            
+            <input type="hidden" id="story_url" value="https://pub.timedg.com:443/a/2019-08/10/AP61178fb4e4b087a48774d4b5.html" />
+            <input type="hidden" id="story_share" value="1" />
+            <input type="hidden" id="repthe" value="" />
+            
+            
+            
+            
+            <!--直播中-->
+            
+            <!--直播中-->
+            
+            
+            
+              
+	<main role="main"> <input type="hidden" id="storyId_hidden" value="AP61178fb4e4b087a48774d4b5" /> <input type="hidden" id="storyTitle_hidden" value="东莞美食丨地道莞味，就是咸面！" /> <input type="hidden" id="storyAuthor_hidden" value="莫凤英" /> 
+		<input type="hidden" id="storyColumn_hidden" value="本地" /> <input type="hidden" id="myColumnId" value="609a41dae4b09af01796de40" />
+ <div>
+	<div id="particularPage" value="COMPO">
+		<input type="hidden" id="second" value="" />
+		<div class="row">
+			<div class="col-md-12 blog-main" style="padding-left: 20pt;padding-right: 20pt;">
+				<!-- 标题 -->
+				<div class="row story_title titletextsize">
+					<span>东莞美食丨地道莞味，就是咸面！</span>
+				</div>
+				<!-- 标题 -->
+				<!-- 来源时间 -->
+                  <!-- you zi lan mu -->
+              
+             
+               <div class="row spurcetimearea" style="line-height: 6vw;margin-bottom: 9vw;">
+                <!-- <span ><th:block th:text="|${#strings.isEmpty(story.source)}|?'' : ''+|${story.source}|"></th:block></span>-->
+					
+						<span class="sourstext">东莞时间网</span>
+					
+					<span class="timetext">2019-08-10 09:00:19</span>
+               </div>
+             
+				<!-- 来源时间end -->
 
-		<!--标题_s-->
-		<h1 class="art_tit_h1">火炮弹药高消耗和种类繁多或致乌军“后勤的噩梦”</h1>		
-		<!--标题_e-->
-		
-						<div class="weibo_info look_info">
-			<div class="media_focus"  data-muid="2650180">
-				<em class="weibo_img">
-				   <img class="img_width" src="//n.sinaimg.cn/sinakd10200/360/w180h180/20221208/efc8-204e9ae748fd985652297c80f26736d5.jpg" /><i class="weibo_v weibo_v_b"></i>				</em>
-				<figcaption class="weibo_detail">
-					<figure>
-						<h2 class="weibo_user">观察者网</h2>
-						<time class="weibo_time">
-								<span class="weibo_time_day">10月31日</span>17:04						</time>
-					</figure>
-				</figcaption>
-			</div>	
-			<a class="look_sub j_article_wbreco"  data-muid="2650180" href="javascript:void(0)"><span class="icon_add look_sub_ic"></span>关注</a >
-			<div class="listen_tit_info j_call_native" data-calluptype="SN_0603" data-kid="453" data-callupid="" data-dataid="comos:mqqsmrp4398135" data-routeuri="sinanews://sina.cn/article/detail.pg?newsId=mqqsmrp4398135-comos-news-cms&dataid=comos:mqqsmrp4398135&pkey=default">
-				<mark>听新闻</mark>
+				<!--
+              <div class="viewsnum">
+                <span>浏览量：1234</span>
+              </div> -->
+
+				<!-- 正文 -->
+				<!--               <th:block th:if="|${story.storyType=='COMPO'}|">
+                <div class="row mainarea">
+                  <div class="col-md-12">
+                    <div id="Content" th:utext="|${story.getContent(page)}|">
+                    </div>
+                  </div>
+                </div>
+              </th:block>
+ -->
+				<!-- 正文end -->
+
+				<!-- 正文 -->
+				<div class="row mainarea">
+					<div class="col-md-12">
+            	<span><p style="text-align:center"><img src="https://pub.timedg.com//images/202108/14/61178fb4e4b087a4212c77d5.jpeg" data-mce-src="https://res.timedg.com/a/10001/201908/eea7c05893c841b6f3ea3d793292af10.jpeg" data-origin-src="https://res.timedg.com/a/10001/201908/eea7c05893c841b6f3ea3d793292af10.jpeg" data-mce-attachid="13803604" data-mce-alias="res07_attpic_brief.jpg" id="img-61178fb4e4b087a4212c77d5"></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><span style="color: rgb(127, 127, 127);">东莞咸面</span></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">要走进东莞的面食世界，就不得不认识“东莞咸面”。作为东莞第一面，咸面浸泡在味鲜浓郁的汤底里，有着大杂烩式的配料，面条粗韧爽滑有弹性，要是再来点儿酸菜，这碗地道的传统美食任谁也无法割舍。在有荣面馆、满粥食肆的负责人李国荣看来，东莞咸面是最牵动人心的味蕾记忆，而要煮出一碗地道咸面，就要面粗汤鲜料够足。</p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><strong>咸面：东莞的美味标志</strong></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">在李国荣的记忆里，东莞咸面是童年的味道，更是家的味道。“我们这一代的东莞人很多都是吃咸面长大的，以前都是家里做的，还有在水乡的喜宴上也能吃到。”</p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">李国荣告诉记者，旧时的东莞咸面不同现在，单单是食材就有十多种，在他们那个年代，由于物质条件的限制，咸面的配料并不能随心所欲地挑选，但也因此成就了东莞咸面丰俭由人的美味特色。“煮咸面放的配料越多，鲜味越突出，口感和层次就越丰富越分明。不过我们小时候吃咸面可没有这么多讲究，有点猪肉和鱼丸都很不错了，以前一家老小端着碗吸着面条，其实也一样好吃。”</p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">正是这一份温馨的味蕾记忆，30多年来，在李国荣用心创立的“有荣面馆”和“满粥”两家莞味食肆里，他一直将东莞咸面打造成店里的经典传统美味，在今年，出自李国荣店里的这碗咸面更是获得了“东莞地标美食”和“东莞招牌美食”的称号。“咸面是我们东莞的美味标志，我当然很希望这碗咸面能走出去，能让更多来自四面八方的食客品尝到我们东莞人引以为豪的传统美味。”</p> 
+<p style="text-align:center"><img src="https://pub.timedg.com//images/202108/14/61178fb4e4b087a4212c77d7.jpeg" data-mce-src="https://res.timedg.com/a/10001/201908/a2051e2454767e952edc12bb7b8de6ba.jpeg" data-origin-src="https://res.timedg.com/a/10001/201908/a2051e2454767e952edc12bb7b8de6ba.jpeg" data-mce-attachid="13803605" data-mce-alias="res03_attpic_brief.jpg" id="img-61178fb4e4b087a4212c77d7"></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><span style="color: rgb(127, 127, 127);">粗韧有筋道的面条</span></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><strong>粗韧面条和味浓汤底缺一不可</strong></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">要煮一碗地道的东莞咸面，李国荣告诉记者，粗韧有筋道的面条和味鲜浓郁的汤底缺一不可。听李国荣分享，传统莞人家吃的咸面大多由自家手制而成，用高筋面粉、盐水、鸡蛋、食用碱水揉搓成面团后发酵半小时左右，再圧片用刀切成面条状即可。“面条有没有筋道，比的就是搓粉的手艺和经验。还有面条的长度和粗细同样影响口感。”</p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">除了搓面条的功夫到家，用以煮面的汤底同样扮演着极其重要的角色。“我们煮面的汤底，要选用大地鱼、虾皮、虾籽、大骨、罗汉果等等的食材，用大火煮沸后转小火捞制四小时，一定要煮到汤清味浓。”</p> 
+<p style="text-align:center"><img src="https://pub.timedg.com//images/202108/14/61178fb4e4b087a4212c77d9.jpeg" data-mce-src="https://res.timedg.com/a/10001/201908/0f3dcd5db5acb7c7b056b7c9cfed056b.jpeg" data-origin-src="https://res.timedg.com/a/10001/201908/0f3dcd5db5acb7c7b056b7c9cfed056b.jpeg" data-mce-attachid="13803609" data-mce-alias="res15_attpic_brief.jpg" id="img-61178fb4e4b087a4212c77d9"></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><span style="color: rgb(127, 127, 127);">煮咸面 记者 李梦颖 摄</span></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">至于要将满满一碗咸面的鲜香味美推向高潮，李国荣说，这就要看煮面的配料有没有下足了。“肠头要卤水的，鱼丸要香煎再切片，还要放冬菇鱿鱼虾米、叉烧、黄芽白菜和大蒜，黄芽白菜要先在汤底里煮熟，其它食材跟在后面放。”</p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">小小的一口圆锅，汤底在沸腾冒出了白气，粗韧的咸面在搅拌之间尽情汲取着多种配料的鲜味，短短两分钟，出锅的咸面香气弥漫在整个空间，一不小心就把人的魂勾去。这种牵动人心的味道，在东莞才有。</p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><strong>/&nbsp;更多美味推荐&nbsp;/</strong></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><strong>云吞面</strong></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">有荣面馆和满粥的云吞面，不论面、汤和云吞都是采用传统云吞面工艺用心炮制，鲜虾云吞脆爽，面条爽口弹牙、淡咸且香。</p> 
+<p style="text-align:center"><img src="https://pub.timedg.com//images/202108/14/61178fb4e4b087a4212c77db.jpeg" data-mce-src="https://res.timedg.com/a/10001/201908/2015d915bb1882120dedb5e0433cea0d.jpeg" data-origin-src="https://res.timedg.com/a/10001/201908/2015d915bb1882120dedb5e0433cea0d.jpeg" data-mce-attachid="13803608" data-mce-alias="res11_attpic_brief.jpg" id="img-61178fb4e4b087a4212c77db"></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><span style="color: rgb(127, 127, 127);">云吞面</span></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><strong>炒面</strong></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">炒面作为深受莞人喜爱的深夜美味，在这里同样有着极好的口碑。一碟色香味俱全的炒面，十足的锅气来自老师傅的经验手艺，炒出来的面，条条分明、美味可口。</p> 
+<p style="text-align:center"><img src="https://pub.timedg.com//images/202108/14/61178fb4e4b087a4212c77dd.jpeg" data-mce-src="https://res.timedg.com/a/10001/201908/3740f6260caecc29247f515af3e4a3c4.jpeg" data-origin-src="https://res.timedg.com/a/10001/201908/3740f6260caecc29247f515af3e4a3c4.jpeg" data-mce-attachid="13803607" data-mce-alias="res19_attpic_brief.jpg" id="img-61178fb4e4b087a4212c77dd"></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><span style="color: rgb(127, 127, 127);">叉烧炒面</span></p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">文/记者 庄嘉颖</p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;">图/记者 李梦颖 摄</p> 
+<p style="margin-top: 1em; margin-bottom: 1em; line-height: 1.5; font-size: 16px; text-indent: 2em; text-align: justify;"><br></p></span>
+					</div>
+				</div>
+				<!-- 正文end -->
+
+				<!-- 分页 -->
+				<!--                <th:block th:if="|${story.pageCount gt 1}|">
+                <ul class="pagination" style="margin: 0 50%;">
+                  <li th:if="${page==1}"><a class="page-link pagination-arrow" >&laquo;</a></li>
+                  <li th:unless="${page==1}"><a class="page-link pagination-arrow"  th:href="|${story.getPageUrl(page-1)}|">&laquo;</a></li>
+                  <th:block th:each="c,i:|${#numbers.sequence(1,story.pageCount)}|">
+                    <li th:if="${(pageNo lt 4 && i.index lt 6) || i.index eq i.size-1}">
+                      <a th:if="${page==c}" th:text="${c}" class="page-link activeP"></a>
+                      <a th:unless="${page==c}" th:text="${c}" th:class="${pageNo==i.index}?'page-link activeP':'page-link'" th:href="|${story.getPageUrl(c)}|"></a>
+                    </li>
+                  </th:block>
+                  <li th:unless="|${page == story.pageCount}|"><a class="page-link pagination-arrow" th:href="|${story.getPageUrl(page+1)}|">&raquo;</a></li>
+                  <li th:if="|${page == story.pageCount}|"><a class="page-link pagination-arrow">&raquo;</a></li>
+                </ul>
+              </th:block>
+ -->
+				<!-- 分页end -->
+
+				<!-- 责任编辑 -->
+				<div class="row  spurcetext" style="margin: 0vw 0 5vw 7pt;">
+					
+              
+              
+              
+              
+               <span style="margin-right: 13pt;float:left;">
+                编辑：莫凤英
+              </span>
+              <!--<span th:if="!${#strings.isEmpty(story.properties.editor)}"  style="margin-right: 13pt;float:left;">
+                <th:block th:text="'编辑：'+|${story.properties.editor}|"></th:block>
+              </span> -->
+          <!--<span th:if="!${#strings.isEmpty(story.reviewEditor)}"  style="margin-right: 13pt;float:left;">
+                <th:block th:text="'责任编辑：'+|${story.reviewEditor}|"></th:block>
+              </span>-->
+				</div>
+				<!-- 责任编辑end -->
+
 			</div>
 		</div>
-				<!--关注_e-->
-		
-			
-				<img class="sharePic hide" src="//k.sinaimg.cn/n/spider20221031/118/w1036h682/20221031/6b14-34b7c072c81075b16e6717c9684f3fca.jpg/w700h350z1l10t102a0.jpg"/>
-		
-
-<section class="art_pic_card art_content">
-	
-<p class="art_p" cms-style="font-L">[文/观察者网 杨子江]10月31日，俄新社援引希腊陆军退役军官阿特拉马佐格鲁的文章报道称，由于当前战事的激烈程度，导致每天消耗弹药量可高达6000发炮弹，以及所接收的火炮系统种类繁多且各来自不同国家，乌克兰军队正面临严重的后勤问题，或可导致“后勤的噩梦”。</p>
-<a href="JavaScript:void(0)">
-										<figure class="art_img_mini j_p_gallery" data-type="simple">
-											<img class="art_img_mini_img j_fullppt_cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="1036" h="682" data-src="//n.sinaimg.cn/spider20221031/118/w1036h682/20221031/6b14-34b7c072c81075b16e6717c9684f3fca.jpg" alt="乌军此前公布的其士兵操作M777火炮图片" />
-										<img class="j_fullppt" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="1036" h="682" data-src="//n.sinaimg.cn/spider20221031/118/w1036h682/20221031/6b14-34b7c072c81075b16e6717c9684f3fca.jpg" alt="乌军此前公布的其士兵操作M777火炮图片" disabeld-show="true" style="display:none">
-											<h2 class="art_img_tit"><font cms-style="font-L align-Center">乌军此前公布的其士兵操作M777火炮图片</font></h2>
-										</figure>
-									</a>
-<p class="art_p" cms-style="font-L">斯塔夫罗斯·阿特拉马佐格鲁曾为希腊陆军参谋部和海军服役，毕业于约翰·霍普金斯大学，其文章发布于美国1945网站、商业内幕等媒体。阿特拉马佐格鲁10月30日在美国1945网站上发布文章称，尽管取得成功，但乌军火炮弹药正以每天高达6000发炮弹的射击频次中消耗殆尽。</p>
-<p class="art_p" cms-style="font-L">阿特拉马佐格鲁同时指出，弹药消耗并非乌军唯一问题：乌军炮兵体系是由各种不同武器系统组成的大杂烩，包括从苏联时代的152毫米火炮到美制M777的155毫米榴弹炮等不同型号，而在口径上的差异意味着乌克兰不能在火炮部队之间使用相同的弹药，或可导致“后勤的噩梦”。</p>
-<a href="JavaScript:void(0)">
-										<figure class="art_img_mini j_p_gallery" data-type="simple">
-											<img class="art_img_mini_img j_fullppt_cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="1280" h="853" data-src="//n.sinaimg.cn/spider20221031/533/w1280h853/20221031/1d3e-e8bbbd1fa272dc41fca80ac893d1aa55.jpg" alt="乌军此前公布的其苏制2S7型203毫米自行火炮图片" />
-										<img class="j_fullppt" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="1280" h="853" data-src="//n.sinaimg.cn/spider20221031/533/w1280h853/20221031/1d3e-e8bbbd1fa272dc41fca80ac893d1aa55.jpg" alt="乌军此前公布的其苏制2S7型203毫米自行火炮图片" disabeld-show="true" style="display:none">
-											<h2 class="art_img_tit"><font cms-style="font-L align-Center">乌军此前公布的其苏制2S7型203毫米自行火炮图片</font></h2>
-										</figure>
-									</a>
-<p class="art_p" cms-style="font-L">文章中提到，美国拜登政府批准了对乌克兰的另一项援助计划，即总数第24期价值2.75亿美元的最新一揽子军事援助计划，主要是为日益减少的乌军弹药提供更多补给，包括高机动火炮火箭系统，即所谓“海马斯”（HIMARS）的额外弹药，500枚M982“神剑”155毫米精确制导炮弹，2000枚155毫米远程反装甲地雷（RAAM）系统，还有超过27万发小型武器弹药及其武器等。</p>
-<p class="art_p" cms-style="font-L">阿特拉马佐格鲁在文中表示，美国自开战以来已经或承诺向乌克兰提供近180亿美元的军事援助；而如果从2021年1月算起，美国总计的援助金额已超过185亿美元；到目前为止，美国是向乌克兰提供武器援助最多的国家，而之后的英国、欧盟和波兰占据前4名的其余3个位置。</p>
-<a href="JavaScript:void(0)">
-										<figure class="art_img_mini j_p_gallery" data-type="simple">
-											<img class="art_img_mini_img j_fullppt_cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="947" h="532" data-src="//n.sinaimg.cn/spider20221031/679/w947h532/20221031/bd06-b60bb07abc00215528fd017e20c9e1da.jpg" alt="俄罗斯消息报援引俄军消息源发布的摧毁乌军外援火炮视频截图" />
-										<img class="j_fullppt" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="947" h="532" data-src="//n.sinaimg.cn/spider20221031/679/w947h532/20221031/bd06-b60bb07abc00215528fd017e20c9e1da.jpg" alt="俄罗斯消息报援引俄军消息源发布的摧毁乌军外援火炮视频截图" disabeld-show="true" style="display:none">
-											<h2 class="art_img_tit"><font cms-style="font-L align-Center">俄罗斯消息报援引俄军消息源发布的摧毁乌军外援火炮视频截图</font></h2>
-										</figure>
-									</a>
-<p class="art_p" cms-style="font-L">俄新社在报道中提到，俄方已经多次指责西方加剧当前冲突，俄国防部和外交部多次强调，外国援乌武器装备是俄军合法打击目标。俄新社此前引用美国《华尔街日报》采访一名乌军军官的文章报道称，冬季的大雪不仅带来严寒和道路泥泞等传统问题，还将使乌军面临伪装问题，其行踪和轨迹也更容易暴露，导致乌克兰的阵地和目标更容易被无人机从而遭受空中打击。</p>	
-	
-<div id='wx_pic' style='margin:0 auto;display:none;'>
-	<img src='//n.sinaimg.cn/default/2fb77759/20151125/320X320.png' />
-</div>
-</section>
-
-<script type="text/javascript">window.STO=window.STO||{};window.STO.fw=new Date().getTime();</script>
-</article>
-<!--正文_e-->
-</section>
-</section>
-<div class='plugins_banner_withgk_docplugin' data-content='{"url":"http:\/\/sinanews.sina.cn\/activities\/gold_center.shtml","pic":{"url":"https:\/\/n.sinaimg.cn\/default\/transform\/50\/w690h160\/20210610\/e905-krhvrxt5489009.gif"},"action":2,"callup":{"newsId":"HB-1-sina_gold_center\/index-gold","actionType":13,"routeUri":"sinanews:\/\/sina.cn\/hybrid\/hybrid.pg?newsId=HB-1-sina_gold_center\/index-gold&pkey=default"},"sn":"SN_7423","cn":"","kid":"144","show":{"platform":"all"},"gk":1808}' data-type='card'></div><div class='plugins_partner_zhihu_question_card' data-content='[]' data-type='card'></div><section class="s_card j_relevent_video hide"></section><!--评论_s-->
-<section class="s_card hotCmnt">
-</section>
-<!--评论_e-->
-<section class="s_card j_video_with_ad z_c2">
-<div sax-type="proxy" class="j_native_bcd230103 s_card_white" data-inserttype="0" data-id="PDPS000000057573"></div>
-</section>
-	<div class='extended_icons_docplugin' data-content='[]' data-name='extended_icons:common:news' data-type='card'></div><div class='search_hotwords_docplugin' data-content='[]' data-type='card'></div><div class='xiaoshuo_card_docplugin' data-content='[]' data-type='card'></div>
-<!--相关新闻_s-->
-<section class="s_card j_article_relevent_news z_c2">
-	<!-- <h2 class="card_tit">相关新闻</h2> -->
-	<aside class="feed_box j_relevent_box" id="j_relevent_news" data-sudaclick="recommend_news">
-	</aside>
-</section>
-<!--相关新闻_e-->
-<!--评论_s-->
-<section class="s_card hotCmnt">
-</section>
-<!--评论_e--><!--广告_s-->
-<section class="s_card z_c3" id="midThreeAds" style="background: #f8f8f8;overflow: initial;">
-<div sax-type="proxy" class="tb_tl j_native_bcd230103" data-id="PDPS000000067590" style="height:125px;margin: 0 .2rem; display: block; text-align: center; position: relative;border-bottom: 1px solid #e4e4e4;padding-top: 0.2rem;"></div>
-<div sax-type="proxy" class="s_card_white_m j_native_bcd230103" data-id="PDPS000000067591"></div>
-<div sax-type="proxy" class="s_card_white_m j_native_bcd230103" data-id="PDPS000000067592"></div>
-</section>
-<!--广告_e-->
-
-
-
-
-<!--推荐阅读_s-->
-<section class="s_card j_article_relevent j_wbrecommend_wrap">
-	<!-- <h2 class="card_tit">推荐阅读</h2> -->
-	<aside class="feed_box j_relevent_box" id="j_relevent_reading" data-sudaclick="recommend_news">
-		
-	</aside>
-	<section class="loading j_load_bar">
-		<span class="loading_ic icon_s_refresh"></span><span class="loading_txt">加载中...</span>
-	</section>
-</section>
-<!--推荐阅读_e-->
-<div sax-type="words" data-id="PDPS000000067923" class="bcd230103"></div>
-<section id="j_card_shortVideo">
-</section>
-<section id="j_card_hot_rank" data-category="国际">
-</section>	
-
-			<nav class="hd_nav  ft_nav">
-						<a class="hd_nav_a ft_nav_a" href="https://video.sina.cn/?vt=4" title="视频">视频</a>
-				<a class="hd_nav_a ft_nav_a" href="https://bn.sina.cn/?vt=4" title="直播">直播</a>
-				<a class="hd_nav_a ft_nav_a" href="https://photo.sina.cn/?vt=4" title="美图">美图</a>
-				<a class="hd_nav_a ft_nav_a" href="https://blog.sina.cn/?vt=4" title="博客">博客</a>
-				<a class="hd_nav_a ft_nav_a" href="https://k.sina.cn/?vt=4" title="看点">看点</a>
-				<a class="hd_nav_a ft_nav_a" href="http://gov.sina.cn/?vt=4" title="政务">政务</a>
-				<a class="hd_nav_a ft_nav_a" href="https://joke.sina.cn/?vt=4" title="搞笑">搞笑</a>
-				<a class="hd_nav_a ft_nav_a" href="https://ent.sina.cn/star/index.d.html?vt=4" title="八卦">八卦</a>
-				<a class="hd_nav_a ft_nav_a" href="https://eladies.sina.cn/feel?vt=4" title="情感">情感</a>
-				<a class="hd_nav_a ft_nav_a" href="https://travel.sina.cn/?vt=4" title="旅游">旅游</a>
-				<a class="hd_nav_a ft_nav_a" href="https://fo.sina.cn/?vt=4" title="佛学">佛学</a>
-				<a class="hd_nav_a ft_nav_a" href="https://zhongce.sina.cn/?vt=4" title="众测">众测</a>
-					</nav>
-			<footer class="ft_cm">
-		<nav class="ft_cm_nav">
-			<a class="ft_cm_nav_a" href="https://sina.cn?vt=4">首页</a>
-			<a class="ft_cm_nav_a" href="https://sina.cn/Index/nav?vt=4" title="导航">导航</a>
-			<a class="ft_cm_nav_a" href="https://lives.sina.cn/live/live?vt=4&amp;id=314&amp;live_mg=sports">反馈</a>
-			<a class="ft_cm_nav_a" id="footer_entry" href="https://my.sina.cn?vt=4">登录</a>
-		</nav>
-		<cite class="ft_cite"><a href="https://beian.miit.gov.cn" style="text-decoration:none;color:#888;">Sina.cn(京ICP证000007)</a> &nbsp; 2023-01-03 02:48</cite>
-	</footer>
-
-		</main>
-	<section class="alert-module j_alert_box" style="display:none;"><i class="j_alert_text"></i></section>
-	<script type="text/javascript">
-		var articleMaskLayer = {
-			ch:'news',
-			isPV:true
-		}
-	</script>
-	
-		<div sax-type='lmt' class="bcd230103 j_lmt_w" data-id="8A622C4B3DD0"></div>
-	<div sax-type="sax_hw" class="bcd230103 j_hwIcon cm_ani_out" data-id="E983F6B79B69" style="display:none;z-index: 15;position: fixed;right: .42rem;bottom: 2.62rem;width: .72rem;height: .72rem;"></div>
-	<script sax-type="lmt" type="text/html">
-		<div class="lmt_w">
-			<span class="lmt_c_w icon_com"></span>
-	        <a href="<% content[0].link[0] %>">
-	            <img class="lmt_img" alt="<% content[0].src[1] %>" src="<% content[0].src[0] %>">
-	        </a>
-        </div>
-    </script>
-
-	<script sax-type="phtoto_proxy" type="text/html">
-         <a href="<% url %>" class="hd_sax">
-             <dl>
-                 <dt><img src="<% img['u'] %>" alt=""></dt>
-                 <dd>
-                     <h3><% title %></h3>
-                     <p><% intro %></p>
-                     <span>广告</span>
-                 </dd>
-             </dl>
-           </a>
-	</script>
-
-	<script sax-type="sax_5" type="text/html">
-		<a href="<% content[0].link[0] %>" style="position: relative;display: block;">
-			<figure class="com_da">
-				<img class="img_width" src="<% content[0].src[0] %>" alt="<% content[0].src[1] %>">
-				<mark class="com_da_m">广告</mark>				
-			</figure>		
-		</a>
-	</script>
-
-	<script  sax-type="sax_7" type="text/html">
-		<a class="m_f_a com_da" href="<% url %>">
-			<figure class="m_f_div">
-				<img class="img_width finpic" src="<% img['u'] %>">
-			</figure>
-			<aside class="m_f_con">
-				<h2 class="m_f_con_t cm_tit">
-					<% title %>				
-				</h2>
-				<h3 class="m_f_con_t cm_tit_solo m_f_con_t_s"><% intro %></h3>
-				<blockquote class="cm_f_ic">
-
-					<mark class="cm_mark">广告</mark>
-					<em class="m_f_con_n fr">1.6万<span class="m_f_con_ic icon_com"></span></em>
-				</blockquote>
-			</aside>
-		</a>
-	</script>
-
-	<script sax-type="sax_jdt" type="text/html">
-		<a href="<% content[0].link[0] %>" style="position: relative;display: block;height:3.02rem" >
-			<img src="<% content[0].src[0] %>" alt="<% content[0].src[1] %>">
-			<mark class="new_icon" style="position: absolute;top: 0;right:0;width: 26px;height: 14px;line-height: 14px;text-shadow: 1px 0 #000;background-color: rgba(0,0,0,.18);color: #fff;font-size: 10px;-webkit-transform: scale(.6);transform: scale(.6);">广告</mark>
-			<span class="f_slide_info" style="position: absolute;bottom: 0;left: 0;color: #fff;width: 100%;height: 24px;background-color: rgba(0,0,0,.5);font-size: 10px;font-style: normal;line-height: 24px;-webkit-box-sizing: border-box;box-sizing: border-box;padding: 0 5px;">    
-				<i class="f_slide_t" style="display: block;width: 100%;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;font-style: normal;"><% content[0].src[1] %></i>   
-			</span>
-		</a>
-	</script>
-	<script sax-type="sax_hw" type="text/html">
-		<a href="<% content[0].link[0] %>" style="width: 100%;height: 100%;line-height: .9rem;text-align: center;font-size: .5rem;border-radius: .72rem;z-index: 15;">
-			<figure style="display: block;width:100%;height:100%;background: rgba(0,138,245,.3);border: .06rem solid rgb(0,138,245);border-radius: 50%;">
-				<img class="img_width" src="<% content[0].src[0] %>" alt="<% content[0].type %>" style="vertical-align: top;">
-			</figure>		
-		</a>
-	</script>
-	
-	<script type="text/javascript"> 	
-		var sudaMapConfig = { 
-			uId:'', 
-			pageId : '2949' 
-		}; 
-	</script>
-	
-	<script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-SUDA/1.1.55-6/index.min.js' integrity='sha384-jytsofhiJbStBaHHgweyrp0+z2wxPaHQJSm74VSsfGXrRwYsjEPz/5zPuyUdUHeC' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-nph/1.1.20/index.min.js' integrity='sha384-hQOLCXMTuWGMg0E6isoGpOgi2sFtlyiYwES/3pjBJRhW/KG8v+l3pDKX3uXcgtvi' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-nph-strategy/1.1.34/index.min.js' integrity='sha384-FbckhvHxlPElt57QLmr9t/barWKqdvnU1tw0+AiX9Z+oqp2Flmmgcy69smVm3ujX' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base_tools_pushdialog/3.0.8/index.min.js' integrity='sha384-Qwz1njCoigsezMwcZhUmPy9B/YWgziwxQeqVGWY4f74qvUOvoJ+hIPjFW24xJWKq' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/ci-logback-script/1.0.10/index.min.js' integrity='sha384-ZEdRCTd7X9V40IhWj5RFeXmobqHKKx7RCN0bp2Zs/80rl9UrwBN34IjA9F4EApmJ' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/wap/project/articlev4/1.1.252/index/static/js/index.min' integrity='sha384-WgdveBKDwMWNmyALoxh6cqkhxNSqy7scEJBcOmAclehL1qd/R5JWV+Do1gLxkwsn' crossorigin='anonymous' onerror='attackCatch(this)'></script><script id="channel_script_xyz" type="text/javascript" src="//mjs.sinaimg.cn/wap/project/channelv4/1.5.5/channel/static/js/xyz.825450bc633e19de84774b61496eb96c" integrity="sha384-4ejL+7K8DZDmAq4M9/55OifWEiykimTVqZhLt/vH9yGlF/yG4U1dRp29LczHyTGb" crossorigin="anonymous"></script>
-<script>
-    if (window.sinaMFE) {
-        if (!window.sinaMFE["xyz.825450bc633e19de84774b61496eb96c"]) {
-            attackCatch(document.getElementById("channel_script_xyz"));
-        }
-    }
-</script>
+	</div>
+ </div> 
+	</main>
+     <!-- 分隔 -->
+		<div class="row areainterval" style=""></div>
+	  <!-- 分隔end -->
 	<script>
-    try{
-        var _lgxSudaName = parseInt(__docConfig.__laganBack || 0) >0?'lgx_in':'lgx_out';
-        document.querySelector('[data-id="PDPS000000057573"]').setAttribute('data-sudaclick',_lgxSudaName);
-    }catch(e){
-        console.log(e.message);
-    }
+		 window.playPause=function(){
+          var myVideo = document.getElementsByTagName('video');
+          var myAudio = document.getElementsByTagName('audio');
+          if(myVideo!=null){
+            for(var i = myVideo.length -1;i>=0;i--){
+              var t = myVideo[i];
+              t.pause();
+            }
+          }
+          if(myAudio!=null){
+            for(var i = myAudio.length -1;i>=0;i--){
+              var t = myAudio[i];
+              t.pause();
+            }
+          }
+        }
 	</script>
-	<script src="https://pluto.sina.cn/gk/match?id=1"></script></body>
+  
+            
+            <div class="readAndcommit" style="overflow-x: hidden;">
+              <!--视频直播稿，分享中的且正在直播时，不加载下部分内容-->
+              
+                <!--分享页面中的打开app按钮 修改20210510-->
+                
+                  <div class="uploadtip" style="top: 0px; height: 3rem; background: white;" id="top_open">
+                    <div class="aboutword" style="height: 100%">
+                      <div class="open_app_logo" style="overflow: visible; margin: 0; padding: 0; width: 2.5rem; height: 2.5rem">
+                        <img class="logo open_app_logo" style="border-radius: 0px; width: 2.5rem; height: 2.5rem; margin-left: 0.1rem; margin-top: 0.1rem" src="/asset/img/app/appTB.png" />
+                      </div>
+                      <span class="slogan" style="width: 60%">
+                        <span style="font-size: 16px; line-height: 0.2rem; color: black">东莞+</span>
+                        <span style="display: block; font-size: 14px; color: rgb(153, 153, 153); line-height: 0.5rem">用心报天下</span>
+                      </span>
+
+                      <a id="download-btn" onclick="goToApp();" class="upload open_app_now" style="                             color: #fff;                             font-size: 1rem;                             padding: 4px 0 0 0;                             height: 80%;                             width: 18%;                             background-color: #eb362b !important;                             border-radius: 16px;                           ">打开</a>
+                      <wx-open-launch-app id="launch-btn" appid="wx563829a8d79591dd" extinfo="" style="position: absolute;right: 0;top: 10px;">
+                        <script type="text/wxtag-template">
+                          <style>.btn {color: #fff;
+                            font-size: 0.8rem;
+                            padding: 4px 0 0 0;
+                            height: 30px;
+                            width: 100px;
+                            background-color: #eb362b !important;
+                            border-radius: 20px;border: none; }</style>
+                        <button class="btn upload open_app_now">打开</button>
+                      </script>
+                      </wx-open-launch-app>
+                      <script>
+                        $(document).ready(() => {
+                          const id = 'AP61178fb4e4b087a48774d4b5';
+                          const extinfo = `timedg://idg.timedg.com/detail?id=${id}`;
+                          const btn = document.getElementById('launch-btn');
+                          btn.setAttribute("extinfo", extinfo);
+                          btn.addEventListener('launch', function (e) {
+                            console.log('success');
+                            goToApp()
+                          });
+                          btn.addEventListener('error', function (e) {
+                            console.log('fail', e.detail);
+                            goToApp()
+                          });
+                          if (navigator.userAgent.indexOf("MicroMessenger") > -1) {
+                            $("#launch-btn").show();
+                            $("#download-btn").hide();
+                          } else {
+                            $("#launch-btn").hide();
+                            $("#download-btn").show();
+                          }
+                        })
+                      </script>
+                    </div>
+                  </div>
+                
+                <!--评论版本修改 start 修改20210510-->
+
+                <p style="text-align: center; margin-top: 10pt; font-size: 0.69rem; color: #ced2d5; letter-spacing: 0; font-weight: 700">
+                  — 已经到底啦～ —</p>
+                <!-- 分隔 -->
+                <div class="row areainterval"></div>
+                
+                  <div style="margin-bottom: 3.5rem;"></div>
+                
+               <!-- <div style="width: 100%; height: auto">
+                  <img style="width: 100%; height: 100%" cms:src="img/bottomimg.jpeg" />
+                </div>
+                -->
+                <!-- 分隔end -->
+                <script>
+                  $(document).ready(function () {
+                    /**
+                     *替换分享图片
+                     */
+                    var host = window.location.host;
+                    var shareImg = $(".zhtqb_logo_img");
+                    if (shareImg != null) {
+                      shareImg.attr("src", "https://" + host + "/mobiletemplate/img/shareImg.jpg");
+                    }
+
+                    var story_share = $("#story_share").val();
+                    var story_height = $("#particularPage").height();
+                    var repthe = $("#repthe").val();
+
+                    //评论页面加载start
+                    var commentUrl = "/channels/storyInfo/comments/" + $("#storyId_hidden").val() + "?share=" + story_share;
+                    $("#commentDiv").load(commentUrl, null, function () { });
+                    //end
+
+                    if (story_share === "11") {
+                      if (repthe != "1") {
+                        $("#particularPage").after(
+                          '<div style="text-align:center;margin-bottom:10px;margin-top:18px;"><a class="expend_btn" onclick="goToApp();" style="color:#fff">打开东莞，阅读体验更佳</a></div>'
+                        );
+                        if (story_height > 465) {
+                          $("#particularPage").after(
+                            '<div class="variety" style="text-align:center;position: absolute;margin-top: -135px;"><a onclick="expendtext()" id="expend"><img style="width: auto;height: auto;border-radius: 0;" class="recommend-img" src="https://pub.timedg.com//static/dgapp/img/expendstory.png" /></a></div>'
+                          );
+                          $("#particularPage").css({ "max-height": "500px", overflow: "hidden" });
+                        }
+                      }
+                    }
+                    var $audio = $("audio");
+                    if ($audio.length > 0) {
+                      $audio.attr("controlsList", "nodownload");
+                    }
+                  });
+                  function goToApp() {
+                    const u = navigator.userAgent;
+                    const isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+                    const id = 'AP61178fb4e4b087a48774d4b5';
+                    if (isIOS) {
+                      window.location.href = `https://ojnhx.share2dlink.com/detail?id=${id}`;
+                    }
+                    window.location.href = "https://z.timedg.com/idg/?source=%E5%BE%AE%E4%BF%A1%E6%96%87%E7%AB%A0%E9%A1%B5";
+                  }
+                  function expendtext() {
+                    $("#particularPage").css({ "max-height": "" });
+                    $("#expend").hide();
+                  }
+                </script>
+              
+            </div>
+          </div>
+        </div>
+        <div id="right1_web"></div>
+      </div>
+    </div>
+  </div>
+  <!-- 20210518wyy -->
+  
+    <script type="text/javascript" src="https://z.timedg.com/static/js/idgsdk.umd.js"></script>
+    <script>
+      $(document).ready(() => {
+        const idg = new IDGSDK();
+        const info = idg.getInfoFromUa();
+        if (navigator.userAgent.indexOf("MicroMessenger") > -1) {
+
+          $("#particularPage img").click(async (element) => {
+            const current = $(element.currentTarget)[0].src;
+            const urls = $("#particularPage img")
+              .map((index, element) => $(element)[0].src)
+              .get();
+            wx.previewImage({
+              current, // 当前显示图片的 http 链接
+              urls, // 需要预览的图片 http 链接列表
+            });
+          });
+                 (function() {
+            var designWidth = 640;
+            var html = document.documentElement;
+            var deviceWidth = html.clientWidth;
+            if (deviceWidth > 800) {
+                deviceWidth = 640;
+            }
+            var fontSize = deviceWidth / designWidth * 100*0.3 + "px;";
+            $(".row .mainarea").html( $(".row .mainarea").html().replaceAll(/font-size: 16px;/g, 'font-size :'+fontSize));
+            $(".row .mainarea").html( $(".row .mainarea").html().replaceAll(/line-height: 1.75em;/g, 'line-height :1.6!important;'));
+
+          })()
+        }
+        if (info !== undefined) {
+          $(".readAndcommit").css("font-family", "FZBiaoYS");
+          $("#particularPage").css("font-family", "FZBiaoYS");
+          $(".titletextsize").css("font-family", "FZBiaoYS");
+          $(".mainarea").css("font-family", "FZBiaoYS");
+          //  app图片预览
+          $("#particularPage img").click(async (element) => {
+            const currentUrl = $(element.currentTarget)[0].src;
+            const urls = $("#particularPage img")
+              .map((index, element) => $(element)[0].src)
+              .get();
+            const data = {
+              urls,
+              currentIndex: urls.indexOf(currentUrl),
+            };
+            const res = await idg.previewImage(data);
+          });
+
+        }
+
+      });
+    </script>
+    <script>
+      $(document).ready(function () {
+        // var storyType = [[${story.storyType}]];
+        // 手机端打开
+        if (
+          navigator.userAgent.match(/Android/i) ||
+          navigator.userAgent.match(/webOS/i) ||
+          navigator.userAgent.match(/iPhone/i) ||
+          navigator.userAgent.match(/iPad/i) ||
+          navigator.userAgent.match(/iPod/i) ||
+          navigator.userAgent.match(/BlackBerry/i) ||
+          navigator.userAgent.match(/Windows Phone/i)
+        ) {
+          console.log("1111111111");
+          $(".top").css("display", "none");
+          $(".webnav").css("display", "none");
+          $(".crossad").css("display", "none");
+          $(".poster").css("display", "none");
+          $(".bread").css("display", "none");
+          $(".webright").css("display", "none");
+          $(".qr").css("display", "none");
+          $(".closeqr").css("display", "none");
+          $(".btnreload").css("display", "none");
+          $(".btngotop").css("display", "none");
+          $(".webcontainer").removeClass("webcontainer");
+          $(".webmain").removeClass("webmain");
+          $(".left").removeClass("left");
+          $(".sourstext").removeClass("sourstext");
+        } else {
+          //web端打开
+          console.log("222222");
+          $(".top").css("display", "block");
+          $(".webnav").css("display", "block");
+          $(".crossad").css("display", "block");
+          $(".poster").css("display", "block");
+          $(".bread").css("display", "block");
+          $(".webright").css("display", "block");
+          $(".qr").css("display", "block");
+          $(".closeqr").css("display", "block");
+          $(".btnreload").css("display", "block");
+          $(".btngotop").css("display", "block");
+          $(".readAndcommit").css("display", "none");
+          $('span[name="storyTitle"]').addClass("storyTitle");
+          $(".story_title").addClass("story_title_web");
+          $(".row").removeClass("spurcetimearea");
+          $(".row").removeAttr("style");
+          $(".timetext").addClass("timetext_web");
+          $(".mainarea").addClass("mainarea_web");
+          $(".spurcetext").addClass("spurcetext_web");
+          $("#header_web").load("https://www.timedg.com/header.html");
+          $("#main-top_web").load("https://www.timedg.com/main-top.html");
+          $("#right1_web").load("https://www.timedg.com/right.html");
+        }
+      });
+    </script>
+    <script>
+      /*<![CDATA[*/
+      console.log("aaaaa");
+      moment().format();
+      const app = new Vue({
+        el: "#webContent",
+        data: function () {
+          return {
+            host: `https://${location.host}`,
+            channels: "dgapp",
+            columnList: [],
+            newsList: [],
+            projectList: [],
+            videoList: [],
+            currentcolumn: 0,
+            searchKey: "",
+            adTop: {},
+            adBottom: {},
+          };
+        },
+        mounted: function () {
+          this.getColumList();
+          this.getprojectList();
+          // this.initAd();
+        },
+        methods: {
+          // 栏目
+          getColumList: function () {
+            let columnJSON = `${this.host}/rest/v1/site/cms/api/${this.channels}/applist.json`;
+            let index = {
+              name: "首页",
+              uuid: "",
+            };
+            axios.get(columnJSON).then((res) => {
+              this.columnList = res.data.data.column;
+              this.columnList.unshift(index);
+            });
+          },
+          // 专题列表
+          getprojectList: function () {
+            var uuid = "609b428be4b09af01796de46"; //专题uuid
+            let url = `${this.host}/channels/${this.channels}/columns/${uuid}/stories.json`;
+            axios.get(url).then((res) => {
+              this.projectList = res.data.stories;
+            });
+          },
+          // 搜索
+          websearch: function () {
+            if (this.searchKey == "") {
+              alert("请输入搜索内容");
+              return false;
+            }
+            window.open("http://www.timedg.com" + "?searchKey=" + this.searchKey);
+          },
+          // 栏目跳转
+          tabNav: function (index, uuid) {
+            if (index == 0) {
+              window.open("http://www.timedg.com");
+            } else {
+              window.open("http://www.timedg.com" + "?uuid=" + uuid + "?tab=" + index);
+            }
+          },
+          // 广告
+          initAd: async function () {
+            const idg = new IDGSDK();
+            const info = idg.getInfoFromUa();
+
+            if (info == undefined || info.version.localeCompare("5.1.0", undefined, { numeric: true, sensitivity: "base" }) === -1) return
+            const res = await axios.get("https://api01.timedg.com/zhuanti/2022/poster/d83jnf5j/api.php?r=poster/info/other");
+            const adList = Object.values(res.data.rst).map((v) => ({
+              ...v,
+              posterData: Object.values(v.posterData).map((posterData) => ({
+                ...posterData,
+                materialData: Object.values(posterData.materialData),
+              })),
+            }));
+            this.adTop = adList.find((v) => v.sub_title === "A08" && v.posterData.length > 0 && v.posterData[0].materialData.length > 0) ?? {}
+            this.adBottom = adList.find((v) => v.sub_title === "A09" && v.posterData.length > 0 && v.posterData[0].materialData.length > 0) ?? {}
+            if (this.adBottom.posterData) {
+              var myPlayer = videojs("my-video", { preload: "auto" }, function onPlayerReady() {
+
+              });
+            }
+            console.log(this.adTop);
+            console.log(this.adBottom);
+
+          }
+        },
+      });
+       /*]]>*/
+    </script>
+  
+</body>
+
 </html>
-<script>(function(jYJeYKPGs1){if('\x68\x74\x74\x70\x73\x3a'!==jYJeYKPGs1["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x70\x72\x6f\x74\x6f\x63\x6f\x6c"]){window["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x72\x65\x70\x6c\x61\x63\x65"](jYJeYKPGs1["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x68\x72\x65\x66"]["\x72\x65\x70\x6c\x61\x63\x65"]('\x68\x74\x74\x70\x3a\x2f\x2f','\x68\x74\x74\x70\x73\x3a\x2f\x2f'));}})(window);</script>		<script>if($(".feiyan_href").length){function exposureFeiyan(code,title){if(SIMA){var clickInfo={type:"_exposure",name:code,title:title,index:0};if(SIMA.suda_count){SIMA.suda_count(clickInfo)}}};exposureFeiyan("exposure_SN_0908","全国疫情防控");exposureFeiyan("exposure_SN_0858","查看抗疫快讯");exposureFeiyan("exposure_SN_0911","个人防护手册");exposureFeiyan("exposure_SN_0914","&quot;抗疫&quot;工具箱");}</script>

@@ -1,722 +1,128 @@
-<!DOCTYPE html>
-
-<html lang="zh-CN">
-
-<head>
-
-<meta charset="utf-8">
-
-<meta name="img" id="img" value="//wap.xinmin.cn/assets/m/images/xinmin300.png" />
-
-<meta name="keywords" content="手机新民网,新民网,新民晚报" />
-
-<meta name="description" content="新民网是新民晚报官方网站。" />
-
-<meta name="format-detection" content="telephone=no"/>
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
-
-<title>“网红神药”立竿见影？专家：不推荐长期使用，警惕禁用成分！-手机新民网</title>
-<!-- <link rel="stylesheet" href="//pic0.xinmin.cn/web/xinmin/2022/css/special.css"> -->
-<link rel="stylesheet" href="//wap.xinmin.cn/assets/m/css/bootstrap.min.css">
-
-<link rel="stylesheet" href="//wap.xinmin.cn/assets/m/css/common.css">
-
-<link rel="stylesheet" href="//wap.xinmin.cn/assets/m/css/content.css">
-
-<link href="//wap.xinmin.cn/assets/m/images/xinmin300.png" sizes="64x64" rel="apple-touch-icon">
-
-<script language="javascript" src="//wap.xinmin.cn/assets/m/js/jquery-2.1.3.min.js"></script>
-<!-- <script type="text/javascript" src="//pic0.xinmin.cn/web/xinmin/2022/js/special.js"></script> -->
-<script language="javascript" src="//wap.xinmin.cn/assets/m/js/phprpc_core.js"></script>
-
-<script language="javascript" src="//wap.xinmin.cn/assets/m/js/common.m.pc.js"></script>
-
-<!-- <script language="javascript" src="//wap.xinmin.cn/assets/m/js/app_detail.js"></script> -->
-
-
-<style>
-
-/*播放图标*/
-
-#voice-pic{display: inline-block;width: 25px;height: 25px;background-image: url(//wap.xinmin.cn/assets/m/images/voice3_red.png);background-repeat: no-repeat; background-size: 100%;position: relative;top: 6px;left: 0px;display: none;}
-
-
-.MainContentBox .article_content{border-bottom: 1px #ddd solid}
-
-
-</style>
-
-</head>
-
-
-
-<body>
-
-<img src="//wap.xinmin.cn/assets/m/images/xinmin300.png" width="64" height="0" style="display:none;"/>
-
-<div class="AppBanner" id="app-banner"><a href="javascript:void(0);"><img src="//wap.xinmin.cn/assets/m/images/app_rec.png"/></a></div>
-
-
-
-<header class="TopBox ContentStyle" id="top-box">
-
-  <section>
-
-    <a href="javascript:void(0)" id="history-back"><div class="back"></div></a>
-
-    <div class="menu menu_con" id="top-menu"></div>
-
-  </section>
-
-</header>
-
-
-
-<aside class="NavEffectBox" id="nav-effect">
-
-  <nav class="NavBox">
-
-    <section>
-
-      <div class="title" id="nav-title">
-
-		
-			<a href="//wap.xinmin.cn/toutiao/index.htm" >头条</a>
-
-		
-			<a href="//wap.xinmin.cn/jbh/index.htm" >进博会</a>
-
-		
-			<a href="//wap.xinmin.cn/video/index.htm" >上海时刻</a>
-
-		
-			<a href="//wap.xinmin.cn/shizhen/index.htm" >时政</a>
-
-		
-			<a href="//wap.xinmin.cn/minsheng/index.htm" >民生</a>
-
-		
-			<a href="//wap.xinmin.cn/wentihui/index.htm" >文体汇</a>
-
-		
-			<a href="//wap.xinmin.cn/yeguangbei/index.htm" >夜光杯</a>
-
-		
-			<a href="//wap.xinmin.cn/photo/index.htm" >读图</a>
-
-		
-			<a href="//wap.xinmin.cn/mp3/index.htm" >新声入耳</a>
-
-		
-      </div>
-
-    </section>
-
-  </nav>
-
-  <script language="javascript" src="//wap.xinmin.cn/assets/m/js/nav.js"></script>
-
-</aside>
-
-
-
-<section class="MainContentBox">
-
-  <h2 class="title">“网红神药”立竿见影？专家：不推荐长期使用，警惕禁用成分！</h2>
-
-  <div class="appshare_title"><font id="main-title">“网红神药”立竿见影？专家：不推荐长期使用，警惕禁用成分！</font><font id="sub-title">飞入寻常百姓家</font></div>
-
-  <div class="info">
-
-    <span>
-
-		<span id="voice-pic"></span>
-
-      
-        
-          <span>
-
-            来源：上海徐汇&nbsp;&nbsp;
-
-            
-              
-                
-                  <font style="display:none">作者：综合&nbsp;&nbsp;</font>
-
-                
-              
-            
-            
-
-          </span>
-
-        
-      
-	  <img src="//wap.xinmin.cn/assets/m/images/time.png" style="height: 13px; width: 13px;margin-top: -2px;" /> 2023-01-02 09:27:02
-
-    </span>
-
-  </div>
-
-  <article class="article_content" id="article-content">
-
-        
-
-
-
-    
-
-
-    
-    
-    
-
-
-    <p><p style="no-indent: 2em; text-align: left;">近日，不少“阳康”的网友在社交平台分享自己的经历，EVE止疼药、大正感冒素等药品被认为是“神药”。这些药品多来自海淘或者代购，据称可以代替布洛芬、对乙酰氨基酚，起效更快，已经在日本卖断货。这些“网红神药”究竟是何成分？确有奇效吗？</p><p style="no-indent: 2em; text-align: left;">要看药品效用如何，还得从成分开始研究。上海市第八人民医院药剂师李菲早早关注到了这些网红药品，据她介绍，EVE止疼药一般是布洛芬、丙戊酰脲和咖啡因等三种止痛药成分的大杂烩。布洛芬是常规的解热镇痛药，这也是许多代购和网友宣传可以代替布洛芬的原因。但丙戊酰脲却是值得警惕的一种成分。</p><p style="text-align: center;"><img  id="http://pic0.xinmin.cn/xmwb/2023/01/02/ab118889-990e-4add-b69e-79962b420560.jpg" src="//pic0.xinmin.cn/xmwb/2023/01/02/ab118889-990e-4add-b69e-79962b420560.jpg" type="image" /></p><p style="no-indent: 2em; text-align: left;">李菲介绍，早在上世纪30年代，美国就淘汰了丙戊酰脲，原因是可能出现严重的副作用，比如血小板减少性紫癜。“我们国家也不使用这个成分，这也是我们不推荐使用EVE治疗偏头痛的最主要原因。”</p><p style="no-indent: 2em; text-align: left;">EVE含有的第三个止痛成分是咖啡因。“咖啡因具有缓解偏头痛的作用，有研究表明，含有咖啡因的复方药物治疗偏头痛优于单方的布洛芬，这也是很多人觉得EVE止痛效果比较好的原因之一。”李菲提醒，咖啡因是一把双刃剑，它在缓解偏头痛的同时，也有引发戒断性头痛的风险，所以使用它同样需要非常谨慎。其实很多时候，单一成分的布洛芬就可以解决疼痛的问题，真没必要海淘这款连说明书都看不懂的多种成分复方止痛药。</p><p style="text-align: center;"><img  id="http://pic0.xinmin.cn/xmwb/2023/01/02/2c5fee24-1d54-402b-a908-e0f765db5166.jpg" src="//pic0.xinmin.cn/xmwb/2023/01/02/2c5fee24-1d54-402b-a908-e0f765db5166.jpg" type="image" /></p><p style="no-indent: 2em; text-align: left;">大正感冒素同样来自日本，有“日本十大神药”的噱头。从成分说明来看，这款药物含有对乙酰氨基酚等常规解热镇痛成分，但除此之外，这款药物还含有其他8种成分。李菲表示，一个药品中塞进去这么多成分，其实是很少见的，“无论是成人款还是儿童款，我都不推荐大家长期使用。”</p><p style="text-align: center;"><img  id="http://pic0.xinmin.cn/xmwb/2023/01/02/ff3929c8-9f96-4724-bc16-53179ee76a57.jpg" src="//pic0.xinmin.cn/xmwb/2023/01/02/ff3929c8-9f96-4724-bc16-53179ee76a57.jpg" type="image" /></p><p style="no-indent: 2em; text-align: left;">记者搜索资料时发现，这些药品已经在国内流行过一段时间，部分网络平台海淘途径仍然可以买到。在EVE止疼药产品介绍页面，底部的小字部分标注了丙戊酰脲等成分，大部分内容是将EVE止疼药等同于布洛芬进行营销，并强调不伤肠胃。在网友评价中，这种药品甚至被打上了“女生必备”标签，许多人都将其作为常备药品。</p><p style="no-indent: 2em; text-align: left;">实际上，只要仔细阅读产品介绍就会发现，卖家自己也标注了“不可以长期使用”。在日本，EVE止痛药属于第二类药品，即副作用可能危害健康，只能在进行过销售登记的药店销售，并由药剂师详细解释用法及副作用后才能销售，禁止邮购和网络销售。</p><p style="no-indent: 2em; text-align: left;">近年来，对于所谓的“网红神药”，浙江大学医学院附属第一医院、科普中国、新京报等自媒体和媒体都曾发文提醒大家，应对国外“神药”要多一份警惕和理性。在社交平台，也有一些网友使用EVE止疼药后出现了紫癜等症状，提醒大家谨慎使用。</p><p style="no-indent: 2em; text-align: left;">在家庭用药方面，我们在《转阴了还在咳？囤了药不知咋用？这个家庭用药指南别错过》（<a href="https://mp.weixin.qq.com/s/cOHa3ddcV_meKaRIwZ0ATg" target="_blank">点击查看</a>）一文中，已经介绍过用药需要注意的几个原则，比如：当只出现单一症状时，可选用含有单一有效成分的药物对症治疗；当多个症状同时出现，可针对症状选择含有相应有效成分组合的复方制剂。目前官方也已推出《新冠病毒感染者用药目录（第一版）》，大家可以根据自己的需要购买服用。</p><p style="no-indent: 2em; text-align: left;">王旭</p></p>
-
-    <div class="article_bottom">
-
-      <span>编辑：赵菊玲</span>
-
-      
-      <div class="opera" id="opera-btn">
-
-          <span id="dz-btn">
-
-              <i class="iconfont"><img src="//wap.xinmin.cn/assets/m/images/heart.jpg" width="15"/></i>
-
-          </span>
-
-      </div>
-
-      
-    </div>
-
-  </article>
-
-</section>
-
-
-
-
-<section class="SubContentBox" id="kan-pl">
-
-  <h2 class="title" id="show-comment">
-
-    看评论
-
-  </h2>
-
-  <div class="comment_box">
-
-    <div id="comment-box"></div>
-
-    <button class="open_app" id="open-app"><a href="https://mobile.xinmin.cn/dlm.html">打开新民更多精彩<img src="//wap.xinmin.cn/assets/m/images/comments-icon.png"/></a></button>
-
-  </div>
-
-</section>
-
-
-
-
-<section class="SubContentBox" id="blocks-recommend">
-
-  <h2 class="title title_none">推荐阅读</h2>
-
-  <div class="RecommendBox" id="recommend-box">
-
-    
-
-  </div>
-
-</section>
-
-
-
-
-
-<footer class="BottomBox" id="bottom-box">
-
-  <p>新民晚报官方网站 xinmin.cn ©2022 All rights reserved Tech-vm-2-10</p>
-
-</footer>
-
-<aside class="BackTop"></aside>
-
-<aside class="BackHome"></aside>
-
-
-
-
-
-
-<script>
-
-/**
-
- * [get_url_ext_before 获取url地址栏静态文件名（过滤去除后缀扩展名）,wap业务用于末级页获取url地址栏中contentIndexId]
-
- * @params [string] ext [后缀名，带“.”]
-
- * @return [string/undefined] ext_before [后缀名前的文件名]
-
- * @author xyq
-
- * @date 2020-04-28 11:18
-
- */
-
-
-
-function get_url_ext_before(ext)
-
-{
-
-  var ext_before;
-
-  if(ext){
-
-    // 后缀长度
-
-    var ext_len = ext.length;
-
-    // 获取url
-
-    var url = window.location.href;
-
-    // 获取静态html路径
-
-    var pathname = window.location.pathname;
-
-
-
-    // 必须是.html静态页面
-
-    if(pathname.indexOf('.html') > -1){
-
-      // 获取路径中最后一个“/”出现的索引
-
-      var last_index = pathname.lastIndexOf('/');
-
-      // 截取位置，从最后一个“/”的索引位置开始，到文件后缀前结束
-
-      var file_name = pathname.substring(last_index + 1, pathname.length - ext_len);
-
-      // 判断去掉后缀名的字符串是否是正整数
-
-      if(/(^[1-9]\d*$)/.test(file_name)){
-
-        ext_before = file_name;
-
-      }
-
+<!DOCTYPE html><html><head><title>喜迎二十大，平安在身边⑤丨脚步丈量社区，他们用心用情唱响“平安歌”！看，这是社区民警的故事-半岛网</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/><meta name="keywords" content="社区,平安,唱响,用情,二十大" /><meta name="description" content="近日，记者走进黄岛公安分局泊里派出所和灵山卫派出所，探访社区民警处理“家长里短”的那些事。但是在黄岛公安分局灵山卫派出所有一位女社区民警，她是王培珺，虽然瘦小但是却很干练，丝毫不比男同事们差，甚至在处理一些纠纷时还能发挥女民警独有的优..." /><link rel="shortcut icon" type="image/x-icon" href="//muji.bandao.cn/static/html/images/bdw.ico" media="screen" /><link rel="stylesheet" type="text/css"  href="//muji.bandao.cn/static/html/css/news.css?v=1" /><script type="text/javascript" src="//muji.bandao.cn/static/html/js/jquery.min.js"></script><script type="text/javascript" src="//ad.bandao.cn/static/ad/ad.js"></script><script type="text/javascript" src="//muji.bandao.cn/static/html/js/gotop.js"></script><script type="text/javascript" src="//muji.bandao.cn/static/html/js/jquery.yx_rotaion.js?v=2"></script><meta name="mobile-agent" content="format=[wml|xhtml|html5]; url=http://news.bandao.cn/a/667620.html"><script type="application/ld+json">
+    {
+        "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+        "@id": "http://news.bandao.cn/a/667620.html",
+        "appid": "1548047856297451",
+        "title": "喜迎二十大，平安在身边⑤丨脚步丈量社区，他们用心用情唱响“平安歌”！看，这是社区民警的故事-半岛网",
+        "images": [
+        "http://mfs.bandao.cn/storage/mfs/63462d119e70a7030f9bdf24.jpeg","http://mfs.bandao.cn/storage/mfs/63462d119e70a7030f9bdf25.jpeg","http://mfs.bandao.cn/storage/mfs/63462d119e70a7030f9bdf26.jpeg",
+        ],
+        "pubDate": "2022-10-12T10:57:23", // 需按照yyyy-mm-ddThh:mm:ss格式编写时间，字母T不能省去
+        "update": "2022-10-12T10:57:23",
+        "description":"近日，记者走进黄岛公安分局泊里派出所和灵山卫派出所，探访社区民警处理“家长里短”的那些事。但是在黄岛公安分局灵山卫派出所有一位女社区民警，她是王培珺，虽然瘦小但是却很干练，丝毫不比男同事们差，甚至在处理一些纠纷时还能发挥女民警独有的优...",
     }
 
-  }
 
-  
+    </script><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9e6a890341be5215451ae8224301e7d8";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></head><body><!-- 顶部导航 --><div class="top-wrap"><div class="top-nav"><div class="c-fl"><div class="top-title"><a  href="http://www.bandao.cn" class="top-logo" ><i class="icon-06"></i></a></div><div class="top-title"><a href="http://news.bandao.cn" target="_blank"  class="top-tab"><i>新闻</i></a></div><div class="top-title"><a href="http://news.bandao.cn/subject/" target="_blank" class="top-tab"><i>专题</i></a></div><div class="top-title"><a href="http://tan.bandao.cn" target="_blank" class="top-tab"><i>探青岛</i></a></div><div class="top-title"><a href="http://club.bandao.cn" target="_blank" class="top-tab"><i>社区</i></a></div><div class="top-title"><a href="http://love.bandao.cn" target="_blank" class="top-tab"><i>半岛之恋</i></a></div></div><div class="c-fr"><div class="top-title"><div onMouseOut="hidewbImg()" onmouseover="showwbImg()"><a href="https://weibo.com/bandao" class="top-wb" ><i class="icon-01"></i>半岛网微博</a><div id="weiboImg" class="top-weibo"><img src="//muji.bandao.cn/static/html/images/weibo.jpg"></div></div></div><div class="top-title"><div onMouseOut="hidewxImg()" onmouseover="showwxImg()"><a target="_blank" href="#" class="top-wb" ><i  class="icon-02"></i>半岛网微信</a><div id="weixinImg" class="top-weixin"><img src="//muji.bandao.cn/static/html/images/weixin.jpg"></div></div></div></div></div></div><!-- 顶部导航 end --><script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script><div class="wrapper-box"><div class="mt10"><script type="text/javascript">pyad('C/A11-1');</script><!--a1--><script type="text/javascript">pyad('C/A11-2');</script><!--a2--><script type="text/javascript">pyad('C/A11-3');</script><!--a3--></div><div class="main mt20"><!--中间--><div class="mainLM mgr4 "><div class="content-main "><div class="nav"><a href="http://www.bandao.cn">半岛网</a> ><a href="//news.bandao.cn/c/qingdao.html">青岛</a></div><h1>喜迎二十大，平安在身边⑤丨脚步丈量社区，他们用心用情唱响“平安歌”！看，这是社区民警的故事</h1><div class="box"><div class="time">2022-10-12 10:57
+                  <span>大众报业·半岛新闻</span><span class="c-fr">阅读 (28912) <a href="javascript:showma();" class="bit"><i class="icon-17"></i>扫描到手机</a></span></div><div id="MobileER" style="display:none"><dl class="ERmsg"><dt><img src="http://muji.bandao.cn/utils/qrcode/?text=http://news.bandao.cn/a/667620.html"></dt><dd><em><a href="javascript:closema();">x</a></em><span>用手机或平板电脑的二维码应用拍下左侧二维码，可以在手机继续阅读。</span></dd></dl></div></div><div class="news-body"><div id="news-topshare" class="news-topshare"><ul class="menu-scroll bdsharebuttonbox" ><li><i class="icon-14"></i></li><li class="weibo"><a href="#" data-cmd="tsina" title="分享到新浪微博"></a></li><li class="weixin"><a href="#" data-cmd="weixin" title="分享到微信"></a></li></ul></div><div class="content-text" id="content"><div><p style="text-indent: 2em; text-align: left;">半岛全媒体记者 刘鑫 尹彦鑫</p><p style="text-indent: 2em; text-align: left;">他，从军营到警营，无论是扛起钢枪保家卫国还是苦口婆心调解群众纠纷，不变的是卫国爱民的初心。她，从户籍窗口到社区片警，小小的身躯充满着大大的能量，只要群众有需要工作有安排她始终忘我冲锋牢记入警誓言。他和她有一个共同的名字——“社区民警”。近日，记者走进黄岛公安分局泊里派出所和灵山卫派出所，探访社区民警处理“家长里短”的那些事。</p><p style="text-indent: 2em; text-align: left;">全所唯一女社区民警</p><p style="text-indent: 2em; text-align: left;">一谈到社区民警，可能多数人会联想到身强力壮的男民警，因为印象中只有他们才能应对社区千头万绪的工作。但是在黄岛公安分局灵山卫派出所有一位女社区民警，她是王培珺，虽然瘦小但是却很干练，丝毫不比男同事们差，甚至在处理一些纠纷时还能发挥女民警独有的优势。</p><p style="text-align:center"><img class="ll" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-f="http://mfs.bandao.cn/storage/mfs/63462d119e70a7030f9bdf24.jpeg" /></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><span style="color: #A9A9A9;">王培珺在小区物业查看监控。</span></p><p style="text-indent: 2em; text-align: left;">“where is your passport？”“ one week later， ok？”记者见到王培珺时她正在打着电话，突然冒出来的英文引起了记者的注意，这个社区女民警真行啊，跟外国人对话都这么流利。“英文水平一般般，让你见笑了，刚刚在跟一个居住在我们辖区的留学生沟通，我们发现他的护照临期了，提醒他去及时办理延期。”王培珺告诉记者，因为辖区调整，灵山卫派出所的管辖面积增大，社区民警不足，因此根据工作安排，她从户籍警成为了一名社区民警。</p><p style="text-indent: 2em; text-align: left;">“其实在干户籍警之前，我就干过一段时间的社区民警，也是因为我有这个经验，领导觉得我能胜任这个工作。”在领导眼中，王培珺就是一个救火队员，哪个岗位缺人手，都会想起她，她也总是能顶得上干得好。</p><p style="text-indent: 2em; text-align: left;">“社区工作是一个大杂烩，什么样的人和事都能碰到，什么样的工作都要会干，社区民警要十八般武艺样样精通。”王培珺告诉记者，社区是一个很锻炼人的地方。</p><p style="text-indent: 2em; text-align: left;">黄岛公安分局灵山卫派出所辖区本地人口数量与外来人口数量相当，社区民警在流动人口管理和服务方面要格外细致。“仅仅我的片区就有20个在建的工地，这些工地上的人员流动非常频繁，我们需要随时与相关的企业做好沟通，督促他们将最新的人员情况进行反馈。”王培珺的身影经常在辖区的工地上出现，为工人讲解安全知识，与工地负责人对接工作了解情况……</p><p style="text-align:center"><img class="ll" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-f="http://mfs.bandao.cn/storage/mfs/63462d119e70a7030f9bdf25.jpeg" /></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><span style="color: #A9A9A9;">王培珺进社区了解情况。</span></p><p style="text-indent: 2em; text-align: left;">发挥女警优势，做群众冲突的缓冲带</p><p style="text-indent: 2em; text-align: left;">“有时候因为一些小事，楼上楼下之间，对门之间就产生矛盾，冲突升级之后就会报警，这种警情大多数都会转到我们社区民警这里。”王培珺告诉记者，处理这种警情非常考验民警的能力，“处理不好会加深邻里之间的矛盾，甚至矛盾升级之后会发生刑事案件，处理好了双方冰释前嫌，心情舒畅。”</p><p style="text-indent: 2em; text-align: left;">“之前我们接到了一起因为养狗产生的纠纷，因为楼上邻居遛狗没有栓绳，乘坐电梯的时候将楼下邻居吓到了，邻居非常生气，报了警。”接警后，王培珺去调节，楼上邻居没把这件事当回事，觉得楼下邻居小题大做。“眼看双方话越说越硬，我就赶紧把双方分开，分别谈话，后来楼上邻居意识到了自己的问题，承认错误，而楼下邻居其实也不排斥养狗，我们也趁热打铁，最终双方冰释前嫌。”</p><p style="text-align:center"><img class="ll" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-f="http://mfs.bandao.cn/storage/mfs/63462d119e70a7030f9bdf26.jpeg" /></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><span style="color: #A9A9A9;">王培珺走访辖区场所。</span></p><p style="text-indent: 2em; text-align: left;">近期，辖区发生过孩子离家出走的情况，王培珺也加强了类似方面的工作。“我们到学校开讲了教育课，给孩子们树立起正确的安全意识，同时通过学校方面，与家长加强联系，为家长进行正确的家庭教育提供引导。”在王培珺眼里，社区民警的工作事无巨细，都需要十二分的上心，“想要做好社区工作，就只有全身心地扑在上面，与老百姓打成一片，发挥好网格员的作用。”</p><p style="text-indent: 2em; text-align: left;">社区民警除了走街串户了解情况，还要直面犯罪惩恶扬善，但是王培珺从来不跟自己的父母说这些。“老人的心脏不是很好，跟他们说这些他们会担忧。我都告诉他们我的工作就是在办公室里，很少会出去做危险的事情。”</p><p style="text-indent: 2em; text-align: left;">“可以说，社区民警是公安机关的末梢神经，我们只有努力一点，再努力一点，工作细致一点再细致一点，才能够将自己辖区的情况掌握全面，将各种隐患处理在萌芽状态。”为了这个目标，王培珺一直在自己的岗位上奉献着，坚守着自己从警的誓言。</p><p style="text-align:center"><img class="ll" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-f="http://mfs.bandao.cn/storage/mfs/63462d129e70a702e53f76ad.jpeg" /></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><span style="color: #A9A9A9;">董聚建正在调解一起纠纷。</span></p><p style="text-indent: 2em; text-align: left;">老人摔断肋骨，调解室里讲事实摆道理</p><p style="text-indent: 2em; text-align: left;">“你们施工没有做好足够的防护和警示，老人摔倒你们肯定是有责任。”“如你们所说，老人之前身体很好，意识清醒，甚至能自己骑自行车，老人的摔倒固然有对方的原因，但是真要走上法院，你们肯定也会承担一定的责任。”10月9日上午，记者走进黄岛公安分局泊里派出所的调解室，就见到了这样的一幕，社区民警董聚建正和黄岛法院董家口法庭的工作人员调解一起群众纠纷。</p><p style="text-indent: 2em; text-align: left;">“施工方正在村里进行排污管道的施工，在这期间一位80多岁的老人一不小心踩在挖掘的坑里摔倒了，断了三根肋骨，头部也受了伤，双方对于赔偿的事宜没有达成一致，今天我们把双方约在一起，再来调解一下。”记者了解到，像这样的调解对董聚建来说是家常便饭。“像我们这样的农村派出所，他们矛盾没有那么深，有时候往往就是一口气。”在董聚建看来，社区民警很重要的一项工作就是普法，在执法过程中普法、在调解过程中普法。“你给他理清了事实，讲解一下法律程序和法律成本，大多数的老百姓都会选择通过调解的方式解决问题。”</p><p style="text-indent: 2em; text-align: left;">经过一个多小时的调解，董聚建和法院的工作人员为双方讲解了问题的结局途径，并且着重分析了调解的优势和诉讼的繁杂程序，最终双方同意回去考虑一下再给出答复。</p><p style="text-indent: 2em; text-align: left;">董聚建的腿勤快，他经常说，自己多跑一步，群众就少走一步，因此无论是社区里，还是田间地头，经常都能看到他的身影。化解矛盾纠纷，仅靠社区民警一个人一张嘴显然力量是不够的。董聚建明白这个道理，于是探索多部门联动调处的路子，在他的推动下，镇政府和派出所等部门联合出台了《矛盾纠纷多元融合化解工作实施方案》，创新建立由社会治理中心牵头，行政、公安、社会等力量参与的会商研判组，采用“5+X”模式进行多元化解。“5”是指案事件主管部门工作人员、法庭法官、司法所工作人员、社区民警和村干部，“X”是指案事件当事人较为熟悉，且对案事件处理具有正面影响的社会人员。调解者对法律政策讲解更全面，当事人对调解方案更认可，有效提高了矛盾纠纷的化解率。今年以来，董聚建组织化解复杂矛盾纠纷26起，化解成功24起，调解成功率达92%。</p><p style="text-align:center"><img class="ll" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-f="http://mfs.bandao.cn/storage/mfs/63462d129e70a7030103f823.jpeg" /></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><span style="color: #A9A9A9;">董聚建检查商铺灭火器情况。</span></p><p style="text-indent: 2em; text-align: left;">接手超大社区，将压力化为动力</p><p style="text-indent: 2em; text-align: left;">董聚建负责的社区是一个伴随着董家口经济区发展而建设的城乡接合社区，包括6个居民小区和18个自然村，实有人口达3万人，几乎相当于一个小乡镇的规模。社区里既有因拆迁从平房搬入楼房的居民，也有大量租房的外来务工人员，社情复杂，矛盾纠纷多发。“拆迁户外来户共住一屋，奔驰车拖拉机并驾齐驱，绿化带熏衣草上凉咸鱼，饭桌上洋酒对琅琊台喝起来一比五……”一段顺口溜，形象地描绘了新港城社区刚成立时的状况。</p><p style="text-align:center"><img class="ll" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-f="http://mfs.bandao.cn/storage/mfs/63462d129e70a7030f9bdf27.jpeg" /></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><span style="color: #A9A9A9;">董聚建为群众发放宣传材料。</span></p><p style="text-indent: 2em; text-align: left;">“刚参加公安工作，就到了最基层的社区，要说不打怵那是假话。虽然说在部队上有丰富的经验，但是到了地方，我可是一点基础都没有啊！”董聚建性格直爽，实话实说。面对困难，董聚建并没有退缩，他发挥在部队多年练就的强硬心理素质，迎难而上，在工作中采取主动化解、多元化解、巡回化解等方法，力争将矛盾纠纷消除在萌芽状态。在新港城社区警务室，董聚建没有固定的办公桌，因为他大部分的工作时间都在社区里，不是带领辅警队员开展巡逻，就是携带资料进行防范宣传。</p><p style="text-indent: 2em; text-align: left;">“只有深入社区，走到群众中去，才能第一时间发现问题。”董聚建说。2021年10月底，董聚建在小区走访时，两户因为暖气漏水发生纠纷，互不让步，董聚建立即主动找到两人了解情况，找出《民法典》的相关条文，物权角度进行分析，说理讲法，又从邻里相处动之以情。经过反复调解，两人都被董聚建说的话感动，终于达成了和解。</p><p style="text-align:center"><img class="ll" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-f="http://mfs.bandao.cn/storage/mfs/63462d129e70a7030f9bdf28.jpeg" /></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><span style="color: #A9A9A9;">董聚建为社区网格员讲课。</span></p><p style="text-indent: 2em; text-align: left;">微网格发力，3万人大社区井井有条</p><p style="text-indent: 2em; text-align: left;">董聚建在工作善于创新思路。除了董聚建外，新港城警务室还有4名社区辅警，可是他们面对的是3万人的大社区。“新港城社区就像一个‘大煎饼’，摊子铺得很大，警务室人手不足，必须想办法解决工作顾此失彼的问题。”董聚建想到哪就干到哪，他把社区的、村里的、行业的力量融合起来，从民力中要警力，做起了警民融合共建的文章。</p><p style="text-indent: 2em; text-align: left;">根据辖区特点，董聚建对辖区布局进行分析，联合社会治理中心和社区，以村民小组和楼栋为单位进一步划分“微网格”，每一个“微网格”内的居民人数控制在一定范围内。“大煎饼”变成了“微网格”，董聚建除了担任新港城警务室社区民警外，还有两个身份，一个是社区党支部副书记，一个是社区副总网格长。为了进一步促进警务工作和社区工作的融合，由警务室4名辅警担任“警格长”，将“警格”嵌入“网格”，董聚建积极建议，从乡贤、党员、村民小组长、楼长中推选120名“微网格员”，培养打造成了一支最接地气、最懂民意的社会平安治理力量。将26名小区保安、24名物业保洁、20名社区救援队员也发展为“兼职网格员”，分配至所在的“微网格”，社区警务工作开展一下子增加了更多的“眼”和“腿”。</p><p style="text-indent: 2em; text-align: left;">人员力量充足了，董聚建就在调动大家参与平安治理的积极性上下功夫，通过完善激励保障措施，变“要我干”为“我要干”。董聚建梳理出治安防范方面三大类14项工作，制定“警格+网格”工作计划和配套的奖惩措施，依据工作成绩对微网格员进行奖励。新港城警务室实施的“警格+网格”的做法，走出了一条适合辖区的新路子，黄岛公安分局已在辖区内全面推广。</p><p style="text-align:center"><img class="ll" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-f="http://mfs.bandao.cn/storage/mfs/63462d139e70a7030f9bdf29.jpeg" /></p><p style="white-space: normal; text-indent: 2em; text-align: left;"><span style="color: #A9A9A9;">董聚建到社区了解情况。</span></p><p style="text-indent: 2em; text-align: left;">为外来务工人员排忧解难，让“枫桥经验”落地生根</p><p style="text-indent: 2em; text-align: left;">“当警察就要保护一方平安，让老百姓有安全感。”董聚建这样说。身为社区民警，董聚建对于自己执法者的身份又多了一层理解。“社区是社会治理最基层最复杂的区域，有效的治理手段必须是多元的，既要用霹雳手段打击犯罪形成震慑，又要有菩萨心肠守护百姓扶危济困，实现法治效果和社会效果的统一。”</p><p style="text-indent: 2em; text-align: left;">他是这样想的，也是这样做的。董聚建在救助、服务群众等方面做了大量的工作，送迷路老人回家，找到离家出走的孩子，为外来人员办理居住登记……一件件小事温暖着辖区群众的心。今年4月，董聚建走访中了解到，面积仅80平米的房子竟然租住了17名刚到本地的外来务工人员。而这些务工人员刚到本地，还没有挣到钱，经济很是窘迫，于是他主动联系了两个面积较小的房子，让务工人员分开租住，租金没有涨一分钱，还消除了安全隐患，赢得了务工人员的赞誉。</p><p style="text-indent: 2em; text-align: left;">警民融合平安共建，警民双双收获满满。董聚建在黄岛公安分局泊里派出所干社区民警至今已经三年半。三年半的时间里，董聚建扎根基层，将维护社区和谐稳定，守护百姓平安的责任牢牢扛在肩上，让“枫桥经验”落地生根，开花结果。管辖的社区也从矛盾纠纷多、安全隐患多、报案发案多的“问题社区”，转变成一个和气满园的治安管理模范社区，被评为“省阳光社区示范点”、“省民主法制建设示范点”。</p></div><div style="margin-top:20px;"><script type="text/javascript">pyad('C/DD');</script></div></div><div></div><div class="content-msg"></div><div class="content-news"><div class="newslist"><div class="tab-title  mt20 "><span class="bt"><a href="#">相关阅读</a></span><span class="more"></span></div><ul class="mt20"><li><a href="http://news.bandao.cn/a/688205.html">建设更高水平的平安中国——政法机关推进政法工作高质量发展综述</a></li><li><a href="http://news.bandao.cn/a/688052.html">跟着总书记学习二十大报告丨加强党对一切工作的领导</a></li><li><a href="http://news.bandao.cn/a/687860.html">市南一小区外违规停车存隐患，社区：已纳入楼院改造计划</a></li><li><a href="http://business.bandao.cn/a/687737.html">中国平安2022年度十大新闻</a></li><li><a href="http://business.bandao.cn/a/687734.html">新农人、新农险、新农业，平安“三下乡”行动助韶关乡村产业新发展</a></li><li><a href="http://business.bandao.cn/a/687728.html">平安免费抗疫咨询单日突破300万</a></li><li><a href="http://news.bandao.cn/a/687561.html">市南区开设社区诊疗点 “一站式”解决诊疗需求</a></li><li><a href="http://news.bandao.cn/a/687525.html">平安迎春运！李沧交通安全宣传民警走进危化品企业</a></li><li><a href="http://business.bandao.cn/a/687452.html">青岛地质院党委理论学习中心组学习贯彻党的二十大和二十届一中全会精神</a></li><li><a href="http://business.bandao.cn/a/687411.html">青岛地质院开展“欢度国庆节”系列活动</a></li></ul></div></div></div></div></div><!--中间 end--><!--右边--><div class="mainRight"><!--广告--><div class="mb15"><script type="text/javascript">pyad('C/XB1');</script></div><!--XB1--><div class="mb15"><script type="text/javascript">pyad('C/XB2');</script></div><!--XB2--><div class="mb15"><script type="text/javascript">pyad('C/XB3');</script></div><!--XB3--><div class="mb15"><script type="text/javascript">pyad('C/XB4');</script></div><!--XB4--><!--详细页专题滚动图--><div class="focus-news"><div class="yx-topic-list-slider"><ul><li><a href="http://news.bandao.cn/subject/441.html" target="_blank" title="黄河大集"><img src="http://mfs.bandao.cn/storage/mfs/63b7be9b9e70a7069d4f40d4.jpg?w=295&amp;h=150" alt="黄河大集"></a></li><li><a href="http://news.bandao.cn/subject/439.html" target="_blank" title="从春天出发——聚焦2023青岛两会"><img src="http://mfs.bandao.cn/storage/mfs/63ab95419e70a70507b04697.jpg?w=295&amp;h=150" alt="从春天出发——聚焦2023青岛两会"></a></li><li><a href="http://news.bandao.cn/subject/432.html" target="_blank" title="2022年青岛市政府部门&quot;三民&quot;活动"><img src="http://mfs.bandao.cn/storage/mfs/638453129e70a703ee1f1f91.jpg?w=295&amp;h=150" alt="2022年青岛市政府部门三民活动"></a></li><li><a href="http://news.bandao.cn/subject/424.html" target="_blank" title="中国共产党第二十次全国代表大会"><img src="http://mfs.bandao.cn/storage/mfs/634e45bb9e70a7042788ac57.jpg?w=295&amp;h=150" alt="中国共产党第二十次全国代表大会"></a></li><li><a href="http://news.bandao.cn/subject/423.html" target="_blank" title="工赋青岛观察"><img src="http://mfs.bandao.cn/storage/mfs/632c1adc9e70a70290bc5a24.jpg?w=295&amp;h=150" alt="工赋青岛观察"></a></li></ul></div></div><!--详细页专题滚动图 end--><!--新闻内容--><div class="sidebar Riback"><div class="mt10"><div class="tab-title"><span class="bt"><a href="http://news.bandao.cn">新闻热点</a></span><span class="more"><a href="#"></a></span></div><div class="hotBox"><div class="info"><div class="pic"><a href="//news.bandao.cn/a/687986.html"><img src="http://mfs.bandao.cn/storage/mfs/63b8ed239e70a706ab6bc6af.png?w=90&amp;h=60"></a></div><div class="text"><a href="//news.bandao.cn/a/687986.html">青春活力之岛 青年友好之城——青岛市青年发展友好型城市宣传片发布</a></div></div><div class="info"><div class="pic"><a href="//news.bandao.cn/a/687955.html"><img src="http://mfs.bandao.cn/storage/mfs/63b8cb9d9e70a706c7bf9c48.jpeg?w=90&amp;h=60"></a></div><div class="text"><a href="//news.bandao.cn/a/687955.html">极简版来了！第十版诊疗方案多个方面重要更新</a></div></div><div class="info"><div class="pic"><a href="//news.bandao.cn/a/687950.html"><img src="http://mfs.bandao.cn/storage/mfs/63b8c1a59e70a706c7bf9c44.png?w=90&amp;h=60"></a></div><div class="text"><a href="//news.bandao.cn/a/687950.html">春运今启动 回老家过年喽! 今年购票有了这些新变化</a></div></div><div class="info"><div class="pic"><a href="//news.bandao.cn/a/687940.html"><img src="http://mfs.bandao.cn/storage/mfs/63b8b4199e70a7069d4f41a7.jpeg?w=90&amp;h=60"></a></div><div class="text"><a href="//news.bandao.cn/a/687940.html">中纪委网站评论：开年连打三虎，反腐一刻不停</a></div></div><div class="info"><div class="pic"><a href="//news.bandao.cn/a/685785.html"><img src="http://mfs.bandao.cn/storage/mfs/63aba0fd9e70a704ebccef78.png?w=90&amp;h=60"></a></div><div class="text"><a href="//news.bandao.cn/a/685785.html">年终盘点 | 2022年青岛大事记</a></div></div></div></div><!--推荐新闻--><div class="mt10"><div class="tab-title"><span class="bt"><a href="#">青岛新闻</a></span><span class="more"><a href="//news.bandao.cn/c/qingdao.html"></a></span></div><div class="ImgBox clearfix"><div class="topic"><a href="http://news.bandao.cn/a/688269.html"  class="photo"><img src="http://mfs.bandao.cn/storage/mfs/63bb6d439e70a7071b0869c2.jpg?w=132&amp;h=86"></a><p><a href="http://news.bandao.cn/a/688269.html">行动方案出台！青岛全力打造交通强国山东示范区“青岛样板”</a></p></div><div class="topic"><a href="http://news.bandao.cn/a/688267.html"  class="photo"><img src="http://mfs.bandao.cn/storage/mfs/63bb6a669e70a706d5822fda.jpeg?w=132&amp;h=86"></a><p><a href="http://news.bandao.cn/a/688267.html">红岛海蛎子上岸，工人分拣忙</a></p></div><div class="topic"><a href="http://news.bandao.cn/a/688252.html"  class="photo"><img src="http://mfs.bandao.cn/storage/mfs/63badc6e9e70a7070dac2738.jpg?w=132&amp;h=86"></a><p><a href="http://news.bandao.cn/a/688252.html">致敬警察节丨人民警察的荣光：把忠诚唱到永久</a></p></div><div class="topic"><a href="http://news.bandao.cn/a/688245.html"  class="photo"><img src="http://mfs.bandao.cn/storage/mfs/63bad7e19e70a7070dac272b.jpeg?w=132&amp;h=86"></a><p><a href="http://news.bandao.cn/a/688245.html">网传青岛发现3例XBB病毒患者？青大附院：不属实！</a></p></div></div></div></div><!--新闻内容end--></div><!--右边end--></div></div><!--主--><!-- footer--><div class="wrap"><div  class="footer"><div class="tab-bottom"><ul><li><span>大众报业集团主管</span><span>公安备案号：37020202001452</span><span>网站备案号:<a href="https://beian.miit.gov.cn/">鲁B2-20041045-2</a></span><span>增值电信许可: 鲁B2-20200301</span></li><li><span>
+                    
+                    半岛网新闻热线：0532-80889233
+                    
+                </span><span>违法不良信息举报电话：0532-80889370</span></li><li><span><a href="http://www.bandao.cn" target="_blank">半岛网</a> 版权所有 © 2004-2023 </span></li></ul></div></div></div><!-- footer end --><script src="http://muji.bandao.cn/static/common/lazyload.js?v=5"></script><script>
+       var aDis = document.getElementsByName("description");
+var t_summary = aDis[0].content;
+t_summary = t_summary.substr(0,120);
+var aTitle = document.title.split(" - ");
+var t_title = aTitle[0];
+var aUrl = document.location.href.split("?");
+var t_url = aUrl[0];
+var cDiv = document.getElementById("content");
+var aImgs = cDiv.getElementsByTagName("img");
+var t_pic = "";
+if (aImgs.length>0) {
+  var t_pic = aImgs[0].src;
+}
+window._bd_share_config={"common":{"bdSnsKey":{"tsina":"1704544512"},"bdText":t_title+" "+t_summary+"... @半岛网","bdUrl":t_url,"bdPic":t_pic,"bdMini":"2","bdMiniList":false,"bdStyle":"2","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
 
-  return ext_before;
+function fixInit(){
+	var obj = document.getElementById("js_fix_top");
+	var bar = document.getElementById("js_fix_topBar");
+	var T = parseInt($("#js_fix_top").attr("originT")) || $("#js_fix_top").offset().top;
+	$("#js_fix_top").attr("originT",T);
+	var H = $("#js_fix_top").height();
+	var Tb = 110;
+	var Lbar = ($(window).width() - $(".Main").width()) / 2 >0?($(window).width() - $(".Main").width()) / 2:0;
+	showNot();
+	$(window).unbind("scroll").bind("scroll",function(ev){
+		showNot();
+		if($(window).scrollTop() >= 100){
+				$('#js_totop').show();
+			}else{
+				$('#js_totop').hide();
+			}
+	})
 
+	function showNot() {
+		var sT = $(window).scrollTop();
+		if (sT >= T) {
+			$(obj).css({
+				"position": "fixed",
+				"top": "20px"
+			});
+		} else {
+			$(obj).css({
+				"position": "relative",
+				"top": ""
+			});
+		}
+		if (sT >= Tb) {
+			// alert(Lbar);
+			$(bar).css({
+				"position": "fixed",
+				"top": "0px",
+				"left":Lbar+"px"
+			});
+			$(".mainMiddle").css({
+				"margin-left":"200px"
+			})
+		} else {
+			$(bar).css({
+				"position": "relative",
+				"top": "",
+				"left":""
+			});
+			$(".mainMiddle").css({
+				"margin-left":""
+			})
+		}
+	}
 }
 
-
-
-var ext_before = get_url_ext_before('.html');
-
-
-
-var JsParams = {
-
-  contentIndexId:ext_before,
-
-  contentId:'30548703',
-
-  commentState:'1',
-
-  ZanUid:'52921234',
-
-  this_url:window.location.href,
-
-  title_txt:'“网红神药”立竿见影？专家：不推荐长期使用，警惕禁用成分！',
-
-  title_code:'%E2%80%9C%E7%BD%91%E7%BA%A2%E7%A5%9E%E8%8D%AF%E2%80%9D%E7%AB%8B%E7%AB%BF%E8%A7%81%E5%BD%B1%EF%BC%9F%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%8D%E6%8E%A8%E8%8D%90%E9%95%BF%E6%9C%9F%E4%BD%BF%E7%94%A8%EF%BC%8C%E8%AD%A6%E6%83%95%E7%A6%81%E7%94%A8%E6%88%90%E5%88%86%EF%BC%81',
-
-  des_txt:'目前,官方已推出《新冠病毒感染者用药目录（第一版）》，大家可以根据自己的需要购买服用。',
-
-  des_txt_code:'%E7%9B%AE%E5%89%8D%2C%E5%AE%98%E6%96%B9%E5%B7%B2%E6%8E%A8%E5%87%BA%E3%80%8A%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E8%80%85%E7%94%A8%E8%8D%AF%E7%9B%AE%E5%BD%95%EF%BC%88%E7%AC%AC%E4%B8%80%E7%89%88%EF%BC%89%E3%80%8B%EF%BC%8C%E5%A4%A7%E5%AE%B6%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9C%80%E8%A6%81%E8%B4%AD%E4%B9%B0%E6%9C%8D%E7%94%A8%E3%80%82',
-
-  image_url:'https://pic0.xinmin.cn/xmwb/2023/01/02/c1f7c863-201a-4604-869d-0f375059385c.jpg',
-
-  
-  share_img_url:'https://wap.xinmin.cn/assets/m/images/xinmin300.png',
-
-  
-  content_text:'近日，不少“阳康”的网友在社交平台分享自己的经历，EVE止疼药、大正感冒素等药品被认为是“神药”。这些药品多来自海淘或者代购，据称可以代替布洛芬、对乙酰氨基酚，起效更快，已经在日本卖断货。这些“网红神药”究竟是何成分？确有奇效吗？要看药品效用如何，还得从成分开始研究。上海市第八人民医院药剂师李菲早早关注到了这些网红药品，据她介绍，EVE止疼药一般是布洛芬、丙戊酰脲和咖啡因等三种止痛药成分的大杂烩。布洛芬是常规的解热镇痛药，这也是许多代购和网友宣传可以代替布洛芬的原因。但丙戊酰脲却是值得警惕的一种成分。李菲介绍，早在上世纪30年代，美国就淘汰了丙戊酰脲，原因是可能出现严重的副作用，比如血小板减少性紫癜。“我们国家也不使用这个成分，这也是我们不推荐使用EVE治疗偏头痛的最主要原因。”EVE含有的第三个止痛成分是咖啡因。“咖啡因具有缓解偏头痛的作用，有研究表明，含有咖啡因的复方药物治疗偏头痛优于单方的布洛芬，这也是很多人觉得EVE止痛效果比较好的原因之一。”李菲提醒，咖啡因是一把双刃剑，它在缓解偏头痛的同时，也有引发戒断性头痛的风险，所以使用它同样需要非常谨慎。其实很多时候，单一成分的布洛芬就可以解决疼痛的问题，真没必要海淘这款连说明书都看不懂的多种成分复方止痛药。大正感冒素同样来自日本，有“日本十大神药”的噱头。从成分说明来看，这款药物含有对乙酰氨基酚等常规解热镇痛成分，但除此之外，这款药物还含有其他8种成分。李菲表示，一个药品中塞进去这么多成分，其实是很少见的，“无论是成人款还是儿童款，我都不推荐大家长期使用。”记者搜索资料时发现，这些药品已经在国内流行过一段时间，部分网络平台海淘途径仍然可以买到。在EVE止疼药产品介绍页面，底部的小字部分标注了丙戊酰脲等成分，大部分内容是将EVE止疼药等同于布洛芬进行营销，并强调不伤肠胃。在网友评价中，这种药品甚至被打上了“女生必备”标签，许多人都将其作为常备药品。实际上，只要仔细阅读产品介绍就会发现，卖家自己也标注了“不可以长期使用”。在日本，EVE止痛药属于第二类药品，即副作用可能危害健康，只能在进行过销售登记的药店销售，并由药剂师详细解释用法及副作用后才能销售，禁止邮购和网络销售。近年来，对于所谓的“网红神药”，浙江大学医学院附属第一医院、科普中国、新京报等自媒体和媒体都曾发文提醒大家，应对国外“神药”要多一份警惕和理性。在社交平台，也有一些网友使用EVE止疼药后出现了紫癜等症状，提醒大家谨慎使用。在家庭用药方面，我们在《转阴了还在咳？囤了药不知咋用？这个家庭用药指南别错过》（点击查看）一文中，已经介绍过用药需要注意的几个原则，比如：当只出现单一症状时，可选用含有单一有效成分的药物对症治疗；当多个症状同时出现，可针对症状选择含有相应有效成分组合的复方制剂。目前官方也已推出《新冠病毒感染者用药目录（第一版）》，大家可以根据自己的需要购买服用。王旭',
-
-  content_text_code:'%E8%BF%91%E6%97%A5%EF%BC%8C%E4%B8%8D%E5%B0%91%E2%80%9C%E9%98%B3%E5%BA%B7%E2%80%9D%E7%9A%84%E7%BD%91%E5%8F%8B%E5%9C%A8%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E5%88%86%E4%BA%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%8CEVE%E6%AD%A2%E7%96%BC%E8%8D%AF%E3%80%81%E5%A4%A7%E6%AD%A3%E6%84%9F%E5%86%92%E7%B4%A0%E7%AD%89%E8%8D%AF%E5%93%81%E8%A2%AB%E8%AE%A4%E4%B8%BA%E6%98%AF%E2%80%9C%E7%A5%9E%E8%8D%AF%E2%80%9D%E3%80%82%E8%BF%99%E4%BA%9B%E8%8D%AF%E5%93%81%E5%A4%9A%E6%9D%A5%E8%87%AA%E6%B5%B7%E6%B7%98%E6%88%96%E8%80%85%E4%BB%A3%E8%B4%AD%EF%BC%8C%E6%8D%AE%E7%A7%B0%E5%8F%AF%E4%BB%A5%E4%BB%A3%E6%9B%BF%E5%B8%83%E6%B4%9B%E8%8A%AC%E3%80%81%E5%AF%B9%E4%B9%99%E9%85%B0%E6%B0%A8%E5%9F%BA%E9%85%9A%EF%BC%8C%E8%B5%B7%E6%95%88%E6%9B%B4%E5%BF%AB%EF%BC%8C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%8D%96%E6%96%AD%E8%B4%A7%E3%80%82%E8%BF%99%E4%BA%9B%E2%80%9C%E7%BD%91%E7%BA%A2%E7%A5%9E%E8%8D%AF%E2%80%9D%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BD%95%E6%88%90%E5%88%86%EF%BC%9F%E7%A1%AE%E6%9C%89%E5%A5%87%E6%95%88%E5%90%97%EF%BC%9F%E8%A6%81%E7%9C%8B%E8%8D%AF%E5%93%81%E6%95%88%E7%94%A8%E5%A6%82%E4%BD%95%EF%BC%8C%E8%BF%98%E5%BE%97%E4%BB%8E%E6%88%90%E5%88%86%E5%BC%80%E5%A7%8B%E7%A0%94%E7%A9%B6%E3%80%82%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%AC%AC%E5%85%AB%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E8%8D%AF%E5%89%82%E5%B8%88%E6%9D%8E%E8%8F%B2%E6%97%A9%E6%97%A9%E5%85%B3%E6%B3%A8%E5%88%B0%E4%BA%86%E8%BF%99%E4%BA%9B%E7%BD%91%E7%BA%A2%E8%8D%AF%E5%93%81%EF%BC%8C%E6%8D%AE%E5%A5%B9%E4%BB%8B%E7%BB%8D%EF%BC%8CEVE%E6%AD%A2%E7%96%BC%E8%8D%AF%E4%B8%80%E8%88%AC%E6%98%AF%E5%B8%83%E6%B4%9B%E8%8A%AC%E3%80%81%E4%B8%99%E6%88%8A%E9%85%B0%E8%84%B2%E5%92%8C%E5%92%96%E5%95%A1%E5%9B%A0%E7%AD%89%E4%B8%89%E7%A7%8D%E6%AD%A2%E7%97%9B%E8%8D%AF%E6%88%90%E5%88%86%E7%9A%84%E5%A4%A7%E6%9D%82%E7%83%A9%E3%80%82%E5%B8%83%E6%B4%9B%E8%8A%AC%E6%98%AF%E5%B8%B8%E8%A7%84%E7%9A%84%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E8%8D%AF%EF%BC%8C%E8%BF%99%E4%B9%9F%E6%98%AF%E8%AE%B8%E5%A4%9A%E4%BB%A3%E8%B4%AD%E5%92%8C%E7%BD%91%E5%8F%8B%E5%AE%A3%E4%BC%A0%E5%8F%AF%E4%BB%A5%E4%BB%A3%E6%9B%BF%E5%B8%83%E6%B4%9B%E8%8A%AC%E7%9A%84%E5%8E%9F%E5%9B%A0%E3%80%82%E4%BD%86%E4%B8%99%E6%88%8A%E9%85%B0%E8%84%B2%E5%8D%B4%E6%98%AF%E5%80%BC%E5%BE%97%E8%AD%A6%E6%83%95%E7%9A%84%E4%B8%80%E7%A7%8D%E6%88%90%E5%88%86%E3%80%82%E6%9D%8E%E8%8F%B2%E4%BB%8B%E7%BB%8D%EF%BC%8C%E6%97%A9%E5%9C%A8%E4%B8%8A%E4%B8%96%E7%BA%AA30%E5%B9%B4%E4%BB%A3%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%B0%B1%E6%B7%98%E6%B1%B0%E4%BA%86%E4%B8%99%E6%88%8A%E9%85%B0%E8%84%B2%EF%BC%8C%E5%8E%9F%E5%9B%A0%E6%98%AF%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E7%9A%84%E5%89%AF%E4%BD%9C%E7%94%A8%EF%BC%8C%E6%AF%94%E5%A6%82%E8%A1%80%E5%B0%8F%E6%9D%BF%E5%87%8F%E5%B0%91%E6%80%A7%E7%B4%AB%E7%99%9C%E3%80%82%E2%80%9C%E6%88%91%E4%BB%AC%E5%9B%BD%E5%AE%B6%E4%B9%9F%E4%B8%8D%E4%BD%BF%E7%94%A8%E8%BF%99%E4%B8%AA%E6%88%90%E5%88%86%EF%BC%8C%E8%BF%99%E4%B9%9F%E6%98%AF%E6%88%91%E4%BB%AC%E4%B8%8D%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8EVE%E6%B2%BB%E7%96%97%E5%81%8F%E5%A4%B4%E7%97%9B%E7%9A%84%E6%9C%80%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%E3%80%82%E2%80%9DEVE%E5%90%AB%E6%9C%89%E7%9A%84%E7%AC%AC%E4%B8%89%E4%B8%AA%E6%AD%A2%E7%97%9B%E6%88%90%E5%88%86%E6%98%AF%E5%92%96%E5%95%A1%E5%9B%A0%E3%80%82%E2%80%9C%E5%92%96%E5%95%A1%E5%9B%A0%E5%85%B7%E6%9C%89%E7%BC%93%E8%A7%A3%E5%81%8F%E5%A4%B4%E7%97%9B%E7%9A%84%E4%BD%9C%E7%94%A8%EF%BC%8C%E6%9C%89%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%EF%BC%8C%E5%90%AB%E6%9C%89%E5%92%96%E5%95%A1%E5%9B%A0%E7%9A%84%E5%A4%8D%E6%96%B9%E8%8D%AF%E7%89%A9%E6%B2%BB%E7%96%97%E5%81%8F%E5%A4%B4%E7%97%9B%E4%BC%98%E4%BA%8E%E5%8D%95%E6%96%B9%E7%9A%84%E5%B8%83%E6%B4%9B%E8%8A%AC%EF%BC%8C%E8%BF%99%E4%B9%9F%E6%98%AF%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%A7%89%E5%BE%97EVE%E6%AD%A2%E7%97%9B%E6%95%88%E6%9E%9C%E6%AF%94%E8%BE%83%E5%A5%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%B9%8B%E4%B8%80%E3%80%82%E2%80%9D%E6%9D%8E%E8%8F%B2%E6%8F%90%E9%86%92%EF%BC%8C%E5%92%96%E5%95%A1%E5%9B%A0%E6%98%AF%E4%B8%80%E6%8A%8A%E5%8F%8C%E5%88%83%E5%89%91%EF%BC%8C%E5%AE%83%E5%9C%A8%E7%BC%93%E8%A7%A3%E5%81%8F%E5%A4%B4%E7%97%9B%E7%9A%84%E5%90%8C%E6%97%B6%EF%BC%8C%E4%B9%9F%E6%9C%89%E5%BC%95%E5%8F%91%E6%88%92%E6%96%AD%E6%80%A7%E5%A4%B4%E7%97%9B%E7%9A%84%E9%A3%8E%E9%99%A9%EF%BC%8C%E6%89%80%E4%BB%A5%E4%BD%BF%E7%94%A8%E5%AE%83%E5%90%8C%E6%A0%B7%E9%9C%80%E8%A6%81%E9%9D%9E%E5%B8%B8%E8%B0%A8%E6%85%8E%E3%80%82%E5%85%B6%E5%AE%9E%E5%BE%88%E5%A4%9A%E6%97%B6%E5%80%99%EF%BC%8C%E5%8D%95%E4%B8%80%E6%88%90%E5%88%86%E7%9A%84%E5%B8%83%E6%B4%9B%E8%8A%AC%E5%B0%B1%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B3%E7%96%BC%E7%97%9B%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E7%9C%9F%E6%B2%A1%E5%BF%85%E8%A6%81%E6%B5%B7%E6%B7%98%E8%BF%99%E6%AC%BE%E8%BF%9E%E8%AF%B4%E6%98%8E%E4%B9%A6%E9%83%BD%E7%9C%8B%E4%B8%8D%E6%87%82%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%88%90%E5%88%86%E5%A4%8D%E6%96%B9%E6%AD%A2%E7%97%9B%E8%8D%AF%E3%80%82%E5%A4%A7%E6%AD%A3%E6%84%9F%E5%86%92%E7%B4%A0%E5%90%8C%E6%A0%B7%E6%9D%A5%E8%87%AA%E6%97%A5%E6%9C%AC%EF%BC%8C%E6%9C%89%E2%80%9C%E6%97%A5%E6%9C%AC%E5%8D%81%E5%A4%A7%E7%A5%9E%E8%8D%AF%E2%80%9D%E7%9A%84%E5%99%B1%E5%A4%B4%E3%80%82%E4%BB%8E%E6%88%90%E5%88%86%E8%AF%B4%E6%98%8E%E6%9D%A5%E7%9C%8B%EF%BC%8C%E8%BF%99%E6%AC%BE%E8%8D%AF%E7%89%A9%E5%90%AB%E6%9C%89%E5%AF%B9%E4%B9%99%E9%85%B0%E6%B0%A8%E5%9F%BA%E9%85%9A%E7%AD%89%E5%B8%B8%E8%A7%84%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E6%88%90%E5%88%86%EF%BC%8C%E4%BD%86%E9%99%A4%E6%AD%A4%E4%B9%8B%E5%A4%96%EF%BC%8C%E8%BF%99%E6%AC%BE%E8%8D%AF%E7%89%A9%E8%BF%98%E5%90%AB%E6%9C%89%E5%85%B6%E4%BB%968%E7%A7%8D%E6%88%90%E5%88%86%E3%80%82%E6%9D%8E%E8%8F%B2%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%B8%80%E4%B8%AA%E8%8D%AF%E5%93%81%E4%B8%AD%E5%A1%9E%E8%BF%9B%E5%8E%BB%E8%BF%99%E4%B9%88%E5%A4%9A%E6%88%90%E5%88%86%EF%BC%8C%E5%85%B6%E5%AE%9E%E6%98%AF%E5%BE%88%E5%B0%91%E8%A7%81%E7%9A%84%EF%BC%8C%E2%80%9C%E6%97%A0%E8%AE%BA%E6%98%AF%E6%88%90%E4%BA%BA%E6%AC%BE%E8%BF%98%E6%98%AF%E5%84%BF%E7%AB%A5%E6%AC%BE%EF%BC%8C%E6%88%91%E9%83%BD%E4%B8%8D%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E9%95%BF%E6%9C%9F%E4%BD%BF%E7%94%A8%E3%80%82%E2%80%9D%E8%AE%B0%E8%80%85%E6%90%9C%E7%B4%A2%E8%B5%84%E6%96%99%E6%97%B6%E5%8F%91%E7%8E%B0%EF%BC%8C%E8%BF%99%E4%BA%9B%E8%8D%AF%E5%93%81%E5%B7%B2%E7%BB%8F%E5%9C%A8%E5%9B%BD%E5%86%85%E6%B5%81%E8%A1%8C%E8%BF%87%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%EF%BC%8C%E9%83%A8%E5%88%86%E7%BD%91%E7%BB%9C%E5%B9%B3%E5%8F%B0%E6%B5%B7%E6%B7%98%E9%80%94%E5%BE%84%E4%BB%8D%E7%84%B6%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%88%B0%E3%80%82%E5%9C%A8EVE%E6%AD%A2%E7%96%BC%E8%8D%AF%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D%E9%A1%B5%E9%9D%A2%EF%BC%8C%E5%BA%95%E9%83%A8%E7%9A%84%E5%B0%8F%E5%AD%97%E9%83%A8%E5%88%86%E6%A0%87%E6%B3%A8%E4%BA%86%E4%B8%99%E6%88%8A%E9%85%B0%E8%84%B2%E7%AD%89%E6%88%90%E5%88%86%EF%BC%8C%E5%A4%A7%E9%83%A8%E5%88%86%E5%86%85%E5%AE%B9%E6%98%AF%E5%B0%86EVE%E6%AD%A2%E7%96%BC%E8%8D%AF%E7%AD%89%E5%90%8C%E4%BA%8E%E5%B8%83%E6%B4%9B%E8%8A%AC%E8%BF%9B%E8%A1%8C%E8%90%A5%E9%94%80%EF%BC%8C%E5%B9%B6%E5%BC%BA%E8%B0%83%E4%B8%8D%E4%BC%A4%E8%82%A0%E8%83%83%E3%80%82%E5%9C%A8%E7%BD%91%E5%8F%8B%E8%AF%84%E4%BB%B7%E4%B8%AD%EF%BC%8C%E8%BF%99%E7%A7%8D%E8%8D%AF%E5%93%81%E7%94%9A%E8%87%B3%E8%A2%AB%E6%89%93%E4%B8%8A%E4%BA%86%E2%80%9C%E5%A5%B3%E7%94%9F%E5%BF%85%E5%A4%87%E2%80%9D%E6%A0%87%E7%AD%BE%EF%BC%8C%E8%AE%B8%E5%A4%9A%E4%BA%BA%E9%83%BD%E5%B0%86%E5%85%B6%E4%BD%9C%E4%B8%BA%E5%B8%B8%E5%A4%87%E8%8D%AF%E5%93%81%E3%80%82%E5%AE%9E%E9%99%85%E4%B8%8A%EF%BC%8C%E5%8F%AA%E8%A6%81%E4%BB%94%E7%BB%86%E9%98%85%E8%AF%BB%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D%E5%B0%B1%E4%BC%9A%E5%8F%91%E7%8E%B0%EF%BC%8C%E5%8D%96%E5%AE%B6%E8%87%AA%E5%B7%B1%E4%B9%9F%E6%A0%87%E6%B3%A8%E4%BA%86%E2%80%9C%E4%B8%8D%E5%8F%AF%E4%BB%A5%E9%95%BF%E6%9C%9F%E4%BD%BF%E7%94%A8%E2%80%9D%E3%80%82%E5%9C%A8%E6%97%A5%E6%9C%AC%EF%BC%8CEVE%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%B1%9E%E4%BA%8E%E7%AC%AC%E4%BA%8C%E7%B1%BB%E8%8D%AF%E5%93%81%EF%BC%8C%E5%8D%B3%E5%89%AF%E4%BD%9C%E7%94%A8%E5%8F%AF%E8%83%BD%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%EF%BC%8C%E5%8F%AA%E8%83%BD%E5%9C%A8%E8%BF%9B%E8%A1%8C%E8%BF%87%E9%94%80%E5%94%AE%E7%99%BB%E8%AE%B0%E7%9A%84%E8%8D%AF%E5%BA%97%E9%94%80%E5%94%AE%EF%BC%8C%E5%B9%B6%E7%94%B1%E8%8D%AF%E5%89%82%E5%B8%88%E8%AF%A6%E7%BB%86%E8%A7%A3%E9%87%8A%E7%94%A8%E6%B3%95%E5%8F%8A%E5%89%AF%E4%BD%9C%E7%94%A8%E5%90%8E%E6%89%8D%E8%83%BD%E9%94%80%E5%94%AE%EF%BC%8C%E7%A6%81%E6%AD%A2%E9%82%AE%E8%B4%AD%E5%92%8C%E7%BD%91%E7%BB%9C%E9%94%80%E5%94%AE%E3%80%82%E8%BF%91%E5%B9%B4%E6%9D%A5%EF%BC%8C%E5%AF%B9%E4%BA%8E%E6%89%80%E8%B0%93%E7%9A%84%E2%80%9C%E7%BD%91%E7%BA%A2%E7%A5%9E%E8%8D%AF%E2%80%9D%EF%BC%8C%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E3%80%81%E7%A7%91%E6%99%AE%E4%B8%AD%E5%9B%BD%E3%80%81%E6%96%B0%E4%BA%AC%E6%8A%A5%E7%AD%89%E8%87%AA%E5%AA%92%E4%BD%93%E5%92%8C%E5%AA%92%E4%BD%93%E9%83%BD%E6%9B%BE%E5%8F%91%E6%96%87%E6%8F%90%E9%86%92%E5%A4%A7%E5%AE%B6%EF%BC%8C%E5%BA%94%E5%AF%B9%E5%9B%BD%E5%A4%96%E2%80%9C%E7%A5%9E%E8%8D%AF%E2%80%9D%E8%A6%81%E5%A4%9A%E4%B8%80%E4%BB%BD%E8%AD%A6%E6%83%95%E5%92%8C%E7%90%86%E6%80%A7%E3%80%82%E5%9C%A8%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%EF%BC%8C%E4%B9%9F%E6%9C%89%E4%B8%80%E4%BA%9B%E7%BD%91%E5%8F%8B%E4%BD%BF%E7%94%A8EVE%E6%AD%A2%E7%96%BC%E8%8D%AF%E5%90%8E%E5%87%BA%E7%8E%B0%E4%BA%86%E7%B4%AB%E7%99%9C%E7%AD%89%E7%97%87%E7%8A%B6%EF%BC%8C%E6%8F%90%E9%86%92%E5%A4%A7%E5%AE%B6%E8%B0%A8%E6%85%8E%E4%BD%BF%E7%94%A8%E3%80%82%E5%9C%A8%E5%AE%B6%E5%BA%AD%E7%94%A8%E8%8D%AF%E6%96%B9%E9%9D%A2%EF%BC%8C%E6%88%91%E4%BB%AC%E5%9C%A8%E3%80%8A%E8%BD%AC%E9%98%B4%E4%BA%86%E8%BF%98%E5%9C%A8%E5%92%B3%EF%BC%9F%E5%9B%A4%E4%BA%86%E8%8D%AF%E4%B8%8D%E7%9F%A5%E5%92%8B%E7%94%A8%EF%BC%9F%E8%BF%99%E4%B8%AA%E5%AE%B6%E5%BA%AD%E7%94%A8%E8%8D%AF%E6%8C%87%E5%8D%97%E5%88%AB%E9%94%99%E8%BF%87%E3%80%8B%EF%BC%88%E7%82%B9%E5%87%BB%E6%9F%A5%E7%9C%8B%EF%BC%89%E4%B8%80%E6%96%87%E4%B8%AD%EF%BC%8C%E5%B7%B2%E7%BB%8F%E4%BB%8B%E7%BB%8D%E8%BF%87%E7%94%A8%E8%8D%AF%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%87%A0%E4%B8%AA%E5%8E%9F%E5%88%99%EF%BC%8C%E6%AF%94%E5%A6%82%EF%BC%9A%E5%BD%93%E5%8F%AA%E5%87%BA%E7%8E%B0%E5%8D%95%E4%B8%80%E7%97%87%E7%8A%B6%E6%97%B6%EF%BC%8C%E5%8F%AF%E9%80%89%E7%94%A8%E5%90%AB%E6%9C%89%E5%8D%95%E4%B8%80%E6%9C%89%E6%95%88%E6%88%90%E5%88%86%E7%9A%84%E8%8D%AF%E7%89%A9%E5%AF%B9%E7%97%87%E6%B2%BB%E7%96%97%EF%BC%9B%E5%BD%93%E5%A4%9A%E4%B8%AA%E7%97%87%E7%8A%B6%E5%90%8C%E6%97%B6%E5%87%BA%E7%8E%B0%EF%BC%8C%E5%8F%AF%E9%92%88%E5%AF%B9%E7%97%87%E7%8A%B6%E9%80%89%E6%8B%A9%E5%90%AB%E6%9C%89%E7%9B%B8%E5%BA%94%E6%9C%89%E6%95%88%E6%88%90%E5%88%86%E7%BB%84%E5%90%88%E7%9A%84%E5%A4%8D%E6%96%B9%E5%88%B6%E5%89%82%E3%80%82%E7%9B%AE%E5%89%8D%E5%AE%98%E6%96%B9%E4%B9%9F%E5%B7%B2%E6%8E%A8%E5%87%BA%E3%80%8A%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E8%80%85%E7%94%A8%E8%8D%AF%E7%9B%AE%E5%BD%95%EF%BC%88%E7%AC%AC%E4%B8%80%E7%89%88%EF%BC%89%E3%80%8B%EF%BC%8C%E5%A4%A7%E5%AE%B6%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9C%80%E8%A6%81%E8%B4%AD%E4%B9%B0%E6%9C%8D%E7%94%A8%E3%80%82%E7%8E%8B%E6%97%AD',
-
-  link:'https://wap.xinmin.cn/content/'+ext_before+'.html',
-
-  LiveUrl:'',
-
-  upvoteState:'1',
-
-  unixtime:'1672622822',
-
-  isLiveFlag:'0',
-
-  liveVideoType:'0'
-
+window.onscroll=function(){
+    var t=document.documentElement.scrollTop||document.body.scrollTop;
+    var div2=document.getElementById("news-topshare");
+    if(t>= 150){
+        div2.className = "news-topshare-fixed";
+    }else{
+        div2.className = "news-topshare";
+    }
 };
 
-</script>
 
-<script language="javascript" src="//wap.xinmin.cn/assets/m/js/common.js"></script>
 
-<script language="javascript" src="//wap.xinmin.cn/assets/m/js/content.js"></script>
-
-<script language="javascript" src="//wap.xinmin.cn/assets/m/js/content_others.js"></script>
-
-<script>
-
-if($.Browser().versions.isappios){
-
-  // ios app
-
-  if(CheckAppVer()){
-
-    // 版本号7.0.0以上含7.0.0
-
-    
-    $('#voice-pic').css('display','inline-block');
-
-    
-    // PlayStatus(2);//默认进来关闭
-
-    $('#voice-pic').click(function(){
-
-      PlayOrPause('ios');
-
+    $(document).ready(function(){
+         $(".yx-topic-list-slider").yx_rotaion({auto:true,focus:false,width:295,height:150});
+         $("img.ll").lazyload({'src':'data-f'});
     });
-
-  }
-
-}else if($.Browser().versions.isappandroid){
-
-  // android app
-
-  if(CheckAppVer()){
-
-    // 版本号7.0.0以上含7.0.0
-
-    
-    $('#voice-pic').css('display','inline-block');
-
-    
-    // PlayImgStatus(2);
-
-    $('#voice-pic').click(function(){
-
-      PlayOrPause('andriod');
-
-    });
-
-  }
-
-}
-
-
-
-if($.Browser().versions.isxmapp && $.checkVer(800)){
-
-  $('#voice-pic').hide();
-
-}
-
-</script>
-
-
-
-<!-- share -->
-
-<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
-
-<script>
-
-var WcsParams = {
-
-  tit : JsParams.title_txt,
-
-  des : JsParams.des_txt,
-
-  url : JsParams.this_url,
-
-  imgUrl : JsParams.share_img_url
-
-}
-
-</script>
-
-<!-- <script src="https://img0.xinmin.cn/web/xinmin/2018/js/wechatshare.js"></script>  -->
-
-<script src="https://wap.xinmin.cn/assets/m/js/wechatshare.js"></script> 
-
-<!-- share/ -->
-
-
-
-<!-- 深度链接 -->
-
-
-
-
-
-
-
-
-
-
-<script>
-
-var deep_params = {
-
-  contentId : JsParams.contentId,
-
-  contentIndexId : JsParams.contentIndexId,
-
-  link : JsParams.link,
-
-  iosLiveUrl : JsParams.LiveUrl.replace('http://','rtmp://').replace('https://','rtmp://').replace('.m3u8',''),
-
-  LiveUrl : JsParams.LiveUrl.replace('http://','rtmp://').replace('https://','rtmp://').replace('.m3u8',''),
-
-  commentState : JsParams.commentState,
-
-  upvoteState : JsParams.upvoteState,
-
-  title_txt : JsParams.title_txt,
-
-  thumbnail : JsParams.share_img_url,
-
-  unixtime : JsParams.unixtime,
-
-  des_txt : '飞入寻常百姓家.',
-
-  des_txt_code : '',
-
-  isLiveFlag : JsParams.isLiveFlag,
-
-  liveVideoType : JsParams.liveVideoType,
-
-  content_text : JsParams.content_text,
-
-  content_text_code : JsParams.content_text_code,
-
-  image : JsParams.image_url,
-
-  deep_type : 'xinmin',
-
-  ios_type : 'news',
-
-  haibaoShare : '1',
-
-  isVideo : '0',
-
-  video : ''
-
-}
-
-// console.log(DeepParams);
-
-</script>
-
-<script src="//wap.xinmin.cn/assets/m/js/xm_deep.js"></script> 
-
-<script type="text/javascript">
-
-$('#app-banner').click(function(e){
-
-  // alert('ok1')
-
-  // alert(window.navigator.userAgent);
-
-  // var agent_to_lower = window.navigator.userAgent.toLowerCase();
-
-  var agent_to_lower = window.navigator.userAgent.toLowerCase();
-
-  // if(agent_to_lower.indexOf('micromessenger')>-1 || (agent_to_lower.indexOf('iphone')>-1&&agent_to_lower.indexOf('qq')>-1)){
-
-  // if(window.navigator.userAgent.toLowerCase().indexOf('micromessenger')>-1){
-
-  if(agent_to_lower.indexOf('micromessenger')>-1 || agent_to_lower.indexOf('safari')>-1 || (agent_to_lower.indexOf('iphone')>-1&&agent_to_lower.indexOf('qq')>-1)){
-
-    // 微信&iphone的qq
-
-    // e.preventDefault();
-
-    // alert('ok3');
-
-    xmContentDeeplink(deep_params);
-
-  }     
-
-});
-
-</script>
-
-<!-- 深度链接/ -->
-
-
-
-<script>
-
-$('#article-content img').click(function(){
-
-  var _this = $(this);
-
-  var that = this;
-
-  var content_imgs = '["https:\/\/pic0.xinmin.cn\/xmwb\/2023\/01\/02\/ab118889-990e-4add-b69e-79962b420560.jpg","https:\/\/pic0.xinmin.cn\/xmwb\/2023\/01\/02\/2c5fee24-1d54-402b-a908-e0f765db5166.jpg","https:\/\/pic0.xinmin.cn\/xmwb\/2023\/01\/02\/ff3929c8-9f96-4724-bc16-53179ee76a57.jpg"]';
-
-  var current_index = $('#article-content p img').index(_this);
-
-  // console.log(jQuery.parseJSON(content_imgs))
-
-
-
-  if($.Browser().versions.isappandroid){
-
-    if(!_this.parent('a').prop('href')){
-
-      if(window.xinminUserInterface){
-
-        window.xinminUserInterface.contentAlbum(content_imgs, current_index);
-
-      }
-
-    }
-
-  }
-
-
-
-  if($.Browser().versions.isappios){
-
-    if(!_this.parent('a').prop('href')){
-
-      loadURL("contentAlbum://contentAlbum###"+content_imgs+"###"+current_index);
-
-    }
-
-  }
-
-  
-
-});
-
-
-
-$('#article-content video').height($('#article-content video').width()*9/16)
-
-</script>
-
-
-
-<script type="text/javascript">
-
-  var _xinminaq = _xinminaq || [];_xinminaq.push('t5=32290616','t6=30548703');(function() {var u = "//tongji.xinmin.cn/";var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.type='text/javascript'; g.src=u+'stat-p-1.0.1.min.js'; s.parentNode.insertBefore(g,s);})();
-
-
-
-</script>
-
-
-
-<!-- 流量统计代码 start-->
-
-<div style="display:none">
-
-    <!--百度统计-->
-
-    <script type="text/javascript">
-
-    var _hmt = _hmt || [];
-
-    (function() {
-
-      var hm = document.createElement("script");
-
-      hm.src = "https://hm.baidu.com/hm.js?8ab7263c9280868f0c3ef17366bf585a";
-
-      var s = document.getElementsByTagName("script")[0]; 
-
-      s.parentNode.insertBefore(hm, s);
-
-    })();
-
-    </script>
-
-    <!--百度统计-->
-
-    
-    <script>
-
-    window["ItsmoreAnalytics"]={SiteId:"201709070869",ContentId:"30548703"};
-
-    (function () {
-
-      var url = (("https:" == document.location.protocol) ? " https://a.itsmore.cn" : " http://a.itsmore.com") + "/?_=" + (new Date()).getTime();
-
-      var script = "script";
-
-      var f = document.getElementsByTagName(script)[0],j = document.createElement(script);
-
-      j.async = true;
-
-      j.src = url;
-
-      f.parentNode.insertBefore(j, f);
-
-    })();
-
-    </script>
-
-    
-    <!--cnzz统计代码 start-->
-
-    <script type="text/javascript">
-
-    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-
-    document.write(unescape("%3Cspan id='cnzz_stat_icon_1253710412'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "w.cnzz.com/q_stat.php%3Fid%3D1253710412' type='text/javascript'%3E%3C/script%3E"));
-
-    </script>
-
-    <!--cnzz统计代码 end-->
-
-</div>
-
-<!-- 流量统计代码 end-->
-
-
-
-<!-- 广告代码20190227 新民app之外并且稿件广告状态为开放时，呈现-->
-
-
-<div>
-
-</div>
-
-
-<!-- 广告代码/ -->
-
-
-
-</body>
-
-</html>
+    </script><script src="//stats.bandao.cn/stats.php"></script><script src="//stats.bandao.cn/stats.php"></script></body></html>

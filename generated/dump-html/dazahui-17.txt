@@ -1,1 +1,146 @@
+<!DOCTYPE html><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="bizStatistics" data-biz-id="10009" data-module-id="page" data-view-id="120999" />
+	<title>新版终极页_17173.com中国游戏门户站</title>
+<!--globalHeadBegin-->
 
+
+
+
+
+
+
+<link rel="dns-prefetch" href="//ue.17173cdn.com/" />
+<link type="image/x-icon" rel="icon" href="//ue.17173cdn.com/images/lib/v1/favicon-hd.ico" />
+<link type="image/x-icon" rel="shortcut icon" href="//ue.17173cdn.com/images/lib/v1/favicon.ico" />
+<script>window.pandora = {overOldPandora:true}</script>
+<script src="//ue.17173cdn.com/a/lib/slimemolds/production/js/bootstrap.js"></script>
+<script type="text/javascript">
+dsm.setConfig({
+  biEnable: true
+});
+</script>
+
+
+
+  
+	<meta name="description" content="新版终极页,17173.com中国游戏门户站" />
+	<meta name="keywords" content="test" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="pagespec-version" content="page-v01" />
+	<link rel="stylesheet" href="//ue.17173cdn.com/a/lib/reset-2.2.css" />
+	<link href="//ue.17173cdn.com/a/lib/article/article-news-v2.css" rel="stylesheet" type="text/css" />
+	<link href="//ue.17173cdn.com/a/news/test/final/2021v3/css/index.css?v202205101812" rel="stylesheet" />
+	<script src="//ue.17173cdn.com/a/lib/jquery-1.11.1.min.js"></script>
+  
+
+
+<link href="//ue.17173cdn.com/cache/lib/v1/topnav-1.0/global-topbar.css?20120615" rel="stylesheet" type="text/css" id="css-gtp" />
+
+
+
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/vda/seed.js"></script>
+
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/v4/pandora2.js?t=202109141809"></script>
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/v5/sjs/sjs.js?t=202109131413"></script>
+<script>
+  if(location.href === '//news.17173.com/tag/%E6%AC%A1%E4%B8%96%E4%BB%A3'){
+    location.href = '//news.17173.com/channel/csd/'
+  }
+</script>
+</head>
+<body class="page-type-index" data-bi="QNJNrm">
+<!-- -->
+
+	
+	<iframe src="//newgame.17173.com/info/20211116/crossls.shtml" frameborder="0" id="crosslsiframe" width="0" height="0" style="display: none; overflow: hidden;"></iframe>
+	<div class="gb-final-wrap">
+		<!-- 左侧 -->
+		<div class="gb-final-side">
+			<div class="gb-final-nav-main">
+				<a href="http://news.17173.com/" class="gb-final-nav-current">综合</a>
+				<a href="http://top.17173.com/" data-categoryids="262110" data-channelcode="90117">新游</a>
+				<a href="http://www.shouyou.com/" data-categoryids="263171,263515" data-channelcode="10009">手游</a>
+				<a href="http://news.17173.com/dalu/" data-categoryids="10019" data-channelcode="10009">大陆</a>
+				<a href="http://news.17173.com/quanqiu/" data-categoryids="10152,57184,52764,27060" data-channelcode="10009">全球</a>
+				<a href="https://newgame.17173.com/game-demolist.html?platform=pc" data-categoryids="203668" data-channelcode="90117">评测</a>
+			</div>
+			<div class="gb-final-news-list" data-mod="新闻列表"></div>
+			<div class="gb-final-float">
+				<a href="https://app.17173.com/#utm_source=news_kuai" target="_blank" class="gb-final-app-code">
+					<div class="ico-app"></div>
+					<div class="tit">下载APP</div>
+					<div class="code">
+						<img src="//ue.17173cdn.com/a/news/test/final/2021v3/img/173APP_NewsKuai.png" alt="下载APP" />
+					</div>
+				</a>
+				<a href="#comment" class="btn-goto-comment gb-final-bt-to-comment">
+					<i class="ico-cmt"></i>
+					<span class="comment-count" data-role="amount">0</span>
+				</a>
+			</div>
+		</div>
+		<!-- end 左侧 -->
+		<div class="gb-final-content">
+			<!-- 正文 -->
+			<div class="gb-final-main">
+				<div class="gb-final-mod-crumbs"></div>
+				<div id="article"></div>
+			</div>
+			<!-- end 正文 -->
+			
+<div class="global-footer">
+	<a href="http://about.17173.com/" target="_blank">&#x5173;&#x4E8E;17173</a> |
+	<a href="http://about.17173.com/join-us.shtml" target="_blank">&#x4EBA;&#x624D;&#x62DB;&#x8058;</a> |
+	<a href="http://marketing.17173.com" target="_blank">&#x5E7F;&#x544A;&#x670D;&#x52A1;</a> |
+	<a href="http://about.17173.com/business-cooperate.shtml" target="_blank">&#x5546;&#x52A1;&#x6D3D;&#x8C08;</a> |
+	<a href="http://about.17173.com/contact-us.shtml" target="_blank">&#x8054;&#x7CFB;&#x65B9;&#x5F0F;</a> |
+	<a href="https://club.17173.com/help" target="_blank">&#x5BA2;&#x670D;&#x4E2D;&#x5FC3;</a> |
+	<a href="http://about.17173.com/site-map.shtml" target="_blank">&#x7F51;&#x7AD9;&#x5BFC;&#x822A;</a> <br />
+	<span class="copyright">Copyright &copy; 2001-2023 17173. All rights reserved.</span>
+</div>
+<script type="text/javascript">
+(function() {
+    if (/Android|iPhone|SymbianOS|Windows Phone|iPod/gi.test(navigator.userAgent) && window.$) {
+        $('.global-footer a:last').after(' | <a href="javascript:;" onclick="var date = new Date();date.setTime(date.getTime() - 10086);document.cookie = \'__stay_on_pc=1;domain=.17173.com;path=/; expires=\' + date.toUTCString() + \';\';location.hash=\'\';location.reload(true);">\u79fb\u52a8\u7248</a>');
+    }
+})()
+</script>
+
+
+		</div>
+		<a href="javascript:;" class="btn-version">切换到旧版本 <div class="version-guide js-guide"></div></a>
+	  <div class="version-guide-mask js-guide"></div>
+	</div>
+	<script type="text/javascript" src="//ue.17173cdn.com/a/module/tg-widget/source/game-top/v1-2/index.js?v=2018"></script>
+	<script type="text/javascript" src="//ue.17173cdn.com/a/news/test/final/2021v4/js/index.js?v20221108"></script>
+
+
+
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/passport/v2/js/passport.js?202109071538"></script>
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/topbar/v3/js/index.js?202211091650"></script>
+<script type="text/javascript">
+    advConfigs.loadConfigFile('https://s.17173cdn.com/global/global.js');
+</script>
+
+
+
+<script type="text/javascript" src="//www.17173.com/2014/new/shouyoushanwan.js"></script>
+
+<script type="text/javascript">
+    advConfigs.loadConfigFile('https://ue.17173cdn.com/a/lib/vda/routes/global.js');
+</script>
+<!-- START 17173 Site Census -->
+<script type="text/javascript" src="//js.17173.com/ping.js?202202211601"></script>
+<!-- END 17173 Site Census -->
+<script type="text/javascript" src="//ue.17173cdn.com/cache/lib/v2/odvmonitor/lp.min.js"></script>
+<script type="text/javascript" src="//ue.17173cdn.com/a/lib/global/weixinsdk.js?v=43"></script>
+
+
+<!--help ref-->
+<script type="text/javascript">var helpTimerFlag=false;setTimeout(function(){helpTimerFlag=true},3000);var helpSucFun=function(){document.querySelectorAll('[href*="club.17173.com/help"]')&&document.querySelectorAll('[href*="club.17173.com/help"]').forEach(function(e){e.setAttribute("href","https://club.17173.com/help?customInfo="+encodeURIComponent(location.href))})};var helpTimer=setInterval(function(){if(document.querySelector(".topbar-help-link")){helpSucFun();clearInterval(helpTimer)}else{if(helpTimerFlag){helpSucFun();clearInterval(helpTimer)}}},50);</script>
+<script type="text/javascript">
+	advConfigs.loadConfigFile('//s.17173cdn.com/qiyu/index.js');
+</script>
+<script type="text/javascript">Passport.defaultOption.mobileBindOn=false</script>
+
+</body></html>

@@ -1,610 +1,1031 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta https-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-		<title>æ¯æ¬¡åƒä¸€æŠŠè¯ç‰‡ï¼Ÿè¯·å°å¿ƒâ€œå¤šé‡ç”¨è¯â€çš„é£é™©_å‚è€ƒæ¶ˆæ¯ç½‘</title>
-		<meta name="keywords" content="Array" />
-		<meta name="description" content="é™å‹çš„ã€é™ç³–çš„ã€é™è¡€è„‚çš„ã€æ²»ç–—å¤´ç–¼æˆ–çƒ§å¿ƒçš„ï¼Œè¿˜æœ‰å„ç§ç»´ç”Ÿç´ ç‰‡ã€é’™ç‰‡â€¦â€¦è°è¿˜æ²¡åŒæ—¶åƒè¿‡å‡ ç§è¯å‘¢ï¼Ÿä½†ä¸“å®¶è­¦å‘Šè¯´ï¼Œè¿™ç§â€œå¤šé‡ç”¨è¯â€è®©äººæ›´å®¹æ˜“å—åˆ°è¯ç‰©ç›¸äº’ä½œç”¨çš„æœ‰å®³å½±å“ï¼Œç‰¹åˆ«æ˜¯å¯¹ç™Œç—‡æ‚£è€…å’Œè€å¹´äººæ¥è¯´ã€‚" />
-		<link href="//img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/mobile_150708.css" type="text/css" rel="stylesheet"/>
-		<script type='text/javascript' src='//img.cankaoxiaoxi.com/js/lib/jquery.js'></script>
-        <script src="//img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/nativeShare.js"></script>
-		<script type="text/javascript" src="//img.cankaoxiaoxi.com/templates/cankaoxiaoxi/js/mbart.js" ></script>
-        <script src="http://res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
-        <script type="text/javascript" src="http://www.cankaoxiaoxi.com/test/touch/js/hammer.min.js"></script>
-		<base target="_blank">
-        <script>
-        var _hmt = _hmt || [];
-        (function() {
-          var hm = document.createElement("script");
-          hm.src = "//hm.baidu.com/hm.js?5143eafec4b1937cb9b23c20f3de8f4d";
-          var s = document.getElementsByTagName("script")[0]; 
-          s.parentNode.insertBefore(hm, s);
-        })();
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[622,1,74419] published at 2011-03-02 15:02:33 from #236 by 1421-->
+<!-- LLTJ_MT:name ="ÓÎÍ§Òµ" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<title>ÏòÍâ×ß È«ÇòÓÎÍ§Õ¹¹ºÂò¹¥ÂÔ_ÉĞÆ·ÆµµÀ_ĞÂÀËÍø</title>
+<meta name="Keywords" content="ÓÎÍ§¹ºÂò,ÓÎÍ§ĞëÖª,ÓÎÍ§¿ÎÌÃ,ÓÎÍ§ÖªÊ¶,ÏòÍâ×ß È«ÇòÓÎÍ§Õ¹¹ºÂò¹¥ÂÔ" />
+<meta name="Description" content="ÏòÍâ×ß È«ÇòÓÎÍ§Õ¹¹ºÂò¹¥ÂÔ" />
+<meta name="tagwords" content="">
+<meta name="publishid" content="622,1,74419">
 
-        var more_state=0;
-        $(function(){
-            $('nav.nav_line a.more').click(function(){
-                $('.nav_rect').toggle();
-                more_state?$("nav.nav_line a.more").css({"backgroundImage":"url(http://upload.cankaoxiaoxi.com/2016/0818/1471506867789.png)", "display":"block"}):$("nav.nav_line a.more").css({"backgroundImage":"url(http://upload.cankaoxiaoxi.com/2016/0818/1471507191537.png)", "display":"block"});
-                more_state = !more_state;
-            });
-            
-            var x = document.getElementById("nav_pan").offsetLeft;
-            var hammertime = new Hammer(document.getElementById("nav_pan"));
-            hammertime.on("pan", function (e) {
-                var l=document.getElementById("nav_pan").offsetLeft;
+<meta name="mediaid" content="ÓÎÍ§Òµ">
+<script type="text/javascript" src="http://i3.sinaimg.cn/home/sinaflash.js"></script>
 
-                if(e.isFinal){
-                    if(l+e.deltaX<0 && document.getElementById("nav_pan").offsetWidth+ l+20+e.deltaX -document.getElementById("nav_line").offsetWidth>0){
-                        $("#nav_pan").css({"left":x+e.deltaX});
-                    }else if(l+e.deltaX>0){
-                        $("#nav_pan").css({"left":0});
-                    }else{
-                        $("#nav_pan").css({"left":document.getElementById("nav_line").offsetWidth-20-document.getElementById("nav_pan").offsetWidth});
-                    }
-                    x = document.getElementById("nav_pan").offsetLeft;
-                }else{
-                    $("#nav_pan").css({"left":x+e.deltaX});
-                }
-                return false;
-            })
-        });
-        </script>
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+document.domain = "sina.com.cn";
+//]]>
+</script>
+<style>
+/* ³õÊ¼»¯ */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,address{margin:0;padding:0;}
+fieldset,img{border:none;}
+address,caption,cite,code,dfn,th,var{font-style:normal;font-weight:normal;}
+ul,ol{list-style:none;}
+select,input{vertical-align:middle;}
+select,input,textarea{font-size:12px;}
+table{border-collapse:collapse;border-spacing:0;font-size:inherit;}
+body{background:#fff;color:#333;font:12px/20px Arial,'ËÎÌå', sans-serif;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
 
-                <style>
-            body>span, body>a {display:none;}
-            .ov {overflow:hidden;}
-            .content {margin-top:10px;}
-            .content p span{ text-align:justify; line-height:18px; margin-bottom:8px;}
-            .content p.img_area {margin-top:8px;}
-            .waidi {display:none;}
+.clearfix:after{content:'\0020';display:block;height:0;clear:both;}
+.clearfix{zoom:1;}
 
-			.nav_rect a{width: 19.58%;height:50px;}
-            header {border-bottom:1px solid #eee; height:auto; padding:8px 0 0;}
-            header .share {display:none;}
-            nav.nav_line {height:0.88rem; width:100%; position:relative; background:#fff;}
-            #nav_pan {padding-left:0.3rem; height:100%; position:absolute; padding-right:1rem;}
-            #nav_pan a {line-height:0.88rem; color:#666; font-size:0.34rem; margin-right:0.34rem;}
-            #nav_pan a:last-child, nav.nav_rect a:last-child {margin-right:0;}
-            #nav_pan a.active {color:#c33; font-size:0.36rem; font-weight:bold;}
-            nav.nav_line a.more {display:block; top:0; width:20px; height:0.88rem; background: url(http://upload.cankaoxiaoxi.com/2016/0818/1471506867789.png)#fff 50% center/40% no-repeat; position:absolute; padding:0 0.25rem; right:0;}
-            nav.nav_rect {height:4rem; background-color:#eee;padding-left:0.24rem; position:relative; display:none;}
-            nav.nav_rect a {font-size:0.32rem; line-height:1.1rem; color:#666; margin-right:0.35rem; float:auto; background:none; display:inline;}
+a{color:#333;text-decoration:none;outline:none;}
+a:hover, a:active{color:#f00;text-decoration:underline;}
 
-            nav.nav_rect span {position:absolute; width:0.38rem; height:0.14rem; top:-0.12rem; right: 4%; background:url(http://upload.cankaoxiaoxi.com/2016/0819/1471569722312.png) 0 0 no-repeat;}
-        </style>	
-        
-	
-	</head>
-	<body>
-		<header class="ov">
-			<div class="ov logo">
-				<a href="http://m.cankaoxiaoxi.com/" title = "å‚è€ƒæ¶ˆæ¯"><img src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/mobile/logo_140825.png" height="30" alt="å‚è€ƒæ¶ˆæ¯" /></a>
+.wrap{margin:0 auto;width:950px;}
+.fl{float: left;}
+.fr{float: right;}
+.gray{color: #bbb;}
+.hide{display: none;}
+
+/*-----------------------------------------------------------------*/
+
+/*Í·²¿*/
+.mini_nav{line-height: 34px;}
+.mini_nav a{margin: 0 2px;}
+.head{width: 100%;height: 148px;_overflow: hidden;background: url(http://i1.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_02.png) repeat;}
+.head_btm_bar{height: 22px;background: #e2e2e2;}
+#logo{float: left;width: 80px;height: 80px;margin-top: 25px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) 0 -40px no-repeat;text-indent: -9999px;}
+#logo a{display: block;width: 80px;height: 80px;}
+
+/*2010/6/25*/
+.article_page .head{height: 119px;background-image: url(http://i1.sinaimg.cn/lx/deco/2010/0628/sw_yc_11.png);}
+.article_page #logo{background: url(http://i2.sinaimg.cn/lx/deco/2010/0628/sw_yc_12.png) 0 0 no-repeat;}
+
+/*µ¼º½*/
+.nav_box{width: 100%;height: 58px;background: url(http://i1.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_06.png) 0 -260px repeat-x;}
+.nav_box .wrap{width: 948px;background: url(http://i1.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_06.png) 0 -187px no-repeat;}
+
+.nav{width: 948px;height: 58px;margin: auto;background: url(http://i1.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_06.png) 0 0 no-repeat;}
+.nav li{position: relative;float: left;}
+.nav li .box_info {position:absolute;visibility: hidden;left:0; top:33px;width: 350px;height: 25px;;line-height: 25px;}
+.nav .current .box_info {visibility: visible;}
+
+.nav .current .main_menu {background-image: url(http://i1.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_06.png);}
+
+.nav li .main_menu{float: left;height: 33px;text-indent: -9999px;}
+
+.nav a{color: #fff;}
+.nav .li_ie6:hover{text-decoration: none;}
+.nav .box_info a {margin: 0 2px;padding: 1px 5px;}/*2010/6/3*/
+.nav .box_info .location{border: 1px solid #204763;background: #0c1e2b;}/*2010/6/3*/
+
+.nav .main_menu1{width: 71px;}
+.nav .main_menu2{width: 80px;}
+.nav .main_menu3{width: 108px;}
+.nav .main_menu4{width: 116px;}
+.nav .main_menu5{width: 114px;}
+.nav .main_menu6{width: 112px;}
+.nav .main_menu7{width: 116px;}
+.nav .main_menu8{width: 113px;}
+.nav .main_menu9{width: 118px;}
+
+.nav .main_menu1{background-position: 0 -100px;}
+.nav .main_menu2{background-position: -71px -100px;}
+.nav .main_menu3{background-position: -151px -100px;}
+.nav .main_menu4{background-position: -259px -100px;}
+.nav .main_menu5{background-position: -375px -100px;}
+.nav .main_menu6{background-position: -489px -100px;}
+.nav .main_menu7{background-position: -601px -100px;}
+.nav .main_menu8{background-position: -717px -100px;}
+.nav .main_menu9{background-position: -830px -100px;}
+
+/*ÉĞÎÄ»Ø¹Ë °´ÈÕÆÚ*/
+.date_box{position: relative;top:-18px;right:-20px;float: right;width: 444px;height: 155px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) 0 -140px no-repeat;color: #999;}
+.date_list{display: inline;float: left;width: 126px;margin: 10px 0 0 20px;text-align: center;}
+.date_box .day{display: block;font:72px/80px  Arial, sans-serif;color: #fff;}
+.date_box .year{position: relative;z-index:3;width: 90px;margin: auto;color: #fff;}
+.date_box .year .year_txt{float: left;margin-right: 3px;}
+.date_box .icon_date{float: left;width: 14px;height: 14px;margin-top: 2px;cursor: pointer;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -340px -120px no-repeat;}
+.date_box a{color: #fff;}
+
+/*ÈÕÆÚ¿Ø¼ş*/
+.date_widget_bg{display: none;position: absolute;left:90px;top:4px;z-index:9;width: 248px;height: 190px;background: #000;opacity:0.5;filter:alpha(opacity=50)}
+.dateList{display: none;position: absolute;left:86px;top:0;z-index:10;width:242px;padding: 2px;background: #fff;border:1px solid #2b2b2b;text-align:center;color:#686868;}
+#dateTable {padding: 1px;}
+#dateTable table{width: 100%;}
+#dateTable td{width:32px;height:22px;text-align:center;background:#eee;font-size:12px;color:#999;border: 1px solid #fff;*border:0;}
+#dateTable a{display:block;line-height:22px;width:32px;color:#333;text-decoration:none;}
+#dateTable a:visited{color:#333;text-decoration:none;}
+#dateTable a:hover{color:#c00;}
+#dateTable span{display:block;line-height:22px;width:32px;}
+#dateTable .today{border:1px solid #f00;width:30px;line-height:20px;}
+#dateTable .selected{background:#696864;color:#FF9A04!important;}
+.dl_title{font-family: verdana;overflow:hidden;zoom:1;background:#000;margin:2px 2px 0;padding-bottom: 2px;text-align:center;line-height:20px;}
+#preMonth{float:left;color:#fff;text-decoration:none;width:20px;text-align:center;}
+#nextMonth{float:right;color:#fff;text-decoration:none;width:20px;text-align:center;}
+.dl_title .dlt_cont{display: block;margin:auto;color:#fff;font-weight:bold;}
+.dl_day{overflow:hidden;zoom:1;}
+.dl_day dd{width:33px;text-align:center;line-height:19px;float:left;}
+.dateList .sun{color:#FF9A0A;}
+
+.sw_history {position: relative;zoom:1;z-index:1;margin-top: 5px;padding: 0 5px;}
+.sw_history a{width: 12px;height: 20px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -160px -80px no-repeat;text-indent: -9999px;}
+.sw_history .next{background-position: -172px -80px;}
+.sw_history .sw_history_s{position: absolute;left:24px;width: 78px;height: 20px;text-indent: -9999px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -200px -80px no-repeat;}
+
+.date_slide{float: left;width: 265px;}
+
+.date_slide li {float: left;width: 236px;}
+.date_slide li h3{margin: 10px 0;background: none;text-indent: 0;font:16px 'Microsoft YaHei','ºÚÌå',sans-serif;white-space: nowrap;}
+.date_slide li p{text-indent: 24px;}
+.date_slide_box{width: 236px;height: 100px;overflow: hidden;margin:10px auto 0; }
+.date_slide_dot{display: inline;float: right;margin: 12px 20px 0 0;}
+.date_slide_dot_item{width:10px;height:15px;background:url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) no-repeat -260px -120px;cursor:pointer;float:left;}
+.date_slide_dot_on{width:10px;height:15px;background:url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) no-repeat -270px -120px;cursor:pointer;float:left;}
+
+.main{float: left;width: 688px;overflow: hidden;}
+.sidebar{float: right;width: 240px; height:700px}
+
+h4,h5{font:16px 'Microsoft YaHei','ºÚÌå',sans-serif;}
+h2,h3{text-indent: -9999px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -9999em 0 no-repeat;}
+.main h3{width: 170px;height: 34px;margin: 12px 0;}
+.main p,.sidebar p{margin: 5px 10px;line-height: 22px;}
+.sidebar h3{height: 20px;}
+.main h4{margin: 8px 12px;}
+.banner{clear:both;width: 950px;margin: 20px auto;}
+
+/*Í·Ìõ*/
+.headline{height: 450px;background: url(http://i3.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_04.png) 0 0 no-repeat;}
+.headline li{float: left;width: 356px;height: 124px;}
+.headline .hl_box_2,.headline .hl_box_4,.headline .hl_box_6{width: 328px;}
+/*
+.headline .hl_box_3{border: 1px dashed #999;border-width: 1px 1px 0 0;}
+.headline .hl_box_5{border: 1px dashed #999;border-width: 1px 1px 0 0;}
+.headline .hl_box_6{border-top: 1px dashed #999;}*/
+.headline .hl_box_1,.headline .hl_box_2{height: 218px;}
+.hl_box_2 img{display: block;margin: 11px 8px 0 0;}
+
+/*×óÀ¸*/
+.sw_box_1{float: left;width: 688px;margin-top: 10px;}
+.sw_box_1 h2{margin: 15px 0;background-position: 0 -868px;background-repeat:repeat-x;}
+.sw_box_1 h2 span{display: block;height: 26px;margin-left: 70px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -200px -660px no-repeat;}
+.sw_box_1 .sw_subbox{width: 320px;margin: 10px 0;}
+.sw_subbox img{float: left;width: 94px;height: 94px;margin-right: 20px;}
+.main h4 img{float: none;width: auto;height: auto;margin: 0;}/*2010/6/2*/
+.sw_subbox_01{border: 1px dashed #999;border-width: 0 1px 1px 0;}
+.sw_subbox_04{border: 1px dashed #999;border-width:1px 0 0  1px;}
+
+.sw_box_2{background: url(http://i3.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_04.png) -10px -518px no-repeat;}/*2010/6/3*/
+.sw_box_3{float: left;width: 100%;background: url(http://i3.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_04.png) -10px -1090px no-repeat;}
+
+.sw_box_4{width: auto;}
+.sw_box_4 .sw_box_5{width: 688px;height: 127px;background: #f1f1f1;}/*2010/6/3*/
+.sw_box_4 img{float: left;width: 485px;height: 127px;margin-right: 10px;}
+
+.sw_subbox_1{width: 248px;}
+.sw_subbox_2{width: 404px;}
+/*2010/6/2*/
+.sw_subbox_1 li{float: left;width: 100%;margin-top: 15px;padding-bottom: 10px;background: url(http://i3.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_04.png) 0 -1000px no-repeat;}
+.sw_subbox_1 li p{margin: 0 0 0 65px;line-height: 18px;}
+.sw_subbox_1 .nobdr{background: none;}
+/*2010/6/2*/
+.sw_subbox_1 li img{float: left;width: 55px;height: 68px;}
+.sw_subbox_1 li cite{float: right;padding-right: 3px;font:14px  'Microsoft YaHei','ºÚÌå',sans-serif;}
+
+.magazine_box{float: left;width: 260px;margin: 15px 0;}
+.magazine_box .mag_thumb{float: left;margin-right: 15px;text-align: center;}
+.magazine_box .mag_thumb img{display: block;width: 114px;height: 152px;margin-bottom: 5px;}
+.magazine_box h4{margin-top: 0;}
+.magazine_box p{line-height: 18px;}
+
+.magazine_list{float: right;width: 410px;margin: 10px 0;}
+.magazine_list li{background: url(http://i3.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_04.png) 0 -1059px repeat-x;line-height: 16px;padding: 5px 0;}/*2010/6/3*/
+.magazine_list li img{display: block;float: left;margin: 2px 10px 0 0;}
+
+/*ÓÒ²àÀ¸*/
+/*ËÑË÷*/
+.sw_search {width: 240px;margin:10px auto;}
+.sw_search .sw_kw{width: 176px;height: 18px;line-height: 18px;padding: 2px;border: 1px solid #aaa;}
+.sw_search .sw_sb{width: 54px;height: 24px;padding: 2px;border: 1px solid #d0d0d0;background: #063251;color: #fff;cursor: pointer;}
+
+.side_box_1{margin-top: 40px;}
+.side_box_1 h3{margin: 5px 0;}
+.today_num{width: 160px;height: 36px;line-height: 36px;margin: -22px 0 0 80px;background: #052c48;color: #fff;font-size: 48px;font-family: Arial;}
+
+.side_tops{margin-top: 12px;}
+.side_tops span{line-height: 12px;margin-right: 3px;padding: 0px 4px;background: #f6f6f6;border: 1px solid #ebebeb;color: #707070}
+.side_tops li{margin: 9px 0;}
+
+.side_box_1 .video_box{height: 188px;}
+
+.side_box_2{display: block;height: 56px;margin-top: 10px;border: 1px solid #fff;padding: 3px;line-height: 18px;}
+.side_box_2:hover{border-color: #cdcdcd;background: #f1f1f1;text-decoration: none;color: #333;}
+.side_box_2 img{float: left;width: 55px;height: 55px;margin-right: 5px;}
+.side_box_2 .h4{display: block;font: bold 14px 'Microsoft YaHei','ºÚÌå',sans-serif;line-height: 14px;padding-bottom: 5px;}
+
+/*Î¢²©ÉùÒô*/
+.side_box_3{height: 484px;border: 1px solid #dadada;}
+.side_box_3 .title_bar{height: 18px;margin-top: 16px;font:18px/18px 'Microsoft YaHei',verdana,sans-serif;color: #fff;background: #000;border-bottom: 4px solid #ccc;text-align: center;}
+.side_box_3 .h3_24{width: 92px;height: 22px;margin:8px auto 0;}
+.side_box_3 li{display: inline;float: left;width: 204px;height: 110px;overflow: hidden;margin: 10px 0 0 15px;padding-top: 10px;background: url(http://i3.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_04.png) 0 -1100px no-repeat;}
+.side_box_3 .first{background: none;margin-top: 0;}
+.side_box_3 cite{display: block;text-align: right;font: 14px 'Microsoft YaHei','ºÚÌå',sans-serif;}
+.side_box_3 p{margin: 0 15px;text-indent: 24px;line-height: 18px;}
+
+.side_box_3 ul{margin-top: 10px;}
+/*2010/6/2*/
+.pic_001{margin-top: 20px;}
+.video_001{margin-top: 50px;}
+.mag_001{margin-top: 34px;}
+/*2010/6/2*/
+.pic_slide{height: 270px;}
+
+/*Í¼Æ¬ÇĞ»»*/
+.side_box_1 h3 span{float: right;}
+.slide_arr_left{width: 25px;height: 16px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -160px -120px no-repeat;cursor: pointer;}
+.slide_arr_right{width: 25px;height: 16px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -200px -120px no-repeat;cursor: pointer;}
+.slide_num{width: 25px;height: 16px;line-height: 16px;text-align: center;text-indent: 0;}
+
+.slide_box{position: relative;margin-top: 12px;}
+.slide_box li{float: left;width: 240px;text-align: center;}
+.slide_box li img{display: block;width: 240px;}
+.slide_box li h5{height: 28px;background: #f1f1f1;font: bold 14px/28px 'Microsoft YaHei','ºÚÌå',sans-serif;}
+
+#pic_slide_box li{position: relative;}
+#pic_slide_box h5{position: absolute;bottom:20px;left:0;width: 100%;text-align: center;background: #000;opacity:0.7;filter:alpha(opacity=70)}
+#pic_slide_box h5 a{color: #fff;}
+
+/*------------±êÌâ----------------*/
+.h2_01{height: 70px;background-position: -148px 0;}
+.sw_box_1 .h2_02 span{background-position: -200px -660px;}
+.sw_box_1 .h2_03 span{background-position: -200px -700px;}
+.sw_box_1 .h2_04 span{background-position: -200px -740px;}
+.sw_box_1 .h2_05 span{background-position: -200px -780px;}
+.sw_box_1 .h2_06 span{background-position: -200px -820px;}
+
+/*×ó²à*/
+.h3_01{background-position: 0 -320px;}
+.h3_02{background-position: 0 -360px;}
+.h3_03{background-position: 0 -400px;}
+.h3_04{background-position: 0 -440px;}
+.h3_05{background-position: 0 -480px;}
+.h3_06{background-position: 0 -520px;}
+.h3_07{background-position: 0 -560px;}
+.h3_08{background-position: 0 -600px;}
+.h3_09{background-position: 0 -640px;}
+.h3_10{background-position: 0 -680px;}
+.h3_11{background-position: 0 -720px;}
+.h3_12{background-position: 0 -760px;}
+.h3_13{background-position: 0 -800px;}
+
+/*ÓÒ²à*/
+.h3_20{background-position: -200px -320px;}
+.h3_21{height: 35px !important;background-position: -200px -480px;}
+.h3_22{background-position: -200px -340px;}
+.h3_23{background-position: -200px -360px;}
+.h3_24{background-position: -200px -440px;}
+.h3_25{background-position: -200px -380px;}
+.h3_26{background-position: -200px -400px;}
+
+.side_box_1 h4{height: 25px;margin: 20px 0;text-indent: -9999px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) 0 0 no-repeat;}
+.side_box_1 .h4_01{background-position: -200px -540px;}
+.side_box_1 .h4_02{background-position: -200px -580px;}
+.side_box_1 .h4_03{background-position: -200px -620px;}
+.most_news{margin-top: 58px;}
+.most_news img{width: 240px;height: 117px;}
+.most_news h5{margin: 15px 0;}
+.most_news h5 .arr{margin-top: 6px;}
+
+.arr{float: left;width: 6px;height: 10px;margin: 2px 5px 0 0;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -420px -80px no-repeat;}
+
+/*¶ş¼¶Ò³Ãæ*/
+/*×ó²à*/
+.sub_top_tab{width: 688px;margin:15px 0;}
+.sub_top_tab .hd{float: right;width: 220px;}
+.sub_top_tab .bd{float: left;width: 468px;margin-right: -6px;}
+.sub_top_tab .hd li{float: left;width: 220px;height: 100px;overflow: hidden;margin-bottom: 1px;border-bottom: 1px solid #d9d9d9;background: #f0f0f0;}
+.sub_top_tab .hd h4{margin: 5px 0;font: 14px 'Microsoft YaHei','ºÚÌå',sans-serif;}
+.sub_top_tab .hd h4 .arr{visibility: hidden;margin-right: 10px;}
+.sub_top_tab .hd .selected .arr{visibility: visible;margin-top: 6px;}
+.sub_top_tab .hd .selected {background: #dfdfdf}
+.sub_top_tab .hd .selected h4 a{color: #073b60;}
+.sub_top_tab .hd .last{height: 101px;border-bottom: 0;}
+.sub_top_tab .bd img{display: block;width: 468px;height: 305px;}
+
+.sub_main_box_1{float: left;width: 688px;margin-top: 20px;}
+.sub_main_box_1 .hd{width: 100%;text-indent: 0;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) 0 -980px repeat-x;}
+.sub_main_box_1 .hd img{float: left;}
+.sub_main_box_1 .hd .bar{display: block;width: 100%;height: 16px;text-align: right;background: #e5e5e5;}
+.sub_main_box_1 .hd .more{float: right;width: 50px;height: 16px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -300px -80px no-repeat;}
+
+.sub_main_box_1 .bd .ctn{float: left;width: 352px;}
+.sub_main_box_1 .bd .photo{float: left;margin-right: 15px;}
+.sub_main_box_1 .bd .list{float: right;width: 300px;}
+.sub_main_box_1 .bd .list li{border-bottom: 1px dashed #ddd;margin-bottom: 5px;}/*2010/6/3*/
+.sub_main_box_1 .bd .list li p{margin-right: 0;}
+.sub_main_box_1 .bd h4{margin-top: 0;}
+.sub_main_box_1 .bd h5{font-size: 14px;}
+.sub_main_box_1 .bd .arr{margin: 6px 10px 0 0;}
+
+/*ÓÒ²à*/
+.sub_side_tab01{margin-top: 20px;}
+.sub_side_tab01 .hd{height: 26px;border-bottom: 1px solid #dadada;}
+.sub_side_tab01 .hd li{float: left;}
+.sub_side_tab01 .hd li a{float: left;width: 75px;height: 26px;margin-right: 3px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) 0 -1040px no-repeat;text-indent: -9999px;}
+.sub_side_tab01 .hd .selected{background-position: 0 -1080px;}
+#sub_tab02_menu_2{background-position: -80px -1040px;}
+#sub_tab02_menu_2.selected{background-position: -80px -1080px;}
+
+.sub_side_tab01 .bd{clear:both;padding: 10px;line-height: 24px;}
+.sub_side_tab01 .bd .topic{color: #073b60;margin: 0 3px;}
+
+/*Èı¼¶Ò³Ãæ*/
+.position{margin: 15px 0;padding-bottom: 5px;border-bottom: 1px solid #dedede;font-family: verdana;height:32px;}
+.position .path{float:left;padding:1.08em 0 0 0.83em;height:1.58em;color:#666;}
+.position .path a:link,.NavBar .path a:visited{color:#333;}
+.position .path a:hover{color:#f00;}
+.position .lo_links{float:right;padding:0.67em 0 0;}
+
+.sub_date{padding-left: 20px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) -420px -74px no-repeat;font: bold 16px 'Microsoft YaHei','ºÚÌå',sans-serif;color: #073b60;}
+
+.sub_info_list{margin:10px 0 40px;}
+.sub_info_list li{height: 70px;padding: 20px 0;border-bottom: 1px dashed #999}
+.sub_info_list li p{color: #666;}
+.sub_info_list li h4{margin:0 0 10px;font:14px  Arial, "ËÎÌå", sans-serif;}
+.sub_info_list li .date{display: inline;float: right;margin-right: 15px;font-size: 12px;color: #999;}/*2010/5/28ĞŞ¸Ä Ôö¼ÓÈÕÆÚÑùÊ½*/
+.sub_info_list .photo_box{float: left;margin-right: 15px;}
+.sub_info_list .photo {display: table-cell; vertical-align:middle;width: 66px;height: 66px;text-align:center;*font-size: 56px;border: 1px solid #ccc;}
+.sub_info_list .photo img {vertical-align:middle;}
+
+/*ÎÄÕÂÕıÎÄÒ³*/
+.article{margin-top: -15px;margin-bottom:10px; padding: 20px 0;background: #fcfbf8;border-bottom: 1px solid #cfcfcf;border-right: 1px solid #cfcfcf}
+.article h2{text-indent: 0;text-align: center;font:18px 'Microsoft YaHei','ºÚÌå',sans-serif;}
+.from_info{text-align: center;}
+.artibody{margin: 20px 0;}
+.artibody p{margin: 10px 30px;font-size: 14px;line-height: 24px;}
+
+.blk_02{float: left;margin: 0 0 10px 0;}
+
+/*·ÖÒ³*/
+.pages{margin: 20px 0;text-align: right;font-family: 'ËÎÌå';}
+.pages a{display: inline-block;height: 21px;line-height: 20px;margin: 0 1px;padding: 0 7px;border: 1px solid #ddd;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) 0 -940px no-repeat;}
+.pages span{display: inline-block;height: 21px;line-height: 20px;margin: 0 1px;padding: 0 7px;border: 1px solid #113d58;color: #fff;background: #113d58;}
+
+/*tips*/
+.tips_box{display: none;position: absolute;z-index:8000;background:#074060;border:1px solid #333;color: #fff;opacity:0.85;filter:alpha(opacity=85)}
+.tips_box_wrap{max-width: 200px;_width: 200px;border: 1px solid #fff;padding: 3px 5px;}
+.tips_box h5{background: #032030;color: #fff;font: bold 16px 'Microsoft YaHei','ºÚÌå',sans-serif;text-indent: 10px;}
+
+.foot{clear:both;height: 100px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_01.png) 0 -1120px repeat-x;margin-top: 20px;padding-top: 30px;line-height: 24px;font-family: verdana;text-align: center;color: #fff;}
+.foot a{color: #fff;margin: 0 3px;}
+.foot a:hover{color: #fff;}
+
+.hotNC{border:1px solid #cfcfcf;float:left;width:338px;}
+.hotNC h3{width: 100%;height: 24px;line-height: 24px;text-indent: 10px;margin: 0;background: #fcfbf8;border-bottom: 1px solid #cfcfcf}
+.hotNC ul{padding:0.36em 0 0.5em 0.5em;}
+.hotNC li{line-height:1.64em;font-size:1.17em;}
+.hotNC li span{float:right;width:5em;padding-right:0}
+.hotNC input{width:700px;}
+
+.cp_tit{font:12px Arial,'ËÎÌå', sans-serif;} 
+.cp_from{font:12px Arial,'ËÎÌå', sans-serif;} 
+
+/* Í¼Æ¬ÓĞ¹Ø */
+.img_wrapper{text-align:center}
+.img_wrapper img{border:1px solid #000; display:block; margin:0 auto}
+.img_wrapper .img_descr{ margin:5px 30px 10px; display:inline-block; display:-moz-inline-stack;zoom:1; text-align:left}
+.img_wrapper img{padding: 8px; border-color:#ccc!important; }
+
+			/*ÉĞÆ·ÑùÊ½*/
+		.head{background-image: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_09.png);}
+		#logo,h3,.foot,.sub_side_tab01 .hd li a,.sub_main_box_1 .hd .more{background-image: url(http://i3.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_08.png);}
+		.nav_box .wrap,.nav,.nav li:hover .main_menu, .nav  .li_ie6:hover .main_menu,.nav .current .main_menu{background-image: url(http://i0.sinaimg.cn/lx/deco/2010/0618/images/sw_yc_05.png);}
+		.nav .box_info .location{padding: 1px 8px;border: 1px solid #55462d;background: #241d12;}
+		.sub_side_tab01 .bd .topic,.sub_top_tab .hd .selected h4 a{color: #b08126}
+
+		.pages span{background: #b08126;border-color: #b08126}
+
+		.nav .main_menu1{background-position: -688px -100px;}
+		.nav .main_menu2{background-position: -759px -100px;}
+		.nav .main_menu3{background-position: -839px -100px;}
+		.nav .main_menu4{background-position: 0 -100px;}
+		.nav .main_menu5{background-position: -116px -100px;}
+		.nav .main_menu6{background-position: -230px -100px;}
+		.nav .main_menu7{background-position: -342px -100px;}
+		.nav .main_menu8{background-position: -458px -100px;}
+		.nav .main_menu9{background-position: -571px -100px;}
+
+.article_page .head{height: 119px;background-image: url(http://i3.sinaimg.cn/lx/deco/2010/0628/sw_yc_13.png);}
+.article_page #logo{background: url(http://i0.sinaimg.cn/lx/deco/2010/0628/sw_yc_14.png) 0 0 no-repeat;}
+
+/* ±êÇ©ÑùÊ½ begin */
+.mod_tags_box{margin: 20px;border: 1px solid #E3DFD0;background: #FEFEFC;padding: 6px 15px;clear:both;}
+.mod_tags{padding-left: 24px;margin: 0 10px;background: url(http://i0.sinaimg.cn/lx/deco/2010/0926/style/icon_tag.png) 0 4px no-repeat;color: #999;}
+.mod_tags a{margin-left: 10px; color: #94462A}
+
+</style>
+
+<script type="text/javascript" src="http://i3.sinaimg.cn/home/sinaflash.js"></script>
+
+</head>
+
+<body class="article_page"><!-- body code begin -->
+
+<!-- SUDA_CODE_START --> 
+<script type="text/javascript"> 
+//<!--
+(function(){var an="V=2.1.16";var ah=window,F=document,s=navigator,W=s.userAgent,ao=ah.screen,j=ah.location.href;var aD="https:"==ah.location.protocol?"https://s":"http://",ay="beacon.sina.com.cn";var N=aD+ay+"/a.gif?",z=aD+ay+"/g.gif?",R=aD+ay+"/f.gif?",ag=aD+ay+"/e.gif?",aB=aD+"beacon.sinauda.com/i.gif?";var aA=F.referrer.toLowerCase();var aa="SINAGLOBAL",Y="FSINAGLOBAL",H="Apache",P="ULV",l="SUP",aE="UOR",E="_s_acc",X="_s_tentry",n=false,az=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aG=false,A=false;var al="";var m=16777215,Z=0,C,K=0;var r="",b="",a="";var M=[],S=[],I=[];var u=0;var v=0;var p="";var am=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aD+ay+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function k(){var e=document.createElement("iframe");e.src=aD+ay+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aD+ay+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aH,i){var D=F.getElementsByName(aH);var e=(i>0)?i:0;return(D.length>e)?D[e].content:""}function aF(){var aJ=F.getElementsByName("sudameta");var aR=[];for(var aO=0;aO<aJ.length;aO++){var aK=aJ[aO].content;if(aK){if(aK.indexOf(";")!=-1){var D=aK.split(";");for(var aH=0;aH<D.length;aH++){var aP=aw(D[aH]);if(!aP){continue}aR.push(aP)}}else{aR.push(aK)}}}var aM=F.getElementsByTagName("meta");for(var aO=0,aI=aM.length;aO<aI;aO++){var aN=aM[aO];if(aN.name=="tags"){aR.push("content_tags:"+encodeURI(aN.content))}}var aL=t("vjuids");aR.push("vjuids:"+aL);var e="";var aQ=j.indexOf("#");if(aQ!=-1){e=escape(j.substr(aQ+1));aR.push("hashtag:"+e)}return aR}function V(aK,D,aI,aH){if(aK==""){return""}aH=(aH=="")?"=":aH;D+=aH;var aJ=aK.indexOf(D);if(aJ<0){return""}aJ+=D.length;var i=aK.indexOf(aI,aJ);if(i<aJ){i=aK.length}return aK.substring(aJ,i)}function t(e){if(undefined==e||""==e){return""}return V(F.cookie,e,";","")}function at(aI,e,i,aH){if(e!=null){if((undefined==aH)||(null==aH)){aH="sina.com.cn"}if((undefined==i)||(null==i)||(""==i)){F.cookie=aI+"="+e+";domain="+aH+";path=/"}else{var D=new Date();var aJ=D.getTime();aJ=aJ+86400000*i;D.setTime(aJ);aJ=D.getTime();F.cookie=aI+"="+e+";domain="+aH+";expires="+D.toUTCString()+";path=/"}}}function f(D){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;return i.get(D)}catch(aH){return false}}function ar(D,aH){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;i.set(D,aH);return true}catch(aI){return false}}function L(){var aJ=15;var D=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(D&&D!=undefined){w=true}ls_gid=f(aa);if(ls_gid===false||w==false){return false}else{am=true}if(ls_gid&&ls_gid.length>aJ){at(aa,ls_gid,3650);n=true;return ls_gid}else{if(D&&D.length>aJ){at(aa,D,3650);az=true}var i=0,aI=500;var aH=setInterval((function(){var e=t(aa);if(w){e=D}i+=1;if(i>3){clearInterval(aH)}if(e.length>aJ){clearInterval(aH);ar(aa,e)}}),aI);return w?D:t(aa)}}function U(e,aH,D){var i=e;if(i==null){return false}aH=aH||"click";if((typeof D).toLowerCase()!="function"){return}if(i.attachEvent){i.attachEvent("on"+aH,D)}else{if(i.addEventListener){i.addEventListener(aH,D,false)}else{i["on"+aH]=D}}return true}function af(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var D=arguments.callee.caller;var i;var aH=0;while(D!=null&&aH<40){i=D.arguments[0];if(i&&(i.constructor==Event||i.constructor==MouseEvent||i.constructor==KeyboardEvent)){return i}aH++;D=D.caller}return i}}function g(i){i=i||af();if(!i.target){i.target=i.srcElement;i.pageX=i.x;i.pageY=i.y}if(typeof i.layerX=="undefined"){i.layerX=i.offsetX}if(typeof i.layerY=="undefined"){i.layerY=i.offsetY}return i}function aw(aH){if(typeof aH!=="string"){throw"trim need a string as parameter"}var e=aH.length;var D=0;var i=/(\u3000|\s|\t|\u00A0)/;while(D<e){if(!i.test(aH.charAt(D))){break}D+=1}while(e>D){if(!i.test(aH.charAt(e-1))){break}e-=1}return aH.slice(D,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aH,aL){var aN=aw(aH).split("&");var aM={};var D=function(i){if(aL){try{return decodeURIComponent(i)}catch(aP){return i}}else{return i}};for(var aJ=0,aK=aN.length;aJ<aK;aJ++){if(aN[aJ]){var aI=aN[aJ].split("=");var e=aI[0];var aO=aI[1];if(aI.length<2){aO=e;e="$nullName"}if(!aM[e]){aM[e]=D(aO)}else{if(c(aM[e])!=true){aM[e]=[aM[e]]}aM[e].push(D(aO))}}}return aM}function ac(D,aI){for(var aH=0,e=D.length;aH<e;aH++){aI(D[aH],aH)}}function ak(i){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(i.match(e)){return i.match(e)[1].toString()}else{return""}}function aj(aO){try{var aL="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aQ=function(e){var aR="",aS=0;for(;aS<e.length;aS++){aR+="%"+aH(e[aS])}return decodeURIComponent(aR)};var aH=function(e){var i="0"+e.toString(16);return i.length<=2?i:i.substr(1)};var aP=function(aY,aV,aR){if(typeof(aY)=="string"){aY=aY.split("")}var aX=function(a7,a9){for(var a8=0;a8<a7.length;a8++){if(a7[a8]==a9){return a8}}return -1};var aS=[];var a6,a4,a1="";var a5,a3,a0,aZ="";if(aY.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var a2=aL.split("");if(aV=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;a2=D.split("")}var aU=0;if(aV=="binnary"){a2=[];for(aU=0;aU<=64;aU++){a2[aU]=aU+128}}if(aV!="binnary"&&e.exec(aY.join(""))){return aR=="array"?[]:""}aU=0;do{a5=aX(a2,aY[aU++]);a3=aX(a2,aY[aU++]);a0=aX(a2,aY[aU++]);aZ=aX(a2,aY[aU++]);a6=(a5<<2)|(a3>>4);a4=((a3&15)<<4)|(a0>>2);a1=((a0&3)<<6)|aZ;aS.push(a6);if(a0!=64&&a0!=-1){aS.push(a4)}if(aZ!=64&&aZ!=-1){aS.push(a1)}a6=a4=a1="";a5=a3=a0=aZ=""}while(aU<aY.length);if(aR=="array"){return aS}var aW="",aT=0;for(;aT<aS.lenth;aT++){aW+=String.fromCharCode(aS[aT])}return aW};var aI=[];var aN=aO.substr(0,3);var aK=aO.substr(3);switch(aN){case"v01":for(var aJ=0;aJ<aK.length;aJ+=2){aI.push(parseInt(aK.substr(aJ,2),16))}return decodeURIComponent(aQ(aP(aI,"binnary","array")));break;case"v02":aI=aP(aK,"urlsafe","array");return aQ(aP(aI,"binnary","array"));break;default:return decodeURIComponent(aO)}}catch(aM){return""}}var ap={screenSize:function(){return(m&8388608==8388608)?ao.width+"x"+ao.height:""},colorDepth:function(){return(m&4194304==4194304)?ao.colorDepth:""},appCode:function(){return(m&2097152==2097152)?s.appCodeName:""},appName:function(){return(m&1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName):""},cpu:function(){return(m&524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(m&262144==262144)?(s.platform):""},jsVer:function(){if(m&131072!=131072){return""}var aI,e,aK,D=1,aH=0,i=(s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName,aJ=s.appVersion;if("MSIE"==i){e="MSIE";aI=aJ.indexOf(e);if(aI>=0){aK=window.parseInt(aJ.substring(aI+5));if(3<=aK){D=1.1;if(4<=aK){D=1.3}}}}else{if(("Netscape"==i)||("Opera"==i)||("Mozilla"==i)){D=1.3;e="Netscape6";aI=aJ.indexOf(e);if(aI>=0){D=1.5}}}return D},network:function(){if(m&65536!=65536){return""}var i="";i=(s.connection&&s.connection.type)?s.connection.type:i;try{F.body.addBehavior("#default#clientCaps");i=F.body.connectionType}catch(D){i="unkown"}return i},language:function(){return(m&32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(m&16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(m&8192!=8192){return""}var aK=s.plugins,aH,aL,aN;if(aK&&aK.length){for(var aJ in aK){aL=aK[aJ];if(aL.description==null){continue}if(aH!=null){break}aN=aL.description.toLowerCase();if(aN.indexOf("flash")!=-1){aH=aL.version?parseInt(aL.version):aN.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aI=10;aI>=2;aI--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aI);if(D){aH=aI;break}}catch(aM){}}}else{if(W.indexOf("webtv/2.5")!=-1){aH=3}else{if(W.indexOf("webtv")!=-1){aH=2}}}}return aH},javaEnabled:function(){if(m&4096!=4096){return""}var D=s.plugins,i=s.javaEnabled(),aH,aI;if(i==true){return 1}if(D&&D.length){for(var e in D){aH=D[e];if(aH.description==null){continue}if(i!=null){break}aI=aH.description.toLowerCase();if(aI.indexOf("java plug-in")!=-1){i=parseInt(aH.version);continue}}}else{if(window.ActiveXObject){i=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return i?1:0}};var ad={pageId:function(i){var D=i||r,aK="-9999-0-0-1";if((undefined==D)||(""==D)){try{var aH=h("publishid");if(""!=aH){var aJ=aH.split(",");if(aJ.length>0){if(aJ.length>=3){aK="-9999-0-"+aJ[1]+"-"+aJ[2]}D=aJ[0]}}else{D="0"}}catch(aI){D="0"}D=D+aK}return D},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(m&2048!=2048){return""}var e=/^[^\?&#]*.swf([\?#])?/;if((aA=="")||(aA.match(e))){var i=V(j,"ref","&","");if(i!=""){return escape(i)}}return escape(aA)},isHomepage:function(){if(m&1024!=1024){return""}var D="";try{F.body.addBehavior("#default#homePage");D=F.body.isHomePage(j)?"Y":"N"}catch(i){D="unkown"}return D},PGLS:function(){return(m&512==512)?h("stencil"):""},ZT:function(){if(m&256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(m&128==128)?h("mediaid"):""},domCount:function(){return(m&64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(m&32==32)?F.getElementsByTagName("iframe").length:""}};var av={visitorId:function(){var i=15;var e=t(aa);if(e.length>i&&u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(Y);return e}else{at(Y,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var i=new Date();e=Math.random()*10000000000000+"."+i.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var D=t(H);var aI=t(P);var aH=aI.split(":");var aJ="",i;if(aH.length>=6){if(D!=aH[4]){i=new Date();var e=new Date(window.parseInt(aH[0]));aH[1]=window.parseInt(aH[1])+1;if(i.getMonth()!=e.getMonth()){aH[2]=1}else{aH[2]=window.parseInt(aH[2])+1}if(((i.getTime()-e.getTime())/86400000)>=7){aH[3]=1}else{if(i.getDay()<e.getDay()){aH[3]=1}else{aH[3]=window.parseInt(aH[3])+1}}aJ=aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3];aH[5]=aH[0];aH[0]=i.getTime();at(P,aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3]+":"+D+":"+aH[5],360)}else{aJ=aH[5]+":"+aH[1]+":"+aH[2]+":"+aH[3]}}else{i=new Date();aJ=":1:1:1";at(P,i.getTime()+aJ+":"+D+":",360)}return aJ},userNick:function(){if(al!=""){return al}var D=unescape(t(l));if(D!=""){var i=V(D,"ag","&","");var e=V(D,"user","&","");var aH=V(D,"uid","&","");var aJ=V(D,"sex","&","");var aI=V(D,"dob","&","");al=i+":"+e+":"+aH+":"+aJ+":"+aI;return al}else{return""}},userOrigin:function(){if(m&4!=4){return""}var e=t(aE);var i=e.split(":");if(i.length>=2){return i[0]}else{return""}},advCount:function(){return(m&2==2)?t(E):""},setUOR:function(){var aL=t(aE),aP="",i="",aO="",aI="",aM=j.toLowerCase(),D=F.referrer.toLowerCase();var aQ=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aK=new Date();if(aM.match(aQ)){aO=aM.match(aQ)[0]}else{if(D.match(aQ)){aO=D.match(aQ)[0]}}if(aO!=""){aO=aO.substr(3)+":"+aK.getTime()}if(aL==""){if(t(P)==""){aP=ak(D);i=ak(aM)}at(aE,aP+","+i+","+aO,365)}else{var aJ=0,aN=aL.split(",");if(aN.length>=1){aP=aN[0]}if(aN.length>=2){i=aN[1]}if(aN.length>=3){aI=aN[2]}if(aO!=""){aJ=1}else{var aH=aI.split(":");if(aH.length>=2){var e=new Date(window.parseInt(aH[1]));if(e.getTime()<(aK.getTime()-86400000*30)){aJ=1}}}if(aJ){at(aE,aP+","+i+","+aO,365)}}},setAEC:function(e){if(""==e){return}var i=t(E);if(i.indexOf(e+",")<0){i=i+e+","}at(E,i,7)},ssoInfo:function(){var D=unescape(aj(t("sso_info")));if(D!=""){if(D.indexOf("uid=")!=-1){var i=V(D,"uid","&","");return escape("uid:"+i)}else{var e=V(D,"u","&","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ai={CI:function(){var e=["sz:"+ap.screenSize(),"dp:"+ap.colorDepth(),"ac:"+ap.appCode(),"an:"+ap.appName(),"cpu:"+ap.cpu(),"pf:"+ap.platform(),"jv:"+ap.jsVer(),"ct:"+ap.network(),"lg:"+ap.language(),"tz:"+ap.timezone(),"fv:"+ap.flashVer(),"ja:"+ap.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var i=["pid:"+ad.pageId(e),"st:"+ad.sessionCount(),"et:"+ad.excuteCount(),"ref:"+ad.referrer(),"hp:"+ad.isHomepage(),"PGLS:"+ad.PGLS(),"ZT:"+ad.ZT(),"MT:"+ad.mediaType(),"keys:","dom:"+ad.domCount(),"ifr:"+ad.iframeCount()];return"PI="+i.join("|")},UI:function(){var e=["vid:"+av.visitorId(),"sid:"+av.sessionId(),"lv:"+av.lastVisit(),"un:"+av.userNick(),"uo:"+av.userOrigin(),"ae:"+av.advCount(),"lu:"+av.fvisitorId(),"si:"+av.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+av.subp()];return"UI="+e.join("|")},EX:function(i,e){if(m&1!=1){return""}i=(null!=i)?i||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+i+"|ex2:"+e},MT:function(){return"MT="+aF().join("|")},V:function(){return an},R:function(){return"gUid_"+new Date().getTime()}};function ax(){var aK="-",aH=F.referrer.toLowerCase(),D=j.toLowerCase();if(""==t(X)){if(""!=aH){aK=ak(aH)}at(X,aK,"","weibo.com")}var aI=/weibo.com\/reg.php/;if(D.match(aI)){var aJ=V(unescape(D),"sharehost","&","");var i=V(unescape(D),"appkey","&","");if(""!=aJ){at(X,aJ,"","weibo.com")}at("appkey",i,"","weibo.com")}}function d(e,i){G(e,i)}function G(i,D){D=D||{};var e=new Image(),aH;if(D&&D.callback&&typeof D.callback=="function"){e.onload=function(){clearTimeout(aH);aH=null;D.callback(true)}}SUDA.img=e;e.src=i;aH=setTimeout(function(){if(D&&D.callback&&typeof D.callback=="function"){D.callback(false);e.onload=null}},D.timeout||2000)}function x(e,aH,D,aI){SUDA.sudaCount++;if(!av.visitorId()&&!L()){if(u<3){u++;setTimeout(x,500);return}}var i=N+[ai.V(),ai.CI(),ai.PI(e),ai.UI(),ai.MT(),ai.EX(aH,D),ai.R()].join("&");G(i,aI)}function y(e,D,i){if(aG||A){return}if(SUDA.sudaCount!=0){return}x(e,D,i)}function ab(e,aH){if((""==e)||(undefined==e)){return}av.setAEC(e);if(0==aH){return}var D="AcTrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+e+"||";var i=ag+D+"&gUid_"+new Date().getTime();d(i)}function aq(aI,e,i,aJ){aJ=aJ||{};if(!i){i=""}else{i=escape(i)}var aH="UATrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+aI+"||"+e+"||"+ad.referrer()+"||"+i+"||"+(aJ.realUrl||"")+"||"+(aJ.ext||"");var D=ag+aH+"&gUid_"+new Date().getTime();d(D,aJ)}function aC(aK){var i=g(aK);var aI=i.target;var aH="",aL="",D="";var aJ;if(aI!=null&&aI.getAttribute&&(!aI.getAttribute("suda-uatrack")&&!aI.getAttribute("suda-actrack")&&!aI.getAttribute("suda-data"))){while(aI!=null&&aI.getAttribute&&(!!aI.getAttribute("suda-uatrack")||!!aI.getAttribute("suda-actrack")||!!aI.getAttribute("suda-data"))==false){if(aI==F.body){return}aI=aI.parentNode}}if(aI==null||aI.getAttribute==null){return}aH=aI.getAttribute("suda-actrack")||"";aL=aI.getAttribute("suda-uatrack")||aI.getAttribute("suda-data")||"";sudaUrls=aI.getAttribute("suda-urls")||"";if(aL){aJ=J(aL);if(aI.tagName.toLowerCase()=="a"){D=aI.href}opts={};opts.ext=(aJ.ext||"");aJ.key&&SUDA.uaTrack&&SUDA.uaTrack(aJ.key,aJ.value||aJ.key,D,opts)}if(aH){aJ=J(aH);aJ.key&&SUDA.acTrack&&SUDA.acTrack(aJ.key,aJ.value||aJ.key)}}if(window.SUDA&&Object.prototype.toString.call(window.SUDA)==="[object Array]"){for(var Q=0,ae=SUDA.length;Q<ae;Q++){switch(SUDA[Q][0]){case"setGatherType":m=SUDA[Q][1];break;case"setGatherInfo":r=SUDA[Q][1]||r;b=SUDA[Q][2]||b;a=SUDA[Q][3]||a;break;case"setPerformance":Z=SUDA[Q][1];break;case"setPerformanceFilter":C=SUDA[Q][1];break;case"setPerformanceInterval":K=SUDA[Q][1]*1||0;K=isNaN(K)?0:K;break;case"setGatherMore":M.push(SUDA[Q].slice(1));break;case"acTrack":S.push(SUDA[Q].slice(1));break;case"uaTrack":I.push(SUDA[Q].slice(1));break}}}aG=(function(D,i){if(ah.top==ah){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight>=D)&&(F.body.clientWidth>=i))?false:true}catch(aH){return true}}})(320,240);A=(function(){return false})();av.setUOR();var au=av.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){ab.apply(null,arguments)};SUDA.uaTrack=function(){aq.apply(null,arguments)};U(F.body,"click",aC);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){ab.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){aq.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){ab.apply(null,arguments)};window._S_uaTrack=function(){aq.apply(null,arguments)};window._S_PID_="";if(!window.SUDA.disableClickstream){y()}try{k()}catch(T){}})();
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<!-- body code end -->
+
+
+<!-- µÇÂ¼¿òÌáÊ¾²ãËùĞè×ÊÔ´£¬Ö±½Ó·ÅÓÚbodyÏÂ ¿ªÊ¼ -->
+<div id="SSOTipsContainer"></div>
+<link href="http://i.sso.sina.com.cn/css/cardtips.css" rel="stylesheet" type="text/css" media="all" />
+<script language="javascript" type="text/javascript" src="http://i.sso.sina.com.cn/js/cardtips.js"></script>
+<!-- µÇÂ¼¿òÌáÊ¾²ãËùĞè×ÊÔ´£¬Ö±½Ó·ÅÓÚbodyÏÂ ½áÊø -->
+
+	<!-- ¶¥²¿ -->
+	<div class="wrap clearfix">
+		<img src="http://i3.sinaimg.cn/lx/deco/2010/0628/sw_yc_07.png" class="fl" alt="ĞÂÀËÉĞÆ·" title="ĞÂÀËÉĞÆ·" />
+		<div class="mini_nav fr">
+			<a href="http://style.sina.com.cn/" title="">ÉĞÆ·Ê×Ò³</a> | <a href="http://style.sina.com.cn/news" title="">ÉĞÎÄÊ×Ò³</a>
+ |
+			<a href="http://www.sina.com.cn/" title="">ĞÂÀËÊ×Ò³</a> | 
+			<a href="http://news.sina.com.cn/guide/" title="">ĞÂÀËµ¼º½</a>
+		</div>
+	</div>
+	<!-- Í·²¿ -->
+	<div class="head">
+		<div class="wrap">
+			<h1 id="logo"><a href="http://style.sina.com.cn/" title="ĞÂÀËÉĞÆ·">ĞÂÀËÉĞÆ·</a></h1>
+		</div>
+	</div>
+
+	<!-- Í·²¿ end-->
+
+	<!-- Ö÷ÌåÄÚÈİ-->
+	<div class="wrap">
+
+		<!-- ×óÀ¸ -->
+		<div class="main" id="sub_main">
+
+			<div class="position">
+				<div class="path"><a href="http://style.sina.com.cn/">ĞÂÀËÉĞÆ·</a>	&gt; <a href="http://style.sina.com.cn/lei/index.shtml">³öĞĞĞİÏĞ</a>
+ &gt; ÕıÎÄ</div>
+<div class="lo_links" id="lo_links"></div>
 			</div>
-			<div class="share">
-				<a href="#shareTotal" target="_self"><img src="http://img.cankaoxiaoxi.com/templates/cankaoxiaoxi/css/mobile/share.png" height="20" /></a>
+
+			<!-- ÎÄÕÂÄÚÈİÇø begin -->
+			<div class="article">
+				<h2 id="artibodyTitle">ÏòÍâ×ß È«ÇòÓÎÍ§Õ¹¹ºÂò¹¥ÂÔ</h2>
+				<p class="from_info"><a href="http://www.sina.com.cn" style="color:#999;text-decoration:none;">http://www.sina.com.cn</a> 2011Äê02ÔÂ28ÈÕ 17:38 <span class="linkRed02">ÓÎÍ§Òµ </span></p>
+				<div class="artibody" id="artibody">
+
+	<p style="border:1px solid #ECECEC;border-width:1px 0;background:#F6F6F6;padding:8px 10px; margin: 20px 30px 20px 20px;">¡¡¡¡<span>¾Í¾Ù°ì³¡µØÀàĞÍ¶øÑÔ£¬ÓÎÍ§Õ¹¼È¿ÉÒÔÔÚÔ¶ÀëË®ÓòµÄÄÚÂ½³¡Ëù¾ÙĞĞ£¬Ò²¿ÉÒÔÔÚË®±ßµÄÓÎÍ§ÂëÍ·¾ÙĞĞ¡£</span></p>
+
+<p>¡¡¡¡¾Í¾Ù°ì³¡µØÀàĞÍ¶øÑÔ£¬ÓÎÍ§Õ¹¼È¿ÉÒÔÔÚÔ¶ÀëË®ÓòµÄÄÚÂ½³¡Ëù¾ÙĞĞ£¬Ò²¿ÉÒÔÔÚË®±ßµÄÓÎÍ§ÂëÍ·¾ÙĞĞ¡£ÀıÈç£¬ÊÀ½çÉÏ×î´óµÄÓÎÍ§Õ¹ÀÍµÂá·±¤¹ú¼ÊÓÎÍ§Õ¹¾ÍÊÇÔÚµ±µØ³ÇÊĞÄÚµÄÁù¸ö²»Í¬µÄÓÎÍ§ÂëÍ·ÄÚ¾ÙĞĞ¡£¶øÍ¬ÔÚÃÀ¹úµÄ°Í¶ûµÄÄ¦ÓÎÍ§Õ¹¾ÍÊÇÔÚÒ»¸öÔ¶ÀëË®ÓòµÄ»áÕ¹ÖĞĞÄÄÚ¾ÙĞĞµÄ¡£µ«Ä¿Ç°×î³£¼ûµÄ»¹ÊÇÄÇÖÖËùÎ½µÃ¡°Ë®Â½Á½ÆÜ¡±ÓÎÍ§Õ¹£¬¼´ÓµÓĞ°¶ÉÏµÄÊÒÄÚÕ¹ÇøÒ²ÓĞÂ½ÉÏÕ¹Çø¸½½üµÄË®ÉÏÕ¹Çø£¬ÀıÈç£¬ÃÀ¹úµÄÂõ°¢ÃÜÓÎÍ§Õ¹¡¢·¨¹úµÄê©ÄÉÓÎÍ§Õ¹£¬ÄÚµØµÄÇàµºÕ¹»áºÍÉîÛÚÕ¹»áµÈ¡£¾Í²ÎÕ¹ÉÌÀàĞÍ¼°ÆäÕ¹³ö²úÆ·¶øÑÔ£¬ÓÎÍ§Õ¹¿É·ÖÎªÁ½´óÀà£º×ÛºÏĞÔºÍ×¨ÃÅÓÎÍ§Õ¹¡£</p>
+
+<p>¡¡¡¡×ÛºÏĞÔ£¬¹ËÃûË¼Òå£¬Ö¸µÄÊÇ²ÎÕ¹ÉÌ¼ÒµÄ²úÆ·´ÓË®ÉÏÅä¼şµ½ÓÎÍ§³ÉÆ·£¬´Ó·«´¬µ½¶¯Á¦Í§£¬´ÓÓÎÍ§¾ãÀÖ²¿µ½±õË®µØ²úÎŞËù²»°ü£¬Ù²È»Ò»¹øÓÎÍ§´óÔÓ»â£¬¿ÉÌá¹©¸ø¹ÛÖÚ×îÈ«ÃæµÄÓÎÍ§Ïà¹Ø²úÆ·¡£¶øÇÒÓĞĞí¶à¹úÍâµÄ×ÛºÏĞÔÓÎÍ§Õ¹»á»¹ÓĞÒ»Ğ©ÒÕÊõ¼ÒºÍ¹¤½³´ø×ÅÓÎÍ§ºÍº£ÑóÏà¹ØÒÕÊõÆ·ºÍ¹¤ÒÕÆ·²ÎÕ¹£¬¼«´óµØ·á¸»ÁËÓÎÍ§Õ¹µÄÄÚÈİ¡£¶ø×¨ÃÅÓÎÍ§Õ¹ÔòÖ¸µÄÊÇÃæÏòÍ¬Ò»Ğ¡ÀàµÄÉÌ¼ÒºÍ¹ÛÖÚµÄÓÎÍ§Õ¹£¬ÀıÈç£¬ºÉÀ¼µÄÓÎÍ§Éè±¸Õ¹¡¢ÃÀ¹úµÄÍêÈ«·«´¬Õ¹µÈ¡£</p>
+
+<p>¡¡¡¡¼¸ºõËùÓĞµÄ¹úÍâ´¬Õ¹£¬³ıÁËÓÎÍ§Õ¹Ê¾Íâ£¬¶¼»áÈÚÈëĞí¶à³ı²úÆ·ÂòÂôÖ®ÍâµÄÓéÀÖÏîÄ¿¼°ÆäËüÏà¹Ø»î¶¯£¬ÒÔÎüÒı¸ü¶àµÄÓÎ¿Í¡£ÀıÈç£¬½ñÄêÄê³õµÄÂ×¶ØÓÎÍ§Õ¹ÉÏÔÚÖ÷ÎèÌ¨ÉÏ¾Ù°ìÁËÒ»³¡·ş×°Ğã£»ÃÀ¹úµÄ×ØéµÌ²ÓÎÍ§Õ¹ÉÏÃ¿Äê¶¼ÓĞÒôÀÖ½ÚºÍÃâ·ÑµÄµöÓãÅàÑµµÈ·şÎñ£»¶ø2007 ÄêÔÚĞÂ¼ÓÆÂ¾ÙĞĞµÄÑÇÖŞÓÎÍ§Õ¹(Boat Asian)ÉÏÉõÖÁ»¹ÓĞÒ»¸öÑ¡ÃÀ´óÈüµÈÓéÀÖÏîÄ¿¡£ÕâĞ©ÓĞÒâË¼µÄ¸½¼Ó»î¶¯Ò²ÊÇ²Î¹ÛÕßËù²»Èİ´í¹ıµÄ¡£Í¨³£¶øÑÔ£¬²Î¼Ó¹úÍâÓÎÍ§Õ¹µÄ¹ÛÖÚ¶¼ÊÇ±»ÔÊĞíµÇÍ§²Î¹ÛµÄ£¬¶øÉÌ¼Ò´ú±íÒ²ÓĞÒåÎñËæÊ±¾ÍÓÎÍ§±¾Éí¼°¹ºÂòÊÂÏî»Ø´ğ¿Í»§ÌáÎÊ¡£</p>
+
+<p>¡¡¡¡Ò»¸öÖµµÃ×¢ÒâµÄÎÊÌâÊÇ£¬×îºÃ´©Ò»Ë«¼×°åĞ¬»òÕßÖÁÉÙÊÇÈíµ×µÄĞ¬È¥²Î¹Û£¬ÕâÑù·½±ãÉÌ¼ÒÍ¬ÒâÄã´©×ÅĞ¬µ½ÄÚÊÒ²Î¹Û¡£µ±È»Ò²ÓĞÒ»Ğ©ÉÌ¼Ò»áÒªÇó²Î¹ÛÕß½«Ğ¬ÍÑÁË²ÅÄÜÉÏÍ§£¬ÓÈÆäÊÇÄÇĞ©³¬¼¶ÓÎÍ§ÖÆÔìÉÌ¡£ÀıÈçÄãÈç¹ûÈ¥²Î¹Û³¬¼¶ÓÎÍ§ÔÆ¼¯µÄ·¨¹úê©ÄÉÓÎÍ§Õ¹£¬¶øÄãÓÖÏë¶àµÇ¼¸ËÒ´óÍ§ÉÏ²Î¹Û²Î¹Û£¬ÄÇÃ´×îºÃÔÚ´©´÷·½ÃæÓÈÆäÒª¶à¼Ó×¢Òâ¡£·ñÔò£¬ÈË¼ÒÈÃ²»ÈÃÄãÉÏÍ§»¹²»Ò»¶¨¡£</p>
+
+<p>¡¡¡¡<strong>³¬¼¶ÓÎÍ§ÅÉ¶Ô£ºÄ¦ÄÉ¸çÓÎÍ§Õ¹</strong></p>
+
+<p>¡¡¡¡Ä¦ÄÉ¸çÊÇ¸öÅ·ÖŞĞ¡¹ú£¬µ«È´ÅàÓı³öÁË¾ÙÊÀÎÅÃûµÄ³¬¼¶ÓÎÍ§Õ¹¡ª¡ªÄ¦ÄÉ¸çÓÎÍ§Õ¹¡£¸ÃÕ¹»áÃ¿Äê9ÔÂÏÂÑ®ÔÚÄ¦ÄÉ¸ç³Ç¾ÙĞĞ£¬½ü¼¸ÄêÃ¿Äê¶¼ÄÜÎüÒı´óÔ¼90 ËÒ³¬¼¶ÓÎÍ§ÊµÍ§²ÎÕ¹£¬³¤¶ÈÔÚ25Ã×-90Ã×Ö®¼ä¡£2007ÄêµÄÕ¹»áÃæ»ı´ï8750Æ½·½Ã×£¬²ÎÕ¹ÓÎÍ§Îª95ËÒ(50%ÔÚ40-90Ã×Ö®¼ä)¡£Æ±¼Û½Ï¸ß£¬Îª50Å·Ôª£¬Òò¶ø¹ÛÖÚÈËÊıÏà¶Ô½ÏÉÙ£¬2007ÄêÊı¾İÎª24000ÈË¡£2007Äê¹²ÎüÒıÁË500¸ö²ÎÕ¹µ¥Î»£¬ÊÀ½çÅÅÃûÇ°15 ÃûµÄ³¬¼¶ÓÎÍ§³§ÉÌÏ¤ÊıÓÚ»á¡£</p>
+
+<div class="img_wrapper"><img alt="¶ÅÈû¶û¶à·òÓÎÍ§Õ¹" src="http://i3.sinaimg.cn/lx/2011/0228/U5475P622DT20110228175151.jpg" title="¶ÅÈû¶û¶à·òÓÎÍ§Õ¹" /><span class="img_descr">¶ÅÈû¶û¶à·òÓÎÍ§Õ¹</span></div>
+
+<p>¡¡¡¡<strong>×î´óÄÚÂ½ÓÎÍ§Õ¹£º¶ÅÈû¶û¶à·òÓÎÍ§Õ¹</strong></p>
+
+<p>¡¡¡¡Öî¶à³¬¼¶ÓÎÍ§³ÉÆ·ÍÑÀëË®Ãæ±»ÍêÈ«±©Â¶ÔÚ¿ÕÆøÖĞµÄ³¡¾°ÊÇ²»ÊÇºÜÎüÒıÈË£¿ÄÇÄã¾ÍÈ¥µÂ¹ú¶ÅÈû¶û¶à·òÓÎÍ§Õ¹°É¡£µÂ¹úÊÇ³¬¼¶ÓÎÍ§ÖÆÔì´ó¹ú¡£ÑØÏ®×Ô¸Ö¡¢ÂÁÌå³¬¼¶ÓÎÍ§µÄ³¬¸ßµÄÓÎÍ§ÖÊÁ¿Ò²Ê¹µÂ¹úÓÎÍ§ÑïÃûÈ«Çò¡£ÓĞÒâÓÚ¸Ã¹úÓÎÍ§µÄÈËÊ¿×ÔÈ»²»ÄÜ´í¹ı¸Ã¹ú¹úÄÚ×î´óµÄÓÎÍ§Õ¹»á¡ª¡ª¶ÅÈû¶û¶à·òÓÎÍ§Õ¹(Ò²ÊÇÊÀ½çÉÏ×î´óµÄÄÚÂ½Õ¹»á)¡£</p>
+
+<p>¡¡¡¡¸ÃÕ¹»áÓÚÃ¿Äê1 ÔÂÏÂÑ®ÔÚµÂ¹úÀ³ÒğºÓÅÏµÄ¶ÅÈû¶û¶à·òÊĞÄÚ¾ÙĞĞ¡£2007ÄêµÄÕ¹»áÃæ»ı´ïµ½ÁË221200Æ½·½Ã×£¬Õ¹Çø¾àÀëÊĞÇø5Ç§Ã×£¬Àë»ú³¡2Ç§Ã×¡£¸ÃÄêÆ±¼ÛÎª14Å·Ôª£¬×ÜÓÚ»á¹ÛÖÚÈËÊı´ï273000ÈË£¬²ÎÕ¹ÉÌ´ïµ½1641¼Ò£¬ÆäÖĞÀ´×ÔµÂ¹úÒÔÍâµÄÓĞ653¼Ò¡£</p>
+
+<div class="img_wrapper"><img alt="ÈÈÄÇÑÇÓÎÍ§Õ¹" src="http://i1.sinaimg.cn/lx/2011/0228/U5475P622DT20110228175203.jpg" title="ÈÈÄÇÑÇÓÎÍ§Õ¹" /><span class="img_descr">ÈÈÄÇÑÇÓÎÍ§Õ¹</span></div>
+
+<p>¡¡¡¡<strong>ÒâÊ½ÓÎÍ§ÌìÌÃ£ºÈÈÄÇÑÇÓÎÍ§Õ¹</strong></p>
+
+<p>¡¡¡¡ÓëÃÀÊ½ÓÎÍ§µÄÊµÓÃÏà±È£¬Òâ´óÀûÓÎÍ§µÄÓÅÑÅºÍÊ±ÉĞ¸üÊÇ¾ÙÊÀÎÅÃû¡£¶øÇÒ´ÓÄ¿Ç°ÄÚµØÒÑÊÛÓÎÍ§À´¿´£¬Òâ´óÀûÓÎÍ§ÔÚÏúÊÛ×ÜÖµÉÏµÄÂÔÊ¤Ò»³ïËÆºõÒ²ÄÜËµÃ÷£ºÅ·Ê½(ÓÈÆäÊÇÒâ´óÀû·ç¸ñ)·ç¸ñ¸üÊÜÄÚµØÏû·ÑÕßµÄ»¶Ó­¡£Òò¶øÈç¹ûÖÓÇéÓÚÑÇÆ½Äş·ç¸ñµÄ»°£¬Ö±½Óµ½Òâ´óÀû¹úÄÚ×î´óµÄ×ÛºÏÓÎÍ§Õ¹¡ª¡ªÈÈÄÇÑÇÓÎÍ§Õ¹ÌôÑ¡¾ø¶ÔÊÇ¸öÉÏ¼ÑµÄÑ¡Ôñ¡£ÈÈÄÇÑÇÓÎÍ§Õ¹ÓÚÃ¿Äê10 ÔÂÉÏÑ®¾ÙĞĞ£¬Õ¹ÇøÃæ»ı´ï300000Æ½·½Ã×£¬Æ±¼Û13Å·Ôª¡£2007Äê¹²ÎüÒıÁË324000Ãû¹ÛÖÚ¡£¹²ÓĞ1650¼Òµ¥Î»²ÎÕ¹£¬ÆäÖĞ¹úÍâÕ¹ÉÌ´ïµ½594¼Ò¡£</p>
+
+<p>¡¡¡¡<strong>×î¹Ø×¢Î´³ÉÄêÈËÓÎÍ§Õ¹£º¶àÂ×¶àÓÎÍ§Õ¹</strong></p>
+
+<p>¡¡¡¡ÔÚÖÚ¶à¹úÍâÕ¹»áÖĞ£¬´ó¶à¶ÔÎ´³ÉÄêÈË¶¼ÓĞÆ±¼ÛÓÅ»İ£¬µ«ÔÚÕâ·½ÃæÓÅ»İÕş²ß×î´óµÄËÆºõ²¢²»ÊÇÒÔÉÏÄÇĞ©³¬´óĞÍ¹ú¼ÊĞÔÕ¹»á£¬¶øÊÇÃ¿Äê1 ÔÂÖĞÑ®¾ÙĞĞµÄ¶àÂ×¶àÓÎÍ§Õ¹¡£2008Äê1ÔÂ·İ¾ÙĞĞµÄ¸ÃÓÎÍ§Õ¹(ÕıÖµÕ¹»á50ËêÉúÈÕ)¹æ¶¨£º·²ÊÇĞ¡º¢´ø×Ô¼ºÇ××ÔÖÆ×÷µÄÓÎÍ§Ä£ĞÍ²Î¹Û£¬¼Ò³¤Ò²ÍêÈ«Ãâ·Ñ(Æ±¼Û13ÃÀÔª×óÓÒ)¡£Õ¹ÇøÃæ»ı´ï59157Æ½·½Ã×¡£2007ÄêÍ³¼ÆÊı¾İ±íÃ÷£¬¸ÃÄê¸ÃÕ¹»á¹²ÎüÒıÁË90270Ãû¹ÛÖÚ¡£¹²ÓĞ600¼Òµ¥Î»²ÎÕ¹£¬µ«¹úÍâÕ¹ÉÌ½öÓĞ10¸ö¡£</p>
+
+<div class="img_wrapper"><img alt="ÍêÈ«·«´¬Õ¹" src="http://i0.sinaimg.cn/lx/2011/0228/U5475P622DT20110228175219.jpg" title="ÍêÈ«·«´¬Õ¹" /><span class="img_descr">ÍêÈ«·«´¬Õ¹</span></div>
+
+<p>¡¡¡¡<strong>·ç·«´ó¼¯ºÏ£ºÍêÈ«·«´¬Õ¹</strong></p>
+
+<p>¡¡¡¡ËäÈ»Á¬ĞøÔâÓöì«·ç¡¢ÃÀÔª»ãÂÊ·ç²¨ÒÔ¼°Ïû·ÑÕßĞÅĞÄÖ¸ÊıÏÂµøµÄÁ¬Ğø³å»÷£¬µ«ÃÀ¹úÈÔÊÇÊÀ½çµÚÒ»ÓÎÍ§ÊĞ³¡£¬Æä¹úÄÚµÄÓÎÍ§Õ¹»áÒ²ÔçÒÑµÃÒÔÏ¸·Ö¡£¶øÉúĞÔºÃ¶¯µÄÃÀ¹úÈË²»µ«¶ÔµöÓã·è¿ñ£¬¶ÔÓÚ·«´¬µÄÏ²ºÃÍ¬ÑùÁîÈË¹ÎÄ¿£¬·ñÔòÎÒÃÇÒ²¼û²»×ÅÈç´Ë¶àµÄÃÀ¹ú·«´¬ºÍË®ÊÖ»î¶¯ÔÚÊÀ½ç·«´¬½çÄÚÁË¡£ÃÀ¹úµÄ¡°ÍêÈ«·«´¬Õ¹¡±(Strictly Sail Shows)¼´ÊÇÊÀÉÏÖøÃûµÄ×¨ÒµÏµÁĞ·«´¬Õ¹¡£¸ÃÕ¹»á¹ÜÀí·½Ã¿Äê½«ÔÚ·Ñ³Ç¡¢°Í¶ûµÄÄ¦¡¢Ö¥¼Ó¸ç¡¢Âõ°¢ÃÜ¡¢°Â¿ËÀ¼¡¢±ËµÃË¹±¤ºÍÅµ¸£¿Ë¸÷¾ÙĞĞÒ»³¡·«´¬Õ¹¡£ÆäÖĞÖ¥¼Ó¸çÕ¾ÊÇÆäÖĞ×î´óÒ»Õ¾¡£Ö¥¼Ó¸ç·«´¬Õ¹µÄ»áËùÃæ»ı´ï16351Æ½·½Ã×¡£¾àÊĞÖĞĞÄ7.5Ç§Ã×£¬¾à»ú³¡48Ç§Ã×¡£2007Äê¸ÃÕ¹»áµÄÆ±¼ÛÎª12-15ÃÀÔª£¬¹²ÎüÒıÁË19500¹ÛÖÚ¡£</p>
+
+<p>¡¡¡¡Õ¹»áÆÚ¼ä»¹¾ÙĞĞÁËÖÚ¶àµÄÃÀ¹úÖĞÎ÷²¿·«´¬Ïà¹Ø»áÒé¡¢·«´¬¾ãÀÖ²¿»áÒéºÍÖÆÔìÒµÑĞÌÖ»áµÈ¡£Ö¥¼Ó¸çÍêÈ«·«´¬Õ¾ÔÚ2007Äê¶È¹²ÎüÒıÁË245¼Òµ¥Î»²ÎÕ¹£¬ÆäÖĞ¹úÍâÕ¹ÉÌ½öÓĞ12¼Ò¡£</p>
+
+<p>¡¡¡¡<strong>ÊÀ½çµÚÒ»ÓÎÍ§Õ¹£ºÀÍµÂá·±¤ÓÎÍ§Õ¹</strong></p>
+
+<p>¡¡¡¡ÖÚËùÖÜÖªµÄÊÀ½çµÚÒ»ÓÎÍ§Õ¹£¬¿ÉÎ½ÓÎÍ§ÊÀ½çµÄÁªºÏ¹ú¡£ÓÚÃ¿Äê10ÔÂ·İÏÂÑ®ÔÚÃÀ¹ú¸¥ÂŞÀï´ïÖİµÄÀÍµÂá·±¤ÊĞ¾ÙĞĞ¡£Ë®Â½Á½ÆÜµÄÕ¹Çø·Ö²¼ÔÚ6¸ö²»Í¬µØµã£¬ÆäÖĞ4¸öË®ÉÏÕ¹ÇøÓÈÆäÃæ»ı¹ãÀ«ÁîÈËÓ°ÏìÉî¿Ì£¬´ï278709Æ½·½Ã×£¬¾àÊĞÖĞĞÄ½ö1Ç§Ã×£¬¾à»ú³¡4Ç§Ã×¡£</p>
+
+<p>¡¡¡¡2006Äê¹ºÆ±²Î¹ÛÈËÊı´ï14 ÍòÈË´Î¡£³¤ÄêÆøºòÎÂºÍµÄ¸¥ÂŞÀï´ïÖİÊÇÃÀ¹úµÄÓÎÍ§ÌìÌÃ£¬±¾µØÇøÄËÖÁÃÀ¹ú¹úÄÚÖÚ¶àµÄÓÎÍ§ÖÆÔìÉÌ¸øÓè¸ÃÕ¹»áÒÔ¾Ş´óµÄÖ§³Ö¡£2006Äê¹²ÎüÒı²ÎÕ¹ÉÌÈËÊı´ï1068¼Ò£¬ÆäÖĞ110¼ÒÀ´×ÔÃÀ¹úÒÔÍâ¡£</p>
+
 			</div>
-            <div style="width:100%; height:1px; clear:both;"></div>	
-            <nav class="nav_line" id="nav_line">
-                <div id="nav_pan">
-                    <a href="//m.cankaoxiaoxi.com/" title="">æ¨è</a>
-					<a href="//m.cankaoxiaoxi.com/politics/" title="">ç¬¬ä¸€å…³æ³¨</a>
-					<a href="//m.cankaoxiaoxi.com/china/" title="">ä¸­å›½</a>
-					<a href="//m.cankaoxiaoxi.com/world/" title="">å›½é™…</a>
-					<a href="//m.cankaoxiaoxi.com/mil/" title="">å†›äº‹</a>
-					<a href="//m.cankaoxiaoxi.com/tw/" title="">å°æµ·</a>
-					<a href="//m.cankaoxiaoxi.com/column/" title="">è§‚ç‚¹</a>
-					<a href="//m.cankaoxiaoxi.com/finance/" title="">è´¢ç»</a>
-					<a href="//m.cankaoxiaoxi.com/science/" title="">ç§‘æŠ€</a>
-					<a href="//m.cankaoxiaoxi.com/health/" title="">å¥åº·</a>
-					<a href="//m.cankaoxiaoxi.com/culture/" title="">æ–‡åŒ–</a>
-					<a href="//m.cankaoxiaoxi.com/ym/" title="">åŒè¯­</a>
-					<a href="//m.cankaoxiaoxi.com/sports/" title="">ä½“è‚²</a>
-					<a href="//m.cankaoxiaoxi.com/zhiku/" title="">æ™ºåº“</a>
-                </div>
-                <a href="javascript:;" title="" class="more" target="_self"></a>
-            </nav>
-            <nav class="nav_rect">
-                <div class="ov">
-                    <a class="rect_a" href="//m.cankaoxiaoxi.com/" title="">æ¨è</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/politics/" title="">ç¬¬ä¸€å…³æ³¨</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/china/" title="">ä¸­å›½</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/world/" title="">å›½é™…</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/mil/" title="">å†›äº‹</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/tw/" title="">å°æµ·</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/column/" title="">è§‚ç‚¹</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/finance/" title="">è´¢ç»</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/science/" title="">ç§‘æŠ€</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/health/" title="">å¥åº·</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/culture/" title="">æ–‡åŒ–</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/ym/" title="">åŒè¯­</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/sports/" title="">ä½“è‚²</a>
-					<a class="rect_a" href="//m.cankaoxiaoxi.com/zhiku/" title="">æ™ºåº“</a>
-                </div>
-                <span></span>
-            </nav>
-		</header>
-		<article>
-			<h1>æ¯æ¬¡åƒä¸€æŠŠè¯ç‰‡ï¼Ÿè¯·å°å¿ƒâ€œå¤šé‡ç”¨è¯â€çš„é£é™©</h1>
-			<p class="time"><span>2022.05.27</span><span>æ¥æºï¼šå‚è€ƒæ¶ˆæ¯ç½‘</span></p>
-                        <style>
-            video {width:100%;}
-            .addon-video{display:none;}
-            </style>
-            <script>
-                $(function(){
-                    var oA = document.createElement("a");
-                oA.href = "#";
-                oA.innerHTML = '<img src="//count.cankaoxiaoxi.com/count.png?contentid=2480739" alt="count">';
-                document.body.appendChild(oA);
-                });
+            <!-- ÎÄÕÂÄÚÈİ end -->
 
-                window.onload=function(){
-                    var string = $(".content").html();
-                    var video = string.match(/flashvars\"\svalue=\".*?(http.*?)\"/);
-                    if(video){
-                        if(video[1].indexOf("pearvideo")>0 || video[1].indexOf("cankaoxiaoxi")>0){
-                            var num = video[1].indexOf(".mp4");
-                            video[1] = video[1].substring(0,num+4);
-                        }
-                        video[1] = video[1].replace(/%26/g,'&');
-                        var video_html = $("<video src='"+video[1]+"' controls='controls' autoplay></video>");
-                    $(".addon-video").before(video_html);
-                    }
-                }
-            </script>
-            <div class="content">
-                                                                                        <p><strong><a href="http://www.cankaoxiaoxi.com?toindex=2" target="_blank">å‚è€ƒæ¶ˆæ¯ç½‘</a>5æœˆ27æ—¥æŠ¥é“</strong> æ®ç¾å›½ã€Šç§‘å­¦æ—¥æŠ¥ã€‹ç½‘ç«™5æœˆ17æ—¥æŠ¥é“ï¼Œå¦‚æœä½ åŒæ—¶æœç”¨å¤šç§è¯ç‰©ï¼Œé‚£ä¹ˆä½ éœ€è¦çŸ¥é“&ldquo;å¤šé‡ç”¨è¯&rdquo;è¿™ä¸ªè¯ã€‚</p><p>æœ‰ä¸€ç§æƒ…å†µéå¸¸å¸¸è§ï¼Œä»¥è‡³äºè¿‘92%çš„è€å¹´ç™Œç—‡æ‚£è€…éƒ½ç»å†è¿‡ï¼šä¸€ä¸ªæ¥æ¥å—æ²»ç–—çš„äººæŠ¥å‘Šè¯´ï¼Œä»–æœç”¨å¤šç§è¯ç‰©ï¼Œå…¶ä¸­å¯èƒ½åŒ…æ‹¬æ²»ç–—é«˜è¡€å‹æˆ–å¿ƒè„ç—…çš„è¯ç‰©ã€æŠ—æŠ‘éƒè¯ç‰©æˆ–ç³–å°¿ç—…è¯ç‰©ã€‚æ‚£è€…è¿˜å¯èƒ½ç»å¸¸æœç”¨ä¸€äº›æ²»ç–—å¤´ç—›çš„è¯ç‰©ã€ç¼“è§£çƒ§å¿ƒå’Œåæµçš„éå¤„æ–¹è¯ç‰©ä»¥åŠç»´ç”Ÿç´ å’ŒçŸ¿ç‰©è´¨ã€‚</p><p>æŠ¥é“ç§°ï¼Œè¿™ç§è¯ç‰©å¤§æ‚çƒ©è¢«å®šä¹‰ä¸º&ldquo;å¤šé‡ç”¨è¯&rdquo;ï¼Œä¹Ÿå°±æ˜¯åŒæ—¶ä½¿ç”¨å¤šç§è¯ç‰©ã€‚è¿™å¯ä»¥è®©äººæ›´å®¹æ˜“å—åˆ°è¯ç‰©ç›¸äº’ä½œç”¨çš„æœ‰å®³å½±å“ï¼Œè¿™å¯¹å³å°†æ¥å—æŸç§ç–—æ³•çš„ç™Œç—‡æ‚£è€…æ¥è¯´å°¤å…¶å±é™©ã€‚</p><p><strong>æœè¯è¶Šå¤šé£é™©è¶Šå¤§</strong></p><p>ç¾å›½å¨å°”è«ç‰¹ç™Œç—‡ç ”ç©¶æ‰€è‚¿ç˜¤å­¦å®¶ã€è€å¹´åŒ»å­¦ä¸“å®¶åŸƒä¸½å¡&middot;æ‹‰å§†æ–¯ä»£å°”è¯´ï¼Œå³ä½¿å¯¹æ²¡æœ‰æ‚£ç™Œç—‡çš„äººæ¥è¯´ï¼Œå¤šé‡ç”¨è¯ä¹Ÿå……æ»¡é£é™©ä¸”ä¸æ˜“æŠŠæ¡ã€‚</p><p>å¥¹è¯´ï¼Œä¸€ä¸ªäººæœç”¨çš„è¯ç‰©å’Œè¡¥å……å‰‚è¶Šå¤šï¼Œç”¨è¯ä¸å½“å’Œè¯ç‰©é—´å‘ç”Ÿä¸¥é‡ä¸è‰¯ååº”çš„é£é™©å°±è¶Šé«˜ã€‚ä¸åŒä¸“ä¸šçš„åŒ»ç–—æœåŠ¡å­˜åœ¨éš”é˜‚ï¼Œè¿™ä¸€æ€§è´¨ä½¿é—®é¢˜å¤æ‚åŒ–ã€‚æ‹‰å§†æ–¯ä»£å°”è¯´ï¼Œ&ldquo;æœ‰æ—¶æ²¡æœ‰æŒ‡æŒ¥è€…&rdquo;ï¼Œè¿™å¯èƒ½å¯¼è‡´&ldquo;å¤„æ–¹æ¿€å¢&rdquo;ï¼Œå³é€šè¿‡å¤šå¼€è¯æ¥æŠµæ¶ˆåŸæœ‰è¯ç‰©çš„å‰¯ä½œç”¨ã€‚</p>                <!-- @end æ–‡ç« å†…å®¹ -->
-                                			</div>
-            <style>
-                ul.pages {width:100%; overflow:hidden; margin: 10px auto;}
-                ul.pages li {width:30%; float:left; border:1px solid #ccc; margin-right:4%; text-align:center; height:30px; line-height:30px; font-size:18px; color:#aaa;}
-                ul.pages li:last-child {margin:0;}
-                ul.pages li span {color:#000;}
-                ul.pages a{color:#aaa;}
-                ul.pages .next a {color:#f11212;}
-                .news .ad {padding:10px 0;  border-bottom:1px solid #aaa; display:none;}
-                .news a p {font-weight:bold;}
-                .ad {width:100%; overflow:hidden; }
-                .ad img {width:100%;}
-                .content p {padding-bottom:15px;}
-                .news {margin-bottom:5px;}
-                .news li {position:relative;}
-                .news li .time {position:absolute; bottom:10px; width:100%;}
-            </style>				
-			<ul class="pages">
-                <li><a target="_self" href="javascript:;">ä¸Šä¸€é¡µ</a></li>
-                <li><span>1</span>/2</li>
-                <li class="next"><a target="_self" href="//m.cankaoxiaoxi.com/health/20220527/2480739_2.shtml">ä¸‹ä¸€é¡µ</a></li>
-            </ul>
-            <!--å‚è€ƒæ¶ˆæ¯æ‰‹æœºç«¯å†…é¡µåˆ†é¡µç¬¦ä¸‹æ–¹-->
-			<div class="clear"></div>
-		</article>
-
-                <style>
-            .content p:np-child(2){margin-top:-10px;}
-            .media {width:90%; margin-top:30px; font-family:"microsoft yahei"; line-height:30px;}
-            .media .voice>p{background:url(//upload.cankaoxiaoxi.com/2015/0909/1441787469377.jpg) no-repeat 0 5px; padding-left:30px; color:#cc3333; font-size:16px; line-height:30px; font-weight:bold;margin-left:10px;}
-            .media .clear {clear:both; height:1px;}
-            .media .voice a p {padding:20px 0 0 20px; line-height:25px; color:#333;}
-            .media .voice a p:last-child {text-align:right; color:#999;}
-            .media a p span {color:#c33;}
-            .media .num>p{background:url(//upload.cankaoxiaoxi.com/2015/0909/1441787507989.jpg) no-repeat 0 5px; padding-left:30px; color:#cc3333; font-size:16px; line-height:30px; font-weight:bold;margin-left:10px;}
-            .media .num, .media .person {margin-top:30px;}
-            .media .num .num_l {/*width:162px;*/ /*float:left;*/ margin:0 auto; font-size:50px; font-weight:bold; text-align:center; margin-top:20px;}
-            .media .num .num_r {/*width:415px; float:left;*/ /*border-left:1px dashed #000;*/ padding:20px 0 0 20px; line-height:25px; color:#333;}
-            .media .person>p{background:url(//upload.cankaoxiaoxi.com/2015/0909/1441787520134.jpg) no-repeat 0 5px; padding-left:30px; color:#cc3333; font-size:16px; line-height:30px; font-weight:bold;margin-left:10px;}
-            .media .person .person_l {width:162px; float:left; font-size:16px; font-weight:bold; text-align:center; margin-top:10px;}
-            .media .person .person_r {/*width:415px; height:168px; float:left;border-left:1px dashed #000;*/ padding:20px 0 0 20px; line-height:25px; color:#333;}
-            .media .person .person_l span {color:#000; display:block; margin-top:10px;}
-            .media a {display:block; border-left:2px solid #ccc; font-size:14px; margin-left:10px;}
-            .media a:hover, ul.rel a:hover, ul.zt a:hover, ul.read a:hover{text-decoration:none;}
-            ul.rel,ul.zt,ul.read {margin-top:30px; border:2px solid #ebebeb;font-family:"microsoft yahei"; line-height:30px; font-size:14px; width: 95%; margin: 0 auto; margin-top: 15px;}
-            ul.rel>p,ul.zt>p,ul.read>p {font-size:18px; font-weight:bold; color:#fff; margin:15px 0 0 -7px; background:url(//upload.cankaoxiaoxi.com/2015/0910/1441850291184.png) no-repeat 0 0; height:36px; line-height:28px; padding-left:15px;}
-            ul.rel li {border-top: 1px solid #ebebeb;   padding: 15px 20px;}
-            ul.rel li h3{font-size:18px; margin-bottom:10px; font-weight:bold;}
-            ul.rel li p{margin-bottom:10px; text-indent:28px; line-height:23px; color:#333;}
-            ul.rel li p span {color:#c33;}
-            ul.zt li{ background:url(upload.cankaoxiaoxi.com/2015/0910/1441851867866.jpg) no-repeat 570px center; line-height:50px; font-size:16px; border-bottom: 1px solid #eee; clear:both;}
-            ul.zt span { padding:0 20px;}
-            ul.zt a span:first-child{color:#369; border-right:1px solid #369;}
-            ul.read>p span{color:#369; margin-left:20px; font-weight:normal; font-size:14px;}
-            ul.read>p span a{color:#369;}
-            ul.read>p span:first-child{margin-left:40px;}
-            ul.read li{background:url(//upload.cankaoxiaoxi.com/2015/0910/1441852686500.jpg) no-repeat left center; font-size:16px; line-height:40px; padding-left:20px; margin-left:20px;}
-            .media a:hover p.num_r,.media .voice a:hover p, .media .person a:hover .person_r, .media .person a:hover .person_r,ul.rel li a:hover p {color: #AE3F3D;}
-            ul.read li {background: url(//upload.cankaoxiaoxi.com/2015/0910/1441852686500.jpg) no-repeat top 0.5em left; font-size: 14px;line-height: 1.8em;padding-left: 20px; margin-left: 20px;}
-            .bshare-custom a {float: left; width: 30px; height: 50px;/* padding-left: 25px;*/text-decoration: none;display: none;zoom: 1;vertical-align: middle;cursor: pointer;color: #333;margin-right: 3px;-moz-opacity: 1;-khtml-opacity: 1;}
-            ul.read li {line-height: 1.3em;margin-top: 15px;}
-            ul.read li:last-child {line-height: 1.3em;margin-top: 15px;margin-bottom:15px;}
-            ul.rel li p {line-height: 20px;}
-            ul.rel li h3 {line-height: 1.3em;}
-            .media .voice a p {line-height: 1.3em;}
-            .media .voice>p {font-size: 18px;}
-            .media .num>p{font-size: 18px;}
-            ul.zt a span:first-child {color: #369;border-right: none;}
-            ul.zt span {padding: 0;}
-            ul.zt li {line-height: 1.4em;font-size: 16px;border-bottom: 1px solid #eee;clear: both;margin-top:10px;}
-		</style>
-        <script>
-            $(document).ready(function(){
-                var h = document.body.scrollWidth||document.documentElement.scrollWidth  ;
-                if(h>380){
-                    $(".hot a img").css("height",135);    
-                    $(".share").css("padding-right",18);
-                    $(".news ul li .desc").css({"line-height":"1.8em"});
-                }
-            });
-        </script>
-		<!--ç²¾ç¼–åŒºå— start-->
-        
-        <style>
-            #toutiao_container .section {width:92%; margin:0 auto;}
-            .waidi {display:none;}
-            .news ul>div {float:left; margin-left:-4%; border-bottom: 1px solid rgba(229,229,229,0.5); border-top: 1px solid rgba(229,229,229,0.5);}
-        </style>
-		<section class="news">
-			<p class="btitle">
-				çƒ­ç‚¹æ–°é—»
-			</p> 
-			<ul>
-                                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220527/2480715.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0527/1653615286718.jpg" width="100%" alt="å¤–åª’ï¼šç¾å›½ç©ºæ´çš„â€œå°å¤ªç»æµæ¡†æ¶â€æ”¶è·å¤±æœ›å’Œå˜²ç¬‘"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220527/2480715.shtml" target="_blank"><p>å¤–åª’ï¼šç¾å›½ç©ºæ´çš„â€œå°å¤ªç»æµæ¡†æ¶â€æ”¶è·å¤±æœ›å’Œå˜²ç¬‘</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.27</span><span class="f-r"style="font-size:13px">å½­åšæ–°é—»ç¤¾ç½‘ç«™</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480659.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0526/1653555819374.jpg" width="100%" alt="æ¸¯åª’ï¼šâ€œå°å¤ªç»æµæ¡†æ¶â€å½¢å¼å¤§äºå®è´¨ï¼Œæ›´å¤šæ˜¯åœ¨ä½œç§€"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480659.shtml" target="_blank"><p>æ¸¯åª’ï¼šâ€œå°å¤ªç»æµæ¡†æ¶â€å½¢å¼å¤§äºå®è´¨ï¼Œæ›´å¤šæ˜¯åœ¨ä½œç§€</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.26</span><span class="f-r"style="font-size:13px">é¦™æ¸¯äºšæ´²æ—¶æŠ¥ç½‘ç«™</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480657.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0526/1653555288729.jpg" width="100%" alt="è¥¿åª’æ–‡ç« ï¼šä¹Œå…‹å…°å®Œå…¨å±ˆä»äºç¾å›½çš„åˆ©ç›Š"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480657.shtml" target="_blank"><p>è¥¿åª’æ–‡ç« ï¼šä¹Œå…‹å…°å®Œå…¨å±ˆä»äºç¾å›½çš„åˆ©ç›Š</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.26</span><span class="f-r"style="font-size:13px">è¥¿ç­ç‰™ã€Šèµ·ä¹‰æŠ¥ã€‹ç½‘</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480656.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0526/1653555082446.jpg" width="100%" alt="ä¿„å›½é™…äº‹åŠ¡ç†äº‹ä¼šä¸»ä»»ï¼šä¿„ä¹Œå†²çªå°†å¸¦æ¥å·¨å¤§åœ°ç¼˜æ”¿æ²»åæœ"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480656.shtml" target="_blank"><p>ä¿„å›½é™…äº‹åŠ¡ç†äº‹ä¼šä¸»ä»»ï¼šä¿„ä¹Œå†²çªå°†å¸¦æ¥å·¨å¤§åœ°ç¼˜æ”¿æ²»åæœ</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.26</span><span class="f-r"style="font-size:13px">ä¿„ç½—æ–¯å›½é™…äº‹åŠ¡ç†äº‹</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480621.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0526/1653544094229.jpg" width="100%" alt="ç¾ä¸“å®¶ï¼šæ‹œç™»åœ¨äºšæ´²æâ€œä»·å€¼è§‚å¤–äº¤â€æ˜¯ä¸€ä¸ªä»£ä»·é«˜æ˜‚çš„é”™è¯¯"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480621.shtml" target="_blank"><p>ç¾ä¸“å®¶ï¼šæ‹œç™»åœ¨äºšæ´²æâ€œä»·å€¼è§‚å¤–äº¤â€æ˜¯ä¸€ä¸ªä»£ä»·é«˜æ˜‚çš„é”™è¯¯</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.26</span><span class="f-r"style="font-size:13px">ç¾å›½ã€Šæ—¶ä»£ã€‹å‘¨åˆŠ</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480620.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0526/1653543985565.jpg" width="100%" alt="ç‰¹åˆ—å®æ–‡ç« ï¼šæ‰“èµ¢è¥¿æ–¹çš„â€œæ··åˆæˆ˜äº‰â€ï¼Œä¿„ç½—æ–¯é¡»å½»åº•æ”¹é€ è‡ªå·±"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480620.shtml" target="_blank"><p>ç‰¹åˆ—å®æ–‡ç« ï¼šæ‰“èµ¢è¥¿æ–¹çš„â€œæ··åˆæˆ˜äº‰â€ï¼Œä¿„ç½—æ–¯é¡»å½»åº•æ”¹é€ è‡ªå·±</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.26</span><span class="f-r"style="font-size:13px">ä»Šæ—¥ä¿„ç½—æ–¯ç”µè§†å°ç½‘</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480581.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0526/1653529952951.jpg" width="100%" alt="å¤–åª’ï¼šIPEFå¼ºæ¨â€œæ‘†è„±ä¸­å›½â€å°†æä¹±åŒºåŸŸç»æµ"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480581.shtml" target="_blank"><p>å¤–åª’ï¼šIPEFå¼ºæ¨â€œæ‘†è„±ä¸­å›½â€å°†æä¹±åŒºåŸŸç»æµ</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.26</span><span class="f-r"style="font-size:13px">æ—¥æœ¬æ—¶äº‹ç¤¾</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480394.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0525/1653443345555.jpg" width="100%" alt="å¤–åª’ï¼šâ€œå››æ–¹å®‰å…¨å¯¹è¯â€å·²æ²¦ä¸ºâ€œäºŒæ‰‹å¤‡èƒâ€"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220526/2480394.shtml" target="_blank"><p>å¤–åª’ï¼šâ€œå››æ–¹å®‰å…¨å¯¹è¯â€å·²æ²¦ä¸ºâ€œäºŒæ‰‹å¤‡èƒâ€</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.26</span><span class="f-r"style="font-size:13px">æ¾³å¤§åˆ©äºšä¸œäºšè®ºå›ç½‘</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220525/2480561.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0525/1653486332381.jpg" width="100%" alt="å¾·åª’æ–‡ç« ï¼šæ¬§ç›Ÿåº”è€ƒè™‘æ‰“é€ â€œæ¬§æ´²æ ¸ç›¾ç‰Œâ€"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220525/2480561.shtml" target="_blank"><p>å¾·åª’æ–‡ç« ï¼šæ¬§ç›Ÿåº”è€ƒè™‘æ‰“é€ â€œæ¬§æ´²æ ¸ç›¾ç‰Œâ€</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.25</span><span class="f-r"style="font-size:13px">å¾·å›½å¤–äº¤æ”¿ç­–ç½‘ç«™</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220525/2480482.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0525/1653462798817.jpg" width="100%" alt="ç¾åª’ï¼šæ‹œç™»æ€¥äºæ¨è¿›å¤–äº¤æ”¿ç­–è®®ç¨‹"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220525/2480482.shtml" target="_blank"><p>ç¾åª’ï¼šæ‹œç™»æ€¥äºæ¨è¿›å¤–äº¤æ”¿ç­–è®®ç¨‹</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.25</span><span class="f-r"style="font-size:13px">ç¾å›½ã€Šåå°”è¡—æ—¥æŠ¥ã€‹</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480350.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0524/1653384005381.jpg" width="100%" alt="é©¬å‡¯ç¡•ã€é™ˆç¹æ˜Œè”åˆæ’°æ–‡ï¼šç¾å¯¹åæŠ€æœ¯æˆ˜é˜»ç¢å…¨çƒåˆä½œ"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480350.shtml" target="_blank"><p>é©¬å‡¯ç¡•ã€é™ˆç¹æ˜Œè”åˆæ’°æ–‡ï¼šç¾å¯¹åæŠ€æœ¯æˆ˜é˜»ç¢å…¨çƒåˆä½œ</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.24</span><span class="f-r"style="font-size:13px">ä¸–ç•ŒæŠ¥ä¸šè¾›è¿ªåŠ ç½‘ç«™</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480337.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0524/1653380093886.jpg" width="100%" alt="ç¾åª’ï¼šå–æ¶ˆå¯¹ååŠ å¾å…³ç¨ï¼Œæ‹œç™»ä¸ºä½•çŠ¹è±«ä¸å†³"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480337.shtml" target="_blank"><p>ç¾åª’ï¼šå–æ¶ˆå¯¹ååŠ å¾å…³ç¨ï¼Œæ‹œç™»ä¸ºä½•çŠ¹è±«ä¸å†³</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.24</span><span class="f-r"style="font-size:13px">ç¾å›½ã€Šåç››é¡¿é‚®æŠ¥ã€‹</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480332.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0524/1653378488282.jpg" width="100%" alt="å¾·åª’ï¼šç¾å›½è®©â€œåé™¢â€å¾®å¦™è§£å†»äº†ï¼Ÿ"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480332.shtml" target="_blank"><p>å¾·åª’ï¼šç¾å›½è®©â€œåé™¢â€å¾®å¦™è§£å†»äº†ï¼Ÿ</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.24</span><span class="f-r"style="font-size:13px">å¾·å›½ä¹‹å£°ç”µå°ç½‘ç«™</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480323.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0524/1653376524560.jpg" width="100%" alt="ç¾åª’ï¼šèŠ¬å…°ä¸åŠ å…¥åŒ—çº¦ä¼šæ›´å¥½"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480323.shtml" target="_blank"><p>ç¾åª’ï¼šèŠ¬å…°ä¸åŠ å…¥åŒ—çº¦ä¼šæ›´å¥½</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.24</span><span class="f-r"style="font-size:13px">ç¾å›½ã€Šå›½å®¶åˆ©ç›Šã€‹åŒ</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480286.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0524/1653361994352.jpg" width="100%" alt="å¾·åª’ï¼šç¾æ”¿å®¢çƒ­è¡·â€œæˆ˜äº‰å«åš£â€å®³äººå®³å·±"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480286.shtml" target="_blank"><p>å¾·åª’ï¼šç¾æ”¿å®¢çƒ­è¡·â€œæˆ˜äº‰å«åš£â€å®³äººå®³å·±</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.24</span><span class="f-r"style="font-size:13px">å¾·å›½å¤–äº¤æ”¿ç­–ç½‘ç«™</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480196.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0523/1653291695366.jpg" width="100%" alt="ç¾åª’è´¨é—®ï¼šç¾å›½ç°åœ¨å¯¹å¤§è§„æ¨¡æ­»äº¡å®¹å¿åº¦è¿™ä¹ˆé«˜äº†å—ï¼Ÿï¼"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480196.shtml" target="_blank"><p>ç¾åª’è´¨é—®ï¼šç¾å›½ç°åœ¨å¯¹å¤§è§„æ¨¡æ­»äº¡å®¹å¿åº¦è¿™ä¹ˆé«˜äº†å—ï¼Ÿï¼</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.24</span><span class="f-r"style="font-size:13px">ç¾è”ç¤¾</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480139.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0523/1653273675326.jpg" width="100%" alt="ä¿„åª’ï¼šç¾åˆ©ç”¨ä¿„ä¹Œå†²çªåŠ å‰§å°æµ·ç´§å¼ å±€åŠ¿"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220524/2480139.shtml" target="_blank"><p>ä¿„åª’ï¼šç¾åˆ©ç”¨ä¿„ä¹Œå†²çªåŠ å‰§å°æµ·ç´§å¼ å±€åŠ¿</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.24</span><span class="f-r"style="font-size:13px">ä»Šæ—¥ä¿„ç½—æ–¯ç”µè§†å°ç½‘</span></p>
-					</div>
-                                                        
-                </li>
-				                <li class="ov">
-                					<div class="img">
-						<a href="//m.cankaoxiaoxi.com/column/20220523/2480251.shtml" target="_blank"><img src="//upload.cankaoxiaoxi.com/2022/0523/1653313845113.jpg" width="100%" alt="èƒ¡åˆ©å¥¥Â·é‡Œå¥¥æ–¯æ–‡ç« ï¼šæ—¥æœ¬å½“å±€ç§¯æå……å½“ç¾äºšå¤ªæ”¿ç­–æ——æ‰‹"></a>
-					</div>
-					<div class="desc">
-						<a href="//m.cankaoxiaoxi.com/column/20220523/2480251.shtml" target="_blank"><p>èƒ¡åˆ©å¥¥Â·é‡Œå¥¥æ–¯æ–‡ç« ï¼šæ—¥æœ¬å½“å±€ç§¯æå……å½“ç¾äºšå¤ªæ”¿ç­–æ——æ‰‹</p></a>
-						<p class="time"><span class="f-l"style="font-size:13px">2022.05.23</span><span class="f-r"style="font-size:13px">è¥¿ç­ç‰™ä¸­å›½æ”¿ç­–è§‚å¯Ÿ</span></p>
-					</div>
-                                                        
-                </li>
-				                             
-			</ul>
-			<div class="clear"></div>
-		</section>
-		<footer>
-            <div class="footerLinks"><a href="//m.cankaoxiaoxi.com">é¦–é¡µ</a> <a href="javascript:;" target="_self">å¯¼èˆª</a> <a href="//m.cankaoxiaoxi.com/x/?fr=mb">å½©ç‰ˆ</a> <a href="//m.cankaoxiaoxi.com" class="cor_ccc">è§¦å±ç‰ˆ</a> <a href="//www.cankaoxiaoxi.com/?fr=mb">PCç‰ˆ</a> </div>
-            <a href="#" target="_self" class="b mar-t-20">è¿”å›é¡¶éƒ¨</a>
-            <p class="fz-12 cor_666 mar-t-10">-å‚è€ƒæ¶ˆæ¯æŠ¥ç¤¾ ç‰ˆæƒæ‰€æœ‰-</p>
-		</footer>
-
-		<div class="share_t">
-			<div class="share_i">
-				<div class="share_t1"></div>
-				<div class="clear"></div>
-				<div class="share_c">
-					<a href="javascript:;" target="_self">å–æ¶ˆ</a>
+			<!-- ±êÇ© begin -->
+			<div class="mod_tags_box">
+				<div class="mod_tags">
+					±êÇ©:
+					<a target="_blank" href="http://search.sina.com.cn/?c=news&q=ÓÎÍ§¹ºÂò&range=all&col=1_22&a=&filter=1" title="ÓÎÍ§¹ºÂò">ÓÎÍ§¹ºÂò</a>
+					<a target="_blank" href="http://search.sina.com.cn/?c=news&q=ÓÎÍ§ĞëÖª&range=all&col=1_22&a=&filter=1" title="ÓÎÍ§ĞëÖª">ÓÎÍ§ĞëÖª</a>
+					<a target="_blank" href="http://search.sina.com.cn/?c=news&q=ÓÎÍ§¿ÎÌÃ&range=all&col=1_22&a=&filter=1" title="ÓÎÍ§¿ÎÌÃ">ÓÎÍ§¿ÎÌÃ</a>
+					<a target="_blank" href="http://search.sina.com.cn/?c=news&q=ÓÎÍ§ÖªÊ¶&range=all&col=1_22&a=&filter=1" title="ÓÎÍ§ÖªÊ¶">ÓÎÍ§ÖªÊ¶</a>
 				</div>
 			</div>
+
+			<!-- ±êÇ© end -->
+<div style="margin: 0 auto; width: 570px;"><iframe width="570" height="230" frameborder="0" scrolling="no" src="http://pfp.sina.com.cn/iframe/tblog/new/plgz_44.html"></iframe></div>
+				<div style="display:none;">
+					<div style="padding:0.83em 2.08em;text-align: right;">					¡¾<a href="http://comment4.news.sina.com.cn/comment/comment4.html?channel=sp&newsid=622-1-74419">·¢±íÆÀÂÛ<span id="cmnt_count" name="cmnt_count" cmnt_id="sp:622-1-74419:0" p_id="1622" p_key="622-1-74419" p_url="http://style.sina.com.cn/lei/yachting/2011-02-28/173874419.shtml" p_expara="" show_limit="5,0" style="display:none; margin-right:12px;">_COUNT_Ìõ</span></a>¡¿
+</div>
+				</div>
+								<!-- ÁôÑÔ begin -->
+
+				<script type="text/javascript">
+					function kf_ifempty(myform){
+						if(myform.content.value==""){
+							alert("ÇëÌîĞ´ÆÀÂÛÄÚÈİºóÔÙÌá½»,Ğ»Ğ»");
+							return false;
+						}else{
+							return true;
+						}
+					}
+				</script>
+
+				<style type="text/css">
+				.comm{width:580px;margin:10px auto 0;color:#343434;}
+				.comm .c_title{zoom:1;overflow:hidden;line-height:20px;padding:5px 0;}
+				.comm .c_title .t_name{padding-left:20px;background:url(http://i1.sinaimg.cn/lx/deco/2009/0227/comm_mj_001.gif) no-repeat 5px 4px;font-size:14px;font-weight:bold;float:left;}
+				.comm .c_title .t_more{float:right;}
+				.comm .group{background:url(http://i1.sinaimg.cn/lx/deco/2009/0227/comm_mj_001.gif) repeat-x 0 -49px;padding:10px 8px;}
+				.comm .group .c_info{color:#666;line-height:25px;}
+				.comm .group .c_memo{color:#343434;line-height:20px;}
+				.comm .c_count{text-align:right;line-height:20px;}
+				.comm .c_ele{zoom:1;overflow:hidden;padding:3px 0;}
+				.comm .f_right{float:right;}
+
+				a.nounderline {text-decoration:none;}
+				a.nounderline:hover {text-decoration:underline;}
+
+				.bPCB_t1{overflow:hidden;zoom:1;height:30px;line-height:32px;padding:0 0 0 8px; margin-top:-25px;}
+				.bPCB_b1_1{padding-bottom:5px}.bPCB_b1_1 textarea{width:100%;height:100px;border:1px #7F9DB9 solid;background:#fff}.bPCB_b1{background:#F5F8FD}.bPCB_b1_2{height:25px;overflow:hidden;zoom:1;padding:0 0 0 5px}.bPCB_b1_2 span{float:left;line-height:25px}.bPCB_b1_2_2 input,.bPCB_b1_2_4 input{width:98px;height:17px;border:1px #7F9DB9 solid;background:#fff;color:#8a8a8a;line-height:17px;margin:0 5px 0 0;padding:0}.bPCB_b1_2 span.bPCB_b1_2_7{float:none;margin-left:10px}.bPCB_b1_2 span.bPCB_b1_2_7 input{width:130px}
+				</style>
+								<!-- ·ÖÏí begin -->
+<style type="text/css">
+/* ·ÖÏíÑùÊ½ */
+.mod_fx{text-align: right;border-bottom: 1px solid #ccc;width: 584px;padding: 10px 0;margin: 0 auto;}
+.tblog_fx{display: inline-block;vertical-align: middle;}
+.icon_sina,.icon_msn,.icon_fx{display: inline-block;vertical-align: middle;width: 20px; height: 20px;margin-right: 5px;background: url(http://i1.sinaimg.cn/dy/deco/2010/1210/icon.png) 2px 0 no-repeat;}
+.icon_msn{background-position: -25px 1px;}
+.icon_fx{background: url(http://sjs1.sinajs.cn/video/video/images/icon.png) -240px -48px no-repeat;}
+</style>
+<div class="mod_fx">
+	<span class="tblog_fx">·ÖÏíµ½:</span>
+	<a class="icon_sina" href="javascript:;" id="fxwb" title="·ÖÏíµ½ĞÂÀËÎ¢²©"></a><a class="icon_msn" id="fxMSN" href="javascript:;" target="_blank" title="·ÖÏíµ½MSN"></a><a class="icon_fx" href="javascript:;" target="_blank" id="fxfx" title="·ÖÏíµ½·ÉĞÅ"></a>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+ var sendT2 = {
+	getHeader : function(){
+		var g_title=document.getElementById("artibodyTitle").innerHTML;
+		var re = /<[^<>]*?font[^<>]*?>/gi;
+		g_title = g_title.replace(re,"");
+		return g_title;
+	},
+	getFirstImgSrc : function(){
+		if (document.getElementById("artibody").getElementsByTagName("img")[0] && document.getElementById("artibody").getElementsByTagName("img")[0].width > 100 && document.getElementById("artibody").getElementsByTagName("img")[0].height > 100)
+		{
+			return document.getElementById("artibody").getElementsByTagName("img")[0].src;
+		}
+		else
+		{
+			return null;
+		}
+
+	},
+	getIntro : function(){
+
+		var intro = '',t='';
+		var para = document.getElementById("artibody").getElementsByTagName('p');
+		for(var i=0;i<para.length;i++){
+			t = para[i].innerHTML.replace(/(\<.*?\>)|\&nbsp;|[\t\n\r ]/ig,'');
+			if(t.length>30){
+				intro = t.length>180?t.substr(0,180)+'...':t;
+				break;
+			};
+		};
+		return intro;
+	}
+}
+ document.getElementById("fxwb").onclick=function(){
+ (function(s,d,e,r,l,p,t,z,c){
+	 var f='http://v.t.sina.com.cn/share/share.php?',u=z||d.location,p=['url=',e(u),'&title=',e(sendT2.getHeader()),'&ralateUid=1774501890','&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=',e(p||'')].join('');
+	 function a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');
+	 };
+	 if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else a();
+})(screen,document,encodeURIComponent,'ĞÂÀËÉĞÆ·','http://style.sina.com.cn/',sendT2.getFirstImgSrc(),null,null,null);
+	GB_SUDA._S_uaTrack('622','c_share_tblog');
+};
+(function(){
+
+	document.getElementById("fxMSN").onmousedown = function(){
+		var t = sendT2.getHeader(),p = sendT2.getFirstImgSrc(),it = sendT2.getIntro(),e = encodeURIComponent;
+		var url = window.location.href.replace(/\?.*/,'') + '?from=msn';
+		this.href = "http://profile.live.com/badge?url=" + e(url) + "&title=" + e(t) + (p?"&screenshot=" + e(p):"") + (it?"&description=" + e(it):"");
+		GB_SUDA._S_uaTrack('622','c_share_MSN');
+	};
+	document.getElementById('fxfx').onclick=function () {
+		var t = sendT2.getHeader(),p = sendT2.getFirstImgSrc(),it = sendT2.getIntro(),e = encodeURIComponent;
+		var url = window.location.href.replace(/\?.*/,'') + '?from=fetion';
+		var source='ĞÂÀËÉĞÆ·';
+		this.href = "http://space.feixin.10086.cn/api/sharenews?url=" + e(url) + "&title=" + e(t) +"&source="+e(source);
+		GB_SUDA._S_uaTrack('622','c_share_fx');
+	}
+})();
+//]]>
+</script>
+<!-- ·ÖÏí end -->
+
+<!-- nosmb begin -->
+<script language="javascript" type="text/javascript">	
+(function() {
+	if (window.opener) {
+		try {
+			var w = window.opener;
+			if (w.cancelMiniBlog && w.cancelMiniBlog[document.location.href] == true) {
+				document.getElementById("fxwb").style.display = "none";
+			}
+		}catch(e){}
+	}
+})();
+</script>
+<!-- nosmb begin -->
+
+				<div class="comm">
+					<div class="c_title">
+						<div class="t_name">ÍøÓÑÆÀÂÛ</div>
+						<div class="t_more" id="c_count_01"><a href="http://comment4.news.sina.com.cn/comment/comment4.html?channel=sp&newsid=622-1-74419&face=simple" class="nounderline">»¶Ó­·¢±íÆÀÂÛ</a></div>
+					</div>
+
+					<div class="c_contList" id="c_contList"></div>
+					<div class="c_form" style="padding-top:30px;">
+
+<!-- Í³Ò»ÆÀÂÛÌá½»Çø´úÂë¿ªÊ¼ -->
+
+	<form name="post_form" method="post">
+
+	<!-- ±ØĞëÌá¹© channel¡¢newsid¡¢content¡¢user¡¢pass ÎåÏî INPUT ²ÎÊı -->
+	<input type="hidden" name="channel" value="sp">
+	<input type="hidden" name="newsid" value="622-1-74419">
+
+	<!-- jump ²ÎÊıÄ¬ÈÏÎª¿Õ£¬²»Ìø×ª -->
+	<input type="hidden" name="jump" value="">
+
+	<!-- µÇÂ¼ºóÏÔÊ¾»¶Ó­ĞÅÏ¢ÓÃ,Ä¬ÈÏÒş²Ø -->
+	<div class="bPCB_t1"><span id="comment_sso_userid" style="display:none"></span></div>
+
+	<div class="bPCB_b1_1"><textarea name=content></textarea></div>
+	<div class="bPCB_b1_2">
+
+<!-- µç»°×ª·¢µ½Î¢²©100719 by qixin begin -->
+<span class="blkPhoneNum"><a href="javascript:void(0)" id="fxwb01" style="text-decoration:none;color:#343434;cursor:default;">µç»°</a>£º4006900000</span>
+<!-- weibo begin -->
+<script type="text/javascript">
+//<![CDATA[
+ var sendT = {
+	getHeader : function(){
+		var g_title=document.getElementById("artibodyTitle").innerHTML;
+		var re = /<[^<>]*?font[^<>]*?>/gi;
+		g_title = g_title.replace(re,"");
+		return g_title;
+	},
+	getFirstImgSrc : function(){
+		if (document.getElementById("artibody").getElementsByTagName("img")[0] && document.getElementById("artibody").getElementsByTagName("img")[0].width > 100)
+		{
+			return document.getElementById("artibody").getElementsByTagName("img")[0].src;
+		}
+		else
+		{
+			return null;
+		}
+
+	}
+}
+ document.getElementById("fxwb01").onclick=function(){
+ (function(s,d,e,r,l,p,t,z,c){
+	 var f='http://v.t.sina.com.cn/share/share.php?',u=z||d.location,p=['url=',e(u),'&title=',e(sendT.getHeader()),'&source=',e(r),'&sourceUrl=',e(l),'&content=',c||'gb2312','&pic=',e(p||'')].join('');
+	 function a(){if(!window.open([f,p].join(''),'mb',['toolbar=0,status=0,resizable=1,width=440,height=430,left=',(s.width-440)/2,',top=',(s.height-430)/2].join('')))u.href=[f,p].join('');
+	 };
+	 if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else a();
+})(screen,document,encodeURIComponent,'ĞÂÀËÉĞÆ·','http://style.sina.com.cn/',sendT.getFirstImgSrc(),null,null,null);
+}
+//]]>
+</script>
+
+<!-- µç»°×ª·¢µ½Î¢²©100719 by qixin end -->
+
+		<div style="float:right">
+			<span id="comment_user_input">
+			<span class="bPCB_b1_2_1">µÇÂ¼Ãû£º</span>
+			<span class="bPCB_b1_2_2"><input type="text" value="»áÔ±Ãû/ÊÖ»ú/UCºÅ" onclick="this.value=''" name="user" id="usernew"  autocomplete="off" /></span>
+			</span>
+
+			<span id="comment_pass_input">
+			<span class="bPCB_b1_2_3">ÃÜÂë£º</span>
+			<span class="bPCB_b1_2_4"><input type="password" name="pass" style="width:80px" /></span>
+			</span>
+
+			<!-- ´Ë´¦µ÷ÓÃ cmnt_submit()£¬²ÎÊıÎª form ¶ÔÏó -->
+			<span class="bPCB_b1_2_6"><input type="button" value="·¢±íÆÀÂÛ" 
+				onclick="cmnt_submit(document.post_form);return false;"/></span> 
+
+			<!-- ¿ìËÙ×¢²áĞÂÓÃ»§Á´½Ó -->
+			<span id="comment_sso_register">
+			<span class="bPCB_b1_2_7"><a href="http://login.sina.com.cn/cgi/register/reg_sso_comment.php?entry=comment" target="_blank">¿ìËÙ×¢²áĞÂÓÃ»§</a></span>
+			</span>
 		</div>
-		<div class="shareicon">
-			<div class="bshare-custom">
-				<div class="bsPromo bsPromo2"></div>
-				<a title="åˆ†äº«åˆ°æ–°æµªå¾®åš" class="bshare-sinaminiblog" href="javascript:void(0);"></a>
-				<a title="åˆ†äº«åˆ°QQç©ºé—´" class="bshare-qzone"></a>
-				<a title="åˆ†äº«åˆ°è…¾è®¯å¾®åš" class="bshare-qqmb" href="javascript:void(0);"></a>
+
+	</div>
+	</form>
+
+		<!-- µÇÂ¼¿òÌáÊ¾²ã ¿ªÊ¼ -->
+		<script language="javascript" type="text/javascript">
+			//¿É¸´ÖÆ¹ıÈ¥¸ÄÏÂÏÂÃæ²ÎÊı¾Í¿ÉÒÔÁË
+			function initUserName(){
+				passcardOBJ.init(
+					// FlashSoft ×¢Òâ,×îºÃÕâ¸öinputµÄautocompleteÉè¶¨Îªoff
+					// ĞèÒªÓĞÏÂÀ­¿òµÄinput¶ÔÏó
+					document.getElementById("usernew"),
+					{
+						// Êó±ê¾­¹ı×ÖÌåÑÕÉ«
+						overfcolor: "#666",
+						// Êó±ê¾­¹ı±³¾°ÑÕÉ«
+						overbgcolor: "#d6edfb",
+						// Êó±êÀë¿ª×ÖÌåÑÕÉ«
+						outfcolor: "#000000",
+						// Êó±êÀë¿ª±³¾°ÑÕÉ«	
+						outbgcolor: ""
+					},
+					// ÊäÈëÍê³Éºó,×Ô¶¯ĞèÒªÌøµ½µÄinput¶ÔÏó[±¸Ñ¡]
+					document.getElementById("password"),
+					null,
+					document.getElementById("SSOTipsContainer")
+				);
+			}
+			initUserName();
+		</script>
+		<!-- µÇÂ¼¿òÌáÊ¾²ã ½áÊø -->
+<!-- Í³Ò»ÆÀÂÛÌá½»Çø´úÂë½áÊø -->
+
+					</div>
+				</div>
+
+				<script type="text/javascript">
+				var cmnt_channel	= "sp";		// ÆµµÀÃû£¬ÀıÈç gn¡¢gj¡¢kj µÈ
+				var cmnt_newsid	= "622-1-74419"; 	// ĞÂÎÅID£¬ÀıÈç 1-1-xxx¡¢download-yyy µÈ
+				var cmnt_group		= 0; 			// ÊÇ·ñ×¨ÌâÄ£Ê½£¬1Îª×¨Ìâ
+				var cmnt_page		= 1;			// ³õÊ¼Ò³Âë
+				var cmnt_pagesize	= 10;			// Ã¿Ò³ÏÔÊ¾ÁôÑÔÌõÊı£¬¿ÉÑ¡5¡¢10¡¢20£¬Ä¬ÈÏÎª20
+				</script>
+
+				<script type="text/javascript">
+				function cmnt_print() {
+					if(Count.c_count <= 0){return;};
+
+					if ( document.getElementById("c_count_01") ) {
+						document.getElementById("c_count_01").innerHTML = '<a href="http://comment4.news.sina.com.cn/comment/comment4.html?channel=' + cmnt_channel + '&newsid=' + cmnt_newsid + '&face=simple" class="nounderline">ÒÑÓĞ<span style="color:#c00;">' + Count.c_count + '</span>ÈË²ÎÓë</a>';
+					}
+
+					var tempHTML = "";
+
+					var limit = (CmsgList.length>cmnt_pagesize) ? cmnt_pagesize : CmsgList.length; // limit <= cmnt_pagesize 
+					for ( var i=0; i<limit; i++ ) {
+						tempHTML += '<div class="group"><div class="c_info">';
+
+						// ·¢ÌûÓÃ»§
+						if(trim(CmsgList[i].m_user) == "" ){
+							tempHTML += "ĞÂÀËÍøÓÑ";
+						}else{ 
+							tempHTML += RTrim(CmsgList[i].m_user);
+						};
+						// ·¢ÌûµØÖ·
+						//if( trim(CmsgList[i].m_area) == "" ){
+						//	tempHTML += "("+RTrim(CmsgList[i].m_ip)+")";
+						//}else{
+						//	tempHTML += "("+RTrim(CmsgList[i].m_area)+")";
+						//};
+
+						// ·¢ÌûÊ±¼ä
+						tempHTML += " " + CmsgList[i].m_datetime;
+
+						tempHTML += '</div>';
+						// ÁôÑÔÕıÎÄ
+						//content
+							var num;
+							var c_content_end;
+							num=CmsgList[i].m_content.indexOf("&lt;br&gt;");
+							if( num==-1){
+								c_content_end=CmsgList[i].m_content
+							}else{
+								c_content_end=CmsgList[i].m_content.substring(0,num)
+							}
+							if(c_content_end.length>94){
+								c_content_end=CmsgList[i].m_content.substring(0,94)+"¡­"
+							}
+
+						tempHTML += '<div class="c_memo">' + c_content_end + '</div>';
+						tempHTML += '</div>';
+					};
+					tempHTML += '<div class="c_count"><a href="http://comment4.news.sina.com.cn/comment/comment4.html?channel=' + cmnt_channel + '&newsid=' + cmnt_newsid + '&face=simple" class="nounderline">ÒÑÓĞ<span style="color:#c00;">' + Count.c_count + '</span>ÈË²ÎÓë</a></div>'
+					document.getElementById("c_contList").innerHTML = tempHTML;
+				};
+
+				function RTrim(str){
+					return str.replace(/s*$/,"");
+				};
+
+				</script>
+
+			<!-- Í³Ò»ÆÀÂÛÌá½»ÇøJS´úÂë begin -->
+			<!-- ±ØĞë°üº¬Í³Ò»×¢²á JS ±ê×¼½Ó¿Ú ssologin.js -->
+			<script charset="UTF-8" type="text/javascript" src="http://i.sso.sina.com.cn/js/sinaSSOManager.js"></script>
+
+			<script type="text/javascript" src="http://news.sina.com.cn/comment/cmnt_xml.js"></script>
+			<script type="text/javascript" src="http://news.sina.com.cn/comment/cmnt_embed.js"></script>
+
+			<script type="text/javascript">
+			// ¸üĞÂµÇÂ¼ĞÅÏ¢»Øµ÷º¯Êı
+			function cmnt_showsso( userid ) {
+				// Òş²ØÓÃ»§ÃûºÍÃÜÂëÊäÈë¿ò
+				document.getElementById( "comment_user_input" ).style.display = "none";
+				document.getElementById( "comment_pass_input" ).style.display = "none";
+				// Òş²Ø×¢²áÈë¿ÚÁ´½Ó
+				document.getElementById( "comment_sso_register" ).style.display = "none";
+				// ÏÔÊ¾»¶Ó­ĞÅÏ¢
+			document.getElementById( "comment_sso_userid" ).innerHTML = userid + "&nbsp;<a href=https://login.sina.com.cn/sso/logout.php style=text-decoration:none >ÍË³ö</a>";
+
+				document.getElementById( "comment_sso_userid" ).style.display = "";
+				// Èç¹ûĞèÒªµÄ»°¸üĞÂÆäËûÎ»ÖÃµÄÓÃ»§ÃûĞÅÏ¢
+				// ...
+			}
+
+			// Ã¿´ÎË¢ĞÂÒ³ÃæÊ±Ê¹ÓÃÆÀÂÛÏµÍ³Ìá¹©µÄº¯Êı cmnt_checksso() ¼ì²éÊÇ·ñÒÑ¾­µÇÂ½
+			// cmnt_checksso() ÖĞ»áµ÷ÓÃ cmnt_showsso()
+			cmnt_checksso();
+			</script>
+			<!-- Í³Ò»ÆÀÂÛÌá½»ÇøJS´úÂë end -->
+
+				<!-- ÁôÑÔ end -->
+
+				<!-- ÁôÑÔ end -->
+				<div class="toollinks">
+                                </div>
 			</div>
+
+			<!-- Ïà¹ØĞÂÎÅ begin -->
+
+			<!-- Ïà¹ØĞÂÎÅ end -->
+			<!-- ÎÄÕÂÄÚÈİÇø end -->
 		</div>
-        <style>
-            .shareicon {height:627px; width:100%; position:absolute; top:0; display:none;}
-            .shareicon .bshare-custom {position:absolute;bottom:80px; height:80px; width:100%; z-index:31;}
-            .shareicon .bshare-custom a {float: left; width: 11%; height: 50px; margin: 0 2%;}
-            .shareicon .bshare-custom .bshare-sinaminiblog {margin-left:24%;}
 
-            .news ul li {padding-bottom:0.2rem; margin-right:0.3rem; border-bottom:1px solid rgba(229,229,229,0.5); margin-top:0.1rem; position:relative; height:auto; margin-left:-3.5%; width:105%;}
-            .news ul li .img {width:33%;}
-            .news ul li .desc {width:64%;}
-            .news ul li>a {display:block; zoom:1; overflow:hidden;}
-            .news ul li img {display:block; float:left; width:100%; margin-right:0.2rem;}
-            .news ul ul li .desc {float:right; width:70%;  height:auto; margin-bottom:0.5rem;}
-            .news ul li h3 {margin-top:0.02rem; color:#333; font-size:0.36rem; /*text-align:justify;*/}
+		<!-- ÓÒ²àÀ¸ -->
+		<div class="sidebar">
+<!-- Õ¾ÄÚËÑË÷ begin -->
+<style type="text/css">
+	.search{height: 22px;top:7px;}
+	.unify_search {font-family: 'ËÎÌå';margin-top: 22px;}
+	.unify_search .kw{float: left;width: 104px;height: 18px;margin-right: 6px;line-height: 18px;padding: 2px 2px 2px 20px;border: 0;background: url(http://i0.sinaimg.cn/lx/deco/2010/1125/style/search_sprite.png) 0 -30px no-repeat;}
+	.unify_search select{float: left;width: 53px;height: 22px;margin-right: 6px;*margin-top: 1px;border: 1px solid #ccc;padding: 1px;color: #666; line-height:16px;}
+	.unify_search .gray{color: #ccc;}
+	.unify_search .sb{float: left;width: 44px;height: 22px;padding-bottom: 2px;overflow: hidden;*line-height: 23px;_line-height: 25px;cursor: pointer;border:0;background: url(http://i0.sinaimg.cn/lx/deco/2010/1125/style/search_sprite.png) -240px -30px no-repeat;color: #444;}
+	</style>
 
-            .news ul li .etc {font-size:0.24rem; position:absolute; bottom:0.24rem; right:0; width:67%;}
-            .news ul li .etc p {float:right;  color:#666;}
-            .news ul li .etc p.time {float:right;}
-            .news ul li .etc {position: absolute; bottom: 0.2rem; width: 100%;}
-            .news ul li a {padding-bottom:0.5rem;}
-            .news a p {font-weight:normal; line-height:0.4rem;}
-        </style>
-        <script>
-            var h = $(window).height();
-             $('.shareicon').css("height",h+"px");
-            
-            (function(){
-                var Dpr = 1, uAgent = window.navigator.userAgent;
-                var isIOS = uAgent.match(/iphone/i);
-                var isYIXIN = uAgent.match(/yixin/i);
-                var is2345 = uAgent.match(/Mb2345/i);
-                var ishaosou = uAgent.match(/mso_app/i);
-                var isSogou = uAgent.match(/sogoumobilebrowser/ig);
-                var isLiebao = uAgent.match(/liebaofast/i);
-                var isGnbr = uAgent.match(/GNBR/i);
-                function resizeRoot(){
-                    var wWidth = (screen.width > 0) ? (window.innerWidth >= screen.width || window.innerWidth == 0) ? screen.width : window.innerWidth : window.innerWidth, wDpr, wFsize;
-                    var wHeight = (screen.height > 0) ? (window.innerHeight >= screen.height || window.innerHeight == 0) ? screen.height : window.innerHeight : window.innerHeight;
-                    if (window.devicePixelRatio) {
-                        wDpr = window.devicePixelRatio;
-                    } else {
-                        wDpr = isIOS ? wWidth > 818 ? 3 : wWidth > 480 ? 2 : 1 : 1;
-                    }
-                    
-                    if(isIOS) {
-                        wWidth = screen.width;
-                        wHeight = screen.height;
-                    }
+	<form id="unify_search" class="unify_search clearfix" method="post" action="http://search.sina.com.cn/" target="_blank">
+		<input type="text" name="q" class="kw gray" value="ÇëÊäÈë¹Ø¼ü´Ê" onfocus="this.className='kw';if (this.value=='ÇëÊäÈë¹Ø¼ü´Ê') {this.value=''}" onblur="if(this.value==''){this.className+=' gray';this.value='ÇëÊäÈë¹Ø¼ü´Ê'}" />
+		<select name="opt">
+			<option value="news" selected>ĞÂÎÅ</option>
+			<option value="img">Í¼Æ¬</option>
+			<option value="blog">²©¿Í</option>
+			<option value="video">ÊÓÆµ</option>
+		</select>
+		<input type="submit" class="sb" value="ËÑ Ë÷" />
+	</form>
+	<script type="text/javascript">
+	<!--
+	//Í³Ò»Õ¾ÄÚËÑË÷
+	document.getElementById('unify_search').onsubmit=function () {
+		var kw=this.q.value;
+		if (!kw || kw=='ÇëÊäÈë¹Ø¼ü´Ê') {
+			alert('ÇëÊäÈëËÑË÷¹Ø¼ü´Ê!');
+			this.q.focus();
+			return false;
+		}
+		switch (this.opt.value) {
+			case 'blog':
+				this.action='http://uni.sina.com.cn/c.php?t=blog&ts=bpost&stype=all&k='+kw;
+				break;
+			case 'video':
+				this.action='http://search.video.sina.com.cn/search.php?s=sup&type=all&k='+kw;
+				break;
+			default:
+				this.action='http://search.sina.com.cn/?c='+this.opt.value+'&q='+kw;
+				break;
+		}
+	}
+	//-->
+	</script>
+<!-- Õ¾ÄÚËÑË÷ end -->
+			<div class="side_box_1 side_tops">
+				<h3 class="h3_20">ÈÈÎÄÅÅĞĞ</h3>
+				<ol>
+					<script type="text/javascript">
+	function cutString(s, n, e) {
+		var k = 0;
+		for (var i=0; i<s.length; i++) {
+			if (s.charCodeAt(i)<=127) {
+				k += 1;
+			} else {
+				k += 2;
+			}
+			if (k>n) {
+				var ns = s.substr(0,i-1)+e;
+				return (ns);
+			}
+		}
+		return (s);
+	}
+	function showContent(data_arr){
+		var html= '';
+		data = data_arr['data'];
+		for(var i in data){
+			html+='<li><span>'+ (parseInt(i)+1) +'</span> <a href="'+data[i].url+'" target="_blank" title='+data[i].title+'>'+cutString(data[i].title, 34, '.')+'</a></li>';
+		}
+		document.write(html);
+	}
+</script>
+<script type="text/javascript" src="http://top.style.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=all&top_time=today&top_show_num=10&top_order=ASC&js_var=all_1_data&call_back=showContent"></script>
+				</ol>
+			</div>
 
-                    if(wWidth > wHeight){
-                        wWidth = wHeight;
-                    }
-                    wFsize = wWidth > 1080 ? 144 : wWidth / 7.5;
-                    wFsize = wFsize > 32 ? wFsize : 32;
-                    window.screenWidth_ = wWidth;
-                    if(isYIXIN || is2345 || ishaosou || isSogou || isLiebao || isGnbr){//YIXIN å’Œ 2345 è¿™é‡Œæœ‰ä¸ªåˆšè°ƒç”¨ç³»ç»Ÿæµè§ˆå™¨æ—¶å€™çš„bugï¼Œéœ€è¦ä¸€ç‚¹å»¶è¿Ÿæ¥è·å–
-                        setTimeout(function(){
-                            wWidth = (screen.width > 0) ? (window.innerWidth >= screen.width || window.innerWidth == 0) ? screen.width : window.innerWidth : window.innerWidth;
-                            wHeight = (screen.height > 0) ? (window.innerHeight >= screen.height || window.innerHeight == 0) ? screen.height : window.innerHeight : window.innerHeight;
-                            wFsize = wWidth > 1080 ? 144 : wWidth / 7.5;
-                            wFsize = wFsize > 32 ? wFsize : 32;
-                            document.getElementsByTagName('html')[0].style.fontSize = wFsize + 'px';
-                            document.getElementById("fixed").style.display="none";
-                        },500);
-                    }else{
-                        document.getElementsByTagName('html')[0].style.fontSize = wFsize + 'px';
-                    }
-                }
-                resizeRoot();
-                $(function(){
-                    $(".desc").css({"height":"auto"});
-                });
-            })();
-        </script>
+			<div class="side_box_1">
+				<iframe id="jcsp01" src="http://style.sina.com.cn/iframe/12/2010/0527/12.html" width="240" height="305" frameborder="0" scrolling="no"></iframe>
+			</div>
 
-        <script> 
-        //å¾®ä¿¡åˆ†äº«
-        $(function(){
-            var url = encodeURIComponent(location.href.split("#")[0]);
-            $.getJSON('//app.cankaoxiaoxi.com/?app=newspaper&controller=vxsdk&action=jssdk&url='+url+'&jsoncallback=?',function(json){
-                if(json){
-                    var thumb1;
-                    thumb1 = 'http://upload.cankaoxiaoxi.com/2020/0610/1591751754414.jpg';
-                    
-                    wx.config({
-                        debug: false,
-                        appId: json.appId,
-                        timestamp: json.timestamp,
-                        nonceStr: json.nonceStr,
-                        signature: json.signature,
-                        jsApiList: [
-                            "updateAppMessageShareData",
-                            "updateTimelineShareData",
-                            "onMenuShareAppMessage",
-                            "onMenuShareTimeline",
-                            "onMenuShareQQ",
-                            "onMenuShareQZone",
-                            "showOptionMenu"// æ‰€æœ‰è¦è°ƒç”¨çš„ API éƒ½è¦åŠ åˆ°è¿™ä¸ªåˆ—è¡¨ä¸­
-                        ]
-                    });
-                    
-                    //wx.checkJsApi({
-                    //jsApiList: ['updateAppMessageShareData'],
-                      //success: function(res) {
-                      //}
-                    //});
+			<!-- ÓÊ¼ş¶©ÔÄ begin -->
+			<div class="side_box_1">
+				<iframe  src="http://style.sina.com.cn/iframe/12/2010/0827/21.html" width="240" height="305" frameborder="0" scrolling="no"></iframe>
+			</div>
+			<!-- ÓÊ¼ş¶©ÔÄ end -->
 
-                    wx.ready(function(){
-                        wx.showOptionMenu();
-                        //åˆ†äº«ç»™æœ‹å‹
-                        wx.updateAppMessageShareData({
-                            title: document.title, // åˆ†äº«æ ‡é¢˜
-                            desc: 'é™å‹çš„ã€é™ç³–çš„ã€é™è¡€è„‚çš„ã€æ²»ç–—å¤´ç–¼æˆ–çƒ§å¿ƒçš„ï¼Œè¿˜æœ‰å„ç§ç»´ç”Ÿç´ ç‰‡ã€é’™ç‰‡â€¦â€¦è°è¿˜æ²¡åŒæ—¶åƒè¿‡å‡ ç§è¯å‘¢ï¼Ÿä½†ä¸“å®¶è­¦å‘Šè¯´ï¼Œè¿™ç§â€œå¤šé‡ç”¨è¯â€è®©äººæ›´å®¹æ˜“å—åˆ°è¯ç‰©ç›¸äº’ä½œç”¨çš„æœ‰å®³å½±å“ï¼Œç‰¹åˆ«æ˜¯å¯¹ç™Œç—‡æ‚£è€…å’Œè€å¹´äººæ¥è¯´ã€‚', // åˆ†äº«æè¿°
-                            link: json.url, // åˆ†äº«é“¾æ¥
-                            imgUrl: thumb1, // åˆ†äº«å›¾æ ‡
-                            success: function(){
-                            },
-                            cancel: function(){
-                            }
-                        });
-                        
-                        //åˆ†äº«åˆ°æœ‹å‹åœˆ
-                        wx.updateTimelineShareData({
-                            title: document.title, // åˆ†äº«æ ‡é¢˜
-                            link: json.url, // åˆ†äº«é“¾æ¥
-                            imgUrl: thumb1, // åˆ†äº«å›¾æ ‡
-                            success: function(){
-                            },
-                            cancel: function(){
-                            }
-                        });
-                       wx.onMenuShareAppMessage({
-                            title: document.title, // åˆ†äº«æ ‡é¢˜
-                            link: json.url, // åˆ†äº«é“¾æ¥
-                            imgUrl: thumb1, // åˆ†äº«å›¾æ ‡
-                            success: function () {
-                            }
-                        });
-                        //åˆ†äº«åˆ°æœ‹å‹åœˆ
-                        wx.onMenuShareTimeline({
-                            title: document.title,// åˆ†äº«æ ‡é¢˜
-                            link: json.url, // åˆ†äº«é“¾æ¥
-                            imgUrl: thumb1, // åˆ†äº«å›¾æ ‡
-                            success: function () {
-                            }
-                        });
-                    });
-                }
-            });
-        });
-        </script>
-            </body>
+		</div>
+
+	</div>
+	<!-- Ö÷ÌâÄÚÈİ end-->
+
+	<!-- µ×²¿°æÈ¨ -->
+	<div class="foot">
+        <a title="" href="http://corp.sina.com.cn/chn/">ĞÂÀË¼ò½é</a> | 
+        <a title="" href="http://corp.sina.com.cn/eng/">About Sina</a> | 
+        <a title="" href="http://emarketing.sina.com.cn/">¹ã¸æ·şÎñ</a> | 
+        <a title="" href="http://www.sina.com.cn/contactus.html">ÁªÏµÎÒÃÇ</a> | 
+        <a title="" href="http://corp.sina.com.cn/chn/sina_job.html">ÕĞÆ¸ĞÅÏ¢</a> | 
+        <a title="" href="http://www.sina.com.cn/intro/lawfirm.shtml">ÍøÕ¾ÂÉÊ¦</a> | 
+        <a title="" href="http://english.sina.com/">SINA English</a> | 
+        <a title="" href="http://members.sina.com.cn/apply/">»áÔ±×¢²á</a> | 
+        <a title="" href="http://tech.sina.com.cn/focus/sinahelp.shtml">²úÆ·´ğÒÉ</a> 
+        <div class="copyright">
+            Copyright &copy; 1996-2011 SINA Corporation, All Rights Reserved <br>
+            ĞÂÀË¹«Ë¾ °æÈ¨ËùÓĞ
+        </div> 
+	</div>
+
+	<script type="text/javascript" src="http://i1.sinaimg.cn/lx/deco/2010/0618/js/sw_common.js"></script>
+	<script type="text/javascript" src="http://style.sina.com.cn/js/64/2010-05-26/3/sw_yc_02.js"></script>
+
+<!-- body code begin -->
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- body code end -->
+
+</body>
 </html>

@@ -1,11 +1,470 @@
+<!DOCTYPE html>
+            <html data-log-pv='{"mpc":17}'>
+        <head>
+        <title>勇士从死亡五小到死神组团 4年3冠金州建立王朝</title>
+        <meta http-equiv="Cache-Control" content="no-transform" /> 
+<meta http-equiv="Cache-Control" content="no-siteapp" /> 
+<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved." />
+<meta name="mediaid" content="NBA广角"/>
+<meta property="og:type" content="news"/>
+<meta property="og:image" content="http://5b0988e595225.cdn.sohucs.com/images/20180609/c557d825c36246c3adfdbbd7d3b3c317.jpeg"/>
+<meta property="og:url" content="www.sohu.com/a/234783826_458722"/>
+<meta property="og:release_date" content="2018-06-09 12:07"/>
+<meta itemprop="dateUpdate" content="2018-06-09 12:07" />
+<meta itemprop="datePublished" content="2018-06-09 12:07" />
+<link rel="canonical" href="http://www.sohu.com/a/234783826_458722"/>
+<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/234783826_458722"/>
 
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="format-detection" content="telephone=no" /><meta name="theme-color" content="#90080e" /><meta name="keywords" content="法案,美国,中国,拜登,华盛顿,竞争,芯片,涉华"/><meta name="description" content="美国参议院去年6月通过了《美国创新和竞争法案》，众议院版本沿用了大部分歪曲事实的涉华内容，诋毁中国发展道路和内外政策，渲染“中国威胁论”，甚至还在一些问题上变本加厉"/><meta property="og:title" content="社评：美国不可能靠反华“立于不败之地”"/><meta property="og:type" content="article"/><meta property="og:url" content="https://www.huanqiu.com/article/46Zo8JB6gSc"/><meta property="og:description" content="美国参议院去年6月通过了《美国创新和竞争法案》，众议院版本沿用了大部分歪曲事实的涉华内容，诋毁中国发展道路和内外政策，渲染“中国威胁论”，甚至还在一些问题上变本加厉"/><meta property="og:image" content="https://rs2.huanqiucdn.cn/huanqiu/image/www/common/200.jpg"/><meta property="og:image:width" content="200"/><meta property="og:image:height" content="200"/><meta property="og:site_name" content="环球网"/><title>社评：美国不可能靠反华“立于不败之地”</title><link rel="stylesheet" href="https://rs2.huanqiucdn.cn/csr/pc/css/global.css">
-<script src="https://rs2.huanqiucdn.cn/huanqiu/js/www/browse/browse_ua.js"></script>
-<script src="https://rs2.huanqiucdn.cn/huanqiu/js/www/common/jquery-3.6.0.min.js"></script>
-<script src="https://ipengtai.huanqiu.com/resource/js/base_mobile2.js"></script><script src="https://www.huanqiu.com/csr/service-worker.js"></script>
-<script src="https://www.huanqiu.com/csr/csr.js" defer=""></script>
+<meta name="keywords" content="勇士,历史,库里,詹姆斯,联盟,杜兰特" />
+<meta name="description" content="" />
+<meta property="og:description" content=""/>
+<meta property="og:title" content="勇士从死亡五小到死神组团 4年3冠金州建立王朝"/>
+        <meta charset="utf-8"/>
+<meta name="data-spm" content="smpc">
+<meta name="renderer" content="webkit"> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1" />
+<link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png" />
+<link href="//statics.itc.cn/web/static/css/main-42809146be.css" rel="stylesheet"/>
+<script>
+    //  加载监控代码
+</script>
+<!--[if lt IE 9]>
+<script src="//statics.itc.cn/web/static/js/es5-shim-08e41cfc3e.min.js"></script>
+<script src="//statics.itc.cn/web/static/js/es5-sham-1d5fa1124b.min.js"></script>
+<script src="//statics.itc.cn/web/static/js/html5shiv-21fc8c2ba6.js"></script>
+<link href="//statics.itc.cn/web/static/css/ie8hack-9dce3c3b96.css" rel="stylesheet" />
+<![endif]-->
+<script type="text/javascript">
+//解決IE8,IE9不支持console的问题
+(function() {
+    var method;
+    var noop = function() {};
+    var methods = [
+        'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
+        'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
+        'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+        'timeStamp', 'trace', 'warn'
+    ];
+    var length = methods.length;
+    var console = (window.console = window.console || {});
 
-<script>function linkChange(){var i=window.location.href,n=i.indexOf("?")>-1?i.indexOf("?"):i.length;i=i.substring(0,n).replace(/([\w\W]+)\/$/,"$1");var u,o=window.location.hostname,a=window.location.href;i.indexOf("article")>-1&&"m.huanqiu.com"!=o?(u=a.indexOf("/article"),a=a.substring(u,a.length),window.location.href="//m.huanqiu.com"+a):i.indexOf("gallery")>-1&&"m.huanqiu.com"!=o?(u=a.indexOf("/gallery"),a=a.substring(u,a.length),window.location.href="//m.huanqiu.com"+a):"china.huanqiu.com/lh"===i.split("//")[1]||"china.huanqiu.com/fjxzc"===i.split("//")[1]||"china.huanqiu.com/cpc100"===i.split("//")[1]||"china.huanqiu.com/year"===i.split("//")[1]||"china.huanqiu.com/chinahealth"===i.split("//")[1]?(u=a.indexOf("china.huanqiu.com"),a=a.substring(u+17,a.length),window.location.href="//m.huanqiu.com/list/"+a.split("/").join("")):"opinion.huanqiu.com/shanrenping"===i.split("//")[1]||"opinion.huanqiu.com/hsrp"===i.split("//")[1]||"opinion.huanqiu.com/editorial"===i.split("//")[1]?(u=a.indexOf("opinion.huanqiu.com"),a=a.substring(u+19,a.length),window.location.href="//m.huanqiu.com/list/"+a.split("/").join("")):["go.huanqiu.com","mil.huanqiu.com","tech.huanqiu.com","china.huanqiu.com","world.huanqiu.com","finance.huanqiu.com","opinion.huanqiu.com","taiwan.huanqiu.com","ent.huanqiu.com","oversea.huanqiu.com","health.huanqiu.com","sports.huanqiu.com","auto.huanqiu.com","v.huanqiu.com","hope.huanqiu.com","look.huanqiu.com","fashion.huanqiu.com","society.huanqiu.com","women.huanqiu.com","uav.huanqiu.com","lx.huanqiu.com","ski.huanqiu.com","smart.huanqiu.com","city.huanqiu.com","quality.huanqiu.com","cul.huanqiu.com","biz.huanqiu.com","chamber.huanqiu.com","art.huanqiu.com","capital.huanqiu.com","movie.huanqiu.com","house.huanqiu.com","qinzi.huanqiu.com","5gcenter.huanqiu.com","energy.huanqiu.com","shopping.huanqiu.com","silkroad.huanqiu.com","xy.huanqiu.com","zy.huanqiu.com","media.huanqiu.com","newmedia.huanqiu.com"].indexOf(o)>-1&&"/"===window.location.pathname?(u=a.indexOf("com"),a=a.substring(u+3,a.length),window.location.href="//m.huanqiu.com/list/"+o.split(".")[0]+a.split("/").join("")):"www.huanqiu.com"===o&&(u=a.indexOf("www.huanqiu.com"),a=a.substring(u+15,a.length),window.location.href="//m.huanqiu.com"+a.split("/").join(""))}/(iPhone|iPad|iPod|iOS|Android)/i.test(navigator.userAgent)&&linkChange();</script><link rel="stylesheet" type="text/css" href="//rs1.huanqiucdn.cn/dp/api/assets?dp_csid=cse3pl8tdbi&dp_instanceid=dpe3plc9q0n&dp_commit=d858ec4a1bc81b22b2564d20018134596e763a1d&web_id=1&dp_path=layouts/csr_article/csr_article.css">
-<link href="//rs2.huanqiucdn.cn/huanqiu/image/www/common/favicon1.ico" rel="shortcut icon" /></head><body><img src="https://rs2.huanqiucdn.cn/huanqiu/image/www/common/200.jpg" style="display:none;"><div id="config_page" style="display:none;">/csr-component/config/article/index.js</div><div id="global_constant" style="display:none"><span class="global_host">lx.huanqiu.com</span><span class="global_path"></span></div><div class="data-container" style="visibility:hidden;height:0; overflow:hidden;"><div id="csr_topheader_ad">7003383</div><div id="csr_bottomheaderl_ad">7005136</div><div id="csr_bottomheaderr_ad">7005137</div><div id="article_ad">2</div><article><textarea class="article-aid">46Zo8JB6gSc</textarea><textarea class="article-author"> </textarea><textarea class="article-host">opinion.huanqiu.com</textarea><textarea class="article-addltype">article</textarea><textarea class="article-title">社评：美国不可能靠反华“立于不败之地”</textarea><textarea class="article-catnode">/e3pmub6h5/e3prafm0g</textarea><textarea class="article-content"><article><section data-type="rtext"><p>日前，美国众议院议长佩洛西公布了《2022美国竞争法案》，该法案长达2900多页，尽管内容庞杂，但聚焦于“全面遏制中国”这个大主题。它实际是之前多项涉华提案的大杂烩，包括提议拨款鼓励美国国内芯片的生产与研究、增强供应链韧性、促进关键产品回到美国制造。法案还提出加强与台湾的关系，并建议在涉疆、涉藏、涉港等问题上继续挑衅中国。</p><p>分析人士指出，该法案堪称一份“全景式打压中国总剧本”，反映了美国两党对全面遏制中国发展的一致态度；由于法案充斥着“零和思维”，也有人指出华盛顿吹响了“新冷战”号角。不得不说，华盛顿现在正陷入一种集体迷航而不自知的中毒状态，政策精英为与华“竞争”杀红了眼，已经找不着北了。</p><p>拜登总统在该法案公布后发表声明，称该法案将使美国在今后几十年的时间里在与中国和其他国家的竞争中“立于不败之地”。他还表示，通过国会两党的共同努力，美国有机会向世人表明，“21世纪将是美国的世纪”。但明眼人都不难看出，拜登又在唱高调了。拜登政府对该法案寄予多大希望，最后就要承受多大失望。因为我们现在就可以确定，这个空前全面的反华法案，并不会让美国更强大，只会加速美国的衰落。</p>
-              <adv-loader __attr__inner="7004636" __attr__style="width: auto;position: relative;float: left;border: 1px solid #ebebeb; padding: 20px;overflow: hidden;margin: 10px 30px 40px 0;"></adv-loader>
-            <p>该法案显得气势汹汹，但美国病态的政党政治以及捉襟见肘的财政状况，决定了它必将落入雷声大雨点小的宿命。美国参议院去年6月通过了《美国创新和竞争法案》，众议院版本沿用了大部分歪曲事实的涉华内容，诋毁中国发展道路和内外政策，渲染“中国威胁论”，甚至还在一些问题上变本加厉。但众议院版本却削减了参院提议用于加强科学研究与技术创新的1900亿美元拨款，缩水了一大半。</p><p>有共和党议员批评民主党“没有认真对抗中国”，其实这主要是因为美国钱袋子开始紧张了。此前拜登政府力推的基建法案，预算也是从4万亿美元一路被砍到1.2万亿美元。这是“地主家也没有余粮”的强烈信号。美国面对的现实是，给自己的关键产业补贴都难以到位，却还要想拿出大力气来对中国搞破坏，其结果必然是陷入越折腾越衰落、越衰落就越要劳而无功地“反华”的困境。</p><p>华盛顿现在“甩锅”中国甩出了路径依赖，内外遇到什么问题都想归咎于中国。这是一种严重的政治堕落，也是一种小儿科的把戏。如今，美国身上捆绑着抗疫、通胀、股市动荡、劳动力缺失、族群冲突、政治撕裂等重重枷锁，华盛顿不去认真解决美国自身的痼疾，却把美国的未来押注在“打垮中国”上，幻想在赛跑中绊倒中国来保持自己的领先，这注定将是荒谬错误、南辕北辙的选择。</p><p>美国对自己在高新技术领域的相对优势下滑感到异常焦虑，但其“重振经济创新引擎”的愿望在国会被洗涤一番之后，就严重走样变形了——高新技术产业的进步不再是为了推动发展，而是直接奔着对华敌意和政治诋毁目的去了。也正因为这种严重跑偏，才会有“通过打击芯片市场来加强芯片研发”的怪诞逻辑上演。一个大搞违反时代潮流、违背经济规律政策的国家，怎么可能会在竞争中“立于不败之地”呢？</p><p>27日，在应约同美国国务卿布林肯通电话时，中国国务委员兼外交部长王毅表示，疫情后的世界会面临新形势新挑战，但大国竞争不是这个世界的主题，也解决不了美方和各国面临的问题。施压只会让中国人民更加团结，对抗阻止不了中国走向强大。这些坦率而诚恳的话，希望华盛顿能够真正听进去。</p></section></article></textarea><textarea class="article-time">1643294544465</textarea><textarea class="article-copyright">环球网版权作品，未经书面授权，严禁转载或镜像，违者将被追究法律责任。</textarea><textarea class="article-editor-name">责编：袁小存</textarea><textarea class="article-source-name">环球时报</textarea><textarea class="article-ext-xtime">1643294544465</textarea><textarea class="article-ext-CommentStatus">1</textarea><textarea class="article-ext-serious">2</textarea><textarea class="article-ext-relation">[]</textarea><textarea class="article-cover"></textarea></article><div id="csr_other_1">7003385</div><div class="article_aside_hqss"><div class="hd"><textarea class="title">环球时事</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4B7i3s1NLxA</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">“球王”贝利遗体告别仪式已准备就绪</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B7hPlcTieh</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">澳大利亚直升机相撞事故已造成4死3重伤</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B7hBiYDd7R</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">叙利亚大马士革国际机场遭袭后恢复运营</textarea><textarea class="item-cnf-host">world.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B6s3U4t6c5</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">外媒看中国防疫</textarea><textarea class="item-cnf-host">oversea.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B7j1RUpE0T</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">仅存49位 | 南京大屠杀幸存者马庭禄去世</textarea><textarea class="item-cnf-host">china.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B7dg3NAqLj</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">酷炫！原来你是这样的甲骨文</textarea><textarea class="item-cnf-host">china.huanqiu.com</textarea></div></div></div><div id="csr_other_2">7003386</div><div class="article_aside_hqyj"><div class="hd"><textarea class="title">环球业界</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4B4BN7FzjSp</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/bfc5a36b9991025d003150986aeda5d6.jpg</textarea><textarea class="item-title">鸟瞰海口西秀公园</textarea><textarea class="item-subtitle">鸟瞰海口西秀公园</textarea><textarea class="item-cnf-host">tech.huanqiu.com</textarea><textarea class="item-time">1672276891248</textarea></div><div class="item"><textarea class="item-aid">4B4BP7odSXf</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/e0d9bf4caae9d518c6ee5edb79d429fe.jpg</textarea><textarea class="item-title">寒冬挖藕供应市场</textarea><textarea class="item-subtitle">寒冬挖藕供应市场</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea><textarea class="item-time">1672276945632</textarea></div><div class="item"><textarea class="item-aid">4B7VRYotHZA</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">大块头有大担当——经济总量第一大省广东勇挑大梁观察</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B6dsTGm5xu</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">合肥中欧班列2022年发运768列 较去年净增100列</textarea><textarea class="item-cnf-host">finance.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B519sLHYB2</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">最大盾构机穿越长江 不忘保护江豚家园</textarea><textarea class="item-cnf-host">tech.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B4zy2Z5T9i</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">圆满收官！长征火箭年飞53次创纪录</textarea><textarea class="item-cnf-host">tech.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B506jBEO3J</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">2022年成英国有记录以来最热一年</textarea><textarea class="item-cnf-host">tech.huanqiu.com</textarea></div></div></div><div id="csr_other_3">7003387</div><div class="article_aside_hqfc"><div class="hd"><textarea class="title">环球风尚</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">4AzD83CU8F2</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/48ece9a3d58604774b0b94c81fe2714c.png</textarea><textarea class="item-title">“兔圆圆”跃新春</textarea><textarea class="item-cnf-host">ent.huanqiu.com</textarea><textarea class="item-time">1671759278728</textarea></div><div class="item"><textarea class="item-aid">47WFQPMfZbE</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/f82eb648ac8b63f2b6a1261f3bb914d0.jpg</textarea><textarea class="item-title">鹿晗时尚大片  帅气有型</textarea><textarea class="item-cnf-host">fashion.huanqiu.com</textarea><textarea class="item-time">1649378908859</textarea></div><div class="item"><textarea class="item-aid">448L0xOP60T</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/bfde77be2047f312c65dbde58bf7ee55.png</textarea><textarea class="item-title">宝珀Blancpain鼎力支持“腔棘鱼探险研究”第六次考察之旅——初探科西嘉角</textarea><textarea class="item-cnf-host">luxury.huanqiu.com</textarea><textarea class="item-time">1627524632846</textarea></div><div class="item"><textarea class="item-aid">47Yl00qAEAf</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/cc591483d68d301cdf6fd14c301bd91a.jpg</textarea><textarea class="item-title">童笔绘春天</textarea><textarea class="item-cnf-host">lx.huanqiu.com</textarea><textarea class="item-time">1649640154845</textarea></div></div></div><div id="csr_other_4">7003388</div><div class="article_aside_hqcj"><div class="hd"><textarea class="title">环球产经</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">40wovOuAJMZ</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/aea266fa9cf70679d8af20d340042c4d.png</textarea><textarea class="item-title">别克君越艾维亚、GL8 ES陆尊荣膺第17届中国－东盟博览会官方指定用车</textarea><textarea class="item-subtitle">助力亚洲顶级盛会共显时代向上风采</textarea><textarea class="item-cnf-host">auto.huanqiu.com</textarea><textarea class="item-time">1606960549716</textarea></div><div class="item"><textarea class="item-aid">9CaKrnKmQBQ</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover">//himg2.huanqiucdn.cn/attachment2010/2019/0916/10/23/20190916102314980.jpg</textarea><textarea class="item-title">寄望新品提振业绩 济川药业消字号产品却涉嫌虚假宣传</textarea><textarea class="item-subtitle">济川药业涉嫌虚假宣传</textarea><textarea class="item-cnf-host">health.huanqiu.com</textarea><textarea class="item-time">1568599980000</textarea></div><div class="item"><textarea class="item-aid">4B59nu9fakR</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">安徽合肥力促高校毕业生就业</textarea><textarea class="item-cnf-host">lx.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">9CaKrnKmROO</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">致癌物质减少其他危害增加 揭开电子烟的真面目</textarea><textarea class="item-cnf-host">health.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">4B5UvWwlb7I</textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">推动新能源越野场景革命 坦克品牌创领越野新生态</textarea><textarea class="item-cnf-host">auto.huanqiu.com</textarea></div><div class="item"><textarea class="item-aid">7Q2P3389HpK</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover"></textarea><textarea class="item-title">大众汽车在澳大利亚“排放门”新进展：大众与澳车主和解或赔1.27亿澳元</textarea><textarea class="item-cnf-host">quality.huanqiu.com</textarea><textarea class="item-time">1568708543125</textarea></div><div class="item"><textarea class="item-aid">4AeU2wdG5GH</textarea><textarea class="item-addltype">article</textarea><textarea class="item-cover"></textarea><textarea class="item-title">辽宁省大力推进沈阳现代化都市圈建设</textarea><textarea class="item-cnf-host">city.huanqiu.com</textarea><textarea class="item-time">1669601320834</textarea></div></div></div><div class="article_aside_tyly"><div class="hd"><textarea class="title">体育·旅游</textarea></div><div class="bd"><div class="item"><textarea class="item-aid">48zhEaT0QhU</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/e73f4b27cd37ba03dd13bd26515c73c8.jpg</textarea><textarea class="item-title">长春亚泰备战中超联赛第二阶段比赛</textarea><textarea class="item-cnf-host">sports.huanqiu.com</textarea><textarea class="item-time">1658899861549</textarea></div><div class="item"><textarea class="item-aid">48zYom8QDvH</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/69b418e4c6b66473001cb377f52c25e0.jpg</textarea><textarea class="item-title">东亚杯：中国女足平日本女足</textarea><textarea class="item-cnf-host">sports.huanqiu.com</textarea><textarea class="item-time">1658885728003</textarea></div><div class="item"><textarea class="item-aid">4Anb2WhZXWk</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/f8ea35fb10d682d8f926754b9528edf4.jpg</textarea><textarea class="item-title">克拉玛依油田雪挂美景</textarea><textarea class="item-cnf-host">go.huanqiu.com</textarea><textarea class="item-time">1670550078265</textarea></div><div class="item"><textarea class="item-aid">4AmiqteVjua</textarea><textarea class="item-addltype">gallery</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/335f19496d2565f6affcdc5c7e594b96.jpg</textarea><textarea class="item-title">昆明樱花谷樱花盛开</textarea><textarea class="item-cnf-host">go.huanqiu.com</textarea><textarea class="item-time">1670459084802</textarea></div></div></div><div id="csr_other_5">7004638</div><div class="article_aside_hqqyg"><div class="hd"><textarea class="title">环球趣云购</textarea></div><div class="bd"><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">点击进入环球趣云购</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://shop91383817.youzan.com/v2/showcase/homepage?alias=xKm5S6rjcJ&dc_ps=2617908957523691520.300001</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/bc7974eadae0ca5f3a13fb8c2317e10a.jpeg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">荞麦菊花U型枕</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://shop91383817.m.youzan.com/wscgoods/detail/3f1xqpnglb2hd?scan=1&activity=none&from=kdt&qr=directgoods_833339180&shopAutoEnter=1&showsku=true</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/7ff23f44caec3da5cfa77f29db636466.jpg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">益元黑八珍代餐粉</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://j.youzan.com/ZLgT6s</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/57f8e29c1ee6294ed3f72111a6e0575d.jpg</textarea></div><div class="item"><textarea class="item-aid"></textarea><textarea class="item-addltype">article</textarea><textarea class="item-title">轩妈芝士蛋黄酥</textarea><textarea class="item-cnf-host"></textarea><textarea class="item-outsite-url">https://j.youzan.com/Z8AT6s</textarea><textarea class="item-cover">//rs1.huanqiucdn.cn/dp/api/files/imageDir/42534005cb0523ebe71d8864168e91d6.jpg</textarea></div></div></div><div id="csr_other_6">7004639</div><div id="csr_other_7">7004637</div><div id="csr_article_dl_ad">7003389</div></div><script src="//rs2.huanqiucdn.cn/huanqiu/js/www/common/all_statistics.js"></script><script type="text/javascript" src="//rs1.huanqiucdn.cn/dp/api/assets?dp_csid=cse3pl8tdbi&dp_instanceid=dpe3plc9q0n&dp_commit=d858ec4a1bc81b22b2564d20018134596e763a1d&web_id=1&dp_path=layouts/csr_article/csr_article.js"></script></body></html>
+    while (length--) {
+        method = methods[length];
+
+        // Only stub undefined methods.
+        if (!console[method]) {
+            console[method] = noop;
+        }
+    }
+}());
+</script>
+<script type="text/javascript">
+    (function () {
+        var html = document.getElementsByTagName("html")[0];
+        var width = Math.min(document.documentElement.clientWidth, 790);
+        width = width < 320 ? 320 : width;
+        if (document.documentElement.clientWidth <= 1024) {
+            html.style.fontSize = width / 790 * 79 + 'px';
+        }
+        if (window.addEventListener) {
+            window.addEventListener('resize', resizeHandler);
+        }
+        else if (window.attachEvent) {
+            window.attachEvent('onresize', resizeHandler);
+        }
+        function resizeHandler() {
+            if (document.documentElement.clientWidth <= 1024) {
+                var width = Math.min(document.documentElement.clientWidth, 790);
+                width = width < 320 ? 320 : width;
+                html.style.fontSize = width / 790 * 79 + 'px';
+            } else {
+                html.style.fontSize = "16px";
+            }
+        };
+    })();
+</script>
+
+
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({article:'auto'});
+            !function (e, f, u, i) {
+                if (!document.getElementById(i)){
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+                }
+            }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/sohuchina-sohucom/loader.js',
+            'tb_loader_script');
+            if(window.performance && typeof window.performance.mark == 'function')
+                {window.performance.mark('tbl_ic');}
+        </script>
+        <script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//cdn.adpushup.com/42136/adpushup.js'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+        <script type="text/javascript">
+                        window.deployEnv = "prod"
+                    </script>
+    </head>
+            <body class="article-page" data-region="145" data-spm="content-abroad">
+        <div class="wrapper-box">
+             <header id="main-header" class="error-head">
+
+
+	<div class="area">
+		<div class="head-nav left" data-spm="nav">
+			<ul>
+			    <li class="index"><a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com"><em class="icon-home icon"></em><em class="sohu-logo">搜狐首页</em></a></li>
+														<li><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
+																			<li><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
+																			<li><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
+																			<li><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
+																			<li><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
+																			<li><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
+																			<li><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
+																			<li><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
+																			<li><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
+																			<li><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
+																																																																																																																									<li class="more-nav"><a class="more-tag" href="javascript:void(0)">更多<em class="cor"></em></a>
+					<div class="more-nav-box">
+																																																																																																																																																					<a href="http://baobao.sohu.com/">母婴</a>
+																										<a href="https://healthnews.sohu.com/">健康</a>
+																										<a href="http://history.sohu.com/">历史</a>
+																										<a href="http://mil.sohu.com/">军事</a>
+																										<a href="http://chihe.sohu.com/">美食</a>
+																										<a href="http://cul.sohu.com/">文化</a>
+																										<a href="http://astro.sohu.com/">星座</a>
+																										<a href="https://www.sohu.com/xchannel/TURBd01EQXhPVGt5">专题</a>
+																										<a href="http://game.sohu.com/">游戏</a>
+																										<a href="http://fun.sohu.com/">搞笑</a>
+																										<a href="http://acg.sohu.com/">动漫</a>
+																										<a href="http://pets.sohu.com/">宠物</a>
+																		</div>
+				</li>
+				<li><a href="javascript:void(0)" id="pc-channel-wza-entry">无障碍</a></li>
+			</ul>
+		</div>
+		<div id="head-login" class="right login">
+		</div>
+	</div>
+
+</header>             <div class="location-without-nav"></div>             <div class="area clearfix" id="article-container">
+                <div class="left main" style="margin-left: 170px;">
+                    <div data-spm="content">
+                        <div class="text">
+                            <div class="text-title">
+    <h1>
+                    勇士从死亡五小到死神组团 4年3冠金州建立王朝
+                <span class="article-tag">
+                 </span>
+    </h1>
+            <div class="article-info">
+        <span class="time" id="news-time" data-val="1528517238000">2018-06-09 12:07</span>
+                    <span data-role="original-link">
+                                来源:
+                                <a href="" target="_blank">NBA广角</a></span>
+                            <div id="abroad-share-box" class="abroad-share-box"></div>
+    </div>
+</div>
+<article class="article" id="mp-editor">
+      <p data-role="original-title" style="display:none">原标题：勇士从死亡五小到死神组团 4年3冠金州建立王朝</p>
+              <!--                  -->
+                    <p style="text-align: center;"><img src="http://5b0988e595225.cdn.sohucs.com/images/20180609/c557d825c36246c3adfdbbd7d3b3c317.jpeg" max-width="600" /></p> 
+<p>NBA的历史从不会记得总亚军。从结果看，勇士队在四年三次夺冠，确实建立了属于金州的王朝。</p> 
+<p>2015年勇士队和骑士队第一次相遇的时候，那个时候勇士还是一个低调的，弱势群体的姿态，他们甚至有一种后起之秀的既视感，在骑士队2-1总比分领先勇士的时候，还没有人想过四年后勇士已经三冠在手。科尔在2015年总决赛第四场开创的死亡五小的阵容，实际上改变了之后联盟的战术形态，真正改变小球进程的不是库里，而是科尔的战术体系，让更快，更小更迅速的无限换防和轮转，成为了现代小球的主流打法。</p> 
+<p>在这样的进程中，勇士也并不是那么的“名副其实”——这是一个如同现代评判标准都会带有槽点和捧杀的模板。2016年勇士队用73胜刷屏，然而那个时候勇士就开始受到了联盟制造的影响，无限换防的背后在那个赛季还有联盟默许的无限的移动挡拆，以及在季后赛格林踢蛋不禁赛的污点，总决赛被骑士神奇翻盘之后，骑士勇士之战似乎成为联盟寻找收视率流量峰值交点的一个捷径。</p> 
+<p>可另一方面，勇士在2017赛季迎来了死神杜兰特之后，话题感增加的同时在那个赛季勇士队却开始了比之前低调的多的处世之道。一个王朝球队的建立，勇士队的矛盾性和话题性直追本世纪初的湖人王朝，虽然没有OK情仇这样像锥子一样的矛盾，但是勇士在2017赛季夺冠的赛季中至少出现4次内讧事件，多数都和杜兰特的兼容，使用以及四巨头有关系。不过在季后赛萌神和死神的组合最终轻松击溃了各路豪杰，几乎是碾压了骑士队和詹姆斯夺冠，杜兰特也一手终结了詹姆斯的时代。很多人觉得在今年詹姆斯的数据逆天，却不看看历史上有谁会这样使用一个球星？</p> 
+<p>卢对于詹姆斯的使用，完全就是任由自己控制，而不是教练控制，詹姆斯累了就休息，不累就一直打，所有的球权都有他一个人掌控，这和勇士队完全不是一个概念。这确实早就不是属于詹姆斯的时代，勇士队开创的五小时代不但影响了整个联盟的格局，甚至促成了很多球队开始了军备竞赛——这才叫影响力。于是在本赛季开始之初，联盟发生了 最大规模的巨星挪窝，东部的全明星如巴特勒等人纷纷来袭，保罗去了火箭，西部三巨头球队遍地，这都是杜兰特和勇士队的效应。 </p> 
+<p>我们不得不说勇士队在联盟的统治力是有时代意义的，从战术的使用，开发，到四巨头的使用，抱团，这就像是一个大杂烩一样，包罗万象，勇士的成功包含了很多智慧在里面，从科尔接手到杜兰特“投敌”，这一系列的操盘在现在看来真的有点神奇，而四年内勇士队虽然没有完成三连冠，但是回头看看这是一个怎样的局面？2015年之前勇士甚至还在更衣室谈论怎么能够少输球，但是这之后，如汤神这样的二号位和库里崛起，格林虽然肮脏但是励志，杜兰特甩掉了千年老二的帽子，这依然是一个很有话题性，而且不失有向上动力和感召力的球队。</p> 
+<p>最重要的是勇士队带出了太多的话题性，在如今这样的一个大时代下，全民参与感让NBA的收视率达到了空前的效果，甚至在骑士勇士总决赛期间催生出来了对骂群乃至各种对骂群，这种带入感说明了NBA已经从90年代最初打开世界大门，在20年后已经进入了全球化的全民时代，让NBA的冠军球队和全民短兵相接就需要制造足够的话题，勇士无疑是一个完美的选择。四年三冠，勇士队带来了的几个效应会继续发酵下去：第一，军备竞赛，第二，东西部强弱的格局分化鲜明，第三，由“打败四巨头”催生出来的更夸张的巨星抱团。可以说勇士队正在悄然改变现代篮球的战术和存在的意义。 </p> 
+<p>（韩少）<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>        
+        <p data-role="editor-name">责任编辑：<span></span></p>
+</article>
+<script>
+    (function() {
+        function getBrandHtml() {
+            var brands = [],
+            html = '';
+                        for(var i = 0; i < brands.length; i++) {
+                var brand = brands[i];
+                if(brands.length == i+1) {
+                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>';
+                } else {
+                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>、';
+                }
+            }
+            return html;
+
+        };
+        if(document.getElementById('linkBtn')){
+            document.getElementById('linkBtn').onclick = function() {
+                $('#brands').removeClass('brand');
+                $('#tipInfo').text('已实名回应');
+                $('#linkBtn').remove();
+                $('.real-response .content').css('line-height', '20px');
+                $('.real-response .time').css('line-height', '20px');
+            };
+
+            document.getElementById('brands').innerHTML = getBrandHtml();
+        };
+    })();
+</script>
+    <div id="atricleVote"></div>
+  <div class="statement">声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>    <div class="bottom-relate-wrap clear type-3">
+    
+    <!-- 点赞选择方案2，contentLike对应值为3 -->
+            <div class="article-like" id="article-like" data-like-type="type-3">
+</div>        <div class="read-wrap">
+        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
+    </div>
+</div>
+    
+                        </div>
+                    </div>
+                    <div class="taboolaContainer" data-spm="a-content-end">
+                        <a href="javascript:void(0);">
+                            <div id="taboola-below-article-thumbnails"></div>
+                            <script type="text/javascript">
+                                window._taboola = window._taboola || [];
+                                _taboola.push({
+                                    mode: 'thumbnails-a',
+                                    container: 'taboola-below-article-thumbnails',
+                                    placement: 'Below article thumbnails',
+                                    target_type: 'mix'
+                                });
+                            </script>
+                        </a>
+                    </div>
+
+                    <div class="comment" id="comment_area" data-spm="comment" data-abdata="1">
+
+
+    <div id="mp-comment" sid="234783826"></div> 
+
+
+</div>                    
+<div class="groom-read">
+    <div class="title"><span><em class="ln"></em>推荐阅读</span></div>
+    <div class="news-list clear" id="main-news" style="min-height:1000px">
+    </div>
+
+</div>                </div>
+                <div class="sidebar right" id="right-side-bar" data-a="${abData}">
+        <!-- 谷歌搜索引擎div -->
+        <div class="gcse-searchbox-only"></div>
+        <div data-spm="author" id="user-info" class="abroad-article-author-card">
+                        <a class="abroad-article-author-card-box" href="https://mp.sohu.com/profile?xpt=cHBhZzU4NjJkMmIzNGIzZUBzb2h1LmNvbQ==&_f=index_pagemp_1" target="_blank">
+                                <img src="http://sucimg.itc.cn/avatarimg/130c0965ce51493ca5108d2271b652e4_1517370199108" class="abroad-article-author-card-image" alt="">
+                    <div class="abroad-article-author-card-userinfo">
+                <div class="abroad-article-author-card-author-info">
+                    NBA广角
+                                    </div>
+                <div class="abroad-article-author-card-message">
+                    <span class="abroad-article-author-card-message-label">文章</span>
+                    <span class="abroad-article-author-card-message-value" data-value="65235" data-role="info-article-num"><em></em></span>
+                    <span class="abroad-article-author-card-message-divide"></span>
+                    <span class="abroad-article-author-card-message-label">总阅读</span>
+                    <span class="abroad-article-author-card-message-value" data-role="info-read-num"><em></em></span>
+                </div>
+            </div>
+        </a>
+</div>        <div class="godA" id="nav_button" data-spm="ad-right-sponsor">
+
+        </div>
+        <div class="godR" id="god_1" data-spm="ad-sq1" style="display: none;">
+        </div>
+        <div id="god_1_2" style="padding:10px 20px;" data-spm="ad-sq1">
+            <a href="javascript:void(0);" style="width: 100%">
+                                    <script id="ONEMOB-sohu300x250" type="text/javascript" src="https://cdn-ali.onemob.mobi/js/sohu300x250.js" async charset="utf-8"></script>
+                            </a>
+        </div>
+                <div id="taboola-desktop-right-rail" data-spm="jingxuan-taboola" style="width: 300px; margin: 0 auto;"></div>
+        <div class="godR" id="god_2" data-spm="ad-sq2" style="display:block">
+        </div>
+        <div id="god_2_2" style="padding:10px 20px;" data-spm="ad-sq2">
+                        <script type="text/javascript">
+                var compassSmartTag = {t: "32416", referral: "sohu.com", y_b: {y: "j", s: "300x250"}};
+            </script>
+            <script src="//cdn.marphezis.com/cmpp/index.js"></script>
+                    </div>
+        
+<div class="hot-article clear bord" id="hot-news" data-spm="tw">
+
+</div>
+        <div class="godR" id="god_3" data-spm="ad-sq3" style="display:block">
+        </div>
+        <div id="god_3_2" style="padding:10px 20px; display: none;" data-spm="ad-sq3">
+        </div>
+        
+<div class="bord clear recommend" id="recommend-writer" data-spm="mp">
+
+</div>
+        <div class="godR" id="god_4" data-spm="ad-sq4" style="display:block">
+        </div>
+        <div id="god_4_2" style="padding:10px 20px; display: none;" data-spm="ad-sq4">
+        </div>
+        <div id="god_5" style="padding:10px 20px;" data-spm="sqfive-ad">
+                        <script type="text/javascript">
+                var compassSmartTag = {t: "32205", referral: "sohu.com", y_b: {y: "j", s: "300x250"}};
+            </script>
+            <script src="//cdn.marphezis.com/cmpp/index.js"></script>
+                    </div>
+        <div class="pages-fun  " id="pages-fun"></div>
+        <div id="god_fix_container" class="right-fixed" style="display:none;">
+            <div class="godR" id="god_fix_1" data-spm="ad-sq6"  style="display: block;">
+
+            </div>
+            <div id="god_6_2" class="god-ad-fix" style="display: none; overflow: hidden;" data-spm="ad-sq6">
+
+            </div>
+        </div>
+         <div id="fixed-view" data-rel="#hot-news" style="z-index:2">
+        </div>
+    </div>
+
+
+
+             </div>
+             <div id="float-btn" class="float-links"></div>              <div class="sohu-khd" data-role="wp-ad"><a href="javascript:void(0)" class="close-khd"></a><a href="https://www.microsoft.com/zh-cn/store/p/%E6%90%9C%E7%8B%90uwp/9nb9229mmbjh" target="_blank" class="download-khd"><i class="icon khd-d-icon"></i>免费获取</a></div>
+            <div id="pop-news" class="pop-news"></div>            <div class="left-bottom-float-fullScreenSleep" data-spm="ad-fullScreenSleep">
+</div>
+<div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
+</div>        </div>
+            <div id="sohu-mod" class="sohu-mod">
+  <div class="area sohu-frag">
+    <div class="left sohu-news">
+      <div class="title">今日搜狐热点</div>
+      <div class="list">
+        <ul>
+                  </ul>
+      </div>
+    </div>
+    <div class="left auto-sohu">
+      <div class="count-down"><span>6</span>秒后</div>
+      <div class="go-sohu"><a href="http://www.sohu.com?strategyid=00004">进入搜狐首页</a></div>
+      <a href="#" target="_blank" class="close-sohu"></a>
+    </div>
+  </div>
+</div>
+<div id="sohu-remend" class="sohu-remend">
+    <div class="area sohu-remend-box">
+        <div class="remend-tt left">今日推荐</div>
+        <div class="left sohu-pp">
+            <ul>
+                            </ul>
+        </div>
+        <div class="right sohu-do">
+            <a data-clev="10220279" href="http://www.sohu.com?strategyid=00004"><div class="go-sohu">进入搜狐首页</div></a>
+            <a data-clev="10220280" href="//shang.qq.com/wpa/qunwpa?idkey=04e47b9e7004c967962f52532465719ae8a30cf05413c11934ec121fb7e2dd62" target="_blank" class="feedback-link">意见反馈</a>
+            <a data-clev="10220281" href="javascript:void(0)" target="_blank" class="close-remend"></a>
+        </div>
+    </div>
+    <div class="sohu-remend-layer"></div>
+</div>             
+
+<script src="//statics.itc.cn/web/static/js/lib-61587d9fb8.js"></script>
+<script src="//statics.itc.cn/pc_channel_script/pc_channel_script/jquery.xdomainrequest.min.js"></script>
+<!--<script src="//statics.itc.cn/web/static/js/ie8hack-07e05e83f1.js"></script>-->
+<script src="//txt.go.sohu.com/ip/soip"></script>
+<script src="//statics.itc.cn/spm/prod/js/1.0.2/index.js"></script>
+<script src="//statics.itc.cn/web/static/js/main-90cc52e283.js"></script>
+<script src="//js.sohu.com/pv.js"></script>
+             <script>
+try{console.log("执行成功")
+        window.sohu_mp.article_abroad({
+        channel_id: "17",
+        news_id: "234783826",
+        cms_id: "$mpNews.cmsId",
+        media_id: "458722",
+        passport: "ppag5862d2b34b3e@sohu.com",
+        weboUrl: "https://mp.sohu.com/profile?xpt=cHBhZzU4NjJkMmIzNGIzZUBzb2h1LmNvbQ==",
+        title: "勇士从死亡五小到死神组团 4年3冠金州建立王朝",
+        channel_url:"//sports.sohu.com",
+        categoryId:"1400",
+        //adData_fd用于abtest
+        abData:"",
+        abData_fd:"",
+        abData_tw:"",
+        originalId:"0",
+        originalStatus:"0",
+        hasVoteInfo: "false",
+        isPure: "${pure}",
+        secureScore: '100',
+        sGrade: '0',
+        editor:'',
+        hideAd:'',
+        mpNewsExt:{
+            "modelId":""
+        }});
+}
+catch(e){
+    var html = '<div class="err-js">' +
+                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
+                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
+                '><em class="icon-cached"></em>刷新</a></div>';
+    $(document.body).prepend(html);
+    console.error("发生错误",e);
+}
+</script>
+<!--[if lt IE 8]>
+<script type="text/javascript">
+(function(){
+    var ua = navigator.userAgent;
+    var version;
+    var html = '<div class="area clear">' +
+        '<div class="ie-low">' +
+        '<p>您的浏览器版本过低<br>为了更好的体验，请升级你的浏览器。</p>' +
+        '<h5><a href="https://ie.sogou.com" target="_blank" class="upgrade-btn">马上升级</a></h5>' +
+        '</div></div>';
+    if (/MSIE ([^;]+)/.test(ua)) {
+        version = parseInt(RegExp["$1"]);
+        if (version<8) {
+            document.body.innerHTML=html;
+            var reg = new RegExp("(^| )SUV=([^;]*)(;|$)");
+            var suvs = unescape(document.cookie.match(reg)[2]);
+            var spv_server_src = "http://pv.sohu.com/action.gif?actionId=10078&SUV="+suvs;
+            var scripts = document.createElement('script');
+            scripts.src = spv_server_src;
+            document.body.appendChild(scripts);
+        }
+    }
+})()
+</script>
+<![endif]--><script src="//images.sohu.com/bill/default/sohu-require.js"></script>
+<script type="text/javascript"> require(["sjs/matrix/ad/passion"]);</script>
+<script type="text/javascript" src="//www.sohu.com/sohuflash_1.js"></script>
+<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/delivery.js"></script>
+<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/pv/pagePVmonitor.js"></script>
+<!-- <script src="//statics.itc.cn/spm/prod/js/1.0.1/index.js"></script> -->
+
+<!-- 文章安全分低于等于10分不执行seo优化 -->
+<script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
+<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>        <!-- 新增vidoomy广告 -->
+                    <script type="text/javascript" src="//ads.vidoomy.com/sohu_18447.js" async></script>
+                <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({flush: true});
+        </script>
+    </body>
+</html>

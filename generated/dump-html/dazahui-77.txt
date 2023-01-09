@@ -1,0 +1,585 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>孩子在睡梦中离奇死亡？遗传学家找到新线索—论文—科学网</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content=儿童，睡眠，基因突变, />
+    <script language="javascript" type="text/javascript">
+		function showsize(sid)
+		{
+				document.getElementById("content"+1).style.fontSize=sid;
+document.getElementById("content"+1).className='f'+sid;
+			
+		}
+		function showandhide(showid,hideid)
+        {
+         document.getElementById(showid).style.display="";
+         document.getElementById(hideid).style.display="none";
+          document.getElementById(showid+"1").style.background="#005007";
+         document.getElementById(hideid+"1").style.background="#787878";
+        }
+    </script>
+    <style type="text/css">
+body { margin:0; padding:0; background:#e4e6df url(/images/a-b-mbr.jpg) repeat-y center top; text-align:center; font:13px Arial, Helvetica, sans-serif; }
+#wrap { margin:0 auto; text-align:left; width:980px; padding:0 0px; w\idth:976px;background:#ffffff}
+img { border:0; }
+td{font:13px 宋体}
+#header { width:100%; margin-top:5px;text-align:center; }
+#fielder {margin:0 auto; text-align:left; width:970px;}
+#fielderleft {width:450px; float: left;font:13px 宋体;color:#b41319;height:20px; text-align:right;margin-top:5px}
+#fielderright {width:520px; float: right;height:20px}
+#fielderleft a{font:13px 宋体;color:#b41319; text-decoration:none; }
+#main {margin:0 auto; text-align:left; width:960px; padding:0 4px;}
+#footer { width:100%; height:66px;margin-top:10px; clear:both; text-align:center; }
+ #foot1{text-align:center;background:#d7ceaa;color:#885f17;width:100%; height:30px;margin-top:10px;vertical-align:bottom}
+#foot1 a{font:12px 宋体, Helvetica, sans-serif;color:#885f17; text-decoration:none;}
+#mleft{float: left; width:680px}
+#mright{float: right; width:270px;text-align:left;}
+.html1{font:12px 宋体;color:#333333; text-decoration:none; }
+.html2{font:12px 宋体;color:#885f17; text-decoration:none; }
+#headerleft ul {text-align:left; width:456px;  margin:0; padding:0; list-style:none;  }
+#headerleft li{ margin-right: auto;display:inline;vertical-align:bottom;}
+#headerleft { float:left; width:456px; height:22px text-align:left; }
+#headerleft a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#headerright a{font:13px 宋体, Helvetica, sans-serif;color:#000000; text-decoration:none;}
+#head2{background:#ba1414;width:970px;bgcolor:#ba1414;margin-top:0px}
+textarea { font: 12px Arial, Helvetica, sans-serif; border:1px solid #333333; }
+.input{ font: 11px Arial, Helvetica, sans-serif; border:1px solid #333333;}
+.rblinput{ font: 11px Arial; border:0;width:30px}
+.ulclass{margin:8px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.ulclass li{display:inline;}
+.h1ulclass{margin:0px 5px 8px 20px; padding:0; list-style:none;  text-align:left; line-height:16px;}
+.h1ulclass li{display:inline;}
+.plnum{width: 30px;color:#587c19;font:12px 宋体; text-align:center; font-weight:bold;margin-left:-14px}
+.highlight2{font-size:12px;color:#333333;text-decoration:none;}
+a:hover {
+	color: #ba1413;
+
+	text-decoration: underline;
+}
+a{ text-decoration:none;color:#333333;}
+#head1{width:970px;margin-top:0px}
+#head2 td{font:12px 宋体}
+#field8 a{font:13px 宋体;color:#fff; text-decoration:none;}
+#field8 td{ height:20px;}
+#content1 a{color: #800000;}
+.f12{font-size:12px}
+.f14{font-size:14px}
+.f16{font-size:16px}
+.ifcomm{}
+img{max-width:600px}
+</style>
+<script type="text/javascript" src="/js/lazyload/jquery.min.js"></script>
+<script type="text/javascript" src="/js/lazyload/jquery.lazyload.js"></script>
+		<script type="text/javascript"> 
+			jQuery(document).ready( 
+			function($){ 
+				$("img").lazyload({ 
+					placeholder : "/js/lazyload/grey.gif", 
+					effect      : "fadeIn",
+					threshold : 200
+				}); 
+			}); 
+		</script> 
+</head>
+<body>
+    <div id="wrap">
+     
+<script type="text/javascript">
+
+function browserRedirect() { 
+
+var sUserAgent= navigator.userAgent.toLowerCase(); 
+
+var bIsIpad= sUserAgent.match(/ipad/i) == "ipad"; 
+
+var bIsIphoneOs= sUserAgent.match(/iphone os/i) == "iphone os"; 
+
+var bIsMidp= sUserAgent.match(/midp/i) == "midp"; 
+
+var bIsUc7= sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4"; 
+
+var bIsUc= sUserAgent.match(/ucweb/i) == "ucweb"; 
+
+var bIsAndroid= sUserAgent.match(/android/i) == "android"; 
+
+var bIsCE= sUserAgent.match(/windows ce/i) == "windows ce"; 
+
+var bIsWM= sUserAgent.match(/windows mobile/i) == "windows mobile"; 
+
+if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) { 
+
+  
+ document.write("<div style='padding-left:4em'><a href=\"https://wap.sciencenet.cn/mobile.php?type=detail&cat=paper&id=70248&mobile=1\" style='font-size:2em;color:#ba1413; line-height:2em;text-indent:4em'>点击此处切换为手机版网页</a></div>");  
+
+} else { 
+
+//window.location= '电脑网站地址'; 
+
+} 
+
+} 
+
+browserRedirect(); 
+
+</script>
+      <!--登录-->
+		<iframe src="https://blog.sciencenet.cn/plus.php?mod=iframelogin" style="width:970px; height:32px; " scrolling="no" frameborder="0"  ></iframe>
+            <!--导航-->
+           ﻿<link href="https://www.sciencenet.cn/css/indexhead.css" type="text/css" rel="stylesheet" />
+     <div class="logo">
+          <div  class="lg"  ><a href="https://paper.sciencenet.cn/"><img src="/images/paper.jpg" width="231" height="84"  alt="科学网论文频道"  /></a></div>
+		 <div class="rg02"  >
+		 <div class="rg" ><span style="float:left;">
+                        <a href="https://www.sciencenet.cn/life/" style="color:#fff">生命科学</a> | 
+                        <a href="https://www.sciencenet.cn/medicine/" style="color:#fff">医学科学</a> | 
+                        <a href="https://www.sciencenet.cn/chemistry/" style="color:#fff">化学科学</a> | 
+                        <a href="https://www.sciencenet.cn/material/" style="color:#fff">工程材料</a> | 
+                        <a href="https://www.sciencenet.cn/information/" style="color:#fff">信息科学</a> | 
+                        <a href="https://www.sciencenet.cn/earth/" style="color:#fff">地球科学</a> | 
+                        <a href="https://www.sciencenet.cn/mathematics/" style="color:#fff">数理科学</a> | 
+                        <a href="https://www.sciencenet.cn/policy/" style="color:#fff">管理综合</a> </span> 
+		  <span style=" float:right;  "> <a href="https://blog.sciencenet.cn/blog-45-1064777.html" style="color:#fff">站内规定</a> | <a href="https://wap.sciencenet.cn/"   style="color:#fff">手机版</a></span></div>
+          <div class="rg01"><span style="float:left;  ">
+                 <a href="https://www.sciencenet.cn/">首页</a> | <a href="https://news.sciencenet.cn/">新闻</a> | <a href="https://blog.sciencenet.cn/blog.php">博客</a> | <a href="https://news.sciencenet.cn/ys/">院士</a> | <a href="https://talent.sciencenet.cn/">人才</a> | <a href="https://meeting.sciencenet.cn">会议</a> | <a href="https://fund.sciencenet.cn/">基金·项目</a> | <a href="https://news.sciencenet.cn/morenews-9-1.aspx">大学</a> | <a href="https://paper.sciencenet.cn/">论文</a> | <a href="https://blog.sciencenet.cn/blog.php?mod=video">视频·直播</a> | <a href="https://paper.sciencenet.cn/AInews">小柯机器人</a> | <a href="https://news.sciencenet.cn/zt/">专题</a>
+          </span>
+			  <div style="float:right; padding-left:0px;">
+				   <form style="display:inline" method="get" action="https://www.baidu.com/baidu" accept-charset="utf-8" name="f1">
+					  <input style=" width:100px;border:0" maxlength="40" size="31" name="word" />
+					  <input type="submit" style="cursor:pointer; width:56px; font-size:12px; background-color:#880008; border-width:0px; height:16px; color:#fff;" value="本站搜索" />
+					  <input type="hidden" value="2097152" name="ct" />
+					  <input type="hidden" value="3" name="cl" />
+					  <input type="hidden" value="paper.sciencenet.cn" name="si" />
+					  <input type="hidden" value="utf-8" name="ie" />
+				  </form>
+			  </div>
+          </div></div>
+        </div> 
+
+        <div style="line-height: 10px; height: 10px; clear: both;  ">
+            &nbsp;</div>
+        <div id="main">
+            <div id="mleft">
+                <table border="0" cellpadding="0" cellspacing="0" style="width: 100%" >
+                    <tr>
+                        <td style="width: 680px;">
+                            <table id="content" style="border: solid 1px #bbc89b; width: 680px; text-align: center;
+                                background-color: #f8f9f4">
+                                <tr>
+                                    <td align="left">
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 82%; font: 12px 宋体; float: left; ">
+                                            作者：Orrin Devinsky 来源：《国家科学院院刊》 发布时间：2022/2/22 21:50:00</div>
+                                        <div style="height: 20px; margin: 0 auto; border-bottom: solid 1px #bbc89b; margin-top: 10px;
+                                            width: 18%; font: 12px 宋体; float: right">
+                                            选择字号：<span onclick="showsize(12)" style="background-color: #587c19; color: #fff;
+                                                font-size: 12px; cursor: pointer">小</span> <span onclick="showsize(14)" style="background-color: #587c19;
+                                                    color: #fff; font-size: 12px; cursor: pointer">中</span> <span onclick="showsize(16)"
+                                                        style="background-color: #587c19; color: #fff; font-size: 12px; cursor: pointer">
+                                                        大</span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div id="content1" style="width: 94%; font: 14px 宋体; text-align: left; line-height: 24px;
+                                            word-wrap: break-word">
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td height="20">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px">
+                                                        <b></b></td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" class="style1" style="font-size: 22px; color: #587c19; font-family: 黑体;
+                                                        line-height: 30px">
+                                                        孩子在睡梦中离奇死亡？遗传学家找到新线索</td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="center" valign="middle" class="style1" style="font-size: 13px; color: #333333;
+                                                        font-family: 宋体; line-height: 20px;">
+                                                        <b></b></td>
+                                                </tr>
+                                            </table>
+                                            <p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<img src="/upload/news/images/2022/2/202222219957940d.jpg" /></p>
+<p style="text-align: center; text-indent: 2em;">
+	<strong>图片来源：JODIE JOHNSON/SHUTTERSTOCK</strong></p>
+<p style="text-indent: 2em;">
+	1997年的一天，Laura Gould将她15个月大的女儿Maria放到了床上，希望她能好好地睡上一觉。前一晚Maria发了高烧，但第二天她似乎已经恢复了健康。Gould怎么也想不到的是，Maria这一睡就再也没有醒来。没有任何预兆，Maria在睡梦中猝然离世。随后的尸检和病理学检验也没有得到任何明确的结论，Maria的死因成了一个谜。</p>
+<p style="text-indent: 2em;">
+	事实上，像Maria这样的案例不在少数。美国每年有约400名的儿童不明原因猝死（SUDC），其中，大约四分之一被标记为婴儿猝死综合症(SIDS)。最近的两项基因分析表明，至少一小部分病例的潜在原因与癫痫、心律失调和神经发育障碍相关的基因突变有关。</p>
+<p style="text-indent: 2em;">
+	SUDC不是一种单一的疾病，而是各种不同因素的&ldquo;大杂烩&rdquo;。未参与新研究的爱荷华大学卡弗医学院神经病理学家Marco Hefti认为，该研究的数据很重要，虽然不能肯定地说基因突变是导致儿童死亡的原因，但这些发现为动物研究提供了基础，可以揭示基因变化是如何干扰人体重要功能的。他表示，相关数据还可能为未来的儿童死亡调查提供信息，甚至可能为预防死亡的筛查项目提供信息。</p>
+<p style="text-indent: 2em;">
+	波士顿儿童医院医学遗传学家Ingrid Holm表示，从生物学上讲，SIDS和SUDC可能是一个谱系的一部分。在这两种情况下，死亡通常发生在睡眠中，研究人员怀疑导致死亡的原因包括未被发现的心脏缺陷、代谢紊乱和中枢神经系统异常。纽约大学朗格尼健康中心神经学家Orrin Devinsky指出，这些死亡的儿童有发热性癫痫史的可能性约为普通儿童的10倍。</p>
+<p style="text-indent: 2em;">
+	2014年，纽约大学格罗斯曼医学院Orrin Devinsky团队对124个&ldquo;三人组&rdquo;的外显子进行了测序，并在先前与心脏功能障碍或癫痫有关的基因中寻找突变，每个&ldquo;三人组&rdquo;都由父母和一个在11个月至19岁之间突然死亡的孩子组成。结果研究人员在8个基因中发现了变异，他们认为这些变异导致了11人的死亡。相关研究结果发表于美国《国家科学院院刊》。</p>
+<p style="text-indent: 2em;">
+	其中7个病例中，基因突变是新生的，其父母双方都没有携带这种基因突变。8个变异中的6种变异影响了与钙信号传导有关的基因，钙信号传导可调节包括心脏收缩和神经元放电在内的多种过程。</p>
+<p style="text-indent: 2em;">
+	在第二项研究中，研究人员调查了352例婴儿或儿童的死亡病例，并在294个基因中寻找与神经系统疾病、心脏功能障碍以及影响新陈代谢或多器官系统疾病有关的突变。结果发现37例死亡病例中出现了&ldquo;可能导致死亡的变异&rdquo;。其中两种变异基因被发现与罕见的神经发育障碍有关，但与猝死无关，这表明这些神经发育障碍的潜在后果尚未被认识到。</p>
+<p style="text-indent: 2em;">
+	值得一提的是，这两项研究都确认了癫痫有关基因SCN1A的突变。</p>
+<p style="text-indent: 2em;">
+	Devinsky认为，原则上，一些危险的变异可以添加到新生儿的常规筛查中，这可能是该领域的发展方向。但是，德国汉诺威医学院的法医病理学家Michael Klintschar指出，在许多情况下，基因突变的后果仍然不清楚。将儿童的死亡与一种与心律失常相关基因的罕见突变联系起来，并不代表携带这种基因突变的婴儿发生心脏骤停的风险。他举例，纠正这些孩子心律失常的风险可能会导致更多的问题。(来源：中国科学报&nbsp;辛雨）</p>
+<p style="text-indent: 2em;">
+	相关论文信息：</p>
+<p style="text-indent: 2em;">
+	<a href="https://doi.org/10.1073/pnas.2115140118" target="_blank">https://doi.org/10.1073/pnas.2115140118</a></p>
+<p style="text-indent: 2em;">
+	<a href="https://doi.org/10.1016/j.gim.2021.12.004" target="_blank">https://doi.org/10.1016/j.gim.2021.12.004</a></p>
+<div>
+	&nbsp;</div>
+<div class="bq" style="text-indent:0em;font-weight:bold;font-size:13px;border:solid 1px #333 ;padding:10px;">
+	版权声明：凡本网注明&ldquo;来源：中国科学报、科学网、科学新闻杂志&rdquo;的所有作品，网站转载，请在正文上方注明来源和作者，且不得对内容作实质性改动；微信公众号、头条号等新媒体平台，转载请联系授权。邮箱：shouquan@stimes.cn。</div>
+
+                                              
+                                            <div style="border-bottom: solid 1px #bfc89d; vertical-align: bottom; width: 100%;
+                                                height: 20px">
+                                            </div>
+                                            <div style="width: 100%; height: 20px; text-align: center; margin:10px">
+                                                        <!-- JiaThis Button BEGIN -->
+<script src="/html/js/share.js" type="text/javascript"></script>
+<!-- JiaThis Button END -->
+                                            </div>
+                                            
+                                        </div>
+                                    </td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <div style="line-height: 10px; height: 10px; clear: both;">
+                        &nbsp;</div>
+                <div style=" vertical-align: bottom; width: 100%;
+                                            height: 20px; text-align:right">
+               
+                                        <form action="/html/mail.aspx" method="post" id="myform">
+                                            <span onclick="javascript:window.print()" style="cursor: pointer; background-color: #587c19;
+                                                color: #fff;">&nbsp;打印&nbsp;</span> <span style="color: #587c19">发E-mail给：</span><input
+                                                    name="txtemail" type="text" value="" size="22"  id="txtemail" style="background-color: #eeeee8" />&nbsp;
+                                            <input type="hidden" id="myurl" name="myurl" runat="server" value="70248" />
+                                            <input type="submit" value="" style="background-image: url(/images/go.gif); background-color: Transparent;
+                                                width: 30px; background-repeat: no-repeat; border-width: 0; height: 21px" /></form>
+                                        &nbsp; &nbsp;&nbsp;
+                </div>
+               <div style="line-height: 20px; height: 20px; clear: both;">
+                        &nbsp;</div>
+                         <div style="color:#784704; text-align:left;display:none;" class="ifcomm">以下评论只代表网友个人观点，不代表科学网观点。</div>
+                <div style="border: solid 1px #bbc89b; width: 680px; text-align: center; background-color: #f8f9f4;display:none;" class="ifcomm">
+                 
+                     <div id="commd"></div>
+                                     <div style="text-align:left;width: 94%; margin-top:10px"><a href="/html/commentp.aspx?id=70248" style="color:#ba1413; text-decoration:none"><img src="/images/newcomm.gif" /></a></div>
+                    <div style="line-height: 4px; height: 4px; clear: both;">
+                        &nbsp;</div>
+                   <div style="text-align:left;width: 94%;border-top: solid 0px #bfc89d" id="formcomm">
+                    
+                    <iframe src="/html/papercomm.aspx?nid=70248" style="margin: 0px;
+                    padding: 0px" frameborder="0" scrolling="no" height="160px" width="100%"></iframe>
+                   
+                    </div>
+                 
+                </div>
+               
+                </div>
+                <div id="mright">
+                  <script src="/html/js/p1.js" type="text/javascript"></script>
+                    <!--相关新闻和相关论文-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tr>
+                            <td align="left" id="xgnews1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgnews','xgpaper')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关新闻</span></td>
+                            <td align="left" id="xgpaper1" style="background: #787878; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 50%" onmouseover="showandhide('xgpaper','xgnews')">
+                                <span target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">相关论文</span></td>
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="xgnews">
+                                    <ul class="ulclass">
+<li class='plnum'>1</li>&nbsp;<li><a href="/htmlnews/2022/2/474226.shtm" class="highlight2" target="_blank">北京儿童医院启动“新巢计划”剑指出生缺陷</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>2</li>&nbsp;<li><a href="/htmlnews/2022/2/474083.shtm" class="highlight2" target="_blank">超98%中国儿童青少年未达心血管健康理想状态</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>3</li>&nbsp;<li><a href="/htmlnews/2022/2/473909.shtm" class="highlight2" target="_blank">睡眠障碍疾病发病率上升，将加强专业领域研究</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>4</li>&nbsp;<li><a href="/htmlnews/2022/2/473689.shtm" class="highlight2" target="_blank">睡眠不足会使患心脏病风险增加三倍</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>5</li>&nbsp;<li><a href="/htmlnews/2022/2/473652.shtm" class="highlight2" target="_blank">狗狗为啥变小？基因突变源自古代狼</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>6</li>&nbsp;<li><a href="/htmlnews/2022/2/473636.shtm" class="highlight2" target="_blank">奥密克戎对儿童危害更大？科学家正试图找出答案</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>7</li>&nbsp;<li><a href="/htmlnews/2022/1/473190.shtm" class="highlight2" target="_blank">科学家首次揭示快速眼动睡眠与本能恐惧反应有关</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>8</li>&nbsp;<li><a href="/htmlnews/2022/1/473171.shtm" class="highlight2" target="_blank">儿童年龄越小开始花生免疫治疗缓解比例越高</a></li>
+</ul>
+
+                                   
+                                </div>
+                                <div id="xgpaper" style="display: none">
+                                   <ul class="ulclass">
+<li class='plnum'>1</li>&nbsp;<li><a href="/htmlpaper/2022/2/20222182081033170166.shtm" class="highlight2" target="_blank">高牛奶摄入量对儿童健康有益吗？一项基于全国人群的观察性队列研究 | MDPI Nutrients</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>2</li>&nbsp;<li><a href="/htmlpaper/2022/2/202221720382131670122.shtm" class="highlight2" target="_blank">超98%中国儿童青少年未达心血管健康理想状态</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>3</li>&nbsp;<li><a href="/htmlpaper/2022/2/20222109161498769891.shtm" class="highlight2" target="_blank">睡眠不足会使患心脏病风险增加三倍</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>4</li>&nbsp;<li><a href="/htmlpaper/2022/2/2022281051411369861.shtm" class="highlight2" target="_blank">狗狗为啥变小？基因突变源自古代狼</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>5</li>&nbsp;<li><a href="/htmlpaper/2022/1/2022127939211369699.shtm" class="highlight2" target="_blank">有压力“睡不好”究竟为啥？</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>6</li>&nbsp;<li><a href="/htmlpaper/2022/1/202217918128469192.shtm" class="highlight2" target="_blank">每12例儿童哮喘新病例就有1例与空气污染有关</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>7</li>&nbsp;<li><a href="/htmlpaper/2021/12/202112131135840968585.shtm" class="highlight2" target="_blank">研究证明，爱迪生、达利是对的</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>8</li>&nbsp;<li><a href="/htmlpaper/2021/11/20211116152366567918.shtm" class="highlight2" target="_blank">揭秘藏红花提取物对睡眠质量的影响 | MDPI Nutrients</a></li>
+</ul>
+
+                                   
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                      <script src="/html/js/p2.js" type="text/javascript"></script>
+                    <!--图片新闻-->
+                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a; margin-top:0px">
+                        <tr>
+                            <td align="left" colspan="2" style="background-image: url(/images/lmsy_jbg_br.jpg);
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="https://paper.sciencenet.cn/p-imgpaper.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px">图片新闻</a></td>
+                        </tr>
+                        <tr >
+                            <td style="width: 100%; height: 8px; border-width: 1px; text-align: right;" colspan="2">
+                            </td>
+                        </tr>
+                         ﻿<tr ><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492257.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181927354p.jpg' width='118' height='65' alt='FDA批准第二种治疗阿尔茨海默病的药物' /></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492227.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181744432260.png' width='118' height='65' alt='“人造太阳”基础物理研究取得系列新成果' /></a>
+</td>
+<tr ><td style="padding: 6px 6px 6px 10px" class="highlight2">
+  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492248.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023181742321010.png' width='118' height='65' alt='科研人员获得土壤呼吸测定影响因素' /></a>
+</td>
+<td style="padding: 6px 10px 6px 6px" class="highlight2">
+  <a href='https://news.sciencenet.cn//htmlnews/2023/1/492183.shtm' target='_blank'><img src='https://news.sciencenet.cn//upload/news/images/2023/1/2023162032217730.jpg' width='118' height='65' alt='新彩棉问世：自带粉红基因' /></a>
+</td>
+
+ 
+                        <tr style="">
+                            <td style="width: 100%; border-width: 1px; text-align: right; height: 20px;" colspan="2">
+                                <a href="/imgnews.aspx" target="_blank" style="color: #3f6417">>>更多</a></td>
+                        </tr>
+                    </table>
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                          <script src="/html/js/p3.js" type="text/javascript"></script>
+                    <!--新闻排行和评论排行-->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: solid 1px #557d1a;">
+                        <tr>
+                            <td align="left" id="zph1" style="background: #005007; height: 20px; font: 13px 宋体;
+                                color: #fff; font-weight: bold; line-height: 20px; width: 100%" onmouseover="showandhide('zph','yph')">
+                                <a href="/zphnews.aspx" target="_blank" style="font: 13px 宋体; color: #fff; font-weight: bold;
+                                    line-height: 20px; text-indent: 1em">一周新闻排行</a></td>
+                            
+                        </tr>
+                        <tr>
+                            <td align="center" colspan="2">
+                                <div id="zph">
+                                    ﻿<ul class="h1ulclass">
+<li class='plnum'>1</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492095.shtm" class="highlight2" target="_blank">范维唐、赵其国、徐銤三位院士逝世</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>2</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/491982.shtm" class="highlight2" target="_blank">濒危“抗癌奇木”有望发酵罐中“新生”</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>3</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492045.shtm" class="highlight2" target="_blank">江南大学领导班子调整</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>4</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492150.shtm" class="highlight2" target="_blank">研究发现不同提取方式对青稞淀粉结构的影响</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>5</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492067.shtm" class="highlight2" target="_blank">邹承鲁：只向真理低头，偶尔为爱温柔</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>6</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492166.shtm" class="highlight2" target="_blank">中国科学家发现铁死亡增敏新靶点</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>7</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492083.shtm" class="highlight2" target="_blank">研究显示足量饮水降低患慢性病风险</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>8</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492140.shtm" class="highlight2" target="_blank">2022年本科国家级教学成果奖候选项目公布</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>9</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/491981.shtm" class="highlight2" target="_blank">中科院制备出酶燃料电池驱动的离子电渗透面膜</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'>10</li>&nbsp;<li><a href="https://news.sciencenet.cn//htmlnews/2023/1/492241.shtm" class="highlight2" target="_blank">著名生物化学家杨福愉逝世</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="/zphnews.aspx" target="_blank" style="color: #567b1c; font-size: 12px">更多>></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                              
+                            </td>
+                        </tr>
+                    </table>
+                   
+                    <div style="line-height: 10px; height: 15px; clear: both;">
+                        &nbsp;</div>
+                          <script src="/html/js/p4.js" type="text/javascript"></script>
+                    <!--博文精选-->
+                    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #fff;
+                        border: solid 1px #557d1a;">
+                        <tr>
+                            <td align="left" colspan="2" style="background:#a4934b url(/images/lmd_jby_mbr.jpg) no-repeat;
+                                height: 20px; line-height: 20px; text-indent:1em">
+                                <a href="https://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="font: 13px 宋体; color: #fff;
+                                    font-weight: bold; line-height: 20px">编辑部推荐博文</a></td>
+                        </tr>
+                         <tr>
+                            <td  colspan="2">
+                            <div>
+                                    ﻿<ul class="h1ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-575926-1371207.html" class="highlight2" target="_blank">科学的荣耀属于谁？</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-612874-1371186.html" class="highlight2" target="_blank">少年经历对人思想和行为的影响</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-729911-1371184.html" class="highlight2" target="_blank">大学学报的出路在哪里？</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-3400925-1371105.html" class="highlight2" target="_blank">浅谈大学学报的窘境与发展</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-212210-1371098.html" class="highlight2" target="_blank">Nature：科学突破的速度随着时间的推移而放缓</a></li>
+</ul>
+<ul class="ulclass">
+<li class='plnum'><img src='/images/t11.gif' /></li><li><a href="https://blog.sciencenet.cn/blog-3444430-1371095.html" class="highlight2" target="_blank">认知随笔</a></li>
+</ul>
+
+ 
+                                    <ul style="margin: 6px 10px 6px 10px; padding: 0; list-style: none; text-align: right">
+                                        <li><a href="https://blog.sciencenet.cn/blog.php?mod=recommend" target="_blank" style="color: #567b1c; font-size: 12px">更多>></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    <div style="line-height: 10px; height: 15px; clear: both;">&nbsp;</div>
+                          <script src="/html/js/p5.js" type="text/javascript"></script>
+                    <!--论坛精选-->
+                    
+                </div>
+            </div>
+            <div id="footer">
+
+                <script src="/html/inc/foot.js" type="text/javascript"></script>
+
+            </div>
+        </div>
+</body>
+<script src="https://libs.baidu.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script>
+///html/cp.aspx?id=70248&com=1
+//*******************
+
+ $.post("https://news.sciencenet.cn/html/cp.aspx?id=70248&com=1" ,
+
+                 function (data) {
+                     if (data != "") {
+                        document.getElementById('commd').innerHTML=data;
+                     }
+                     
+                 });
+				 
+//******************
+var url=encodeURIComponent(location.href);
+
+  $.ajax({
+    type : "get",
+    url : "https://wap.sciencenet.cn/api/jssdk.php?url="+url,//替换网址，xxx根据自己jssdk文件位置修改
+    dataType : "jsonp",
+    jsonp: "callback",
+    jsonpCallback:"success_jsonpCallback",
+    success : function(data){
+        wx.config({
+	 debug: false,
+　　　　 appId: data.appId,
+　　　　 timestamp: data.timestamp,
+　　　　 nonceStr: data.nonceStr,
+　　　　 signature: data.signature,
+　　　　jsApiList: [
+       　　"onMenuShareTimeline", //分享给好友
+       　　"onMenuShareAppMessage", //分享到朋友圈
+       　　"onMenuShareQQ",  //分享到QQ
+       　　"onMenuShareWeibo" //分享到微博
+]
+});
+},
+   error:function(data){
+          
+     }
+});
+  wx.ready(function (){
+  var shareData = {
+  title: '科学网-孩子在睡梦中离奇死亡？遗传学家找到新线索',
+  desc: '科学网-孩子在睡梦中离奇死亡？遗传学家找到新线索',//这里请特别注意是要去除html
+  link:location.href,
+  imgUrl: 'https://'+window.location.host+'/images/logo300.png'
+  };
+  wx.onMenuShareAppMessage(shareData);
+  wx.onMenuShareTimeline(shareData);
+  wx.onMenuShareQQ(shareData);
+  wx.onMenuShareWeibo(shareData);
+    });
+
+ window.onload = function(){
+		if (typeof WeixinJSBridge == "undefined"){
+		    if( document.addEventListener ){
+		        document.addEventListener('MenuShareTimeline', WeiXinShareBtn, false);
+		    }else if (document.attachEvent){
+		        document.attachEvent('MenuShareTimeline', WeiXinShareBtn); 
+		        document.attachEvent('onMenuShareTimeline', WeiXinShareBtn);
+		    }
+		}else{
+			//WeiXinShareBtn();
+		}
+	};
+</script>
+</html>
+

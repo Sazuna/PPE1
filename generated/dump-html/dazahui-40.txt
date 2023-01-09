@@ -1,335 +1,1196 @@
-<!doctype html><html amp i-amphtml-layout i-amphtml-no-boilerplate lang=zh-Hans style="padding-top:32px !important;" transformed="google;v=8"><head><meta charset=utf-8><meta content="width=device-width,minimum-scale=1,initial-scale=1" name=viewport><style amp-runtime i-amphtml-version=012211302304002>html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
-/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
-/*# sourceURL=/css/ampshared.css*/</style><meta content=noindex name=robots><meta content=no-referrer-when-downgrade name=referrer><meta content=koreastardaily.com name=amp-cookie-scope><meta content="10=2,11=2" name=amp-usqp><script id=__AMP_EXP type=text/json>{"flexible-bitrate":0.1,"amp-story-first-page-max-bitrate":0.3,"story-disable-animations-first-page":1,"story-load-first-page-only":1,"story-load-inactive-outside-viewport":1,"story-ad-page-outlink":0.02,"amp-geo-ssr":1,"story-remote-localization":1,"amp-story-subscriptions":1}</script><script async nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0.js></script><script async crossorigin=anonymous src=https://cdn.ampproject.org/rtv/012211302304002/v0.mjs type=module></script><script async custom-element=amp-ad-network-doubleclick-impl nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-ad-network-doubleclick-impl-0.1.js></script><script async crossorigin=anonymous custom-element=amp-ad-network-doubleclick-impl src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-ad-network-doubleclick-impl-0.1.mjs type=module></script><script async custom-element=amp-ad-network-adsense-impl nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-ad-network-adsense-impl-0.1.js></script><script async crossorigin=anonymous custom-element=amp-ad-network-adsense-impl src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-ad-network-adsense-impl-0.1.mjs type=module></script><script async src=https://cdn.ampproject.org/viewer/google/va9.js></script><script async custom-element=amp-accordion nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-accordion-0.1.js></script><script async crossorigin=anonymous custom-element=amp-accordion src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-accordion-0.1.mjs type=module></script><script async custom-element=amp-ad nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-ad-0.1.js></script><script async crossorigin=anonymous custom-element=amp-ad src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-ad-0.1.mjs type=module></script><script async custom-element=amp-analytics nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-analytics-0.1.js></script><script async crossorigin=anonymous custom-element=amp-analytics src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-analytics-0.1.mjs type=module></script><script async custom-element=amp-auto-ads nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-auto-ads-0.1.js></script><script async crossorigin=anonymous custom-element=amp-auto-ads src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-auto-ads-0.1.mjs type=module></script><script async custom-element=amp-facebook-comments nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-facebook-comments-0.1.js></script><script async crossorigin=anonymous custom-element=amp-facebook-comments src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-facebook-comments-0.1.mjs type=module></script><script async custom-element=amp-facebook-page nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-facebook-page-0.1.js></script><script async crossorigin=anonymous custom-element=amp-facebook-page src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-facebook-page-0.1.mjs type=module></script><script async custom-element=amp-form nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-form-0.1.js></script><script async crossorigin=anonymous custom-element=amp-form src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-form-0.1.mjs type=module></script><script async custom-element=amp-instagram nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-instagram-0.1.js></script><script async crossorigin=anonymous custom-element=amp-instagram src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-instagram-0.1.mjs type=module></script><script async custom-element=amp-lightbox nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-lightbox-0.1.js></script><script async crossorigin=anonymous custom-element=amp-lightbox src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-lightbox-0.1.mjs type=module></script><script async custom-element=amp-lightbox-gallery nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-lightbox-gallery-0.1.js></script><script async crossorigin=anonymous custom-element=amp-lightbox-gallery src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-lightbox-gallery-0.1.mjs type=module></script><script async custom-element=amp-sidebar nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-sidebar-0.1.js></script><script async crossorigin=anonymous custom-element=amp-sidebar src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-sidebar-0.1.mjs type=module></script><script async custom-element=amp-social-share nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-social-share-0.1.js></script><script async crossorigin=anonymous custom-element=amp-social-share src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-social-share-0.1.mjs type=module></script><script async custom-element=amp-timeago nomodule src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-timeago-0.1.js></script><script async crossorigin=anonymous custom-element=amp-timeago src=https://cdn.ampproject.org/rtv/012211302304002/v0/amp-timeago-0.1.mjs type=module></script><link href=https://www-koreastardaily-com.cdn.ampproject.org/ii/AW/s/www.koreastardaily.com/favicon.ico rel=icon><link href=https://a-ksd--i-com.cdn.ampproject.org rel="dns-prefetch preconnect"><style amp-custom>
-/*! Bassplate | MIT License | http://github.com/basscss/bassplate *//*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */button,hr,input{overflow:visible}audio,canvas,progress,video{display:inline-block}article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}.list-reset,.list-style-none{list-style:none}.fit,.truncate,legend{max-width:100%}.align-baseline,progress,sub,sup{vertical-align:baseline}.relative,sub,sup{position:relative}html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}body{margin:0}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}a{background-color:transparent;-webkit-text-decoration-skip:objects}a:active,a:hover{outline-width:0}main a{color:#38c}.paragraph a,.paragraph a:visited{color:#38c;text-decoration:none}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit;font-weight:bolder}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0}sub{bottom:-.25em}sup{top:-.5em}audio:not([controls]){display:none;height:0}img{border-style:none}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button,select{text-transform:none}.ampstart-label,.caps{text-transform:uppercase}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:ButtonText dotted 1px}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}.mr0,.mx0{margin-right:0}.mt0,.my0{margin-top:0}.mb0,.my0{margin-bottom:0}.p0,legend{padding:0}.list-reset,.pl0,.px0{padding-left:0}.pr0,.px0{padding-right:0}.pt0,.py0{padding-top:0}.pb0,.py0{padding-bottom:0}legend{box-sizing:border-box;color:inherit;display:table;white-space:normal}.ampstart-btn,.nowrap,.truncate{white-space:nowrap}textarea{overflow:auto}.overflow-hidden,.truncate{overflow:hidden}[type=checkbox],[type=radio]{box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}[hidden],template{display:none}.h1{font-size:3rem}.h2{font-size:2rem}.h3{font-size:1.5rem}.h4{font-size:1.125rem}.h5{font-size:.875rem}.h6{font-size:.75rem}.font-family-inherit{font-family:inherit}.font-size-inherit{font-size:inherit}.text-decoration-none{text-decoration:none}.bold{font-weight:700}.regular{font-weight:400}.italic{font-style:italic}.caps{letter-spacing:.2em}.left-align{text-align:left}.center{text-align:center}.right-align{text-align:right}.justify{text-align:justify}.break-word{word-wrap:break-word}.line-height-1{line-height:1rem}.line-height-2{line-height:1.125rem}.line-height-3{line-height:1.5rem}.line-height-4{line-height:2rem}.underline{text-decoration:underline}.truncate{text-overflow:ellipsis}.inline{display:inline}.block{display:block}.inline-block{display:inline-block}.table{display:table}.table-cell{display:table-cell}.overflow-scroll{overflow:scroll}.overflow-auto{overflow:auto}.clearfix:after,.clearfix:before{content:" ";display:table}.clearfix:after{clear:both}.left{float:left}.right{float:right}.max-width-1{max-width:24rem}.max-width-2{max-width:32rem}.max-width-3{max-width:48rem}.max-width-4{max-width:64rem}.border-box{box-sizing:border-box}.align-top{vertical-align:top}.align-middle{vertical-align:middle}.align-bottom{vertical-align:bottom}.m0{margin:0}.ml0,.mx0{margin-left:0}.mr1,.mx1{margin-right:.5rem}.mt1,.my1{margin-top:.5rem}.mb1,.my1{margin-bottom:.5rem}.m1{margin:.5rem}.ml1,.mx1{margin-left:.5rem}.mr2,.mx2{margin-right:1rem}.mt2,.my2{margin-top:1rem}.mb2,.my2{margin-bottom:1rem}.m2{margin:1rem}.ml2,.mx2{margin-left:1rem}.mr3,.mx3{margin-right:1.5rem}.mt3,.my3{margin-top:1.5rem}.mb3,.my3{margin-bottom:1.5rem}.m3{margin:1.5rem}.ml3,.mx3{margin-left:1.5rem}.mr4,.mx4{margin-right:2rem}.mt4,.my4{margin-top:2rem}.mb4,.my4{margin-bottom:2rem}.m4{margin:2rem}.ml4,.mx4{margin-left:2rem}.mxn1{margin-left:-.5rem;margin-right:-.5rem}.mxn2{margin-left:-1rem;margin-right:-1rem}.mxn3{margin-left:-1.5rem;margin-right:-1.5rem}.mxn4{margin-left:-2rem;margin-right:-2rem}.ml-auto,.mx-auto{margin-left:auto}.mr-auto,.mx-auto{margin-right:auto}.pl1,.px1{padding-left:.5rem}.pr1,.px1{padding-right:.5rem}.pt1,.py1{padding-top:.5rem}.pb1,.py1{padding-bottom:.5rem}.p1{padding:.5rem}.pt2,.py2{padding-top:1rem}.pb2,.py2{padding-bottom:1rem}.pl2,.px2{padding-left:1rem}.pr2,.px2{padding-right:1rem}.p2{padding:1rem}.pt3,.py3{padding-top:1.5rem}.pb3,.py3{padding-bottom:1.5rem}.pl3,.px3{padding-left:1.5rem}.pr3,.px3{padding-right:1.5rem}.p3{padding:1.5rem}.pt4,.py4{padding-top:2rem}.pb4,.py4{padding-bottom:2rem}.pl4,.px4{padding-left:2rem}.pr4,.px4{padding-right:2rem}.p4{padding:2rem}h1,h2,h3,h4,h5,h6,p{margin:0;padding:0}.col{float:left}.col,.col-right{box-sizing:border-box}.col-right{float:right}.col-1{width:8.33333%}.col-2{width:16.66667%}.col-3{width:25%}.col-4{width:33.33333%}.col-5{width:41.66667%}.col-6{width:50%}.col-7{width:58.33333%}.col-8{width:66.66667%}.col-9{width:75%}.col-10{width:83.33333%}.col-11{width:91.66667%}.col-12{width:100%}@media (min-width:40.06rem){.sm-col,.sm-col-right{box-sizing:border-box}.sm-col{float:left}.sm-col-right{float:right}.sm-col-1{width:8.33333%}.sm-col-2{width:16.66667%}.sm-col-3{width:25%}.sm-col-4{width:33.33333%}.sm-col-5{width:41.66667%}.sm-col-6{width:50%}.sm-col-7{width:58.33333%}.sm-col-8{width:66.66667%}.sm-col-9{width:75%}.sm-col-10{width:83.33333%}.sm-col-11{width:91.66667%}.sm-col-12{width:100%}}@media (min-width:52.06rem){.md-col,.md-col-right{box-sizing:border-box}.md-col{float:left}.md-col-right{float:right}.md-col-1{width:8.33333%}.md-col-2{width:16.66667%}.md-col-3{width:25%}.md-col-4{width:33.33333%}.md-col-5{width:41.66667%}.md-col-6{width:50%}.md-col-7{width:58.33333%}.md-col-8{width:66.66667%}.md-col-9{width:75%}.md-col-10{width:83.33333%}.md-col-11{width:91.66667%}.md-col-12{width:100%}}.flex{display:-webkit-box;display:-ms-flexbox;display:flex}@media (min-width:40.06rem){.sm-flex{display:-webkit-box;display:-ms-flexbox;display:flex}}@media (min-width:52.06rem){.md-flex{display:-webkit-box;display:-ms-flexbox;display:flex}}@media (min-width:64.06rem){.lg-col,.lg-col-right{box-sizing:border-box}.lg-col{float:left}.lg-col-right{float:right}.lg-col-1{width:8.33333%}.lg-col-2{width:16.66667%}.lg-col-3{width:25%}.lg-col-4{width:33.33333%}.lg-col-5{width:41.66667%}.lg-col-6{width:50%}.lg-col-7{width:58.33333%}.lg-col-8{width:66.66667%}.lg-col-9{width:75%}.lg-col-10{width:83.33333%}.lg-col-11{width:91.66667%}.lg-col-12{width:100%}.lg-flex{display:-webkit-box;display:-ms-flexbox;display:flex}.lg-hide{display:none}}.flex-column{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.flex-wrap{-ms-flex-wrap:wrap;flex-wrap:wrap}.items-start{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.items-end{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.items-center{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.items-baseline{-webkit-box-align:baseline;-ms-flex-align:baseline;align-items:baseline}.items-stretch{-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch}.self-start{-ms-flex-item-align:start;align-self:flex-start}.self-end{-ms-flex-item-align:end;align-self:flex-end}.self-center{-ms-flex-item-align:center;-ms-grid-row-align:center;align-self:center}.self-baseline{-ms-flex-item-align:baseline;align-self:baseline}.self-stretch{-ms-flex-item-align:stretch;-ms-grid-row-align:stretch;align-self:stretch}.justify-start{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.justify-end{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.justify-center{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.justify-between{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.justify-around{-ms-flex-pack:distribute;justify-content:space-around}.content-start{-ms-flex-line-pack:start;align-content:flex-start}.content-end{-ms-flex-line-pack:end;align-content:flex-end}.content-center{-ms-flex-line-pack:center;align-content:center}.content-between{-ms-flex-line-pack:justify;align-content:space-between}.content-around{-ms-flex-line-pack:distribute;align-content:space-around}.content-stretch{-ms-flex-line-pack:stretch;align-content:stretch}.flex-auto{-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;min-width:0;min-height:0}.flex-none{-webkit-box-flex:0;-ms-flex:none;flex:none}.order-0{-webkit-box-ordinal-group:1;-ms-flex-order:0;order:0}.order-1{-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}.order-2{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}.order-3{-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}.order-last{-webkit-box-ordinal-group:100000;-ms-flex-order:99999;order:99999}.absolute{position:absolute}.fixed{position:fixed}.top-0{top:0}.right-0{right:0}.bottom-0{bottom:0}.left-0{left:0}.z1{z-index:1}.z2{z-index:2}.z3{z-index:3}.z4{z-index:4}.border{border-style:solid;border-width:1px}.border-top{border-top-style:solid;border-top-width:1px}.border-right{border-right-style:solid;border-right-width:1px}.border-bottom{border-bottom-style:solid;border-bottom-width:1px}.border-left{border-left-style:solid;border-left-width:1px}.border-none{border:0}.rounded{border-radius:3px}.circle{border-radius:50%}.rounded-top{border-radius:3px 3px 0 0}.rounded-right{border-radius:0 3px 3px 0}.rounded-bottom{border-radius:0 0 3px 3px}.rounded-left{border-radius:3px 0 0 3px}.not-rounded{border-radius:0}.hide{position:absolute;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px)}@media (max-width:40rem){.xs-hide{display:none}}@media (min-width:40.06rem) and (max-width:52rem){.sm-hide{display:none}}@media (min-width:52.06rem) and (max-width:64rem){.md-hide{display:none}}.display-none{display:none}*{box-sizing:border-box}body{background:#fff;color:#4a4a4a;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,Arial,sans-serif;min-width:315px;overflow-x:hidden;font-smooth:always;-webkit-font-smoothing:antialiased}main{max-width:700px;margin:0 auto}amp-carousel .ampstart-image-with-caption,amp-carousel .ampstart-image-with-heading{margin-bottom:0}.ampstart-accent{color:#003f93}#content:target{margin-top:calc(0px - 3.5rem);padding-top:3.5rem}.ampstart-title-lg{font-size:3rem;line-height:3.5rem;letter-spacing:.06rem}.ampstart-title-md{font-size:2rem;line-height:2.5rem;letter-spacing:.06rem}.ampstart-title-sm{font-size:1.5rem;line-height:2rem;letter-spacing:.06rem}.ampstart-subtitle,body{font-size:1.1rem;line-height:2rem;letter-spacing:normal}.ampstart-subtitle{color:#003f93;font-size:1rem}.ampstart-meta .category{color:#fff;background-color:#aaa}.ampstart-byline,.ampstart-caption,.ampstart-hint,.ampstart-label{font-size:.875rem;color:#4f4f4f;line-height:1.125rem;letter-spacing:.06rem}.ampstart-footer,.ampstart-small-text{font-size:.75rem;line-height:1rem;letter-spacing:.06rem}.ampstart-card{box-shadow:0 1px 1px 0 rgba(0,0,0,.14),0 1px 1px -1px rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)}.h1,h1{font-size:3rem;line-height:3.5rem}.h2,h2{font-size:2rem;line-height:2.5rem}.h3,h3{font-size:1.5rem;line-height:2rem}.h4,h4{font-size:1.125rem;line-height:1.5rem}.h5,h5{font-size:.875rem;line-height:1.125rem}.h6,h6{font-size:.75rem;line-height:1rem}h1,h2,h3,h4,h5,h6{font-weight:400;letter-spacing:.06rem}a,a:active,a:visited{color:inherit}.ampstart-btn{font-family:inherit;font-weight:inherit;font-size:1rem;line-height:1.125rem;padding:.7em .8em;text-decoration:none;word-wrap:normal;vertical-align:middle;cursor:pointer;background-color:#000;color:#fff;border:1px solid #fff}.ampstart-btn:visited{color:#fff}.ampstart-btn-secondary{background-color:#fff;color:#000;border:1px solid #000}.ampstart-btn-secondary:visited{color:#000}.ampstart-btn:active .ampstart-btn:focus{opacity:.8}.ampstart-btn[disabled],.ampstart-btn[disabled]:active,.ampstart-btn[disabled]:focus,.ampstart-btn[disabled]:hover{opacity:.5;outline:0;cursor:default}.ampstart-dropcap:first-letter{color:#000;font-size:3rem;font-weight:700;float:left;overflow:hidden;line-height:3rem;margin-left:0;margin-right:.5rem}.ampstart-initialcap{padding-top:1rem;margin-top:1.5rem}.ampstart-initialcap:first-letter{color:#000;font-size:3rem;font-weight:700;margin-left:-2px}.ampstart-pullquote{border:none;border-left:4px solid #000;font-size:1.5rem;padding-left:1.5rem}.ampstart-byline time{font-style:normal;white-space:nowrap}.amp-carousel-button-next{background-image:url('data:image/svg+xml;charset=utf-8,<svg width="18" height="18" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg"><title>Next</title><path d="M25.557 14.7L13.818 2.961 16.8 0l16.8 16.8-16.8 16.8-2.961-2.961L25.557 18.9H0v-4.2z" fill="#FFF" fill-rule="evenodd"/></svg>')}.amp-carousel-button-prev{background-image:url('data:image/svg+xml;charset=utf-8,<svg width="18" height="18" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg"><title>Previous</title><path d="M33.6 14.7H8.043L19.782 2.961 16.8 0 0 16.8l16.8 16.8 2.961-2.961L8.043 18.9H33.6z" fill="#FFF" fill-rule="evenodd"/></svg>')}.ampstart-dropdown{min-width:200px}.ampstart-dropdown.absolute{z-index:100}.ampstart-dropdown.absolute>section,.ampstart-dropdown.absolute>section>header{height:100%}.ampstart-dropdown>section>header{background-color:#000;border:0;color:#fff}.ampstart-dropdown>section>header:after{display:inline-block;content:"+";padding:0 0 0 1.5rem;color:#003f93}.ampstart-dropdown>[expanded]>header:after{content:"â€“"}.absolute .ampstart-dropdown-items{z-index:200}.ampstart-dropdown-item{background-color:#000;color:#003f93;opacity:.9}.ampstart-dropdown-item:active,.ampstart-dropdown-item:hover{opacity:1}.ampstart-footer{background-color:#fff;color:#000;padding-bottom:1rem}.ampstart-footer .ampstart-icon{fill:#000}.ampstart-icon,.ampstart-sidebar .ampstart-icon{fill:#003f93}.ampstart-footer .ampstart-social-follow li:last-child{margin-right:0}.ampstart-image-fullpage-hero{color:#fff}.ampstart-fullpage-hero-heading-text,.ampstart-image-fullpage-hero .ampstart-image-credit{-webkit-box-decoration-break:clone;box-decoration-break:clone;background:#000;padding:0 1rem .2rem}.ampstart-image-fullpage-hero>amp-img{max-height:calc(100vh - 3.5rem)}.ampstart-image-fullpage-hero>amp-img img{-o-object-fit:cover;object-fit:cover}.ampstart-fullpage-hero-heading{line-height:3.5rem}.ampstart-fullpage-hero-cta{background:0 0}.ampstart-readmore{background:-webkit-linear-gradient(bottom,rgba(0,0,0,.65),transparent);background:linear-gradient(0deg,rgba(0,0,0,.65) 0,transparent);color:#fff;margin-top:5rem;padding-bottom:3.5rem}.ampstart-readmore:after{display:block;content:"âŒ„";font-size:2rem}.ampstart-input input[type=checkbox]+label:after,.ampstart-input input[type=radio]+label:after,.ampstart-input>input[type=range]+label:after{display:none}.ampstart-readmore-text{background:#000}@media (min-width:52.06rem){.ampstart-image-fullpage-hero>amp-img{height:60vh}}.ampstart-image-heading{color:#fff;background:-webkit-linear-gradient(bottom,rgba(0,0,0,.65),transparent);background:linear-gradient(0deg,rgba(0,0,0,.65) 0,transparent)}.ampstart-image-heading>*{margin:0}.ampstart-image-with-caption figcaption{color:#4f4f4f;line-height:1.125rem}.ampstart-input{max-width:100%;width:300px;min-width:100px;font-size:1rem;line-height:1.5rem}.ampstart-input [disabled],.ampstart-input [disabled]+label{opacity:.5}.ampstart-input [disabled]:focus{outline:0}.ampstart-input>input,.ampstart-input>select,.ampstart-input>textarea{width:100%;margin-top:1rem;line-height:1.5rem;border:0;border-radius:0;border-bottom:1px solid #4a4a4a;background:0 0;color:#4a4a4a;outline:0}.ampstart-input>label{color:#003f93;pointer-events:none;text-align:left;font-size:.875rem;line-height:1rem;opacity:0;-webkit-animation:.2s;animation:.2s;-webkit-animation-timing-function:cubic-bezier(.4,0,.2,1);animation-timing-function:cubic-bezier(.4,0,.2,1);-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards}.ampstart-input>input:focus,.ampstart-input>select:focus,.ampstart-input>textarea:focus{outline:0}.ampstart-input>input:focus::-webkit-input-placeholder,.ampstart-input>select:focus::-webkit-input-placeholder,.ampstart-input>textarea:focus::-webkit-input-placeholder{color:transparent}.ampstart-input>input:focus::-moz-placeholder,.ampstart-input>select:focus::-moz-placeholder,.ampstart-input>textarea:focus::-moz-placeholder{color:transparent}.ampstart-input>input:focus:-ms-input-placeholder,.ampstart-input>select:focus:-ms-input-placeholder,.ampstart-input>textarea:focus:-ms-input-placeholder{color:transparent}.ampstart-input>input:focus::placeholder,.ampstart-input>select:focus::placeholder,.ampstart-input>textarea:focus::placeholder{color:transparent}.ampstart-input>input:not(:placeholder-shown):not([disabled])+label,.ampstart-input>select:not(:placeholder-shown):not([disabled])+label,.ampstart-input>textarea:not(:placeholder-shown):not([disabled])+label{opacity:1}.ampstart-input>input:focus+label,.ampstart-input>select:focus+label,.ampstart-input>textarea:focus+label{-webkit-animation-name:a;animation-name:a}@-webkit-keyframes a{to{opacity:1}}@keyframes a{to{opacity:1}}.ampstart-input>label:after{content:"";height:2px;position:absolute;bottom:0;left:45%;background:#003f93;-webkit-transition:.2s;transition:.2s;-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);transition-timing-function:cubic-bezier(.4,0,.2,1);visibility:hidden;width:10px}.ampstart-input>input:focus+label:after,.ampstart-input>select:focus+label:after,.ampstart-input>textarea:focus+label:after{left:0;width:100%;visibility:visible}.ampstart-input>input[type=search]{-webkit-appearance:none;-moz-appearance:none;appearance:none}.ampstart-input>input[type=range]{border-bottom:0}.ampstart-input>select{-webkit-appearance:none;-moz-appearance:none;appearance:none}.ampstart-input>select+label:before{content:"âŒ„";line-height:1.5rem;position:absolute;right:5px;zoom:2;top:0;bottom:0;color:#003f93}.ampstart-input-chk,.ampstart-input-radio{width:auto;color:#4a4a4a}.ampstart-input input[type=checkbox],.ampstart-input input[type=radio]{margin-top:0;-webkit-appearance:none;-moz-appearance:none;appearance:none;width:20px;height:20px;border:1px solid #003f93;vertical-align:middle;margin-right:.5rem;text-align:center}.ampstart-input input[type=radio]{border-radius:20px}.ampstart-input input[type=checkbox]:not([disabled])+label,.ampstart-input input[type=radio]:not([disabled])+label{pointer-events:auto;-webkit-animation:none;animation:none;vertical-align:middle;opacity:1;cursor:pointer}.ampstart-input input[type=checkbox]:after,.ampstart-input input[type=radio]:after{position:absolute;top:0;left:0;bottom:0;right:0;content:" ";line-height:1.4rem;vertical-align:middle;text-align:center;background-color:#fff}.ampstart-input input[type=checkbox]:checked:after{background-color:#003f93;color:#fff;content:"âœ“"}.ampstart-input input[type=radio]:checked{background-color:#fff}.ampstart-input input[type=radio]:after{top:3px;bottom:3px;left:3px;right:3px;border-radius:12px}.ampstart-input input[type=radio]:checked:after{content:"";font-size:3rem;background-color:#003f93}.ampstart-input>label,_:-ms-lang(x){opacity:1}.ampstart-input>input:-ms-input-placeholder,_:-ms-lang(x){color:transparent}.ampstart-input>input::placeholder,_:-ms-lang(x){color:transparent}.ampstart-input>input::-ms-input-placeholder,_:-ms-lang(x){color:transparent}.ampstart-input>select::-ms-expand{display:none}.ampstart-headerbar{background-color:#40e0d0;color:#fff;z-index:999;box-shadow:0 0 5px 2px rgba(0,0,0,.1)}.ampstart-headerbar .logo{width:112px;height:24px;margin-bottom:6px}.ampstart-headerbar .search-icon{margin-top:2px}.ampstart-headerbar+:not(amp-sidebar),.ampstart-headerbar+amp-sidebar+*{margin-top:0}.ampstart-headerbar-nav .ampstart-nav-item{padding:0 1rem;background:0 0;opacity:.8}.ampstart-headerbar-nav{line-height:3.5rem;-webkit-box-flex:1;-ms-flex:1;flex:1}.ampstart-nav-item:active,.ampstart-nav-item:focus,.ampstart-nav-item:hover{opacity:1}.ampstart-navbar-trigger:focus{outline:0}.ampstart-nav a,.ampstart-navbar-trigger,.ampstart-sidebar-faq a{cursor:pointer;text-decoration:none}.ampstart-nav .ampstart-label{color:inherit}.ampstart-navbar-trigger{line-height:3.5rem;font-size:2rem}.ampstart-nav-search{-webkit-box-flex:.5;-ms-flex-positive:.5;flex-grow:.5}.ampstart-headerbar .ampstart-nav-search:active,.ampstart-headerbar .ampstart-nav-search:focus,.ampstart-headerbar .ampstart-nav-search:hover{box-shadow:none}.ampstart-nav-search>input{border:none;border-radius:3px;line-height:normal}.ampstart-nav-dropdown{min-width:200px}.ampstart-nav-dropdown amp-accordion header{background-color:#fff;border:none}.ampstart-nav-dropdown amp-accordion ul{background-color:#fff}.ampstart-nav-dropdown .ampstart-dropdown-item,.ampstart-nav-dropdown .ampstart-dropdown>section>header{background-color:#fff;color:#000}.ampstart-nav-dropdown .ampstart-dropdown-item{color:#003f93}.ampstart-sidebar{background-color:#fff;color:#000;min-width:300px;width:300px}.ampstart-sidebar-header{line-height:3.5rem;min-height:3.5rem}.ampstart-sidebar .ampstart-dropdown header,.ampstart-sidebar .ampstart-dropdown-item,.ampstart-sidebar .ampstart-faq-item,.ampstart-sidebar .ampstart-nav-item,.ampstart-sidebar .ampstart-social-follow{margin:0 0 2rem}.ampstart-sidebar .ampstart-nav-dropdown{margin:0}.ampstart-sidebar .ampstart-navbar-trigger{line-height:inherit}.ampstart-navbar-trigger svg{pointer-events:none}.ampstart-related-article-section{border-color:#4a4a4a}.ampstart-related-article-section .ampstart-heading{color:#4a4a4a;font-weight:400}.ampstart-related-article-readmore{color:#000;letter-spacing:0}.ampstart-related-section-items>li{border-bottom:1px solid #4a4a4a}.ampstart-related-section-items>li:last-child{border:none}.ampstart-related-section-items .ampstart-image-with-caption{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-bottom:0}.ampstart-related-section-items .ampstart-image-with-caption>amp-img,.ampstart-related-section-items .ampstart-image-with-caption>figcaption{-webkit-box-flex:1;-ms-flex:1;flex:1}.ampstart-related-section-items .ampstart-image-with-caption>figcaption{padding-left:1rem}@media (min-width:40.06rem){.ampstart-related-section-items>li{border:none}.ampstart-related-section-items .ampstart-image-with-caption>figcaption{padding:1rem 0}.ampstart-related-section-items .ampstart-image-with-caption>amp-img,.ampstart-related-section-items .ampstart-image-with-caption>figcaption{-ms-flex-preferred-size:100%;flex-basis:100%}}.ampstart-social-box{display:-webkit-box;display:-ms-flexbox;display:flex}.ampstart-social-box>amp-social-share{background-color:#40e0d0}.gallery{background-color:#000}.download-title{color:#ccc;margin-top:10px}.search-lightbox{padding:1em;background:rgba(255,255,255,0.9);width:100%;height:100%;position:absolute;color:black;}.trending{display:none;}
-  </style><title>ã€ŠLinkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±ã€‹å…¬å¼€5åˆ†é’Ÿè¶…é•¿ç‰ˆé¢„å‘Šï¼šå•çä¹&amp;æ–‡ä½³ç…è¿™é¢œå€¼+æ¼”æŠ€+å‰§æƒ…ï¼ŒçœŸçš„çˆ±äº†ï½ - KSD éŸ©æ˜Ÿç½‘ (éŸ©å‰§) </title><link href=https://www.koreastardaily.com/sc/news/141595 rel=canonical><script type=application/ld+json>
-{
-"@context": "http://schema.org",
-"@type": "NewsArticle",
-"mainEntityOfPage": "https://www.koreastardaily.com/sc/news/141595",
-"headline": "ã€ŠLinkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±ã€‹å…¬å¼€5åˆ†é’Ÿè¶…é•¿ç‰ˆé¢„å‘Šï¼šå•çä¹&amp;æ–‡ä½³ç…è¿™é¢œå€¼+æ¼”æŠ€+å‰§æƒ…ï¼ŒçœŸçš„çˆ±äº†ï½",
-"datePublished": "2022-06-02T11:25:00+08:00",
-"dateModified": "2022-06-02T01:49:22+08:00",
-"description": "æ–°éŸ©å‰§ã€ŠLinkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±ã€‹å…¬å¸ƒäº†è¶…é•¿ç‰ˆç²¾å½©é¢„å‘Šç‰‡ã€‚",
-"author": {
-  "@type": "Person",
-  "name": "Tracy"
-},
-"publisher": {
-  "@type": "Organization",
-  "name": "KSD éŸ©æ˜Ÿç½‘",
-  "logo": {
-    "@type": "ImageObject",
-    "url": "https://a.ksd-i.com/images/app-icon-192x192.png",
-    "width": 192
-  },
-  "sameAs":["https://www.facebook.com/koreastardaily","https://www.instagram.com/koreastardaily/","https://www.youtube.com/c/Koreastardaily"]
-},
-"image": {
-  "@type": "ImageObject",
-  "url": "https://a.ksd-i.com/a/2022-06-01/141595-944361.png",
-  "height": 720,
-  "width": 1280}
-}
-</script><meta content=2 name=runtime-type></head><body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[28,3,4005574] published at 2013-09-10 11:03:31 from #236 by 10015-->
+<!--ĞÂ¾©±¨-->
+<!---->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=gb2312" />
+<title>¡¶¼«ÀÖ¿Õ¼ä¡·£ºÆ¶Ãñ¿ßµÄÄ©ÈÕ¾¯Ê¾Í¼|¡¶¼«ÀÖ¿Õ¼ä¡·|¼«ÀÖ¿Õ¼ä|Æ¶Ãñ¿ß_ĞÂÀËÓéÀÖ_ĞÂÀËÍø</title>
+<meta name="keywords" content="¡¶¼«ÀÖ¿Õ¼ä¡·,¼«ÀÖ¿Õ¼ä,Æ¶Ãñ¿ß" />
+<meta name="description" content="2009Äê£¬ÓÉÀ´×ÔÄÏ·ÇµÄÄá¶û¡¤²¼ÂåÄ·¿²ÆÕÖ´µ¼¡¢±ËµÃ¡¤½Ü¿ËÑ·¼àÖÆµÄ¿Æ»ÃÆ¬¡¶µÚ¾ÅÇø¡·£¬ËäÈ»Ö»ÊÇÒ»²¿µÍ³É±¾×÷Æ·£¬µ«ÔÚµ¼ÑİµÄ¶ÀÌØµçÓ°ÊÖ·¨¡¢Ó°Ïñ·ç¸ñµÄÅäºÏÏÂ½ĞºÃ½Ğ×ù£¬ËûµÄµÚ¶ş²¿×÷Æ·¡¶¼«ÀÖ¿Õ¼ä¡·ÔÚÄÚµØÉÏÓ³£¬µ«¿Ú±®²»Èç¡¶µÚ¾ÅÇø¡·¡£±¾±¨¹ÛÓ°ÍÅÔÚ¹Û¿´ºó¸øÓèÁË" />
+<meta property="og:title" content="¡¶¼«ÀÖ¿Õ¼ä¡·£ºÆ¶Ãñ¿ßµÄÄ©ÈÕ¾¯Ê¾Í¼" />
+<meta property="og:description" content="¡¶¼«ÀÖ¿Õ¼ä¡·£ºÆ¶Ãñ¿ßµÄÄ©ÈÕ¾¯Ê¾Í¼" />
+<meta property="og:url" content="http://ent.sina.com.cn/r/m/2013-09-10/11034005574.shtml" />
+<meta property="og:image" content="http://i1.sinaimg.cn/ent/r/m/2013-09-10/U10015P28T3D4005574F326DT20130910110323.jpg" />
+<meta name="stencil" content="PGLS000119">
+<meta name="publishid" content="28,3,4005574">
+<meta name="comment" content="yl:28-3-4005574">
+<meta name="sudameta" content="comment_channel:yl;comment_id:28-3-4005574">
 
+<meta name="subjectid" content="&pid:2423">
 
-<amp-auto-ads class=i-amphtml-layout-container data-ad-client=ca-pub-3262822889736522 i-amphtml-layout=container type=adsense>
-</amp-auto-ads>
-
-  
-
-<header class="ampstart-headerbar flex justify-start items-center top-0 left-0 right-0 pl2 pr2 pt2 md-pt0">
-    <div aria-label="open sidebar" class="ampstart-navbar-trigger  pr2 absolute top-0 pr0 mr2 mt2" on=tap:header-sidebar.toggle role=button tabindex=0><svg class=block height=24 viewbox="0 0 24 24" width=24 xmlns=http://www.w3.org/2000/svg><path d="M0 0h24v24H0z" fill=none></path><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z" fill=currentColor></path></svg>
-    </div>
-      <a class="text-decoration-none inline-block mx-auto ampstart-headerbar-home-link md-mb0 " href=https://www.koreastardaily.com/sc target=_top>
-        <amp-img alt="KSD logo" class="logo my0 mx-auto i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=24 i-amphtml-layout=fixed layout=fixed src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/images/mobileweb/mobileweb-logo.png srcset="https://a-ksd--i-com.cdn.ampproject.org/ii/w120/s/a.ksd-i.com/images/mobileweb/mobileweb-logo.png 120w, https://a-ksd--i-com.cdn.ampproject.org/ii/w270/s/a.ksd-i.com/images/mobileweb/mobileweb-logo.png 270w, https://a-ksd--i-com.cdn.ampproject.org/ii/w390/s/a.ksd-i.com/images/mobileweb/mobileweb-logo.png 390w" style=width:112px;height:24px; width=112>
-      </amp-img></a>
-    <div class="ampstart-headerbar-fixed center m0 p0 flex justify-center nowrap absolute top-0 right-0 mt2 pr2" on=tap:search-lightbox role=button tabindex=0>
-<svg class=search-icon height=24 overflow=visible stroke=#fff stroke-width=0.3 viewbox="0 0 24 24" width=24 xmlns=http://www.w3.org/2000/svg>
-<path d="M19.129,18.164l-4.518-4.52c1.152-1.373,1.852-3.143,1.852-5.077c0-4.361-3.535-7.896-7.896-7.896
-c-4.361,0-7.896,3.535-7.896,7.896s3.535,7.896,7.896,7.896c1.934,0,3.705-0.698,5.078-1.853l4.52,4.519
-c0.266,0.268,0.699,0.268,0.965,0C19.396,18.863,19.396,18.431,19.129,18.164z M8.567,15.028c-3.568,0-6.461-2.893-6.461-6.461
-s2.893-6.461,6.461-6.461c3.568,0,6.46,2.893,6.46,6.461S12.135,15.028,8.567,15.028z" fill=#fff></path>
-</svg>
-          <div class="ampstart-headerbar-icon-wrapper relative"></div>
-    </div>
-  </header>
-
-
-<amp-sidebar class="ampstart-sidebar px3   i-amphtml-layout-nodisplay" hidden=hidden i-amphtml-layout=nodisplay id=header-sidebar layout=nodisplay>
-  <div class="flex justify-start items-center ampstart-sidebar-header">
-    <div aria-label="close sidebar" class="ampstart-navbar-trigger items-start" on=tap:header-sidebar.toggle role=button tabindex=0>âœ•</div>
-  </div>
-  <nav class="ampstart-sidebar-nav ampstart-nav">
-    <ul class="list-reset m0 p0 ampstart-label">
-<li class=ampstart-faq-item><a class="ksd-nav-link ui-icon-home" href=https://www.koreastardaily.com/sc target=_top>ä¸»é¡µ</a></li>
-
-          <li class="ampstart-nav-item ampstart-nav-dropdown relative ">
-
-<amp-accordion class="ampstart-dropdown i-amphtml-layout-container" disable-session-states i-amphtml-layout=container layout=container>
-  <section>
-    <header>æ–°é—»</header>
-    <ul class="ampstart-dropdown-items list-reset m0 p0">
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/kpop target=_top>KPOP</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/drama target=_top>éŸ©å‰§</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/celebs target=_top>æ˜æ˜Ÿ</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/travel target=_top>æ—…æ¸¸</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/life target=_top>ç”Ÿæ´»</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/beauty target=_top>Beauty</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/variety target=_top>ç»¼è‰º</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/movies target=_top>ç”µå½±</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/coverage target=_top>ä¸“é¢˜</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/magazine target=_top>ç”»æŠ¥</a></li>
-    </ul>
-  </section>
-</amp-accordion>
-
-          </li>
-          <li class="ampstart-nav-item ampstart-nav-dropdown relative ">
-
-
-<amp-accordion class="ampstart-dropdown i-amphtml-layout-container" disable-session-states i-amphtml-layout=container layout=container>
-  <section>
-    <header>è¯é¢˜</header>
-    <ul class="ampstart-dropdown-items list-reset m0 p0">
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/tags/%E9%9F%A9%E6%98%9F%E6%9D%A5%E6%B8%AF%E6%B4%BB%E5%8A%A8 target=_top>éŸ©æ˜Ÿæ¥æ¸¯æ´»åŠ¨</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/tags/%E9%9F%A9%E6%98%9F%E6%9D%A5%E5%8F%B0%E6%B4%BB%E5%8A%A8 target=_top>éŸ©æ˜Ÿæ¥å°æ´»åŠ¨</a></li>
-    <li class=ampstart-dropdown-item><a href=https://www.koreastardaily.com/sc/topics/marketing target=_top>æœ‰å¥–æ´»åŠ¨</a></li>
-    </ul>
-  </section>
-</amp-accordion>
-
-	  </li>
-    </ul>
-  </nav>
-
-<ul class="ampstart-social-follow list-reset flex justify-around items-center flex-wrap m0 mb4">
-    <li>
-        <a aria-label="Link to AMP HTML Facebook" class="inline-block p1" href=https://www.facebook.com/koreastardaily target=_blank><svg height=23.6 viewbox="0 0 56 55" width=24 xmlns=http://www.w3.org/2000/svg><title>Facebook</title><path class="ampstart-icon ampstart-icon-fb" d="M47.5 43c0 1.2-.9 2.1-2.1 2.1h-10V30h5.1l.8-5.9h-5.9v-3.7c0-1.7.5-2.9 3-2.9h3.1v-5.3c-.6 0-2.4-.2-4.6-.2-4.5 0-7.5 2.7-7.5 7.8v4.3h-5.1V30h5.1v15.1H10.7c-1.2 0-2.2-.9-2.2-2.1V8.3c0-1.2 1-2.2 2.2-2.2h34.7c1.2 0 2.1 1 2.1 2.2V43"></path></svg></a>
-    </li>
-    <li>
-        <a aria-label="Link to AMP HTML Instagram" class="inline-block p1" href=https://instagram.com/koreastardaily.com target=_blank><svg height=24 viewbox="0 0 54 54" width=24 xmlns=http://www.w3.org/2000/svg><title>instagram</title><path class="ampstart-icon ampstart-icon-instagram" d="M27.2 6.1c-5.1 0-5.8 0-7.8.1s-3.4.4-4.6.9c-1.2.5-2.3 1.1-3.3 2.2-1.1 1-1.7 2.1-2.2 3.3-.5 1.2-.8 2.6-.9 4.6-.1 2-.1 2.7-.1 7.8s0 5.8.1 7.8.4 3.4.9 4.6c.5 1.2 1.1 2.3 2.2 3.3 1 1.1 2.1 1.7 3.3 2.2 1.2.5 2.6.8 4.6.9 2 .1 2.7.1 7.8.1s5.8 0 7.8-.1 3.4-.4 4.6-.9c1.2-.5 2.3-1.1 3.3-2.2 1.1-1 1.7-2.1 2.2-3.3.5-1.2.8-2.6.9-4.6.1-2 .1-2.7.1-7.8s0-5.8-.1-7.8-.4-3.4-.9-4.6c-.5-1.2-1.1-2.3-2.2-3.3-1-1.1-2.1-1.7-3.3-2.2-1.2-.5-2.6-.8-4.6-.9-2-.1-2.7-.1-7.8-.1zm0 3.4c5 0 5.6 0 7.6.1 1.9.1 2.9.4 3.5.7.9.3 1.6.7 2.2 1.4.7.6 1.1 1.3 1.4 2.2.3.6.6 1.6.7 3.5.1 2 .1 2.6.1 7.6s0 5.6-.1 7.6c-.1 1.9-.4 2.9-.7 3.5-.3.9-.7 1.6-1.4 2.2-.7.7-1.3 1.1-2.2 1.4-.6.3-1.7.6-3.5.7-2 .1-2.6.1-7.6.1-5.1 0-5.7 0-7.7-.1-1.8-.1-2.9-.4-3.5-.7-.9-.3-1.5-.7-2.2-1.4-.7-.7-1.1-1.3-1.4-2.2-.3-.6-.6-1.7-.7-3.5 0-2-.1-2.6-.1-7.6 0-5.1.1-5.7.1-7.7.1-1.8.4-2.8.7-3.5.3-.9.7-1.5 1.4-2.2.7-.6 1.3-1.1 2.2-1.4.6-.3 1.6-.6 3.5-.7h7.7zm0 5.8c-5.4 0-9.7 4.3-9.7 9.7 0 5.4 4.3 9.7 9.7 9.7 5.4 0 9.7-4.3 9.7-9.7 0-5.4-4.3-9.7-9.7-9.7zm0 16c-3.5 0-6.3-2.8-6.3-6.3s2.8-6.3 6.3-6.3 6.3 2.8 6.3 6.3-2.8 6.3-6.3 6.3zm12.4-16.4c0 1.3-1.1 2.3-2.3 2.3-1.3 0-2.3-1-2.3-2.3 0-1.2 1-2.3 2.3-2.3 1.2 0 2.3 1.1 2.3 2.3z"></path></svg></a>
-    </li>
-    <li>
-        <a aria-label="Link to AMP HTML Youtube" class="inline-block p1" href=https://www.youtube/koreastardaily target=_blank><svg height=17 viewbox="0 0 26 17" width=26 xmlns=http://www.w3.org/2000/svg><title>YouTube</title><path class="ampstart-icon ampstart-icon-youtube" d="M16.837 8.242v.126l-6.742 3.396V4.719l6.742 3.396v.127zm8.167-4.707c.05.399.244 2.102.26 3.805v.126c-.018-1.946-.27-3.893-.27-3.893s-.245-1.651-1.003-2.384c-.96-.961-2.04-.961-2.528-1.02C17.94-.075 12.64.017 12.64.017S7.348-.075 3.817.17C3.32.228 2.25.228 1.29 1.189.531 1.913.287 3.573.287 3.573S.05 5.52 0 7.466v1.602c.05 1.946.287 3.893.287 3.893s.244 1.66 1.002 2.384c.96.961 2.031.961 2.528 1.02 3.531.244 8.823.202 8.823.202s5.3.042 8.823-.202c.488-.059 1.567-.059 2.528-1.02.758-.733 1.003-2.384 1.003-2.384s.252-1.947.27-3.893v.126c-.018 1.946-.27 3.893-.27 3.893s-.061.404-.211.9c.157-.508.219-.925.219-.925s.253-1.947.27-3.893V7.34a38.672 38.672 0 0 0-.268-3.805z" fill-rule=evenodd></path></svg></a>
-    </li>
-    <li>
-        <a aria-label="Link to AMP HTML Twitter" class="inline-block p1" href=https://twitter.com/koreastardaily target=_blank><svg height=22.2 viewbox="0 0 53 49" width=24 xmlns=http://www.w3.org/2000/svg><title>Twitter</title><path class="ampstart-icon ampstart-icon-twitter" d="M45 6.9c-1.6 1-3.3 1.6-5.2 2-1.5-1.6-3.6-2.6-5.9-2.6-4.5 0-8.2 3.7-8.2 8.3 0 .6.1 1.3.2 1.9-6.8-.4-12.8-3.7-16.8-8.7C8.4 9 8 10.5 8 12c0 2.8 1.4 5.4 3.6 6.9-1.3-.1-2.6-.5-3.7-1.1v.1c0 4 2.8 7.4 6.6 8.1-.7.2-1.5.3-2.2.3-.5 0-1 0-1.5-.1 1 3.3 4 5.7 7.6 5.7-2.8 2.2-6.3 3.6-10.2 3.6-.6 0-1.3-.1-1.9-.1 3.6 2.3 7.9 3.7 12.5 3.7 15.1 0 23.3-12.6 23.3-23.6 0-.3 0-.7-.1-1 1.6-1.2 3-2.7 4.1-4.3-1.4.6-3 1.1-4.7 1.3 1.7-1 3-2.7 3.6-4.6"></path></svg></a>
-    </li>
-    <li>
-        <a aria-label="Link to AMP HTML E-mail" class="inline-block p1" href=mailto:contact@koreastardaily.com target=_blank><svg height=18.4 viewbox="0 0 56 43" width=24 xmlns=http://www.w3.org/2000/svg><title>email</title><path class="ampstart-icon ampstart-icon-email" d="M10.5 6.4C9.1 6.4 8 7.5 8 8.9v21.3c0 1.3 1.1 2.5 2.5 2.5h34.9c1.4 0 2.5-1.2 2.5-2.5V8.9c0-1.4-1.1-2.5-2.5-2.5H10.5zm2.1 2.5h30.7L27.9 22.3 12.6 8.9zm-2.1 1.4l16.6 14.6c.5.4 1.2.4 1.7 0l16.6-14.6v19.9H10.5V10.3z"></path></svg></a>
-    </li>
-</ul>
-
-    <ul class="ampstart-sidebar-faq list-reset m0">
-<li class=ampstart-faq-item><a class="text-decoration-none ampstart-label" href=https://about.koreastardaily.com/ target=_top>å…³æ–¼æˆ‘ä»¬</a>
-</li><li class=ampstart-faq-item><a class="text-decoration-none ampstart-label" href=https://about.koreastardaily.com/advertising target=_top>å¹¿å‘ŠæŸ¥è¯¢</a>
-</li><li class=ampstart-faq-item><a class="text-decoration-none ampstart-label" href=https://about.koreastardaily.com/t-and-c target=_top>å…è´£å£°æ˜</a>
-    </li></ul>
-</amp-sidebar>
-
-  
-    <amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=720 i-amphtml-layout=responsive i-amphtml-ssr layout=responsive lightbox src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/a/2022-06-01/141595-944361.png width=1280><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.2500%;></i-amphtml-sizer><img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 10 5&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAIAAADzBuo/AAAApklEQVQImQGbAGT/AKqOXpJ6Rbmsjq6gfKmffOW+iejGl+rGl+vLoeCxdQDAo26jjl61poG5rorb18Pmp27twZfpvIrptX3utHcA4b6MfGI4v6Jtuq58oJdt5aJe0ptv4Ipb2oNO6J9gANu8lbyJVr6eZql/U97RueSSXnpYL9yNXtWscuu+igCmfkqjcjvBmmGebTzpzafzbEC6TyjtcUDtYTH2cz+9CFtT4tH9MAAAAABJRU5ErkJggg==&#39;%3E%3C/image%3E%3C/svg%3E"><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding=async src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/a/2022-06-01/141595-944361.png></amp-img>
-
-  <main class id=content role=main>
-    <article class=photo-article>
-      <span class="block px3 pt2 mb2"><h1 class=ampstart-title-sm>ã€ŠLinkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±ã€‹å…¬å¼€5åˆ†é’Ÿè¶…é•¿ç‰ˆé¢„å‘Šï¼šå•çä¹&amp;æ–‡ä½³ç…è¿™é¢œå€¼+æ¼”æŠ€+å‰§æƒ…ï¼ŒçœŸçš„çˆ±äº†ï½</h1></span>
-
-<p class="ampstart-meta flex px3 h5 mb3">
-<span class="category px1 mr2">éŸ©å‰§</span>
-
-<span class="author pr2"><a class=text-decoration-none href=https://www.koreastardaily.com/sc/author/Tracy role=author target=_top>Tracy</a> </span>
-<amp-timeago class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" datetime=2022-06-02T11:25:00+08:00 height=16 i-amphtml-layout=fixed locale=zhCN style=width:160px;height:16px; width=160>2022-06-02T11:25:00+08:00</amp-timeago>
-</p>
-
-<div class="flex flex-column items-center mb3">
-
-<amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-ad-client=ca-pub-3262822889736522 data-ad-slot=4236828373 height=100 i-amphtml-layout=fixed layout=fixed style=width:320px;height:100px; type=adsense width=320>
-</amp-ad>
-
-</div>
-
-<p class="paragraph mb2 px3">æ–°éŸ©å‰§ã€ŠLinkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±ã€‹å…¬å¸ƒäº†è¶…é•¿ç‰ˆç²¾å½©é¢„å‘Šç‰‡ã€‚</p><p class="paragraph mb2 px3">ã€ŠLinkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±ã€‹æ˜¯å•çä¹å’Œæ–‡ä½³ç…æ—¶éš”12å†æ¬¡æºæ‰‹åˆä½œçš„æ–°å‰§ï¼Œè®²è¿°äº†ä¸€åˆ‡éƒ½å¾ˆå®Œç¾çš„æ˜æ˜Ÿä¸»å¨ä¸å°†å°¸ä½“è—åœ¨è‡ªå·±å†°ç®±ä¸­çš„ä¸€ä¸ªå¥³äººçš„æ„Ÿæƒ…LINKï¼ˆè¿æ¥ï¼‰åœ¨ä¸€èµ·åï¼Œè¢«å·å…¥å¥¹çš„å…¨éƒ¨äº‹ä»¶ä¸æ„Ÿæƒ…çš„å¥‡è¿¹èˆ¬çš„æ„Ÿæƒ…å…±æœ‰å¥‡å¹»ç½—æ›¼å²ï¼Œé›†å¥‡å¹»ã€ æ‚¬ç–‘å’Œçˆ±æƒ…æ–¼ä¸€ä½“ï¼Œæ˜¯ä¸€éƒ¨å¤§æ‚çƒ©ä¸€æ ·çš„å‰§ä½œã€‚</p>    <p class><amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=1480 i-amphtml-layout=responsive layout=responsive lightbox src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/a/2022-06-01/141595-944362.jpg srcset="https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/a/2022-06-01/141595-944362.jpg 1849w, https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/480x_86400_0602fc883105a7c3bcac2b12b4097e87/static.koreastardaily.com/2022-06-01/141595-944362.jpg 480w, https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/640x_86400_4dc15b6f05077bc0d45afb65e3d992f5/static.koreastardaily.com/2022-06-01/141595-944362.jpg 640w" width=1849><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:80.0433%;></i-amphtml-sizer><img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 8 6&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAgDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAcEAACAwADAQAAAAAAAAAAAAABAgADIQQFEWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQACEf/aAAwDAQACEQMRAD8AjVyU7ArWwdaVOeFQxI3c+xEQrGMSrpP/2Q==&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img></p>
-    <div class="mb2 center"><small style=color:grey;>ï¼ˆå›¾æºï¼štvNã€ŠLinkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±ï¼‰</small></div>
-<div class="flex flex-column items-center mb3">
-<amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-slot=/12897238/mobile_web_mrec height=250 i-amphtml-layout=fixed style=width:300px;height:250px; type=doubleclick width=300>
-  <div class=items-center placeholder>
-    <b>Loading ...</b>
-  </div>
-</amp-ad>
-</div>
-<p class="paragraph mb2 px3">å‰§ç»„å…¬å¼€äº†é•¿è¾¾5åˆ†é’Ÿçš„é¢„å‘Šï¼Œä¸€ä¸Šæ¥å°±æ˜¯æŠ“äººçœ¼çƒçš„ç¾é£Ÿåœºæ™¯ï¼Œç©¿è‘—ç™½è‰²å¨å¸ˆæœçš„å•çä¹å‘Šè¯«åŠ©æ‰‹ä»¬ã€Œå¨æˆ¿å¦‚æˆ˜åœºï¼Œä¸å®¹ä¸€ä¸é©¬è™ã€ã€‚é•œå¤´ä¸€è½¬ï¼Œå•çä¹çš„çœ¼æ³ªå¦‚çç ä¸€èˆ¬ä¸€é¢—ä¸€é¢—æ»´è½ï¼Œæ­¤æ—¶æ–‡ä½³ç…ç©¿æ’ç™»åœºï¼Œå•çä¹ä¹Ÿè«åè·Ÿè‘—å¼€å¿ƒã€å“­æ³£ã€å´©æºƒï¼Œå°å°½äº†ç§ç§æ„Ÿæƒ…ï¼Œä¸€å¥ã€Œæ—¶éš”18å¹´å†æ¬¡æ„Ÿå—åˆ°ä½ çš„æƒ…æ„Ÿã€è®©äººä¸ç¦å¥½å¥‡ç”·å¥³ä¸»åˆ°åº•æ˜¯ä»€ä¹ˆå…³ç³»ã€‚é•œå¤´å†è½¬ï¼Œè­¦è½¦å¼€è¿‡ï¼Œå·«å¥³æ­£åœ¨åšè‘—æ³•äº‹ï¼ŒåŸæ¥å¾ˆä¹…ä¹‹å‰å°åŒºå‘ç”Ÿè¿‡æ€äººäº‹ä»¶...ç”·ä¸»å¦¹å¦¹ä»å°å¤±è¸ªã€å°åŒºé‡Œå‘ç”Ÿè¿‡å‘½æ¡ˆã€ç”·ä¸»åˆè«åå’Œå¥³ä¸»èƒ½å¤Ÿæƒ…æ„Ÿå…±ç”¨ï¼Œæ•…äº‹å°±è¿™æ ·å¼€å§‹äº†...</p><p class=mb2><amp-instagram class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-shortcode=CeP5s_lhIWy height=1 i-amphtml-layout=responsive layout=responsive width=1><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer></amp-instagram></p><p class="paragraph mb2 px3">åŒä¸ºç«¥æ˜Ÿå‡ºèº«çš„å•çä¹å’Œæ–‡ä½³ç…ï¼Œè‡ªå°å°±æœ‰è‘—éå¸¸æµ“åšçš„äº¤æƒ…ï¼Œä¸çŸ¥é“åœ¨æ–°å‰§ä¸­å°†ä¼šæ¿€è¡å‡ºä»€ä¹ˆæ ·çš„ç«èŠ±å‘¢ï¼Ÿ æ•¬è¯·é”å®šå°†æ–¼6æœˆ6æ—¥é‡ç£…å¼€æ’­çš„ã€ŠLinkã€‹ã€‚</p><p class=mb2><amp-instagram class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-shortcode=CeKPgQBuxiE height=1 i-amphtml-layout=responsive layout=responsive width=1><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer></amp-instagram></p><div class="px3 mb3">
-<small>Â© 2023 KSD éŸ©æ˜Ÿç½‘<br>ç‰ˆæƒæ‰€æœ‰ ä¸å¾—è½¬è½½</small>
-</div>
-
-<div class="items-center mb2">
-<amp-ad class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-ad-client=ca-pub-3262822889736522 data-ad-slot=9797373328 data-auto-format=rspv data-full-width height=320 i-amphtml-layout=fixed style=width:100vw;height:320px; type=adsense width=100vw>
-  <div overflow></div>
-</amp-ad>
-</div>
-
-
-<div class="px2 mb4 tags">æ ‡ç­¾ : <a class="px1 h5 inline-block" href=https://www.koreastardaily.com/sc/tags/%E6%96%87%E4%BD%B3%E7%85%90 target=_top><button>æ–‡ä½³ç…</button></a><a class="px1 h5 inline-block" href=https://www.koreastardaily.com/sc/tags/%E5%90%95%E7%8F%8D%E4%B9%9D target=_top><button>å•çä¹</button></a><a class="px1 h5 inline-block" href=https://www.koreastardaily.com/sc/tags/Link%EF%BC%9A%E5%B0%BD%E6%83%85%E5%90%83%EF%BC%8C%E7%94%A8%E5%8A%9B%E7%88%B1 target=_top><button>Linkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±</button></a><a class="px1 h5 inline-block" href=https://www.koreastardaily.com/sc/tags/link target=_top><button>link</button></a></div>
-
-<div class="ampstart-social-box mb4">
-  <amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:60px;height:44px; type=system></amp-social-share>
-  <amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-param-app_id=694211364011889 i-amphtml-layout=fixed style=width:60px;height:44px; type=facebook></amp-social-share>
-  <amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:60px;height:44px; type=twitter></amp-social-share>
-  <amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:60px;height:44px; type=whatsapp></amp-social-share>
-  <amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:60px;height:44px; type=line></amp-social-share>
-  <amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:60px;height:44px; type=email></amp-social-share>
-</div>
-
-
-<div class=px1>
-<amp-facebook-comments class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-href=https://www.koreastardaily.com/tc/news/141595 data-locale=zh_TW height=657 i-amphtml-layout=responsive layout=responsive width=486><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:135.1852%;></i-amphtml-sizer>
-</amp-facebook-comments>
-</div>
-
-
-
-<section class="ampstart-related-section mb4 px1">
-      <h2 class="h3 mb1">ç›¸å…³æ–°é—»</h2>
-  <ul class="ampstart-related-section-items list-reset flex flex-wrap m0">
-
-      <li class="col-12 sm-col-4 md-col-4 lg-col-4 pr2 py2">
-  <a class=text-decoration-none href=https://www.koreastardaily.com/sc/news/145235 target=_top><figure class="ampstart-image-with-caption m0 relative mb4">
-    <amp-img alt class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=160 i-amphtml-layout=responsive layout=responsive src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/240*160l_86400_8e12666fbd3136fa81894ac8bf56c52b/static.koreastardaily.com/2023-01-02/145235-962007.jpg width=240><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer><img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 9 6&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAED/8QAHxAAAgECBwAAAAAAAAAAAAAAAQIABBEDBRIUIUFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAAMAAAAAAAAAAAAAAAAAAAACMf/aAAwDAQACEQMRAD8AxzN2pqbFJs+hEHPZJNzLv29iILBen//Z&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
-    <figcaption class="h5 mt1 px3">
-[åˆ†é›†å‰§æƒ…]ã€Šçˆ±æƒ…çš„ç†è§£ã€‹ä½ çœ¼ä¸­çš„ç¼ºç‚¹æ˜¯å¥¹çœ¼ä¸­çš„ä¼˜ç‚¹ï¼æŸ³æ¼”é”¡çŠ¯äº†ä»€ä¹ˆè‡´å‘½é”™è¯¯è®©æ–‡ä½³ç…ç¿»è„¸ã€œï¼ˆEP1ï¼4ï¼‰    </figcaption>
-  </figure></a>
-      </li>
-      <li class="col-12 sm-col-4 md-col-4 lg-col-4 pr2 py2">
-  <a class=text-decoration-none href=https://www.koreastardaily.com/sc/news/145131 target=_top><figure class="ampstart-image-with-caption m0 relative mb4">
-    <amp-img alt class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=160 i-amphtml-layout=responsive layout=responsive src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/240*160l_86400_9cc6defd4a05da10c59467df8ea0d791/static.koreastardaily.com/2022-12-27/145131-961374.png width=240><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer></amp-img>
-    <figcaption class="h5 mt1 px3">
-ç«Ÿç„¶æ˜¯å—è‹¦ç»¼è‰ºï¼Ÿã€Šç”¨åŒè„šæŠ¢ç¥¨ã€‹é¢„å‘Šï¼šæ²³æ­£å®‡ï¼†æœ±æ™ºå‹‹äº’ç§°å¯¹æ–¹ã€Œå°‘å¥³ã€ã€å´”ç‰è±ªï¼†å•çä¹å±•ç°åè½¬é­…åŠ›ï¼    </figcaption>
-  </figure></a>
-      </li>
-      <li class="col-12 sm-col-4 md-col-4 lg-col-4 pr2 py2">
-  <a class=text-decoration-none href=https://www.koreastardaily.com/sc/news/145081 target=_top><figure class="ampstart-image-with-caption m0 relative mb4">
-    <amp-img alt class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=160 i-amphtml-layout=responsive layout=responsive src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/240*160l_86400_18af4cbd97c07e9fd6a1944829219ba2/static.koreastardaily.com/2022-12-24/145081-961134.jpg width=240><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer></amp-img>
-    <figcaption class="h5 mt1 px3">
-èŠ‚ç›®æ¦‚å¿µåŸæ¥æ˜¯è¿™æ ·ï¼ã€Šç”¨åŒè„šä¹°ç¥¨ã€‹å…¬å¼€æ²³æ­£å®‡ã€æœ±æ™ºå‹‹ã€å´”ç‰è±ªã€å•çä¹å›¢ä½“æµ·æŠ¥    </figcaption>
-  </figure></a>
-      </li>
-
-  </ul>
-</section>
-
-
-
-<section class="trending ampstart-related-section mb4 px1">
-      <h2 class="h3 mb1">å»¶ä¼¸é˜…è¯»</h2>
-  <ul class="ampstart-related-section-items list-reset flex flex-wrap m0">
-      <li class="col-12 sm-col-4 md-col-4 lg-col-4 pr2 py2">
-  <a class=text-decoration-none href=https://www.koreastardaily.com/sc/news/145234 target=_top><figure class="ampstart-image-with-caption m0 relative mb4">
-    <amp-img alt class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=160 i-amphtml-layout=responsive layout=responsive src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/240*160l_86400_cfda8d3fc043198c5772d36161d72e07/static.koreastardaily.com/2023-01-02/145234-962010.jpg width=240><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer></amp-img>
-    <figcaption class="h5 mt1 px3">
-[åˆ†é›†å‰§æƒ…]é­”å¹»å·¨åˆ¶ã€ŠIslandã€‹ç»ˆæ–¼å¼€æ’­ï¼é‡‘å—ä½¶çŒé¬¼æ‰“æˆè¶…ç‡ƒï¼Œè½¦é“¶ä¼˜ã€ŒåºŠå’šã€é©±é­”å¼•çƒ­è®®ï¼ˆEP1-2ï¼‰    </figcaption>
-  </figure></a>
-      </li>
-      <li class="col-12 sm-col-4 md-col-4 lg-col-4 pr2 py2">
-  <a class=text-decoration-none href=https://www.koreastardaily.com/sc/news/145238 target=_top><figure class="ampstart-image-with-caption m0 relative mb4">
-    <amp-img alt class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=160 i-amphtml-layout=responsive layout=responsive src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/240*160l_86400_a626d8f9e6263b09d0d215b6fdd38aff/static.koreastardaily.com/2023-01-02/145238-962015.jpg width=240><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer></amp-img>
-    <figcaption class="h5 mt1 px3">
-Super Juniorã€Šè®¤å“¥ã€‹çŒœæ­Œç¯èŠ‚è®°ä¸ä½æ­Œåç‹‚å¤±è´¥ï¼å°‘æ—¶ã€ŠForever 1ã€‹å˜ã€ŠWe are oneã€‹ç°åœºç„¦åœŸåŒ–    </figcaption>
-  </figure></a>
-      </li>
-      <li class="col-12 sm-col-4 md-col-4 lg-col-4 pr2 py2">
-  <a class=text-decoration-none href=https://www.koreastardaily.com/sc/news/145226 target=_top><figure class="ampstart-image-with-caption m0 relative mb4">
-    <amp-img alt class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=160 i-amphtml-layout=responsive layout=responsive src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/240*160l_86400_7e840d4ec06841c98a234560b753322c/static.koreastardaily.com/2023-01-02/145226-961954.jpg width=240><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer></amp-img>
-    <figcaption class="h5 mt1 px3">
-[åˆ†é›†å‰§æƒ…]ã€Šç¾åè°ƒæŸ¥æ—¥å¿—ã€‹å¤§å‹æ¡ˆä»¶çˆ†å‘ï¼é‡‘æ¥æ²…é‡å›å²—ä½ç©¿ä¸Šæ¶ˆé˜²è¡£ä¸å­™æµ©ä¿Šé—¯å…¥ç«åœºï¼ï¼ˆEP12å®Œï¼‰    </figcaption>
-  </figure></a>
-      </li>
-      <li class="col-12 sm-col-4 md-col-4 lg-col-4 pr2 py2">
-  <a class=text-decoration-none href=https://www.koreastardaily.com/sc/news/145217 target=_top><figure class="ampstart-image-with-caption m0 relative mb4">
-    <amp-img alt class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=160 i-amphtml-layout=responsive layout=responsive src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/240*160l_86400_9032dbe9be67fa9877aaf1cb44e77d7b/static.koreastardaily.com/2023-01-01/145217-961975.jpg width=240><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer></amp-img>
-    <figcaption class="h5 mt1 px3">
-ã€Šè´¢é˜€å®¶çš„å°å„¿å­ã€‹ã€Šç¾½æ¯›çƒå°‘å¹´å›¢ã€‹ç«¥æ˜Ÿé‡‘åº·å‹‹æš´é£æˆé•¿ï¼ä¸€å¹´è¹¿é«˜11cmï¼Œç°åœ¨è¯»ä¸­å­¦å·²åˆ°171cmï¼    </figcaption>
-  </figure></a>
-      </li>
-      <li class="col-12 sm-col-4 md-col-4 lg-col-4 pr2 py2">
-  <a class=text-decoration-none href=https://www.koreastardaily.com/sc/news/145221 target=_top><figure class="ampstart-image-with-caption m0 relative mb4">
-    <amp-img alt class=" i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=160 i-amphtml-layout=responsive layout=responsive src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/s/240*160l_86400_21fa5868ec3cde25bd959172576edaac/static.koreastardaily.com/2023-01-02/145221-961932.jpg width=240><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:66.6667%;></i-amphtml-sizer></amp-img>
-    <figcaption class="h5 mt1 px3">
-2023å¹´æœ€ä»¤äººæœŸå¾…çš„ç»„åˆï¼BIGBANGå¤ªé˜³&amp;BTS Jiminåˆä½œï¼Œå…‰æ˜¯èƒŒå½±åŒæ¡†å°±è®©ç²‰ä¸ä»¬è¶…æ¿€åŠ¨ï½    </figcaption>
-  </figure></a>
-      </li>
-  </ul>
-</section>
-
-
-<figure class>
-<amp-facebook-page class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-href=https://www.facebook.com/koreastardaily data-locale=zh_TW data-small-header=true height=100 i-amphtml-layout=responsive layout=responsive width=300><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:33.3333%;></i-amphtml-sizer>
-</amp-facebook-page>
-</figure>
-
-  
-  <footer class="ampstart-footer center">
-    <nav class="ampstart-footer-nav flex flex-column items-center">
-        <ul class="list-reset flex flex-wrap mb2">
-<li class="download-title px1 bold">ä¸‹è½½KSD App</li>
-<li class=px1><a href=http://onelink.to/fdq8dq target=_top><amp-img class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=37 i-amphtml-layout=fixed src=https://a-ksd--i-com.cdn.ampproject.org/ii/AW/s/a.ksd-i.com/images/google-play-badge.svg srcset="https://a-ksd--i-com.cdn.ampproject.org/ii/w150/s/a.ksd-i.com/images/google-play-badge.svg 150w, https://a-ksd--i-com.cdn.ampproject.org/ii/w270/s/a.ksd-i.com/images/google-play-badge.svg 270w, https://a-ksd--i-com.cdn.ampproject.org/ii/w390/s/a.ksd-i.com/images/google-play-badge.svg 390w" style=width:128px;height:37px; width=128></amp-img></a></li>
-        </ul>
-    </nav>
-  </footer>
-  
-
-
-
-
-    </article>
-  </main>
-
-
-<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=googleanalytics>
-<script type=application/json>
-{
-    "vars": { "account": "UA-10924604-5" },
-    "triggers": {
-	"default pageview": {
-	    "on": "visible",
-	    "request": "pageview",
-	    "vars": {
-		"title": "ã€ŠLinkï¼šå°½æƒ…åƒï¼Œç”¨åŠ›çˆ±ã€‹å…¬å¼€5åˆ†é’Ÿè¶…é•¿ç‰ˆé¢„å‘Šï¼šå•çä¹&æ–‡ä½³ç…è¿™é¢œå€¼+æ¼”æŠ€+å‰§æƒ…ï¼ŒçœŸçš„çˆ±äº†ï½"
-	    }
-	}
-    }
-}
+<meta name="mediaid" content="ĞÂ¾©±¨">
+<meta name="sudameta" content="sinaog:0" />
+<meta name=jspreload content="jspreload">
+<script type="text/javascript">
+      (function(){
+      if(navigator.userAgent.indexOf('MSIE') === -1){return};
+      var list = ["http://i1.sinaimg.cn/home/sinaflash.js","http://d1.sina.com.cn/litong/zhitou/sspnew.js","http://i.sso.sina.com.cn/js/ssologin.js","http://i.sso.sina.com.cn/js/outlogin_layer.js","http://tjs.sjs.sinajs.cn/open/api/js/wb.js","http://news.sina.com.cn/js/87/20110714/205/sinalib.js","http://ent.sina.com.cn/js/20120914/weibocard.js","http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=bc3b1c41-57af-4bd5-89cd-76dd6e6ee75f&amp;pophcol=2&amp;lang=zh","http://static.bshare.cn/b/bshareC0.js","http://static.bshare.cn/b/addons/bshareDrag.js?bp=sinaminiblog,qzone,qqmb,renren,kaixin001&text=","http://i3.sinaimg.cn/dy/deco/2013/0613/scrollpic.js","http://pfp.sina.com.cn/js/17/2013/0621/tb/59.js","http://d3.sina.com.cn/iframe/14/2011/0301/zhongshizhengwenye.js","http://pfp.sina.com.cn/iframe/14/2011/0517/47zhongshiwangmeng.js","http://d2.sina.com.cn/d1images/button/rotator.js","http://pfp.sina.com.cn/js/17/20120926/ent00_300x500.js","http://pfp.sina.com.cn/js/17/2013/0621/tb/58.js","http://d5.sina.com.cn/litong/xianwei/taobao0827.js","http://pfpip.sina.com.cn/ip.js","http://pfp.sina.com.cn/pfpnew/info/res_1087.js","http://pfp.sina.com.cn/pfpnew/resstyle/resstyle_1087.js","http://i1.sinaimg.cn/unipro/pub/suda_m_v629.js","http://news.sina.com.cn/js/87/20130815/dmcode_js.js"];
+      for(var i=0;i<list.length;i++){(new Image()).src = list[i]}
+      })();
 </script>
-</amp-analytics>
 
-<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=alexametrics>
-<script type=application/json> {"vars": { "atrk_acct": "Igfcl1ao9rD0O7", "domain": "koreastardaily.com" }}</script>
-</amp-analytics>
+<script type="text/javascript" src="http://i1.sinaimg.cn/home/sinaflash.js"></script>
 
-<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=comscore>
-<script type=application/json> {"vars": { "c2": "20014575" }}</script>
-</amp-analytics>
+<link href="http://news.sina.com.cn/css/87/20130111/style.css" rel="stylesheet" type="text/css" />
+<link href="http://ent.sina.com.cn/css/470/20130111/style_ent.css" rel="stylesheet" type="text/css" />
+<link href="http://ent.sina.com.cn/css/470/20121217/style_cmnt.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://d1.sina.com.cn/litong/zhitou/sspnew.js"></script>
 
+<script type="text/javascript">try{document.domain = "sina.com.cn";}catch(e){}</script>
+<script type="text/javascript">
+//jsÒì²½¼ÓÔØ¹ÜÀí v1.1.0
+eval(function(p,a,c,k,e,r){e=function(c){return(c<62?'':e(parseInt(c/62)))+((c=c%62)>35?String.fromCharCode(c+29):c.toString(36))};if('0'.replace(0,e)==0){while(c--)r[e(c)]=k[c];k=[function(e){return r[e]||e}];e=function(){return'[4-9abfgj-vx-zA-R]'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(9(){b w=g,d=document,u=\'1.1.0\',7={},j=0,cbkLen=0;5(w.k){5(w.k.u>=u){o};7=w.k.K();j=7.j};b addEvent=9(x,B,C){5(x.L){x.L("on"+B,C)}m{x.addEventListener(B,C,false)}};9 M(a,D,s){b l=d.createElement("script");l.type="text/javascript";5(s){l.s=s};l.N=l.y=9(){5(!g.E||g.E=="loaded"||g.E=="complete"){5(D){D()};l.N=l.y=null;l.parentNode.removeChild(l)}};l.src=a;b h=d.getElementsByTagName("head")[0];h.insertBefore(l,h.firstChild)};b v=9(4,a){g.4=4;g.a=a;g.6=[]};v.prototype={f:\'O\',y:9(){g.f=\'F\';b z=[];P(b i=0;i<g.6.j;i++){5(n g.6[i]==\'9\'){try{g.6[i]()}catch(e){z.A(e)}}};g.6=[];5(z.j!=0){throw z[0]}}};b k=9(q,t){b 8={};5(p.j==3){8.4=p[0];8.a=p[1];8.6=p[2]}m 5(n q===\'Q\'){8.a=q;5(n t===\'9\'){8.6=t}}m{8=q};b a=8.a||"",4=8.4||"",6=8.6||"",s=8.s||"";b r={4:4,k:9(q,t){b agms=p;b 8={};5(p.j==3){8.4=p[0];8.a=p[1];8.6=p[2]}m 5(n q===\'Q\'){8.a=q;5(n t===\'9\'){8.6=t}}m{8=q};5(!8.4){8.4=\'R\'+j;j++};b c=k({4:g.4,6:9(){k(8)}});c.4=8.4;o c}};5(4){5(!7[4]){5(!a){7[4]=G v(4);7[4].f=\'H\'}m{7[4]=G v(4,a)};j++}m 5(7[4].f==\'H\'&&a){7[4].f=\'O\'};5(8.f){7[4].f=8.f};5(7[4].f==\'I\'||7[4].f==\'H\'){5(n 6==\'9\'){7[4].6.A(6)};o r}m 5(7[4].f==\'F\'){5(n 6==\'9\'){6()};o r}}m{5(!a){o r};P(b J in 7){5(7[J].a==a){4=J;break}};5(!4){4=\'R\'+j;7[4]=G v(4,a);j++};r.4=4;5(7[4].f==\'I\'){5(n 6==\'9\'){7[4].6.A(6)};o r}m 5(7[4].f==\'F\'){5(n 6==\'9\'){6()};o r}};5(n 6==\'9\'){7[4].6.A(6)};M(a,9(){7[4].y()},s);7[4].f=\'I\';o r};w.k=k;w.k.u=u;w.k.K=9(){o 7}})();',[],54,'||||name|if|callback|data|cfg|function|url|var||||status|this|||length|jsLoader|scriptNode|else|typeof|return|arguments|op|chain|charset|fn|version|JsObj||obj|onload|errors|push|eventType|func|dispose|readyState|ok|new|waiting|loading|item|getData|attachEvent|getScript|onreadystatechange|init|for|string|noname'.split('|'),0,{}))
+</script>
+<script language='javascript' charset='utf-8' src='http://i.sso.sina.com.cn/js/ssologin.js'></script>
 
+<!-- Í³Ò»¸¡¶¯µÇÂ¼ -->
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/outlogin_layer.js" charset="utf-8"></script>
+<script type="text/javascript">
+  /**
+   * È«¾ÖÊı¾İ
+   * video_url ÊÓÆµÁ´½Ó
+   * channel ÆµµÀ
+   * newsid ĞÂÎÅid
+   * group Ä¬ÈÏÎª0
+   */
+  var ARTICLE_DATA = {
+	//ÆÀÂÛÎ¢²©×ª·¢ÊÓÆµµØÖ·
+    video_url:'',
+    //ÆÀÂÛÎ¢²©×ª·¢Í¼Æ¬µØÖ·£¬¿ÉÖÃ¿Õ»á×Ô¶¯È¡Í¼
+    pic_url:'',
+    //ÆµµÀ
+    channel:'yl',
+    //ĞÂÎÅid
+    newsid:'28-3-4005574',
+    //×é£¬Ä¬ÈÏÎª0
+    group:'0',
+    //·¢²¼Ê±¼ä
+    pagepubtime:'2013-09-10',
+    //¹ã¸æ¹Ø±ÕÊ±¼ä
+    difDay:180,
+    //¹ã¸æÈİÆ÷ids
+    ADIDs:["PublicRelation1","PublicRelation2","PublicRelation3","PublicRelation4","PublicRelation5","PublicRelation6","PublicRelation7","PublicRelation8","PublicRelation9","PublicRelation10","PublicRelation11","PublicRelation12","PublicRelation13","PublicRelation16"],
+	//ipadĞèÒª¹Ø±ÕµÄ¹ã¸æids
+    iPadADIDS:["PublicRelation3","PublicRelation4","PublicRelation12","PublicRelation9"],
+	//Î¢²©×ª·¢²ÎÊı
+    source: 'ĞÂÀËÓéÀÖ',
+    sourceUrl: 'http://ent.sina.com.cn/',
+    uid: '1642591402',
+    channelId: 28
+  };
+</script>
+<script type="text/javascript">
+    //jsµØÖ·
+    var ARTICLE_JSS = {
+        jq:'http://i0.sinaimg.cn/dy/js/jquery/jquery-1.7.2.min.js',
+        sab:'http://ent.sina.com.cn/js/470/20130205/sab.js',
+        sinalib:'http://news.sina.com.cn/js/87/20110714/205/sinalib.js',
+        subshow:'http://i3.sinaimg.cn/ty/sinaui/subshow/subshow2012070701.min.js',
+        weiboAll:'http://news.sina.com.cn/js/268/2011/1110/16/weibo-all.js',
+        sdfigure:'http://ent.sina.com.cn/js/470/20121129/sdfigure_v2.js',
+        hdfigure:'http://news.sina.com.cn/js/87/20121218/hdfigure_v2.js',
+        sinflash:'http://i1.sinaimg.cn/home/sinaflash.js',
+        weiboCard:'http://ent.sina.com.cn/js/20120914/weibocard.js',
+        guess:'http://tech.sina.com.cn/js/717/2013/0614/article.recommender.min.js',
+        allcont:'http://ent.sina.com.cn/js/470/20120922/allcontent.1.4.js',
+        shareOnWeibo:'http://news.sina.com.cn/js/87/20111011/227/shareonweibo.js'
+    };
+    //ÕıÎÄÒ³Ãæ»ù±¾½Å±¾
+    jsLoader(ARTICLE_JSS.jq)
+    .jsLoader(ARTICLE_JSS.sab,function(){
+          (function($){
+              $.dom.ready(function(){
+                $.app.autoLogin();
+                var autologinTimeOut = setInterval(function(){
+                  $.app.autoLogin();
+                },8*1000);
+              });
+          })(SAB);
+    });
+    //ÓàÏÂÈ«ÎÄ
+jsLoader(ARTICLE_JSS.jq)
+    .jsLoader(ARTICLE_JSS.sinalib)
+    .jsLoader(ARTICLE_JSS.allcont);
 
-<amp-lightbox class=i-amphtml-layout-nodisplay hidden=hidden i-amphtml-layout=nodisplay id=search-lightbox layout=nodisplay>
-<div class=search-lightbox>
+</script>
 
-  <div class="flex mb4">
-    <div aria-label="close lightbox" class="absolute top-0 right-0 mt1 pr3" on=tap:search-lightbox.close role=button tabindex=0><h2>âœ•</h2></div>
-  </div>
+<!-- Éç½»»¯Î¢²©×é¼ş -->
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+<!-- /Éç½»»¯Î¢²©×é¼ş -->
 
-  <form action=https://www.koreastardaily.com/sc/search class=p1 method=GET target=_top>
-    <div class="ampstart-input inline-block relative mb4">
-      <input autofocus name=q placeholder type=search>
+<!-- pad°æÑùÊ½ -->
+<script type="text/javascript">
+(function(){
+	var isIpad = navigator.userAgent.toLowerCase().match(/ipad/i) == "ipad";
+	var _doc = document;
+	var cssAddress = 'http://ent.sina.com.cn/css/470/2013/0705/ipadstyle_ent.css';
+	if(isIpad){
+		_doc.write('<link rel="stylesheet" media="all and (min-device-width : 768px) and (max-device-width : 1024px)" href="' + cssAddress + '">');	
+	}
+})();
+</script>
+
+</head>
+<body><!-- body code begin -->
+
+<!-- SUDA_CODE_START --> 
+<script type="text/javascript"> 
+//<!--
+(function(){var an="V=2.1.16";var ah=window,F=document,s=navigator,W=s.userAgent,ao=ah.screen,j=ah.location.href;var aD="https:"==ah.location.protocol?"https://s":"http://",ay="beacon.sina.com.cn";var N=aD+ay+"/a.gif?",z=aD+ay+"/g.gif?",R=aD+ay+"/f.gif?",ag=aD+ay+"/e.gif?",aB=aD+"beacon.sinauda.com/i.gif?";var aA=F.referrer.toLowerCase();var aa="SINAGLOBAL",Y="FSINAGLOBAL",H="Apache",P="ULV",l="SUP",aE="UOR",E="_s_acc",X="_s_tentry",n=false,az=false,B=(document.domain=="sina.com.cn")?true:false;var o=0;var aG=false,A=false;var al="";var m=16777215,Z=0,C,K=0;var r="",b="",a="";var M=[],S=[],I=[];var u=0;var v=0;var p="";var am=false;var w=false;function O(){var e=document.createElement("iframe");e.src=aD+ay+"/data.html?"+new Date().getTime();e.id="sudaDataFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function k(){var e=document.createElement("iframe");e.src=aD+ay+"/ckctl.html";e.id="ckctlFrame";e.style.height="0px";e.style.width="1px";e.style.overflow="hidden";e.frameborder="0";e.scrolling="no";document.getElementsByTagName("head")[0].appendChild(e)}function q(){var e=document.createElement("script");e.src=aD+ay+"/h.js";document.getElementsByTagName("head")[0].appendChild(e)}function h(aH,i){var D=F.getElementsByName(aH);var e=(i>0)?i:0;return(D.length>e)?D[e].content:""}function aF(){var aJ=F.getElementsByName("sudameta");var aR=[];for(var aO=0;aO<aJ.length;aO++){var aK=aJ[aO].content;if(aK){if(aK.indexOf(";")!=-1){var D=aK.split(";");for(var aH=0;aH<D.length;aH++){var aP=aw(D[aH]);if(!aP){continue}aR.push(aP)}}else{aR.push(aK)}}}var aM=F.getElementsByTagName("meta");for(var aO=0,aI=aM.length;aO<aI;aO++){var aN=aM[aO];if(aN.name=="tags"){aR.push("content_tags:"+encodeURI(aN.content))}}var aL=t("vjuids");aR.push("vjuids:"+aL);var e="";var aQ=j.indexOf("#");if(aQ!=-1){e=escape(j.substr(aQ+1));aR.push("hashtag:"+e)}return aR}function V(aK,D,aI,aH){if(aK==""){return""}aH=(aH=="")?"=":aH;D+=aH;var aJ=aK.indexOf(D);if(aJ<0){return""}aJ+=D.length;var i=aK.indexOf(aI,aJ);if(i<aJ){i=aK.length}return aK.substring(aJ,i)}function t(e){if(undefined==e||""==e){return""}return V(F.cookie,e,";","")}function at(aI,e,i,aH){if(e!=null){if((undefined==aH)||(null==aH)){aH="sina.com.cn"}if((undefined==i)||(null==i)||(""==i)){F.cookie=aI+"="+e+";domain="+aH+";path=/"}else{var D=new Date();var aJ=D.getTime();aJ=aJ+86400000*i;D.setTime(aJ);aJ=D.getTime();F.cookie=aI+"="+e+";domain="+aH+";expires="+D.toUTCString()+";path=/"}}}function f(D){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;return i.get(D)}catch(aH){return false}}function ar(D,aH){try{var i=document.getElementById("sudaDataFrame").contentWindow.storage;i.set(D,aH);return true}catch(aI){return false}}function L(){var aJ=15;var D=window.SUDA.etag;if(!B){return"-"}if(u==0){O();q()}if(D&&D!=undefined){w=true}ls_gid=f(aa);if(ls_gid===false||w==false){return false}else{am=true}if(ls_gid&&ls_gid.length>aJ){at(aa,ls_gid,3650);n=true;return ls_gid}else{if(D&&D.length>aJ){at(aa,D,3650);az=true}var i=0,aI=500;var aH=setInterval((function(){var e=t(aa);if(w){e=D}i+=1;if(i>3){clearInterval(aH)}if(e.length>aJ){clearInterval(aH);ar(aa,e)}}),aI);return w?D:t(aa)}}function U(e,aH,D){var i=e;if(i==null){return false}aH=aH||"click";if((typeof D).toLowerCase()!="function"){return}if(i.attachEvent){i.attachEvent("on"+aH,D)}else{if(i.addEventListener){i.addEventListener(aH,D,false)}else{i["on"+aH]=D}}return true}function af(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var D=arguments.callee.caller;var i;var aH=0;while(D!=null&&aH<40){i=D.arguments[0];if(i&&(i.constructor==Event||i.constructor==MouseEvent||i.constructor==KeyboardEvent)){return i}aH++;D=D.caller}return i}}function g(i){i=i||af();if(!i.target){i.target=i.srcElement;i.pageX=i.x;i.pageY=i.y}if(typeof i.layerX=="undefined"){i.layerX=i.offsetX}if(typeof i.layerY=="undefined"){i.layerY=i.offsetY}return i}function aw(aH){if(typeof aH!=="string"){throw"trim need a string as parameter"}var e=aH.length;var D=0;var i=/(\u3000|\s|\t|\u00A0)/;while(D<e){if(!i.test(aH.charAt(D))){break}D+=1}while(e>D){if(!i.test(aH.charAt(e-1))){break}e-=1}return aH.slice(D,e)}function c(e){return Object.prototype.toString.call(e)==="[object Array]"}function J(aH,aL){var aN=aw(aH).split("&");var aM={};var D=function(i){if(aL){try{return decodeURIComponent(i)}catch(aP){return i}}else{return i}};for(var aJ=0,aK=aN.length;aJ<aK;aJ++){if(aN[aJ]){var aI=aN[aJ].split("=");var e=aI[0];var aO=aI[1];if(aI.length<2){aO=e;e="$nullName"}if(!aM[e]){aM[e]=D(aO)}else{if(c(aM[e])!=true){aM[e]=[aM[e]]}aM[e].push(D(aO))}}}return aM}function ac(D,aI){for(var aH=0,e=D.length;aH<e;aH++){aI(D[aH],aH)}}function ak(i){var e=new RegExp("^http(?:s)?://([^/]+)","im");if(i.match(e)){return i.match(e)[1].toString()}else{return""}}function aj(aO){try{var aL="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";var D="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_=";var aQ=function(e){var aR="",aS=0;for(;aS<e.length;aS++){aR+="%"+aH(e[aS])}return decodeURIComponent(aR)};var aH=function(e){var i="0"+e.toString(16);return i.length<=2?i:i.substr(1)};var aP=function(aY,aV,aR){if(typeof(aY)=="string"){aY=aY.split("")}var aX=function(a7,a9){for(var a8=0;a8<a7.length;a8++){if(a7[a8]==a9){return a8}}return -1};var aS=[];var a6,a4,a1="";var a5,a3,a0,aZ="";if(aY.length%4!=0){}var e=/[^A-Za-z0-9\+\/\=]/g;var a2=aL.split("");if(aV=="urlsafe"){e=/[^A-Za-z0-9\-_\=]/g;a2=D.split("")}var aU=0;if(aV=="binnary"){a2=[];for(aU=0;aU<=64;aU++){a2[aU]=aU+128}}if(aV!="binnary"&&e.exec(aY.join(""))){return aR=="array"?[]:""}aU=0;do{a5=aX(a2,aY[aU++]);a3=aX(a2,aY[aU++]);a0=aX(a2,aY[aU++]);aZ=aX(a2,aY[aU++]);a6=(a5<<2)|(a3>>4);a4=((a3&15)<<4)|(a0>>2);a1=((a0&3)<<6)|aZ;aS.push(a6);if(a0!=64&&a0!=-1){aS.push(a4)}if(aZ!=64&&aZ!=-1){aS.push(a1)}a6=a4=a1="";a5=a3=a0=aZ=""}while(aU<aY.length);if(aR=="array"){return aS}var aW="",aT=0;for(;aT<aS.lenth;aT++){aW+=String.fromCharCode(aS[aT])}return aW};var aI=[];var aN=aO.substr(0,3);var aK=aO.substr(3);switch(aN){case"v01":for(var aJ=0;aJ<aK.length;aJ+=2){aI.push(parseInt(aK.substr(aJ,2),16))}return decodeURIComponent(aQ(aP(aI,"binnary","array")));break;case"v02":aI=aP(aK,"urlsafe","array");return aQ(aP(aI,"binnary","array"));break;default:return decodeURIComponent(aO)}}catch(aM){return""}}var ap={screenSize:function(){return(m&8388608==8388608)?ao.width+"x"+ao.height:""},colorDepth:function(){return(m&4194304==4194304)?ao.colorDepth:""},appCode:function(){return(m&2097152==2097152)?s.appCodeName:""},appName:function(){return(m&1048576==1048576)?((s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName):""},cpu:function(){return(m&524288==524288)?(s.cpuClass||s.oscpu):""},platform:function(){return(m&262144==262144)?(s.platform):""},jsVer:function(){if(m&131072!=131072){return""}var aI,e,aK,D=1,aH=0,i=(s.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":s.appName,aJ=s.appVersion;if("MSIE"==i){e="MSIE";aI=aJ.indexOf(e);if(aI>=0){aK=window.parseInt(aJ.substring(aI+5));if(3<=aK){D=1.1;if(4<=aK){D=1.3}}}}else{if(("Netscape"==i)||("Opera"==i)||("Mozilla"==i)){D=1.3;e="Netscape6";aI=aJ.indexOf(e);if(aI>=0){D=1.5}}}return D},network:function(){if(m&65536!=65536){return""}var i="";i=(s.connection&&s.connection.type)?s.connection.type:i;try{F.body.addBehavior("#default#clientCaps");i=F.body.connectionType}catch(D){i="unkown"}return i},language:function(){return(m&32768==32768)?(s.systemLanguage||s.language):""},timezone:function(){return(m&16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(m&8192!=8192){return""}var aK=s.plugins,aH,aL,aN;if(aK&&aK.length){for(var aJ in aK){aL=aK[aJ];if(aL.description==null){continue}if(aH!=null){break}aN=aL.description.toLowerCase();if(aN.indexOf("flash")!=-1){aH=aL.version?parseInt(aL.version):aN.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var aI=10;aI>=2;aI--){try{var D=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+aI);if(D){aH=aI;break}}catch(aM){}}}else{if(W.indexOf("webtv/2.5")!=-1){aH=3}else{if(W.indexOf("webtv")!=-1){aH=2}}}}return aH},javaEnabled:function(){if(m&4096!=4096){return""}var D=s.plugins,i=s.javaEnabled(),aH,aI;if(i==true){return 1}if(D&&D.length){for(var e in D){aH=D[e];if(aH.description==null){continue}if(i!=null){break}aI=aH.description.toLowerCase();if(aI.indexOf("java plug-in")!=-1){i=parseInt(aH.version);continue}}}else{if(window.ActiveXObject){i=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return i?1:0}};var ad={pageId:function(i){var D=i||r,aK="-9999-0-0-1";if((undefined==D)||(""==D)){try{var aH=h("publishid");if(""!=aH){var aJ=aH.split(",");if(aJ.length>0){if(aJ.length>=3){aK="-9999-0-"+aJ[1]+"-"+aJ[2]}D=aJ[0]}}else{D="0"}}catch(aI){D="0"}D=D+aK}return D},sessionCount:function(){var e=t("_s_upa");if(e==""){e=0}return e},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(m&2048!=2048){return""}var e=/^[^\?&#]*.swf([\?#])?/;if((aA=="")||(aA.match(e))){var i=V(j,"ref","&","");if(i!=""){return escape(i)}}return escape(aA)},isHomepage:function(){if(m&1024!=1024){return""}var D="";try{F.body.addBehavior("#default#homePage");D=F.body.isHomePage(j)?"Y":"N"}catch(i){D="unkown"}return D},PGLS:function(){return(m&512==512)?h("stencil"):""},ZT:function(){if(m&256!=256){return""}var e=h("subjectid");e.replace(",",".");e.replace(";",",");return escape(e)},mediaType:function(){return(m&128==128)?h("mediaid"):""},domCount:function(){return(m&64==64)?F.getElementsByTagName("*").length:""},iframeCount:function(){return(m&32==32)?F.getElementsByTagName("iframe").length:""}};var av={visitorId:function(){var i=15;var e=t(aa);if(e.length>i&&u==0){return e}else{return}},fvisitorId:function(e){if(!e){var e=t(Y);return e}else{at(Y,e,3650)}},sessionId:function(){var e=t(H);if(""==e){var i=new Date();e=Math.random()*10000000000000+"."+i.getTime()}return e},flashCookie:function(e){if(e){}else{return p}},lastVisit:function(){var D=t(H);var aI=t(P);var aH=aI.split(":");var aJ="",i;if(aH.length>=6){if(D!=aH[4]){i=new Date();var e=new Date(window.parseInt(aH[0]));aH[1]=window.parseInt(aH[1])+1;if(i.getMonth()!=e.getMonth()){aH[2]=1}else{aH[2]=window.parseInt(aH[2])+1}if(((i.getTime()-e.getTime())/86400000)>=7){aH[3]=1}else{if(i.getDay()<e.getDay()){aH[3]=1}else{aH[3]=window.parseInt(aH[3])+1}}aJ=aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3];aH[5]=aH[0];aH[0]=i.getTime();at(P,aH[0]+":"+aH[1]+":"+aH[2]+":"+aH[3]+":"+D+":"+aH[5],360)}else{aJ=aH[5]+":"+aH[1]+":"+aH[2]+":"+aH[3]}}else{i=new Date();aJ=":1:1:1";at(P,i.getTime()+aJ+":"+D+":",360)}return aJ},userNick:function(){if(al!=""){return al}var D=unescape(t(l));if(D!=""){var i=V(D,"ag","&","");var e=V(D,"user","&","");var aH=V(D,"uid","&","");var aJ=V(D,"sex","&","");var aI=V(D,"dob","&","");al=i+":"+e+":"+aH+":"+aJ+":"+aI;return al}else{return""}},userOrigin:function(){if(m&4!=4){return""}var e=t(aE);var i=e.split(":");if(i.length>=2){return i[0]}else{return""}},advCount:function(){return(m&2==2)?t(E):""},setUOR:function(){var aL=t(aE),aP="",i="",aO="",aI="",aM=j.toLowerCase(),D=F.referrer.toLowerCase();var aQ=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var aK=new Date();if(aM.match(aQ)){aO=aM.match(aQ)[0]}else{if(D.match(aQ)){aO=D.match(aQ)[0]}}if(aO!=""){aO=aO.substr(3)+":"+aK.getTime()}if(aL==""){if(t(P)==""){aP=ak(D);i=ak(aM)}at(aE,aP+","+i+","+aO,365)}else{var aJ=0,aN=aL.split(",");if(aN.length>=1){aP=aN[0]}if(aN.length>=2){i=aN[1]}if(aN.length>=3){aI=aN[2]}if(aO!=""){aJ=1}else{var aH=aI.split(":");if(aH.length>=2){var e=new Date(window.parseInt(aH[1]));if(e.getTime()<(aK.getTime()-86400000*30)){aJ=1}}}if(aJ){at(aE,aP+","+i+","+aO,365)}}},setAEC:function(e){if(""==e){return}var i=t(E);if(i.indexOf(e+",")<0){i=i+e+","}at(E,i,7)},ssoInfo:function(){var D=unescape(aj(t("sso_info")));if(D!=""){if(D.indexOf("uid=")!=-1){var i=V(D,"uid","&","");return escape("uid:"+i)}else{var e=V(D,"u","&","");return escape("u:"+unescape(e))}}else{return""}},subp:function(){return t("SUBP")}};var ai={CI:function(){var e=["sz:"+ap.screenSize(),"dp:"+ap.colorDepth(),"ac:"+ap.appCode(),"an:"+ap.appName(),"cpu:"+ap.cpu(),"pf:"+ap.platform(),"jv:"+ap.jsVer(),"ct:"+ap.network(),"lg:"+ap.language(),"tz:"+ap.timezone(),"fv:"+ap.flashVer(),"ja:"+ap.javaEnabled()];return"CI="+e.join("|")},PI:function(e){var i=["pid:"+ad.pageId(e),"st:"+ad.sessionCount(),"et:"+ad.excuteCount(),"ref:"+ad.referrer(),"hp:"+ad.isHomepage(),"PGLS:"+ad.PGLS(),"ZT:"+ad.ZT(),"MT:"+ad.mediaType(),"keys:","dom:"+ad.domCount(),"ifr:"+ad.iframeCount()];return"PI="+i.join("|")},UI:function(){var e=["vid:"+av.visitorId(),"sid:"+av.sessionId(),"lv:"+av.lastVisit(),"un:"+av.userNick(),"uo:"+av.userOrigin(),"ae:"+av.advCount(),"lu:"+av.fvisitorId(),"si:"+av.ssoInfo(),"rs:"+(n?1:0),"dm:"+(B?1:0),"su:"+av.subp()];return"UI="+e.join("|")},EX:function(i,e){if(m&1!=1){return""}i=(null!=i)?i||"":b;e=(null!=e)?e||"":a;return"EX=ex1:"+i+"|ex2:"+e},MT:function(){return"MT="+aF().join("|")},V:function(){return an},R:function(){return"gUid_"+new Date().getTime()}};function ax(){var aK="-",aH=F.referrer.toLowerCase(),D=j.toLowerCase();if(""==t(X)){if(""!=aH){aK=ak(aH)}at(X,aK,"","weibo.com")}var aI=/weibo.com\/reg.php/;if(D.match(aI)){var aJ=V(unescape(D),"sharehost","&","");var i=V(unescape(D),"appkey","&","");if(""!=aJ){at(X,aJ,"","weibo.com")}at("appkey",i,"","weibo.com")}}function d(e,i){G(e,i)}function G(i,D){D=D||{};var e=new Image(),aH;if(D&&D.callback&&typeof D.callback=="function"){e.onload=function(){clearTimeout(aH);aH=null;D.callback(true)}}SUDA.img=e;e.src=i;aH=setTimeout(function(){if(D&&D.callback&&typeof D.callback=="function"){D.callback(false);e.onload=null}},D.timeout||2000)}function x(e,aH,D,aI){SUDA.sudaCount++;if(!av.visitorId()&&!L()){if(u<3){u++;setTimeout(x,500);return}}var i=N+[ai.V(),ai.CI(),ai.PI(e),ai.UI(),ai.MT(),ai.EX(aH,D),ai.R()].join("&");G(i,aI)}function y(e,D,i){if(aG||A){return}if(SUDA.sudaCount!=0){return}x(e,D,i)}function ab(e,aH){if((""==e)||(undefined==e)){return}av.setAEC(e);if(0==aH){return}var D="AcTrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+e+"||";var i=ag+D+"&gUid_"+new Date().getTime();d(i)}function aq(aI,e,i,aJ){aJ=aJ||{};if(!i){i=""}else{i=escape(i)}var aH="UATrack||"+t(aa)+"||"+t(H)+"||"+av.userNick()+"||"+aI+"||"+e+"||"+ad.referrer()+"||"+i+"||"+(aJ.realUrl||"")+"||"+(aJ.ext||"");var D=ag+aH+"&gUid_"+new Date().getTime();d(D,aJ)}function aC(aK){var i=g(aK);var aI=i.target;var aH="",aL="",D="";var aJ;if(aI!=null&&aI.getAttribute&&(!aI.getAttribute("suda-uatrack")&&!aI.getAttribute("suda-actrack")&&!aI.getAttribute("suda-data"))){while(aI!=null&&aI.getAttribute&&(!!aI.getAttribute("suda-uatrack")||!!aI.getAttribute("suda-actrack")||!!aI.getAttribute("suda-data"))==false){if(aI==F.body){return}aI=aI.parentNode}}if(aI==null||aI.getAttribute==null){return}aH=aI.getAttribute("suda-actrack")||"";aL=aI.getAttribute("suda-uatrack")||aI.getAttribute("suda-data")||"";sudaUrls=aI.getAttribute("suda-urls")||"";if(aL){aJ=J(aL);if(aI.tagName.toLowerCase()=="a"){D=aI.href}opts={};opts.ext=(aJ.ext||"");aJ.key&&SUDA.uaTrack&&SUDA.uaTrack(aJ.key,aJ.value||aJ.key,D,opts)}if(aH){aJ=J(aH);aJ.key&&SUDA.acTrack&&SUDA.acTrack(aJ.key,aJ.value||aJ.key)}}if(window.SUDA&&Object.prototype.toString.call(window.SUDA)==="[object Array]"){for(var Q=0,ae=SUDA.length;Q<ae;Q++){switch(SUDA[Q][0]){case"setGatherType":m=SUDA[Q][1];break;case"setGatherInfo":r=SUDA[Q][1]||r;b=SUDA[Q][2]||b;a=SUDA[Q][3]||a;break;case"setPerformance":Z=SUDA[Q][1];break;case"setPerformanceFilter":C=SUDA[Q][1];break;case"setPerformanceInterval":K=SUDA[Q][1]*1||0;K=isNaN(K)?0:K;break;case"setGatherMore":M.push(SUDA[Q].slice(1));break;case"acTrack":S.push(SUDA[Q].slice(1));break;case"uaTrack":I.push(SUDA[Q].slice(1));break}}}aG=(function(D,i){if(ah.top==ah){return false}else{try{if(F.body.clientHeight==0){return false}return((F.body.clientHeight>=D)&&(F.body.clientWidth>=i))?false:true}catch(aH){return true}}})(320,240);A=(function(){return false})();av.setUOR();var au=av.sessionId();window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){x.apply(null,arguments)};SUDA.acTrack=function(){ab.apply(null,arguments)};SUDA.uaTrack=function(){aq.apply(null,arguments)};U(F.body,"click",aC);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){ab.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){aq.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){ab.apply(null,arguments)};window._S_uaTrack=function(){aq.apply(null,arguments)};window._S_PID_="";if(!window.SUDA.disableClickstream){y()}try{k()}catch(T){}})();
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+<!-- body code end -->
+
+<div class="wrap"> 
+  <!-- ¶¥²¿¹ã¸æ begin  950 * 90 -->
+
+  <!-- ¶¥²¿¹ã¸æ end 950 * 90--> 
+  <!-- µ¼º½ begin -->
+  <div class="navTop">
+	<div data-sudaclick="top_nav_01">
+		<ul class="nav">
+		  <li><a href="http://www.sina.com.cn/">Ê×Ò³</a></li>
+		  <li><a href="http://news.sina.com.cn/">ĞÂÎÅ</a></li>
+		  <li><a href="http://sports.sina.com.cn/">ÌåÓı</a></li>
+		  <li><a href="http://ent.sina.com.cn/">ÓéÀÖ</a></li>
+		  <li><a href="http://finance.sina.com.cn/">²Æ¾­</a></li>
+		  <li><a href="http://tech.sina.com.cn/">¿Æ¼¼</a></li>
+		  <li><a href="http://video.sina.com.cn/">ÊÓÆµ</a></li>
+		  <li><a href="http://weibo.com/">Î¢²©</a></li>
+		  <li><a href="http://blog.sina.com.cn/">²©¿Í</a></li>
+		  <li><a href="http://book.sina.com.cn/">¶ÁÊé</a></li>
+		  <li><a href="http://edu.sina.com.cn/">½ÌÓı</a></li>
+		  <li><a href="http://fashion.sina.com.cn/">Ê±ÉĞ</a></li>
+		  <li><a href="http://baby.sina.com.cn/">Óı¶ù</a></li>
+		  <li><a href="http://health.sina.com.cn/">½¡¿µ</a></li>
+		  <li><a href="http://astro.sina.com.cn/">ĞÇ×ù</a></li>
+		  <li><a href="http://collection.sina.com.cn/">ÊÕ²Ø</a></li>
+		  <li><a href="http://eladies.sina.com.cn/">Å®ĞÔ</a></li>
+		  <li><a href="http://auto.sina.com.cn/">Æû³µ</a></li>
+		  <li><a href="http://house.sina.com.cn/">·¿²ú</a></li>
+		  <li class="more" id="J_TopMore"><a href="javascript:void(0)" class="icon more_link J_Trigger">¸ü¶à</a>
+			  <div class="drop_menu_list J_List" style="display:none;">
+				 <h2>¸ü¶à</h2>
+				 <ul>
+				  <li><a href="http://history.sina.com.cn/">ÀúÊ·</a></li>  
+				  <li><a href="http://games.sina.com.cn/">ÓÎÏ·</a></li>
+				  <li><a href="http://weather.news.sina.com.cn/">ÌìÆø</a></li>
+				  <li><a href="http://mail.sina.com.cn/">ÓÊÏä</a></li>
+				  <li><a href="http://sms.sina.com.cn/">¶ÌĞÅ</a></li>
+				  <li><a href="http://news.sina.com.cn/guide/">µ¼º½</a></li>
+				 </ul>
+			  </div>
+		  </li>
+		</ul>
+	</div>
+    <div class="nav_weibo" data-sudaclick="nav_weibo">
+		<!-- Î´µÇÂ¼ begin -->
+		<div class="wt_unlogin" id="J_Unlogin_A" style="display:none;"><a href="https://login.sina.com.cn/signup/signup.php" target="_blank" onclick="try{if(window._S_uaTrack){_S_uaTrack('entlogon', 'logon');}}catch(e){}">×¢²á</a> | <span id="J_Login_Btn_A"></span><!-- <a href="javascript:;" class="wt_login_btn" title="ÓÃÎ¢²©µÇÂ½" id="J_Login_Btn_A"></a> --></div>
+		<!-- Î´µÇÂ¼ end -->
+		<!-- ÒÑµÇÂ¼ begin -->
+		<div class="wt_logined" id="J_Logined_A" style="display:none;">
+		  <span class="wt_user" id="J_Logined_Name_A"></span>
+			<div class="wt_user_drop_list" id="J_Logined_List_A" style="display:none;"></div>
+		</div>
+		<!-- ÒÑµÇÂ¼ end -->
     </div>
-    <input class=ampstart-btn type=submit value=æœå¯»>
-  </form>
+  </div>
+<script type="text/javascript">try{if(window._S_uaTrack){_S_uaTrack('entlogon', 'pageview');}}catch(e){}</script>
+  <!-- µ¼º½ end -->
+
+  <!-- Â·¾¶µ¼º½À¸ begin -->
+  <div class="blkBreadcrumb clearfix">
+    <div class="blkBreadcrumbNav">
+		<div class="blkChannelLogo" data-sudaclick="blkChannelLogo"><h1 id="pagelogo"><a href="http://ent.sina.com.cn"><img src="http://i0.sinaimg.cn/home/deco/2009/0330/con_logo_ent.gif" height="27" alt="ĞÂÀËÓéÀÖ" id="pagelogo_img"></a></h1></div>
+        <div class="blkBreadcrumbLink" data-sudaclick="blkChannel_path"><a href="http://ent.sina.com.cn">ĞÂÀËÓéÀÖ</a> &gt; <a href="/review/"> ×ÔÓÉÆÀÂÛ</a> &gt;&nbsp;ÕıÎÄ </div>
+  </div>
+    <div class="blkBreadcrumbSearch" data-sudaclick="blkBreadcrumbSearch">
+        <script type="text/javascript">
+if(!sina)var sina={};sina.addEvent=function(o,type,fn){o.attachEvent?o.attachEvent('on'+type,fn):o.addEventListener(type,fn,false)};sina.delEvent=function(o,type,fn){o.detachEvent?o.detachEvent('on'+type,fn):o.removeEventListener(type,fn,false)};sina.$=function(o){return document.getElementById(o)};function sim_select(o){o=document.getElementById(o);o.style.display='none';var opts=o.options,parent=o.parentNode,self=this;this.isShow=false;this.div=document.createElement('div');this.ul=document.createElement('ul');this.h3=document.createElement('h3');this.div.className='sim_select';parent.replaceChild(this.div,o);this.div.appendChild(o);this.ul.style.display='none';this.ul.style.top=this.h3.offsetHeight;this.h3.innerHTML=opts[o.selectedIndex].innerHTML;for(var i=0,l=o.length;i<l;i++){var li=document.createElement('li');li.innerHTML=opts[i].innerHTML;this.ul.appendChild(li);li.onmouseover=function(){this.className+=' over'};li.onmouseout=function(){this.className=this.className.replace(/over/gi,'')};li.onclick=(function(i){return function(){self.hide();self.h3.innerHTML=this.innerHTML;o.selectedIndex=i;if(o.onchange){o.onchange()}}})(i)};this.div.appendChild(this.h3);this.div.appendChild(this.ul);this.ul.style.top=this.h3.offsetHeight+'px';this.ul.style.width=(this.h3.offsetWidth>2?(this.h3.offsetWidth-2):this.h3.offsetWidth)+'px';this.init()};sim_select.prototype={init:function(){var self=this;sina.addEvent(document.documentElement,'click',function(e){self.close(e)});this.h3.onclick=function(){self.toggles()}},show:function(){this.ul.style.display='block';this.isShow=true},hide:function(){this.ul.style.display='none';this.isShow=false},close:function(e){var t=window.event?window.event.srcElement:e.target;do{if(t==this.div){return}else if(t==document.documentElement){this.hide();return}else{t=t.parentNode}}while(t.parentNode)},toggles:function(){this.isShow?this.hide():this.show()}}
+</script> 
+    <script language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+function SearchSubmit(){
+  var key = document.SearchEcho.SerchKey.value;
+  if(key == "ÇëÊä¹Ø¼ü´Ê" || key == "ÇëÊäÈë¹Ø¼ü×Ö"){key = ""};
+  switch(document.SearchEcho.SerchType.value){
+    case "ĞÂÎÅ" :
+      document.hform_02.q.value = key;
+      document.hform_02.submit();
+      break;
+    case "ÊÓÆµ" :
+      document.hform_03.k.value = key;
+      document.hform_03.submit();
+      break;
+    case "Í¼Æ¬" :
+      document.hform_05.q.value = key;
+      document.hform_05.submit();
+      break;
+    case "²©¿Í" :
+      document.hform_08.q.value = key;
+      document.hform_08.submit();
+      break;
+    case "Î¢²©" :
+      window.open('http://s.weibo.com/'+ (key?'weibo/' + key+'&Refer=sina_news':'') );
+      break;
+    default : //ÍøÒ³
+      document.hform_01.q.value = key;
+      document.hform_01.channel.value = "contentsearch";
+      document.hform_01.submit();
+  }
+  return false;
+}
+function GoogleImgClick(){
+  var key = document.SearchEcho.SerchKey.value;
+  if(key == "ÇëÊä¹Ø¼ü´Ê" || key == "ÇëÊäÈë¹Ø¼ü×Ö"){key = ""};
+  document.hform_01.channel.value = "contentlogo";
+  document.hform_01.q.value = key;
+  document.hform_01.submit();
+}
+//µã»÷¼ì²â
+function kwCount(el){
+  var kwValue = decodeURI(el.innerText || el.textContent);
+  var urlValue = decodeURI(el.getAttribute("href", 2));
+  (new Image()).src = "http://mark.sina.com.cn/v2/hot.php?keyword="+kwValue+"&hwfrom=TopGoogleBar&tag=1&url="+urlValue;
+};
+//--><!]]>
+</script> 
+      <form name="SearchEcho" onSubmit="return SearchSubmit()">
+          <select name="SerchType" id="slt_01">
+            <option value="ĞÂÎÅ" selected="selected">ĞÂÎÅ</option>
+            <option value="Í¼Æ¬">Í¼Æ¬</option>
+            <option value="Î¢²©">Î¢²©</option>
+            <option value="²©¿Í">²©¿Í</option>
+            <option value="ÊÓÆµ">ÊÓÆµ</option>
+          </select>
+          <input type="text" value="¡¶¼«ÀÖ¿Õ¼ä¡·" name="SerchKey" class="inp_txt" onfocus="if(this.value=='ÇëÊäÈë¹Ø¼ü×Ö'){this.value='';this.className='inp_txt inp_txt_active'}" onblur="if(this.value==''){this.value='ÇëÊäÈë¹Ø¼ü×Ö';this.className='inp_txt'}" />
+                  <input type="submit" name="SearchSubButton" class="submit_second_btn" value="" onmouseover="this.className='submit_second_btn submit_second_btn_hover'" onmouseout="this.className='submit_second_btn'" />
+        </form>
+        <script type="text/javascript">new sim_select("slt_01");</script> 
+        <div style="display:none"> 
+
+        <!-- ĞÂÎÅ -->
+        <form name="hform_02" action="http://search.sina.com.cn/" method="get" target="_blank">
+          <input type="hidden" name="range" value="all"/>
+          <input type="hidden" name="c" value="news"/>
+          <input type="hidden" name="q" value="" />
+          <input  type="hidden" name="from" value="top"/>
+        </form>
+
+        <!-- ÊÓÆµ -->
+        <form action="http://search.video.sina.com.cn/search.php" name="hform_03" target="_blank">
+          <input name="s" type="hidden" value="sup" />
+          <input name="type" type="hidden" value="all" />
+          <input type="hidden" name="k" value="" />
+        </form>
+
+        <!-- Í¼Æ¬ -->
+        <form action="http://search.sina.com.cn/" name="hform_05" target="_blank">
+          <input type="hidden" name="q" value="" />
+          <input type="hidden" name="c" value="img" />
+          <input  type="hidden" name="from" value="top"/>
+        </form>
+
+        <!-- ²©¿Í -->
+        <form action="http://search.sina.com.cn/" name="hform_08" target="_blank">
+          <input type="hidden" name="c" value="blog" />
+          <input type="hidden" name="from" value="top" />
+          <input type="hidden" name="q" value="" />
+        </form>
+      </div>
+    </div>
+  </div>
+  <!-- Â·¾¶µ¼º½À¸ end -->
+
+  <!-- Ö÷ÈİÆ÷ begin --> 
+  <a name="Main"></a>
+  <div class="Main clearfix">
+    <!--  ÄÚÈİÁĞ begin -->
+    <div class="blkContainer">
+      <!-- ÕıÎÄ¿é begin -->
+        <div class="blkContainerPblk" id="J_Article_Wrap">
+          <!-- Î¢²©ÃûÆ¬ -->
+          <script type="text/javascript" src="http://news.sina.com.cn/js/87/20110714/205/sinalib.js"></script>
+          <script type="text/javascript" src="http://ent.sina.com.cn/js/20120914/weibocard.js"></script>
+          <!-- /Î¢²©ÃûÆ¬ -->
+          <div class="blkContainerSblk">
+			<h1 id="artibodyTitle" pid="28" tid="3" did="4005574" fid="1307">¡¶¼«ÀÖ¿Õ¼ä¡·£ºÆ¶Ãñ¿ßµÄÄ©ÈÕ¾¯Ê¾Í¼</h1>
+            <div class="artInfo">
+              <div>
+            	<span id="pub_date">2013Äê09ÔÂ10ÈÕ11:03</span>&nbsp;&nbsp;<span id="media_name"><a href="http://www.thebeijingnews.com/" target="_blank" class="ent1 fred" data-sudaclick="media_name">ĞÂ¾©±¨</a></span> <a id="media_comment" href="#J_Comment_Wrap" rel="ÎÒÓĞ»°Ëµ" class="J_Comment_Count_Txt" style="display:none;" action-type="anchorGo" data-sudaclick="media_comment">ÎÒÓĞ»°Ëµ</a>
+              </div>
+
+                <div class="font_change"  id="J_Font_Zoomer" data-sudaclick="font_change">
+                    <span font-size="14">
+                      <a class="J_Font_Zoomer_Trigger icon font_down font_down_disable" action-type="fontZoom" action-data="type=down" href="javascript:void(0);" title="¼õĞ¡×ÖºÅ"></a><a class="J_Font_Zoomer_Trigger icon font_up"  action-type="fontZoom" action-data="type=up"  href="javascript:void(0);" title="¼Ó´ó×ÖºÅ"></a></span>
+                </div>  
+			</div>
+
+			<!-- ÕıÎÄÄÚÈİ begin -->
+            <div class="blkContainerSblkCon BSHARE_POP clearfix" id="artibody">
+
+				<div class="img_wrapper">
+					<img alt="¡¶¼«ÀÖ¿Õ¼ä¡·¾çÕÕ" src="http://i1.sinaimg.cn/ent/r/m/2013-09-10/U10015P28T3D4005574F326DT20130910110323.jpg"/>
+					<span class="img_descr">¡¶¼«ÀÖ¿Õ¼ä¡·¾çÕÕ</span>
+				</div>
+				<!-- publish_helper name='Ô­Ê¼ÕıÎÄ' p_id='28' t_id='3' d_id='4005574' f_id='274' -->
+
+<p>¡¡¡¡2009Äê£¬ÓÉÀ´×ÔÄÏ·ÇµÄÄá¶û¡¤²¼ÂåÄ·¿²ÆÕÖ´µ¼¡¢±ËµÃ¡¤½Ü¿ËÑ·¼àÖÆµÄ¿Æ»ÃÆ¬¡¶µÚ¾ÅÇø¡·£¬ËäÈ»Ö»ÊÇÒ»²¿µÍ³É±¾×÷Æ·£¬µ«ÔÚµ¼ÑİµÄ¶ÀÌØµçÓ°ÊÖ·¨¡¢Ó°Ïñ·ç¸ñµÄÅäºÏÏÂ½ĞºÃ½Ğ×ù£¬ËûµÄµÚ¶ş²¿×÷Æ·¡¶¼«ÀÖ¿Õ¼ä¡·ÔÚÄÚµØÉÏÓ³£¬µ«¿Ú±®²»Èç¡¶µÚ¾ÅÇø¡·¡£±¾±¨¹ÛÓ°ÍÅÔÚ¹Û¿´ºó¸øÓèÁË70·ÖµÄÆ½¾ù·Ö£¬¶àÊı¹ÛÖÚ±íÊ¾Ó°Æ¬¹ÊÊÂ½ÏÎª´óÔÓ»â£¬µ«µ¼Ñİ·ç¸ñÒÀÈ»ºÜÍ»³ö¡£<strong></strong></p>
+
+<p>¡¡¡¡<strong>¹ÊÊÂÈ±·¦ĞÂÒâ </strong></p>
+
+<p>¡¡¡¡<strong>¿Æ»ÃµçÓ°´óÔÓ»â</strong></p>
+
+<p>¡¡¡¡¼ÈÈ»ÊÇ¡¶µÚ¾ÅÇø¡·µ¼ÑİµÄµÚ¶ş²¿×÷Æ·£¬Ò²¾ÍÄÑÃâ»á±»¹ÛÖÚÓë¡¶µÚ¾ÅÇø¡·Ïà±È½Ï£¬Á½ÕßÖ®¼äÒ²È·ÊµÓĞ²»ÉÙµÄÏàËÆÖ®´¦¡£Ê×ÏÈÊÇÓ°Æ¬µÄ±³¾°¡¢¹ÊÊÂµÄÉè¶¨£¬¡¶¼«ÀÖ¿Õ¼ä¡·ÒÔ2154ÄêµÄÅ¦Ô¼Îª±³¾°£¬Æ¶¸»²î¾à¼±¾çÀ©´óÊ¹µÃÈËÀà·Ö±ğÉú»îÔÚ¡°¼«ÀÖ¿Õ¼ä¡±Óë¡°µØÇò¡±ÉÏ£¬ÆäÖĞÉú»îÔÚµØÇòÉÏµÄÈËÀàÔò¹ı×Å¼«¶ÈÓµ¼·¡¢Æ¶À§µÄÆ¶Ãñ¿ß°ãµÄÉú»î£¬ÕâµãÓë¡¶µÚ¾ÅÇø¡·ÏàËÆ£¬Ò²¶¼ÊÇÀ´×ÔÓÚµ¼Ñİ±¾ÈËÍ¯ÄêÊ±ÔÚÄÏ·ÇÆ¶Ãñ¿ßÉú»îµÄ¾­Àú¡£</p>
+
+<p>¡¡¡¡ÁíÍâ£¬¡¶µÚ¾ÅÇø¡·ÀïµØÇòÉÏµÄ¹ÙÔ±ÃÇÑÏ·À¡°µÚ¾ÅÇø¡±µÄÍâĞÇÈË×ß½øÆÕÍ¨ÈËµÄÉú»îÊÀ½ç£¬µ½ÁË¡¶¼«ÀÖ¿Õ¼ä¡·ÔòÊÇÔÚ¼«ÀÖ¿Õ¼äµÄÈËÑÏ½ûÉú»îÔÚµØÇòÉÏµÄÈËÀ´µ½´ËµØ£¬½èÓÃÓ°Æ¬ÀïÖìµÏ¡¤¸£Ë¹ÌØ°çÑİµÄ¹ú·À²¿³¤µÄ»°À´Ëµ£¬¡°ÎÒÃÇÎªÎÒÃÇµÄ×ÓËïºó´úËù´òÆ´ÏÂµÄÈË¼äÌìÌÃ£¬ÄãÔ¸Òâ¸úÆ¶ÃñÃÇ·ÖÏíÕâĞ©À´Ö®²»Ò×µÄ×ÊÔ´Âğ£¿¡±¶ø¶ÔÓÚ¹Û¿´¹ı¡¶µÚ¾ÅÇø¡·µÄ¹ÛÖÚÀ´Ëµ£¬ÓĞ½«½üÒ»°ëµÄ¹ÛÖÚ¾õµÃÁ½ÕßÔÚ¹ÊÊÂÉÏÓĞ×ÅºÜ¶àµÄÏàËÆÖ®´¦¡£</p>
+
+<p>¡¡¡¡ÔÚÁ÷Ë®Ïß×÷ÒµÏÂµÄ¡¶¼«ÀÖ¿Õ¼ä¡·Àï£¬Ò²²»ÄÑ¿´µ½ÆäËûÒ»Ğ©¿Æ»ÃÆ¬µÄÓ°×Ó¡¢ºÛ¼££¬ÈÃ¹ÛÖÚÓĞÖÖ´óÔÓ»âµÄ¸Ğ¾õ£¬Æ¬ÖĞ¼ÈÓĞ¡¶ºÚ¿ÍµÛ¹ú¡·µÄÈËÄÔÓëÉñ¾­ÍøÂçµÄÁ¬½Ó¡¢¡¶»úÆ÷ÈËÍßÁ¦¡·µÄµØÇòÓĞÈç·ÏĞæµÄ¾°¹Û£¬Ò²°üÀ¨ÁËÈ¥ÄêÉÏÓ³µÄ¡¶ĞÂÓîÖæÍşÁú¡·¡¢¡¶ÄæÊÀ½ç¡·µÈÓ°Æ¬µÄÀÓÓ¡£¬ÓĞ²»ÉÙ±¾±¨¹ÛÓ°ÍÅ³ÉÔ±ÈÏÎª¹ÊÊÂÈ±·¦ĞÂÒâ£¬²»Èç¡¶µÚ¾ÅÇø¡·ÄÇÃ´¾ªÑŞ¡£</p>
+
+<p>¡¡¡¡ÖÁÓÚÑİÔ±µÄ±íÏÖ·½Ãæ£¬ËäÈ»µ±³õĞ¡Âí¸çÂíÌØ¡¤´ïÃÉµÄ¹âÍ·ÔìĞÍÒ»¶ÈÒıÆğ²»ÉÙµÄ¹Ø×¢£¬µ«ÔÚÓ°Æ¬ÀïµÄ±íÏÖÖ»ÄÜËãÊÇÖĞ¹æÖĞ¾Ø¡£µ¹ÊÇÖìµÏ¡¤¸£Ë¹ÌØÓëÉ³¶ûÍĞ¡¤¿ÆÆÕÀ×ÓĞ×Å½Ï¾«²ÊµÄ±íÏÖ£¬ÌØ±ğÊÇºóÕß£¬ËûÒÔÒ»ÖÖ¿´ËÆÑÏËà¡¢Õı¾­µÄ·½Ê½À´Ú¹ÊÍÕâ¸ö½ÇÉ«¿ñ·ÅµÄ¡¢·è×ÓÊ½µÄĞĞÎª£¬ËÜÔìÁËÒ»¸ö³É¹¦µÄ·´ÅÉĞÎÏó£¬²»¹ıÒ²ÓĞ¹ÛÖÚÍÂ²ÛËûµÄÓ¢Óï¿ÚÒô¼òÖ±Ì«ÄÑÌıÁË¡£</p>
+
+<p>¡¡¡¡<strong>¹ØÓÚÆ¬Ãû</strong></p>
+
+<p>¡¡¡¡¡¶¼«ÀÖ¿Õ¼ä¡·µÄÓ¢ÎÄÃûÎª¡°Elysium¡±£¬À´×ÔÓÚÏ£À°ÎÄµÄ¡°Elysion¡±£¬Ô­ÒâÖ¸µÄÊÇÏ£À°Éñ»°ÖĞÚ¤ÍõºÚÖæË¹ËùÕÆ¹ÜµÄÀÖÍÁ£¬ÄÇÀïÊÇÓ¢ĞÛ»òÊ¥ÈËÔÚ¹ıÊÀÖ®ºóÁé»êËù½øÈëµÄµØ·½¡£¶øÔÚÓ°Æ¬ÀïÔòÊÇÓĞÇ®ÈË²ÅÄÜ½øÈëÉú»îµÄÊÀÍâÌÒÔ´£¬ÔÙ¼ÓÉÏÉú»îÔÚ¼«ÀÖ¿Õ¼äµÄÈËÃÇµÄÄÚĞÄÀä¿á¡¢ÉõÖÁÊÇ²İİÑÈËÃü£¬¶ø·í´ÌÁËÕâ¸öÊÀ½çµÄ½ğÇ®¡¢½×¼¶ÖÁÉÏµÄ¼ÛÖµ¹Û¡£</p>
+
+<p>¡¡¡¡<strong>·ç¸ñÖ÷ÌâÍ»³ö</strong></p>
+
+<p>¡¡¡¡<strong>°µÓ÷µ±ÏÂ£¬Ì½ÌÖÈËĞÔ</strong></p>
+
+<p>¡¡¡¡¿Æ»ÃÓëĞ´Êµ£¬ÕâÔÚ´«Í³µÄºÃÀ³Îë¿Æ»ÃÆ¬ÀïÍùÍùÊÇ´¦ÓÚÌìÆ½µÄÁ½¶ËµÄ£¬µ«µ±ÄêÄá¶û¡¤²¼ÂåÄ·¿²ÆÕ¶ÀÊ÷Ò»ÖÄµØ½«Á½ÕßÈÚºÏµ½¡¶µÚ¾ÅÇø¡·Àï£¬Ò»Ãù¾ªÈË¡£¡¶¼«ÀÖ¿Õ¼ä¡·ÕûÌåÉÏÒ²ÑÓĞøÁËÕâÖÖ·ç¸ñ¡£</p>
+
+<p>¡¡¡¡¡¶¼«ÀÖ¿Õ¼ä¡·ÀïËäÈ»Ò²ÓĞÌìÌÃ°ãµÄÃÀºÃÉú»î(Ò²Éú»îÔÚµØÇòÖ®ÍâµÄ¼«ÀÖ¿Õ¼äµÄ¸»ÈËÃÇ)£¬µ«¾ø´ó²¿·ÖÊ±¿ÌÀï£¬ÓÉÂíÌØ¡¤´ïÃÉ°çÑİµÄÄĞÖ÷ÈË¹«Âí¿ËË¹£¬Éú»îÔÚ¾­¹ıÁËÈË¿Ú´ó±¬Õ¨¡¢Õ½ÂÒºóµÄÅ¦Ô¼Æ¶ÃñÇø(Õâ¶Î¹ÊÊÂÀ´Ô´ÓÚµ¼Ñİ±¾ÈËµÄÄÏ·ÇÆ¶ÃñÇøÉú»î)£¬»îÍÑÍÑÊÇµ±ÏÂÄ³Ğ©µÚÈıÊÀ½ç¹ú¼ÒµÄ²Ğ¿áĞ´ÕÕ¡£¶øÈËÃÇËùÉú»îµÄ»·¾³Ò²±»³ÄÍĞµÃÔàÂÒÇÒ»Ò°µ£¬³äÂúÑ¹ÒÖ¸ĞÓëÑªĞÈÎ¶£¬ÂíÌØ¡¤´ïÃÉ°çÑİµÄÄĞÖ÷ÈË¹«Âí¿ËË¹Ëù¹¤×÷µÄÁ÷Ë®Ïß£¬Óµ¼·µÄ»úÆ÷¡¢ÈËÀàÈºÌå£¬»¹ÓĞÑ¹ÒÖµÄÉú²ú¿Õ¼ä£¬°µÊ¾×ÅËæÊ±¿ÉÄÜ»á·¢ÉúÊÂ¹Ê£¬ËùÒÔ£¬Âí¿ËË¹ÔÚÔâÓöÖÂÃüµÄ·øÉäºóÒ»ĞÄÏëÒªµ½¼«ÀÖ¿Õ¼ä½ÓÊÜÖÎÁÆ£¬±ã³ÉÎªÁËÍÆ½ø¾çÇé·¢Õ¹µÄ×îÓĞÁ¦¹¤¾ß¡£ÔÙ¼ÓÉÏÍ³ÖÎÕßµÄ¶À²Ã¡¢±©Á¦Ê½Í³ÖÎÊÖ¶Î£¬¶¼Ç¿»¯ÁËÖ÷ÈË¹«µÄ·ÇÈËÔâÓö¡£ÕâĞ©ÔÚ¡¶µÚ¾ÅÇø¡·ÀïÒ²¶¼ÓĞËù³ÊÏÖ£¬¶ø¹ÛÖÚÃÇÆÕ±é¿Ï¶¨ÁËÓ°Æ¬µÄ·ç¸ñ£¬½ÏÖ®Ò»°ãµÄÎ´À´ÊÀ½çµÄ¿Æ»ÃÆ¬£¬ÈçÖ®Ç°ÉÏÓ³µÄ¡¶ÒÅÂäÕ½¾³¡·¡¢¡¶ĞÇ¼ÊÃÔº½£º°µºÚÎŞ½ç¡·µÈ£¬¶¼ÓĞºÜ´óµÄ²»Í¬¼°¸öÈË»¯µÄÌØÉ«£¬¹ÛÖÚÒ²¶à±íÊ¾¸üÏ²»¶¡¶¼«ÀÖ¿Õ¼ä¡·¡£</p>
+
+<p>¡¡¡¡ÔÚÖ÷ÌâÉÏ£¬ÌØ±ğÊÇÔÚ¶ÔÓÚÈËĞÔµÄÌ½ÌÖÕâµãÉÏ£¬¡¶¼«ÀÖ¿Õ¼ä¡·Ò²Ê¤¹ıÒ»°ãµÄºÃÀ³ÎëÉÌÒµÆ¬¡£³ıÁËÅúÆÀ½×¼¶¡¢Æ¶¸»²î¾àµÈÏÖÊµÎÊÌâÍâ£¬ÔÚÓ°Æ¬µÄ¸ß³±Ï·À´ÁÙÇ°Âí¿ËË¹²¢·ÇÊÇÓ¢ĞÛ£¬ËûÖ»ÊÇÏëÒª»îÏÂÈ¥£¬ËùÒÔ²»¹ËÒ»ÇĞÒªµ½¼«ÀÖ¿Õ¼ä½ÓÊÜÖÎÁÆ£¬ËûÒ²Ö»ÄÜÊÇ¶ÔÓĞÇóÓÚËûµÄÇàÃ·ÖñÂíËµ±§Ç¸£¬µ«Ò»Á¬´®ÊÂ¼şÖğ½¥¸Ä±äÁËËû£¬×îÖÕÊÇÒÔÌ¹È»½ÓÊÜÃüÔËÀ´»ñµÃÁËÁé»êµÄÓÀÉúÓëÊÀ½çµÄ´óÍ¬¡£&nbsp;¡õ°¢Ä¾</p>
+
+<p>¡¡¡¡¡ö&nbsp;<strong>¹ÛÖÚÆÀÓï</strong></p>
+
+<p>¡¡¡¡Ó°Æ¬µÄÕşÖÎÔ¢ÑÔËäÈ»±»×îºó×·É±¡¢¾ö¶·µÈºÃÀ³ÎëÊ½½â¾ö·½·¨ËùÏ¡ÊÍ£¬µ«Õâ¸ö´Ó¡°ÎÒÒª»îÏÂÈ¥¡±µ½¡°ÄãÃÇÒª»îÏÂÈ¥¡±µÄ×ª±äÒÀÈ»±»´¦ÀíµÃºÜ×ÔÈ»£¬Ò²ÕÛÉä³ö×÷Æ·µÄ¼ÛÖµ¡£&nbsp;80·Ö</p>
+
+<p>¡¡¡¡°´ÕÕºÃÀ³ÎëµÄË¼Î¬£¬ÊÀ½ç±»»ÙÃğÁËÎŞÊı´Î£¬Ò²±»Õü¾ÈÁËÎŞÊı´Î£¬ÕâÒ»´ÎÒ²²»ÀıÍâ¡£µØÇòÔÚÎ´À´±ä³ÉÁËÁ¶Óü£¬¼«ÀÖ¿Õ¼äÊÇÊı×Ö»¯°æ±¾µÄÌìÌÃ¡£³ÌĞò¿ØÖÆÒ»ÇĞ£¬×ÜÍ³¡¢Ò½ÁÆÒÇÆ÷¡¢¹ÜÀíµØÇòµÄ»úÆ÷ÈËÎÀÊ¿¡ª¡ªËäÈ»Ò»ÇĞ¶¼Àë²»¿ª»úÆ÷£¬µ«Ò»ÇĞËÆºõ¸üÈ¡¾öÓÚ¡°¼«ÀÖ¿Õ¼ä¡±×î¸ßÊ×ÁìµÄµÀµÂÒâÖ¾¡£ÓĞÒ»µãÆæ¹ÖµÄÊÇ£¬ÔÚºÃÀ³ÎëµÄË¼Î¬Àï£¬×ÜÍ³ÊÇÓÉ³ÌĞòÖÆ¶¨µÄ¶ø²»ÊÇÃñÑ¡µÄ£¬ÈËÃñËÆºõÒ²ÄÜµÃµ½ĞÒ¸£¡£70·Ö</p>
+
+<p>¡¡¡¡ÂÔÓĞÊ§Íû£¬Ã»ÓĞ¡¶µÚ¾ÅÇø¡·ºİ¡£µ¹ÊÇ¶Ô¡°¼«ÀÖ¿Õ¼ä¡±µÄÎïÀíºÍÉúÎïÑ§ºÜ¸ĞĞËÈ¤£¬ÈËÃÇÔõÃ´Éú»îÔÚÒ»¸ö´óÔ²ÅÌÉÏ¡£70·Ö</p>
+
+<p>¡¡¡¡Èç¹ûÖ»´ÓÉÌÒµÓéÀÖµÄ½Ç¶È¿´£¬Ó°Æ¬²»Ê§ÎªÒ»²¿ÉÍĞÄÔÃÄ¿µÄ¿Æ»ÃµçÓ°£¬ÌØĞ§¸ú¶¯×÷Ï·µÄ²¿·Ö¶¼ºÜ¾«²Ê£¬¼¸Î»ÑİÔ±Ò²ºÜÂôÁ¦µØÑİ³ö£¬µ«¾çÇéÂß¼­È±·¦±ØÒªµÄÆÌµæ¡¢ÆÌ³Â£¬¿ÉÏ§ÁËÕâÃ´°ôµÄ×éºÏ£¬Ã»ÄÜ²Á³ö¸üÁîÈË¾ªÑŞµÄ»ğ»¨¡£65·Ö</p>
+
+<p>¡¡¡¡ËäÈ»Ó°Æ¬±È¡¶µÚ¾ÅÇø¡·ÓĞÁË¸ü´óµÄ¿Æ»Ã¸ñ¾Ö£¬µ«²»Èç¡¶µÚ¾ÅÇø¡·´ø¸ø¹ÛÖÚµÄÉî¿Ì·´Ë¼£¬¶ø¸øÈËÒ»ÖÖÓĞÆøÎŞÁ¦Ö®¸Ğ¡£²»¹ı£¬Ó°Æ¬Ëù´«´ïµÄÎ´À´¾¯ÊÀÍ¼£¬»¹ÊÇ´øÀ´ÁËÒ»Ğ©·´Ë¼µÄ¿Õ¼ä¡£63·Ö ¡¡Ó°Æ¬ÓĞ×ÅÎ´À´ÊÀ½çµÄ¿Æ»Ã¸Ğ£¬È»¶øÔÚ¾çÇéÆÌ³ÂÉÏ£¬ËÆºõÃ»ÓĞ°ì·¨ÓĞĞ§µØÕÆÎÕÁ÷³©µÄ½Ú×à£¬ÔÙ¼ÓÉÏ¹ı¶àµÄ¾çÇé°²ÅÅ¶øÍÏ»ºÁË½Ú×à£¬Ò²Ê¹µÃÓ°Æ¬È±·¦Ò»ÆøºÇ³ÉµÄ¸Ğ¾õ¡£60·Ö</p>
+<!-- publish_helper_end -->
+
+			</div>
+      <script type="text/javascript">
+            //·ÖÏíµ½Î¢²© µ¥ÕÅÍ¼Æ¬·ÖÏí
+            jsLoader(ARTICLE_JSS.sinalib).
+            jsLoader(ARTICLE_JSS.shareOnWeibo,function(){
+              WeiboShare.config({
+                source: ARTICLE_DATA.source,
+                sourceUrl: ARTICLE_DATA.sourceUrl,
+                uid: ARTICLE_DATA.uid,
+                encoding: 'gb2312',
+                selectShare: false,
+                channelId:ARTICLE_DATA.channelId 
+                });
+                WeiboShare.init('#artibody');
+            });
+      </script> 
+			<!-- ÕıÎÄÄÚÈİ end -->
+
+			<!-- ÕıÎÄÒ³±êÇ© begin -->   
+
+			<div class="content_label_list" data-sudaclick="content_label_list">
+				±êÇ©£º <a href="http://search.sina.com.cn/?c=news&q=¡¶¼«ÀÖ¿Õ¼ä¡·&from=news_tag" target="_blank">¡¶¼«ÀÖ¿Õ¼ä¡·</a>  <a href="http://search.sina.com.cn/?c=news&q=¼«ÀÖ¿Õ¼ä&from=news_tag" target="_blank">¼«ÀÖ¿Õ¼ä</a>  <a href="http://search.sina.com.cn/?c=news&q=Æ¶Ãñ¿ß&from=news_tag" target="_blank">Æ¶Ãñ¿ß</a> 
+			</div>
+
+			<!-- ÕıÎÄÒ³±êÇ© end -->
+
+      <!-- ·ÖÏí¹¦ÄÜ begin -->
+	<div class="content_shareto clearfix">
+
+		<div id="sinashareto" style="height:60px; float:right;width:230px;">
+			<div style="line-height:22px; height:30px; text-align:right; padding-right:5px;" data-sudaclick="cmnt_num_02"><a href="#J_Comment_Wrap" rel="»¶Ó­·¢±íÆÀÂÛ" class="J_Comment_Count_Txt fgrey333" style="display:none;" action-type="anchorGo">»¶Ó­·¢±íÆÀÂÛ</a></div>
+			<div style="float:left;" data-sudaclick="weibo_share_03">
+				<span style="float:left;line-height:25px;padding-right:5px;">·ÖÏíµ½:</span>
+				<div class="bshare-custom icon-medium" style="float:left"><a title="·ÖÏíµ½ĞÂÀËÎ¢²©" class="bshare-sinaminiblog" href="javascript:void(0);"></a><a title="·ÖÏíµ½QQ¿Õ¼ä" class="bshare-qzone" href="javascript:void(0);"></a><a title="·ÖÏíµ½ÈËÈËÍø" class="bshare-renren" href="javascript:void(0);"></a><a title="·ÖÏíµ½ÌÚÑ¶Î¢²©" class="bshare-qqmb" href="javascript:void(0);"></a><a title="·ÖÏíµ½¶¹°ê" class="bshare-douban" href="javascript:void(0);"></a><a title="¸ü¶àÆ½Ì¨" class="bshare-more bshare-more-icon more-style-addthis"></a></div>
+				<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=bc3b1c41-57af-4bd5-89cd-76dd6e6ee75f&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+			</div>
+		</div>    
+		<script type="text/javascript">
+		bShare.addEntry({
+		title: '',
+		summary: document.getElementById('artibodyTitle').innerHTML.replace(/<[^<>]*?font[^<>]*?>/gi,"")
+		})
+		</script>
+		<!-- »®´Ê·ÖÏí -->
+
+		<script type="text/javascript">
+		(function(){
+			var user = sinaSSOController.get51UCCookie();
+			if(user){
+				document.write('<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/addons/bshareDrag.js?bp=sinaminiblog,qzone,qqmb,renren,kaixin001&text="></scr'+'ipt>');
+			};
+		})();
+		</script>
+	</div>
+
+      <!-- ·ÖÏí¹¦ÄÜ end --> 
+
+      </div>
+
+            <!-- Ïà¹Ø×¨Ìâ begin -->
+
+            <!-- Ïà¹Ø×¨Ìâ end -->
+
+			<!-- Ïà¹ØĞÂÎÅ begin -->
+
+            <!-- Ïà¹ØĞÂÎÅ end -->
+
+          <!-- ²ÂÄãÏ²»¶,¿´ÁË»¹¿´ begin -->
+		  <div class="content_line_02"></div>
+          <div class="guess-view-list clearfix">
+
+            <div id="gulpro" class="gulpro">
+              <div class="gulpro-line1">
+                <span class="gulpro-title">²ÂÄãÏ²»¶</span>
+        <span id="gulproRightArr" class="gulpro-rightarr" suda-uatrack="key=guess_v2&value=change" hidefocus></span>
+                <span class="gulpro-dot" id="gulproDot"></span>
+        <span id="gulproLeftArr" class="gulpro-leftarr" suda-uatrack="key=guess_v2&value=change" hidefocus></span>
+              </div>
+      <div class="gulpro-main" id="gulproMain" data-recommender="listlen=5&pagelen=4&itemlen=24&width=297"></div>
+              <div class="gulpro-login" id="gulproLogin">
+                ÇëÓÃ
+                <span class="gulpro-wbzh">Î¢²©ÕËºÅ</span>
+                <a href="#" class="gulpro-loginbtn" id="gulproLoginBtn" suda-uatrack="key=guess_v2&value=weibo">µÇÂ¼</a>
+                £¬ÍÆ¼öĞ§¹û¸üºÃ£¡
+              </div>
+            </div>
+
+            <div class="can_right" data-sudaclick="btm_xwsd" id="readAndRead">
+              <div class="ctit ctit_02">
+                <h2 class="new">¿´¹ı±¾ÎÄµÄÈË»¹¿´¹ı</h2>
+              </div>
+
+              <div class="cblk_01 guess_dw">
+                <div id="J_OtherViewList" class="news-list-a"  data-recommender="listlen=5&pagelen=1&itemlen=24&width=297" style="width:290px; height:135px;">
+
+                  <div class="guessulike-loading"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+  <script type="text/javascript" src="http://i3.sinaimg.cn/dy/deco/2013/0613/scrollpic.js"></script>
+          <script type="text/javascript" language="javascript">
+            // ¸öĞÔ»¯ÍÆ¼ö2.5 ×óÓÒ°´Å¥Ìí¼ÓsudaÍ³¼Æ
+            jsLoader(ARTICLE_JSS.guess, function() {
+              var Recommender = window.___SinaRecommender___;
+              if (typeof Recommender == 'undefined') {
+                return;
+              }
+              Recommender.article.render.init(false);
+            });
+            //ÓÃÓÚÔÚÃ»²¿ÊğseajsµÄÒ³Ãæ£¬Ê¹ÓÃseajs
+            //´«ÈëcbÎªcallback£¬´ú±íseajs¼ÓÔØÍê±Ï²¢configÍê±Ïºó£¬µ÷ÓÃ
+            (function(cb){
+                ;(function(m, o, d, u, l, a, r) {
+                  if(m[d]) {(typeof cb === 'function') && cb(); return}
+                  function f(n, t) { return function() { r.push(n, arguments); return t } }
+                  m[d] = a = { args: (r = []), config: f(0, a), use: f(1, a) }
+                  m.udvDefine = f(2)
+                  u = o.createElement('script')
+                  u.id = d + 'node'
+                  u.src = 'http://i2.sinaimg.cn/jslib/modules2/seajs/1.3.0/sea.js'
+                  l = o.getElementsByTagName('head')[0]
+                  a = o.getElementsByTagName('base')[0]
+                  a ? l.insertBefore(u, a) : l.appendChild(u)
+                })(window, document, 'seajs');
+
+      //config
+      seajs.use('http://news.sina.com.cn/js/modules2/config/lib/config.1.1.x.js?ver=1.2.7', function(){
+          (typeof cb === 'function') && cb();
+      });
+    })(function(){
+      //²ÂÄãÏ²»¶v2(collect)
+      seajs.use('product.guess2.collect');
+    });
+    </script>
+
+  <!-- ²ÂÄãÏ²»¶,¿´ÁË»¹¿´ end -->
+
+          <div class="content_line"></div> 
+
+            <div class="content_print">
+              <span class="fl"><a href="http://comment5.news.sina.com.cn/comment/skin/feedback.html?url=ent.sina.com.cn" target="_blank">Òâ¼û·´À¡</a> µç»°£º010-82612286</span><a class="savaPage_link" data-sudaclick="savePage" href="javascript:;" action-type="savePage">±£´æ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="printPage_link" data-sudaclick="printPage" href="javascript:;" onclick="return false;" action-type="printPage">´òÓ¡</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="closePage_link" data-sudaclick="closePage" href="javascript:;" action-type="closePage">¹Ø±Õ</a>
+            </div>
+
+         <div class="content_line"></div>
+
+        <!-- ÆäËûÏà¹ØĞÂÎÅÍ¼Æ¬Á´½Ó begin -->
+          <div class="blkContainerOther">
+            <!-- ¸ßÇåÍ¼¼¯ÍÆ¼ö begin -->
+             <iframe width="100%" height="182" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120921/hdphoto.html?from=ent"></iframe>
+            <!-- ¸ßÇåÍ¼¼¯ÍÆ¼ö end -->
+            <div class="content_line"></div>  
+            <!-- ÊÓÆµÍÆ¼ö begin -->
+           <iframe width="100%" height="164" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120921/video.html?from=ent"></iframe>
+            <!-- ÊÓÆµÍÆ¼ö end -->
+          </div>
+        <!-- ÆäËûÏà¹ØĞÂÎÅÍ¼Æ¬Á´½Ó end -->
+
+          <div class="content_line"></div>  
+        <!-- ÄÚÈİµ×²¿ËÑË÷ begin -->
+          <div class="blkContentSearch">
+             <div class="blkContentSearchCont" data-sudaclick="zw_bottom_search">
+        <script language="javascript" type="text/javascript">
+        <!--//--><![CDATA[//><!--
+        function SearchSubmit01(){
+            var key = document.SearchEcho01.SerchKey.value;
+            if(key == "ÇëÊä¹Ø¼ü´Ê" || key == "ÇëÊäÈë¹Ø¼ü×Ö"){key = ""};
+            switch(document.SearchEcho01.SerchType.value){
+                case "ĞÂÎÅ" :
+                    document.thform_02.q.value = key;
+                    document.thform_02.submit();
+                    break;
+                case "ÊÓÆµ" :
+                    document.thform_03.k.value = key;
+                    document.thform_03.submit();
+                    break;
+                case "Í¼Æ¬" :
+                    document.thform_05.q.value = key;
+                    document.thform_05.submit();
+                    break;
+                case "²©¿Í" :
+                    document.thform_08.q.value = key;
+                    document.thform_08.submit();
+                    break;
+                case "Î¢²©" :
+                    window.open('http://s.weibo.com/'+ (key?'weibo/' + key+'&Refer=sina_news':'') );
+                    break;
+                default : //ÍøÒ³
+                    document.thform_01.q.value = key;
+                    document.thform_01.channel.value = "contentsearch";
+                    document.thform_01.submit();
+            }
+            return false;
+        }
+        //--><!]]>
+        </script> 
+                <form name="SearchEcho01" onSubmit="return SearchSubmit01()">
+                  <select name="SerchType" id="slt_02">
+                    <option value="ĞÂÎÅ" selected="selected">ĞÂÎÅ</option>
+                    <option value="Í¼Æ¬">Í¼Æ¬</option>
+                    <option value="Î¢²©">Î¢²©</option>
+                    <option value="²©¿Í">²©¿Í</option>
+                    <option value="ÊÓÆµ">ÊÓÆµ</option>
+                  </select>
+
+				  <input type="text" onblur="if(this.value==''){this.value='ÇëÊäÈë¹Ø¼ü×Ö';this.className='inp_txt'}" onfocus="if(this.value=='ÇëÊäÈë¹Ø¼ü×Ö'){this.value='';this.className='inp_txt fblack'}" class="inp_txt" name="SerchKey" value="¡¶¼«ÀÖ¿Õ¼ä¡·" />
+
+                  <input type="submit" name="SearchSubButton" class="submit_second_btn" value="" onmouseover="this.className='submit_second_btn submit_second_btn_hover'" onmouseout="this.className='submit_second_btn'" />
+                </form>
+                <script type="text/javascript">new sim_select("slt_02");</script> 
+                <div style="display:none"> 
+
+                <!-- ĞÂÎÅ -->
+                <form name="thform_02" action="http://search.sina.com.cn/" method="get" target="_blank">
+                  <input type="hidden" name="range" value="all"/>
+                  <input type="hidden" name="c" value="news"/>
+                  <input type="hidden" name="q" value="" />
+                  <input  type="hidden" name="from" value="bottom"/>
+                </form>
+
+                <!-- ÊÓÆµ -->
+                <form action="http://search.video.sina.com.cn/search.php" name="thform_03" target="_blank">
+                  <input name="s" type="hidden" value="sup" />
+                  <input name="type" type="hidden" value="all" />
+                  <input type="hidden" name="k" value="" />
+                </form>
+
+                <!-- Í¼Æ¬ -->
+                <form action="http://search.sina.com.cn/" name="thform_05" target="_blank">
+                  <input type="hidden" name="q" value="" />
+                  <input type="hidden" name="c" value="img" />
+                  <input  type="hidden" name="from" value="bottom"/>
+                </form>
+
+                <!-- ²©¿Í -->
+                <form action="http://search.sina.com.cn/" name="thform_08" target="_blank">
+                  <input type="hidden" name="c" value="blog" />
+                  <input type="hidden" name="from" value="bottom" />
+                  <input type="hidden" name="q" value="" />
+                </form>
+                </div>
+          </div>
+<div class="blkContentSearchLink">
+              <a href="http://ent.sina.cn/" target="_blank" class="icon sina_mobile" data-sudaclick="to_wap">ÊÖ»úĞÂÀËÓéÀÖ</a> | <a href="http://club.ent.sina.com.cn/" target="_blank" class="icon sina_bbs" data-sudaclick="to_bbs">ĞÂÀËÓéÀÖÂÛÌ³</a>
+             </div>
+           </div>
+        <!-- ÄÚÈİµ×²¿ËÑË÷ end -->
+         </div>
+        <div class="sp15"></div>
+        <!-- ÕıÎÄ¿é end -->
+
+        <!-- ÆÀÂÛÈë¿Ú begin -->
+<div id="J_Comment_Wrap" class="blkContainerCommentblk" style="display:none;" data-sudaclick="cmnt_box_01">
+        </div>
+        <!-- ÆÀÂÛÈë¿Ú end-->
+
+<!-- taobaoAD -->
+<div class="Ad_03">
+<div class="sp15"></div>
+
+<script charset="gbk" src="http://pfp.sina.com.cn/js/17/2013/0621/tb/59.js"></script>
 
 </div>
-</amp-lightbox>
+<!-- taobaoAD -->
 
+		<div class="sp5"></div>
+		<!-- ÈÈµãÉÌÑ¶ begin -->
+		<div class="Ad_02 adNone" id="PublicRelation5">
+			<script type="text/javascript" src="http://d3.sina.com.cn/iframe/14/2011/0301/zhongshizhengwenye.js"></script>
+		</div>
+		<style type="text/css">
+		#PublicRelation5 {height:177px; display:block;}
+		#PublicRelation5 .Mblk_03 .newAddBlk .list_009_f14{padding-left:10px;}
+		#PublicRelation5 .Mblk_03{float:left;}
+		#PublicRelation5 .adNode{border:1px solid #E5E5E5; width:316px; margin-top:15px; height:190px;}
+		#PublicRelation5 .M_Menu_01 .newAddtit2 {padding-top:4px;float:right;padding-right:10px;}
+		#PublicRelation5 .M_Menu_01 .selected{border-right:1px solid #E5E5E5; padding-right:10px;}
+		#PublicRelation5 .Mblk_03 .newAddBlk li { background: url("http://i0.sinaimg.cn/ent/deco/2012/0907/content/ent_zxh_0816_01v3.png") no-repeat scroll -47px -92px transparent; padding-left: 13px; height: 22px; line-height: 22px;}
+		#PublicRelation5 .Mblk_03 .newAddBlk2{border-top:1px dotted #ccc; margin-top:3px;}
+		#PublicRelation5 .Mblk_03 .conBlk{border-bottom:1px solid #fff; padding-top:10px;}
+		#PublicRelation5 .Mblk_03 .newAddBlk .zypicBlk{padding-top:2px;padding-bottom:0px;}
+		#PublicRelation6{text-align:left;}
+		</style>
+		<!-- ÈÈµãÉÌÑ¶ end -->
 
+        <!-- Í¼ÁåÏÂÔØ¡¢ĞÂÀË¹«Òæ¡¢»¥¶¯»î¶¯¡¢ÈÈµãÍÆ¼ö begin -->
+		<style type="text/css">
+		.ad_cont_03{padding-left:13px!important;}
+		#ccont04 .clist li{width:296px;} /* »¥¶¯»î¶¯ li¿í¶È±ÈÆäËû¼¸¸öÒª¿í */
+		</style>
+        <div class="ad_content ad_06 adNone" id="PublicRelation6">
+            <div class="cmenu01">
+              <span id="cbtn01">Ó¦ÓÃÖĞĞÄ</span>
+              <span id="cbtn02">ĞÂÀË¹«Òæ</span>
+              <span id="cbtn03">ĞÂÀËÓÎÏ·</span>
+              <span id="cbtn04">»¥¶¯»î¶¯</span>
+              <span id="cbtn05">ÈÈµãÍÆ¼ö</span>
+            </div>
+            <div class="ad_cont_03">
+<!-- Í¼ÁåÏÂÔØ¡¢ĞÂÀË¹«Òæ¡¢ĞÂÀËÓÎÏ· begin -->
+<div id="ccont01">
+	<ul class="clist cpot clearfix">
+	<!-- µÚÒ»ĞĞ Ó¦ÓÃ -->
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=136897&f=p_wenjiao&w=p_wenjiao" target="_blank">ÄÖÖÓÈç´ËÓĞÈ¤£ºÖÇÄÜÄÖÖÓ</a> </li> 
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=93423&f=p_wenjiao&w=p_wenjiao" target="_blank">ÒıÁì×îINÍæ·¨£ºÃÀÍ¼ĞãĞã</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=109599&f=p_wenjiao&w=p_wenjiao" target="_blank">Ïë¿´Ê²Ã´¾Í¿´Ê²Ã´£º¿ì²¥</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=93479&f=p_wenjiao&w=p_wenjiao" target="_blank">¸ø°®ÂÃĞĞµÄÄã£ºÂÃÓÎ¹¥ÂÔ</a></li>
+<!-- µÚ¶şĞĞ ÓÎÏ· -->
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=1137680&f=p_wenjiao&w=p_wenjiao" target="_blank">ÉñÃØ¶øÎ¨ÃÀ£ºÍ½²½ÂÃĞĞ</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=1137714&f=p_wenjiao&w=p_wenjiao" target="_blank">°²×¿¶ËµÄcoc£º¿Ú´ü±¤Àİ</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=145946&f=p_wenjiao&w=p_wenjiao" target="_blank">»ªÀöÄ§·¨Õ½Õù£ºÅ®Î×Ö®Õ½</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=142292&f=p_wenjiao&w=p_wenjiao" target="_blank">¹öÇò±Ç×æ£ºÃÔ¹¬¹öÇò2</a></li>
+<!-- µÚÈıĞĞ Ó¦ÓÃ -->
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=109913&f=p_wenjiao&w=p_wenjiao" target="_blank">¸ßÇåMVÊÓ¾õÊ¢Ñç£ºÒôÔÃÌ¨</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=592303&f=p_wenjiao&w=p_wenjiao" target="_blank">ÇáËÉÕÒÎ»²»ÓÃµÈ£ºÕÒ×ùÎ»</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=84581&f=p_wenjiao&w=p_wenjiao" target="_blank">ÃâÊÖĞø·Ñ£ºÖ§¸¶±¦Ç®°ü</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=149543&f=p_wenjiao&w=p_wenjiao" target="_blank">¶Ñ³öÄãµÄÃÀºÃÉú»î£º¶ÑÌÇ</a></li>
+<!-- µÚËÄĞĞ ÓÎÏ· -->
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=1124641&f=p_wenjiao&w=p_wenjiao" target="_blank">»¯ÉíÎªÃÍ»¢£ºÎ£ÏÕÍ»»÷</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=1110445&f=p_wenjiao&w=p_wenjiao" target="_blank">¿´±³Ó°²Â²Â²Â£ºÎÒÊÇË­</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=1098799&f=p_wenjiao&w=p_wenjiao" target="_blank">ÔÚºÚÒ¹ÖĞÇ°ĞĞ£ººÚ°µµÀÂ·</a></li>
+<li><a href="http://app.sina.com.cn/appdetail.php?appID=1118776&f=p_wenjiao&w=p_wenjiao" target="_blank">ÈÃÈË³Á×í£ºÌÇ¹û´ò×©¿é</a></li>
+	</ul>
+</div>
 
+<div id="ccont02">
+	<ul class="clist cpot clearfix">
+	<li><a href="http://gongyi.sina.com.cn/2013kljz.html" target="_blank">Àî½õ¼Ç¡°Ï£Íû³øÊ¦¡±±¨ÃûÖĞ</a></li>
+<li><a href="http://gongyi.sina.com.cn/z/2013yfjhhf/index.shtml" target="_blank">2013¾èÒ»Ôª°®ĞÄËÍÓªÑø</a></li>
+<li><a href="http://gongyi.sina.com.cn/z/yfjh2013yxhd/index.shtml" target="_blank">´«³ĞµÄ¼ÒÎ¶¶ù°ÙÇ¿Í¶Æ±</a></li>
+<li><a href="http://gongyi.sina.com.cn/z/slfchina/index.shtml" target="_blank">Ë®Á¢·½ÖĞ¹ú¹«ÒæÆ½Ì¨</a></li>
+<li><a href="http://gongyi.sina.com.cn/z/2013aafpost/index.shtml" target="_blank">¹«Òæ¹ã¸æÉè¼Æ´óÈüÍ¶Æ±</a></li>
+<li><a href="http://gongyi.sina.com.cn/z/youjiangdiaocha/index.shtml" target="_blank">²ÎÓëÓĞ½±µ÷²éÓ®ipadmini</a></li>
+<li><a href="http://gongyi.weibo.com/141391" target="_blank">ÎªÌ«Ñô´å°ÙÃû¹Â¶ùÔ²ÃÎ</a></li>
+<li><a href="http://gongyi.weibo.com/141230" target="_blank">¾èÔùÍ¼ÊéÇéÅ¯ËÄ´¨Á¹É½</a></li>
+<li><a href="http://gongyi.sina.com.cn/project/82.html" target="_blank">Æ¶À§¶ùÍ¯Í¼ÊéÆ¯Á÷ÏäÏîÄ¿</a></li>
+<li><a href="http://gongyi.sina.com.cn/project/62.html" target="_blank">¸£ÌØÆû³µ»·±£½±</a></li>
+<li><a href="http://gongyi.sina.com.cn/project/70.html" target="_blank">Å®Í¯È¨Òæ±£»¤È«ÇòĞĞ¶¯</a></li>
+<li><a href="http://gongyi.sina.com.cn/project/77.html" target="_blank">±¼³Û×ÔÈ»±£»¤ÏîÄ¿</a></li>
+<li><a href="http://gongyi.sina.com.cn/project/69.html" target="_blank">¼ÑÄÜÏ£ÍûĞ¡Ñ§É«²Ê½ÌÊÒ</a></li>
+<li><a href="http://gongyi.sina.com.cn/project/81.html" target="_blank">¿¨·òÏ£Íû³ø·¿</a></li>
+<li><a href="http://gongyi.sina.com.cn/project/66.html" target="_blank">¸¾»ù»áÄ¸Ç×°üÓÊ»î¶¯</a></li>
+<li><a href="http://auto.sina.com.cn/frankfurt/ 
+" target="_blank">2013·¨À¼¿Ë¸£³µÕ¹</a></li>
+	</ul>
+</div>
 
-</body></html>
+<div id="ccont03">
+	<ul class="clist cpot clearfix">
+	<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/4181/id/10032"
+target="_blank">¡¶ĞĞĞÇ±ß¼Ê2¡·ĞÂÀËÌØÈ¨Àñ°ü</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/5394/id/9863"
+target="_blank">¡¶»­Æ¤ÊÀ½ç¡·ĞÂÀËÀñ°ü</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/6340/id/9866"
+target="_blank">¡¶ÍÇ·ÏÖ®ĞÄ¡·ÌØÈ¨ÁìĞäÀñ°ü</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/609/id/9766"
+target="_blank">¡¶Ğ¦°Á½­ºş¡·ĞÂÀË²»°ÜÀñ°ü</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/106/id/9871"
+target="_blank">¡¶ÃÎ»ÃÎ÷ÓÎ2¡·×¨ÊôÌØÈ¨¿¨</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/6002/id/8953"
+target="_blank">¡¶ÎÊµÀ¡·½ğÉß¿ñÎèÀñ°ü</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/623/id/8742"
+target="_blank">¡¶Çç¿ÕÎïÓï¡·ÊîÆÚ¶¯Ô±¿¨</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/6626/id/9859"
+target="_blank">¡¶ÂåÉñ¡·¼¼Êõ²âÊÔÂë</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/6038/id/6570"
+target="_blank">¡¶Dota2¡·¹ú·şÊ×²âÂë</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/1640/id/9327"
+target="_blank">¡¶ÉñÎä¡·ĞÂÀËÌØÈ¨Àñ°ü</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/3760/id/8540"
+target="_blank">¡¶¶«·½¹ÊÊÂ¡·ĞŞÏÉÌØÈ¨¿¨</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/gameInfo/gid/5317/id/9971"
+target="_blank">¡¶ÁúÃÅ¿ÍÕ»¡·ĞÂÀËÌØÈ¨¿¨</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/search/gcty/6"
+target="_blank">½ÇÉ«°çÑİÀàĞÂÊÖ¿¨</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/search/gcty/8"
+target="_blank">Éä»÷ÀàÓÎÏ·ĞÂÊÖ¿¨</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/search/gcty/7"
+target="_blank">¶¯×÷ÀàÓÎÏ·ĞÂÊÖ¿¨</a></li>
+<li><a href="http://ka.sina.com.cn/index.php/index/search/gcty/10" target="_blank">²ßÂÔÀàÓÎÏ·ĞÂÊÖ¿¨</a></li>
+	</ul>
+</div>
+<!-- Í¼ÁåÏÂÔØ¡¢ĞÂÀË¹«Òæ¡¢ĞÂÀËÓÎÏ· end -->
+				<div id="ccont04">
+					<ul class="clist cpot clearfix">
+
+	<li><a href="http://gongyi.weibo.com/100172/?=spr_wbmkt_sina_ent_luruoqing_t2001" target="_blank" color="red">°®ĞÄ´«µİ£¬ÎÂÅ¯°×Ñª²¡Å®º¢@Â³ÈôÇç</a></li>
+
+	<li><a href="http://kandian.com/" target="_blank">Î¢²©Ê±´úÍÂ²ÛÀûÆ÷ ²»Íæ¿´µãÄã¾ÍOUTÁË</a></li>
+
+	<li><a href="http://desktop.weibo.com/" target="_blank">ºÃÓÑ»¥¶¯£¬ÎÄ¼ş´«Êä£¬¿ìÓÃÎ¢²©×ÀÃæ£¡</a> </li>
+
+	<li ><a href="http://huati.weibo.com/z/weigongyirexinren/?c=spr_wbmkt_sina_news_ weigongyirexinrener_t2001" target="_blank">Î¢¹«Òæ°®ĞÄÍÅÃûµ¥¹«²¼£¡
+</a></li>
+
+	<li><a href="http://a.weibo.com/reg/reg_guide.php?lang=zh-cn/?c=Spr_wbmkt_sina_news_qyweibotuiguang1_t2001" target="_blank">×¢²áÆóÒµÎ¢²©¿ìËÙÍ¨µÀ 3²½Ö±ÃæÄ¿±êÓÃ»§</a></li>
+
+	<li><a href="http://place.weibo.com/z/2012dengchuan" target="_blank">Ç©µ½2012µÇ´¬¼¯½áµã °ÙÌìµ¹¼ÆÊ±¿ªÆô</a></li>
+
+					</ul>
+				</div>
+				<div id="ccont05">
+					<ul class="clist cpot clearfix">
+
+      <li><a href="http://finance.sina.com.cn/stock/?c=spr_web_sina_zhengwen_fin_t001" target="_blank" color="red">[²Æ¾­]¹ÉÊĞĞĞÇé²éÑ¯</a></li>
+
+      <li><a href="http://finance.sina.com.cn/calc/?c=spr_web_sina_zhengwen_fin_t002" target="_blank">[²Æ¾­]Àí²Æ¼ÆËãÆ÷</a></li>
+
+      <li><a href="http://digi.sina.com.cn?c=spr_web_sina_zhengwen_tech_t001" target="_blank">[¿Æ¼¼]ÊıÂë²úÆ·¿â</a></li>
+
+      <li><a href="http://video.sina.com.cn/movie/?c=spr_web_sina_zhengwen_video_t001" target="_blank">[ÊÓÆµ]×îÈÈÓ°ÊÓ´óÆ¬</a></li>
+
+      <li><a href="http://travel.sina.com.cn/places/?c=spr_web_sina_zhengwen_travel_t001" target="_blank">[ÂÃÓÎ]¹úÄÚÍâ¾°µã²éÑ¯</a></li>
+
+      <li><a href="http://baby.sina.com.cn/tools/?c=spr_web_sina_zhengwen_baby_t001" target="_blank">[Óı¶ù]Óı¶ùÊµÓÃ¹¤¾ß¿â</a></li>
+
+      <li><a href="http://data.auto.sina.com.cn/?c=spr_web_sina_zhengwen_auto_t001" target="_blank">[Æû³µ]³µĞÍ²éÑ¯</a></li>
+
+      <li><a href="http://eladies.sina.com.cn/beauty/chanpinku/?c=spr_web_sina_zhengwen_lady_t001" target="_blank">[Å®ĞÔ]»¯×±Æ·²úÆ·¿â</a></li>
+
+      <li><a href="http://astro.sina.com.cn/luck/?c=spr_web_sina_zhengwen_astro_t001" target="_blank">[ĞÇ×ù]ĞÇ×ùÔËÊÆ²éÑ¯</a></li>
+
+      <li><a href="http://yingxun.ent.sina.com.cn/?c=spr_web_sina_zhengwen_ent_t001" target="_blank">[ÓéÀÖ]Ó°Ñ¶²éÑ¯</a></li>
+
+      <li><a href="http://tvguide.ent.sina.com.cn/channel/1/cctv1/wed.html?c=spr_web_sina_zhengwen_ent_t002" target="_blank">[ÓéÀÖ]µçÊÓ½ÚÄ¿±í</a></li>
+
+      <li><a href="http://edu.sina.com.cn/college/?c=spr_web_sina_zhengwen_edu_t001" target="_blank">[½ÌÓı]´óÑ§ÔºĞ£²éÑ¯</a></li>
+
+					</ul>
+				</div>
+            </div>
+            <script type="text/javascript" language="javascript">
+              jsLoader(ARTICLE_JSS.subshow,function(){
+                   var SubShow_cmenu01_01 = new SubShowClass("none","onmouseover");
+                   for(var i=1;i<6;i++)SubShow_cmenu01_01.addLabel("cbtn0"+i,"ccont0"+i);
+              });
+          </script>
+        </div>
+        <!-- Í¼ÁåÏÂÔØ¡¢ĞÂÀË¹«Òæ¡¢»¥¶¯»î¶¯¡¢ÈÈµãÍÆ¼ö end -->
+
+		<!--¾¹¼Û¿ªÊ¼-->
+<style type="text/css">
+.M_Menu_01 .selected {color: #010101; font-family: "Î¢ÈíÑÅºÚ"; font-size: 14px; height: 32px; line-height: 32px; padding-left: 14px; float:left;}
+.newAddtit2 {float:left; line-height:32px; padding-left:20px; color:#626262;}
+.conBlk {border-bottom:1px dotted #CCCCCC; border-top:1px dotted #CCCCCC;}
+.qyfwBlk .zyconBlk{width:300px;}
+.color666 a,.botSxBlk li a,.botSxBlk li { color: #666666!important; }
+.color666 a:hover,.botSxBlk li a:hover{color:#CC0000!important;}
+.botSxBlk {padding-left:20px;}
+.botSxBlk li{width:150px!important; display:inline;padding-left:2px;float:left;}
+.qyfwBlk .conBlk li {}
+.qyfwBlk .zyconBlk {padding-left:11px!important;}
+#PublicRelation7 .M_Menu_01 .newAddtit2 {line-height:32px;}
+</style>
+
+<div class="ad_content ad_07 adNone" id="PublicRelation7">
+<!--ÆóÒµ·şÎñ beign-->
+<script language="javascript" type="text/javascript" src="http://pfp.sina.com.cn/iframe/14/2011/0517/47zhongshiwangmeng.js"></script>
+<!--ÆóÒµ·şÎñ end-->
+	<div class="botSxBlk">
+		<ul>
+			<li>¡¤<!--ADS:begin=PDPS000000004395:{B1E2617B-634E-4C00-843F-10C63241D3DB}--><a href=http://city.finance.sina.com.cn/city/wlmp.html target=_blank>³ÇÊĞÈÈµã½ÚÇì»î¶¯</a><!--nwy/net/A--> 
+
+<!--ADS:end--></li>
+			<li>¡¤<!--ADS:begin=PDPS000000004396:{61656FAF-3FCE-480F-B59C-A9E6F62C1D15}--><a href=http://city.finance.sina.com.cn/city/dhcs.html target=_blank>ĞÂÀË¡¶¶Ô»°³ÇÊĞ¡·</a><!--nwy/net/A--> 
+
+<!--ADS:end--></li>
+			<li>¡¤<!--ADS:begin=PDPS000000004397:{7D0CAE62-0F2A-47E8-BA0B-9AFE528E0032}--><a href=http://mail.sina.net/daili/daili.htm target=_blank>³ÏÕĞºÏ×÷»ï°é</a><!--nwy/net/A-->
+
+<!--ADS:end--></li>
+			<li>¡¤<!--ADS:begin=PDPS000000004398:{56DFCDD8-ED8A-479A-B44C-AA24C0D7DABA}--><a href="http://www.sinanet.com" target="_blank">ĞÂÆóÓÊÉÏÏß¸üÓÅ»İ</a><!--ae/net/A-->
+
+<!--ADS:end--></li>
+		</ul>
+	</div>
+</div>
+		<!--¾¹¼Û½áÊø-->
+
+	</div>
+    <!--  ÄÚÈİÁĞ end -->
+
+    <!--  ²à±ßÀ¸ begin -->
+	<div class="sidebar">
+	<!--  Í·ÌõÍÆ¼ö begin -->
+    <div class="">
+    <div class="bc">
+      <div id="cc_cont02" class="cc_cont01_g2" >
+           <iframe src="http://eladies.sina.com.cn/iframe/471/20121108/9.html?from=ent" width="298" height="200" scrolling="no" allowtransparency="true" frameborder="0"></iframe>
+
+        </div>
+    </div>
+</div>
+    <!--  Í·ÌõÍÆ¼ö end -->
+    <div class="sp15"></div>
+
+<!-- ÕıÎÄÒ³×óÏÂ»­ÖĞ»­¹ã¸æ begin -->
+<script language="javascript" type="text/javascript" src="http://d2.sina.com.cn/d1images/button/rotator.js"></script>
+<script type="text/javascript">
+  (function(){
+    var adScript = document.createElement('script');
+    adScript.src = 'http://ent.sina.com.cn/js/66/205.js';
+    document.getElementsByTagName('head')[0].appendChild(adScript);
+  })();
+</script>
+<!-- ÕıÎÄÒ³×óÏÂ»­ÖĞ»­¹ã¸æ end -->
+
+    <!--  »­ÖĞ»­00 begin -->
+    <div class="ad_05 adNone" id="PublicRelation3"><script type="text/javascript" src="http://pfp.sina.com.cn/js/17/20120926/ent00_300x500.js"></script></div>
+    <!--  »­ÖĞ»­00 end -->
+
+    <!--  ĞÂÎÅÅÅÃû/°ËØÔtop10 begin -->
+    <iframe width="300" height="300" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120921/4.html?from=ent"></iframe>
+    <!--  ĞÂÎÅÅÅÃû/°ËØÔtop10 end -->
+
+    <div class="sp15"></div>
+    <!--  »­ÖĞ»­01 begin -->
+    <div class="ad_05 adNone" id="PublicRelation4">
+			<iframe id="pip01" frameborder="0" height="250" width="300" marginheight="0" marginwidth="0" scrolling="no" src="http://pfp.sina.com.cn/iframe/ent/2007-03-09/152614.html"></iframe>
+	</div>
+    <!--  »­ÖĞ»­01 end -->
+
+    <div class="sp15"></div>
+
+<!-- taobaoAD -->
+<div class="ad_05">
+
+<script charset="gbk" src="http://pfp.sina.com.cn/js/17/2013/0621/tb/58.js"></script>
+
+<div class="sp15"></div>
+
+</div>
+<!-- taobaoAD -->
+
+	<!--  ÖÇÍ¶ÎÄ×Ö begin -->
+	 <style type="text/css">
+	 .blk_02 {border: 1px solid #E5E5E5;overflow: hidden;width: 295px; padding-left:3px;}
+	 .RtTxtAD {border: 1px solid #E5E5E5;overflow: hidden;width: 295px; padding-left:3px;}
+	 .RtTxtAD a:link{color:#666666!important;}
+	 </style>
+	<!-- <div class="adNone" id="PublicRelation8">
+		<div id="ghc2" align="center" class="blk_02"> </div>
+	</div>
+        <div class="sp15"></div> -->
+    <!--   ÖÇÍ¶ÎÄ×Ö end -->
+
+    <!--  ÊÓÆµ begin -->
+    <iframe width="300" height="253" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120921/5.html?from=ent"></iframe>
+    <!--  ÊÓÆµ end -->
+
+    <div class="sp15"></div>
+    <!--  ÖĞÒ½ÉÌÑ¶ begin -->
+	<div class="adNone" id="PublicRelation9">
+    <iframe width="300" height="140" frameborder="0" scrolling="no" src="http://pfp.sina.com.cn/iframe/no/2012-09-23/1540147.html"></iframe>
+	</div>
+    <!--  ÖĞÒ½ÉÌÑ¶ end -->
+
+    <div class="sp15"></div>
+    <!--  ÈÈµã×¨Ìâ begin -->
+    <iframe width="300" height="150" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120921/6.html?from=ent"></iframe>
+    <!--  ÈÈµã×¨Ìâ end -->
+
+    <div class="sp15"></div>
+    <!--  ÈÈµãÎ¢²© begin -->
+    <iframe width="300" height="315" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120921/7.html?from=ent"></iframe>
+    <!--  ÈÈµãÎ¢²© end -->
+
+    <div class="sp15"></div>
+    <!--  ¾«²ÊÍ¼Æ¬ begin -->
+    <iframe width="331" height="100" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120921/8.html?from=ent"></iframe>
+    <!--  ¾«²ÊÍ¼Æ¬ end -->
+
+    <div class="sp15"></div>
+    <!--  ÌÔ±¦ begin -->
+	<div class="adNone" id="PublicRelation10">
+	<script src="http://d5.sina.com.cn/litong/xianwei/taobao0827.js"></script>
+	</div>
+	<!-- ÌÔ±¦ end -->
+
+    <div class="sp15"></div>
+    <!--  ÈÈµã´óÆ¬ begin -->
+    <iframe width="300" height="300" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120922/9.html?from=ent"></iframe>
+    <!--  ÈÈµã´óÆ¬ end -->
+
+<!-- SEO_iframeÄÚÈİÇ¶Èë begin -->
+<div style="display:none; width:0px; height:0px; overflow:hidden;">
+<ul class="cc_list_01" id="hd_commend_01">
+  <li>¡¾<a href="http://news.sina.com.cn/" onclick="try{if(window._S_uaTrack){_S_uaTrack('enttoprecomm', 'click1');}}catch(e){}" target="_blank">ĞÂÎÅ</a>¡¿<a href="http://news.sina.com.cn/c/2013-09-10/023928173988.shtml" onclick="try{if(window._S_uaTrack){_S_uaTrack('enttoprecomm', 'click1');}}catch(e){}" target="_blank">×î¸ß·¨:ÊµÖ¤È·¶¨·Ì°ùĞÅÏ¢×ª500´ÎÅĞĞÌ</a></li>
+  <li>¡¾<a href="http://sports.sina.com.cn/" onclick="try{if(window._S_uaTrack){_S_uaTrack('enttoprecomm', 'click2');}}catch(e){}" target="_blank">ÌåÓı</a>¡¿<a href="http://sports.sina.com.cn/z/12thquanyun/" onclick="try{if(window._S_uaTrack){_S_uaTrack('enttoprecomm', 'click2');}}catch(e){}" target="_blank">È«ÔË-²ÌÚS²»Âú¶ÓÓÑÒ»ÈÕÈıÈüË¤ÅÄÀë³¡</a></li>
+  <li> ¡¾<a href="http://ent.sina.com.cn/" onclick="try{if(window._S_uaTrack){_S_uaTrack('enttoprecomm', 'click3');}}catch(e){}" target="_blank">ÓéÀÖ</a>¡¿<a href="http://ent.sina.com.cn/gossip/" onclick="try{if(window._S_uaTrack){_S_uaTrack('enttoprecomm', 'click3');}}catch(e){}" target="_blank">ÕÅ°ØÖ¥ÒÉ±¨¸´·æÑ¸Áµ</a> <a href="http://ent.sina.com.cn/s/h/2013-09-10/09104005407.shtml" onclick="try{if(window._S_uaTrack){_S_uaTrack('enttoprecomm', 'click3');}}catch(e){}" target="_blank">Ã¿ÔÂË÷¾Ş¶îÉú»î·Ñ</a></li> </ul>
+</div>
+
+<div style="display:none; width:0px; height:0px; overflow:hidden;">
+<div class="blk_01" id="top_news_02">
+  <div class="bc">
+    <div class="menu01"><span id="btn01"><i class="imgTitle imgT03">ĞÂÎÅÅÅĞĞ</i></span> <span id="btn02"><i class="imgTitle imgT03">°ËØÔTOP10</i></span> </div>
+    <div class="cont02" id="cont01">
+      <ul class="list list_02">
+        <li><a href="http://ent.sina.com.cn/s/m/w/2013-09-10/00284005251.shtml" target="_blank">ÕÅÜ°Óè³ÆÓëÀî³¿ºÍÆ½·ÖÊÖ ·ñÈÏÓĞµÚÈıÕß</a></li>
+        <li><a href="http://ent.sina.com.cn/s/m/2013-09-10/05434005321.shtml" target="_blank">¸÷·½»ØÓ¦ÎÄÕÂË£´óÅÆ ÉÂÎ÷ÎÀÊÓ:²»ÊÇÎÒºÚµÄ</a></li>
+        <li><a href="http://ent.sina.com.cn/s/h/w/2013-09-09/22344005235.shtml" target="_blank">Îâ¾ıÈç»ØÓ¦³Â¿ÉĞÁ¹ëÃÛ·ç²¨:ĞÄºÍÇ®¹éme</a></li>
+        <li><a href="http://ent.sina.com.cn/s/m/w/2013-09-09/23264005246.shtml" target="_blank">Ğ»ÄÈ½«Ç×¸°¹«°²»ú¹Ø±¨°¸ ÒÉÊÜÒ¥ÑÔÀ§ÈÅ</a></li>
+        <li><a href="http://ent.sina.com.cn/s/m/w/2013-09-10/00144005250.shtml" target="_blank">»ôË¼ÑàÔ¤²úÆÚ½«ÖÁ Í¦´ó¶ÇÏíÊÜÃÀÊ³(Í¼)</a></li>
+        <li><a href="http://ent.sina.com.cn/v/m/2013-09-10/02304005277.shtml" target="_blank">ËïÙ³£ºÎÒ×ÜÓĞÒ»¸ö½ÇÉ«»á³¬Ô½Õç‹Ö</a></li>
+        <li><a href="http://ent.sina.com.cn/y/2013-09-10/03294005294.shtml" target="_blank">µËÀö¾ı¡°¸´»î¡±210Ãë Ä»ºóÍÅ¶Ó´ó½ÒÃØ</a></li>
+        <li><a href="http://ent.sina.com.cn/s/h/w/2013-09-09/21464005228.shtml" target="_blank">ºÀÃÅ¸»ÉÙÌÀçìîñÎ¢²©ÒıÀ´¡°ÉÙÄÌÄÌ¡±</a></li>
+        <li><a href="http://ent.sina.com.cn/r/m/2013-09-09/20434005219.shtml" target="_blank">Ã½ÌåÆÀÀîÌìÒ»°¸£ºÓ¦±£»¤¡°»µÈË¡±µÄÈ¨Àû</a></li>
+        <li><a href="http://ent.sina.com.cn/s/m/2013-09-09/18234005203.shtml" target="_blank">»ô½¨»ª·½»ØÓ¦ÕÅÜ°ÓèÅüÍÈ´«ÎÅ£ºµ±È»²»ÊÇ</a></li> </ul> </div>
+    <div class="cont02" id="cont02">
+      <ul class="list list_02">
+        <li><a href="http://blog.sina.com.cn/s/blog_701ebbb70101fpdr.html?tj=ent" target="_blank">ÅÌµãÓéÀÖÈ¦¸ßµ÷ĞãÓÑÇéÖÕÄÖêşµÄÃ÷ĞÇÃÇ</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_dcf2f37b0101fdwb.html?tj=ent" target="_blank">ÅÌµãÎŞ¾åºÍÃÍÄĞÅÄ¼¤ÇéÏ·µÄÊ®´óÅ®ĞÇ(Í¼)</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_b2f474c40101p5st.html?tj=ent" target="_blank">ÅÌµãÇé¸ĞÊÜ´ìÎŞ´¦ĞûĞ¹µÄÊ®´óÃ÷ĞÇ(Í¼)</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_605d0abe0101agkt.html?tj=ent" target="_blank">ÅÌµãĞÂ»éÒ¹¶´·¿Òò¹ÊÊÜ×èµÄÊ®´óÃ÷ĞÇ(Í¼)</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_50861ae80102e9yy.html?tj=ent" target="_blank">½Ò¹úÄÚ10´ó»¨µ©Å®ĞÇÉñÃØ¼ÒÍ¥±³¾°(Í¼)</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_c14db09a0101i8fr.html?tj=ent" target="_blank">ÎäÏÀ¾çÖĞÊ®´óÎŞ·¨³¬Ô½µÄ´óÏÀÈËÎï(Í¼)</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_3d98fb7b0102edjd.html?tj=ent" target="_blank">º«ºìÁìÏÎ¾ÆÁ¿´óµ½¾ª´ôÄĞÈËµÄ10´óÅ®ĞÇ</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_6aa3dd610101d0zw.html?tj=ent" target="_blank">ÅÌµã¶¯ÂşÀï¿´Ò»´Î¿ŞÒ»´ÎµÄÅ°ĞÄ³¡¾°(Í¼)</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_7964e4ec0101pjui.html?tj=ent" target="_blank">ÅÌµã±»¾­¼ÍºÏÔ¼×è°­ĞÇÍ¾µÄ10´óÃ÷ĞÇ(Í¼)</a></li>
+        <li><a href="http://blog.sina.com.cn/s/blog_7964e4ec0101pju0.html?tj=ent" target="_blank">´ÓÓéÀÖÈ¦Ã÷ĞÇÂÙÎªÂ·ÈËµÄ10´óÃ÷ĞÇ(Í¼)</a></li> </ul> </div> </div> </div>
+</div>
+
+<div style="display:none; width:0px; height:0px; overflow:hidden;">
+<div class="blk_01" id="top_video_03">
+  <div class="bc">
+    <div class="menu01"><span id="btn01"><i class="imgTitle imgT05">ÓéÀÖÊÓÆµ</i></span> <span id="btn02"><i class="imgTitle imgT06">È«²¿ÊÓÆµ</i></span> <span class="more"><a href="http://v.sina.com.cn/v/z/hotvideo/index.html" target="_blank">×ÜÅÅĞĞ&gt;&gt;</a></span> </div>
+    <div class="cont02" id="cont01">
+      <ul class="list list_02">
+        <li><a class="videoNewsLeft" href="http://video.sina.com.cn/p/ent/s/h/2013-09-02/101362862557.html" target="_blank">Ö±²¥½ÚÄ¿Å®Ö÷²¥ÔâÏÌÖíÊÖ ºÃÉ«Ãû×ìÃş¹ßÁË</a></li>
+        <li><a class="videoNewsLeft" href="http://video.sina.com.cn/p/ent/s/m/2013-09-03/104962866427.html" target="_blank">ÍõË·°®Å®7ÈÕ¼ŞÖìĞÂ½¨¶ù×Ó ·ëĞ¡¸ÕÅõ³¡</a></li>
+        <li><a class="videoNewsLeft" href="http://video.sina.com.cn/p/ent/s/m/2013-08-30/002462848007.html" target="_blank">Å®Ö÷²¥¸æÇ°·òÄ±É± µÚÈıÕß×÷Ö¤</a></li>
+        <li><a class="videoNewsLeft" href="http://video.sina.com.cn/p/ent/s/m/2013-09-02/103462862341.html" target="_blank">ÀîÔÚçæÂÉÊ¦³ÆÀîÄ³Ä³¿ÉÄÜ±»ÅĞÎŞ×ï</a></li>
+        <li><a class="videoNewsLeft" href="http://video.sina.com.cn/p/ent/s/h/2013-09-03/005162864945.html" target="_blank">2013ÄêÏã¸ÛĞ¡½ã ³Â¿­ÁÕÖÚÍûËù¹é</a></li>
+        <li><a class="videoNewsLeft" href="http://video.sina.com.cn/p/ent/2013-09-03/105862866421.html" target="_blank">¹ù¾§¾§³öÔº±Õ¹Ø×øÔÂ×Ó »ô¼ÒÒÉ°Ú¿Õ³Ç¼Æ</a></li>
+        <li><a class="videoNewsLeft" href="http://video.sina.com.cn/p/ent/s/m/2013-09-03/010162864975.html" target="_blank">ÂÉÊ¦ÀîÔÚçæ£ºÃÎ¸ë¾¡ÌıâÈÖ÷Òâ</a></li>
+        <li><a class="videoNewsLeft" href="http://video.sina.com.cn/p/ent/s/m/2013-08-31/191862856745.html" target="_blank">ÃÎ¸ëÃ»¼û¹ı¶ù×ÓºÈ×í ÖÊÒÉ¶ù×Ó´òÈË</a></li> </ul> </div>
+    <div class="cont02" id="cont02">
+      <ul class="list list_02">
+        <li><a href="http://video.sina.com.cn/p/news/s/v/2013-09-09/080262887623.html" target="_blank">ÍøÆØÇàµº³Ç¹ÜÇ¿²ğ¾üÇø´óÔº¾¯ÎÀÊÒÏÖ³¡</a></li>
+        <li><a href="http://you.video.sina.com.cn/b/114237815-1290078633.html" target="_blank">Å®Ë¾»úÍ£³µ±»×èÃÍõß±£°²</a></li>
+        <li><a href="http://you.video.sina.com.cn/b/114269080-1290078633.html" target="_blank">¹ãÎ÷Áé´¨£º°ËÀï½Ö·¢ÉúÒ»Æğ±¬Õ¨ÊÂ¹Ê</a></li>
+        <li><a href="http://you.video.sina.com.cn/b/114270645-1290078633.html" target="_blank">ÈÕ³ÆÖĞ¹ú2¼ÜºäÕ¨»ú·ÉÔ½³åÉşÓë¹¬¹Åµº¹«º£</a></li>
+        <li><a href="http://video.sina.com.cn/p/news/c/v/2013-09-09/073562887417.html" target="_blank">Ï°½üÆ½Óë¹ş×ÜÍ³Í¬³Ë·É»ú »úÉÏ¹²½øÔç²Í</a></li>
+        <li><a href="http://you.video.sina.com.cn/b/114273013-1290078633.html" target="_blank">°ËÀï½Ö±¬Õ¨ÊÂ¹Ê 2ÈËµ±³¡ËÀÍö</a></li>
+        <li><a href="http://video.sina.com.cn/p/news/c/v/2013-09-09/123362888739.html" target="_blank">¹ğÁÖÑ§Ğ£¸½½ü±¬Õ¨ÏÖ³¡ Â·±ß³µ²£Á§±»ÕğËé</a></li>
+        <li><a href="http://you.video.sina.com.cn/b/114279108-1290078633.html" target="_blank">¾¯·½Í¨¹ı¼à¿ØËø¶¨ÏÓÒÉÈË</a></li> </ul> </div> </div> </div>
+</div>
+
+<div style="display:none; width:0px; height:0px; overflow:hidden;">
+<ul class="list pot list_05 clearfix" id="hot_zt_04">
+  <li><a href="http://ent.sina.com.cn/f/m/venice70/" target="_blank">µÚ70½ìÍşÄáË¹µçÓ°½Ú</a></li>
+  <li><a href="http://ent.sina.com.cn/f/s/lsjerziqiangjian/" target="_blank">ÀîÌìÒ»ÉæÏÓÇ¿¼é°¸</a></li>
+  <li><a href="http://ent.sina.com.cn/f/m/mu/" target="_blank">µçÓ°¡¶¹ÖÊŞ´óÑ§¡·</a></li>
+  <li><a href="http://ent.sina.com.cn/f/v/mbnyyct/" target="_blank">º£ÇåÑİ¡¶Ä¨²¼Å®¡·</a></li>
+  <li><a href="http://ent.sina.com.cn/f/v/xiaobaba/" target="_blank">ÎÄÕÂ×Ôµ¼¡¶Ğ¡°Ö°Ö¡·</a></li>
+  <li><a href="http://ent.sina.com.cn/f/v/misshk2013/" target="_blank">2013¸Û½ã³öÂ¯</a></li>
+  <li><a href="http://ent.sina.com.cn/f/y/chinavoice2/" target="_blank">ÖĞ¹úºÃÉùÒôµÚ¶ş¼¾</a></li>
+  <li><a href="http://ent.sina.com.cn/f/y/klns2013/" target="_blank">2013¿ìÀÖÄĞÉù</a></li> </ul>
+</div>
+
+<div style="display:none; width:0px; height:0px; overflow:hidden;">
+<div class="blk_01" id="hot_weibo_05">
+  <div class="bc clearfix">
+    <div class="tit tit_02">
+      <h2><a href="http://weibo.com/p/ent/" target="_blank">ÈÈµãÎ¢²©</a></h2>
+    </div>
+    <div class="clearfix">
+      <div class="bc01">
+        <div class="blk_tw_pic btw01"><a href="http://ent.sina.com.cn/v/h/w/2013-09-09/16444005104.shtml" target="_blank"><span>³ÂåûÏ£Îè½£Á·¹¦</span></a> </div>
+        <div class="blk_tw_pic btw01"><a href="http://ent.sina.com.cn/s/m/w/2013-09-09/10394004690.shtml" target="_blank"><span>³ÂÁúÓë°®×ÓæÒÏ·</span></a> </div> </div>
+      <div class="bcline">
+      </div>
+      <div class="bc01">
+        <div class="blk_tw_pic btw01"><a href="http://ent.sina.com.cn/s/m/w/2013-09-08/23184004403.shtml" target="_blank"><span>¶­½à¶ù×Ó½üÕÕÆØ¹â</span></a> </div>
+        <div class="blk_tw_pic btw01"><a href="http://ent.sina.com.cn/v/h/w/2013-09-09/14234004954.shtml" target="_blank"><span>ÑÇ½ã×²Á³Íõ×æÀ¶</span></a> </div> </div> </div>
+    <div class="bc_btn">
+      <ul class="list clearfix" id="hot_weibo_txt02">
+        <li><a href="http://ent.sina.com.cn/s/h/w/2013-09-09/22344005235.shtml" target="_blank">Îâ¾ıÈç»Ø»÷¡°¹ëÃÛ¡±</a></li>
+        <li><a href="http://ent.sina.com.cn/s/m/w/2013-09-09/23264005246.shtml" target="_blank">Ğ»ÄÈÊÜÒ¥ÑÔÀ§ÈÅ½«±¨°¸</a></li>
+        <li><a href="http://ent.sina.com.cn/s/m/w/2013-09-10/00284005251.shtml" target="_blank">ÕÅÜ°Óè·ñÈÏÓĞµÚÈıÕß</a></li>
+        <li><a href="http://ent.sina.com.cn/y/w/2013-09-09/16544005112.shtml" target="_blank">³Â¹ÚÏ£±»ÆØÓë±£°²¶¯ÊÖ</a></li> </ul> </div> </div> </div>
+</div>
+
+<div style="display:none; width:0px; height:0px; overflow:hidden;">
+<div class="blk_01" id="hot_pic_06">
+  <div class="bc clearfix">
+    <div class="tit tit_02">
+      <h2><a href="http://ent.sina.com.cn/photo/" target="_blank">¾«²ÊÍ¼Æ¬</a></h2>
+    </div>
+    <div class="bc05 clearfix">
+      <div class="blk_tw_pic btw02"><a href="http://v.360.cn/news/index.html?ref=sina&amp;date=201309032" suda-uatrack="key=mt_cor_exchange&amp;value=360video_ent_content_pic_6" target="_blank"><span>Àú½ì¸Û½ãĞÔ¸ĞÓ¾×°ÅÌµã</span></a> </div>
+      <div class="blk_tw_pic btw02"><a href="http://lady.hao123.com/" suda-uatrack="key=mt_cor_exchange&amp;value=hao123_ent_content_pic_7" target="_blank"><span>¶¥¼¶Ò°ĞÔÊ±ÉĞ´óÆ¬</span></a> </div> </div>
+    <ul class="list pot list_06 clearfix">
+      <li><a href="http://slide.ent.sina.com.cn/y/slide_4_704_64757.html" target="_blank">Ë¹Íş·òÌØ³ö½Ö¹ºÎï ºì´½ºÚ³¬Ğã³¤ÍÈÇÀ¾µ</a></li>
+      <li><a href="http://slide.ent.sina.com.cn/star/slide_4_703_64752.html" target="_blank">×éÍ¼£º´«ÆæÅ®º¢ÁºÂåÊ©³ÉÃû·Ü¶·Ê·ÅÌµã</a></li>
+      <li><a href="http://slide.ent.sina.com.cn/y/slide_4_704_64748.html" target="_blank">×éÍ¼£º³Â»ÛÁÕ¹òµØ½Ó°®×Ó Ïº½È×Ğ±»ÔŞ¹ÔÇÉ</a></li>
+      <li><a href="http://slide.ent.sina.com.cn/star/slide_4_704_64738.html" target="_blank">ÂíËÕ·âÃæ´óÆ¬ÆØ¹â ÇéÔ½º£°¶ÏßÂüÃîÉí×Ë</a></li>
+      <li><a href="http://slide.ent.sina.com.cn/y/slide_4_704_64739.html" target="_blank">×éÍ¼£ºËïÑà×ËÇ©Ô¼»·Çò Í¸ÊÓ×°Â¶ÊÂÒµÏß</a></li>
+      <li><a href="http://slide.ent.sina.com.cn/star/slide_4_704_64695.html" target="_blank">×éÍ¼£º³ÂÊı·çÇé´óÆ¬ ÔÙÕ¹¶àÃæ÷ÈÁ¦ÆøÖÊ</a></li>
+      <li><a href="http://slide.ent.sina.com.cn/star/slide_4_704_64658.html" target="_blank">Gaga´©Í¸Ã÷ÒÂË«Çò±ÏÏÖ ¹ÊÒâÍäÑüÌô¶ºÂ·ÈË</a></li> </ul> </div> </div>
+</div>
+
+<div style="display:none; width:0px; height:0px; overflow:hidden;">
+<div class="blk_01" id="hot_movie_07">
+  <div class="bc clearfix">
+    <div class="tit tit_02">
+      <h2><a href="http://video.sina.com.cn/movie/" target="_blank">ÈÈµã´óÆ¬</a></h2>
+    </div>
+    <div class="bc02 clearfix">
+      <div class="blk_tw_pic btw03"><a class="video" href="http://ent.sina.com.cn/z/cqe/" target="_blank"><s class="play_icon"></s><span>ĞÇ¾ç³¡£º³ÂÇÇ¶÷</span></a> </div>
+      <div class="blk_tw_pic btw03"><a class="video" href="http://video.sina.com.cn/m/mtvexit_62871627.html" target="_blank"><s class="play_icon"></s><span>º«¸ı¡¶MTV EXIT¡·</span></a> </div> </div>
+    <ul class="list pot list_06 clearfix" style="padding:0 0 12px 15px">
+      <li><a class="videoNewsLeft" href="http://video.sina.com.cn/m/201308130356392_62801739.html" target="_blank">ÎäËÉ°®ÉÏÅË½ğÁ«¡¶ÎäËÉ¡·2013°æ</a></li>
+      <li><a class="videoNewsLeft" href="http://video.sina.com.cn/m/201308130354201_62779893.html" target="_blank">Äş²ÆÉñĞÂ×÷¡¶ÁúÃÅïÚ¾Ö¡·</a></li>
+      <li><a class="videoNewsLeft" href="http://ent.sina.com.cn/z/wxb/" target="_blank">¡°¹úÃñ´óÊå¡±ÎâĞã²¨¾ç³¡</a></li>
+      <li><a class="videoNewsLeft" href="http://ent.sina.com.cn/z/kiss/" target="_blank">µçÊÓ¾ç¾«²ÊÎÇÏ·ÅÌµã</a></li>
+      <li><a class="videoNewsLeft" href="http://video.sina.com.cn/m/201306190727739_62598771.html" target="_blank">1991Äê°æ¾­µäÌ¨¾ç¡¶¼ÒÓĞÏÉÆŞ¡·</a></li>
+      <li><a class="videoNewsLeft" href="http://ent.sina.com.cn/z/twoxj/" target="_blank">ÊîÆÚ»³¾É·ç£º¾­µäÌ¨ÍåÅ¼Ïñ¾ç</a></li> </ul> </div> </div>
+</div>
+
+<!-- SEO_iframeÄÚÈİÇ¶Èë end -->
+
+    <div class="sp15"></div>
+    <!--  ÓÒ²à300x150button begin -->
+	<div class="adNone" id="PublicRelation11">
+    <iframe width="300" height="150" frameborder="0" scrolling="no" src="http://ent.sina.com.cn/iframe/480/20120923/10.html"></iframe>
+	</div>
+    <!--  ÓÒ²à300x150button end -->
+
+    <div class="sp15"></div>
+    <!--  »­ÖĞ»­02 begin -->
+    <div class="ad_05 adNone" id="PublicRelation12">
+			<div class="AD360_120">
+			<!--_SINA_ADS_BEGIN_--><iframe id="pip02" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" width="300" height="250" src="http://d1.sina.com.cn/iframe/ent/2008-03-31/135725.html"></iframe>
+			<!--_SINA_ADS_END_--></div>
+	</div>
+    <!--  »­ÖĞ»­02 end -->
+
+    <div class="sp15"></div>
+     <!--  ĞÂÀËÖÇÍ¶ begin -->
+	 <style type="text/css">
+	#tableRes1087{border: 0px solid #E5E5E5!important; overflow: hidden; width: 298px;}
+	#divRes1087 tr,#divRes1087 table{background:none!important; border: 0px!important;}
+	.ad09{border: 1px solid #E5E5E5;}
+	.tit_01 h2 {font-family: "Î¢ÈíÑÅºÚ"; font-size: 14px; font-weight: bold; padding: 9px 0 0 13px;}
+	#tableRes1087 .title {color:#333333!important;height:18px!important; font-family: "ËÎÌå"!important; font-size: 12px!important; font-weight: normal!important; margin-left:8px!important;}
+	#tableRes1087 .detail {color:#999999!important;height:18px!important; font-family: "ËÎÌå"!important; font-size: 12px!important; font-weight: normal!important; margin-left:8px!important;}
+	#divRes1087 td{font-family: "Î¢ÈíÑÅºÚ"; font-size: 14px; font-weight: bold;}
+	#divRes1087 .w{font-family: "ËÎÌå"!important; font-size: 12px; font-weight: normal;}
+	#tableRes1087 p.title:hover {color:#CC0000!important;}
+	#tableRes1087 p.detail:hover {color:#CC0000!important;}
+	</style>
+	 <div class="ad09">
+		<div class="adNone" id="PublicRelation13">
+			<!--¾º¼ÛÎÄ×Ö start-->
+			<div id="ghc4" style="display:none"></div>
+			<script type="text/javascript">var local_index=1;</script>
+			<script type="text/javascript" src="http://pfpip.sina.com.cn/ip.js"></script>
+			<script type="text/javascript">var pfp_adv = new Array();</script>
+			<script type="text/javascript" src="http://pfp.sina.com.cn/pfpnew/info/res_1087.js"></script>
+			<form id="frmOpenWeb" method="post" target="_blank" style="display:none"></form>
+			<div id="divRes1087"></div>
+			<script type="text/javascript" src="http://pfp.sina.com.cn/pfpnew/resstyle/resstyle_1087.js"></script>
+			<!--¾º¼ÛÎÄ×Ö end-->
+		</div>
+	</div>
+     <!--  ĞÂÀËÖÇÍ¶ end -->
+
+	</div>
+    <!--  ²à±ßÀ¸ end -->
+
+  </div>
+  <!-- Ö÷ÈİÆ÷ end --> 
+</div>
+<!-- footer --> 
+<div class="footer">
+<p><a target="_blank" href="http://comment5.news.sina.com.cn/comment/skin/feedback.html">ĞÂÀËÓéÀÖÒâ¼û·´À¡ÁôÑÔ°å</a> µç»°£º400-690-0000 »¶Ó­ÅúÆÀÖ¸Õı</p><p><a href="http://corp.sina.com.cn/chn/" target="_blank">ĞÂÀË¼ò½é</a>©®<a href="http://corp.sina.com.cn/eng/" target="_blank">About Sina</a>©®<a href="http://emarketing.sina.com.cn/" target="_blank">¹ã¸æ·şÎñ</a>©®<a href="http://www.sina.com.cn/contactus.html" target="_blank">ÁªÏµÎÒÃÇ</a>©®<a href="http://corp.sina.com.cn/chn/sina_job.html" target="_blank">ÕĞÆ¸ĞÅÏ¢</a>©®<a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">ÍøÕ¾ÂÉÊ¦</a>©®<a href="http://english.sina.com/" target="_blank">SINA English</a>©®<a href="https://login.sina.com.cn/signup/signup.php" target="_blank">Í¨ĞĞÖ¤×¢²á</a>©®<a href="http://help.sina.com.cn/" target="_blank">²úÆ·´ğÒÉ</a></p>
+ <p>Copyright <span style="font-family:arial;">&copy; </span>1996-2013 SINA Corporation, All Rights Reserved</p>  
+ <p>ĞÂÀË¹«Ë¾ <a href="http://www.sina.com.cn/intro/copyright.shtml" target="_blank">°æÈ¨ËùÓĞ</a></p>
+</div>
+<!-- end footer -->
+
+<!-- µã»÷µØÍ¼ begin -->
+<script type="text/javascript" src="http://i1.sinaimg.cn/unipro/pub/suda_m_v629.js"></script>
+<script type="text/javascript">suds_init(2423,20.0000,965,2);</script>
+<!-- µã»÷µØÍ¼ end -->
+
+<!-- ¾º¼ÛÎÄ×Ö start -->
+<!-- ¿ØÖÆÓÒ²àÖĞ²¿ÎÄ×ÖÁ´ -->
+<!-- <script src="http://pfp.sina.com.cn/cpfp/sinanews_news_line_20080716.js" type="text/javascript"></script> -->
+<!-- ¾º¼ÛÎÄ×Ö end -->
+
+<!-- ÓÒÀ¸¶şÎ¬Âëbegin -->
+<div class="side-btns-2wm" id="J_Side_Btn_2wm"><a target="_blank" href="http://news.sina.com.cn/m/sinanews.html" title="µã»÷ÏÂÔØĞÂÎÅ¿Í»§¶Ë" suda-uatrack="key=qr_code&value=qr_code_click"></a></div>
+
+<script type="text/javascript" src="http://news.sina.com.cn/js/87/20130815/dmcode_js.js"></script>
+<link href="http://news.sina.com.cn/css/87/20130815/dmcode_style.css" rel="stylesheet" type="text/css" />
+<!-- ÓÒÀ¸¶şÎ¬Âëend -->
+<!-- body code begin -->
+
+<!-- SSO_UPDATECOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.q=function(b){if(typeof b!="object"){return""}var a=new Array();for(key in b){a.push(key+"="+encodeURIComponent(b[key]))}return a.join("&")};sinaSSOManager.es=function(f,d,e){var c=document.getElementsByTagName("head")[0];var a=document.getElementById(f);if(a){c.removeChild(a)}var b=document.createElement("script");if(e){b.charset=e}else{b.charset="gb2312"}b.id=f;b.type="text/javascript";d+=(/\?/.test(d)?"&":"?")+"_="+(new Date()).getTime();b.src=d;c.appendChild(b)};sinaSSOManager.doCrossDomainCallBack=function(a){sinaSSOManager.crossDomainCounter++;document.getElementsByTagName("head")[0].removeChild(document.getElementById(a.scriptId))};sinaSSOManager.crossDomainCallBack=function(a){if(!a||a.retcode!=0){return false}var d=a.arrURL;var b,f;var e={callback:"sinaSSOManager.doCrossDomainCallBack"};sinaSSOManager.crossDomainCounter=0;if(d.length==0){return true}for(var c=0;c<d.length;c++){b=d[c];f="ssoscript"+c;e.scriptId=f;b=b+(/\?/.test(b)?"&":"?")+sinaSSOManager.q(e);sinaSSOManager.es(f,b)}};sinaSSOManager.updateCookieCallBack=function(c){var d="ssoCrossDomainScriptId";var a="http://login.sina.com.cn/sso/crossdomain.php";if(c.retcode==0){var e={scriptId:d,callback:"sinaSSOManager.crossDomainCallBack",action:"login",domain:"sina.com.cn"};var b=a+"?"+sinaSSOManager.q(e);sinaSSOManager.es(d,b)}else{}};sinaSSOManager.updateCookie=function(){var g=1800;var p=7200;var b="ssoLoginScript";var h=3600*24;var i="sina.com.cn";var m=1800;var l="http://login.sina.com.cn/sso/updatetgt.php";var n=null;var f=function(e){var r=null;var q=null;switch(e){case"sina.com.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"sina.cn":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break;case"51uc.com":q=sinaSSOManager.getSinaCookie();if(q){r=q.et}break}return r};var j=function(){try{return f(i)}catch(e){return null}};try{if(g>5){if(n!=null){clearTimeout(n)}n=setTimeout("sinaSSOManager.updateCookie()",g*1000)}var d=j();var c=(new Date()).getTime()/1000;var o={};if(d==null){o={retcode:6102}}else{if(d<c){o={retcode:6203}}else{if(d-h+m>c){o={retcode:6110}}else{if(d-c>p){o={retcode:6111}}}}}if(o.retcode!==undefined){return false}var a=l+"?callback=sinaSSOManager.updateCookieCallBack";sinaSSOManager.es(b,a)}catch(k){}return true};sinaSSOManager.updateCookie();</script>
+<!-- SSO_UPDATECOOKIE_END -->
+
+<!-- body code end -->
+
+</body>
+</html>

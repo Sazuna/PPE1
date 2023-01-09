@@ -1,323 +1,650 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="zh-Hans" prefix="og: http://ogp.me/ns#">
 <head>
-	<meta charset="utf-8" />
-	<title>东京证券交易所重组 新面貌周一开始生效_手机新浪网</title>
-	<script type="text/javascript">window.STO=window.STO||{};window.STO.fs=new Date().getTime();</script>
-	<meta name="keywords" content="投资者,东证,生效,东京证券交易所,证券,日本股市,摩根大通,黑盒子,野村,瑞穗,sina.cn">
-	<meta name="description" content="东京证券交易所将于周一实施60多年来最大规模的改革，届时，外界期待已久、但在很大程度上只是象征性的市场重组将正式生效。">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<meta name="author" content="sina_mobile">
-    <meta name="format-detection" content="telephone=no" />
-	<meta name="sudameta" content="allCIDs:57045,257,51894,56416,57043,56409,76557,258,51070,76556,76750,76729,266867">
-	<meta property="og:type" content="news"/>
-	<meta property="og:title" content="东京证券交易所重组 新面貌周一开始生效" />
-	<meta property="og:description" content="东京证券交易所重组 新面貌周一开始生效" />
-	<meta property="og:url" content="https://finance.sina.cn/usstock/mggd/2022-04-04/detail-imcwipii2257707.d.html" />
-	<meta property="og:image" content="//n.sinaimg.cn/finance/crawl/60/w550h310/20220404/b488-f71e412cd59a84041b0ea002208aede8.jpg" />
-	<meta property="article:author" content="市场资讯"/>
-	<meta property="article:published_time" content="2022-04-04 06:52:49" />
-	<meta name="publishid" content="mcwipii2257707" />
-	<meta name="robots" content="index, follow" />
-	<meta name="googlebot" content="index, follow" />
-	<meta name="apple-mobile-web-app-title" content="新浪移动_手机新浪网">
-	<link rel="shortcut icon" type="image/x-icon" href="//mjs.sinaimg.cn/wap/module/base/img/favicon.ico" /><meta content="always" name="referrer"><meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" /><meta name="router-uri" content="sinanews://sina.cn/article/detail.pg?newsId=mcwipii2257707-comos-finance-cms&dataid=comos:mcwipii2257707&pkey=default" />	<link rel="apple-touch-icon-precomposed" href="//mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_114x114_v1.png">
-	<link rel="apple-touch-icon-precomposed" href="//mjs.sinaimg.cn/wap/online/public/images/addToHome/sina_57X57_v1.png">
-	<script src='https://mjs.sinaimg.cn/umd/error-report/2.0.4/lib/index.min.js'></script><script>startReport('sina_wap_finance.sina.cn_article',['colorDepth']);</script>	<script type="text/javascript">	
-		if(history.pushState){var hisPush=window.history.pushState,hisReplace=window.history.replaceState;window.history.pushState=function(){},window.history.replaceState=function(){},window.sinaHisPush=function(){var i=[].slice.call(arguments);hisPush.apply(window.history,i)},window.sinaHisReplace=function(){var i=[].slice.call(arguments);hisReplace.apply(window.history,i)}}
-		var sudaLogConfig = {"uId":"","url":"https:\/\/finance.sina.com.cn\/stock\/usstock\/c\/2022-04-04\/doc-imcwipii2257707.shtml","prevPageClickTime":"","ext1":"cid57045,cid257,cid51894,cid56416,cid57043,cid56409,cid76557,cid258,cid51070,cid76556,cid76750,cid76729,cid266867","ext2":"dl=","channel":"finance"};
-        function rem() {var t = 100, o = 750, e = document.documentElement.clientWidth || window.innerWidth, n = Math.max(Math.min(e, 480), 320), h = 50;320 >= n && (h = Math.floor(n / o * t * .99)), n > 320 && 362 >= n && (h = Math.floor(n / o * t * 1)), n > 362 && 375 >= n && (h = Math.floor(n / o * t * 1)), n > 375 && (h = Math.floor(n / o * t * .97)), document.querySelector("html").style.fontSize = h + "px"};
-        rem();
-        window.onresize = function () {rem();}
-    </script>
+<meta charset="UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="icon" href="/DJY32.png" sizes="32x32"/><link rel="apple-touch-icon-precomposed" href="/DJY180.png" /><link rel="icon" href="/DJY192.png" sizes="192x192"/><meta name="msapplication-TileImage" content="https://www.epochtimes.com/DJY270.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name="date" content="2022-02-04 1:51:27 AM" />
+<title>【中国观察】悄然覆盖全国的庞大洗脑工程 | 新时代文明实践中心 | 志愿者 | 习近平 | 大纪元</title>
+<meta name="description" content="中共近年在全国范围内悄悄建设了巨大规模的所谓“新时代文明实践中心”（下称“实践中心），当局毫不讳言要习近平“思想”介入民众的日常生活。这个“实践中心”到底是个什么样的东西？"/>
+<meta name="keywords" content="中国观察,志愿者,意识形态,新时代文明实践中心,习近平,大纪元"/>
+<link rel="canonical" href="https://www.epochtimes.com/gb/22/2/3/n13552957.htm" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="【中国观察】悄然覆盖全国的庞大洗脑工程 - 大纪元" />
+<meta property="og:description" content="中共近年在全国范围内悄悄建设了巨大规模的所谓“新时代文明实践中心”（下称“实践中心），当局毫不讳言要习近平“思想”介入民众的日常生活。这个“实践中心”到底是个什么样的东西？" />
+<meta property="og:url" content="https://www.epochtimes.com/gb/22/2/3/n13552957.htm" />
+<meta property="og:site_name" content="大纪元 www.epochtimes.com" />
+<meta property="article:publisher" content="https://www.facebook.com/djy.news/" />
+<meta property="article:tag" content="中国观察,新时代文明实践中心,志愿者,习近平,意识形态" />
+<meta property="article:section" content="大陆政治" />
+<meta property="article:published_time" content="2022-02-04T01:51:27+08:00" />
+<meta property="article:modified_time" content="2022-02-05T02:38:26+08:00" />
+<meta property="og:updated_time" content="2022-02-05T02:38:26+08:00" />
+<meta property="og:image" content="https://i.epochtimes.com/assets/uploads/2021/04/id12866946-GettyImages-1180050469-700x359.jpg" />
+<meta property="fb:app_id" content="1571885662850711" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="中共近年在全国范围内悄悄建设了巨大规模的所谓“新时代文明实践中心”（下称“实践中心），当局毫不讳言要习近平“思想”介入民众的日常生活。这个“实践中心”到底是个什么样的东西？"/>
+<meta name="twitter:title" content="【中国观察】悄然覆盖全国的庞大洗脑工程 - 大纪元"/>
+<meta name="twitter:site" content="@dajiyuan"/>
+<meta name="twitter:domain" content="大纪元 www.epochtimes.com"/>
+<meta name="twitter:image" content="https://i.epochtimes.com/assets/uploads/2021/04/id12866946-GettyImages-1180050469-700x359.jpg"/>
+<meta name="twitter:creator" content="@dajiyuan"/>
+<link rel='stylesheet' id='djy-style-css'  href='https://www.epochtimes.com/assets/themes/djy/style.css?ver=20150811' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-global-css'  href='https://www.epochtimes.com/assets/themes/djy/css/global-v2.css?ver=20201222' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-article-css'  href='https://www.epochtimes.com/assets/themes/djy/css/article-v2.min.css?ver=20220615' type='text/css' media='all' />
+<link rel='stylesheet' id='djy-print-css'  href='https://www.epochtimes.com/assets/themes/djy/css/print.min.css?ver=20160303' type='text/css' media='print' />
 
-	<script type="text/javascript">window.STO=window.STO||{};window.STO.frS=new Date().getTime();</script>
-	<link rel='stylesheet' type='text/css' href='//mjs.sinaimg.cn/wap/project/articlev4/1.1.252/index/static/css/index.min.css' integrity='sha384-/E1eQaZDXvIko4Hljm43AoI8XA8ctX98C3Jehft2JHaDpx/qrVuHM6uOAV/RjQud' crossorigin='anonymous' onerror='attackCatch(this)'>	<link rel="stylesheet" type="text/css" href="//mjs.sinaimg.cn/wap/online/cms/article/V4/online/lagan.min.css?v=3">
-	<link rel="stylesheet" type="text/css" href="//n3.sinaimg.cn/default/cf7470f9/20190830/cms_style.css?t=202112091430">
-	<script type="text/javascript">
-		var __docConfig={"__domain":"finance","__docId":"mcwipii2257707","__docUrl":"https:\/\/finance.sina.cn\/usstock\/mggd\/2022-04-04\/detail-imcwipii2257707.d.html","__callupId":"mcwipii2257707-comos-finance-cms","__shareUrl":"https:\/\/finance.sina.cn\/usstock\/mggd\/2022-04-04\/detail-imcwipii2257707.d.html?from=qudao","__sportsShortURL":"","__cmntId":"cj:comos-mcwipii2257707:0","__cmntTotal":"0","__isGetUserInfo":"1","__mainPic":"\/\/n.sinaimg.cn\/finance\/crawl\/60\/w550h310\/20220404\/b488-f71e412cd59a84041b0ea002208aede8.jpg","__cmntListUrl":"https:\/\/cmnt.sina.cn\/index?product=comos&index=mcwipii2257707&tj_ch=finance&is_clear=0","__gspsId":"comos:mcwipii2257707","__suda":"article_new_cms","__sudapageId":"2949","__title":"东京证券交易所重组 新面貌周一开始生效_手机新浪网","__content":"","__tj_ch":"finance","__tj_sch":"finance","__webURL":"https:\/\/finance.sina.com.cn\/stock\/usstock\/c\/2022-04-04\/doc-imcwipii2257707.shtml","__ispraise":0,"__responeTime":1672685984,"__cateid":"sina_all","__cre":"financepagew","__media":"","__colleid":1672685984,"__collekey":"1b593762bc69728408d0b1f10e3f1ad7","__pkeys":"1c9de39a5fc96c1f2b6f54daff85729c","__pValue":"mcwipii2257707","__api":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=cj&newsid=comos-mcwipii2257707&group=0&thread=1&page=1&hot=1","__hotapi":"\/\/interface.sina.cn\/wap_api\/hotnews.d.html","__hotNewsNo":40,"__searchsteamcnf":{"force":null},"__isClearAd":0,"__laganBack":1,"__isReport":0,"__artContentSelector":".j_main_art"}; var channelData={"weibo_hot":[]}; var commentConfig={"insertDom":".j_cmt_wrap","page":"article","getcomments":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=cj&newsid=comos-mcwipii2257707&group=0&thread=1&page=1&hot=1","jsonp":"_callback","jumpCmnt":true,"shareBtn":true,"showNewCmnt":false,"timeConvert":true,"multiple":false,"autoStart":true,"showCollBtn":true,"httpToHttps":true,"channel":"cj","newsid":"comos-mcwipii2257707","product":"comos","index":"mcwipii2257707"}; var __pushConfig={"__isBanner":false}; var isNphCopyPower=1; var isNphBackUrl=1; var isChangeSax=1; var SM={"VERSION":"1.0.1","INFO":{"TIMESTAMP":1672685984925},"ABT":{"ALL":{"ltxt":1}},"data":{"callUpConfig":{"title":"呼起全局配置","url":"","shiftKnob":0,"android_wechat_middle_page":"0","appstore_offline":"0","path":"callup\/1579600948","ads":"1","forceNewRoute":"0","issmallpackage":"0","calltype":"0","ispop":"0","poptitle":"打开新浪新闻 阅读精彩内容","popcancel":"取消","popok":"前往","callnum":"","popnum":"","downnum":"","downpop":"0","downtype":"0","downurl":"","jumpcn":"","callsn":"","popcancelcn":"","popoksn":"","downclose":"","downokcn":"","kid":""},"pageType":"art","switch":{"cmntBar":1,"intercept":1},"isCallQuickApp":false,"isforbid":0,"commentConfig":{"enabled":true,"cmntId":"cj:comos-mcwipii2257707:0","cmntid":"cj:comos-mcwipii2257707:0","getApi":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=cj&newsid=comos-mcwipii2257707&group=0&thread=1&page=1&hot=1","getCountApi":"\/\/cmnt.sina.cn\/aj\/v2\/counts?ids=cj:comos-mcwipii2257707:0","getcomments":"\/\/cmnt.sina.cn\/aj\/v2\/list?channel=cj&newsid=comos-mcwipii2257707&group=0&thread=1&page=1&hot=1","jsonp":"_callback","commentPluginData":[]},"fold":{"text":["打开新浪新闻  阅读全文"],"popTitle":"前往新浪新闻查看，体验更佳","popOkText":"前往","popCancelText":"取消"},"sax":{"wap_class":"bcd230103","native_class":"j_native_bcd230103","isChangeSax":0,"leftArt":0,"standardRead":[{"pdps":"PDPS000000059758","pos":2},{"pdps":"PDPS000000059759","pos":5},{"pdps":"PDPS000000059760","pos":8},{"pdps":"PDPS000000059761","pos":11},{"pdps":"PDPS000000059762","pos":14},{"pdps":"PDPS000000056239","pos":17},{"pdps":"PDPS000000059963","pos":19},{"pdps":"PDPS000000056240","pos":22},{"pdps":"PDPS000000057099","pos":25}],"standardNews":[{"pdps":"PDPS000000067114","pos":3},{"pdps":"PDPS000000060088","pos":6},{"pdps":"PDPS000000059757","pos":"last"}],"notSetStyle":["PDPS000000067590","PDPS000000057786","PDPS000000059890","PDPS000000060087"]},"channel":{"mainPage":"https:\/\/finance.sina.cn","name":"财经"}},"doc":{"routeUri":"sinanews:\/\/sina.cn\/article\/detail.pg?newsId=mcwipii2257707-comos-finance-cms&dataid=comos:mcwipii2257707&pkey=default","dataid":"comos:mcwipii2257707"}}; 		
-		var globalConfig = {
-			startTime : new Date().getTime() //页面开始渲染时间,目前应用于：日志统计、性能统计。
-		};
-				(window._ssp_global = window._ssp_global || {}).userConfig = {
-            domain: "whn2.star-media.cn"
-        }
-	</script>
-		<script type="text/javascript">
-		window.isSpecialAd=0; window.isFeedAd=0; window.isFiveAd=0; window.Iframe06AdShow=0; window.is56240Ad=0; window.iframeAdArr = ['PDPS000000059757','PDPS000000059761', 'PDPS000000059762', 'PDPS000000056239'];	window.bdAdArr = [];		window.vivoFlag = true;
-	</script>
+			<style type="text/css">
+			body{ font-family: Simsun; }
+			</style>
+		<meta property="fb:pages" content="394510747593181" />
+<meta name="news_keywords" content="中国观察,志愿者,意识形态,新时代文明实践中心,习近平,大纪元" />
 	<script>
-    (function(){window.attackCatch=function(a){var b=a.tagName.toLowerCase();if("script"===b)var c=a.src;else"link"===b&&(c=a.href);c&&window.fetch&&Promise.all([d.loadscript(c,"force-cache"),d.loadscript(c,"no-store")]).then(function(a){var b=a[0],e=a[1],g=b.status,k=e.status;return Promise.all([b.text(),e.text()]).then(function(a){var f=a[0],h=f.length;a=a[1].length;return 200==g&&200==k?d.getSourceData(c,b,e,h,a,f):200==g?d.getSourceData(c,b,e,h,-1):200==k?d.getSourceData(c,b,e,-1,a):d.getSourceData(c,
-b,e,-1,-1)})}).then(function(a){d.log("https://log2.sina.cn/mrt.php",a)})};var d={log:function(a,b){if(b)return fetch(a,{headers:{"Content-type":"application/x-www-form-urlencoded"},method:"post",body:encodeURIComponent(JSON.stringify(b))})},fetchError:function(a,b){return Promise.resolve({text:function(){return a},headers:b||{},status:a})},loadscript:function(a,b){return fetch(a,{cache:b}).then(function(a){return a.ok?a:d.fetchError(a.status,a.headers)}).catch(function(a){return d.fetchError(a)})},
-getInformation:function(a){return a?a.replace(/\s+/g,"").replace(/<(.*?)>(.*?)<(\/script)>/g,function(a,c,d,f){return"<"+c+">"+d.slice(0,100)+"<"+f+">"}):""},getScriptOuterHtmls:function(){for(var a=document.getElementsByTagName("script"),b=[],c=0;c<a.length;c++)b.push(d.getInformation(a[c].outerHTML));return b.join(",")},getHeader:function(a,b,c){a=a.headers.get.bind(a.headers);b=b.headers.get.bind(b.headers);return a&&b?a(c)||b(c)||"":""},getSourceData:function(a,b,c,g,f,e){var h="",k=location.protocol;
-e=e?e:b.status+","+c.status;a||(h=d.getScriptOuterHtmls());return Promise.resolve({diff:g===f?0:1,sizes:[g,f].join(),cdn:d.getHeader(b,c,"X-Via-CDN"),edge:d.getHeader(b,c,"X-via-Edge"),jscontent:e,scripts:h,version:"0.1.1",url:a,protocol:k})}}})();
+		var djy_primary_category, djy_user_id, djy_cat_ids, djy_term_ids, djy_all_term_ids, djy_all_term_names_full, djy_domain, djy_ads_term_ids, djy_publish_date, djy_no_ads = false;
+		var encoding = "gb";
+	djy_primary_category = '277';
+djy_user_id = '649';
+djy_cat_ids = '277,413,401';
+djy_term_ids = '15777,15762,14514,1356681,14564,3,8,1080307,6,5,2';
+djy_all_term_ids = '277,413,401,15777,15762,14514,1356681,14564,3,8,1080307,6,5,2';
+djy_all_term_names_full = '大陆政治-ncid277;大陆新闻-nsc413;新闻-ncnews;中共分崩·天怒人怨-nf5777;中国时局全解析-nf5762;大头条集锦-nf4514;纪元推荐-nf1356681;骆亚报导-nf4564;今日头版-frnt3;动态网-frnt8;脸书即时文章-frnt1080307;类别重点-frnt6;类别头条-frnt5;首页大图-frnt2';
+djy_ads_term_ids = '15762,1068857,277,413,401,15777,14514,1356681,14564,3,8,1080307,6,5,2';
+djy_publish_date = '20220204';
 	</script>
-	<style type="text/css">
-		.pf{    
-			max-width: 768px;
-			right: 0;
-			margin: auto;
-		}
-	</style>
-	<meta name="sudameta" content="dataid:comos:mcwipii2257707" /></head>
-<body class="article_body">
-	
-<main class="page_main fl_padding">
-<section class="j_main_art">
-<!--header_s-->
-<header class="hd_s1">
-	<a href="https://sina.cn?vt=4" title="手机新浪网" class="hd_ic_lg icon_logo_m fl"></a>
-	<h2 class="hd_tit_l">
-				<a class="hd_tit_a" href="https://finance.sina.cn/?vt=4" title="新浪财经">新浪财经</a>
-				<small class="icon_enter hd_tit_ic"></small>
-						<a class="hd_tit_a" href="https://finance.sina.cn/usstock/?vt=4" title="美股">美股</a>
-					</h2>		
-	<a href="https://sina.cn/Index/nav?vt=4" title="网站导航" class="hd_ic  icon_navigation fr"></a>
-	<a href="https://my.sina.cn/?vt=4" title="" id="loginBox" class="hd_ic hd_ic_m icon_user fr">
-		<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=" class="h_user_pic">
-	</a>
-</header>
-<!--header_e-->
-
-
-<div sax-type="sax_5" class="bcd230103" data-id="PDPS000000056105"></div>
-
-
-<section class="s_card z_c1">
-	<!--正文_ss-->
-	<article class="art_box">
-
-		<!--标题_s-->
-		<h1 class="art_tit_h1">东京证券交易所重组 新面貌周一开始生效</h1>		
-		<!--标题_e-->
-		
-						<section>
-			<div class="weibo_info look_info">
-				<div class="media_focus" data-muid="2899539" data-weibouid="2021016196785275907">
-					<em class="weibo_img">
-						<img class="img_width" src="//n.sinaimg.cn/default/622af858/20181010/default_avatar.jpg" /></em>
-					<figcaption class="weibo_detail no_audio">
-						<figure>
-							<h2 class="weibo_user">市场资讯</h2>
-							<time class="weibo_time">
-								<span class="weibo_time_day">2022.04.04</span>06:52							</time>
-						</figure>	
-					</figcaption>
-				</div>	
-				<a class="look_sub j_article_wbreco"  data-muid="2899539" href="javascript:void(0)"><span class="icon_add look_sub_ic"></span>关注</a>
+	<meta property="dable:item_id" content="13552957">
+<meta property="dable:author" content="djy">
+<link rel="amphtml" href="https://www.epochtimes.com/gb/22/2/3/n13552957.htm/amp" /><!--[if lt IE 9]>
+     <script type="text/javascript" src="/assets/themes/djy/js/html5.js"></script>
+     <link href="/assets/themes/djy/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="post-template-default single single-post postid-13552957 single-format-standard">
+	<script>
+	var epochload = [];
+	var slots =  new Array();
+	function loadGTM(id) {
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+			j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', id);
+	}
+		</script>
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHM2XS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>
+	if (document.getElementsByClassName('archive tag').length > 0) {
+		setTimeout(function() {
+			loadGTM('GTM-WHM2XS');
+		}, 3000);
+	} else {
+		loadGTM('GTM-WHM2XS');
+	}
+	</script>
+	<header class="header">
+	<div class="top_row">
+		<div class="container">
+			<div class="logo">
+				<a title="大纪元首页" href="/"><img alt="大纪元 LOGO" src="https://www.epochtimes.com/assets/themes/djy/images/ET_Logo_2_cn.png"></a>
 			</div>
-		</section>
-				<!--关注_e-->
-		
-			
-				<img class="sharePic hide" src="//k.sinaimg.cn/n/finance/crawl/60/w550h310/20220404/b488-f71e412cd59a84041b0ea002208aede8.jpg/w700h350z1l10t10393.jpg"/>
-		
+			<div class="b5_gb">
+							<span class="b5"><a href="https://www.epochtimes.com/b5/22/2/3/n13552957.htm">正体</a></span>
+				<span class="gb active"><a href="https://www.epochtimes.com/gb/22/2/3/n13552957.htm">简体</a></span>
+						</div>
+			<div class="search">
+				<form class="search-form" method="post" role="search" action="https://www.epochtimes.com/gb/search.htm">
+					<input type="hidden" name="encoding" value="gb">
+					<input type="text" role="search" name="q" size="2" value="" maxlength="100" title="搜寻" placeholder="搜寻" class="search_input">
+					<button type="submit" class="search_btn" title="submit">搜寻</button>
+				</form>
+			</div>
+			<div class="user_block"></div>
+		</div>
+	</div>
+	<div class="nav_row">
+		<div class="container">
+			<ul>
+				<li><a href="/gb/nsc413.htm">大陆</a></li>
+				<li><a href="/gb/nsc412.htm">美国</a></li>
+				<li><a href="/gb/ncid1349362.htm">香港</a></li>
+				<li><a href="/gb/nsc418.htm">国际</a></li>
+				<li><a href="/gb/ncid1349361.htm">台湾</a></li>
+				<li>|</li>
+				<li><a href="/gb/instant-news.htm">即时</a></li>
+				<li><a href="/gb/nccomment.htm">评论</a></li>
+				<li><a href="/gb/nf1191090.htm">专题</a></li>
+				<li><a href="/gb/ncid1247351.htm">视频</a></li>
+				<li>|</li>
+				<li><a href="/gb/nsc419.htm">科技</a></li>
+				<li><a href="/gb/nsc420.htm">财经</a></li>
+				<li><a href="/gb/ncyule.htm">娱乐</a></li>
+				<li><a href="/gb/nsc2007.htm">文化</a></li>
+				<li>|</li>
+				<li><a href="/gb/nsc2008.htm">生活</a></li>
+				<li><a href="/gb/nsc1002.htm">健康</a></li>
+				<li class="has_dropdown">
+					<a target="_blank" href="/gb/ncChineseCommunity.htm">社区网<span class="arrow-right"></span></a>
+					<ul class="sub-menu">
+						<li><a target="_blank" href="/gb/nsc529.htm">纽约</a></li>
+						<li><a target="_blank" href="/gb/nsc533.htm">旧金山</a></li>
+						<li><a target="_blank" href="/gb/nsc970.htm">洛杉矶</a></li>
+						<li><a target="_blank" href="/gb/ncid1139891.htm">多伦多</a></li>
+						<li><a target="_blank" href="/gb/ncid1143942.htm">温哥华</a></li>
+						<li><a target="_blank" href="/gb/nsc980.htm">澳洲</a></li>
+						<li><a target="_blank" href="/gb/nsc974.htm">欧洲</a></li>
+						<li><a target="_blank" href="/gb/ncChineseCommunity.htm">更多</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+</header><main id="main" role="main">
+	<div class="main_container">
+		<div id="topad728"><div id="topad728_inner"></div></div>
+		<div class="show-for-medium-up" id="breadcrumb"><a href = "/gb/" target="blank">首页</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/ncnews.htm">新闻</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/nsc413.htm">大陆新闻</a> > <a target="_blank" class="breadcrumbs textLink" href="https://www.epochtimes.com/gb/ncid277.htm">大陆政治</a> > <span class="current">正文</span></div>		<div class="main_content">
+			<div class="print_logo">
+				<a href="/"><img alt="site logo: www.epochtimes.com" src="https://www.epochtimes.com/assets/themes/djy/images/DJY-logo20140623-2.jpg"></a>
+			</div>
+			<div class="article">
+				<div class="titles">
+					
+										<h1 class="title">【中国观察】悄然覆盖全国的庞大洗脑工程</h1>
 
-<section class="art_pic_card art_content">
-	
-<a href="JavaScript:void(0)">
-									<figure class="art_img_mini j_p_gallery" data-type="simple">
-										<img class="art_img_mini_img j_fullppt_cover" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="550" h="310" data-src="//n.sinaimg.cn/finance/crawl/60/w550h310/20220404/b488-f71e412cd59a84041b0ea002208aede8.jpg"/>
-										<img class="j_fullppt" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADAQMAAACOOjyFAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAApJREFUCNdjAAMAAAYAAegKKqQAAAAASUVORK5CYII=" w="550" h="310" data-src="//n.sinaimg.cn/finance/crawl/60/w550h310/20220404/b488-f71e412cd59a84041b0ea002208aede8.jpg" disabeld-show="true" style="display:none">
-									</figure>
-								</a>
-<p class="art_p">东京证券交易所将于周一实施60多年来最大规模的改革，届时，外界期待已久、但在很大程度上只是象征性的市场重组将正式生效。</p>
-<p class="art_p">早些时候，日本推出了优质、标准和成长型这三个新板块，旨在提高日本股市的吸引力，并让外国投资者更容易理解。</p>
-<p class="art_p">但此次重组受到了褒贬不一的反应，希望进行更全面改革的投资者感到失望。Prime板块将取代构成东证指数的庞大的第一板块，目前仍有约1839只成分股，约占原成分股的80%。</p>
-<p class="art_p"><a href='javascript:void(0);' target='app' data-content='{"ext":{"word":"摩根大通","market":"us","symbol":"jpm","routeUri":"sinanews:\/\/sina.cn\/finance\/stockDetail.pg?market=us&symbol=JPM&stockType=1"},"actionType":36,"h5url":"https:\/\/gu.sina.cn\/us\/hq\/quotes.php?code=JPM"}'>摩根大通</a>资产管理公司策略师表示：“我不认为一定会有巨大影响。”</p>
-<p class="art_p"><strong>“大杂烩”</strong></p>
-<p class="art_p">东京证券交易所之前有五个板块，其中许多板块在很大程度上是由于东京证交所和大阪证交所合并而形成的日本交易所集团（Japan Exchange Group Inc.）而重叠的。部门改革的目的是将各部门合并成不同的、易于理解的类别。</p>
-<p class="art_p">东京Inveso资产管理公司（Inveso Asset Management）首席投资官小泽大治（Daiji Ozawa）表示，到目前为止，各个细分市场都是“大杂烩”。他补充说：“他们正在清理展柜，这很好。”</p>
-<div sax-type="proxy" class="j_native_bcd230103 box" data-inserttype="0" style="margin:20px 0" data-id="201711dingdingeb"></div><p class="art_p">投资者面临的最大障碍之一是东京证交所所称的“过渡性”措施，即通过承诺在未来某个时间达到上市标准，让不符合上市标准的公司在Prime上上市。据悉，日本证券交易所将在年内决定如何处理这些股票。</p>
-<p class="art_p">东京证交所社长野村弘美（Hiromi Yamaji）表示，周一开始的改革只是第一步，他敦促投资者保持耐心，关注未来提高标准的可能性。</p>
-<p class="art_p"><strong>自由浮动</strong></p>
-<p class="art_p">投资者将关注东证股价指数（Topix）流通股权重计算方法的变化。该指数将于本周晚些时候公布。东证指数本身将继续存在，但其组成部分将在未来几年逐步调整。</p>
-<p class="art_p">作为此次改革的一部分，东京证交所将调整其计算流通股的方法，以“更好地反映实际流动性”。流通股是指被认为可交易的股票。</p>
-<p class="art_p"><a href='javascript:void(0);' target='app' data-content='{"ext":{"word":"瑞穗","market":"us","symbol":"mfg","routeUri":"sinanews:\/\/sina.cn\/finance\/stockDetail.pg?market=us&symbol=MFG&stockType=1"},"actionType":36,"h5url":"https:\/\/gu.sina.cn\/us\/hq\/quotes.php?code=MFG"}'>瑞穗</a>证券首席定量分析师Hayato Nagayoshi表示：“市场可能会出现意外。‘黑盒子’中仍有一些因素。”新方法将于周四公布。</p>	
-	
-<div id='wx_pic' style='margin:0 auto;display:none;'>
-	<img src='//n.sinaimg.cn/default/2fb77759/20151125/320X320.png' />
+					
+									</div>
+				<div class="featured_image"><a href="https://i.epochtimes.com/assets/uploads/2021/04/id12866946-GettyImages-1180050469-600x400.jpg" target="_blank"><img width="600" height="400" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2021/04/id12866946-GettyImages-1180050469-600x400.jpg" class="lazy attachment-djy_600_400 size-djy_600_400 wp-post-image" alt="【中国观察】悄然覆盖全国的庞大洗脑工程" /><noscript><img width="600" height="400" src="https://i.epochtimes.com/assets/uploads/2021/04/id12866946-GettyImages-1180050469-600x400.jpg" class="attachment-djy_600_400 size-djy_600_400 wp-post-image" alt="【中国观察】悄然覆盖全国的庞大洗脑工程" /></noscript></a><div class="caption">上海街头的武警。资料照。(NG HAN GUAN/POOL/AFP via Getty Images)</div></div>				<div class=info>
+					<time datetime="2022-02-05T02:38:26+08:00">更新 2022-02-04 1:51 AM</time>
+					<span class="pageview">人气 16759</span>					<div class="tags"><span>标签: </span><a href="https://www.epochtimes.com/gb/tag/%E4%B8%AD%E5%9B%BD%E8%A7%82%E5%AF%9F.html" rel="tag">中国观察</a>, <a href="https://www.epochtimes.com/gb/tag/%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%87%E6%98%8E%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%BF%83.html" rel="tag">新时代文明实践中心</a>, <a href="https://www.epochtimes.com/gb/tag/%E5%BF%97%E6%84%BF%E8%80%85.html" rel="tag">志愿者</a>, <a href="https://www.epochtimes.com/gb/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3.html" rel="tag">习近平</a>, <a href="https://www.epochtimes.com/gb/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81.html" rel="tag">意识形态</a></div>
+				</div>
+				<div class="share">
+							<span class="facebook social">
+			<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.epochtimes.com%2Fgb%2F22%2F2%2F3%2Fn13552957.htm" target="_blank">Facebook</a>
+		</span>
+			<span class="twitter social">
+			<a href="https://twitter.com/intent/tweet?text=%E3%80%90%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F%E3%80%91%E6%82%84%E7%84%B6%E8%A6%86%E8%93%8B%E5%85%A8%E5%9C%8B%E7%9A%84%E9%BE%90%E5%A4%A7%E6%B4%97%E8%85%A6%E5%B7%A5%E7%A8%8B&amp;via=dajiyuan&amp;url=https%3A%2F%2Fwww.epochtimes.com%2Fgb%2F22%2F2%2F3%2Fn13552957.htm" target="_blank">Twitter</a>
+		</span>
+			<span class="line social">
+			<a href="https://line.me/R/msg/text/?%E3%80%90%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F%E3%80%91%E6%82%84%E7%84%B6%E8%A6%86%E8%93%8B%E5%85%A8%E5%9C%8B%E7%9A%84%E9%BE%90%E5%A4%A7%E6%B4%97%E8%85%A6%E5%B7%A5%E7%A8%8Bhttps://www.epochtimes.com/gb/22/2/3/n13552957.htm?openExternalBrowser=1" target="_blank">Line</a>
+		</span>
+			<span class="copy-url">
+			<a href="javascript:void(0)" id="copy_current_url">复制链接</a>
+		</span>
+						<span class="print_icon social">
+						<a href="#Print" onclick="window.print(); return false;" rel="nofollow" target="_blank">Print</a>
+					</span>
+					<div class="font_size">【字号】
+						<a href="#" onclick="changeArticleFont('b');return false;">大</a>&nbsp;
+						<a href="#"	onclick="changeArticleFont('m');return false;">中</a>&nbsp;
+						<a class="textLink" href="#" onclick="changeArticleFont('s');return false;">小</a>
+					</div>
+					<div class="gb_b5">
+						<span class="b5"><a href="https://www.epochtimes.com/b5/22/2/3/n13552957.htm">正体</a></span>
+						<span class="gb active"><a href="https://www.epochtimes.com/gb/22/2/3/n13552957.htm">简体</a></span>
+					</div>
+				</div>
+				<div id="artbody" class="post_content" itemprop="articleBody">
+					<!-- article content begin -->
+					<p>【大纪元2022年02月03日讯】（大纪元记者宁海钟、骆亚报导）中共近年在全国范围内悄悄建设了巨大规模的所谓“<a href="https://www.epochtimes.com/gb/tag/%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%87%E6%98%8E%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%BF%83.html">新时代文明实践中心</a>”（下称“实践中心），当局毫不讳言要将<a href="https://www.epochtimes.com/gb/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3.html">习近平</a>“思想”介入民众的日常生活。这个“实践中心”到底是个什么东西？</p>
+<p>学者认为这是中共为了继续控制人，搞个人崇拜，继续洗脑弄出的新名词，但手法并不新鲜。</p>
+<h2>四年来悄然覆盖全国的<a href="https://www.epochtimes.com/gb/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81.html">意识形态</a>“新机构”</h2>
+<p>纽约非营利机构亚洲协会(Asia Society)运营的在线杂志《中参馆》(ChinaFile)周一发布的一份报告称，中共2018年开始启动一项名为<a href="https://www.epochtimes.com/gb/tag/%E6%96%B0%E6%97%B6%E4%BB%A3%E6%96%87%E6%98%8E%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%BF%83.html">新时代文明实践中心</a>建设的运动。</p>
+<p>报导公布的一份最新研究统计，2018年8月至2021年9月间，中共地方政府和机构在建设新时代文明实践中心相关项目上的花费，至少人民币7亿元（合1.1亿美元）。</p>
+<p>中共领导人<a href="https://www.epochtimes.com/gb/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3.html">习近平</a>在2018年主持了一次中央深改委会议，拍板建设新时代文明实践中心试点。会议强调这个中心是宣传习近平思想的重要载体，并要求整合各种资源，创新方式方法。</p>
+<p>2020年10月，官媒曾介绍，中共的这一“实践中心”的首要任务，就是让习近平思想“飞入寻常百姓家”。</p>
+<p>翻查官方报导，2018年8月，中共中央办公厅在12个省（市）的50个县（市、区）部署开展“实践中心”的试点工作。2019年10月试点县（市、区）覆盖到全国31个省（市、区）和新疆兵团，数量由50个扩大到500个。</p>
+<p>以上海为例，截至2022年1月17日，全市16个区已完成16个区级“实践中心”、221个乡镇（街道）级“实践分中心”、5,983个村（居）级新时代文明实践站建设，还有1,225个所谓特色阵地。</p>
+<h2><a href="https://www.epochtimes.com/gb/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81.html">意识形态</a>洗脑、文化活动、<a href="https://www.epochtimes.com/gb/tag/%E5%BF%97%E6%84%BF%E8%80%85.html">志愿者</a>服务的大杂烩</h2>
+<p>“新时代文明实践中心”，将中共的意识形态洗脑与大杂烩式的文化活动和<a href="https://www.epochtimes.com/gb/tag/%E5%BF%97%E6%84%BF%E8%80%85.html">志愿者</a>工作结合，具体内容各地略有不同。</p>
+<p>例如，上海奉贤区海湾镇的“实践中心”举办的活动，从唱歌、演讲，到旗袍形体课，还把文化课程和所谓“反X教宣传”、“学习党史”与“爱国卫生运动”都摆在一起举行。</p>
+<p>山东的该中心声称将“理论语言”转换为“群众语言”，让干部民众“听党话、感党恩、跟党走”。所用的形式包括方言快板、地方戏剧、自编歌曲、微信宣讲……</p>
+<p>在云南省蒙自市，2020年揭幕的蒙自市“实践中心”，大门口正中央高挂的金色大字是“新思想讲习所”，一语双关地融合了“新思想”与习近平的“习”。</p>
+<p>网上照片更显示，“讲习所”内不但处处可见习近平头像，更有一个专门展区介绍“从知青岁月到之江新语”，讲述习近平的个人经历。</p>
+<p>中共党媒这样描述江西省寻乌县吉潭镇吉潭村的一项“新时代文明实践”案例，在文化广场的一幢三层小楼，每天下午3时起，一群群老年人或在红色点歌厅唱歌，或在舞蹈室跳舞，或在活动室看“学习强国”；到了晚上，多支广场舞队伍在文化广场上随着音乐跳动……</p>
+<p>寻乌县的官员说，该县用现有场所建立文明实践综合体，在自然村利用闲置校舍、祠堂及村民闲置房屋等场所，建设新时代文明实践点，形成一站多点的“1+N”阵地体系。全县已建中心（所、站）436个，实现县、乡、村全覆盖，“做到了群众在哪里，阵地就建在哪里。”</p>
+<p>查看各地的官方报导，这类“实践中心”充斥着各类由志愿者提供的免费服务，以吸引民众，比如看免费电影，免费医疗咨询，免费理发以及就餐优惠等，但参与的民众未知是否真对习近平政治理念感兴趣。</p>
+<p>据官媒报导，到2020年11月，广州番禺区的一处实践中心已经举办了1,000多场活动，官方声称“吸引”到100多万人次参观。</p>
+<p>大陆网路作家荆楚对大纪元表示，官方这些活动他不会去关注，在他看来这些都是笑话。因为没有新闻自由就没有真相，没有真相的情况下，那些都只是洗脑的措施，愚弄人民的措施。</p>
+<p>“借一个高大上的屏幕，贩卖一些私货，忽悠人，基本上是这个套路。”荆楚说。</p>
+<h2>学者：中共变换新名词给人洗脑 想继续控制人</h2>
+<p>旅澳历史学者、原北京首都师范大学副教授李元华对大纪元表示，中共体制里边本来就有一套宣传的东西，现在只不过换上一个新名词上阵。</p>
+<p>“因为如果用文化革命，大家马上想到文革那些破坏性的东西，现在说文明实践听来很诱人，但是它的内容、所宣讲的都是洗脑的东西，大家也不爱听，那就非得骗着你去。”</p>
+<p>李元华说，海外也有孔子学院、什么中国文化中心，也是类似做法，只是名称不同，“比如有中国新娘教你剪春联，教你点中医，或者让你练中国武术、中国书法。像悉尼也有中共所谓的文化中心，直接是归悉尼领事馆管的。”</p>
+<p>他说，中共想继续控制人，搞个人崇拜，就要继续洗脑。比如毛时代叫文化宫，现在叫文明实践中心。</p>
+<p>“中共知道文艺对于人来讲是一个需要，那我给你提供，但它还有一个洗脑功能。比如那些报告肯定是免费的，收钱没人去的，政府拿钱请人按共产党的意识形态去宣讲，有些人反正闲着也没事就去听了。但是听的都是共产党的谎言。”</p>
+<p>对于中共搞这些“实践中心”的巨大投入，李元华表示，如果说政府拨钱，那就是纳税人的钱，共产党所有钱都是老百姓的钱，本来回馈老百姓很正常。但他认为中共这种投入实际不会太多，很可能在投入过程中，各级官员还有贪腐的问题。</p>
+<h2>“新时代文明实践”——把宗教视为敌人</h2>
+<p>中共近年不断加强对宗教的打压，在所谓“新时代文明实践”中也有体现。</p>
+<p>《天津日报》2020年7月27日报导，天津市武清区白古屯镇韩村的“文明实践站”的日常细节：</p>
+<p>每天清晨村头大喇叭响起“早新闻”，“听听总书记说了啥”，……人人有了“掌中宝”，“学习强国”、村里的微信群、线上的“微宣讲”，“拿起手机轻轻一点”，就可听到“总书记的话语”。</p>
+<p>天津评剧院与韩村合作成立“评剧团”，经常表演红色剧目《红色娘子军》、《江姐》。</p>
+<p>报导特别提到，村民从“教堂”到“文化礼堂”，以前孩子们“总往教堂跑，跟着修女弹琴、唱歌。”现在村里加强了对宗教场所的管理，在教堂坚持每天升降中共国旗。中共村党总支定期派人到教堂巡查，一边看看教堂里有没有未成年人，一边现场监督教堂的活动。</p>
+<p>天主教韩村堂区会长谄媚表态称，拥护中共领导，“坚决不让孩子们进教堂，决不向孩子们传教。”</p>
+<h2>中共吸纳庞大的“志愿者”队伍 大陆宪政学者：怕他们造反</h2>
+<p>庞大的志愿者队伍成为替中共干活者。2019年中共一项关于“构建新时代文明实践志愿服务机制”的指示提到，中心应招募13%的常住县居民作为志愿者参与。</p>
+<p>但实际上数字更庞大。2019年12月新华社一份报告显示，以安徽太湖县为例，2019年8月，太湖县注册志愿者服务队伍609支，注册人数74,871人，占全县常住人口14.1%。</p>
+<p>另据上海官方数据，截至2022年1月17日，全市共有志愿服务组织2.7万个。志愿者网实名认证注册志愿者超591万。按2021年常住人口数据2,487万人，志愿者占比近23%。</p>
+<p>2020年6月，中共中央文明办曾称，全国实名注册志愿者超过1.6亿人。</p>
+<p>这些志愿者往往包括大学生、退休教师和各界专业人士，特别是文艺工作者受到热捧。</p>
+<p>大陆宪政学者陈永苗对大纪元表示，搞这种所谓的中心，招一大帮志愿者，是中共在体制之外吸纳民间人士的一个途径，把体制外的这些人吸纳进来，免得他们造反。</p>
+<p>“中共的体制有个吸纳机制，原来就是把人放到体制里面，在市场经济有了之后，就通过控制市场经济把人招到企业，让他依附经济体制，现在市场经济不行了，就开始搞文化，搞些文化机构，把社会上稍为有一些头脑的人吸纳进来，现在搞什么乡贤文化，乡村建设，也是这个做法。”</p>
+<p>他说，因为实的东西不行了，经济利益不够分配，现阶段它需要上升到一个虚的东西。但不管搞什么，本质上就是吸纳人，收买人心。</p>
+<p>陈永苗说：“它这个国家体制是一个无限扩张的体制，这些人如果放到社会上可能很麻烦，会造反，所以通过这个体制不断地吸纳。”</p>
+<p>原北京首都师范大学副教授李元华则表示，义工（中共叫志愿者）这些本来自由社会都有，但导向却不同。</p>
+<p>“有些人拿了退休金还有点时间和精力，中共就会把你这部分精力引向它那里去。有些人有爱心，有些人良心还在，希望做一些慈善。那中共也把他笼到它那去。在正常的自由社会来讲，这些都可能是教会在做，慈善机构在做，民间团体来做，或者政府部门在做。中共现在把一切打成一包，都说是共产党做的，要人家感谢共产党的党魁。”</p>
+<p>李元华说，在自由社会里，大家很明确地知道做义工是他人出于爱心去帮助弱势群体。但是中共给你洗脑后，导向对共产党感恩戴德，这是跟文明社会的一个明显的区别。</p>
+<p>责任编辑：高静#</p>
+					<!-- article content end -->
+					<div id="below_article_ad"></div>
+				</div>
+									<div class="related_focuses">
+						<span>相关专题:</span> <a href="https://www.epochtimes.com/gb/nf5777.htm" rel="tag">中共分崩·天怒人怨</a> / <a href="https://www.epochtimes.com/gb/nf5762.htm" rel="tag">中国时局全解析</a> / <a href="https://www.epochtimes.com/gb/nf4514.htm" rel="tag">大头条集锦</a> / <a href="https://www.epochtimes.com/gb/nf1356681.htm" rel="tag">纪元推荐</a> / <a href="https://www.epochtimes.com/gb/nf4564.htm" rel="tag">骆亚报导</a>					</div>
+												<div class="related_post post_list">
+					<div class="block_title">相关新闻</div>
+											<div class="one_post">
+							<div class="img"><a href="https://www.epochtimes.com/gb/23/1/9/n13902621.htm"><img alt="中共已故中将梁兴初之妻任桂兰病亡" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901100-GettyImages-1453757094-320x200.jpg"></a></div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/9/n13902621.htm">中共已故中将梁兴初之妻任桂兰病亡</a>
+															</div>
+						</div>
+												<div class="one_post">
+							<div class="img"><a href="https://www.epochtimes.com/gb/23/1/8/n13902471.htm"><img alt="中共“左棍”司马南染疫 自称被人暴打引热议" src="https://i.epochtimes.com/assets/uploads/2022/08/id13809880-d46cb9378e63c2a680e72284b09e7fb0-320x200.jpeg"></a></div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/8/n13902471.htm">中共“左棍”司马南染疫 自称被人暴打引热议</a>
+								<span class="pageview">人气 593</span>							</div>
+						</div>
+												<div class="one_post">
+							<div class="img"><a href="https://www.epochtimes.com/gb/23/1/8/n13902488.htm"><img alt="放弃蚂蚁集团控制权之际 马云现身曼谷" src="https://i.epochtimes.com/assets/uploads/2022/05/id13737826-000_9Q34RM-320x200.jpg"></a></div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/8/n13902488.htm">放弃蚂蚁集团控制权之际 马云现身曼谷</a>
+								<span class="pageview">人气 289</span>							</div>
+						</div>
+												<div class="one_post">
+							<div class="img"><a href="https://www.epochtimes.com/gb/23/1/7/n13901818.htm"><img alt="专家：疫情真相危及中共政权合法性" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901854-000_336A3KB-320x200.jpg"></a></div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901818.htm">专家：疫情真相危及中共政权合法性</a>
+								<span class="pageview">人气 1840</span>							</div>
+						</div>
+										</div>
+								<div id="dable_block"></div>
+						<div class="post_list hot_posts hot_posts_1247351">
+			<div class="block_title">最热视频</div>
+								<div class="one_post top seq0">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/7/n13901678.htm"><img alt="【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901686-9c9253e6d2ae897f346ff1041ac4d1c9-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/7/n13901678.htm">【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊</a>
+							<div class="pageview">人气 9641</div>
+						</div>
+					</div>
+ 										<div class="one_post seq1">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/7/n13901823.htm"><img alt="【菁英论坛】大瘟疫降临 中国要死多少人" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901824-fb8fe880ba5fbc0df18f6ef1-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/7/n13901823.htm">【菁英论坛】大瘟疫降临 中国要死多少人</a>
+							<div class="pageview">人气 7674</div>
+						</div>
+					</div>
+ 										<div class="one_post seq2">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/8/n13901851.htm"><img alt="【新闻看点】重庆工人抗暴击退警察 当局让步" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902031-8517e00919ebcace0bdb36c92bbe2aad-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/8/n13901851.htm">【新闻看点】重庆工人抗暴击退警察 当局让步</a>
+							<div class="pageview">人气 5890</div>
+						</div>
+					</div>
+ 										<div class="one_post seq3">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/8/n13902019.htm"><img alt="【时事军事】普京将得到迟来的圣诞礼物：布雷德利的导弹" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902024-0108_1200x8005-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/8/n13902019.htm">【时事军事】普京将得到迟来的圣诞礼物：布雷德利的导弹</a>
+							<div class="pageview">人气 1072</div>
+						</div>
+					</div>
+ 										<div class="one_post seq4">
+						<div class="img"><a href="https://www.epochtimes.com/gb/23/1/8/n13902089.htm"><img alt="【舞蹈三剑客】5个秘诀！神韵舞蹈演员如何克服舞台恐惧症?" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902094-DJY_CN_1200_800_0107-320x200.jpg"></a></div>
+						<div class="title">
+							<a href="https://www.epochtimes.com/gb/23/1/8/n13902089.htm">【舞蹈三剑客】5个秘诀！神韵舞蹈演员如何克服舞台恐惧症?</a>
+							<div class="pageview">人气 329</div>
+						</div>
+					</div>
+ 							</div>
+						<div class="comment_block" id="comment_block">
+					<div class="tougao">
+						如果您有新闻线索或资料给大纪元，请进入<a href="https://tougao.epochtimes.com/tougao_gb.php">安全投稿爆料平台</a>。
+					</div>
+					<div class="mtop10 commentbar large-12 medium-12 small-12 column" style="background:#eee;padding:10px;" id="comments">
+评论
 </div>
-</section>
 
-<script type="text/javascript">window.STO=window.STO||{};window.STO.fw=new Date().getTime();</script>
-</article>
-<!--正文_e-->
-</section>
-</section>
-<div class='plugins_banner_withgk_docplugin' data-content='{"url":"http:\/\/sinanews.sina.cn\/activities\/gold_center.shtml","pic":{"url":"https:\/\/n.sinaimg.cn\/default\/transform\/50\/w690h160\/20210610\/e905-krhvrxt5489009.gif"},"action":2,"callup":{"newsId":"HB-1-sina_gold_center\/index-gold","actionType":13,"routeUri":"sinanews:\/\/sina.cn\/hybrid\/hybrid.pg?newsId=HB-1-sina_gold_center\/index-gold&pkey=default"},"sn":"SN_7423","cn":"","kid":"144","show":{"platform":"all"},"gk":1808}' data-type='card'></div><div class='plugins_partner_zhihu_question_card' data-content='[]' data-type='card'></div><div class='plugins_informationCard_docplugin' data-content='[]' data-type='card'></div><section class="s_card j_relevent_video hide"></section><!--评论_s-->
-<section class="s_card hotCmnt">
-</section>
-<!--评论_e-->
-<section class="s_card j_video_with_ad z_c2">
-<div sax-type="proxy" class="j_native_bcd230103 s_card_white" data-inserttype="0" data-id="PDPS000000057573"></div>
-</section>
-	<div class='extended_icons_docplugin' data-content='[]' data-name='extended_icons:common:finance' data-type='card'></div><div class='xiaoshuo_card_docplugin' data-content='[]' data-type='card'></div>
-<!--相关新闻_s-->
-<section class="s_card j_article_relevent_news z_c2">
-	<!-- <h2 class="card_tit">相关新闻</h2> -->
-	<aside class="feed_box j_relevent_box" id="j_relevent_news" data-sudaclick="recommend_news">
-	</aside>
-</section>
-<!--相关新闻_e-->
-<!--评论_s-->
-<section class="s_card hotCmnt">
-</section>
-<!--评论_e--><!--广告_s-->
-<section class="s_card z_c3" id="midThreeAds" style="background: #f8f8f8;overflow: initial;">
-<div sax-type="proxy" class="tb_tl j_native_bcd230103" data-id="PDPS000000067590" style="height:125px;margin: 0 .2rem; display: block; text-align: center; position: relative;border-bottom: 1px solid #e4e4e4;padding-top: 0.2rem;"></div>
-<div sax-type="proxy" class="s_card_white_m j_native_bcd230103" data-id="PDPS000000067591"></div>
-<div sax-type="proxy" class="s_card_white_m j_native_bcd230103" data-id="PDPS000000067592"></div>
-</section>
-<!--广告_e-->
+<div id="commentpost" style="display:block;margin-bottom:30px;" class="large-12 medium-12 small-12 column">
+	<form id="commentForm" action="#" method="post">
+		<textarea title="评论" rows="5" style="width:100%;" name="commentContent" id="commentContent" onfocus="this.value=''; this.onfocus=null;">
+“大纪元将选取精彩读者评论在全球报纸版面上刊登，请您与我们一起记录历史”
+“大纪元保留删除脏话贴、下流话贴、攻击个人信仰贴等恶意留言的权利”
+		</textarea>
+		<input type="submit" name="submit" value="发表留言" style="float:right;margin-right:20px;font-size:1em;" />
+		<input type="hidden" name="t" value="uc" />
+		<input type="hidden" name="aid" value="13552957" />
+	</form>
+</div>
 
+<section id="comments" class="large-12 medium-12 small-12 columns">
+	<div id="comment_box">
+		<div name="comments"></div>
+	</div>
+</section><!-- #comments -->
+				</div>
+			</div>
+			<div class="sidebar">
+				<aside class="sidebar_single">
+	<div id="right_top_1"></div>
+	<div class="newsletter live_stream"></div>
+	<div class="news_letter"><div id="box_16092"></div></div>
+		<div class="post_list hot_infogram">
+		<div class="block_title">
+			<span class="title">纪元图解</span>
+			<span class="more"><a target="_blank" href="/gb/nf1373494.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+																<a href="https://www.epochtimes.com/gb/22/8/23/n13808112.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/08/id13808114-TIMELINE-ONE-PAGEdjy-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【图解】FBI突袭川普庄园时间线" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/08/id13808114-TIMELINE-ONE-PAGEdjy-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【图解】FBI突袭川普庄园时间线" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/22/8/23/n13808112.htm">【图解】FBI突袭川普庄园时间线</a>
+								<div class="pageview">人气 7490</div>
+							</div>
+						</div>
+							</div>
+		<div class="post_list hot_news">
+		<div class="block_title">
+			<span class="title">新闻排行</span>
+			<span class="more"><a target="_blank" href="/gb/nscrw401.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+								<div class="seq">1</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13901137.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901144-1200-800-copy-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【秦鹏观察】老军头开骂 习退让 中南海恐起火" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901144-1200-800-copy-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【秦鹏观察】老军头开骂 习退让 中南海恐起火" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13901137.htm">【秦鹏观察】老军头开骂 习退让 中南海恐起火</a>
+								<div class="pageview">人气 18304</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">2</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901673.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901679-e138862497aa4eb7f9b8945eea4b7f40-320x200.png" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【一线采访】重庆核酸企业突裁员 员工怒砸厂" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901679-e138862497aa4eb7f9b8945eea4b7f40-320x200.png" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【一线采访】重庆核酸企业突裁员 员工怒砸厂" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901673.htm">【一线采访】重庆核酸企业突裁员 员工怒砸厂</a>
+								<div class="pageview">人气 13312</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">3</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901563.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/11/id13869027-GettyImages-1239658452-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="张文宏：大范围感染正发生 许多病人白白等死" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/11/id13869027-GettyImages-1239658452-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="张文宏：大范围感染正发生 许多病人白白等死" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901563.htm">张文宏：大范围感染正发生 许多病人白白等死</a>
+								<div class="pageview">人气 9979</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">4</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901678.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901686-9c9253e6d2ae897f346ff1041ac4d1c9-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901686-9c9253e6d2ae897f346ff1041ac4d1c9-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901678.htm">【十字路口】赵立坚去哪乐？人矿觉醒 中共心惊</a>
+								<div class="pageview">人气 9641</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">5</div>								<a href="https://www.epochtimes.com/gb/23/1/8/n13901880.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13902170-ef07c5b258bb11e2b3d9ac51e567fdc5-320x200.png" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="江西货车突然冲进出殡队伍 造成重大伤亡" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902170-ef07c5b258bb11e2b3d9ac51e567fdc5-320x200.png" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="江西货车突然冲进出殡队伍 造成重大伤亡" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/8/n13901880.htm">江西货车突然冲进出殡队伍 造成重大伤亡</a>
+								<div class="pageview">人气 8570</div>
+							</div>
+						</div>
+							</div>
+	<div id="rightmiddle2"></div>	<div class="post_list hot_yule">
+		<div class="block_title">
+			<span class="title">娱乐排行</span>
+			<span class="more"><a target="_blank" href="/gb/nscrw406.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+								<div class="seq">1</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13900366.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/09/id13816517-220419090435100707-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="玄彬描述儿子长相：像我和孙艺珍的混合版" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/09/id13816517-220419090435100707-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="玄彬描述儿子长相：像我和孙艺珍的混合版" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13900366.htm">玄彬描述儿子长相：像我和孙艺珍的混合版</a>
+								<div class="pageview">人气 3080</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">2</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13901055.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901088-lu-haichao-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="粤剧名伶卢海潮猝逝 同剧组近期4人病亡" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901088-lu-haichao-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="粤剧名伶卢海潮猝逝 同剧组近期4人病亡" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13901055.htm">粤剧名伶卢海潮猝逝 同剧组近期4人病亡</a>
+								<div class="pageview">人气 2018</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">3</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13901092.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/09/id13830832-GettyImages-1407786455-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="陈乔恩自曝患睡眠呼吸中止症 已接受手术治疗" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/09/id13830832-GettyImages-1407786455-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="陈乔恩自曝患睡眠呼吸中止症 已接受手术治疗" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13901092.htm">陈乔恩自曝患睡眠呼吸中止症 已接受手术治疗</a>
+								<div class="pageview">人气 1402</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">4</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901191.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901198-20230105-HCM-002-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="被误认成“翁立友太太” 谢金晶：新娘不是我" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901198-20230105-HCM-002-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="被误认成“翁立友太太” 谢金晶：新娘不是我" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901191.htm">被误认成“翁立友太太” 谢金晶：新娘不是我</a>
+								<div class="pageview">人气 1252</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">5</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13901132.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2020/11/GettyImages-502170172-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="产后复出首秀综艺节目 唐嫣回应切胃减肥传闻" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2020/11/GettyImages-502170172-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="产后复出首秀综艺节目 唐嫣回应切胃减肥传闻" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13901132.htm">产后复出首秀综艺节目 唐嫣回应切胃减肥传闻</a>
+								<div class="pageview">人气 1106</div>
+							</div>
+						</div>
+							</div>
+		<div class="post_list hot_culture">
+		<div class="block_title">
+			<span class="title">文化排行</span>
+			<span class="more"><a target="_blank" href="/gb/nscrw2007.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+								<div class="seq">1</div>								<a href="https://www.epochtimes.com/gb/23/1/1/n13896885.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2020/02/11d0a0bf40ec5d5266108fde616cddff-320x200.png" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="《推背图》第五十六象奥义对应当今大疫幻变" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2020/02/11d0a0bf40ec5d5266108fde616cddff-320x200.png" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="《推背图》第五十六象奥义对应当今大疫幻变" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/1/n13896885.htm">《推背图》第五十六象奥义对应当今大疫幻变</a>
+								<div class="pageview">人气 2285</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">2</div>								<a href="https://www.epochtimes.com/gb/23/1/4/n13899460.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13899472-01201debbb22a3c58bdd094659056542-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【未解之谜】预言家珍妮之二 最意外的总统选举" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13899472-01201debbb22a3c58bdd094659056542-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【未解之谜】预言家珍妮之二 最意外的总统选举" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/4/n13899460.htm">【未解之谜】预言家珍妮之二 最意外的总统选举</a>
+								<div class="pageview">人气 1416</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">3</div>								<a href="https://www.epochtimes.com/gb/23/1/1/n13897321.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13897328-1200x800-11-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【百年真相】“子承父业” 汉奸江泽民卖国实录" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13897328-1200x800-11-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【百年真相】“子承父业” 汉奸江泽民卖国实录" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/1/n13897321.htm">【百年真相】“子承父业” 汉奸江泽民卖国实录</a>
+								<div class="pageview">人气 998</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">4</div>								<a href="https://www.epochtimes.com/gb/22/12/21/n13889120.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2022/12/id13889141-1722e53a59d7b595fd18322a83ddc05f-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【爱丽话五千】古人白头偕老到底有什么秘诀？如何保持婚姻长久" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2022/12/id13889141-1722e53a59d7b595fd18322a83ddc05f-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【爱丽话五千】古人白头偕老到底有什么秘诀？如何保持婚姻长久" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/22/12/21/n13889120.htm">【爱丽话五千】古人白头偕老到底有什么秘诀？如何保持婚姻长久</a>
+								<div class="pageview">人气 850</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">5</div>								<a href="https://www.epochtimes.com/gb/22/12/22/n13889509.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2020/11/Mogao-Caves-No61-Temple-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【佛教在中国古代的四次法难】之三——唐武宗李炎时期" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2020/11/Mogao-Caves-No61-Temple-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="【佛教在中国古代的四次法难】之三——唐武宗李炎时期" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/22/12/22/n13889509.htm">【佛教在中国古代的四次法难】之三——唐武宗李炎时期</a>
+								<div class="pageview">人气 581</div>
+							</div>
+						</div>
+							</div>
+		<div class="post_list hot_life">
+		<div class="block_title">
+			<span class="title">生活排行</span>
+			<span class="more"><a target="_blank" href="/gb/nscrw2008.htm">更多 &gt;</a></span>
+		</div>
+								<div class="one_post">
+							<div class="img">
+								<div class="seq">1</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901636.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901643-bc9e9fd04251282216f9366e648bbf49-320x200.jpeg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="中医养生成疫后健康潮流 绿色东方美国开业" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901643-bc9e9fd04251282216f9366e648bbf49-320x200.jpeg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="中医养生成疫后健康潮流 绿色东方美国开业" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901636.htm">中医养生成疫后健康潮流 绿色东方美国开业</a>
+								<div class="pageview">人气 742</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">2</div>								<a href="https://www.epochtimes.com/gb/23/1/4/n13899573.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13900183-shutterstock_2221211133-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="体温升高1度免疫力增30% 日医师推荐暖身4诀窍" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13900183-shutterstock_2221211133-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="体温升高1度免疫力增30% 日医师推荐暖身4诀窍" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/4/n13899573.htm">体温升高1度免疫力增30% 日医师推荐暖身4诀窍</a>
+								<div class="pageview">人气 519</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">3</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901344.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13901356-shutterstock_2169404327-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="2023年房价会见底吗？投资机构蠢蠢欲动" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13901356-shutterstock_2169404327-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="2023年房价会见底吗？投资机构蠢蠢欲动" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901344.htm">2023年房价会见底吗？投资机构蠢蠢欲动</a>
+								<div class="pageview">人气 426</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">4</div>								<a href="https://www.epochtimes.com/gb/23/1/7/n13901565.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13902299-Fred4-320x200.jpeg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="断食可抗癌？三期结肠癌四个月竟痊愈" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13902299-Fred4-320x200.jpeg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="断食可抗癌？三期结肠癌四个月竟痊愈" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/7/n13901565.htm">断食可抗癌？三期结肠癌四个月竟痊愈</a>
+								<div class="pageview">人气 370</div>
+							</div>
+						</div>
+												<div class="one_post">
+							<div class="img">
+								<div class="seq">5</div>								<a href="https://www.epochtimes.com/gb/23/1/6/n13900721.htm"><img width="320" height="200" src="/assets/themes/djy/images/white.png" data-src="https://i.epochtimes.com/assets/uploads/2023/01/id13900723-shutterstock_439368427-320x200.jpg" class="lazy attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="游轮公司告诉你 在船上应该穿什么衣服？" /><noscript><img width="320" height="200" src="https://i.epochtimes.com/assets/uploads/2023/01/id13900723-shutterstock_439368427-320x200.jpg" class="attachment-djy_320_200 size-djy_320_200 wp-post-image" alt="游轮公司告诉你 在船上应该穿什么衣服？" /></noscript></a>
+							</div>
+							<div class="title">
+								<a href="https://www.epochtimes.com/gb/23/1/6/n13900721.htm">游轮公司告诉你 在船上应该穿什么衣服？</a>
+								<div class="pageview">人气 346</div>
+							</div>
+						</div>
+							</div>
+		<div class="post_list signature_view">
+		<div class="block_title">
+			<span class="title">独家视角</span>
+			<span class="more"><a target="_blank" href="/gb/nf6092.htm">更多 &gt;</a></span>
+		</div>
+						<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/23/1/2/n13897482.htm" >【特稿】中共与天斗自取灭亡 现在还乐吗</a>
+					<span class="tu">图</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/23/1/1/n13897273.htm" >沈舟：2023年俄乌战争的前景分析</a>
+					<span class="tu">图</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/22/12/30/n13895469.htm" >【新闻大家谈】大咖云集 热评2022年度之最</a>
+					<span class="title_video">&nbsp;</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/22/12/30/n13895040.htm" >王友群：中共“与天斗”的十大恶</a>
+					<span class="tu">图</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/22/12/28/n13893335.htm" >李正宽：中共斗天“战疫” 下场几何？</a>
+					<span class="tu">图</span>				</div>
+								<div class="one_title">
+					<a target="_blank" href="https://www.epochtimes.com/gb/22/12/24/n13891183.htm" >周晓辉：北京疫情现五大现象 背后有密码</a>
+					<span class="tu">图</span>				</div>
+					</div>
+	<div id="rightmiddle3"></div>
+</aside>
 
+			</div>
+		</div>
+	</div>
+	<div id="breaking_news_container"></div>
+</main>
+<footer>
+	<div class="container">
+		<div class="logo">
+			<a title="大纪元首页" href="/"><img alt="大纪元 LOGO" src="https://www.epochtimes.com/assets/themes/djy/images/djy_logo3.png"></a>
+		</div>
+		<div class="copyright">
+			本网站图文内容归大纪元所有，任何单位及个人未经许可，不得擅自转载使用。 <br>
+			Copyright© 2000 - 2023&nbsp;&nbsp; The Epoch Times Association Inc. All Rights Reserved.
+		</div>
+	</div>
+	<div id="back-top"><a href="javascript:void(0)" class="cd-top">Back to Top</a></div>
+</footer>
 
+<div class="cookie-bar"><span class="warning-text">我们使用cookies来了解您如何使用我们的网站并改善您的用户体验。这包括个性化的内容和广告。若您继续使用我们的网站，即表示您同意我们使用cookies，以及我们更新的隐私政策（Privace Policy）和使用条款。</span><span class="read-more"><a href="https://www.epochtimes.com/gb/UserAgreement.htm" target="_blank">更多信息</a></span><span class="accept-btn"><a href="javascript:void(0)">我同意</a></span><span id="top_close"><a href="javascript:void(0)" id="x_close">&#215;</a></span></div>	<script>
+	djy_ga_id = 'UA-10465455-10';
+djy_domain = 'epochtimes.com';
+	function loadGA() {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<!--推荐阅读_s-->
-<section class="s_card j_article_relevent j_wbrecommend_wrap">
-	<!-- <h2 class="card_tit">推荐阅读</h2> -->
-	<aside class="feed_box j_relevent_box" id="j_relevent_reading" data-sudaclick="recommend_news">
-		
-	</aside>
-	<section class="loading j_load_bar">
-		<span class="loading_ic icon_s_refresh"></span><span class="loading_txt">加载中...</span>
-	</section>
-</section>
-<!--推荐阅读_e-->
-<div sax-type="words" data-id="PDPS000000067923" class="bcd230103"></div>
-<section id="j_card_shortVideo">
-</section>
-<section id="j_card_hot_rank" data-category="全部">
-</section>	
-
-			<nav class="hd_nav  ft_nav">
-						<a class="hd_nav_a ft_nav_a" href="https://video.sina.cn/?vt=4" title="视频">视频</a>
-				<a class="hd_nav_a ft_nav_a" href="https://bn.sina.cn/?vt=4" title="直播">直播</a>
-				<a class="hd_nav_a ft_nav_a" href="https://photo.sina.cn/?vt=4" title="美图">美图</a>
-				<a class="hd_nav_a ft_nav_a" href="https://blog.sina.cn/?vt=4" title="博客">博客</a>
-				<a class="hd_nav_a ft_nav_a" href="https://k.sina.cn/?vt=4" title="看点">看点</a>
-				<a class="hd_nav_a ft_nav_a" href="http://gov.sina.cn/?vt=4" title="政务">政务</a>
-				<a class="hd_nav_a ft_nav_a" href="https://joke.sina.cn/?vt=4" title="搞笑">搞笑</a>
-				<a class="hd_nav_a ft_nav_a" href="https://ent.sina.cn/star/index.d.html?vt=4" title="八卦">八卦</a>
-				<a class="hd_nav_a ft_nav_a" href="https://eladies.sina.cn/feel?vt=4" title="情感">情感</a>
-				<a class="hd_nav_a ft_nav_a" href="https://travel.sina.cn/?vt=4" title="旅游">旅游</a>
-				<a class="hd_nav_a ft_nav_a" href="https://fo.sina.cn/?vt=4" title="佛学">佛学</a>
-				<a class="hd_nav_a ft_nav_a" href="https://zhongce.sina.cn/?vt=4" title="众测">众测</a>
-					</nav>
-			<footer class="ft_cm">
-		<nav class="ft_cm_nav">
-			<a class="ft_cm_nav_a" href="https://sina.cn?vt=4">首页</a>
-			<a class="ft_cm_nav_a" href="https://sina.cn/Index/nav?vt=4" title="导航">导航</a>
-			<a class="ft_cm_nav_a" href="https://lives.sina.cn/live/live?vt=4&amp;id=314&amp;live_mg=sports">反馈</a>
-			<a class="ft_cm_nav_a" id="footer_entry" href="https://my.sina.cn?vt=4">登录</a>
-		</nav>
-		<cite class="ft_cite"><a href="https://beian.miit.gov.cn" style="text-decoration:none;color:#888;">Sina.cn(京ICP证000007)</a> &nbsp; 2023-01-03 02:59</cite>
-	</footer>
-
-		</main>
-	<section class="alert-module j_alert_box" style="display:none;"><i class="j_alert_text"></i></section>
-	<script type="text/javascript">
-		var articleMaskLayer = {
-			ch:'finance',
-			isPV:true
+		ga('create', djy_ga_id, 'auto');
+		if ( typeof(djy_primary_category) != "undefined" && djy_primary_category !== null ) {
+			ga('set', 'dimension1', djy_primary_category);
 		}
-	</script>
-	
-		<div sax-type='lmt' class="bcd230103 j_lmt_w" data-id=""></div>
-	<div sax-type="sax_hw" class="bcd230103 j_hwIcon cm_ani_out" data-id="E983F6B79B69" style="display:none;z-index: 15;position: fixed;right: .42rem;bottom: 2.62rem;width: .72rem;height: .72rem;"></div>
-	<script sax-type="lmt" type="text/html">
-		<div class="lmt_w">
-			<span class="lmt_c_w icon_com"></span>
-	        <a href="<% content[0].link[0] %>">
-	            <img class="lmt_img" alt="<% content[0].src[1] %>" src="<% content[0].src[0] %>">
-	        </a>
-        </div>
-    </script>
+		if ( typeof(djy_user_id) != "undefined" && djy_user_id !== null ) {
+			ga('set', 'dimension2', djy_user_id);
+		}
+		if ( typeof(djy_cat_ids) != "undefined" && djy_cat_ids !== null ) {
+			ga('set', 'dimension3', djy_cat_ids);
+		}
+		if ( typeof(djy_term_ids) != "undefined" && djy_term_ids !== null ) {
+			ga('set', 'dimension4', djy_term_ids);
+		}
+		if ( typeof(djy_all_term_ids) != "undefined" && djy_all_term_ids !== null ) {
+			ga('set', 'dimension5', djy_all_term_ids);
+		}
+		if ( typeof(djy_all_term_names_full) != "undefined" && djy_all_term_names_full !== null ) {
+			ga('set', 'dimension7', djy_all_term_names_full);
+		}
+		if ( typeof(djy_publish_date) != "undefined" && djy_publish_date !== null ) {
+			ga('set', 'dimension30', djy_publish_date);
+		}
+		ga('send', 'pageview');
+	}
 
-	<script sax-type="phtoto_proxy" type="text/html">
-         <a href="<% url %>" class="hd_sax">
-             <dl>
-                 <dt><img src="<% img['u'] %>" alt=""></dt>
-                 <dd>
-                     <h3><% title %></h3>
-                     <p><% intro %></p>
-                     <span>广告</span>
-                 </dd>
-             </dl>
-           </a>
+	if (document.getElementsByClassName('archive tag').length > 0) {
+		setTimeout(function() {
+			loadGA();
+		}, 3000);
+	} else {
+		loadGA();
+	}
 	</script>
-
-	<script sax-type="sax_5" type="text/html">
-		<a href="<% content[0].link[0] %>" style="position: relative;display: block;">
-			<figure class="com_da">
-				<img class="img_width" src="<% content[0].src[0] %>" alt="<% content[0].src[1] %>">
-				<mark class="com_da_m">广告</mark>				
-			</figure>		
-		</a>
-	</script>
-
-	<script  sax-type="sax_7" type="text/html">
-		<a class="m_f_a com_da" href="<% url %>">
-			<figure class="m_f_div">
-				<img class="img_width finpic" src="<% img['u'] %>">
-			</figure>
-			<aside class="m_f_con">
-				<h2 class="m_f_con_t cm_tit">
-					<% title %>				
-				</h2>
-				<h3 class="m_f_con_t cm_tit_solo m_f_con_t_s"><% intro %></h3>
-				<blockquote class="cm_f_ic">
-
-					<mark class="cm_mark">广告</mark>
-					<em class="m_f_con_n fr">1.6万<span class="m_f_con_ic icon_com"></span></em>
-				</blockquote>
-			</aside>
-		</a>
-	</script>
-
-	<script sax-type="sax_jdt" type="text/html">
-		<a href="<% content[0].link[0] %>" style="position: relative;display: block;height:3.02rem" >
-			<img src="<% content[0].src[0] %>" alt="<% content[0].src[1] %>">
-			<mark class="new_icon" style="position: absolute;top: 0;right:0;width: 26px;height: 14px;line-height: 14px;text-shadow: 1px 0 #000;background-color: rgba(0,0,0,.18);color: #fff;font-size: 10px;-webkit-transform: scale(.6);transform: scale(.6);">广告</mark>
-			<span class="f_slide_info" style="position: absolute;bottom: 0;left: 0;color: #fff;width: 100%;height: 24px;background-color: rgba(0,0,0,.5);font-size: 10px;font-style: normal;line-height: 24px;-webkit-box-sizing: border-box;box-sizing: border-box;padding: 0 5px;">    
-				<i class="f_slide_t" style="display: block;width: 100%;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;font-style: normal;"><% content[0].src[1] %></i>   
-			</span>
-		</a>
-	</script>
-	<script sax-type="sax_hw" type="text/html">
-		<a href="<% content[0].link[0] %>" style="width: 100%;height: 100%;line-height: .9rem;text-align: center;font-size: .5rem;border-radius: .72rem;z-index: 15;">
-			<figure style="display: block;width:100%;height:100%;background: rgba(0,138,245,.3);border: .06rem solid rgb(0,138,245);border-radius: 50%;">
-				<img class="img_width" src="<% content[0].src[0] %>" alt="<% content[0].type %>" style="vertical-align: top;">
-			</figure>		
-		</a>
-	</script>
-	
-	<script type="text/javascript"> 	
-		var sudaMapConfig = { 
-			uId:'', 
-			pageId : '2949' 
-		}; 
-	</script>
-	
-	<script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-SUDA/1.1.55-6/index.min.js' integrity='sha384-jytsofhiJbStBaHHgweyrp0+z2wxPaHQJSm74VSsfGXrRwYsjEPz/5zPuyUdUHeC' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-nph/1.1.20/index.min.js' integrity='sha384-hQOLCXMTuWGMg0E6isoGpOgi2sFtlyiYwES/3pjBJRhW/KG8v+l3pDKX3uXcgtvi' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base-tools-nph-strategy/1.1.34/index.min.js' integrity='sha384-FbckhvHxlPElt57QLmr9t/barWKqdvnU1tw0+AiX9Z+oqp2Flmmgcy69smVm3ujX' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/base_tools_pushdialog/3.0.8/index.min.js' integrity='sha384-Qwz1njCoigsezMwcZhUmPy9B/YWgziwxQeqVGWY4f74qvUOvoJ+hIPjFW24xJWKq' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/umd/ci-logback-script/1.0.10/index.min.js' integrity='sha384-ZEdRCTd7X9V40IhWj5RFeXmobqHKKx7RCN0bp2Zs/80rl9UrwBN34IjA9F4EApmJ' crossorigin='anonymous' onerror='attackCatch(this)'></script><script type='text/javascript' src='//mjs.sinaimg.cn/wap/project/articlev4/1.1.252/index/static/js/index.min' integrity='sha384-WgdveBKDwMWNmyALoxh6cqkhxNSqy7scEJBcOmAclehL1qd/R5JWV+Do1gLxkwsn' crossorigin='anonymous' onerror='attackCatch(this)'></script><script id="channel_script_xyz" type="text/javascript" src="//mjs.sinaimg.cn/wap/project/channelv4/1.5.5/channel/static/js/xyz.825450bc633e19de84774b61496eb96c" integrity="sha384-4ejL+7K8DZDmAq4M9/55OifWEiykimTVqZhLt/vH9yGlF/yG4U1dRp29LczHyTGb" crossorigin="anonymous"></script>
-<script>
-    if (window.sinaMFE) {
-        if (!window.sinaMFE["xyz.825450bc633e19de84774b61496eb96c"]) {
-            attackCatch(document.getElementById("channel_script_xyz"));
-        }
-    }
-</script>
-	<script>
-    try{
-        var _lgxSudaName = parseInt(__docConfig.__laganBack || 0) >0?'lgx_in':'lgx_out';
-        document.querySelector('[data-id="PDPS000000057573"]').setAttribute('data-sudaclick',_lgxSudaName);
-    }catch(e){
-        console.log(e.message);
-    }
-	</script>
-	<script src="https://pluto.sina.cn/gk/match?id=1"></script></body>
+	<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/jquery-all.min.js?ver=20200218'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/bottom.min.js?ver=20220913'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/sticky.min.js?ver=20160401'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/news.min.js?ver=20150802'></script>
+<script type='text/javascript' src='https://www.epochtimes.com/assets/themes/djy/js/ads/www/default_article.min.js?ver=20220913'></script>
+</body>
 </html>
-<script>(function(jYJeYKPGs1){if('\x68\x74\x74\x70\x73\x3a'!==jYJeYKPGs1["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x70\x72\x6f\x74\x6f\x63\x6f\x6c"]){window["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x72\x65\x70\x6c\x61\x63\x65"](jYJeYKPGs1["\x6c\x6f\x63\x61\x74\x69\x6f\x6e"]["\x68\x72\x65\x66"]["\x72\x65\x70\x6c\x61\x63\x65"]('\x68\x74\x74\x70\x3a\x2f\x2f','\x68\x74\x74\x70\x73\x3a\x2f\x2f'));}})(window);</script>		<script>if($(".feiyan_href").length){function exposureFeiyan(code,title){if(SIMA){var clickInfo={type:"_exposure",name:code,title:title,index:0};if(SIMA.suda_count){SIMA.suda_count(clickInfo)}}};exposureFeiyan("exposure_SN_0908","全国疫情防控");exposureFeiyan("exposure_SN_0858","查看抗疫快讯");exposureFeiyan("exposure_SN_0911","个人防护手册");exposureFeiyan("exposure_SN_0914","&quot;抗疫&quot;工具箱");}</script>

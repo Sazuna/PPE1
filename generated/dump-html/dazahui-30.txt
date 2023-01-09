@@ -1,1 +1,724 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
 
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <meta name="renderer" content="webkit" />
+	 <meta http-equiv="mobile-agent" content="format=xhtml; url= http://www.fortunechina.com/shangye/c/2021-10/08/content_398561.htm" /><meta property="og:title" content=" 初创公司推出新平台，为公众降低另类资产投资门槛" /><meta property="og:url" content=" http://www.fortunechina.com/shangye/c/2021-10/08/content_398561.htm" /><meta property="og:description" content=" Securitize业务是帮助私人公司为基于区块链技术的安全代币筹集资金。" /><meta property="og:image" content="" /><meta property="og:type" content="article" /><meta property="og:site_name" content="财富中文网" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+<title> 初创公司推出新平台，为公众降低另类资产投资门槛 - 财富中文网</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/css/style.css?v=22" />
+    <link rel="stylesheet" href="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/css/header2022.css?v=0429" />
+    <link rel="stylesheet" href="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/css/style-new.css" />
+	<script src="https://dup.baidustatic.com/js/ds.js"></script>
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+  window.googletag = window.googletag || {cmd: []};
+
+   googletag.cmd.push(function() {
+    var responsiveAdSlot = googletag.defineSlot('/22149012983/cfwkh-ndd/sizeads-rectangle-03-ndd-cfwkh', [[890, 100], [320, 100], [730, 80], [800, 160], [500, 100], [1200, 120], [788, 120]], 'div-gpt-ad-1646115389008-0').addService(googletag.pubads());
+    var mapping =
+        googletag.sizeMapping()
+             .addSize([1024,500],[[890, 100],[730, 80], [800, 160], [500, 100],[788, 120]])
+			 .addSize([0,0],[[890, 100],[730, 80], [800, 160], [500, 100],[788, 120]])
+             .build();
+    responsiveAdSlot.defineSizeMapping(mapping);
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+   
+    
+   
+  googletag.cmd.push(function() {
+    var responsiveAdSlot = googletag.defineSlot('/22149012983/cfwkh-ndd/sizeads-square-02-ndd-cfwkh', [[280, 500], [280, 250], [300, 250], [300, 500], [377, 377]], 'div-gpt-ad-1646115469632-0').addService(googletag.pubads());
+    var mapping =
+        googletag.sizeMapping()
+             .addSize([1024,500],[280,250])
+             .build();
+    responsiveAdSlot.defineSizeMapping(mapping);
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+    
+</script>
+
+</head>
+
+<body class="fcjson plus-comment new-layout">
+<div class="app-top forMobile"> <a href="" class="open">立即打开</a>
+    <div class="app-logo"> <i style="background-image: url(images/app-logo.png);background-image:
+                -webkit-image-set(url(images/app-logo.png) 1x , url(images/app-logo@2x.png) 2x);"></i>
+        <div class="txt">
+          <p>最好的商业评论 <br>
+            来自你的洞察</p>
+        </div>
+    </div>
+</div>
+<!--新头部2022 开始-->
+<div class="header-ads-wrapper js-fn-header-ad">
+  <div class="wp">
+    <div id='div-gpt-ad-1646115348485-0' style='min-width: 320px; min-height: 120px;'>
+     <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '6754368',
+        container: s,
+        size: '1200,120',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+    </div>
+  </div>
+</div>
+<div class="fn-header">
+  <div class="wp">
+    <div class="fn-header-left"> <a href="../../../../" class="fn-logo"> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web/images/logo.png"
+                        srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web/images/logo@2x.png 2x" alt=""> </a> </div>
+    <div class="fn-header-right">
+      <div class="fn-header-right-top">
+        <ul class="fn-nav">
+          <li class="has-children"> <a href="https://www.fortunechina.com/rankings/node_11663.htm">《财富》榜单</a>
+              <div class="sub-nav-menu fn-sub1">
+                <ul class="sub-nav-menu-row">
+                  <li> <a href="../../../../rankings/node_11663.htm">全部榜单</a> </li>
+                </ul>
+                <ul class="sub-nav-menu-row">
+                  <li> <a href="../../../../fortune500/index.htm">世界500强</a> </li>
+                  <li> <a href="../../../../fortune500/node_4302.htm">中国500强</a> </li>
+                  <li> <a href="../../../../fortune500/node_67.htm">美国500强</a> </li>
+                  <li> <a href="../../../../rankings/node_5522.htm">40位40岁以下商界精英</a> </li>
+                  <li> <a href="../../../../rankings/node_1555.htm">中国最具影响力的50位商界领袖</a> </li>
+                  <li> <a href="../../../../rankings/node_1552.htm">最受赞赏的中国公司</a> </li>
+                </ul>
+                <ul class="sub-nav-menu-row">
+                  <li> <a href="../../../../rankings/node_4683.htm">中国最具影响力商界女性</a> </li>
+                 <li><a href="../../../../impact/">中国最具社会影响力的20家创业公司</a></li>
+<li><a href="../../../../esg/">中国ESG影响力榜</a></li>
+                </ul>
+              </div>
+          </li>
+          <li> <a href="../../..//">商业</a> </li>
+          <li> <a href="../../../../keji">科技</a> </li>
+          <li><a href="../../../../lingdaoli">领导力</a></li>
+          <li><a href="../../../../video/node_11662.htm">视频</a></li>
+<li><a href="../../../../podcast/">播客</a></li>
+          <li><a href="https://www.fortunechina.com/col/esg.htm">ESG</a></li>
+          <li><a href="https://www.fortunechina.com/zhuanlan/node_12602.htm">Plus专栏</a></li>
+        </ul>
+        <div class="fn-app"> <a class="span" href="https://www.fortunechina.com/caifu_plus/caifu_app.htm"><i></i>APP下载</a>
+            <div class="fn-qr-code"><img
+                                src="https://fortunechina2020.oss-cn-beijing.aliyuncs.com/web/images/h-qr2.jpg"
+                                srcset="https://fortunechina2020.oss-cn-beijing.aliyuncs.com/web/images/h-qr2@2x.jpg 2x"
+                                alt=""></div>
+        </div>
+      </div>
+      <div class="fn-header-right-bot">
+        <ul class="fn-nav">
+          <li class="has-children"> <a href="https://www.fortunechina.com/rankings/node_13102.htm">榜单申报</a>
+              <div class="sub-nav-menu white fn-sub-white1">
+                <ul class="sub-nav-menu-row">
+<li><a href="https://www.fortunechina.com/rankings/node_13102.htm">全部申报入口</a></li>
+</ul>
+<ul class="sub-nav-menu-row">
+<li><a href="https://www.fortunechina.com/rankings/c/2022-03/17/content_408484.htm">世界500强申报</a></li>    
+<li><a href="https://www.fortunechina.com/rankings/c/2022-03/17/content_409151.htm">最受赞赏的中国公司申报</a></li>                     
+<li><a href="https://www.fortunechina.com/rankings/c/2022-02/18/content_406883.htm">中国ESG影响力榜申报</a></li>
+<li><a href="https://www.fortunechina.com/rankings/c/2022-01/18/content_404981.htm">中国40位40岁以下的商界精英申报</a></li>
+</ul>
+<ul class="sub-nav-menu-row">
+<li><a href="https://www.fortunechina.com/rankings/c/2022-01/18/content_404989.htm">中国最具社会影响力的创业公司申报</a></li>
+<li><a href="https://www.fortunechina.com/rankings/c/2022-02/07/content_406041.htm">中国最具影响力的商界女性申报</a></li>
+<li><a href="https://www.fortunechina.com/rankings/c/2022-02/18/content_406880.htm">中国最佳设计榜申报</a></li>
+<li><a href="https://www.fortunechina.com/rankings/c/2022-03/16/content_408828.htm">最具影响力物联创新榜申报</a></li>
+</ul>
+              </div>
+          </li>
+          <li class="has-children"> <a href="http://events.fortunechina.com">活动</a>
+              <div class="sub-nav-menu white fn-sub-white2">
+                <ul class="sub-nav-menu-row">
+                  <li><a href="http://events.fortunechina.com/">全部活动</a></li>
+                </ul>
+                <ul class="sub-nav-menu-row">                  
+                  <li><a href="https://events.fortunechina.com/events?cat=14">财富世界500强峰会</a></li>
+                                    <li><a href="https://events.fortunechina.com/events?cat=69">财富中国500强峰会</a></li>
+                                    <li><a href="https://events.fortunechina.com/events?cat=11">财富MPW女性峰会</a></li>
+                  <li> <a
+                                            href="http://events.fortunechina.com/blog/category/%e8%b4%a2%e5%af%8c40u40%e5%88%9b%e6%83%b3%e4%bc%9a/">财富40U40创想会</a> </li>
+                </ul>
+                <ul class="sub-nav-menu-row">
+                  <li> <a
+                                            href="http://events.fortunechina.com/blog/category/%e8%b4%a2%e5%af%8c%e5%85%a8%e7%90%83%e8%ae%ba%e5%9d%9b/">财富全球论坛</a> </li>
+                  <li> <a
+                                            href="http://events.fortunechina.com/blog/category/%e8%b4%a2%e5%af%8c%e5%85%a8%e7%90%83%e7%a7%91%e6%8a%80%e8%ae%ba%e5%9d%9b/">财富全球科技论坛</a> </li>
+                  <li><a href="https://events.fortunechina.com/events?cat=13">财富全球可持续论坛</a></li>
+                </ul>
+              </div>
+          </li>
+          <li><a href="https://www.caifuzhongwen.com/">500强情报中心</a></li>
+          <li><a href="https://www.fortunechina.com/magzinejava/magzine.jsp">杂志订阅</a></li>
+<li class="has-children">
+                            <a href="../../../../future500/index.htm">品牌中心</a>
+                            <div class="sub-nav-menu white fn-sub-white5">
+                                <ul class="sub-nav-menu-row">
+                                    <li><a href="../../../../future500/index.htm">寻找未来500强</a></li>
+   
+                                </ul>
+                                
+                                
+                            </div>
+                        </li>
+        </ul>
+        <div class="right">
+          <form action="https://www.fortunechina.com/search/f500beta/searchAll.do" class="fn-search-form">
+            <div class="fn-input">
+              <input name="key" type="text" placeholder="文章、榜单、五百强公司">
+            </div>
+            <div class="fn-submit-show"> <i></i> <span>搜索</span>
+                <input type="submit" class="fn-submit" value="搜索">
+            </div>
+          </form>
+          <ul class="fn-nav">
+            <li class="has-children"> <a href="javascript:;">关注我们</a>
+                <ul class="sub-nav-menu white fn-sub4">
+                  <li class="socialspan"> <a href="javascript:;" class="fn-icon wx"> <img src="https://fortunechina2020.oss-cn-beijing.aliyuncs.com/web/images/wechat-b.svg"
+                                                alt="">
+                        <div class="fn-wx-qr"> <img
+                                                    src="https://fortunechina2020.oss-accelerate.aliyuncs.com/m/images/wechat.jpg"
+                                                    srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/m/images/wechat.jpg"
+                                                    alt=""> </div>
+                  </a> </li>
+                  <li class="socialspan"> <a href="https://www.weibo.com/fortunechina" class="fn-icon wb"> <img src="https://fortunechina2020.oss-cn-beijing.aliyuncs.com/web/images/weibo-b.svg"
+                                                alt=""> </a> </li>
+                  <li class="socialspan"> <a href="https://www.linkedin.com/company/13190255/" class="fn-icon in"> <img src="https://fortunechina2020.oss-cn-beijing.aliyuncs.com/web/images/linkedin-b.svg"
+                                                alt=""> </a> </li>
+                </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="fn-header-block"></div>
+<!--新头部2022 结束-->
+<!--头部显示标题-->
+<!--头部显示标题-->
+<div class="hd-tit-txt">
+   初创公司推出新平台，为公众降低另类资产投资门槛
+</div>
+<!--内容-->
+<div class="main has-plus page-wrap" id="printArea">
+  <div class="wp">
+    <!--    左侧-->
+    <div class="home-main">
+      <div class="home-main-top">
+        <!--    分享&打印-->
+        <div class="sap-out">
+          <div class="shareAndPrint">
+            <div class="sap-top">
+              <div class="bdsharebuttonbox"> <a href="#" class="bds_weixin share-wx" data-cmd="weixin" title="分享到微信"> </a> <a href="#" class="bds_tsina share-wb" data-cmd="tsina" title="分享到新浪微博"> </a> <a href="#" class="bds_linkedin share-in" data-cmd="linkedin" title="分享到linkedin"> </a> </div>
+            </div>
+            <div class="sap-mid sap-mid2"> <a href="javascript:;" class="print js-print"></a> <a href="javascript:;" class="text js-text">
+              <div class="set-fontSize">
+                <div class="sf-box">
+                  <div class="sf-con">
+                    <div class="sf-item" data-class="smallest">小号</div>
+                    <div class="sf-item on" data-class="normal">默认</div>
+                    <div class="sf-item" data-class="biggest">大号</div>
+                  </div>
+                </div>
+              </div>
+            </a> </div>
+            <div class="sap-bot plus-item"> <span><em id="plus-number">0</em>条Plus</span> <a href="javascript:;" class="btn-plus plus-item"> <span class="pic plusQr"> </span> </a> </div>
+          </div>
+        </div>
+           <!--    主体内容-->
+        <div class="mod-word" id="articleContent">
+          <!--startprint-->
+          <div class="title">
+            <h1  class="title-zh">
+               初创公司推出新平台，为公众降低另类资产投资门槛
+            </h1>
+          </div>
+          <div class="mod-info">
+            <span> DECLAN HARTY</span>
+            <span> 2021-10-08</span></div>
+          <div class="mod-desc">
+            <div class="wt-wp"> Securitize业务是帮助私人公司为基于区块链技术的安全代币筹集资金。</div>
+          </div>
+          <!-- 中文-->
+          <!--enpproperty <articleid>398561</articleid><date>2021-10-08 19:30:00.0</date><author>DECLAN HARTY</author><title>初创公司推出新平台，为公众降低另类资产投资门槛</title><keyword>投资；区块链；初创公司</keyword><subtitle></subtitle><introtitle></introtitle><siteid>1</siteid><nodeid>11602</nodeid><nodename>商业Plus</nodename><nodesearchname>商业</nodesearchname>/enpproperty--><!--enpcontent--> <!--enpcontent--><p/>
+<p>
+<div class="word-zh">
+<p/>
+<p>
+<div class="word-text">
+<p/>
+<p>
+<div class="wt-wp word-text-con">
+<p align="center">
+
+</p><p/>
+<p>硅谷初创公司新推出了基于区块链的交易平台，也是为了向大众开放高门槛的私人市场做出的最新努力。</p>
+<p/>
+<p>
+</p><p>Securitize是一家数字资产证券公司，得到了摩根士丹利和Blockchain Capital等公司的支持。9月28日，该公司首次推出了另类交易系统（ATS），距离实现其降低另类资产投资门槛的愿景更近一步，另类资产虽然利润丰厚但经常有风险。</p>
+<p/>
+<p>
+</p><p>公司资料显示，总部位于旧金山的Securitize成立于2017年，业务是帮助私人公司为基于区块链技术的安全代币筹集资金。区块链技术是以比特币和其他数字资产为代表的记账系统，有利于发行人更好地跟踪代币持有者。迄今为止，已有200多家公司和企业以及近40万投资者使用Securitize的工具。</p>
+<p/>
+<p>
+</p><p>现在，Securitize推出了新启动的ATS，希望提供首批“端到端”产品，零售个人、合格投资者和机构可直接交易，从新科技巨头的原始股到房地产项目均可交易。“最终目标是，最后能提供二级流动性，从而解决问题，”Securitize Markets首席执行官斯科特·哈里根对《财富》表示。</p>
+<p/>
+<p>
+</p><p>过去几年，私人市场基础设施业务吸引了不少关注。</p>
+<p/>
+<p>
+</p><p>由于私募股权和风险投资公司提供了数万亿美元资金，近年来公司私有状态时间比以前更长。举例来说，2020年在美国上市的公司平均成立时间为九年，而来自佛罗里达大学（University of Florida）金融学教授杰伊·里特的数据显示，1980年美国上市公司平均成立时间为六年。</p>
+<p/>
+<p>
+</p><p>硅谷和华尔街的投资者自然会想办法利用发行人私有过程中的巨大增长。几乎任何拥有经纪账户的人都能购买公开市场交易的股票，而私人公司股份在大杂烩式的平台网络中交易，受到一系列限制条件和规则约束。因此过去几年中，Carta、Nasdaq、Republic和Securitize等初创公司和老牌公司一直在努力促进此类投资。</p>
+<p/>
+<p>
+</p><p>Securitize之所以能推出ATS，主要因为2020年末的一笔交易，当时公司收购了美国证券交易委员会（SEC）和金融业监管局（Financial Industry Regulatory Authority）监管的经纪/交易商Distributed Technology Markets。公司还收购了在多个州经营货币服务业务的Velocity Platform。</p>
+<p/>
+<p>
+</p><p>与一些同行不同之处在于，Securitize并未缩小业务重点。</p>
+<p/>
+<p>
+</p><p>该公司的自动交易系统中投资范围不仅包括大型和小型私人公司的股票，还包括房地产，主要关注加密货币的基金等。公司希望为每家公司创造流动性充足的市场。合格投资者，即根据美国法律规定有资格在私人市场和另类资产投资的个人和机构，是证券化市场的关键支持者。不过该公司也希望吸引临时投资者。例如，采取Reg A发行的公司可向证券化市场上的散户投资者筹集高达7500万美元的资金。</p>
+<p/>
+<p>
+</p><p>该公司称，Securitize Markets上已上市的数字资产证券产品有八个，未来几天至少还有五个。最初一批是由联系投资者与娱乐融资项目的Leveller公司发行，另一批是中本聪制作公司（Satoshi Nakamoto Productions）开发的，艾美奖得主罗伯·魏斯制作的名为《珍爱生命》（Hold On for Dear Life）的加密电视节目。</p>
+<p/>
+<p>
+</p><p>“流动性并不是非黑即白，”Securitize首席执行官卡洛斯·多明戈在接受《财富》杂志采访时表示。“我们不一定要复制公共市场的流动性。出于很多原因，我们知道没法实现。”</p>
+<p/>
+<p>
+</p><p>虽然私人市场基础设施业务领域竞争肯定会继续加剧，但多明戈对此表示欢迎。他告诉《财富》杂志，今天的情形与微软浏览器主导地位削弱后互联网浏览器激烈竞争没什么不同。</p>
+<p/>
+<p>
+</p><p>“我们认为当前网络的运作方式是理所当然的。网络发明时存在竞争，如今人们正在发明新功能，”多明戈说。“我希望当前就是这样。”（财富中文网）</p>
+<p/>
+<p>
+</p><p>译者：梁宇</p>
+<p/>
+<p>
+</p><p>审校：夏林</p>
+<p/>
+<p/></div>
+</p><p/>
+<p/></div>
+</p><p/>
+<p/></div>
+</p><p/>
+<p><!-- 双语 --></p>
+<p>
+<div class="word-du">
+<p/>
+<p>
+<div class="word-text">
+<p/>
+<p>
+<div class="word-box">
+<p/>
+<p>
+<div class="word-cn">
+<p>硅谷初创公司新推出了基于区块链的交易平台，也是为了向大众开放高门槛的私人市场做出的最新努力。</p>
+<p/>
+<p>
+</p><p>Securitize是一家数字资产证券公司，得到了摩根士丹利和Blockchain Capital等公司的支持。9月28日，该公司首次推出了另类交易系统（ATS），距离实现其降低另类资产投资门槛的愿景更近一步，另类资产虽然利润丰厚但经常有风险。</p>
+<p/>
+<p>
+</p><p>公司资料显示，总部位于旧金山的Securitize成立于2017年，业务是帮助私人公司为基于区块链技术的安全代币筹集资金。区块链技术是以比特币和其他数字资产为代表的记账系统，有利于发行人更好地跟踪代币持有者。迄今为止，已有200多家公司和企业以及近40万投资者使用Securitize的工具。</p>
+<p/>
+<p>
+</p><p>现在，Securitize推出了新启动的ATS，希望提供首批“端到端”产品，零售个人、合格投资者和机构可直接交易，从新科技巨头的原始股到房地产项目均可交易。“最终目标是，最后能提供二级流动性，从而解决问题，”Securitize Markets首席执行官斯科特·哈里根对《财富》表示。</p>
+<p/>
+<p>
+</p><p>过去几年，私人市场基础设施业务吸引了不少关注。</p>
+<p/>
+<p>
+</p><p>由于私募股权和风险投资公司提供了数万亿美元资金，近年来公司私有状态时间比以前更长。举例来说，2020年在美国上市的公司平均成立时间为九年，而来自佛罗里达大学（University of Florida）金融学教授杰伊·里特的数据显示，1980年美国上市公司平均成立时间为六年。</p>
+<p/>
+<p>
+</p><p>硅谷和华尔街的投资者自然会想办法利用发行人私有过程中的巨大增长。几乎任何拥有经纪账户的人都能购买公开市场交易的股票，而私人公司股份在大杂烩式的平台网络中交易，受到一系列限制条件和规则约束。因此过去几年中，Carta、Nasdaq、Republic和Securitize等初创公司和老牌公司一直在努力促进此类投资。</p>
+<p/>
+<p>
+</p><p>Securitize之所以能推出ATS，主要因为2020年末的一笔交易，当时公司收购了美国证券交易委员会（SEC）和金融业监管局（Financial Industry Regulatory Authority）监管的经纪/交易商Distributed Technology Markets。公司还收购了在多个州经营货币服务业务的Velocity Platform。</p>
+<p/>
+<p>
+</p><p>与一些同行不同之处在于，Securitize并未缩小业务重点。</p>
+<p/>
+<p>
+</p><p>该公司的自动交易系统中投资范围不仅包括大型和小型私人公司的股票，还包括房地产，主要关注加密货币的基金等。公司希望为每家公司创造流动性充足的市场。合格投资者，即根据美国法律规定有资格在私人市场和另类资产投资的个人和机构，是证券化市场的关键支持者。不过该公司也希望吸引临时投资者。例如，采取Reg A发行的公司可向证券化市场上的散户投资者筹集高达7500万美元的资金。</p>
+<p/>
+<p>
+</p><p>该公司称，Securitize Markets上已上市的数字资产证券产品有八个，未来几天至少还有五个。最初一批是由联系投资者与娱乐融资项目的Leveller公司发行，另一批是中本聪制作公司（Satoshi Nakamoto Productions）开发的，艾美奖得主罗伯·魏斯制作的名为《珍爱生命》（Hold On for Dear Life）的加密电视节目。</p>
+<p/>
+<p>
+</p><p>“流动性并不是非黑即白，”Securitize首席执行官卡洛斯·多明戈在接受《财富》杂志采访时表示。“我们不一定要复制公共市场的流动性。出于很多原因，我们知道没法实现。”</p>
+<p/>
+<p>
+</p><p>虽然私人市场基础设施业务领域竞争肯定会继续加剧，但多明戈对此表示欢迎。他告诉《财富》杂志，今天的情形与微软浏览器主导地位削弱后互联网浏览器激烈竞争没什么不同。</p>
+<p/>
+<p>
+</p><p>“我们认为当前网络的运作方式是理所当然的。网络发明时存在竞争，如今人们正在发明新功能，”多明戈说。“我希望当前就是这样。”（财富中文网）</p>
+<p/>
+<p>
+</p><p>译者：梁宇</p>
+<p/>
+<p>
+</p><p>审校：夏林</p>
+<p/>
+<p/></div>
+</p><p/>
+<p>
+<div class="word-en">
+<p>A Silicon Valley startup has launched a new blockchain-based trading platform, marking the latest push to open up the high-walled private markets to the masses. </p>
+<p/>
+<p>
+</p><p>Securitize, whose backers include Morgan Stanley and Blockchain Capital, debuted its own alternative trading system (ATS) on Tuesday—putting it one step closer to realizing its vision for unlocking broad access to what can be lucrative, but sometimes risky, alternative assets. </p>
+<p/>
+<p>
+</p><p>Founded in 2017, San Francisco-based Securitize currently offers private companies the ability to raise capital through security tokens that are built on blockchain technology, the ledger system that underscores Bitcoin and other digital assets and help issuers to keep better track of who owns their tokens, according to Securitize. So far, more than 200 companies and businesses, as well as nearly 400,000 investors, have used Securitize's tools.</p>
+<p/>
+<p>
+</p><p>Now, Securitize is rolling out its newly launched ATS as it looks to provide one of the first "end-to-end" offerings that will allow retail individuals, accredited investors, and institutions to directly trade in anything from the pre-IPO shares of the next big tech company to a real estate project. “Finally being able to, at the tail end of that experience, provide the secondary liquidity just brings the entire puzzle together,” Securitize Markets CEO Scott Harrigan told Fortune. </p>
+<p/>
+<p>
+</p><p>Private market infrastructure has attracted newfound interest as a business over the past several years. </p>
+<p/>
+<p>
+</p><p>With trillions of dollars worth of funds available from private equity and venture capital firms, companies have been staying private for longer in recent years than they have historically. The median age for a company that went public in the U.S. in 2020, for instance, was nine years old, compared with six years old in 1980, according to data from University of Florida finance professor Jay Ritter. </p>
+<p/>
+<p>
+</p><p>Investors in Silicon Valley and on Wall Street have naturally sought out ways to tap into the monumental growth that those issuers are seeing while being privately held. And while shares trading in the public markets are readily available to buy for just about anyone with a brokerage account, private company shares are traded on a hodgepodge network of platforms under a series of restrictions and rules that limit who can own them. So, a group of startups and established players including Carta, Nasdaq, Republic, and Securitize have been working over the past several years to facilitate such investments.</p>
+<p/>
+<p>
+</p><p>Securitize's ability to launch an ATS boils out of a late 2020 deal wherein the company acquired broker/dealer Distributed Technology Markets, which was regulated by the Securities and Exchange Commission and the Financial Industry Regulatory Authority. It at the time also acquired Velocity Platform, a money services business that operated in several states.</p>
+<p/>
+<p>
+</p><p>Unlike some of its peers, Securitize is not narrowing its focus.</p>
+<p/>
+<p>
+</p><p>The company's ATS will offer investments that stretch beyond both big and small private companies' stocks to real estate, cryptocurrency-focused funds, and more. Its hope is that it will be able to create a liquid enough market for each. Accredited investors—that is, the individuals and institutions that meet certain qualifications under U.S. law to invest in private markets and alternative assets—figure to be a key constituency on Securitize Markets. But the company is also hoping to draw casual investors, too. For instance, companies conducting a Reg A offering can raise as much as $75 million from retail investors on Securitize Markets.</p>
+<p/>
+<p>
+</p><p>Eight offerings are already live on Securitize Markets, with at least five more on the way in the coming days, according to the company. Among the initial batch is an offering from Leveller, which connects investors with entertainment financing projects, and another from a crypto-focused TV show called “Hold On for Dear Life” that is in development by Satoshi Nakamoto Productions and is being produced by Emmy award winner Rob Weiss. </p>
+<p/>
+<p>
+</p><p>"Liquidity is not a black and white thing," Securitize CEO Carlos Domingo said in an interview with Fortune. "What we're doing is not necessarily to replicate the liquidity of the public markets. We know that's not going to happen for many reasons."</p>
+<p/>
+<p>
+</p><p>And while competition is bound to continue to mount in the private markets infrastructure business, Domingo welcomes it, telling Fortune that what is happening today is not that dissimilar to the competition among Internet browsers once Microsoft Explorer's dominance began to wane.</p>
+<p/>
+<p>
+</p><p>"We take for granted how the web works today. It was invented when there was competition, and people were inventing new features," Domingo said. "I hope that's what happens here."</p></div></p></div></p></div></p></div></p><!--/enpcontent--><!--/enpcontent-->
+          <!--endprint-->
+                </div>
+        <!--    广告-->
+        <!--<div class="mod-ad mb30 mmt10">
+          <div id='div-gpt-ad-1646115389008-0' style='min-width: 320px; min-height: 80px;'>
+            <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646115389008-0'); });
+  </script>
+          </div>
+        </div>-->
+        <!--    分享&评论-->
+        <div class="shareAndeval">
+          <div class="m-share">
+            <div class="share-l"> <span>分享到：</span>
+                <div class="bdsharebuttonbox bdshare-button-style0-16" data-bd-bind="1645628892634"> <a href="#" class="bds_weixin share-wx" data-cmd="weixin" title="分享到微信"> </a> <a href="#" class="bds_tsina share-wb" data-cmd="tsina" title="分享到新浪微博"> </a> <a href="#" class="bds_linkedin share-in" data-cmd="linkedin" title="分享到linkedin"> </a> </div>
+            </div>
+            <div class="share-r"> <a href="javascript:;"
+                                    class="btn-share2 plus-item gotoLadingPage showQrCode" data-article-id=""> </a> </div>
+            <div class="share-m plus-item">
+              <div id="comment-img" style="display: inline-block;"> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht1.jpg" srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht1@2x.jpg" alt=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht2.jpg" srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht2@2x.jpg" alt=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht3.jpg" srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht3@2x.jpg" alt=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht4.jpg" srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht4@2x.jpg" alt=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht5.jpg" srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/ht5@2x.jpg" alt=""> </div>
+              <span><em id="plus-number2">0</em>条 Plus</span> </div>
+          </div>
+          <!-- 观点 -->
+          <div id="opinions"></div>
+          <!-- 精选评论 -->
+          <div class="m-eval plus-item">
+            <div class="eval-title">精选评论</div>
+            <div id="selceted-comments"> </div>
+          </div>
+          <a href="javascript:;" class="sae-more plus-item gotoLadingPage showQrCode"
+                            data-article-id="">撰写或查看更多评论, 请打开财富Plus APP</a> </div>
+      </div>
+    </div>
+    <!--    右侧-->
+    <div class="home-col">
+      <!--                广告-->
+      <div class="mod-ad3">
+        <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '7983114',
+        container: s,
+        size: '280,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+      </div>
+      <!--热读文章-->
+      <div class="home-col-item plbl mt30">
+        <div class="hci-title"> <span>热读文章</span> </div>
+        <ul class="hci-hot" id="hotarticles">
+          <li>
+            <div class="top">
+              <div class="pic"> <a href=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/default2020.jpg" alt=""> </a> </div>
+              <div class="tit"> <a href=""></a> </div>
+            </div>
+            <div class="bot fix">
+              <div class="mod-info"><span></span><span></span></div>
+              <div class="bot-tips"><i></i><span><em></em></span></div>
+            </div>
+          </li>
+          <li>
+            <div class="top">
+              <div class="pic"> <a href=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/default2020.jpg" alt=""> </a> </div>
+              <div class="tit"> <a href=""></a> </div>
+            </div>
+            <div class="bot fix">
+              <div class="mod-info"><span></span><span></span></div>
+              <div class="bot-tips"><i></i><span><em></em></span></div>
+            </div>
+          </li>
+          <li>
+            <div class="top">
+              <div class="pic"> <a href=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/default2020.jpg" alt=""> </a> </div>
+              <div class="tit"> <a href=""></a> </div>
+            </div>
+            <div class="bot fix">
+              <div class="mod-info"><span></span><span></span></div>
+              <div class="bot-tips"><i></i><span><em></em></span></div>
+            </div>
+          </li>
+          <li>
+            <div class="top">
+              <div class="pic"> <a href=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/default2020.jpg" alt=""> </a> </div>
+              <div class="tit"> <a href=""></a> </div>
+            </div>
+            <div class="bot fix">
+              <div class="mod-info"><span></span><span></span></div>
+              <div class="bot-tips"><i></i><span><em></em></span></div>
+            </div>
+          </li>
+          <li>
+            <div class="top">
+              <div class="pic"> <a href=""> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/default2020.jpg" alt=""> </a> </div>
+              <div class="tit"> <a href=""></a> </div>
+            </div>
+            <div class="bot fix">
+              <div class="mod-info"><span></span><span></span></div>
+              <div class="bot-tips"><i></i><span><em></em></span></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--    热门视频-->
+      <div class="home-col-item bb">
+        <div class="hci-title2"> <span>热门视频</span> </div>
+        <ul class="hci-video list1-con dan" id="hotvideos">
+          <li> <a href="">
+            <div class="con"> <img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/default2020.jpg" alt="">
+                <div class="play"></div>
+            </div>
+            <div class="txt"></div>
+          </a> </li>
+        </ul>
+      </div>
+      <!--    活动
+                <div class="home-col-item">
+                    <div class="hci-title2">
+                        <span>活动</span>
+                    </div>
+                    <div class="hci-act" id="conference">
+                        <div class="pic"><a href=""><img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/f-new-act1.jpg"
+                                    srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/images/f-new-act1@2x.jpg 2x" alt=""></a>
+                        </div>
+                        <div class="tit"><a href="">《财富》40U40创想会 2021</a></div>
+                    </div>
+                </div>-->
+      <!--                下载app-->
+    <div class="mod-ad2 topPrev">
+        <!-- <div id='div-gpt-ad-1646115469632-0' style='min-width: 280px; min-height: 250px;'>
+          <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646115469632-0'); });
+  </script>
+        </div>-->
+      </div>
+      <!--                500强行业分布-->
+      <div class="f-new-500 home-col-item navfixed">
+        <div class="f-new-500-tit pos"> 500强行业分布 </div>
+        <div class="hci-dis"> <a
+                                href="../../../../search/company/%e8%83%bd%e6%ba%90+%e9%87%87%e7%9f%bf+%e5%8e%9f%e6%b2%b9+%e7%82%bc%e6%b2%b9+%e6%b2%b9%e6%b0%94%e8%ae%be%e5%a4%87">能源</a> <a class="on"
+                                href="../../../../search/company/%e9%87%91%e8%9e%8d+%e9%93%b6%e8%a1%8c+%e5%82%a8%e8%93%84+%e8%af%81%e5%88%b8">金融</a> <a
+                                href="../../../../search/company/%e6%b1%bd%e8%bd%a6+%e8%bd%a6%e8%be%86">汽车相关</a> <a
+                                href="../../../../search/company/%e8%ae%a1%e7%ae%97%e6%9c%ba+%e7%94%b5%e5%ad%90+%e7%bd%91%e7%bb%9c+%e5%8d%8a%e5%af%bc%e4%bd%93">IT行业</a> <a
+                                href="../../../../search/company/%e8%b4%b8%e6%98%93+%e5%95%86%e4%b8%9a+%e9%9b%b6%e5%94%ae">商业/零售</a> <a
+                                href="../../../../search/company/%e6%88%bf%e5%9c%b0%e4%ba%a7+%e5%bb%ba%e7%ad%91">房地产/建筑</a> <a href="../../../../search/company/%e9%87%91%e5%b1%9e">金属产品</a> <a
+                                href="../../../../search/company/%e8%88%aa%e7%a9%ba+%e8%88%aa%e5%a4%a9+%e9%98%b2%e5%8a%a1">航空/航天</a> <a
+                                href="../../../../search/company/%e9%a3%9f%e5%93%81+%e9%a5%ae%e6%96%99">食品相关</a> <a
+                                href="../../../../search/company/%e7%94%b5%e4%bf%a1+%e9%80%9a%e8%ae%af">电信</a> <a href="../../../../search/company/%e4%bf%9d%e9%99%a9">保险行业</a> <a
+                                href="../../../../search/company/%e9%93%81%e8%b7%af+%e8%bf%90%e8%be%93">铁路运输</a> </div>
+      </div>
+    </div>
+  </div>
+  <!--广告-->
+  <div class="wp ad-bot">
+    <div class="mod-ad" id="ADW1200">
+            <!-- 广告位：homepage_1200x120_top -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '7248320',
+        container: s,
+        size: '1200,120',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+    </div>
+  </div>
+  <!--<div class="wp ad-bot">-->
+  <!--    <div class="mod-ad" id="ADW1200">-->
+  <!--        <script type="text/javascript">-->
+  <!--            (function () {-->
+  <!--                var s = "_" + Math.random().toString(36).slice(2);-->
+  <!--                document.write('<div id="' + s + '" ></div>');-->
+  <!--                (window.slotbydup = window.slotbydup || []).push({-->
+  <!--                    id: '6754372',-->
+  <!--                    container: s,-->
+  <!--                    size: '1200,120',-->
+  <!--                    display: 'inlay-fix'-->
+  <!--                });-->
+  <!--            })();-->
+  <!--        </script>-->
+  <!--    </div>-->
+  <!--</div>-->
+</div>
+<div class="footer">
+  <div class="fd-top">
+    <div class="wp">
+      <div class="fd-logo"><a href=""><img
+                            src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web/images/logo-b.png"
+                            srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web/images/logo-b@2x.png"
+                            alt=""></a> </div>
+      <div class="fd-qr"> <span><a href="../../../../caifu_plus/caifu_app.htm" target="_blank" style="color:#ec412e">财富Plus</a></span>
+          <div class="qr"><img src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web/images/h-qr.png"
+                            srcset="https://fortunechina2020.oss-accelerate.aliyuncs.com/web/images/h-qr@2x.png" alt="财富Plus APP"> </div>
+      </div>
+      <div class="fd-nav">
+        <div class="fd-nav-top"> <a href="../../../../fortune500/">500强</a> <a
+                            href="../../../../rankings/node_11663.htm">排行榜</a> <a
+                            href="../../../../video/node_11662.htm">视界</a> <a
+                            href="../../..//">商业</a> <a
+                            href="../../../../lingdaoli/">领导力</a> <a
+                            href="../../../../keji/">科技</a> <a
+                            href="../../../../shenghuo/">生活</a> </div>
+        <div class="fd-nav-bot"> <a href="http://events.fortunechina.com/">财富活动</a> <a
+                            href="../../../../rankings/node_13102.htm" target="_blank">财富榜单申报</a> <a
+                            href="../../../../magzinejava/magzine.jsp">申请杂志订阅</a> <a
+                            href="../../../../first/c/2008-02/21/content_4825.htm">公司介绍</a> <a
+                            href="../../../../first/c/2008-02/22/content_4847.htm">隐私政策</a> <a
+                            href="../../../../first/c/2008-02/21/content_4824.htm">广告业务</a> </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright">
+    <div class="wp">
+      <div class="l">Copyright © 2022财富媒体知识产权有限公司</div>
+      <div class="r">版权所有，未经书面许可，任何机构不得转载</div>
+    </div>
+  </div>
+</div>
+<!--app二维码-->
+<div class="app-qr">
+  <div class="app-qr-bg"></div>
+  <div class="con">
+    <div class="txt">扫描二维码下载财富APP</div>
+    <div class="pic plusQr"> </div>
+  </div>
+</div>
+<script src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/js/jquery.min.js"></script>
+<script src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/js/print.js"></script>
+<script src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/js/lib.js"></script>
+<script src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/js/main.min.js"></script>
+<script src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/js/js.cookie.min.js"></script>
+<script src="https://fortunechina2020.oss-accelerate.aliyuncs.com/web2022/pc/js/header2022.js"></script>
+<script>
+        window._bd_share_config = {
+            "common": {
+                "bdSnsKey": {},
+                "bdText": "",
+                "bdMini": "2",
+                "bdMiniList": false,
+                "bdPic": "",
+                "bdStyle": "0",
+                "bdSize": "16"
+            },
+            "share": {}
+        };
+        with(document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src =
+            'https://www.fortunechina.com/static/api/js/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+    </script>
+<script>
+        $(function () {
+            hr.regPage('text', {
+                init: function () {
+                    this.addFontClassName();
+                },
+                addFontClassName: function () {
+                    var fcn = localStorage.getItem('fontClassName') ? localStorage.getItem(
+                            'fontClassName') :
+                        "normal";
+
+                    $('.word-text').addClass(fcn);
+                    $('.mod-word .title h1').addClass(fcn);
+                    $('.mod-desc .wt-wp').addClass(fcn);
+
+                    var eq = localStorage.getItem('fontIndex') ? localStorage.getItem('fontIndex') :
+                        "1";
+                    $('.sf-con').find('.sf-item').eq(eq).addClass('on').siblings('.sf-item')
+                        .removeClass('on')
+                }
+            });
+        });
+    </script>
+<script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-12201340-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+
+</html>

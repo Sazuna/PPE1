@@ -1,530 +1,252 @@
 <!DOCTYPE html>
-            <html data-log-pv='{"mpc":42}'>
-        <head>
-        <title>为什么我们喜欢游戏联动？_玩家_角色_尼尔</title>
-        <meta http-equiv="Cache-Control" content="no-transform" /> 
-<meta http-equiv="Cache-Control" content="no-siteapp" /> 
-<meta name="copyright" content="Copyright © 2017 Sohu.com Inc. All Rights Reserved." />
-<meta name="mediaid" content="触乐"/>
-<meta property="og:type" content="news"/>
-<meta property="og:image" content="//p1.itc.cn/q_70/images03/20220902/5602d421ba9e4c5d92c5eb5b5802a1b0.jpeg"/>
-<meta property="og:url" content="www.sohu.com/a/581962654_116000"/>
-<meta property="og:release_date" content="2022-09-02 17:02"/>
-<meta itemprop="dateUpdate" content="2022-09-02 17:02" />
-<meta itemprop="datePublished" content="2022-09-02 17:02" />
-<link rel="canonical" href="http://www.sohu.com/a/581962654_116000"/>
-<link rel="alternate" media="only screen and(max-width: 640px)" href="m.sohu.com/a/581962654_116000"/>
-
-<meta name="keywords" content="因为,活动,角色,尼尔,玩家,纪元,商业利益,堡垒,游戏,联动" />
-<meta name="description" content="玩家在通关游戏后，有时候还意犹未尽，如果有一个机会，能够在更多的地方体验到喜爱游戏的精髓，就自然成了一件值得激动的事。这样的联动是双向的，现实和游戏——现实中，玩家能在便利店里买到新包装的“英雄迷你罐”；游戏…" />
-<meta property="og:description" content="玩家在通关游戏后，有时候还意犹未尽，如果有一个机会，能够在更多的地方体验到喜爱游戏的精髓，就自然成了一件值得激动的事。这样的联动是双向的，现实和游戏——现实中，玩家能在便利店里买到新包装的“英雄迷你罐”；游戏…"/>
-<meta property="og:title" content="为什么我们喜欢游戏联动？_玩家_角色_尼尔"/>
-        <meta charset="utf-8"/>
-<meta name="data-spm" content="smpc">
-<meta name="renderer" content="webkit"> 
-<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
-<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1" />
-<link rel="icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
-<link rel="shortcut icon" href="//statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico" type="image/x-icon"/>
-<link rel="apple-touch-icon" sizes="57x57" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-57.png" />
-<link rel="apple-touch-icon" sizes="72x72" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-72.png" />
-<link rel="apple-touch-icon" sizes="114x114" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-114.png" />
-<link rel="apple-touch-icon" sizes="144x144" href="//statics.itc.cn/web/static/images/pic/sohu-logo/logo-144.png" />
-<link href="//statics.itc.cn/web/static/css/main-42809146be.css" rel="stylesheet"/>
-<script>
-    //  加载监控代码
-</script>
-<!--[if lt IE 9]>
-<script src="//statics.itc.cn/web/static/js/es5-shim-08e41cfc3e.min.js"></script>
-<script src="//statics.itc.cn/web/static/js/es5-sham-1d5fa1124b.min.js"></script>
-<script src="//statics.itc.cn/web/static/js/html5shiv-21fc8c2ba6.js"></script>
-<link href="//statics.itc.cn/web/static/css/ie8hack-9dce3c3b96.css" rel="stylesheet" />
-<![endif]-->
-<script type="text/javascript">
-//解決IE8,IE9不支持console的问题
-(function() {
-    var method;
-    var noop = function() {};
-    var methods = [
-        'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
-        'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
-        'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
-        'timeStamp', 'trace', 'warn'
-    ];
-    var length = methods.length;
-    var console = (window.console = window.console || {});
-
-    while (length--) {
-        method = methods[length];
-
-        // Only stub undefined methods.
-        if (!console[method]) {
-            console[method] = noop;
-        }
-    }
-}());
-</script>
-<script type="text/javascript">
-    (function () {
-        var html = document.getElementsByTagName("html")[0];
-        var width = Math.min(document.documentElement.clientWidth, 790);
-        width = width < 320 ? 320 : width;
-        if (document.documentElement.clientWidth <= 1024) {
-            html.style.fontSize = width / 790 * 79 + 'px';
-        }
-        if (window.addEventListener) {
-            window.addEventListener('resize', resizeHandler);
-        }
-        else if (window.attachEvent) {
-            window.attachEvent('onresize', resizeHandler);
-        }
-        function resizeHandler() {
-            if (document.documentElement.clientWidth <= 1024) {
-                var width = Math.min(document.documentElement.clientWidth, 790);
-                width = width < 320 ? 320 : width;
-                html.style.fontSize = width / 790 * 79 + 'px';
-            } else {
-                html.style.fontSize = "16px";
-            }
-        };
-    })();
-</script>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta content="telephone=no" name="format-detection">
+		<meta content="email=no" name="format-detection">
+		<title>特朗普集团被判税务欺诈罪名成立，令特朗普2024大选之路雪上加霜</title>
+		<meta name="keywords"
+			content="特朗普 塞尔伯格 集团 支付 奖金" />
+		<meta name="description" content="据路透社12月6日报道，当地时间周二，陪审团在两天内审议了12个小时后，特朗普集团被裁定判犯有长达15年的税务欺诈罪，这使得这位前总统在2024年再次参加大选时面临的法律困境雪上加霜。特朗普集团在世界" />
+				<link rel="stylesheet" href="http://res.yun.cnhubei.com/t/site/10001/a8ed483665c5ea6b2d60933aade78312/assets//mobile_v5/css/wap.css" />
+		<script type="text/javascript" src="http://res.yun.cnhubei.com/t/site/10001/67387ec5be6b393bef59a3eb2feee85b/assets//hbrb/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript">
+		
+		  
+		
+			$(document).ready(function(){
+				
 
 
-        <script type="text/javascript">
-            window._taboola = window._taboola || [];
-            _taboola.push({article:'auto'});
-            !function (e, f, u, i) {
-                if (!document.getElementById(i)){
-                e.async = 1;
-                e.src = u;
-                e.id = i;
-                f.parentNode.insertBefore(e, f);
-                }
-            }(document.createElement('script'),
-            document.getElementsByTagName('script')[0],
-            '//cdn.taboola.com/libtrc/sohuchina-sohucom/loader.js',
-            'tb_loader_script');
-            if(window.performance && typeof window.performance.mark == 'function')
-                {window.performance.mark('tbl_ic');}
-        </script>
-        <script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//cdn.adpushup.com/42136/adpushup.js'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
-        <script type="text/javascript">
-                        window.deployEnv = "prod"
-                    </script>
-    </head>
-            <body class="article-page" data-region="156" data-spm="content-abroad">
-        <div class="wrapper-box">
-             <header id="main-header" class="error-head">
+				 $(".doc .doc_content p").each(function(){
+					var img_alt = $(this).find("img").attr("alt")
+
+                    var DBS = $(this).find("img").attr('alt')  
 
 
-	<div class="area">
-		<div class="head-nav left" data-spm="nav">
-			<ul>
-			    <li class="index"><a data-clev="10220248" class="clearfix" target="_blank" href="http://www.sohu.com"><em class="icon-home icon"></em><em class="sohu-logo">搜狐首页</em></a></li>
-														<li><a target="_blank" data-clev="10220249" href="http://news.sohu.com/">新闻</a></li>
-																			<li><a target="_blank" data-clev="10220250" href="http://sports.sohu.com/">体育</a></li>
-																			<li><a target="_blank" data-clev="10220251" href="http://auto.sohu.com/">汽车</a></li>
-																			<li><a target="_blank" data-clev="10220252" href="http://www.focus.cn/">房产</a></li>
-																			<li><a target="_blank" data-clev="10220253" href="http://travel.sohu.com/">旅游</a></li>
-																			<li><a target="_blank" data-clev="10220254" href="http://learning.sohu.com/">教育</a></li>
-																			<li><a target="_blank" data-clev="10220255" href="http://fashion.sohu.com/">时尚</a></li>
-																			<li><a target="_blank" data-clev="10220256" href="http://it.sohu.com/">科技</a></li>
-																			<li><a target="_blank" data-clev="10220257" href="http://business.sohu.com/">财经</a></li>
-																			<li><a target="_blank" data-clev="10220258" href="http://yule.sohu.com/">娱乐</a></li>
-																																																																																																																									<li class="more-nav"><a class="more-tag" href="javascript:void(0)">更多<em class="cor"></em></a>
-					<div class="more-nav-box">
-																																																																																																																																																					<a href="http://baobao.sohu.com/">母婴</a>
-																										<a href="https://healthnews.sohu.com/">健康</a>
-																										<a href="http://history.sohu.com/">历史</a>
-																										<a href="http://mil.sohu.com/">军事</a>
-																										<a href="http://chihe.sohu.com/">美食</a>
-																										<a href="http://cul.sohu.com/">文化</a>
-																										<a href="http://astro.sohu.com/">星座</a>
-																										<a href="https://www.sohu.com/xchannel/TURBd01EQXhPVGt5">专题</a>
-																										<a href="http://game.sohu.com/">游戏</a>
-																										<a href="http://fun.sohu.com/">搞笑</a>
-																										<a href="http://acg.sohu.com/">动漫</a>
-																										<a href="http://pets.sohu.com/">宠物</a>
-																		</div>
-				</li>
-				<li><a href="javascript:void(0)" id="pc-channel-wza-entry">无障碍</a></li>
-			</ul>
+					if($(this).find("img").length>0){
+						var chinVal= $(this).find("img").attr("alt")
+						if (!$(this).find("img").attr('alt')){							
+						}
+						else{
+							if(chinVal.length!=0){
+							   if(chinVal.match(/^[\u4e00-\u9fa5]+$/)){
+										$(this).find("img").after("<span>"+img_alt+"</span>")
+										$(this).addClass("palt")	
+							   }
+								else{
+									$(this).find("img").attr('alt',"")
+								}							   
+							}	
+							
+
+							
+
+
+						}
+
+							
+					}
+
+
+				 })	 
+			})	
+		</script>
+		
+		<style>
+		a.v5-logo-img { background: url(/a/10001/202007/58ecc2a2ae3cf17133d59749c4966599.png) center center; background-size: auto 100%; background-repeat: no-repeat; width: 154px; height: 35px; margin-top: 8px; margin-left: 15px; }
+		.ico-add:after { content: ''; position: absolute; left: 50%; margin-top: auto; margin-bottom: auto; height: 40%; top: 0; bottom: 0; border-left: 3px solid #187dd0; -webkit-transform: translateX(-1.5px); transform: translateX(-1.5px); }
+		.ico-add:before { content: ''; position: absolute; width: 40%; top: 50%; margin-left: auto; margin-right: auto; left: 0; right: 0; border-top: 3px solid #187dd0; -webkit-transform: translateY(-1.5px); transform: translateY(-1.5px); }
+		.v5-logo-ex { font-size: 14px; white-space: nowrap; padding-right: .75rem; justify-content: center; display: flex; flex-direction: column; color: #FFF; }
+		.nav-more-content { position: fixed; z-index: 10000; top: 0; right: 0; bottom: 0; left: 0; width: 100%; height: 100%; opacity: 0; overflow: auto; background-color: #FFF; -webkit-transform: scale(0, 0.1); transform: scale(0, 0.1); -webkit-transition: all 0.2s; -webkit-transition: all 0.2s ease-out; transition: all 0.2s ease-out; -webkit-transform-origin: 100% 10%; transform-origin: 100% 10%; max-width: 640px; margin-left: auto; margin-right: auto; z-index: 9999 }
+		.nav-more-content.show { opacity: 1; -webkit-transform: scale(1, 1); transform: scale(1, 1); }
+		.nav-list-head { position: relative; height: 30px; z-index: 1; background: #fff;    /*box-shadow: 0 10px 10px #eee;*/ box-shadow: none }
+		.nav-list-wrapper { position: absolute; width: 100%; height: 100%; top: 0; overflow: auto; }
+		.nav-more-content h2 { font-size: 18px; margin-left: 20px; margin-bottom: 15px; }
+		.nav-more-content h2:first-of-type { margin-top: 30px; font-size: 18px; }
+		.nav-more-content ul { width: 92%; margin-bottom: 15px; margin-right: auto; margin-left: auto; font-size: 16px; }
+		.nav-more-content .nav-close { position: absolute; top: 15px; right: 10px; height: 40px; width: 40px; z-index: 2; text-indent: 100%; cursor: pointer; -webkit-transform: rotate(0deg); transform: rotate(0deg); -webkit-transition: all 0.3s 0.4s; transition: all 0.3s 0.4s; overflow: hidden; }
+		.nav-close:after, .nav-close:before { border-color: #333 !important; }
+		.nav-more-content.show .nav-close { -webkit-transform: rotate(135deg); transform: rotate(135deg); -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+		.nav-more-content ul:after { content: ''; display: block; height: 0; visibility: hidden; clear: both; }
+		.nav-more-content li { float: left; width: calc(30% - 2px); line-height: 32px; text-align: center; margin: 0 5px; margin-bottom: 5px; background-color: #fff; border: 1px solid #eee }
+		.nav-more-content h2 { font-size: 18px }
+		.wap_doc_box .doc .doc_content{
+		    text-align: justify;
+		}
+		.wap_doc_box .doc .doc_content p{
+                            	font-size: 1.125rem!important;
+                            	line-height: 1.8!important;
+                            	padding-bottom:0.75rem!important;
+                            	margin: 0!important;
+                            	color: #333333;
+                            	text-align: justify;
+                                        }
+        .wap_doc_box .doc .doc_content img{
+            margin:0.625rem auto;
+        }        
+        
+ 
+        
+		</style>
+	
+		
+	</head>
+	<body>
+<!--下拉菜单-->
+<div class="nav-more-content">
+    <div class="nav-list-head">
+        <div class="nav-close ico-add"></div>
+    </div>
+    <div class="nav-list-wrapper">
+        <h2>频道</h2>
+        <ul class="channel-list">
+            <li><a href="http://m.cnhubei.com">新闻</a></li>
+            <li><a href="http://m.cnhubei.com/shipin/index.html">视频</a></li>
+            <li><a href="http://m.cnhubei.com/zhibo/index.html">直播</a></li>
+            <li><a href="http://m.cnhubei.com/tup/index.html" />图片</a></li>
+            <li><a href="http://m.cnhubei.com/pinglun/index.html" />评论</a></li>
+            <li><a href="http://bbs.cnhubei.com/" />社区</a></li>
+            <li><a href="http://m.cnhubei.com/wlwz/index.html" />问政</a></li>
+            <li><a href="http://m.cnhubei.com/zhengwu/index.html" />政务</a></li>
+            <li><a href="http://m.cnhubei.com/yuqing/index.html" />舆情</a></li>
+            <li><a href="http://m.cnhubei.com/renshi/index.html">人事</a></li>
+            <li><a href="http://m.cnhubei.com/guonei/index.html" />国内</a></li>
+            <li><a href="http://m.cnhubei.com/guoji/index.html" />国际</a></li>
+            <li><a href="http://m.cnhubei.com/wenhua/index.html" />文化</a></li>
+            <li><a href="http://m.cnhubei.com/lvyou/caijing/index.html" />财经</a></li>
+            <li><a href="http://m.cnhubei.com/yule/index.html" />娱乐</a></li>
+            <li><a href="http://m.cnhubei.com/tiy/index.html" />体育</a></li>
+            <li><a href="http://m.cnhubei.com/#column-topic-swiper">专题</a></li>
+            <li><a href="http://m.cnhubei.com/jiaoyu/index.html">教育</a></li>
+        </ul>
+        <h2>栏目</h2>
+        <ul class="channel-list">
+            <li><a>荆楚号</a></li>
+            <li><a href="http://m.cnhubei.com/nxw/index.html">暖新闻</a></li>
+            <li><a href="http://m.cnhubei.com/dhpy/index.html">打虎拍蝇</a></li>
+            <li><a href="http://m.cnhubei.com/renshi/index.html">人事动向</a></li>
+            <li><a href="http://m.cnhubei.com/piyao/index.html">辟谣</a></li>
+        </ul>
+        <h2>地方</h2>
+        <ul class="channel-list">
+            <li><a href="http://m.cnhubei.com/wuhan/index.html">武汉</a></li>
+            <li><a href="http://m.cnhubei.com/yichang/index.html">宜昌</a></li>
+            <li><a href="http://m.cnhubei.com/xiangyang/index.html">襄阳</a></li>
+            <li><a href="http://m.cnhubei.com/huangshi/index.html">黄石</a></li>
+            <li><a href="http://m.cnhubei.com/shiyan/index.html">十堰</a></li>
+            <li><a href="http://m.cnhubei.com/ezhou/index.html">鄂州</a></li>
+            <li><a href="http://m.cnhubei.com/jingmen/index.html">荆门</a></li>
+            <li><a href="http://m.cnhubei.com/xiaogan/index.html">孝感</a></li>
+            <li><a href="http://m.cnhubei.com/jingzhou/index.html">荆州</a></li>
+            <li><a href="http://m.cnhubei.com/huanggang/index.html">黄冈</a></li>
+            <li><a href="http://m.cnhubei.com/xianning/index.html">咸宁</a></li>
+            <li><a href="http://m.cnhubei.com/suizhou/index.html">随州</a></li>
+            <li><a href="http://m.cnhubei.com/xiantao/index.html">仙桃</a></li>
+            <li><a href="http://m.cnhubei.com/enshi/index.html">恩施</a></li>
+            <li><a href="http://m.cnhubei.com/qianjiang/index.html">潜江</a></li>
+            <li><a href="http://m.cnhubei.com/tianmen/index.html">天门</a></li>
+            <li><a href="http://m.cnhubei.com/snj/index.html">神农架</a></li>
+        </ul>
+    </div>
+</div>
+<!--横条菜单-->		
+		
+		
+		<header>
+			<a href="/"><img src="http://res.yun.cnhubei.com/t/site/10001/a8ed483665c5ea6b2d60933aade78312/assets//mobile_v5/img/wap_doc_logo.png"></a>
+			<div class="wap_top_nav">
+				<div class="download"><a href="http://www.cnhubei.com/download/app/">下载APP</a></div>
+				<div class="nav_bnt"></div>
+			</div>
+		</header>
+		<div class="wap_doc_box">
+			<h1>特朗普集团被判税务欺诈罪名成立，令特朗普2024大选之路雪上加霜</h1>
+			<div class="detail">
+				<span class="author"><a href="http://jms.ctdsb.net/jmythshare/#/index_share?contentType=5&contentId=1591175&cId=0" target="_self">极目新闻</a></span><span class="time">2022-12-07 15:02</span>
+			</div>
+			<div class="doc">
+				<div class="doc_content">
+					<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">极目新闻记者 李力力</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">据路透社12月6日报道，当地时间周二，陪审团在两天内审议了12个小时后，特朗普集团被裁定判犯有长达15年的税务欺诈罪，这使得这位前总统在2024年再次参加大选时面临的法律困境雪上加霜。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">特朗普集团在世界各地经营酒店、高尔夫球场和其他房地产，该集团被认定为高管支付个人费用，其中包括前首席财务官艾伦·魏塞尔伯格在内的高管都接受了奖金支票，就像他们是独立承包商一样。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">在所有指控都被定罪后，该集团将面临高达160万美元的罚款，包括密谋诈骗税务部门、伪造商业记录。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">虽然对于特朗普集团这种规模的公司来说，罚款并不算很多，但定罪可能会影响他们继续开展业务。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">此案将在2023年1月13日宣判。值得注意的是，特朗普本人并未在此案中受到指控。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">75岁的前首席财务官魏塞尔伯格与政府签订了认罪协议，他作为主要证人作证。按照协议，他可能被判处五个月监禁。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">魏塞尔伯格在8月承认向税务部门隐瞒了176万美元的收入，他称尽管特朗普签署了涉案的支票，但特朗普本人并没有参与合谋。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">魏塞尔伯格还说，公司通过支付他的房租、水电费、豪车租赁费以及其他个人开支来节省资金，而不是提高他的工资，因为工资上涨会导致纳税增加。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">曼哈顿地区检察官阿尔文·布拉格的办公室负责起诉此案，他称判决“非常公正”。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">特朗普集团的律师艾伦·富特法斯则表示，他们将提出上诉。律师辩护说，魏塞尔伯格作证是为了自己的利益。魏塞尔伯格目前正在带薪休假，并称希望在1月份再拿到50万美元的奖金。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">该案件的重点是该公司为包括魏塞尔伯格在内的高管支付了租金和汽车租赁等个人开支，但没有报告收入，向他们发放奖金的同时没有扣税。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">据悉，特朗普本人每年都会签署奖金支票，为魏塞尔伯格的孙辈支付私立学校的学费，授权为魏塞尔伯格在曼哈顿的豪华公寓交租，并批准通过扣减另一名高管的薪水来避税。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">检察官约书亚·斯坦格拉斯表示，特朗普这种“福利大杂烩”旨在让高层管理人员“感到快乐和保持忠诚”。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">11 月 19 日，特朗普在他自创的社交平台Truth Social上写道，他的家人没有“从中获得任何经济利益”。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">据报道，特朗普集团还面临纽约州总检察长莉蒂夏·詹姆斯提起的欺诈诉讼。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">刚刚宣布第三次参加总统竞选的特朗普在一份声明中称，判决“不公正”。他称此案为“曼哈顿政治迫害”，他说提出指控的都是民主党人。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">此案虽然没有直接指控特朗普，但无疑令他的参选之路雪上加霜。</p>
+<p style="margin-top: 1.5em; margin-bottom: 1.5em; line-height: 2; font-size: 18px; text-align: left;">特朗普本人正在接受美国司法部的调查，原因是他在2021年1月卸任后处理敏感的政府文件，并试图推翻2020年11月的大选结果。</p>
+									</div>
+								            <!--附件-->
+            			</div>
 		</div>
-		<div id="head-login" class="right login">
+		<div class="doc_banner">
+			<img src="http://res.yun.cnhubei.com/a/10001/201905/f1d1fdd4a69f6be6308f5cb8484d6f21.jpg" data-bd-imgshare-binded="1">
 		</div>
-	</div>
-
-</header>             <div class="location-without-nav"></div>             <div class="area clearfix" id="article-container">
-                <div class="left main" style="margin-left: 170px;">
-                    <div data-spm="content">
-                        <div class="text">
-                            <div class="text-title">
-    <h1>
-                    为什么我们喜欢游戏联动？
-                <span class="article-tag">
-                 </span>
-    </h1>
-            <div class="article-info">
-        <span class="time" id="news-time" data-val="1662109327000">2022-09-02 17:02</span>
-                    <span data-role="original-link">
-                                来源:
-                                <a href="http://www.chuapp.com/article/288868.html" target="_blank">触乐</a></span>
-                            <div id="abroad-share-box" class="abroad-share-box"></div>
-    </div>
-</div>
-<article class="article" id="mp-editor">
-      <p data-role="original-title" style="display:none">原标题：为什么我们喜欢游戏联动？</p>
-              <!--                                                                                                                          -->
-                    <p>当《死亡搁浅》联动了《赛博朋克2077》，当“刺客信条”里出现了“最终幻想”，当《堡垒之夜》里的奇怪元素越来越多……最近几年，游戏联动成了一项热门活动。很多游戏打破次元壁垒，把特色元素带入到另一个世界里。多种多样的活动内容和模式让联动事业蒸蒸日上，联动成了游戏界的一个独特现象。</p> 
-<p>因为大杂烩且跨越不同圈层的特性，联动总能触动玩家兴奋的神经。还有什么比得上把喜欢的角色、设定组合起来更令人兴奋的呢？玩家在通关游戏后，有时候还意犹未尽，如果有一个机会，能够在更多的地方体验到喜爱游戏的精髓，就自然成了一件值得激动的事。</p> 
-<p>游戏的生命力是有限的，但联动能为成熟的作品注入新的活力。在原作中结束的故事能够在新世界里焕发“第二春”，这可能就是联动的魅力。</p> 
-<p><img src="//p6.itc.cn/q_70/images03/20220902/7f73c05e8bdb409eaba087e2a8230232.jpeg" /></p> 
-<p>《女神异闻录5》是游戏联动的常客，足够优秀，足够风格化，热度也足够高</p> 
-<p><strong>有趣的活动</strong></p> 
-<p>游戏的联动活动实在是太多了，质量有高也有低，有的做得用心，有的只能说透露着敷衍的味道，但是毕竟联动的基数大，即使只是罗列其中让人印象深刻的，也不少。</p> 
-<p>“孤岛惊魂”是育碧的开放世界游戏系列，在中规中矩的育碧游戏宇宙里，这个系列以略带邪典的放飞风格著称，游戏里最出名的是反派——瓦阿斯、“蒲爹”，以及“炸鸡叔”饰演的安东·卡斯蒂约。因为“孤岛惊魂”是第一人称射击游戏，天然擅长塑造在玩家镜头前的角色——除了玩家自己，其他角色个个个性鲜明。</p> 
-<p>《孤岛惊魂6》在游戏里加入了一个科幻恐怖题材美剧《怪奇物语》世界观下的特殊任务，把玩家拉入“次位面”。游戏尽量还原了电视剧的风格，“阴影之地”充满了粘液和阴影，无处不在的血红灯光照耀着幽蓝世界的每一个角落。</p> 
-<p><img src="//p3.itc.cn/q_70/images03/20220902/3e114e73a46e4d4c99cdf4a5cba6f746.jpeg" /></p>            <div class="lookall-box">
-                <div class="lookall-shadow"></div>
-                <section class="lookall">
-                    <a href="javascript:;" class="show-all" id="showMore">
-                        <em>展开全文</em>
-                    </a>
-                </section>
-            </div>
-            <div class="hidden-content control-hide">
-                <p>联动海报也是电影质感</p> 
-<p><img src="//p4.itc.cn/q_70/images03/20220902/58cbbdfbafae46e3a92d53d14e7f988b.png" /></p> 
-<p>剧中的夺心魔（The Mind Flayer）被还原到了游戏中</p> 
-<p>深度的联动活动还有许多，玩家也比较乐意看到这种的。其中一个例子是《最终幻想14》和《尼尔：机械纪元》，《最终幻想14》在游戏中新增了一个“尼尔”世界观下的副本“YoRHa: Dark Apocalypse”。因为《最终幻想14》拉到了《尼尔：机械纪元》的总监横尾太郎和项目负责人齐藤阳介参与制作，所以联动的整体质量还不错。玩家除了可以获得“尼尔”系列的角色服装，还能体验原作中的名场面和战斗，并且游玩原创的剧情内容。</p> 
-<p><img src="//p6.itc.cn/q_70/images03/20220902/81b2d744b4924a58a5d0a6f81a4fd7d9.jpeg" /></p> 
-<p>非常、非常酷</p> 
-<p>《尼尔：机械纪元》还为玩家带来了一次有些“不正经”的联动——在《糖豆人：终极淘汰赛》中加入主人公2B的角色服装。因为2B是一个身材高挑的女性角色，所以当矮墩墩的糖豆人打扮成2B，在镜头前飞跃出现时，玩家一下子就能感受到反差和搞怪的气质。不过，因为《糖豆人：终极淘汰赛》本来就走的是“胡逼”欢脱的路线，玩家接受这次“奇怪”的联动也不会有什么困难，反而可能会感受到一种反差萌。</p> 
-<p><img src="//p1.itc.cn/q_70/images03/20220902/56b1c1cd4e6c49b9887362908f742efc.jpeg" /></p> 
-<p>一言难尽！</p> 
-<p>联动的性质决定了，这类活动必然是创意十足的，毕竟打破次元壁本来就是一种天马行空的行为。只要制作组不要玩得过分洒脱，而是尽量把原作中的特色带进新游戏，大多数玩家都会欣然接受。享受一场宇宙交错的狂欢，这是联动的意义所在。</p> 
-<p><strong>为什么要联动？</strong></p> 
-<p>联动游戏很大程度上是在拓展经典IP的影响力，并且赋予它们新的商业价值。在某种程度上，这也是一种双赢——拥有口碑的游戏获得商业利益，热门的游戏为玩家争取多维度的新奇体验。当然啦，从商业的角度分析会显得有些单调，但是我想说的是，正因为商业因素是联动背后的推手，我们才能在更多的游戏里看到交叉的整活。只要商业的味儿别那么明显，内容也别那么敷衍，联动就是一种助力，对联动的双方而言都是一种良性的循环。</p> 
-<p>由于联动近乎天然地具有吸引人眼球的特性，有不少游戏专注把联动作为制作、销售、运营的策略，也获得了显著的成功。目前最有名的“联动狂魔”当属《堡垒之夜》，它最近的一次是和《火影忍者》联动，让玩家可以在草原上操作漩涡鸣人射击M4突击步枪，或者让宇智波佐助大跳迪斯科热舞。鉴于《堡垒之夜》和《火影忍者》的双重影响力，国外的社交网络上讨论很多。</p> 
-<p><img src="//p1.itc.cn/q_70/images03/20220902/d6a43256d2f745f796cb409bcfd7e973.jpeg" /></p> 
-<p>当然了，参加联动的都是人气角色</p> 
-<p><img src="//p8.itc.cn/q_70/images03/20220902/27255d651a3f4a00929d41bab1c7e994.jpeg" /></p> 
-<p>不得不说，无论什么角色到了《堡垒之夜》里都会变得轻松搞怪</p> 
-<p>《堡垒之夜》的联动太多了，在电影《复仇者联盟3：无限战争》上映期间，游戏曾推出了“灭霸模式”，玩家在地图上寻获灭霸的手套，获得特殊的技能。稍早一点的时候，《堡垒之夜》还和《七龙珠》《黑客帝国》《星球大战》联动，在游戏中加入了筋斗云、龟派气功、光剑等道具。基本上，只要能拿到授权，就做进游戏里，被收纳进“‘堡垒之夜’宇宙”。</p> 
-<p>另一款联动性质很足的游戏是“任天堂明星大乱斗”系列。游戏早期的企划书中就对它做出了颇为精准的描述：“把有魅力的人气角色聚集在一起，再把他们快乐地击飞的聚会游戏。”所以“大乱斗”中最核心的点之一就是“人气角色”。在最新的《任天堂明星大乱斗：特别版》中，参战的斗士一共有89位，包括了任天堂旗下和第三方游戏厂商的各色角色。</p> 
-<p><img src="//p2.itc.cn/q_70/images03/20220902/c534e267ad814f3590e051d1db1d669b.jpeg" /></p> 
-<p>海量联动可能就是“大乱斗”的秘方</p> 
-<p>如果你玩过“大乱斗”，应该很轻松地就能体会那种操控喜欢的斗士的感受。而且，“大乱斗”系列总是能把握住原作的精髓——换句话说，也就是“玩梗”玩得好。比如，来自“合金装备”系列的斯内克能在战斗中通过无线电呼叫支援，询问对手斗士的信息。游戏为每一位斗士都添加了特殊的语音信息。</p> 
-<p>总体来说，能在同一款游戏中玩到来自几十个不同游戏系列的各具特点的角色，而且角色正是那个味道，不得不说，是既划算，又有趣的。</p> 
-<p><img src="//p1.itc.cn/q_70/images03/20220902/9646ec33f26244839756ce3a3f07e8b7.jpeg" /></p> 
-<p>除了斯内克，来自《新光神话》的彼特也有隐藏式的特殊对白</p> 
-<p>“王国之心”系列也算是联动气息比较足的游戏。这个系列的一大卖点是原汁原味的迪士尼风和著名角色，包括米老鼠、唐老鸭、巴斯光年等等。游戏的主线剧情也是在多个迪士尼宇宙中冒险——可以说，“王国之心”就是游戏版的“迪士尼”电影。</p> 
-<p>除此之外，“王国之心”还和“最终幻想”系列关系亲密，不止是角色的客串联动，甚至连一些角色的人设也出自同一双手。这种把现实和游戏分界线打乱的感觉自带了一种吸引人的属性。</p> 
-<p><strong>无限的延伸</strong></p> 
-<p>根据“万物皆可联动”的原则，活动内容当然可以不限于游戏，甚至可以反过来说，最有意思的联动反而是那些脑洞大开的“跨界合作”。</p> 
-<p>越是激进的联动，越容易获得玩家的目光。不过，最后获得什么样的评价还是要看制作的水准和作品之间搭调的感觉，但是不论如何，只要是联动，都能够获得相当多的瞩目。</p> 
-<p>真正的联动又何必需要官方牵线？玩家自己的整活完全并不比官方联动逊色。最有趣的是《集合啦！动物森友会》和《毁灭战士：永恒》的联动，因为两款游戏在同一天发售，激起了粉丝讨论的热情，他们打破了次元墙，把这两款风格毫不相干的游戏联系起来，展开高浓度的二次创作：把西施惠拉进猩红地域猎杀恶魔，Doom Guy则被套上了夏威夷风格的T恤衫，慢悠悠地在海边钓着鱼。</p> 
-<p><img src="//p5.itc.cn/q_70/images03/20220902/9a31c910e2f54523bfca6491d88820f7.jpeg" /></p> 
-<p>我记得最有趣的是外媒发布的4篇评论和攻略的封面</p> 
-<p>还有一些跨界联动，它们的特点是……你想不到。直到联动的消息公布，你才惊呼，这竟然能够联系起来！《新世纪福音战士》和美妆品牌KATE的联动就是这样，哪里有观众会想到凌波丽为口红打广告呢？</p> 
-<p>联动产品之间的契合度是一种神奇的感觉，它们不一定相似，但是必须相合。你事先多半想不到哪里可以合拍，可联动大多能把这种关联性体现得合情合理，让受众们也觉得的确可以这样。</p> 
-<p><img src="//p1.itc.cn/q_70/images03/20220902/2f2b22d21a244f189b1a073cfb121c23.jpeg" /></p> 
-<p>谁不爱呢！</p> 
-<p>还有最近《英雄联盟手游》和可口可乐的联动，可口可乐的迷你罐上印刷了金克丝、伊泽瑞尔、阿狸等英雄。这样的联动是双向的，现实和游戏——现实中，玩家能在便利店里买到新包装的“英雄迷你罐”；游戏里，也能用上可口可乐联名活动的战旗和击败印记。</p> 
-<p><img src="//p3.itc.cn/q_70/images03/20220902/961358d0640246dbbd7aad5cb84550ec.jpeg" /></p> 
-<p>喝着可乐玩着《英雄联盟手游》，可以说是双倍的快乐了</p> 
-<p>这样联动的契合度是什么？不论是可乐还是手游，都是年轻人社交生活场景里十分常见的元素，碳酸饮料和MOBA都有股躁动的夏日青春气息。厂商拍摄了很棒的创意短片，卡通动画的风格轻松愉快，内容则类似玩梗，小伙伴在草丛里蹲提莫，开黑抱队友大腿，还有拆塔偷家。短片里甚至还用上了移轴摄影，挺潮的。这也是游戏的气质，体现的是个“酷”字。</p> 
-<p><img src="//p3.itc.cn/q_70/images03/20220902/8acb0672caa94212bdcce74eecd8eca3.png" /></p> 
-<p>潮流和酷炫，有这些就够了</p> 
-<p><strong>纯粹的乐趣</strong></p> 
-<p>无论是尼奥在《师父》里用白眉拳撂倒黑衣人史密斯，还是在“怪物猎人”的旷野上，骑乘“洛克狗”或天照大神追猎怨虎龙，对许多玩家而言，联动活动就是一场想象力的狂欢。就像一场惊喜派对，没有人会拒绝在生活里多一分这样的意外之喜。</p> 
-<p><img src="//p1.itc.cn/q_70/images03/20220902/ee8fda2cf510490f9db20a62d1ba216f.jpeg" /></p> 
-<p>真的是鬼才联动——这是谁想出来的？</p> 
-<p>举了这么多例子，其实我很难总结出一套适用于所有联动的“成功秘诀”。反过来，只要联动足够有趣，点亮了那朵火花，好像所有玩家都会乐此不疲。它像是一场无限创造力和有趣灵魂的聚会，灵光一闪和奇思妙想是所有人都赞赏的行为。最棒的是，你得到的回馈是近乎纯粹的乐趣。</p> 
-<p>对啊，纯粹的乐趣。有谁会不喜欢呢？<a href="//www.sohu.com/?strategyid=00001 " target="_blank" title="点击进入搜狐首页" id="backsohucom" style="white-space: nowrap;"><span class="backword"><i class="backsohu"></i>返回搜狐，查看更多</span></a></p>            </div>
-        
-        <p data-role="editor-name">责任编辑：<span></span></p>
-</article>
-<script>
-    (function() {
-        function getBrandHtml() {
-            var brands = [],
-            html = '';
-                        for(var i = 0; i < brands.length; i++) {
-                var brand = brands[i];
-                if(brands.length == i+1) {
-                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>';
-                } else {
-                    html+= '<a class="username-link" href="'+brand.url+'" target="_blank">'+brand.name+'</a>、';
-                }
-            }
-            return html;
-
-        };
-        if(document.getElementById('linkBtn')){
-            document.getElementById('linkBtn').onclick = function() {
-                $('#brands').removeClass('brand');
-                $('#tipInfo').text('已实名回应');
-                $('#linkBtn').remove();
-                $('.real-response .content').css('line-height', '20px');
-                $('.real-response .time').css('line-height', '20px');
-            };
-
-            document.getElementById('brands').innerHTML = getBrandHtml();
-        };
-    })();
-</script>
-    <div id="atricleVote"></div>
-  <div class="statement">声明：该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。</div>  <div class="area"><span>发布于：</span><span>北京市</span></div>
-  <div class="bottom-relate-wrap clear type-3">
-    
-    <!-- 点赞选择方案2，contentLike对应值为3 -->
-            <div class="article-like" id="article-like" data-like-type="type-3">
-</div>        <div class="read-wrap">
-        <span class="read-num">阅读 (<em data-role="pv" data-val="$articleStat.pv"></em>)</span>
-    </div>
-</div>
-    
-                        </div>
-                    </div>
-                    <div class="taboolaContainer" data-spm="a-content-end">
-                        <a href="javascript:void(0);">
-                            <div id="taboola-below-article-thumbnails"></div>
-                            <script type="text/javascript">
-                                window._taboola = window._taboola || [];
-                                _taboola.push({
-                                    mode: 'thumbnails-a',
-                                    container: 'taboola-below-article-thumbnails',
-                                    placement: 'Below article thumbnails',
-                                    target_type: 'mix'
-                                });
-                            </script>
-                        </a>
-                    </div>
-
-                    <div class="comment" id="comment_area" data-spm="comment" data-abdata="1">
-
-
-    <div id="mp-comment" sid="581962654"></div> 
-
-
-</div>                    
-<div class="groom-read">
-    <div class="title"><span><em class="ln"></em>推荐阅读</span></div>
-    <div class="news-list clear" id="main-news" style="min-height:1000px">
-    </div>
-
-</div>                </div>
-                <div class="sidebar right" id="right-side-bar" data-a="${abData}">
-        <!-- 谷歌搜索引擎div -->
-        <div class="gcse-searchbox-only"></div>
-        <div data-spm="author" id="user-info" class="abroad-article-author-card">
-                        <a class="abroad-article-author-card-box" href="https://mp.sohu.com/profile?xpt=Mzk1NzA0MDQ4OUBzaW5hLnNvaHUuY29t&_f=index_pagemp_1" target="_blank">
-                                <img src="http://sucimg.itc.cn/avatarimg/c5befb71d2f34660bfd790d0554ef58e_1438847292754" class="abroad-article-author-card-image" alt="">
-                    <div class="abroad-article-author-card-userinfo">
-                <div class="abroad-article-author-card-author-info">
-                    触乐
-                                    </div>
-                <div class="abroad-article-author-card-message">
-                    <span class="abroad-article-author-card-message-label">文章</span>
-                    <span class="abroad-article-author-card-message-value" data-value="7599" data-role="info-article-num"><em></em></span>
-                    <span class="abroad-article-author-card-message-divide"></span>
-                    <span class="abroad-article-author-card-message-label">总阅读</span>
-                    <span class="abroad-article-author-card-message-value" data-role="info-read-num"><em></em></span>
-                </div>
-            </div>
-        </a>
-</div>        <div class="godA" id="nav_button" data-spm="ad-right-sponsor">
-
-        </div>
-        <div class="godR" id="god_1" data-spm="ad-sq1" style="display: none;">
-        </div>
-        <div id="god_1_2" style="padding:10px 20px;" data-spm="ad-sq1">
-            <a href="javascript:void(0);" style="width: 100%">
-                                    <script id="ONEMOB-sohu300x250" type="text/javascript" src="https://cdn-ali.onemob.mobi/js/sohu300x250.js" async charset="utf-8"></script>
-                            </a>
-        </div>
-                <div id="taboola-desktop-right-rail" data-spm="jingxuan-taboola" style="width: 300px; margin: 0 auto;"></div>
-        <div class="godR" id="god_2" data-spm="ad-sq2" style="display:block">
-        </div>
-        <div id="god_2_2" style="padding:10px 20px;" data-spm="ad-sq2">
-                        <script type="text/javascript">
-                var compassSmartTag = {t: "32416", referral: "sohu.com", y_b: {y: "j", s: "300x250"}};
-            </script>
-            <script src="//cdn.marphezis.com/cmpp/index.js"></script>
-                    </div>
-        
-<div class="hot-article clear bord" id="hot-news" data-spm="tw">
-
-</div>
-        <div class="godR" id="god_3" data-spm="ad-sq3" style="display:block">
-        </div>
-        <div id="god_3_2" style="padding:10px 20px; display: none;" data-spm="ad-sq3">
-        </div>
-        
-<div class="bord clear recommend" id="recommend-writer" data-spm="mp">
-
-</div>
-        <div class="godR" id="god_4" data-spm="ad-sq4" style="display:block">
-        </div>
-        <div id="god_4_2" style="padding:10px 20px; display: none;" data-spm="ad-sq4">
-        </div>
-        <div id="god_5" style="padding:10px 20px;" data-spm="sqfive-ad">
-                        <script type="text/javascript">
-                var compassSmartTag = {t: "32205", referral: "sohu.com", y_b: {y: "j", s: "300x250"}};
-            </script>
-            <script src="//cdn.marphezis.com/cmpp/index.js"></script>
-                    </div>
-        <div class="pages-fun  " id="pages-fun"></div>
-        <div id="god_fix_container" class="right-fixed" style="display:none;">
-            <div class="godR" id="god_fix_1" data-spm="ad-sq6"  style="display: block;">
-
-            </div>
-            <div id="god_6_2" class="god-ad-fix" style="display: none; overflow: hidden;" data-spm="ad-sq6">
-
-            </div>
-        </div>
-         <div id="fixed-view" data-rel="#hot-news" style="z-index:2">
-        </div>
-    </div>
-
-
-
-             </div>
-             <div id="float-btn" class="float-links"></div>              <div class="sohu-khd" data-role="wp-ad"><a href="javascript:void(0)" class="close-khd"></a><a href="https://www.microsoft.com/zh-cn/store/p/%E6%90%9C%E7%8B%90uwp/9nb9229mmbjh" target="_blank" class="download-khd"><i class="icon khd-d-icon"></i>免费获取</a></div>
-            <div id="pop-news" class="pop-news"></div>            <div class="left-bottom-float-fullScreenSleep" data-spm="ad-fullScreenSleep">
-</div>
-<div class="left-bottom-float" id="left-bottom-god" data-spm="ad-ss">
-</div>        </div>
-            <div id="sohu-mod" class="sohu-mod">
-  <div class="area sohu-frag">
-    <div class="left sohu-news">
-      <div class="title">今日搜狐热点</div>
-      <div class="list">
-        <ul>
-                  </ul>
-      </div>
-    </div>
-    <div class="left auto-sohu">
-      <div class="count-down"><span>6</span>秒后</div>
-      <div class="go-sohu"><a href="http://www.sohu.com?strategyid=00004">进入搜狐首页</a></div>
-      <a href="#" target="_blank" class="close-sohu"></a>
-    </div>
-  </div>
-</div>
-<div id="sohu-remend" class="sohu-remend">
-    <div class="area sohu-remend-box">
-        <div class="remend-tt left">今日推荐</div>
-        <div class="left sohu-pp">
-            <ul>
-                            </ul>
-        </div>
-        <div class="right sohu-do">
-            <a data-clev="10220279" href="http://www.sohu.com?strategyid=00004"><div class="go-sohu">进入搜狐首页</div></a>
-            <a data-clev="10220280" href="//shang.qq.com/wpa/qunwpa?idkey=04e47b9e7004c967962f52532465719ae8a30cf05413c11934ec121fb7e2dd62" target="_blank" class="feedback-link">意见反馈</a>
-            <a data-clev="10220281" href="javascript:void(0)" target="_blank" class="close-remend"></a>
-        </div>
-    </div>
-    <div class="sohu-remend-layer"></div>
-</div>             
-
-<script src="//statics.itc.cn/web/static/js/lib-61587d9fb8.js"></script>
-<script src="//statics.itc.cn/pc_channel_script/pc_channel_script/jquery.xdomainrequest.min.js"></script>
-<!--<script src="//statics.itc.cn/web/static/js/ie8hack-07e05e83f1.js"></script>-->
-<script src="//txt.go.sohu.com/ip/soip"></script>
-<script src="//statics.itc.cn/spm/prod/js/1.0.2/index.js"></script>
-<script src="//statics.itc.cn/web/static/js/main-3f930a1179.js"></script>
-<script src="//js.sohu.com/pv.js"></script>
-             <script>
-try{console.log("执行成功")
-        window.sohu_mp.article_abroad({
-        channel_id: "42",
-        news_id: "581962654",
-        cms_id: "$mpNews.cmsId",
-        media_id: "116000",
-        passport: "3957040489@sina.sohu.com",
-        weboUrl: "https://mp.sohu.com/profile?xpt=Mzk1NzA0MDQ4OUBzaW5hLnNvaHUuY29t",
-        title: "为什么我们喜欢游戏联动？",
-        channel_url:"//game.sohu.com",
-        categoryId:"1366",
-        //adData_fd用于abtest
-        abData:"",
-        abData_fd:"",
-        abData_tw:"",
-        originalId:"$mpNews.originalId",
-        originalStatus:"0",
-        hasVoteInfo: "false",
-        isPure: "${pure}",
-        secureScore: '100',
-        sGrade: '0',
-        editor:'',
-        hideAd:'',
-        mpNewsExt:{
-            "modelId":""
-        }});
-}
-catch(e){
-    var html = '<div class="err-js">' +
-                '<span><em class="icon err-js-icon"></em>JS加载错误，请重新加载。</span>' +
-                '<a href="javascript:window.location.reload()" target="_blank" class="cached-btn"' +
-                '><em class="icon-cached"></em>刷新</a></div>';
-    $(document.body).prepend(html);
-    console.error("发生错误",e);
-}
-</script>
-<!--[if lt IE 8]>
+		<footer>
+		 <p>Copyright © 2001-2022</p>
+		 <p>湖北荆楚网络科技股份有限公司</p>
+		</footer>
+	<!-- 微信分享js -->
+	<script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.4.0.js"></script>
+<script type="text/javascript" src="http://act.cnhubei.com/web/js/utils/localStoreUtils.js"></script>
+<script type="text/javascript" src="http://act.cnhubei.com/web/js/utils/wxUtils.js"></script>
 <script type="text/javascript">
-(function(){
-    var ua = navigator.userAgent;
-    var version;
-    var html = '<div class="area clear">' +
-        '<div class="ie-low">' +
-        '<p>您的浏览器版本过低<br>为了更好的体验，请升级你的浏览器。</p>' +
-        '<h5><a href="https://ie.sogou.com" target="_blank" class="upgrade-btn">马上升级</a></h5>' +
-        '</div></div>';
-    if (/MSIE ([^;]+)/.test(ua)) {
-        version = parseInt(RegExp["$1"]);
-        if (version<8) {
-            document.body.innerHTML=html;
-            var reg = new RegExp("(^| )SUV=([^;]*)(;|$)");
-            var suvs = unescape(document.cookie.match(reg)[2]);
-            var spv_server_src = "http://pv.sohu.com/action.gif?actionId=10078&SUV="+suvs;
-            var scripts = document.createElement('script');
-            scripts.src = spv_server_src;
-            document.body.appendChild(scripts);
-        }
-    }
-})()
-</script>
-<![endif]--><script src="//images.sohu.com/bill/default/sohu-require.js"></script>
-<script type="text/javascript"> require(["sjs/matrix/ad/passion"]);</script>
-<script type="text/javascript" src="//www.sohu.com/sohuflash_1.js"></script>
-<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/ad/form/delivery.js"></script>
-<script type="text/javascript" src="//images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/pv/pagePVmonitor.js"></script>
-<!-- <script src="//statics.itc.cn/spm/prod/js/1.0.1/index.js"></script> -->
 
-<!-- 文章安全分低于等于10分不执行seo优化 -->
-<script>
-    (function(){
-        var bp = document.createElement('script');
-        var curProtocol = window.location.protocol.split(':')[0];
-        if (curProtocol === 'https') {
-            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
-        }
-        else {
-            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
-        }
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(bp, s);
-    })();
-</script>
-<!-- 百度联盟广告，多条广告如下脚本只需引入一次 -->
-<script type="text/javascript" src="https://cpro.baidustatic.com/cpro/ui/c.js" async="async" defer="defer"></script>        <!-- 新增vidoomy广告 -->
-                    <script type="text/javascript" src="//ads.vidoomy.com/sohu_18447.js" async></script>
-                <script type="text/javascript">
-            window._taboola = window._taboola || [];
-            _taboola.push({flush: true});
-        </script>
-    </body>
+
+$(function () {
+
+var currLink = location.href.split('#')[0];
+
+wxUtils.wxShare("特朗普集团被判税务欺诈罪名成立，令特朗普2024大选之路雪上加霜", "据路透社12月6日报道，当地时间周二，陪审团在两天内审议了12个小时后，特朗普集团被裁定判犯有长达15年的税务欺诈罪，这使得这位前总统在2024年再次参加大选时面临的法律困境雪上加霜。特朗普集团在世界", "http://img.yun.cnhubei.com/a/thumb/10001/202012/9974b88043fb3569db9e0b46da7c11c1.png!w300_h300.png", currLink);
+
+});
+    </script>			
+        <script type="text/javascript">
+        
+          // 音频无控件，无法展示 添加音频控件
+            var x= document.querySelector('audio');
+            x.controls = true;
+            x.load();
+        
+        $(document).ready(function() {
+            // 展开、关闭导航按钮
+            (function() {
+                
+          
+                
+                var $navShowBtn = $('.nav_bnt');
+                var $navMoreContent = $('.nav-more-content');
+                var $navCloseBtn = $('.nav-close');
+                var $body = $('body');
+                // function forbiddenScroll(e) {
+                //     e.preventDefault();
+                // }
+                $navShowBtn.on('click', function(e) {
+                    e.preventDefault();
+                    $navMoreContent.addClass('show');
+                    // $body.on('touchmove', forbiddenScroll);
+                });
+                $navCloseBtn.on('click', function(e) {
+                    e.preventDefault();
+                    $navMoreContent.removeClass('show');
+                    // $body.off('touchmove', forbiddenScroll);
+                });
+            })();
+        })
+        </script>			
+	</body>
 </html>

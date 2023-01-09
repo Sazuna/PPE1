@@ -1,279 +1,21 @@
-<!DOCTYPE html>
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta name="format-detection" content="telephone=no">
-<meta name="applicable-device" content="mobile">
-<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport">
-<title>ä¸æƒ³æ”¾å‡åªæƒ³æžé’±ï¼å›½åº†å¸‚é›†ç»æµŽç«çƒ­ï¼Œçœ‹é•¿æ²™å¹´è½»äººå¦‚ä½•åœ¨å‡æœŸæ‘†æ‘Šæ—¥èµšä¸¤åƒå…ƒ - åŽå£°åœ¨çº¿</title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<link href="https://www.voc.com.cn/CommonFiles/mobile/css/base.css" rel="stylesheet" type="text/css" />
-<link href="https://www.voc.com.cn/CommonFiles/mobile/css/news.css?2" rel="stylesheet" type="text/css" />
-<link rel="canonical" href="https://hunan.voc.com.cn/article/202210/20221006165425598126.html">
-<script type="text/javascript">
-if(window.navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i)) {
-
-}else{
-window.location.href="https://hunan.voc.com.cn/article/202210/20221006165425598126.html";
-}
-</script>
-<script type="text/javascript" src="https://www.voc.com.cn/CommonFiles/mobile/js/jquery-1.9.1.min.js"></script>
-<script src="//res.wx.qq.com/open/js/jweixin-1.6.0.js" charset="utf-8"></script>
-<script src="https://m.voc.com.cn/js/iscroll-zoom.js" type="text/javascript"></script>
-<script type="text/javascript" language="javascript">
-var _NewsID = 55291124;
-var _ClassID = 400;
-var _EditID = 1784;
-var _BbsTid = 0
-var imgWidth = 500;
-var _CtypeID = 0;
-var IsComment = 0;
-var document_width = $(window).width();
-var document_height = $(window).height();
-if(document_width > 640) document_width=640;
-var height = document_width * 0.21;
-var video_height = document_width / 16 * 9;
-var footerClose = !1;
-var myScroll,isZoom = !1;
-function initScroll(){
-  myScroll = new IScroll("#wrapper",{zoom:!0,zoomMax:6,scrollX:!0,scrollY:!0,freeScroll:!0,mouseWheel:!0,wheelAction:"zoom",click:iScrollClick()});myScroll.on("zoomStart",function(){isZoom=!0});myScroll.on("zoomEnd",function(){var o=-(window.innerWidth*(this.scale-1)/2),t=-(window.innerHeight*(this.scale-1)/2);myScroll.x=o,myScroll.y=t,$("#scroller").css("transform","matrix("+myScroll.scale+", 0, 0, "+myScroll.scale+", "+o+", "+t+")"),setTimeout(function(){isZoom=!1},300);});
-}
-function iScrollClick(){
-  if(/iPhone|iPad|iPod|Macintosh/i.test(navigator.userAgent))return!0;if(/Chrome/i.test(navigator.userAgent))return/Android/i.test(navigator.userAgent);if(/Silk/i.test(navigator.userAgent))return!1;if(/Android/i.test(navigator.userAgent)){var o=navigator.userAgent.substr(navigator.userAgent.indexOf("Android")+8,3);return!(parseFloat(o[0]+o[3])<44); }
-}
-
-</script>
-<style>
-.mask { z-index: 10000; position: fixed; top: 0; left: 0; background-color: #000; display: none; }.mask, .preview, .preview>div { width: 100%; height: 100%; }.preview, .preview>div { text-align: center; }
-</style>
-</head>
-<body>
-<div class="mask">
-    <div id="wrapper" class="preview">
-        <div id="scroller"></div>
-    </div>
-</div>
-
-<div class="nav_top">
-  <div class="fanhui"><a href="javascript:history.back();"><img src="https://www.voc.com.cn/CommonFiles/mobile/images/jt.png" height="20"></a></div>
-  <div class="logo"><a href="https://www.voc.com.cn"><img src="https://www.voc.com.cn/CommonFiles/mobile/images/logo_m.png" width="68"></a></div>
-  <div style="float: left;"><a href="https://hunan.voc.com.cn/">æ¹–å—åœ¨çº¿</a>&nbsp;&nbsp;>&nbsp;&nbsp;<a href="../../class/400.html">ä¸‰æ¹˜ä¸‡è±¡</a></div>
-</div>
-<!--top end-->
-<div class="news-main" style="min-height:100px;">
-  <h1 class="news-title">ä¸æƒ³æ”¾å‡åªæƒ³æžé’±ï¼å›½åº†å¸‚é›†ç»æµŽç«çƒ­ï¼Œçœ‹é•¿æ²™å¹´è½»äººå¦‚ä½•åœ¨å‡æœŸæ‘†æ‘Šæ—¥èµšä¸¤åƒå…ƒ</h1>
-  <div class="from fs12">
-    <time id="news-time">2022-10-06 16:54:25</time>
-    <span>[æ¥æº:æ½‡æ¹˜æ™¨æŠ¥]</span>
-    <span></span>
-  </div>
-
-  <div class="news-content">    
-    <p style="text-indent:2em;text-align:justify;">
-	è¿™ä¸ªå›½åº†å‡æœŸä½ æ˜¯å¦‚ä½•åº¦è¿‡ï¼Ÿå½“å¤§å¤šæ•°äººåœ¨å¿™ç€ä¼‘æ¯åº¦å‡çš„æ—¶å€™ï¼Œåœ¨å¦å¤–ä¸€ç¾¤å¹´è½»äººçœ‹æ¥ï¼Œ" å‡æœŸæ­£æ˜¯èµšé’±çš„å¥½æ—¶æœºã€‚"
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	å¹´è½»äººé•¿å‡ " æžé’± " æ–¹å¼å¾ˆå¤šï¼Œæœ‰çš„å¿™ç€åŠ ç­èµšå– " ä¸‰å€ " æ”¶å…¥ï¼Œä¹Ÿæœ‰çš„å¹´è½»äººå¿™ç€åœ¨å¸‚é›†æ‘†æ‘Šã€‚æ‰‹å·¥é¥°å“ã€å°åƒç”œå“ã€åˆ›æ„è®¾è®¡â€¦â€¦åœ¨ä»–ä»¬çš„ç»è¥ä¸‹ï¼Œå·²ç»æ‘¸ç´¢å‡ºäº†ä¸€æ¡ " ä¸‡ç‰©çš†å¯å¸‚é›† " çš„ç”Ÿè´¢ä¹‹é“ã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	<strong>ä¸‡ç‰©çš†å¯</strong><strong>å¸‚é›†</strong><strong>ï¼</strong><strong>å›½åº†æœŸé—´ä»–ä»¬ " æ‘†æ‘Š " æžé’±</strong>
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	å¤å¤©ä»¥æ¥ï¼Œ" å¸‚é›†ç»æµŽ " åœ¨é•¿æ²™çš„å„å¤§å…¬å›­ã€å•†åœºé€æ¸å‡æ¸©ã€‚åœ¨ä¼ ç»Ÿåœ°æ‘ŠåŸºç¡€ä¸Šçš„å‡çº§è€Œæ¥çš„å¸‚é›†ï¼Œä¸ä»…æœ‰è§„èŒƒçš„ç»è¥åŒºåŸŸï¼Œè¿˜æœ‰é€ åž‹ç»Ÿä¸€çš„æ‘Šä½è®¾è®¡ã€ç§ç±»ç¹å¤šçš„åˆ›æ„å•†å“ï¼Œç›¸æ¯”ä¼ ç»Ÿçš„åœ°æ‘Šç»æµŽï¼Œ" å¸‚é›† " æ˜¯ä¸€ç§ç»„ç»‡æ›´å®Œå–„ã€å†…å®¹æ›´ä¸°å¯Œçš„åŸŽå¸‚ä¼‘é—²ç”Ÿæ´»å½¢å¼ã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	10 æœˆ 3 æ—¥ï¼Œè®°è€…èµ°è¿›é•¿æ²™ä¿åˆ© mall å•†åœºï¼ŒæŽ¢è®¿è¿™é‡Œçš„ " å¥‡é‡å¥½æ—¶å…‰ " å¸‚é›†ã€‚åœ¨å•†åœºä¸€æ¥¼å¤§åŽ…ï¼Œæ•´é½æŽ’åˆ—ç€ä¸‰åä¸ªé€ åž‹ç»Ÿä¸€çš„æœ¨è´¨æ‘Šä½ï¼Œè¿™äº›æ‘Šä½é¡¶ä¸Šéƒ½æŒ‚ä¸Šäº† " å¥‡é‡å¥½æ—¶å…‰ " çš„ä¸»é¢˜ Logoï¼Œä¸‹æ–¹åˆ™æ˜¯è®¾è®¡å„ä¸ç›¸åŒçš„æ‘Šä½æ‹›ç‰Œã€‚é’ˆé’©èŠ±æŸã€æ‰‹å·¥é¥°å“ã€ç«¹ç¼–æ˜†è™«ã€éžé—ç³–ç”»ç­‰ç³ç…æ»¡ç›®çš„åˆ›æ„å•†å“æŒ‚æ»¡äº†æ‘Šä½ï¼Œå¸å¼•äº†è®¸å¤šæ¥å•†åœºè´­ç‰©çš„é¡¾å®¢ã€‚æ®æ‚‰ï¼Œå›½åº†å‡æœŸï¼Œä»Žæ—©ä¸Šä¹ç‚¹åˆ°æ™šä¸Šåç‚¹ï¼Œè¿™äº›æ‘Šä½å°†å’Œå•†åœºçš„é—¨åº—ä¸“æŸœä¸€èµ·å…¨å¤©æŒç»­è¥ä¸šã€‚
-</p>
-<p style="text-align:center;text-indent:0px;">
-	<img src="https://news-vod.voc.com.cn/9/2022/10/06/0bb1c79138fcc27f4597c10615eabe1bf46447af1665040040?pid=1838072" />
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	â–³è¶ç€é•¿å‡ï¼Œé•¿æ²™å¾ˆå¤šå¹´è½»äººå¿™ç€åœ¨å¸‚é›†æ‘†æ‘Šã€‚å›¾ / è®°è€…è´ºå®‡å¸†
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	ä»Šå¹´åä¸€æœŸé—´ï¼Œé•¿æ²™æœ‰è¿‘äº”åä¸ªå¤§å¤§å°å°çš„å¸‚é›†æ•£è½åœ¨åŸŽå¸‚çš„å„ä¸ªè§’è½ã€‚è¿™äº›åˆ›æ„å¸‚é›†ä¸»è¦ç”±å•†åœºã€å±•é¦†ç­‰ä¸»åŠžï¼Œéƒ¨åˆ†å¸‚é›†ä¼šå›ºå®šæŸä¸€ç±»åˆ«çš„å•†å“ï¼Œæ¯”å¦‚å¤§æ‚¦åŸŽåœ¨å›½åº†æœŸé—´ä¸»åŠžçš„ " èµ¶æµ· " ä¸­å¤å¸‚é›†ï¼Œå…¨éƒ¨å”®å–ä¸­å¤å¥¢ä¾ˆå“ã€‚è€Œå¤§éƒ¨åˆ†å¸‚é›†åˆ™æ˜¯å„ç§åˆ›æ„å•†å“çš„ " å¤§æ‚çƒ© "ï¼Œæ¯”å¦‚æ­¥æ­¥é«˜æ˜ŸåŸŽå¤©åœ°ä¸»åŠžçš„ " æ˜Ÿå¸‚é›† "ã€æ²³è¥¿çŽ‹åºœäº•ä¸»åŠžçš„ " äº•æœ‰å¥½å¸‚ " ç­‰ã€‚å›½åº†æœŸé—´ï¼Œè¿™äº›åˆ›æ„å¸‚é›†ä¹Ÿæˆä¸ºäº†åŸŽå¸‚æ¶ˆè´¹æ‰“å¡çš„æ–°åŽ»å¤„ã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	<strong>é é’ˆé’©æ¯›çº¿æ—¥å…¥ä¸¤åƒ</strong><strong>ï¼Œ</strong><strong>è¿™ä¸ªå‡æœŸå¥¹ " èµ¶åœº " åŒä»½è¥ä¸š</strong>
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	åœ¨ " å¥‡é‡å¥½æ—¶å…‰ " å¸‚é›†ï¼Œä¸€ä¸ªæ‘†æ»¡äº†æ‰‹å·¥é’©é’ˆä½œå“çš„æ‘Šä½å‰æ€»æœ‰è®¸å¤šäººé©»è¶³åœç•™ã€‚äº”é¢œå…­è‰²çš„å‘å¡ã€é€ åž‹ç‹¬ç‰¹çš„çŽ©å¶ã€ç§ç±»ä¸°å¯Œçš„èŠ±æœµâ€¦â€¦è¥¿è¥¿ç«™åœ¨æ‘Šä½å‰ï¼Œæ‰‹ä¸­ä¸€è¾¹é’©ç€æ¯›çº¿ï¼Œä¸€è¾¹å‘å¾€æ¥é¡¾å®¢ä»‹ç»ï¼š" å–œæ¬¢å¯ä»¥çœ‹ä¸€ä¸‹ï¼Œå…¨éƒ¨æ˜¯æ‰‹å·¥é’©ç»‡çš„å“¦ã€‚" è¥¿è¥¿æ˜¯è¿™åœºå¸‚é›†çš„ " å¸¸é©»å˜‰å®¾ "ï¼Œä¹Ÿæ˜¯å¸‚é›†ä¸­çš„ " å¸¸é©»é”€å†  "ã€‚è¿™ä¸ªå›½åº†èŠ‚ï¼Œä¸ºäº†æŠ“ä½æ›´å¤šå®¢æµï¼Œè¥¿è¥¿å’Œä¸ˆå¤«åˆ†åˆ«åœ¨åœ£çˆµè²æ–¯å’Œä¿åˆ©å•†åœºçš„å¸‚é›†å¼€è®¾äº†ä¸¤ä¸ªæ‘Šä½ã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	åœ¨å¸‚é›†æ‘†æ‘Šå‰ï¼Œè¥¿è¥¿åœ¨é•¿æ²™ä¸€å®¶å…¬å¸åšè®¾è®¡å·¥ä½œã€‚ç™½å¤©ï¼Œå¥¹æ˜¯å…¢å…¢ä¸šä¸šçš„ " æ‰“å·¥äºº "ã€‚æ™šä¸Šä¸‹ç­å›žå®¶åŽï¼Œå¥¹ä¾¿è¿›å…¥è‡ªå·±çš„æ¯›çº¿ä¸–ç•Œï¼Œå¸¸å¸¸åœ¨ä¸€å †æ¯›çº¿é‡Œä¸€åå°±æ˜¯å‡ ä¸ªå°æ—¶ï¼Œ" é’©æ¯›çº¿æ—¶ä¸ç”¨æƒ³å…¶ä»–äº‹æƒ…ï¼Œè®©æˆ‘æ„Ÿè§‰å¾ˆè§£åŽ‹ã€‚"
-</p>
-<p style="text-align:center;text-indent:0px;">
-	<img src="https://news-vod.voc.com.cn/9/2022/10/06/f2e83f74b7dbfda28c0c011bb6f755b19d3c076c1665040040?pid=1838075" />
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	â–³ 10 æœˆ 3 æ—¥ï¼Œ" å¥‡é‡å¥½æ—¶å…‰ " å¸‚é›†ï¼Œè¥¿è¥¿åˆ¶ä½œçš„æ‰‹é’©èŠ± " çŽ«ç‘° "ã€‚å›¾ / è®°è€…è´ºå®‡å¸†
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	ä»Šå¹´äº”æœˆï¼Œè¥¿è¥¿å¼€å§‹è€ƒè™‘å‡ºé—¨æ‘†æ‘Šå–è‡ªå·±çš„é’©é’ˆä½œå“ã€‚ä½†å’Œå¤§éƒ¨åˆ†å¹´è½»äººä¸€æ ·ï¼Œæ€»è§‰å¾—æœ‰äº› " æ‹‰ä¸ä¸‹è„¸ "ã€‚ç¬¬ä¸€æ¬¡å‡ºé—¨æ‘†æ‘Šï¼Œå¥¹åœ¨å®¶é‡Œçº ç»“äº†äº”ä¸ªå°æ—¶ï¼Œç›´åˆ°å¿«å¤©é»‘æ—¶æ‰åœ¨æ¯äº²çš„é¼“åŠ±ä¸‹å‡ºé—¨ã€‚é‚£ä¸€å¤©ï¼Œå¥¹ç«™åœ¨è·¯è¾¹å–æŽ‰äº†ä¸‰åå¤šæ”¯é’©é’ˆçŽ«ç‘°ï¼Œæ”¶å…¥äº”ç™¾å¤šå…ƒã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	ä¸‡äº‹å¼€å¤´éš¾ï¼Œæœ‰äº†ç¬¬ä¸€æ¬¡æ‘†æ‘Šçš„ç»éªŒåŽï¼Œè¥¿è¥¿å¼€å§‹ä¸»åŠ¨å¯»æ‰¾æœºä¼šï¼ŒæŠ¥åå‚åŠ å•†åœºçš„å¸‚é›†æ´»åŠ¨ã€‚ç›¸æ¯”åœ¨è·¯è¾¹æ‘†æ‘Šï¼Œå•†åœºä¸ä»…çŽ¯å¢ƒæ›´å¥½ï¼Œè¿˜æœ‰è‡ªå¸¦çš„äººæµï¼Œè¥¿è¥¿çš„è¥ä¸šé¢ä¹Ÿæå‡äº†è®¸å¤šã€‚è¿‘å‡ ä¸ªæœˆç”±äºŽä¸­ç§‹èŠ‚ã€æ•™å¸ˆèŠ‚ç­‰èŠ‚æ—¥ï¼Œå¥¹çš„æ”¶å…¥éƒ½çªç ´äº†ä¸Šä¸‡å…ƒã€‚è¿™ä¸ªå›½åº†å‡æœŸï¼Œè¥¿è¥¿æœ€é«˜çš„å•æ—¥è¥ä¸šé¢å·²ç»è¾¾åˆ°ä¸¤åƒå…­ç™¾å…ƒã€‚
-</p>
-<p style="text-align:center;text-indent:0px;">
-	<img src="https://news-vod.voc.com.cn/9/2022/10/06/7132157fe16573447201b3e242a4f5b55bcfbaae1665040040?pid=1838078" />
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	â–³è¥¿è¥¿æ‘Šä½çš„é’ˆé’©ç‰©ä»¶ã€‚å›¾ / è®°è€…è´ºå®‡å¸†
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	æ®è¥¿è¥¿ä»‹ç»ï¼Œæ¥æ‘Šä½è´­ä¹°è¿™äº›é’ˆé’©ç‰©ä»¶çš„ï¼Œå¤§å¤šéƒ½æ˜¯å¹´è½»äººï¼Œè¿˜æœ‰ä¸€äº›è¢«å°çŽ©å¶å¸å¼•çš„å°å­©å’Œå®¶é•¿ã€‚åå‡ å…ƒä¸€æžçš„é’ˆé’©èŠ±å¹¶ä¸ç®—ä¾¿å®œï¼Œä½†ä»æœ‰è®¸å¤šäººæ„¿æ„ä¸ºæ­¤ä¹°å•ã€‚" ä¹°é²œèŠ±æ”¾å‡ å¤©å°±è°¢äº†ï¼Œä¹°é’ˆé’©çš„èŠ±ä¸ä»…å¥½çœ‹ï¼Œè¿˜èƒ½æ”¾å¥½ä¹… " ä¸€ä½å‰æ¥è´­ä¹°é’ˆé’©èŠ±çš„é¡¾å®¢è¯´ã€‚è¿˜æœ‰è®¸å¤šé¡¾å®¢è®¤ä¸ºè¿™äº›é’ˆé’©ä½œå“ " è´µåœ¨æ‰‹å·¥ä»·å€¼ "ï¼Œé€ç»™ä»–äººä½œç¤¼ç‰©æ›´æ˜¾åˆ«è‡´ã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	<strong>æžé’±ä¹‹å¤–</strong><strong>ï¼Œ</strong><strong>æ–œæ é’å¹´æ­£åœ¨å¯»æ‰¾æ›´å¤šå¯èƒ½</strong>
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	æ®è¥¿è¥¿ä»‹ç»ï¼Œå…‰æ˜¯ä¿åˆ©çš„å›½åº†å¸‚é›†ï¼Œå°±æœ‰ä¸‰åä½æ‘Šä¸»åŒæ—¶å‚åŠ ã€‚æŠ¥åå‚åŠ è¿™äº›å¸‚é›†çš„å¤§å¤šéƒ½æ˜¯åƒå¥¹ä¸€æ ·çš„å¹´è½»äººï¼Œæ— è®ºæ˜¯æ¯›çº¿é’©é’ˆè¿˜æ˜¯æ‰‹å·¥é¥°å“ï¼Œå°åƒç”œå“ã€ç”šè‡³æ˜¯æ˜†è™«æ ‡æœ¬ï¼Œè¿™ç¾¤å¹´è½»äººæ€»èƒ½æ‰¾åˆ°è‡ªå·±çš„ç”Ÿè´¢ä¹‹é“ã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	é™¤äº†æžé’±å¤–ï¼Œä»–ä»¬ä¹Ÿåœ¨å‡æœŸé€šè¿‡å¸‚é›†æ‘†æ‘Šå¯»æ‰¾ç€è‡ªå·±çš„æ›´å¤šå¯èƒ½ï¼Œæ‘†æ‘Šå¯¹ä»–ä»¬è€Œè¨€ï¼Œæ—¢æ˜¯ä¸»ä¸šï¼Œä¹Ÿæ˜¯å‰¯ä¸šï¼Œæ—¢èƒ½æžé’±ï¼Œä¹Ÿæ˜¯çˆ±å¥½ã€‚ä¸€ä½ç»è¥é¦–é¥°é¥°å“çš„æ‘Šä¸»å‘è®°è€…ä»‹ç»ï¼Œå¥¹å·²ç»æœ‰äº†è‡ªå·±çš„é¥°å“ç‹¬ç«‹åº—é¢ï¼Œè¿˜æœ‰åŒ»ç¾Žé¡¾é—®ç­‰å¤šé‡èŒä¸šã€‚ä½†å¥¹è¿˜æ˜¯é€‰æ‹©åœ¨å‡æœŸå‚åŠ å¸‚é›†æ‘†æ‘Šï¼Œå› ä¸ºæƒ³ " å‡ºæ¥ç»“äº¤ä¸€äº›æ–°æœ‹å‹ï¼Œä¸æƒ³ä¸€ç›´å›ºå®šåˆ°ä¸€ä¸ªè¡Œä¸šå’Œåœ°æ–¹ã€‚" å¦ä¸€ä½æ‘Šä¸»è‹—è‹—å¨åˆ™æ˜¯ä¸€åç¾Žæœ¯ä¸“ä¸šçš„åœ¨è¯»ç ”ç©¶ç”Ÿï¼Œå¥¹å”®å–çš„å•†å“éƒ½æ˜¯è‡ªå·±åŽŸåˆ›è®¾è®¡çš„æ’ç”»ï¼Œå‚åŠ å¸‚é›†ä¸ä»…å¯ä»¥ç»™è¿˜æœªå·¥ä½œçš„è‡ªå·±å¸¦æ¥ä¸€ä»½æ”¶å…¥ï¼Œä¹Ÿèƒ½è®©è‡ªå·±çš„è®¾è®¡ä½œå“è¢«æ›´å¤šäººå‘çŽ°ã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	å‰ä¸ä¹…ï¼Œè¥¿è¥¿è¾žåŽ»äº†åŽŸæœ¬çš„è®¾è®¡å·¥ä½œï¼Œå‡†å¤‡ä¸“èŒè¿è¥è‡ªå·±çš„å¸‚é›†ç”Ÿæ„ï¼Œå·¥ä½œæ—¥åœ¨å®¶é’©ç»‡ä½œå“ï¼ŒèŠ‚å‡æ—¥å°±å‚åŠ å¸‚é›†å‡ºæ‘Šã€‚æœªæ¥ï¼Œå¥¹è®¡åˆ’æ‰“é€ è‡ªå·±çš„é’©é’ˆç¼–ç»‡å“ç‰Œï¼Œå°†è‡ªå·±çš„å¸‚é›†å°æ‘Šå˜æˆä¸€å®¶é’©é’ˆè‰ºæœ¯å·¥ä½œå®¤ã€‚
-</p>
-<p style="text-indent:2em;text-align:justify;">
-	æ½‡æ¹˜æ™¨æŠ¥è®°è€…è´ºå®‡å¸†
-</p>
-    
-  </div>
-</div>
-<div id="xbyxgg" style="position: relative;margin-bottom: 20px;"  >
-    <a href="https://yx.96459.com/mobile/"><img src="https://vocshizhou-img.voc.com.cn/xiangbovoc/2021/11/30/c5667e0e7a87d686df21742ff43bd7d0.jpg" width="100%" height="142">
-        <span style="position: absolute;right: 0;top: 0;background-color: rgba(0,0,0,.6);color: #fff; padding: 0 6px; border-radius: 5px; font-size: 12px;">å¹¿å‘Š</span>
-    </a>
-</div>
-<script type="text/javascript" language="javascript">
-if(_ClassID == 401 || _ClassID == 2842 || _ClassID == 2853 || _ClassID == 2854 || _ClassID == 2855 || _ClassID == 2856  || _ClassID == 2857 || _ClassID == 2859){
-	$("#xbyxgg").remove();
-}
-if(_NewsID == 54488810){
-	$("#xbyxgg").remove();
-}
-
-</script>
-<div class="news-list" id="reply">
-  <div class="top-temp top-temp2 pl">
-		<h2 class="f000 pl14 cmt-list-title"><a>è¯„è®º</a></h2>
-	</div>
-	<div class="info-comment"></div>
-	<div class="repaly_list"><ul class="cmt-list"></ul><div class="news-more mb14 textC" id="morestr"></div></div>
-   <script type="text/javascript" language="javascript">
-		if(_BbsTid != 0 && IsComment == 1){
-			var url_now = window.location.href;
-			var uid = "";
-			var username = "";
-			var logincontent = "";
-			$.getJSON("https://bbs.voc.com.cn/api/get_login.php?tid="+_BbsTid+"&jsoncallback=?", function(data){
-				uid = data.uid;
-				username = data.username;
-				if((data.data != "" && uid != 0)){
-					$.each(data.data.posts, function(i,item){	
-						if(item.tid !== ""){
-							logincontent += '<li><a class="cmt-title"><strong class="cmt-name"><span class="t_ucc_link">'+item.author+'</span></strong><time class="">'+item.dateline+'</time></a><div class="cmt-content">'+item.content+'</div></li>';
-						}
-					});
-				}
-				$(".cmt-list").html(logincontent);
-				$.getJSON("https://cgi.voc.com.cn/app/mobile/push.php?action=get_bbs_reply&aid="+_BbsTid+"&num=5&status=1&jsoncallback=?", function(data){
-					$(".cmt-list").append(data.content);
-					$(".num").append(data.total);
-					if(uid == 0){
-						$(".info-comment").append('<div class="info-comment-con textC">è¯·ç™»å½•åŽå‘è¡¨è¯„è®ºï¼<span class="f15a"><a href="https://bbs.voc.com.cn/mobile/#/login?referurl='+url_now+'">ç™»å½•</a><em class="f888 fs13">|</em><a href="https://bbs.voc.com.cn/mobile/#/register?referurl='+url_now+'">æ³¨å†Œ</a></span> </div>');
-					}else{
-						$(".info-comment").append('<div class="info-comment-con textC"><a href="https://bbs.voc.com.cn/mobile/#/newreply/'+_BbsTid+'?referurl='+url_now+'">æ¬¢è¿Žæ‚¨ï¼Œ'+username+'ï¼Œè¯·ç‚¹å‡»å‘è¡¨è¯„è®ºï¼</a></div>');
-					}
-					if(data.total > 0){
-						$("#morestr").html('<a href="https://bbs.voc.com.cn/mobile/viewthread.php?tid=0">æ›´å¤šè¯„è®º</a>');
-					}
-				});
-			});
-			
-		}else{
-			$(".repaly_list").hide();
-			$(".pl").hide();
-			$(".info-comment").hide();
-		}
-	   </script>
-</div>
-<div class="news-list">
-  <div class="top-temp top-temp2">
-    <h2 class="f000 pl14"><span>ç¼–è¾‘æŽ¨è</span></h2>
-  </div>
-  <ul class="picList2">
-    <script type="text/javascript" language="javascript" src="https://www.voc.com.cn/Script/bjtj_pic_mobile_utf8.js?5"></script> 
-  </ul>
-  <ul class="cont-list3 cont-list4">
-    <script type="text/javascript" language="javascript" src="https://www.voc.com.cn/Script/xgxw_mobile_utf8.js"></script> 
-  </ul>
-  <div class="clear"></div>
-</div>
-<!--æ–°é—»åˆ—è¡¨ç»“æŸ-->
-<div class="footer textC">
-  <div class="nav textC fs16">
-    <a href="https://m.voc.com.cn/">å¤´æ¡</a>
-    <a href="https://h.voc.com.cn/">æ¹–å—</a>
-    <a href="https://m.voc.com.cn/tianxia.html">æ—¶äº‹</a>
-        <a href="https://m.voc.com.cn/pinglun.html">è¯„è®º</a>
-        <a href="https://m.voc.com.cn/zhuanti.html">ä¸“é¢˜</a>
-        <a href="https://dsj.voc.com.cn/mobile/" class="tag2">å¤§è§†ç•Œ</a>
-        <a href="https://bbs.voc.com.cn/mobile">è®ºå›</a>
-        <a href="https://ts.voc.com.cn/touch/">æŠ•è¯‰</a>
-        <a href="https://m.voc.com.cn/yule.html">å¨±ä¹</a>
-  </div>
-  <!--nav end-->
-  <div class="version f888 fs16"><a href="https://m.voc.com.cn" class="button home">é¦–é¡µ</a><span><a href="https://hunan.voc.com.cn/article/202210/20221006165425598126.html?mobile" rel="canonical">ç”µè„‘ç‰ˆ</a> | <a href="https://app.voc.com.cn">å®¢æˆ·ç«¯</a></span><a href="#top" class="button goTop">è¿”å›žé¡¶éƒ¨</a></div>
-  <div class="copyright fs12 f888">Copyright Â©2013 voc.com.cn</div>
-</div>
-<script type="text/javascript" language="javascript" src="../../script/Article_function.js"></script>
-<script>
-$(function(){
-    var shareTitle = document.title;
-	var shareUrl = window.location.href;
-	var shareDesc = "è¿™ä¸ªå›½åº†å‡æœŸä½ æ˜¯å¦‚ä½•åº¦è¿‡ï¼Ÿå½“å¤§å¤šæ•°äººåœ¨å¿™ç€ä¼‘æ¯åº¦å‡çš„æ—¶å€™ï¼Œåœ¨å¦å¤–ä¸€ç¾¤å¹´è½»äººçœ‹æ¥ï¼Œ" å‡æœŸæ­£æ˜¯èµšé’±çš„å¥½æ—¶æœºã€‚"";
-	var shareImg = "https://news-vod.voc.com.cn/9/2022/10/06/befabe990fd0d68c4f78b06665b9f0e5e2f6f3341665040062122.png?pid=1838084";
-	if(shareImg == "https://img1.voc.com.cn/UpLoadFile/"){
-	    shareImg = "https://m.voc.com.cn/images/wx_lg.jpg";
-	}  
-
-    $.ajax({url: "//cgi.voc.com.cn/api/weixin/xhn.php?url="+encodeURIComponent(shareUrl),dataType: 'json', success: function (data) {
-    $.each(data, function (index, result) { if (result['status'] == 1) {
-        var appId = result['appId'],timestamp = result['timestamp'],nonceStr = result['nonceStr'],signature = result['signature'];        
-        wx.config({
-            debug: false, appId: appId, timestamp: timestamp, nonceStr: nonceStr, signature: signature,
-            jsApiList:['onMenuShareTimeline','onMenuShareAppMessage','onMenuShareQQ','onMenuShareWeibo','updateAppMessageShareData','updateTimelineShareData'],
-            openTagList:['wx-open-launch-app']
-        });
-        wx.ready(function(){            
-            wx.updateAppMessageShareData({ title: shareTitle, desc: shareDesc, link: shareUrl, imgUrl: shareImg });
-            wx.updateTimelineShareData({ title: shareTitle, link: shareDesc, imgUrl: shareImg });
-            wx.onMenuShareTimeline({ title: shareTitle, desc: shareDesc, link: shareUrl, imgUrl: shareImg });
-            wx.onMenuShareWeibo({ title: shareTitle, desc: shareDesc, link: shareUrl, imgUrl: shareImg }); 
-        });        
-        wx.error(function(res){   });
-        
-    }   });
-    
-    }  });
-});
-if($('video').hasClass('contentvideo')){
-  $(".contentvideo").css("width","320px");
-}else{
-	$("video").css("width","100%");
-	$("video").css("height","auto");
-
-}
-
-var scrollTop = $(document).scrollTop();var o=!1;initScroll();
-$(".news-content img").click(function(){ o=!0;var e=this.naturalWidth,i=this.naturalHeight,n=(window.innerHeight-i*((window.innerWidth>e?e:window.innerWidth)/e))/2;
-r='<img src="'+this.src+'" style="width: '+(window.innerWidth>e?e:window.innerWidth)+"px; margin-top: "+n+'px;" />';
-$(".preview>div").html(r),$(".mask, .preview").fadeIn(),$("body, html").css("overflow","hidden"); });$(".mask").click(function(){
-o&&($(".mask, .preview").fadeOut(function(){myScroll.zoom(1)}),$("body, html").css("overflow","auto"),o=!1)}); 
-</script>
-<script src="https://www.voc.com.cn/adsClick/498.js?2"></script>
-</body>
-</html>
+‹ÅœYsÇ•…ßõ+H†­îH±kë…Í¦‚’í	?øÅc?Q°¢WŠ1 ÀA	 üÛç|'—ªj6¸XžG@]•Ë]Ï½y3+é§?_½>{öôíæòÕ›«g_ý²º¼·º|Y,“²ÿqü|:ÿéùuóü‡çÏ‹qýý÷Óçóï¿¯æÓÉójö‡iQžôÓøºž³å‹Á×“êÇë©þêµþfzžê¯ÐóVóÁCiV!<3¤üñºÒðf"†j
+d¦qŠš ÕÉ\¿»0¼Þÿx]êÏ$ÆêÛ„gs‰J\«­¹ÖâÔD.µH5µ†‹sgH#Ê–]'â0Ñð®âÞ Ãõ7c\í(dÉ4.éÞðœÆKjž)ˆ’H(µøA·#BžÂÙöyŠžé‡}#eÑ…+~_Ècj¥gÓ\Q£1Ò8úÇýj§CvMPOm¸‰¦3Ì®±ÅRRÛELUß4Ú~‚5¤Uyû«ä?¬ÕÂøÌË"v|%Iìnýâj³Á’–*i1•ø²FD~£Ü,ƒÕÏ¯Q†¸X!ñÑ‹,«T“Ò8C!}-Ã¥)I+¤Ç*•~!mÃCRs¬•Ä/€§þf‰O0¨¦Têf
+¾µ¯Ð G_V@…6‰ß’ï“Hž§~ûzü‘ÚlHµ™¬¤šð‡„b3•À*Íë$µža•amxg>ã$VOË8×VÀBæe­³g‚vúÃo1¶"°Ž¾7|D2…²†'Ã ±fÈL±çßèNQ4°Â 0Ü£½n‘ò»¸:TõX=iéG1êdÈƒÐ˜A„×*²‰m!Ö)"@’hÃ{ôƒA©÷dëzg¤("`v¿ŒóÄxIdŒÞ1,>7Ä$«-'ë•R+ócòcÍ¨²qD;se
+£=õƒxKóí8õñîT¥g;Wï^	$ƒáŒIÕFi‚—ÄÊoŠûqÔ†ss¶cl‚+ØH"¨Í)(¤}¤@j'LH UÔ*%@¤dºƒJ¤R?¨NZ!F²"è?`á€ä8›Ï(‡’k“SM•.E±)~Alm‡ÔþÓô,mÅY¹ß$D.…ºáGL­örß†¦d(^ÔÔí)ËÛ¤ ª
+9
+çI0<âõÈ]š*AÉ¼N‹˜Ï´‚aŽ„3{4Õ~Oúõ§ ª­¨_;ê8=m gRq9G~º4ÄR·3‘8Oë¬®Ê‘zrmZÎS
+·)¢pËý8I¤S>ÇêË,¸ÖÆŽÃ’®^F£žFKKÂ®ÔpÂ9.;%ôçâ"Jù w–Ây´`ÈtlD^“¢ù:®·…%”#	 EVÅÙµYFug]E®¤+¹ÁB	`ŸV<Ç7ãVöA—¸¤å)ºº3ÕÙ·€ÃŸâæ8EHOÁCJ0e¾CÀ‰“$’…	*ëŠ‰d¢aZdhXÖ´nuüšt± Ø …5‹¹Õ–þÕ´T‰å\$¡miÆjàì ‰(@2er=íÝD¥u¨ê7#Êz·nB¢@ŒtŠ$¯wKHXrŽ…gj«Ø½@[Ð•ÜáüËq!êëP¼8(Àêj(~ICºÙ>9!g8ID¥vÓxë.Ziõš(DÔ@®
+’ÐLÕsò«ÿÒM¸U9K@
+Óai ®?²ž× X­–:ÊžT¸õ*qÁ|ÇV~ .j,é‚)EÊæ„“tŽ\’…mY¡Ì0$P2‡Ó[œŽ7œ{Q–èÎ|µ§`u.l^ €¥^â°Æ£UŠLð•D8É–G´$134Õ¤×äa'jØÆPL*å¸GóœØ“jàT¢ØÐˆ¤vÂ4¿wŸLâ2˜±ˆ¥>ô1]Rz©ßël2‰ÆÛK˜Rm®¯Dù“Iìtrœä2RÁÞÕo^©>¥«ðIZw™¨¦ò¹º5K­wg×€ûÜD·ð;Ï€ *:*Ž#È°1 »¸ç‰„!ø;ÐEæ†*1oU+êãrµå€U{²(x780”w=œG®èÚ
+fA	äE7='.DŽÎNEf|ÊT2KæÚ†¹»DÑ{A,Ðæ@nŽ.^Ôo("l=8]÷ïÎ7W¯.Î‡œelæÓýø¡žŠi]î·£NFèØ®‹Í²7TÇÅntóëÏ¯ÎvÃGâIM™§"Ž‰h¥ÉlpÚ²q¯´#õâX´Sýr:··‹È¹Úl'›IË:‹´žU“ñzyÃÉÐÒ lRž¸'Âw>xgÐÛtÁ°	+¢ø2ä“LÔÌcÁA3h€`=¸å,·›˜:¯|HýI×`åx½¯jl[ífõxÇS3™WÛÊO»ÙºœØv—tûéýû›lõjVîÇô"'DÀ?É´’ÙšÕ~WËñõx±¿¸Fc¶­ÁÇ³I9…X‡8;¢­²+Ëƒ­ ·-à`šOõTL™Ù¶œd·ÔÅºÜï;DóDÓ
+œ,‘[n(Ç–=LJ²o§ó²˜÷I„&Ñ
+{[aòÙ‚”:ÓïÕd†Ù÷—Ëû÷_œÚ]ƒ¡ÃAÍì!8|SØ‹Â+ úôþIn.wWï.ÏQœÅÉ uÉHÃgb±^ÅÞ,fóyp‘7<½ß…ï¤læ«2	AN-‹ŒÍRø˜Wíüáùî×{Ý½üãõ›¡„.É°R¸"]S…[€€úæ†Ak:9¢Y›øtÀ)?<¾øöwß}£°Ž^œþøøä§£Ç/‰ÉRú+CBXž`?x52z)þâ§$“‚¢Ü6Ó~r+ÆÍ¾™;V÷Ûéln$„Æá	ÁV…f)¯—ÆœØH“!´œ>ÁeX+Xç»íns±Ýýý¯þáâõ›‹óÝùóBçAötôäÝùv·u¾Ûv²`½*W»í‘,X”õ¶˜.û¦nÈd
+^j•RDeÚp•ÖRû³Ï\óXž0ÌèºúHæÅ½™îv0ê¨ä´kxåN§{éry×ñŸ§™¢XSî™Û9,.(8ªÃ&aaÒÊ¡¶;¢ÐQ|PSn'ÓÝf9¤†¢7Máp÷ÊdÉ¾Íp´Pº/QµZrŽ€ ä]’á[®§ÄƒC†$#9°†³92©Ü­³»³·»{!÷uXFåz&ûŒs:<wvö	Æ‘éMxŠ÷Ïu»¥A$ByÀ«ãOE	Š5ëNx7ûªM¹»Èqõ³|³º|»ûsÌ8V$Ç9_ðÁ§Ø9ÏééE¦xš|×ˆ#^ÈÀ’üA…dÆ3á>Iýüê?Jl/iŒ‹K©žZmtÓky½Ýîë¹ê£?¥*N|“1ö¶èº¤Š-
+­D?ÆŒå@¶Î¸Òib@2%KLcH 2 :!g’‰ SÖ€Ùãc"”ˆ%vUŒ7kæja{^«µJLÙ±ö“éƒúò*gó}]S^`Mâ‹$•°n¥¹ÏCDÚGGJŒT÷>Ä—z>m“èTÏ”÷Þ|i¾w¾²»3i>o]4ïÚ,1·Ù³TÚQ-6ZÞàiñÁt^üÅ‡jóx¿CöÂcxˆä«ùÞ£j>ŸJhl>÷ÐXö?lÙ;p¼â¤/Tös^ŽƒÓ÷ï	™6'ö÷‚&”0u»Íd½®—ÿyuùêü¥É¸09éa”À®ÝË“ß=~8+;ei±ïÇ5Åª×ÎÙf^»8	Em±$Œ#ˆû)¹—àËgÊ‘'ŸÙöÑ¶Ž,¶™”*ÖÅ?óì¯¿¦§0c;ô{ÿ.·£·1k`ø$?YfkprÂ”s‚ˆ'ÑB–	Ÿb¢¬ÊÈ;}Æd_ï÷_göÏž©Pø†3ûZØhôD&ñ*Ñš¡r˜¥à`¨EXúØ“`Š0G¹³-S‚Ü‹[ªr(šü/e3—Ø‹Û¸Þ%.¶,Q9ßÅ .«r2õðX‹Õ¾ÀôMU®6²A[7ãé|µ|qê¾PÚ%`TuƒbmÑdºËÕÕÅH6}°†Š+Ñ\Ï‹¢ñbà™6;Q®°é‰bÌ÷P¡òÊ3±phc•¥ñ©l'TÎŽü¸Qj™|>‚ÐBp"‹ pg­$qÆ£0¨Šxn„0(ldÓ,´Á¦=»ÅšBvCçðön÷dûðEæò+ÌXÜ’7r7¸ùír¡>_2+<:Šyxm,Í  Ggß¼A²ßC¾F#¥ˆ¨sØP;‡Â`¢€ä+´Aïˆ?ht3Úíª¾é£9pD'×»f³+“=Ã0ð)X‡ñÑ}‘]ë¥©ÜÑûóüÑ™ðb(évu¿)i÷-ö1,8úGëxçŸC`ô¡1MuÚËäA™¸C9¼›]ÁHH¬$áƒó´p’2ôaçR§Sdq‘»k•ôér¹ÌûÛÑÍAòw€QÅl““ºÄ/›þ½¬VÕ\çW?¿z:[Õœ”SÊZy»SB
+ñœEž"6âTI‚Ó;CÙˆk1æï4w:gˆRzJŸ¹fRnl×§tJ"±>1IîIÒ¤ÝŠ¤Zð(Q=ºaWÆùüþ óMç˜Ý²ßÉûÈæÿ"(íTûŽ28–Fvˆ-¿ö!U¤¬ÛKÊ,®`D¢3\eóýl<ïž“|©ÝOÒ„/1X>É“ñn¬Ž‰NYmVk£ƒhùMd>«Ï=ùîÑ£D1A®E´X*|(õä³ÆI@¬\!\¿Ä³ýGÌÒÆ©¤š×ú6Aöøþââl·:º–í)úüÝÂM¹ÀMÊvÏ2Žz!üTVù—þ”=…›ÙvÖèÃJg¹.6ó}³Î[¦Ín¾/³Ôw$6ÇÐ…	~D]œš`ÛÆÊþ9Ô?8‘ÿËêêg!…wt2çÃ^§’°QÔÉVFaRüÔëîqlÎKA~@4‡«Õis‰ì$Ä­>’t>´“¢Žì,sq'²óÑRÛPæÈ#¼å_èz„±]ZÌ
+Å.|¨0M=œùÝdZÔ‰ÛáÚÞ!c(OT¬³çÒ½éjÉ¹_z«{oMïmÒ{Ó¹ugÞ¬÷¦\Ýé+ÆíëYéóã¯¯Î·¿"-š‚òàá=J9‡ÏŸ>´ÙF:ôˆcédÄRÃƒ#Óä“Ì©48ºÉß9:ßç"3]ƒ§<dGÖ†E8éŠ¥/Ž)ïs Îšß”«;Fw,:Rq®#li7<êÔ¸`7ŠóòÖ¬šmµæD¤“#v³y3›¥’>¼=uw¥;-pã„pâ¥p£Ó¯9zˆs2¿®˜ºç””æh­D,¼ÈóNÄZZÚ˜‡u>]=DŸ¼­6ÇYÂÇrèú ¨OÚP”#zÛSÙ¸GÈäÊ¬;?æqˆŠÏå1›ïÊ7’a[Dµº¦ÑC³Á{ÂßÝk«$Å²>v‰XwZAëïõœP+Lð¼Y„oPA9¬
+Šwy'ÞûyX7dC§B6bRœ«SZŽY÷ƒªK
+æÒÝB«%˜óEÉ‡ªúÊÓfëìõxV®)¤÷rSYá«-ÿáx¾¤¸.¨®y('úÏJs<Òs|¿¦Å”ÿ02´ÐUºµÔSQë?LÙñÒè?¥@Øý´3šq|cn=”Œ)iò[}êd†¶«ñv£ã¤ÔP”“q³;ˆ´r¼š®÷)ÒÂ[ˆ4ÒÂGVÜ0”Õ5FI¥…~W…•\ìCÿi7ªËb:-Ã—}øÍu›¼‡§˜IÈkÜo±ÓRˆ†‰pp¬óôÐ#ÐeþÞ¿ßdkÀ#ÒcYßcnõÍÓŽÅ‹·v>ŽÔ:Æño{ä¦ÄÕÒÞ¥-ù÷8=môïa¿Ã¼¨ÅUcK‹ë©½Y1­p¯4Ý +‰)¯ãáÒÅâíîêo¯^ï.Þ]qÜæ%—¿±T³,(>üé„å€˜!´õ«ï‡20¥¹þMmñË%DÕ4Û²ò:ÞŒ'EmãËqW¯–ÇX.ôõÔØDå³£®*Èèïßçi/ÕÚekëÚÿ^tÛ£3!‡Ð¾ô+}-Y§ÃaÞžŸÈM
+àòôdÈmˆøZéõEo½*vA6öÅ|„ðÇµ¡¾Ãg‡dÇUqÐcÈJ°+êvôéÈ¥/ç¾8ÄÍÞw²[W½g±ìJõžÓ+~V_Zòõaô_2AÌø|GâP©Y³ÿ_LÐÍw"œ·W—ÿ}ÓöÅífuµùÙ±PoêY¥2ç–Ï˜	´Ãœ˜êéx;ÛwK¯øðÕW¤ Î³Å-\$ó9;‘ÑÒË¥n¨P¿Ë“rFêgZ‡¯®´Û©£²ë7Y^W½Ö‘¥’Â»×º`ñÖÅw¸Áæš²M=¨RW{S‹B`ŠZµJÑh¾¤xoÆ…î‚|‚…¼­xØQ¦o¦NGƒüÈâ+ †ë<Ùf][ç±™äÙ?¤E{ªk@Yž`§Ÿ´²¬¶óUÑ=ëß~$¿ý@(-Ü|¨,§÷ŒÉ.Ð¸ÿ±_r/|_§e¯0²ÌT£µwÌV)ÖsÑíZ4Z%\&;°J:FÃ:hçÏ°Œ,©²=õã
+g¾Ž{5Ð_€gŒÚu16iæ+@¾˜eÇãÍjsïçj¯ôe>ÜÎË‘¿®þSŸnŠgÏô-çû½Ö‰1‘žÇÃ¹‡,ä#‘6ù`èþ–¦øäÈ5iø6Û’Ù³ÝãwÛ®tác–.ld–HW•.Œÿ¤tý5j¤uQb¦]’ƒœéüõØRJ Ò€ã#%Ô3\hhgöÍón\ûæuk ôÚs×Œâ½ñŸp”…>ÌÂÀI§MB”=õ1x«u¡KIw%çjZNTY‹b]nËR÷ÜR²XWÍØwù…#Ù¹?a:žM¶¾³(½@Ê¸=.Ó¾FaB±AhÔ©‹"$k[þ6[Ç²uR³—­+ë ÐÍÖëI.i“Ý™­'›õjÕÞªéj£»SÔ¡lx½cVeIéäï‡Iãt"pPy»ËRL']˜Í!Ò9i˜¯›]ŒjyÂ1Rhíø®BßQ£¤äÒG9Ñ¡k~ è¡TcK·’d'O}p>¡Ëe¹çb¥ÿyš.]~šz,b]X+uúzûX{º¤ÊTb÷J©OÊžj0åTßËÑo5; ®]s]ìÉæ\žÑgöžì1ÄŒYœª)`ðþýöì(m
+XƒmÐ ‚œëQLú_²4ÄÕ)õyW‘Ù©¼´)¨f:ÎŽL„á[!vt³½Ø¸~éZ§ŠÀò?»è:È‰-¢O§EV’Ï'ùNÙj0zxöPEZÊSGÉG Î»¥D^ÿ“8,vž‰4©„úL†Ó®J·èv—¿¬ÎºõdgÄ­öNû•ÊÐ¯îÅÿ}•Âàžfÿpqñ_¯vÃóÕëÝCy§pÒÓîúÍ«ËÝvuµó²ý=ˆ[ÛúmÜÎ;M/ÃOåøPÿj`ü¾Àë–Ã"ÙàÛY-auò`ùàÄìNDªoÕÒ!vuñù[¼ú4Ò ×«ëG«—»%”otà½|ü`qÛªr¹;»Xm‡×£{7­VV›_z»ùé§_Êï]wd9»PQ®ñmœ'«~õôqü¿ªxúØÿÏÿˆ£—ÀB
