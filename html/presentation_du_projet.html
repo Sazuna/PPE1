@@ -1,78 +1,91 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
-  <head>
-    <meta content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Méli-mélo</title>
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
-    />
-    <script type="module" src="https://md-block.verou.me/md-block.js"></script>
-  </head>
-  <body class="has-text-centered">
-   <header>
-    <figure class="image">
-      <img src="../img/bg-2.jpg">
-    </figure>
-    <nav class="navbar has-shadow is-white" role="navigation" aria-label="main navigation">
-      <div class="is-size-1 navbar-brand">
-        <a class="navbar-item has-text-weight-bold">
-          MÉLI-MÉLO
-        </a>
-        <a class="navbar-burger" id="burger">
-         <span></span>
-         <span></span>
-         <span></span>
-        </a>
-      </div>
-      <div id="nav-links" class="navbar-menu">
-        <div class="navbar-start">
-          <a class="navbar-item" href="./index.html"> Accueil </a>
-          <a class="navbar-item" href="./presentation_du_projet.html"> Présentation du projet </a>
-          <a class="navbar-item" href="./tables.html"> Tableaux </a>
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-              Concordances
-            </a>
-            <div class="navbar-dropdown">
-              <a class="navbar-item" href="./méli-mélo-concordances.html">
-                Français
-              </a>
-              <a class="navbar-item" href="./dazahui-concordances.html">
-                中文
-              </a>
-              <a class="navbar-item" href="./batiburrillo-concordances.html">
-                Español
-              </a>
-            </div>
-          </div>
-          <a class="navbar-item" href="./itrameur.html"> Itrameur </a>
-          <a class="navbar-item" href="https://liyingle.wordpress.com/"> Blog </a>
-        </div>
-	<!--
-        <div class="navbar-end">
-          <div class="navbar-item">
-            <div class="buttons">
-              <a class="button is-primary">
-                <strong>Rechercher</strong>
-              </a>
-            </div>
-          </div>
-        </div>
-	-->
-      </div>
-    </nav>
-   </header>
-   <div>
-    <div class="container"> 
-     <zero-md src="https://raw.githubusercontent.com/Sazuna/PPE1/main/doc/choix-des-mots.md"></zero-md> 
-     <zero-md src="https://raw.githubusercontent.com/Sazuna/PPE1/main/doc/problematique.md"></zero-md> 
-     <zero-md src="https://raw.githubusercontent.com/Sazuna/PPE1/main/doc/traduction.md"></zero-md> 
-    </div> 
 
-   </div>
-   <script src="../js/index.js"></script>
-   
-  </body>
+<head>
+	<title>MÉLI-MÉLO</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<script
+		type="module"
+		src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+	></script>
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" />
+	</noscript>
+</head>
+
+<body class="is-preload">
+
+	<!-- Page Wrapper -->
+	<div id="page-wrapper">
+
+		<!-- Header -->
+		<header id="header" class="alt">
+			<h1><a href="index.html">MÉLI-MÉLO</a></h1>
+			<nav id="nav">
+				<ul>
+					<li class="special">
+						<a href="#menu" class="menuToggle"><span>Menu</span></a>
+						<div id="menu">
+							<ul>
+								<li><a href="index.html">Accueil</a></li>
+								<li><a href="presentation_du_projet.html">Présentation du projet</a></li>
+								<li><a href="tableaux.html">Tableaux</a></li>
+								<li><a href="concordances.html">Concordances</a></li>
+								<li><a href="#">Itrameur</a></li>
+								<li><a href="https://liyingle.wordpress.com/">Blog</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</nav>
+		</header>
+
+		<!-- Main -->
+		<article id="main">
+			<header>
+				<h2>Présentation du projet</h2>
+				<div>
+					<ul class="actions" style="justify-content: center">
+						<li><a href="#Choix des mots" class="button">Choix des mots</a></li>
+						<li><a href="#Problèmatiques" class="button">Problèmatiques</a></li>
+						<li><a href="#Traduction" class="button">Traduction</a></li>
+					</ul>
+				</div>
+			</header>
+			<section class="wrapper style5">
+				<div class="inner">
+					<zero-md id= "Choix des mots" src="https://raw.githubusercontent.com/Sazuna/PPE1/main/doc/choix-des-mots.md"></zero-md> <br />
+					<zero-md id= "Problèmatiques" src="https://raw.githubusercontent.com/Sazuna/PPE1/main/doc/problematique.md"></zero-md> <br />
+					<zero-md id= "Traduction" src="https://raw.githubusercontent.com/Sazuna/PPE1/main/doc/traduction.md"></zero-md> 
+				</div>
+			</section>
+		</article>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="copyright">
+				<li>&copy; MÉLI-MÉLO</li><li>Rédigée par Yingzi, Léna, Liza</li>
+			</ul>
+		</footer>
+
+	</div>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+
 </html>
