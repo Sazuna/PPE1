@@ -1,98 +1,4 @@
-<lang="fr">
-<page="méli-mélo-1">
-<text>
-Accueil
-
-Site Officiel
-
-Menu principal
-
-  • Documentation
-  • Planète
-  • Contribuer
-  • Slack
-  • Association
-  • Annuaire
-
-Accueil » /%
-
-/%
-
-Créer une seule vue type /% au lieu de plusieurs avec 1 critère de filtrage
-différent
-
-Submitted by Amelije on 28 Mars, 2012 - 15:05
-
-Bonjour à tous,
-
-j'aurai voulu avoir un petit conseil pour rassembler plusieurs vues en une
-seule.
-Et m'extirper de ce méli-mélo drupalien...
-
-Je m'explique :
-
-j'ai créé 1 vue pour chacun de mes 4 groupes (liste hmtl des personnes du
-groupe) alors que seul le nom groupe change dans le critère de filtrage. Les
-champs et les critères de trie restent les mêmes.
-
-Il serait donc plus logique de faire une seule vue qui se décline pour les 4
-groupes, non?
-à écrire comme ça : "/groupe/%" ? mais comment faire "après"?
-
-  • Lire la suite de Créer une seule vue type /% au lieu de plusieurs avec 1
-    critère de filtrage différent
-  • Connectez-vous ou inscrivez-vous pour publier un commentaire
-
-Rechercher
-
-[               ]
-[Rechercher] 
-Navigation
-
-  • Mon panier
-  • Mon compte
-  • Dernières contributions
-  • Ressources Drupalfr.org
-  • Livres
-
-Connexion utilisateur
-
-Nom d'utilisateur * [               ]
-Mot de passe * [               ]
-[Se connecter]
-
-  • Créer un nouveau compte
-  • Demander un nouveau mot de passe
-
-Adhésion individuelle
-
-Vous devez être connecté pour pouvoir prendre une adhésion individuelle.
-
-Twitter @drupalfr
-
-Tweets by drupalfrCompte @drupalfr
-
-Qui sommes-nous ?
-
-Drupalfr.org offre des services à la communauté Drupal française et
-francophone. Notre site est opéré et géré par une petite équipe de bénévoles.
-
-En savoir plusNous contacter
-
-Dernières offres d'emploi
-
-Lead Développeur Drupal
-
-CDI
-Déposer une offre Voir toutes les offres
-
-Ce site est réalisé par l'équipe de Drupalfr.org, son contenu est mis à
-disposition selon le contrat Paternité-ShareAlike 2.0 France.
-
-Drupal est une marque déposée de Dries Buytaert - Consulter les mentions
-légales - Icones BUEditor fournies par FamFamFam.
-</text>
-</page>
+<lang="français">
 <page="méli-mélo-10">
 <text>
 banniere
@@ -4356,369 +4262,98 @@ Inscrivez-vous à la newsletter
   • Cookies
 </text>
 </page>
-<page="méli-mélo-2">
+<page="méli-mélo-1">
 <text>
-  • la maison
-  • les spectacles
-  • le laboratoire
-  • l'agenda
-  • les actualités
-  • les contacts
-  • les médiations
-
-
-  • historique
-  • histoires courtes mais vraies...
-    (2021-2022)
-  • dans l'amitié de mes genoux
-    (2021-2022)
-  • tout un monde
-    (2020-2021)
-  • l'éponge et l'huître
-    (2020)
-  • patua nou
-    (2019)
-  • cocon!
-    (2018)
-  • l'ombre du scarabée
-    (2017)
-  • le zéro absolu
-    (2017)
-  • thinker's corner
-    (2016)
-  • la maison vague
-    (2016)
-  • les images flottantes
-    (2015)
-  • l'appartement à trous
-    (2013)
-  • smatch 3
-    (2013)
-  • der verlassene Teufel
-    (2013)
-  • l'ermite ornemental
-    (2012)
-  • les aveugles
-    (2012)
-  • Le benshi d'angers
-    (2011)
-  • smatch 2
-    (2011)
-  • la rivière
-    bien nommée (2010)
-  • l'accueil d'ismael
-    stamp (2010)
-  • le diable abandonné I
-    (version live - 2009)
-  • smatch 1
-    (2009)
-  • le diable
-    abandonné III (2009)
-  • de duivel
-    beduveld (2008)
-  • le diable
-    abandonné II (2008)
-  • le diable
-    abandonné I (2007)
-  • du pain pour les
-    écureuils (2007)
-  • la pluie d'été
-    (2005)
-  • l'opéra bègue
-    (2004)
-  • construire un feu
-    (2002)
-  • modestes propositions (2002)
-  • histoires courtes
-    mais vraies (2000)
-  • sur les traces
-    d'oskar serti (2000)
-  • le dernier chant
-    d'ophélie (1998)
-  • le paradis des
-    chiens (1997)
-  • les pas perdus
-    (1994)
-
-l'opéra bègue
-
-théâtre musical
-
-[OB01]
-[OB02b]
-[OB03]
-[OB04]
-[OB05]
-[OB06]
-[OB07]
-[OB08]
-[OB09]
-[OB10]
-[OB11b]
-[OB12]
-
- 
-
-C’est en relisant La métamorphose  de Kafka que Dominique Roodthooft a eu
-l’idée de ce spectacle, de son titre : L’opéra bègue.  Opéra, théâtre : les
-lieux du bien chanter, du bien parler ; bègue : qui a un trouble de la parole.
-L’opéra bègue : un oratorio intime, une cantate impossible, une opérette
-tragique, un secret chuchoté, une peur de raconter, une comédie musicale
-humaniste etc. Dans la fable de Kafka, un jeune homme, Gregor Samsa se réveille
-après une nuit agitée, tel qu’il n’était pas la veille, changé en cancrelat.
-Rien ne va plus. La famille (bourgeoise) se déchire. Le retour au calme, à la
-paix, à l’unité apparente n’aura lieu que dans la destruction de « l’insecte
-monstrueux ».  L’opéra bègue, c’est presque la même chose. Au début en tout
-cas. Sauf que la famille est modeste (le père est comptable, la mère, au foyer)
-et que la métamorphose n’est pas exactement une métamorphose. Ce n’est
-d’ailleurs pas un matin que l’histoire commence, mais la veille du mariage de
-la fille de la famille. Qui remarque qu’un arbre lui pousse dans la bouche.
-D’abord juste les racines dans la gorge et une petite feuille. Mais déjà la
-parole se dérègle et le mariage doit être reporté. Les jours passent, les
-saisons idem, printemps, été, automne, hiver etc. L’arbre continue sa
-croissance, se met à sortir de la bouche de la fille, qui ne peut plus parler,
-bouger, doit rester couchée. La famille apprend à vivre avec. A vivre mieux
-avec que sans, mieux maintenant qu’avant. Avec plus d’humanité, d’amour entre
-eux. D’oiseaux dans la maison. Et de chansons. Car les bègues ne bégaient pas
-quand ils chantent…
+Accueil
 
- 
+Site Officiel
 
-                 De Pieter De Buysser, Dominque Roodthooft et Dick Van der Arst
+Menu principal
 
- 
+  • Documentation
+  • Planète
+  • Contribuer
+  • Slack
+  • Association
+  • Annuaire
 
-« On a peut-être gardé les vaches ensemble mais on a pas la même soustraction »
+Accueil » /%
 
-Jean-Claude (extrait de la devinière).
+/%
 
- 
+Créer une seule vue type /% au lieu de plusieurs avec 1 critère de filtrage
+différent
 
-production
+Submitted by Amelije on 28 Mars, 2012 - 15:05
 
-le corridor(Liège) / Het Muziek Lod (Gent) / le Théâtre de la Place (Liège)
+Bonjour à tous,
 
- 
+j'aurai voulu avoir un petit conseil pour rassembler plusieurs vues en une
+seule.
+Et m'extirper de ce méli-mélo drupalien...
 
-Avec le soutien de : La Fédération Wallonie-Bruxelles / Service du Théâtre et
-le Centre des Arts Scéniques
+Je m'explique :
 
- 
+j'ai créé 1 vue pour chacun de mes 4 groupes (liste hmtl des personnes du
+groupe) alors que seul le nom groupe change dans le critère de filtrage. Les
+champs et les critères de trie restent les mêmes.
 
-création et diffusion
+Il serait donc plus logique de faire une seule vue qui se décline pour les 4
+groupes, non?
+à écrire comme ça : "/groupe/%" ? mais comment faire "après"?
 
-décembre 2004 : Théâtre de la Place - Liège
+  • Lire la suite de Créer une seule vue type /% au lieu de plusieurs avec 1
+    critère de filtrage différent
+  • Connectez-vous ou inscrivez-vous pour publier un commentaire
 
-janvier  et février 2005 : Maison de la culture - Tournai / Centre culturel de
-Bruges / Maison de la culture de Courtrai / Minnemeers - Gand / L'aire libre -
-Saint-Jacques de la Lande
+Rechercher
 
- 
+[               ]
+[Rechercher] 
+Navigation
 
-22 représentations
+  • Mon panier
+  • Mon compte
+  • Dernières contributions
+  • Ressources Drupalfr.org
+  • Livres
 
- 
+Connexion utilisateur
 
-distribution
+Nom d'utilisateur * [               ]
+Mot de passe * [               ]
+[Se connecter]
 
-Musique : Dick van der Harst
+  • Créer un nouveau compte
+  • Demander un nouveau mot de passe
 
-Texte : Pieter De Buysser
+Adhésion individuelle
 
-Conception et mise en scène : Dominique Roodthooft
+Vous devez être connecté pour pouvoir prendre une adhésion individuelle.
 
-Interprétation et chants : Paola Bartoletti, Vincent Cahay, Jean-Luc Couchard,
-Didier De Neck et Anne-Cécile Vandalem
+Twitter @drupalfr
 
-Interprétation musicale : Kurt Budé (clarinette basse), Jean-Philippe Poncin
-(clarinette) et Peter Van Cleemput (basson)
+Tweets by drupalfrCompte @drupalfr
 
-Scénographie : Philippe Henry
+Qui sommes-nous ?
 
-Costumes : Philippe Henry et Claudine Grinwins
+Drupalfr.org offre des services à la communauté Drupal française et
+francophone. Notre site est opéré et géré par une petite équipe de bénévoles.
 
-Lumière : Laurent Kaye
+En savoir plusNous contacter
 
-Assistance à la mise en scène : Estelle Franco
+Dernières offres d'emploi
 
-Dramaturgie : Ellen Stynen
+Lead Développeur Drupal
 
-Délégué de production : Bram De Cock
+CDI
+Déposer une offre Voir toutes les offres
 
-Traduction : Anne Vanderschueren
+Ce site est réalisé par l'équipe de Drupalfr.org, son contenu est mis à
+disposition selon le contrat Paternité-ShareAlike 2.0 France.
 
-Technique : Pino Etz
-
- 
-
-presse
-
-(...) "L'Opéra bègue" est une fable sur la différence, la tolérance, l'écoute 
-("On ne l'a peut-être jamais comprise, avec ses mots toujours brisés" ,
-s'interroge le frère d'Isis), sur la folie comme acte de   résistance, sur la
-parole abîmée. (...)
-
-(...) "L'Opéra bègue" se situe à la croisée du théâtre, de l'opéra, de la
-comédie musicale et des arts de la rue. Les comédiens alternent avec la même
-aisance les paroles dites et chantées, les musiciens se promènent librement,
-tels une mini-fanfare. Si la pièce se déroule chronologiquement, en trois actes
-et cinq scènes, elle est loin d'être classique. Le tragique côtoie le burlesque
-- accentués par la musique -, et le cynisme la tendresse. On peut ne pas aimer,
-mais il est difficile de rester insensible (...)
-
-La libre Belgique,   le 06 décembre 2005, Sophie Lebrun
-
-(...) Un ovni, loufoque, poétique, un peu amer, louchant vers la comédie
-musicale plus que l'opéra, où l'on s'égare parfois parce que bien des chemins
-peuvent naître de cette fable, où l'on rit souvent, mais où des ramures
-souterraines vous chatouillent les méninges... Parce que, selon nos trois
-auteurs, le bégaiement est une parole en devenir, un mouvement qui perturbe les
-relations avec l'autre, et qui du même coup le force à écouter autrement, un
-révélateur qui secoue le ronron : la cellule familiale se métamorphose, père et
-mère se redécouvrent, se caressent, laissent entrer l'eau et la lumière dans
-leur salon, écoutent les oiseaux (...)
-
-Le Soir, le 6 décembre 2004, Michèle Friche
-
-(...) Dans un méli-mélo de chant et de paroles, soutenus ou ponctués par un
-trio de musiciens
-(clarinettes et bassons), sur une multitude de matelas écrus empilés
-(scénographie de Philippe Henry, dorée sous les lumières de Laurent Kaye),
-l'histoire foisonne en tous sens, burlesque et troublante. Au-delà de
-l'anecdote surréaliste, bien des questions et réflexions surgissent: c'est quoi
-cet arbre? La peur du mariage? Une difficulté de se faire entendre, à son
-propre rythme? Une résistance? Un choc salvateur? Au choix et tout à la fois -
-au risque de perdre parfois le spectateur-, mais dans un ludisme de la forme
-réjouissant, bourré de clins d'oeil musicaux et dramaturgiques, avec des
-comédiens formidables, qui ont ici réalisé un vrai travail vocal et physique
-(pas simple de virevolter sur des matelas mous!): Paola Bartoletti, Anne-Cécile
-Vandalem, Didier de Neck, Vincent Cahay et un inénarrable Jean-Luc Couchard !
-(...)
-
-Le Vif, l'express, le 10 décembre 2004,
-
-(...) En choisissant le théâtre musical pour présenter cette fable originale,
-trois artistes ont créé un spectacle qui étonne, interroge et bouleverse. Tous
-trois ont un souci aigu d'authenticité, un profond souhait de toucher de près
-la pensée et les sentiments, bien au-delà de l'anecdote (...)
-
-Le Courrier de l'Escaut, le 13 janvier 2005, Françoise Lison
-
-(...) La case, où pourrait rentrer « L'opéra bègue » reste donc à inventer. A
-moins que cet ovni belge soit réellement unique en son genre. On comprendrait
-mieux, alors, en ressorti à la fois groggy et réjoui de tant d'audace (...)
-
-Ouest France, le 5 février 2005, Benoît Le Breton
-
- 
-
-revue de presse
-
-                                      DA1
-
-                             Jacquolandin - 02/05
-
-                                      DA1
-
-                             Ouest France - 02/05
-
-                                      DA1
-
-                             Ouest France - 02/05
-
-                                      DA1
-
-                             Ouest France - 01/05
-
-                                      DA1
-
-                               De Morgen - 01/05
-
-                                      DA1
-
-                             Ouest France - 01/05
-
-                                      DA1
-
-                        Le Courrier de l'Escaut - 01/05
-
-                                      DA1
-
-                            Le Généraliste - 12/04
-
-                                      DA1
-
-                           La Libre Belgique - 12/04
-
-                                      DA1
-
-                               La Meuse - 12/04
-
-                                      DA1
-
-                               Le Métro - 12/04
-
-                                      DA1
-
-                                Le Soir -12/04
-
-                                      DA1
-
-                                Le Soir - 12/04
-
-                                      DA1
-
-                               La Libre - 12/04
-
-                                      DA1
-
-                           Le Vif/L'Express - 12/04
-
-                                      DA1
-
-                           La Libre Culture - 12/04
-
-                                      DA1
-
-                        La Libre Gazette Liège - 12/04
-
-                                      DA1
-
-                              La Première - 12/04
-
-                                      DA1
-
-                                Sortir - 12/04
-
-                                      DA1
-
-                              Viva Liège - 12/04
-
-                                      DA1
-
-                         La Libre Essentielle - 11/04
-
-                                      DA1
-
-                           Gazette de Liège - 11/04
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
-haut de page
-
- 
-
-copyright © 2000-2017 | le corridor asbl | tous droits réservés
+Drupal est une marque déposée de Dries Buytaert - Consulter les mentions
+légales - Icones BUEditor fournies par FamFamFam.
 </text>
 </page>
 <page="méli-mélo-20">
@@ -12128,190 +11763,369 @@ Album, Les premiers livres de bébés / Les tout-petits
   •  
 </text>
 </page>
-<page="méli-mélo-3">
+<page="méli-mélo-2">
 <text>
-[avw]
+  • la maison
+  • les spectacles
+  • le laboratoire
+  • l'agenda
+  • les actualités
+  • les contacts
+  • les médiations
 
-Actu Ciné
 
-Simplement culte
-Recherche :  [                                        ]   [btn_ok] rss
-  • Accueil
-  • Cinéma
-  • Dvd
-  • People
-  • Culte
-  • Forum
+  • historique
+  • histoires courtes mais vraies...
+    (2021-2022)
+  • dans l'amitié de mes genoux
+    (2021-2022)
+  • tout un monde
+    (2020-2021)
+  • l'éponge et l'huître
+    (2020)
+  • patua nou
+    (2019)
+  • cocon!
+    (2018)
+  • l'ombre du scarabée
+    (2017)
+  • le zéro absolu
+    (2017)
+  • thinker's corner
+    (2016)
+  • la maison vague
+    (2016)
+  • les images flottantes
+    (2015)
+  • l'appartement à trous
+    (2013)
+  • smatch 3
+    (2013)
+  • der verlassene Teufel
+    (2013)
+  • l'ermite ornemental
+    (2012)
+  • les aveugles
+    (2012)
+  • Le benshi d'angers
+    (2011)
+  • smatch 2
+    (2011)
+  • la rivière
+    bien nommée (2010)
+  • l'accueil d'ismael
+    stamp (2010)
+  • le diable abandonné I
+    (version live - 2009)
+  • smatch 1
+    (2009)
+  • le diable
+    abandonné III (2009)
+  • de duivel
+    beduveld (2008)
+  • le diable
+    abandonné II (2008)
+  • le diable
+    abandonné I (2007)
+  • du pain pour les
+    écureuils (2007)
+  • la pluie d'été
+    (2005)
+  • l'opéra bègue
+    (2004)
+  • construire un feu
+    (2002)
+  • modestes propositions (2002)
+  • histoires courtes
+    mais vraies (2000)
+  • sur les traces
+    d'oskar serti (2000)
+  • le dernier chant
+    d'ophélie (1998)
+  • le paradis des
+    chiens (1997)
+  • les pas perdus
+    (1994)
 
-  • Actualité
-  • De A à Z
-  • Planning des sorties
+l'opéra bègue
 
-Dig!
+théâtre musical
 
-Dig!
+[OB01]
+[OB02b]
+[OB03]
+[OB04]
+[OB05]
+[OB06]
+[OB07]
+[OB08]
+[OB09]
+[OB10]
+[OB11b]
+[OB12]
 
-Envoyer à un ami [ic_faceboo] Imprimer la page Accéder au forum Notez ce film
-
-Dig!
-De Timoner Ondi
-Éditeur : TF1 Vidéo
-Zone 2
-Nombre de disques : 1
-Sortie : 12/10/2005
-Note du film : ****--
-Note FilmDeCulte : ****--
  
-Location DVD online
-Louer
-en DVD ou Blu-ray pour 1.95€
-DVD Dig!
-[avw]
 
-Complices d'autrefois, les gentils Dandy Warhols et les intenables Brian
-Jonestown Massacre ont débuté main dans la main, la guitare en bandoulière,
-avant de goûter à la triste réalité de l'industrie du rock et de se séparer
-avec pertes et fracas.
+C’est en relisant La métamorphose  de Kafka que Dominique Roodthooft a eu
+l’idée de ce spectacle, de son titre : L’opéra bègue.  Opéra, théâtre : les
+lieux du bien chanter, du bien parler ; bègue : qui a un trouble de la parole.
+L’opéra bègue : un oratorio intime, une cantate impossible, une opérette
+tragique, un secret chuchoté, une peur de raconter, une comédie musicale
+humaniste etc. Dans la fable de Kafka, un jeune homme, Gregor Samsa se réveille
+après une nuit agitée, tel qu’il n’était pas la veille, changé en cancrelat.
+Rien ne va plus. La famille (bourgeoise) se déchire. Le retour au calme, à la
+paix, à l’unité apparente n’aura lieu que dans la destruction de « l’insecte
+monstrueux ».  L’opéra bègue, c’est presque la même chose. Au début en tout
+cas. Sauf que la famille est modeste (le père est comptable, la mère, au foyer)
+et que la métamorphose n’est pas exactement une métamorphose. Ce n’est
+d’ailleurs pas un matin que l’histoire commence, mais la veille du mariage de
+la fille de la famille. Qui remarque qu’un arbre lui pousse dans la bouche.
+D’abord juste les racines dans la gorge et une petite feuille. Mais déjà la
+parole se dérègle et le mariage doit être reporté. Les jours passent, les
+saisons idem, printemps, été, automne, hiver etc. L’arbre continue sa
+croissance, se met à sortir de la bouche de la fille, qui ne peut plus parler,
+bouger, doit rester couchée. La famille apprend à vivre avec. A vivre mieux
+avec que sans, mieux maintenant qu’avant. Avec plus d’humanité, d’amour entre
+eux. D’oiseaux dans la maison. Et de chansons. Car les bègues ne bégaient pas
+quand ils chantent…
 
-MONKEY BUSINESS
+ 
 
-L'histoire, galvaudée et à dormir debout, pourrait être une gigantesque farce.
-Deux leaders charismatiques de la scène rock indépendante s'affrontent à
-tire-larigot, à coups de formules vicieuses et de grands bluffs médiatiques.
-Blur vs Oasis? Les Beatles ou les Rolling Stones? Les virées borderline de Pete
-Doherty, ex-électron libre des Libertines? Courtney Taylor (Les Dandy Warhols)
-et Anton Newcombe (les Brian Jonestown Massacre) n'en sont pas très loin. L'un
-a frôlé le firmament quand l'autre n'a pas décollé du macadam. La vaillante
-Ondi Timoner a suivi pendant sept ans les trajectoires opposées de deux groupes
-amis et rivaux, pétris de rancoeur et d'admiration, les premiers carriéristes
-et les seconds piètres boursicoteurs. Les serments éthyllico-narcissiques, les
-bastonnades en coulisses et les arrestations surprises n'ont rien à envier au
-cynisme des majors, à la camaraderie des labels et aux vacheries de part et
-d'autre. Le montage est avisé et Ondi n'en perd pas une miette. Déferlante
-Britpop aidant, les Dandy Warhols originaires de Portland se sont fait
-connaître outre-Manche grâce au single Bohemian Like You. Terrés dans l'ombre
-de ces petits frères modèles, les Brian Jonestown Massacre ont cumulé les faux
-départs et quintuplé les dérapages en concert. Connu pour son franc-parler et
-son extrême susceptibilité, Anton Newcombe est l'âme éparpillée d'une tripotée
-de mauvais garçons cyclothymiques. L'héroïne et l'alcool érigés en mascottes,
-les Brian Jonestown Massacre sont partis en quête d'un improbable succès, à
-défaut d'un inéluctable bain de sang.
+                 De Pieter De Buysser, Dominque Roodthooft et Dick Van der Arst
 
-LONESOME COWBOY
+ 
 
-Fascinée par ces amitiés orageuses jamais avares de rebondissements, Ondi
-Timoner se veut l'oeil du cyclone, une éponge à l'affût du moindre vacillement.
-La durée du tournage ajoute à l'originalité du parti pris. Méli-mélo d'extraits
-de concerts sans-gêne, d'instantanés amers et de témoignages isolés, Dig! se
-délecte des clichés indéracinables du rock et détaille avec minutie les
-contradictions d'un microcosme sur le fil du rasoir. Le documentaire démarre
-sur les chapeaux de roue, Anton Newcombe se prépare ni plus ni moins à faire
-sauter l'industrie du rock et révolutionner le paysage sonore de ses
-contemporains. Sept ans plus tard, c'est à peine si l'industrie décriée a
-sourcillé. Pour balayer tout discours emphatique, Ondi Timoner fait appel à
-l'un des protagonistes, le clairvoyant Courtney Taylor, pour commenter en voix
-off l'ascension laborieuse des Dandy Warhols et les ratés spectaculaires des
-Brian Jonestown Massacre. L'implication du chanteur révèle bel et bien son
-attachement pour Anton l'illuminé. Et si Ondi Timoner s'attarde en fin de
-course sur les Dandy Warhols, c'est pour mieux clamer son amour pour les Brian
-Jonestown Massacre et revenir sur la personnalité hors norme d'Anton. Dig! ne
-montre pas seulement un antagonisme rebattu (hilarant la plupart du temps), il
-éclaire la sensibilité d'un artiste maniaco-dépressif dévoré par la musique et
-ses excès. Un lieu commun de la mythologie du rock, mais qui prend ici une
-résonance lucide et particulièrement émouvante. Au fond, les noms sont
-interchangeables. Remuant et plein comme un oeuf, Dig! encourage l'audace et la
-passion avant tout.
+« On a peut-être gardé les vaches ensemble mais on a pas la même soustraction »
 
-par Danielle Chou
+Jean-Claude (extrait de la devinière).
 
-Bonus
+ 
 
-Dig! bénéficie d'une édition DVD de qualité mais hélas assez maigre en bonus.
-Le film est présenté dans sa seule version originale, sous-titrée en Français,
-disponible en Dolby Stéréo, Dolby Digital 5.1 et DTS 5.1. Le transfert est de
-qualité et l'image du documentaire original est bien restituée. Sur le plan des
-bonus, on retrouve la bande-annonce de Dig! et deux clips des Dandy Warhols,
-Boys Better et Smoke It qui illustrent bien la pose rock adoptée par le groupe
-et stigmatisée par Ondi Timoner. On regrette néanmoins l'absence de scènes
-coupées ou d'un live des fameux Brian Jonestown Massacre. Yannick Vély
+production
 
-En savoir plus
+le corridor(Liège) / Het Muziek Lod (Gent) / le Théâtre de la Place (Liège)
 
-Interactivité :
+ 
 
-Dig! bénéficie d'une édition DVD de qualité mais hélas assez maigre en bonus.
-Le film est présenté dans sa seule version originale, sous-titrée en Français,
-disponible en Dolby Stéréo, Dolby Digital 5.1 et DTS 5.1. Le transfert est de
-qualité et l'image du documentaire original est bien restituée. Sur le plan des
-bonus, on retrouve la bande-annonce de Dig! et deux clips des Dandy Warhols,
-Boys Better et Smoke It qui illustrent bien la pose rock adoptée par le groupe
-et stigmatisée par Ondi Timoner. On regrette néanmoins l'absence de scènes
-coupées ou d'un live des fameux Brian Jonestown Massacre. Yannick Vély
+Avec le soutien de : La Fédération Wallonie-Bruxelles / Service du Théâtre et
+le Centre des Arts Scéniques
 
-Quelques liens :
+ 
 
-  • http://www.dandywarhols.com
+création et diffusion
 
-Partenaires
+décembre 2004 : Théâtre de la Place - Liège
 
-[avw] [avw]
+janvier  et février 2005 : Maison de la culture - Tournai / Centre culturel de
+Bruges / Maison de la culture de Courtrai / Minnemeers - Gand / L'aire libre -
+Saint-Jacques de la Lande
 
-Films à venir
+ 
 
-Avatar : La Voie de l'eau
+22 représentations
 
-Avatar : La Voie de l'eau
+ 
 
-États-Unis, 2022
-De James Cameron
+distribution
 
-Se déroulant plus d’une décennie après les événements relatés dans le ...
+Musique : Dick van der Harst
 
-plus de films à venir
+Texte : Pieter De Buysser
 
-People
+Conception et mise en scène : Dominique Roodthooft
 
-Présidents
+Interprétation et chants : Paola Bartoletti, Vincent Cahay, Jean-Luc Couchard,
+Didier De Neck et Anne-Cécile Vandalem
 
-Présidents
+Interprétation musicale : Kurt Budé (clarinette basse), Jean-Philippe Poncin
+(clarinette) et Peter Van Cleemput (basson)
 
-Nicolas, un ancien Président de la République, supporte mal l’arrêt de sa vie
-politique ...
+Scénographie : Philippe Henry
 
-Black Widow
+Costumes : Philippe Henry et Claudine Grinwins
 
-Black Widow
+Lumière : Laurent Kaye
 
-Natasha Romanoff, alias Black Widow, voit resurgir la part la plus sombre de
-son passé pour faire face à ...
+Assistance à la mise en scène : Estelle Franco
 
-Teddy
+Dramaturgie : Ellen Stynen
 
-Teddy
+Délégué de production : Bram De Cock
 
-Dans les Pyrénées, un loup attise la colère des villageois ...
+Traduction : Anne Vanderschueren
 
-plus de personnalités
+Technique : Pino Etz
 
-[avw]
+ 
 
-Cinéma : Actualité Cinéma | Cinéma de A à Z | Sorties de la semaine | Planning
-des sorties | Réalisateurs | Acteurs et actrices
-Dvd : Actualité DVD | DVD de A à Z | Planning des sorties
-People : Actualité People | Portrait People | Culculte | Entretiens
-Culte : Films cultes | Gros plans | Autour du Cinéma
+presse
 
-Partenaire Voyage: Créer un blog voyage | Blog Voyage
-Vous êtes un amateur de produits bio ? Profitez des conseils de FemininBio.com.
-Comme les protagonistes du film Five, vivez en coloc avec vos potes !
-Pourriez-vous aller jusqu'à acheter une maison avec des amis ?
+(...) "L'Opéra bègue" est une fable sur la différence, la tolérance, l'écoute 
+("On ne l'a peut-être jamais comprise, avec ses mots toujours brisés" ,
+s'interroge le frère d'Isis), sur la folie comme acte de   résistance, sur la
+parole abîmée. (...)
 
-Ce site est listé dans la catégorie Cinéma : Actualité cinéma DVD.
+(...) "L'Opéra bègue" se situe à la croisée du théâtre, de l'opéra, de la
+comédie musicale et des arts de la rue. Les comédiens alternent avec la même
+aisance les paroles dites et chantées, les musiciens se promènent librement,
+tels une mini-fanfare. Si la pièce se déroule chronologiquement, en trois actes
+et cinq scènes, elle est loin d'être classique. Le tragique côtoie le burlesque
+- accentués par la musique -, et le cynisme la tendresse. On peut ne pas aimer,
+mais il est difficile de rester insensible (...)
 
-Qui sommes-nous ? - Contacts - Recrutement - Publicité / Annonceurs -
-Conditions d'utilisation du site
-Copyright © 2000-2011 FilmDeCulte.com - Mentions l&amp;racute;gales - Crédits
-FilmDeCulte/Palpix
+La libre Belgique,   le 06 décembre 2005, Sophie Lebrun
+
+(...) Un ovni, loufoque, poétique, un peu amer, louchant vers la comédie
+musicale plus que l'opéra, où l'on s'égare parfois parce que bien des chemins
+peuvent naître de cette fable, où l'on rit souvent, mais où des ramures
+souterraines vous chatouillent les méninges... Parce que, selon nos trois
+auteurs, le bégaiement est une parole en devenir, un mouvement qui perturbe les
+relations avec l'autre, et qui du même coup le force à écouter autrement, un
+révélateur qui secoue le ronron : la cellule familiale se métamorphose, père et
+mère se redécouvrent, se caressent, laissent entrer l'eau et la lumière dans
+leur salon, écoutent les oiseaux (...)
+
+Le Soir, le 6 décembre 2004, Michèle Friche
+
+(...) Dans un méli-mélo de chant et de paroles, soutenus ou ponctués par un
+trio de musiciens
+(clarinettes et bassons), sur une multitude de matelas écrus empilés
+(scénographie de Philippe Henry, dorée sous les lumières de Laurent Kaye),
+l'histoire foisonne en tous sens, burlesque et troublante. Au-delà de
+l'anecdote surréaliste, bien des questions et réflexions surgissent: c'est quoi
+cet arbre? La peur du mariage? Une difficulté de se faire entendre, à son
+propre rythme? Une résistance? Un choc salvateur? Au choix et tout à la fois -
+au risque de perdre parfois le spectateur-, mais dans un ludisme de la forme
+réjouissant, bourré de clins d'oeil musicaux et dramaturgiques, avec des
+comédiens formidables, qui ont ici réalisé un vrai travail vocal et physique
+(pas simple de virevolter sur des matelas mous!): Paola Bartoletti, Anne-Cécile
+Vandalem, Didier de Neck, Vincent Cahay et un inénarrable Jean-Luc Couchard !
+(...)
+
+Le Vif, l'express, le 10 décembre 2004,
+
+(...) En choisissant le théâtre musical pour présenter cette fable originale,
+trois artistes ont créé un spectacle qui étonne, interroge et bouleverse. Tous
+trois ont un souci aigu d'authenticité, un profond souhait de toucher de près
+la pensée et les sentiments, bien au-delà de l'anecdote (...)
+
+Le Courrier de l'Escaut, le 13 janvier 2005, Françoise Lison
+
+(...) La case, où pourrait rentrer « L'opéra bègue » reste donc à inventer. A
+moins que cet ovni belge soit réellement unique en son genre. On comprendrait
+mieux, alors, en ressorti à la fois groggy et réjoui de tant d'audace (...)
+
+Ouest France, le 5 février 2005, Benoît Le Breton
+
+ 
+
+revue de presse
+
+                                      DA1
+
+                             Jacquolandin - 02/05
+
+                                      DA1
+
+                             Ouest France - 02/05
+
+                                      DA1
+
+                             Ouest France - 02/05
+
+                                      DA1
+
+                             Ouest France - 01/05
+
+                                      DA1
+
+                               De Morgen - 01/05
+
+                                      DA1
+
+                             Ouest France - 01/05
+
+                                      DA1
+
+                        Le Courrier de l'Escaut - 01/05
+
+                                      DA1
+
+                            Le Généraliste - 12/04
+
+                                      DA1
+
+                           La Libre Belgique - 12/04
+
+                                      DA1
+
+                               La Meuse - 12/04
+
+                                      DA1
+
+                               Le Métro - 12/04
+
+                                      DA1
+
+                                Le Soir -12/04
+
+                                      DA1
+
+                                Le Soir - 12/04
+
+                                      DA1
+
+                               La Libre - 12/04
+
+                                      DA1
+
+                           Le Vif/L'Express - 12/04
+
+                                      DA1
+
+                           La Libre Culture - 12/04
+
+                                      DA1
+
+                        La Libre Gazette Liège - 12/04
+
+                                      DA1
+
+                              La Première - 12/04
+
+                                      DA1
+
+                                Sortir - 12/04
+
+                                      DA1
+
+                              Viva Liège - 12/04
+
+                                      DA1
+
+                         La Libre Essentielle - 11/04
+
+                                      DA1
+
+                           Gazette de Liège - 11/04
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+haut de page
+
+ 
+
+copyright © 2000-2017 | le corridor asbl | tous droits réservés
 </text>
 </page>
 <page="méli-mélo-30">
@@ -16561,366 +16375,190 @@ Cliquez sur le lien dans cet e-mail pour finaliser l'inscription afin de
 pouvoir commencer à commenter.
 </text>
 </page>
-<page="méli-mélo-4">
+<page="méli-mélo-3">
 <text>
-Pages Menu
+[avw]
 
+Actu Ciné
+
+Simplement culte
+Recherche :  [                                        ]   [btn_ok] rss
   • Accueil
-      □ Recherche
-  • Pierre Thomas
-  • Livres
-  • FAQ
-  • Liens
-  • Contact
-
-[Search This Site... ] Submit
-thomasvino
-Categories Menu
-
-  • Actualités
-      □ Actus – News
-      □ Conso
-      □ Gastro
-      □ Tendance
-  • Adresses
-      □ Restos
-      □ Retour du marché
-  • Agenda
-      □ Evénements
-      □ Midi 20
-  • Dégustation
-      □ Récemment dégusté
-      □ 100… sur 100
-      □ Grand Jury 24 Heures
-  • Lu sur Internet
-  • Podcast
-  • Reportages
-      □ Carte Postale
-  • Vins du monde
-      □ Vins suisses
-      □ Vins français
-      □ Vins italiens
-      □ Vins espagnols
-      □ Vins européens
-      □ Vins du Nouveau Monde
-
-Home » Vins suisses » Vieux cépages valaisans: une histoire de «bons» vins
-
-Posted on 1 mars 2013 in Vins suisses
-
-Vieux cépages valaisans: une histoire de «bons» vins
-
-Vieux cépages valaisans: une histoire de «bons» vins
-
-Print Friendly, PDF &amp; EmailImprimer cet article
-
-Vieux cépages valaisans
-
-Une histoire de «bons» vins
-
-Pourquoi, alors que les documents d’archives du Valais ne mentionnent aucune
-variété de raisins jusqu’au 16ème siècle, un parchemin de 1313 en cite
-clairement trois? La seule hypothèse avancée par les historiens, c’est que la
-rèze, l’humagne et le «neyrun» étaient jugés suffisamment bons par le
-propriétaire des vignes, Emeric de Torrenté, pour qu’on lui verse le droit de
-les exploiter contre du vin tiré de ces cépages explicites. Voilà ce qui
-ressort d’une journée commémorative des 700 ans de cet acte, jour pour jour, le
-dimanche 20 janvier 2013, entre le Musée de la vigne et du vin et le Château de
-Villa et son Sensorama (qui viennent de changer de tenancier, Fabrice Thorin
-succèdant à Dominique Fornage), bâtiments voisins à Sierre. Ensemble, ce trio
-de cépages «historiques» représente aujourd’hui 3% du vignoble et de la
-production valaisans.
-Par Pierre Thomas
-Le document, tiré du registre du Val d’Anniviers, signé le samedi 20 janvier
-1313, fixe les modalités entre le nouveau propriétaire des vignes et les
-exploitants, pour un demi-muids de vin de droit d’utilisation («cens»). «Si par
-hasard, une année, aux vendanges, ce demi-muids de vin ne peut pas être perçu
-et pris sur ladite vigne, nous sommes tenus et nous promettons de procurer au
-dit acheteur, à ses héritiers ou à ses successeurs, la quantité manquante en
-vin semblable ou deux sous de Saint-Maurice pour chaque setier (réd. : part
-d’un muids) non fourni.» Pour se prémunir contre la livraison de n’importe
-quelle «piquette», Emeric de Torrenté a fait consigner ce principe de
-précaution en toutes lettres…
-
-Un «trou noir» de plus de deux siècles
-
-Le fait est qu’il faudra attendre plus de 200 ans pour qu’un autre cépage
-apparaisse dans un texte, le muscat, en 1536, puis le gouais, en 1540, et le
-païen en 1586. En Valais, qui passe pour le «pays du fendant et de la dôle», le
-chasselas n’est cité qu’en 1828 et le pinot noir qu’en 1848.
-Pour les historiens Arnaud Meilland et Christine Payot, du bureau sédunois
-Clio, qui ont épluché les textes des archives valaisannes, de l’Etat, de
-l’Evêché, communales, familiales et des abbés de Saint-Maurice et du
-Grand-Saint-Bernard, le muscat, déjà reconnu pour son goût particulier,
-l’humagne — blanche ! — sont les deux cépages les plus cités jusqu’au 19ème
-siècle, devant la rèze et le gouais. Si les deux premiers ont subsisté jusqu’à
-nos jours, les deux derniers ont failli disparaître.
-La rèze (resi en allemand) passait jusque dans les années 1990 pour donner un
-vin particulièrement acide et amer. Et ça n’est pas pour rien qu’elle entrait
-dans la compostion du «vin du glacier» des bourgeoisies du Val d’Anniviers,
-destinée à une longue maturation par «recapage» ou «solera» (lire ci-dessous).
-Quant au gouais, un des plus prolifiques cépages recensés, il donne des vins
-très rustiques et a presque disparu…
-Pour Christine Payot, dans les textes conservés aux archives, «le vocabulaire
-utilisé pour qualifier le vin est restreint et déroutant ; on a deux mots, bon
-ou mauvais, comme on a rouge ou blanc, sans plus de précision.» Seule
-exception, l’attrait de ce qu’on nomme, du Moyen-Age au milieu du 19ème siècle,
-le «vin vieux», par rapport au «vin nouveau». Mais les mentions de qualité de
-vins sont rares, explique Arnaud Meilland. En 1544, l’observateur Sébastien
-Münster affirme qu’entre Sion et Sierre, «le rouge y est meilleur que le blanc,
-et si noir qu’on pourrait y faire de l’encre». Tandis que dans la région de
-Martigny et Conthey, les blancs «vieillissent 10 ou 20 ans».
-
-Les mots pour le dire en 1960, seulement
-
-Faute d’un vocabulaire plus précis —il ne sera codifié au-delà des
-appréciations techniques par Jules Chauvet (1907-1989) que dans les années
-1960 ! —, difficile de savoir à quoi ressemblaient les vins…
-Ainsi, vers 1800, un auteur donne une recette pour «faire vieillir rapidement
-le vin» en le passant au four! Un autre propose de «faire bouillir (…) une part
-de miel, deux parts d’eau de pluie, et une part de vin de bonne qualité (sic)».
-Il faut savoir qu’avant l’apparition de la bouteille (l’Anglais K. Digby, au
-17ème siècle) et d’un bouchon de liège (pour le champagne, au début du 18ème
-siècle), le seul contenant du vin, après les amphores grecques et romaines, fut
-le tonneau gaulois, et ses déviations aromatiques imaginables…
-
-L’ADN au secours de l’Histoire
-
-Le parchemin de 1313 n’est pas intéressant que sous l’angle du vin et de ses
-qualités supposées. Il a permis d’éclairer les cépages. L’avancée est récente:
-elle date des études de José Vouillamoz par le biais de l’ADN. Tout mystère
-autour des trois variétés du document anniviard n’est pas dissipé. Au
-contraire: ce domaine, grâce au recoupement de l’ADN, livre son lot de
-surprises. Ainsi, la rèze, dont il ne reste que 2,4 hectares en Valais, est bel
-et bien un «cépage alpin par excellence», explique José Vouillamoz, fondateur
-de l’association Vitis Alpina. On a découvert sa trace avec certitude au
-Piémont, dans le Jura français et en Savoie, sous le nom de «blanc de
-Maurienne». La rèze est une demi-sœur de la freisa piémontaise et la grand-mère
-du prié valdôtain. Elle a eu «une influence génétique importante», puisqu’elle
-est proche parente de la diolle et de la grosse arvine en Valais, du cascarolo
-bianco piémontais, du groppello de l’Italie du Nord et de la nosiola du
-Trentin. On en a même trouvé quelques ceps en version mutante… rouge, vinifiés
-par Jean-Paul Aymon, à Ayent.
-Dans sa récente somme «Wine Grapes», cosignée avec les Anglaises Jancis
-Robinson et Julia Harding, l’humagne figure sans indication de couleur. Il n’y
-a qu’une humagne, la blanche (30 hectares en Valais)! La rouge n’apparaît que
-vers 1900, pour qualifier ce que les Valdôtains nomment cornalin… L’humagne, la
-vraie, l’unique, vient du Sud de la France, de Marseille; son nom pourrait
-venir du grec «hylomaneus», vigoureux. On la retrouve dans les Pyrénées
-atlantiques sous le nom de miousat. Croisée avec le completer, elle a donné le
-lafnetscha et, avec un cépage inconnu, l’himbertscha, deux cépages du
-Haut-Valais, perpétué par Chanton père et fils à Viège.
-
-Un rouge plus que douteux
-
-Enfin, on pourrait écrire longuement sur le «rouge du pays», que les Valaisans
-appellent «cornalin» depuis les années 1970 (121 hectares). Mais rien ne prouve
-que le «Neyrun» (écrit avec un N majuscule) du parchemin de 1313 soit un cépage
-«noir», par déformation du latin «nigrum». José Vouillamoz penche pour
-l’indication de l’origine du raisin, peut-être le hameau de Neyrun dans la
-vallée d’Aoste. Le grain de raisin ne tomberait pas loin du cep: l’ADN a
-confirmé que le «rouge du pays» est le fils du mayolet X petit rouge, deux
-cépages valdôtains. Tandis que l’humagne rouge du Valais, dont le nom est le
-«cornalin», traditionnel en Vallée d’Aoste, en est le fils (du rouge du pays
-donc et d’un autre cépage non identifié) et le petit-fils (du mayolet X petit
-rouge).
-Un formidable méli-mélo? Pasionnant à suivre, en tout cas. De l’«Histoire de la
-Vigne et du Vin du Valais» (2009) à «Wine Grapes» (2012), en passant par l’
-«Origine des cépages valaisans et valdôtains» (2011), José Vouillamoz a dessiné
-les arbres généalogiques de nombreux cépages. Il en subsiste 39 attribués à la
-Suisse, entre variétés contemporaines (croisements récents de Changins et du
-génial Jurassien Valentin Blattner) et survivantes (une douzaine de valaisannes
-pure souche).
-
-Eclairage
-
-Le «vin du glacier» menacé de vide juridique
-
-L’événement est à marquer d’une pierre blanche: le 20 janvier 2013, la centaine
-de personnes qui ont suivi la journée des «700 ans de la rèze et de l’humagne»
-ont pu déguster trois versions de «vin du glacier». Mais pas un mot sur sa
-définition juridique…
-Car, si le nom de «vin du glacier» (de même que «vin des glaciers» et
-«Gletscherwein») est déposé à l’Office fédéral de la propriété intellectuelle
-comme «marque» appartenant aux six bourgeoisies, depuis 2004, il est menacé
-d’un vide juridique, a-t-on appris de bonne source. Actuellement, il figure
-bien dans la liste des «termes viticoles spécifiques» enregistrés par Berne,
-sous: «vin blanc d’appellation d’origine contrôlée produit en Valais, élevé
-dans le Val d’Anniviers selon la tradition locale, élaboré avec des vins d’un
-ou plusieurs cépages, de plusieurs millésimes, présentant une tendance
-oxydative.» Avec le toilettage des textes, induit par la politique agricole (PA
-2014 – 17), cette définition devrait être biffée. Pourquoi? Parce que le canton
-du Valais n’a aucune définition légale du «vin du glacier», ni comme vin AOC,
-ni comme mention traditionnelle. Du coup, ce rare nectar perdrait toute
-existence juridique dans l’accord bilatéral de 1999 entre la Suisse et l’Union
-européenne, où il figure nommément.
-Pourtant, le «vin du glacier» est un cousin des très réputés (et européens) Vin
-jaune du Jura, Tokay de Hongrie et Xérès d’Andalousie. Ces trois-là sont chacun
-marqués par un cépage caractéristique, le savagnin, le furmint et le palomino.
-Le Tokay hongrois est parfois assemblé à d’autres variétés, comme l’est
-aujourd’hui le «vin du glacier» où la marsanne (ermitage en Valais) et le pinot
-gris (malvoisie en Valais) ont pris le relais de la rèze. Les six bourgeoisies
-du val d’Anniviers ont décidé de remettre en priorité de la rèze dans leur «vin
-du glacier» et, par convention, d’en définir le mode d’élaboration. La
-dégustation ne peut se faire que pour du vin tiré du tonneau et la vente en
-bouteille est proscrite — une interdiction qui paraît poser problème pour une
-protection légale.
-Le plus fameux «vin du glacier» est celui de la Bourgeoisie de Grimentz. On
-complète les tonneaux, chaque année selon le même système connu sous le terme
-de «solera» à Jerez: le vin jeune est incorporé au tonneau le moins ancien
-(datant de 1969), de celui-ci à celui de 1934, puis, au 1888 et, enfin, au
-1886. Ce dernier, le «tonneau de l’évêque», est réservé aux grandes occasions,
-en principe seulement en présence du prélat sédunois. Son nectar fleure
-l’encaustique, la vieille armoire en bois de mélèze, le brou de noix; il est
-concentré par évaporation naturelle, complexe et long en bouche: une expérience
-gustative unique! Selon une formule mathématique, sur les 1’000 litres de
-contenance du fût, il subsiste 17 litres de la mise originale de 1886. Et
-désormais un peu moins depuis la dégustation au Sensorama, du 20 janvier 2013…
-Paru dans Hôtellerie et Gastronomie Hebdo du 28 février 2013.
-
-Partager :
-
-  • Cliquez pour partager sur Twitter(ouvre dans une nouvelle fenêtre)
-  • Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
-  • Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)
-  • 
-
-  • Recent
-  • Popular
-  • Random
-
-  • mar27
-
-    Réouverture et vin: quand la Chine (s’)exportera…
-
-    Posted by Pierre Thomas in Tendance
-
-  • jeu15
-
-    Du lourd au pied du sapin suisse
-
-    Posted by Pierre Thomas in Tendance
-
-  • lun12
-
-    Bien boire: un étalon noir vaudois
-
-    Posted by Pierre Thomas in Bonne bouche — encore!
-
-  • jeu08
-
-    Vins de la Ville de Lausanne: une page d’Histoire
-
-    Posted by Pierre Thomas in Tendance
-
-  • ven14
-
-    Vins de l’Etna: ma dégustation (mai 2019)
-
-    Posted by Pierre Thomas in Récemment dégusté
-
-  • ven14
-
-    Vins du Priorat: ma dégustation (mai 2019)
-
-    Posted by Pierre Thomas in Récemment dégusté
-
-  • sam29
-
-    Mondial du Chasselas 2019 : Le vainqueur est allemand !
-
-    Posted by Pierre Thomas in Actus - News
-
-  • mer17
-
-    Sélection vaudoise VS Mondial du Chasselas 2019
-
-    Posted by Pierre Thomas in Vins suisses
-
-  • ven13
-
-    Une ode au blanc vaudois
-
-    Posted by Pierre Thomas in Vins suisses
-
-  • mar29
-
-    Vins de la Ville de Lausanne:
-    au Burignon, ça déménage!
-
-    Posted by Pierre Thomas in Vins suisses
-
-  • sam11
-
-    Brancaïa, réussite suisse en Toscane
-
-    Posted by Pierre Thomas in Vins italiens
-
-  • mer20
-
-    L’irrésistible irruption des vins de l’Etna
-
-    Posted by Pierre Thomas in Vins italiens
-
-Citation(s) du moment
-
-«Avez-vous déjà bu une bonne bouteille avec un connaisseur en vin? C’est un
-supplice»
-Nicolas Bouvier, «Chronique japonaise», édition 1975, L’Age d’Homme.
-
-«Le modèle bordelais n’est plus retenu par les jeunes consommateurs qui s’en
-moquent. Ils veulent une philosophie, un engagement environnemental et balaient
-le style classico-chiant de Bordeaux.» Stéphane Derenoncourt, dossier Pomerol,
-Le Monde, avril 2022.
-
-«De mes trois plus grands plaisirs dans l’existence — le sexe, la nourriture et
-le vin — seul le dernier nécessite une aide extérieure.» Jim Harrison, préface
-de «Mes aventures sur les routes du vin», de Kermit Lynch, Petite Bibliothèque
-Payot, 2008
-
-«On ne boit bien que ce qu’on paie. Et un pays s’avilit lorsqu’il ne se paie
-plus le meilleur de ce qu’il produit. Toute l’histoire nous l’enseigne, la
-grandeur d’un pays se mesure à la qualité des vins qu’il boit, non qu’il
-vend.» Raymond Dumay, «La mort du vin», Stock, 1976.
-
-«Le vieux vin est toujours exceptionnel lorsqu’on le prend pour ce qu’il est:
-une histoire.» Adrien Gygax «Se réjouir de la fin», Grasset, 2020.
-
+  • Cinéma
+  • Dvd
+  • People
+  • Culte
+  • Forum
+
+  • Actualité
+  • De A à Z
+  • Planning des sorties
+
+Dig!
+
+Dig!
+
+Envoyer à un ami [ic_faceboo] Imprimer la page Accéder au forum Notez ce film
+
+Dig!
+De Timoner Ondi
+Éditeur : TF1 Vidéo
+Zone 2
+Nombre de disques : 1
+Sortie : 12/10/2005
+Note du film : ****--
+Note FilmDeCulte : ****--
  
+Location DVD online
+Louer
+en DVD ou Blu-ray pour 1.95€
+DVD Dig!
+[avw]
 
-Faites un don
+Complices d'autrefois, les gentils Dandy Warhols et les intenables Brian
+Jonestown Massacre ont débuté main dans la main, la guitare en bandoulière,
+avant de goûter à la triste réalité de l'industrie du rock et de se séparer
+avec pertes et fracas.
 
-Soutenez le journalisme indépendant et critique par un geste concret en faveur
-de thomasvino.ch.
-Merci !
+MONKEY BUSINESS
 
-PayPal - The safer, easier way to pay online. *
-Les articles par catégorie
+L'histoire, galvaudée et à dormir debout, pourrait être une gigantesque farce.
+Deux leaders charismatiques de la scène rock indépendante s'affrontent à
+tire-larigot, à coups de formules vicieuses et de grands bluffs médiatiques.
+Blur vs Oasis? Les Beatles ou les Rolling Stones? Les virées borderline de Pete
+Doherty, ex-électron libre des Libertines? Courtney Taylor (Les Dandy Warhols)
+et Anton Newcombe (les Brian Jonestown Massacre) n'en sont pas très loin. L'un
+a frôlé le firmament quand l'autre n'a pas décollé du macadam. La vaillante
+Ondi Timoner a suivi pendant sept ans les trajectoires opposées de deux groupes
+amis et rivaux, pétris de rancoeur et d'admiration, les premiers carriéristes
+et les seconds piètres boursicoteurs. Les serments éthyllico-narcissiques, les
+bastonnades en coulisses et les arrestations surprises n'ont rien à envier au
+cynisme des majors, à la camaraderie des labels et aux vacheries de part et
+d'autre. Le montage est avisé et Ondi n'en perd pas une miette. Déferlante
+Britpop aidant, les Dandy Warhols originaires de Portland se sont fait
+connaître outre-Manche grâce au single Bohemian Like You. Terrés dans l'ombre
+de ces petits frères modèles, les Brian Jonestown Massacre ont cumulé les faux
+départs et quintuplé les dérapages en concert. Connu pour son franc-parler et
+son extrême susceptibilité, Anton Newcombe est l'âme éparpillée d'une tripotée
+de mauvais garçons cyclothymiques. L'héroïne et l'alcool érigés en mascottes,
+les Brian Jonestown Massacre sont partis en quête d'un improbable succès, à
+défaut d'un inéluctable bain de sang.
 
-Les articles par catégorie[Sélectionner une catégorie    ]
-Archives
+LONESOME COWBOY
 
-Archives [Sélectionner un mois]
+Fascinée par ces amitiés orageuses jamais avares de rebondissements, Ondi
+Timoner se veut l'oeil du cyclone, une éponge à l'affût du moindre vacillement.
+La durée du tournage ajoute à l'originalité du parti pris. Méli-mélo d'extraits
+de concerts sans-gêne, d'instantanés amers et de témoignages isolés, Dig! se
+délecte des clichés indéracinables du rock et détaille avec minutie les
+contradictions d'un microcosme sur le fil du rasoir. Le documentaire démarre
+sur les chapeaux de roue, Anton Newcombe se prépare ni plus ni moins à faire
+sauter l'industrie du rock et révolutionner le paysage sonore de ses
+contemporains. Sept ans plus tard, c'est à peine si l'industrie décriée a
+sourcillé. Pour balayer tout discours emphatique, Ondi Timoner fait appel à
+l'un des protagonistes, le clairvoyant Courtney Taylor, pour commenter en voix
+off l'ascension laborieuse des Dandy Warhols et les ratés spectaculaires des
+Brian Jonestown Massacre. L'implication du chanteur révèle bel et bien son
+attachement pour Anton l'illuminé. Et si Ondi Timoner s'attarde en fin de
+course sur les Dandy Warhols, c'est pour mieux clamer son amour pour les Brian
+Jonestown Massacre et revenir sur la personnalité hors norme d'Anton. Dig! ne
+montre pas seulement un antagonisme rebattu (hilarant la plupart du temps), il
+éclaire la sensibilité d'un artiste maniaco-dépressif dévoré par la musique et
+ses excès. Un lieu commun de la mythologie du rock, mais qui prend ici une
+résonance lucide et particulièrement émouvante. Au fond, les noms sont
+interchangeables. Remuant et plein comme un oeuf, Dig! encourage l'audace et la
+passion avant tout.
 
-Newsletter
+par Danielle Chou
 
-Abonnez-vous à la newsletter de thomasvino en inscrivant votre email ici.
+Bonus
 
-Prénom [                    ]
-Nom [                    ]
-Email [                    ]
-[S'abonner]
-  • Accueil
-      □ FAQ
-      □ Les livres signés Pierre Thomas
-      □ Qui est Pierre Thomas? Faits et dates
-      □ Recherche
-  • Contact
-  • Erreur
-  • Liens
-  • Newsletter
+Dig! bénéficie d'une édition DVD de qualité mais hélas assez maigre en bonus.
+Le film est présenté dans sa seule version originale, sous-titrée en Français,
+disponible en Dolby Stéréo, Dolby Digital 5.1 et DTS 5.1. Le transfert est de
+qualité et l'image du documentaire original est bien restituée. Sur le plan des
+bonus, on retrouve la bande-annonce de Dig! et deux clips des Dandy Warhols,
+Boys Better et Smoke It qui illustrent bien la pose rock adoptée par le groupe
+et stigmatisée par Ondi Timoner. On regrette néanmoins l'absence de scènes
+coupées ou d'un live des fameux Brian Jonestown Massacre. Yannick Vély
 
-Webmaster | Thème | Plateforme
+En savoir plus
+
+Interactivité :
+
+Dig! bénéficie d'une édition DVD de qualité mais hélas assez maigre en bonus.
+Le film est présenté dans sa seule version originale, sous-titrée en Français,
+disponible en Dolby Stéréo, Dolby Digital 5.1 et DTS 5.1. Le transfert est de
+qualité et l'image du documentaire original est bien restituée. Sur le plan des
+bonus, on retrouve la bande-annonce de Dig! et deux clips des Dandy Warhols,
+Boys Better et Smoke It qui illustrent bien la pose rock adoptée par le groupe
+et stigmatisée par Ondi Timoner. On regrette néanmoins l'absence de scènes
+coupées ou d'un live des fameux Brian Jonestown Massacre. Yannick Vély
+
+Quelques liens :
+
+  • http://www.dandywarhols.com
+
+Partenaires
+
+[avw] [avw]
+
+Films à venir
+
+Avatar : La Voie de l'eau
+
+Avatar : La Voie de l'eau
+
+États-Unis, 2022
+De James Cameron
+
+Se déroulant plus d’une décennie après les événements relatés dans le ...
+
+plus de films à venir
+
+People
+
+Présidents
+
+Présidents
+
+Nicolas, un ancien Président de la République, supporte mal l’arrêt de sa vie
+politique ...
+
+Black Widow
+
+Black Widow
+
+Natasha Romanoff, alias Black Widow, voit resurgir la part la plus sombre de
+son passé pour faire face à ...
+
+Teddy
+
+Teddy
+
+Dans les Pyrénées, un loup attise la colère des villageois ...
+
+plus de personnalités
+
+[avw]
+
+Cinéma : Actualité Cinéma | Cinéma de A à Z | Sorties de la semaine | Planning
+des sorties | Réalisateurs | Acteurs et actrices
+Dvd : Actualité DVD | DVD de A à Z | Planning des sorties
+People : Actualité People | Portrait People | Culculte | Entretiens
+Culte : Films cultes | Gros plans | Autour du Cinéma
+
+Partenaire Voyage: Créer un blog voyage | Blog Voyage
+Vous êtes un amateur de produits bio ? Profitez des conseils de FemininBio.com.
+Comme les protagonistes du film Five, vivez en coloc avec vos potes !
+Pourriez-vous aller jusqu'à acheter une maison avec des amis ?
+
+Ce site est listé dans la catégorie Cinéma : Actualité cinéma DVD.
+
+Qui sommes-nous ? - Contacts - Recrutement - Publicité / Annonceurs -
+Conditions d'utilisation du site
+Copyright © 2000-2011 FilmDeCulte.com - Mentions l&amp;racute;gales - Crédits
+FilmDeCulte/Palpix
 </text>
 </page>
 <page="méli-mélo-40">
@@ -21896,200 +21534,366 @@ cookies » dans la rubrique Services en bas de cette page.
 Consulter
 </text>
 </page>
-<page="méli-mélo-5">
+<page="méli-mélo-4">
 <text>
-[ico-home] [logo]
-[ac]
+Pages Menu
+
+  • Accueil
+      □ Recherche
+  • Pierre Thomas
+  • Livres
+  • FAQ
+  • Liens
+  • Contact
+
+[Search This Site... ] Submit
+thomasvino
+Categories Menu
+
+  • Actualités
+      □ Actus – News
+      □ Conso
+      □ Gastro
+      □ Tendance
+  • Adresses
+      □ Restos
+      □ Retour du marché
+  • Agenda
+      □ Evénements
+      □ Midi 20
+  • Dégustation
+      □ Récemment dégusté
+      □ 100… sur 100
+      □ Grand Jury 24 Heures
+  • Lu sur Internet
+  • Podcast
+  • Reportages
+      □ Carte Postale
+  • Vins du monde
+      □ Vins suisses
+      □ Vins français
+      □ Vins italiens
+      □ Vins espagnols
+      □ Vins européens
+      □ Vins du Nouveau Monde
+
+Home » Vins suisses » Vieux cépages valaisans: une histoire de «bons» vins
+
+Posted on 1 mars 2013 in Vins suisses
+
+Vieux cépages valaisans: une histoire de «bons» vins
+
+Vieux cépages valaisans: une histoire de «bons» vins
+
+Print Friendly, PDF &amp; EmailImprimer cet article
+
+Vieux cépages valaisans
+
+Une histoire de «bons» vins
+
+Pourquoi, alors que les documents d’archives du Valais ne mentionnent aucune
+variété de raisins jusqu’au 16ème siècle, un parchemin de 1313 en cite
+clairement trois? La seule hypothèse avancée par les historiens, c’est que la
+rèze, l’humagne et le «neyrun» étaient jugés suffisamment bons par le
+propriétaire des vignes, Emeric de Torrenté, pour qu’on lui verse le droit de
+les exploiter contre du vin tiré de ces cépages explicites. Voilà ce qui
+ressort d’une journée commémorative des 700 ans de cet acte, jour pour jour, le
+dimanche 20 janvier 2013, entre le Musée de la vigne et du vin et le Château de
+Villa et son Sensorama (qui viennent de changer de tenancier, Fabrice Thorin
+succèdant à Dominique Fornage), bâtiments voisins à Sierre. Ensemble, ce trio
+de cépages «historiques» représente aujourd’hui 3% du vignoble et de la
+production valaisans.
+Par Pierre Thomas
+Le document, tiré du registre du Val d’Anniviers, signé le samedi 20 janvier
+1313, fixe les modalités entre le nouveau propriétaire des vignes et les
+exploitants, pour un demi-muids de vin de droit d’utilisation («cens»). «Si par
+hasard, une année, aux vendanges, ce demi-muids de vin ne peut pas être perçu
+et pris sur ladite vigne, nous sommes tenus et nous promettons de procurer au
+dit acheteur, à ses héritiers ou à ses successeurs, la quantité manquante en
+vin semblable ou deux sous de Saint-Maurice pour chaque setier (réd. : part
+d’un muids) non fourni.» Pour se prémunir contre la livraison de n’importe
+quelle «piquette», Emeric de Torrenté a fait consigner ce principe de
+précaution en toutes lettres…
+
+Un «trou noir» de plus de deux siècles
+
+Le fait est qu’il faudra attendre plus de 200 ans pour qu’un autre cépage
+apparaisse dans un texte, le muscat, en 1536, puis le gouais, en 1540, et le
+païen en 1586. En Valais, qui passe pour le «pays du fendant et de la dôle», le
+chasselas n’est cité qu’en 1828 et le pinot noir qu’en 1848.
+Pour les historiens Arnaud Meilland et Christine Payot, du bureau sédunois
+Clio, qui ont épluché les textes des archives valaisannes, de l’Etat, de
+l’Evêché, communales, familiales et des abbés de Saint-Maurice et du
+Grand-Saint-Bernard, le muscat, déjà reconnu pour son goût particulier,
+l’humagne — blanche ! — sont les deux cépages les plus cités jusqu’au 19ème
+siècle, devant la rèze et le gouais. Si les deux premiers ont subsisté jusqu’à
+nos jours, les deux derniers ont failli disparaître.
+La rèze (resi en allemand) passait jusque dans les années 1990 pour donner un
+vin particulièrement acide et amer. Et ça n’est pas pour rien qu’elle entrait
+dans la compostion du «vin du glacier» des bourgeoisies du Val d’Anniviers,
+destinée à une longue maturation par «recapage» ou «solera» (lire ci-dessous).
+Quant au gouais, un des plus prolifiques cépages recensés, il donne des vins
+très rustiques et a presque disparu…
+Pour Christine Payot, dans les textes conservés aux archives, «le vocabulaire
+utilisé pour qualifier le vin est restreint et déroutant ; on a deux mots, bon
+ou mauvais, comme on a rouge ou blanc, sans plus de précision.» Seule
+exception, l’attrait de ce qu’on nomme, du Moyen-Age au milieu du 19ème siècle,
+le «vin vieux», par rapport au «vin nouveau». Mais les mentions de qualité de
+vins sont rares, explique Arnaud Meilland. En 1544, l’observateur Sébastien
+Münster affirme qu’entre Sion et Sierre, «le rouge y est meilleur que le blanc,
+et si noir qu’on pourrait y faire de l’encre». Tandis que dans la région de
+Martigny et Conthey, les blancs «vieillissent 10 ou 20 ans».
+
+Les mots pour le dire en 1960, seulement
+
+Faute d’un vocabulaire plus précis —il ne sera codifié au-delà des
+appréciations techniques par Jules Chauvet (1907-1989) que dans les années
+1960 ! —, difficile de savoir à quoi ressemblaient les vins…
+Ainsi, vers 1800, un auteur donne une recette pour «faire vieillir rapidement
+le vin» en le passant au four! Un autre propose de «faire bouillir (…) une part
+de miel, deux parts d’eau de pluie, et une part de vin de bonne qualité (sic)».
+Il faut savoir qu’avant l’apparition de la bouteille (l’Anglais K. Digby, au
+17ème siècle) et d’un bouchon de liège (pour le champagne, au début du 18ème
+siècle), le seul contenant du vin, après les amphores grecques et romaines, fut
+le tonneau gaulois, et ses déviations aromatiques imaginables…
+
+L’ADN au secours de l’Histoire
+
+Le parchemin de 1313 n’est pas intéressant que sous l’angle du vin et de ses
+qualités supposées. Il a permis d’éclairer les cépages. L’avancée est récente:
+elle date des études de José Vouillamoz par le biais de l’ADN. Tout mystère
+autour des trois variétés du document anniviard n’est pas dissipé. Au
+contraire: ce domaine, grâce au recoupement de l’ADN, livre son lot de
+surprises. Ainsi, la rèze, dont il ne reste que 2,4 hectares en Valais, est bel
+et bien un «cépage alpin par excellence», explique José Vouillamoz, fondateur
+de l’association Vitis Alpina. On a découvert sa trace avec certitude au
+Piémont, dans le Jura français et en Savoie, sous le nom de «blanc de
+Maurienne». La rèze est une demi-sœur de la freisa piémontaise et la grand-mère
+du prié valdôtain. Elle a eu «une influence génétique importante», puisqu’elle
+est proche parente de la diolle et de la grosse arvine en Valais, du cascarolo
+bianco piémontais, du groppello de l’Italie du Nord et de la nosiola du
+Trentin. On en a même trouvé quelques ceps en version mutante… rouge, vinifiés
+par Jean-Paul Aymon, à Ayent.
+Dans sa récente somme «Wine Grapes», cosignée avec les Anglaises Jancis
+Robinson et Julia Harding, l’humagne figure sans indication de couleur. Il n’y
+a qu’une humagne, la blanche (30 hectares en Valais)! La rouge n’apparaît que
+vers 1900, pour qualifier ce que les Valdôtains nomment cornalin… L’humagne, la
+vraie, l’unique, vient du Sud de la France, de Marseille; son nom pourrait
+venir du grec «hylomaneus», vigoureux. On la retrouve dans les Pyrénées
+atlantiques sous le nom de miousat. Croisée avec le completer, elle a donné le
+lafnetscha et, avec un cépage inconnu, l’himbertscha, deux cépages du
+Haut-Valais, perpétué par Chanton père et fils à Viège.
+
+Un rouge plus que douteux
+
+Enfin, on pourrait écrire longuement sur le «rouge du pays», que les Valaisans
+appellent «cornalin» depuis les années 1970 (121 hectares). Mais rien ne prouve
+que le «Neyrun» (écrit avec un N majuscule) du parchemin de 1313 soit un cépage
+«noir», par déformation du latin «nigrum». José Vouillamoz penche pour
+l’indication de l’origine du raisin, peut-être le hameau de Neyrun dans la
+vallée d’Aoste. Le grain de raisin ne tomberait pas loin du cep: l’ADN a
+confirmé que le «rouge du pays» est le fils du mayolet X petit rouge, deux
+cépages valdôtains. Tandis que l’humagne rouge du Valais, dont le nom est le
+«cornalin», traditionnel en Vallée d’Aoste, en est le fils (du rouge du pays
+donc et d’un autre cépage non identifié) et le petit-fils (du mayolet X petit
+rouge).
+Un formidable méli-mélo? Pasionnant à suivre, en tout cas. De l’«Histoire de la
+Vigne et du Vin du Valais» (2009) à «Wine Grapes» (2012), en passant par l’
+«Origine des cépages valaisans et valdôtains» (2011), José Vouillamoz a dessiné
+les arbres généalogiques de nombreux cépages. Il en subsiste 39 attribués à la
+Suisse, entre variétés contemporaines (croisements récents de Changins et du
+génial Jurassien Valentin Blattner) et survivantes (une douzaine de valaisannes
+pure souche).
+
+Eclairage
+
+Le «vin du glacier» menacé de vide juridique
+
+L’événement est à marquer d’une pierre blanche: le 20 janvier 2013, la centaine
+de personnes qui ont suivi la journée des «700 ans de la rèze et de l’humagne»
+ont pu déguster trois versions de «vin du glacier». Mais pas un mot sur sa
+définition juridique…
+Car, si le nom de «vin du glacier» (de même que «vin des glaciers» et
+«Gletscherwein») est déposé à l’Office fédéral de la propriété intellectuelle
+comme «marque» appartenant aux six bourgeoisies, depuis 2004, il est menacé
+d’un vide juridique, a-t-on appris de bonne source. Actuellement, il figure
+bien dans la liste des «termes viticoles spécifiques» enregistrés par Berne,
+sous: «vin blanc d’appellation d’origine contrôlée produit en Valais, élevé
+dans le Val d’Anniviers selon la tradition locale, élaboré avec des vins d’un
+ou plusieurs cépages, de plusieurs millésimes, présentant une tendance
+oxydative.» Avec le toilettage des textes, induit par la politique agricole (PA
+2014 – 17), cette définition devrait être biffée. Pourquoi? Parce que le canton
+du Valais n’a aucune définition légale du «vin du glacier», ni comme vin AOC,
+ni comme mention traditionnelle. Du coup, ce rare nectar perdrait toute
+existence juridique dans l’accord bilatéral de 1999 entre la Suisse et l’Union
+européenne, où il figure nommément.
+Pourtant, le «vin du glacier» est un cousin des très réputés (et européens) Vin
+jaune du Jura, Tokay de Hongrie et Xérès d’Andalousie. Ces trois-là sont chacun
+marqués par un cépage caractéristique, le savagnin, le furmint et le palomino.
+Le Tokay hongrois est parfois assemblé à d’autres variétés, comme l’est
+aujourd’hui le «vin du glacier» où la marsanne (ermitage en Valais) et le pinot
+gris (malvoisie en Valais) ont pris le relais de la rèze. Les six bourgeoisies
+du val d’Anniviers ont décidé de remettre en priorité de la rèze dans leur «vin
+du glacier» et, par convention, d’en définir le mode d’élaboration. La
+dégustation ne peut se faire que pour du vin tiré du tonneau et la vente en
+bouteille est proscrite — une interdiction qui paraît poser problème pour une
+protection légale.
+Le plus fameux «vin du glacier» est celui de la Bourgeoisie de Grimentz. On
+complète les tonneaux, chaque année selon le même système connu sous le terme
+de «solera» à Jerez: le vin jeune est incorporé au tonneau le moins ancien
+(datant de 1969), de celui-ci à celui de 1934, puis, au 1888 et, enfin, au
+1886. Ce dernier, le «tonneau de l’évêque», est réservé aux grandes occasions,
+en principe seulement en présence du prélat sédunois. Son nectar fleure
+l’encaustique, la vieille armoire en bois de mélèze, le brou de noix; il est
+concentré par évaporation naturelle, complexe et long en bouche: une expérience
+gustative unique! Selon une formule mathématique, sur les 1’000 litres de
+contenance du fût, il subsiste 17 litres de la mise originale de 1886. Et
+désormais un peu moins depuis la dégustation au Sensorama, du 20 janvier 2013…
+Paru dans Hôtellerie et Gastronomie Hebdo du 28 février 2013.
+
+Partager :
+
+  • Cliquez pour partager sur Twitter(ouvre dans une nouvelle fenêtre)
+  • Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
+  • Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)
+  • 
+
+  • Recent
+  • Popular
+  • Random
+
+  • mar27
+
+    Réouverture et vin: quand la Chine (s’)exportera…
+
+    Posted by Pierre Thomas in Tendance
+
+  • jeu15
+
+    Du lourd au pied du sapin suisse
+
+    Posted by Pierre Thomas in Tendance
+
+  • lun12
+
+    Bien boire: un étalon noir vaudois
+
+    Posted by Pierre Thomas in Bonne bouche — encore!
+
+  • jeu08
+
+    Vins de la Ville de Lausanne: une page d’Histoire
+
+    Posted by Pierre Thomas in Tendance
+
+  • ven14
+
+    Vins de l’Etna: ma dégustation (mai 2019)
+
+    Posted by Pierre Thomas in Récemment dégusté
+
+  • ven14
+
+    Vins du Priorat: ma dégustation (mai 2019)
+
+    Posted by Pierre Thomas in Récemment dégusté
+
+  • sam29
+
+    Mondial du Chasselas 2019 : Le vainqueur est allemand !
+
+    Posted by Pierre Thomas in Actus - News
+
+  • mer17
+
+    Sélection vaudoise VS Mondial du Chasselas 2019
+
+    Posted by Pierre Thomas in Vins suisses
+
+  • ven13
+
+    Une ode au blanc vaudois
+
+    Posted by Pierre Thomas in Vins suisses
+
+  • mar29
+
+    Vins de la Ville de Lausanne:
+    au Burignon, ça déménage!
+
+    Posted by Pierre Thomas in Vins suisses
+
+  • sam11
+
+    Brancaïa, réussite suisse en Toscane
+
+    Posted by Pierre Thomas in Vins italiens
+
+  • mer20
+
+    L’irrésistible irruption des vins de l’Etna
+
+    Posted by Pierre Thomas in Vins italiens
+
+Citation(s) du moment
+
+«Avez-vous déjà bu une bonne bouteille avec un connaisseur en vin? C’est un
+supplice»
+Nicolas Bouvier, «Chronique japonaise», édition 1975, L’Age d’Homme.
+
+«Le modèle bordelais n’est plus retenu par les jeunes consommateurs qui s’en
+moquent. Ils veulent une philosophie, un engagement environnemental et balaient
+le style classico-chiant de Bordeaux.» Stéphane Derenoncourt, dossier Pomerol,
+Le Monde, avril 2022.
+
+«De mes trois plus grands plaisirs dans l’existence — le sexe, la nourriture et
+le vin — seul le dernier nécessite une aide extérieure.» Jim Harrison, préface
+de «Mes aventures sur les routes du vin», de Kermit Lynch, Petite Bibliothèque
+Payot, 2008
+
+«On ne boit bien que ce qu’on paie. Et un pays s’avilit lorsqu’il ne se paie
+plus le meilleur de ce qu’il produit. Toute l’histoire nous l’enseigne, la
+grandeur d’un pays se mesure à la qualité des vins qu’il boit, non qu’il
+vend.» Raymond Dumay, «La mort du vin», Stock, 1976.
+
+«Le vieux vin est toujours exceptionnel lorsqu’on le prend pour ce qu’il est:
+une histoire.» Adrien Gygax «Se réjouir de la fin», Grasset, 2020.
+
  
-[ico-facebo] [ico-twitte] [ico-yahoo]
- 
-[passeport_]  
-société
-La binationalité au banc des accusés
-par Akram Belkaïd,
-le 16 mai 2011
 
-Et voilà que la chasse au binational est lancée! Cela fait des années qu’on
-sent la menace poindre sans savoir quel serait l’événement catalyseur qui en
-ferait un thème prépondérant.
+Faites un don
 
-Ainsi, le fondateur du Front national Jean-Marie Le Pen, le député de Debout la
-République Nicolas Dupont-Aignan, le fondateur du Mouvement pour la France
-Philippe de Villiers ont souvent dénoncé le fait que des ressortissants
-français possèdent une autre nationalité.
+Soutenez le journalisme indépendant et critique par un geste concret en faveur
+de thomasvino.ch.
+Merci !
 
-Mais leurs propos n’ont jamais créé de polémiques majeures et la thèse d’une
-binationalité contraire aux intérêts de la France n’a guère pris auprès de
-l’opinion publique.
+PayPal - The safer, easier way to pay online. *
+Les articles par catégorie
 
-Il aura donc fallu que des dirigeants du football français envisagent de
-limiter l’accès à la formation à de jeunes footballeurs binationaux pour que le
-sujet devienne matière à controverses et à chicanes franco-françaises.
+Les articles par catégorie[Sélectionner une catégorie    ]
+Archives
 
-Le football français, le prétexte attendu
+Archives [Sélectionner un mois]
 
-Revenons d’abord sur cette fameuse affaire des quotas. Cette dernière constitue
-un cas d’école en matière de manœuvres dilatoires dans un cadre de
-communication de crise. En effet, le véritable problème dans l’affaire n’était
-pas de savoir si le sélectionneur de l'équipe de France Laurent Blanc est
-raciste ou non —c’est, malheureusement, sur ce point que le débat s’est
-focalisé— en réalité, ce qui est scandaleux, c’est que l’on ait envisagé de
-limiter l’accès à la formation à des jeunes de 12 ou 13 ans au prétexte qu’ils
-pourraient, à l’avenir, opter pour une autre équipe que celle de France.
+Newsletter
 
-Voilà donc de jeunes Français —car il s’agit bien de ressortissants français— à
-qui l’on fait un procès d’intention à un moment où la majorité d’entre eux ne
-possèdent même pas de seconde nationalité! Pour résumer, on pourrait dire que
-le message adressé à ces gamins est le suivant:
+Abonnez-vous à la newsletter de thomasvino en inscrivant votre email ici.
 
-    «Certes, tu es Français, mais comme tu pourrais aussi opter plus tard pour
-    la nationalité sénégalaise ou algérienne, on ne veut pas de toi!»
+Prénom [                    ]
+Nom [                    ]
+Email [                    ]
+[S'abonner]
+  • Accueil
+      □ FAQ
+      □ Les livres signés Pierre Thomas
+      □ Qui est Pierre Thomas? Faits et dates
+      □ Recherche
+  • Contact
+  • Erreur
+  • Liens
+  • Newsletter
 
-On passera rapidement sur le fait que la majorité des jeunes qui entrent en
-formation ne rêvent que d’une seule chose: vivre la même aventure que les
-Zidane, Henry, Dessailly… En effet, à de rares exceptions près, opter pour une
-autre équipe nationale est souvent un choix par défaut. Cela n’empêche pas
-certains commentateurs de s’indigner que la France puisse former des joueurs
-qui s’en iront renforcer les Eléphants de Côte d’Ivoire ou les Aigles de
-Carthage alors qu’il est admis qu’ils n’ont pas le niveau pour jouer avec les
-Bleus. Il est étrange de ne jamais entendre ces mêmes commentateurs s’indigner
-du fait que les meilleurs chercheurs français —formés avec l’argent public
-français— s’en aillent faire les beaux jours des laboratoires américains ou
-canadiens…
-
-Cela étant, et pour être honnête, on doit se demander si cette question des
-binationaux n’a pas été l’excuse inventée pour écarter les noirs et les Arabes
-des centres de formation afin de rendre plus blanche l’élite du football
-français. Les dirigeants incriminés ont peut-être pensé que discriminer les
-binationaux serait jugé bien moins grave qu’une stratégie visant à faire en
-sorte que l’équipe de France soit moins «black-beur».
-
-On ne saura peut-être jamais la vérité sur ce sordide méli-mélo vite escamoté
-mais une chose est certaine: le binational est désormais un bouc émissaire
-commode. Et l’idée de le soumettre à des contraintes va faire son chemin dans
-le football, et donc dans le reste de la société française.
-
-    «Mettre en place des quotas serait une pratique inadmissible et, au
-    surplus, totalement illégale», juge Séverine Labat, politologue, chercheur
-    au CNRS et auteur d’un livre récent sur les binationaux franco-algériens (
-    La France réinventée: les nouveaux bi-nationaux franco-algériens). Pour
-    elle, «il est fort dommage que l'affaire ait été si vite enterrée par le
-    ministère des Sports, privant ainsi la société française d'un débat sein et
-    serein quant au phénomène, appelé à prospérer, de la binationalité.»
-
-Et de se demander s’il faut «s'attendre, désormais, à découvrir que des
-politiques de quotas sont appliquées aux binationaux dans d'autres secteurs»?
-
-Limiter les droits des binationaux
-
-C’est, en tous les cas, ce que souhaiterait Claude Goasguen, député UMP et
-maire du seizième arrondissement parisien. Cet ancien militant du groupe
-d’extrême-droite Occident suggère une «limitation des droits politiques des
-binationaux» car il juge «gênant qu’une personne puisse voter en France et dans
-un autre pays». Et de proposer dans la foulée «la création d’un registre des
-binationaux».
-
-Outre son caractère discriminatoire, cette sortie, qui a choqué y compris au
-sein de l’UMP, notamment le député Thierry Mariani (UMP), doit être regardée de
-plus près. Quand il évoque les binationaux, Claude Goasguen semble se focaliser
-uniquement sur les Africains et les Maghrébins et notamment ceux qui viennent
-d’accéder à la nationalité française.
-
-    «La nationalité est une adhésion, et pas seulement une simple carte
-    plastifiée, il faut insister sur son caractère volontaire. […] Pour être
-    intégré, quand on demande la nationalité française, le minimum c’est
-    qu’éventuellement on accepte d’abandonner son autre nationalité», a ainsi
-    expliqué Claude Goasguen sur les ondes de RTL, une radio française.
-
-Voilà donc défini, de manière implicite, le périmètre des binationaux à
-surveiller. Il serait intéressant de savoir si ce que prône Goasguen concerne
-les autres binationaux notamment les Franco-Américains, les Franco-Allemands
-sans oublier les Franco-Israéliens.
-
-Seront-ils tous concernés par le fameux registre? Devront-ils renoncer à leur
-autre citoyenneté sous peine de perdre des droits, politiques ou autres, en
-France? Ou alors, va-t-on nous expliquer qu’il existe des binationaux plus
-français que d’autres? Qu’il existe des binationaux potentiellement plus
-déloyaux vis-à-vis de la France que d’autres? Et si ce débat sur les
-binationaux ne revenait pas à remettre au goût du jour les propos pestilentiels
-sur les «vrais Français» et les autres.
-
-    «La question de la binationalité risque-t-elle, pour le plus grand mal de
-    notre pays, de se focaliser uniquement sur les ressortissants d'un Empire
-    dont nombreux sont ceux qui ne se sont pas résolus à sa perte?» s’interroge
-    Séverine Labat. Pour la politologue, «ce serait, dans pareil cas, une
-    occasion manquée de nous réconcilier autour d'un pacte républicain refondé,
-    où les expressions de la diversité seraient enfin reconnues dans le but
-    d'apaiser des tensions par ailleurs attisées par certains boute-feux peu
-    soucieux, voire hostiles, à l'émergence d'une France qui pourtant si elle
-    veut, selon la formule consacrée, demeurer "éternelle", ne peut se
-    permettre d'en faire l'économie.»
-
-Les Franco-Algériens pris entre deux feux
-
-Ironie de l’histoire, c’est plutôt dans les pays de l’autre nationalité que les
-binationaux étaient jusque-là fustigés. Le meilleur exemple est celui de
-l’Algérie où, de manière récurrente, de hauts responsables traitent les
-Algéro-Français de «traîtres», de «cinquième colonne» ou de citoyens qu’il
-faudrait déchoir de la nationalité algérienne ou à qui il faudrait, tout au
-moins, interdire d’occuper des postes importants.
-
-L’affaire est d’autant plus importante que l’on ne connaît pas le nombre exact
-de binationaux franco-algériens vivant en France et encore moins ceux qui
-vivent en Algérie.
-
-    «La législation française interdit la collecte de statistiques ethniques
-    même si l'affaire Laurent Blanc a prouvé que certaines institutions violent
-    allègrement cet interdit», explique Séverine Labat. «Il est donc
-    extrêmement difficile du chiffrer avec précision le nombre de binationaux
-    franco-algériens. Les consulats algériens ne disposent que des seuls
-    chiffres d'Algériens qui y sont inscrits. Par extrapolation, il se dit que
-    les binationaux représenteraient quelque 4 millions d'individus,
-    statistique communément admise par les autorités françaises.»
-
-Un chiffre important qui, pour l’heure, n’a jamais fait l’objet de surenchères
-politiciennes en France. A l’inverse, en Algérie, il arrive souvent que l’on
-évoque les centaines de milliers d’Algériens vivant en Algérie mais ayant
-secrètement la nationalité française.
-
-Ainsi, les binationaux seraient un élément important du fameux Hizb frança (le
-parti de la France), que les membres de la «famille révolutionnaire» continuent
-encore à dénoncer, près de cinquante ans après l’indépendance…
-
-    «Même si le chiffre de 4 millions de Franco-Algériens doit être manié avec
-    prudence, il signale l'ampleur du phénomène», relève Séverine Labat. «Si
-    l'on y ajoute les autres binationaux ressortissants de notre ex-empire,
-    notamment les Tunisiens, les Marocains et les Sénégalais —désignés sous le
-    vocable de "Sénèfe"— sans compter les binationaux issus d'autres contrées,
-    on réalise aisément que la classe politique puisse être aux aguets... Mais
-    il convient, et c'est essentiel, de noter que peu lui chaud que des
-    Français possèdent la nationalité américaine ou norvégienne, comme c'est le
-    cas d'Eva Joly, candidate potentielle à la présidentielle de 2012...»
-
-Akram Belkaïd
-
-     
-
-A lire aussi
-
-Immigration: le grand mensonge européen
-
-Guéant, le côté obscur de la France
-
-Le Maghreb s'ouvre, l'Europe se referme
-
-France-Algérie: le passé champ de bataille du présent
-
-[ac]
-
-  • actualités
-  • société
-  • sport
-  • culture
-  • diasporas
-
-Visiter le site principal : www.slateafrique.com
-[ac]
+Webmaster | Thème | Plateforme
 </text>
 </page>
 <page="méli-mélo-50">
@@ -22430,6 +22234,202 @@ Corporate
   • HelloWork Group
   • Viamédia
   • Rivacom
+</text>
+</page>
+<page="méli-mélo-5">
+<text>
+[ico-home] [logo]
+[ac]
+ 
+[ico-facebo] [ico-twitte] [ico-yahoo]
+ 
+[passeport_]  
+société
+La binationalité au banc des accusés
+par Akram Belkaïd,
+le 16 mai 2011
+
+Et voilà que la chasse au binational est lancée! Cela fait des années qu’on
+sent la menace poindre sans savoir quel serait l’événement catalyseur qui en
+ferait un thème prépondérant.
+
+Ainsi, le fondateur du Front national Jean-Marie Le Pen, le député de Debout la
+République Nicolas Dupont-Aignan, le fondateur du Mouvement pour la France
+Philippe de Villiers ont souvent dénoncé le fait que des ressortissants
+français possèdent une autre nationalité.
+
+Mais leurs propos n’ont jamais créé de polémiques majeures et la thèse d’une
+binationalité contraire aux intérêts de la France n’a guère pris auprès de
+l’opinion publique.
+
+Il aura donc fallu que des dirigeants du football français envisagent de
+limiter l’accès à la formation à de jeunes footballeurs binationaux pour que le
+sujet devienne matière à controverses et à chicanes franco-françaises.
+
+Le football français, le prétexte attendu
+
+Revenons d’abord sur cette fameuse affaire des quotas. Cette dernière constitue
+un cas d’école en matière de manœuvres dilatoires dans un cadre de
+communication de crise. En effet, le véritable problème dans l’affaire n’était
+pas de savoir si le sélectionneur de l'équipe de France Laurent Blanc est
+raciste ou non —c’est, malheureusement, sur ce point que le débat s’est
+focalisé— en réalité, ce qui est scandaleux, c’est que l’on ait envisagé de
+limiter l’accès à la formation à des jeunes de 12 ou 13 ans au prétexte qu’ils
+pourraient, à l’avenir, opter pour une autre équipe que celle de France.
+
+Voilà donc de jeunes Français —car il s’agit bien de ressortissants français— à
+qui l’on fait un procès d’intention à un moment où la majorité d’entre eux ne
+possèdent même pas de seconde nationalité! Pour résumer, on pourrait dire que
+le message adressé à ces gamins est le suivant:
+
+    «Certes, tu es Français, mais comme tu pourrais aussi opter plus tard pour
+    la nationalité sénégalaise ou algérienne, on ne veut pas de toi!»
+
+On passera rapidement sur le fait que la majorité des jeunes qui entrent en
+formation ne rêvent que d’une seule chose: vivre la même aventure que les
+Zidane, Henry, Dessailly… En effet, à de rares exceptions près, opter pour une
+autre équipe nationale est souvent un choix par défaut. Cela n’empêche pas
+certains commentateurs de s’indigner que la France puisse former des joueurs
+qui s’en iront renforcer les Eléphants de Côte d’Ivoire ou les Aigles de
+Carthage alors qu’il est admis qu’ils n’ont pas le niveau pour jouer avec les
+Bleus. Il est étrange de ne jamais entendre ces mêmes commentateurs s’indigner
+du fait que les meilleurs chercheurs français —formés avec l’argent public
+français— s’en aillent faire les beaux jours des laboratoires américains ou
+canadiens…
+
+Cela étant, et pour être honnête, on doit se demander si cette question des
+binationaux n’a pas été l’excuse inventée pour écarter les noirs et les Arabes
+des centres de formation afin de rendre plus blanche l’élite du football
+français. Les dirigeants incriminés ont peut-être pensé que discriminer les
+binationaux serait jugé bien moins grave qu’une stratégie visant à faire en
+sorte que l’équipe de France soit moins «black-beur».
+
+On ne saura peut-être jamais la vérité sur ce sordide méli-mélo vite escamoté
+mais une chose est certaine: le binational est désormais un bouc émissaire
+commode. Et l’idée de le soumettre à des contraintes va faire son chemin dans
+le football, et donc dans le reste de la société française.
+
+    «Mettre en place des quotas serait une pratique inadmissible et, au
+    surplus, totalement illégale», juge Séverine Labat, politologue, chercheur
+    au CNRS et auteur d’un livre récent sur les binationaux franco-algériens (
+    La France réinventée: les nouveaux bi-nationaux franco-algériens). Pour
+    elle, «il est fort dommage que l'affaire ait été si vite enterrée par le
+    ministère des Sports, privant ainsi la société française d'un débat sein et
+    serein quant au phénomène, appelé à prospérer, de la binationalité.»
+
+Et de se demander s’il faut «s'attendre, désormais, à découvrir que des
+politiques de quotas sont appliquées aux binationaux dans d'autres secteurs»?
+
+Limiter les droits des binationaux
+
+C’est, en tous les cas, ce que souhaiterait Claude Goasguen, député UMP et
+maire du seizième arrondissement parisien. Cet ancien militant du groupe
+d’extrême-droite Occident suggère une «limitation des droits politiques des
+binationaux» car il juge «gênant qu’une personne puisse voter en France et dans
+un autre pays». Et de proposer dans la foulée «la création d’un registre des
+binationaux».
+
+Outre son caractère discriminatoire, cette sortie, qui a choqué y compris au
+sein de l’UMP, notamment le député Thierry Mariani (UMP), doit être regardée de
+plus près. Quand il évoque les binationaux, Claude Goasguen semble se focaliser
+uniquement sur les Africains et les Maghrébins et notamment ceux qui viennent
+d’accéder à la nationalité française.
+
+    «La nationalité est une adhésion, et pas seulement une simple carte
+    plastifiée, il faut insister sur son caractère volontaire. […] Pour être
+    intégré, quand on demande la nationalité française, le minimum c’est
+    qu’éventuellement on accepte d’abandonner son autre nationalité», a ainsi
+    expliqué Claude Goasguen sur les ondes de RTL, une radio française.
+
+Voilà donc défini, de manière implicite, le périmètre des binationaux à
+surveiller. Il serait intéressant de savoir si ce que prône Goasguen concerne
+les autres binationaux notamment les Franco-Américains, les Franco-Allemands
+sans oublier les Franco-Israéliens.
+
+Seront-ils tous concernés par le fameux registre? Devront-ils renoncer à leur
+autre citoyenneté sous peine de perdre des droits, politiques ou autres, en
+France? Ou alors, va-t-on nous expliquer qu’il existe des binationaux plus
+français que d’autres? Qu’il existe des binationaux potentiellement plus
+déloyaux vis-à-vis de la France que d’autres? Et si ce débat sur les
+binationaux ne revenait pas à remettre au goût du jour les propos pestilentiels
+sur les «vrais Français» et les autres.
+
+    «La question de la binationalité risque-t-elle, pour le plus grand mal de
+    notre pays, de se focaliser uniquement sur les ressortissants d'un Empire
+    dont nombreux sont ceux qui ne se sont pas résolus à sa perte?» s’interroge
+    Séverine Labat. Pour la politologue, «ce serait, dans pareil cas, une
+    occasion manquée de nous réconcilier autour d'un pacte républicain refondé,
+    où les expressions de la diversité seraient enfin reconnues dans le but
+    d'apaiser des tensions par ailleurs attisées par certains boute-feux peu
+    soucieux, voire hostiles, à l'émergence d'une France qui pourtant si elle
+    veut, selon la formule consacrée, demeurer "éternelle", ne peut se
+    permettre d'en faire l'économie.»
+
+Les Franco-Algériens pris entre deux feux
+
+Ironie de l’histoire, c’est plutôt dans les pays de l’autre nationalité que les
+binationaux étaient jusque-là fustigés. Le meilleur exemple est celui de
+l’Algérie où, de manière récurrente, de hauts responsables traitent les
+Algéro-Français de «traîtres», de «cinquième colonne» ou de citoyens qu’il
+faudrait déchoir de la nationalité algérienne ou à qui il faudrait, tout au
+moins, interdire d’occuper des postes importants.
+
+L’affaire est d’autant plus importante que l’on ne connaît pas le nombre exact
+de binationaux franco-algériens vivant en France et encore moins ceux qui
+vivent en Algérie.
+
+    «La législation française interdit la collecte de statistiques ethniques
+    même si l'affaire Laurent Blanc a prouvé que certaines institutions violent
+    allègrement cet interdit», explique Séverine Labat. «Il est donc
+    extrêmement difficile du chiffrer avec précision le nombre de binationaux
+    franco-algériens. Les consulats algériens ne disposent que des seuls
+    chiffres d'Algériens qui y sont inscrits. Par extrapolation, il se dit que
+    les binationaux représenteraient quelque 4 millions d'individus,
+    statistique communément admise par les autorités françaises.»
+
+Un chiffre important qui, pour l’heure, n’a jamais fait l’objet de surenchères
+politiciennes en France. A l’inverse, en Algérie, il arrive souvent que l’on
+évoque les centaines de milliers d’Algériens vivant en Algérie mais ayant
+secrètement la nationalité française.
+
+Ainsi, les binationaux seraient un élément important du fameux Hizb frança (le
+parti de la France), que les membres de la «famille révolutionnaire» continuent
+encore à dénoncer, près de cinquante ans après l’indépendance…
+
+    «Même si le chiffre de 4 millions de Franco-Algériens doit être manié avec
+    prudence, il signale l'ampleur du phénomène», relève Séverine Labat. «Si
+    l'on y ajoute les autres binationaux ressortissants de notre ex-empire,
+    notamment les Tunisiens, les Marocains et les Sénégalais —désignés sous le
+    vocable de "Sénèfe"— sans compter les binationaux issus d'autres contrées,
+    on réalise aisément que la classe politique puisse être aux aguets... Mais
+    il convient, et c'est essentiel, de noter que peu lui chaud que des
+    Français possèdent la nationalité américaine ou norvégienne, comme c'est le
+    cas d'Eva Joly, candidate potentielle à la présidentielle de 2012...»
+
+Akram Belkaïd
+
+     
+
+A lire aussi
+
+Immigration: le grand mensonge européen
+
+Guéant, le côté obscur de la France
+
+Le Maghreb s'ouvre, l'Europe se referme
+
+France-Algérie: le passé champ de bataille du présent
+
+[ac]
+
+  • actualités
+  • société
+  • sport
+  • culture
+  • diasporas
+
+Visiter le site principal : www.slateafrique.com
+[ac]
 </text>
 </page>
 <page="méli-mélo-6">
