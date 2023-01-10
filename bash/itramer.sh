@@ -41,7 +41,7 @@ do
 	echo "$CONTENT" >> $ITRAMER_F
 
 	echo "</text>" >> $ITRAMER_F
-	echo "</page>" >> $ITRAMER_F
+	echo "</page> §" >> $ITRAMER_F
 done
 
 echo "</lang>" >> $ITRAMER_F
