@@ -205,6 +205,13 @@ Comme les styles sur bulma étaient plutôt classiques et ne répondaient pas à
 Vu que des problèmes de redirection de pages et de formats n'ont pas été résolus, j'ai décidé de refaire le site web de notre projet en utilisant directement notre template de page d'accueil et en fusionnant tous les fichiers html dans le nouveau site web. Le nouveau site web présente de meilleurs graphismes, des options de menu plus variées et est plus proche de nos attentes que le site précédent.
 
 ## 2022-01-09
-### Mise à jour du corpus
+### Mise à jour du corpus （Liza）
 Je me suis rendue compte que le mot dazahui avait plusieurs emplois grammaticaux: d'abord, dans un contexte "c'est comme un dazahui", puis "un dazahui de quelque chose" (utilisé comme adjectif d'un nom ou complément du nom), enfin tout simplement "c'est un dazahui". Un autre mot, dazahuishi, qui est le mot dazahui suivi du morphème "shi" qui veut dire "le modèle / le mode".
 J'espère avoir des données intéressantes à analyser avec le nouveau corpus (dont la taille a doublé !)
+
+### Mise à jour du corpus （Yingzi）
+Lors de la génération des concordances, on a remarqué que puisque le mot meli-melo apparaît souvent dans le titre seul comme le nom d'un film, d'un groupe ou d'un dessin animé, il n'était pas facile de l'analyser à l'aide d'itrameur, j'ai donc dû augmenter mon corpus et rendre le contexte textuel de ce mot aussi riche que possible.
+
+## 2022-01-10
+### Analyse du corpus à l'aide d'itrameur et ajout de pages de concordances et d'itrameur sur le nouveau site web
+
