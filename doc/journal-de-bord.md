@@ -192,6 +192,14 @@ Création d'un nouveau script pour réaliser nos concordances (avant tout était
 Mise à jour de la to-do list (c'est presque fini !!!)
 Travail sur Itrameur (Liza & Yingzi)
 
+## 2022-01-05
+### Ajout d'options à la barre de menu des pages web et organisation de la redirection de chaque page （Yingzi）
+Après avoir mis en place le cadre du css, nous avons rencontré de nombreux problèmes pour composer les différentes pages html générées en un seul site web, tels que des problèmes de format, des problèmes de redirection et des tableaux illisibles en trois langues qui étaient trop longs...On a donc décidé de créer trois options de langue dans la barre de menu et essayé de modifier la redirection sur chaque page html, mais cela a pris beaucoup de temps en raison du nombre de fichiers html, j'ai donc décidé de chercher d'autres solutions.
+
+## 2022-01-07
+### Création de page d'acceuil （Yingzi）
+Comme les styles sur bulma étaient plutôt classiques et ne répondaient pas à nos besoins pour créer une page d'acceuil originale, j'ai commencé à chercher d'autres modèles css sur internet et grâce à cela, j'ai appris beaucoup de choses sur le Web design, ce qui m'a rendu heureux et m'a donné plus de motivation! À la fin, j'ai trouvé un template sur internet et j'ai créé une page d'acceuil pour notre propre projet.
+
 ## 2022-01-09
 ### Mise à jour du corpus
 Je me suis rendue compte que le mot dazahui avait plusieurs emplois grammaticaux: d'abord, dans un contexte "c'est comme un dazahui", puis "un dazahui de quelque chose" (utilisé comme adjectif d'un nom ou complément du nom), enfin tout simplement "c'est un dazahui". Un autre mot, dazahuishi, qui est le mot dazahui suivi du morphème "shi" qui veut dire "le modèle / le mode".
