@@ -17,13 +17,13 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 
-def getFrequencyDictForText(sentence):
+def getFrequencyDictForText(sentence, regex):
     fullTermsDict = multidict.MultiDict()
     tmpDict = {}
 
     # making dict for counting frequencies
     for text in sentence.split(" "):
-        if re.match("a|the|an|the|to|in|for|of|or|by|with|is|on|that|be", text):
+        if re.match(regex, text):
             continue
         val = tmpDict.get(text, 0)
         tmpDict[text.lower()] = val + 1
@@ -33,9 +33,9 @@ def getFrequencyDictForText(sentence):
 
 
 def makeImage(text):
-    alice_mask = np.array(Image.open("alice_mask.png"))
+    flag_mask = np.array(Image.open("generated/wordcloud/Spain-Flag.png"))
 
-    wc = WordCloud(background_color="white", max_words=1000, mask=alice_mask)
+    wc = WordCloud(background_color="white", max_words=1000, mask=flag_mask)
     # generate word cloud
     wc.generate_from_frequencies(text)
 
@@ -44,10 +44,13 @@ def makeImage(text):
     plt.axis("off")
     plt.show()
 
-
+#word = "batiburrillo" # es
+word = "méli-mélo" # fr
 # get data directory (using getcwd() is needed to support running example in generated IPython notebook)
 d = path.dirname(__file__) if "__file__" in locals() else os.getcwd()
 
-text = open(path.join(d, 'alice.txt'), encoding='utf-8')
+regex = "une?|l(a|e)s?|des?|avec|dans|en|p(a|ou)r|sur|est|ce|être|•|□|[|]|:|sont?|ses?|du|aux?|et|ou|que|car|mais|ne|pas|plus|donc|comme" # fr text to filter out
+#regex = "un|una|el|la|los|las|unos|unas|con|in|del|o|es|está|ser|estar|que|su|sus|por|no|lo|de|le|•|□|[|]"# esp text to filter out
+text = open(path.join(d, f"generated/wordcloud/{word}-output_file.txt"), encoding='utf-8')
 text = text.read()
-makeImage(getFrequencyDictForText(text))
+makeImage(getFrequencyDictForText(text, regex))
