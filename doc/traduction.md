@@ -1,6 +1,8 @@
-### Traduction sur du mot méli-mélo dans différentes langues 
+# Traduction sur du mot méli-mélo dans différentes langues 
+
 
 >On explicite ici les démarches de traduction du mot *méli-mélo*. Ces dernières différent en fonction de la langue de chacun des membres. 
+
 
 ### anglais (langue pivot) :
 - traduction choisie :<br>
