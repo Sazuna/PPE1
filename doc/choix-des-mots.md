@@ -1,4 +1,4 @@
-# Choix du mot
+# Choix des mots
 
 Nous avons choisi le mot "méli-mélo". Ce mot a un rapport à la nourriture et veut dire "quelque chose de mélangé, dans le désordre". Nous avons choisi ce mot car Liza faisait des recherches sur le mot "brainstorming" et a trouvé sur internet "méli-mélo d'idées".
 
