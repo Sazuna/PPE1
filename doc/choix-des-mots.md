@@ -111,3 +111,6 @@ L'espagnol propose plusieurs traductions également :
 	- étimologie : de *baturillo* (signification similaire)du latin *battuere* (frapper, battre) et *zurriburri* (confusion, désordre...), racine du verbe espagnol _zumbar_ mais qui s'explique comme une onomatopée. 
 	- un plat typique du Paraguay porte également ce nom (ragoût à base d'abats de viande) : *el batiburrillo paraguayo se trata de un guiso con menudencias de carne.* 
 	- source : http://etimologias.dechile.net/?batiburrillo
+
+
+---
