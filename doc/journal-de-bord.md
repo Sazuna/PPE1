@@ -211,3 +211,7 @@ J'espère avoir des données intéressantes à analyser avec le nouveau corpus (
 
 ### Mise à jour du corpus （Yingzi）
 Lors de la génération des concordances, on a remarqué que puisque le mot meli-melo apparaît souvent dans le titre seul comme le nom d'un film, d'un groupe ou d'un dessin animé, il n'était pas facile de l'analyser à l'aide d'itrameur, j'ai donc dû augmenter mon corpus et rendre le contexte textuel de ce mot aussi riche que possible.
+
+## 2022-01-10
+### Analyse du corpus à l'aide d'itrameur et ajout de pages de concordances et d'itrameur sur le nouveau site web
+
