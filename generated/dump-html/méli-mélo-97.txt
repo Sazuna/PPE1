@@ -1,0 +1,1626 @@
+<!doctype html>
+
+<html lang="fr-FR" class="" [class]="( navMenuExpanded ? 'overflow-y' : '' )">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- DIDOMI -->
+<script type="text/javascript">
+window.gdprAppliesGlobally = true;
+(
+    function() {
+        function a(e) {
+            if (!window.frames[e]) {
+                if (document.body && document.body.firstChild) {
+                    var t = document.body;
+                    var n = document.createElement("iframe");
+                    n.style.display = "none";
+                    n.name = e;
+                    n.title = e;
+                    t.insertBefore(n, t.firstChild)
+                } else {
+                    setTimeout(function() {
+                        a(e)
+                    }, 5)
+                }
+            }
+        }
+
+        function e(n, r, o, c, s) {
+            function e(e, t, n, a) {
+                if (typeof n !== "function") {
+                    return
+                }
+                if (!window[r]) {
+                    window[r] = []
+                }
+                var i = false;
+                if (s) {
+                    i = s(e, t, n)
+                }
+                if (!i) {
+                    window[r].push({
+                        command: e,
+                        parameter: t,
+                        callback: n,
+                        version: a
+                    })
+                }
+            }
+
+            e.stub = true;
+
+            function t(a) {
+                if (!window[n] || window[n].stub !== true) {
+                    return
+                }
+                if (!a.data) {
+                    return
+                }
+                var i = typeof a.data === "string";
+                var e;
+                try {
+                    e = i ? JSON.parse(a.data) : a.data
+                } catch (t) {
+                    return
+                }
+                if (e[o]) {
+                    var r = e[o];
+                    window[n](r.command, r.parameter, function(e, t) {
+                        var n = {};
+                        n[c] = {
+                            returnValue: e,
+                            success: t,
+                            callId: r.callId
+                        };
+                        a.source.postMessage(i ? JSON.stringify(n) : n, "*")
+                    }, r.version)
+                }
+            }
+
+            if (typeof window[n] !== "function") {
+                window[n] = e;
+                if (window.addEventListener) {
+                    window.addEventListener("message", t, false)
+                } else {
+                    window.attachEvent("onmessage", t)
+                }
+            }
+        }
+
+        e("__tcfapi", "__tcfapiBuffer", "__tcfapiCall", "__tcfapiReturn");
+        a("__tcfapiLocator");
+        (
+            function(e) {
+                var t = document.createElement("script");
+                t.id = "spcloader";
+                t.type = "text/javascript";
+                t.async = true;
+                t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target=" + document.location.hostname;
+                t.charset = "utf-8";
+                var n = document.getElementsByTagName("script")[0];
+                n.parentNode.insertBefore(t, n)
+            }
+        )("7d47d925-5295-45a1-bd66-36b7d46d53a4")
+    }
+)();
+</script>
+<!-- End DIDOMI -->
+<link rel="preload" as="image"
+    href="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Capture-decran-2022-11-22-a-17.16.40.png?resize=850%2C540&#038;quality=75" />
+<link rel="dns-prefetch" href="//fonts.google.com/" />
+<link rel="dns-prefetch" href="//www.youtube.com/" />
+<link rel="dns-prefetch" href="//youtube.com/" />
+<meta name="date.created" content="2022-11-23">
+<title>Les femmes s’en mêlent, méli-mélo poétique et politique - Radio Nova</title>
+<meta name="dc.title" content="Les femmes s’en mêlent, méli-mélo poétique et politique - Radio Nova" />
+<meta name="dc.description" content="Le festival à la programmation rythmée et engagée, musicale et sociale, poétique et politique — et exclusivement féminine — est de retour pour sa 25ᵉ édition. À cette occasion, Radio Nova vous a préparé sa sélection." />
+<meta name="dc.relation" content="https://www.nova.fr/news/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022/" />
+<meta name="dc.source" content="https://www.nova.fr/" />
+<meta name="dc.language" content="fr_FR" />
+<meta name="description" content="Le festival à la programmation rythmée et engagée, musicale et sociale, poétique et politique — et exclusivement féminine — est de retour pour sa 25ᵉ édition. À cette occasion, Radio Nova vous a préparé sa sélection." />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://www.nova.fr/news/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022/" />
+<meta property="og:url" content="https://www.nova.fr/news/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022/" />
+<meta property="og:site_name" content="Radio Nova" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Les femmes s’en mêlent, méli-mélo poétique et politique" />
+<meta property="og:description" content="Le festival à la programmation rythmée et engagée, musicale et sociale." />
+<meta property="og:image" content="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Capture-decran-2022-11-22-a-17.16.40.png?fit=912%2C595&quality=75" />
+<meta property="og:image:secure_url" content="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Capture-decran-2022-11-22-a-17.16.40.png?fit=912%2C595&quality=75" />
+<meta property="og:image:width" content="912" />
+<meta property="og:image:height" content="595" />
+<meta property="og:image:alt" content="Les Femmes S’en Mêlent" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Les femmes s’en mêlent, méli-mélo poétique et politique" />
+<meta name="twitter:description" content="Le festival à la programmation rythmée et engagée, musicale et sociale." />
+<meta name="twitter:image" content="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Capture-decran-2022-11-22-a-17.16.40.png" />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//ced.sascdn.com' />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"Article","datePublished":"2022-11-23T14:03:37+01:00","dateModified":"2022-11-23T16:01:44+01:00","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.nova.fr\/news\/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022"},"headline":"Les femmes s\u2019en m\u00ealent, m\u00e9li-m\u00e9lo po\u00e9tique et politique","author":{"@type":"Person","name":"redaction@radionova.com","url":"https:\/\/www.nova.fr\/author\/redactionradionova-com\/"},"image":{"@type":"ImageObject","url":"https:\/\/www.nova.fr\/wp-content\/uploads\/sites\/2\/2022\/11\/Capture-decran-2022-11-22-a-17.16.40.png?fit=912%2C595&quality=75"},"publisher":{"@type":"Organization","name":"Radio Nova","logo":{"@type":"ImageObject","url":"https:\/\/www.nova.fr\/wp-content\/uploads\/2\/2020\/11\/logo.png","width":"523","height":"120"}},"description":"Le festival \u00e0 la programmation rythm\u00e9e et engag\u00e9e, musicale et sociale, po\u00e9tique et politique \u2014 et exclusivement f\u00e9minine \u2014 est de retour pour sa 25\u1d49 \u00e9dition. \u00c0 cette occasion, Radio\u2026"}</script>
+
+<meta property="article:tag" content="gratuit"><link rel="alternate" type="application/rss+xml" title="Radio Nova &raquo; Les femmes s’en mêlent, méli-mélo poétique et politique Flux des commentaires" href="https://www.nova.fr/news/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022/feed/" />
+<link rel='stylesheet' id='all-css-0' href='https://www.nova.fr/_static/??-eJyNy0EOQDAQheELqQmSYiHOUu1EhmlJpyK9PRsJO8s/731w7oqC5cOhgBUBR5Jg4s2uimmKJmaQlBlLT6G8DwW8xSLg0ZFBRo8hfWJnkzEqxtnY/I/f27sfNPqh0m3d6aat+guHvUGz' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='wpseopress-local-business-style-inline-css'>
+span.wp-block-wpseopress-local-business-field{margin-right:8px}
+
+</style>
+<link rel='stylesheet' id='all-css-4' href='https://www.nova.fr/wp-includes/css/classic-themes.min.css?m=1672863718g' type='text/css' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='all-css-6' href='https://www.nova.fr/_static/??/wp-content/themes/lnei-wp-theme-child-nova/dist/styles/main.css,/wp-content/mu-plugins/jetpack-11.6/css/jetpack.css?m=1673250496' type='text/css' media='all' />
+<script defer src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js?ver=6.1.1' id='jquery-defer-js'></script>
+<script src='https://ced.sascdn.com/tag/3518/smart.js?ver=6.1.1' id='smart-js'></script>
+<link rel="https://api.w.org/" href="https://www.nova.fr/wp-json/" /><link rel="alternate" type="application/json" href="https://www.nova.fr/wp-json/wp/v2/posts/206942" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.nova.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.nova.fr/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='https://www.nova.fr/?p=206942' />
+<link rel="alternate" type="application/json+oembed" href="https://www.nova.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.nova.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="amphtml" href="https://www.nova.fr/news/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022/?amp"><link rel="icon" href="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=32%2C32&#038;quality=75" sizes="32x32" />
+<link rel="icon" href="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=192%2C192&#038;quality=75" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2C180&#038;quality=75" />
+<meta name="msapplication-TileImage" content="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=270%2C270&#038;quality=75" />
+</head>
+
+<amp-state id="navMenuExpanded">
+    <script type="application/json">false</script>
+</amp-state>
+
+
+<body class="post-template-default single single-post postid-206942 single-format-standard les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022 app-data index-data singular-data single-data single-post-data single-post-les-femmes-sen-melent-meli-melo-poetique-et-politique-data" data-barba="wrapper" data-usr=>
+                    <div id="loader-container" class="loader-is-visible">
+  <div class="loader">
+    <span class="stroke"></span>
+    <span class="stroke"></span>
+    <span class="stroke"></span>
+    <span class="stroke"></span>
+    <span class="stroke"></span>
+    <span class="stroke"></span>
+    <span class="stroke"></span>
+  </div>
+</div>
+            <div class="wrap" role="document" data-barba="container">
+        <div id="js-datalayer" data-keys="{&quot;page_title&quot;:&quot;Les%20femmes%20s%E2%80%99en%20m%C3%AAlent%2C%20m%C3%A9li-m%C3%A9lo%20po%C3%A9tique%20et%20politique&quot;,&quot;post_type&quot;:&quot;post&quot;,&quot;user_is_connected&quot;:false,&quot;post_format&quot;:&quot;standard&quot;,&quot;category&quot;:&quot;Actualit\u00e9&quot;,&quot;pageAttributes&quot;:[],&quot;tags&quot;:[&quot;festival&quot;,&quot;les-femmes-sen-melent-2&quot;]}"></div>
+        <header class="banner   "
+    [class]="'banner' + ( navMenuExpanded ? ' menu-open' : '' )">
+    <div class="container-header">
+        
+        <div class="row align-items-center height-100 ">
+            <div class="col-md-2 col-2 no-padding">
+                <nav class="nav-primary">
+                    <div class="menu-wrapper">
+                        <div class="menu-lnei menu-content">
+                            <div class="header">
+                                <div class="menu-toggle" on="tap:AMP.setState( { navMenuExpanded: ! navMenuExpanded} )"
+                                    [class]="'menu-toggle' + ( navMenuExpanded ? ' toggled-on' : '' )">
+                                    <span class="ico"></span>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+            <div class="col-8 padlr-mob0 height-100 logo_container">
+                                                        <div class="logo_site">
+                                                                        <a class="brand" href="https://www.nova.fr/">
+                            <img class="logo logo-white" src="https://www.nova.fr/wp-content/uploads/sites/2/2020/11/logo-nova.png" alt="Radio Nova" />
+                                                    </a>
+                                            </div>
+                                                            </div>
+        <div class="col-md-2 col-2 text-right right-part">
+            <div class="icons-header">
+                <!------------------------- Bouton inscription sur header sticky --------------------------------->
+                                    <div class="inscription_scroll">
+                        <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2Fsubscription.php%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2Fsubscription.php%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022" class="js-mobile-register btn btn_orange"><span class="icon-Arrow"></span>S’inscrire</a>
+                    </div>
+                                <!------------------------------------------------------------------------------------------------->
+                <a href="https://shop.combat.fr/Les-Inrockuptibles" class="shop-link" target="_blank" rel="noopener">
+                    <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/shop.svg" alt="shop icon" />
+                </a>
+                <a href="javascript:void(0)" class="search search_toggle"><span class="icon-Search"></span></a>
+                                                            <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2F%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2F%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022" class="user"><span
+                                class="icon-User"></span></a>
+                                                                                                    </div>
+        </div>
+    </div>
+    </div>
+
+    <div class="sticky_homebar">
+        <ul id="mainNav" class="select">
+            <li class="init"></li>
+        </ul>
+    </div>
+
+
+    <div class="menu-nav" [class]="'menu-nav' + ( navMenuExpanded ? ' fade-in' : '' )">
+        <div class="container-header">
+            <div class="row">
+                                <div class="left-side">
+                    <ul class="topLeft_nav">
+                        <li class="search search_mob"><a href="javascript:void(0);"
+                                on="tap:AMP.setState( { popup_search: ! popup_search} )">Rechercher</a></li>
+                                                <li class="inscrir"><a href="javascript:void(0)">S'inscrire à la newsletter</a>
+  <div class="optin-form" data-double-optin="0" data-list="15">
+        <div class="optin-form__wrapper">
+        <input type="email" placeholder="Votre email" class="optin-form__email"/>
+                <button type="button" class="optin-form__button">
+            Je m’abonne        </button>
+    </div>
+</div>
+</li>
+                    </ul>
+                                            <div class="menu-menu-a-la-une-container"><ul id="menu-menu-a-la-une" class=""><li id="menu-item-151688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151688"><a href="https://www.nova.fr/radios/">Les radios</a></li>
+<li id="menu-item-151713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151713"><a href="https://www.nova.fr/c-etait-quoi-ce-titre/">C’était quoi ce titre</a></li>
+<li id="menu-item-151692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-151692"><a href="#">Podcasts</a>
+<ul class="sub-menu">
+	<li id="menu-item-151834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151834"><a href="https://www.nova.fr/podcasts/">Tous les podcasts</a></li>
+	<li id="menu-item-151694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151694"><a href="https://www.nova.fr/podcasts/a-ce-qui-paret/">À ce qui Paret</a></li>
+	<li id="menu-item-206270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206270"><a href="https://www.nova.fr/podcasts/la-traque/">La Traque</a></li>
+	<li id="menu-item-151700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151700"><a href="https://www.nova.fr/podcasts/la-potion/">La Potion</a></li>
+	<li id="menu-item-151704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151704"><a href="https://www.nova.fr/podcasts/nova-club/">Nova Club</a></li>
+	<li id="menu-item-151707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151707"><a href="https://www.nova.fr/podcasts/une-saison-en-france/">Une saison en France</a></li>
+	<li id="menu-item-151696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151696"><a href="https://www.nova.fr/podcasts/chambre-noire/">Chambre Noire</a></li>
+	<li id="menu-item-206271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206271"><a href="https://www.nova.fr/podcasts/la-danse-du-zebre/">La Danse du Zèbre</a></li>
+	<li id="menu-item-206275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206275"><a href="https://www.nova.fr/podcasts/des-vies-supremes-votre-histoire-de-ntm/">Des Vies Suprêmes</a></li>
+	<li id="menu-item-206276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206276"><a href="https://www.nova.fr/podcasts/le-roman-noir-des-radios-libres/">Le Roman Noir des Radios Libres</a></li>
+	<li id="menu-item-206278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206278"><a href="https://www.nova.fr/podcasts/ave-cesaria/">Avé Cesária</a></li>
+	<li id="menu-item-206280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206280"><a href="https://www.nova.fr/podcasts/chercheurs-dor/">Chercheurs d’Or</a></li>
+	<li id="menu-item-206281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206281"><a href="https://www.nova.fr/podcasts/crasse-les-contes-du-grime/">Crasse, les contes du Grime</a></li>
+	<li id="menu-item-206282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206282"><a href="https://www.nova.fr/podcasts/la-lutte-des-cases/">La Lutte des Cases avec Les Editions Dargaud</a></li>
+	<li id="menu-item-206283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206283"><a href="https://www.nova.fr/podcasts/lord-funk-dealer-de-disques/">Lord Funk, dealer de disques avec la Philharmonie de Paris</a></li>
+	<li id="menu-item-206287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206287"><a href="https://www.nova.fr/tag/nova-y-va/">Nova Y Va</a></li>
+	<li id="menu-item-206288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206288"><a href="https://www.nova.fr/news/le-road-trip-de-radio-nova-en-irlande-best-of-192011-21-06-2022/">Irlande avec l’Office de Tourisme Irlandais</a></li>
+	<li id="menu-item-151703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151703"><a href="https://www.nova.fr/podcasts/neo-geo-nova/">Néo Géo Nova</a></li>
+	<li id="menu-item-206289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206289"><a href="https://www.nova.fr/news/radio-truche-les-patients-de-limm-prennent-la-parole-178610-22-03-2022/">Radio Truche avec l’Institut Mutualiste Montsouris</a></li>
+	<li id="menu-item-151701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151701"><a href="https://www.nova.fr/podcasts/le-heros-du-nova-jour-2/">Le Héros du Nova jour</a></li>
+	<li id="menu-item-151702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151702"><a href="https://www.nova.fr/podcasts/les-voyages-immobiles/">Les voyages immobiles</a></li>
+</ul>
+</li>
+<li id="menu-item-151708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151708"><a href="https://www.nova.fr/la-grille-nova/">Les grilles de Radio Nova</a></li>
+<li id="menu-item-79688" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-79688"><a href="https://www.nova.fr/category/news/">Actualité</a></li>
+<li id="menu-item-151846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151846"><a href="https://shop.nova.fr">Le shop</a></li>
+<li id="menu-item-159164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159164"><a href="https://www.nova.fr/les-frequences/">Les fréquences</a></li>
+</ul></div>
+                                                                                    <div class="infos_appNova">
+                                                                                        <p>Télécharger l’application Nova</p>
+                                                        <ul>
+                                                                    <li>
+                                        <a href="http://www.appstore.com" target="_blank" rel='noopener'><img
+                                                src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/app-store.png"
+                                                alt="app store"></a>
+                                    </li>
+                                                                                                    <li>
+                                        <a href="http://www.googleplay.com" target="_blank" rel='noopener'><img
+                                                src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/google-play.png"
+                                                alt="google play"></a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                        <div class="bottLeft_nav">
+                        <a href="https://www.nova.fr/">
+                            <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/logo-menu.svg" alt="Logo" />
+                        </a>
+                        <ul class="social-links">
+                                        <li><a target="_blank" rel="noopener" href="https://www.facebook.com/LeGrandMix"><span class="icon-Facebook"></span></a></li>                                        <li><a target="_blank" rel="noopener" href="https://twitter.com/laradionova"><span class="icon-Twitter"></span></a></li>                                        <li><a target="_blank" rel="noopener" href="https://www.instagram.com/laradionova/"><span class="icon-Instagram"></span></a></li>                                        <li><a target="_blank" rel="noopener" href="https://www.youtube.com/user/RADIONOVAChannel"><span class="icon-Youtube"></span></a></li>                                        <li><a target="_blank" rel="noopener" href="https://open.spotify.com/user/laradionova"><span class="icon-Spotify"></span></a></li>                        </ul>
+                    </div>
+                </div>
+                <div class="right-side">
+                                                                                                                            <div class="radios">
+                                <p class="title-block-menu">Radios</p>
+                                                                    <div class="swiper-container swiper_inrocksmenu">
+                                        <div class="swiper-wrapper">
+                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/radios/radio-nova/" class="img-radio">
+                                                                <img width="560" height="664" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-Nova-en-direct.png?resize=560%2C664&amp;quality=75" class="attachment-rect-thumb size-rect-thumb wp-post-image" alt="Radio Nova" decoding="async" loading="lazy" />
+                                                                                                                                    <span class="icon-play-white"></span>
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/radios/radio-nova/">
+                                                                                                                                            <span class="icon-Playing"></span>
+                                                                    Radio Nova
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/radios/nouvo-nova/" class="img-radio">
+                                                                <img width="560" height="664" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Web-radio--Nouvo-Nova.png?resize=560%2C664&amp;quality=75" class="attachment-rect-thumb size-rect-thumb wp-post-image" alt="Nouvo Nova" decoding="async" loading="lazy" />
+                                                                                                                                    <span class="icon-play-white"></span>
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/radios/nouvo-nova/">
+                                                                                                                                            <span class="icon-Playing"></span>
+                                                                    Nouvo Nova
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/radios/nova-danse/" class="img-radio">
+                                                                <img width="560" height="664" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2020/09/Web-radio--Nova-Danse.png?resize=560%2C664&amp;quality=75" class="attachment-rect-thumb size-rect-thumb wp-post-image" alt="Nova Danse" decoding="async" loading="lazy" />
+                                                                                                                                    <span class="icon-play-white"></span>
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/radios/nova-danse/">
+                                                                                                                                            <span class="icon-Playing"></span>
+                                                                    Nova Danse
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/radios/nova-classics/" class="img-radio">
+                                                                <img width="560" height="664" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Web-radio--Nova-Classics.png?resize=560%2C664&amp;quality=75" class="attachment-rect-thumb size-rect-thumb wp-post-image" alt="Nova Classics" decoding="async" loading="lazy" />
+                                                                                                                                    <span class="icon-play-white"></span>
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/radios/nova-classics/">
+                                                                                                                                            <span class="icon-Playing"></span>
+                                                                    Nova Classics
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/radios/nova-la-nuit/" class="img-radio">
+                                                                <img width="560" height="664" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Web-radio--Nova-la-Nuit.png?resize=560%2C664&amp;quality=75" class="attachment-rect-thumb size-rect-thumb wp-post-image" alt="Nova la Nuit" decoding="async" loading="lazy" />
+                                                                                                                                    <span class="icon-play-white"></span>
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/radios/nova-la-nuit/">
+                                                                                                                                            <span class="icon-Playing"></span>
+                                                                    Nova la Nuit
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/radios/nova-lyon/" class="img-radio">
+                                                                <img width="560" height="664" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-en-direct-Radio-Nova-Lyon.png?resize=560%2C664&amp;quality=75" class="attachment-rect-thumb size-rect-thumb wp-post-image" alt="Nova Lyon" decoding="async" loading="lazy" />
+                                                                                                                                    <span class="icon-play-white"></span>
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/radios/nova-lyon/">
+                                                                                                                                            <span class="icon-Playing"></span>
+                                                                    Nova Lyon
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/radios/nova-bordeaux/" class="img-radio">
+                                                                <img width="560" height="664" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-en-direct-Radio-Nova-Bordeaux.png?resize=560%2C664&amp;quality=75" class="attachment-rect-thumb size-rect-thumb wp-post-image" alt="Nova Bordeaux" decoding="async" loading="lazy" />
+                                                                                                                                    <span class="icon-play-white"></span>
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/radios/nova-bordeaux/">
+                                                                                                                                            <span class="icon-Playing"></span>
+                                                                    Nova Bordeaux
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                    </div>
+                                    </div>
+                                                                                            </div>
+                                                                                <div class="">
+                                <p class="title-block-menu">Podcasts</p>
+                                                                    <div class="swiper-container swiper_inrocksmenu">
+                                        <div class="swiper-wrapper">
+                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/nova-club/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2020/09/Nova-Club.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="Nova Club" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/nova-club/">
+                                                                    Nova Club
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/ailleurs-dans-le-monde/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Ailleurs-dans-le-monde.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="Ailleurs dans le monde" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/ailleurs-dans-le-monde/">
+                                                                    Ailleurs dans le monde
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/chai/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2021/09/Chai.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="Chai!" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/chai/">
+                                                                    Chai!
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/vitamine-so/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Vitamine-So.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="Vitamine So" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/vitamine-so/">
+                                                                    Vitamine So
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/chambre-noire/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2020/11/Chambre-noire.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="Chambre noire" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/chambre-noire/">
+                                                                    Chambre noire
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/danceodrome/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Danceodrome.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="Dance’o’drome" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/danceodrome/">
+                                                                    Dance’o’drome
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/get-a-room-sur-le-transmetteur/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Get-a-room-sur-le-TrAnSmEtTeUr.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="Get a room! sur le TrAnSmEtTeUr" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/get-a-room-sur-le-transmetteur/">
+                                                                    Get a room! sur le TrAnSmEtTeUr
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/la-potion/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2021/08/16.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="La Potion" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/la-potion/">
+                                                                    La Potion
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <div class="radio_lnei__content">
+                                                            <a href="https://www.nova.fr/podcasts/sims-sur-nova/" class="img-radio">
+                                                                <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2021/08/14.png?resize=275%2C275&amp;quality=75" class="attachment-small-cube size-small-cube wp-post-image" alt="SIMS sur Nova" decoding="async" loading="lazy" />
+                                                                                                                            </a>
+                                                            <div class="radio_bottom">
+                                                                <a href="https://www.nova.fr/podcasts/sims-sur-nova/">
+                                                                    SIMS sur Nova
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                                                                                                    </div>
+                                    </div>
+                                                                                            </div>
+                                                                                <div class="slider_large">
+                                <p class="title-block-menu">L&#039;Actu</p>
+                                                                    <div class="swiper-container swiper_large">
+                                        <div class="swiper-wrapper">
+                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <a href="https://www.nova.fr/musiques/teuf-dappart-invite-low-jack-116002-13-01-2021/">
+                                                            <img width="300" height="230" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2021/01/teuf-podcast.jpg?resize=300%2C230&amp;quality=75" class="attachment-menuPost-thumb size-menuPost-thumb wp-post-image" alt="Teuf d’Appart invite Low Jack" decoding="async" loading="lazy" />
+                                                        </a>
+                                                        <a href="https://www.nova.fr/musiques/teuf-dappart-invite-low-jack-116002-13-01-2021/"
+                                                            class="t-large-slide">Teuf d’Appart invite Low Jack</a>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <a href="https://www.nova.fr/musiques/bicep-sort-un-nouveau-clip-pour-son-titre-saku-115835-13-01-2021/">
+                                                            <img width="300" height="230" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2021/01/Capture-decran-2021-01-13-a-10.35.18.png?resize=300%2C230&amp;quality=75" class="attachment-menuPost-thumb size-menuPost-thumb wp-post-image" alt="« Saku », « Sundial » : deux nouveaux titres pour Bicep" decoding="async" loading="lazy" />
+                                                        </a>
+                                                        <a href="https://www.nova.fr/musiques/bicep-sort-un-nouveau-clip-pour-son-titre-saku-115835-13-01-2021/"
+                                                            class="t-large-slide">« Saku », « Sundial » : deux nouveaux titres pour Bicep</a>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <a href="https://www.nova.fr/musiques/jazmine-sullivan-four-tet-mica-levi-et-des-disques-qui-rechauffent-115939-13-01-2021/">
+                                                            <img width="300" height="230" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2021/01/Jaz.png?resize=300%2C230&amp;quality=75" class="attachment-menuPost-thumb size-menuPost-thumb wp-post-image" alt="Jazmine Sullivan, Four Tet, Mica Levi et des disques qui réchauffent" decoding="async" loading="lazy" />
+                                                        </a>
+                                                        <a href="https://www.nova.fr/musiques/jazmine-sullivan-four-tet-mica-levi-et-des-disques-qui-rechauffent-115939-13-01-2021/"
+                                                            class="t-large-slide">Jazmine Sullivan, Four Tet, Mica Levi et des disques qui réchauffent</a>
+                                                    </div>
+                                                                                                                                                                                                                                                <div class="swiper-slide">
+                                                        <a href="https://www.nova.fr/societe/martin-dust-porte-un-toast-au-42eme-jour-de-decembre-2020-115243-12-01-2021/">
+                                                            <img width="300" height="230" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2021/01/cover-image-kjtu2eeu-podcast_nova_2020-2.png?resize=300%2C230&amp;quality=75" class="attachment-menuPost-thumb size-menuPost-thumb wp-post-image" alt="Martin Dust porte un Toast au 42ème jour de décembre 2020" decoding="async" loading="lazy" />
+                                                        </a>
+                                                        <a href="https://www.nova.fr/societe/martin-dust-porte-un-toast-au-42eme-jour-de-decembre-2020-115243-12-01-2021/"
+                                                            class="t-large-slide">Martin Dust porte un Toast au 42ème jour de décembre 2020</a>
+                                                    </div>
+                                                                                                                                    </div>
+                                    </div>
+                                                                                            </div>
+                                                                                <div class="">
+                                <p class="title-block-menu">Le shop</p>
+                                                                                            </div>
+                                                                                <div class="external_links">
+                                <p class="title-block-menu">Combat</p>
+                                                                                                    <div class="swiper-container swiper_inrocksmenu ">
+                                        <div class="swiper-wrapper">
+                                                                                                                                            <div class="swiper-slide">
+                                                    <div class="itemsTopRight">
+                                                        <div class="content-items">
+                                                            <a href="http://festival.lesinrocks.com/"
+                                                                target="">
+                                                                                                                                    <img loading="lazy" src="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/inrock_festival.png?resize=126%2C125&amp;quality=75"
+                                                                        alt="Combat">
+                                                                                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                            <div class="swiper-slide">
+                                                    <div class="itemsTopRight">
+                                                        <div class="content-items">
+                                                            <a href="https://www.rockenseine.com/en/"
+                                                                target="">
+                                                                                                                                    <img loading="lazy" src="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/logo-rock-en-seine-1.png?resize=108%2C81&amp;quality=75"
+                                                                        alt="Combat">
+                                                                                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                                                                            <div class="swiper-slide">
+                                                    <div class="itemsTopRight">
+                                                        <div class="content-items">
+                                                            <a href="https://www.roughtrade.com/"
+                                                                target="">
+                                                                                                                                    <img loading="lazy" src="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/logo-rough-trade.png?resize=100%2C101&amp;quality=75"
+                                                                        alt="Combat">
+                                                                                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+
+            <div class="links_container">
+  <div class="header-media-links">
+                        <button class="func_btn radio-live-play js-radio-header-card header-radio" data-author="" data-time="" data-title="Radio Nova" data-radio-slug ="radio-nova" data-radioid="e9eecc85-d1e9-41b1-acbd-128e4e59da5e" data-default-title="Radio Nova" data-default-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-Nova-en-direct.png?resize=450%2C558&amp;quality=75" data-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-Nova-en-direct.png?resize=450%2C558&amp;quality=75" data-media-launcher-for="e9eecc85-d1e9-41b1-acbd-128e4e59da5e" style="order:1">
+                    <span class="icon-Playing"></span>Radio Nova
+            </button>
+                        <button class="func_btn radio-live-play js-radio-header-card header-radio" data-author="" data-time="" data-title="Nouvo Nova" data-radio-slug ="nouvo-nova" data-radioid="23ca138a-148b-427b-8a42-ca33cc52c2fb" data-default-title="Nouvo Nova" data-default-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Web-radio--Nouvo-Nova.png?resize=450%2C558&amp;quality=75" data-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Web-radio--Nouvo-Nova.png?resize=450%2C558&amp;quality=75" data-media-launcher-for="23ca138a-148b-427b-8a42-ca33cc52c2fb" style="order:2">
+                    <span class="icon-Playing"></span>Nouvo
+            </button>
+                        <button class="func_btn radio-live-play js-radio-header-card header-radio" data-author="" data-time="" data-title="Nova Danse" data-radio-slug ="nova-danse" data-radioid="95eed28d-619c-46d6-bf7f-1d543600104b" data-default-title="Nova Danse" data-default-cover="https://www.nova.fr/wp-content/uploads/sites/2/2020/09/Web-radio--Nova-Danse.png?resize=450%2C558&amp;quality=75" data-cover="https://www.nova.fr/wp-content/uploads/sites/2/2020/09/Web-radio--Nova-Danse.png?resize=450%2C558&amp;quality=75" data-media-launcher-for="95eed28d-619c-46d6-bf7f-1d543600104b" style="order:3">
+                    <span class="icon-Playing"></span>Danse
+            </button>
+                        <button class="func_btn radio-live-play js-radio-header-card header-radio" data-author="" data-time="" data-title="Nova la Nuit" data-radio-slug ="nova-la-nuit" data-radioid="c1d3d0e4-d54b-496b-9aba-b4b9371cf8bc" data-default-title="Nova la Nuit" data-default-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Web-radio--Nova-la-Nuit.png?resize=450%2C558&amp;quality=75" data-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Web-radio--Nova-la-Nuit.png?resize=450%2C558&amp;quality=75" data-media-launcher-for="c1d3d0e4-d54b-496b-9aba-b4b9371cf8bc" style="order:4">
+                    <span class="icon-Playing"></span>La nuit
+            </button>
+                        <button class="func_btn radio-live-play js-radio-header-card header-radio" data-author="" data-time="" data-title="Nova Classics" data-radio-slug ="nova-classics" data-radioid="9960c2f7-4fa0-4519-a488-081bf6945de3" data-default-title="Nova Classics" data-default-cover="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Web-radio--Nova-Classics.png?resize=450%2C558&amp;quality=75" data-cover="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/Web-radio--Nova-Classics.png?resize=450%2C558&amp;quality=75" data-media-launcher-for="9960c2f7-4fa0-4519-a488-081bf6945de3" style="order:5">
+                    <span class="icon-Playing"></span>Classics
+            </button>
+                        <button class="func_btn radio-live-play js-radio-header-card header-radio" data-author="" data-time="" data-title="Nova Bordeaux" data-radio-slug ="nova-bordeaux" data-radioid="09af2dea-cc06-421f-8db5-19105e34e851" data-default-title="Nova Bordeaux" data-default-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-en-direct-Radio-Nova-Bordeaux.png?resize=450%2C558&amp;quality=75" data-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-en-direct-Radio-Nova-Bordeaux.png?resize=450%2C558&amp;quality=75" data-media-launcher-for="09af2dea-cc06-421f-8db5-19105e34e851" style="order:6">
+                    <span class="icon-Playing"></span>Bordeaux
+            </button>
+                        <button class="func_btn radio-live-play js-radio-header-card header-radio" data-author="" data-time="" data-title="Nova Lyon" data-radio-slug ="nova-lyon" data-radioid="21b853dc-b2f8-4198-bf9e-dd195dc903e0" data-default-title="Nova Lyon" data-default-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-en-direct-Radio-Nova-Lyon.png?resize=450%2C558&amp;quality=75" data-cover="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-en-direct-Radio-Nova-Lyon.png?resize=450%2C558&amp;quality=75" data-media-launcher-for="21b853dc-b2f8-4198-bf9e-dd195dc903e0" style="order:7">
+                    <span class="icon-Playing"></span>Lyon
+            </button>
+              <div class="inscription_scroll">
+        <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2Fsubscription.php%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2Fsubscription.php%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022" class="js-mobile-register btn btn_orange"><span class="icon-Arrow"></span>S’inscrire</a>
+      </div>
+      </div>
+</div>
+    
+            <div id="progressbar" class="w-100">
+            <div></div>
+        </div>
+    </header>
+
+<div id="popup_search" class="open_search"
+    [class]="'open_search popup_global' + ( popup_search? ' oppenned ampsocials' : '' )">
+    <div class="popup-overlay"></div>
+    <div class="popup-content">
+        <a href="javascript:void(0)" class="close-popup close_search"
+            on="tap:AMP.setState( { popup_search: ! popup_search} )"><span class="icon-close-icon"></span></a>
+        <div class="container popup-container">
+            <div class="row">
+                <div class="col-lg-10 mx-auto">
+                    <p class="title-popup">Rechercher</p>
+                    <div id="js-popin-search-form" data-url="https://www.nova.fr/">
+                        <form role="search" method="get" class="search-form" action="https://www.nova.fr/">
+				<label>
+					<span class="screen-reader-text">Rechercher :</span>
+					<input type="search" class="search-field" placeholder="Rechercher…" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Rechercher" />
+			</form>
+                    </div>
+                    <div class="last-num">
+            <div class="title-sequence minim black">
+                <h2>Le shop</h2>
+            </div>
+                            <a href="https://shop.nova.fr" target="_blank">
+                    <img loading="lazy"
+                        src="https://www.nova.fr/wp-content/uploads/sites/2/2021/01/test_shop.png?fit=322,600"
+                        alt="Le shop" class="lastnum_img">
+                </a>
+                <a href="https://shop.nova.fr" target="_blank"
+                    class="buy">Je le veux<span class="icon-Arrow-Right"></span></a>
+                    </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="popup_inscription" class="popup">
+    <div class="popup-overlay white"></div>
+    <div class="popup-content text-center">
+        <a href="javascript:void(0);" class="close-popup" data-id="popup_inscription"><span
+                class="icon-close-icon"></span></a>
+        <div class="container popup-container">
+            <div class="row">
+                <div class="col-lg-6 mx-auto">
+                    <h2>Ce podcast est réservé aux abonnés</h2>
+                    <p>Accédez à l’intégralité des Inrockuptibles</p>
+                    <div class="form-row">
+                        <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2F%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2F%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022"
+                            class="btn btn_yellow js-mobile-register">Abonnez-vous</a>
+                        <p>Vous êtes déjà abonné ?</p>
+                        <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2F%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2F%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022"
+                            class="simple-text js-mobile-connect">Connectez-vous</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div id="js-smartAdsContainer" data-params="{&quot;pageId&quot;:1342901,&quot;target&quot;:&quot;article&quot;,&quot;formats&quot;:[{&quot;id&quot;:84831},{&quot;id&quot;:84812},{&quot;id&quot;:84830},{&quot;id&quot;:84832}],&quot;siteId&quot;:372281}"></div>
+        <div id="body-classes" class="post-template-default single single-post postid-206942 single-format-standard les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022 app-data index-data singular-data single-data single-post-data single-post-les-femmes-sen-melent-meli-melo-poetique-et-politique-data"></div>
+        <div class="content">
+            <main class="main">
+                            <div class="advertise" data-formatId=84831>
+                        <div class="js-ads" id="sas_84831"></div>
+            </div>
+                 <div class="container">
+            <div class="row reverse">
+            <div class="col-lg-6 no-pad-left">
+                <div class="file-ariane">
+        <nav aria-label="breadcrumb">
+            <ul itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                                    <li class="breadcrumb-item" itemprop="itemListElement" itemscope=""
+                        itemtype="http://schema.org/ListItem">
+                        <a itemscope="" itemtype="http://schema.org/WebPage" itemprop="item"
+                            itemid="https://www.nova.fr/category/news/" href="https://www.nova.fr/category/news/">
+                            <span class="item-name" itemprop="name">Actualité</span>
+                        </a>
+                        <meta itemprop="position" content="1">
+                    </li>
+                                            <li><span class="icon-Arrow-Right"></span></li>
+                                                        <li class="breadcrumb-item" itemprop="itemListElement" itemscope=""
+                        itemtype="http://schema.org/ListItem">
+                        <a itemscope="" itemtype="http://schema.org/WebPage" itemprop="item"
+                            itemid="https://www.nova.fr/tag/festival/" href="https://www.nova.fr/tag/festival/">
+                            <span class="item-name" itemprop="name">festival</span>
+                        </a>
+                        <meta itemprop="position" content="2">
+                    </li>
+                                                </ul>
+        </nav>
+    </div>
+            </div>
+            <div class="col-lg-6 padr-mob0">
+                                    <div class="time-read">
+                        <span class="icon-time"></span>
+                        <p>5 min</p>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <section class="head-news ">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="head-news__left  col-lg-4 ">
+                <div class="title-post">
+                                        <h1 class="t-header-large-post">Les femmes s’en mêlent, méli-mélo poétique et politique</h1>
+                </div>
+                <div class="details-news">
+
+                                                                                    <p class="author">par
+                            <span>Louise Morin &amp; Malo Le Fur</span>
+                        </p>
+                                        <p class="date">Publié le 23 novembre 2022 à 14 h 03 min <br> Mis à jour
+                        le 23 novembre 2022 à 16 h 01 min
+                    </p>
+                                    </div>
+            </div>
+
+                            <div class="head-news__right col-lg-8">
+                    <div class="content_img ratio-block --news-post-ratio">
+                        <img width="850" height="540" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2022/11/Capture-decran-2022-11-22-a-17.16.40.png?resize=850%2C540&amp;quality=75" class="post-thumb ratio-block__content wp-post-image" alt="Les Femmes S’en Mêlent" decoding="async" />
+                    </div>
+                                            <div class="desc">
+                            <span class="icon-titre"></span>
+                            <p>Les Femmes S’en Mêlent</p>
+                        </div>
+                                    </div>
+            
+        </div>
+    </div>
+    </section>
+<section class="content-news  content-single">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 js_height_content">
+                <div class="row">
+                                        <div class="col-lg-2  ">
+                        <div class="sticky-social">
+                <ul>
+            <li class="hideOn-podcast js-bookmark-post " data-token="" data-title="Les femmes s’en mêlent, méli-mélo poétique et politique" data-format="" data-postId="206942" data-action="add">
+    <a href="#" class="library_toggle">
+        <span class="icon-Bookmark"></span>
+        <span class="js-hover-text hover_text" data-add-text="Ajouter" data-remove-text="Retirer">Ajouter</span>
+    </a>
+</li>
+            <li class="hidden_mobile">
+                <a target="_blank" rel='noopener' href="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022%2F" title="Facebook">
+                    <span class="icon-Facebook"></span>
+                    <span class="hover_text">Partager</span>
+                </a>
+            </li>
+            <li class="hidden_mobile">
+                <a target="_blank" rel='noopener' href="https://twitter.com/share?url=https%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022%2F&amp;via=laradionova&amp;text=Les%20femmes%20s%E2%80%99en%20m%C3%AAlent%2C%20m%C3%A9li-m%C3%A9lo%20po%C3%A9tique%20et%20politique">
+                    <span class="icon-Twitter"></span>
+                    <span class="hover_text">Partager</span>
+                </a>
+            </li>
+            <li class="hidden_mobile hide-nova">
+                <a href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022%2F" data-action="share/whatsapp/share" target="_blank" rel='noopener'>
+                    <span class="icon-Whatsapp"></span>
+                    <span class="hover_text">Envoyer</span>
+                </a>
+            </li>
+            <li class="hidden_mobile">
+                <a target="_blank" rel='noopener' href="mailto:?subject=Les%20femmes%20s%E2%80%99en%20m%C3%AAlent%2C%20m%C3%A9li-m%C3%A9lo%20po%C3%A9tique%20et%20politique&amp;body=https%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022%2F">
+                    <span class="icon-Mail"></span>
+                    <span class="hover_text">Envoyer</span>
+                </a>
+            </li>
+            <li class="hidden hidden_mobile js-copy-link">
+                <a href="javascript:void(0)">
+                    <span class="icon-Link"></span>
+                    <span class="hover_text">COPIER</span>
+                    <span class="text-copied">Copié</span>
+                </a>
+            </li>
+            <amp-state id="popup_socials">
+                <script type="application/json">false</script>
+            </amp-state>
+            <li class="js-showhide-links" on="tap:AMP.setState( { popup_socials: ! popup_socials} )">
+                <a href="javascript:void(0)">
+                    <span class="icon-Add d-lg-flex d-none"></span>
+                    <span class="icon-Share d-lg-none d-block"></span>
+                    <span class="hover_text">Plus</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    
+
+                    </div>
+
+                    <div class="col-lg-10 js-content-news single-content">
+                                                                        <div class="qiota_reserve" data-link="https://www.nova.fr/news/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022/"
+                            data-sub="" data-log="">
+                            <div class="content-container content-container-single">
+                                <div class="excerpt excerpt-single t-base-excerpt">
+                                                                            <p>Le festival à la programmation rythmée et engagée, musicale et sociale, poétique et politique — et exclusivement féminine — est de retour pour sa 25ᵉ édition. À cette occasion, Radio Nova vous a préparé sa sélection.</p>
+
+                                                                    </div>
+                                
+<p>Du 22 septembre au 3 décembre, entre Paris (Trabendo, Café de la Danse, Petit Bain, Point Éphémère, FGO Barbara) et sa banlieue (Ivry-Sur-Seine, Chelles, Brétigny-sur-Orge…), le festival des <strong>Femmes s’en mêlent</strong>, actif depuis l’année 1997, revient pour son édition 2022 pourvu d’une programmation exclusivement féminine.</p><div class="advertise" data-formatId=84812>
+                        <div class="js-ads" id="sas_84812"></div>
+            </div>
+
+
+
+
+<h2>Les femmes s&rsquo;en mêlent&#8230; et s&rsquo;engagent</h2>
+
+
+
+<p>Dans une industrie, celle du disque et du spectacle, où ce sont les hommes qui occupent le plus souvent le devant de la scène, favoriser les femmes n’a évidemment rien d’anodin. Aux Femmes s’en mêlent, c’est encore plus marquant cette année, puisque le festival s’accompagne en 2022 d’un nouveau dispositif : <strong>Les Femmes s&rsquo;engagent</strong>. Le festival propose ainsi un florilège d’ateliers militants, musicaux et féministes, divisés en quatre catégories.</p>
+
+
+
+<p>Adriana Rausseo, de l’association Les Femmes s&rsquo;engagent, a pris le temps de nous les expliquer. Il s’agira cette année de “<em>proposer des clés théoriques sur la situation d&rsquo;inégalité dans la culture</em>” (et surtout dans le domaine musical), d’aborder le sujet des violences sexistes et sexuelles (par des assemblées plénières et des ateliers de discussion plus horizontaux), d’“<em>informer sur l’inclusion dans la lutte</em>” (avec une optique intersectionnelle revendiquée, et enfin “<em>aborder la musique et le domaine musical à travers un nouveau prisme, celui de l’artiste, qui se trouve parfois court-circuité par l’industrie musicale</em>”.&nbsp;</p>
+
+
+
+<p>La musique live et la discussion. Deux facettes complémentaires afin de soulever une réflexion et d’offrir des solutions (ou d’essayer d’en créer) face aux violences sexistes et sexuelles, auxquelles le domaine musical n’est pas hermétique.</p>
+
+
+
+<p></p>
+
+
+
+<p>Côté musique, lors des premiers jours du festival, on a pu apercevoir <strong>Claire Days</strong> (folk saturée et hybride), la création sonore de Christine Lidon <strong>Contrebande</strong>, le groupe <strong>Derya Yildirim &amp; Grup Simsek</strong> que vous pourrez entendre ce week-end dans <em>Néo Géo Nova</em> ou encore <strong>Emily Wells, </strong>multi-instrumentiste qui fait la passerelle entre musique de chambre et pop. Une programmation riche en découvertes qui nous réserve encore de belles soirées…</p>
+
+
+
+<p>Vous l’aurez compris, la sélection du festival nous a beaucoup plu… et il est encore temps d’aller découvrir le reste de leur programmation, on a sélectionné pour vous quelques temps forts :&nbsp;</p>
+
+
+
+<h2><strong>Comagatte</strong></h2>
+
+
+
+<p>L’Italienne, reine de la trap, à l’énergie et la personnalité explosive, s&rsquo;illustrera sur la scène du Point Éphémère pour la soirée hip-hop le 24 novembre prochain. Une énergie qui allie aussi bien la trap, la house et l’électro pour accompagner des textes qui ne manquent pas d’allusions sexuelles. Comagatte, qui a grandi dans les Pouilles, prend pour exemple l’Amérique et ses stars qui emploient, elles aussi, de nombreuses références aux parties de jambes en l’air. La rappeuse qui vit maintenant à Milan, mouture italienne de Cardi B ou Nicki Minaj, ne manquera pas de faire bouger des têtes au Point Éphémère.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe frameborder="0" data-iframe-lazy loading="lazy" title="COMAGATTE - KING KONG FREESTYLE (prod by MOREMUSIC)" width="500" height="281" data-src="https://www.youtube.com/embed/D0tpU0k4DLU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>Clara 3000</strong></h2>
+
+
+
+<p>Le son de Clara 3000 tire ses racines d’une multitude de paysages sonores réels, imaginaires, fantastiques. Elle reconstitue dans ses sets un univers qui mêle à la fois techno, expérimental et transe. Une Dj qui s’illustre également dans le monde de la mode en composant les bandes-son de grands défilés. C’est sur les podiums de Jacquemus et Balenciaga que la productrice versaillaise s’est récemment dévoilée. Le 25 novembre prochain, ce n’est pas sur les marches d’un défilé, mais au Trabendo que vous pourrez entendre Clara 3000, qui pour l’anecdote a débuté au sein du label Ed Banger.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe frameborder="0" data-iframe-lazy loading="lazy" title="Clara 3000 Nova Mix Club DJ set" width="500" height="281" data-src="https://www.youtube.com/embed/20EhBwjCoS0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>Nayra</strong></h2>
+
+
+
+<p>Vraie artisane du live qui donne la chair de poule, des frissons, des sets qui marquent les mémoires et des freestyles qui restent dans les oreilles, cette rappeuse de Saint-Denis passe avec élégance de l’afrotrap au R’n’B et du rap au chant. Sa singularité fait de Nayra une rappeuse libre. Libre des cases que lui impose le rap et libre de s’exprimer dans ses textes pleinement inspirés par sa culture hip-hop et sa culture arabo-berbère.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe frameborder="0" data-iframe-lazy loading="lazy" title="Nayra - Originale" width="500" height="281" data-src="https://www.youtube.com/embed/ZPeTVRDcIl8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>R&rsquo;may</strong></h2>
+
+
+
+<p>Pionnière de la scène rap féminine underground, R’May est de celles qui utilisent à bon escient les réseaux pour démarquer leur talent du lot. La rappeuse rouennaise émerge en 2018 avec un concours de freestyles sur Instagram avant d’être élue gagnante du tremplin Buzz Booster. Inspirée par des figures comme Diam’s et Viola Davis (grand écart), R’May décrit avec sensibilité la réalité d’être une femme.​​ Touchante, sincère et pleine de talents, vous pourrez retrouver ses phases sur la scène du Point Éphémère le 24 novembre prochain.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe frameborder="0" data-iframe-lazy loading="lazy" title="R’may feat Little - Personne" width="500" height="281" data-src="https://www.youtube.com/embed/dIWfhoP6yd4?start=1&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>Rencontre &#8211; Quelles idées pour une filière plus inclusive et égalitaire&nbsp;? (En partenariat avec Fedelima</strong>)</h2>
+
+
+
+<p>Au Point Éphémère, le 24 novembre de 10h à 18h, le festival organise une journée pour réfléchir aux solutions que l’on peut mettre en place afin de questionner et de faire avancer le secteur de la musique vers une plus grande parité, égalité, et intersectionnalité. On va donc parler de programmation, de diffusion et distribution, d’accompagnement, et principalement (tous en cœur) d’inclusivité.</p>
+
+
+
+<h2><strong>Anaïs Rosso</strong></h2>
+
+
+
+<p>La musique de la compositrice et autrice Anaïs Rosso célèbre un joyeux mariage de genres et d’inspirations hétéroclites, lui permettant ainsi de questionner toute la complexité des multiples facettes de l’identité. Cet engagement est aussi présent dans ses textes. Pour pousser l’expérience musicale plus loin, avec une formation en théâtre des Cours Florent, elle est habitée par plusieurs personnages sur scène. Elle est la lauréate de WomenBeats, partenaire de ce festival. Grâce à ce prix, elle est en train de composer son premier EP, prévu pour 2023, dans lequel elle aborde des sujets à la fois personnels et universels, comme la mort, l’injustice et la famille. Elle sera au Café de la Danse à 20h le vendredi 26 novembre !</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe frameborder="0" data-iframe-lazy loading="lazy" title="Anaïs Rosso  -  June" width="500" height="281" data-src="https://www.youtube.com/embed/LZfyvXztFoI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>Chloé</strong></h2>
+
+
+
+<p>Chloé est DJ, productrice et compositrice. Figure phare de la scène électronique, son parcours est riche : résidences dans l&rsquo;établissement féministe et lesbien Pulp, compositions de musiques de films ou de spectacles, création de son label Lumière Noire… Sa musique est minimaliste, et fait en même temps preuve d’une grande cohérence malgré la diversité des styles convoqués dans ses sets. Alors oui, sa carrière est impressionnante et suffit à vous donner envie d’aller la voir, mais surtout, ses sets offrent une expérience unique à ne pas manquer. Elle sera de 21h à 5h au Trabendo le vendredi 25 novembre !</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe frameborder="0" data-iframe-lazy loading="lazy" title="Chloé - The Dawn (Original Mix)" width="500" height="375" data-src="https://www.youtube.com/embed/muOX9c3IT1Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>Liraz</strong></h2>
+
+
+
+<p>La chanteuse Liraz Charhi est aussi actrice, autant éblouissante sur scène, qu’à l’écran ou dans son écriture. Elle combine des chants traditionnels perses, en farsi, rendant ainsi hommage à son héritage familial et culturel, tout en apportant une touche moderne à sa musique, avec des sonorités pop, hip-hop ou électro. La dimension contemporaine de sa musique participe à la nécessité pour l&rsquo;artiste de revendiquer ses racines tout en luttant pour des causes politiques et sociales. Face à la situation actuelle iranienne et aux soulèvements qui ont lieu, la musique est un moyen pour l’artiste de lutter et d’appeler à de jours meilleurs. Le 7 octobre, elle a sorti son troisième album “Roya”, sur lequel elle chante avec des consœurs iraniennes à la suite d’un enregistrement clandestin, bravant ainsi la censure. Elle sera au Café de la Danse à 20h le samedi 26 novembre ! Son nom vous dit quelque chose ? Elle figurait parmi <a href="https://www.nova.fr/news/daphni-liraz-chaton-nnamdi-les-albums-immanquables-de-la-semaine-201248-07-10-2022/">les albums immanquables d’octobre</a>, et on se permet d’insister puisque qu’elle sera la semaine prochaine dans la Chambre Noire…</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe frameborder="0" data-iframe-lazy loading="lazy" title="Liraz - Roya (Official video)" width="500" height="281" data-src="https://www.youtube.com/embed/1Ab4XFaWnOk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<p>Si la programmation est en non-mixité ce n’est pas le cas pour le public. L’occasion pour vous aussi, messieurs, de venir assister à cet évènement, et d’apporter votre soutien en tant qu&rsquo;auditeurs à la lutte contre les violences sexistes et sexuelles.</p>
+                                                                <div class="tag-list tag-list-single">
+                                    <ul><li><a href="https://www.nova.fr/tag/festival/" rel="tag">festival</a></li><li><a href="https://www.nova.fr/tag/les-femmes-sen-melent-2/" rel="tag">Les Femmes S’en Mêlent</a></li></ul>                                </div>
+                                
+                                                            </div>
+
+                            
+                                                            <div class="recommended">
+                                    <div class="title-h2">
+                                        <h2>La rédaction vous recommande</h2>
+                                    </div>
+                                    <ul>
+                                                                                                                                <li>
+                                                <a href="https://www.nova.fr/news/les-femmes-sen-melent-sont-de-retour-pour-feter-leur-quart-de-siecle-205759-14-11-2022/">
+                                                    &lt;strong&gt;Les Femmes S’en Mêlent sont de retour pour fêter leur quart de siècle&lt;/strong&gt;
+                                                                                                    </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a href="https://www.nova.fr/news/hanna-assouline-et-les-guerrieres-de-la-paix-des-femmes-qui-luttent-ensembles-contre-la-guerre-177147-14-03-2022/">
+                                                    Avec Les Guerrières de la paix, Hanna Assouline invite les femmes à dialoguer contre la haine
+                                                                                                    </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a href="https://www.nova.fr/news/elles-accompagnent-les-femmes-qui-veulent-avorter-194082-05-07-2022/">
+                                                    Elles accompagnent les femmes qui veulent avorter
+                                                                                                    </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a href="https://www.nova.fr/news/en-iran-un-mouvement-guide-par-les-femmes-201521-07-10-2022/">
+                                                    En Iran, la révolte guidée par les femmes
+                                                                                                    </a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                            
+                                                    </div>
+                                                    <div class="qiota"></div>
+                                                                    </div>
+                </div>
+                                    <section class="learn_more col-lg-10 col-12 ml-lg-auto no-padding">
+                        <div class="title-sequence  big  minim black">
+        <h2>À lire aussi</h2>
+    </div>
+    <div class="outbrain_wrapper" data-format=""
+    data-type="post" data-ob-installation-key-ios="FRRAD1FL86LCMACGA22F2DNMN"
+    data-ob-installation-key-android="FRRAD17GMDKC91OA64N5GAFKA">
+    <div class="OUTBRAIN" data-src="https://www.nova.fr/news/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022/" data-widget-id="" data-ob-installation-key="">
+    </div>
+</div>
+                    </section>
+                            </div>
+            <div class="ml-lg-auto col-lg-3 mr-lg-0 col-md-8 mx-lg-none mx-auto">
+                                <div class="sidebar sidebar-single ">
+                                            <div class="side-author d-lg-block d-none">
+                            <div class="d-flex post_author">
+        <p>Par </p><span>Louise Morin &amp; Malo Le Fur</span>
+    </div>
+                        </div>
+                                                            <div class="sticky_sidebar">
+                                                    <div class="pub">
+                                <div class="advertise" data-formatId=84830>
+                        <div class="js-ads" id="sas_84830"></div>
+            </div>
+                            </div>
+                                                <div>
+                            <div class="title-sequence minim black ">
+        <h3>Les plus lus</h3>
+    </div>
+                            <div class="most-read">
+                                <div class="mostRead">
+                <div class="tags-container ml-auto col-10">
+                                                                <span class="tag tag-small"><a
+                                href="https://www.nova.fr/tag/a-ce-qui-paret/">À ce qui Paret</a></span>
+                                    </div>
+                <div class="row align-items-center">
+                    <div class="nb col-2">
+                        <span>1.</span>
+                    </div>
+                    <div class="col-10">
+                        <a href="https://www.nova.fr/news/pourquoi-brian-eno-est-a-lorigine-dinnovations-musicales-inouies-alors-quil-a-produit-u2-211167-05-01-2023/">
+                            <h2 class="t-side-small">Pourquoi Brian Eno est à l’origine d’innovations musicales inouïes, alors qu’il a produit U2 ?</h2>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                                <div class="mostRead">
+                <div class="tags-container ml-auto col-10">
+                                                                <span class="tag tag-small"><a
+                                href="https://www.nova.fr/tag/ailleurs-dans-le-monde/">ailleurs dans le monde</a></span>
+                                    </div>
+                <div class="row align-items-center">
+                    <div class="nb col-2">
+                        <span>2.</span>
+                    </div>
+                    <div class="col-10">
+                        <a href="https://www.nova.fr/news/celine-dion-grande-oubliee-du-classement-des-200-meilleurs-chanteurs-et-chanteuses-211122-05-01-2023/">
+                            <h2 class="t-side-small">Céline Dion, grande oubliée du classement des 200 meilleurs chanteurs et chanteuses</h2>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                                <div class="mostRead">
+                <div class="tags-container ml-auto col-10">
+                                                                <span class="tag tag-small"><a
+                                href="https://www.nova.fr/tag/influence/">influence</a></span>
+                                    </div>
+                <div class="row align-items-center">
+                    <div class="nb col-2">
+                        <span>3.</span>
+                    </div>
+                    <div class="col-10">
+                        <a href="https://www.nova.fr/news/arrestation-dandrew-tate-quand-linfluence-est-sexiste-et-masculiniste-210868-03-01-2023/">
+                            <h2 class="t-side-small">Arrestation d&#039;Andrew Tate, quand l&#039;influence est sexiste et masculiniste</h2>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                                <div class="mostRead">
+                <div class="tags-container ml-auto col-10">
+                                                                <span class="tag tag-small"><a
+                                href="https://www.nova.fr/tag/a-ce-qui-paret/">À ce qui Paret</a></span>
+                                    </div>
+                <div class="row align-items-center">
+                    <div class="nb col-2">
+                        <span>4.</span>
+                    </div>
+                    <div class="col-10">
+                        <a href="https://www.nova.fr/news/pourquoi-claude-francois-etait-si-mechant-alors-quil-chantait-si-bien-210786-02-01-2023/">
+                            <h2 class="t-side-small">Pourquoi Claude François était si méchant, alors qu’il chantait si bien ?</h2>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                                <div class="mostRead">
+                <div class="tags-container ml-auto col-10">
+                                                                <span class="tag tag-small"><a
+                                href="https://www.nova.fr/tag/la-chose/">La Chose</a></span>
+                                    </div>
+                <div class="row align-items-center">
+                    <div class="nb col-2">
+                        <span>5.</span>
+                    </div>
+                    <div class="col-10">
+                        <a href="https://www.nova.fr/news/pratiques-diverses-210777-02-01-2023/">
+                            <h2 class="t-side-small">Pratiques Diverses</h2>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            </div>
+                        </div>
+
+                        <div class="list-medium">
+    <div class="title-sequence minim black ">
+        <h3>Au rayon frais</h3>
+    </div>
+            <div class="post-medium">
+    <div class="row reverse-tagimg">
+        <div class="tags-container col-12">
+                            <span class="tag tag-medium"><a
+                        href="https://www.nova.fr/tag/ailleurs-dans-le-monde/">ailleurs dans le monde</a></span>
+                                </div>
+        <div class="post-medium__img col-12">
+            <a href="https://www.nova.fr/news/quels-sons-faisaient-les-dinosaures-211692-10-01-2023/">
+                                                            <img width="300" height="200" src="https://www.nova.fr/wp-content/uploads/sites/2/2023/01/pexels-btgl--3689634.jpeg?fit=300%2C200&amp;quality=75" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />
+                                                </a>
+        </div>
+
+    </div>
+    <div class="title_post">
+        <h3 class="t-side-medium"><a href="https://www.nova.fr/news/quels-sons-faisaient-les-dinosaures-211692-10-01-2023/">Quels sons faisaient les dinosaures ?</a></h3>
+    </div>
+    <div class="list-posts-medium__tagline">
+        <div class="rubrique">
+            <a href="https://www.nova.fr/tag/etats-unis-3/"><span>Etats-Unis</span></a> <a href="https://www.nova.fr/tag/un-nova-jour-se-leve/"><span>Un Nova jour se lève</span></a> 
+        </div>
+        <div class="bookmarks-icon">
+            <span class="icon-On"></span>
+        </div>
+    </div>
+    <a href="#" class="read-on">A lire sur
+        <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/nova.svg" alt="img large news"><span class="icon-read"></span></a>
+</div>
+            <div class="post-medium">
+    <div class="row reverse-tagimg">
+        <div class="tags-container col-12">
+                            <span class="tag tag-medium"><a
+                        href="https://www.nova.fr/tag/a-ce-qui-paret/">À ce qui Paret</a></span>
+                                </div>
+        <div class="post-medium__img col-12">
+            <a href="https://www.nova.fr/news/pourquoi-pisser-dans-un-violon-alors-quon-peut-souffler-dans-un-saxo-211685-10-01-2023/">
+                                                            <img width="300" height="300" src="https://www.nova.fr/wp-content/uploads/sites/2/2023/01/Capture-decran-2023-01-10-a-11.02.17.png?fit=300%2C300&amp;quality=75" class="attachment-medium size-medium" alt="Raphael Ravenscroft" decoding="async" loading="lazy" />
+                                                </a>
+        </div>
+
+    </div>
+    <div class="title_post">
+        <h3 class="t-side-medium"><a href="https://www.nova.fr/news/pourquoi-pisser-dans-un-violon-alors-quon-peut-souffler-dans-un-saxo-211685-10-01-2023/">Pourquoi pisser dans un violon, alors qu’on peut souffler dans un saxo ?</a></h3>
+    </div>
+    <div class="list-posts-medium__tagline">
+        <div class="rubrique">
+            <a href="https://www.nova.fr/tag/gerry-rafferty/"><span>Gerry Rafferty</span></a> <a href="https://www.nova.fr/tag/saxophone/"><span>saxophone</span></a> <a href="https://www.nova.fr/tag/thierry-paret/"><span>Thierry Paret</span></a> 
+        </div>
+        <div class="bookmarks-icon">
+            <span class="icon-On"></span>
+        </div>
+    </div>
+    <a href="#" class="read-on">A lire sur
+        <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/nova.svg" alt="img large news"><span class="icon-read"></span></a>
+</div>
+            <div class="post-medium">
+    <div class="row reverse-tagimg">
+        <div class="tags-container col-12">
+                            <span class="tag tag-medium"><a
+                        href="https://www.nova.fr/tag/nouvo-nova/">Nouvo nova</a></span>
+                                </div>
+        <div class="post-medium__img col-12">
+            <a href="https://www.nova.fr/news/ambiance-seventies-pour-les-trash-panda-211679-10-01-2023/">
+                                                            <img width="300" height="194" src="https://www.nova.fr/wp-content/uploads/sites/2/2023/01/Capture-decran-2023-01-10-a-11.23.25.png?fit=300%2C194&amp;quality=75" class="attachment-medium size-medium" alt="Trash Panda" decoding="async" loading="lazy" />
+                                                </a>
+        </div>
+
+    </div>
+    <div class="title_post">
+        <h3 class="t-side-medium"><a href="https://www.nova.fr/news/ambiance-seventies-pour-les-trash-panda-211679-10-01-2023/">Ambiance seventies pour les Trash Panda</a></h3>
+    </div>
+    <div class="list-posts-medium__tagline">
+        <div class="rubrique">
+            <a href="https://www.nova.fr/tag/trash-panda/"><span>Trash Panda</span></a> 
+        </div>
+        <div class="bookmarks-icon">
+            <span class="icon-On"></span>
+        </div>
+    </div>
+    <a href="#" class="read-on">A lire sur
+        <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/nova.svg" alt="img large news"><span class="icon-read"></span></a>
+</div>
+            <div class="post-medium">
+    <div class="row reverse-tagimg">
+        <div class="tags-container col-12">
+                            <span class="tag tag-medium"><a
+                        href="https://www.nova.fr/tag/un-nova-jour-se-leve/">Un Nova jour se lève</a></span>
+                                </div>
+        <div class="post-medium__img col-12">
+            <a href="https://www.nova.fr/news/chat-alors-211673-10-01-2023/">
+                                                            <img width="300" height="200" src="https://www.nova.fr/wp-content/uploads/sites/2/2023/01/pexels-pixabay-416160.jpg?fit=300%2C200&amp;quality=75" class="attachment-medium size-medium" alt="" decoding="async" loading="lazy" />
+                                                </a>
+        </div>
+
+    </div>
+    <div class="title_post">
+        <h3 class="t-side-medium"><a href="https://www.nova.fr/news/chat-alors-211673-10-01-2023/">Chat alors !</a></h3>
+    </div>
+    <div class="list-posts-medium__tagline">
+        <div class="rubrique">
+            
+        </div>
+        <div class="bookmarks-icon">
+            <span class="icon-On"></span>
+        </div>
+    </div>
+    <a href="#" class="read-on">A lire sur
+        <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/nova.svg" alt="img large news"><span class="icon-read"></span></a>
+</div>
+            <div class="post-medium">
+    <div class="row reverse-tagimg">
+        <div class="tags-container col-12">
+                            <span class="tag tag-medium"><a
+                        href=""></a></span>
+                                </div>
+        <div class="post-medium__img col-12">
+            <a href="https://www.nova.fr/news/les-bouquinistes-des-quais-parisiens-sont-ils-amenes-a-disparaitre-211667-10-01-2023/">
+                                                            <img width="275" height="275" data-src="https://www.nova.fr/wp-content/uploads/sites/2/2023/01/1673335534556.jpg?resize=275%2C275&amp;quality=75" class="small_cube wp-post-image" alt="" decoding="async" loading="lazy" />
+                                                </a>
+        </div>
+
+    </div>
+    <div class="title_post">
+        <h3 class="t-side-medium"><a href="https://www.nova.fr/news/les-bouquinistes-des-quais-parisiens-sont-ils-amenes-a-disparaitre-211667-10-01-2023/">Les bouquinistes des quais parisiens sont-ils amenés à disparaître ?</a></h3>
+    </div>
+    <div class="list-posts-medium__tagline">
+        <div class="rubrique">
+            
+        </div>
+        <div class="bookmarks-icon">
+            <span class="icon-On"></span>
+        </div>
+    </div>
+    <a href="#" class="read-on">A lire sur
+        <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/nova.svg" alt="img large news"><span class="icon-read"></span></a>
+</div>
+            <div class="post-medium">
+    <div class="row reverse-tagimg">
+        <div class="tags-container col-12">
+                            <span class="tag tag-medium"><a
+                        href="https://www.nova.fr/tag/art-blakey/">Art Blakey</a></span>
+                                </div>
+        <div class="post-medium__img col-12">
+            <a href="https://www.nova.fr/news/le-worldmix-des-classiques-et-des-reprises-de-thelonious-monk-211660-09-01-2023/">
+                                                            <img width="227" height="300" src="https://www.nova.fr/wp-content/uploads/sites/2/2023/01/Capture-decran-2023-01-06-a-15.58.36-1.png?fit=227%2C300&amp;quality=75" class="attachment-medium size-medium" alt="Thelonious Monk" decoding="async" loading="lazy" />
+                                                </a>
+        </div>
+
+    </div>
+    <div class="title_post">
+        <h3 class="t-side-medium"><a href="https://www.nova.fr/news/le-worldmix-des-classiques-et-des-reprises-de-thelonious-monk-211660-09-01-2023/">Le Worldmix : Des classiques et des reprises de Thelonious Monk</a></h3>
+    </div>
+    <div class="list-posts-medium__tagline">
+        <div class="rubrique">
+            <a href="https://www.nova.fr/tag/bintou-simpore/"><span>Bintou Simporé</span></a> <a href="https://www.nova.fr/tag/dr-john/"><span>Dr John</span></a> <a href="https://www.nova.fr/tag/neo-geo-nova/"><span>Néo Géo Nova</span></a> 
+        </div>
+        <div class="bookmarks-icon">
+            <span class="icon-On"></span>
+        </div>
+    </div>
+    <a href="#" class="read-on">A lire sur
+        <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/nova.svg" alt="img large news"><span class="icon-read"></span></a>
+</div>
+    </div>
+                        <div class="newsltter_sidebar">
+                            <div class="newsletter">
+    <a class="brand" href="https://www.nova.fr/">
+        <img class="logo black svg" src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/Logo-newsletter.svg" alt="logo lesInrocks"/>
+        <img class="logo white svg" src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/Logo-newsletterWhite.svg" alt="logo lesInrocks"/>
+    </a>
+    <p>Recevez les trésors de la rédac. Inscrivez-vous à la newsletter Nova Selecta</p>
+    <div class="form">
+                    <div class="optin-form" data-double-optin="0" data-list="15">
+        <div class="optin-form__wrapper">
+        <input type="email" placeholder="Votre email" class="optin-form__email"/>
+                <button type="button" class="optin-form__button">
+            Je m’abonne        </button>
+    </div>
+</div>
+                <button class="btn_newsletter"><span class="icon-Arrow-Right"></span></button>
+    </div>
+</div>
+                        </div>
+                        
+                                                                        
+                        <div class="magazine-list">
+                            <div class="last-num">
+            <div class="title-sequence minim black">
+                <h2>Le shop</h2>
+            </div>
+                            <a href="https://shop.nova.fr" target="_blank">
+                    <img loading="lazy"
+                        src="https://www.nova.fr/wp-content/uploads/sites/2/2021/01/test_shop.png?fit=322,600"
+                        alt="Le shop" class="lastnum_img">
+                </a>
+                <a href="https://shop.nova.fr" target="_blank"
+                    class="buy">Je le veux<span class="icon-Arrow-Right"></span></a>
+                    </div>
+                            </div>
+                                                    <section class="learn_more col-12">
+                                <div class="title-sequence black minim">
+                                    <h3>À lire aussi</h3>
+                                </div>
+                                <div class="outbrain_wrapper_sidebar" data-format=""
+    data-type="post" data-ob-installation-key-ios="FRRAD1FL86LCMACGA22F2DNMN"
+    data-ob-installation-key-android="FRRAD17GMDKC91OA64N5GAFKA">
+    <div class="OUTBRAIN" data-src="https://www.nova.fr/news/les-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022/" data-widget-id="SB_2" data-ob-installation-key="">
+    </div>
+</div>
+                            </section>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+                </main>
+                    </div>
+    </div>
+    <div id="popup_biblio" class="open_library">
+        <div class="popup-overlay"></div>
+<div class="popup-content">
+    <a href="javascript:void(0)" class="close-popup close-library"><span class="icon-close-icon"></span></a>
+    <div class="popup-container">
+        <div class="container">
+            <h2>Ma Selecta</h2>
+            <p class="intro d-none"><span class="js-time-reading"></span> d’écoute et de lecture</p>
+        </div>
+                    <div class="row justify-content-md-center">
+    <div class="notLogged_content col-10 mx-auto">
+        <p >Ce contenu est génial, je veux le mettre au chaud</p>
+        <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2F%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2F%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022" class="js-mobile-connect btn">Connectez-vous</a>
+        <p>Quoi ? Vous ne faites pas partie de la Nova Family ?</p>
+        <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2Fsubscription.php%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2Fsubscription.php%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022" class="js-mobile-register btn empty">Créez gratuitement votre compte</a>
+    </div>
+</div>
+            </div>
+</div>
+    </div>
+        <section class="stickyBar_menu d-lg-none d-block">
+    <div class="row full_height">
+        <div class="col-4 full_height">
+            <a href="https://www.nova.fr/" class="link-stickyMenu">
+                <span class="icon-Home"></span>
+                Accueil
+            </a>
+        </div>
+        <div class="col-4 full_height">
+            <a href="javascript:void(0)" class="link-stickyMenu search_toggle">
+                <span class="icon-Search"></span>
+                Recherche
+            </a>
+        </div>
+        <div class="col-4 full_height">
+            <a href="javascript:void(0)" class="link-stickyMenu library_toggle">
+                <span class="icon-Library"></span>
+                Bibliothèque
+            </a>
+        </div>
+    </div>
+</section>
+<div class="jsLimit-stickySocials"></div>
+    <section class="abo_footer">
+        <div class="container">
+            <section class="inscription_bloc ">
+    <div class="inrocks_blacksection ">
+        <div class="container content_live text-lg-left text-center abonnement_section">
+            <div class="row">
+                <div class="col-lg-12 mx-auto">
+                    <div class="row align-items-center">
+                        <div class="col-md-7 mr-auto">
+                                                            <div class="img_abo">
+                                                                        <img src="https://www.nova.fr/wp-content/uploads/sites/2/2020/11/logo.png?fit=523%2C120&amp;quality=75" alt="ÉCOUTEZ DU BON SON AVEC UN PUR SON">
+                                </div>
+                                                                                        <p class="min-title abo_title">ÉCOUTEZ DU BON SON AVEC UN PUR SON</p>
+                                                                                        <div class="text_abo">
+                                    <p>Profitez des radios en qualité supérieure AAC 256, des bons plans exclusifs, de la newsletter Nova Selecta&#8230; Et construisez votre bibliothèque personnalisée.</p>
+
+                                </div>
+                                                    </div>
+                                                    <div class="col-md-4 text-center">
+                                                                                                        <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2F%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2F%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022" class="js-mobile-register btn btn_yellow abo_btn">Inscrivez-vous</a>
+                                                                <p class="insc insc_abo">Déjà inscrit ?</p>
+                                <a target="_blank" rel='noopener' href="https://sso.qiota.com/api/v1/authorize?response_type=code&amp;client_id=5fb4ec2c1d2a4&amp;scope=*&amp;redirect_uri=https://www.nova.fr/connect-success&amp;error_uri=https%3A%2F%2Fconnect.nova.fr%2F%3Fredirect_uri%3Dhttps%3A%2F%2Fwww.nova.fr%2Fconnect-success%26error_uri%3Dhttps%3A%2F%2Fconnect.nova.fr%2F%26referer%3Dud1cpxDGyS%26uri_referer%3Dhttps%3A%2F%2Fwww.nova.fr%2Fnews%2Fles-femmes-sen-melent-meli-melo-poetique-et-politique-206942-23-11-2022" class="js-mobile-connect connect">Connectez-vous</a>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+        </div>
+    </section>
+<footer class="content-info">
+    <div class="container">
+        <div class="bottom-footer">
+            <div class="content-logo">
+                <a class="brand" href="https://www.nova.fr/"><img class="logo svg" src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/logo-large.svg" alt="logo lesInrocks"/></a>
+            </div>
+            <div class="socials">
+                <ul class="social-links">
+                                        <li><a target="_blank" rel="noopener" href="https://www.facebook.com/LeGrandMix"><span class="icon-Facebook"></span></a></li>                                        <li><a target="_blank" rel="noopener" href="https://twitter.com/laradionova"><span class="icon-Twitter"></span></a></li>                                        <li><a target="_blank" rel="noopener" href="https://www.instagram.com/laradionova/"><span class="icon-Instagram"></span></a></li>                                        <li><a target="_blank" rel="noopener" href="https://www.youtube.com/user/RADIONOVAChannel"><span class="icon-Youtube"></span></a></li>                                        <li><a target="_blank" rel="noopener" href="https://open.spotify.com/user/laradionova"><span class="icon-Spotify"></span></a></li>                        </ul>
+            </div>
+            <div class="menu-footer">
+                <div class="row">
+                    <div class="col-lg-5 alaune-bloc">
+                        <p class="footer_item_title">L'actu</p>
+                                                    <div class="menu-menu-a-la-une-container"><ul id="menu-menu-a-la-une-1" class="nav-footer"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151688"><a href="https://www.nova.fr/radios/">Les radios</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151713"><a href="https://www.nova.fr/c-etait-quoi-ce-titre/">C’était quoi ce titre</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-151692"><a href="#">Podcasts</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151834"><a href="https://www.nova.fr/podcasts/">Tous les podcasts</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151694"><a href="https://www.nova.fr/podcasts/a-ce-qui-paret/">À ce qui Paret</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206270"><a href="https://www.nova.fr/podcasts/la-traque/">La Traque</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151700"><a href="https://www.nova.fr/podcasts/la-potion/">La Potion</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151704"><a href="https://www.nova.fr/podcasts/nova-club/">Nova Club</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151707"><a href="https://www.nova.fr/podcasts/une-saison-en-france/">Une saison en France</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151696"><a href="https://www.nova.fr/podcasts/chambre-noire/">Chambre Noire</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206271"><a href="https://www.nova.fr/podcasts/la-danse-du-zebre/">La Danse du Zèbre</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206275"><a href="https://www.nova.fr/podcasts/des-vies-supremes-votre-histoire-de-ntm/">Des Vies Suprêmes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206276"><a href="https://www.nova.fr/podcasts/le-roman-noir-des-radios-libres/">Le Roman Noir des Radios Libres</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206278"><a href="https://www.nova.fr/podcasts/ave-cesaria/">Avé Cesária</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206280"><a href="https://www.nova.fr/podcasts/chercheurs-dor/">Chercheurs d’Or</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206281"><a href="https://www.nova.fr/podcasts/crasse-les-contes-du-grime/">Crasse, les contes du Grime</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206282"><a href="https://www.nova.fr/podcasts/la-lutte-des-cases/">La Lutte des Cases avec Les Editions Dargaud</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206283"><a href="https://www.nova.fr/podcasts/lord-funk-dealer-de-disques/">Lord Funk, dealer de disques avec la Philharmonie de Paris</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206287"><a href="https://www.nova.fr/tag/nova-y-va/">Nova Y Va</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206288"><a href="https://www.nova.fr/news/le-road-trip-de-radio-nova-en-irlande-best-of-192011-21-06-2022/">Irlande avec l’Office de Tourisme Irlandais</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151703"><a href="https://www.nova.fr/podcasts/neo-geo-nova/">Néo Géo Nova</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206289"><a href="https://www.nova.fr/news/radio-truche-les-patients-de-limm-prennent-la-parole-178610-22-03-2022/">Radio Truche avec l’Institut Mutualiste Montsouris</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151701"><a href="https://www.nova.fr/podcasts/le-heros-du-nova-jour-2/">Le Héros du Nova jour</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151702"><a href="https://www.nova.fr/podcasts/les-voyages-immobiles/">Les voyages immobiles</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151708"><a href="https://www.nova.fr/la-grille-nova/">Les grilles de Radio Nova</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-79688"><a href="https://www.nova.fr/category/news/">Actualité</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151846"><a href="https://shop.nova.fr">Le shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159164"><a href="https://www.nova.fr/les-frequences/">Les fréquences</a></li>
+</ul></div>
+                                            </div>
+                    <div class="col-lg-3 mr-auto col-6">
+                        <p class="footer_item_title">Populaires</p>
+                        <div class="row tags_row">
+                            
+                                                                                                                                    <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/un-nova-jour-se-leve/">Un Nova jour se lève</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/nouvo-nova/">Nouvo nova</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/nova-lyon/">Nova Lyon</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/nova-aime/">Nova Aime</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/gratos/">Gratos</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/sophie-marchand/">Sophie Marchand</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/nova-club/">Nova club</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/plus-pres-de-toi/">Plus Près De Toi</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/neo-geo-nova/">Néo Géo Nova</a>                                    </div>
+                                                                                                        <div class="col-lg-6">
+                                        <a href="https://www.nova.fr/tag/nova-classic/">Nova Classic</a>                                    </div>
+                                                                                    </div>
+                    </div>
+                    <div class="col-lg-3 col-6">
+                        <p class="footer_item_title">À propos</p>
+                                                    <div class="menu-menu-footer-container"><ul id="menu-menu-footer" class="nav-footer"><li id="menu-item-79200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79200"><a href="https://www.nova.fr/mentions-legales/">Mentions Légales</a></li>
+<li id="menu-item-79199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-79199"><a href="https://www.nova.fr/donnees-personnelles/">Politique de confidentialité x données personnelles</a></li>
+<li id="menu-item-79693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79693"><a href="/radios/">Les Radios</a></li>
+<li id="menu-item-111778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111778"><a href="https://www.nova.fr/ecoutez-du-bon-son-avec-un-pur-son/">Écoutez du bon son avec un pur son</a></li>
+<li id="menu-item-79203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79203"><a href="https://www.nova.fr/podcasts/">Podcasts</a></li>
+<li id="menu-item-602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-602"><a href="https://www.nova.fr/les-redacteurs/">Nova crew</a></li>
+<li id="menu-item-79702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79702"><a href="https://www.nova.fr/?page_id=79700">La grille de radio Nova la nuit</a></li>
+<li id="menu-item-79705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79705"><a href="https://www.nova.fr/?page_id=79703">La grille de Radio Nova Classics</a></li>
+<li id="menu-item-79710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79710"><a href="https://www.nova.fr/?page_id=79708">La grille de Nouvo Nova</a></li>
+<li id="menu-item-111715" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111715"><a href="https://shop.nova.fr/">Le shop</a></li>
+<li id="menu-item-111762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111762"><a href="https://www.nova.fr/contact/">Contact</a></li>
+<li id="menu-item-128178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-128178"><a href="https://www.nova.fr/">Accueil</a></li>
+</ul></div>
+                        
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+</footer>
+    <script id='sendify_frontend-js-extra'>
+var sendify = {"ajaxurl":"https:\/\/www.nova.fr\/wp-admin\/admin-ajax.php","js_strings":{"optin_success_validation":"Vos choix ont bien \u00e9t\u00e9 pris en compte. Merci","optin_contact_already_exist":"Encore ? Vous recevez d\u00e9j\u00e0 la meilleure newsletter du monde !","optin_email_invalid":"Veuillez saisir un email valide"},"timeout_msg_hide":"5000"};
+</script>
+<script type="text/javascript" src="https://www.nova.fr/_static/??-eJyNjEEKwjAQRS9kMqRgWxfiUYpN0joxmQzNDOLtFang0tXnw3sPHmx8JYkkUNRw1hWpQYrCV383ztkeJiQPs2IOwLcqlfaxBcmmdoCfxjfQIgVcnsA6Z/SwKQmW+Ce932nZPlx4a5dydv3QjcOpc8f0AjKlQvU=" ></script><script defer src='https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/scripts/ajax.js' id='sage/ajax.js-defer-js'></script>
+<script id='sage/main.js-defer-js-extra'>
+var ajax_object = {"ajax_url":"https:\/\/www.nova.fr\/wp-admin\/admin-ajax.php","rest_url":"https:\/\/www.nova.fr\/wp-json\/","ajax_nonce":"730d8e1db3","post_id":"206942"};
+var externalScripts = {"0":"https:\/\/unpkg.com\/@staytuned-io\/sdk@1.0.18\/dist\/staytuned-sdk.esm.js","qiota":"\/assets\/getQiota.js","gtm":"https:\/\/www.googletagmanager.com\/gtm.js?id=GTM-KCCP4SL"};
+var externalCSS = ["https:\/\/www.nova.fr\/wp-content\/themes\/lnei-wp-theme-child-nova\/dist\/styles\/fonts.css"];
+var staytunedConf = {"appId":"f5723ca3-2c1b-4dc0-86fa-933c9b575f62","authToken":"5196a192.29ffb0b9-4cf7-45f6-b4d4-e1983c47231d","defaultRadioLive":"e9eecc85-d1e9-41b1-acbd-128e4e59da5e"};
+var qiotaConf = {"qiota_token":"","qiota_callback":"https:\/\/www.nova.fr\/qiota_callback"};
+var radio_object = {"path":"https:\/\/www.nova.fr\/wp-content\/themes\/lnei-wp-theme-child-nova"};
+</script>
+<script defer src='https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/scripts/main.js' id='sage/main.js-defer-js'></script>
+	<script src='https://stats.wp.com/e-202302.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'185804748',post:'206942',tz:'1',srv:'www.nova.fr',hp:'vip',j:'1:11.6'} ]);
+		_stq.push([ 'clickTrackerInit', '185804748', '206942' ]);
+	</script>        <div id="player-podcastInfos" data-hd=""
+        data-podcastId="e9eecc85-d1e9-41b1-acbd-128e4e59da5e" class="d-none"></div>
+            <div id="player" class="player-cosavostra">
+            <div class="info-section-player">
+                <div id="player-image" class="image-player">
+                    <img src="https://www.nova.fr/wp-content/uploads/sites/2/2022/12/Radio-Nova-en-direct.png?resize=400%2C400&amp;quality=75" alt="player" />
+                </div>
+                <div class="player_rightInfos">
+                    <div class="infos_live">
+                        <span id="player-live" class="live">En direct</span>
+                        <div id="player-text-container" class="text-container">
+                            <span>
+                                <span id="player-title" class="title">Radio Nova</span>
+                                <span id="player-author" class="author"></span>
+                            </span>
+                        </div>
+                        <p id="player-time" class="mb-0"></p>
+                        <div id="player-timing" class="player-timing">
+                            <span id="timestart" class="timestart"></span>
+                            <span id="timeend" class="timeend"></span>
+                        </div>
+                    </div>
+                    <div id="player-bar" class="range-wrap">
+                        <input type="range" class="range" value="1" min="0" max="1">
+                    </div>
+                </div>
+            </div>
+            <div class="player-controls">
+                <div class="player-quality-wrapper">
+                    <p id="player-quality-hd" data-qlty="normal"
+                        class="player-quality mb-0 is_active">
+                        <a target="_blank"
+                            href="https://www.nova.fr/ecoutez-du-bon-son-avec-un-pur-son/">Normale</a>
+                    </p>
+                    <p id="player-quality-normal" data-qlty="hd"
+                        class="player-quality mb-0 ">
+                        <a target="_blank"
+                            href="https://www.nova.fr/ecoutez-du-bon-son-avec-un-pur-son/">Supérieure</a>
+                    </p>
+                </div>
+                <img id="player-play-btn" src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/play.svg" alt="player" />
+                <img id="player-pause-btn" src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/pause.svg" alt="player" />
+            </div>
+                            <div class="library-btn library_toggle">
+                    <img src="https://www.nova.fr/wp-content/themes/lnei-wp-theme-child-nova/dist/images/library.svg" alt="player" />
+                    <p>Bibliothèque</p>
+                </div>
+                    </div>
+        <div class="tooltip_bib">
+        <span>
+            Bibliothèque mise à jour !
+        </span>
+    </div>
+    </body>
+
+</html>

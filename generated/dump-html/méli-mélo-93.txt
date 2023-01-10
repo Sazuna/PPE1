@@ -1,0 +1,1223 @@
+<!doctype html>
+<html lang="fr-FR" class=" ip-37.65.167.133">
+
+<head>
+	<meta charset="UTF-8">
+<script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="fb:app_id" content="2059140931032865" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<link rel="alternate" href="https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/" hreflang="fr" />
+	<link data-minify="1" rel="stylesheet" href="https://www.unairdebordeaux.fr/wp-content/cache/min/1/unx2sxx.css?ver=1672745295">
+
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="application-name" content="Un air de Bordeaux">
+	<meta name="apple-mobile-web-app-title" content="Un air de Bordeaux">
+	<meta name="theme-color" content="#FFFFFF">
+	<meta name="msapplication-navbutton-color" content="#FFFFFF">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="msapplication-starturl" content="/">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Nos sorties avec les enfants à Bordeaux pour janvier</title>
+	<meta name="description" content="Pour le mois de janvier à Bordeaux, nous avons dix bonnes idées de sorties avec les enfants pour démarrer l&#039;année en beauté !" />
+	<link rel="canonical" href="https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nos sorties avec les enfants à Bordeaux pour janvier" />
+	<meta property="og:description" content="Pour le mois de janvier à Bordeaux, nous avons dix bonnes idées de sorties avec les enfants pour démarrer l&#039;année en beauté !" />
+	<meta property="og:url" content="https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/" />
+	<meta property="og:site_name" content="Un air de Bordeaux" />
+	<meta property="article:publisher" content="https://www.facebook.com/unairdebordeaux" />
+	<meta property="article:modified_time" content="2022-12-27T17:00:06+00:00" />
+	<meta property="og:image" content="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-cottonbro-studio-OK.jpg" />
+	<meta property="og:image:width" content="1000" />
+	<meta property="og:image:height" content="1007" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/","url":"https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/","name":"Nos sorties avec les enfants à Bordeaux pour janvier","isPartOf":{"@id":"https://www.unairdebordeaux.fr/#website"},"primaryImageOfPage":{"@id":"https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/#primaryimage"},"image":{"@id":"https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/#primaryimage"},"thumbnailUrl":"https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-cottonbro-studio-OK.jpg","datePublished":"2022-12-27T13:38:53+00:00","dateModified":"2022-12-27T17:00:06+00:00","description":"Pour le mois de janvier à Bordeaux, nous avons dix bonnes idées de sorties avec les enfants pour démarrer l'année en beauté !","breadcrumb":{"@id":"https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/#primaryimage","url":"https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-cottonbro-studio-OK.jpg","contentUrl":"https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-cottonbro-studio-OK.jpg","width":1000,"height":1007,"caption":"© pexels cottonbro studio"},{"@type":"BreadcrumbList","@id":"https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.unairdebordeaux.fr/"},{"@type":"ListItem","position":2,"name":"Articles","item":"https://www.unairdebordeaux.fr/article/"},{"@type":"ListItem","position":3,"name":"KIDS NEWS &#8211; Les sorties pour les enfants à Bordeaux en janvier"}]},{"@type":"WebSite","@id":"https://www.unairdebordeaux.fr/#website","url":"https://www.unairdebordeaux.fr/","name":"Un air de Bordeaux","description":"Loisirs, Nature, Culture sur Bordeaux Métropole","publisher":{"@id":"https://www.unairdebordeaux.fr/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.unairdebordeaux.fr/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://www.unairdebordeaux.fr/#organization","name":"Un air de Bordeaux","url":"https://www.unairdebordeaux.fr/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.unairdebordeaux.fr/#/schema/logo/image/","url":"https://www.unairdebordeaux.fr/wp-content/uploads/2021/10/logo-un-air-de-bordeaux-green-rounded.png","contentUrl":"https://www.unairdebordeaux.fr/wp-content/uploads/2021/10/logo-un-air-de-bordeaux-green-rounded.png","width":567,"height":567,"caption":"Un air de Bordeaux"},"image":{"@id":"https://www.unairdebordeaux.fr/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/unairdebordeaux"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="amphtml" href="https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/amp/" /><meta name="generator" content="AMP for WP 1.0.77.55.1"/><link rel='dns-prefetch' href='//widget.sndcdn.com' />
+<link rel='dns-prefetch' href='//w.soundcloud.com' />
+<link rel='dns-prefetch' href='//api-widget.soundcloud.com' />
+<link rel='dns-prefetch' href='//i1.sndcdn.com' />
+<link rel='dns-prefetch' href='//cibul.s3.amazonaws.com' />
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel="alternate" type="application/rss+xml" title="Un air de Bordeaux &raquo; Flux" href="https://www.unairdebordeaux.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Un air de Bordeaux &raquo; Flux des commentaires" href="https://www.unairdebordeaux.fr/comments/feed/" />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+			
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.unairdebordeaux.fr/wp-includes/css/dist/block-library/style.min.css?ver=c74688fe16ad4083f735912c20fad7ca' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.unairdebordeaux.fr/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel='stylesheet' id='leaflet-css-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/map-poi/lib/leaflet/leaflet.css?ver=1672745297' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='leaflet-routing-css-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/map-poi/lib/leaflet/leaflet-routing-machine.css?ver=1672745297' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tarteaucitron-css-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/mc-tarteaucitron/css/style.css?ver=1672745295' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-prettyphoto-css' href='https://www.unairdebordeaux.fr/wp-content/plugins/responsive-lightbox/assets/prettyphoto/prettyPhoto.min.css?ver=2.4.3' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='wp-polls-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/wp-polls/polls-css.css?ver=1672745295' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background: #000;
+	border: 1px solid #000;
+}
+
+</style>
+<link data-minify="1" rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=1672745295' type='text/css' media='all' />
+<link rel='stylesheet' id='wbounce-style-all-css' href='https://www.unairdebordeaux.fr/wp-content/plugins/wbounce/frontend/css/min/wbounce-all.min.css?ver=c74688fe16ad4083f735912c20fad7ca' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-default-style-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/css/default.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-style-mobile-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/css/mobile.css?ver=1672745295' type='text/css' media='all' />
+<link rel='stylesheet' id='otbdx-style-banner-rotator-css' href='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/css/banner-rotator.min.css?ver=c74688fe16ad4083f735912c20fad7ca' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-style-slick-slider-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/css/slick.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-style-slick-slider-theme-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/css/slick-theme.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-style-smoothDivScroll-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/css/smoothDivScroll.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-style-smoothTouchScroll-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/css/smoothTouchScroll.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-style-addtohomescreenios-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/css/addtohomescreen.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-custom-style-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/sass-uadb/style.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-custom-td-style-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/sass-uadb/td/style-td.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-custom-rt-style-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/sass-uadb/rt/style.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='otbdx-custom-kll-style-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/sass-uadb/kll/style-kll.css?ver=1672745295' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='wp-paginate-css' href='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/wp-paginate/css/wp-paginate.css?ver=1672745295' type='text/css' media='screen' />
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' defer></script>
+<script type='text/javascript' id='infinite-scroll-js-extra'>
+/* <![CDATA[ */
+var jsVarsInfinite = {"ajaxUrl":"https:\/\/www.unairdebordeaux.fr\/wp-admin\/admin-ajax.php","totalPosts":"0","queryWhat":null,"catID":null};
+/* ]]> */
+</script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/custom-infinite-scroll/js/infinite-scroll.js?ver=1672745295' id='infinite-scroll-js' defer></script>
+<script type='text/javascript' id='custom-service-worker-js-extra'>
+/* <![CDATA[ */
+var jsVarsCSW = {"ajaxUrl":"https:\/\/www.unairdebordeaux.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/custom-service-worker/js/custom-service-worker.js?ver=1672745295' id='custom-service-worker-js' defer></script>
+<script type='text/javascript' id='share-posts-js-extra'>
+/* <![CDATA[ */
+var jsVars = {"ajaxUrl":"https:\/\/www.unairdebordeaux.fr\/wp-admin\/admin-ajax.php","postID":"93460"};
+/* ]]> */
+</script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/custom-share-posts/js/share-posts.js?ver=1672745295' id='share-posts-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/map-poi/lib/leaflet/leaflet.js?ver=1672745297' id='leaflet-js-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/map-poi/lib/leaflet/leaflet-routing-machine.js?ver=1672745297' id='leaflet-routing-js-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/mc-tarteaucitron/js/lib/tarteaucitron/tarteaucitron.js?ver=1672745295' id='tarteaucitron-lib-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/plugins/responsive-lightbox/assets/prettyphoto/jquery.prettyPhoto.min.js?ver=2.4.3' id='responsive-lightbox-prettyphoto-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=c74688fe16ad4083f735912c20fad7ca' id='responsive-lightbox-infinite-scroll-js' defer></script>
+<script type='text/javascript' id='responsive-lightbox-js-extra'>
+/* <![CDATA[ */
+var rlArgs = {"script":"prettyphoto","selector":"lightbox","customEvents":"","activeGalleries":"1","animationSpeed":"normal","slideshow":"0","slideshowDelay":"5000","slideshowAutoplay":"0","opacity":"0.75","showTitle":"1","allowResize":"1","allowExpand":"1","width":"1080","height":"720","separator":"\/","theme":"pp_default","horizontalPadding":"20","hideFlash":"0","wmode":"opaque","videoAutoplay":"0","modal":"0","deeplinking":"0","overlayGallery":"1","keyboardShortcuts":"1","social":"0","woocommerce_gallery":"0","ajaxurl":"https:\/\/www.unairdebordeaux.fr\/wp-admin\/admin-ajax.php","nonce":"7739d6a430","preview":"false","postId":"93460","scriptExtension":""};
+/* ]]> */
+</script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/responsive-lightbox/js/front.js?ver=1672745295' id='responsive-lightbox-js' defer></script>
+<script type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/www.unairdebordeaux.fr\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/www.unairdebordeaux.fr\/wp-json\/wordpress-popular-posts","ID":93460,"token":"c94e67698e","lang":0,"debug":0}
+</script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.5.1' id='wpp-js-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/plugins/wbounce/frontend/js/min/wbounce.min.js?ver=1.8.1' id='wbounce-function-js' defer></script>
+<link rel="https://api.w.org/" href="https://www.unairdebordeaux.fr/wp-json/" /><link rel="alternate" type="application/json" href="https://www.unairdebordeaux.fr/wp-json/wp/v2/article-otbdx/93460" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.unairdebordeaux.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.unairdebordeaux.fr/wp-includes/wlwmanifest.xml" />
+<link rel='shortlink' href='https://www.unairdebordeaux.fr/?p=93460' />
+<link rel="alternate" type="application/json+oembed" href="https://www.unairdebordeaux.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unairdebordeaux.fr%2Farticle%2Fsorties-janvier-bordeaux-enfants%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.unairdebordeaux.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unairdebordeaux.fr%2Farticle%2Fsorties-janvier-bordeaux-enfants%2F&#038;format=xml" />
+			<meta property="fb:pages" content="315169631943831" />
+			<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.unairdebordeaux.fr/?wordfence_lh=1&hid=41F0F5E2EA02402C620A8C5FAE991417');
+</script><!-- Markup (JSON-LD) structured in schema.org ver.4.2.2 START -->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/"
+    },
+    "headline": "KIDS NEWS - Les sorties pour les enfants à Bordeaux en janvier",
+    "datePublished": "2022-12-27T14:38:53+0100",
+    "dateModified": "2022-12-27T18:00:06+0100",
+    "author": {
+        "@type": "Person",
+        "name": "Marie Blanchard"
+    },
+    "description": "Bonne année à tous les enfants ! Pour démarrer 2023 en fanfare, vous allez pouvoir arpenter les 4 coins de Bor",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-cottonbro-studio-OK.jpg",
+        "width": 1000,
+        "height": 1007
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Un Air de Bordeaux",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/logo.png",
+            "width": 253,
+            "height": 250
+        }
+    }
+}
+</script>
+<!-- Markup (JSON-LD) structured in schema.org END -->
+            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            <style type="text/css">.wbounce-modal .wbounce-modal-sub{
+background: #fff url("/wp-content/themes/otbdx/images/bg-wp-bounce.jpg") no-repeat;
+background-size: 39%;
+background-position: 10px 20px;
+overflow: hidden !important;
+}
+
+.modal-title{
+font-family: "oswalddemibold";
+background-color: #f83e41 !important;
+font-size: 180% !important;
+}
+
+.modal-body h4{
+font-family: "kg_always_a_good_timeregular";
+font-size: 150%;
+margin: 10px 0;
+}
+
+.modal-body{
+font-family: "ralewayregular";
+min-height: 260px;
+}
+
+.modal-body p{
+text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+text-align: right;
+}
+
+.modal-body input[type=submit]{
+background-color: #75e59c !important;
+font-family: "oswaldregular";
+color: #000 !important;
+font-size: 120% !important;
+}
+
+.modal-footer{
+display: none;
+font-family: "ralewayregular";
+}
+
+.wbounce-modal form{
+text-align: left;
+padding-left: 40%;
+}
+
+.wbounce-modal form input[type="text"]{
+font-size: 15px;
+color: #999;
+width: 55%;
+margin-bottom: 10px;
+}
+
+.wbounce-modal form input[type="email"]{
+width: 80%;
+}
+
+#mce-responses{
+padding-top: 5px;
+color: #344a5f;
+text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+#mce-responses a{
+color: #75e59c;
+}
+
+@media screen and (max-width: 480px) {
+#iframe-sendinblue{
+position: static !important;
+width: 100% !important;
+}
+
+.wbounce-modal form{
+text-align: center;
+padding-left: 0;
+}
+
+.modal-body p{
+text-align: center;
+}
+
+.wbounce-modal form input[type="email"], .wbounce-modal form input[type="text"]{
+width: 90%;
+}
+
+.wbounce-modal form input[type="email"]{
+margin-bottom: 10px;
+}
+
+.wbounce-modal .wbounce-modal-sub{
+background: #fff;
+}
+}</style>      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: "/" };
+        OneSignal.setDefaultNotificationUrl("https://www.unairdebordeaux.fr");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '6e6c32a6-ae9f-4312-bfcb-ef5f18b4d70e';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Un air de Bordeaux";
+oneSignal_options['welcomeNotification']['message'] = "Merci pour votre inscription";
+oneSignal_options['welcomeNotification']['url'] = "https://www.unairdebordeaux.fr";
+oneSignal_options['path'] = "https://www.unairdebordeaux.fr/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.650c091f-37ea-4fe0-8793-2961481353d2";
+oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Nous aimerions vous envoyer des notifications lorsque de nouveaux articles sont publiés.";
+oneSignal_options['promptOptions']['acceptButtonText'] = "ACCEPTER";
+oneSignal_options['promptOptions']['cancelButtonText'] = "NON MERCI";
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="icon" href="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/cropped-logo-un-air-de-bordeaux-voyager-ici-green-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/cropped-logo-un-air-de-bordeaux-voyager-ici-green-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/cropped-logo-un-air-de-bordeaux-voyager-ici-green-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/cropped-logo-un-air-de-bordeaux-voyager-ici-green-1-270x270.png" />
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+	<link rel="manifest" href="/manifest.json">
+
+	<!-- Matomo -->
+	<script>
+		var _paq = window._paq = window._paq || [];
+		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		(function() {
+			var u = "//matomo.bordeaux-tourisme.com/";
+			_paq.push(['setTrackerUrl', u + 'matomo.php']);
+			_paq.push(['setSiteId', '15']);
+			var d = document,
+				g = d.createElement('script'),
+				s = d.getElementsByTagName('script')[0];
+			g.async = true;
+			g.src = u + 'matomo.js';
+			s.parentNode.insertBefore(g, s);
+		})();
+	</script>
+	<!-- End Matomo Code -->
+</head>
+
+<body class="article-otbdx-template-default single single-article-otbdx postid-93460">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PT9Q98F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<div id="online-offline">
+		<div></div>
+	</div>
+
+	<div id="page" class="site">
+
+		<div class="search-bloc-header">
+			<form method="get" id="searchform" action="https://www.unairdebordeaux.fr/">
+	<input type="text" class="field" name="s" id="s" placeholder="Nouvelle recherche" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="GO" />
+</form>			<div id="close-searchbar">
+				<span class="icon-croix"></span>
+				<span class="fermer-title">Fermer</span>
+			</div>
+		</div>
+
+		<!-- <div id="geoloc-bar"> 
+		<a class="accept-geoloc" href="#">Autour de moi</a>
+		<div class="spinner-geoloc"></div>
+		<span>pour avoir les idées de sortie les plus proches</span>
+		<span class="close-geoloc icon-croix"></span>
+	</div> -->
+
+				<!-- <div class="baseline-top-resp">
+		<span>Le webzine local de Bordeaux Tourisme</span>
+	</div> -->
+		
+		
+			<div class="widget-wrapper">
+				<section class="widget widget_wpb_widget_title widget-linkheader">
+					<span class="widget-title">Organiser & réserver une escapade<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/fleche-bas.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/fleche-bas.svg" alt=""></noscript></span>
+				</section>
+										<section class="widget widget_wpb_widget widget-linkheader">
+							<a href="https://www.unairdebordeaux.fr/weekend" class="externlink-title" >
+								<div class="left-side">
+									<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/picto-programme-weekend.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/picto-programme-weekend.svg"></noscript>
+								</div>
+								<div class="right-side">
+									<span class="externlink-title">Programme du week-end</span>
+								</div>
+							</a>
+						</section>
+										<section class="widget widget_wpb_widget widget-linkheader">
+							<a href="https://www.unairdebordeaux.fr/micro-aventure-rando-velo/" class="externlink-title" >
+								<div class="left-side">
+									<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/picto-randonnee.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/picto-randonnee.svg"></noscript>
+								</div>
+								<div class="right-side">
+									<span class="externlink-title">Micro-aventures, rando & vélo</span>
+								</div>
+							</a>
+						</section>
+										<section class="widget widget_wpb_widget widget-linkheader">
+							<a href="https://www.visiter-bordeaux.com/fr/escapades-locales" class="externlink-title" target="_blank">
+								<div class="left-side">
+									<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/picto-visites-excursions.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/uploads/2021/08/picto-visites-excursions.svg"></noscript>
+								</div>
+								<div class="right-side">
+									<span class="externlink-title">Visites guidées et excursions</span>
+								</div>
+							</a>
+						</section>
+				
+			</div>
+				<header id="masthead" class="site-header">
+
+			<div id="normal-header">
+				<div id="logo-header">
+					<a href="https://www.unairdebordeaux.fr/">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Un air de Bordeaux" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/logo-un-air-de-bordeaux-green.svg" /><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/logo-un-air-de-bordeaux-green.svg" alt="Un air de Bordeaux" /></noscript>
+											</a>
+				</div>
+
+				<nav id="site-navigation" class="main-navigation">
+					<div class="menu-menu-principal-container"><ul id="primary-menu" class="menu"><li id="menu-item-27" class="weekend menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="https://www.unairdebordeaux.fr/weekend/">Ce week-end</a></li>
+<li id="menu-item-30" class="nature menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="https://www.unairdebordeaux.fr/nature-aventure/">Nature &amp; aventure</a></li>
+<li id="menu-item-28" class="culture menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="https://www.unairdebordeaux.fr/culture-patrimoine/">Culture &amp; patrimoine</a></li>
+<li id="menu-item-26" class="vivre menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="https://www.unairdebordeaux.fr/vivre-ici/">Vivre ici</a></li>
+<li id="menu-item-29" class="famille menu-item menu-item-type-taxonomy menu-item-object-category current-article-otbdx-ancestor current-menu-parent current-article-otbdx-parent menu-item-29 current-menu-item"><a href="https://www.unairdebordeaux.fr/en-famille/">En famille</a></li>
+<li id="menu-item-29723" class="adresses menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29723"><a href="https://www.unairdebordeaux.fr/bonnes-adresses/">Bonnes-adresses</a></li>
+</ul></div>					<a class="agenda-menu" href="https://www.unairdebordeaux.fr/agenda/"><span>Agenda</span></a>
+					<div class="search-menu">
+						<span class="icon-loupe"></span>
+					</div>
+				</nav><!-- #site-navigation -->
+
+				<!-- <a id="soundcloud-link-header" class="mega-link" href="#">
+				<div id="playlist-header">
+					
+					<span class="rounded-border">
+						<span class="icon-note-2croche"></span>
+					</span>
+
+					<div class="txt-playlist">
+						<span class="txt-line1">Écouter</span>
+						<span class="txt-line2">Nos playlists</span>
+					</div>
+
+					<span class="icon-chevron"></span>
+					
+				</div>
+			</a>#soundcloud-link-header -->
+			</div><!-- #normal-header -->
+
+			<div id="soundcloud-header">
+			</div><!-- #soundcloud-header -->
+
+			<div id="menu-sidebar">
+				<div id="logo-menu-sidebar">
+					<a href="https://www.unairdebordeaux.fr/">
+						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Un air de Bordeaux" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/logo-un-air-de-bordeaux-black.svg" /><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/logo-un-air-de-bordeaux-black.svg" alt="Un air de Bordeaux" /></noscript>
+					</a>
+				</div>
+
+				<nav id="site-navigation-sidebar" class="main-navigation-sidebar">
+					<div class="menu-menu-principal-container"><ul id="primary-menu" class="menu"><li class="weekend menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="https://www.unairdebordeaux.fr/weekend/">Ce week-end</a></li>
+<li class="nature menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30"><a href="https://www.unairdebordeaux.fr/nature-aventure/">Nature &amp; aventure</a></li>
+<li class="culture menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="https://www.unairdebordeaux.fr/culture-patrimoine/">Culture &amp; patrimoine</a></li>
+<li class="vivre menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="https://www.unairdebordeaux.fr/vivre-ici/">Vivre ici</a></li>
+<li class="famille menu-item menu-item-type-taxonomy menu-item-object-category current-article-otbdx-ancestor current-menu-parent current-article-otbdx-parent menu-item-29 current-menu-item"><a href="https://www.unairdebordeaux.fr/en-famille/">En famille</a></li>
+<li class="adresses menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29723"><a href="https://www.unairdebordeaux.fr/bonnes-adresses/">Bonnes-adresses</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+
+				<div class="child-nav">
+					<a class="agenda-menu btn-empty" href="https://www.unairdebordeaux.fr/micro-aventure-rando-velo/"><span>Micro-aventures, rando & vélo</span></a>
+					<a class="agenda-menu btn-empty" href="https://www.visiter-bordeaux.com/fr/escapades-locales" target="_blank" rel="noopener"><span>Visites guidées et excursions</span></a>
+					<a class="agenda-menu btn-empty" href="https://www.unairdebordeaux.fr/agenda/"><span>Agenda</span></a>
+				</div>
+
+				<section class="wrapper_rs">
+					<span class="rs-title">
+						Et pour ne rien rater,</br> suivez-nous sur les réseaux sociaux
+					</span>
+					<ul class="listing-rs">
+						<li><a href="https://www.instagram.com/visitbordeaux/" target="_blank">
+								<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Instagram" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-instagram.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-instagram.svg" alt="Instagram"></noscript>
+							</a></li>
+						<li><a href="https://www.facebook.com/unairdebordeaux/?ref=br_rs" target="_blank">
+								<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Facebook" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-facebook.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-facebook.svg" alt="Facebook"></noscript>
+							</a></li>
+						<li><a href="https://www.youtube.com/c/BordeauxTourisme" target="_blank">
+								<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Youtube" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-youtube.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-youtube.svg" alt="Youtube"></noscript>
+							</a></li>
+						<li><a href="https://twitter.com/BordeauxTourism/" target="_blank">
+								<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Twitter" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-twitter-footer.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-twitter-footer.svg" alt="Twitter"></noscript>
+							</a></li>
+						<li><a href="https://soundcloud.com/user-536352311" target="_blank">
+								<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Soundcloud" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-soundcloud.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-soundcloud.svg" alt="Soundcloud"></noscript>
+							</a></li>
+					</ul>
+				</section>
+
+				<div id="close-menu-sidebar">
+					<span class="icon-croix"></span>
+					<span class="fermer-title">Fermer</span>
+				</div>
+			</div><!-- #menu-sidebar -->
+
+			<div id="responsive-header">
+				<div id="responsive-header-brand">
+					<div class="menu-hamb">
+						<span class="icon-menu-hamb"></span>
+						<span class="hamb-text">Menu</span>
+					</div>
+
+										<div id="logo-responsive-page">
+						<a href="https://www.unairdebordeaux.fr/">
+															<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Un air de Bordeaux" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/logo-un-air-de-bordeaux-green.svg" /><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/logo-un-air-de-bordeaux-green.svg" alt="Un air de Bordeaux" /></noscript>
+													</a>
+					</div>
+
+					<div class="search-menu">
+						<span class="icon-loupe"></span>
+						<span class="loupe-text">Recherche</span>
+						<div class="search-bloc">
+							<form method="get" id="searchform" action="https://www.unairdebordeaux.fr/">
+	<input type="text" class="field" name="s" id="s" placeholder="Nouvelle recherche" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="GO" />
+</form>							<div id="close-searchbar">
+								<span class="icon-croix"></span>
+								<span class="fermer-title">Fermer</span>
+							</div>
+						</div>
+					</div>
+
+				</div><!-- #responsive-header-brand -->
+
+									<div id="menu-sticky-static">
+						<div id="container-sticky">
+							<div class="menu-hamb">
+								<span class="icon-menu-hamb"></span>
+							</div>
+
+							<div id="logo-sticky">
+								<a href="https://www.unairdebordeaux.fr/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Un air de Bordeaux" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/logo-sticky.svg" /><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/logo-sticky.svg" alt="Un air de Bordeaux" /></noscript></a>
+							</div>
+
+							<div id="head-rs-sticky" class="rs">
+								<ul>
+									<li class="sticky-playlist-btn">
+										<span class="rounded-border">
+											<span class="icon-note-2croche"></span>
+										</span>
+									</li>
+									<li><a href="https://www.facebook.com/unairdebordeaux/?ref=br_rs" target="_blank"><span class="icon-fb"></span></a></li>
+									<li><a href="https://twitter.com/BordeauxTourism" target="_blank"><span class="icon-tw"></span></a></li>
+									<li><a href="https://www.instagram.com/visitbordeaux/" target="_blank"><span class="icon-insta"></span></a></li>
+									<li><a href="https://soundcloud.com/user-536352311" target="_blank"><span class="icon-soundcloud"></span></a></li>
+									<li class="search-li"><span class="icon-loupe"></span></li>
+								</ul>
+
+								<div class="search-bloc">
+									<div class="bloc-close"><span class="icon-close"></span></div>
+									<form method="get" id="searchform" action="https://www.unairdebordeaux.fr/">
+	<input type="text" class="field" name="s" id="s" placeholder="Nouvelle recherche" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="GO" />
+</form>								</div>
+							</div>
+						</div>
+					</div><!-- #menu-sticky -->
+
+					<div id="baseline-scroll" class="baseline-top-resp">
+						<span>Le webzine local de Bordeaux Tourisme</span>
+					</div>
+				
+		</header><!-- #masthead -->
+		<div id="content" class="site-content">
+			<div class="description" style="display:none;">
+				<p>unairdebordeaux.fr - Explorez les paysages de la métropole bordelaise & profitez de son dynamisme culturel. Activités, loisirs, balades, lieux atypiques et bons plans… Faites le plein d’idées !</p>
+			</div>
+<div id="primary" class="content-area">
+	<main id="main" class="site-main">
+
+		
+			<article class="cat-en-famille">
+				<section class="header_post">
+					<div class="left-side">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="KIDS NEWS &#8211; Les sorties pour les enfants à Bordeaux en janvier" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-vlada-karpovich-7099948.jpg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-vlada-karpovich-7099948.jpg" alt="KIDS NEWS &#8211; Les sorties pour les enfants à Bordeaux en janvier"></noscript>
+						
+						
+													<div class="img-desc">
+								<span>
+									©Vlada Karpovich pexels								</span>
+							</div>
+						
+					</div>
+					<div class="right-side">
+						<div class="breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+							<!-- Breadcrumb NavXT 7.1.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Un air de Bordeaux" href="https://www.unairdebordeaux.fr" class="home"><span property="name">Accueil</span></a><meta property="position" content="1"></span><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="En famille" href="https://www.unairdebordeaux.fr/en-famille/?post_type=article-otbdx" class="taxonomy category"><span property="name">En famille</span></a><meta property="position" content="2"></span><span property="itemListElement" typeof="ListItem"><span property="name">KIDS NEWS &#8211; Les sorties pour les enfants à Bordeaux en janvier</span><meta property="position" content="3"></span>						</div>
+						<span class="btn-empty"><span class="time">
+		<span class='span-reading-time'> 5 </span>
+		 min de lecture</span></span>
+						<h1 class="post-title">KIDS NEWS &#8211; Les sorties pour les enfants à Bordeaux en janvier</h1>
+						<div class="post-desc">
+							<p>Bonne année à tous les enfants ! Pour démarrer 2023 en fanfare, vous allez pouvoir arpenter les 4 coins de Bordeaux et sa métropole grâce à plein d’animations et sorties pour vous ! Entre deux crêpes et une galette des rois, de nombreux festivals vont vous embarquer dans des univers variés comme celui de la danse avec « Pouces ». Vous vous prendrez pour des dieux et des déesses au musée des Beaux-Arts. Et vous pourrez même démarrer votre nuit du 27 janvier au conservatoire en vous perdant dans ses couloirs envahis de musique et d&rsquo;acrobates lors de la nuit des conservatoires. Si l&rsquo;année 2023 est à l&rsquo;image de son mois de janvier, elle s&rsquo;annonce passionnante !&#8230;</p>
+						</div>
+						<div class="post-autor">
+															<div class="post-autor-img">
+									<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="attachment-square-mini" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2023/01/MB-ND-wpcf_92x92.jpg" /><noscript><img src="https://www.unairdebordeaux.fr/wp-content/uploads/2023/01/MB-ND-wpcf_92x92.jpg" class="attachment-square-mini" /></noscript>								</div>
+								<p>par Marie Blanchard</p>
+							
+							<p>publié le 27 décembre 2022</p>
+													</div>
+					</div>
+				</section>
+
+
+				<section class="content_post">
+					
+										
+					<!-- BE1 : vidéo et texte -->
+											<section class="be1">
+																<div class="be1-line odd ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>« La vie devant nous », spectacle sur l’enfance pour les enfants à Cenon  </strong></h2>
+<p>Voilà un spectacle qui va te permettre de démarrer l’année dans <strong>la joie et la bonne humeur</strong> ! Ce spectacle musical interprété par deux comédiennes de la compagnie <strong>Betty Blues</strong>, nous rappelle que nous avons tous été des enfants. Et oui ! Même tes grands-parents, tes parents et ton/ta maître.esse d’école ! Alors emmène-les à ce spectacle qui leur plaira autant qu’à toi. Il garantit, paraît-il « <strong>un bonheur brut intérieur</strong> » !<br />
+<strong>RDV le 14 janvier à 15h à l'espace Simone Signoret à Cenon.</strong></p>
+<p><a href="https://www.cenon.fr/a-la-une/agenda/la-vie-devant-nous" target="_blank" rel="noopener"><b>Infos pratiques</b></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="573" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20573%20428'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="la vie devant nous spectacle Cenon enfants janvier" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/la-vie-devant-nous-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/la-vie-devant-nous-140x105.jpg 140w" data-lazy-sizes="(max-width: 573px) 100vw, 573px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/la-vie-devant-nous-573x428.jpg" /><noscript><img width="573" height="428" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/la-vie-devant-nous-573x428.jpg" class="attachment-be1-img size-be1-img" alt="la vie devant nous spectacle Cenon enfants janvier" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/la-vie-devant-nous-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/la-vie-devant-nous-140x105.jpg 140w" sizes="(max-width: 573px) 100vw, 573px" /></noscript>																											<span class="caption-legend">©Betty Blues</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line even ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>« Les maîtres de l’illusion » au Pin Galant</strong></h2>
+<p>Six magiciens prestigieux et mondialement reconnus seront sur scène pour t’en mettre plein les yeux ! Certains numéros vont te paraître incroyables comme <strong>les illusions du hollandais Alfredo Lorenzo</strong> ou <strong>les tours au laser du français Aegon</strong> ! Quant à la japonaise <strong>Hannah</strong>, elle va te faire rêver avec ses <strong>prestations de danse, magie et jonglage. </strong>Voilà le cocktail parfait pour démarrer 2023 la tête dans les étoiles !<br />
+<strong>RDV le 14 janvier à 20h30 au Pin Galant.</strong></p>
+<p><a href="https://www.lepingalant.com/website/toute_la_saison_&amp;901&amp;1&amp;-1&amp;4.html" target="_blank" rel="noopener"><b>Infos pratiques</b></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="573" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20573%20428'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="spectacle magie pin galant enfants janvier" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/6291_lmdi_eric_hochard-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/6291_lmdi_eric_hochard-140x105.jpg 140w" data-lazy-sizes="(max-width: 573px) 100vw, 573px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/6291_lmdi_eric_hochard-573x428.jpg" /><noscript><img width="573" height="428" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/6291_lmdi_eric_hochard-573x428.jpg" class="attachment-be1-img size-be1-img" alt="spectacle magie pin galant enfants janvier" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/6291_lmdi_eric_hochard-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/6291_lmdi_eric_hochard-140x105.jpg 140w" sizes="(max-width: 573px) 100vw, 573px" /></noscript>																											<span class="caption-legend">©Pin Galant</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line odd ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>Balade sur le thème « la nature en hiver »</strong></h2>
+<p>Mais<strong> où se cachent les animaux</strong> quand il fait froid ? Et <strong>que mangent-ils</strong> ? Pour le savoir, tu n’as qu’à participer à cette balade qui te fera découvrir tous les secrets de la nature en hiver ! <strong>RDV à 15h le dimanche 15 janvier devant la Maison du Patrimoine Naturel du Créonnais à Sadirac </strong>!<br />
+Et si tu as envie de passer plus de temps dehors, alors embarque tes parents pour une <strong>micro-aventure</strong> et partez vous promener toute une journée autour de Bordeaux ! <a href="https://www.unairdebordeaux.fr/article/balades-avec-poussette-autour-de-bordeaux/"><strong>Retrouve nos idées de balades en famille ici !</strong></a></p>
+<p><a href="http://www.terreetocean.fr/balade-sur-la-nature-en-hiver-a-sadirac/" target="_blank" rel="noopener"><strong>Infos Pratiques</strong></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="573" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20573%20428'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="nature hiver balade Bordeaux janvier enfants" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-erik-karits-3839694-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-erik-karits-3839694-140x105.jpg 140w" data-lazy-sizes="(max-width: 573px) 100vw, 573px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-erik-karits-3839694-573x428.jpg" /><noscript><img width="573" height="428" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-erik-karits-3839694-573x428.jpg" class="attachment-be1-img size-be1-img" alt="nature hiver balade Bordeaux janvier enfants" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-erik-karits-3839694-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/pexels-erik-karits-3839694-140x105.jpg 140w" sizes="(max-width: 573px) 100vw, 573px" /></noscript>																											<span class="caption-legend">©Erik Karits</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line even ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>Atelier dessin avec Oscar et Scarlett au musée d’ethnographie</strong></h2>
+<p>Le squelette te fait un peu peur ? Pourtant, sans lui, tu ressemblerais à un gros chiffon. En effet, il te permet de tenir debout et d’attraper fermement ton cartable ! Lors de cet atelier, tu vas pouvoir t’amuser avec des dessins de squelettes et ainsi aider le fantôme Oscar à retrouver son amie Scarlett. Mais attention de ne pas confondre un animal et un humain. Cet atelier, pour vous les enfants à Bordeaux, vous permettra alors de vous amuser tout en découvrant des concepts scientifiques. Ludique et instructif ! Et après cela, espérons que tu n'auras plus peur des squelettes.<br />
+<strong>RDV le 18 janvier à 15h au musée d'ethnographie.</strong></p>
+<p><a href="https://bordeaux.fr/agendaGeneral/pgFicheEvt.psml?_nfpb=true&amp;_pageLabel=pgFicheEvt&amp;classofcontent=evenement&amp;id=208461&amp;iEvt=0&amp;retourListe=1&amp;classListe=pageSpecifique&amp;idListe=201&amp;typeAgendaListe=GENERAL&amp;nbreEvtPageListe=25" target="_blank" rel="noopener"><strong>Infos pratiques</strong></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="354" height="336" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20354%20336'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="atelier enfants musée d&#039;ethnographie janvier" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/1760964_1_1.png 354w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/1760964_1_1-300x285.png 300w" data-lazy-sizes="(max-width: 354px) 100vw, 354px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/1760964_1_1.png" /><noscript><img width="354" height="336" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/1760964_1_1.png" class="attachment-be1-img size-be1-img" alt="atelier enfants musée d&#039;ethnographie janvier" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/1760964_1_1.png 354w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/1760964_1_1-300x285.png 300w" sizes="(max-width: 354px) 100vw, 354px" /></noscript>																											<span class="caption-legend">©Musée d'ethnographie</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line odd ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>« Patty’s got a gun », un spectacle féministe !</strong></h2>
+<p>Voilà un spectacle<strong> pop et poétique idéal pour les ados</strong> ! Il raconte l’histoire de Patty, fille d’un riche entrepreneur, qui se fait enlever par un groupe de militantes féministes. Elle finit par rallier leur cause. Mais est-elle vraiment convaincue par la cause féministe ou est-elle victime du syndrome de Stokholm ? Pour le savoir, fonce voir cette pièce qui donne la voix aux femmes et éveillera encore plus ton engagement féministe ! Attention ! Qui dit féminisme ne dit pas « réservé aux filles » ! Nous sommes tous.tes concerné.e.s ! Alors les gars, venez en force !<br />
+<strong>RDV le 19 janvier à 20h30 au Galet à Pessac.</strong></p>
+<p><a href="https://www.pessac.fr/agenda-133/pattys-got-a-gun-compagnie-okto-5159.html?cHash=e5cab0b5eafd5781e4567cc933507e58" target="_blank" rel="noopener"><strong>Infos pratiques</strong></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="573" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20573%20428'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="patty&#039;s got a gun spectacle ados Bordeaux janvier" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/csm_focus-agenda-pattys-got-a-gun_c_Chloe___Tocabens_36ef0baa39-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/csm_focus-agenda-pattys-got-a-gun_c_Chloe___Tocabens_36ef0baa39-140x105.jpg 140w" data-lazy-sizes="(max-width: 573px) 100vw, 573px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/csm_focus-agenda-pattys-got-a-gun_c_Chloe___Tocabens_36ef0baa39-573x428.jpg" /><noscript><img width="573" height="428" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/csm_focus-agenda-pattys-got-a-gun_c_Chloe___Tocabens_36ef0baa39-573x428.jpg" class="attachment-be1-img size-be1-img" alt="patty&#039;s got a gun spectacle ados Bordeaux janvier" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/csm_focus-agenda-pattys-got-a-gun_c_Chloe___Tocabens_36ef0baa39-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/csm_focus-agenda-pattys-got-a-gun_c_Chloe___Tocabens_36ef0baa39-140x105.jpg 140w" sizes="(max-width: 573px) 100vw, 573px" /></noscript>																											<span class="caption-legend">© Chloé Tocabens</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line even ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>Festival Méli-Mélo</strong></h2>
+<p>Spectacles de marionnettes, théâtre d’ombres et d’objets : voilà ce que propose ce festival qui donne vie à tout ce petit monde ! Avec Méli-Mélo, tu seras embarqué dans des univers différents mais tous sources de rêve et de fascination. Les différents spectacles proposés te feront aussi voyager à travers la métropole car ils sont joués aux 4 coins de notre territoire. Aussi, sache que, quel que soit ton âge, tu trouveras un spectacle pour toi ! Comme par exemple :</p>
+<ul>
+<li>Du balai, pour les enfants dès 5 ans. Un spectacle sur la rencontre entre un balayeur de rue et un habitant.</li>
+<li>« t’es qui toi dit ? » pour les petits dès 1 an. Un spectacle sur la rencontre entre une boule et un cube.</li>
+<li>Tchaïka, dès 12 ans. Une comédienne et une marionnette grandeur nature se promènent dans l’univers de la Mouette de Tchekov.</li>
+</ul>
+<p>Alors petit frère, grande sœur et parents, ne ratez pas ce festival qui propose une vingtaine de spectacles pour toute la famille !<br />
+<strong>RDV du 23 janvier au 3 février.</strong></p>
+<p><a href="https://signoret-canejan.fr/festival-meli-melo/" target="_blank" rel="noopener"><strong>Infos pratiques</strong></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="573" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20573%20428'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="festival Méli Mélo enfants Bordeaux janvier" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/meli-melo-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/meli-melo-140x105.jpg 140w" data-lazy-sizes="(max-width: 573px) 100vw, 573px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/meli-melo-573x428.jpg" /><noscript><img width="573" height="428" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/meli-melo-573x428.jpg" class="attachment-be1-img size-be1-img" alt="festival Méli Mélo enfants Bordeaux janvier" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/meli-melo-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/meli-melo-140x105.jpg 140w" sizes="(max-width: 573px) 100vw, 573px" /></noscript>																											<span class="caption-legend">© Méli Mélo</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line odd ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>Quelle déesse, quel dieu se cache en toi ?</strong></h2>
+<p>Rendez-vous au <strong>Musée des Beaux-Arts</strong> pour répondre à cette question ! Ce temple de l’art présente en effet de nombreuses œuvres où tu retrouveras les héros de la mythologie grecque et romaine. Peut-être t’identifieras-tu à Enée, fils de la déesse Aphrodite quand tu observeras le tableau où on le voit raconter à Didon les malheurs de Troie ? Alors pour savoir quel dieu ou quelle déesse se cache en toi, à toi de suivre le guide lors de cette visite durant laquelle tu auras à répondre à un <strong>quizz</strong>.<br />
+<strong>RDV le 25 janvier à 15h au musée des Beaux-Arts.</strong></p>
+<p><a href="https://www.musba-bordeaux.fr/fr/evenement/atelier-7-11-ans-quelle-deesse-dieu-se-cache-en-toi" target="_blank" rel="noopener"><b>Infos pratiques</b></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="573" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20573%20428'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="atelier musée des beaux-arts enfants Bordeaux janvier tableau Enée racontant à Didon les malheurs de Troie" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJib3JkZWF1eFwvb3diYTAyXC85Y2E5N2Q1Ni0zMzFkLTRkNjQtYjljYS1jZGFlMjE4YjliYjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7In-573x428.jpeg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJib3JkZWF1eFwvb3diYTAyXC85Y2E5N2Q1Ni0zMzFkLTRkNjQtYjljYS1jZGFlMjE4YjliYjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7In-140x105.jpeg 140w" data-lazy-sizes="(max-width: 573px) 100vw, 573px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJib3JkZWF1eFwvb3diYTAyXC85Y2E5N2Q1Ni0zMzFkLTRkNjQtYjljYS1jZGFlMjE4YjliYjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7In-573x428.jpeg" /><noscript><img width="573" height="428" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJib3JkZWF1eFwvb3diYTAyXC85Y2E5N2Q1Ni0zMzFkLTRkNjQtYjljYS1jZGFlMjE4YjliYjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7In-573x428.jpeg" class="attachment-be1-img size-be1-img" alt="atelier musée des beaux-arts enfants Bordeaux janvier tableau Enée racontant à Didon les malheurs de Troie" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJib3JkZWF1eFwvb3diYTAyXC85Y2E5N2Q1Ni0zMzFkLTRkNjQtYjljYS1jZGFlMjE4YjliYjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7In-573x428.jpeg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/eyJidWNrZXQiOiJvcGFjLXByb2QtbWVkaWEiLCJrZXkiOiJib3JkZWF1eFwvb3diYTAyXC85Y2E5N2Q1Ni0zMzFkLTRkNjQtYjljYS1jZGFlMjE4YjliYjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7In-140x105.jpeg 140w" sizes="(max-width: 573px) 100vw, 573px" /></noscript>																											<span class="caption-legend">©Musée des Beaux-Arts de Bordeaux</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line even ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>La nuit des conservatoires</strong></h2>
+<p>Tu es sûrement déjà passé.e devant ce drôle de bâtiment situé face à la Garonne où sont inscrits en bleu les mots <strong>danse, théâtre et musique</strong>. Il s’agit du <strong>conservatoire de Bordeaux</strong> où ces trois disciplines sont enseignées par de grand.e.s spécialistes en la matière. Mais sais-tu que l’intérieur de ce bâtiment est un véritable labyrinthe ? Tu vas pouvoir t’y balader <strong>le vendredi 27 janvier lors de la nuit des conservatoires</strong>. Chaque espace sera investi par des <strong>danseurs</strong>, des <strong>chanteurs</strong>, des <strong>musiciens </strong>et<strong> des comédiens</strong> qui réaliseront des performances accompagné.es par des élèves de<strong> l’école du Cirque de Bordeaux</strong>. Peut-être ne resteras-tu pas jusqu’au bout de cette soirée qui se terminera à minuit, mais on t’incite vivement à pousser les portes de ce lieu prestigieux pour vivre une soirée mémorable !</p>
+<p><a href="https://conservatoire.bordeaux.fr/fr/action-culturelle/agenda/evenement-nuit-des-conservatoires-1062" target="_blank" rel="noopener"><strong>Infos Pratiques</strong></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="573" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20573%20428'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="la nuit ded conservatoires Bordeaux enfants janvier" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/83576348_2858539954240443_6418727206809239552_n-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/83576348_2858539954240443_6418727206809239552_n-140x105.jpg 140w" data-lazy-sizes="(max-width: 573px) 100vw, 573px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/83576348_2858539954240443_6418727206809239552_n-573x428.jpg" /><noscript><img width="573" height="428" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/83576348_2858539954240443_6418727206809239552_n-573x428.jpg" class="attachment-be1-img size-be1-img" alt="la nuit ded conservatoires Bordeaux enfants janvier" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/83576348_2858539954240443_6418727206809239552_n-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/83576348_2858539954240443_6418727206809239552_n-140x105.jpg 140w" sizes="(max-width: 573px) 100vw, 573px" /></noscript>																											<span class="caption-legend">©Conservatoire de Bordeaux</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line odd ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>Pouces, le festival de danse pour les enfants</strong></h2>
+<p>Si tu aimes la danse, quelle qu’elle soit, alors ce festival est pour toi ! Et si tu penses n’aimer qu’un style de danse, alors <strong>Pouces</strong> va t’ouvrir les yeux et te faire découvrir toute la palette que révèle cet univers artistique. A travers des <strong>spectacles</strong> et des <strong>ateliers</strong>, tu réaliseras le pouvoir de la danse. Elle aide, en effet, à mieux comprendre notre monde et enrichit nos connaissances grâce à la beauté et la poésie des mouvements des danseurs. Par exemple, le Boléro de Ravel…tu connais forcément ce morceau de musique. En l’écoutant à travers <strong>le spectacle de la compagnie DK59</strong>, tu auras l’impression de le redécouvrir ! <strong>Pouces</strong> est un festival ouvert à tous, dès l’âge d’un an.<br />
+<strong>Du 27 janvier au 4 février.</strong></p>
+<p><a href="https://www.lamanufacture-cdcn.org/spectacles/pouce-festival-danse-jeune-public-bordeaux-metropole-nlle-aquitaine-27jan-4fev-2023/?portfolioCats=18%2C26" target="_blank" rel="noopener"><strong>Infos pratiques</strong></a></p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="400" height="290" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20290'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="Pouces festival enfants danse Bordeaux janvier" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/faire-soi-e-400x290-1.jpg 400w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/faire-soi-e-400x290-1-300x218.jpg 300w" data-lazy-sizes="(max-width: 400px) 100vw, 400px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/faire-soi-e-400x290-1.jpg" /><noscript><img width="400" height="290" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/faire-soi-e-400x290-1.jpg" class="attachment-be1-img size-be1-img" alt="Pouces festival enfants danse Bordeaux janvier" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/faire-soi-e-400x290-1.jpg 400w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/faire-soi-e-400x290-1-300x218.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></noscript>																											<span class="caption-legend">©Pouces</span>
+																									</div>
+											</div>
+																			</div>
+																								<div class="be1-line even ">
+										<div class="be1-txt wysiwyg-txt">
+											<h2><strong>Lancement du festival Ratatam au Haillan</strong></h2>
+<p>Voilà de quoi clore ce premier mois de 2023 en beauté ! Ce festival dédié aux enfants, n’a qu’un seul but : vous amuser ! Pour cela, <strong>spectacles</strong>, <strong>ateliers</strong>, <strong>films d’animation</strong>, <strong>concours de dessins et de grimaces</strong>, <strong>jeux</strong>, <strong>bonbons</strong> ou encore une <strong>super boum</strong> sont au programme <strong>jusqu’au 5 février</strong>. En fait, <strong>Ratatam</strong>, c’est comme une grande récréation animée qui dure 6 jours ! Et pour démarrer, le festival propose <strong>le 31 janvier une exposition de dessins et de grimaces accompagnée de musique</strong>. Le tout se déroulera en présence de la marraine de cette 6<sup>e</sup> édition : l’illustratrice et autrice de livres pour enfants, <strong>Camille Piantanida</strong>. Alors avant de plonger en février, viens <a href="https://www.unairdebordeaux.fr/article/que-faire-au-haillan/">au Haillan</a> pour t'amuser avec Ratatam !</p>
+										</div>
+
+																					<div class="be1-img">
+												<div class="be1-img-wrapper">
+													<img width="573" height="428" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20573%20428'%3E%3C/svg%3E" class="attachment-be1-img size-be1-img" alt="Ratatam festival enfants bordeaux janvier au Haillan" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/320664496_697566118570902_6569966160307063068_n-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/320664496_697566118570902_6569966160307063068_n-140x105.jpg 140w" data-lazy-sizes="(max-width: 573px) 100vw, 573px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/320664496_697566118570902_6569966160307063068_n-573x428.jpg" /><noscript><img width="573" height="428" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/320664496_697566118570902_6569966160307063068_n-573x428.jpg" class="attachment-be1-img size-be1-img" alt="Ratatam festival enfants bordeaux janvier au Haillan" decoding="async" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/320664496_697566118570902_6569966160307063068_n-573x428.jpg 573w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/12/320664496_697566118570902_6569966160307063068_n-140x105.jpg 140w" sizes="(max-width: 573px) 100vw, 573px" /></noscript>																											<span class="caption-legend">©Ratatam</span>
+																									</div>
+											</div>
+																			</div>
+																					</section>
+										<!-- BE2 : visuel immersif -->
+					
+
+
+					<!-- BE4 : Slider horizontal -->
+					
+					<!-- BE3 : slider vertical -->
+					
+
+					
+				</section>
+
+				<section class="share_post">
+    <p>Vous aimez ? Partagez</p>
+    <ul class="wrapper_rs">
+                <li class="lien-messenger">
+            <a href="#">
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Picto réseaux messenger" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-messenger.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-messenger.svg" alt="Picto réseaux messenger"></noscript>
+            </a>
+        </li>
+        <li class="lien-whatsapp">
+                            <a href="whatsapp://send?text=https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/" data-action="share/whatsapp/share">
+                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Picto réseaux WhatsApp" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-whatsapp.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-whatsapp.svg" alt="Picto réseaux WhatsApp"></noscript>
+                </a>
+                    </li>
+        <li class="lien-tw">
+            <a href="https://twitter.com/intent/tweet/?url=https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/" target="_blank">
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Picto réseaux twitter" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-twitter.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-twitter.svg" alt="Picto réseaux twitter"></noscript>
+            </a>
+        </li>
+        <li class="lien-fb">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/" target="_blank">
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Picto réseaux Facebook" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-fb.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-fb.svg" alt="Picto réseaux Facebook"></noscript>
+            </a>
+        </li>
+        <li class="lien-mail">
+            <a href="mailto:?subject=Un%20air%20de%20Bordeaux&body=https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/">
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Picto réseaux mail" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-mail.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-mail.svg" alt="Picto réseaux mail"></noscript>
+            </a>
+        </li>
+    </ul>
+</section>
+
+<script>
+    jQuery(document).ready(function($) {
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            // true for mobile device
+            $('.lien-messenger a').attr("href", "fb-messenger://share/?link=https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/&app_id=2059140931032865");
+        } else {
+            // false for not mobile device
+            $('.lien-messenger a').attr("href", "http://www.facebook.com/dialog/send?app_id=2059140931032865&link=https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/&redirect_uri=https://www.unairdebordeaux.fr/article/sorties-janvier-bordeaux-enfants/");
+        }
+    });
+</script>
+			</article>
+
+			
+    <section id="all-posts" class="last-posts small en-famille">
+        <div class="left-side">
+            <img class="actus-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/png/illu-smartphone.png"><noscript><img class="actus-img" src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/png/illu-smartphone.png"></noscript>
+            <h2 class="actus-title">Nos derniers articles</h2>
+        </div>
+        <div class="middle-side">
+            <ul class="last_wrapper">
+                                    <li class="item-post">
+                        <div class="img-wrapper">
+                                                            <a href="https://www.unairdebordeaux.fr/article/festivals-bordeaux-famille/">
+                                    <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="festivals famille Bordeaux" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-92x92.jpg 92w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-150x150.jpg" /><noscript><img width="150" height="150" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="festivals famille Bordeaux" decoding="async" loading="lazy" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/ete-metropolitain-92x92.jpg 92w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>                                </a>
+                                                               
+                            <img class="item-cat" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="en-famille" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-en-famille.svg"><noscript><img class="item-cat" src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-en-famille.svg" alt="en-famille"></noscript>
+                        </div>
+                        <div class="content-wrapper">
+                            <span class="item-title">
+                                <a href="https://www.unairdebordeaux.fr/article/festivals-bordeaux-famille/">Eté 2022 : TOP 5 des festivals à…</a>
+                            </span>
+                            <a class="btn-full" href="https://www.unairdebordeaux.fr/article/festivals-bordeaux-famille/">lire <span class="time">
+		<span class='span-reading-time'> 3 </span>
+		 min</span></a>
+                        </div>
+                    </li>
+                                    <li class="item-post">
+                        <div class="img-wrapper">
+                                                            <a href="https://www.unairdebordeaux.fr/article/terrasse-bordeaux-sortir/">
+                                    <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Plage de l&#039;iboat Bordeaux sortir été © @annesophiegd" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-548x548.jpg 548w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-92x92.jpg 92w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-150x150.jpg" /><noscript><img width="150" height="150" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Plage de l&#039;iboat Bordeaux sortir été © @annesophiegd" decoding="async" loading="lazy" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-548x548.jpg 548w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/Iboat-Plage-sortir-Bordeaux-©-@annesophiegd-92x92.jpg 92w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>                                </a>
+                                                               
+                            <img class="item-cat" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="bonnes-adresses" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-bonnes-adresses.svg"><noscript><img class="item-cat" src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-bonnes-adresses.svg" alt="bonnes-adresses"></noscript>
+                        </div>
+                        <div class="content-wrapper">
+                            <span class="item-title">
+                                <a href="https://www.unairdebordeaux.fr/article/terrasse-bordeaux-sortir/">Où sortir à Bordeaux cet été</a>
+                            </span>
+                            <a class="btn-full" href="https://www.unairdebordeaux.fr/article/terrasse-bordeaux-sortir/">lire <span class="time">
+		<span class='span-reading-time'> 3 </span>
+		 min</span></a>
+                        </div>
+                    </li>
+                                    <li class="item-post">
+                        <div class="img-wrapper">
+                                                            <a href="https://www.unairdebordeaux.fr/article/lete-metropolitain-des-spectacles-et-des-visites/">
+                                    <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Balade découverte nature Bordeaux" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-548x548.jpg 548w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-92x92.jpg 92w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-563x563.jpg 563w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-475x475.jpg 475w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-150x150.jpg" /><noscript><img width="150" height="150" src="https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Balade découverte nature Bordeaux" decoding="async" loading="lazy" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-548x548.jpg 548w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-92x92.jpg 92w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-563x563.jpg 563w, https://www.unairdebordeaux.fr/wp-content/uploads/2017/11/Berges-de-la-Garonne-balade-2-TERRE-et-OCEAN-Begles-Bordeaux-4-photo-Sara-Soulignac-475x475.jpg 475w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>                                </a>
+                                                               
+                            <img class="item-cat" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="culture-patrimoine" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-culture-patrimoine.svg"><noscript><img class="item-cat" src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-culture-patrimoine.svg" alt="culture-patrimoine"></noscript>
+                        </div>
+                        <div class="content-wrapper">
+                            <span class="item-title">
+                                <a href="https://www.unairdebordeaux.fr/article/lete-metropolitain-des-spectacles-et-des-visites/">L&rsquo;été métropolitain : 5 spectacles, 5 escapades</a>
+                            </span>
+                            <a class="btn-full" href="https://www.unairdebordeaux.fr/article/lete-metropolitain-des-spectacles-et-des-visites/">lire <span class="time">
+		<span class='span-reading-time'> 5 </span>
+		 min</span></a>
+                        </div>
+                    </li>
+                                    <li class="item-post">
+                        <div class="img-wrapper">
+                                                            <a href="https://www.unairdebordeaux.fr/article/restaurant-ete-bordeaux/">
+                                    <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="restaurants été bordeaux" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-548x548.jpg 548w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-92x92.jpg 92w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-150x150.jpg" /><noscript><img width="150" height="150" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="restaurants été bordeaux" decoding="async" loading="lazy" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-548x548.jpg 548w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/07/©-Tiki-Bar-Domaine-de-Raba-92x92.jpg 92w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>                                </a>
+                                                               
+                            <img class="item-cat" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="bonnes-adresses" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-bonnes-adresses.svg"><noscript><img class="item-cat" src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-bonnes-adresses.svg" alt="bonnes-adresses"></noscript>
+                        </div>
+                        <div class="content-wrapper">
+                            <span class="item-title">
+                                <a href="https://www.unairdebordeaux.fr/article/restaurant-ete-bordeaux/">5 adresses pour bien manger cet été à…</a>
+                            </span>
+                            <a class="btn-full" href="https://www.unairdebordeaux.fr/article/restaurant-ete-bordeaux/">lire <span class="time">
+		<span class='span-reading-time'> 4 </span>
+		 min</span></a>
+                        </div>
+                    </li>
+                                    <li class="item-post">
+                        <div class="img-wrapper">
+                                                            <a href="https://www.unairdebordeaux.fr/article/lacs-autour-de-bordeaux/">
+                                    <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Les plus beaux lacs autour de Bordeaux" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-92x92.jpg 92w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-150x150.jpg" /><noscript><img width="150" height="150" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Les plus beaux lacs autour de Bordeaux" decoding="async" loading="lazy" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/lac-maubuisson-D-Remazeilels-92x92.jpg 92w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>                                </a>
+                                                               
+                            <img class="item-cat" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="nature-aventure" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-nature-aventure.svg"><noscript><img class="item-cat" src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-nature-aventure.svg" alt="nature-aventure"></noscript>
+                        </div>
+                        <div class="content-wrapper">
+                            <span class="item-title">
+                                <a href="https://www.unairdebordeaux.fr/article/lacs-autour-de-bordeaux/">Le TOP 10 des lacs autour de Bordeaux</a>
+                            </span>
+                            <a class="btn-full" href="https://www.unairdebordeaux.fr/article/lacs-autour-de-bordeaux/">lire <span class="time">
+		<span class='span-reading-time'> 5 </span>
+		 min</span></a>
+                        </div>
+                    </li>
+                                    <li class="item-post">
+                        <div class="img-wrapper">
+                                                            <a href="https://www.unairdebordeaux.fr/article/rosa-bonheur-au-musee-des-beaux-arts-de-bordeaux/">
+                                    <img width="150" height="150" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" class="attachment-thumbnail size-thumbnail wp-post-image" alt="La Foulaison des blés en Camargue" decoding="async" data-lazy-srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-548x548.jpg 548w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-92x92.jpg 92w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-150x150.jpg" /><noscript><img width="150" height="150" src="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="La Foulaison des blés en Camargue" decoding="async" loading="lazy" srcset="https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-150x150.jpg 150w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-422x422.jpg 422w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-127x127.jpg 127w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-44x44.jpg 44w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-355x355.jpg 355w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-548x548.jpg 548w, https://www.unairdebordeaux.fr/wp-content/uploads/2022/06/RosaBONHEUR_MusBa_foulaison_des_bles_-RF_2388_photo_F_Deval-92x92.jpg 92w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>                                </a>
+                                                               
+                            <img class="item-cat" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="culture-patrimoine" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-culture-patrimoine.svg"><noscript><img class="item-cat" src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-culture-patrimoine.svg" alt="culture-patrimoine"></noscript>
+                        </div>
+                        <div class="content-wrapper">
+                            <span class="item-title">
+                                <a href="https://www.unairdebordeaux.fr/article/rosa-bonheur-au-musee-des-beaux-arts-de-bordeaux/">Une œuvre, un musée &#8211; Rosa et ses…</a>
+                            </span>
+                            <a class="btn-full" href="https://www.unairdebordeaux.fr/article/rosa-bonheur-au-musee-des-beaux-arts-de-bordeaux/">lire <span class="time">
+		<span class='span-reading-time'> 4 </span>
+		 min</span></a>
+                        </div>
+                    </li>
+                            </ul>
+            <div class="spinner"></div>
+        </div>
+        <div class="right-side">
+            <h3 class="cta-title">Organiser & réserver</h3>
+            <div class="cta-link">
+                <a class="btn-empty" href="https://www.unairdebordeaux.fr/visites-guidees-et-excursions/">Visites guidées</a>
+                <a class="btn-empty" href="https://www.unairdebordeaux.fr/activites/micro-aventures/">Micro-aventures</a>
+                <a class="btn-empty" href="https://www.unairdebordeaux.fr/activites/randonnees/">Randonnées</a>
+            </div>
+        </div>
+    </section>
+
+			
+    
+			
+<section class="strate-newsletter cat en-famille">
+    <div class="container-newsletter">
+        <span class="news-title">Rejoignez la communauté !</span>
+        <p class="news-subtitle">Vous avez la bougeotte le week-end et soif d’aventures toute l’année ? Restons en contact ! Chaque semaine, on vous envoie les meilleures idées pour voyager ici !</p>
+
+        <script type="text/javascript"></script>
+                <div class='gf_browser_unknown gform_wrapper gform_legacy_markup_wrapper' id='gform_wrapper_1' ><div id='gf_1' class='gform_anchor' tabindex='-1'></div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/article/sorties-janvier-bordeaux-enfants/#gf_1' novalidate>
+                        <div class='gform_body gform-body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id="field_1_1"  class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_1_1"><label class="gfield_label screen-reader-text" for="input_1_1">Votre email...<span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_email">
+                            <input name="input_1" id="input_1_1" type="email" value="" class="small" placeholder="Votre email..." aria-required="true" aria-invalid="false" required="required"></div></li><li id="field_1_2"  class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_1_2"><label class="gfield_label screen-reader-text gfield_label_before_complex"><span class="gfield_required"><span class="gfield_required gfield_required_asterisk">*</span></span></label><div class="ginput_container ginput_container_checkbox"><ul class="gfield_checkbox" id="input_1_2"><li class="gchoice gchoice_1_2_1">
+								<input class="gfield-choice-input" name="input_2.1" type="checkbox" value="Je souhaite recevoir la newsletter *" id="choice_1_2_1" required="required"><label for="choice_1_2_1" id="label_1_2_1">Je souhaite recevoir la newsletter *</label>
+							</li></ul></div></li><li id="field_1_3"  class="gfield field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_1_3"><label class='gfield_label screen-reader-text' for='input_1_3' ></label><div id='input_1_3' class='ginput_container ginput_recaptcha' data-sitekey='6Lf-OD4aAAAAANDzZ66WYbPhFk8TOMIZ16jjvyAQ'  data-theme='light' data-tabindex='-1' data-size='invisible' data-badge='bottomleft'></div></li><li id="field_1_4"  class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible"  data-js-reload="field_1_4"><label class='gfield_label' for='input_1_4' >Comments</label><div class='ginput_container'><input name='input_4' id='input_1_4' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_1_4'>Ce champ n’est utilisé qu’à des fins de validation et devrait rester inchangé.</div></li></ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='S&#039;inscrire'  onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsImUxMjdhZTU2ZTU0ZjIxNzYzMGE0NmEyMzZhNzgwZDVjIl0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='Cette iframe contient la logique nécessaire pour manipuler Gravity Forms avec Ajax.'></iframe>
+                <script type="text/javascript">
+gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );
+</script>
+
+        <div class="info-comp">
+            <p>*Votre adresse de messagerie est uniquement utilisée pour vous envoyer les lettres d'information d'Un Air de Bordeaux. Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la newsletter.</p>
+        </div>
+
+        <div class="follow">
+            <span class="follow-title">Vous êtes déjà plus de 20 000 explorateurs à nous suivre, <span>merci !</span></span>
+        </div>
+    </div>
+</section>
+		
+	</main><!-- #main -->
+</div><!-- #primary -->
+
+
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Person",
+		"name": "Marie Blanchard",
+		"url": "https://www.unairdebordeaux.fr",
+		"sameAs": ["https://www.facebook.com/",
+			"https://instagram.com/",
+			"https://twitter.com/"
+		]
+	}
+</script>
+
+
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer">
+	<section class="wrapper_rs">
+		<span class="rs-title">
+			Et pour ne rien rater,</br> suivez-nous sur les réseaux sociaux
+		</span>
+		<ul class="listing-rs">
+			<li><a href="https://www.instagram.com/unairdebordeaux/" target="_blank">
+					<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Instagram" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-instagram.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-instagram.svg" alt="Instagram"></noscript>
+				</a></li>
+			<li><a href="https://www.facebook.com/unairdebordeaux/?ref=br_rs" target="_blank">
+					<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Facebook" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-facebook.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-facebook.svg" alt="Facebook"></noscript>
+				</a></li>
+			<li><a href="https://www.youtube.com/c/BordeauxTourisme" target="_blank">
+					<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Youtube" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-youtube.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-youtube.svg" alt="Youtube"></noscript>
+				</a></li>
+			<li><a href="https://twitter.com/BordeauxTourism/" target="_blank">
+					<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Twitter" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-twitter-footer.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-twitter-footer.svg" alt="Twitter"></noscript>
+				</a></li>
+			<li><a href="https://soundcloud.com/user-536352311" target="_blank">
+					<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Soundcloud" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-soundcloud.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/picto-soundcloud.svg" alt="Soundcloud"></noscript>
+				</a></li>
+		</ul>
+	</section>
+	<section class="wrapper_infos">
+		<div class="wrapper_apropos">
+			<nav id="site-navigation-footer" class="footer-navigation">
+				<div class="menu-menu-footer-container"><ul id="primary-menu" class="menu"><li id="menu-item-30142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30142"><a href="https://www.unairdebordeaux.fr/lequipe/">L’équipe</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.unairdebordeaux.fr/mentions-legales/">Mentions légales</a></li>
+<li id="menu-item-990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-990"><a href="https://www.unairdebordeaux.fr/contact/">Nous contacter</a></li>
+<li id="menu-item-3266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3266"><a href="javascript:tarteaucitron.userInterface.openPanel();">Gestion des cookies</a></li>
+<li id="menu-item-30141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30141"><a href="https://www.unairdebordeaux.fr/qui-sommes-nous/">Qui sommes-nous ?</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://www.unairdebordeaux.fr/plan-du-site/">Plan du site</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+		</div>
+		<div class="wrapper_logo">
+			<a target="_blank" href=" https://www.bordeaux-tourisme.com/">
+				<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Bordeaux tourisme & congrès" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/logo-bordeaux-tourisme.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/logo-bordeaux-tourisme.svg" alt="Bordeaux tourisme & congrès"></noscript>
+			</a>
+		</div>
+	</section>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<div id="top-page">
+	<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/arrow-top-white.svg"><noscript><img src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/images/svg/arrow-top-white.svg"></noscript>
+</div>
+
+		<div id="wbounce-modal" class="wbounce-modal underlay" style="display:none">
+			<div id="wbounce-modal-flex" class="wbounce-modal-flex">
+				<div id="wbounce-modal-sub" class="wbounce-modal-sub">
+					<div class="modal-title">
+  <h3>On ne va pas se quitter comme ça...</h3>
+</div>
+
+<div class="modal-body">
+  <p>Programme du week-end, pépites du mois et places à gagner...<br/>
+Abonnez-vous à notre newsletter !</p>
+
+<iframe id="iframe-sendinblue" style="position: absolute; top: 150px; left: 42%;" width="305" height="150" src="https://www.unairdebordeaux.fr/wp-content/themes/otbdx/sendinblue-subscribe-form.html" frameborder="0"></iframe>
+</div>
+
+<div class="modal-footer">
+  <p>Non, merci.</p>
+</div>
+
+<div class="modal-close" style="display:none;">
+<span class="icon-croix"></span>
+</div>				</div>
+			</div>
+		</div>
+	<div id="wbounce-config" style="display: none;">{"cookieName":"wBounce","isAggressive":false,"isSitewide":true,"hesitation":"","openAnimation":false,"exitAnimation":false,"timer":"","sensitivity":"","cookieExpire":"30","cookieDomain":"unairdebordeaux.fr","autoFire":"","isAnalyticsEnabled":false}</div>	<script type="text/javascript">
+	var relevanssi_rt_regex = /(&|\?)_(rt|rt_nonce)=(\w+)/g
+	var newUrl = window.location.search.replace(relevanssi_rt_regex, '')
+	history.replaceState(null, null, window.location.pathname + newUrl + window.location.hash)
+	</script>
+	<link rel='stylesheet' id='gforms_reset_css-css' href='https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css' href='https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css' href='https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css' href='https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.6.8' type='text/css' media='all' />
+<script type='text/javascript' id='tarteaucitron-js-extra'>
+/* <![CDATA[ */
+var jsVars = {"ajaxUrl":"https:\/\/www.unairdebordeaux.fr\/wp-admin\/admin-ajax.php","datasPageUrl":"https:\/\/www.unairdebordeaux.fr\/article\/un-hiver-de-festivals-pour-les-petits-mais-pas-que\/ratatam\/"};
+/* ]]> */
+</script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/mc-tarteaucitron/js/mc-tarteaucitron.js?ver=1672745295' id='tarteaucitron-js' defer></script>
+<script type='text/javascript' id='wp-polls-js-extra'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.unairdebordeaux.fr\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/plugins/wp-polls/polls-js.js?ver=1672745295' id='wp-polls-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/js/navigation.js?ver=1672745295' id='otbdx-navigation-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/js/skip-link-focus-fix.js?ver=1672745295' id='otbdx-skip-link-focus-fix-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/js/jquery.easing.1.3.min.js?ver=20151215' id='otbdx-jquery-easing-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/js/jquery.banner-rotator.min.js?ver=20151215' id='otbdx-banner-rotator-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/js/slick.min.js?ver=20151215' id='otbdx-slick-slider-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/js/jquery-ui.min.js?ver=20151215' id='otbdx-jquery-ui-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/js/jquery.mobile.custom.min.js?ver=20151215' id='otbdx-jquery-mobile-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/js/jquery.kinetic.min.js?ver=20151215' id='otbdx-jquery-kinetic-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/js/jquery.mousewheel.min.js?ver=20151215' id='otbdx-jquery-mousewheel-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/themes/otbdx/js/jquery.smoothdivscroll-1.3-min.js?ver=20151215' id='otbdx-smoothdivscroll-script-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/js/addtohomescreen.js?ver=1672745295' id='otbdx-addtohomescreenios-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/wp-content/themes/otbdx/js/custom.js?ver=1672745295' id='otbdx-customjs-js' defer></script>
+<script data-minify="1" type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/cache/min/1/sdks/OneSignalSDK.js?ver=1672745295' async='async' id='remote_sdk-js'></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js' defer></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2022-11-21 17:01:53+0000","generator":"GlotPress\/4.0.0-alpha.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js' defer></script>
+<script type='text/javascript' defer='defer' src='https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.8' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"lun","tuesday":"mar","wednesday":"mer","thursday":"jeu","friday":"ven","saturday":"sam","sunday":"dim"},"months":{"january":"Janvier","february":"F\u00e9vrier","march":"Mars","april":"Avril","may":"Mai","june":"Juin","july":"Juillet","august":"Ao\u00fbt","september":"Septembre","october":"Octobre","november":"Novembre","december":"D\u00e9cembre"},"firstDay":1,"iconText":"S\u00e9lectionner une date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"Ce type de fichier n\u2019est pas autoris\u00e9. Seuls les formats suivants sont autoris\u00e9s\u00a0:","delete_file":"Supprimer ce fichier","in_progress":"en cours","file_exceeds_limit":"Le fichier d\u00e9passe la taille autoris\u00e9e.","illegal_extension":"Ce type de fichier n\u2019est pas autoris\u00e9.","max_reached":"Nombre de fichiers maximal atteint","unknown_error":"Une erreur s\u2019est produite lors de la sauvegarde du fichier sur le serveur","currently_uploading":"Veuillez attendre la fin de l\u2019envoi","cancel":"Annuler","cancel_upload":"Annuler cet envoi","cancelled":"Annul\u00e9"},"vars":{"images_url":"https:\/\/www.unairdebordeaux.fr\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"Euro","symbol_left":"","symbol_right":"&#8364;","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2,"code":"EUR"},"base_url":"https:\/\/www.unairdebordeaux.fr\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.unairdebordeaux.fr\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"Nouvelle ligne ajout\u00e9e.","rowRemoved":"Rang\u00e9e supprim\u00e9e","formSaved":"Le formulaire a \u00e9t\u00e9 enregistr\u00e9. Le contenu contient le lien pour retourner et terminer le formulaire."}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer='defer' src='https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.8' id='gform_gravityforms-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.google.com/recaptcha/api.js?hl=fr&#038;ver=c74688fe16ad4083f735912c20fad7ca#038;render=explicit' id='gform_recaptcha-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.6.8' id='gform_placeholder-js'></script>
+<script type='text/javascript' src='https://www.unairdebordeaux.fr/wp-content/plugins/gravityforms-html5-validation/js/gravityforms-html5-validation.min.js?ver=2.4.2' id='gravityforms-html5-validation-js' defer></script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [1, 1]) } );
+</script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.unairdebordeaux.fr/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>
+<!-- FB SDK -->
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId: '393091921702320',
+			xfbml: true,
+			version: 'v2.12'
+		});
+		FB.AppEvents.logPageView();
+	};
+
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {
+			return;
+		}
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "https://connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+
+</body>
+
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1673351289 -->

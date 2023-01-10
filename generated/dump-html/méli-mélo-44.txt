@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="fr-FR">
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="https://www.autohebdo.fr/app/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+	<meta charset="UTF-8">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<link rel="shortcut icon" href="https://www.autohebdo.fr/app/uploads/2021/03/favicon_0.ico" type="image/vnd.microsoft.icon" />
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/apple-icon-180x180.png">
+
+    <link rel="icon" type="image/png" sizes="192x192"  href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/android-icon-192x192.png">
+    <link rel="manifest" href="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://www.autohebdo.fr/app/themes/autohebdo/assets/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" type="text/javascript"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
+<link rel="manifest" href="/wp/superpwa-manifest.json">
+<link rel="prefetch" href="/wp/superpwa-manifest.json">
+<meta name="theme-color" content="#D5E0EB">
+<!-- / SuperPWA.com -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO Premium plugin v19.3 (Yoast SEO v19.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ? -</title>
+	<meta name="description" content="En l&#039;espace de quelques heures, Alex Palou a été annoncé chez McLaren Racing et chez Chip Ganassi Raccing en 2023. Qui aura le dernier mot ?" />
+	<link rel="canonical" href="https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ?" />
+	<meta property="og:description" content="En l&#039;espace de quelques heures, Alex Palou a été annoncé chez McLaren Racing et chez Chip Ganassi Raccing en 2023. Qui aura le dernier mot ?" />
+	<meta property="og:url" content="https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" />
+	<meta property="og:site_name" content="AutoHebdo" />
+	<meta property="article:publisher" content="https://www.facebook.com/autohebdofr/" />
+	<meta property="article:published_time" content="2022-07-13T08:26:49+00:00" />
+	<meta property="article:modified_time" content="2022-07-13T10:49:06+00:00" />
+	<meta property="og:image" content="https://www.autohebdo.fr/app/uploads/2022/07/Alex-Palou-Chevrolet-Detroit-Grand-Prix-By_-Joe-Skibinski_Large-Image-Without-Watermark_m60905-scaled-e1657695945696.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="800" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Medhi Casaurang" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@autohebdo" />
+	<meta name="twitter:site" content="@autohebdo" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Medhi Casaurang" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutes" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="AutoHebdo &raquo; Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ? Flux des commentaires" href="https://www.autohebdo.fr/actualites/monoplace/indycar/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html/feed" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.autohebdo.fr\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=e7c378bc53bc6f417d1ff5ab0d31311f"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='gtranslate-style-css'  href='https://www.autohebdo.fr/app/plugins/gtranslate/gtranslate-style32.css?ver=-b-modified-1666005527' type='text/css' media='all' />
+<link rel='stylesheet' id='bb-tcs-editor-style-shared-css'  href='https://www.autohebdo.fr/app/themes/autohebdo/editor-style-shared.css?ver=-b-modified-1643023374' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='main-style-css'  href='https://www.autohebdo.fr/app/themes/autohebdo/assets/css/main.css?ver=-b-modified-1671012114' type='text/css' media='all' />
+<link rel='stylesheet' id='print-style-css'  href='https://www.autohebdo.fr/app/themes/autohebdo/print.css?ver=-b-modified-1643023407' type='text/css' media='print' />
+<link rel='stylesheet' id='nep_native_emoji-css'  href='https://www.autohebdo.fr/app/plugins/native-emoji/css/native_emoji.css?ver=3.0.1-b-modified-1643043884' type='text/css' media='all' />
+<link rel='stylesheet' id='sib-front-css-css'  href='https://www.autohebdo.fr/app/plugins/mailin/css/mailin-front.css?ver=Array-b-modified-1666005542' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.autohebdo.fr/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.autohebdo.fr/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.autohebdo.fr/app/plugins/fidesio-user/assets/js/upload-profile.js?ver=-b-modified-1643043885' id='custom-gallery-js'></script>
+<script type='text/javascript' id='seo-automated-link-building-js-extra'>
+/* <![CDATA[ */
+var seoAutomatedLinkBuilding = {"ajaxUrl":"https:\/\/www.autohebdo.fr\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.autohebdo.fr/app/plugins/seo-automated-link-building/js/seo-automated-link-building.js?ver=-b-modified-1650539202' id='seo-automated-link-building-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-7514086-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.autohebdo.fr"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-7514086-1", {"anonymize_ip":true});
+gtag("config", "G-V7RGQ2576T");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' id='sib-front-js-js-extra'>
+/* <![CDATA[ */
+var sibErrMsg = {"invalidMail":"Veuillez entrer une adresse e-mail valide.","requiredField":"Veuillez compl\u00e9ter les champs obligatoires.","invalidDateFormat":"Veuillez entrer une date valide.","invalidSMSFormat":"Veuillez entrer une num\u00e9ro de t\u00e9l\u00e9phone valide."};
+var ajax_sib_front_object = {"ajax_url":"https:\/\/www.autohebdo.fr\/wp\/wp-admin\/admin-ajax.php","ajax_nonce":"e6e488545a","flag_url":"https:\/\/www.autohebdo.fr\/app\/plugins\/mailin\/img\/flags\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.autohebdo.fr/app/plugins/mailin/js/mailin-front.js?ver=1666005541-b-modified-1666005541' id='sib-front-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.autohebdo.fr/wp-json/" /><link rel="alternate" type="application/json" href="https://www.autohebdo.fr/wp-json/wp/v2/posts/437560" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.autohebdo.fr/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.autohebdo.fr/wp/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://www.autohebdo.fr/?p=437560' />
+<link rel="alternate" type="application/json+oembed" href="https://www.autohebdo.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.autohebdo.fr%2Factualites%2Fmonoplace%2Findycar%2Falex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.autohebdo.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.autohebdo.fr%2Factualites%2Fmonoplace%2Findycar%2Falex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.85.0" />
+
+<!-- This site is optimized with the Schema plugin v1.7.9.5 - https://schema.press -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.autohebdo.fr\/actualites\/monoplace\/indycar\/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html"},"url":"https:\/\/www.autohebdo.fr\/actualites\/monoplace\/indycar\/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html","headline":"Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ?","datePublished":"2022-07-13T10:26:49+02:00","dateModified":"2022-07-13T12:49:06+02:00","publisher":{"@type":"Organization","@id":"https:\/\/www.autohebdo.fr\/#organization","name":"AUTOHEBDO","logo":{"@type":"ImageObject","url":"https:\/\/autohebdomedia.s3.eu-west-3.amazonaws.com\/app\/uploads\/2021\/02\/19052751\/auto-hebdo-logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/www.autohebdo.fr\/app\/uploads\/2022\/07\/Alex-Palou-Chevrolet-Detroit-Grand-Prix-By_-Joe-Skibinski_Large-Image-Without-Watermark_m60905-scaled-e1657695945696.jpg","width":1200,"height":800},"articleSection":"F1","description":"En l'espace de quelques heures, Alex Palou a été annoncé chez McLaren Racing et chez Chip Ganassi Raccing en 2023. Qui aura le dernier mot ? ","author":{"@type":"Person","name":"Medhi Casaurang","url":"https:\/\/www.autohebdo.fr\/actualites\/author\/medhi-casaurang","image":{"@type":"ImageObject","url":"https:\/\/secure.gravatar.com\/avatar\/6b23591f28d7eeec6a77c4ac1539164a?s=96&d=mm&r=g","height":96,"width":96}}}</script>
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to footer -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["f1","indycar","monoplace"],"pageAttributes":["2023","alex-palou","arrow-mclaren-sp","cgr","chip-ganassi","chip-ganassi-racing","contrat","f1-en","fe","indycar","mclaren-racing","transfert","twitter","zak-brown"],"pagePostAuthor":"Medhi Casaurang"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MM6F45L');
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = 'OneSignalSDKUpdaterWorker.js';
+                      OneSignal.SERVICE_WORKER_PATH = 'OneSignalSDKWorker.js';
+                      OneSignal.SERVICE_WORKER_PARAM = { scope: '/app/plugins/onesignal-free-web-push-notifications/sdk_files/push/onesignal/' };
+        OneSignal.setDefaultNotificationUrl("https://www.autohebdo.fr/wp");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '2a94b32d-11b9-4fd1-9715-4c6012618891';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Merci et bienvenue dans le team AUTOhebdo !";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.autohebdo.fr/app/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.14469d21-a548-446f-9323-a0e21fc14d38";
+oneSignal_options['persistNotification'] = true;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Restez en pole position de l'actualité du sport automobile avec les alertes AUTOhebdo !";
+oneSignal_options['promptOptions']['acceptButtonText'] = "Oui";
+oneSignal_options['promptOptions']['cancelButtonText'] = "Plus tard!";
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+
+<!-- This site is optimized with the Schema plugin v1.7.9.5 - https://schema.press -->
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://www.autohebdo.fr/wp",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://www.autohebdo.fr/list-articles",
+                "name": "Actualit\u00e9s"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://www.autohebdo.fr/actualites/monoplace/indycar/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html",
+                "name": "Alex Palou transf\u00e9r\u00e9 chez McLaren Racing, mais dans quelle discipline ?",
+                "image": "https://www.autohebdo.fr/app/uploads/2022/07/Alex-Palou-Chevrolet-Detroit-Grand-Prix-By_-Joe-Skibinski_Large-Image-Without-Watermark_m60905-scaled-e1657695945696.jpg"
+            }
+        }
+    ]
+}</script>
+
+<link rel="amphtml" href="https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html/amp">
+	<style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
+    <script type="text/javascript" src="https://cache.consentframework.com/js/pa/28776/c/fytV7/stub" referrerpolicy="unsafe-url" charset="utf-8"></script>
+<script type="text/javascript" src="https://choices.consentframework.com/js/pa/28776/c/fytV7/cmp" referrerpolicy="unsafe-url" charset="utf-8" async></script>
+<!-- D-BLOCK TM -->
+<script defer src='https://tra.scds.pmdstatic.net/advertising-core/4/core-ads-autohebdo.js'></script>
+<!--<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PC2RG39');</script>-->
+<!-- D-BLOCK TM -->
+
+
+<script>
+  window.dataLayer = window.dataLayer || []
+window.dataLayer.push({
+  advertisement: {
+    environnement: 'production',
+    brand: {
+      name: 'autohebdo',
+      abbr: 'auto',
+      domain: 'autohebdo',
+      subDomain: 'www'
+    },
+    page : {
+    pageType: "NewsArticle" ,
+    pageCategory: "F1", 
+    }
+  }
+})
+</script>
+
+    
+</head>
+<script>
+        console.log('Prod 1')
+</script>
+
+<body class="post-template-default single single-post postid-437560 single-format-standard autohebdo">
+	<header id="header">
+		<div class="wrapper">
+            <div class="top-header">
+    <div id="btn-collapse">
+    <span></span>
+    <span></span>
+    <span></span>
+</div>    		<div class="header-logo">
+			<a href="https://www.autohebdo.fr" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+				<img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20142%2048'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/uploads/2021/02/auto-hebdo-logo.png" alt="logo AUTO hebdo">
+			</a>
+		</div>
+    <div class="top-bar">
+    <div class="top-bar__tools">
+        
+        <label class="top-bar__tools__search">
+            <i class="icon-search"></i>
+        </label>
+        <form class="form-search" method="get" action="https://www.autohebdo.fr/">
+    <div class="close-search"><i class="icon-cross"></i></div>
+    <div class="form-group">
+        <input type="text" class="form-control" name="s" value="" placeholder="Rechercher...">
+        <button class="btn-search"><i class="icon-search"></i></button>
+    </div>
+</form>	<div style="margin-left:1vw;margin-right:1vw;">  <!-- GTranslate: https://gtranslate.io/ -->
+<a href="#" class="switcher-popup glink nturl notranslate" onclick="openGTPopup(this)"><img class="gt_flag-new lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/fr.png"  alt="fr" /> <span>French</span><span style="color:#666;font-size:8px;font-weight:bold;">&#9660;</span></a>
+<div id="gt_fade" class="gt_black_overlay"></div>
+<div id="gt_lightbox" class="gt_white_content notranslate">
+<div style="position:relative;height:14px;"><span onclick="closeGTPopup()" style="position:absolute;right:2px;top:2px;font-weight:bold;font-size:12px;cursor:pointer;color:#444;font-family:cursive;">X</span></div>
+<div class="gt_languages">
+<a href="#" onclick="changeGTLanguage(&#039;fr|fr&#039;, this);return false;" title="French" class="glink nturl selected"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/fr.png"  alt="fr" /> <span>French</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|en&#039;, this);return false;" title="English" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/en.png" alt="en" /> <span>English</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|es&#039;, this);return false;" title="Spanish" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/es.png"  alt="es" /> <span>Spanish</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|de&#039;, this);return false;" title="German" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/de.png"  alt="de" /> <span>German</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|it&#039;, this);return false;" title="Italian" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/it.png" alt="it" /> <span>Italian</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|nl&#039;, this);return false;" title="Dutch" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/nl.png" alt="nl" /> <span>Dutch</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|pt&#039;, this);return false;" title="Portuguese" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/pt.png"  alt="pt" /> <span>Portuguese</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|ar&#039;, this);return false;" title="Arabic" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/ar.png" alt="ar" /> <span>Arabic</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|ja&#039;, this);return false;" title="Japanese" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/ja.png" alt="ja" /> <span>Japanese</span></a><a href="#" onclick="changeGTLanguage(&#039;fr|zh-CN&#039;, this);return false;" title="Chinese (Simplified)" class="glink nturl"><img class="gt_flag-new" data-gt-lazy-src="//www.autohebdo.fr/app/plugins/gtranslate/flags/32/zh-CN.png" alt="zh-CN" /> <span>Chinese (Simplified)</span></a></div>
+</div>
+<style>
+.gt_black_overlay {display:none;position:fixed;top:0%;left:0%;width:100%;height:100%;background-color:black;z-index:2017;-moz-opacity:0.8;opacity:.80;filter:alpha(opacity=80);}
+.gt_white_content {display:none;position:fixed;top:50%;left:50%;width:682px;height:375px;margin:-187.5px 0 0 -341px;padding:6px 16px;border-radius:5px;background-color:white;color:black;z-index:19881205;overflow:auto;text-align:left;}
+.gt_white_content a {display:block;padding:5px 0;border-bottom:1px solid #e7e7e7;white-space:nowrap;}
+.gt_white_content a:last-of-type {border-bottom:none;}
+.gt_white_content a.selected {background-color:#ffc;}
+.gt_white_content .gt_languages {column-count:2;column-gap:10px;}
+.gt_white_content::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 3px rgba(0,0,0,0.3);border-radius:5px;background-color:#F5F5F5;}
+.gt_white_content::-webkit-scrollbar {width:5px;}
+.gt_white_content::-webkit-scrollbar-thumb {border-radius:5px;-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,.3);background-color:#888;}
+</style>
+
+<script>
+function openGTPopup(a) {jQuery('.gt_white_content a img').each(function() {if(!jQuery(this)[0].hasAttribute('src'))jQuery(this).attr('src', jQuery(this).attr('data-gt-lazy-src'))});if(a === undefined){document.getElementById('gt_lightbox').style.display='block';document.getElementById('gt_fade').style.display='block';}else{jQuery(a).parent().find('#gt_lightbox').css('display', 'block');jQuery(a).parent().find('#gt_fade').css('display', 'block');}}
+function closeGTPopup() {jQuery('.gt_white_content').css('display', 'none');jQuery('.gt_black_overlay').css('display', 'none');}
+function changeGTLanguage(pair, a) {doGTranslate(pair);jQuery('a.switcher-popup').html(jQuery(a).html()+'<span style="color:#666;font-size:8px;font-weight:bold;">&#9660;</span>');closeGTPopup();}
+jQuery('.gt_black_overlay').click(function(e) {if(jQuery('.gt_white_content').is(':visible')) {closeGTPopup()}});
+</script>
+<style>#goog-gt-tt{display:none!important;}.goog-te-banner-frame{display:none!important;}.goog-te-menu-value:hover{text-decoration:none!important;}.goog-text-highlight{background-color:transparent!important;box-shadow:none!important;}body{top:0!important;}#google_translate_element2{display:none!important;}</style>
+<div id="google_translate_element2"></div>
+<script>function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'fr',autoDisplay: false}, 'google_translate_element2');}if(!window.gt_translate_script){window.gt_translate_script=document.createElement('script');gt_translate_script.src='https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2';document.body.appendChild(gt_translate_script);}</script>
+
+<script>
+function GTranslateGetCurrentLang() {var keyValue = document['cookie'].match('(^|;) ?googtrans=([^;]*)(;|$)');return keyValue ? keyValue[2].split('/')[2] : null;}
+function GTranslateFireEvent(element,event){try{if(document.createEventObject){var evt=document.createEventObject();element.fireEvent('on'+event,evt)}else{var evt=document.createEvent('HTMLEvents');evt.initEvent(event,true,true);element.dispatchEvent(evt)}}catch(e){}}
+function doGTranslate(lang_pair){if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];if(GTranslateGetCurrentLang() == null && lang == lang_pair.split('|')[0])return;if(typeof ga=='function'){ga('send', 'event', 'GTranslate', lang, location.hostname+location.pathname+location.search);}var teCombo;var sel=document.getElementsByTagName('select');for(var i=0;i<sel.length;i++)if(sel[i].className.indexOf('goog-te-combo')!=-1){teCombo=sel[i];break;}if(document.getElementById('google_translate_element2')==null||document.getElementById('google_translate_element2').innerHTML.length==0||teCombo.length==0||teCombo.innerHTML.length==0){setTimeout(function(){doGTranslate(lang_pair)},500)}else{teCombo.value=lang;GTranslateFireEvent(teCombo,'change');GTranslateFireEvent(teCombo,'change')}}
+if(GTranslateGetCurrentLang() != null)jQuery(document).ready(function() {var lang_html = jQuery(".gt_languages a[onclick*='|"+GTranslateGetCurrentLang()+"']").html();if(typeof lang_html != "undefined")jQuery('a.switcher-popup').html(lang_html.replace("data-gt-lazy-", "")+'<span style="color:#666;font-size:8px;font-weight:bold;">&#9660;</span>');});
+</script>
+</div>
+    </div>
+
+    <div class="top-bar__auth">
+                <a class="btn btn-account btn-white" href="https://www.autohebdo.fr/login" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Se connecter</a>
+        <a class="btn btn-icon btn-yellow" href="https://autohebdo.aboshop.fr/" data-redirection="https://autohebdo.aboshop.fr/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">S'abonner</a>
+
+    </div>
+</div>
+</div><div class="main-menu">
+    		<a href="https://www.autohebdo.fr" class="logo-mini" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2035%2026'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/uploads/2021/03/a-sub.svg" alt="logo-mini"></a>
+    	<nav>
+        <ul id="mainMenu" class=""><li class=" menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children"><a href="https://www.autohebdo.fr/actualites/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">F1</a>
+<ul class="sub-menu">
+<li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="/actualites/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Actualités</a></li> <li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="/classements/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Classements</a></li> <li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="/calendriers/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Calendrier & résultats</a></li> <li class=" menu-item menu-item-type-custom menu-item-object-custom"><a href="/videos/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Vidéos</a></li> </ul>
+</li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.autohebdo.fr/actualites/rallye" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Rallye</a>
+<ul class="sub-menu">
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/rallye/wrc" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">WRC</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/rallye/erc" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">ERC</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/rallye/rallye-france" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Rallye France</a></li> </ul>
+</li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.autohebdo.fr/actualites/endurance" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Endurance</a>
+<ul class="sub-menu">
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/endurance/wec/24-h-le-mans" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">24 H. Le Mans</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/endurance/wec" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">WEC</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/endurance/imsa" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">IMSA</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/endurance/elms" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">ELMS</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/endurance/asian-lms" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Asian LMS</a></li> </ul>
+</li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children"><a href="https://www.autohebdo.fr/actualites/monoplace" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Monoplace</a>
+<ul class="sub-menu">
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a href="https://www.autohebdo.fr/actualites/monoplace/indycar" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Indycar</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/monoplace/formule-2" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Formule 2</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/monoplace/formule-3" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Formule 3</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/monoplace/formule-e" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Formule E</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/monoplace/fr-alpine" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">FR Alpine</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/monoplace/autres-monoplace" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Autres</a></li> </ul>
+</li> <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-bold"><a href="https://mobiwisy.fr/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Mobiwisy</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.autohebdo.fr/actualites/gt-tourisme" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">GT / Tourisme</a>
+<ul class="sub-menu">
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/gt-world-challenge" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">GT World Challenge</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/igtc" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">IGTC</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/ffsa-gt" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">FFSA GT</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/dtm" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">DTM</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/tourisme" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Tourisme</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/nascar" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Nascar</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/autres" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Autres</a></li> </ul>
+</li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="https://www.autohebdo.fr/actualites/autres-courses" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Autres</a>
+<ul class="sub-menu">
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/autres-courses/covoiturage" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Covoiturage</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/autres-courses/rallye-raid" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Rallye-Raid</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/autres-courses/rallycross" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Rallycross</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/autres-courses/courses-de-cote" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Courses de côte</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/autres-courses/trophee-andros" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Trophée Andros</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/autres-courses/karting" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Karting</a></li> </ul>
+</li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/classic" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Classic</a></li> <li class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.autohebdo.fr/actualites/motogp" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">MotoGP</a></li> <li class="videos menu-item menu-item-type-custom menu-item-object-custom menu-item-bold"><a href="/videos" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">AUTOhebdo TV</a></li> <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-bold"><a href="https://www.autohebdo.fr/?post_type=endirect" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">En direct</a></li> <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-bold"><a href="/premium" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Premium</a></li> </ul>	</nav>
+</div><div class="main-menu-mobile">
+    <div class="wrap-menu">
+        		    <a class="btn btn-account btn-white" href="https://www.autohebdo.fr/login" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Se connecter</a>
+        	    <nav>
+            <ul id="mainMenu" class=""><li id="menu-item-14101" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-14101"><a href="https://www.autohebdo.fr/actualites/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">F1</a>
+<ul class="sub-menu">
+	<li id="menu-item-14835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14835"><a href="/actualites/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Actualités</a></li>
+	<li id="menu-item-14836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14836"><a href="/classements/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Classements</a></li>
+	<li id="menu-item-14837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14837"><a href="/calendriers/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Calendrier &#038; résultats</a></li>
+	<li id="menu-item-14838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14838"><a href="/videos/f1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Vidéos</a></li>
+</ul>
+</li>
+<li id="menu-item-19235" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-19235"><a href="https://www.autohebdo.fr/actualites/rallye" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Rallye</a>
+<ul class="sub-menu">
+	<li id="menu-item-19238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19238"><a href="https://www.autohebdo.fr/actualites/rallye/wrc" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">WRC</a></li>
+	<li id="menu-item-19236" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19236"><a href="https://www.autohebdo.fr/actualites/rallye/erc" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">ERC</a></li>
+	<li id="menu-item-19237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19237"><a href="https://www.autohebdo.fr/actualites/rallye/rallye-france" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Rallye France</a></li>
+</ul>
+</li>
+<li id="menu-item-19244" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-19244"><a href="https://www.autohebdo.fr/actualites/endurance" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Endurance</a>
+<ul class="sub-menu">
+	<li id="menu-item-352576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-352576"><a href="https://www.autohebdo.fr/actualites/endurance/wec/24-h-le-mans" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">24 H. Le Mans</a></li>
+	<li id="menu-item-19243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19243"><a href="https://www.autohebdo.fr/actualites/endurance/wec" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">WEC</a></li>
+	<li id="menu-item-19242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19242"><a href="https://www.autohebdo.fr/actualites/endurance/imsa" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">IMSA</a></li>
+	<li id="menu-item-19241" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19241"><a href="https://www.autohebdo.fr/actualites/endurance/elms" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">ELMS</a></li>
+	<li id="menu-item-19240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19240"><a href="https://www.autohebdo.fr/actualites/endurance/asian-lms" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Asian LMS</a></li>
+</ul>
+</li>
+<li id="menu-item-14099" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-14099"><a href="https://www.autohebdo.fr/actualites/monoplace" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Monoplace</a>
+<ul class="sub-menu">
+	<li id="menu-item-14244" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14244"><a href="https://www.autohebdo.fr/actualites/monoplace/indycar" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Indycar</a></li>
+	<li id="menu-item-14239" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14239"><a href="https://www.autohebdo.fr/actualites/monoplace/formule-2" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Formule 2</a></li>
+	<li id="menu-item-14241" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14241"><a href="https://www.autohebdo.fr/actualites/monoplace/formule-3" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Formule 3</a></li>
+	<li id="menu-item-14242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14242"><a href="https://www.autohebdo.fr/actualites/monoplace/formule-e" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Formule E</a></li>
+	<li id="menu-item-14243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14243"><a href="https://www.autohebdo.fr/actualites/monoplace/fr-alpine" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">FR Alpine</a></li>
+	<li id="menu-item-14238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14238"><a href="https://www.autohebdo.fr/actualites/monoplace/autres-monoplace" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Autres</a></li>
+</ul>
+</li>
+<li id="menu-item-391278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-391278"><a href="https://mobiwisy.fr/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Mobiwisy</a></li>
+<li id="menu-item-19245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-19245"><a href="https://www.autohebdo.fr/actualites/gt-tourisme" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">GT / Tourisme</a>
+<ul class="sub-menu">
+	<li id="menu-item-14876" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14876"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/gt-world-challenge" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">GT World Challenge</a></li>
+	<li id="menu-item-19246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19246"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/igtc" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">IGTC</a></li>
+	<li id="menu-item-14875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14875"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/ffsa-gt" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">FFSA GT</a></li>
+	<li id="menu-item-14874" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14874"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/dtm" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">DTM</a></li>
+	<li id="menu-item-19247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19247"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/tourisme" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Tourisme</a></li>
+	<li id="menu-item-19248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19248"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/nascar" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Nascar</a></li>
+	<li id="menu-item-14873" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14873"><a href="https://www.autohebdo.fr/actualites/gt-tourisme/autres" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Autres</a></li>
+</ul>
+</li>
+<li id="menu-item-19249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-19249"><a href="https://www.autohebdo.fr/actualites/autres-courses" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Autres</a>
+<ul class="sub-menu">
+	<li id="menu-item-19259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19259"><a href="https://www.autohebdo.fr/actualites/autres-courses/covoiturage" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Covoiturage</a></li>
+	<li id="menu-item-19251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19251"><a href="https://www.autohebdo.fr/actualites/autres-courses/rallye-raid" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Rallye-Raid</a></li>
+	<li id="menu-item-19250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19250"><a href="https://www.autohebdo.fr/actualites/autres-courses/rallycross" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Rallycross</a></li>
+	<li id="menu-item-19252" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19252"><a href="https://www.autohebdo.fr/actualites/autres-courses/courses-de-cote" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Courses de côte</a></li>
+	<li id="menu-item-19253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19253"><a href="https://www.autohebdo.fr/actualites/autres-courses/trophee-andros" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Trophée Andros</a></li>
+	<li id="menu-item-19254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19254"><a href="https://www.autohebdo.fr/actualites/autres-courses/karting" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Karting</a></li>
+</ul>
+</li>
+<li id="menu-item-19256" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19256"><a href="https://www.autohebdo.fr/actualites/classic" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Classic</a></li>
+<li id="menu-item-351328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-351328"><a href="https://www.autohebdo.fr/actualites/motogp" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">MotoGP</a></li>
+<li id="menu-item-243" class="videos menu-item menu-item-type-custom menu-item-object-custom menu-item-243"><a href="/videos" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">AUTOhebdo TV</a></li>
+<li id="menu-item-401059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401059"><a href="https://www.autohebdo.fr/?post_type=endirect" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">En direct</a></li>
+<li id="menu-item-242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"><a href="/premium" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Premium</a></li>
+</ul>	    </nav>
+        <div class="bg-yellow magazine-cover">
+            <div class="magazine-cover__top">
+                <h3 class="title">Le magazine</h3>
+                <div class="description">Abonnez-vous à AUTOhebdo !</div>
+            </div>
+            <div class="magazine-cover__bottom">
+                <div class="image">
+	                <a href="https://autohebdo.aboshop.fr/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
+                        			                <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201943%202560'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/uploads/2023/01/imgpsh_fullsize_anim-58-scaled.jpeg">
+                        	                </a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-menu">
+            <ul class="social dark" style="display: none">
+    		<li>
+			<a href="https://twitter.com/autohebdo" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span class="icon-twitter"></span></a>
+		</li>
+
+        		<li>
+			<a href="https://www.facebook.com/autohebdofr/" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span class="icon-facebook"></span></a>
+		</li>
+        		<li>
+			<a href="https://www.youtube.com/user/AUTOHEBDOMagazine" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span class="icon-play"></span></a>
+		</li>
+        		<li>
+			<a href="https://www.instagram.com/autohebdo.mag/?hl=fr" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span class="icon-instagram"></span></a>
+		</li>
+    </ul>
+        </div>
+        <div class="bg-overlay"></div>
+    </div>
+</div><div class="mini-cover">
+	<a href="https://autohebdo.aboshop.fr/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
+					<img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201943%202560'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/uploads/2023/01/imgpsh_fullsize_anim-58-scaled.jpeg">
+			</a>
+</div>		</div>
+	</header>
+	<div class="body-wrapper">
+	<main id="main-content">
+        <div class="wrapper adverts-desk">
+    <div id="topads" class="adverts" style="position:relative">
+    <div class="ads-core-placer" id="top-banner-1137872563" data-ads-core='{"type":"Banniere-Haute", "device":"desktop,tablet"}'></div>
+
+
+</div>
+    </div>
+    <!--Start Pull HTML here-->
+
+            			<section class="section-breadcrumb">
+    <div class="wrapper">
+        <ul class="breadcrumbs">
+            <!-- Breadcrumb NavXT 7.1.0 -->
+<li><a property="item" typeof="WebPage" title="Go to AutoHebdo." href="https://www.autohebdo.fr" class="home" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer"><span property="name">Accueil</span></a><meta property="position" content="1"></li><li><a property="item" typeof="WebPage" title="Go to Actualités." href="https://www.autohebdo.fr/list-articles" class="post-root post post-post" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer"><span property="name">Actualités</span></a><meta property="position" content="2"></li><li><a property="item" typeof="WebPage" title="Go to the Monoplace category archives." href="https://www.autohebdo.fr/actualites/monoplace" class="taxonomy category" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer"><span property="name">Monoplace</span></a><meta property="position" content="3"></li><li><a property="item" typeof="WebPage" title="Go to the Indycar category archives." href="https://www.autohebdo.fr/actualites/monoplace/indycar" class="taxonomy category" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer"><span property="name">Indycar</span></a><meta property="position" content="4"></li><li><span property="name" class="post post-post current-item">Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ?</span><meta property="url" content="https://www.autohebdo.fr/actualites/monoplace/indycar/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html"><meta property="position" content="5"></li>        </ul>
+
+    </div>
+</section>
+
+<div class="section-banner">
+    <div class="smallscreen">
+        <div class="wrapper">
+                            <h2 class="article__category">F1</h2>
+                        <h1 class="header--bigger">
+                                Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ?            </h1>
+        </div>
+    </div>
+    <div class="wrapper">
+        <div class="col-left">
+            <div class="bigscreen">
+                                <h2 class="article__category">F1</h2>
+                                <h1 class="header--bigger">
+                                        Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ?                </h1>
+            </div>
+            <div class="section-banner__description">
+                En l'espace de quelques heures, Alex Palou a été annoncé chez McLaren Racing et chez Chip Ganassi Raccing en 2023. Qui aura le dernier mot ?             </div>
+
+            <div class="social-share">
+                 <i class="icon-share"></i>
+    <ul class="social">
+        <li>
+            <a href="mailto:?subject=Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ?&body=Merci d'acceder à la page suivante : https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html"
+               onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><span
+                        class="icon-email"></span></a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" target="_blank" onclick="window.open(this.href, &#039;mywin&#039;, &#039;left=20,top=20,width=500,height=500,toolbar=1,resizable=0&#039;); return false;" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span
+                        class="icon-facebook"></span></a>
+        </li>
+        <li>
+            <a href="https://twitter.com/share?url=https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" target="_blank" onclick="window.open(this.href, &#039;mywin&#039;, &#039;left=20,top=20,width=500,height=500,toolbar=1,resizable=0&#039;); return false;" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span
+                        class="icon-twitter"></span></a>
+        </li>
+        <li>
+            <a href="https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" title="Copy" class="copy_text" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+                <span class="icon-link"></span>
+            </a>
+        </li>
+    </ul>
+                </div>
+            <div class="section-banner__info">
+                <p class="status">Publié le <strong>13/07/2022</strong> à <strong>10:26</strong></p>
+                <p class="author"><a href="https://www.autohebdo.fr/actualites/author/medhi-casaurang" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Medhi Casaurang</a></p>
+                <p class="comments"><sup class="icon-comment">0</sup> <span>Voir les commentaire(s)</span></p>
+            </div>
+        </div>
+        <div class="col-right">
+                        <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20753%20494'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/uploads/2022/07/Alex-Palou-Chevrolet-Detroit-Grand-Prix-By_-Joe-Skibinski_Large-Image-Without-Watermark_m60905-scaled-e1657695945696-753x494.jpg" alt="Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ?">
+                                    <p>Alex Palou est au centre d'une histoire invraisemblable. © IndyCar Media</p>
+                    </div>
+    </div>
+</div><div class="section-article">
+    <div class="wrapper">
+        
+<div class="col-left">
+    <div class="editor">
+    <div class="ads-core-placer HalfpageAd_2" id="top-pave-123686285" data-ads-core='{"type":"Pave-haut", "device":"mobile"}'></div>
+        <p>La mode du « drama » chère aux réseaux sociaux a débarqué avec fracas en <a href="https://www.autohebdo.fr/actualites/monoplace/indycar" data-internallinksmanager029f6b8e52c="3" title="Indycar" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">IndyCar</a>. Dans la soirée du mardi 12 juillet, Alex Palou s’est retrouvé au cœur d’un méli-mélo imprévu concernant son avenir dans le championnat nord-américain.</p>
+<p>Dans un premier temps, son équipe actuelle Chip Ganassi Racing annonçait avoir activé l’option pour prolonger son contrat en vue de la saison 2023. Le champion d’IndyCar en 2021 devait donc continuer sa carrière au sein de l’écurie dirigée par Chip Ganassi, une information qui venait confirmer les bruits de couloirs concernant un statu quo dans la formation CGR. <em>« Le palmarès d&rsquo;Alex parle de lui-même »</em>, déclarait dans un premier communiqué de presse le propriétaire de l&rsquo;équipe. <em>« C’est un champion qui a fait ses preuves et l&rsquo;un des pilotes les plus redoutables au monde. Nous sommes très heureux de continuer à travailler ensemble. »</em></p>
+<p>Même Alex Palou était satisfait de ce partenariat renouvelé. <em>« C’est un sentiment formidable de savoir que je serai de retour avec Chip Ganassi Racing la saison prochaine. L’équipe m&rsquo;a accueilli à bras ouverts dès le premier jour, et je suis ravi de continuer à travailler avec Chip, Mike Hull tout le monde au sein de l&rsquo;organisation. Les objectifs restent les mêmes et nous continuerons à travailler sans relâche pour les atteindre. »</em></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Chip Ganassi Racing announced today that the team has exercised its option to extend <a href="https://twitter.com/AlexPalou?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">@AlexPalou</a> through the 2023 season.  </p>
+<p>&quot;Alex’s track record speaks for itself. He’s a proven champion and one of the most formidable drivers in the world.&quot; &#8211; <a href="https://twitter.com/GanassiChip?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">@GanassiChip</a><a href="https://t.co/PTIcqIp37N" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">https://t.co/PTIcqIp37N</a> <a href="https://t.co/9coZ12KhOh" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">pic.twitter.com/9coZ12KhOh</a></p>
+<p>&mdash; Chip Ganassi Racing (@CGRTeams) <a href="https://twitter.com/CGRTeams/status/1546946366127087619?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">July 12, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Oui mais voilà. Quelques heures après cette publication, le pilote espagnol réagissait sur Twitter de manière inattendue.<em> « J’ai récemment appris par les médias que cet après-midi, sans mon accord, Chip Ganassi Racing a publié un communiqué de presse annonçant que je piloterais avec CGR en 2023,</em> a-t-il écrit.<em> Encore plus surprenant, le communiqué de CGR comprenait une citation qui ne venait pas de moi. Je n&rsquo;ai pas approuvé ce communiqué de presse, et je n&rsquo;ai pas rédigé ni approuvé cette citation.</em></p>
+<p><em>Comme je l&rsquo;ai récemment informé CGR, pour des raisons personnelles, je n&rsquo;ai pas l&rsquo;intention de continuer avec l&rsquo;équipe après 2022. Mis à part les événements malheureux de ce soir, j&rsquo;ai un grand respect pour l&rsquo;équipe CGR et j&rsquo;ai hâte de terminer cette saison en force ensemble. »</em></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">1/2</p>
+<p>I have recently learned from the media that this afternoon, without my approval, Chip Ganassi Racing issued a press release announcing that I would be driving with CGR in 2023.  Even more surprising was that CGR’s release included a  “quote”  which did not come from me.</p>
+<p>&mdash; Alex Palou Montalbo (@AlexPalou) <a href="https://twitter.com/AlexPalou/status/1546996392912109568?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">July 12, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Ambiance ! <a href="https://fr.wikipedia.org/wiki/%C3%81lex_Palou" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">Alex Palou</a> a publiquement désapprouvé l’annonce de son propre employeur. Ce n’est pas tout. Encore quelques minutes et cette fois c’est <a href="https://www.autohebdo.fr/actualites/ecurie/mclaren" data-internallinksmanager029f6b8e52c="76" title="McLaren" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">McLaren Racing</a> qui porte l’estocade en annonçant le recrutement d’Alex Palou pour 2023 !</p>
+<p><em>« Je suis heureux d’ajouter Alex Palou dans la famille McLaren Racing</em>, a déclaré Zak Brown, le PDG de la marque. <em>C’est un ajout fantastique dans notre line-up déjà phénoménal. »</em> Toutefois, McLaren n’a pas confirmé dans quel championnat Alex Palou évoluera. Extreme E ? C’est plus qu’improbable. IndyCar ? C’est déjà plus sérieux. <a href="https://www.autohebdo.fr/actualites/f1" data-internallinksmanager029f6b8e52c="1" title="F1" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Formule 1</a> ? N’allons pas trop vite en besogne car plusieurs candidats toquent à la porte.</p>
+<p>McLaren Racing a en effet adopté une stratégie globale consistant à signer une pléiade de pilotes, sans trop savoir où les caser. Cela permet notamment de s’attacher les services des meilleurs concurrents avant que d’autres écuries ne leur fassent les yeux doux. Les pilotes sous contrat avec McLaren Racing ont par ailleurs accepté de signer pour la marque britannique, plutôt que pour une discipline.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Delighted to bring <a href="https://twitter.com/AlexPalou?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">@AlexPalou</a> into the McLaren Racing family! As the INDYCAR champion, Alex is a fantastic addition to the already phenomenal talent we have in our driver roster. Bring on 2023! 👊 <a href="https://t.co/tRh6cQpndo" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">pic.twitter.com/tRh6cQpndo</a></p>
+<p>&mdash; Zak Brown (@ZBrownCEO) <a href="https://twitter.com/ZBrownCEO/status/1547005689926762497?ref_src=twsrc%5Etfw" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">July 12, 2022</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>En l’état actuel (juillet 2022), voici quel est le roster de McLaren Racing à travers la F1 et l’IndyCar. Pato O’Ward, un temps annoncé sur le départ, a finalement prolongé en IndyCar jusqu’à fin 2025 avec Arrow McLaren SP. Colton Herta, actuel représentant Andretti en IndyCar et ce jusqu’à fin 2023, fait toutefois partie du programme d’essais de la F1 2021 chez McLaren, tout comme Pato O’Ward… et Alex Palou.</p>
+<p>N’oublions pas que Félix Rosenqvist, pensionnaire de McLaren Arrow SP depuis 2021 en IndyCar, a accepté un nouveau contrat avec McLaren en 2023, sans que Zak Brown ne précise si le Suédois évoluerait en <a href="https://www.autohebdo.fr/actualites/monoplace/formule-e" data-internallinksmanager029f6b8e52c="63" title="Formule E" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Formule E</a> ou en IndyCar. De son côté, Arrow McLaren SP va ajouter une troisième <a href="https://www.autohebdo.fr/actualites/monoplace" data-internallinksmanager029f6b8e52c="61" title="Monoplace" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">monoplace</a> en 2023, mais il n’y aura pas de place pour tout ce beau monde.</p>
+<p>En Formule 1, <a href="https://www.autohebdo.fr/pilote/f1/lando-norris" data-internallinksmanager029f6b8e52c="11" title="Lando Norris" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Lando Norris</a> n’a aucun souci à se faire puisque l’Anglais est confirmé jusqu’en 2025. Quant à <a href="https://www.autohebdo.fr/pilote/f1/daniel-ricciardo" data-internallinksmanager029f6b8e52c="23" title="Daniel Ricciardo" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Daniel Ricciardo</a>, l’ancienne nouvelle star de <a href="https://www.autohebdo.fr/actualites/ecurie/red-bull-racing" data-internallinksmanager029f6b8e52c="78" title="Red Bull Racing" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Red Bull</a> et <a href="https://www.autohebdo.fr/actualites/ecurie/renault-f1-team" data-internallinksmanager029f6b8e52c="84" title="Renault F1 Team" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Renault</a> n’est plus en odeur de sainteté suite à une série de contre-performances depuis son arrivée chez McLaren en 2021. Son baquet est en danger, ce qui attise les convoitises notamment de Colton Herta, qui a effectué des essais privés à Portimao avec la McLaren de 2021.</p>
+<p><strong>À LIRE AUSSI &gt; <a href="https://www.autohebdo.fr/actualites/f1/colton-herta-en-essais-avec-mclaren.html" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Colton Herta en essai à Portimao avec McLaren F1</a></strong></p>
+<p>Dernier soubresaut en date, le réaction du Chip Ganassi Racing, qui ne compte pas lâcher aisément Alex Palou. <em>« Notre communiqué de presse antérieur le dit très clairement, Alex Palou est sous contrat avec le team jusqu’à fin 2023</em>, se défend Mike Hull, le Team manager de CGR.</p>
+<p>La situation est donc ubuesque avant l’épreuve d’IndyCar dans les rues de Toronto (Canada, 17 juillet). Alex Palou appartient à deux équipes rivales en IndyCar pour 2023, ce qui ne pourra pas évidemment devenir une réalité l’année prochaine. Il faudra très probablement l’intervention des avocats spécialisés dans les droits du sport pour dénouer ce sac de nœuds dans les prochains mois.</p>
+
+	        
+        <div id='optidigital-adslot-Mobile_Bottom' style='display:none;' class="Mobile_Bottom"></div>
+        <div id='optidigital-adslot-Content_Bottom' style='display:none;' class="Content_Bottom"></div>
+    </div>
+        
+    <div class="comments-social">
+        <p class="comments"><sup
+                    class="icon-comment">0</sup>
+            <span>Voir les commentaire(s)</span>
+        </p>
+        <div class="social-share">
+                <i class="icon-share"></i>
+    <ul class="social">
+        <li>
+            <a href="mailto:?subject=Alex Palou transféré chez McLaren Racing, mais dans quelle discipline ?&body=Merci d'acceder à la page suivante : https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html"
+               onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><span
+                        class="icon-email"></span></a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" target="_blank" onclick="window.open(this.href, &#039;mywin&#039;, &#039;left=20,top=20,width=500,height=500,toolbar=1,resizable=0&#039;); return false;" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span
+                        class="icon-facebook"></span></a>
+        </li>
+        <li>
+            <a href="https://twitter.com/share?url=https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" target="_blank" onclick="window.open(this.href, &#039;mywin&#039;, &#039;left=20,top=20,width=500,height=500,toolbar=1,resizable=0&#039;); return false;" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span
+                        class="icon-twitter"></span></a>
+        </li>
+        <li>
+            <a href="https://www.autohebdo.fr/actualites/f1/alex-palou-indycar-f1-fe-mclaren-racing-chip-ganassi.html" title="Copy" class="copy_text" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+                <span class="icon-link"></span>
+            </a>
+        </li>
+    </ul>
+            </div>
+    </div>
+</div>
+        <div class="col-right">
+    <div class="magazine-cover image-ads adverts">
+        <div class="adverts">
+<div class="ads-core-placer HalfpageAd_1" id="top-pane-1591908719" data-ads-core='{"type":"Pave-Haut", "device":"desktop,tablet"}'></div>
+</div>
+    </div>
+    <div class="magazine-cover image-ads adverts">
+        <div class="adverts">
+<div class="ads-core-placer " id="pave-bas-1631433773" data-ads-core='{"type":"Pave-Bas", "device":"desktop,tablet"}'></div>
+</div>    </div>
+</div>
+        <div class="col-left">
+                            <div class="box-category">
+                    <p class="box-category__title">Poursuivre votre lecture sur ces sujets :</p>
+                    <div class="box-category__list">
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/2023" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">2023</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/alex-palou" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Alex Palou</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/arrow-mclaren-sp" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">arrow mclaren sp</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/cgr" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">CGR</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/chip-ganassi" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Chip Ganassi</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/chip-ganassi-racing" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Chip Ganassi Racing</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/contrat" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Contrat</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/f1-en" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">f1</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/fe" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">fe</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/indycar" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Indycar</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/mclaren-racing" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">McLaren Racing</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/transfert" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">transfert</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/twitter" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">twitter</a>
+                                                    <a href="https://www.autohebdo.fr/actualites/tag/zak-brown" class="btn btn-small btn-gray-light" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Zak brown</a>
+                                            </div>
+                </div>
+                        <div class="article__left__list">
+    <h2 class="header--bigger">À lire aussi</h2>
+    <article class="article article__left article__left--big ">
+<div class="article__left__text ">
+            <p class="article__category">F1</p>
+        
+    <p class="header header--big--halyard">
+                <a href="https://www.autohebdo.fr/actualites/f1/etes-vous-en-faveur-de-lexpansion-de-la-grille-f1.html" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+            Êtes-vous en faveur de l’expansion de la grille F1 ?        </a>
+        <sup class="icon-comment">0</sup>
+    </p>
+</div>
+    <div class="article__left__img-container">
+        <a href="https://www.autohebdo.fr/actualites/f1/etes-vous-en-faveur-de-lexpansion-de-la-grille-f1.html" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+            <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20127'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/uploads/2023/01/Le-débat-de-la-semaine-site8-190x127.jpg">
+        </a>
+    </div>
+    
+</article>
+<article class="article article__left article__left--big ">
+<div class="article__left__text ">
+            <p class="article__category">F1</p>
+        
+    <p class="header header--big--halyard">
+                <span class="article__title-logo article__title-logo--medium">
+	         <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/themes/autohebdo/assets/icons/title-flag-20.svg">
+	    </span>
+            <a href="https://www.autohebdo.fr/actualites/f1/mohammed-ben-sulayem-avoir-un-constructeur-americain-constitue-un-reve-pour-la-f1.html" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+            Mohammed Ben Sulayem : « Avoir un constructeur américain constitue un rêve pour la F1 »        </a>
+        <sup class="icon-comment">0</sup>
+    </p>
+</div>
+    <div class="article__left__img-container">
+        <a href="https://www.autohebdo.fr/actualites/f1/mohammed-ben-sulayem-avoir-un-constructeur-americain-constitue-un-reve-pour-la-f1.html" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+            <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20127'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/uploads/2023/01/DPPI_05123010_617-190x127.jpg">
+        </a>
+    </div>
+    
+</article>
+<article class="article article__left article__left--big ">
+<div class="article__left__text ">
+            <p class="article__category">WRC</p>
+        
+    <p class="header header--big--halyard">
+                <a href="https://www.autohebdo.fr/actualites/rallye/wrc/le-guide-wrc-2023-a-la-une-du-n2395-dautohebdo.html" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+            Le Guide WRC 2023 à la Une du N°2395 d’AUTOhebdo        </a>
+        <sup class="icon-comment">0</sup>
+    </p>
+</div>
+    <div class="article__left__img-container">
+        <a href="https://www.autohebdo.fr/actualites/rallye/wrc/le-guide-wrc-2023-a-la-une-du-n2395-dautohebdo.html" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">
+            <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20127'%3E%3C/svg%3E" data-src="https://www.autohebdo.fr/app/uploads/2023/01/imgpsh_fullsize_anim-57-190x127.jpeg">
+        </a>
+    </div>
+    
+</article>
+</div>            <div class="box-comment">
+    <h2 class="header--bigger">Commentaires</h2>
+                <p class="red"> *L'espace réservé aux utilisateurs connectés. Veuillez             <a href="https://www.autohebdo.fr/login" style="border-bottom: 1px solid;" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">vous connecter</a> pour pouvoir répondre ou publier un commentaire !        </p>
+        <p class="comments"><sup class="icon-comment">
+            0</sup>
+        <span>Commentaire(s) </span>
+    </p>
+
+        <a href="" class="write" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Écrire un commentaire</a>
+</div>        </div>
+    </div>
+</div>
+            
+            
+    <!--END  Pull HTML here-->
+<!-- Page Footer-->
+</main>
+<div id='optidigital-adslot-Content_Bottom' style='display:none;' class="Content_Bottom"></div>
+<amp-sticky-ad layout="nodisplay">
+    <amp-ad width=320 height=100
+            data-enable-refresh="30"
+            type="doubleclick"
+            data-block-on-consent
+            data-slot="/21684682213/autohebdo.fr/amp-articles"
+            data-multi-size="320x100,320x80,320x50"
+            data-multi-size-validation="false"
+            json='{"targeting":{"adslot":["Mobile_Sticky_Bottom"]}}'
+            rtc-config='{"vendors":{ }, "urls":["https://pbs.optidigital.com/openrtb2/amp?tag_id=autohebdo_Mobile_Sticky_Bottom&slot=ATTR(data-slot)&targeting=TGT&curl=CANONICAL_URL&timeout=TIMEOUT&adcid=ADCID&purl=HREF&gdpr_consent=CONSENT_STRING"],"timeoutMillis": 1000}'>
+    </amp-ad>
+</amp-sticky-ad><footer id="footer">
+    <div class="wrapper">
+        <div class="footer__top">
+	<h2 class="header--big">Liens utiles</h2>
+</div><div class="footer__main">
+	    	
+	 		<div class="footer__main">
+	    <div class="menu-footer-menu-container">
+			<ul id="footer-menu" class="list__parent">
+				<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children list__child__item footer-ca" >
+					<h4 style="font-weight:bold;font-size:25px;line-height:25px;">
+						Les derniers articles
+					</h4>
+					<ul class="sub-menu">
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=470320" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Êtes-vous en faveur de l’expansion de la grille F1 ?</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=470323" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Mohammed Ben Sulayem : « Avoir un constructeur américain constitue un rêve pour la F1 »</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=470327" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Le Guide WRC 2023 à la Une du N°2395 d’AUTOhebdo</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=470285" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Franco Colapinto rejoint la Williams Academy et MP Motorsport</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=470272" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Toto Wolff : « Il n’y a pas de date butoir » pour la prolongation de Lewis Hamilton</a>
+					</li>
+					 		
+					</ul>
+				</li>
+				<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children list__child__item footer-ca" >
+					<h4 style="font-weight:bold;font-size:25px;line-height:25px;">
+						Les articles en tendance
+					</h4>
+					<ul class="sub-menu">
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=396820" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Wolff rompt le silence : « Nous ne souhaitons pas gagner un championnat du monde devant une cour d’appel »</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=456830" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Fair-play financier : Red Bull crève le mauvais plafond</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=414109" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Faut-il aller au-delà des 24 GP par saison ?</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=452401" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Le GP de Monaco reconduit pour 3 ans : l’ACM remet les clefs à Liberty !</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/?post_type=post&amp;p=361224" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Jean-Louis Fiszman (1960-2021)</a>
+					</li>
+					 		
+					</ul>
+				</li>
+				<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children list__child__item">
+					<h4 style="font-weight:bold;font-size:25px;line-height:25px;">
+						Les pilotes vedettes
+					</h4>
+					<ul class="sub-menu">
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/pilote/f1/mick-schumacher" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Mick Schumacher</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/pilote/f1/yuki-tsunoda" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Yuki Tsunoda</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/pilote/endurance/brendon-hartley" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Brendon Hartley</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/pilote/f1/carlos-sainz" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Carlos Sainz Jr</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/pilote/f1/jean-alesi" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Jean Alesi</a>
+					</li>
+					 		
+					</ul>
+				</li>
+				<li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children list__child__item">
+					<h4 style="font-weight:bold;font-size:25px;line-height:25px;">
+						Les dernières courses
+					</h4>
+					<ul class="sub-menu">
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/edition-evenement/f1/grand-prix-dabou-dhabi-2022" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Grand Prix d&rsquo;Abou Dhabi 2022</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/edition-evenement/f1/grand-prix-du-bresil-2022" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Grand Prix du Brésil 2022</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/edition-evenement/f1/grand-prix-du-mexique-2022" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Grand Prix du Mexique 2022</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/edition-evenement/f1/grand-prix-des-etats-unis-2022" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Grand Prix des États-Unis 2022</a>
+					</li>
+										<li class=" menu-item menu-item-type-custom menu-item-object-custom list__child__item">
+					<a href="https://www.autohebdo.fr/edition-evenement/f1/grand-prix-du-japon-2022" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Grand Prix du Japon 2022</a>
+					</li>
+					 		
+					</ul>
+				</li>
+			</ul>
+        </div>
+	    </div>
+
+        <ul class="social dark" style="display: none">
+    		<li>
+			<a href="https://twitter.com/autohebdo" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span class="icon-twitter"></span></a>
+		</li>
+
+        		<li>
+			<a href="https://www.facebook.com/autohebdofr/" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span class="icon-facebook"></span></a>
+		</li>
+        		<li>
+			<a href="https://www.youtube.com/user/AUTOHEBDOMagazine" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span class="icon-play"></span></a>
+		</li>
+        		<li>
+			<a href="https://www.instagram.com/autohebdo.mag/?hl=fr" target="_blank" data-wpel-link="external" rel="nofollow external noopener noreferrer"><span class="icon-instagram"></span></a>
+		</li>
+    </ul>
+</div>
+<div class="footer__bottom">
+    <div class="menu-footer-bottom-menu-container"><ul id="footer-bottom-menu" class=""><li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-255"><a href="https://www.autohebdo.fr/" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Home</a></li>
+<li id="menu-item-310254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310254"><a href="https://www.autohebdo.fr/mentions-legales" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Mentions légales</a></li>
+<li id="menu-item-256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256"><a href="/contact" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Nous contacter</a></li>
+<li id="menu-item-310301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310301"><a href="https://www.autohebdo.fr/conditions-generales-d-utilisation" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Conditions générales d’utilisation</a></li>
+<li id="menu-item-350865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-350865"><a href="https://www.autohebdo.fr" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">© AUTOhebdo</a></li>
+<li id="menu-item-404821" class="cmpcookie menu-item menu-item-type-custom menu-item-object-custom menu-item-404821"><a>Cookies</a></li>
+<li id="menu-item-415781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415781"><a href="https://www.autohebdo.fr/archives" data-wpel-link="internal" target="_self" rel="follow noopener noreferrer">Archives</a></li>
+</ul></div></div>    </div>
+</footer>
+<div class="load__more--animation">
+    <div class="lds-roller">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+<div class="back-to-top open" onclick="toTop();"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></div>
+
+
+<!-- begin end body-wrap -->
+</div>
+<!-- end body-wrap -->
+
+
+<!-- Javascript-->
+
+
+<!-- GTM Container placement set to footer -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MM6F45L" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type='text/javascript' id='superpwa-register-sw-js-extra'>
+/* <![CDATA[ */
+var superpwa_sw = {"url":"\/wp\/OneSignalSDKWorker.js.php","disable_addtohome":"0","enableOnDesktop":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.autohebdo.fr/app/plugins/super-progressive-web-apps/public/js/register-sw.js?ver=-b-modified-1650893987' id='superpwa-register-sw-js'></script>
+<script type='text/javascript' src='https://www.autohebdo.fr/app/plugins/duracelltomi-google-tag-manager/js/gtm4wp-youtube.js?ver=1.16.1-b-modified-1661430205' id='gtm4wp-youtube-js'></script>
+<script type='text/javascript' id='main-script-js-extra'>
+/* <![CDATA[ */
+var script_loc = {"ajax_url":"https:\/\/www.autohebdo.fr\/wp\/wp-admin\/admin-ajax.php","home_url":"https:\/\/www.autohebdo.fr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.autohebdo.fr/app/themes/autohebdo/assets/js/main.js?ver=-b-modified-1666363665' id='main-script-js' defer></script>
+<script type='text/javascript' src='https://www.autohebdo.fr/app/themes/autohebdo/assets/js/custom.js?ver=-b-modified-1663065901' id='custom-script-js'></script>
+<script type='text/javascript' src='https://www.autohebdo.fr/wp/wp-includes/js/comment-reply.min.js?ver=e7c378bc53bc6f417d1ff5ab0d31311f' id='comment-reply-js'></script>
+<script type='text/javascript' id='nep_native_emoji-js-extra'>
+/* <![CDATA[ */
+var nep_plugin_vars = {"nep_name":"Native Emoji","nep_frequently_used":"Frequently Used","nep_smileys_people":"Smileys & People","nep_animals_nature":"Animals & Nature","nep_food_drink":"Food & Drink","nep_activity_sports":"Activity & Sports","nep_travel_places":"Travel & Places","nep_objects":"Objects","nep_symbols":"Symbols","nep_flags":"Flags","nep_yellow":"No Skin Tone","nep_pale":"Light Skin Tone","nep_cream":"Medium Light Skin Tone","nep_moderate_brown":"Medium Skin Tone","nep_dark_brown":"Medium Dark Skin Tone","nep_black":"Dark Skin Tone","nep_url":"https:\/\/www.autohebdo.fr\/app\/plugins\/native-emoji\/","nep_close":"Fermer"};
+var nep_frequently_used = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.autohebdo.fr/app/plugins/native-emoji/js/native_emoji.js?ver=3.0.1-b-modified-1643043884' id='nep_native_emoji-js'></script>
+<script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=e7c378bc53bc6f417d1ff5ab0d31311f' async='async' id='remote_sdk-js'></script>
+
+
+<div id="advert_in_single">
+            <div class="adslot-1">
+                <div class="ads-core-placer " id="inarticle-485291826" data-ads-core='{"type":"pave-haut2-desktop", "device":"desktop,tablet"}'> </div>
+            <div class="ads-core-placer mobile-fix" id="inarticle-2048225868" data-ads-core='{"type":"pave-haut2", "device":"mobile"}'> </div>
+    </div>
+                <div class="adslot-3">
+                <div class="ads-core-placer " id="inarticle-1172813736" data-ads-core='{"type":"pave-haut2-desktop", "device":"desktop,tablet"}'> </div>
+            <div class="ads-core-placer mobile-fix" id="inarticle-1238336654" data-ads-core='{"type":"pave-haut2", "device":"mobile"}'> </div>
+    </div>
+        </div>
+<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="https://www.autohebdo.fr/app/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 429/461 objects using redis
+Page Caching using redis 
+Lazy Loading
+Database Caching using redis (Request-wide modification query)
+Fragment Caching 4/6 fragments using redis
+
+Served from: www.autohebdo.fr @ 2023-01-10 12:47:09 by W3 Total Cache
+-->

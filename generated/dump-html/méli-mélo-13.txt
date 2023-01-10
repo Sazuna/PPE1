@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="fr" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+    <title>De l’insignifiance</title><!-- mÃ©tadonnÃ©es-->
+    <meta name="generator" content="Lodel 1.0" />
+    <meta name="description" lang="fr" content="Le vrai paradoxe est là : à l’échelle cosmique notre durée de vie est insignifiante, et pourtant ce bref laps de temps où nous paraissons sur la scène du monde est le lieu d’où procède toute question de signifiance. Paul Ricœur, « Le temps raconté », Revue de métaphysique et de morale, 1984, 4, p. 440. 1. Au Japon, en autobus — apprendre une nouvelle langue Vous êtes à l’étranger ? Prenez le bus ! C’est parfois une expérience sémiotique hautement instructive. — A Kyoto en tout cas, pour qui ne connaît pas le japonais, le bus est une mystérieuse boîte à promesses de signifiance, pleine de défis à la décodification. De rares inscriptions en anglais y font figure de bouées de sauvetage, tout comme les caractères en rōmaji (nom japonais de l’écriture latine) reconnaissables deci delà bien qu’espacés de façon tout à fait inhabituelle et entourés de mille signes inconnus. Mais qu’est-ce qu’un signe sinon une promesse de signification ? Les touristes en route vers les célèbres temples ont beau ne rien savoir des hiraganas, katakanas et kanji, ces systèmes d’écriture que le japonais mélange constamment, ils ne doutent pas que ces arrangements « bizarres » de points et de lignes ne sont pas purement décoratifs. Leur emplacement, leur allure, un minimum de familiarité avec les alphabets japonais, et surtout l’idée que partout au monde les autobus sont agencés de façon similaire, tout incite à scruter ces graphismes, à penser que ce sont des signes, et même à essayer de les décoder au p" />
+    <meta name="identifier-url" content="https://www.unilim.fr/actes-semiotiques/index.php?id=5641" />
+    <meta name="copyright" content="CC BY-NC-ND 4.0"/>
+    <meta name="author" content="Leone, Massimo" />
+    <meta name="keywords" content="code;habitus;insignifiance vs signifiance;insignifiant vs insensé;kanji;signe;violence;CC BY-NC-ND 4.0" />
+    <meta name="Date-Creation-yyyymmdd" content="2016-06-28 11:52:40" />
+    <meta name="Date-Revision-yyyymmdd" content="2020-09-03 16:17:23" />
+    <!-- métadonnées Dublin Core -->
+    <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+    <meta name="DC.publisher" content="Université de Limoges" />
+    <meta name="DC.rights" content="CC BY-NC-ND 4.0" />
+    <meta name="DC.source" content="https://www.unilim.fr/actes-semiotiques" />
+    <meta name="DC.type" content="text" />
+    <meta name="DC.format" content="text/html" />
+    <meta name="DC.language" scheme="DCTERMS.RFC4646" content="fr" />
+    <meta name="DC.identifier" scheme="DCTERMS.URI" content="https://www.unilim.fr/actes-semiotiques/index.php?id=5641" />
+    <meta name="DC.title" content="De l’insignifiance" />
+    <meta name="DC.subject" content="code" />
+    <meta name="DC.subject" content="habitus" />
+    <meta name="DC.subject" content="insignifiance vs signifiance" />
+    <meta name="DC.subject" content="insignifiant vs insensé" />
+    <meta name="DC.subject" content="kanji" />
+    <meta name="DC.subject" content="signe" />
+    <meta name="DC.subject" content="violence" />
+    <meta name="DC.creator" content="Leone, Massimo" />
+    <meta name="DC.date" scheme="W3CDTF" content="2016-06-28" />
+    <meta name="DCTERMS.created" scheme="DCTERMS.W3CDTF" content="2016-06-28 11:52:40" />
+    <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2020-09-03 16:17:23" />
+    <meta name="DCTERMS.tableOfContents" scheme="DCTERMS.W3CDTF" content="1. Au Japon, en autobus — apprendre une nouvelle langue;2. L’indéchiffrable, l’incompréhensible, le troublant : triptyque de l’insensé;3. En deçà ou au-delà de l’insensé, l’insignifiance;" />
+    <meta name="DCTERMS.isPartOf" scheme="DCTERMS.W3CDTF" content="AS N&#176; 119 | 2016>"/>
+      <meta name="DCTERMS.modified" scheme="DCTERMS.W3CDTF" content="2020-09-03 16:17:23" />
+      <meta name="DCTERMS.bibliographicCitation" content="" />
+      <!-- Google Scholar -->
+      <meta name="citation_journal_title" content="Actes Sémiotiques" />
+      <meta name="citation_author" content="Leone, Massimo" />
+      <meta name="citation_title" content="De l’insignifiance" />
+      <meta name="citation_issn" content="2270-4957" />
+      <meta name="citation_publisher" content="Université de Limoges" />
+      <meta name="citation_date" content="-1" />
+      <meta name="citation_volume" content="119">
+        <meta name="citation_language" content="fr" />
+        <meta name="citation_pdf_url" content="https://www.unilim.fr/actes-semiotiques/pdf/5641" />
+        <meta name="citation_fulltext_html_url" content="https://www.unilim.fr/actes-semiotiques/5641" />
+        <meta name="citation_keywords" content="Article" />
+        <link title="schema(PRISM)" rel="schema.prism" href="http://prismstandard.org/namespaces/basic/2.0/" />
+        <meta name="prism.url" content="https://www.unilim.fr/actes-semiotiques/index.php?id=5641" />
+        <meta name="prism.publicationName" content="Actes Sémiotiques" />
+        <meta name="prism.volume" content="119" />
+        <meta name="prism.issueName" content="N&#176; 119 | 2016" />
+        <meta name="prism.pageRange" content="XX-XX" />
+        <meta name="prism.publicationDate" content="2016"/>
+        <meta name="prism.eIssn" content="2270-4957" />
+        <meta name="prism.copyright" content="CC BY-NC-ND 4.0" />
+        <meta name="prism.teaser" content="" />
+        <!-- Open Graph -->
+        <meta property="og:locale" content="fr" />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="De l’insignifiance" />
+        <meta property="og:description" content="" />
+        <meta property="og:url" content="https://www.unilim.fr/actes-semiotiques/index.php?id=5641" />
+        <meta property="og:site_name" content="Actes Sémiotiques" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="stylesheet" href="//cdn.unilim.fr/vendor/font-awesome/font-awesome-4.7.0/css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all" />
+        <link rel="stylesheet" type="text/css" media="print" href="css/styles_site_print.css"  title="Impression" />
+        <link rel="alternate" type="application/rss+xml" title="Actualit&#233;s de Actes Sémiotiques" href="index.php?page=backend&amp;format=rssdocuments" />
+        <link rel="alternate" type="application/rss+xml" title="Flux RSS de  De l’insignifiance" href="index.php?page=backend&amp;format=rss&amp;ident=5641" />
+      </head>
+      <body>
+        <header class="header hidden-xs" role="banner">
+          <nav id="navbar-unilim" class="navbar navbar-default" >
+            <div class="container">
+              <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar">
+                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wheelchair"></i> Accessibilité<b class="caret"></b></a><ul class="dropdown-menu">
+                      <li><a href="4803">Politique d’accessibilité</a></li>
+                      <li><a accesskey="3" href="index.php?page=map" class="map">Plan du site</a></li>
+                      <li class="divider" role="presentation"></li>
+                      <li><a accesskey="s" href="#content">Aller au contenu</a></li>
+                      <li><a href="#navbar-md">Aller au menu</a></li>
+                      <li class="divider" role="presentation"></li>
+                      <li><a href="index.php?page=advancedsearch" accesskey="4">Rechercher dans le site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <form id="ul_search_bar" role="search" method="get" action="search.php">
+                      <label class="sr-only" for="query">Rechercher</label>
+                      <div class="input-group margin-bottom-sm"><span class="input-group-addon"><i class="fa fa-search fa-fw ul-color-sec"></i></span><input type="text" id="query" name="query" class="ul_search_bar_input" maxlength="150" value="" /></div>
+                      <input class="ul_search_bar_btn" value="Recherche" type="submit"/>
+                    </form>
+                  </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a class="navbar-link" href="http://unilim.fr" title="Site de l'Universit&#233; de Limoges"><i class="fa fa-university"></i> Université de Limoges</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+          <div class="container site-header">
+            <div id="headerUnilim" class="row">
+              <div class="row-same-height">
+                <div class="col-md-3 col-sm-5">
+                  <p class="h1"><a href="index.php" title="Retour Ã  la page d'accueil"><img src="images/logoAS.svg" class="hidden-sm" alt="logo des Actes SÃ©miotiques"/><img src="images/logoAS2.svg" class="visible-sm" alt="logo des Actes SÃ©miotiques"/></a></p>
+                </div>
+                <div class="col-md-13 col-sm-11">
+                  <ul class="list-inline social-links navbar-right">
+                    <li><a class="btn btn-xs close" href="index.php?page=backend&amp;format=rss&amp;ident=5641" title="Flux RSS de  De l’insignifiance" target="_blank"><i class="fa fa-rss fa-lg"></i></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <nav id="main-menu" class="navbar navbar-inverse visible-sm visible-xs" role="navigation">
+          <div class="container">
+            <div class="navbar-header"><a class="navbar-brand visible-xs" href="index.php">Actes Sémiotiques</a><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-revue"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+            </div>
+            <div id="navbar-revue" class="collapse navbar-collapse"><span class="sr-only">Naviguer par : </span><ul class="nav navbar-nav navbar">
+                <li class="hidden-xs hidden-sm"><a href="index.php" title="Accéder &#224; la page : Accueil" class="active"><span class="linetop"><i class="fa fa-home"></i> Accueil</span></a></li>
+                <li class="dropdown"><a href="#" title="Numéros" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="linetop">Numéros <b class="caret"></b></span></a><ul class="dropdown-menu" role="menu">
+                    <li><a href="7647">N&#176; 127 | 2022</a></li>
+                    <li><a href="7376">N&#176; 126 | 2022</a></li>
+                    <li><a href="7108">N&#176; 125 | 2021</a></li>
+                    <li><a href="6679">N&#176; 124 | 2021</a></li>
+                    <li><a href="6399">N&#176; 123 | 2020</a></li>
+                    <li class="num_all"><a href="57">Tous les numéros</a></li>
+                  </ul>
+                  <li class=" dropdown"><a href="#" title="Rubriques" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="linetop">Rubriques <b class="caret"></b></span></a><ul class="dropdown-menu" role="menu">
+                      <li><a href="6674">Recherches et analyses sémiotiques</a></li>
+                      <li><a href="5045">Dialogue</a></li>
+                      <li><a href="6676">Dossiers</a></li>
+                      <li><a href="7505">Énigmes sémiotiques</a></li>
+                      <li><a href="474">Comptes rendus</a></li>
+                      <li class="divider" role="presentation"></li>
+                      <li><a href="6678">Actes de colloques et prépublication de séminaires</a></li>
+                      <li class="divider" role="presentation"></li>
+                      <li><a href="4413">Thèses</a></li>
+                      <li><a href="5436">Archives ouvertes</a></li>
+                    </ul>
+                  </li>
+                  <li class=" dropdown"><a href="#" title="Bibliothèque" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="linetop">Bibliothèque <b class="caret"></b></span></a><ul class="dropdown-menu" role="menu">
+                      <li><a href="762">Pulim-sémiotique</a></li>
+                      <li><a href="5435">Réédité en ligne</a></li>
+                      <li><a href="567">Bibliographies thématiques</a></li>
+                      <li><a href="764">Annuaire de sites</a></li>
+                    </ul>
+                  </li>
+                  <li class="dropdown"><a href="#" title="Index" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="linetop">Index <b class="caret"></b></span></a><ul class="dropdown-menu" role="menu">
+                      <li><a href="35">Auteurs</a></li>
+                      <li><a href="522">Auteurs cités</a></li>
+                      <li><a href="40">Mots-clés</a></li>
+                      <li><a href="47">Palabras claves</a></li>
+                      <li><a href="7304">Palavras chaves</a></li>
+                      <li class="dropdown-submenu"><a lass="dropdown-toggle" data-toggle="dropdown">Oeuvres commentées <b class="caret-right"></b></a><ul class="dropdown-menu">
+                          <li><a href="38">Auteurs</a></li>
+                          <li><a href="index.php?page=comptesrendus">Liste chronologique</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class=" dropdown"><a href="#" title="La revue" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="linetop">La revue <b class="caret"></b></span></a><ul class="dropdown-menu" role="menu">
+                      <li><a href="2958">Politique éditoriale</a></li>
+                      <li><a href="6784">Politiques de publication</a></li>
+                      <li><a href="6783">Déclaration sur l'éthique et les bonnes pratiques en matière de publication</a></li>
+                      <li><a href="6803">Normes de rédaction</a></li>
+                      <li><a href="2959">Organigramme et comités</a></li>
+                    </ul>
+                  </li>
+                  <li class=" dropdown"><a href="#" title="Informations" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="linetop">Informations <b class="caret"></b></span></a><ul class="dropdown-menu" role="menu">
+                      <li><a href="6667">Appels à contributions</a></li>
+                      <li><a href="1468">Communiqués</a></li>
+                      <li><a href="6154">Contacts</a></li>
+                      <li><a href="4804">Crédits et mentions légales</a></li>
+                    </ul>
+                  </li>
+                  <li class="visible-xs-block"><a href="index.php?page=advancedsearch" accesskey="4"><i class="fa fa-search"></i> Rechercher dans le site</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+          <div class="container article_recherche">
+            <div class="row">  
+              <nav id="navbar-md" class="col-md-3 hidden-sm hidden-xs" role="navigation">
+                <div class="sousmenu numeros">
+                  <p>Derniers numéros</p>
+                  <ul class="list-unstyled num_list">
+                    <li><a href="7647">N&#176; 127 | 2022</a></li>
+                    <li><a href="7376">N&#176; 126 | 2022</a></li>
+                    <li><a href="7108">N&#176; 125 | 2021</a></li>
+                    <li><a href="6679">N&#176; 124 | 2021</a></li>
+                    <li><a href="6399">N&#176; 123 | 2020</a></li>
+                    <li class="num_all"><a href="57"><i class="fa fa-location-arrow"></i> Tous les numéros</a></li>
+                  </ul>
+                </div>
+                <div class="sousmenu rubrique">
+                  <ul class="list-unstyled">
+                    <li><a href="6674">Recherches et analyses sémiotiques</a></li>
+                    <li><a href="5045">Dialogue</a></li>
+                    <li><a href="6676">Dossiers</a></li>
+                    <li><a href="7505">Énigmes sémiotiques</a></li>
+                    <li><a href="474">Comptes rendus</a></li>
+                    <li class="divider" role="presentation"></li>
+                    <li><a href="6678">Actes de colloques et prépublication de séminaires</a></li>
+                    <li class="divider" role="presentation"></li>
+                    <li><a href="4413">Thèses</a></li>
+                    <li><a href="5436">Archives ouvertes</a></li>
+                  </ul>
+                </div>
+                <div class="sousmenu news">
+                  <ul class="list-unstyled">
+                    <li><a href="6667">Appels à contributions</a></li>
+                  </ul>
+                  <ul class="list-unstyled">
+                    <li><a href="1468">Communiqués</a></li>
+                  </ul>
+                </div>
+                <div class="sousmenu categorie">
+                  <p>Bibliothèque :</p>
+                  <ul class="list-unstyled">
+                    <li><a href="762">Pulim-sémiotique</a></li>
+                    <li><a href="5435">Réédité en ligne</a></li>
+                    <li><a href="567">Bibliographies thématiques</a></li>
+                    <li><a href="764">Annuaire de sites</a></li>
+                  </ul>
+                </div>
+                <div class="sousmenu index">
+                  <p>Index :</p>
+                  <ul class="list-unstyled">
+                    <li><a href="35">Auteurs</a></li>
+                    <li><a href="522">Auteurs cités</a></li>
+                    <li><a href="40">Mots-clés</a></li>
+                    <li><a href="47">Palabras claves</a></li>
+                    <li><a href="7304">Palavras chaves</a></li>
+                    <li>
+                      <p>Oeuvres commentées :</p>
+                      <ul class="list-unstyled">
+                        <li><a href="38">Auteurs</a></li>
+                        <li><a href="index.php?page=comptesrendus">Liste chronologique</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </nav>
+              <article class="article col-md-13">      
+                <div class="row hidden-xs">
+                  <div class="col-md-16">
+                    <ol class="breadcrumb">
+                      <li><a href="index.php"><i class="fa fa-home"></i></a></li>
+                      <li><a href="57">Numéros</a></li>
+                      <li><a href="59">Actes sémiotiques</a></li>
+                      <li><a href="5529">N&#176; 119 | 2016</a></li>
+                      <li class="active">De l’insignifiance</li>
+                    </ol>
+                  </div>
+                </div>
+                <header class="row">
+                  <div class="col-md-16">            
+                    <div class="margin-left">  
+                      <h1 class="article_titre">De l’insignifiance  </h1>  
+                      <p class="article_auteur"><span class="auteur">Massimo <span class="familyName">Leone</span></span></p>
+                      <ul class="list-unstyled article_auteur_affiliation">
+                        <li><span class="affiliation">Université de Turin</span></li>
+                      </ul>              
+                      <p class="article_date">Publié en ligne le 30 juin 2016</p>                            
+                      <p class="article_doi"><a href="https://doi.org/10.25965/as.5641">https://doi.org/10.25965/as.5641</a></p>            </div>
+                  </div>
+                </header>              
+                <div class="row">          
+                  <div class="col-md-10">            
+                    <div class="margin-left">                            
+                      <p class="article_titre_partie margin-top">Index</p>
+                      <p class="index"><a href="1102">Articles du même auteur</a> parus dans les <em>Actes Sémiotiques</em></p>   
+                      <p class="mb-0">Mots-clés : <a href="5642">code</a>, <a href="2447">habitus</a>, <a href="5643">insignifiance vs signifiance</a>, <a href="5644">insignifiant vs insensé</a>, <a href="5645">kanji</a>, <a href="1398">signe</a>, <a href="5646">violence</a></p>                             
+                      <p>Auteurs cités : <a href="534">Umberto <span class="familyName">ECO</span></a>, <a href="548">Eric <span class="familyName">LANDOWSKI</span></a>, <a href="540">Charles Sanders <span class="familyName">PEIRCE</span></a>, <a href="5647">Kenneth <span class="familyName">PIKE</span></a>, <a href="2685">Paul <span class="familyName">RICŒUR</span></a>, <a href="543">Thomas <span class="familyName">Sebeok</span></a></p>                            
+                      <div id="article_toc" class="margin-top">
+                        <p class="article_titre_partie">Plan</p>
+                        <div class="toc_section1"><a href="#tocto1n1" id="tocfrom1n1">1. Au Japon, en autobus — apprendre une nouvelle langue</a></div>  
+                        <div class="toc_section1"><a href="#tocto1n2" id="tocfrom1n2">2. L’indéchiffrable, l’incompréhensible, le troublant : triptyque de l’insensé</a></div>  
+                        <div class="toc_section1"><a href="#tocto1n3" id="tocfrom1n3">3. En deçà ou au-delà de l’insensé, l’insignifiance</a></div>  
+                        <div class="toc_section2"><a href="#tocto2n1" id="tocfrom2n1">3.1. S’éveiller de l’insignifiance</a></div>  
+                        <div class="toc_section2"><a href="#tocto2n2" id="tocfrom2n2">3.2. Sombrer dans l’insignifiance</a></div>  </div>            </div>          </div>          
+                  <div class="col-md-6">              
+                    <div id="nav_article_revue" class="article_navigation well">
+                      <ul class="nav nav-pills nav-justified gray">
+                        <li><a href="5529">N&#176; 119 | 2016</a></li>
+                        <li role="presentation"><a href="5613" title="Article Précédent"><i class="fa fa-chevron-left" aria-hidden="true"></i></a></li>
+                        <li role="presentation"><a href="5567" title="Article suivant"><i class="fa fa-chevron-right" aria-hidden="true"></i></a></li>
+                      </ul>
+                    </div>          </div>        </div>
+                <div class="row">
+                  <div class="col-md-10">            
+                    <div class="margin-left">  
+                      <div id="article_texte_integral" class="article_content article_recherche">    
+                        <p id="article_texte" class="article_titre_partie margin-top article_recherche">Texte intégral</p>                        
+                        <div class="article_pdf visible-sm visible-xs">
+                          <ul class="nav nav-pills gray">
+                            <li class="pull-right"><a href="5641&file=1" title="Article au format PDF - 205k"><span class="badge pull-right">205k</span> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Version PDF</a></li>
+                          </ul>
+                        </div>    
+                        <p class="epigraphe" dir="ltr">Le vrai paradoxe est l&agrave;&nbsp;: &agrave; l&rsquo;&eacute;chelle cosmique notre dur&eacute;e de vie est insignifiante, et pourtant ce bref laps de temps o&ugrave; nous paraissons sur la sc&egrave;ne du monde est le lieu d&rsquo;o&ugrave; proc&egrave;de toute question de signifiance.</p>
+                        <p class="epigraphe" dir="ltr">Paul Ric&oelig;ur, &laquo;&nbsp;Le temps racont&eacute;&nbsp;&raquo;, <em>Revue de m&eacute;taphysique et de morale</em>, 1984, 4, p.&nbsp;440.</p>
+                        <h1 dir="ltr" id="heading1"><a href="#tocfrom1n1" id="tocto1n1">1. Au Japon, en autobus &mdash; apprendre une nouvelle langue</a></h1>
+                        <p class="texte" dir="ltr">Vous &ecirc;tes &agrave; l&rsquo;&eacute;tranger&nbsp;? Prenez le bus&nbsp;! C&rsquo;est parfois une exp&eacute;rience s&eacute;miotique hautement instructive. &mdash; A Kyoto en tout cas, pour qui ne conna&icirc;t pas le japonais, le bus est une myst&eacute;rieuse bo&icirc;te &agrave; promesses de signifiance, pleine de d&eacute;fis &agrave; la d&eacute;codification. De rares inscriptions en anglais y font figure de bou&eacute;es de sauvetage, tout comme les caract&egrave;res en <em>r&#333;maji</em> (nom japonais de l&rsquo;&eacute;criture latine) reconnaissables deci del&agrave; bien qu&rsquo;espac&eacute;s de fa&ccedil;on tout &agrave; fait inhabituelle et entour&eacute;s de mille signes inconnus. Mais qu&rsquo;est-ce qu&rsquo;un signe sinon une <em>promesse</em> de signification&nbsp;? Les touristes en route vers les c&eacute;l&egrave;bres temples ont beau ne rien savoir des <em>hiraganas</em>, <em>katakanas</em> et <em>kanji</em>, ces syst&egrave;mes d&rsquo;&eacute;criture que le japonais m&eacute;lange constamment, ils ne doutent pas que ces arrangements &laquo;&nbsp;bizarres&nbsp;&raquo; de points et de lignes ne sont pas purement d&eacute;coratifs. Leur emplacement, leur allure, un minimum de familiarit&eacute; avec les alphabets japonais, et surtout l&rsquo;id&eacute;e que partout au monde les autobus sont agenc&eacute;s de fa&ccedil;on similaire, tout incite &agrave; scruter ces graphismes, &agrave; penser que ce sont des signes, et m&ecirc;me &agrave; essayer de les d&eacute;coder au prix de path&eacute;tiques efforts. Car telle est la relation d&eacute;sesp&eacute;r&eacute;e des hommes avec le langage&nbsp;: m&ecirc;me en l&rsquo;absence de toute chance de comprendre, nous ne pouvons pas nous emp&ecirc;cher d&rsquo;essayer de comprendre. Arriver &agrave; d&eacute;chiffrer tant soit peu la langue inconnue o&ugrave; nous nous trouvons immerg&eacute;s, ce serait commencer &agrave; avoir prise sur l&rsquo;environnement&nbsp;!</p>
+                        <p class="texte" dir="ltr">Mais les touristes pratiquent peu l&rsquo;autobus. Ils pr&eacute;f&egrave;rent le m&eacute;tro, avec ses r&egrave;gles plus ou moins globalis&eacute;es et standardis&eacute;es, &agrave; l&rsquo;oppos&eacute; des sch&eacute;mas locaux qu&rsquo;un usager du bus doit savoir d&eacute;coder pour s&rsquo;y retrouver. O&ugrave; et quand acheter son billet&nbsp;? Combien co&ucirc;te-t-il&nbsp;? Pour quelle cat&eacute;gorie de d&eacute;placement&nbsp;? Que faut-il en faire&nbsp;? Comment deviner si votre arr&ecirc;t&nbsp;s&rsquo;approche et faire savoir au chauffeur que vous voudriez descendre&nbsp;? De tous c&ocirc;t&eacute;s, des messages aux &eacute;critures inconnues mais insistantes par la couleur, la police, la taille semblent proclamer &agrave; qui mieux mieux&nbsp;: &laquo;&nbsp;Je suis tr&egrave;s important&nbsp;! Lis-moi, comprends-moi, suis mes instructions&nbsp;!&nbsp;&raquo; H&eacute;las, ils resteront pour l&rsquo;&eacute;tranger comme les avertissements d&rsquo;une d&eacute;it&eacute; aussi lointaine qu&rsquo;incompr&eacute;hensible. &mdash; A moins d&rsquo;apprendre&nbsp;!</p>
+                        <p class="texte" dir="ltr">Mais apprendre une langue est un exercice frustrant, surtout quand cela passe par le d&eacute;codage d&rsquo;un nouveau syst&egrave;me d&rsquo;&eacute;criture comme les logogrammes <em>kanji</em>, source majeure de d&eacute;couragement pour la plupart des visiteurs &eacute;trangers. Pourtant, pour la m&ecirc;me raison, apprendre une nouvelle langue est aussi une exp&eacute;rience exaltante. Trajets de bus et manuel de japonais jour apr&egrave;s jour, arrive l&rsquo;instant miraculeux o&ugrave; le signe tient sa promesse et d&eacute;livre son contenu. Les &eacute;critures syllabiques <em>hiragana</em> et <em>katakana</em> d&eacute;voilent les premi&egrave;res leur valeur sonore et par suite communicationnelle. Mais peu &agrave; peu les <em>kanji</em> cessent aussi d&rsquo;appara&icirc;tre comme des m&eacute;li-m&eacute;lo de points et de lignes. Sans r&eacute;v&eacute;ler encore leurs tr&eacute;sors s&eacute;mantiques, ils commencent &agrave; appara&icirc;tre comme des configurations structur&eacute;es sous-tendues par une logique &mdash; une logique qui vous &eacute;chappe mais dont vous sentez qu&rsquo;elle existe et peut &ecirc;tre apprise.</p>
+                        <p class="texte" dir="ltr">Un psychanalyste pourrait sans doute dire que si l&rsquo;exp&eacute;rience douce-am&egrave;re consistant &agrave; apprendre une langue est attirante, c&rsquo;est parce qu&rsquo;elle nous reporte dans une sorte de seconde enfance. S&rsquo;approprier une langue, n&rsquo;est-ce pas en effet acqu&eacute;rir petit &agrave; petit un moyen de contr&ocirc;le sur l&rsquo;environnement, en particulier vis-&agrave;-vis des parents&nbsp;? Apprendre une nouvelle langue, c&rsquo;est peut-&ecirc;tre avant tout vouloir parler de nouveau &agrave; ses parents. Et se placer d&eacute;lib&eacute;r&eacute;ment dans une situation d&rsquo;ignorance linguistique n&rsquo;est peut-&ecirc;tre rien d&rsquo;autre qu&rsquo;accepter l&rsquo;&eacute;preuve des laborieuses &eacute;tudes par lesquelles doit in&eacute;vitablement passer qui veut go&ucirc;ter au plaisir de se construire une nouvelle fois en tant que <em>soi linguistique</em> entour&eacute; par une communaut&eacute; de parlants. Les polyglottes le sentent bien, le plaisir d&rsquo;apprendre des langues peut donner lieu &agrave; une vraie d&eacute;pendance qui provient de ce d&eacute;sir inconscient d&rsquo;identit&eacute; en m&ecirc;me temps que d&rsquo;appartenance.</p>
+                        <p class="texte" dir="ltr">Psychanalyse mise &agrave; part, ce plaisir est aussi intimement li&eacute; &agrave; l&rsquo;instinct de conservation. M&ecirc;me plac&eacute;s dans des contextes culturels inconnus, nous restons convaincus que ce dont nous faisons l&rsquo;exp&eacute;rience autour de nous n&rsquo;est pas simplement de l&rsquo;ordre du bruit mais se compose de signes, et que leur d&eacute;chiffrement transformera les promesses de sens dont ils sont porteurs en de v&eacute;ritables messages. Apprendre &agrave; les lire nous donnera une ma&icirc;trise plus assur&eacute;e sur notre entourage, et par suite des perspectives de survie plus durables et paisibles. De m&ecirc;me que tout &ecirc;tre vivant s&rsquo;acharne &agrave; pr&eacute;server son existence mat&eacute;rielle dans le milieu qu&rsquo;il habite, de m&ecirc;me, dans la s&eacute;miosph&egrave;re culturelle, tout &ecirc;tre s&eacute;miotique lutte pour pr&eacute;server son existence symbolique en s&rsquo;effor&ccedil;ant d&rsquo;attacher du sens &agrave; la myriade de signes qui semblent sans cesse &eacute;maner de son entourage et qui, pour ind&eacute;chiffrables qu&rsquo;ils soient dans bien des cas, n&rsquo;en sont pas moins regard&eacute;s comme des signes. On mourra, et pourtant on veut survivre &mdash; on ne comprend rien, et pourtant on croit qu&rsquo;on pourrait comprendre.</p>
+                        <div class="texte_notes">
+                          <dl class="notes">
+                            <dt><span class="sr-only">Note de bas de page</span> 1 <span class="sr-only">:</span></dt>
+                            <dd>
+                              <p class="notesbaspage" dir="ltr"> &nbsp;Umberto Eco et Thomas A. Sebeok, <em>The Sign of Three&nbsp;: Dupin, Holmes, Peirce</em>, Bloomington, Indiana University Press, 1983.</p>
+                            </dd>
+                          </dl>
+                          <p class="texte" dir="ltr">Ce parall&eacute;lisme a son revers n&eacute;gatif. Si l&rsquo;instinct de survie nous emp&ecirc;che d&rsquo;accepter tout uniment notre mortalit&eacute;, l&rsquo;instinct s&eacute;miotique nous emp&ecirc;che, lui, de devenir pleinement conscients de ce qui constitue pourtant un &eacute;l&eacute;ment absolument central de la vie individuelle et collective&nbsp;: <em>l&rsquo;insignifiance</em>. L&rsquo;aspect le plus troublant de cette c&eacute;cit&eacute; est qu&rsquo;elle n&rsquo;affecte pas uniquement les profanes mais aussi les s&eacute;miologues et les s&eacute;mioticiens, sp&eacute;cialistes, ou suppos&eacute;s tels en la mati&egrave;re. Focalis&eacute;s sur leur objet de pr&eacute;dilection, le &laquo;&nbsp;signe&nbsp;&raquo;, et par del&agrave; le signe, la signification, ils n&rsquo;ont jamais cess&eacute;, depuis la plus lointaine pr&eacute;histoire de leur discipline, de cultiver un faible pour l&rsquo;<em>aube de la signification</em>, ce moment inaugural o&ugrave; les choses deviennent signes, o&ugrave; la r&eacute;alit&eacute; se fait promesse de signification, et, en g&eacute;n&eacute;ral sur la base d&rsquo;un code, d&eacute;livre finalement un sens. Toute la s&eacute;miotique d&rsquo;Umberto Eco peut &ecirc;tre lue comme une ode &agrave; cette anthropologie &agrave; la Sherlock Holmes, qui suppose que vivre consiste, moyennant des abductions astucieuses, &agrave; triompher de l&rsquo;apparent manque de sens de l&rsquo;environnement et &agrave; ma&icirc;triser les codes permettant l&rsquo;&eacute;change social de messages signifiants<a class="footnotecall" href="#ftn1" id="bodyftn1">1</a>.</p>
+                        </div>
+                        <p class="texte" dir="ltr">En se concentrant de la sorte sur l&rsquo;instant euphorique o&ugrave; le vide de sens devient son contraire, o&ugrave; on passe de la promesse du signe &agrave; l&rsquo;actualit&eacute; d&rsquo;un contenu et o&ugrave; la coop&eacute;ration entre les textes et leurs &laquo;&nbsp;lecteurs id&eacute;aux&nbsp;&raquo; d&eacute;bouche sur des standards herm&eacute;neutiques (&agrave; condition d&rsquo;avoir affaire &agrave; des communaut&eacute;s d&rsquo;interpr&egrave;tes parfaitement int&eacute;gr&eacute;es), la s&eacute;miotique a coupablement n&eacute;glig&eacute; un autre aspect de la question, dont la port&eacute;e existentielle est pourtant de premi&egrave;re grandeur. Elle a entretenu l&rsquo;illusion que la pl&eacute;nitude du sens est la r&egrave;gle et l&rsquo;insignifiance une exception marginale. Est-ce vraiment le cas&nbsp;? La s&eacute;miotique peut-elle r&eacute;pondre aux questions humainement les plus urgentes sur le sens, la signification et la communication en adoptant une vision aussi id&eacute;aliste&nbsp;? Imaginons des m&eacute;decins qui auraient &eacute;tudi&eacute;, enseign&eacute;, travaill&eacute; durant des mill&eacute;naires dans l&rsquo;illusion que le corps humain est immortel. Quel secours un m&eacute;decin qui penserait que la mort n&rsquo;est pas la r&egrave;gle mais l&rsquo;exception pourrait-il nous apporter&nbsp;? Une attitude similaire &agrave; l&rsquo;&eacute;gard du &laquo;&nbsp;bruit&nbsp;&raquo;, de l&rsquo;incompr&eacute;hension, du vide de sens &mdash; en un mot, face &agrave; l&rsquo;insignifiance &mdash; ne constitue-t-elle pas un obstacle &agrave; toute compr&eacute;hension authentique, empathique, et finalement utile de la soci&eacute;t&eacute;&nbsp;?</p>
+                        <p class="texte" dir="ltr">C&rsquo;est, paradoxalement, un malheur que la plus grande part de la th&eacute;orie s&eacute;miotique ait &eacute;t&eacute; con&ccedil;ue par des auteurs qui savaient parfaitement communiquer&nbsp;: un peu comme si la m&eacute;decine avait &eacute;t&eacute; con&ccedil;ue par des m&eacute;decins qui n&rsquo;auraient jamais connu la douleur, la maladie, la mort. Pourtant, le sort des deux principaux fondateurs de la discipline aurait pu mieux inspirer leurs successeurs&nbsp;: d&rsquo;un c&ocirc;t&eacute; de l&rsquo;Atlantique, un philosophe g&eacute;nial, mort dans la mis&egrave;re, abandonn&eacute; de tous&nbsp;; de l&rsquo;autre, un linguiste non moins g&eacute;nial, qui cultivait une passion bizarre pour les anagrammes et mourut lui aussi presque d&eacute;pourvu de disciple. Peut-&ecirc;tre est-il temps de prendre l&rsquo;insignifiance au s&eacute;rieux.</p>
+                        <div class="texte_notes">
+                          <dl class="notes">
+                            <dt><span class="sr-only">Note de bas de page</span> 2 <span class="sr-only">:</span></dt>
+                            <dd>
+                              <p class="notesbaspage" dir="ltr"> &nbsp;Pour la traduction de ce texte initialement r&eacute;dig&eacute; en anglais (&laquo;&nbsp;On Insignifiance&nbsp;&raquo;, &agrave; para&icirc;tre dans l&rsquo;<em>American Journal of Semiotics</em>, 2016), nous avons adopt&eacute; le parti de rendre l&rsquo;anglais <em>meaningless</em> par &laquo;&nbsp;insens&eacute;&nbsp;&raquo; et <em>insignificant</em> par &laquo;&nbsp;insignifiant&nbsp;&raquo;. Nous suivons en cela la convention terminologique adopt&eacute;e par E. Landowski dans <em>Les Interactions risqu&eacute;es</em> (Limoges, Pulim, 2004, p.&nbsp;72 et <em>passim</em>) o&ugrave; sont distingu&eacute;es deux formes antith&eacute;tiques du non-sens. Tandis que l&rsquo;une est associ&eacute;e &agrave; l&rsquo;id&eacute;e d&rsquo;un monde chaotique ne permettant de reconna&icirc;tre aucune codification, aucune r&eacute;gularit&eacute;, et par suite incompr&eacute;hensible, ind&eacute;chiffrable et inqui&eacute;tant &mdash; &laquo;&nbsp;insens&eacute;&nbsp;&raquo; (<em>meaningless</em>) &mdash;, l&rsquo;autre s&rsquo;enracine dans la vision d&rsquo;un univers au contraire enti&egrave;rement codifi&eacute;, r&eacute;gul&eacute;, programm&eacute; de part en part, o&ugrave; l&rsquo;&eacute;ternelle et incontournable r&eacute;p&eacute;tition du m&ecirc;me conduit &agrave; l&rsquo;&eacute;videment du sens et &agrave; sa dissolution dans l&rsquo;&laquo;&nbsp;insignifiance&nbsp;&raquo; (<em>insignificance</em>).</p>
+                            </dd>
+                          </dl>
+                          <p class="texte" dir="ltr">Mais il faut d&rsquo;abord en circonscrire le concept, en distinguant en premier lieu l&rsquo;<em>insignifiant</em> (<em>insignificant</em>) de l&rsquo;<em>insens&eacute;</em> (<em>meaningless</em>)<a class="footnotecall" href="#ftn2" id="bodyftn2">2</a>.</p>
+                        </div>
+                        <h1 dir="ltr" id="heading2"><a href="#tocfrom1n2" id="tocto1n2">2. L&rsquo;ind&eacute;chiffrable, l&rsquo;incompr&eacute;hensible, le troublant&nbsp;: triptyque de l&rsquo;insens&eacute;</a></h1>
+                        <p class="texte" dir="ltr"><em>Insignifiant</em> &mdash; <em>insens&eacute;</em>&nbsp;: bien que ces deux adjectifs puissent para&icirc;tre interchangeables, on a l&agrave; en effet deux choses tr&egrave;s diff&eacute;rentes. Nous semble &laquo;&nbsp;in-sens&eacute;&nbsp;&raquo; ce que nous ne comprenons pas, ce qui pour nous est d&eacute;pourvu de sens, ou a un sens que nous ne parvenons pas &agrave; saisir. Quelque chose dans l&rsquo;environnement nous appara&icirc;t comme un signe mais ne tient pas sa promesse de signification. Pour la plupart des touristes, les instructions en <em>kanji</em> sont, de cette mani&egrave;re, priv&eacute;es de sens&nbsp;: bien que le contexte permette de les identifier comme des signes, ces signes restent pour eux des graphismes tout au plus potentiellement signifiants, faute de leur donner acc&egrave;s aux contenus qu&rsquo;ils recouvrent. Autrement dit, les <em>kanji</em> sont d&eacute;pourvus de sens subjectivement, bien qu&rsquo;ils ne le soient pas objectivement. Muets pour certains destinataires, ils restent n&eacute;anmoins des signes. Un peu d&rsquo;&eacute;tudes, et viendra l&rsquo;exp&eacute;rience euphorique &eacute;voqu&eacute;e plus haut&nbsp;: le sentiment d&rsquo;un vide de sens fera place au plein. Selon cette premi&egrave;re acception, insens&eacute; est en somme synonyme d&rsquo;<em>ind&eacute;chiffrable</em>.</p>
+                        <p class="texte" dir="ltr">Selon une seconde acception, peut aussi &ecirc;tre dit d&eacute;pourvu de sens, insens&eacute;, un signe dont on comprend le contenu mais qu&rsquo;on ne parvient pas &agrave; int&eacute;grer dans un cadre d&rsquo;intelligibilit&eacute; plus global. C&rsquo;est ce qu&rsquo;illustre un autre aspect des autobus japonais, non moins d&eacute;concertant aux yeux des &eacute;trangers&nbsp;: le comportement de leurs conducteurs. Chaque fois que monte un nouveau machiniste, avant de prendre le volant, il tire son chapeau et s&rsquo;incline devant les voyageurs. Bien s&ucirc;r, m&ecirc;me les &eacute;trangers sont tout &agrave; fait &agrave; m&ecirc;me de corr&eacute;ler cette expression gestuelle &agrave; un contenu s&eacute;mantique&nbsp;: il s&rsquo;agit d&rsquo;un geste de &laquo;&nbsp;d&eacute;f&eacute;rence&nbsp;&raquo;. Loin d&rsquo;&ecirc;tre en lui-m&ecirc;me ind&eacute;chiffrable, un tel geste rel&egrave;ve &agrave; l&rsquo;&eacute;vidence d&rsquo;un code des plus r&eacute;pandus&nbsp;: abaisser la partie sup&eacute;rieure du corps sert de motif expressif signifiant gestuellement la soumission. Mais les &eacute;trangers n&rsquo;en trouvent pas moins ce geste en l&rsquo;occurrence incompr&eacute;hensible, et c&rsquo;est l&agrave; l&rsquo;autre facette de l&rsquo;insens&eacute;. Car s&rsquo;ils n&rsquo;ignorent pas <em>ce que</em> signifie le geste en question, ils ne voient pas en revanche <em>pour qui</em> il le signifie. Le chauffeur fait sa petite courbette, personne (sauf quelques touristes &eacute;bahis) n&rsquo;y pr&ecirc;te la moindre attention ni ne lui rend sa politesse, et pourtant &agrave; chaque occasion ce m&ecirc;me geste est infailliblement r&eacute;p&eacute;t&eacute;. Pour qui&nbsp;? Pourquoi&nbsp;? &Agrave; quoi cela rime-t-il donc&nbsp;? C&rsquo;est insens&eacute;&nbsp;!</p>
+                        <p class="texte" dir="ltr">En fait, ce signe lui aussi manque de sens subjectivement, et non objectivement. Le fait qu&rsquo;il soit reconnu comme un signe indique que ce qui le fait appara&icirc;tre d&eacute;pourvu de sens n&rsquo;est pas une qualit&eacute; intrins&egrave;que mais un facteur ext&eacute;rieur, &agrave; savoir le manque de connaissances culturelles des touristes. Les instructions en <em>kanji</em> &eacute;taient d&eacute;pourvues de sens pour les &eacute;trangers parce que, faute de conna&icirc;tre le code linguistique corr&eacute;lant ces configurations de points et de lignes avec des contenus s&eacute;mantiques d&eacute;termin&eacute;s, elles restaient pour eux <em>ind&eacute;chiffrables</em>. Les gestes de r&eacute;v&eacute;rence, par contre, paraissent insens&eacute;s aux &eacute;trangers parce qu&rsquo;ils sont pour eux <em>incompr&eacute;hensibles</em>. Ce qui leur manque n&rsquo;est plus la connaissance de la langue mais celle du code culturel corr&eacute;lant ces expressions gestuelles non pas &agrave; un contenu s&eacute;mantique pr&eacute;cis (l&rsquo;id&eacute;e de &laquo;&nbsp;d&eacute;f&eacute;rence&nbsp;&raquo;) mais &agrave; un contenu pragmatique d&eacute;termin&eacute;. D&egrave;s lors, seule une familiarit&eacute; plus approfondie avec la culture locale leur permettra de transformer ce manque de sens en son contraire. Ils comprendront que dans la culture japonaise, entrer dans un espace clos implique une gamme de connotations s&eacute;mantiques, et par cons&eacute;quent d&rsquo;obligations pragmatiques diff&eacute;rentes de celles en vigueur dans la plupart des pays occidentaux. Les d&eacute;limitations spatiales op&egrave;rent en effet diff&eacute;remment au Japon, et des formules &agrave; la fois verbales et gestuelles doivent s&rsquo;adapter au sens particulier qu&rsquo;y rev&ecirc;t la s&eacute;paration entre le dehors et le dedans.</p>
+                        <p class="texte" dir="ltr">La c&eacute;l&egrave;bre d&eacute;finition du signe donn&eacute;e par Peirce sous-tend implicitement ces deux mani&egrave;res de d&eacute;finir le manque de sens, par ind&eacute;chiffrabilit&eacute; ou incompr&eacute;hensibilit&eacute;. Si le signe est quelque chose qui signifie quelque chose d&rsquo;autre que lui-m&ecirc;me pour quelqu&rsquo;un &agrave; certains &eacute;gards et dans certaines conditions, un destinataire peut ou bien ne pas parvenir &agrave; associer le &laquo;&nbsp;quelque chose&nbsp;&raquo; qu&rsquo;est le signe consid&eacute;r&eacute; avec le &laquo;&nbsp;quelque chose d&rsquo;autre&nbsp;&raquo; qu&rsquo;il signifie &mdash; et le manque de sens r&eacute;sulte alors du caract&egrave;re &laquo;&nbsp;ind&eacute;chiffrable&nbsp;&raquo; du signe&nbsp;&mdash;, ou bien ne pas comprendre pour qui le signe signifie ce qu&rsquo;il signifie, et on a alors affaire &agrave; un manque de sens qui est de l&rsquo;ordre de l&rsquo;&laquo;&nbsp;incompr&eacute;hensible&nbsp;&raquo;.</p>
+                        <p class="texte" dir="ltr">Cette distinction permet de mieux cerner les donn&eacute;es contextuelles gr&acirc;ce auxquelles un signe est reconnu et re&ccedil;u en tant que tel, y compris quand il n&rsquo;honore pas encore pleinement sa promesse de contenu. Dans notre premier exemple, les &eacute;trangers ignorent <em>ce que </em>signifient les instructions en <em>kanji</em> mais ils ne doutent pas qu&rsquo;elles signifient &laquo;&nbsp;quelque chose pour quelqu&rsquo;un&nbsp;&raquo;&nbsp;: pour les passagers locaux. C&rsquo;est la raison pour laquelle ils les consid&egrave;rent comme des signes, bien qu&rsquo;ind&eacute;chiffrables pour eux. Dans le second exemple, ils ne doutent pas que le geste de salutation signifie quelque chose et ils saisissent m&ecirc;me ce qu&rsquo;il signifie, mais ils ignorent <em>pour qui</em>. Cependant, l&agrave; encore, bien que d&eacute;pourvu de signification &mdash; incompr&eacute;hensible&nbsp;&mdash;, le signe en question garde pour eux le statut de signe.</p>
+                        <p class="texte" dir="ltr">Qu&rsquo;en est-il, maintenant, lorsqu&rsquo;on ignore &agrave; la fois ce qu&rsquo;un signe signifie et pour qui il le signifie&nbsp;? Un signe peut-il &ecirc;tre reconnu comme tel, comme promesse de signification, si on ignore &agrave; la fois le code s&eacute;mantique et le code pragmatique de son fonctionnement&nbsp;? Un troisi&egrave;me exemple, encore fourni par le m&ecirc;me contexte, correspond &agrave; cette &eacute;ventualit&eacute;. Au Japon, quand on prend l&rsquo;autobus tard le soir, on remarque la pr&eacute;sence de bouts de ficelles nou&eacute;s aux mains courantes. Quel sens cela peut-il avoir pour un voyageur de passage&nbsp;? Aucun. Ces choses paraissent absolument priv&eacute;es de sens parce qu&rsquo;&agrave; la fois &laquo;&nbsp;ind&eacute;chiffrables&nbsp;&raquo; (ce qu&rsquo;elles pourraient signifier reste &eacute;nigmatique) et &laquo;&nbsp;incompr&eacute;hensibles&nbsp;&raquo; (pour qui veulent-elles dire quelque chose n&rsquo;est pas donn&eacute; non plus). </p>
+                        <p class="texte" dir="ltr">Pourtant, si insens&eacute;s ces bouts de ficelle puissent-ils sembler, quelque chose les qualifie en tant que signes. Car un passager habituel se rendra bient&ocirc;t compte qu&rsquo;ils sont toujours faits de chanvre, toujours nou&eacute;s aux m&ecirc;mes mains courantes, et toujours de la m&ecirc;me fa&ccedil;on. En &eacute;mane ainsi une promesse de signification subtile, myst&eacute;rieuse, un peu troublante sinon inqui&eacute;tante (<em>uncanny</em>), qui na&icirc;t de ce que ces choses bizarres ne paraissent pas faites de n&rsquo;importe quoi et ne se pr&eacute;sentent pas sous n&rsquo;importe quelle forme ou dans n&rsquo;importe quelle position. Au contraire, le fait que seuls certains aspects de leur constitution mat&eacute;rielle soient syst&eacute;matiquement r&eacute;currents alors que d&rsquo;autres sont &eacute;cart&eacute;s sugg&egrave;re la probabilit&eacute; que cette s&eacute;lection fonctionne en tant qu&rsquo;expression du plan sur lequel ces &laquo;&nbsp;signes&nbsp;&raquo;, si c&rsquo;en sont bien, pourraient signifier quelque chose pour quelqu&rsquo;un. Les passagers ignorent ce &laquo;&nbsp;quelque chose&nbsp;&raquo; aussi bien que ce &laquo;&nbsp;quelqu&rsquo;un&nbsp;&raquo; mais soup&ccedil;onnent que de ces bouts de ficelle &eacute;mane une promesse de signification, une promesse si faible en l&rsquo;occurrence que seule leur qualit&eacute; potentielle peut &ecirc;tre retenue. Toutefois, cela suffit pour que l&rsquo;ombre du signe apparaisse. Et de fait, la fr&eacute;quentation assidue de ces autobus permettra vite de comprendre qu&rsquo;il s&rsquo;agit de restes de prospectus qui ont &eacute;t&eacute; dispos&eacute;s l&agrave; le matin de bonne heure mais qui dans la soir&eacute;e ont presque tous disparu, emport&eacute;s par les passagers. On a donc affaire, tout simplement, aux traces indexicales d&rsquo;une pratique de diffusion publicitaire courante dans les transports en commun japonais.</p>
+                        <p class="texte" dir="ltr">Cela correspond &agrave; une troisi&egrave;me d&eacute;finition de l&rsquo;insens&eacute; (<em>meaningless</em>)&nbsp;: quelque chose de &laquo;&nbsp;troublant&nbsp;&raquo; sinon d&rsquo;inqui&eacute;tant parce qu&rsquo;on en ignore le fonctionnement &agrave; la fois s&eacute;mantique et pragmatique. Cette acception est elle aussi contenue dans la d&eacute;finition du signe chez Peirce. Un signe n&rsquo;est pas seulement quelque chose qui signifie quelque chose, et pas seulement non plus quelque chose qui signifie quelque chose pour quelqu&rsquo;un mais c&rsquo;est aussi quelque chose qui signifie quelque chose pour quelqu&rsquo;un &agrave; certains &eacute;gards et dans certaines conditions. Dans le premier exemple, l&rsquo;insens&eacute; se transformait en signification gr&acirc;ce &agrave; l&rsquo;apprentissage du code linguistique&nbsp;; dans le deuxi&egrave;me, il y fallait un apprentissage du code culturel&nbsp;; dans le troisi&egrave;me, c&rsquo;est l&rsquo;observation empirique qui permet de d&eacute;gager du signe sa capacit&eacute; de signification potentielle. Ce n&rsquo;est qu&rsquo;en empruntant &agrave; plusieurs reprises la m&ecirc;me ligne &agrave; des horaires diff&eacute;rents que ce qui para&icirc;t d&rsquo;abord troublant se transforme en quelque chose qui va de soi.</p>
+                        <p class="texte" dir="ltr">Cette tripartition des formes de l&rsquo;insens&eacute; &mdash; signe &laquo;&nbsp;ind&eacute;chiffrable&nbsp;&raquo; (on ignore son contenu s&eacute;mantique mais pas n&eacute;cessairement son fonctionnement pragmatique), &laquo;&nbsp;incompr&eacute;hensible&nbsp;&raquo; (on ignore son fonctionnement pragmatique mais non son contenu s&eacute;mantique), &laquo;&nbsp;troublant&nbsp;&raquo; (on ne conna&icirc;t ni son contenu s&eacute;mantique ni son fonctionnement pragmatique alors m&ecirc;me qu&rsquo;on reconna&icirc;t sa capacit&eacute; d&rsquo;agir en tant que signe) &mdash; ne correspond pas exactement &agrave; la distinction de Peirce entre symbole, ic&ocirc;ne et indice, mais les deux typologies se combinent entre elles de fa&ccedil;on int&eacute;ressante. Alors qu&rsquo;un &laquo;&nbsp;symbole&nbsp;&raquo; peut &ecirc;tre d&eacute;pourvu de sens en tant qu&rsquo;ind&eacute;chiffrable, il ne peut gu&egrave;re en &ecirc;tre d&eacute;pourvu en tant qu&rsquo;incompr&eacute;hensible ou que troublant, &eacute;tant donn&eacute; que reconna&icirc;tre un signe comme un symbole &eacute;quivaut pr&eacute;cis&eacute;ment &agrave; postuler qu&rsquo;il signifie quelque chose &laquo;&nbsp;pour quelqu&rsquo;un&nbsp;&raquo;, m&ecirc;me si on ignore ce qu&rsquo;il signifie (telles les instructions en <em>kanji</em> dans l&rsquo;autobus japonais). De fa&ccedil;on analogue, reconna&icirc;tre un signe comme une &laquo;&nbsp;ic&ocirc;ne&nbsp;&raquo; &eacute;quivaut &agrave; postuler qu&rsquo;il doit signifier quelque chose bien qu&rsquo;on ignore pour qui (tel le salut des chauffeurs d&rsquo;autobus japonais). Enfin, reconna&icirc;tre un signe comme un &laquo;&nbsp;indice&nbsp;&raquo; revient &agrave; postuler qu&rsquo;il doit signifier quelque chose pour quelqu&rsquo;un dans certaines conditions, m&ecirc;me si ce qu&rsquo;il signifie, et pour qui, reste ignor&eacute; (tels les bouts de ficelle dans les autobus nocturnes de Kyoto).</p>
+                        <h1 dir="ltr" id="heading3"><a href="#tocfrom1n3" id="tocto1n3">3. En de&ccedil;&agrave; ou au-del&agrave; de l&rsquo;insens&eacute;, l&rsquo;insignifiance</a></h1>
+                        <p class="texte" dir="ltr">Toutefois, ni l&rsquo;ind&eacute;chiffrable, ni l&rsquo;incompr&eacute;hensible ni le troublant ne se confondent avec l&rsquo;<em>insignifiant</em>. Un signe peut &ecirc;tre regard&eacute; comme d&eacute;pourvu de sens faute d&rsquo;acc&egrave;s &agrave; son contenu s&eacute;mantique, &agrave; son fonctionnement pragmatique, ou aux deux &agrave; la fois. Mais un signe ne peut pas &ecirc;tre insignifiant. Ce serait une contradiction dans les termes. Pour qu&rsquo;un signe soit insignifiant, il devrait nier sa nature m&ecirc;me de signe. Il devrait appara&icirc;tre comme quelque chose dont on ignore non seulement ce qu&rsquo;il signifie et pour qui, mais aussi les conditions dans lesquelles il le signifie. Or un signe qui ne signifie rien, pour personne et &agrave; aucun &eacute;gard ne peut &ecirc;tre qu&rsquo;un <em>non-signe</em>, une simple <em>chose</em>.</p>
+                        <div class="texte_notes">
+                          <dl class="notes">
+                            <dt><span class="sr-only">Note de bas de page</span> 3 <span class="sr-only">:</span></dt>
+                            <dd>
+                              <p class="notesbaspage" dir="ltr"> &nbsp;Umberto Eco,<em> A Theory of Semiotics</em>, Bloomington, Indiana University Press, 1976.</p>
+                            </dd>
+                          </dl>
+                          <p class="texte" dir="ltr">La s&eacute;miotique moderne, en particulier depuis les ann&eacute;es 1960, a constamment n&eacute;glig&eacute; la possibilit&eacute; d&rsquo;un tel non-signe, d&rsquo;une telle chose. Les plus &eacute;minents s&eacute;mioticiens ont au contraire proclam&eacute; avec insistance, au point d&rsquo;en faire la vulgate de la discipline, que tout peut &ecirc;tre &eacute;tudi&eacute; en tant que signe<a class="footnotecall" href="#ftn3" id="bodyftn3">3</a>. Selon cette perspective, peu importe qu&rsquo;un signe n&rsquo;ait de sens pour aucun interpr&egrave;te. Il suffit qu&rsquo;il puisse signifier pour un interpr&eacute;tant, autrement dit qu&rsquo;il ouvre une potentialit&eacute; d&rsquo;interpr&eacute;tation&nbsp;: vision &agrave; la Goethe, pour qui rien dans l&rsquo;univers n&rsquo;est irr&eacute;m&eacute;diablement insignifiant&hellip; Les circonstances appropri&eacute;es &eacute;tant donn&eacute;es, tout pourra trouver place dans la cha&icirc;ne de la &laquo;&nbsp;s&eacute;miosis illimit&eacute;e&nbsp;&raquo;, sorte de serpent bigarr&eacute; capable de se d&eacute;ployer sur l&rsquo;univers entier en allumant de toutes parts l&rsquo;&eacute;tincelle de l&rsquo;intelligibilit&eacute;. Vu sous cet angle, &laquo;&nbsp;insignifiant&nbsp;&raquo; (<em>insignificant</em>) est simplement synonyme de &laquo;&nbsp;d&eacute;pourvu de sens&nbsp;&raquo; (<em>meaningless</em>), en sorte qu&rsquo;il suffirait d&rsquo;un peu de temps et d&rsquo;attention pour que tout objet &eacute;chappe &agrave; son apparente insignifiance et finisse par trouver place au lumineux royaume de la signification.</p>
+                        </div>
+                        <p class="texte" dir="ltr">Est-ce vraiment l&agrave; la mani&egrave;re dont les hommes, dans leur vall&eacute;e de larmes, font l&rsquo;exp&eacute;rience du sens&nbsp;? Sommes-nous r&eacute;ellement environn&eacute;s par une infinit&eacute; de stimuli potentiellement plus excitants les uns que les autres et dont chacun rec&egrave;lerait la clef de quelque nouvelle aventure de la connaissance et de l&rsquo;interpr&eacute;tation&nbsp;? Il est difficile de ne pas soup&ccedil;onner que derri&egrave;re cette conception d&rsquo;une productivit&eacute; illimit&eacute;e du fonctionnement de la signification se cachent les pr&eacute;jug&eacute;s de savants et de chercheurs qui ont abord&eacute; la question du sens d&rsquo;un point de vue particuli&egrave;rement privil&eacute;gi&eacute;, celui d&rsquo;esprits exceptionnellement dou&eacute;s, curieux et inquisiteurs. Beaucoup de s&eacute;mioticiens ont vu en Sherlock Holmes, ce ma&icirc;tre ind&eacute;passable de l&rsquo;abduction, le champion de leur discipline. N&rsquo;est-il pas, de fait, l&rsquo;exemple de la plus haute perspicacit&eacute;, l&rsquo;incarnation de l&rsquo;esprit humain tra&ccedil;ant son chemin &agrave; travers le d&eacute;dale de la s&eacute;miosis&nbsp;? Mais peut-&ecirc;tre le temps est-il venu de sugg&eacute;rer que la plupart des &ecirc;tres humains <em>ne sont pas</em> des Sherlock Holmes &mdash; plut&ocirc;t des Watson.</p>
+                        <p class="texte" dir="ltr">Pour eux, le monde n&rsquo;est que platitude, et ce qui leur arrive n&rsquo;est au regard du reste du monde que trivialit&eacute;. Le train-train de leur vie se situe en de&ccedil;&agrave; de l&rsquo;<em>insens&eacute;</em> &mdash; il est irr&eacute;m&eacute;diablement de l&rsquo;ordre de l&rsquo;<em>insignifiant</em>. M&ecirc;me le g&eacute;nie d&rsquo;un Sherlock Holmes ne parviendrait pas &agrave; en faire la source d&rsquo;intuitions riches de sens. Il n&rsquo;y trouverait aucune mati&egrave;re qui moyennant la d&eacute;couverte d&rsquo;un interpr&eacute;tant appropri&eacute; permette d&rsquo;y associer un contenu s&eacute;mantique et une valeur pragmatique quelconques &agrave; la lumi&egrave;re de quelque code linguistique ou dans le cadre de quelque s&eacute;miosph&egrave;re culturelle particuli&egrave;re. Il n&rsquo;y trouverait rien qui sorte de l&rsquo;ordre de la &laquo;&nbsp;chose&nbsp;&raquo;, de la chose qui ne signifie rien, pour personne et dans aucune condition&nbsp;: un trou noir dans la suppos&eacute;e ent&eacute;l&eacute;chie de l&rsquo;univers, un coin obscur, un son muet, une transparence &agrave; travers laquelle personne ne regarde, une lettre que personne ne lira non seulement parce qu&rsquo;elle est &eacute;crite dans un langage que nul ne parle mais aussi parce qu&rsquo;elle est enferm&eacute;e dans une bouteille &agrave; la mer que personne n&rsquo;ouvrira jamais &mdash; pire, que jamais personne ne reconna&icirc;tra en tant que lettre. De l&rsquo;insignifiant &agrave; l&rsquo;&eacute;tat pur.</p>
+                        <p class="texte" dir="ltr">Voil&agrave; ce dont les s&eacute;mioticiens m&ecirc;me les plus avertis ne parlent jamais, ne veulent ou ne peuvent pas parler. Car s&rsquo;il est une chose que des savants, &agrave; raison m&ecirc;me de leur cr&eacute;ativit&eacute; et de leur vivacit&eacute; intellectuelle ont, instinctivement, toujours ignor&eacute;e, c&rsquo;est bien l&rsquo;insignifiance. Ils pr&eacute;f&egrave;rent la recouvrir de mille fantaisies et effusions encyclop&eacute;diques. Et pourtant, si la vie co&iuml;ncide avec la s&eacute;miosis (et vice versa), comme d&rsquo;insouciants bio-s&eacute;mioticiens ne cessent de le r&eacute;p&eacute;ter &agrave; la mani&egrave;re d&rsquo;un mantra, alors c&rsquo;est avec la mort qu&rsquo;il faut associer l&rsquo;insignifiance sous l&rsquo;empire de laquelle l&rsquo;immense majorit&eacute; des hommes sont condamn&eacute;s &agrave; vivre.</p>
+                        <h2 dir="ltr" id="heading4"><a href="#tocfrom2n1" id="tocto2n1">3.1. S&rsquo;&eacute;veiller de l&rsquo;insignifiance</a></h2>
+                        <p class="texte" dir="ltr">L&rsquo;insignifiance se reconna&icirc;t par contraste avec la signifiance, et cela de deux mani&egrave;res possibles. C&rsquo;est le cas tout d&rsquo;abord lorsqu&rsquo;on passe, comme dans ce qui pr&eacute;c&egrave;de, de l&rsquo;insignifiance &agrave; la signifiance. Retournons donc un instant &agrave; Kyoto et &agrave; notre autobus. </p>
+                        <p class="texte" dir="ltr">La plupart des visiteurs &eacute;trangers s&rsquo;&eacute;tonnent de voir tant de Japonais s&rsquo;endormir dans les transports en commun. Bus, m&eacute;tro, train, peu importe, on se trouve partout environn&eacute; de voyageurs qui s&rsquo;assoupissent, somnolent ou dorment profond&eacute;ment, affaiss&eacute;s sur leurs si&egrave;ges, pelotonn&eacute;s, p&eacute;rilleusement inclin&eacute;s ou &agrave; demi allong&eacute;s, et qui n&eacute;anmoins se r&eacute;veillent miraculeusement &agrave; l&rsquo;approche de leur arr&ecirc;t. La plupart des touristes s&rsquo;en amusent, comme il arrive souvent face &agrave; ce que nous ne comprenons pas et qui pourtant nous concerne. Des observateurs &agrave; peine moins superficiels formuleront l&rsquo;hypoth&egrave;se que les Japonais travaillent trop, qu&rsquo;ils se r&eacute;veillent trop t&ocirc;t ou qu&rsquo;ils passent trop de temps dans les transports publics. Mais ce spectacle inattendu peut lui aussi &ecirc;tre l&rsquo;occasion d&rsquo;un passage de l&rsquo;insignifiance &agrave; la signifiance qui n&rsquo;aurait pas &eacute;t&eacute; possible sans l&rsquo;exp&eacute;rience anthropologique du voyage dans une culture tr&egrave;s diff&eacute;rente. Il ne s&rsquo;agit plus alors simplement d&rsquo;interpr&eacute;ter un usage, un <em>habitus</em> s&eacute;miotique sp&eacute;cifiquement japonais &mdash; dormir dans les transports en commun&nbsp;&mdash;, c&rsquo;est-&agrave;-dire de donner un sens &agrave; une conduite incompr&eacute;hensible, moyennant l&rsquo;&eacute;tablissement d&rsquo;un rapport entre cet usage et un aspect d&eacute;termin&eacute; de la s&eacute;miosph&egrave;re locale. Le passage de l&rsquo;insignifiance &agrave; la signifiance s&rsquo;accompagne en pareil cas d&rsquo;une d&eacute;couverte plus bouleversante, qui concerne le statut de l&rsquo;espace public dans la culture m&ecirc;me, par hypoth&egrave;se non-japonaise, <em>de l&rsquo;observateur</em>.</p>
+                        <p class="texte" dir="ltr">Le fait de constater combien facilement et habituellement les Japonais s&rsquo;endorment dans les transports en commun conduira en effet au moins certains &eacute;trangers &agrave; se dire que pour leur part ils ne se sentiraient pas tellement &agrave; l&rsquo;aise en faisant la m&ecirc;me chose &agrave; Paris, dans le m&eacute;tro, dans un autobus &agrave; Rome ou dans un train de banlieue &agrave; Madrid. De fait, les Japonais ne dorment pas dans les transports publics seulement parce qu&rsquo;ils en ont besoin (comme le sugg&egrave;rent les interpr&eacute;tations na&iuml;ves du genre &laquo;&nbsp;ils travaillent trop dur&nbsp;&raquo;, etc.), mais aussi parce qu&rsquo;ils <em>peuvent</em> le faire. Et s&rsquo;ils le peuvent aussi tranquillement, sans se pr&eacute;occuper le moins du monde des regards ou des intentions d&rsquo;autrui, c&rsquo;est qu&rsquo;ils ont enti&egrave;re confiance en leur espace public, en leur soci&eacute;t&eacute;, en leurs concitoyens. En cela consiste le passage de l&rsquo;insignifiance &agrave; la signifiance auquel conduit cette observation anthropologique. Lorsqu&rsquo;on emprunte un bus au Japon, l&rsquo;&eacute;tat de veille dans les transports publics, &eacute;tat qui, ailleurs, va de soi et nous semble par l&agrave;-m&ecirc;me <em>insignifiant</em>, cesse de l&rsquo;&ecirc;tre quand on le voit d&rsquo;ici, du Japon. La nervosit&eacute; avec laquelle des passagers &eacute;puis&eacute;s s&rsquo;efforcent, &laquo;&nbsp;chez nous&nbsp;&raquo;, de se tenir &eacute;veill&eacute;s cesse de sembler un &eacute;tat naturel et se laisse voir tout &agrave; coup pour ce qu&rsquo;il est&nbsp;: comme un choix signifiant, comme le produit d&rsquo;un syst&egrave;me social tout entier, comme le r&eacute;sultat quotidien, banal et par l&agrave; m&ecirc;me d&rsquo;autant plus insidieux, d&rsquo;une longue et complexe histoire de violence et d&rsquo;injustice, de si&egrave;cles de faim, de pauvret&eacute;, d&rsquo;exploitation, de crime, qui, que ce soit &agrave; Paris ou &agrave; Rome, &agrave; Londres ou &agrave; Madrid, p&egrave;se sur les &eacute;paules de chaque passager du m&eacute;tro et lui chuchote comme une mise en garde&nbsp;: &laquo;&nbsp;Attention, ne t&rsquo;endors pas&nbsp;! C&rsquo;est dangereux&nbsp;!&nbsp;&raquo;</p>
+                        <p class="texte" dir="ltr">&Agrave; cela correspond le passage de l&rsquo;insignifiance &agrave; la signifiance. Des voix jusqu&rsquo;alors jamais entendues se mettent &agrave; nous chuchoter leur message de v&eacute;rit&eacute;, un nouveau code se met en place, capable d&rsquo;&eacute;branler les muettes &eacute;vidences de notre propre culture, v&eacute;cue comme une seconde nature, et de nous r&eacute;v&eacute;ler son poids d&rsquo;histoire. Si le voyage, moyennant la familiarisation progressive avec un autre code culturel, transforme souvent l&rsquo;insens&eacute; en son contraire, il peut avoir aussi pour r&eacute;sultat, plus exceptionnellement, outre la d&eacute;couverte et l&rsquo;apprentissage d&rsquo;un code &eacute;tranger, l&rsquo;&eacute;mergence d&rsquo;un nouveau code de lecture de sa propre culture, qui du m&ecirc;me coup y gagne une intelligibilit&eacute; nouvelle. Se tenir &eacute;veill&eacute; dans les transports publics cesse alors de sembler tout naturel, &laquo;&nbsp;normal&nbsp;&raquo;, trivial, <em>in-signifiant</em>, en m&ecirc;me temps que le comportement oppos&eacute; perd ce qu&rsquo;il pouvait avoir de risible.</p>
+                        <p class="texte" dir="ltr">Mais rares sont de tels passages de l&rsquo;insignifiance &agrave; la signifiance. Ils n&rsquo;&eacute;mergent le plus souvent qu&rsquo;&agrave; la faveur de ces activit&eacute;s de privil&eacute;gi&eacute;s que restent encore aujourd&rsquo;hui, en d&eacute;pit des apparences, les grands voyages, et plus encore l&rsquo;exploration ethnographique. Pour la plupart des &ecirc;tres humains, la violence de l&rsquo;espace public, la faim, la pauvret&eacute;, la salet&eacute;, l&rsquo;oppression, etc. ne sont pas simplement d&eacute;pourvus de sens, ce qui reviendrait &agrave; dire que moyennant des recherches et des d&eacute;cisions appropri&eacute;es on pourrait identifier les causes de ces maux et les &eacute;radiquer. Ce qui est plus grave, c&rsquo;est que pour la plupart, la douleur, la pauvret&eacute;, la salet&eacute;, l&rsquo;oppression et la violence ne sont pas simplement insens&eacute;es, elles sont <em>insignifiantes</em>. Elles le sont non pas tant pour leurs observateurs que pour ceux-l&agrave; m&ecirc;mes qui en souffrent. Elles les blessent, mais de fa&ccedil;on &laquo;&nbsp;naturelle&nbsp;&raquo;, comme la canicule de l&rsquo;&eacute;t&eacute; ou le grand froid de l&rsquo;hiver. Pour un enfant qui toute sa vie a connu la faim, pour la femme battue depuis l&rsquo;adolescence, pour le travailleur opprim&eacute; et exploit&eacute; depuis l&rsquo;enfance, si la douleur v&eacute;cue est in-signifiante, ce n&rsquo;est pas en tant qu&rsquo;&laquo;&nbsp;habitus s&eacute;miotique&nbsp;&raquo; mais &agrave; la mani&egrave;re d&rsquo;une condition d&rsquo;existence sans horizon alternatif.</p>
+                        <p class="texte" dir="ltr">A cela r&eacute;pond l&rsquo;une des fautes morales les plus graves de la s&eacute;miotique moderne&nbsp;: le fait de penser que les habitus s&eacute;miotiques sont innocents parce qu&rsquo;ils seraient le r&eacute;sultat d&rsquo;un long travail s&eacute;miotique de la part d&rsquo;une communaut&eacute; d&rsquo;interpr&egrave;tes. Les habitus s&eacute;miotiques non seulement ne sont pas n&eacute;cessairement innocents, ils sont aussi en majorit&eacute; aveugles, en ce sens qu&rsquo;une fois &eacute;tablis, ils n&rsquo;offrent aucun acc&egrave;s &agrave; l&rsquo;activit&eacute; lib&eacute;ratrice que permettrait l&rsquo;interpr&eacute;tation s&eacute;miotique. Seuls les savants, dans leur confortable existence, ont pu penser que la s&eacute;miosis illimit&eacute;e est destin&eacute;e &agrave; se cristalliser dans les usages les mieux adapt&eacute;s, les plus rationnels et les plus &eacute;quitables dont une communaut&eacute; soit capable.</p>
+                        <div class="texte_notes">
+                          <dl class="notes">
+                            <dt><span class="sr-only">Note de bas de page</span> 4 <span class="sr-only">:</span></dt>
+                            <dd>
+                              <p class="notesbaspage" dir="ltr"> &nbsp;Kenneth Lee Pike, <em>Language in Relation to a Unified Theory of the Structure of Human Behavior</em>, La Haye, Mouton, 1967.</p>
+                            </dd>
+                          </dl>
+                          <p class="texte" dir="ltr">L&rsquo;anthropologie linguistique a &eacute;tabli depuis longtemps la distinction f&eacute;conde entre les perspectives -<em>etic</em> et -<em>emic</em><a class="footnotecall" href="#ftn4" id="bodyftn4">4</a>. La s&eacute;miotique semble bizarrement l&rsquo;ignorer. Pour la plupart des s&eacute;mioticiens, les habitus s&eacute;miotiques sont l&rsquo;aboutissement rationnel auquel conduit naturellement le fonctionnement du signe dans un processus de s&eacute;miosis illimit&eacute;e. A leurs yeux, ils constituent la meilleure r&eacute;ponse qu&rsquo;une communaut&eacute; d&rsquo;interpr&egrave;tes puisse donner au casse-t&ecirc;te de la signification. Une telle perspective, en n&eacute;gligeant la distinction anthropologique entre -<em>emic</em> et -<em>etic</em>, interdit de comprendre que ces habitus ne sont en r&eacute;alit&eacute; des effets <em>s&eacute;miotiques</em> que vus du dehors. Car c&rsquo;est seulement du point de vue ext&eacute;rieur propre &agrave; l&rsquo;analyste qu&rsquo;ils peuvent &ecirc;tre consid&eacute;r&eacute;s comme des constructions culturelles &laquo;&nbsp;vivantes&nbsp;&raquo; &eacute;mergeant de la configuration momentan&eacute;e d&rsquo;un code, de son &eacute;tablissement progressif, et finalement de sa solidification en forme de signes stables, capables de r&eacute;sister aux accidents de l&rsquo;histoire d&egrave;s le moment o&ugrave; une communaut&eacute; id&eacute;ale d&rsquo;interpr&egrave;tes s&rsquo;accorde sur leur rationalit&eacute;.</p>
+                        </div>
+                        <p class="texte" dir="ltr">D&rsquo;un point de vue interne, au contraire, ces habitus n&rsquo;apparaissent aucunement comme des produits s&eacute;miotiques. Ils sont v&eacute;cus comme in-signifiants. Ils ne diff&eacute;rent gu&egrave;re &agrave; cet &eacute;gard des croyances religieuses, des routines, ou de n&rsquo;importe quel autre genre de comportement o&ugrave; le choix culturel s&rsquo;est cristallis&eacute; &agrave; la mani&egrave;re d&rsquo;une seconde nature, comme un standard allant de soi et traduisant une normalit&eacute; incontestable. Il serait par suite insuffisant de dire que nos habitus s&eacute;miotiques sont, au moins pour beaucoup d&rsquo;entre eux, &laquo;&nbsp;d&eacute;pourvus de sens&nbsp;&raquo; &mdash; in-sens&eacute;s &mdash; dans la mesure o&ugrave;, bien souvent, nous ne savons ni ce qu&rsquo;ils signifient, ni pour qui ni dans quelles conditions. De fa&ccedil;on bien plus d&eacute;concertante, ils sont in-signifiants parce qu&rsquo;ils constituent le m&eacute;canisme bio-culturel par lequel des choix d&rsquo;ordre social se m&eacute;tamorphosent en r&eacute;alit&eacute;s d&rsquo;ordre &laquo;&nbsp;naturel&nbsp;&raquo;. Croire que de cette transsubstantiation r&eacute;sulterait toujours le meilleur possible, ou qu&rsquo;un coup de g&eacute;nie pourrait &agrave; tout moment faire &eacute;chapper &agrave; la torpeur s&eacute;miotique qu&rsquo;elle engendre et redonner vie &agrave; une s&eacute;miosis illimit&eacute;e et lib&eacute;ratrice, cela serait tout bonnement immoral.</p>
+                        <p class="texte" dir="ltr">Dans la plupart des villes europ&eacute;ennes, l&rsquo;espace des transports en commun est peu s&ucirc;r. On ne se laisserait gu&egrave;re aller jusqu&rsquo;&agrave; s&rsquo;y endormir. On dort chez soi, dans sa voiture, au bureau le cas &eacute;ch&eacute;ant, mais m&ecirc;me l&agrave; un trop grand manque de vigilance ne serait pas sans risque. Et pourtant, les Europ&eacute;ens ne ressentent pas comme un manque le fait de ne pas pouvoir dormir en public. C&rsquo;est l&agrave; une pratique qu&rsquo;ils ignorent, qui en g&eacute;n&eacute;ral ne leur vient pas m&ecirc;me &agrave; l&rsquo;esprit. La relation d&rsquo;exclusion mutuelle entre &laquo;&nbsp;sommeil&nbsp;&raquo; et &laquo;&nbsp;espace public&nbsp;&raquo; est <em>insignifiante</em> &agrave; leurs yeux, du moins tant que leurs habitus socio-s&eacute;miotiques ne se sont pas r&eacute;v&eacute;l&eacute;s en tant que tels &agrave; la faveur de la rencontre avec une civilisation diff&eacute;rente. Mais qu&rsquo;une telle rencontre ait lieu, et la relation en question devient soudain signifiante. On comprend alors non seulement qu&rsquo;une forme diff&eacute;rente d&rsquo;espace public est possible mais aussi que cette forme alternative est pr&eacute;f&eacute;rable. On devient tout &agrave; coup conscient d&rsquo;une violence qu&rsquo;on avait jusqu&rsquo;alors subie sans y pr&ecirc;ter attention, sans m&ecirc;me la voir&nbsp;: violence dans cette mesure m&ecirc;me<em> insignifiante</em>, ou du moins v&eacute;cue comme telle. C&rsquo;est de cette mani&egrave;re que fonctionnent beaucoup d&rsquo;usages et d&rsquo;habitudes s&eacute;miotiques&nbsp;: non pas comme des s&eacute;dimentations encyclop&eacute;diques raffin&eacute;es que les communaut&eacute;s auraient &eacute;labor&eacute;es au fil de l&rsquo;histoire moyennant de placides dialogues acad&eacute;miques, non pas comme des choix que les populations adopteraient en confrontant la r&eacute;alit&eacute; &agrave; des interpr&eacute;tants alternatifs, mais plut&ocirc;t comme les petits cailloux qui se glissent dans les chaussures et vous font mal en marchant&nbsp;: ce n&rsquo;est qu&rsquo;au moment o&ugrave; on s&rsquo;en d&eacute;barrasse qu&rsquo;on se rend compte qu&rsquo;on marche mieux sans eux, et que si on y avait pr&ecirc;t&eacute; attention plus t&ocirc;t on aurait pu marcher bien mieux depuis longtemps. De m&ecirc;me de certaines douleurs &agrave; tel point incrust&eacute;es dans le corps qu&rsquo;on en arrive &agrave; les oublier tout en en souffrant atrocement. A leur mani&egrave;re, nombre d&rsquo;usages s&eacute;miotiques ne sont aussi que des maladies chroniques auxquelles on s&rsquo;est habitu&eacute;.</p>
+                        <p class="texte" dir="ltr">Dire que les habitus s&eacute;miotiques tendent vers l&rsquo;insignifiance pour ceux qui les vivent n&rsquo;&eacute;quivaut pas &agrave; pr&ocirc;ner l&rsquo;utopie d&rsquo;une vie qui serait &agrave; tout instant sous-tendue et renouvel&eacute;e par une s&eacute;miosis illimit&eacute;e. A supposer qu&rsquo;une telle option soit viable pour certains privil&eacute;gi&eacute;s (les artistes, par exemple), elle est d&rsquo;embl&eacute;e exclue pour la plupart de nos semblables. La r&eacute;flexion sur l&rsquo;insignifiance des habitus s&eacute;miotiques n&rsquo;en est pas moins justifi&eacute;e, dans la mesure o&ugrave; elle tend &agrave; subvertir l&rsquo;id&eacute;e de leur rationalit&eacute; intrins&egrave;que. Il n&rsquo;est pas vrai qu&rsquo;une communaut&eacute; d&rsquo;interpr&egrave;tes choisit toujours les meilleurs interpr&eacute;tants comme r&eacute;sultante de la cha&icirc;ne de la s&eacute;miosis, tout comme il n&rsquo;est pas vrai non plus que cette r&eacute;sultante soit toujours temporaire, toujours ouverte &agrave; sa propre r&eacute;activation &mdash; pas m&ecirc;me quand il arrive qu&rsquo;une communaut&eacute; juge que des interpr&eacute;tants alternatifs offriraient des solutions meilleures que celles que dicte le sens &agrave; un moment partag&eacute;, le &laquo;&nbsp;sens commun&nbsp;&raquo;. De ce point de vue, on pourrait d&eacute;finir la violence comme la persistance, dans une communaut&eacute; d&rsquo;interpr&egrave;tes, d&rsquo;habitus s&eacute;miotiques qui, tout en demeurant invisibles pour la majorit&eacute; des membres de la communaut&eacute;, infligent de la souffrance &agrave; une partie d&rsquo;entre eux au b&eacute;n&eacute;fice des autres.</p>
+                        <p class="texte" dir="ltr">L&rsquo;esclavage lui-m&ecirc;me a constitu&eacute;, pendant tr&egrave;s longtemps, un habitus s&eacute;miotique. Lui aussi &eacute;tait alors tenu pour la repr&eacute;sentation la plus appropri&eacute;e compte tenu d&rsquo;une cha&icirc;ne d&rsquo;alternatives entre lesquelles il s&rsquo;est progressivement fix&eacute; comme interpr&eacute;tant final. Et en tant que tel, il a form&eacute; des mentalit&eacute;s, fa&ccedil;onn&eacute; des comportements, donn&eacute; lieu &agrave; toute une &eacute;conomie, &agrave; un commerce, &agrave; des juridictions. Et il a inflig&eacute; des souffrances indicibles. Mais il n&rsquo;en &eacute;tait pas moins <em>insignifiant</em> pour la majorit&eacute; des hommes. Il n&rsquo;&eacute;tait pas d&eacute;pourvu de sens, pas <em>insens&eacute;</em>, puisqu&rsquo;il n&rsquo;&eacute;tait ni ind&eacute;chiffrable ni incompr&eacute;hensible ni m&ecirc;me troublant. Il &eacute;tait v&eacute;cu comme une seconde nature. Pourtant, il &eacute;tait monstrueux. Et lorsque des esprits courageux furent capables de le d&eacute;noncer comme tel, de le combattre et finalement de le rendre ill&eacute;gal, alors l&rsquo;humanit&eacute; enti&egrave;re se rendit compte &agrave; quel point il avait &eacute;t&eacute; intol&eacute;rable de transformer ce choix en un habitus s&eacute;miotique. Peut-&ecirc;tre s&rsquo;apercevra-t-on un jour, par un d&eacute;cillement du m&ecirc;me ordre, combien il nous aura fallu &ecirc;tre aveugle pour admettre que des hommes meurent en essayant de franchir des fronti&egrave;res, ou combien intol&eacute;rable aura &eacute;t&eacute; l&rsquo;habitus s&eacute;miotique de massacrer d&rsquo;autres animaux pour nourrir l&rsquo;esp&egrave;ce humaine. Et ainsi de suite.</p>
+                        <p class="texte" dir="ltr">Les s&eacute;mioticiens n&rsquo;ont certes pas pour vocation premi&egrave;re de combattre l&rsquo;injustice et la violence dans le monde. Mais leur vocation n&rsquo;est pas non plus de se transformer en chantres de la rationalit&eacute; de la s&eacute;miosis, en penseurs d&eacute;tach&eacute;s du monde, occup&eacute;s &agrave; d&eacute;velopper des th&eacute;ories sophistiqu&eacute;es &agrave; seule fin de justifier le <em>statu quo</em>. Seule une position historique et sociale &eacute;minemment privil&eacute;gi&eacute;e peut conduire &agrave; proclamer le bien-fond&eacute; intrins&egrave;que de la s&eacute;miosis. D&egrave;s qu&rsquo;on sort de cette perspective ouat&eacute;e, on comprend que les &ecirc;tres humains transforment souvent des interpr&eacute;tations violentes en habitus s&eacute;miotiques, les diffusent au sein de communaut&eacute;s d&rsquo;interpr&egrave;tes, les figent sous forme de r&egrave;gles morales et de normes de droit, infligent de la souffrance par leur truchement, soutiennent des intellectuels charg&eacute;s de pr&eacute;senter ces habitus comme le produit raisonnable de la rationalit&eacute; interpr&eacute;tative, et en d&eacute;finitive cr&eacute;ent un royaume dans lequel la violence, l&rsquo;injustice, et la souffrance se perp&eacute;tuent comme une seconde nature, incontest&eacute;e, muette, <em>insignifiante</em>. Les s&eacute;mioticiens devraient montrer que tout ce qui est insignifiant n&rsquo;est pas n&eacute;cessairement juste et que tout ce qui est juste n&rsquo;est pas n&eacute;cessairement signifiant. Leur devoir serait de dire la souffrance &laquo;&nbsp;in-signifiante&nbsp;&raquo; de l&rsquo;humanit&eacute;.</p>
+                        <h2 dir="ltr" id="heading5"><a href="#tocfrom2n2" id="tocto2n2">3.2. Sombrer dans l&rsquo;insignifiance</a></h2>
+                        <p class="texte" dir="ltr">Mais explorer, sonder, d&eacute;noncer l&rsquo;insignifiance, c&rsquo;est aussi effectuer le parcours inverse, qui, de la signifiance fait r&eacute;gresser vers l&rsquo;insignifiance. Le fait qu&rsquo;il y ait toujours quelque chose de grisant dans la d&eacute;couverte d&rsquo;un sens nouveau ne doit pas nous emp&ecirc;cher de reconna&icirc;tre que si le contraire, la perte du sens, l&rsquo;ali&eacute;nation est g&eacute;n&eacute;ralement douleur, elle est parfois, aussi, une sorte de plaisir.</p>
+                        <p class="texte" dir="ltr">Sombrer dans l&rsquo;indistinction, devenir une machine, percevoir le monde comme une chose et non plus comme langage, vivre une existence programm&eacute;e, sans alternatives, embrasser la n&eacute;cessit&eacute;&nbsp;: rien de tout cela n&rsquo;est exclu. Mais, c&rsquo;est l&agrave; une tendance ou une tentation dangereuse, une d&eacute;pendance p&eacute;rilleuse, dont les retomb&eacute;es morales apparaissent d&egrave;s qu&rsquo;on envisage l&rsquo;insignifiance non pas comme un point de d&eacute;part &mdash; comme ce qui nous incite &agrave; un &eacute;veil moral, &agrave; la prise de conscience du fait qu&rsquo;un monde meilleur est possible &mdash; mais comme un point d&rsquo;arriv&eacute;e, comme l&rsquo;aboutissement d&rsquo;une torpeur morale, comme l&rsquo;int&eacute;riorisation de l&rsquo;id&eacute;e qu&rsquo;on vit dans le seul monde possible. Prendre go&ucirc;t &agrave; sombrer de la sorte dans l&rsquo;insignifiance, c&rsquo;est en fait &ecirc;tre d&eacute;j&agrave; devenu incapable d&rsquo;en percevoir les seuils. Car qui commence &agrave; prendre plaisir &agrave; agir comme un robot n&rsquo;agit plus en r&eacute;alit&eacute; &laquo;&nbsp;comme un robot&nbsp;&raquo;&nbsp;: il est d&eacute;j&agrave; devenu robot.</p>
+                        <p class="texte" dir="ltr">A l&rsquo;oppos&eacute;, tant qu&rsquo;on assume sa propre humanit&eacute;, tant qu&rsquo;on reste fid&egrave;le &agrave; sa constitution bio-cognitive, on ne peut pas se r&eacute;jouir de devenir une machine. Quand il nous arrive de nous rendre compte que ce que nous faisons ou disons ne signifie rien, pour personne et sur aucun plan, nous devrions ressentir une vive douleur. Nous devrions &eacute;prouver le besoin irr&eacute;pressible d&rsquo;&eacute;chapper &agrave; nous-m&ecirc;me. Nous devrions changer. Ce n&rsquo;est pas l&agrave; un imp&eacute;ratif seulement moral mais aussi d&rsquo;ordre bio-cognitif. Si nous acceptons de vivre environn&eacute;s non plus par le langage et le sens mais par de pures et simples choses, alors nous reculons dans l&rsquo;histoire de l&rsquo;esp&egrave;ce, nous abdiquons notre r&ocirc;le dans l&rsquo;&eacute;volution. Transformer l&rsquo;environnement en univers de sens, c&rsquo;est au contraire tr&egrave;s pr&eacute;cis&eacute;ment ce qui donne &agrave; l&rsquo;humanit&eacute; le meilleur contr&ocirc;le possible sur ses propres conditions d&rsquo;existence. Certains voudraient renoncer &agrave; cette capacit&eacute;, pr&eacute;f&eacute;rant l&rsquo;utopie d&rsquo;une union mystique avec la nature. Malheureusement, dans la majorit&eacute; des cas, lorsque des hommes tendent &agrave; sombrer dans l&rsquo;insignifiance, &agrave; faire et &agrave; dire des choses dont ils ignorent ce qu&rsquo;elles signifient, ils se transforment tout simplement eux-m&ecirc;mes, de sujets s&eacute;miotiques en <em>choses</em>. Et loin de r&eacute;aliser leur utopie, ils permettent du m&ecirc;me coup &agrave; d&rsquo;autres hommes de les utiliser comme des &laquo;&nbsp;outils humains&nbsp;&raquo;. Plonger dans l&rsquo;insignifiance, c&rsquo;est s&rsquo;asservir &agrave; d&rsquo;autres hommes qui sauront en tirer profit.</p>
+                        <p class="texte" dir="ltr">Quelles le&ccedil;ons en tirer sur un plan plus personnel&nbsp;? Si la pr&eacute;sente r&eacute;flexion a pris comme terrain d&rsquo;exp&eacute;riences s&eacute;miotiques les autobus japonais, c&rsquo;est parce que l&rsquo;auteur les a r&eacute;cemment beaucoup pratiqu&eacute;s, entre la maison et le bureau, &agrave; titre de professeur invit&eacute; durant un semestre &agrave; l&rsquo;universit&eacute; de Kyoto. Une p&eacute;riode sabbatique peut se r&eacute;v&eacute;ler enchanteresse pour un chercheur. Soudain, on vous donne la possibilit&eacute; de passer des journ&eacute;es enti&egrave;res dans les biblioth&egrave;ques, les archives, les laboratoires, de rencontrer de nouveaux coll&egrave;gues, d&rsquo;entretenir avec eux de longues conversations philosophiques en partageant une cuisine exotique, de transmettre de nouvelles connaissances &agrave; des auditeurs attentifs, de s&rsquo;isoler dans un bureau que n&rsquo;encombrent gu&egrave;re les objets personnels, de lire, &eacute;crire, penser&hellip; Mais &agrave; vrai dire, n&rsquo;est-ce pas exactement pour cela qu&rsquo;un professeur-chercheur est pay&eacute; tout au long de sa carri&egrave;re&nbsp;? Ce sont bien, en effet, des activit&eacute;s de ce genre qui devraient rendre <em>signifiante</em> la vie d&rsquo;un chercheur, du moins s&rsquo;il est convaincu que ce qu&rsquo;il fait est pertinent dans un domaine correspondant &agrave; sa vocation, &agrave; sa formation, &agrave; ses comp&eacute;tences. Pendant un cong&eacute; sabbatique r&eacute;ussi, un professeur universitaire se repa&icirc;t ainsi de signifiance, certain que ses efforts ne seront pas vains, qu&rsquo;ils contribueront pour leur modeste part &agrave; une humanit&eacute; meilleure.</p>
+                        <p class="texte" dir="ltr">Or ce sentiment de signifiance contraste cruellement avec la condition existentielle que connaissent la majorit&eacute; des professeurs d&rsquo;universit&eacute; quand ils travaillent chez eux, dans leurs propres institutions. Il y a bien s&ucirc;r des universit&eacute;s meilleures que d&rsquo;autres, qui donnent plus de libert&eacute; que d&rsquo;autres, plus de chances de rencontres fructueuses, un espace de travail plus vaste, plus calme, etc. Mais la question n&rsquo;est pas l&agrave;. Si un cong&eacute; sabbatique constitue la meilleure des exp&eacute;riences possibles pour un chercheur, quelle que soit son institution de provenance, c&rsquo;est avant tout parce qu&rsquo;il lui donne l&rsquo;occasion de se soustraire &agrave; la plus grande part de ce qui, dans la vie universitaire, est au contraire, &agrave; proprement parler, insignifiant.</p>
+                        <p class="texte" dir="ltr">Pendant la r&eacute;cente crise &eacute;conomique et financi&egrave;re, les universit&eacute;s italiennes ont introduit un syst&egrave;me d&rsquo;&eacute;valuation et d&rsquo;auto-&eacute;valuation compliqu&eacute;, &agrave; plusieurs niveaux, afin de rationaliser les pratiques et d&rsquo;&eacute;liminer progressivement les comportements improductifs. L&rsquo;&eacute;valuation et l&rsquo;auto-&eacute;valuation sont certainement utiles dans tout domaine d&rsquo;activit&eacute;. Toutefois, comme cela est souvent le cas en Italie ou dans des pays de culture comparable, ce cadre d&rsquo;auto-observation, &agrave; l&rsquo;origine nordique, a &eacute;t&eacute; import&eacute; dans sa forme mais non dans son esprit. En tant que directeur d&rsquo;un programme de master, l&rsquo;auteur du pr&eacute;sent article doit rassembler chaque ann&eacute;e une longue s&eacute;rie de donn&eacute;es statistiques, les compiler dans un rapport pr&eacute;format&eacute;, juger de la situation du programme et formuler des promesses pour son am&eacute;lioration. Tout cela donne une tr&egrave;s belle impression. En r&eacute;alit&eacute;, les donn&eacute;es statistiques sont souvent fausses, ou du moins elles sont recueillies de fa&ccedil;on si rudimentaire qu&rsquo;elles ne sont absolument pas repr&eacute;sentatives de l&rsquo;&eacute;tat du programme&nbsp;; en se concentrant uniquement sur les chiffres, le rapport &eacute;choue &agrave; saisir ce qui importe vraiment, &agrave; savoir la qualit&eacute; de l&rsquo;enseignement et de la recherche&nbsp;; il n&rsquo;y a pas de cr&eacute;dits pour r&eacute;aliser ce qu&rsquo;on promet dans le rapport&nbsp;; pis encore, personne ne lit v&eacute;ritablement ces rapports &agrave; l&rsquo;exception de quelques bureaucrates immotiv&eacute;s qui se bornent &agrave; en v&eacute;rifier la correction formelle. Par cons&eacute;quent, cette activit&eacute; d&rsquo;&eacute;valuation et auto-&eacute;valuation 1) ne signifie rien, car elle ne repr&eacute;sente pas vraiment l&rsquo;&eacute;tat du programme&nbsp;; 2) elle n&rsquo;a de sens pour personne, car personne, &eacute;tudiant, professeur ou d&eacute;cideur institutionnel, ne la prendra au s&eacute;rieux&nbsp;; et 3) faute de s&eacute;lectionner les aspects signifiants de l&rsquo;objet qu&rsquo;elle est cens&eacute;e repr&eacute;senter, elle n&rsquo;a de sens &agrave; aucun &eacute;gard. La mise au point de ces rapports est n&eacute;anmoins obligatoire et requiert une &eacute;norme quantit&eacute; de temps, un temps tr&egrave;s pr&eacute;cieux qui pourrait &ecirc;tre consacr&eacute; &agrave; des activit&eacute;s plus significatives, par exemple la lecture d&rsquo;un livre ou une conversation avec un &eacute;tudiant.</p>
+                        <p class="texte" dir="ltr">Si la vie est s&eacute;miosis, et si la signifiance est la destin&eacute;e de l&rsquo;esp&egrave;ce humaine, alors la bureaucratie acad&eacute;mique est la mort. Compiler des rapports insignifiants est un peu comme mourir&nbsp;: cela &eacute;quivaut &agrave; se transformer en un robot, une machine, une chose. Cela &eacute;quivaut &agrave; renoncer &agrave; ce que les savants ont de plus cher &mdash; &agrave; savoir une relation amoureuse avec le langage &mdash; pour devenir les automates d&rsquo;une forme de vie insignifiante. Et comme on l&rsquo;a sugg&eacute;r&eacute; plus haut, ce passage de la signifiance &agrave; l&rsquo;insignifiance n&rsquo;est pas innocent. Chaque fois qu&rsquo;un peu d&rsquo;&eacute;nergie cognitive est d&eacute;tourn&eacute;e d&rsquo;une relation signifiante avec l&rsquo;environnement et dirig&eacute;e vers une relation insignifiante, quelqu&rsquo;un ou quelque chose est en train d&rsquo;utiliser cette &eacute;nergie-l&agrave; comme un outil, comme un dispositif de stupidit&eacute;. Dans le cas de la bureaucratie acad&eacute;mique, l&rsquo;&eacute;ventail des hypoth&egrave;ses concernant la source de cette exploitation est large. Qui donc tire profit du fait que le temps de la signifiance est soustrait de la vie de professeurs et des &eacute;tudiants dans le seul but de satisfaire les demandes d&rsquo;une bureaucratie insatiable&nbsp;?</p>
+                        <p class="texte" dir="ltr">La r&eacute;flexion sur la s&eacute;miotique de l&rsquo;insignifiance est importante non seulement pour r&eacute;pondre &agrave; cette question, mais aussi afin de comprendre que la bureaucratie acad&eacute;mique n&rsquo;est que la pointe de l&rsquo;iceberg de l&rsquo;ali&eacute;nation s&eacute;miotique. Si la plupart des professeurs d&rsquo;universit&eacute; sont aujourd&rsquo;hui profond&eacute;ment troubl&eacute;s et inquiets &mdash; &agrave; un point qui semble incompr&eacute;hensible, risible ou m&ecirc;me m&eacute;prisable d&rsquo;un point de vue ext&eacute;rieur&nbsp;&mdash;, c&rsquo;est que la majorit&eacute; d&rsquo;entre eux peuvent encore voir la diff&eacute;rence entre signifiance et insignifiance. Il existe &eacute;videmment aussi des chercheurs suicidaires qui, s&rsquo;&eacute;tant r&eacute;solument mis du c&ocirc;t&eacute; de la bureaucratie, se donnent pour mission existentielle, si on peut dire, de bureaucratiser le temps libre de leurs coll&egrave;gues. Ils demeurent heureusement l&rsquo;exception. Sans doute ont-ils cess&eacute; depuis longtemps d&rsquo;&ecirc;tre des chercheurs, ou m&ecirc;me ne l&rsquo;ont jamais vraiment &eacute;t&eacute;. La plupart, en revanche, comprennent encore parfaitement combien leur vie devient lumineuse lorsqu&rsquo;ils peuvent &eacute;tudier en profondeur un sujet avant d&rsquo;en discuter avec les &eacute;tudiants&nbsp;; lorsqu&rsquo;ils peuvent lire un nouveau livre&nbsp;; lorsqu&rsquo;ils peuvent prendre le temps de travailler un argument qui leur survivra. Et ils sont &eacute;galement conscients de la violence qui les force &agrave; se sentir oblig&eacute;s de mener &agrave; terme des t&acirc;ches insignifiantes. L&rsquo;irritation et le malaise ressentis au passage de la signifiance &agrave; l&rsquo;insignifiance sont des &eacute;tats d&rsquo;&acirc;me salutaires, tout comme il est salutaire pour tout &ecirc;tre humain de se rendre compte que les choses ne sont pas comme elles devraient &ecirc;tre, et qu&rsquo;elles pourraient &ecirc;tre meilleures. La protestation, l&rsquo;&eacute;migration, la philosophie&nbsp;: autant de r&eacute;actions qui, bien que totalement diff&eacute;rentes, rel&egrave;vent de la m&ecirc;me incapacit&eacute; humaine de s&rsquo;accoutumer &agrave; la douleur, &agrave; la souffrance, &agrave; l&rsquo;injustice, &agrave; l&rsquo;exploitation.</p>
+                        <p class="texte" dir="ltr">Mais chez la plupart des &ecirc;tres humains, cet instinct de survie s&eacute;miotique s&rsquo;est &eacute;teint depuis longtemps. Ils ont &eacute;t&eacute; contraints &agrave; accepter des formes de vie insignifiantes dont ils ne peuvent m&ecirc;me plus saisir l&rsquo;insignifiance, et cela au b&eacute;n&eacute;fice de vies plus significatives. Dans les ann&eacute;es 1960, les utopistes r&ecirc;vaient d&rsquo;un monde dans lequel il n&rsquo;y aurait pas de travail sans cr&eacute;ativit&eacute;, et inversement, pas non plus de cr&eacute;ativit&eacute; sans travail. Dans les conditions pr&eacute;sentes, demander que chacun re&ccedil;oive la chance de mener une vie cr&eacute;ative ne serait sans doute pas seulement utopique mais de plus moralement inappropri&eacute;. Ce serait en effet ne pas voir qu&rsquo;aujourd&rsquo;hui la plupart des vies humaines non seulement n&rsquo;ont rien de cr&eacute;atif mais sont marqu&eacute;es du sceau de l&rsquo;insignifiance. Les vies ordinaires consistent &agrave; br&ucirc;ler jour apr&egrave;s jour du temps et de l&rsquo;&eacute;nergie afin d&rsquo;accomplir des activit&eacute;s programm&eacute;es dont on ignore compl&egrave;tement ce qu&rsquo;elles signifient, pour qui, et &agrave; quel &eacute;gard.</p>
+                        <p class="texte" dir="ltr">La s&eacute;miotique doit d&eacute;noncer l&rsquo;insignifiance de la vie humaine et stigmatiser aussi, avec la m&ecirc;me v&eacute;h&eacute;mence, tous ses placebos. Les gens sont affam&eacute;s de signifiance&nbsp;: ils la d&eacute;sirent ardemment et, aujourd&rsquo;hui, peuvent de temps en temps la trouver dans les frissons microscopiques d&rsquo;une satisfaction &eacute;gotiste procur&eacute;e par des instants d&rsquo;exposition dans les r&eacute;seaux sociaux&nbsp;; ils la poursuivent aussi, bien que d&rsquo;une tout autre mani&egrave;re, lorsqu&rsquo;ils sombrent dans l&rsquo;irrationalit&eacute; en embrassant le fondamentalisme, la superstition, l&rsquo;obscurantisme&nbsp;; ils la cherchent encore lorsque, plus banalement, ils c&egrave;dent aux app&acirc;ts de la consommation&nbsp;; et c&rsquo;est d&rsquo;elle aussi qu&rsquo;ils r&ecirc;vent en imaginant l&rsquo;instant existentiel glorieux o&ugrave;, finalement, leurs efforts signifieraient quelque chose, pour quelqu&rsquo;un, et dans quelque domaine.</p>
+                        <p class="texte" dir="ltr">La s&eacute;miotique ne peut ni ne doit dire le &laquo;&nbsp;sens de la vie&nbsp;&raquo;. Mais elle a les moyens de mettre en garde contre la mort du sens. Et cela, du moment o&ugrave; elle le peut, elle le doit.</p>                          
+                        <div id="article_biblio" class="margin-top">
+                          <p id="article_bibliographie" class="article_titre_partie">Bibliographie</p>
+                          <div id="bibliographie">
+                            <p class="bibliographie" dir="ltr">Eco, Umberto, <em>A Theory of Semiotics</em>, Bloomington, Indiana University Press, 1976.</p>
+                            <p class="bibliographie" dir="ltr">— et Thomas A. Sebeok, <em>The Sign of Three : Dupin, Holmes, Peirce</em>, Bloomington, Indiana University Press, 1983.</p>
+                            <p class="bibliographie" dir="ltr">Landowski, Eric, <em>Les Interactions risquées</em>, Limoges, Pulim, 2004.</p>
+                            <p class="bibliographie" dir="ltr">Peirce, Charles S., <em>Collected papers</em>, Cambridge, Harvard University Press, 1931-1935, 8 vols.</p>
+                            <p class="bibliographie" dir="ltr">Pike, Kenneth Lee, <em>Language in Relation to a Unified Theory of the Structure of Human Behavior</em>, La Haye, Mouton, 1967.</p>
+                            <p class="bibliographie" dir="ltr">Ricœur, Paul, « Le temps raconté », <em>Revue de métaphysique et de morale</em>, 1984.</p>
+                          </div>
+                        </div>
+                        <div id="article_notesbaspage" class="margin-top">
+                          <p id="article_notes" class="article_titre_partie">Notes</p>
+                          <div class="notes">
+                            <p class="notesbaspage" dir="ltr"><a class="FootnoteSymbol" href="#bodyftn1" id="ftn1">1</a>  Umberto Eco et Thomas A. Sebeok, <em>The Sign of Three : Dupin, Holmes, Peirce</em>, Bloomington, Indiana University Press, 1983.</p>
+                            <p class="notesbaspage" dir="ltr"><a class="FootnoteSymbol" href="#bodyftn2" id="ftn2">2</a>  Pour la traduction de ce texte initialement rédigé en anglais (« On Insignifiance », à paraître dans l’<em>American Journal of Semiotics</em>, 2016), nous avons adopté le parti de rendre l’anglais <em>meaningless</em> par « insensé » et <em>insignificant</em> par « insignifiant ». Nous suivons en cela la convention terminologique adoptée par E. Landowski dans <em>Les Interactions risquées</em> (Limoges, Pulim, 2004, p. 72 et <em>passim</em>) où sont distinguées deux formes antithétiques du non-sens. Tandis que l’une est associée à l’idée d’un monde chaotique ne permettant de reconnaître aucune codification, aucune régularité, et par suite incompréhensible, indéchiffrable et inquiétant — « insensé » (<em>meaningless</em>) —, l’autre s’enracine dans la vision d’un univers au contraire entièrement codifié, régulé, programmé de part en part, où l’éternelle et incontournable répétition du même conduit à l’évidement du sens et à sa dissolution dans l’« insignifiance » (<em>insignificance</em>).</p>
+                            <p class="notesbaspage" dir="ltr"><a class="FootnoteSymbol" href="#bodyftn3" id="ftn3">3</a>  Umberto Eco,<em> A Theory of Semiotics</em>, Bloomington, Indiana University Press, 1976.</p>
+                            <p class="notesbaspage" dir="ltr"><a class="FootnoteSymbol" href="#bodyftn4" id="ftn4">4</a>  Kenneth Lee Pike, <em>Language in Relation to a Unified Theory of the Structure of Human Behavior</em>, La Haye, Mouton, 1967.</p>
+                          </div>
+                        </div>  
+                        <p id="article_citation_titre" class="article_titre_partie margin-top">Pour citer ce document</p>
+                        <p id="article_citation"><span class="auteur">Massimo <span class="familyName">Leone</span></span>, «&nbsp;De l’insignifiance&nbsp;», <em>Actes Sémiotiques</em> [En ligne], 119, 2016, consulté le 10/01/2023, URL&nbsp;: https://www.unilim.fr/actes-semiotiques/5641<span class="doi">, <a href="https://doi.org/10.25965/as.5641">https://doi.org/10.25965/as.5641</a></span></p>  
+                        <div class="margin-top">
+                          <p id="article_licence" class="article_titre_partie">Licence</p>
+                          <div class="alert alert-well">
+                            <div class="media">
+                              <div class="media-left"><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" style="border-width:0" /></a></div>
+                              <div class="media-body">
+                                <p class="media-heading">CC BY-NC-ND 4.0</p>Cet article est mis &agrave; disposition selon les termes de la <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" rel="license">licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a></div>
+                            </div>
+                          </div>
+                        </div>    
+                        <div id="imageModal" class="modal fade">        
+                          <div class="modal-dialog modal-lg">            
+                            <div class="modal-content">                
+                              <div class="modal-header">                    
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                <h4 class="modal-title"></h4>                </div>                
+                              <div class="modal-body"><img class="img-responsive" src="#" alt=""/>                </div>                
+                              <div class="modal-footer">                    
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>                </div>            </div>        </div>    </div>  </div>            </div>
+                  </div>
+                  <div class="col-md-6">              
+                    <div class="article_pdf visible-lg visible-md">
+                      <ul class="nav nav-pills gray">
+                        <li class=""><a href="5641&file=1" title="Article au format PDF - 205k"><span class="badge pull-right">205k</span> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Version PDF</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>        </article>
+            </div>
+          </div>
+          <footer id="footer" role="contentinfo">
+            <div class="ul-signature bg-grad-left-gray-lighter">
+              <div class="container">
+                <hr class="visible-xs"/>
+                <div class="row">
+                  <div class="col-md-4 col-sm-8 col-xs-line"><a accesskey="1" href="http://www.unilim.fr"><img class="logo-unilim" src="images/logo_unilim.svg" alt="logo de l'universit&#233; de Limoges"></a></div>
+                  <div class="col-md-5 col-sm-8 col-xs-line">
+                    <address>Faculté des Lettres et Sciences Humaines<br/>39E Rue Camille-Guérin<br/>87036 LIMOGES Cedex<br/>Tél. +33 (5) 05 55 43 56 00 </address>
+                  </div>
+                  <div class="col-md-4 col-sm-8 col-xs-line">
+                    <p class="nomSite">Actes Sémiotiques</p>
+                    <p class="ISSN">e-ISSN : 2270-4957</p>
+                  </div>
+                  <div class="col-md-3 col-sm-8 col-xs-line">
+                    <ul class="list-inline social-links ">
+                      <li><a class="btn btn-xs close" href="index.php?page=backend&amp;format=rss&amp;ident=5641" title="Flux RSS de  De l’insignifiance" target="_blank"><i class="fa fa-rss fa-lg"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="bg-primary text-light">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-5 col-sm-5">
+                    <h4 class="page-header">Numéros</h4>
+                    <ul class="list-unstyled num_list">
+                      <li><a href="7647">N&#176; 127 | 2022</a></li>
+                      <li><a href="7376">N&#176; 126 | 2022</a></li>
+                      <li><a href="7108">N&#176; 125 | 2021</a></li>
+                      <li><a href="6679">N&#176; 124 | 2021</a></li>
+                      <li><a href="6399">N&#176; 123 | 2020</a></li>
+                      <li class="num_all"><a href="57">Tous les numéros</a></li>
+                    </ul>
+                  </div>
+                  <div class="col-md-5 col-sm-5">
+                    <h4 class="page-header">La revue</h4>
+                    <ul class="list-unstyled">
+                      <li><a href="2958">Politique éditoriale</a></li>
+                      <li><a href="6784">Politiques de publication</a></li>
+                      <li><a href="6783">Déclaration sur l'éthique et les bonnes pratiques en matière de publication</a></li>
+                      <li><a href="6803">Normes de rédaction</a></li>
+                      <li><a href="2959">Organigramme et comités</a></li>
+                      <li></ul>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                      <h4 class="page-header">Publications en ligne</h4>
+                      <div class="row">
+                        <div class="col-md-6">
+                          <ul class="list-unstyled">
+                            <li><a href="https://hal-unilim.archives-ouvertes.fr" target="_blank">HAL - Unilim</a></li>
+                            <li><a href="http://aurore.unilim.fr" target="_blank">Aurore - Unilim</a></li>
+                          </ul>
+                        </div>
+                        <div class="col-md-10">
+                          <p class="portail-revues"><a href="https://www.unilim.fr/revues" target="_blank">Portail des revues</a></p>
+                          <ul class="list-unstyled">
+                            <li><a href="https://www.unilim.fr/actes-semiotiques" target="_blank" title="Actes Sémiotiques">Actes Sémiotiques</a></li>
+                            <li><a href="https://www.unilim.fr/asl" target="_blank" title="Annales Scientifiques du Limousin">Annales Scientifiques du Limousin</a></li>
+                            <li><a href="https://www.unilim.fr/dire" target="_blank" title="DIversités Recherches et Terrains">DIversités Recherches et Terrains</a></li>
+                            <li><a href="https://www.unilim.fr/espaces-linguistiques/" target="_blank" title="Espaces Linguistiques">Espaces Linguistiques</a></li>
+                            <li><a href="https://www.unilim.fr/flamme" target="_blank">FLAMME</a></li>
+                            <li><a href="https://www.unilim.fr/interfaces-numeriques" target="_blank">Interfaces Numériques</a></li>
+                            <li><a href="https://www.unilim.fr/trahs" target="_blank" title="Trajectoires Humaines Transcontinentales">TRAHS</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-4 col-md-offset-12 footer_licence text-right">
+                      <ul class="list-inline">
+                        <li><a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" rel="license"><img alt="Creative Commons License" src="images/88x31.png"></a></ul>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6 col-md-offset-3">
+                        <ul id="menu-liens-pied-de-page" class="nav nav-tabs text-light">
+                          <li class="menu-item"><a href="4804">Crédits et mentions légales</a></li>
+                          <li class="menu-item"><a href="6154">Contacts</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="scroll-top-wrapper "><span class="scroll-top-inner"><i class="fa fa-2x fa-arrow-circle-up"></i></span></div>
+              </footer>
+              <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+              <script type="text/javascript" src="js/bootstrap.min.js"></script>
+              <script type="text/javascript" src="js/jquery.bootstrap-autohidingnavbar.js"></script>
+              <script type="text/javascript" src="js/site.js"></script>
+              <script type="text/javascript">$(window).load(function(){
+  function redimensionnement() {
+    if("matchMedia" in window) {
+      if(window.matchMedia("(min-width:992px)").matches) {
+        var article_texte_integral =  document.getElementById('article_texte_integral'),d = article_texte_integral.getElementsByTagName('dl'),mTop=10,y0=0;
+        for (i=0,c=d.length;i<c;i++)
+        {
+          if(d[i].className=="notes")
+          {
+            var h = d[i].offsetHeight || 0,y=d[i].offsetParent.offsetTop || 0;
+            if(y<y0)
+            {
+              d[i].style.marginTop=y0-y+mTop+'px';
+              y0+=h;
+            }
+            else y0=y+h;
+          }
+        }
+        }
+      }
+    }
+  $('#article_toc a').click( function() {
+  var page = $(this).attr('href');
+  var speed = 750;
+  $('html, body').animate( { scrollTop: $(page).offset().top - ($("#main-menu").outerHeight(true)+10) }, speed );
+  return false;
+  });
+  $('#article_texte_integral a[id^="tocto"]').click( function() {
+  var page = $(this).attr('href');
+  var speed = 750;
+  $('html, body').animate( { scrollTop: $(page).offset().top - ($("#main-menu").outerHeight(true)+10) }, speed );
+  return false;
+  });
+  $('#article_texte_integral a.footnotecall').click( function() {
+    var page = $(this).attr('href');
+    var speed = 750;
+    $('html, body').animate( { scrollTop: $(page).offset().top - $("#main-menu").outerHeight(true) }, speed );
+    return false;
+  });
+  $('#article_texte_integral a.FootnoteSymbol').click( function() {
+    var page = $(this).attr('href');
+    var speed = 750;
+    $('html, body').animate( { scrollTop: $(page).offset().top - $("#main-menu").outerHeight(true) }, speed );
+    return false;
+  });
+  $('a.article_lien_img').click(function(e) {
+      $('#imageModal img').attr('src', $(this).children('img').attr('data-img-url'));
+      $('#imageModal .modal-title').text($(this).children('img').attr('data-img-title'));
+  });
+  window.addEventListener('resize', redimensionnement, true);
+  redimensionnement();
+});</script><!-- Matomo -->
+              <script>var _paq = window._paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="https://mystats.unilim.fr/";
+_paq.push(['setTrackerUrl', u+'matomo.php']);
+_paq.push(['setSiteId', '51']);
+var secondaryTrackerUrl = 'https://matomo-rgpd.unilim.fr/matomo.php';
+    var secondaryWebsiteId = 2;
+/*var secondaryTrackerUrl = 'https://mystats.unilim.fr/matomo.php';
+    var secondaryWebsiteId = 469;*/
+    // Also send all of the tracking data to this other Matomo server, in website ID 77
+    _paq.push(['addTracker', secondaryTrackerUrl, secondaryWebsiteId]);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();</script>
+              <noscript>
+                <p><img src="https://mystats.unilim.fr/matomo.php?idsite=51&amp;rec=1" style="border:0;" alt="" /><img src="https://matomo-rgpd.unilim.fr/matomo.php?idsite=2&amp;rec=1" style="border:0;" alt="" /></p>
+              </noscript><!-- End Matomo Code --></body>
+          </html>

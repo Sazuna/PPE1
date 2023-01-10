@@ -1,0 +1,2524 @@
+
+<!doctype html>
+<html lang="fr-FR">
+    <head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",(e=>{this.persisted=e.persisted})),window.addEventListener("DOMContentLoaded",(()=>{this._preconnect3rdParties()})),this.delayedScripts={normal:[],async:[],defer:[]},this.allJQueries=[]}_addUserInteractionListener(e){document.hidden?e._triggerListener():(this.triggerEvents.forEach((t=>window.addEventListener(t,e.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",e.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",e.touchStartHandler),document.addEventListener("visibilitychange",e.userEventHandler))}_removeUserInteractionListener(){this.triggerEvents.forEach((e=>window.removeEventListener(e,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(e){"HTML"!==e.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),e.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"onclick","rocket-onclick"))}_onTouchMove(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick")}_onTouchEnd(e){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(e){e.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(e.target,"rocket-onclick","onclick"),this.interceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((e=>{e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))}))}_renameDOMAttribute(e,t,n){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(n,event.target.getAttribute(t)),event.target.removeAttribute(t))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let e=[];document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{if(t.hasAttribute("src")){const n=new URL(t.src).origin;n!==location.origin&&e.push({src:n,crossOrigin:t.crossOrigin||"module"===t.getAttribute("data-rocket-type")})}})),e=[...new Map(e.map((e=>[JSON.stringify(e),e]))).values()],this._batchInjectResourceHints(e,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._triggerWindowLoad()}catch(e){}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._replayClicks()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((e=>{e.hasAttribute("src")?e.hasAttribute("async")&&!1!==e.async?this.delayedScripts.async.push(e):e.hasAttribute("defer")&&!1!==e.defer||"module"===e.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(e):this.delayedScripts.normal.push(e):this.delayedScripts.normal.push(e)}))}async _transformScript(e){return await this._littleBreath(),new Promise((t=>{const n=document.createElement("script");[...e.attributes].forEach((e=>{let t=e.nodeName;"type"!==t&&("data-rocket-type"===t&&(t="type"),n.setAttribute(t,e.nodeValue))})),e.hasAttribute("src")?(n.addEventListener("load",t),n.addEventListener("error",t)):(n.text=e.text,t());try{e.parentNode.replaceChild(n,e)}catch(e){t()}}))}async _loadScriptsFromList(e){const t=e.shift();return t?(await this._transformScript(t),this._loadScriptsFromList(e)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(e,t){var n=document.createDocumentFragment();e.forEach((e=>{if(e.src){const i=document.createElement("link");i.href=e.src,i.rel=t,"preconnect"!==t&&(i.as="script"),e.getAttribute&&"module"===e.getAttribute("data-rocket-type")&&(i.crossOrigin=!0),e.crossOrigin&&(i.crossOrigin=e.crossOrigin),n.appendChild(i)}})),document.head.appendChild(n)}_delayEventListeners(){let e={};function t(t,n){!function(t){function n(n){return e[t].eventsToRewrite.indexOf(n)>=0?"rocket-"+n:n}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(n)}function n(e,t){let n=e[t];Object.defineProperty(e,t,{get:()=>n||function(){},set(i){e["rocket"+t]=n=i}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),n(document,"onreadystatechange"),n(window,"onload"),n(window,"onpageshow")}_delayJQueryReady(e){let t=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>t,set(n){if(n&&n.fn&&!e.allJQueries.includes(n)){n.fn.ready=n.fn.init.prototype.ready=function(t){e.domReadyFired?t.bind(document)(n):document.addEventListener("rocket-DOMContentLoaded",(()=>t.bind(document)(n)))};const t=n.fn.on;n.fn.on=n.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e.split(" ").map((e=>"load"===e||0===e.indexOf("load.")?"rocket-jquery-load":e)).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]}))}return t.apply(this,arguments),this},e.allJQueries.push(n)}t=n}})}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach((e=>e(window).trigger("rocket-jquery-load"))),await this._littleBreath();const e=new Event("rocket-pageshow");e.persisted=this.persisted,window.dispatchEvent(e),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){const e=new Map;document.write=document.writeln=function(t){const n=document.currentScript,i=document.createRange(),r=n.parentElement;let o=e.get(n);void 0===o&&(o=n.nextSibling,e.set(n,o));const s=document.createDocumentFragment();i.setStart(s,0),s.appendChild(i.createContextualFragment(t)),r.insertBefore(s,o)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise((e=>setTimeout(e))):new Promise((e=>requestAnimationFrame(e)))}static run(){const e=new RocketLazyLoadScripts;e._addUserInteractionListener(e)}}RocketLazyLoadScripts.run();</script>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
+        <meta name="format-detection" content="telephone=no">
+        <link rel="profile" href="https://gmpg.org/xfn/11">
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v19.6 (Yoast SEO v19.13) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Carbonne. Dernier jour de l&#039;exposition de pop-up et livres animés</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Raleway%3A900&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway%3A900&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway%3A900&#038;display=swap" /></noscript><link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&#038;display=swap" /></noscript><link rel="stylesheet" href="https://www.lejournaltoulousain.fr/wp-content/cache/min/1/0f57d76131bca6f8d7c639029273505e.css" media="all" data-minify="1" />
+	<meta name="description" content="L&#039;exposition proposée à la médiathèque de Carbonne se termine ce samedi. Dernier jour pour découvrir livres animés et «pop-up»." />
+	<link rel="canonical" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Carbonne. Dernier jour de l&#039;exposition de pop-up et livres animés" />
+	<meta property="og:description" content="L&#039;exposition proposée par la Ville de Carbonne (Haute-Garonne) à la médiathèque se termine ce samedi 7 janvier. C&#039;est donc le dernier jour pour faire" />
+	<meta property="og:url" content="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/" />
+	<meta property="article:publisher" content="https://www.facebook.com/JournalToulousain" />
+	<meta property="article:published_time" content="2023-01-07T10:28:00+00:00" />
+	<meta property="article:modified_time" content="2023-01-07T09:41:28+00:00" />
+	<meta property="og:image" content="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-scaled.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="989" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="William Bernecker" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@JToulousain" />
+	<meta name="twitter:site" content="@JToulousain" />
+	<meta name="twitter:label1" content="Écrit par" />
+	<meta name="twitter:data1" content="William Bernecker" />
+	<meta name="twitter:label2" content="Durée de lecture estimée" />
+	<meta name="twitter:data2" content="2 minutes" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="amphtml" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/amp/" /><meta name="generator" content="AMP for WP 1.0.77.55.1"/><link rel='dns-prefetch' href='//cdn.taboola.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<!-- lejournaltoulousain.fr is managing ads with Advanced Ads 1.39.1 – https://wpadvancedads.com/ --><!--noptimize--><script id="lejou-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		<!--/noptimize-->
+
+
+
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0,44rem;--wp--preset--spacing--30: 0,67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1,5rem;--wp--preset--spacing--60: 2,25rem;--wp--preset--spacing--70: 3,38rem;--wp--preset--spacing--80: 5,06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js' defer></script>
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' defer></script>
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-content/plugins/advanced-ads-slider/public/assets/js/unslider.min.js?ver=1.4.7' id='unslider-js-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.move.js?ver=1673337258' id='unslider-move-js-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.swipe.js?ver=1673337258' id='unslider-swipe-js-js' defer></script>
+<script id='wpp-json' type="application/json">
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/www.lejournaltoulousain.fr\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/www.lejournaltoulousain.fr\/wp-json\/wordpress-popular-posts","ID":191118,"token":"8a31b72398","lang":0,"debug":0}
+</script>
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.1.1' id='wpp-js-js' defer></script>
+            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+                <script type="rocketlazyloadscript">
+		if(screen.width<769){
+        	window.location = "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/amp/";
+        }
+    	</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+    var _wsq = _wsq || [];
+    _wsq.push(['_setNom', 'lejournaltoulousain']);
+    _wsq.push(['_wysistat']);
+    (function(){
+        var ws   = document.createElement('script');
+        ws.type  = 'text/javascript';
+        ws.async = true;
+        ws.src = ('https:' == document.location.protocol ? 'https://www' : 'http://www') + '.wysistat.com/ws.jsa';
+        var s    = document.getElementsByTagName('script')[0]||document.getElementsByTagName('body')[0];
+        s.parentNode.insertBefore(ws, s);
+    })();
+   </script><link rel="icon" href="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/Nouveau-logo-JT-1.png" sizes="32x32" />
+<link rel="icon" href="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/Nouveau-logo-JT-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/Nouveau-logo-JT-1.png" />
+<meta name="msapplication-TileImage" content="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/Nouveau-logo-JT-1.png" />
+<!-- Gutentor Dynamic CSS -->
+<style type="text/css" id='gutentor-dynamic-css'>
+@media (min-width:992px){.grid-container{max-width:2000px}}@media (min-width:992px){.grid-container{max-width:2000px}}.section-g215ae2 .gutentor-block-button{color:#fcb900;background-color:#282538;background-image:none;padding:20px 40px 20px 40px;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;font-size:16px;text-transform:normal}.section-g215ae2 .gutentor-block-button:hover{background-color:#f63878;background-image:none;border-top-left-radius:3px;border-top-right-radius:3px;border-bottom-right-radius:3px;border-bottom-left-radius:3px}.section-g215ae2 .gutentor-block-button .gutentor-button-icon{font-size:14px}@media only screen and (min-width:768px){.section-g215ae2 .gutentor-block-button{padding:20px 40px 20px 40px;font-size:16px}.section-g215ae2 .gutentor-block-button .gutentor-button-icon{font-size:14px}}@media only screen and (min-width:992px){.section-g215ae2 .gutentor-block-button{margin:0 0 0 0;padding:40px 60px 40px 60px;font-size:19px}.section-g215ae2 .gutentor-block-button .gutentor-button-icon{font-size:14px}}.section-g749223 .gutentor-block-button{color:#fff;background-color:#292938;background-image:none;padding:12px 25px 12px 25px;border-top-left-radius:4px;border-top-right-radius:4px;border-bottom-right-radius:4px;border-bottom-left-radius:4px;font-size:16px;text-transform:normal}.section-g749223 .gutentor-block-button:hover{background-color:#f63878;background-image:none;border-top-left-radius:3px;border-top-right-radius:3px;border-bottom-right-radius:3px;border-bottom-left-radius:3px}.section-g749223 .gutentor-block-button .gutentor-button-icon{font-size:14px}@media only screen and (min-width:768px){.section-g749223 .gutentor-block-button{padding:12px 25px 12px 25px;font-size:16px}.section-g749223 .gutentor-block-button .gutentor-button-icon{font-size:14px}}@media only screen and (min-width:992px){.section-g749223 .gutentor-block-button{padding:20px 40px 20px 40px;font-size:16px}.section-g749223 .gutentor-block-button .gutentor-button-icon{font-size:14px}}.section-gm09a9c1c{background-color:#292938}.section-gma31710{background-color:#292938}@media only screen and (min-width:992px){.col-gma31710{flex-basis:33.33333333333333%;max-width:33.33333333333333%}}.section-gm1722ef{background-color:#292938}@media only screen and (min-width:992px){.col-gm1722ef{flex-basis:33.33333333333333%;max-width:33.33333333333333%}}.section-gm439bbe{background-color:#292938}@media only screen and (min-width:992px){.col-gm439bbe{flex-basis:33.33333333333333%;max-width:33.33333333333333%}}.section-gb1f1af.gutentor-element-advanced-text .gutentor-text{color:#d6d9c8;font-family:'Raleway',sans-serif;font-weight:900}@media only screen and (min-width:992px){.section-gb1f1af.gutentor-element-advanced-text .gutentor-text{margin:0 0 25px 0;font-size:21px}}.section-ge50dd1.gutentor-element-advanced-text .gutentor-text{color:#d6d9c8;font-family:'Raleway',sans-serif;font-weight:900}@media only screen and (min-width:992px){.section-ge50dd1.gutentor-element-advanced-text .gutentor-text{margin:0 0 25px 0;font-size:21px}}@media only screen and (min-width:992px){.section-gm8fe348d{margin:0 0 0 0;padding:0 0 0 0}}
+</style><style>
+			html {
+				margin-top: 0 !important;
+				font-size: 100%;
+			}
+
+			body,
+			input,
+			select,
+			textarea,
+			button,
+			.button {
+				font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;;
+			}
+
+			h1, .h1,
+			h2, .h2,
+			h3, .h3,
+			h4, .h4,
+			h5, .h5,
+			h6, .h6 {
+				font-family: "Raleway", sans-serif;;
+			}
+
+			#header .inner .menu nav ul:not(.sub-menu) > li > a.button,
+			#header .inner .menu nav ul:not(.sub-menu) > li > span.button {
+				font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;;
+			}
+
+			body.dark .button,
+			body.dark button[type="submit"],
+			body.dark input[type="submit"],
+			body.light .button,
+			body.light button[type="submit"],
+			body.light input[type="submit"] {
+				background-color: #272749 !important;
+				color: #FFFFFF !important;
+			}
+
+			body.dark .button::after,
+			body.light .button::after {
+				border-color: #FFFFFF !important;
+			}
+
+			body.dark .button:hover,
+			body.dark button[type="submit"]:hover,
+			body.dark input[type="submit"]:hover,
+			body.light .button:hover,
+			body.light button[type="submit"]:hover,
+			body.light input[type="submit"]:hover {
+				background-color: #1f1f3a !important;
+			}
+
+			#header .site-navigation .inner .menu nav ul:not(.sub-menu) > li > a:not(.button)::before,
+			#header .site-navigation .inner .menu nav ul:not(.sub-menu) > li > span:not(.button)::before,
+			#header .site-navigation .inner .menu nav ul.sub-menu > li >a::before,
+			#header .site-navigation .inner .menu nav ul.sub-menu > li >span::before {
+				border-color: #272749 !important;
+			}
+
+			#header #scroll-indicator .progress {
+				background-color: #272749 !important;
+			}
+
+			#footer .bar .widget .widget-title:before {
+				background-color: #272749 !important;
+			}
+
+			body.category main.loop .loop-header,
+			body.dark.category main.loop .loop-header .header p,
+			body.light.category main.loop .loop-header .header p {
+				background-color: #272749;
+			}
+
+			body.tag main.loop .loop-header,
+			body.dark.tag main.loop .loop-header .header p,
+			body.light.tag main.loop .loop-header .header p {
+				background-color: #272749;
+			}
+
+			body.light main.blog .post a .details .category,
+			body.dark main.blog .post a .details .category,
+			body.light .entries .entry a .details .category,
+			body.dark .entries .entry a .details .category {
+				background-color: #272749;
+			}
+
+			body.light main.entry.single .header .details .category a,
+			body.light main.entry.single .header .details .category span,
+			body.dark main.entry.single .header .details .category a,
+			body.dark main.entry.single .header .details .category span,
+			.sidebar .widget .widget-title::before,
+			#footer .top .widget .widget-title::before {
+				background-color: #272749 !important;
+			}
+
+			body.light main.entry.single .entry-layout .contents h3:not(.sc),
+			body.light main.entry.single .entry-layout .contents .h3:not(.sc),
+			body.light main.entry.single .entry-layout .contents a:not([class]),
+			body.light main.entry.single .entry-layout .contents span[data-obflink-url]:not(.sc),
+			body.light main.entry.page .entry-layout .contents h3:not(.sc),
+			body.light main.entry.page .entry-layout .contents .h3:not(.sc),
+			body.light main.entry.page .entry-layout .contents a:not([class]),
+			body.light main.entry.page .entry-layout .contents span[data-obflink-url]:not(.sc),
+			body.light.single-product main.product .product-layout .product-layout-description .description a:not([class]),
+			body.dark main.entry.single .entry-layout .contents h3:not(.sc),
+			body.dark main.entry.single .entry-layout .contents .h3:not(.sc),
+			body.dark main.entry.single .entry-layout .contents a:not([class]),
+			body.dark main.entry.single .entry-layout .contents span[data-obflink-url]:not(.sc),
+			body.dark main.entry.page .entry-layout .contents h3:not(.sc),
+			body.dark main.entry.page .entry-layout .contents .h3:not(.sc),
+			body.dark main.entry.page .entry-layout .contents a:not([class]),
+			body.dark main.entry.page .entry-layout .contents span[data-obflink-url]:not(.sc),
+			body.dark.single-product main.product .product-layout .product-layout-description .description a:not([class]) {
+				color: #272749;
+			}
+
+			body.light main.entry.single .entry-layout .contents h2::before,
+			body.light main.entry.page .entry-layout .contents h2::before,
+			body.dark main.entry.single .entry-layout .contents h2::before,
+			body.dark main.entry.page .entry-layout .contents h2::before {
+				background-color: #272749;
+			}
+
+			@media (min-width: 801px) {
+				#header .site-navigation .inner .menu .icons .search span:hover svg path,
+				#header .site-navigation .inner .menu .icons .social ul li a:hover svg path {
+					fill: #272749 !important;
+				}
+			}
+
+			@media (max-width: 800px) {
+				#header .site-navigation .inner .menu nav ul:not(.sub-menu) > li.current-menu-ancestor > a:not(.button),
+				#header .site-navigation .inner .menu nav ul:not(.sub-menu) > li.current-menu-ancestor > span:not(.button),
+				#header .site-navigation .inner .menu nav ul:not(.sub-menu) > li.current-menu-item > a:not(.button),
+				#header .site-navigation .inner .menu nav ul:not(.sub-menu) > li.current-menu-item > span:not(.button),
+				#header .site-navigation .inner .menu nav ul.sub-menu > li.current-menu-ancestor > a,
+				#header .site-navigation .inner .menu nav ul.sub-menu > li.current-menu-ancestor > span,
+				#header .site-navigation .inner .menu nav ul.sub-menu > li.current-menu-item > a,
+				#header .site-navigation .inner .menu nav ul.sub-menu > li.current-menu-item > span {
+					color: #272749;
+				}
+			}
+		
+					body.light main.entry.page .entry-layout .contents:not(.woo) a:not([class]),
+					body.dark main.entry.page .entry-layout .contents:not(.woo) a:not([class]),
+					body.light main.entry.page .entry-layout .contents:not(.woo) span[data-obflink-url]:not(.sc),
+					body.dark main.entry.page .entry-layout .contents:not(.woo) span[data-obflink-url]:not(.sc),
+					body.light main.entry.single .entry-layout .contents:not(.woo) a:not([class]),
+					body.dark main.entry.single .entry-layout .contents:not(.woo) a:not([class]),
+					body.light main.entry.single .entry-layout .contents:not(.woo) span[data-obflink-url]:not(.sc),
+					body.dark main.entry.single .entry-layout .contents:not(.woo) span[data-obflink-url]:not(.sc),
+					body.light.single-product main.product .product-layout .product-layout-description .description a:not([class]),
+					body.dark.single-product main.product .product-layout .product-layout-description .description a:not([class]) {
+						color: #00599e !important;
+					}
+				
+				body.light main.entry.single .entry-layout .contents h3,
+				body.light main.entry.single .entry-layout .contents .h3,
+				body.light main.entry.single .entry-layout .contents a:not([class]),
+				body.light main.entry.single .entry-layout .contents span[data-obflink-url]:not(.sc),
+				body.dark main.entry.single .entry-layout .contents h3,
+				body.dark main.entry.single .entry-layout .contents .h3,
+				body.dark main.entry.single .entry-layout .contents a:not([class])
+				body.dark main.entry.single .entry-layout .contents span[data-obflink-url]:not(.sc) {
+					color: #00789b !important;
+				}
+
+				body.light main.entry.single .entry-layout .contents h2::before,
+				body.light main.entry.single .entry-layout .sidebar .widget .widget-title::before,
+				body.dark main.entry.single .entry-layout .contents h2::before,
+				body.dark main.entry.single .entry-layout .sidebar .widget .widget-title::before {
+					background-color: #00789b !important;
+				}
+
+				body.light main.entry.single .entry-layout .sidebar .widget button[type="submit"],
+				body.dark main.entry.single .entry-layout .sidebar .widget button[type="submit"] {
+					background-color: #00789b !important;
+				}
+
+				body.light main.entry.single .entry-layout .sidebar .widget button[type="submit"]:hover,
+				body.dark main.entry.single .entry-layout .sidebar .widget button[type="submit"]:hover {
+					background-color: #00607c !important;
+				}
+				</style>		<style id="wp-custom-css">
+			.sidebar-floating .entered {
+    height: auto;
+    width: 100%;
+}
+
+.image-single_register img {
+    width: 100%;
+    height: auto;
+}
+
+body.light main.entry.single .entry-layout .contents h2::before, body.light main.entry.single .entry-layout .sidebar .widget .widget-title::before, body.dark main.entry.single .entry-layout .contents h2::before, body.dark main.entry.single .entry-layout .sidebar .widget .widget-title::before{
+	content: none;
+}
+
+  body.light main.entry.single .entry-layout .contents:not(.woo)  .image-text .content-text h5  a:not([class]){
+
+    font-family: 'Raleway',sans-serif;
+    text-decoration: none;
+    color: #1E2229!important;
+   }
+
+.single .hero-post #breadcrumbs{
+	position: relative;
+	z-index: -100!important;
+	display: none;
+
+}
+
+.single .hero-post{
+		padding-top:40px;
+}
+body.light main.entry.single .entry-layout .contents:not(.woo) .each-slide h4 a {
+   text-decoration: none;
+	color: #1E2229!important;
+	font-size: 15px;
+}
+body.light main.entry.single .entry-layout .contents:not(.woo) .content-right h4 a:not([class]){
+		color: #1E2229!important;
+}
+body.light main.entry.single .entry-layout .contents:not(.woo) .tabs_item_post .col-pt-100 h3 a:not([class]){
+	color: #1E2229!important;
+}
+body.light main.entry.single .entry-layout .contents:not(.woo)  .col-pt-2 h3 a:not([class]){
+	color: #1E2229!important;
+}
+
+body.light main.entry.single .entry-layout .contents:not(.woo)  ul#breadcrumbs li  a:not([class]){
+	color: #fff!important;
+}
+body.light main.entry.single .each-slide {
+	padding: 0 10px;
+	
+}
+
+body.light main.entry.single .content-slider{
+	margin: 0 -10px;
+}
+
+body.light main.entry.single .box-contact p{
+	font-size: 18px;
+		line-height: 20px;
+}
+
+body.light main.entry.single .box-contact .gutentor-button span{
+		text-align: center;
+}
+
+body.light main.entry.single .box-contact .grid-container h2 {
+    margin-bottom: 16px;
+}
+
+body.light main.entry.single .post-read-more .content-right .date-category strong{
+	font-size: 10px;
+}
+body.light main.entry.single  .content-slider .slick-dots li {
+    background-color: transparent!important;
+    font-size: 13px;
+}
+
+body.light main.entry.single .content_write_100 {
+    padding: 0 0px;
+    box-sizing: border-box;
+}
+.text-top_single .color_text_box{
+	position: rectangle;
+	z-index: 2;
+	top: -20px;
+}
+
+@media(max-width: 991px){
+	.image-text .image-square{
+		    height: 190px;
+	}
+}
+
+.ljt-block-legal-column {
+  flex-basis: 100%!important;;
+}
+@media(min-width: 576px) {
+  .ljt-block-legal-column {
+    flex-basis: calc(50%)!important;;
+  }
+}
+@media(min-width: 992px) {
+  .ljt-block-legal-column {
+    flex-basis: calc(33%)!important;;
+  }
+}
+.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column:not(.ljt-block-legal-column)
+}
+@media (min-width: 782px) {
+	.annonces-legales-content > .wp-block-columns {
+		flex-wrap: wrap !important;
+	}
+}
+
+.annonces-legales-content > .wp-block-columns {
+		flex-wrap: wrap !important;
+	}
+
+.zeno-comments-report-link a {
+    background-color: #cd2653;
+    color: #fff;
+    display: block;
+    float: left;
+    padding: 0.6em;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+    </head>
+    <body class="post-template-default single single-post postid-191118 single-format-standard wp-custom-logo gutentor-active light plain  aa-prefix-lejou-">
+
+                        
+  
+<div class="site-header-div">
+
+</div>
+<div class="site-header-div-bottom"></div>
+    <main class="entry single single-news " id="post-191118" role="main">
+        <div class="container">
+         <div class="menu_cat-single">
+              <div class="content_menu_page" ><ul id="menu-haute-garonne" class="sub-menu-categories"><li id="menu-item-148592" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-148592"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/">Haute-Garonne</a></li>
+<li id="menu-item-142563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142563"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a></li>
+<li id="menu-item-142564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142564"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/colomiers/">Colomiers</a></li>
+<li id="menu-item-142565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142565"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/tournefeuille/">Tournefeuille</a></li>
+<li id="menu-item-142566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142566"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/blagnac/">Blagnac</a></li>
+<li id="menu-item-142567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142567"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/muret/">Muret</a></li>
+<li id="menu-item-142568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142568"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/plaisance-du-touch/">Plaisance-du-Touch</a></li>
+<li id="menu-item-142569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142569"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/cugnaux/">Cugnaux</a></li>
+<li id="menu-item-142570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142570"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/balma/">Balma</a></li>
+<li id="menu-item-142571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142571"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/ramonville/">Ramonville</a></li>
+<li id="menu-item-142572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142572"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/revel/">Revel</a></li>
+<li id="menu-item-142573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142573"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/saint-gaudens/">Saint-Gaudens</a></li>
+</ul></div>  
+         </div>   
+        <div class="banner-image-category single_banner">
+            <a href="" target="_blank">
+                       
+                    </a>
+        </div>
+
+        <div class="slider-category">
+            
+        </div>
+            <div class="row-div">
+                <div class="col-content_single ">
+                <div class="header-single">
+                   
+                    <div class="breadcrumbs">
+                        <div class="gridlex-center-noBottom">
+                            <div class="gcol-12_sm-12">
+                                <span><span><a href="https://www.lejournaltoulousain.fr/">Accueil</a></span> › <span><a href="https://www.lejournaltoulousain.fr/occitanie/">Occitanie</a></span> › <span><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/">Haute-Garonne</a></span> › <span><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/">Culture Haute-Garonne</a></span> › <span class="breadcrumb_last" aria-current="page"><strong>Carbonne. Dernier jour de l&#8217;exposition de pop-up et livres animés</strong></span></span>
+                            </div>
+                        </div>
+                    </div>
+                    <h1>
+                        Carbonne. Dernier jour de l&#8217;exposition de pop-up et livres animés
+                    </h1>
+                    <div class="row-single-infor">
+                         <div class="name_author"> 
+                           <a href="https://www.lejournaltoulousain.fr/author/williambernecker/" title="William Bernecker">William Bernecker</a>        
+                         
+                         </div>   
+                         <div class="date_single">
+                             7 janvier 2023 - 11:28
+                         </div>
+                    </div>
+                </div>
+  
+                <div class="entry-layout content_information_single" >
+                    <div class="container-2">
+                        <div class="gridlex-center-noBottom">
+                            <div class="gcol-12_sm-12">
+                                                                                                                                    <div class="contents">
+                                                                                
+<p><strong>L&#8217;exposition proposée par la Ville de Carbonne (Haute-Garonne) à la médiathèque se termine ce samedi 7 janvier. C&#8217;est donc le dernier jour pour faire découvrir aux enfants des livres animés, « pop-up » et autres merveilles de l&#8217;ingénierie papier.</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="396" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20396'%3E%3C/svg%3E" alt="exposition carbonne" class="wp-image-191119" data-lazy-srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1024x396.jpg 1024w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-300x116.jpg 300w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-768x297.jpg 768w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1536x594.jpg 1536w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-2048x791.jpg 2048w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1200x464.jpg 1200w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-500x193.jpg 500w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-650x251.jpg 650w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-800x309.jpg 800w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1900x734.jpg 1900w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1024x396.jpg" /><noscript><img decoding="async" width="1024" height="396" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1024x396.jpg" alt="exposition carbonne" class="wp-image-191119" srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1024x396.jpg 1024w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-300x116.jpg 300w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-768x297.jpg 768w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1536x594.jpg 1536w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-2048x791.jpg 2048w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1200x464.jpg 1200w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-500x193.jpg 500w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-650x251.jpg 650w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-800x309.jpg 800w, https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/311607075_418133110499041_3682462030730403670_n-1900x734.jpg 1900w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript><figcaption class="wp-element-caption">La médiathèque de Carbonne expose de nombreux ouvrages où l&#8217;ingénierie et l&#8217;art du papier servent à enrichir la création, comme des livres animés. Crédit photo : ©Médiathèque de Carbonne</figcaption></figure>
+
+
+
+<p>Une expérience de lecture en trois dimensions. Voici ce que propose <a href="https://mediatheque-carbonne.fr/index.php?option=com_content&amp;view=article&amp;id=1&amp;Itemid=101" target="_blank" rel="noreferrer noopener">la médiathèque de Carbonne</a> (Haute-Garonne) dans <strong>son exposition qui se termine ce samedi 7 janvier</strong>. Celle-ci met en lumière les livres animés et les « pop-up ». </p>
+
+
+
+<p>Cet anglicisme renferme <strong>de nombreux styles d&#8217;ouvrages en relief</strong>, qui se découvrent lorsqu&#8217;on tourne la page ou en interagissant avec : livres à tirets, à flap, méli-mélo, carrousels, livres théâtre, etc. Grâce à un partenariat avec la médiathèque départementale, celle de Carbonne a rassemblé dans cette exposition un grand panel de <strong>ces livres à systèmes et animés</strong>, pour « <em>faire découvrir la créativité et les inventions des ingénieurs papier</em> ».</p>
+
+
+
+<h2 id="h-une-exposition-ludique-qui-a-deja-rassemble-beaucoup-d-enfants-a-carbonne">Une exposition ludique qui a déjà rassemblé beaucoup d&#8217;enfants à Carbonne</h2>
+
+
+
+<p>« <em>Des plus reconnus aux nouveaux venus, vous pourrez admirer les merveilleux ouvrages que ces artistes ont créés, connaître les différentes techniques utilisées et même feuilleter quelques pop-up pour faire apparaitre dinosaures, animaux des abysses et bien d’autres encore </em>», invite la médiathèque.</p>
+
+
+
+<p>Plusieurs évènements ont également été organisés, notamment à destination des jeunes publics, avec par exemple des ateliers créatifs ou encore des rencontres avec <strong>Arnaud Roi, ingénieur papier toulousain</strong>. Ce dernier a façonné quatre albums documentaires « pop-up » parus aux éditions Milan : Animalia, Préhistomania, Dinomania et Océomania. C&#8217;est le dernier jour pour découvrir ces ouvrages.</p>
+
+
+
+<iframe loading="lazy" src="about:blank" width="500" height="648" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmediathequedecarbonne%2Fposts%2Fpfbid02xY7zaixxPUGAZAoiz6EPzCUdRR8mcJRdJaa82G4nE4GZUw59px4p3bdqwFFYCqAcl&#038;show_text=true&#038;width=500"></iframe><noscript><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmediathequedecarbonne%2Fposts%2Fpfbid02xY7zaixxPUGAZAoiz6EPzCUdRR8mcJRdJaa82G4nE4GZUw59px4p3bdqwFFYCqAcl&#038;show_text=true&#038;width=500" width="500" height="648" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></noscript>
+
+
+
+<p><em><strong>Informations pratiques :</strong> exposition &#8220;Pop-up et livres animés&#8221;, à la médiathèque de Carbonne. Adresse : 48, rue Lucien Cassagne, 31390 Carbonne. Horaires : pendant les heures d&#8217;ouverture de la médiathèque, soit 10h-12h et 14h-18h ce samedi 7 janvier. Tarif : gratuit, accès libre.</em></p>
+
+                                                                            </div>
+                                    <div class="share_list">
+                                        <ul class="list_share"><li class="facebook-incon"><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/" target="_blank"><i class="fab fa-facebook-f"></i></a>	</li><li class="twiter-incon"><a href="https://twitter.com/intent/tweet?text=Carbonne. Dernier jour de l&#8217;exposition de pop-up et livres animés&amp;url=https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/&amp;via=Crunchify" target="_blank"><i class="fab fa-twitter"></i></a>	</li><li class="linkedin-incon" ><a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/?p=191118&title=Carbonne. Dernier jour de l&#8217;exposition de pop-up et livres animés" target="_blank"><i class="fab fa-linkedin-in"></i></a>	</li><li class="reddit-incon"><a href="https://reddit.com/submit?url=https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118//?p=191118&title=Carbonne. Dernier jour de l&#8217;exposition de pop-up et livres animés" target="_blank"><i class="fab fa-reddit-alien"></i></a>	</li><li class="email-incon"><a href="mailto:?subject=Miellerie : L’union fait le miel&body=https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/" target="_blank"><i class="far fa-envelope"></i></a>	</li><li class="print-incon"><a  class="button_print" ><i class="fas fa-print"></i></a>	</li></ul>
+                                    </div>  
+                                     
+                                                                            <div class="author">
+                                                                                            <div class="author-avatar">
+                                                    <img alt='' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E" data-lazy-srcset='https://secure.gravatar.com/avatar/44da42bd1526af4201e62f71c36f4571?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' decoding='async' data-lazy-src="https://secure.gravatar.com/avatar/44da42bd1526af4201e62f71c36f4571?s=100&#038;d=mm&#038;r=g"/><noscript><img alt='' src='https://secure.gravatar.com/avatar/44da42bd1526af4201e62f71c36f4571?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/44da42bd1526af4201e62f71c36f4571?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' decoding='async'/></noscript>
+                                                </div>
+                                                                                        <div class="author-informations">
+                                                <p class="h2">
+                                                    William Bernecker
+                                                </p>
+                                                                                                                                                    <a href="https://www.lejournaltoulousain.fr/author/williambernecker/" title="William Bernecker">
+                                                        Voir les publications de l'auteur
+                                                    </a>
+                                                                                                <div class="list_link_author">
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                      
+                                    <div class="related_post_single_into"><h2>À lire aussi sur le même sujet :</h2><div class="row-item "><div class="col-pt-2"><div class="inner-pt"><a class="figure_2" href="https://www.lejournaltoulousain.fr/occitanie/herault/montpellier/montpellier-expo-retrospective-bd-lewis-trondheim-191153/"><img width="1170" height="658"   src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201170%20658'%3E%3C/svg%3E" alt="post_item" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/2844_411_TRON-Acc-Aff-2.png"><noscript><img width="1170" height="658"   src="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/2844_411_TRON-Acc-Aff-2.png" alt="post_item"></noscript></a><h3><a href="https://www.lejournaltoulousain.fr/occitanie/herault/montpellier/montpellier-expo-retrospective-bd-lewis-trondheim-191153/">Montpellier. Une expo rétrospective de la BD de Lewis Trondheim</a></h3><div class="row-cat-pt"> <a class="cat-link_pt" style="background-color: #B30066;" href="https://www.lejournaltoulousain.fr/occitanie/herault/montpellier/">Montpellier</a><a class="author_link_pt" href="https://www.lejournaltoulousain.fr/author/williambernecker/">William Bernecker</a><span class="date_pt"> 8  janvier  2023  - 12:47</span></div> </div> </div> <div class="col-pt-2"><div class="inner-pt"><a class="figure_2" href="https://www.lejournaltoulousain.fr/occitanie/hautes-pyrenees/tarbes/tarbes-musee-massey-petits-soldats-191121/"><img width="640" height="772"   src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20772'%3E%3C/svg%3E" alt="post_item" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/expo-petits-soldats.jpg"><noscript><img width="640" height="772"   src="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/expo-petits-soldats.jpg" alt="post_item"></noscript></a><h3><a href="https://www.lejournaltoulousain.fr/occitanie/hautes-pyrenees/tarbes/tarbes-musee-massey-petits-soldats-191121/">Tarbes. Le musée Massey expose plus de 1 000 &#8220;petits soldats&#8221;</a></h3><div class="row-cat-pt"> <a class="cat-link_pt" style="background-color: #93C255;" href="https://www.lejournaltoulousain.fr/occitanie/hautes-pyrenees/tarbes/">Tarbes</a><a class="author_link_pt" href="https://www.lejournaltoulousain.fr/author/williambernecker/">William Bernecker</a><span class="date_pt"> 7  janvier  2023  - 12:45</span></div> </div> </div> <div class="col-pt-2"><div class="inner-pt"><a class="figure_2" href="https://www.lejournaltoulousain.fr/occitanie/que-faire-week-end-7-8-janvier-toulouse-191005/"><img width="860" height="650"   src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20860%20650'%3E%3C/svg%3E" alt="post_item" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/exposition-Olivier-Giner-©InkBlood.net_.jpg"><noscript><img width="860" height="650"   src="https://www.lejournaltoulousain.fr/wp-content/uploads/2023/01/exposition-Olivier-Giner-©InkBlood.net_.jpg" alt="post_item"></noscript></a><h3><a href="https://www.lejournaltoulousain.fr/occitanie/que-faire-week-end-7-8-janvier-toulouse-191005/">Que faire ce week-end du 7 et 8 janvier à Toulouse ?</a></h3><div class="row-cat-pt"> <a class="cat-link_pt" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a><a class="author_link_pt" href="https://www.lejournaltoulousain.fr/author/severine-sarrat/">Severine Sarrat</a><span class="date_pt"> 6  janvier  2023  - 17:29</span></div> </div> </div> <div class="col-pt-2"><div class="inner-pt"><a class="figure_2" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/toulouse-oeuvre-strigel-exposee-louvre-abu-dhabi-190765/"><img width="953" height="759"   src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20953%20759'%3E%3C/svg%3E" alt="post_item" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/1_1.jpg"><noscript><img width="953" height="759"   src="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/1_1.jpg" alt="post_item"></noscript></a><h3><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/toulouse-oeuvre-strigel-exposee-louvre-abu-dhabi-190765/">Retrouvée à Toulouse, l&#8217;oeuvre de Strigel est exposée au Louvre d&#8217;Abu Dhabi</a></h3><div class="row-cat-pt"> <a class="cat-link_pt" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a><a class="author_link_pt" href="https://www.lejournaltoulousain.fr/author/alixdrouillat/">Alix Drouillat</a><span class="date_pt"> 3  janvier  2023  - 12:46</span></div> </div> </div> </div></div>
+                                                                       
+                                                                                                </div>
+                                                    </div>
+                    </div>
+                </div>
+              
+
+                
+            </div>
+                            <div class="col-sidebar">
+                    <div class="sidebar-floating">
+                        <div class="widget widget-content">
+<div id="section-g215ae2" class="wp-block-gutentor-e2 section-g215ae2 gutentor-element gutentor-element-button button-align-center-desktop"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="https://www.formalites-annonceslegales.fr/" target="_blank" rel=" noopener noreferrer"><i class="gutentor-button-icon fas fa-book"></i><span>Publier une annonce légale sur notre plateforme</span></a></span></div>
+</div><div class="widget widget-content"><p></p>
+</div><div class="widget widget-content">
+<div class="is-layout-flex wp-container-2 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%"></div>
+</div>
+</div><div class="widget widget-content">
+
+
+ <div class="color_text_box" style="background-color: ; ">
+    <header class="title_sp" style="color: #ffffff;">DOSSIER</header>
+    <div class="bt-tr" style="background-color: ;">
+
+    </div>
+ </div>
+
+  </div><div class="widget widget-content">
+ <div class="content-item_pte">
+
+
+<div class="slider-title">
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/10/plant-flower-floral-dish-meal-food-792878-pxhere.com-2-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/vertus-apaisantes-medecines-alternatives-131724/">Hypnose, sophrologie, naturopathie&#8230; Les vertus apaisantes des médecines alternatives</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/10/par-ville-urbanisme-zen-CC-BY-SA-Vishwats-300x199.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/urbanisme-apaisant-et-si-les-villes-de-demain-etaient-plus-zen-131824/">Urbanisme apaisant : Et si les villes de demain étaient plus zen ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/10/designCC-by-SA-Pexels-Wikipedia-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/design-marketing-societe-anxiogene-130606/">Design, marketing et société anxiogène : Et si on arrondissait les angles ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/10/piqsels.com-id-zbtmt-300x201.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/developpement-personnel-psychologie-positive-comment-linjonction-au-bonheur-peut-etre-source-de-deprime-129066/">Développement personnel, psychologie positive&#8230; Comment l&#8217;injonction au bonheur peut être source de déprime</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/portrait-militant_pierre-emmanuel-chollet-scale-2-300x218.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/quand-engagement-citoyen-contribue-bien-etre-personnel-129915/">Quand l&#8217;engagement citoyen contribue au bien-être personnel</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2019/02/porte-monnaie-surendettement-©-DR-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/revenu-base-universel-pour-liberer-anxiete-economique-128750/">Une revenu de base universel pour se libérer de l&#8217;anxiété économique</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/Solutionnettes_un-challenge-par-semaine-©-Laetitia-Soula-scale-2-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/6-conseils-sentir-mieux-quotidien-129906/">6 conseils pour se sentir mieux au quotidien</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/08/les-fondamentaux-dune-bonne-hygiene-de-vie-©-Laetitia-Soula-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/cultiver-serenite-fondamentaux-bonne-hygiene-vie-129513/">Cultiver la sérénité : les fondamentaux d&#8217;une bonne hygiène de vie</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/Comment-sinformer-sans-se-laisser-submerger-par-le-climat-anxiogene-alimente-par-le-sensationalisme-des-medias-@BestGraphicsCom-Pixabay-2-300x188.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/slow-media-journalisme-solution-comment-informer-sans-stresser-128897/">Slow média et journalisme de solution : Comment s’informer sans stresser ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/Qui-fait-quoi-entre-un-psychiatre-un-psychologue-un-psychotherapeute-un-psychanalyste-et-un-psychopraticien-696x46-1-2-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/quel-psy-choisir-128891/">Quel psy choisir ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/Mecanismes-de-langoisse-©-Laetitia-Soula-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/quels-sont-mecanismes-angoisse-129185/">Quels sont les mécanismes de l&#8217;angoisse ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/Infographie-Sante-mentale-1-234x300.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/sante-mentale-chiffres-129171/">La santé mentale en chiffres</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/On-retrouve-des-temoignages-de-mal-de-vivre-jusquen-Egypte-ancienne-234x300.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/mal-vivre-travers-ages-127677/">Le mal de vivre à travers les âges</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/Une-personne-sur-cinq-sera-sujette-a-un-trouble-anxieux-ou-depressif-au-cours-de-sa-vie-@CC0-Hippopx-300x199.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/trouble-anxieux-depressif-enjeu-majeur-sante-publique-127675/">Trouble anxieux ou dépressif : un enjeu majeur de santé publique</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/photo-une-dossier-serenite-scaled-1-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/crise-comment-retrouver-la-serenite-128952/">Face aux multiples crises, comment retrouver la sérénité ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/guide-pratique-et-juridique_ministere-du-travail-300x231.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/ressources-numeriques-harcelement-sexiste-128905/">Des ressources en ligne pour agir face au harcèlement sexiste</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/Pour-la-CGT-la-loi-doit-etre-renforcee-pour-mieux-lutter-contre-les-violences-sexistes-au-travail-@Pixabay-CUsai-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/violences-sexistes-la-cgt-veut-renforcer-le-code-du-travail-123816/">Violences sexistes : la CGT veut renforcer le code du travail</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/Les-ecoles-de-journalisme-300x202.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/sexisme-stages-comment-ecoles-journalisme-reagissent-123861/">Sexisme durant les stages. Comment les écoles de journalisme réagissent ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/balance-ton-stage-291x300.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/manuel-prevention-sexisme-formations-balance-ton-stage-hashtag-123306/">Manuel de prévention face au sexisme, formations… Balance ton stage, bien plus qu&#8217;un hashtag</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/IMG_8870-1-169x300.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/meandyoutoo-web-application-auto-evaluer-degre-sexisme-123297/">#Meandyoutoo, la web application pour auto évaluer son degré de sexisme</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/Animation-©-Reverto-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/reverto-harcelement-sexuel-sexisme-122505/">Reverto : la réalité virtuelle pour voir les violences sexistes en face</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/Sexisme-sans-facon-un-serious-game-pour-changer-les-mentalites-dans-lentreprise-@Anact-300x196.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/sexisme-sans-facon-un-serious-game-pour-se-mettre-dans-la-peau-de-lautre-121940/">&#8220;Sexisme sans façon&#8221; : un serious game pour se mettre dans la peau de l’autre</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/Les-reseaux-sociaux-siege-de-la-liberation-de-la-parole-@CC0-Domaine-Public1-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/les-reseaux-sociaux-siege-liberation-parole-120949/">Les réseaux sociaux, siège de la libération de la parole</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/Illustration_harcelement-sexuel-©-Charline-Poullain-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/stagiaires-dans-medias-bravent-sexisme-propositions-sexuelle-122367/">Sexisme, propositions sexuelles : plusieurs stagiaires en journalisme brisent le silence</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/09/defaul-images-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/sexisme-travail-que-dit-loi-122034/">Sexisme au travail : que dit la loi ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/Illustration_sideration-©-Charline-Poullain-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/sideration-mecanisme-defense-121803/">La sidération, un mécanisme de défense</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/06/laura-carpentier-Goffre-credit-Lydie-Lecarpentie.-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/culture-viol-comment-sexisme-ordinaire-favorise-agressions-sexuelles-121809/">La culture du viol, ou comment le sexisme ordinaire favorise les agressions sexuelles</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/harcelement-au-travail-CC-Mohamed-Hassan-300x196.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/travail-comment-mettre-sexisme-placard-121845/">Travail : Comment mettre le sexisme au placard ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/documentaire-Harcelement-au-travail-laffaire-de-tous-300x300.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/sept-pistes-faire-face-harcelement-sexiste-121790/">Sept pistes pour faire face au harcèlement sexiste</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/Jeu-de-carte_Moi-c_est-Madame-300x300.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/moi-madame-jeu-pour-cultiver-repartie-face-sexisme-121806/">Un jeu pour cultiver sa répartie face au sexisme</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/harcelement-au-travail-CC-Mohamed-Hassan-300x196.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/sexisme-harcelement-sexuel-monde-du-travail-121814/">Sexisme et harcèlement sexuel : le monde du travail est-il misogyne ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/1626px-Apartments_buildings_for_students_Le_Havre_2014-300x199.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/vivre-dans-container-habitat-upcycling-121382/">Vivre dans un container&#8230;Quand l&#8217;habitat se met à l&#8217;upcycling</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/lena-roulotte-300x300.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/roulotte-habitat-nomade-route-maison-120983/">Habitat nomade. J&#8217;ai pris la route&#8230; et ma maison</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/maison-de-poupee-CC-BY-SA-Skitterphoto-Pixabay-300x163.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/habitat-bien-plu-simple-abri-121100/">L&#8217;habitat, bien plus qu&#8217;un simple abri</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/ecohameau-verfeil-sur-seye-300x169.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/eco-hameau-verfeil-habitat-collectif-120455/">A l&#8217;éco-hameau de Verfeil-sur-Seye, on mise sur l&#8217;habitat collectif</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/04/tiny-house-3-©-Adeline-Cesbron-et-Kevin-Bodin-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/tiny-house-laventure-minimaliste-120143/">Tiny house: l’aventure minimaliste</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/20210504_141239-300x169.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/acheter-maison-plusieurs-experience-collectif-119769/">Acheter une maison à plusieurs : l&#8217;expérience du collectif</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/Habitat_fluvial_peniche_1-©-Laetitia-Soula-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/peniche-attrait-bateau-logement-119753/">La péniche, ou l’attrait du bateau-logement</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/L_Ademe-decrit-ce-a-quoi-ressembleront-nos-logements-en-2050-©Ademe-300x172.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/ressembleront-logements-2050-120406/">À quoi ressembleront nos logements en 2050 ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/grotte-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/evolution-habitat-cours-siecles-119744/">Une brève histoire de l&#8217;habitat au cours des siècles</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/tiny-house-Harmonie-©-LAtelier-des-Branches-300x239.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/habiter-autrement-cinq-pistes-pour-demarrer-laventure-120179/">Habiter autrement : Cinq pistes pour démarrer l&#8217;aventure</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/Perou_les_uros_du_lac_Titicaca-CC-by-SA-Pierre-Andre-Leclercq-300x175.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/le-top-6-des-habitats-insolites-a-travers-le-monde-119745/">Le top 6 des habitats insolites à travers le monde</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/Infographie-habiter-autrement-1-300x167.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/evolution-logements-depuis-50-ans-toujours-confort-119763/">L’évolution de nos logements depuis 50 ans : vers toujours plus de confort</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/Les-contraintes-liees-a-la-Covid-19-ont-donne-des-ailes-aux-Francais-@CC0-Domaine-Public-Pixabay-300x260.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/comment-crise-sanitaire-donne-ailes-aux-francais-119796/">Logement : comment la crise sanitaire a donné des ailes aux Français</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/05/Les-Francais-veulent-changer-de-lieu-de-vie-habiter-autrement-CC0-Domaine-public-201x300.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/les-solutions/et-si-on-habitait-autrement-119820/">Et si on habitait autrement ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/04/jeu-ficelle-300x172.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/jeu-ficelle-outil-pour-demeler-monde-assiette-116557/">Le jeu de la ficelle : un outil pour démêler le monde</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/04/terrabilis-2-min-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/terrabilis-developpement-durable-devient-jeu-collectif-116548/">Avec Terrabilis, le développement durable devient un jeu collectif</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/04/Le-Futuroscope-de-Poitiers-garantit-des-sensations-fortes-et-du-plomb-dans-la-cervelle-©Futurocope-300x207.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/futuroscope-parc-attraction-apprendre-amusant-116509/">Le Futuroscope, un parc d’attraction pour apprendre en s’amusant</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/La-psychopraticienne-Violaine-Riefolo-explique-comment-aborder-des-sujets-graves-avec-des-enfants-©EjupLila-1-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/conseils-psy-comment-armer-enfants-sans-deprimer-116392/">Conseils de psy : Comment armer les enfants sans les déprimer ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/ponyo-sur-la-falaise-a-224x300.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/quand-dessins-animes-parlent-ecologie-enfants-116286/">Quand les dessins animés parlent d&#8217;écologie aux enfants</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/expert-enfants-psy-developpement-2-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/environnement-citoyennete-discriminations-quel-age-aborder-quels-sujets-116160/">Environnement, citoyenneté, discriminations&#8230; à quel âge aborder quels sujets ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/SensiJeunes-©Aide-et-Action-Isere-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/grenoble-sensi-jeunes-sensibilisation-primaire-115793/">Sensi&#8217;Jeunes : Quand les jeunes s&#8217;adressent aux jeunes</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/Eco-Trouv-tout-300x168.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/top-petits-jeux-pour-grands-enjeux-115480/">De petits jeux pour de grands enjeux</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/expo-museum-CC-Christian-Nitard-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/expositions-museum-toulouse-biodiversite-jeu-enfants-115440/">Avec les expositions du Muséum de Toulouse, la biodiversité est un jeu d&#8217;enfants</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/visuel_jeu_egalite-300x169.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/tous-pareils-et-tous-uniques-jeu-video-egalite-filles-garcons-115415/">Tous pareils et tous uniques. Le jeu vidéo des Petits citoyens sur l&#8217;égalité filles-garçons</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/HopToys-propose-des-poupees-poupees-qui-presentent-les-caracteristiques-physiques-de-la-trisomie-21-©HopToys-300x300.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/noa-myla-poupees-apprendre-enfants-accepter-differences-115254/">Noa et Myla, des poupées pour apprendre aux enfants à accepter les différences</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/plante-ton-slip-visuel-300x169.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/plante-ton-slip-pedagogie-culottee-115195/">Plante ton slip, une pédagogie culottée</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/Ca-veut-dire-quoi-Liberte-Egalite-Fraternite-_-de-Diane-Roman-et-Halfbob-initie-les-enfants-a-la-citoyennete-©Fleurus-218x300.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/livres-pour-dire-autrement-115176/">Des livres pour leur dire autrement</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/enfant-horizon-CC-Pxhere-300x199.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/enfants-pierre-angulaire-changement-115169/">Les enfants, pierre angulaire du changement</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/03/livestream-CC-Veeterzy_Wikimedia-Commons-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/livestream-nouvelle-experience-concerts-114751/">Le livestream : une nouvelle expérience des concerts</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/poemes_manon_crivellari-300x194.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/toulouse-manon-crivellari-petite-souffleuse-vers-114649/">Manon Crivellari : la petite souffleuse de vers</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/begles-spectacle-fenetre-echasse-1-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/begles-dispositif-spectacle-fenetre-deconfine-representations-114627/">À Bègles, le dispositif “Un spectacle à ma fenêtre” a déconfiné les représentations</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/Chemirani-Lopez-@-Vincent-LARATTA-1-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/festivals-etats-generaux-pour-reinventer-114416/">Festivals : des états généraux pour se réinventer</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/my-artist-place.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/art-covid-19-lieux-exposition-insolites-113988/">Art et Covid-19 : ces lieux d&#8217;exposition insolites</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/Le-jeu-video-Animal-Crossing-peut-se-transformer-en-musee-virtuel-@Museum-dAngers_Nintendo-300x169.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/animal-crossing-jeu-video-devient-musee-virtuel-113940/">Animal Crossing : quand un jeu vidéo devient un musée virtuel</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/Une-performance-revendicative-artistique-a-Montpellier-en-plen-confinement-©AmandaRegi-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/montpellier-spectacle-danse-pour-manifester-113904/">À Montpellier, un spectacle de danse pour manifester</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/Oeuvre-Rafamon-©Instagram-Rafamon-300x230.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/culture-confinee-alternatives-originales-travers-monde-113652/">Culture confinée : 8 alternatives originales à travers le monde</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/Patrick-Le-Mauff-en-pleine-lecture-@Patrick-Le-Mauff-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/poesie-telephone-au-creux-oreille-113506/">De la poésie par téléphone, au creux de l&#8217;oreille</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/Hackathon-27-01-2021┬®francklalix-7-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/hackathon-grainerie-laboratoire-aider-cirque-faire-face-crise-113413/">Hackathon de la Grainerie : un laboratoire pour aider le cirque à faire face à la crise</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/drive-in-Bateau-Feu-©-Jean-Philippe-Dagbert-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/bateau-feu-plein-phare-drive-in-113091/">Plein phare sur le drive-in</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/culture-et-covi_52185094-102x300.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/impact-covid-19-secteur-culturel-112995/">L&#8217;impact de la  Covid-19 sur le secteur culturel</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/Une-velo-parade-a-Strasbourg-pour-que-la-fete-continue-©FioNa-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/amateurs-techno-ont-trouve-parade-112987/">Les amateurs de techno ont trouvé la parade</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2016/04/Redac-Chef-Serge-Regourd-300x200.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/pandemie-revele-lacunes-exception-culturelle-112983/">« La pandémie révèle les lacunes de l&#8217;exception culturelle »</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/12/Le-Theatre-du-Grand-Rond-de-Toulouse-organise-une-grande-braderie-des-produits-non-essentiels-du-spectacle-vivant-©ToulouseTourisme-300x201.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/covid-19-culture-mal-reconnaissance-112974/">A l&#8217;ère de la Covid-19, la culture en mal de reconnaissance</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/02/Cultureetnous-300x145.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/culture-reinvente-ere-covid-19-113064/">La culture se réinvente à l&#8217;ère de la Covid-19</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/Le-Compte-mobilite-tout-en-un-de-lagglomeration-de-Mulhouse-©MAA-152x300.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/mulhouse-compte-mobilite-facilite-deplacements-112653/">À Mulhouse, le Compte mobilité facilite les déplacements</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/La-ligne-V1-du-Velopolitain-a-ete-inauguree-en-juillet-dernier-a-Paris-©ParisEnSelle-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/velopolitain-reseau-cyclable-prioritaire-capitale-112565/">Le Vélopolitain : un réseau cyclable prioritaire dans la capitale</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/REV-tisseo-toulouse-1-300x212.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/reseau-express-velo-rev-cyclistes-toulouse-112742/">Le Réseau express vélo, c&#8217;est le REV des cyclistes à Toulouse</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/transports-publics-©-Wikimedia-Commons-_-Tatmouss-300x202.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/comment-remettre-transports-publics-bonne-voie-112505/">Comment remettre les transports publics sur la bonne voie ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/Forfait-mobilite-durable_velo-travail-CC-Pxhere-300x173.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/quelles-aides-financieres-inciter-mobilite-douce-112498/">Quelles aides financières pour inciter à la mobilité douce ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/Le-Vindskip-le-cargo-qui-se-deplace-comme-un-voilier-©Ladeas-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/top-10-moyens-transport-futur-112462/">Le top10 des moyens de transport du futur</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/20210109_100801-300x169.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/cours-maison-velo-toulouse-112454/">Tous en selle avec les cours de la Maison du vélo à Toulouse</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/velo-fonction-©-David-Cabannes-Zenride-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/zenride-velo-fonction-avantage-faveur-nature-111903/">Le vélo de fonction : un avantage en faveur de la nature</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/Paris-Plages-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/urbanisme-tactique-nouvelle-approche-penser-mobilite-demain-112075/">L&#8217;urbanisme tactique : une nouvelle approche pour penser la mobilité de demain</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/trotinette-electrique-CC-Sonia-Medina-Wikimedia-300x169.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/micro-mobilite-mode-deplacement-urbain-demain-111895/">La micro-mobilité, le mode de déplacement urbain de demain</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/iStock-1223042307-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/wever-start-up-developpe-mobilite-participative-111909/">Wever, la start-up qui développe la mobilité participative</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/Bruno-Marzloff-©-Florence-Brochoire-300x300.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/demobilite-approche-raisonnee-rapport-espace-111712/">La démobilité : une approche plus raisonnée de notre rapport à l&#8217;espace</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/pistes-cyclables-de-transition-©-Club-des-villes-et-territoires-cyclables-300x178.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/pistes-cyclables-transition-tester-pour-convaincre-111709/">Les pistes cyclables de transition : tester pour mieux convaincre</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/infog-mobilite-300x175.png" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/impact-pandemie-covid-deplacements-chiffres-111733/">L&#8217;impact de la pandémie de Covid-19 sur nos déplacements en chiffres</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/dominique-riou_13129-300x107.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/covid-ere-mobilite-individuelle-111704/">Covid-19 : l&#8217;ère de la mobilité individuelle ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/01/metro-masques-CC-Pixabay-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/mobilite-comment-covid-accelere-changement-111685/">Mobilité : Comment la Covid-19 a accéléré le changement</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2019/09/ok-Une-micro-mobilite╠ü-e╠ülectrique-03-09-2019┬®franckalix-24-e1567609247134-300x201.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/mobilite-mutation-post-covid19-en-cours-113066/">Mobilité : une mutation post-Covid19 est en cours</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/12/Pendant-le-confinement-lAssociation-nationale-de-prevention-en-alcoologie-et-addictologie-a-continue-de-suivre-ses-patients-©-CC0-300x200.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/rompre-lien-personnes-dependantes-110645/">Ne pas rompre le lien avec les personnes dépendantes</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/12/pour-eux-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/pour-eux-ils-cuisinent-et-pedalent-pour-rendre-visible-les-sans-abris-110643/">#Pour eux : ils cuisinent et pédalent pour rendre visible les sans-abris</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/12/Le-Calendrier-de-l_avent-solidaire-un-sourire-d_enfant-pour-la-journee-©Bonjoursenior.fr_-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/calendrier-avent-solidaire-dessins-enfants-personnes-agees-isolees-110601/">Le Calendrier de l’avent solidaire : des dessins d’enfants pour les personnes âgées isolées</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/11/Ablo-meilleure-application-android-2019-300x175.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/applications-briser-isolement-pendant-confinement-109568/">Les applications pour briser l&#8217;isolement pendant le confinement</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/12/femme-CC-by-Standsome-300x223.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/comment-eviter-sur-charge-mentale-pendant-confinement-109762/">Comment éviter la surcharge mentale pendant le confinement ?</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/12/Les-equipes-de-SOS-Amitie-restent-a-l_ecoute-durant-le-confinement-©SOS-Amitie-300x205.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/sos-amitie-ecoute-confines-109764/">SOS Amitié reste à l’écoute des confinés</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/11/CC_Ulrike-Mai_Pixabay-300x169.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/solutions-fage-preserver-sante-mentale-etudiants-109596/">Les solutions de la Fage pour préserver la santé mentale des étudiants</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+            
+        <div>
+            <div data-bg="https://www.lejournaltoulousain.fr/wp-content/uploads/2020/11/Fanny-Jacq-300x225.jpg" class="bg_information-box rocket-lazyload" style="">
+                <div class="slider-title_det">
+
+                    <div>
+                        <span class="text-into_link"><a href="https://www.lejournaltoulousain.fr/le-dossier/comment-identifier-troubles-psychologiques-confinement-109466/">Comment identifier et se prémunir des troubles psychologiques liés au confinement</a></span> 
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+</div>
+</div></div><div class="widget widget-content">
+<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container"></div></div>
+</div><div class="widget widget-content">
+<div id="section-g749223" class="wp-block-gutentor-e2 section-g749223 gutentor-element gutentor-element-button btn-nous"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="https://news.google.com/publications/CAAiEGq_kA0WmknJR79G14O43ngqFAgKIhBqv5ANFppJyUe_RteDuN54?hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel=" noopener noreferrer"><i class="gutentor-button-icon fas fa-book"></i><span>Nous suivre sur Google News</span></a></span></div>
+</div><div class="widget widget-content">    <div class="dropdown_list">
+        <div class="inner-dropdown">
+       
+            <div class="row-dropdown_item">
+                <h2 class="title_filter" style="padding: 5px 0;">
+                    Actualités en continu - Culture Haute-Garonne                </h2>
+                <div class="filter">
+                    <span class="filter-span" style="display: none!important;">   </span>
+                    <ul class="ul_list_filter"  >
+                        <input type="hidden" value="191118" class="cat_id_current">
+                        <input type="hidden" value="45" class="number_page">
+                        
+                                                    <li  class="active-into " value="7316">Culture Haute-Garonne</li>
+                                            </ul>   
+                </div>
+            </div> 
+            <div class="list_category_item">
+                <ul>
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/toulouse-theatre-cite-oncle-vania-tchekhov-191157/">Toulouse. Le Théâtre de la Cité revisite &#8220;Oncle Vania&#8221; de Tchekhov</a>
+                        </span>
+                        <div class="date-post">
+                            8 janvier 2023  - 14:15                        </div>
+                     </li>   
+
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/colomiers/">Colomiers</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/colomiers/colomiers-salome-cine-opera-grand-central-191139/">Colomiers. &#8220;Salomé&#8221;, un opéra au cinéma &#8220;Le Grand Central&#8221;</a>
+                        </span>
+                        <div class="date-post">
+                            8 janvier 2023  - 10:17                        </div>
+                     </li>   
+
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/">Culture Haute-Garonne</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/theatre-representation-avare-moliere-altigone-191133/">Théâtre. Représentation contemporaine de &#8220;L&#8217;Avare&#8221; de Molière à Altigone</a>
+                        </span>
+                        <div class="date-post">
+                            7 janvier 2023  - 17:01                        </div>
+                     </li>   
+
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/">Culture Haute-Garonne</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/">Carbonne. Dernier jour de l&#8217;exposition de pop-up et livres animés</a>
+                        </span>
+                        <div class="date-post">
+                            7 janvier 2023  - 11:28                        </div>
+                     </li>   
+
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/que-faire-week-end-7-8-janvier-toulouse-191005/">Que faire ce week-end du 7 et 8 janvier à Toulouse ?</a>
+                        </span>
+                        <div class="date-post">
+                            6 janvier 2023  - 17:29                        </div>
+                     </li>   
+
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/toulouse-oeuvre-strigel-exposee-louvre-abu-dhabi-190765/">Retrouvée à Toulouse, l&#8217;oeuvre de Strigel est exposée au Louvre d&#8217;Abu Dhabi</a>
+                        </span>
+                        <div class="date-post">
+                            3 janvier 2023  - 12:46                        </div>
+                     </li>   
+
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/toulouse-rendez-vous-culture-a-pas-manquer-2023-190637/">Toulouse : Les rendez-vous &#8220;culture&#8221; à ne pas manquer en 2023</a>
+                        </span>
+                        <div class="date-post">
+                            2 janvier 2023  - 17:34                        </div>
+                     </li>   
+
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/comedy-club-monter-scene-jeunes-toulouse-190661/">Un comedy club fait monter sur scène des jeunes de Toulouse</a>
+                        </span>
+                        <div class="date-post">
+                            2 janvier 2023  - 14:22                        </div>
+                     </li>   
+
+                                        <li>
+                        <a class="color_cat" style="background-color: #00789b;" href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/">Toulouse</a>  
+                        <span class="title_st12">
+                            <a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/brice-torrecillas-dernier-livre-comme-une-chanson-190340/">Avec son livre &#8220;Comme une chanson&#8221;, Brice Torrecillas tire sa révérence au monde de la musique</a>
+                        </span>
+                        <div class="date-post">
+                            31 décembre 2022  - 17:36                        </div>
+                     </li>   
+
+                                   </ul>
+            </div>
+            <div class="arrow-pagination">
+                <div class='arrow-page arrow_prev-page'><i class='fa fa-angle-left' aria-hidden='true'></i></div>
+                <div class='arrow-page arrow_next-page'><i class='fa fa-angle-right' aria-hidden='true'></i></div>
+            </div>   
+        </div> 
+
+    </div>
+
+
+</div><div class="widget widget-content">
+<figure class="wp-block-image size-full"><img decoding="async" width="500" height="653" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20653'%3E%3C/svg%3E" alt="" class="wp-image-150693" data-lazy-srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/pub-abonnement-vertical444.jpg 500w, https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/pub-abonnement-vertical444-230x300.jpg 230w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/pub-abonnement-vertical444.jpg" /><noscript><img decoding="async" width="500" height="653" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/pub-abonnement-vertical444.jpg" alt="" class="wp-image-150693" srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/pub-abonnement-vertical444.jpg 500w, https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/pub-abonnement-vertical444-230x300.jpg 230w" sizes="(max-width: 500px) 100vw, 500px" /></noscript></figure>
+</div><div class="widget widget-content">
+
+
+ <div class="color_text_box" style="background-color: #3252a1; width: 100%;">
+    <header class="title_sp" style="color: #ffffff;">SUIVEZ NOUS SUR FACEBOOK</header>
+    <div class="bt-tr" style="background-color: #3252a1;">
+
+    </div>
+ </div>
+
+  </div><div class="widget widget-content"><p><iframe loading="lazy" src="about:blank" width="100%" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FJournalToulousain%2F&#038;tabs&#038;width=325&#038;height=130&#038;small_header=false&#038;adapt_container_width=true&#038;hide_cover=false&#038;show_facepile=true&#038;appId=229862494832760"></iframe><noscript><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FJournalToulousain%2F&amp;tabs&amp;width=325&amp;height=130&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=229862494832760" width="100%" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></noscript></p></div><div class="widget widget-content">
+<div class="is-layout-flow wp-block-group"><div class="wp-block-group__inner-container"></div></div>
+</div>
+                    </div>
+                </div>
+                      </div> 
+
+        <div class="image-single_register">
+            
+        </div> 
+        <div class="comment_single_data">
+                                                                <div class="comments-classic2">
+                            
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Laisser un commentaire</h3><form action="https://www.lejournaltoulousain.fr/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Votre adresse e-mail ne sera pas publiée.</span> <span class="required-field-message">Les champs obligatoires sont indiqués avec <span class="required">*</span></span></p><p class="comment-form-comment"><label for="comment">Commentaire <span class="required">*</span></label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required></textarea></p><p class="comment-form-author"><label for="author">Nom <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" autocomplete="name" required /></p>
+<p class="comment-form-email"><label for="email">E-mail <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" autocomplete="email" required /></p>
+<p class="comment-form-url"><label for="url">Site web</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" autocomplete="url" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Laisser un commentaire" /> <input type='hidden' name='comment_post_ID' value='191118' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="a66fd42503" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="17"/><script type="rocketlazyloadscript">document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	<p class="akismet_comment_form_privacy_notice">Ce site utilise Akismet pour réduire les indésirables. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">En savoir plus sur comment les données de vos commentaires sont utilisées</a>.</p> 
+                    </div>
+                                    </div>
+        </div>
+    </main>
+         
+
+<header id="header" role="banner" class="main-menu">  
+
+    <div class="sidebar_menu-hamburger">
+        <div class="close-menu">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M193.94 256L296.5 153.44l21.15-21.15c3.12-3.12 3.12-8.19 0-11.31l-22.63-22.63c-3.12-3.12-8.19-3.12-11.31 0L160 222.06 36.29 98.34c-3.12-3.12-8.19-3.12-11.31 0L2.34 120.97c-3.12 3.12-3.12 8.19 0 11.31L126.06 256 2.34 379.71c-3.12 3.12-3.12 8.19 0 11.31l22.63 22.63c3.12 3.12 8.19 3.12 11.31 0L160 289.94 262.56 392.5l21.15 21.15c3.12 3.12 8.19 3.12 11.31 0l22.63-22.63c3.12-3.12 3.12-8.19 0-11.31L193.94 256z"/></svg>
+        </div>
+        <div class="inner_h2">
+             <div class="menu-socials">
+                <ul><li> <a target="_blank" href="https://www.facebook.com/JournalToulousain"  > <i class="fab fa-facebook-f"></i> </a>     </li><li> <a target="_blank" href="https://www.instagram.com/journaltoulousain/"  > <i class="fab fa-instagram"></i> </a>     </li><li> <a target="_blank" href="https://twitter.com/JToulousain"  > <i class="fab fa-twitter"></i> </a>     </li><li> <a target="_blank" href="https://www.youtube.com/user/JToulousainTV"  > <i class="fab fa-youtube"></i> </a>     </li></ul>
+            </div>
+                        <div  class="create_account"> 
+                <ul>
+                    <li>
+                        <a href="#login-popup" class="open-popup-login"> <i class="fas fa-user"></i> Se connecter</a>
+                    </li>
+                    <li>
+                        
+                    </li>
+                </ul>   
+            </div>
+                                    <div class="main_menu_user">
+                <ul><li id="menu-item-139337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-139337"><a href="https://www.lejournaltoulousain.fr/">Accueil</a></li>
+<li id="menu-item-139338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139338"><a href="https://www.lejournaltoulousain.fr/societe/">Actualités</a></li>
+<li id="menu-item-139339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139339"><a href="https://www.lejournaltoulousain.fr/politique/">Politique</a></li>
+<li id="menu-item-139340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139340"><a href="https://www.lejournaltoulousain.fr/economie/">Economie</a></li>
+<li id="menu-item-139342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139342"><a href="https://www.lejournaltoulousain.fr/culture/">Culture</a></li>
+<li id="menu-item-139343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139343"><a href="https://www.lejournaltoulousain.fr/sport/">Sports</a></li>
+<li id="menu-item-139344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139344"><a href="https://www.lejournaltoulousain.fr/tous-les-dossiers/">Nos dossiers</a></li>
+<li id="menu-item-139345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139345"><a href="https://www.lejournaltoulousain.fr/annonces-legales-publiees/">Annonces légales</a></li>
+<li id="menu-item-139346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139346"><a href="https://www.lejournaltoulousain.fr/lifestyle/">Lifestyle Occitanie</a></li>
+<li id="menu-item-139347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139347"><a href="https://www.lejournaltoulousain.fr/bqe/">BQE</a></li>
+<li id="menu-item-139348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139348"><a href="https://www.lejournaltoulousain.fr/le-toulouse-fact-checking/">Le Toulouse Fact Checking</a></li>
+<li id="menu-item-139349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139349"><a href="https://www.lejournaltoulousain.fr/leche-vitrine/">Lèche vitrine</a></li>
+<li id="menu-item-139350" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-139350"><a href="https://www.lejournaltoulousain.fr/occitanie/">Occitanie</a></li>
+<li id="menu-item-139351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139351"><a href="https://www.lejournaltoulousain.fr/portrait/">Portraits</a></li>
+<li id="menu-item-139352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139352"><a href="https://www.lejournaltoulousain.fr/sante/">Santé</a></li>
+</ul>
+            </div>     
+            
+        </div>
+       
+    </div>
+    <div class="container">
+        <div class="row-menu">
+             <div class="col-div-1">
+                <div class="menu-row-1">
+                    <div class="bars show_menu">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="#5c6995" d="M442 114H6a6 6 0 0 1-6-6V84a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6zm0 160H6a6 6 0 0 1-6-6v-24a6 6 0 0 1 6-6h436a6 6 0 0 1 6 6v24a6 6 0 0 1-6 6z"/></svg>
+                    </div>
+                   
+                </div>
+                <div class="row-menu-icon">
+                    <ul><li> <a href="/toutes-les-communes/" ><img width="99" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2099%2098'%3E%3C/svg%3E" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/icon1-1.png" ><noscript><img width="99" height="98" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/icon1-1.png" ></noscript> <span>Ma commune</span> </a> </li><li> <a href="/meteo/" ><img width="99" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2099%2098'%3E%3C/svg%3E" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/icon-2-1.png" ><noscript><img width="99" height="98" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/icon-2-1.png" ></noscript> <span>Meteo</span> </a> </li><li> <a href="/trafic-routier/"><img width="99" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2099%2098'%3E%3C/svg%3E" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/icon-3.png" ><noscript><img width="99" height="98" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/icon-3.png" ></noscript> <span>Traffic</span> </a> </li><ul>
+                </div>    
+             </div>
+             <div class="col-div-2 logo-into ">
+                <a href="https://www.lejournaltoulousain.fr">
+                    <img width="786" height="109" alt="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20786%20109'%3E%3C/svg%3E" class="desktop_logo" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/Nouveau-logo-JT1111.png" ><noscript><img width="786" height="109" alt="" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/Nouveau-logo-JT1111.png" class="desktop_logo" ></noscript> 
+                    <img width="556" height="74" alt="" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20556%2074'%3E%3C/svg%3E" class="movil_logo" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-1.png"><noscript><img width="556" height="74" alt="" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-1.png" class="movil_logo"></noscript> 
+                </a>
+                <div class="title_under_logo">
+                     
+                </div>
+                <div class="date-into ">
+                    <p>10 Janvier 2023</p> 
+                </div>
+             </div>
+             <div class="col-div-3">
+                <div class="row-menu-col-2">
+                    <div class="account-information">
+                       <a href="#login-popup" class="open-popup-login"> <i class="fas fa-user"></i> Se connecter</a>
+                        <div id="login-popup" class="white-popup mfp-hide modal-form-user">
+                            <div class="inner-modal_login">
+                                <div class="main_title">
+                                    <h2>SE CONNECTER</h2>
+                                    <p>Bienvenue ! Connectez-vous à votre compte :</p>
+                                </div>
+                                
+<div class="mp_wrapper mp_login_form">
+          <!-- mp-login-form-start -->     <form name="mepr_loginform" id="mepr_loginform" class="mepr-form" action="https://www.lejournaltoulousain.fr/connexion/" method="post">
+            <div class="mp-form-row mepr_username">
+        <div class="mp-form-label">
+                              <label for="user_login">Username</label>
+                  </div>
+        <input type="text" name="log" id="user_login" value="" />
+      </div>
+      <div class="mp-form-row mepr_password">
+        <div class="mp-form-label">
+          <label for="user_pass">Password</label>
+                    <div class="mp-hide-pw">
+            <input type="password" name="pwd" id="user_pass" value="" />
+            <button type="button" class="button mp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Show password">
+              <span class="dashicons dashicons-visibility" aria-hidden="true"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+            <div>
+        <label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me</label>
+      </div>
+      <div class="mp-spacer">&nbsp;</div>
+      <div class="submit">
+        <input type="submit" name="wp-submit" id="wp-submit" class="button-primary mepr-share-button " value="Log In" />
+        <input type="hidden" name="redirect_to" value="/occitanie/haute-garonne/culture-haute-garonne/carbonne-exposition-pop-up-livre-animes-191118/" />
+        <input type="hidden" name="mepr_process_login_form" value="true" />
+        <input type="hidden" name="mepr_is_login_page" value="false" />
+      </div>
+    </form>
+    <div class="mp-spacer">&nbsp;</div>
+    <div class="mepr-login-actions">
+      <a href="https://www.lejournaltoulousain.fr/connexion/?action=forgot_password">Forgot Password</a>
+    </div>
+    <!-- mp-login-form-end --> 
+  </div>
+
+                                
+                                 
+                            </div> 
+                            <div class="inner-create_account">
+                               <div class="main_title">
+                                 <h2>CREATE AN ACCOUNT</h2>
+                                 <p>Welcome! Register for an account</p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                     <div class="link-item_col">
+                        <a href="" target="" ></a>
+                    </div>
+                    <div class="site-navigation_2">
+                        <div class="menu">
+                        <div class="opener">
+                            <span aria-label="Afficher/masquer la modale du menu"></span>
+                        </div>
+                                                          <div class="icons open_200">
+                                                                           <div class="search" id="search-open">
+                                            <span aria-label="Fermer la modale de recherche">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#5c6995" d="M508.5 481.6l-129-129c-2.3-2.3-5.3-3.5-8.5-3.5h-10.3C395 312 416 262.5 416 208 416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c54.5 0 104-21 141.1-55.2V371c0 3.2 1.3 6.2 3.5 8.5l129 129c4.7 4.7 12.3 4.7 17 0l9.9-9.9c4.7-4.7 4.7-12.3 0-17zM208 384c-97.3 0-176-78.7-176-176S110.7 32 208 32s176 78.7 176 176-78.7 176-176 176z"/></svg>
+                                            </span>
+                                        </div>
+                                                                                                         <span class="search-text-2">Rechercher<span>
+                                </div>
+                                              </div>
+                    </div>
+                </div>
+                <div class="row-menu-icon">
+                   <ul><li> <a href="/tous-les-dossiers/" ><img width="99" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2099%2098'%3E%3C/svg%3E" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/icon4-1.png" ><noscript><img width="99" height="98" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/icon4-1.png" ></noscript> <span>Nos dossiers</span> </a> </li><li> <a href="/annonces-legales-publiees/" ><img width="99" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2099%2098'%3E%3C/svg%3E" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/icon5.png" ><noscript><img width="99" height="98" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2022/02/icon5.png" ></noscript> <span>Annonces légales</span> </a> </li><li> <a href="/lifestyle/" ><img width="99" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2099%2098'%3E%3C/svg%3E" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/icon6-1.png" ><noscript><img width="99" height="98" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/icon6-1.png" ></noscript> <span>Notre Magazine</span> </a> </li><ul>
+                </div>  
+
+
+             </div>   
+        </div>
+    </div>    
+        <div class="menu-full site-navigation">
+            <div class="container">
+                <div class="row-main-menu">
+                    <div class="col-1-menu  "  >
+                        <div class="inner">
+                                                                                    
+                                                                                         <div class="menu not-home-page">
+                                    <nav role="navigation" >
+                                        <ul><li id="menu-item-142290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142290"><a href="/occitanie/">Occitanie</a>
+<ul class="sub-menu">
+	<li id="menu-item-142291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142291"><a href="https://www.lejournaltoulousain.fr/occitanie/ariege/">Ariège</a></li>
+	<li id="menu-item-142292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142292"><a href="https://www.lejournaltoulousain.fr/occitanie/aude/">Aude</a></li>
+	<li id="menu-item-142293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142293"><a href="https://www.lejournaltoulousain.fr/occitanie/aveyron/">Aveyron</a></li>
+	<li id="menu-item-142294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142294"><a href="https://www.lejournaltoulousain.fr/occitanie/gard/">Gard</a></li>
+	<li id="menu-item-142295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142295"><a href="https://www.lejournaltoulousain.fr/occitanie/gers/">Gers</a></li>
+	<li id="menu-item-142296" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-142296"><a href="https://www.lejournaltoulousain.fr/occitanie/haute-garonne/">Haute-Garonne</a></li>
+	<li id="menu-item-142297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142297"><a href="https://www.lejournaltoulousain.fr/occitanie/hautes-pyrenees/">Hautes-Pyrénées</a></li>
+	<li id="menu-item-142298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142298"><a href="https://www.lejournaltoulousain.fr/occitanie/herault/">Hérault</a></li>
+	<li id="menu-item-142299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142299"><a href="https://www.lejournaltoulousain.fr/occitanie/lot/">Lot</a></li>
+	<li id="menu-item-142300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142300"><a href="https://www.lejournaltoulousain.fr/occitanie/lozere/">Lozère</a></li>
+	<li id="menu-item-148030" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148030"><a href="https://www.lejournaltoulousain.fr/occitanie/pyrenees-orientales/">Pyrénées-Orientales</a></li>
+	<li id="menu-item-142301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142301"><a href="https://www.lejournaltoulousain.fr/occitanie/tarn/">Tarn</a></li>
+	<li id="menu-item-142302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142302"><a href="https://www.lejournaltoulousain.fr/occitanie/tarn-et-garonne/">Tarn-et-Garonne</a></li>
+</ul>
+</li>
+<li id="menu-item-146571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146571"><a href="https://www.lejournaltoulousain.fr/occitanie/actualites-occitanie/">Actualités</a></li>
+<li id="menu-item-146574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146574"><a href="https://www.lejournaltoulousain.fr/occitanie/politique-occitanie/">Politique</a></li>
+<li id="menu-item-142305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142305"><a href="/sante/">Santé</a></li>
+<li id="menu-item-146573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146573"><a href="https://www.lejournaltoulousain.fr/occitanie/economie-occitanie/">Economie</a></li>
+<li id="menu-item-146572" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-146572"><a href="https://www.lejournaltoulousain.fr/occitanie/culture-occitanie/">Culture</a></li>
+<li id="menu-item-174896" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174896"><a href="https://www.lejournaltoulousain.fr/solutions/">Solutions</a></li>
+<li id="menu-item-146575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146575"><a href="https://www.lejournaltoulousain.fr/occitanie/sport-occitanie/">Sport</a></li>
+<li id="menu-item-142311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142311"><a href="https://www.lejournaltoulousain.fr/lifestyle/">Lifestyle Occitanie</a></li>
+<li id="menu-item-142312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142312"><a href="/bqe/">BQE</a></li>
+<li id="menu-item-142309" class="dot_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-142309"><a>&#8230; <i class="fas fa-chevron-down"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-142315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142315"><a href="/portrait/">Portraits</a></li>
+	<li id="menu-item-142313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142313"><a href="/le-toulouse-fact-checking/">Le Toulouse Fact Checking</a></li>
+	<li id="menu-item-142314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142314"><a href="/leche-vitrine/">Lèche vitrine</a></li>
+</ul>
+</li>
+</ul>
+                                    </nav>
+                                </div>
+                                                     </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+ 
+</header>
+        
+    <footer id="footer" role="contentinfo">
+                            <div class="bar">
+                <div class="container">
+                    <div class="gridlex-noBottom by-three">
+                        <div class="gcol-4_md-6_sm-12"><div class="widget widget_block" id="block-6">
+<section id="gm09a9c1c" class="wp-block-gutentor-m4 section-gm09a9c1c gutentor-module gutentor-advanced-columns has-color-bg has-custom-bg section-footer"><div class="grid-container"><div class="grid-row">
+<div id="col-gma31710" class="wp-block-gutentor-m4-col col-gma31710 gutentor-single-column  grid-lg-4 grid-md-12 grid-12 box-logo"><div id="section-gma31710" class="section-gma31710 gutentor-col-wrap has-color-bg has-custom-bg">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20248%2033'%3E%3C/svg%3E" alt="" class="wp-image-148251" width="248" height="33" data-lazy-srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-2.png 556w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-2-300x40.png 300w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-2-500x67.png 500w" data-lazy-sizes="(max-width: 248px) 100vw, 248px" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-2.png" /><noscript><img decoding="async" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-2.png" alt="" class="wp-image-148251" width="248" height="33" srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-2.png 556w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-2-300x40.png 300w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/logo-JT-footer-2-500x67.png 500w" sizes="(max-width: 248px) 100vw, 248px" /></noscript></figure>
+</div></div>
+
+
+
+<div id="col-gm1722ef" class="wp-block-gutentor-m4-col col-gm1722ef gutentor-single-column  grid-lg-4 grid-md-12 grid-12 box-content"><div id="section-gm1722ef" class="section-gm1722ef gutentor-col-wrap has-color-bg has-custom-bg">
+<div id="section-gb1f1af" class="wp-block-gutentor-e1 section-gb1f1af gutentor-element gutentor-element-advanced-text text-align-left-desktop"><div class="gutentor-text-wrap"><span class="gutentor-text">A PROPOS<br></span></div></div>
+
+
+
+<p class="has-text-color" style="color:#d6d9c8">Le Journal Toulousain est un média de solutions habilité à publier des annonces légales en Haute-Garonne. Il est édité par la Scop News Medias 3.1</p>
+
+
+
+<p class="has-text-color" style="color:#d6d9c8">Contactez-nous : <a href="mailto:redaction@lejournaltoulousain.fr">redaction@lejournaltoulousain.fr</a><br><br>Annonces légales :&nbsp;<a href="mailto:annonceslegale@lejournaltoulousain.fr">annonceslegales@lejournaltoulousain.fr</a></p>
+</div></div>
+
+
+
+<div id="col-gm439bbe" class="wp-block-gutentor-m4-col col-gm439bbe gutentor-single-column  grid-lg-4 grid-md-12 grid-12 box-socials"><div id="section-gm439bbe" class="section-gm439bbe gutentor-col-wrap has-color-bg has-custom-bg">
+<div id="section-ge50dd1" class="wp-block-gutentor-e1 section-ge50dd1 gutentor-element gutentor-element-advanced-text text-align-left-desktop"><div class="gutentor-text-wrap"><span class="gutentor-text"> SUIVEZ-NOUS </span></div></div>
+
+
+
+<section id="gm8fe348d" class="wp-block-gutentor-m3 section-gm8fe348d gutentor-module gutentor-container-cover"><div class="grid-container">
+
+    <div class="socials">
+        <div class="uagb-social-share__wrap">
+            <div class="wp-block-uagb-social-share-child uagb-ss-repeater uagb-ss__wrapper uagb-block-59e9c7b5"><a target="_blank" class="uagb-ss__link" href="https://www.facebook.com/JournalToulousain" rel="noopener noreferrer"><span class="uagb-ss__source-wrap"><span class="uagb-ss__source-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></span></span></a></div>
+            <div class="wp-block-uagb-social-share-child uagb-ss-repeater uagb-ss__wrapper uagb-block-82397030"><a target="_blank" class="uagb-ss__link" href="https://www.instagram.com/journaltoulousain/" rel="noopener noreferrer"><span class="uagb-ss__source-wrap"><span class="uagb-ss__source-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg></span></span></a></div>
+            <div class="wp-block-uagb-social-share-child uagb-ss-repeater uagb-ss__wrapper uagb-block-34e41b5c"><a target="_blank" class="uagb-ss__link" href="https://twitter.com/JToulousain" rel="noopener noreferrer"><span class="uagb-ss__source-wrap"><span class="uagb-ss__source-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></span></span></a></div>
+            <div class="wp-block-uagb-social-share-child uagb-ss-repeater uagb-ss__wrapper uagb-block-6a016c20"><a target="_blank" class="uagb-ss__link" href="https://www.youtube.com/user/JToulousainTV" rel="noopener noreferrer"><span class="uagb-ss__source-wrap"><span class="uagb-ss__source-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></span></span></a></div>
+        </div>
+    </div></div></section>
+</div></div>
+</div></div></section>
+</div></div>
+                    </div>
+                </div>
+            </div>
+                            <div class="bottom">
+                <div class="container">
+                    <div class="site-footer-navigation">
+                        <div class="gridlex-noBottom">
+                            <div class="gcol-12">
+                                                                                                    <div class="menu">
+                                        <ul><li id="menu-item-148402" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-148402"><a href="https://www.lejournaltoulousain.fr/occitanie/">Occitanie</a></li>
+<li id="menu-item-155877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155877"><a href="https://www.lejournaltoulousain.fr/lifestyle/">Lifestyle</a></li>
+<li id="menu-item-139142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139142"><a href="https://www.lejournaltoulousain.fr/qui-sommes-nous/">Qui sommes-nous ?</a></li>
+<li id="menu-item-155878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155878"><a href="https://www.lejournaltoulousain.fr/contact/">Contact</a></li>
+<li id="menu-item-139146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139146"><a href="https://www.lejournaltoulousain.fr/plan-du-site/">Plan du site</a></li>
+<li id="menu-item-164907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164907"><a href="https://www.lejournaltoulousain.fr/mentions-legales/">Mentions légales</a></li>
+<li id="menu-item-164909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164909"><a href="https://www.lejournaltoulousain.fr/politique-de-confidentialite-2/">Politique de confidentialité</a></li>
+</ul>
+                                    </div>
+                                                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </footer>
+
+
+
+
+<div id="search-modal">
+    <div class="container">
+        <div class="gridlex-center-noBottom">
+            <div class="gcol-8_md-10_sm-12">
+                <div class="search-modal-inner">
+                    <div id="search-close" aria-label="Fermer la modale de recherche">&times;</div>
+                                            <div class="logo">
+                            <a href="https://www.lejournaltoulousain.fr/" class="custom-logo-link" rel="home"><img width="822" height="109" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20822%20109'%3E%3C/svg%3E" class="custom-logo" alt="" decoding="async" data-lazy-srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT.png 822w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-300x40.png 300w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-768x102.png 768w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-500x66.png 500w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-650x86.png 650w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-800x106.png 800w" data-lazy-sizes="(max-width: 822px) 100vw, 822px" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT.png" /><noscript><img width="822" height="109" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT.png" class="custom-logo" alt="" decoding="async" srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT.png 822w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-300x40.png 300w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-768x102.png 768w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-500x66.png 500w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-650x86.png 650w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-800x106.png 800w" sizes="(max-width: 822px) 100vw, 822px" /></noscript></a>
+                        </div>
+                                        <form role="search" method="get" id="searchform" class="searchform" action="https://www.lejournaltoulousain.fr/">
+            <label class="screen-reader-text" for="s">Rechercher :</label>
+            <input type="text" value="" name="s" id="s" />
+            <button type="submit">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path fill="currentColor" fill-rule="evenodd" d="M19.427 21.427a8.5 8.5 0 112-2l5.585 5.585c.55.55.546 1.43 0 1.976l-.024.024a1.399 1.399 0 01-1.976 0l-5.585-5.585zM14.5 21a6.5 6.5 0 100-13 6.5 6.5 0 000 13z"/>
+                </svg>
+            </button>
+        </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+        
+    <div id="search-modal">
+        <div class="container">
+            <div class="gridlex-center-noBottom">
+                <div class="gcol-8_md-10_sm-12">
+                    <div class="search-modal-inner ">
+                        <div id="search-close" aria-label="Fermer la modale de recherche">&times;</div>
+                                                    <div class="logo">
+                                <a href="https://www.lejournaltoulousain.fr/" class="custom-logo-link" rel="home"><img width="822" height="109" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20822%20109'%3E%3C/svg%3E" class="custom-logo" alt="" decoding="async" data-lazy-srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT.png 822w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-300x40.png 300w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-768x102.png 768w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-500x66.png 500w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-650x86.png 650w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-800x106.png 800w" data-lazy-sizes="(max-width: 822px) 100vw, 822px" data-lazy-src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT.png" /><noscript><img width="822" height="109" src="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT.png" class="custom-logo" alt="" decoding="async" srcset="https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT.png 822w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-300x40.png 300w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-768x102.png 768w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-500x66.png 500w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-650x86.png 650w, https://www.lejournaltoulousain.fr/wp-content/uploads/2021/12/cropped-Nouveau-logo-JT-800x106.png 800w" sizes="(max-width: 822px) 100vw, 822px" /></noscript></a>
+                            </div>
+                                                <form role="search" method="get" id="searchform" class="searchform" action="https://www.lejournaltoulousain.fr/">
+            <label class="screen-reader-text" for="s">Rechercher :</label>
+            <input type="text" value="" name="s" id="s" />
+            <button type="submit">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+                    <path fill="currentColor" fill-rule="evenodd" d="M19.427 21.427a8.5 8.5 0 112-2l5.585 5.585c.55.55.546 1.43 0 1.976l-.024.024a1.399 1.399 0 01-1.976 0l-5.585-5.585zM14.5 21a6.5 6.5 0 100-13 6.5 6.5 0 000 13z"/>
+                </svg>
+            </button>
+        </form>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <button type="button" id="back-to-top" aria-label="Retour en haut">
+            <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><path d="M45.7 38.1l-2 2L32 28.4 20.3 40.1l-2-2L32 24.4l13.7 13.7"/></svg>
+        </button>
+        		<script type="rocketlazyloadscript" data-rocket-type="text/javascript"> <!--
+			function cookiesckSetCookie(c_name,value,exdays)
+				{
+					var exdate=new Date();
+					exdate.setDate(exdate.getDate() + exdays);
+					var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString()) + "; path=/";
+					document.cookie=c_name + "=" + c_value;
+				}
+
+				function cookiesckReadCookie(name) {
+					var nameEQ = name + "=";
+					var cooks = document.cookie.split(';');
+					for(var i=0;i < cooks.length;i++) {
+						var c = cooks[i];
+						while (c.charAt(0)==' ') c = c.substring(1,c.length);
+							if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+						}
+					return null;
+				}
+				jQuery(document).ready(function($){
+					// cookiesckSetCookie("cookiesck","no",365);
+					var cookiesck = cookiesckReadCookie('cookiesck');
+					if (cookiesck != "yes"){
+						$("body").append("<div id=\"cookiesck\"></div>");
+						$("#cookiesck").append("<span class=\"cookiesck_inner\">En visitant ce site, vous acceptez l'utilisation de cookies afin de vous proposer les meilleurs services possibles.</span>")
+							.append("<a href=\"politique-de-confidentialite\"  id=\"cookiesck_readmore\">Read more</a>")
+							.append("<div id=\"cookiesck_accept\">I understand !</div>")
+							.append("<div style=\"clear:both;\"></div>")
+							.show();
+
+						jQuery('#cookiesck_accept').click(function(){
+							cookiesckSetCookie("cookiesck","yes",365);
+							jQuery.post(document.location, 'set_cookie=1', function(){});
+							jQuery('#cookiesck').slideUp('slow');
+						});
+					}
+				});
+				//--> </script>
+				<style type="text/css">
+		
+			#cookiesck {
+				position: fixed;
+				left:0;
+				right: 0;
+				bottom: 0;
+				z-index: 999;
+				min-height: 30px;
+				color: #eee;
+				background: rgba(0,0,0,0.5);
+				border-top: 1px solid #666;
+				text-align: center;
+				font-size: 14px;
+				line-height: 14px;
+			}
+			#cookiesck .cookiesck_inner {
+				padding: 10px 0;
+				display: inline-block;
+			}
+			#cookiesck_readmore {
+				float:right;
+				padding:10px;
+				border-radius: 3px;
+				color: #ddd;
+			}
+			#cookiesck_readmore:hover {
+				color: red;
+			}
+			#cookiesck_accept{
+				float:right;
+				padding:10px;
+				margin: 1px;
+				border-radius: 3px;
+				background: #000;
+				cursor: pointer;
+				-webkit-transition: all 0.2s;
+				transition: all 0.2s;
+			}
+			
+			#cookiesck_accept:hover{
+				background: green;
+			}
+				</style>
+		<!-- Matomo --><script type="rocketlazyloadscript">
+var _paq = window._paq = window._paq || [];
+_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);_paq.push(['alwaysUseSendBeacon']);_paq.push(['setTrackerUrl', "\/\/www.lejournaltoulousain.fr\/wp-content\/plugins\/matomo\/app\/matomo.php"]);_paq.push(['setSiteId', '1']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.src="\/\/www.lejournaltoulousain.fr\/wp-content\/uploads\/matomo\/matomo.js"; s.parentNode.insertBefore(g,s);
+</script>
+<!-- End Matomo Code -->
+
+
+<style id='core-block-supports-inline-css'>
+.wp-block-columns.wp-container-2{flex-wrap:nowrap;}
+</style>
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-content/plugins/embed-any-document/js/pdfobject.min.js?ver=2.7.1' id='awsm-ead-pdf-object-js' defer></script>
+<script id='awsm-ead-public-js-extra'>
+var eadPublic = [];
+</script>
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-content/plugins/embed-any-document/js/embed-public.min.js?ver=2.7.1' id='awsm-ead-public-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=1673337258' id='swv-js' defer></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/www.lejournaltoulousain.fr\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1673337258' id='contact-form-7-js' defer></script>
+<script id='rfw-script-js-extra'>
+var rfw = {"speed":""};
+</script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/rss-feed-widget/js/functions.js?ver=1673337258' id='rfw-script-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/rss-feed-widget/js/jquery.fitvids.js?ver=1673337258' id='rfw-script-fitvid-js' defer></script>
+<script type="rocketlazyloadscript" id='rocket-browser-checker-js-after'>
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id='rocket-preload-links-js-extra'>
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.*)\/amp|\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/www.lejournaltoulousain.fr","onHoverDelay":"100","rateThrottle":"3"};
+</script>
+<script type="rocketlazyloadscript" id='rocket-preload-links-js-after'>
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/themes/seomag-child/js/custom.js?ver=1673337258' id='custom-js-js' defer></script>
+<script id='ajax-js-js-extra'>
+var wpAjax = {"ajaxUrl":"https:\/\/www.lejournaltoulousain.fr\/wp-admin\/admin-ajax.php"};
+</script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/themes/seomag-child/js/ajax.js?ver=1673337258' id='ajax-js-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/themes/seomag-child/js/magnific-popup.js?ver=1673337258' id='magnific-popup-js-js' defer></script>
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-content/themes/seomag-child/js/slick.min.js?ver=1.4' id='slick-js-js' defer></script>
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-content/themes/seomag-child/js/jquery.twbsPagination.min.js?ver=1.4' id='pagination-js-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/libtrc/lejournaltoulousain/loader.js?ver=1673337258' id='taboola-js-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/themes/seomag/assets/tiny-slider/tiny-slider.js?ver=1673337258' id='seomag-tns-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/themes/seomag/statics/main.js?ver=1673337258' id='seomag-js' defer></script>
+<script id='zrcmnt-ajax-request-js-extra'>
+var ZenoCommentsAjax = {"ajaxurl":"https:\/\/www.lejournaltoulousain.fr\/wp-admin\/admin-ajax.php","nonce":"90e7b2dd61"};
+</script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/zeno-report-comments/js/ajax.js?ver=1673337258' id='zrcmnt-ajax-request-js' defer></script>
+<script id='gutentor-block-js-extra'>
+var gutentorLS = {"fontAwesomeVersion":"5","restNonce":"8a31b72398","restUrl":"https:\/\/www.lejournaltoulousain.fr\/wp-json\/"};
+</script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/gutentor/assets/js/gutentor.js?ver=1673337258' id='gutentor-block-js' defer></script>
+<script type="rocketlazyloadscript" src='https://www.lejournaltoulousain.fr/wp-content/plugins/gutentor/assets/library/slick/slick.min.js?ver=1.8.1' id='slick-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/gutentor/assets/js/google-map-loader.js?ver=1673337258' id='gutentor-google-maps-js' defer></script>
+<script type="rocketlazyloadscript" src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAq-PUmXMM3M2aQnwUslzap0TXaGyZlqZE&#038;libraries=places&#038;callback=initMapScript&#038;ver=1.0.0' id='google-maps-js' defer></script>
+<script type="rocketlazyloadscript" data-minify="1" defer src='https://www.lejournaltoulousain.fr/wp-content/cache/min/1/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1673337258' id='akismet-frontend-js'></script>
+<!--noptimize--><script type="rocketlazyloadscript">!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script><!--/noptimize--><script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.lejournaltoulousain.fr/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>
+    </body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1673345730 -->

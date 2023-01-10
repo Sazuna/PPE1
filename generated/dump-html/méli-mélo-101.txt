@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.hachette.fr/sites/default/files/favicon.png" type="image/png" />
+<script>dataLayer = [{"entitytype":"node","entitybundle":"recette","entityid":"569646","entitylabel":"meli-melo de tomates, sauce a la peche : notre recette de salade qui fait du bien","entitylanguage":"fr","entitytnid":"0","entityvid":"631362","entityname":"shumbert@hachette-livre.fr","entityuid":"95492","entitycreated":"1589809240","entitystatus":"1","entitytaxonomy":{"type_de_plat":{"15410":"recette plat principal"},"difficult_recette":{"15437":"recette facile"},"saisons":{"15425":"recette ete"}},"drupallanguage":"fr","useruid":"0","lang":"fr","teenager_content":"","page_type":"recette","page_name":"meli-melo de tomates, sauce a la peche : notre recette de salade qui fait du bien","page_collections":[],"page_themes":[],"node_type":"recette","view_name":null,"view_display":null,"page_category":"recette plat principal","page_subcategory":"meli-melo de tomates, sauce a la peche : notre recette de salade qui fait du bien","book_publisher":"hachette.fr","book_type":["papier"],"book_ean":"9782842215903","book_ean_ebook":"","book_author":["stephanie tresch-medici"],"book_title":"des salades qui nous font du bien","book_datepublished":"a paraitre","book_price":"24.95","book_price_ebook":"","book_tag":[],"dmp":true}];</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@graph": [
+        {
+            "@type": "Recipe",
+            "name": "Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien",
+            "description": "Les beaux jours arrivent ! Faites-vous plaisir avec le méli-mélo de tomates de Stéphanie Tresch-Medici (autrement appelée La Fée Stéphanie), une recette gorgée de soleil à retrouver dans son livre Des salades qui nous font du bien publié aux éditions La Plage.",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "https://www.hachette.fr/sites/default/files/meli-melo-tomates-peches-compressor.jpg"
+            },
+            "author": {
+                "@type": "Organization",
+                "@id": "hachette.fr",
+                "name": "Hachette",
+                "url": "www.hachette.fr"
+            },
+            "cookTime": "PT*M",
+            "prepTime": "HT10M",
+            "totalTime": "PT10M",
+            "datePublished": "lun, 18/05/2020 - 15:40",
+            "recipeCategory": "Recette plat principal",
+            "recipeIngredient": [
+                "1/2 oignon rouge",
+                "1/2 grenade",
+                "500 g de tomates : quelques tomates cerise jaunes - rouges et noires - 2 tomates cocktail - 2 tomates côtelées (1 green zebra et 1 noire de Crimée)",
+                "Quelques feuilles de basilic ou d\u0027origan frais",
+                "1 cuil. à soupe de vinaigre de vin ou balsamique",
+                "1 cuil. à café de sirop d\u0027agave ou de sucre de canne",
+                "1/2 pêche bien mûre - pelée et coupée en petits dés",
+                "2 à 3 feuilles de basilic ou de menthe ciselées",
+                "2 cuil. à soupe d\u0027huile d\u0027olive",
+                "Sel et poivre du moulin"
+            ],
+            "recipeCuisine": "French cook",
+            "recipeInstructions": [
+                "Eplucher et émincer l\u0027oignon rouge. Egrainer la grenade. Laver et sécher les tomates.Couper les tomates cerise en deux ou en quartiers et les tomates plus grosses en tranches. Les disposer sur un plat en les mélangeant.Parsemer de grenade",
+                "d\u0027oignon et de feuilles de basilic.Dans un bol",
+                "mélanger du sel",
+                "le vinaigre",
+                "le sirop d\u0027agave et la pêche. Ajouter le basilic ou la menthe",
+                "puis l\u0027huile en remuant énergiquement.Arroser les tomates de sauce et donner quelques tours de moulin à poivre juste avant de servir."
+            ],
+            "recipeYield": "4"
+        }
+    ]
+}</script>
+<meta name="description" content="Les beaux jours arrivent ! Faites-vous plaisir avec le méli-mélo de tomates de Stéphanie Tresch-Medici (autrement appelée La Fée Stéphanie), une recette gorgée de soleil à retrouver dans son livre Des salades qui nous font du bien publié aux éditions La Plage." />
+<meta name="robots" content="follow, index" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.hachette.fr/recette/meli-melo-de-tomates-sauce-la-peche-notre-recette-de-salade-qui-fait-du-bien" />
+<meta property="og:type" content="food" />
+<meta property="og:title" content="Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien" />
+<meta property="og:updated_time" content="2020-05-18T15:40:40+02:00" />
+<meta property="og:image" content="https://www.hachette.fr/sites/default/files/tomates-peches-salade-compressor.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@Hachette_France" />
+<meta name="twitter:title" content="Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui" />
+<meta property="article:published_time" content="2020-05-18T15:40:40+02:00" />
+<meta property="article:modified_time" content="2020-05-18T15:40:40+02:00" />
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.hachette.fr\/","name":"Accueil"}}]}</script>  <title>Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien | hachette.fr</title>
+  <link type="text/css" rel="stylesheet" href="https://www.hachette.fr/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hachette.fr/sites/default/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hachette.fr/sites/default/files/css/css_DEdq-tfqexgWPHdPppvF2qYyZ1ALLjO4JCd7W6LtUbE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hachette.fr/sites/default/files/css/css_weUGHEZRzfU58zPGAL0GCfsDq6pXKWNnUKCDH7dXmfE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hachette.fr/sites/default/files/css/css_Tpu_mZtol17TSVGusWNvMqjutmXTdu7xaEzO6G8wMME.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.hachette.fr/sites/default/files/js/js_Gy1XYkSus28sEpW5FvzTCUp8zV83RtzoMuYswgEZxeA.js"></script>
+<script src="https://www.hachette.fr/sites/default/files/js/js_Qj2X4tL0-OUwWDjJm5VXqSNOWisUU5Cvh1NoP-KlTm4.js"></script>
+<script src="https://www.hachette.fr/sites/default/files/js/js_DMSMin79u8tLXy9aKk6vCEDY5ICR-QwwP6GkQCfkhCc.js"></script>
+<script src="https://hachette.reach5.net/js/v1/fr/identity.js?client_id=GZdiAKU0mbDzxy33sOT6"></script>
+<script>window.reach5=window.reach5||function(){(reach5.q=reach5.q||[]).push(arguments)};</script>
+<script src="https://www.hachette.fr/sites/default/files/js/js_p9Ac5YwORzXTraIOBA7ptzFFhOggPc0HmTfoAGzH6cI.js"></script>
+<script src="https://www.hachette.fr/sites/default/files/js/js_me8e57t1pILs3Gzi9ihmW9kO3i6p3iV1AZBsqHunbtg.js"></script>
+<script src="https://www.hachette.fr/sites/default/files/js/js_QH2EZ92rxjjhHNPbYdBSMlik75TinTzHvgm7L4OglfE.js"></script>
+<script src="https://www.hachette.fr/sites/default/files/js/js_h6fvq7387wCPTqw_8QbRaR0ySdVkEdhsnX-KVcBirKQ.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"theme_usine_v2","theme_token":"VgkfVQmD2Vji_3S2soN6Sz2wzfCpiKWZsrSWTde7kwk","jquery_version":"1.10","js":{"sites\/all\/modules\/specif\/hw_didomi\/modules\/hw_didomi_preference_link\/hw_didomi_preference_link.js":1,"sites\/all\/modules\/specif\/hw_didomi\/hw_didomi.youtube.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/blazy\/blazy.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"https:\/\/hachette.reach5.net\/js\/v1\/fr\/identity.js?client_id=GZdiAKU0mbDzxy33sOT6":1,"0":1,"sites\/all\/modules\/contrib\/lazy\/lazy.js":1,"public:\/\/languages\/fr_vx7fPzk5TQRDxrjXL4CqVaGdebzasWIUWQI8y18RZyg.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/default\/modules\/ajax_register\/js\/ajax-register.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/datalayer\/datalayer.js":1,"sites\/all\/modules\/specif\/hw_livre\/js\/switch_pres_en.js":1,"sites\/default\/modules\/mb_avis\/js\/mb_avis_ajax.js":1,"sites\/all\/modules\/contrib\/flag\/theme\/flag.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/specif\/sous_theme_bootstrap_usine\/js\/scripts.js":1,"sites\/default\/themes\/theme_usine_v2\/js\/scripts_child.js":1,"sites\/default\/themes\/theme_usine_v2\/js\/insta.js":1,"sites\/default\/themes\/theme_usine_v2\/js\/uidhl.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/affix.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/alert.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/button.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/carousel.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/collapse.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/dropdown.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/modal.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/tooltip.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/popover.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/scrollspy.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/tab.js":1,"sites\/default\/themes\/theme_usine_v2\/bootstrap\/assets\/javascripts\/bootstrap\/transition.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/modules\/ctools\/js\/modal.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/specif\/hw_didomi\/hw_didomi.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/modules\/specif\/hw_livre\/css\/switch_pres_en.css":1,"sites\/all\/modules\/specif\/hw_livre\/css\/fix_slider_livres.css":1,"sites\/default\/modules\/mb_avis\/css\/mb_avis_ajax.css":1,"sites\/default\/modules\/mb_avis\/css\/mb_avis.css":1,"sites\/all\/modules\/contrib\/flag\/theme\/flag.css":1,"sites\/all\/themes\/specif\/sous_theme_bootstrap_usine\/css\/style_commun.css":1,"sites\/default\/themes\/theme_usine_v2\/css\/all.css":1,"sites\/default\/themes\/theme_usine_v2\/css\/fontawesome.min.css":1,"sites\/default\/themes\/theme_usine_v2\/css\/style.css":1,"sites\/default\/themes\/theme_usine_v2\/css\/custom.css":1,"sites\/default\/themes\/theme_usine_v2\/css\/player.css":1}},"colorbox":{"opacity":"0.85","current":"{current} sur {total}","previous":"\u00ab Pr\u00e9c.","next":"Suivant \u00bb","close":"Fermer","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"flag":{"anonymous":true,"templates":{"hw_books_569715":"\u003Cspan class=\u0022flag-wrapper flag-hw-books flag-hw-books-569715\u0022\u003E\n      \u003Ca href=\u0022\/user\/login?destination=node\/569646\u0022 title=\u0022\u0022 class=\u0022flag unflag-action\u0022 rel=\u0022nofollow\u0022\u003ESupprimer mon alerte sur ce livre\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n","hw_wishlist_569715":"\u003Cspan class=\u0022flag-wrapper flag-hw-wishlist flag-hw-wishlist-569715\u0022\u003E\n      \u003Ca href=\u0022\/user\/login?destination=node\/569646\u0022 title=\u0022\u0022 class=\u0022flag unflag-action\u0022 rel=\u0022nofollow\u0022\u003ESupprimer de ma pile \u00e0 lire\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n","hw_authors_98669":"\u003Cspan class=\u0022flag-wrapper flag-hw-authors flag-hw-authors-98669\u0022\u003E\n      \u003Ca href=\u0022\/user\/login?destination=node\/569646\u0022 title=\u0022\u0022 class=\u0022flag unflag-action\u0022 rel=\u0022nofollow\u0022\u003ESupprimer mon alerte pour cet auteur\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n","hw_authors_498144":"\u003Cspan class=\u0022flag-wrapper flag-hw-authors flag-hw-authors-498144\u0022\u003E\n      \u003Ca href=\u0022\/user\/login?destination=node\/569646\u0022 title=\u0022\u0022 class=\u0022flag unflag-action\u0022 rel=\u0022nofollow\u0022\u003ESupprimer mon alerte pour cet auteur\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n","hw_books_651784":"\u003Cspan class=\u0022flag-wrapper flag-hw-books flag-hw-books-651784\u0022\u003E\n      \u003Ca href=\u0022\/user\/login?destination=recherche\/hw_editeurs\/88089\/hw_editeurs\/88091\/type\/focus\/hw_editeurs\/88114\/hw_editeurs\/88096\/hw_editeurs\/88104\u0022 title=\u0022\u0022 class=\u0022flag unflag-action\u0022 rel=\u0022nofollow\u0022\u003ESupprimer mon alerte sur ce livre\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n","hw_wishlist_651784":"\u003Cspan class=\u0022flag-wrapper flag-hw-wishlist flag-hw-wishlist-651784\u0022\u003E\n      \u003Ca href=\u0022\/user\/login?destination=recherche\/hw_editeurs\/88089\/hw_editeurs\/88091\/type\/focus\/hw_editeurs\/88114\/hw_editeurs\/88096\/hw_editeurs\/88104\u0022 title=\u0022\u0022 class=\u0022flag unflag-action\u0022 rel=\u0022nofollow\u0022\u003ESupprimer de ma pile \u00e0 lire\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n","hw_authors_102888":"\u003Cspan class=\u0022flag-wrapper flag-hw-authors flag-hw-authors-102888\u0022\u003E\n      \u003Ca href=\u0022\/user\/login?destination=node\/570309\u0022 title=\u0022\u0022 class=\u0022flag unflag-action\u0022 rel=\u0022nofollow\u0022\u003ESupprimer mon alerte pour cet auteur\u003C\/a\u003E\u003Cspan class=\u0022flag-throbber\u0022\u003E\u0026nbsp;\u003C\/span\u003E\n    \u003C\/span\u003E\n"}},"field_group":{"div":"liste"},"better_exposed_filters":{"views":{"actualites":{"displays":{"block_10":{"filters":[]}}},"livres":{"displays":{"block_12":{"filters":[]}}},"intervenants":{"displays":{"block_6":{"filters":[]},"block_5":{"filters":[]}}},"recettes_de_cuisine":{"displays":{"block":{"filters":[]}}}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:53dcd975f5adac880f803d15c09e68b4":{"view_name":"livres","view_display_id":"block_12","view_args":"","view_path":"recherche\/hw_editeurs\/88089\/hw_editeurs\/88091\/type\/focus\/hw_editeurs\/88114\/hw_editeurs\/88096\/hw_editeurs\/88104","view_base_path":"livres","view_dom_id":"53dcd975f5adac880f803d15c09e68b4","pager_element":0},"views_dom_id:c161937dac0339777a73d0c8fe3f96da":{"view_name":"intervenants","view_display_id":"block_6","view_args":"","view_path":"node\/570309","view_base_path":"auteurs","view_dom_id":"c161937dac0339777a73d0c8fe3f96da","pager_element":0},"views_dom_id:f9c1c98815926271d93b0014f630d0a4":{"view_name":"intervenants","view_display_id":"block_5","view_args":"","view_path":"node\/570309","view_base_path":"auteurs","view_dom_id":"f9c1c98815926271d93b0014f630d0a4","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/recherche":true},"CToolsModal":{"loadingText":"En cours de chargement...","closeText":"Fermer la fen\u00eatre","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/www.hachette.fr\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Fermer la fen\u00eatre\u0022 title=\u0022Fermer la fen\u00eatre\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/www.hachette.fr\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022En cours de chargement\u0022 title=\u0022En cours de chargement...\u0022 \/\u003E"},"ctools-ajax-register-style":{"modalSize":{"type":"fixed","width":550,"height":600,"contentRight":30,"contentBottom":0},"modalOptions":{"opacity":0.7,"background-color":"#000000"},"closeText":"","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/www.hachette.fr\/sites\/default\/modules\/ajax_register\/images\/ajax-loader.gif\u0022 alt=\u0022\u0022 \/\u003E","animation":"fadeIn","animationSpeed":"fast"},"dataLayer":{"languages":{"en":{"language":"en","name":"English","native":"English","direction":"0","enabled":"1","plurals":"0","formula":"","domain":"","prefix":"en","weight":"0","javascript":""},"fr":{"language":"fr","name":"French","native":"Fran\u00e7ais","direction":"0","enabled":"1","plurals":"2","formula":"($n\u003E1)","domain":"","prefix":"fr","weight":"0","javascript":"vx7fPzk5TQRDxrjXL4CqVaGdebzasWIUWQI8y18RZyg"}}},"lazy":{"bLazy":{"errorClass":"b-error","loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"selector":".b-lazy","src":"data-src","successClass":"b-loaded img-responsive","validateDelay":25}},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-569646 node-type-recette"><script type="didomi/javascript" data-vendor="didomi:facebook">
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '592538774286149',
+      xfbml      : true,
+      version    : 'v2.11'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/fr_FR/sdk/xfbml.customerchat.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Aller au contenu principal</a>
+  </div>
+    <div class="region region-page-top">
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJPFJSR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="fb-root"></div>
+<script type="didomi/javascript" data-vendor="didomi:facebook">
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&appId=940692516060202&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>  </div>
+  <header id="navbar" role="banner" class="navbar container-fluid navbar-default">
+  <div class="container-fluid">
+
+    <header role="banner" id="page-header">
+              <p class="lead">Vos envies de lecture commencent ici</p>
+      
+        <div class="region region-header">
+    <section id="block-block-10" class="block block-block block-logo-mobile clearfix">
+
+      
+  <div class="block_content">
+    <p style="text-align: center;"><a href="/"><img alt="" src="/sites/default/files/logo_mobile.png" style="width: 136px; height: 22px;" /></a></p>  </div>
+
+</section>
+<section id="block-block-7" class="block block-block block-social-header clearfix">
+
+      
+  <div class="block_content">
+    <div class="newsletter-header"><a href="/newsletter"><span class="logo-social logo-newsletter">&nbsp;</span></a><p><a href="/newsletter">La newsletter</a></p></div><div class="social-header"><div class="logo-social logo-facebook"><p><a href="https://www.facebook.com/HachetteFR/" target="_blank">facebook</a></p></div><div class="logo-social logo-twitter"><p><a href="https://twitter.com/hachette_france" target="_blank">twitter</a></p></div><div class="logo-social logo-youtube"><p><a href="https://www.youtube.com/c/HachetteFR" target="_blank">youtube</a></p></div><div class="logo-social logo-pinterest"><p><a href="https://fr.pinterest.com/hachettefr/" target="_blank">pinterest</a></p></div><div class="logo-social logo-instagram"><p><a href="https://www.instagram.com/hachettefr/" target="_blank">instagram</a></p></div><div class="logo-social logo-tiktok"><p><a href="https://www.tiktok.com/@hachettefrance?" target="_blank">tiktok</a></p></div></div>  </div>
+
+</section>
+<section id="block-views-exp-recherche-menu-page" class="block block-views clearfix">
+
+      
+  <div class="block_content">
+    <form action="/recherche" method="get" id="views-exposed-form-recherche-menu-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-search-api-views-fulltext-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                        <div class="views-widget">
+          <div class="form-item form-item-search-api-views-fulltext form-type-textfield form-group"><input placeholder="Rechercher un livre, un auteur, ..." class="form-control form-text" type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" /></div>        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <button type="submit" id="edit-submit-recherche-menu" name="" value="Rechercher" class="btn btn-primary form-submit">Rechercher</button>
+    </div>
+      </div>
+</div>
+</div></form>  </div>
+
+</section>
+  </div>
+    </header> <!-- /#page-header -->
+
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/" title="Accueil">
+          <img src="https://www.hachette.fr/sites/default/files/logo_desktop_0.png" alt="Accueil"/>
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+  </div>
+
+            <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                                            <div class="region region-navigation">
+    <section id="block-hw-main-menu-block-hw-main-menu-block" class="block block-hw-main-menu-block block-main-menu block-menu block-system clearfix">
+
+      
+  <div class="block_content">
+    <ul class="menu nav"><li class="first leaf"><a href="/" class="logo-site-sticky" style="display:none;">logo sticky</a></li>
+<li class="expanded dropdown"><a href="/a-la-une/tous-les-articles/tous-les-themes">à la une</a><span class="caret"></span><ul class="menu nav"><li class="first expanded"><a href="javascript:void(0)" title="" class="nolink">Rubriques</a><ul class="menu nav"><li class="first leaf"><a href="/a-la-une/article/tous-les-themes">Actualités</a></li>
+<li class="leaf"><a href="/a-la-une/conseils_lecture_coup_coeur/tous-les-themes">Conseils de lecture</a></li>
+<li class="leaf"><a href="/a-la-une/recette/tous-les-themes">Recettes</a></li>
+<li class="leaf"><a href="/a-la-une/tops_selections/tous-les-themes">Tops et Sélections</a></li>
+<li class="leaf"><a href="/a-la-une/video/tous-les-themes">Vidéos</a></li>
+<li class="leaf"><a href="/a-la-une/interview/tous-les-themes">Interviews</a></li>
+<li class="leaf"><a href="/a-la-une/focus/tous-les-themes">Focus</a></li>
+<li class="leaf"><a href="/podcasts">Podcasts</a></li>
+<li class="last leaf"><a href="/a-la-une/tous-les-articles/tous-les-themes" class="link-border">Toute l&#039;actualité</a></li>
+</ul></li>
+<li class="expanded"><a href="javascript:void(0)" class="nolink">Zoom sur</a><ul class="menu nav"><li class="first leaf"><a href="/focus/rentree-litteraire-dhiver-2023">Rentrée littéraire d&#039;hiver 2023</a></li>
+<li class="leaf"><a href="https://www.hachette.fr/a-la-une-par-tag/article/evenements-en-live-et-replay">Evènements en live et replay</a></li>
+<li class="leaf"><a href="https://www.hachette.fr/a-la-une-par-tag/focus/toutes-nos-promotions-ebooks">Toutes nos promotions ebooks</a></li>
+<li class="leaf"><a href="/a-la-une-par-tag/article/recette-de-la-semaine">Les recettes de nos éditeurs</a></li>
+<li class="last leaf"><a href="/a-la-une-par-tag/article/master-class-cuisine">Les Master class cuisine</a></li>
+</ul></li>
+<li class="last leaf"><div class="view view-actualites view-id-actualites view-display-id-block_10 view-dom-id-aa4ecf932d4e68573cecd0fec20e798e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+
+<div  about="/actualites/le-suppleant-les-memoires-du-prince-harry-disponibles-aux-editions-fayard" typeof="sioc:Item foaf:Document" class="node node-article node-promoted view-mode-menu view-mode-menu">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="group-tags-publication field-group-div"><div class="field field-name-content-type-name field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+<a href="/a-la-une/article/tous-les-themes">
+
+Actualités
+</a>
+</p></div></div></div><div class="field field-name-il-y-a field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>10 Janvier 2023</p>
+</div></div></div></div><div class="field field-name-titre-view-menu field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/actualites/le-suppleant-les-memoires-du-prince-harry-disponibles-aux-editions-fayard">&quot;Le Suppléant&quot; : les mémoires du Prince Harry disponibles </a></div></div></div><div class="field field-name-field-image-principal field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/actualites/le-suppleant-les-memoires-du-prince-harry-disponibles-aux-editions-fayard"><img typeof="foaf:Image" class="img-responsive" src="https://www.hachette.fr/sites/default/files/styles/manual_crop_288x192/public/content_types/article/field_image_principal/le-suppleant-prince-harry.jpg?itok=-Lsl-gXG" alt="&quot;Le Suppléant&quot; : les mémoires du Prince Harry seront publiés le 10 janvier 2023 aux éditions Fayard" /></a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/livre-thematique/tous-les-themes">Livres</a><span class="caret"></span><ul class="menu nav"><li class="first expanded"><a href="/livre-thematique/tous-les-themes">Thèmes</a><ul class="menu nav"><li class="first leaf"><a href="/theme/litterature-generale">Littérature</a></li>
+<li class="leaf"><a href="/theme/polar-et-thriller">Policier / Thriller</a></li>
+<li class="leaf"><a href="/theme/jeunesse">Enfants / Ados</a></li>
+<li class="leaf"><a href="/theme/fantastique">Fantastique</a></li>
+<li class="leaf"><a href="/theme/cuisine-et-vins">Cuisine et Vins</a></li>
+<li class="last leaf"><a href="/livre-thematique/tous-les-themes" class="link-border">Tous les thèmes</a></li>
+</ul></li>
+<li class="expanded"><a href="javascript:void(0)" class="nolink">Zoom sur</a><ul class="menu nav"><li class="first leaf"><a href="/e-books/tous">Ebooks</a></li>
+<li class="leaf"><a href="/nouveautes/tous">Nouveautés</a></li>
+<li class="leaf"><a href="/meilleures-ventes">Meilleures ventes</a></li>
+<li class="leaf"><a href="/prix-litteraires/tous">Prix littéraires</a></li>
+<li class="last leaf"><a href="/editeurs">Nos éditeurs</a></li>
+</ul></li>
+<li class="last leaf"><div class="view view-livres view-id-livres view-display-id-block_12 view-dom-id-53dcd975f5adac880f803d15c09e68b4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+
+<div  about="/livre/asterix-hors-collection-album-illustre-du-film-lempire-du-milieu-9782864976165" typeof="sioc:Item foaf:Document" class="node node-hw-livre node-promoted view-mode-menu view-mode-menu">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-content-type-name field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+<a href="/a-la-une/hw_livre/tous-les-themes">
+
+Livre
+</a>
+</p></div></div></div><div class="field field-name-hw-livre-couverture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/livre/asterix-hors-collection-album-illustre-du-film-lempire-du-milieu-9782864976165"><img typeof="foaf:Image" class="img-responsive" src="https://www.hachette.fr/sites/default/files/styles/echelle_232x232/public/images/livres/couv/9782864976165-001-T.jpeg?itok=HxtLQdvu" width="178" height="232" alt="Astérix - Hors collection - Album illustré du film - L&#039;Empire du Milieu" title="Astérix - Hors collection - Album illustré du film - L&#039;Empire du Milieu" /></a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/auteurs">Auteurs</a><span class="caret"></span><ul class="menu nav"><li class="first expanded"><a href="javascript:void(0)" class="nolink">Rubriques</a><ul class="menu nav"><li class="first leaf"><a href="/a-la-une/interview/tous-les-themes">Interviews</a></li>
+<li class="last leaf"><a href="/portraits-auteurs">Portraits</a></li>
+</ul></li>
+<li class="expanded"><a href="javascript:void(0)" class="nolink">Zoom sur</a><ul class="menu nav"><li class="first last leaf"><div class="view view-intervenants view-id-intervenants view-display-id-block_6 view-dom-id-c161937dac0339777a73d0c8fe3f96da">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/auteur/philippe-claudel">Philippe Claudel</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/auteur/michael-connelly">Michael Connelly</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/auteur/anna-todd">Anna Todd</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/auteur/aurelie-valognes">Aurélie Valognes</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/auteur/virginie-despentes">Virginie Despentes</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+</ul></li>
+<li class="last leaf"><div class="view view-intervenants view-id-intervenants view-display-id-block_5 view-dom-id-f9c1c98815926271d93b0014f630d0a4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+
+<div  about="/auteur/erik-orsenna" typeof="sioc:Item foaf:Document" class="node node-hw-intervenant view-mode-menu view-mode-menu">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-portrait field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>portrait</p></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><p>Erik Orsenna</p></div></div></div><div class="field field-name-field-image-principal field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/auteur/erik-orsenna"><img typeof="foaf:Image" class="img-responsive" src="https://www.hachette.fr/sites/default/files/styles/manual_crop_288x192/public/erik-orsena.jpg?itok=jjmxRwhe" alt="" /></a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></li>
+</ul></li>
+<li class="last leaf"><a href="/jeux/tous/tous">Jeux</a></li>
+</ul>  </div>
+
+</section>
+<section id="block-menu-menu-menu-connexion" class="block block-menu clearfix">
+
+        <div class="block-title">
+      <h2>Menu connexion</h2>
+    </div>
+    
+  <div class="block_content">
+    <ul class="menu nav"><li class="first leaf leclub"><a href="/sinscrire">Le club</a></li>
+<li class="last leaf moncompte"><a href="/user">Mon compte</a></li>
+</ul>  </div>
+
+</section>
+  </div>
+                  </nav>
+      </div>
+    
+</header>
+
+<div class="main-container">
+
+  <div class="highlighted">
+    <div class="container-fluid">
+      <div class="row">
+        <h2 class="element-invisible">Vous êtes ici</h2><div class="breadcrumb"><a href="/">Accueil</a><span class="crumbs-separator">&#9658;</span><span class="crumbs-current-page">Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien</span></div>              </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      
+      <section class="col-sm-12">
+        <a id="main-content"></a>
+                                                                                    <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="block_content">
+    
+
+<div  about="/recette/meli-melo-de-tomates-sauce-la-peche-notre-recette-de-salade-qui-fait-du-bien" typeof="sioc:Item foaf:Document" class="node node-recette node-promoted view-mode-full view-mode-full">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="group-wrapper-principal field-group-div"><div class="group-type-publication field-group-div"><div class="field field-name-content-type-name field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+<a href="/a-la-une/recette/tous-les-themes">
+
+Recettes
+</a>
+</p></div></div></div><div class="field field-name-il-y-a field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>18 Mai 2020</p>
+</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h1 class="heading800">Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien</h1></div></div></div><div class="form-item form-type-item form-group"><div class="partage_wrap"><div id="partage_facebook" class="partage"><a class="fa fa-facebook" target="_blank" href="http://www.facebook.com/share.php?u=https://www.hachette.fr/recette/meli-melo-de-tomates-sauce-la-peche-notre-recette-de-salade-qui-fait-du-bien&title=Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien"></a><span class="partageInfoBulle"> Partager via Facebook</span></div><div id="partage_twitter" class="partage"><a class="fa fa-twitter" target="_blank" href="https://twitter.com/intent/tweet?text=Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien&url=https://www.hachette.fr/recette/meli-melo-de-tomates-sauce-la-peche-notre-recette-de-salade-qui-fait-du-bien"></a><span class="partageInfoBulle"> Partager via Twitter</span></div><div id="partage_pinterest" class="partage"><a class="fa fa-pinterest" data-pin-do="none" target="_blank" href="https://pinterest.com/pin/create/button/?url=https://www.hachette.fr/recette/meli-melo-de-tomates-sauce-la-peche-notre-recette-de-salade-qui-fait-du-bien&description=Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien"></a><span class="partageInfoBulle"> Partager via Pinterest</span></div><div id="partage_print" class="partage"><span class="print_html"><a href="https://www.hachette.fr/print/569646" title="Afficher une version imprimable de cette page." class="fa fa-print" rel="nofollow"></a></span><span class="partageInfoBulle"> Imprimer la page </span></div></div></div><div class="form-item form-type-item form-group"><div id="facebook" class="partage" style="margin-right:15px;"><div class="fb-share-button" data-layout="button_count" data-href="https://www.hachette.fr/recette/meli-melo-de-tomates-sauce-la-peche-notre-recette-de-salade-qui-fait-du-bien"></div></div><div id="twitter" class="partage"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.hachette.fr/recette/meli-melo-de-tomates-sauce-la-peche-notre-recette-de-salade-qui-fait-du-bien" data-lang="fr">Tweeter</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "twitter-wjs");</script></div><div id="pinterest" class="partage"><a data-pin-do="buttonBookmark" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"></a></div><div id="googleplus" class="partage"><div class="g-plusone" data-size="medium"></div></div><div id="print" class="partage"><span class="print_html"><a href="https://www.hachette.fr/print/569646" title="Afficher une version imprimable de cette page." class="fa fa-print" rel="nofollow"></a></span></div></div><div class="field field-name-field-image-verticale field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.hachette.fr/sites/default/files/styles/vertical_recette/public/meli-melo-tomates-peches-compressor.jpg?itok=Pfwzu8sL" width="390" height="445" alt="Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien" /></div></div></div><div class="field field-name-field-livre-lies field-type-entityreference field-label-abovec"><div class="field-label">Recette extraite de :&nbsp;</div><div class="field-items"><div class="field-item even">
+
+<div  about="/livre/des-salades-qui-nous-font-du-bien-9782842215903" typeof="sioc:Item foaf:Document" class="node node-hw-livre view-mode-liste view-mode-liste">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="group-image-bandeau field-group-div"><div class="field field-name-hw-livre-couverture field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/livre/des-salades-qui-nous-font-du-bien-9782842215903"><img typeof="foaf:Image" class="img-responsive" src="https://www.hachette.fr/sites/default/files/styles/echelle_232x232/public/default_images/img-default-hachette-fr.jpg?itok=2IdCx59y" alt="" /></a></div></div></div></div><div class="group-titre-auteur-editeur field-group-div"><div class="field field-name-hw-livre-titre-couv field-type-text field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/livre/des-salades-qui-nous-font-du-bien-9782842215903">Des salades qui nous font du bien</a></div></div></div><div class="field field-name-hw-intervenants field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/auteur/stephanie-tresch-medici">Stéphanie Tresch-Medici</a></div></div></div><div class="field field-name-hw-editeurs field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/editeur/la-plage">La Plage</a></div></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div></div></div><div class="field field-name-field-copyright field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Maud Argaïbi</div></div></div><div class="field field-name-field-type-de-plat field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/type-de-plat/recette-plat-principal" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Recette plat principal</a></div></div></div><div class="field field-name-field-saison field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/saisons/recette-ete" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Recette été</a></div></div></div><div class="field field-name-field-chapo field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Les beaux&nbsp;jours arrivent ! Faites-vous plaisir avec le méli-mélo de tomates de Stéphanie Tresch-Medici (autrement appelée <a href="http://www.lafeestephanie.com/">La Fée Stéphanie</a>), une recette gorgée de soleil à retrouver dans son livre <em>Des salades qui nous font du bien</em> publié aux éditions La Plage.</p></div></div></div><div class="collapsible group-niveau-nb-pers field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">niveau_nb_pers</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-difficulte field-type-taxonomy-term-reference field-label-above"><div class="field-label">Difficulté:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/recette/recette-facile" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">recette facile</a></div></div></div><div class="field field-name-field-nb-personnes field-type-number-integer field-label-above"><div class="field-label">Nombre de personnes:&nbsp;</div><div class="field-items"><div class="field-item even">4</div></div></div></div></div><div class="collapsible group-timing field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">timing</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-temps-preparation field-type-number-integer field-label-above"><div class="field-label">Temps de préparation:&nbsp;</div><div class="field-items"><div class="field-item even">10min.</div></div></div><div class="field field-name-field-duree-totale field-type-text field-label-above"><div class="field-label">Durée totale:&nbsp;</div><div class="field-items"><div class="field-item even">10 minutes</div></div></div></div></div><div class="field-collection-container clearfix"><div class="field field-name-field-ingredients field-type-field-collection field-label-above"><div class="field-label">Ingrédients:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full">
+
+<div  about="/field-collection/field-ingredients/8922723" typeof="" class="entity entity-field-collection-item field-collection-item-field-ingredients view-mode-full">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-titre-ingredients field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Pour le méli-mélo de tomates</div></div></div><div class="field field-name-field-liste-ingredients field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>1/2 oignon rouge</p><p>1/2 grenade</p><p>500 g de tomates : quelques tomates cerise jaunes, rouges et noires, 2 tomates cocktail, 2 tomates côtelées (1 green zebra et 1 noire de Crimée)</p><p>Quelques feuilles de basilic ou d&#39;origan frais</p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div></div><div class="field-item odd"><div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+
+<div  about="/field-collection/field-ingredients/8922726" typeof="" class="entity entity-field-collection-item field-collection-item-field-ingredients view-mode-full">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-titre-ingredients field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Pour la sauce à la pêche</div></div></div><div class="field field-name-field-liste-ingredients field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>1 cuil. à soupe de vinaigre de vin ou balsamique</p><p>1 cuil. à café de sirop d&#39;agave ou de sucre de canne</p><p>1/2 pêche bien mûre, pelée et coupée en petits dés</p><p>2 à 3 feuilles de basilic ou de menthe ciselées</p><p>2 cuil. à soupe d&#39;huile d&#39;olive</p><p>Sel et poivre du moulin</p></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div></div></div></div></div><div class="field-collection-container clearfix"><div class="field field-name-field-etapes field-type-field-collection field-label-above"><div class="field-label">Étapes pour la recette:&nbsp;</div><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+
+<div  about="/field-collection/field-etapes/8922729" typeof="" class="entity entity-field-collection-item field-collection-item-field-etapes view-mode-full">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-liste-etapes field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><ol><li>Eplucher et émincer l&#39;oignon rouge. Egrainer la grenade. Laver et sécher les tomates.</li><li>Couper les tomates cerise en deux ou en quartiers et les tomates plus grosses en tranches. Les disposer sur un plat en les mélangeant.</li><li>Parsemer de grenade, d&#39;oignon et de feuilles de basilic.</li><li>Dans un bol, mélanger du sel, le vinaigre, le sirop d&#39;agave et la pêche. Ajouter le basilic ou la menthe, puis l&#39;huile en remuant énergiquement.</li><li>Arroser les tomates de sauce et donner quelques tours de moulin à poivre juste avant de servir.</li></ol></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div></div></div></div></div><div class="field field-name-field-image-principal field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://www.hachette.fr/sites/default/files/styles/recette_horizontal/public/tomates-peches-salade-compressor.jpg?itok=RYK__kLn" width="830" height="415" alt="Méli-mélo de tomates, sauce à la pêche : notre recette de salade qui fait du bien" /></div></div></div><div class="collapsible group-mot-du-chef field-group-div speed-fast effect-none">
+      <h3><span class="field-group-format-toggler">mot_du_chef</span></h3>
+      <div class="field-group-format-wrapper" style="display: block;"><div class="field field-name-field-auteur-recette field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stéphanie Tresch-Medici</div></div></div><div class="field field-name-hw-intervenants field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even">
+
+<div  about="/auteur/maud-argaibi" typeof="sioc:Item foaf:Document" class="node node-hw-intervenant node-teaser view-mode-teaser view-mode-teaser">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/auteur/maud-argaibi" class="">Voir la fiche auteur</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div><div class="field-item odd">
+
+<div  about="/auteur/stephanie-tresch-medici" typeof="sioc:Item foaf:Document" class="node node-hw-intervenant node-teaser view-mode-teaser view-mode-teaser">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-hw-intervenant-photos field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/auteur/stephanie-tresch-medici"><img typeof="foaf:Image" class="img-responsive" src="https://www.hachette.fr/sites/default/files/styles/auteur_recette/public/images/intervenants/000000258379_L_e_tresch_m_dici_jpg-de2678cdc7d0671d434418b384b0d39c-2021-04-01-14-49-54-736.jpg?itok=VZIRNzQQ" width="320" height="315" alt="Tresch-Medici" title="Tresch-Medici" /></a></div></div></div><div class="field field-name-node-link field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/auteur/stephanie-tresch-medici" class="">Voir la fiche auteur</a></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+</div></div></div></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+
+</section>
+<section id="block-views-recettes-de-cuisine-block" class="block block-views block-a-lire-aussi clearfix">
+
+        <div class="block-title">
+      <h2>A découvrir aussi</h2>
+    </div>
+    
+  <div class="block_content">
+    <div class="view view-recettes-de-cuisine view-id-recettes_de_cuisine view-display-id-block view-dom-id-151aadfb0f5a5a59906bec2ae0941633">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-xxs-12 col-xs-6 col-sm-4 col-md-4 col-lg-4">
+    
+
+<div  about="/recette/biryani-safran-et-legumes-dores-un-plat-de-banquet-vegetarien-et-ecologique" typeof="sioc:Item foaf:Document" class="node node-recette node-promoted view-mode-liste view-mode-liste">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image-principal field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/recette/biryani-safran-et-legumes-dores-un-plat-de-banquet-vegetarien-et-ecologique"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://www.hachette.fr/sites/default/files/styles/manual_crop_288x192/public/biryani-recette.jpg?itok=V7vHY52v" class="b-lazy" alt="Biryani safran et légumes dorés" /></a></div></div></div><div class="group-tags-publication field-group-div"><div class="field field-name-content-type-name field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+<a href="/a-la-une/recette/tous-les-themes">
+
+Recettes
+</a>
+</p></div></div></div><div class="field field-name-il-y-a field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>14 Décembre 2022</p>
+</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/recette/biryani-safran-et-legumes-dores-un-plat-de-banquet-vegetarien-et-ecologique">Biryani safran et légumes dorés : un plat de banquet végétarien et écologique</a></h2></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-2 views-row-even col-xxs-12 col-xs-6 col-sm-4 col-md-4 col-lg-4">
+    
+
+<div  about="/recette/boeuf-wellington-faites-de-noel-un-festin" typeof="sioc:Item foaf:Document" class="node node-recette node-promoted view-mode-liste view-mode-liste">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image-principal field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/recette/boeuf-wellington-faites-de-noel-un-festin"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://www.hachette.fr/sites/default/files/styles/manual_crop_288x192/public/wellington.jpg?itok=Gs9FnZyN" class="b-lazy" alt="Boeuf Wellington : faites de Noël un festin !" /></a></div></div></div><div class="group-tags-publication field-group-div"><div class="field field-name-content-type-name field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+<a href="/a-la-une/recette/tous-les-themes">
+
+Recettes
+</a>
+</p></div></div></div><div class="field field-name-il-y-a field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>14 Décembre 2022</p>
+</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/recette/boeuf-wellington-faites-de-noel-un-festin">Boeuf wellington : faites de Noël un festin !</a></h2></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last col-xxs-12 col-xs-6 col-sm-4 col-md-4 col-lg-4">
+    
+
+<div  about="/recette/grilled-cheese-la-recette-de-whoogys-qui-allie-fromage-et-pesto" typeof="sioc:Item foaf:Document" class="node node-recette view-mode-liste view-mode-liste">
+    <div class="row">
+    <div class="col-sm-12 ">
+      <div class="field field-name-field-image-principal field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/recette/grilled-cheese-la-recette-de-whoogys-qui-allie-fromage-et-pesto"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://www.hachette.fr/sites/default/files/styles/manual_crop_288x192/public/grilled-cheese-2.jpg?itok=7F-l_vcw" class="b-lazy" alt="" /></a></div></div></div><div class="group-tags-publication field-group-div"><div class="field field-name-content-type-name field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+<a href="/a-la-une/recette/tous-les-themes">
+
+Recettes
+</a>
+</p></div></div></div><div class="field field-name-il-y-a field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p>12 Décembre 2022</p>
+</div></div></div></div><div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even" property="dc:title"><h2><a href="/recette/grilled-cheese-la-recette-de-whoogys-qui-allie-fromage-et-pesto">Grilled Cheese : la recette de Whoogy&#039;s qui allie fromage et pesto</a></h2></div></div></div>    </div>
+  </div>
+</div>
+
+
+<!-- Needed to activate display suite support on forms -->
+  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/a-la-une/recette/tous-les-themes">
+    voir plus  </a>
+</div>
+  
+  
+  
+</div>  </div>
+
+</section>
+<div class="fb-customerchat"
+ page_id="429568680654"
+  minimized="true">
+</div>  </div>
+      </section>
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+  <div class="pre-footer">
+    <div class="container-fluid">
+        <div class="region region-pre-footer">
+    <section id="block-block-12" class="block block-block block-formulaire-newsletter clearfix">
+
+      
+  <div class="block_content">
+    <p>Vous inscrire à la newsletter hachette.fr</p>
+      <form action="/node/88247" method="get" accept-charset="UTF-8">
+      <div class="formulaire">
+      <input class="email form-text required" id="edit-submitted-email" name="email" size="60" type="email" required="required" placeholder="Votre email" >
+      <button class="btn form-submit">S'inscrire</button>
+      </div>
+      </form>
+      </div>
+
+</section>
+<section id="block-reachfive-login-reach5-block" class="block block-reachfive-login clearfix">
+
+      
+  <div class="block_content">
+    <div class="close-log" ></div><div id="reach5_log"></div>
+    <script>
+      reach5("showPasswordless", {
+          container: "reach5_log",
+          showSocialLogins : true ,
+          auth: {
+            responseType: "code",
+            redirectUri: "https://www.hachette.fr/reachfive/callback",
+            "state" : "/recette/meli-melo-de-tomates-sauce-la-peche-notre-recette-de-salade-qui-fait-du-bien",
+          },
+          theme: {
+            borderRadius: "20",
+            socialButton:{
+              inline: true,
+            }
+          }
+        }
+      );
+    </script>  </div>
+
+</section>
+<section id="block-block-2" class="block block-block block-social-footer col-sm-6 clearfix">
+
+        <div class="block-title">
+      <h2>suivez-nous</h2>
+    </div>
+    
+  <div class="block_content">
+    <div class="logo-social logo-facebook-w"><p><a href="https://www.facebook.com/HachetteFR/" target="_blank">facebook</a></p></div><div class="logo-social logo-twitter-w"><p><a href="https://twitter.com/hachette_france" target="_blank">twitter</a></p></div><div class="logo-social logo-youtube-w"><p><a href="https://www.youtube.com/c/HachetteFR" target="_blank">youtube</a></p></div><div class="logo-social logo-pinterest-w"><p><a href="https://fr.pinterest.com/hachettefr/" target="_blank">pinterest</a></p></div><div class="logo-social logo-instagram-w"><p><a href="https://www.instagram.com/hachettefr/" target="_blank">instagram</a></p></div><div class="logo-social logo-tiktok-w"><p><a href="https://www.tiktok.com/@hachettefrance?" target="_blank">tiktok</a></p></div>  </div>
+
+</section>
+  </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container-fluid">
+        <div class="region region-footer">
+    <section id="block-block-3" class="block block-block block-apropos col-sm-3 clearfix">
+
+        <div class="block-title">
+      <h2>à propos</h2>
+    </div>
+    
+  <div class="block_content">
+    <p><a href="https://www.hachette.fr">www.hachette.fr</a> est&nbsp;le magazine des éditeurs du groupe Hachette Livre en France.&nbsp;Le site présente le catalogue des éditeurs et propose des actualités, des contenus exclusifs, des jeux et animations multimédias&hellip; En un mot, un espace ludique et interactif au service de vos envies de lectures !&nbsp;&nbsp;&nbsp;</p>  </div>
+
+</section>
+<section id="block-menu-menu-footer-central" class="block block-menu col-sm-3 clearfix">
+
+      
+  <div class="block_content">
+    <ul class="menu nav"><li class="first leaf"><a href="/qui-sommes-nous-0">Qui sommes-nous ?</a></li>
+<li class="leaf"><a href="https://www.hachette.com">Hachette Livre</a></li>
+<li class="leaf"><a href="https://www.hachette.fr/contactez-nous">Questions fréquentes</a></li>
+<li class="leaf"><a href="/hachettepro">Vous êtes libraire</a></li>
+<li class="leaf"><a href="https://malecturedujour.fr/" target="_blank">Ma Lecture Du Jour</a></li>
+<li class="last leaf"><a href="/nos-sites-partenaires">Nos sites partenaires</a></li>
+</ul>  </div>
+
+</section>
+<section id="block-menu-menu-footer-droite" class="block block-menu col-sm-3 clearfix">
+
+      
+  <div class="block_content">
+    <ul class="menu nav"><li class="first leaf"><a href="/mentions-legales">Mentions légales</a></li>
+<li class="leaf"><a href="/charte-donnees-personnelles">Données personnelles</a></li>
+<li class="leaf"><a href="/conditions-generales-dutilisation">Conditions générales d&#039;utilisation</a></li>
+<li class="last leaf"><a href="/" class="cookies-didomi">Charte des cookies</a></li>
+</ul>  </div>
+
+</section>
+  </div>
+    </div>
+  </footer>
+    <div class="region region-page-bottom">
+    <script type="didomi/javascript" data-vendor="c:pinterest" async defer src="https://assets.pinterest.com/js/pinit.js"></script>  </div>
+<script src="https://www.hachette.fr/sites/default/files/js/js_CRiamhvRaof3P5XWgItfNgP4LzgLDedAqrFVTInIZdY.js"></script>
+<script src="https://www.hachette.fr/sites/default/files/js/js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js"></script>
+</body>
+</html>

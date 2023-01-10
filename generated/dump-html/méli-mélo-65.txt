@@ -1,0 +1,1083 @@
+<!DOCTYPE html>
+<html lang="fr" data-ign="2018" prefix="og: http://ogp.me/ns#">
+<head>
+<title>Warner Bros. Discovery ne sortirait pas Batgirl au cinéma ou en streaming</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Batgirl aurait été mise de côté." />
+<link rel="preload" as="style" href="/s/ign/css/ignf.css">
+<link rel="canonical" href="https://fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming">
+
+<meta name="robots" content="max-image-preview:large">
+
+    <meta property="dable:item_id" content="61130">
+
+
+
+<link href="/s/ign/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="mask-icon" href="https://oystatic.ignimgs.com/src/core/img/favicon/safari_favicon.svg" color="#bf1313"/>
+
+<script id="gdpr" type="text/javascript">
+(function() {
+    if (window !== window.top){return;}
+    var getGeoCC = function() {
+        var match = document.cookie.match(/(^|;)\s*geoCC\s*=\s*([^;]+)/);
+        if (match) return match[2];
+    }
+    window.geoCC = getGeoCC();
+    //gdprApplies namespace should be fine, the stub function below is a let within an iife
+    window.gdprApplies = (geoCC && /be|bg|cz|dk|de|ee|ie|el|es|fr|gr|hr|it|cy|lv|lt|lu|hu|mt|nl|at|pl|pt|ro|si|sk|fi|no|se|gb|uk|unk/i.test(geoCC)) ? true : false;
+    if (gdprApplies) {
+        (function() {
+            const makeStub = () => {
+                const TCF_LOCATOR_NAME = '__tcfapiLocator';
+                const queue = [];
+                const currentWindow = window;
+                let frameLocator = currentWindow;
+                let cmpFrame;
+                let gdprApplies;
+
+                function addFrame() {
+                    const doc = currentWindow.document;
+                    const otherCMP = !!(currentWindow.frames[TCF_LOCATOR_NAME]);
+
+                    if (!otherCMP) {
+                        if (doc.body) {
+                            const iframe = doc.createElement('iframe');
+
+                            iframe.style.cssText = 'display:none';
+                            iframe.name = TCF_LOCATOR_NAME;
+                            doc.body.appendChild(iframe);
+                        } else {
+                            setTimeout(addFrame, 5);
+                        }
+                    }
+
+                    return !otherCMP;
+                }
+
+                function tcfAPIHandler(...args) {
+                    if (!args.length) {
+                        return queue;
+                    } else if (args[0] === 'setGdprApplies') {
+                        if (args.length > 3 && parseInt(args[1], 10) === 2 && typeof args[3] === 'boolean') {
+                            gdprApplies = args[3];
+
+                            if (typeof args[2] === 'function') {
+                                args[2]('set', true);
+                            }
+                        }
+                    } else if (args[0] === 'ping') {
+                        if (typeof args[2] === 'function') {
+                            args[2]({
+                                gdprApplies: gdprApplies,
+                                cmpLoaded: false,
+                                cmpStatus: 'stub',
+                            });
+                        }
+                    } else {
+                        if(args[0] === 'init' && typeof args[3] === 'object') {
+                        args[3] = { ...args[3], tag_version: 'V2' };
+                        }
+                        queue.push(args);
+                    }
+                }
+
+                function postMessageEventHandler(event) {
+                    const msgIsString = typeof event.data === 'string';
+                    let json = {};
+
+                    if (msgIsString) {
+                        try {
+                            json = JSON.parse(event.data);
+                        } catch (ignore) {}
+                    } else {
+                        json = event.data;
+                    }
+
+                    const payload = (typeof json === 'object') ? json.__tcfapiCall : null;
+
+                    if (payload) {
+                        window.__tcfapi(
+                            payload.command,
+                            payload.version,
+                            function(retValue, success) {
+                                let returnMsg = {
+                                    __tcfapiReturn: {
+                                        returnValue: retValue,
+                                        success: success,
+                                        callId: payload.callId,
+                                    },
+                                };
+
+                                if (event && event.source && event.source.postMessage) {
+                                    event.source.postMessage((msgIsString) ? JSON.stringify(returnMsg) : returnMsg, '*');
+                                }
+                            },
+                            payload.parameter,
+                        );
+                    }
+                }
+                while (frameLocator) {
+                    try {
+                        if (frameLocator.frames[TCF_LOCATOR_NAME]) {
+                            cmpFrame = frameLocator;
+                            break;
+                        }
+                    } catch (ignore) {}
+                    if (frameLocator === currentWindow.top) {
+                        break;
+                    }
+                    frameLocator = currentWindow.parent;
+                }
+
+                if (!cmpFrame) {
+                    addFrame();
+                    currentWindow.__tcfapi = tcfAPIHandler;
+                    currentWindow.addEventListener('message', postMessageEventHandler, false);
+                }
+            };
+
+            if (typeof module !== 'undefined') {
+                module.exports = makeStub;
+            } else {
+                makeStub();
+            }
+        }());
+    }
+})();
+</script>
+
+<script>
+(function(){    
+    if (window !== window.top){return;}
+    if (!gdprApplies){return;}
+    var host = window.location.hostname;
+    var element = document.createElement('script');
+    var firstScript = document.getElementsByTagName('script')[0];
+    var url = 'https://cmp.quantcast.com'
+      .concat('/choice/', 'h6UBY2gfxnvfG', '/', host, '/choice.js?tag_version=V2');
+    var uspTries = 0;
+    var uspTriesLimit = 3;
+    element.async = true;
+    element.type = 'text/javascript';
+    element.src = url;
+  
+    firstScript.parentNode.insertBefore(element, firstScript);
+    var uspStubFunction = function() {
+        var arg = arguments;
+        if (typeof window.__uspapi !== uspStubFunction) {
+          setTimeout(function() {
+            if (typeof window.__uspapi !== 'undefined') {
+              window.__uspapi.apply(window.__uspapi, arg);
+            }
+          }, 500);
+        }
+      };
+    
+      var checkIfUspIsReady = function() {
+        uspTries++;
+        if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+          console.warn('USP is not accessible');
+        } else {
+          clearInterval(uspInterval);
+        }
+      };
+    
+      if (typeof window.__uspapi === 'undefined') {
+        window.__uspapi = uspStubFunction;
+        var uspInterval = setInterval(checkIfUspIsReady, 6000);
+      }
+    })();
+  </script>
+  
+  
+<script type="text/javascript">
+  window.ICMS = window.ICMS || { cmd: [], libs: [], css: [], tcf2loader: [], deferredJSLoader:[] };
+  ICMS.lang = 'fr'; ICMS.siteID = 'ign_fr'; ICMS.siteName = 'IGN France';
+  ICMS.amzTag = ''; ICMS.contentId = '61130'; ICMS.keywordSlug = '21428';
+  ICMS.baseUri = ''; ICMS.pageName = 'Warner Bros. Discovery ne sortirait pas Batgirl au cinéma ou en streaming'; ICMS.pageUrl = 'https://fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming';
+  ICMS.isPublished = 'True'; ICMS.backendEditUrl = 'https://fr.icms.ign.com/admin/article/61130/';
+  ICMS.isEmbed = (window.self !== window.top) ? true : false;
+  ICMS.cmd.push(function() { IGNInternationalInit(); });
+</script>
+<script type="text/javascript">window.ICMS.cmd.push(function() {  });</script>
+<script src="/s/bundle_ign.js?501" defer></script><script src="https://sm.ign.com/zdadkit2.js?501" defer></script>
+
+  <link rel="amphtml" href="https://fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming?amp=1">
+  
+
+<meta name="twitter:site" content="@IGNFRA"><meta property="og:site_name" content="IGN France" /><meta property="fb:app_id" content="115982828429116" /><meta property="fb:profile_id" content="https://www.facebook.com/IGNFRA" /><meta property="fb:pages" content="385109978325379, 30999986172" /><meta property="twitter:image" content="https://sm.ign.com/t/ign_fr/news/w/warner-bro/warner-bros-discovery-reportedly-wont-release-batgirl-in-the_rkv1.1200.jpg"><meta property="og:image" itemprop="image" content="https://sm.ign.com/t/ign_fr/news/w/warner-bro/warner-bros-discovery-reportedly-wont-release-batgirl-in-the_rkv1.1200.jpg"><meta name="twitter:card" value="summary_large_image"><meta property="og:type" content="article"><meta property="og:title" content="Warner Bros. Discovery ne sortirait pas Batgirl au cinéma ou en streaming"><meta property="og:description" content="Batgirl aurait été mise de côté."><meta property="og:url" content="https://fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming"><meta property="og:locale" content="fr_FR"><meta property="article:published_time" content="2022-08-03T07:12:28+00:00"><meta property="article:publisher" content="https://www.facebook.com/IGNFRA"><meta property="article:section" content="Batgirl"><meta property="article:tag" content="Entertainment, Films, Batgirl, DC">
+<link rel="alternate" hreflang="ar" href="https://me.ign.com/ar/batgirl/160033/news/tqryr-warner-bros-discovery-tlgy-fylm-batgirl" />
+<link rel="alternate" hreflang="el" href="https://gr.ign.com/batgirl/99815/news/sto-raphi-mpainei-e-batgirl-kai-e-tainia-tes" />
+<link rel="alternate" hreflang="en" href="https://www.ign.com/articles/warner-bros-discovery-reportedly-wont-release-batgirl" />
+<link rel="alternate" hreflang="en-ae" href="https://me.ign.com/en/movies/200170/news/warner-bros-discovery-reportedly-wont-release-batgirl-in-theaters-or-streaming" />
+<link rel="alternate" hreflang="en-my" href="https://sea.ign.com/batgirl-1/188604/news/warner-bros-discovery-reportedly-wont-release-batgirl-in-theaters-or-streaming" />
+<link rel="alternate" hreflang="en-pk" href="https://pk.ign.com/batgirl/187116/news/warner-bros-discovery-reportedly-wont-release-batgirl-in-theaters-or-streaming" />
+<link rel="alternate" hreflang="en-se" href="https://nordic.ign.com/batgirl/58770/news/warner-bros-discovery-reportedly-wont-release-batgirl-in-theaters-or-streaming" />
+<link rel="alternate" hreflang="en-sg" href="https://sea.ign.com/batgirl-1/188604/news/warner-bros-discovery-reportedly-wont-release-batgirl-in-theaters-or-streaming" />
+<link rel="alternate" hreflang="en-us" href="https://www.ign.com/articles/warner-bros-discovery-reportedly-wont-release-batgirl" />
+<link rel="alternate" hreflang="en-za" href="https://za.ign.com/batgirl/167412/news/warner-bros-discovery-reportedly-wont-release-batgirl-in-theaters-or-streaming" />
+<link rel="alternate" hreflang="es-es" href="https://es.ign.com/batgirl/183238/news/parece-que-warner-bros-ha-decidido-no-estrenar-la-pelicula-de-batgirl-ni-en-cines-ni-en-hbo-max-a-pe" />
+<link rel="alternate" hreflang="fr" href="https://fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming" />
+<link rel="alternate" hreflang="ja" href="https://jp.ign.com/batgirl/61524/news/dc" />
+<link rel="alternate" hreflang="nl" href="https://nl.ign.com/batgirl/138865/news/warner-bros-discovery-gaat-batgirl-film-niet-uitbrengen" />
+<link rel="alternate" hreflang="x-default" href="https://www.ign.com/articles/warner-bros-discovery-reportedly-wont-release-batgirl" />
+<meta http-equiv="content-language" content="fr" />
+
+
+  
+      <link rel="alternate" type="application/rss+xml" title="IGN France Batgirl" href="/batgirl.xml">
+  
+
+
+<!-- Trackers -->
+<script type="text/javascript" src="https://www.google-analytics.com/analytics.js" async="true" ></script>
+<script type="text/javascript">window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-55969964-1', 'ign.com');
+ga('set', 'anonymizeIp', true); ga('set', 'displayFeaturesTask', null);
+
+ga('send', 'pageview' );
+ga('create', 'UA-71985660-5', 'ign.com', 'ignus'); ga('ignus.send', 'pageview');ga('send','event','template','NEWS',{'nonInteraction':1});
+</script>
+<script type="text/javascript">var _comscore = _comscore || []; _comscore.push({c1: "2", c2: "3000068" });</script>
+<script type="text/javascript" src="https://sb.scorecardresearch.com/beacon.js" async="true"></script>
+<noscript><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000068&amp;c4=" alt="*" style="position: absolute" width="1" height="1"></noscript>
+
+
+<link rel="preload" href="/s/ign/css/ignf.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/s/ign/css/ignf.css"></noscript>
+<style type="text/css">/* MOBILE FIRST */ body, html { margin: 0px; padding: 0px; font-family: 'ars-maquette-web', sans-serif; text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; } body, html { overflow-x: hidden } body, header { padding-top: 0px; } body.rtl { direction: rtl; } /* Adtech Skin support */ body.hasSkin section.vspotlight, body.hasSkin section.popular, body.hasSkin section.broll, body.hasSkin section.stripe, body.hasSkin .hspotlight, body.hasSkin .list-content, body.hasSkin .wrap { max-width: 1240px; padding: 8px 10px; } body.hasSkin section.broll, body.hasSkin section.wrap.videofeatured { padding-left: 10px; padding-right: 10px; background-color: #FFF; box-sizing: border-box; } body.hasSkin section.stripe { padding-left: 10px; padding-right: 10px; margin: 0px auto; } body.hasSkin .page-content { max-width: 1240px; margin: 0 auto; background-color: #FFF; padding-top: 5px; box-sizing: border-box; } body.hasSkin section.hero article { width: 1240px; max-width: 1240px; background-position: center; background-repeat: no-repeat; } body.hasSkin section.hero { margin-left: initial; margin-right: initial; } body.hasSkin .herogrid { padding: 10px; box-sizing: border-box; } body.hasSkin .spacer { display: none; } header { position: fixed; width: 100%; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; top: 0px; background-color: #FFF; z-index: 10; } #ignheader { margin: 0px auto; height: 44px; position: relative; padding: 8px 0px 7px 0px; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08); } #ignheader #chksearch { position: absolute; top: 10px; right: 10px; height: 40px; width: 40px; cursor: pointer; opacity: 0; z-index: 900; -webkit-touch-callout: none; } #ignheader #chksearch:checked { right: 125px; z-index: 99999; } #ignheader #chksearch:checked ~ #search-modal-container { display: block; } #ignheader .editions { height: 200%; } #ignheader .editions p { display: block; margin: 0px; padding: 0px; font-size: 24px; vertical-align: top; line-height: 32px; margin-left: 5px; font-family: 'ars-maquette-web', sans-serif; color: #252627; } #ignheader .editions ul { display: none; margin: 0px; padding: 25px 18% 25px 36%; width: 118%; top: 96px; left: -36%; background-color: #f4f4f4; list-style-type: none; position: absolute; z-index: 10; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08); border: 1px solid rgba(37, 38, 39, 0.15); } #ignheader .editions ul li { display: inline-block; width: 220px; height: 18px; vertical-align: top; margin: 0px; padding: 8px 30px; font-size: 16px; color: #252627; font-weight: 500; line-height: 18px; } #ignheader .editions ul li.big { margin: 0px !important; } #ignheader .editions ul li:last-child { display: block; clear: both; margin: 0px auto; padding-left: 0; padding: 0; padding-top: 10px; transform: translate(-36%,0)} #ignheader .editions ul span.language { width: 39px; display: inline-block; color: #bf1313; font-size: 18px; line-height: 18px; } #ignheader .editions ul span.option { display: inline-block; line-height: 18px; } #ignheader .editions ul span.option a { color: #252627; text-decoration: none; } #ignheader .editions ul span.brand.option { font-weight: 700; } #ignheader .editions ul span.brand.option a { display: flex; align-items: center; column-gap: 8px; } #ignheader #search-modal-container { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; background: #ffffff; display: none; } #ignheader .search-modal { height: 100%; display: flex; -webkit-box-pack: justify; justify-content: space-between; background-color: #ffffff; -webkit-box-align: center; align-items: center; } #ignheader .search-modal .search-input #search-input { background-color: transparent; color: #252627; font-size: 1em; font-weight: bold; height: 100%; letter-spacing: -0.5px; line-height: 1; outline-style: none; border-width: 0px; border-style: initial; border-color: initial; border-image: initial; font-size: 2.75em; color: #aaa; margin-left: 24px; width: 100%; } #ignheader #search-modal-container.active { display: block; z-index: 999; } #ignheader #search-close { margin-right: 10px; } a { text-decoration: none; } .wrap { max-width: 1200px; margin-left: auto; margin-right: auto; padding-left: 15px; padding-right: 15px; } section#js { position: absolute; bottom: 0px; left: 0px; width: 1px; height: 1px; overflow: hidden; } #gheader, section.stripe { background-color: #f5f5f5; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.18); padding: 18px 0px; transition: padding 0.1s linear 0s; overflow: hidden; border-top: 1px solid #d1d5db; } section.stripe { padding: 12px 0px; margin-bottom: 0px; } svg.ign-logo { height: 33px; width: auto; } #ign-logo-wrap { position: absolute; left: 50%; transform: translate(-50%); top: 25%; z-index: 500; } div.logodate { font-size: 20px; font-weight: 700; max-width: 280px; display: none; vertical-align: middle; height: 44px; } .right-rail { display: block; } .extramenu { cursor: pointer; } .selector .more { display: none; } .selector.active .more { display: block; } .region { display: block; padding-bottom: 10px; text-align: center; font-size: 30%; } .editions.desktop { display: none; } .dropdown-arrow .icon-down-arrow {stroke: #bf1313; } .filterlist { padding: 0; margin: 0; } #loginwrapper { display: none; } #logomenu { position: fixed; top: 0; left: 0; background: #fff; height: 100%; width: 100%; overflow-y: scroll; overflow-x: visible; -webkit-transition: opacity 300ms ease,visibility 0s ease 300ms; transition: opacity 300ms ease,visibility 0s ease 300ms; transition-delay: 0s, 300ms; -webkit-box-shadow: 0 2px 34px 0 rgba(0, 0, 0, 0.15); box-shadow: 0 2px 34px 0 rgba(0, 0, 0, 0.15); margin: -135px 0 0 -50px; padding: 50px; padding-top: 125px; transform-origin: 0% 0%; transform: translate(-100%, 0); transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1); } #logomenu li { border-top-color: rgba(37, 38, 39, 0.15); border-top-style: solid; border-top-width: 2px; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; margin: 0; } #logomenu li.browse-ign { color: #252627; font-weight: 900; font-size: 1.5em; line-height: 1.17; padding: 16px; border-top: 0; } #logomenu li a { color: #252627; font-size: 0.9em; width: 100%; display: inline-block; text-transform: capitalize; white-space: pre; padding: 16px; } ul#logomenu li.search, ul#logomenu li.myign { display: flex; padding: 16px; } #zdlogoblue { width: 65px; } .toggletopmore, ul#logomenu li.more { display: none; } .toggletopmore { cursor: pointer; } .toggletopmore.active { color: #bf1313; } .toggletopmore.active .dropdown-arrow .icon-down-arrow { stroke: #bf1313; -webkit-transform: rotate(-180deg); -ms-transform: rotate(-180deg); transform: rotate(-180deg); } #logomenu li.myLogin { display: none; } ul#logomenu li:nth-child(n+8) { display: none; } ul#logomenu li.extramenu:nth-child(n+8) { display: block; } ul#logomenu li.extramenu { display: block; } .search-modal .button { display: none; } .search-modal .search-input #search-input { font-size: 20px!important; } #search-modal-container .page-content { top: 18%; } .menu-editions { display: block!important; text-align: center!important; line-height: 60px; } .dropdown-arrow { margin-left: 5px; background: none; } .dropdown-arrow .icon-down-arrow { display: inline-block; font-size: 9px; vertical-align: middle; transition: transform .1s linear; -webkit-transform: rotate(0); -ms-transform: rotate(0); transform: rotate(0); stroke: #252627; } .browse-ign-label { display: block; } #headermenuwrapper { position: static; width: 100%; } #headermenuwrapper #menuToggle { padding: 15px; } #headermenuwrapper input { display: block; width: 40px; height: 40px; position: absolute; top: -7px; left: -5px; cursor: pointer; opacity: 0; z-index: 9999; -webkit-touch-callout: none; } #headermenuwrapper #menuToggle span { display: block; width: 22px; height: 2px; margin-bottom: 4px; position: relative; background: #000; border-radius: 3px; z-index: 1; transform-origin: 4px 0px; transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease; } #headermenuwrapper #menuToggle span:first-child { transform-origin: 0% 0%; } #headermenuwrapper #menuToggle span:nth-last-child(2) { transform-origin: 0% 100%; } #toploginm { width: 80%; margin: 0 auto; text-align: center; display: block; padding: 8px 20px 8px 20px; color: #FFF; border-radius: 4px; background-color: #bf1313; font-weight: bold; line-height: 1em; } #toploginm a.lightbox.main { color: #FFF; line-height: 1em; padding: 0; } #toploginm div.usermenu { display: none; } #toploginm img.userIcon { height: 36px; border-radius: 50%; vertical-align: middle; } #toploginm .loggedin a { font-size: 18px; } .myLogin { background-color: #f4f4f4; padding: 18px; } #headerlogo { max-width: 120px; } #headermenuwrapper { font-size: 20px; color: #252627; list-style-type: none; text-align: right; margin: 0px; padding: 0px; position: absolute; right: 0px; white-space: nowrap; } #headermenuwrapper.menuDisplay { z-index: 501; } #headermenuwrapper.menuDisplay #logomenu { transform: none; } #headermenuwrapper.menuDisplay #menuToggle { cursor: pointer; float: right; padding-top: 10px; height: 40px; } #headermenuwrapper.menuDisplay #menuToggle span { opacity: 1; transform: rotate(45deg) translate(-2px, -1px); } #headermenuwrapper.menuDisplay #menuToggle span:nth-last-child(3) { opacity: 0; } #headermenuwrapper.menuDisplay #menuToggle span:nth-last-child(2) { transform: rotate(-45deg) translate(-11px, 11px); } #headermenuwrapper.menuDisplay #searchwrapper { display: none; } #logomenu > li, #searchwrapper > li, #loginwrapper > li { vertical-align: middle; text-align: left; margin-left: 20px; } body.rtl #searchwrapper { position: absolute; left: 0; top: 5px; right: unset; } body.rtl #headermenuwrapper.menuDisplay #menuToggle { float: left; } body.rtl #logomenu > li, #searchwrapper > li, #loginwrapper > li { text-align: right; } body.rtl #ignheader .search-modal .search-input #search-input { margin-left: 0; margin-right: 24px; } body.rtl #ignheader #search-close { margin-right: 0; margin-left: 10px; } #searchwrapper li.search > svg { display: block; height: 32px; cursor: pointer; padding-right: 10px; } #searchwrapper { position: absolute; right: 0; top: 5px; } #searchwrapper { display: inline-block; vertical-align: middle; height: 44px; padding: 0; margin: 0; list-style: none; line-height: 40px; } #gheader { display: none; visibility: hidden; } #gheader ul { padding: 0 120px; height: 20px; margin: 0px auto; display: flex; max-width: 1200px; } #gheader li { display: inline-block; flex-grow: 1; text-align: center; border-right: 1px solid rgba(37, 38, 39, 0.15); text-overflow: ellipsis; overflow: hidden; } body.rtl #gheader li { border-left: 1px solid rgba(37, 38, 39, 0.15); border-right: 0; } #gheader li a { color: #252627; font-size: 14px; line-height: 17px; height: 17px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-decoration: none; } #gheader li:last-child { border-right: 0; border-left: 0; } #topmore { z-index: 999999; display: none; position: absolute; top: 60px; left: 0px; width: 100%; min-height: 0px; overflow: hidden; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08); transition: height 0.2s linear 0s; height: 0px; background-color: #f4f4f4; border: 1px solid rgba(37, 38, 39, 0.15); top: 96px; } #topsearchbar { display: none; } #ul_nav { display: none; } #toplogin a.lightbox.main, #toplogin a.logout { display: block; padding: 8px 20px 8px 20px; color: #FFF; border-radius: 4px; background-color: #bf1313; font-weight: bold; line-height: 1em; text-align: center; } #toplogin div.usermenu { display: none; } #toplogin div.usermenu ul { list-style-type: none; position: absolute; background-color: #f4f4f4; padding: 0; border-radius: 2.4px; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08); border: 1px solid rgba(37, 38, 39, 0.15); z-index: 1; top: 100%; flex-direction: column; min-width: 250px; margin-left: -110px; } #toplogin div.usermenu ul:after { border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-bottom-color: #f4f4f4; border-width: 5px; right: 116px; bottom: 100%; } #toplogin div.usermenu ul:before { border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; border-bottom-color: rgba(37, 38, 39, 0.15); border-width: 6px; right: 115px; bottom: calc(101%); } #toplogin div.usermenu ul li { padding: 12px; } #toplogin div.usermenu ul li a { font-size: 16px; } #toplogin div.usermenu ul li:last-child { border-top: 1px solid rgba(37, 38, 39, 0.15); } #toplogin div.usermenu ul li:first-child { border-top: 0px; } #loginwrapper:hover #toplogin.loggedin div.usermenu { display: block; } #toplogin img.userIcon { height: 36px; border-radius: 50%; vertical-align: middle; margin-right: 10px; } #toplogin .loggedin a { font-size: 18px; } #toplogin a { color: #252627; } #topmore.active, #topsearchbar.active { display: block; height: auto; } #topmore div.wrap { display: table; width: 100%; min-height: 200px; margin-top: 25px; } #topmore div.col { display: table-cell; vertical-align: top; width: 13%; position: relative; padding-left: 10%; } #topmore div.col b { color: #bf1313; text-transform: uppercase; font-size: 16px; font-family: ff-din-round-web-pro, sans-serif; font-weight: bold; letter-spacing: .8px; margin: 0 0 12px 0; } #topmore div.col.browseabout { width: 25%; border-right: 1px solid rgba(37, 38, 39, 0.2); padding-left: 0px; padding-right: 4%; } #topmore div.col.browseabout li { max-width: 80%; } #topmore div.col ul { margin: 0px; padding: 0px; list-style-type: none; } #topmore div.col ul li { display: block; vertical-align: top; padding: 0px; margin: 0px; height: 36px; color: #252627; font-size: 20px; line-height: 36px; overflow: hidden; text-overflow: ellipsis; } #topmore div.col ul li a { color: #252627; } #topmore div.wrap.legal { display: block; padding: 20px; min-height: 25px; display: flex; align-items: center; } #topmore div.legal .licensee { display: block; font-size: 15px; vertical-align: top; padding-left: 15px; padding-right: 15px; } #topmore div.legal .licensee a { color: #252627; } #footer div.legal { display: flex; align-items: center; } .selector { color: #bf1313; text-transform: uppercase; font-weight: bold; padding: 0px 0px 0px 0px; border-top: 2px solid rgba(37, 38, 39, 0.15); overflow: hidden; font-size: 16px; } .selector .col ul { font-size: 20px; font-weight: normal; margin: 0; padding: 0; background-color: rgba(37, 38, 39, 0.05); } .selector .subtitle { padding: 10px ; line-height: 50px; } footer { display: none; } #footer.limitedScroll { display: block; background: #F5F5F5; padding: 4px; font-size: small; text-align: center; } #footer.limitedScroll a { color: #BF1313; } a.commentscount:before { content: url('/s/ign/comments.svg'); display: inline-block; vertical-align: middle; margin-left: 10px; margin-right: 5px; } ul#globalheader li:nth-child(n+5) { display: none; } ul#logomenu li.more, ul#logomenu li.search, ul#logomenu li.myign { display: none; } #headermenuwrapper input { display: none; } #toploginm { display: none; } .search-input { flex: 1 1 auto; width: auto; } .page-content { position: relative; top: 18%; } .button-primary { background-color: #bf1313; border-radius: 4px; color: #fff; cursor: pointer; font-size: 20px; font-weight: bold; letter-spacing: -0.5px; white-space: nowrap; padding: 8px 20px 8px 20px; border: 0; } /* Broll */ div.tbl { display: table; position: relative; margin-right: 320px; } section.broll.hasAd div.adk2 { position: absolute; right: 0px; width: 300px; } section.broll { display: block; padding: 25px 0px; margin: 0px auto; background-color: #FFF; } section.broll + section.broll { padding: 0px; } section.broll > h2 { border-bottom: solid 1px rgba(37, 38, 39, 0.15); } section.broll article { display: table-row; position: relative; margin-left: 0px; } section.broll div.t { display: table-cell; width: auto; box-sizing: border-box; vertical-align: top; width: 25%; max-width: 280px; margin: 0px; position: relative; } section.broll div.m { display: table-cell; vertical-align: top; padding: 0px 20px; width: 75%; box-sizing: border-box; } section.broll div.m, section.broll div.t { padding-top: 25px; padding-bottom: 25px; border-bottom: solid 1px rgba(37, 38, 39, 0.15); } section.broll img.thumb { display: block; width: 100%; border-radius: 4px; max-height: 160px; max-width: 280px; object-fit: cover; } section.broll h3 { margin: 6px 0px; } section.broll h3 a { font-size: 18px; line-height: 20px; font-weight: 700; margin: 0; color: #252627; text-decoration: none; } section.broll h3 a:hover { text-decoration: underline; } section.broll div.m time, section.broll div.m a.comments { font: 14px 'ff-din-round-web-pro', sans-serif, bold; line-height: 18px; color: #bf1313; text-decoration: none; } section.broll .thumb.score-wrapper .article_type { position: absolute; bottom: 0; left: 0; padding: 2px 5px; font-size: 13px; background-color: #bf1313; color: #FFF; margin: 0 0 10px 6px; border-radius: 4px; } section.broll img.thumb:hover { opacity: 0.85; } section.broll div.m > p { display: block; margin: 0px; } section.broll .videobtn { position: absolute; background-color: #bf1313; color: #FFF; width: 52; height: 52px; margin-top: -70px; margin-left: -6px; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1); border: solid 2px rgba(0, 0, 0, 0.1); padding: 9px; } section.broll article.VIDEO > a:after { content: url('/s/ign/playButton.svg'); position: absolute; bottom: 2px; left: 2px; } /* Blogroll video play button */ section.broll .video .duration { background-color: #bf1313; border-radius: 4px; bottom: 0; left: 0; margin: 0 0 10px 6px; position: absolute; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1); border: solid 2px rgba(0, 0, 0, 0.1); display: flex; padding: 5px; } section.broll .video .duration-text { color: #fff; font-family: 'ff-din-round-web-pro', sans-serif; font-weight: bold; letter-spacing: 1px; align-self: flex-end; } section.broll .video .icon-playhead { background-size: 100%; height: 1em; width: 1em; margin: 0 8px 0 0; font-size: 22px; line-height: 22px; align-self: center; } body.rtl section.broll .video .duration { left: auto; right: 0; margin: 0 6px 6px 0; }body.rtl section.broll .video .icon-playhead { margin-right: 0; margin-left: .5rem; } body.rtl #toplogin img.userIcon { margin: 0 0 0 10px; } body.rtl #headermenuwrapper { right: auto; left: 0px; } div#toplogin { padding: 0; } body.rtl .toggletopmore .dropdown-arrow { margin-right: 5px; margin-left: auto; } body.rtl section.broll .thumb.score-wrapper .article_type{ position: absolute; bottom: 0; right: 0; left: unset; padding: 2px 5px; font-size: 13px; background-color: #bf1313; color: #FFF; margin: 0 6px 10px 0; border-radius: 4px; } body.rtl #topmore div.col.browseabout { border-left: 1px solid rgba(37,38,39,0.2); border-right: 0; padding-right: 0px; padding-left: 4%; } body.rtl #topmore div.col { padding-right: 10%; padding-left: 0; } /* Scoring */ .hexagon-wrapper.side-wrapper .hexagon.side-wrapper { height: 50%; left: 6.7%; position: relative; top: 25%; width: 86.6%; z-index: 2; } body.rtl .hexagon-wrapper.side-wrapper .hexagon.side-wrapper { left: -6.7%; } .hexagon-wrapper.side-wrapper .hexagon.side-wrapper, .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:after, .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:before { background-color: #bf1313; } .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:before { -webkit-transform: scale(1, 0.579) translate(70.71136%, -70.71136%) rotate(45deg); -ms-transform: scale(1, 0.579) translate(70.71136%, -70.71136%) rotate(45deg); transform: scale(1, 0.579) translate(70.71136%, -70.71136%) rotate(45deg); } .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:after { -webkit-transform: scale(1, 0.579) translate(70.71136%, 70.71136%) rotate(45deg); -ms-transform: scale(1, 0.579) translate(70.71136%, 70.71136%) rotate(45deg); transform: scale(1, 0.579) translate(70.71136%, 70.71136%) rotate(45deg); } body.rtl .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:before { -webkit-transform: scale(1,0.579) translate(30.35568%,-70.71136%) rotate(45deg); -webkit-transform: scale(1,0.579) translate(30.35568%,-70.71136%) rotate(45deg); -ms-transform: scale(1,0.579) translate(30.35568%,-70.71136%) rotate(45deg); transform: scale(1,0.579) translate(30.35568%,-70.71136%) rotate(45deg); } body.rtl .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:after { -webkit-transform: scale(1,0.579) translate(30.35568%,70.71136%) rotate(45deg); -webkit-transform: scale(1,0.579) translate(30.35568%,70.71136%) rotate(45deg); -ms-transform: scale(1,0.579) translate(30.35568%,70.71136%) rotate(45deg); transform: scale(1,0.579) translate(30.35568%,70.71136%) rotate(45deg); } .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:after, .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:before { content: ''; display: block; height: 122.46%; position: absolute; -webkit-transform-origin: 0 0; -ms-transform-origin: 0 0; transform-origin: 0 0; width: 70.71%; z-index: 1; } .hexagon-wrapper.side-wrapper .hexagon-content.side-wrapper { color: #fff; font-family: 'ff-din-round-web-pro', sans-serif !important; text-transform: uppercase; margin: 0.2em 0 0 0; } .hexagon-wrapper.side-wrapper { font-size: 2rem; margin: 0; position: relative; height: 2.7em; width: 2.7em; min-width: 2.7em; display: inline-block; } .score-wrapper { position: relative; display: block; } .score-wrapper .video-duration, .score-wrapper .review-score { position: absolute; bottom: 0; left: 0; margin: 24px; z-index: 2; } .hexagon-wrapper.side-wrapper .hexagon-content-wrapper.side-wrapper { align-items: center; display: flex; height: 100%; justify-content: center; position: absolute; width: 100%; z-index: 3; } .little { height: 2em!important; width: 2em!important; min-width: 2em!important; font-size: 1.5rem!important; margin: 10px!important; } /* Adtech */ /* Pogo styling is there just as a backup if pg fails restyiling */ div.zad{ display: flex; justify-content: center; align-items: center; transition: height 0.2s; margin-bottom: 10px; text-align: center; margin: 0px auto; } div.zad.billboard, div.zad.top { padding-top: 80px; min-height: 100px; } div.zad.halfpage, div.zad.sidebar {min-height:600px; } .zad:not(.billboard){background:#f2f2f2; } @media (min-width: 930px) { div.zad.billboard, div.zad.top { min-height: 250px; } } #BackendInPageMenu { display: none; } .adkit iframe { max-width: 100%; } @media (max-width: 1600px) { body.hasSkin section.vspotlight, body.hasSkin section.popular, body.hasSkin section.broll, body.hasSkin section.stripe, body.hasSkin .hspotlight, body.hasSkin .list-content, body.hasSkin .wrap { max-width: 1098px; padding: 16px 10px; box-sizing: border-box; } body.hasSkin .page-content { max-width: 1098px; } body.hasSkin section.hero article { width: 1098px; max-width: 1098px; } } @media (max-width: 1200px) { body.hasSkin section.hero article { width: initial; } } /* DESKTOP */ @media (min-width: 930px) { body { padding-top: 152px; } body, html { overflow-x: unset; } div.logodate { font-size: 20px; font-weight: 700; max-width: 280px; display: inline-block; vertical-align: middle; height: 44px; } #ignheader { max-width: 1200px; margin: 0px auto; height: auto; position: relative; padding: 26px 12px; box-shadow: none; } #ignheader div.editions { display: none; } div#toplogin { padding-right: 12px; } body.rtl div#toplogin { padding-right: 0; padding-left: 12px; } #gheader { display: block; visibility: unset; } #gheader ul { padding: 0 60px; } #topmore div.col { padding-left: 3%; } body.rtl #topmore div.col { padding-right: 3%; } #ign-logo-wrap { display: inline-flex; position: static; transform: none; } #headermenuwrapper { font-size: 20px; color: #252627; list-style-type: none; text-align: right; margin: 0px; padding: 0px; position: absolute; right: 0px; white-space: nowrap; width: unset; } #headermenuwrapper #menuToggle span { display: none; } #headermenuwrapper #menuToggle { padding: 0px; } #headerlogo, #logomenu, #searchwrapper, #loginwrapper, body.rtl #headerlogo, body.rtl #logomenu, body.rtl #searchwrapper, body.rtl #loginwrapper { display: inline-block; vertical-align: middle; height: 44px; padding: 0; margin: 0; position: static; } ul#logomenu li a { padding: 0; } ul#logomenu { position: static; display: inline-block; vertical-align: middle; height: 44px; padding: 0; margin: 0; transform: none; overflow: hidden; box-shadow: none; background: transparent; line-height: normal; width: auto; } ul#logomenu li {border: none; } ul#logomenu > li, #searchwrapper > li, #loginwrapper > li { display: inline-block; } ul#logomenu li:nth-child(n+8) { display: none; } ul#logomenu li.extramenu:nth-child(n+8) { display: none; } ul#logomenu li.more, ul#logomenu li.search, ul#logomenu li.myign { display: inline-block; } #searchwrapper { line-height: 34px; } #searchwrapper li.search > svg { padding-right: 0px; } header.small { border-bottom: 1px solid #d1d5db; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08); } header.small #ignheader { padding: 8px 0px 7px 0px; } header.small #gheader { padding: 0px; height: 0px; visibility: hidden; } header.small #topmore, header.small #ignheader .editions ul { top: 59px; } ul#logomenu li.extramenu { display: none; } .right-rail { display: block; } .browse-ign-label { display: none; } .region { display: none; } .browseabout .region {display: block; } .browseabout .region select { color: #4e6187; background-color: #f6f6f8; border: solid 1px undefined; border-radius: 4px; font-size: 16px; font-weight: bold; -webkit-appearance: none; -moz-appearance: none; appearance: none; padding: 8px 12px; width: 100%; outline: none; margin-top: 5px; } .browseabout .region select:not(:disabled) { background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='12' height='12' xmlns='http://www.w3.org/2000/svg'%3e%3cg stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round' stroke='%234e6187'%3e%3cpath d='M8.82842712 5L6 7.82842712 3.17157288 5'/%3e%3c/g%3e%3c/svg%3e"); background-size: 18px; background-position: calc(100% - 12px) center; background-repeat: no-repeat; } body.rtl .browseabout .region select:not(:disabled) { background-position: 12px; } .editions.desktop { display: block; } div.zad.billboard { padding-top: 12px; } body.rtl #headermenuwrapper { right: auto; left: 0; width: unset} } /* LARGE SCREEN */ @media (min-width: 1281px) { svg.ign-logo { height: 44px; } #headerlogo { max-width: 150px; } #ignheader .editions p { font-size: 28px; line-height: 44px; } #ignheader div.editions { display: block; } div#toplogin { padding-left: 0; padding-right: 0; } #gheader ul { padding: 0 120px; } #topmore div.col { padding-left: 10%; } body.rtl #topmore div.col { padding-right: 10%; } } @media (min-width: 1921px) { #ignheader .editions p { font-size: 28px; line-height: 44px; } #ignheader .editions ul { position: fixed; left: 0px; width: 100%; box-sizing: border-box; padding: 25px 20%; } }</style>
+
+
+<style type="text/css">:root { font-size: 16px; font-family: 'ars-maquette-web',sans-serif; color: #252627; } .right-rail .ad-wrapper { position: sticky; position: -webkit-sticky; top: 65px; margin-top: 35px; } .bottom-wrapper { position: sticky; position: -webkit-sticky; top: 96px; margin-top: 64px; } .page-content img { max-width: 100%; height: auto; width: 100%; } .page-content #id_text img { cursor: pointer; } .page-content { width: 100%; margin: 0 auto; } .articleBody { margin: 0 24px; } .article-headline h1 { font-weight: 900; font-size: 2.125em; line-height: 1.12; margin: 0 0 15px 0; color: #252627; } h1 a, a.evidence { color: #252627; } .mobileArticleAds.mrec1 { display:block; } .page-content .three-column div.right-rail { position: unset; } .desktopArticleAds.mrec1 { display: none; } .block { clear: both; } .strong { font-weight: bold; } .article-sub-headline h3 { font-weight: normal; font-size: 1.25rem; line-height: 1.08; margin: 20px 0 0 0; color: #838383; } #imageInfo-0 { min-height: 30px; } .by-reviewer { margin-right: 5px; font-weight: 700; font-size: 22px; line-height: 1.25; } .reviewer.hcard { margin-right: 5px; font-weight: 700; font-size: 22px; line-height: 1.25; color: #bf1313; text-decoration: underline; text-underline-position: under; } .reviewer.hcard a:visited { color: #bf1313; } .cta_shown { pointer-events: all; display: flex; justify-content: center; transition: width .5s ease-in-out, opacity 0.2s ease-in-out; background-color: rgb(217, 26, 26); cursor: pointer; } .cta-button { position: absolute; font-size: 16px; line-height: 23px; z-index: 9; display: flex; align-items: center; cursor: pointer; color: #fff; background-color: rgb(217, 26, 26); padding: 8px 23px; border-radius: 57px; max-width: 60%; bottom: 0; transform: translate(0, 50%); } .cta-button__text { padding-left: 8px; } .cta-icon { margin: auto; margin-right: 8px; height: 26px; display: flex; align-items: center; align-content: center; justify-content: center; } #article_video_bottom { margin: 0 auto; margin-bottom: 80px; margin-top: 80px; max-width: 625px; width: 100%; } #article_video_bottom iframe { border-radius: 7px; } #bottom-list-reviews .article-author { margin-bottom: 20px; } .author-byline-images img { border-radius: 20px; box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12); width: 35px; height: 35px; } .author-byline-images .roundendimg { border-radius: 20px; box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12); width: 35px; height: 35px; } .article-authors .reviewer a { -webkit-text-decoration: underline; text-decoration: underline; color: #bf1313; } .page-content .article-author { margin-top: 24px; margin-bottom: 24px; background-color: #f6f6f8; padding: 12px 0; width: 100%; margin-right: 18px; display: flex; justify-content: center; align-items: center; margin-bottom: 20px; } .article-author img.roundendimg { width: 100%; height: 100%; max-width: 76px; max-height: 76px; border: 4px solid white; border-radius: 50%; } .author-name { display: block; flex-basis: 65%; margin: 0 0 0 18px; } .reviews-author { display: grid; grid-template-columns: repeat(3,1fr); grid-column-gap: 24px; } .reviews-author .review-author:nth-child(4) { display: none; } .review-author { border: 1px solid rgba(37, 38, 39, 0.15); border-radius: 4px; padding: 12px 0; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; } .review-author a { color: #252627; line-height: 1.3; } .review-author .review-badge { padding: 0 12px; border-right: 1px solid rgba(37, 38, 39, 0.15); display: flex; align-items: center; } body.rtl .review-author .review-badge { border-right: 0; border-left: 1px solid rgba(37, 38, 39, 0.15); } .review-author .review-details { padding: 0 12px; flex: 1 1 55%; line-height: 1.5; min-width: 125px; align-items: center; display: flex; } .review-author .review-details:hover a { text-decoration: underline; text-underline-position: under; color: #4062bb; } .article-authors .author-byline-images { margin-right: 8px; } body.rtl .article-authors .author-byline-images { margin-right: 0; margin-left: 8px; } .article-authors .author-byline-images a:not(:first-child) { margin-left: -15px; } .articleHero { position: relative; background-color: #000; margin-top: 24px!important; } .articleHero .video:not(iframe) { width: 100%; min-height: 680px; display: block; position: relative; } .articleHero { position: relative; overflow: hidden; } .videoHero { padding-top: 56.25%!important; } .articleHero img { position: relative; width: 100%; height: auto; border: 0; } .articleHero iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; z-index: 9; } .articleHero { margin: 24px 0!important; overflow: hidden; border-radius: 4px; } iframe.vplayer { width: 100%; } .vplayer:not(iframe) { position: relative; overflow: hidden; padding-top: 56.25%; } .vplayer iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; } #id_text iframe { max-width: 100% !important; } .side-by-side { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; } .article-section { font-size: 1.125rem; line-height: 28px; } .article-section a { color: #3888c9; text-decoration: none; } .article-section h2 { font-size: 32px; } .article-section figure figcaption { font-size: 1.05rem; line-height: 22px; } article section.broll { display: block; margin: 0px auto; background-color: #FFF; padding: 0; } .article-byline .article-authors, .article-byline .article-modified-date, .article-byline .article-publish-date { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; } .article-publish-date { color: #838383; } .article-publish-date span, .article-modified-date span { margin: 0 5px; } .page-content > div:not(.ad-wrapper) { background: white; margin: 0px 0px; box-sizing:border-box; } .article-byline { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-flow: column wrap; -ms-flex-flow: column wrap; flex-flow: column wrap; width: 100%; color: #bf1313; margin-top: 18px!important; margin-bottom: 18px!important; } .article-byline .author-names .author-link { -webkit-text-decoration: underline; text-decoration: underline; color: #bf1313; } .article-content { padding-top: 5px; padding-bottom: 5px; } .object-breadcrumbs .article-object-link { display: inline-block; margin: 0 10px 0px 0; } .object-breadcrumbs a.article-object-link { font-family: 'Visby Round CF',sans-serif; font-size: 14px; text-transform: uppercase; font-weight: bold; -webkit-letter-spacing: 0.9px; -moz-letter-spacing: 0.9px; -ms-letter-spacing: 0.9px; letter-spacing: 0.9px; color: #bf1313; padding-bottom: 2px; border-bottom: solid 2px #bf1313; margin: 10px 0; } figure { width: 100%; padding: 0; margin: 0; } figcaption { font-style: italic; } h3 { font-size: 26px; font-weight: 900; margin: 0.4em 0; } #id_text > p, #id_text > figure, #id_text > iframe, #id_text aside {margin-bottom: 1.8rem} .article-section h3 { font-size: 26px; } .author-thumb-img { border: 0; } .article-byline .author-avatars .author-thumb img { width: 50px; height: 50px; border: 4px solid white; border-radius: 50%; } .progressive-image { background-color: #d1d5db; } .progressive-image.rounded { border-radius: 4px; } .article-byline .divider { margin-top: 0; margin-bottom: 12px; } .divider { border-bottom: 1px solid rgba(37,38,39,0.15); margin: 18px 0 24px 0; margin-top: 18px; margin-bottom: 24px; width: 100%; } .divider.second { display: none; } .primary-object { margin-top: 18px; max-width: 100%; } .primary-object img { width: 102px; border-radius: 4px; } .primary-object h3 { margin-bottom: 10px; padding-left: 10px; box-sizing: border-box; } main div.primary-object, main div.object-summary, main section.object-summary.embed, main div.page-content { margin: 0px 0px !important; } .object-info { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-flow: row wrap; -ms-flex-flow: row wrap; flex-flow: row wrap; display: grid; grid-template-columns: auto 1fr; padding-top: 24px!important; padding-bottom: 24px!important; background-color: #f6f6f8! important; -webkit-transition: height 0.1s linear; transition: height 0.1s linear; height: auto; } .object-info .evidence { padding-bottom: 8px!important; cursor: pointer; font-size: 24px; font-weight: bold; -webkit-letter-spacing: -0.33px; -moz-letter-spacing: -0.33px; -ms-letter-spacing: -0.33px; letter-spacing: -0.33px; } .object-details { background-color: #f6f6f8!important; color: #252627; } .object-details .datetime { text-transform: lowercase; } .object-details .txt { margin-right: 10px; } body.rtl .object-details .txt {margin-right: 0px; margin-left:10px; } .object-details .evidence { margin: 0; padding: 0; line-height: 1.08; } .object-details h2 { margin: 0; line-height: 0.7; } .object-info .object-title { margin-top:0; padding-left: 10px; } body.rtl .object-info .object-title {padding-right: 10px; } .object-summary, .object-summary-mini { background-color: #f6f6f8; width: 100%; } .object-thumbnail { grid-row: 1 / 3; background: none!important; } .object-summary.embed .object-details { padding: 0px 8px; } .object-info .platformdivider { font-size: 14px; margin-top: 4px; } .comment-count { font-family: 'Visby Round CF',sans-serif; color: #bf1313; white-space: nowrap; } .content-item .comment-count { content: '-'; display: inline-block; margin: 0 0px; } .comment-count .icon-comment { top: 3px; position: relative; margin: 0 0.2em 0 0; } .icon-comment { width: 16px; height: 16px; } svg:not(:root) { overflow: hidden; } .content-item .item-details { width: 100%; position: relative; font-size: 15px; } .content-item .item-data { font-size: 14px; font-weight: 700; line-height: 1.75em; color: #bf1313; font-family: 'Visby Round CF',sans-serif; } .content-item .item-title { margin: 0; font-family: 'ars-maquette-web',sans-serif; color: #252627; font-weight: bold; line-height: 1.33em; font-size: 1.17em; } .progressive-image.rounded { border-radius: 4px; } .progressive-image.expand { width: 100%; height: 100%; } .article-review-content .progressive-image.expand { height: 100%; width: auto; }; .progressive-image { background-color: #d1d5db; } .ign-recommends-headline { font-size: 24px; line-height: 1.25; font-weight: 900; margin-top: 18px; margin-bottom: 18px; } .ign-recommends-headline .icon-logo { max-width: 50px; display: block; height: 30px; } .ign-recommends-item .item-title-link { font-size: 15.2px; font-weight: 500; line-height: 1.33em; color: #252627; } .primary-object .ign-recommends-headline { margin-bottom: 18px; padding-right: 20px;font-size: 26px; line-height: 1.25; font-weight: 900; } body.rtl .primary-object .ign-recommends-headline {padding-left: 20px; } .icon-logo { height: 100%; width: auto; max-width: 182px; } .squarepromo { background: #d3222a; } .commerceLinks { padding: 0; } ul.commerceLinks li { background-color: #d3222a; min-height: 70px; padding: 10px; display: table; font-size: 12px; } ul.commerceLinks img { margin: 0px 10px 0px 10px; -moz-box-shadow: -3px 3px 3px rgba(0,0,0,0.2); -webkit-box-shadow: -3px 3px 3px rgba(0,0,0,0.2); box-shadow: -3px 3px 3px rgba(0,0,0,0.2); max-width: none; width: 80px; } ul.commerceLinks p { width: 140px;height: 70px; color: white; display: table-cell; vertical-align: middle; } ul.commerceLinks a.r { width: 85px; text-align: center; padding: 0 10px 0 0; display: table-cell; vertical-align: middle; text-decoration: none; font-weight: bold; color: black; background: white; padding: 5px; margin: 0 0 0 5px; border-radius: 12px; } ul.commerceLinks a.c { font-size: 15px; color: #FFF; } footer { margin: auto; padding-bottom: 30px; width: auto; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; } footer .wrap { max-width: 960px; margin-left: auto; margin-right: auto; width: 100%; } #footerMain { border-top: 1px solid #dfdfdf; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; padding: 0 24px; padding-top: 24px; } #footer.limitedScroll { display: flex; background: #F5F5F5; padding: 4px; font-size: small; text-align: center; } .aspect-ratio-16-9 { padding-bottom: 56.25%; } .aspect-ratio-container { width: 100%; position: relative; } .aspect-ratio-child { position: absolute; height: 100%; width: 100%; overflow: hidden; } .article-review-content .aspect-ratio-child { position: absolute; height: 100%; width: 100%; text-align: center; } .content-item .item-body { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; height: 100%; } /* text widgets */ #id_text aside.editorsnote { display: block; background: #f2f2f2; text-decoration: none; border-radius: 4px; padding: 4px 24px; margin: 0px; color: black; } #id_text aside.editorsnote a { color: #3888c9; text-decoration: none; } #id_text .articlesummary { border-radius: 4px; padding: 4px; background-color: #f2f2f2; } #id_text .articlesummary li { margin-bottom: 0.5em; } #id_text .productwidget-wrapper,#id_text .commerceblock-wrapper { display: flex; border: 1px solid #d1d5db; padding: 20px; width: 100%; /*max-width: 768px; */ margin-left: auto; margin-right: auto; box-sizing: border-box; border-radius: 8px; gap: 20px; } /* #id_text div.commerceblock-wrapper { background-color: #f1f1f1 } */ #id_text .productwidget-wrapper .leftcontainer, .commerceblock-wrapper .leftcontainer { display: grid; width: 100%; } #id_text .productwidget-container { /*max-height: 250px;*/ } #id_text .productwidget-wrapper .hidden, #id_text .commerceblock-wrapper .hidden { display: none; } #id_text h4.productwidget-title, #id_text h4.commerceblock-title { margin: 4px auto; color: black; font-size: 20px; line-height: 32px; width: 100%; font-family: 'Visby Round CF',sans-serif; /* max-width: 480px; */ } /* #id_text h4.commerceblock-title { color: #bf1313; } */ #id_text div.productwidget-content, #id_text div.commerceblock-content { margin: 0px auto 25px auto; /*max-height: 168px;*/ overflow: hidden; font-size: 14px; line-height: 18px; width: 100%; /*max-width: 480px;*/ } #id_text div.commerceblock-content { margin-bottom: 10px; } #id_text h3.productwidget-header, #id_text h3.commerceblock-header{ color: #000; font-size: 20px; } #id_text a.productwidget-cta, #id_text a.commerceblock-cta { border-radius: 4px; background-color: #fcbc70; color: #333; font-size: 14px; font-weight: bold; /* -webkit-appearance: button; -moz-appearance: button; appearance: button; */ text-align: center; padding: 1px 5px; display: block; align-self: end; white-space: nowrap; } #id_text a.productwidget-cta:hover, #id_text a.commerceblock-cta:hover { background-color: #f3a848; } #id_text img.productwidget-image, #id_text img.commerceblock-image { width: 400px; height: auto; } #id_text div.price-container { text-align: left; padding-bottom: 13px; font-family: 'Visby Round CF',sans-serif; } #id_text span.commerceblock-price, #id_text span.commerceblock-currency { font-size: 17px; color: #bf1313; font-weight: 700; } /* #id_text img.commerceblock-image { max-width: 300px; height: 100%; object-fit: cover; border-radius: 5px; } */ #id_text table#ratingsBoxTable { padding-top: 25px; } #id_text table#ratingsBoxTable td.txtC { width: 60px; } #id_text table#ratingsBoxTable .embed.image { width: auto; height: auto; } @media (max-width: 860px) { #id_text img.productwidget-image, #id_text img.commerceblock-image { margin: 0 auto; width: 100%; height: auto; } #id_text .commerceblock-wrapper .price-container { display: block; } #id_text .productwidget-wrapper, #id_text .commerceblock-wrapper { display: block; } #id_text a.productwidget-image-cta, a.commerceblock-image-cta { margin: 0px; } } /* sharer */ ul.sharer { display: block; padding: 12px 0 0 0; margin: 0px; list-style-type: none; } ul.sharer li { display: inline-block; padding: 0px; margin: 5px 0px; margin-right: 5px; list-style-type: none; } ul.sharer li a { display: block; font-family: "ProximaNovaRegular"; font-weight: 500; line-height: 41px; text-rendering: optimizeLegibility; font-size: 15px; color: #FFF !important; } ul.sharer li svg { display: inline-block; vertical-align: middle; } ul.sharer li #sharePlus { display: inline-block; vertical-align: middle; width: 44px; height: 44px ; text-align: center; } ul.sharer li a.fb { background: #2d609b; } ul.sharer li a.ln { background: #006699; } ul.sharer li a.pn img { width: 25px; margin: 9px; } ul.sharer li a.pn { vertical-align: middle; display: inline-block; background: #e61e27; height: 44px; width: 44px; } ul.sharer li a.tw { background: #00c3f3; } ul.sharer li a.wa { display: block; background: #35b14f; } ul.sharer li a.shareToggle { background: #c5c5c5; } ul.sharer li a.wa.whatsapp_share { display: block; } ul.sharer .hide { display: none; } span.promoted { display: block; font-family: 'ars-maquette-web',sans-serif; font-size: 1em; color: #b5b5b5; margin: 0em 0px 2em 0px; line-height: 1.1em; } /* * Paginator */ .paginator { padding: 12px; text-align: right; } .paginator a, .paginator .current { background-color: #d3222a; border-color: rgba(0,0,0,0.15); font-size: 1.7em; display: inline-block; width: 40px; padding: 10px; font-weight: bold; color: #FFF; -webkit-box-shadow: 2px 2px 6px rgba(0,0,0,0.1); -moz-box-shadow: 2px 2px 6px rgba(0,0,0,0.1); box-shadow: 2px 2px 6px rgba(0,0,0,0.1); -moz-transition: all .3s; -ms-transition: all .3s; -o-transition: all .3s; -webkit-transition: all .3s; transition: all .3s; border-radius: 3px; } .paginator a { color: #FFF; border-color: rgba(0,0,0,0.15); display: inline-block; text-align: center; margin-right: 1px; } .paginator a.next, .paginator a.prev, .paginator a.next:hover, .paginator a.prev:hover { background: none; border: 0px; box-shadow: none; } .paginator a:hover { text-decoration: none; border-color: rgba(0,0,0,0.15); background-color: #bf1313; } .paginator a.current { color: #444; background-color: transparent; padding: 10px !important; border: 1px solid #ccc; } .paginator .disabled { display: none; } .articleBody iframe[src*="/embed"].gallery { min-height: initial; transition: height 0.4s; -webkit-transition: height 0.4s; } .articleBody iframe[src*="/embed"].gallery { max-width: 100%; width: 100%; } .articleBody iframe[src*="/embed"].gallery { background-color: #fff; height: 500px; border: 0px; margin: 0px; padding: 0px; } .duration { background-color: #bf1313; border-radius: 4px; bottom: 0; left: 0; margin: 0 0 10px 6px; position: absolute; box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1); border: solid 2px rgba(0,0,0,0.1); display: flex; padding: 5px; } .icon-playhead { background-size: 100%; height: 1em; width: 1em; align-self: center; margin: 0 8px 0 0; font-size: 22px; line-height: 22px; align-self: center; } .duration-text { color: #fff; font-family: 'ff-din-round-web-pro',sans-serif; font-weight: bold; letter-spacing: 1px; align-self: flex-end; } .review-score { position: absolute!important; bottom: 0; left: 0; margin: 24px; z-index: 2; } .hexagon-wrapper.side-wrapper .hexagon.side-wrapper, .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:after, .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:before { background-color: #bf1313; } .hexagon-wrapper.side-wrapper { font-size: 32px; margin: 0; position: relative; height: 2.2em; width: 2.2em; min-width: 2.2em; display: inline-block; } body:not(.rtl) .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:after { -webkit-transform: scale(1,0.579) translate(70.71136%,70.71136%) rotate(45deg); -webkit-transform: scale(1,0.579) translate(70.71136%,70.71136%) rotate(45deg); -ms-transform: scale(1,0.579) translate(70.71136%,70.71136%) rotate(45deg); transform: scale(1,0.579) translate(70.71136%,70.71136%) rotate(45deg); } body:not(.rtl ) .hexagon-wrapper.side-wrapper .hexagon.side-wrapper:before { -webkit-transform: scale(1,0.579) translate(70.71136%,-70.71136%) rotate(45deg); -webkit-transform: scale(1,0.579) translate(70.71136%,-70.71136%) rotate(45deg); -ms-transform: scale(1,0.579) translate(70.71136%,-70.71136%) rotate(45deg); transform: scale(1,0.579) translate(70.71136%,-70.71136%) rotate(45deg); } .review .hexagon-wrapper.side-wrapper { font-size: 5rem; margin: 0 auto; margin-bottom: 18px; } .article-review { background-blend-mode: multiply; background-image: linear-gradient(to bottom,#252627,#252627); margin-top: 24px; margin-bottom: 24px; color: #fff; } .title { color: #fff; font-size: 14px; font-weight: 900; line-height: 1; -webkit-letter-spacing: 1px; -moz-letter-spacing: 1px; -ms-letter-spacing: 1px; letter-spacing: 1px; text-transform: uppercase; } .article-review-content .title { vertical-align: super; } .image-wrapper { position: relative; } .image-wrapper .play-square { position: absolute; bottom: 0; margin: 6px; } .editors-choice { margin: 0 auto; border-radius: 4px; box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1); border: solid 2px rgba(0,0,0,0.1); color: #fff; background-color: #bf1313; padding: 6px; font-size: 14px; font-family: 'Visby Round CF',sans-serif; font-weight: bold; -webkit-letter-spacing: 0.9px; -moz-letter-spacing: 0.9px; -ms-letter-spacing: 0.9px; letter-spacing: 0.9px; line-height: 12px; text-align: center; width: 147px; } .score-text { font-size: 36px; text-transform: uppercase; font-weight: 900; -webkit-letter-spacing: -0.4px; -moz-letter-spacing: -0.4px; -ms-letter-spacing: -0.4px; letter-spacing: -0.4px; margin: 0 0 12px; line-height: 1.25; } .scoreboxPlatforms {margin: 15px 0px; border-top: 1px white solid; padding-top: 2px; } .blurb { line-height: 1.5; } .review { text-align: center; } h5.blocktitle { font-family: 'ars-maquette-web',sans-serif; font-size: 24px; font-weight: 900; color: #252627; margin: 12px 0; } .meta { font-size: 14px; margin-top: 8px; line-height: 25px; } .meta .developer { line-height: 1.2; float: left; margin-right: 18px; } .meta .publisher { line-height: 1.2; float: left; margin-right: 18px; } .meta .release_date { line-height: 1.2; float: left; margin-right: 18px; } body.rtl .meta .developer { float: right; margin-left: 18px; } body.rtl .meta .publisher { float: right; margin-left: 18px; } body.rtl .meta .release_date { float: right; margin-left: 18px; } .bold { font-weight: bold; } .article-section h2, .article-section h3, .article-section h4, .article-section h5 { color: #bf1313; } .articleBody .article-section aside h3 { color: #ffffff; } .article-section h5 { display: block; border-bottom: 1px solid #bf1313; margin: 0px 0px 10px 0px; padding: 0px 0px 10px 0px; width: 100%; font-size: 2.125rem; font-weight: 900; line-height: 1.25em; } .article-section h5::after { content: "“"; color: #bf1313; float: right; line-height: 88px; margin-top: 0px; } .articleBody h3, .articleBody .hdr-article { clear: none; border-width: 0!important; } .articleBody aside { background-color: #6e89b9; color: #fff; border-radius: 4px; padding: 0 36px; margin: 24px 0; overflow: hidden; } .articleBody aside h1 { margin: 36px 0 12px; line-height: 1.12; font-size: 2.25rem; font-weight: bold; } .articleBody aside a { color: #fff; background-image: linear-gradient(to top,rgba(0,0,0,0),rgba(0,0,0,0) 2px,#fff 2px,#fff 3px,rgba(0,0,0,0) 3px); transition: color 0ms; } @media (max-width: 860px) { .side-by-side { -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; } .side-by-side .bottom-content { -webkit-order: 2; -ms-flex-order: 2; order: 2; } .ign-recommends-item .item-thumbnail { margin: 5px 18px 0 0; -webkit-flex-shrink: 0; -ms-flex-negative: 0; flex-shrink: 0; -webkit-flex-basis: 40%; -ms-flex-preferred-size: 40%; flex-basis: 40%; } body.rtl .ign-recommends-item .item-thumbnail { margin-right: 0; margin-left: 18px; } .ign-recommends-item .content-item:first-child { padding-top: 0; } .ign-recommends-item .content-item { padding: 18px 0; border-bottom: solid 1px rgba(37,38,39,0.15); } ul.commerceLinks img { width: 70% } .review { margin-top: 36px; } .article-review { padding: 36px; } .three-column {display: flex; flex-direction: column; -ms-flex-direction: column; -webkit-flex-direction: column; } .three-column .bottom-content { -webkit-order: 2; -ms-flex-order: 2; order: 2; } .image-container { margin-top: 10px; } .article-byline { margin-bottom: 0px !important; } .article-byline > div, .article-byline > section { margin-bottom: 10px; } .articleBody iframe[src*="/embed"].gallery { min-height: 0; } .gallery-widget-lightbox.enabled .gallery-container { margin-right: 0px; } .gallery-widget-lightbox.enabled .pager-button { width: 36px; height: 36px; top: 40%; } .gallery-widget-lightbox.enabled .pager-button.left { left: 35px; } .gallery-widget-lightbox.enabled .pager-button.right { right: 35px; } .gallery-widget-lightbox.enabled .icon-arrow { width: 20px; height: 20px; } .articleBody aside h1 { font-size: 1.825rem; } .primary-object img { width: 115px; } .object-thumbnail { grid-row: 1 / span 2; } .object-title { grid-column: 2; } .object-details { grid-column: 1 / span 2; } .object-info div.meta, .object-info div.platformdivider { margin-top: 16px; border-top: 1px solid #d1d5db; padding-top: 16px; } .object-info div.platformdivider { border-bottom: 1px solid #d1d5db; padding-bottom: 16px; } .object-info .evidence { font-size: 20px; } .reviews-author { grid-gap: 12px; display: flex; flex-direction: column; } } @media (min-width: 560px) { .articleBody iframe[src*="/embed"].gallery { background-color: #fff; height: 560px; border: 0px; margin: 0px; padding: 0px; } } @media (min-width: 700px) { .articleBody iframe[src*="/embed"].gallery { background-color: #fff; height: 600px; border: 0px; margin: 0px; padding: 0px; } } @media (min-width: 700px) { .articleBody iframe[src*="/embed"].gallery { background-color: #fff; height: 640px; border: 0px; margin: 0px; padding: 0px; } } @media (min-width: 861px) { .article-headline h1 { font-size: 3.25em; } .article-sub-headline h3 { font-size: 26px; } .articleBody { padding-top: 24px } .side-by-side { width: 100%; display: grid; grid-template-columns: 1fr 318px; display: -ms-grid; -ms-grid-columns: 1fr 318px; } .side-by-side.article-content { grid-row: 1 / 4; } .side-by-side .right-rail { grid-column: 2; -ms-grid-column: 2; } .mobileArticleAds.mrec1 { display:none; } .desktopArticleAds.mrec1 { display: block; } div.zad.billboard { margin-top: unset; padding-top: 20px; } .three-column { display: grid; display: -ms-grid; grid-template-columns: 1fr 300px; -ms-grid-columns: 1fr 300px; grid-column-gap: 24px; } .article-section { font-size: 1.25rem; line-height: 32px; padding-right: 18px; } body.rtl .article-section { padding-left: 18px; } body.rtl .article-section { padding-left: 18px; } .article-section h3 { font-size: 32px; } .article-byline .article-authors, .article-byline .article-modified-date, .article-byline .article-publish-date { margin-right: 18px; margin-bottom: 18px; } body.rtl .article-byline .article-authors, .article-byline .article-modified-date, .article-byline .article-publish-date { margin-right: 0; margin-left: 18px; } .article-byline { -webkit-flex-direction: row; -ms-flex-direction: row; flex-direction: row; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; } .content-item .item-title { font-size: 16px; font-weight: 700; line-height: 24px; } .ign-recommends-item .content-item { margin-bottom: 24px; } .ign-recommends-item .item-thumbnail { margin: 0 10px 0 0; -webkit-flex-shrink: 0; -ms-flex-negative: 0; flex-shrink: 0; -webkit-flex-basis: 40%; -ms-flex-preferred-size: 40%; flex-basis: 40%; } body.rtl .ign-recommends-item .item-thumbnail { margin-right: 0; margin-left: 10px; } .article-review-content { display: -ms-grid; display: grid; -ms-grid-rows: auto 1fr; grid-template-rows: auto 1fr; -ms-grid-columns: 1fr 36px 1fr 36px 300px; grid-template-columns: 1fr 1fr 300px; grid-template-areas: 'image header review' 'image details review'; grid-column-gap: 36px; } .header { -ms-grid-row: 1; -ms-grid-column: 3; grid-area: header; padding: 19px 0; } .header .headline { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-align-items: center; -webkit-box-align: center; -ms-flex-align: center; align-items: center; } .header .headline .icon { -webkit-flex-shrink: 0; -ms-flex-negative: 0; flex-shrink: 0; } .header .headline .title { margin-left: 12px; } body.rtl .header .headline .title { margin-right: 12px; } .image-container { -ms-grid-row: 1; -ms-grid-row-span: 2; -ms-grid-column: 1; grid-area: image; -webkit-align-self: center; -ms-flex-item-align: center; -ms-grid-row-align: center; align-self: center; padding: 1px; } .review { -ms-grid-row: 1; -ms-grid-row-span: 2; -ms-grid-column: 5; grid-area: review; border-top-right-radius: 4px; border-bottom-right-radius: 4px; padding: 18px 0; display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-direction: column; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; text-align: center; } .details { grid-area: details; -ms-grid-row: 2; -ms-grid-column: 3; } .header .headline .icon .has-stroke { stroke: #fff; } .score-text { font-size: 28px; } .blurb { font-size: 14px; } .ign-recommends-item { display: flex; flex-wrap: wrap; } .related-left, .related-right { width: 50% } .object-info .meta div { display: inline-block; } .page-content > .affiliation-disclaimer {display: none; } .articleBody iframe[src*="/embed"].gallery { background-color: #fff; height: 500px; border: 0px; margin: 0px; padding: 0px; } } @media (min-width: 640px) { ul.sharer li a.wa.whatsapp_share { display: none; } } @media (min-width: 930px) { .page-content { max-width: 900px; } .articleBody { margin: 0 auto; } #id_text aside.editorsnote { padding: 4px 36px; } .article-content { padding: 5px; } .page-content > div:not(.ad-wrapper) { padding: 0 8px; } ul.sharer { padding-right: 8px; padding-left: 8px; } } @media (min-width: 1281px) { .page-content { max-width: 1200px; } #ignheader { max-width: 1200px } footer .wrap { max-width: 1200px; margin-left: auto; margin-right: auto; width: 100%; } .article-review-content { -ms-grid-columns: 1fr 36px 1fr 36px 350px; grid-template-columns: 1fr 1fr 350px; } .score-text { font-size: 36px; } .blurb { font-size: 18px; } .three-column .bottom-content { -ms-grid-column: 1 } .three-column .bottom-right-rail { -ms-grid-column: 2 } .three-column .right-rail { display: block; -ms-grid-column: 5; } .three-column { grid-template-columns: 1fr 300px; display: -ms-grid; -ms-grid-columns: 1fr 24px 300px; grid-column-gap: 24px; } #bottom-list-reviews { display: flex; } .article-author { justify-content: initial; } .author-name { display: flex; flex-direction: column; } #bottom-list-reviews .article-author { margin-bottom: 0px; } .articleBody iframe[src*="/embed"].gallery { background-color: #fff; height: 640px; border: 0px; margin: 0px; padding: 0px; } } /* Ad tech */ body.hasSkin .wrapper.articleBody { max-width: 1200px; margin: 0 auto; padding: 10px 20px; background-color: #FFF; } body.hasSkin .primary-object {margin: 0 auto; max-width: 1200px; } body.hasSkin .article-review {margin: 0 auto; max-width: 1200px; } body.hasSkin .article-byline {margin-bottom: 0px !important} @media (max-width: 1600px) { body.hasSkin .wrapper.articleBody {max-width: 1058px;margin: 0 auto; } body.hasSkin .primary-object {margin: 0 auto; max-width: 1058px; } body.hasSkin .article-review {margin: 0 auto; max-width: 1058px; } } /* Affiliation */ .affiliation-disclaimer { border: 1px #f2f2f2 solid; padding: 4px; box-sizing: content-box; }</style>
+
+
+<script type="text/javascript">
+  (function(b){b.loadCSS||(b.loadCSS=function(){});var c=loadCSS.relpreload={};c.support=function(){try{var a=b.document.createElement("link").relList.supports("preload")}catch(e){a=!1}return function(){return a}}();c.bindMediaToggle=function(a){function b(){a.addEventListener?a.removeEventListener("load",b):a.attachEvent&&a.detachEvent("onload",b);a.setAttribute("onload",null);a.media=c}var c=a.media||"all";a.addEventListener?a.addEventListener("load",b):a.attachEvent&&a.attachEvent("onload",b);setTimeout(function(){a.rel=
+"stylesheet";a.media="only x"});setTimeout(b,3E3)};c.poly=function(){if(!c.support())for(var a=b.document.getElementsByTagName("link"),e=0;e<a.length;e++){var d=a[e];"preload"!==d.rel||"style"!==d.getAttribute("as")||d.getAttribute("data-loadcss")||(d.setAttribute("data-loadcss",!0),c.bindMediaToggle(d))}};if(!c.support()){c.poly();var f=b.setInterval(c.poly,500);b.addEventListener?b.addEventListener("load",function(){c.poly();b.clearInterval(f)}):b.attachEvent&&b.attachEvent("onload",function(){c.poly();
+b.clearInterval(f)})}"undefined"!==typeof exports?exports.loadCSS=loadCSS:b.loadCSS=loadCSS})("undefined"!==typeof global?global:this);
+</script>
+<link rel="preconnect" href="https://tpc.googlesyndication.com">
+
+
+
+<script type="text/javascript">
+window.PogoConfig={"tags": ["article", "entertainment", "movies", "batgirl", "dc"], "category": "general", "template": "article"};
+</script>
+<link rel="preload" as="script" href="https://cdn.ziffstatic.com/pg/ignintl.js">
+<script type="text/javascript" id="pogo" src="https://cdn.ziffstatic.com/pg/ignintl.js" async="true"></script>
+<link rel="preload" as="style" href="https://cdn.ziffstatic.com/pg/ignintl.css" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" as="script" href="https://cdn.ziffstatic.com/pg/ignintl.prebid.js">
+<link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js">
+<script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async="true"></script>
+    
+</head>
+
+<body >
+<header>
+
+<div id="ignheader" class="wrap">
+  <section id="search-modal-container">
+    <div class="page-content">
+      <form action="/se/"class="search-modal">
+        <div class="search-input">
+          <input type="hidden" name="model" value="">
+          <input name="q" id="search-input" type="text" maxlength="60" placeholder="Recherche sur IGN France" autocomplete="off" value="">
+        </div>
+        <svg id="search-close" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" ign-icon icon-close search-close" style="cursor: pointer;">
+          <title>Close</title><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><rect fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="24" height="24"></rect><path d="M4,4 L20.9705627,20.9705627" stroke="#252627" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M4,4 L20.9705627,20.9705627" stroke="#252627" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.485281, 12.485281) scale(-1, 1) translate(-12.485281, -12.485281) "></path></g></svg>
+            <button role="button" class="button button-primary">Rechercher</button>
+        </form>
+    </div>
+  </section>
+  <div id="ign-logo-wrap">
+  <a id="headerlogo" href="https://fr.ign.com/">
+  <svg class="ign-logo" viewBox="0 0 182 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <title>IGN Logo</title>
+      <defs></defs>
+      <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g><g id="Group">
+            <path d="M97.2501416,32.2561667 L97.2501416,22.4167222 L123.688285,22.4236667 C126.372368,22.4236667 128.561099,24.5945 128.561099,27.2731111 L128.561099,38.9672778 C128.561099,44.9858889 123.740882,49.9672778 117.613548,49.9711667 L100.688105,49.9831111 C88.1440193,49.9831111 77.9951538,39.8772778 77.9951538,27.3881111 C77.9951538,14.9089444 88.2060774,4.79366667 100.707863,4.79366667 L126.91308,4.79366667 L126.91308,15.1747778 L100.702298,15.1747778 C93.9449214,15.1747778 88.3961477,20.6433889 88.3961477,27.3881111 C88.3961477,34.1231111 93.8636615,39.5950556 100.684765,39.5942222 L118.169288,39.5942222 L118.169288,32.2561667 L97.2501416,32.2561667 Z M74.5580254,4.73744444 C74.5580254,4.73744444 74.5638694,8.05911111 74.5638694,8.08022222 L74.5638694,50.0016111 L69.3487624,50.0016111 L69.1133312,50.0016111 C66.4492853,50.0016111 64.2725208,47.8438333 64.2725208,45.1846667 L64.2725208,12.4643889 L64.2727991,4.73744444 L74.5580254,4.73744444 Z M177.034127,4.76322222 C179.699008,4.76322222 181.858519,6.9235 181.858519,9.58211111 L181.858519,39.5876667 C181.858519,45.6126667 176.956763,50.4976667 170.92043,50.4976667 L170.733699,50.4976667 C166.779513,50.4976667 163.330139,48.5354444 161.408286,45.3187778 L144.004745,14.8490556 C143.861705,14.5835 143.61069,14.5048889 143.394182,14.5048889 C143.131757,14.5048889 142.901613,14.6493333 142.780558,14.8632222 C142.722396,14.9557222 142.677592,15.066 142.677592,15.1837778 L142.680653,50.0015556 L137.203956,50.0015556 C134.540745,50.0015556 132.372051,47.8437778 132.372051,45.1848889 L132.372051,15.1837778 C132.372051,9.15877778 137.266292,4.27433333 143.302347,4.27433333 L143.488243,4.27433333 C147.443265,4.27433333 150.971672,6.38961111 152.894916,9.60683333 L170.192987,39.8790556 C170.409772,40.1632222 170.605687,40.2635 170.826369,40.2635 C171.086846,40.2635 171.31365,40.1237778 171.436931,39.9162778 C171.491754,39.8332222 171.510121,39.7354444 171.517913,39.6312778 L171.513182,4.76322222 L177.034127,4.76322222 Z" id="IGN" fill="#252627"></path>
+            <path d="M12.5325367,17.4969167 C9.83593119,17.7924722 7.37392202,18.1949722 5.19799235,18.6919167 C7.64553058,12.4408056 12.6357813,7.45969444 18.8983624,5.01636111 C18.4007844,7.18802778 17.9972676,9.64580556 17.7003349,12.3380278 C15.6474083,13.6910833 13.8875183,15.44775 12.5325367,17.4969167 Z M37.561544,12.2788056 C37.2481924,9.60102778 36.8327092,7.15852778 36.3292872,4.99852778 C42.6141312,7.43463889 47.6238621,12.4246389 50.0786358,18.6915833 C47.9018713,18.1949167 45.4401404,17.7924167 42.7435349,17.4968611 C41.3866052,15.4454722 39.6247673,13.6876944 37.5690578,12.3343611 C37.5659966,12.3154722 37.5651618,12.2976944 37.561544,12.2788056 Z M17.7001401,42.4921667 C17.9967945,45.1849444 18.4005896,47.6427222 18.8978893,49.8141111 C12.6219505,47.3655 7.62446422,42.3677222 5.18249174,36.098 C7.32419205,36.5932778 9.75586789,37.0027222 12.4711187,37.3216111 C12.4911554,37.3252222 12.5100789,37.3260556 12.5298373,37.3296667 C13.8850972,39.3799444 15.645822,41.1382778 17.7001401,42.4921667 Z M42.8041737,37.3216667 C45.5171982,37.005 47.9485957,36.5963889 50.092244,36.1008333 C47.6444275,42.3855556 42.6271829,47.3911111 36.3298159,49.8316667 C36.8326813,47.6727778 37.2481645,45.2316667 37.5615162,42.555 C37.5654122,42.535 37.5662471,42.5161111 37.5695865,42.4961111 C39.6264092,41.1422222 41.3893602,39.3830556 42.7460116,37.3297222 C42.76577,37.3263889 42.7844153,37.3252778 42.8041737,37.3216667 Z M55.0276165,22.9458611 L55.0276165,31.83475 C50.8179621,33.7775278 44.5431364,34.5544722 42.4245339,34.7994722 C41.9135982,34.8958611 41.4360569,34.9414167 40.9740997,34.9414167 L34.2284116,27.4155833 L40.9740997,19.8889167 C41.3628673,19.8889167 41.7716716,19.9266944 42.2236104,20.0039167 C44.3923046,20.2350278 50.7726012,20.9803056 55.0276165,22.9458611 Z M14.3035859,19.8889167 L21.0476043,27.4155833 L14.3035859,34.9414167 C13.8405156,34.9414167 13.3615829,34.8958611 12.8520385,34.7994722 C10.7342709,34.5528056 4.45777554,33.7775278 0.247007951,31.8325278 L0.247007951,22.9478056 C4.5028581,20.9803056 10.8837113,20.2350278 13.0510141,20.0039167 C13.5060141,19.9266944 13.9137052,19.8889167 14.3035859,19.8889167 Z M20.098644,40.7283611 L27.6388428,33.99475 L35.1782067,40.7283611 C35.1782067,41.1889167 35.1311761,41.6666944 35.0346104,42.1761389 C34.7894391,44.2889167 34.0088428,50.5530833 32.0619437,54.7550278 L23.160641,54.7550278 C21.1898092,50.5091944 20.4439988,44.1391944 20.2121853,41.9755833 C20.1356563,41.5253056 20.098644,41.1153056 20.098644,40.7283611 Z M23.160641,0.0764166667 L32.0619437,0.0764166667 C34.0088428,4.28058333 34.7894391,10.5436389 35.0346104,12.6578056 C35.1311761,13.1669722 35.1782067,13.64225 35.1782067,14.1039167 L27.6388428,20.8391944 L20.098644,14.1039167 C20.098644,13.7180833 20.1356563,13.3089167 20.2121853,12.8575278 C20.4439988,10.6930833 21.1898092,4.32363889 23.160641,0.0764166667 Z" id="logomark" fill="#BF1313"></path>
+          </g></g>
+      </g>
+  </svg>
+  </a>
+  <div class="logodate"><div class="editions desktop">
+        <p>France</p>
+        <nav><ul>
+        <li class="big">
+            <span class="language">US</span>
+            <span class="option"><a href="https://www.ign.com/?setccpref=US" target="_blank">United States</a></span>
+        </li>
+
+        <li class="big">
+            <span class="language">UK</span>
+            <span class="option"><a href="https://www.ign.com/?setccpref=UK" target="_blank">United Kingdom</a></span>
+        </li>
+
+        <li class="big" style="margin-bottom: 15px">
+            <span class="language">AU</span>
+            <span class="option"><a href="https://www.ign.com/?setccpref=AU" target="_blank">Australia</a></span>
+        </li>
+
+        <li>
+            <span class="language">ADR</span>
+            <span class="option"><a hrel="nofollow" ref="https://adria.ign.com/" target="_blank">Adria</a></span>
+        </li>
+
+        <li>
+            <span class="language">AFR</span>
+            <span class="option"><a rel="nofollow" href="https://za.ign.com/" target="_blank">Africa</a></span>
+        </li>
+
+        <li>
+            <span class="language">BX</span>
+            <span class="option"><a rel="nofollow" href="https://nl.ign.com/" target="_blank">Benelux / Dutch</a></span>
+        </li>
+
+        <li>
+            <span class="language">BR</span>
+            <span class="option"><a rel="nofollow" href="https://br.ign.com/" target="_blank">Brazil</a></span>
+        </li>
+
+        <li>
+            <span class="language">CN</span>
+            <span class="option"><a rel="nofollow" href="https://www.ign.com.cn/" target="_blank">China / 中国</a></span>
+        </li>
+
+        <li>
+            <span class="language">CZ</span>
+            <span class="option"><a  rel="nofollow" href="https://cz.ign.com/" target="_blank">Czechia / Slovakia</a></span>
+        </li>
+
+        <li>
+            <span class="language">FR</span>
+            <span class="option"><a rel="nofollow" href="https://fr.ign.com/" target="_blank">France</a></span>
+        </li>
+
+        <li>
+            <span class="language">DE</span>
+            <span class="option"><a rel="nofollow" href="https://de.ign.com/" target="_blank">Germany</a></span>
+        </li>
+
+        <li>
+            <span class="language">GR</span>
+            <span class="option"><a rel="nofollow" href="https://gr.ign.com/" target="_blank">Greece / Ελλάδα</a></span>
+        </li>
+
+        <li>
+            <span class="language">HU</span>
+            <span class="option"><a rel="nofollow" href="https://hu.ign.com/" target="_blank">Hungary</a></span>
+        </li>
+
+        <li>
+            <span class="language">IN</span>
+            <span class="option"><a rel="nofollow" href="https://in.ign.com" target="_blank">India</a></span>
+        </li>
+
+        <li>
+            <span class="language">IL</span>
+            <span class="option"><a rel="nofollow" href="https://il.ign.com" target="_blank">Israel</a></span>
+        </li>
+
+        <li>
+            <span class="language">IT</span>
+            <span class="option"><a rel="nofollow" href="https://it.ign.com/" target="_blank">Italy / Italia</a></span>
+        </li>
+
+        <li>
+            <span class="language">JP</span>
+            <span class="option"><a rel="nofollow" href="https://jp.ign.com/" target="_blank">Japan / 日本</a></span>
+        </li>
+
+        <li>
+            <span class="language">KR</span>
+            <span class="option"><a  rel="nofollow" href="https://kr.ign.com/" target="_blank">Korea / 한국</a></span>
+        </li>
+
+        <li>
+            <span class="language">LAT</span>
+            <span class="option"><a rel="nofollow" href="https://latam.ign.com/" target="_blank">Latin America</a></span>
+        </li>
+
+        <li>
+            <span class="language">AR</span>
+            <span class="option"><a rel="nofollow" href="https://me.ign.com/ar/" target="_blank">Middle East</a> / <a class="link" href="https://me.ign.com/ar/" target="_blank">الشرقالأوسط</a></span>
+        </li>
+        <li>
+            <span class="language">ME</span>
+            <span class="option"><a rel="nofollow" href="https://me.ign.com/en/" target="_blank">Middle East</a> / <a class="link" href="https://me.ign.com/en/" target="_blank">EN</a></span>
+        </li>
+        <li>
+            <span class="language">NOR</span>
+            <span class="option"><a rel="nofollow" href="https://nordic.ign.com/" target="_blank">Nordic</a></span>
+        </li>
+
+        <li>
+            <span class="language">PL</span>
+            <span class="option"><a rel="nofollow" href="https://pl.ign.com/" target="_blank">Poland</a></span>
+        </li>
+
+        <li>
+            <span class="language">PT</span>
+            <span class="option"><a rel="nofollow" href="https://pt.ign.com/" target="_blank">Portugal</a></span>
+        </li>
+
+        <li>
+            <span class="language">SEA</span>
+            <span class="option"><a rel="nofollow" href="https://ap.ign.com/" target="_blank">Southeast Asia</a></span>
+        </li>
+
+        <li>
+            <span class="language">ES</span>
+            <span class="option"><a rel="nofollow" href="https://es.ign.com/" target="_blank">Spain / España</a></span>
+        </li>
+
+        <li>
+            <span class="language">TR</span>
+            <span class="option"><a rel="nofollow" href="https://tr.ign.com/" target="_blank">Turkey / Türkiye</a></span>
+        </li>
+
+        <li><span class="brand option"><a rel="nofollow" href="https://world.ign.com/" target="_blank">world.ign.com</a></span></li>
+       </ul></nav>
+</div></div>
+  </div>
+  <span id="headermenuwrapper">
+    <div id="menuToggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+  <ul id="logomenu">
+    <li class="browse-ign">
+      <div class="browse-ign-label">IGN France</div>
+    </li>
+    <li class="myLogin">
+        <div id="toploginm">
+          <a href="https://www.ign.com/sign-in?redirect=http%3A//fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming" target="_top" rel="nofollow" class="lightbox main">Se connecter</a>
+          <div class="uico"></div>
+          <div class="usermenu">
+            <ul>
+              <li><a href="https://www.ign.com/register?redirect=http%3A//fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming" rel="nofollow" target="_top"  class="lightbox">Créer un compte</a></li>
+            </ul>
+          </div>
+        </div>
+    </li>
+    <li class=" first"><a  href="/entertainment">Ciné, Séries, Anime</a></li><li><a target='_blank' href="http://fr.ign.com/comics-mangas">Comics Mangas</a></li><li><a  href="https://fr.ign.com/article/review/">Critiques</a></li><li><a  href="/ps5/">PS5</a></li><li><a  href="https://fr.ign.com/xbox-series-X">Xbox X|S</a></li><li><a target='_blank' href="http://fr.ign.com/nintendo-switch">Switch</a></li><li><a  href="/pc">PC</a></li><li><a  href="/ps4">PS4</a></li><li><a  href="/xbox-one">Xbox One</a></li>
+    <li class="navmenu selector extramenu">
+            <span class="subtitle">Nom interne</span>
+            <span class="dropdown-arrow"><svg class="ign-icon icon-down-arrow" width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <g id="Symbols" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+              <g id="2.-Glyphs-and-Controls/glyph-dropdown-black" stroke-width="2">
+                  <polyline id="Rectangle-3" transform="translate(6.000000, 5.000000) rotate(-45.000000) translate(-6.000000, -5.000000) " points="8 7 4 7 4 3 4 3"></polyline>
+              </g>
+          </g>
+          </svg></span>
+            <div class="col more browseentertainment"><ul id="browseentertainment"><li class=" first"><a  href="/entertainment/">Films/Séries/Anime</a></li><li><a  href="/geekstyle/">Geekstyle</a></li><li><a  href="/mobile/">Mobile</a></li><li><a  href="https://fr.ign.com/netflix">Netflix</a></li><li><a  href="/tech/">High-Tech</a></li><li><a  href="/video/">Vidéos</a></li></ul></div>
+    </li>
+    <li class="navmenu selector extramenu">
+            <span class="subtitle">Support de jeu</span>
+            <span class="dropdown-arrow"><svg class="ign-icon icon-down-arrow" width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <g id="Symbols" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+              <g id="2.-Glyphs-and-Controls/glyph-dropdown-black" stroke-width="2">
+                  <polyline id="Rectangle-3" transform="translate(6.000000, 5.000000) rotate(-45.000000) translate(-6.000000, -5.000000) " points="8 7 4 7 4 3 4 3"></polyline>
+              </g>
+          </g>
+          </svg></span>
+            <div class="col more browsegame"><ul id="browsegaming"><li class=" first"><a  href="/ps5/">PS5</a></li><li><a  href="/ps4/">PS4</a></li><li><a  href="https://fr.ign.com/xbox-series-X">Xbox Series X|S</a></li><li><a  href="/xbox-one/">Xbox One</a></li><li><a  href="/nintendo-switch/">Switch</a></li><li><a  href="/pc/">PC</a></li></ul></div>
+    </li>
+    <li class="navmenu selector extramenu">
+          <span class="subtitle">Plus...</span>
+          <span class="dropdown-arrow"><svg class="ign-icon icon-down-arrow" width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <g id="Symbols" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+              <g id="2.-Glyphs-and-Controls/glyph-dropdown-black" stroke-width="2">
+                  <polyline id="Rectangle-3" transform="translate(6.000000, 5.000000) rotate(-45.000000) translate(-6.000000, -5.000000) " points="8 7 4 7 4 3 4 3"></polyline>
+              </g>
+          </g>
+          </svg></span>
+           <div class="col more browseabout"><ul id="footer1"><li class=" first"><a target='_blank' href="http://corp.ign.com/press">Presse</a></li><li><a  href="/ign-france/7586/page/cookies">Politique de Cookies</a></li><li><a  href="/ign-france/7584/page/user-agreement">Conditions Générales d’Utilisation</a></li><li><a  href="/ign-france/7585/page/privacy">Politique de Confidentialité</a></li><li><a target='_blank' href="http://fr.ign.com/articles/rss">RSS</a></li></ul></div>
+    </li>
+    <li class="more toggletopmore">Plus...
+      <span class="dropdown-arrow"><svg class="ign-icon icon-down-arrow" width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Symbols" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+          <g id="2.-Glyphs-and-Controls/glyph-dropdown-black" stroke-width="2">
+            <polyline id="Rectangle-3" transform="translate(6.000000, 5.000000) rotate(-45.000000) translate(-6.000000, -5.000000) " points="8 7 4 7 4 3 4 3"></polyline>
+          </g>
+        </g>
+      </svg></span>
+      </li>
+      <div class="region">
+    <div class="region-selector">
+        <select id="region-dropdown" class="region-dropdown">
+            <option value="" disabled="" selected="">Change Region</option>
+            <option data-language='INTL' value="https://world.ign.com/">World.IGN.com</option>
+            <option data-language='US' value="https://www.ign.com/?setccpref=US">United States</option>
+            <option data-language='UK' value="https://uk.ign.com/?setccpref=UK">United Kingdom</option>
+            <option data-language='AU' value="https://au.ign.com/?setccpref=AU">Australia</option>
+            <option data-language='AFR' value="https://za.ign.com/">Africa</option>
+            <option data-language='ADR' value="https://adria.ign.com/">Adria</option>
+            <option data-language='BX' value="https://nl.ign.com/">Benelux / Dutch</option>
+            <option data-language='BR' value="https://br.ign.com/">Brazil</option>
+            <option data-language='CN' value="https://www.ign.com.cn/">China / 中国</option>
+            <option data-language='CZ' value="https://cz.ign.com/">Czechia / Slovakia</option>
+            <option data-language='FR' value="https://fr.ign.com/">France</option>
+            <option data-language='DE' value="https://de.ign.com/">Germany</option>
+            <option data-language='GR' value="https://gr.ign.com/">Greece / Ελλάδα</option>
+            <option data-language='HU' value="https://hu.ign.com/">Hungary</option>
+            <option data-language='IN' value="https://in.ign.com/">India</option>
+            <option data-language='IL' value="https://il.ign.com/">Israel</option>
+            <option data-language='IT' value="https://it.ign.com/">Italy / Italia</option>
+            <option data-language='JP' value="https://jp.ign.com/">Japan / 日本</option>
+            <option data-language='KR' value="https://kr.ign.com/">Korea / 한국</option>
+            <option data-language='LAT' value="https://latam.ign.com/">Latin America</option>
+            <option data-language='ME' value="https://me.ign.com/en/">Middle East - English</option>
+            <option data-language='AR' value="https://me.ign.com/ar/">Middle East -  الأوسطالشرق</option>
+            <option data-language='NOR' value="https://nordic.ign.com/">Nordic</option>
+            <option data-language='PL' value="https://pl.ign.com/">Poland</option>
+            <option data-language='PT' value="https://pt.ign.com/">Portugal</option>
+            <option data-language='SEA' value="https://sea.ign.com/">Southeast Asia</option>
+            <option data-language='ES' value="https://es.ign.com/">Spain / España</option>
+            <option data-language='TR' value="https://tr.ign.com/">Turkey / Türkiye</option>
+        </select>
+    </div>
+</div>
+    </ul>
+
+    <ul id="searchwrapper">
+      <li class="search">
+       <svg class="ign-icon icon-search-2" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="2.-Glyphs-and-Controls/glyph-nav-search">
+              <rect id="Rectangle" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="24" height="24"></rect>
+              <circle id="Oval-2" stroke="#252627" stroke-width="2" cx="11" cy="10" r="7"></circle>
+              <path d="M15.5,15.5 L20.7201533,20.7201533" id="Line-4" stroke="#252627" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+          </g>
+        </g>
+        </svg></a>
+        
+      </li>
+    </ul>
+
+    <ul id="loginwrapper">
+      <li class="myign">
+       <div id="toplogin">
+        <a href="https://www.ign.com/sign-in?redirect=http%3A//fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming" target="_top" rel="nofollow" class="lightbox main">Se connecter</a>
+        <div class="uico"></div>
+        <div class="usermenu">
+          <ul>
+            <li><a href="https://www.ign.com/register?redirect=http%3A//fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming" rel="nofollow" target="_top"  class="lightbox">Créer un compte</a></li>
+          </ul>
+        </div>
+      </div>
+      </li>
+    </ul>
+  </span>
+</div>
+<div id="gheader"><ul id="globalheader"><li><a href="/le-cri-du-mochi">Le Cri du Mochi</a></li><li><a href="/article/review/">Tous les tests & critiques</a></li><li><a href="https://discord.com/invite/g2mfS7wZ7s">Rejoignez nous sur Discord</a></li></ul></div>
+<nav id="topmore">
+  <div class="wrap">
+    <div class="col browseabout"><b>IGN France</b><ul id="footer1"><li class=" first"><a target='_blank' href="http://corp.ign.com/press">Presse</a></li><li><a  href="/ign-france/7586/page/cookies">Politique de Cookies</a></li><li><a  href="/ign-france/7584/page/user-agreement">Conditions Générales d’Utilisation</a></li><li><a  href="/ign-france/7585/page/privacy">Politique de Confidentialité</a></li><li><a target='_blank' href="http://fr.ign.com/articles/rss">RSS</a></li></ul>
+        <div class="region">
+    <div class="region-selector">
+        <select id="region-dropdown" class="region-dropdown">
+            <option value="" disabled="" selected="">Change Region</option>
+            <option data-language='INTL' value="https://world.ign.com/">World.IGN.com</option>
+            <option data-language='US' value="https://www.ign.com/?setccpref=US">United States</option>
+            <option data-language='UK' value="https://uk.ign.com/?setccpref=UK">United Kingdom</option>
+            <option data-language='AU' value="https://au.ign.com/?setccpref=AU">Australia</option>
+            <option data-language='AFR' value="https://za.ign.com/">Africa</option>
+            <option data-language='ADR' value="https://adria.ign.com/">Adria</option>
+            <option data-language='BX' value="https://nl.ign.com/">Benelux / Dutch</option>
+            <option data-language='BR' value="https://br.ign.com/">Brazil</option>
+            <option data-language='CN' value="https://www.ign.com.cn/">China / 中国</option>
+            <option data-language='CZ' value="https://cz.ign.com/">Czechia / Slovakia</option>
+            <option data-language='FR' value="https://fr.ign.com/">France</option>
+            <option data-language='DE' value="https://de.ign.com/">Germany</option>
+            <option data-language='GR' value="https://gr.ign.com/">Greece / Ελλάδα</option>
+            <option data-language='HU' value="https://hu.ign.com/">Hungary</option>
+            <option data-language='IN' value="https://in.ign.com/">India</option>
+            <option data-language='IL' value="https://il.ign.com/">Israel</option>
+            <option data-language='IT' value="https://it.ign.com/">Italy / Italia</option>
+            <option data-language='JP' value="https://jp.ign.com/">Japan / 日本</option>
+            <option data-language='KR' value="https://kr.ign.com/">Korea / 한국</option>
+            <option data-language='LAT' value="https://latam.ign.com/">Latin America</option>
+            <option data-language='ME' value="https://me.ign.com/en/">Middle East - English</option>
+            <option data-language='AR' value="https://me.ign.com/ar/">Middle East -  الأوسطالشرق</option>
+            <option data-language='NOR' value="https://nordic.ign.com/">Nordic</option>
+            <option data-language='PL' value="https://pl.ign.com/">Poland</option>
+            <option data-language='PT' value="https://pt.ign.com/">Portugal</option>
+            <option data-language='SEA' value="https://sea.ign.com/">Southeast Asia</option>
+            <option data-language='ES' value="https://es.ign.com/">Spain / España</option>
+            <option data-language='TR' value="https://tr.ign.com/">Turkey / Türkiye</option>
+        </select>
+    </div>
+</div>
+    </div>
+    <div class="col browsesocial"><b>Social</b><ul id="browsesocial"><li class=" first"><a target='_blank' href="http://www.facebook.com/IGNFRA/">Facebook</a></li><li><a target='_blank' href="http://twitter.com/IGNFRA">Twitter</a></li><li><a target='_blank' href="http://www.youtube.com/channel/UC6DfGA8KPPd_2NB1NBaQy1g">Youtube</a></li></ul></div>
+    <div class="col browseentertainment"><b>Nom interne</b><ul id="browseentertainment"><li class=" first"><a  href="/entertainment/">Films/Séries/Anime</a></li><li><a  href="/geekstyle/">Geekstyle</a></li><li><a  href="/mobile/">Mobile</a></li><li><a  href="https://fr.ign.com/netflix">Netflix</a></li><li><a  href="/tech/">High-Tech</a></li><li><a  href="/video/">Vidéos</a></li></ul></div>
+    <div class="col browsegame"><b>Support de jeu</b><ul id="browsegaming"><li class=" first"><a  href="/ps5/">PS5</a></li><li><a  href="/ps4/">PS4</a></li><li><a  href="https://fr.ign.com/xbox-series-X">Xbox Series X|S</a></li><li><a  href="/xbox-one/">Xbox One</a></li><li><a  href="/nintendo-switch/">Switch</a></li><li><a  href="/pc/">PC</a></li></ul></div>
+  </div>
+  <div class="legal wrap">
+    <a href="https://world.ziffdavis.com"><svg id="zdlogoblue" data-name="Ziff Davis Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 298.63 174.94"><path d="M102,15.57H83.2V.09H102ZM83.2,26.16H102V94.57H83.2Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M117,38.73H105.72V26.16H117v-5.3C117,8.69,124.51.09,139.86.09c3.31,0,6.75.4,9.92.53v14a58.78,58.78,0,0,0-6.88-.4c-5.16,0-7.14,2.12-7.14,7.81v4.1h13V38.73h-13V94.57H117Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M154.59,38.73H143.34V26.16h11.25v-5.3c0-12.17,7.54-20.77,22.89-20.77,3.31,0,6.75.4,9.92.53v14a58.78,58.78,0,0,0-6.88-.4c-5.16,0-7.14,2.12-7.14,7.81v4.1h13V38.73h-13V94.57H154.59Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M31.37,73.6l-2.95,3.5H50.91a31.52,31.52,0,0,1,13.77,3,29.66,29.66,0,0,1,6.68,4.44,30.31,30.31,0,0,1,7.46,10.07H.77V78.14L4.58,73.6l3-3.57L51.44,17.56H4.75V.09H79.1V16.48L34.35,70Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M80.57,103.2h-24c5.17,5.44,7.18,13.79,7.18,24.16,0,20.9-11.54,28.31-23.57,28.31H21.65V103.2H.86v69.94H41.62c28.83,0,42.87-20.38,42.87-47.76A58.44,58.44,0,0,0,80.57,103.2Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M148.78,157.93v-35.6c0-13.69-11.37-18.06-23-19.13a68.79,68.79,0,0,0-7-.31,8.43,8.43,0,0,0-.87,0c-15.08.17-30.26,5.69-31.3,22.84h18.79c.66-7.42,5.16-10.33,12.44-10.33,6.62,0,12.17,1.32,12.17,9.29.79,15.32-45.23-1.35-45.51,29.77,0,14,10.19,20.49,23.29,20.49,8.46,0,17-2.25,23-8.46a28.37,28.37,0,0,0,1.32,6.62h19.06C149.44,170.37,148.78,164.13,148.78,157.93ZM130,146.66c0,4.23-.52,15.77-15.22,15.77-6.06,0-11.51-1.87-11.51-8.73s5.31-9,11.13-10.09,12.44-1.18,15.6-4Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M195.32,104.72,180.9,151.44h-.27l-14.42-46.72H146.49l23.43,68.42h20.9L214,104.72Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M214.38,104.72v68.42h18.79V104.72Zm0-26.06V94.15h18.79V78.66Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M277.08,132c-10.57-2.5-21.31-3.44-21.31-10.16,0-5.72,6.24-6.38,10.46-6.38,6.76,0,12.31,2,12.83,9.29h17.88c-1.45-16.81-15.35-21.83-30.19-21.83S237,107.36,237,124.83c0,12.2,10.71,15.77,21.7,18.26C272.06,145.86,280,148,280,153.7c0,6.58-7,8.73-12.3,8.73-7.28,0-14.42-3.46-14.42-11.54H235.39C236.05,169,251.68,175,267.55,175c15.49,0,31.23-5.82,31.23-23.81C298.78,138.48,288.07,134.5,277.08,132Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M101.38,15.62H82.59V.14h18.79ZM82.59,26.21h18.79V94.62H82.59Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M116.35,38.78H105.11V26.21h11.24V20.92C116.35,8.74,123.9.14,139.24.14c3.31,0,6.75.4,9.93.53v14a58.78,58.78,0,0,0-6.88-.4c-5.16,0-7.15,2.12-7.15,7.81v4.1h13V38.78h-13V94.62H116.35Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M154,38.78H142.73V26.21H154V20.92C154,8.74,161.52.14,176.86.14c3.31,0,6.75.4,9.93.53v14a58.78,58.78,0,0,0-6.88-.4c-5.16,0-7.15,2.12-7.15,7.81v4.1h13V38.78h-13V94.62H154Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M30.76,73.65l-3,3.5H50.29a31.56,31.56,0,0,1,13.78,3,30,30,0,0,1,6.68,4.44,30.31,30.31,0,0,1,7.46,10.07H.15V78.19L4,73.65l3-3.57L50.82,17.61H4.14V.14H78.48V16.53L33.74,70.08Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M80,103.25h-24c5.16,5.44,7.17,13.79,7.17,24.16,0,20.9-11.54,28.31-23.56,28.31H21V103.25H.24v69.94H41c28.84,0,42.87-20.38,42.87-47.76A58.49,58.49,0,0,0,80,103.25Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M148.17,158v-35.6c0-13.69-11.37-18.06-23-19.13a69.11,69.11,0,0,0-7-.31,8.14,8.14,0,0,0-.86,0c-15.08.18-30.26,5.69-31.3,22.84h18.78c.66-7.41,5.17-10.32,12.45-10.32,6.62,0,12.16,1.31,12.16,9.28.8,15.32-45.23-1.35-45.51,29.78,0,14,10.19,20.48,23.3,20.48,8.45,0,17-2.25,23-8.46a28.26,28.26,0,0,0,1.32,6.62h19.06C148.83,170.42,148.17,164.18,148.17,158Zm-18.79-11.27c0,4.23-.52,15.77-15.21,15.77-6.07,0-11.51-1.87-11.51-8.73s5.3-9,11.13-10.09,12.44-1.18,15.59-3.95Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M194.71,104.78,180.29,151.5H180l-14.42-46.72H145.87l23.43,68.41h20.9l23.15-68.41Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M213.77,104.78v68.41h18.79V104.78Zm0-26.07V94.2h18.79V78.71Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M276.47,132c-10.57-2.5-21.32-3.43-21.32-10.16,0-5.72,6.24-6.37,10.47-6.37,6.76,0,12.3,2,12.82,9.28h17.89C294.87,108,281,102.94,266.14,102.94s-29.77,4.47-29.77,21.94c0,12.2,10.71,15.77,21.69,18.26,13.38,2.78,21.32,4.89,21.32,10.61,0,6.58-7,8.73-12.3,8.73-7.28,0-14.42-3.46-14.42-11.54H234.77c.66,18.13,16.29,24.09,32.17,24.09,15.49,0,31.23-5.82,31.23-23.81C298.17,138.53,287.46,134.55,276.47,132Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path></svg></a>
+    <span class="licensee"> IGN France is operated under license</span>
+  </div>
+</nav>
+
+
+</header>
+
+
+
+
+
+
+<div data-pogo="top" class="zad top" ></div>
+<div class="wrapper articleBody">
+<div class="page-content">
+    <div class="object-breadcrumbs">
+        
+            <a title="Batgirl" href="https://fr.ign.com/batgirl" class="article-object-link opt-internal">Batgirl</a>
+        
+    </div>
+
+    <div class="article-headline">
+        
+        <h1 id="id_title">Warner Bros. Discovery ne sortirait pas Batgirl au cinéma ou en streaming</h1>
+        
+    </div>
+    <div class="article-sub-headline">
+        <h3 id="id_deck">Batgirl aurait été mise de côté.</h3>
+    </div>
+
+    <ul class="sharer full">
+  
+  <li>
+    <a class="fb facebook_share" href="#">
+      <svg id="shareFBSvg" width="44" height="44" viewBox="0 0 44 44" >
+        <path class="pathSocialIcons" d="M23.23 30.5v-7.754h2.603l.39-3.023H23.23v-1.929c0-.875.243-1.471 1.498-1.471l1.6-.001v-2.703a21.367 21.367 0 0 0-2.332-.119c-2.307 0-3.887 1.408-3.887 3.995v2.228H17.5v3.023h2.609V30.5h3.121z" fill="#FFF"></path>
+      </svg>
+    </a>
+  </li>
+  <li>
+    <a class="tw twitter_share" href="#">
+      <svg id="shareTWSvg" width="44" height="44" viewBox="0 0 44 44">
+       <path class="pathSocialIcons" d="M29.582 18.724c0-.164 0-.328-.01-.49a7.709 7.709 0 0 0 1.888-1.96 7.538 7.538 0 0 1-2.175.596 3.802 3.802 0 0 0 1.665-2.095 7.596 7.596 0 0 1-2.404.92 3.792 3.792 0 0 0-6.456 3.453 10.75 10.75 0 0 1-7.805-3.957 3.79 3.79 0 0 0 1.173 5.056 3.749 3.749 0 0 1-1.72-.474v.048a3.79 3.79 0 0 0 3.04 3.713 3.773 3.773 0 0 1-1.71.065 3.793 3.793 0 0 0 3.538 2.63A7.61 7.61 0 0 1 13 27.8a10.713 10.713 0 0 0 5.806 1.698c6.966.003 10.776-5.768 10.776-10.773z" fill="#FFF"></path>
+      </svg>
+    </a>
+  </li>
+  <li class="hide secondaryShare">
+  <a class="pn pin_share" href="#">
+<svg width="44" height="44" viewBox="-4 -10 25 35"><g id="art"><circle cx="8" cy="8" r="7" fill="#fff"/><path d="M12.5,4.5A8,8,0,0,0,9.58,20a7.74,7.74,0,0,1,0-2.3c.15-.62.94-4,.94-4a2.89,2.89,0,0,1-.24-1.19c0-1.11.65-1.94,1.45-1.94a1,1,0,0,1,1,1.12,16.59,16.59,0,0,1-.66,2.67,1.16,1.16,0,0,0,1.18,1.44c1.42,0,2.52-1.5,2.52-3.66a3.15,3.15,0,0,0-3.34-3.25,3.46,3.46,0,0,0-3.62,3.47,3.09,3.09,0,0,0,.6,1.82.25.25,0,0,1,.05.23c-.06.26-.19.8-.22.91s-.11.18-.26.11a3.6,3.6,0,0,1-1.63-3.1c0-2.53,1.83-4.84,5.29-4.84a4.69,4.69,0,0,1,4.93,4.62c0,2.75-1.74,5-4.15,5a2.15,2.15,0,0,1-1.84-.92s-.4,1.53-.49,1.91a8.79,8.79,0,0,1-1,2.09,8.1,8.1,0,0,0,2.37.36,8,8,0,0,0,0-16Z" transform="translate(-4.5 -4.5)" fill="#e61e27"/></g></svg>
+  </a>
+  </li>
+  <li class="hide secondaryShare">
+    <a class="ln ld_share" href="#">
+      <svg id="shareLNSvg" width="44" height="44" viewBox="0 -8 25 44">
+      <path class="pathSocialIcons" d="M8,22.07H4L4,10H8ZM5.92,8.39h0A2,2,0,1,1,6,4.31a2,2,0,1,1,0,4.08ZM22,22.07H18V15.5c0-1.59-.42-2.67-1.85-2.67a2.06,2.06,0,0,0-2,1.44,2.73,2.73,0,0,0-.13,1v6.85H10L9.92,10H14l0,1.7a3.79,3.79,0,0,1,3.48-1.95c2.59,0,4.52,1.69,4.52,5.32v7Z" fill="#fff"></path>
+      </svg>
+    </a>
+  </li>
+  <li>
+  <a class="wa whatsapp_share" data-url="https://fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming" data-msg="Warner Bros. Discovery ne sortirait pas Batgirl au cinéma ou en streaming" href="whatsapp://send?text=Warner%20Bros.%20Discovery%20ne%20sortirait%20pas%20Batgirl%20au%20cin%C3%A9ma%20ou%20en%20streaming%20https%3A//fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming">
+    <svg id="shareWASvg" width="44" height="44" viewBox="-10 -8 58 58">
+      <path class="logo_green" fill="#35b14f" d="M10.7,32.8l0.6,0.3c2.5,1.5,5.3,2.2,8.1,2.2l0,0c8.8,0,16-7.2,16-16c0-4.2-1.7-8.3-4.7-11.3&#10;s-7-4.7-11.3-4.7c-8.8,0-16,7.2-15.9,16.1c0,3,0.9,5.9,2.4,8.4l0.4,0.6l-1.6,5.9L10.7,32.8z"/>
+      <path class="logo_white" fill="#FFF" d="M32.4,6.4C29,2.9,24.3,1,19.5,1C9.3,1,1.1,9.3,1.2,19.4c0,3.2,0.9,6.3,2.4,9.1L1,38l9.7-2.5&#10;c2.7,1.5,5.7,2.2,8.7,2.2l0,0c10.1,0,18.3-8.3,18.3-18.4C37.7,14.4,35.8,9.8,32.4,6.4z M19.5,34.6L19.5,34.6c-2.7,0-5.4-0.7-7.7-2.1&#10;l-0.6-0.3l-5.8,1.5L6.9,28l-0.4-0.6c-4.4-7.1-2.3-16.5,4.9-20.9s16.5-2.3,20.9,4.9s2.3,16.5-4.9,20.9C25.1,33.8,22.3,34.6,19.5,34.6&#10;z M28.3,23.5L27.2,23c0,0-1.6-0.7-2.6-1.2c-0.1,0-0.2-0.1-0.3-0.1c-0.3,0-0.5,0.1-0.7,0.2l0,0c0,0-0.1,0.1-1.5,1.7&#10;                            c-0.1,0.2-0.3,0.3-0.5,0.3h-0.1c-0.1,0-0.3-0.1-0.4-0.2l-0.5-0.2l0,0c-1.1-0.5-2.1-1.1-2.9-1.9c-0.2-0.2-0.5-0.4-0.7-0.6&#10;                            c-0.7-0.7-1.4-1.5-1.9-2.4L15,18.4c-0.1-0.1-0.1-0.2-0.2-0.4c0-0.2,0-0.4,0.1-0.5c0,0,0.4-0.5,0.7-0.8c0.2-0.2,0.3-0.5,0.5-0.7&#10;                            c0.2-0.3,0.3-0.7,0.2-1c-0.1-0.5-1.3-3.2-1.6-3.8c-0.2-0.3-0.4-0.4-0.7-0.5h-0.3c-0.2,0-0.5,0-0.8,0c-0.2,0-0.4,0.1-0.6,0.1&#10;                            l-0.1,0.1c-0.2,0.1-0.4,0.3-0.6,0.4c-0.2,0.2-0.3,0.4-0.5,0.6c-0.7,0.9-1.1,2-1.1,3.1l0,0c0,0.8,0.2,1.6,0.5,2.3l0.1,0.3&#10;c0.9,1.9,2.1,3.6,3.7,5.1l0.4,0.4c0.3,0.3,0.6,0.5,0.8,0.8c2.1,1.8,4.5,3.1,7.2,3.8c0.3,0.1,0.7,0.1,1,0.2l0,0c0.3,0,0.7,0,1,0&#10;c0.5,0,1.1-0.2,1.5-0.4c0.3-0.2,0.5-0.2,0.7-0.4l0.2-0.2c0.2-0.2,0.4-0.3,0.6-0.5s0.4-0.4,0.5-0.6c0.2-0.4,0.3-0.9,0.4-1.4&#10;c0-0.2,0-0.5,0-0.7C28.6,23.7,28.5,23.6,28.3,23.5z"/>
+    </svg>
+  </a>
+  </li>
+  <li>
+  <a class="shareToggle" href="#">
+  <div id="sharePlus"><style>.cls-1 { font-size:45px; fill:#fff; }</style><text class="cls-1">+</text></div>
+  </a>
+  </li>
+  
+</ul>
+
+
+    
+    
+    <div class="article-byline">
+        <section class="article-authors">
+            <div class="author-byline-images"><a href="https://fr.ign.com/u/aekonimi"><img class="roundendimg" src="https://sm.ign.com/t/ign_fr/user/a/aekonimi/aekonimi_7mxf.180.png" alt="Aekonimi"></a></div><span class="by-reviewer">par</span><span class="reviewer hcard"><a class="url" href="https://fr.ign.com/u/aekonimi">Aekonimi</a></span>&nbsp;&nbsp;
+        </section>
+        
+        <div class="article-publish-date">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ign-icon icon-articles" width="24" height="24" viewBox="8 3 16 26"><g class="has-stroke" stroke="#838383" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M12 14h4m-4 4h7m-7 4h4m9-10.786V25a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h10.552a2 2 0 0 1 1.548.734l3.448 4.213A2 2 0 0 1 25 11.214z"></path><path d="M19.5 5v4a2 2 0 0 0 2 2H25"></path></g></svg>
+            &nbsp;<span>Mis en ligne le 3 août 2022 09:12</span>
+        </div>
+    </div>
+
+    <section class="side-by-side article-content">
+      <article class="article-section article-page">
+        
+        <div id="id_text" itemprop="articleBody">
+        <p>Warner Bros. aurait décidé de ne pas sortir le film <a href="/batgirl"><strong>Batgirl</strong></a> avec Leslie Grace, bien que le film soit presque terminé.</p>
+
+<p>Selon <a href="https://www.thewrap.com/batgirl-movie-dead-warner-bros-discovery-has-no-plans-to-release-nearly-finished-90-million-film/" rel="noopener" target="_blank">The Wrap</a>, Batgirl ne sortira ni au cinéma ni sur HBO Max. Le film a été développé et tourné avant la fusion Warner Bros. Discovery, et selon le rapport, la nouvelle direction sous la direction de David Zaslave a convenu que le film « ne fonctionnait pas. »</p><div class="mobileArticleAds incontent"><div data-pogo="incontent" class="zad incontent" ></div></div></p>
+
+<p><a href="https://www.hollywoodreporter.com/movies/movie-news/batgirl-shelved-at-warner-bros-hbo-max-1235191371" rel="noopener" target="_blank">The Hollywood Reporter</a> cite quant à lui la réduction des coûts comme une autre raison de la mise au placard du film, ainsi que le refocus sur les sorties en salles plutôt que sur la création de films pour HBO Max.</p>
+
+<p>Batgirl devait à l'origine être diffusé en exclusivité pour HBO Max, mais il était ensuite prévu de le sortir en salles et en streaming. Le budget a également été porté à 90 millions de dollars et des reshoots ont eu lieu pour élargir la portée du film.</p>
+
+<p>Cependant, la nouvelle direction de Warner Bros. Discovery a décidé que les films DC devaient être des « films à grand spectacle, » ce qui n'était pas le cas de Batgirl, qui devait à l'origine être une exclusivité streaming. L'équipe dirigeante souhaiterait également travailler prochainement avec la star de Batgirl, Leslie Grace, et les réalisateurs de Bad Boys for Life, Adil El Arbi et Bilall Fallah.</p>
+
+<p>Le film Batgirl a été<a href="/dc/54199/news/le-film-batgirl-sera-realise-par-lequipe-de-bad-boys-for-life-et-ms-marvel"> annoncé en 2021</a> avec le duo de réalisateurs. La star de In the Heights, Leslie Grace, a ensuite été annoncée comme la nouvelle Barbara Gordon, tandis que J.K. Simmons reprend son rôle de Jim Gordon, son père, dans la Ligue des Justiciers.</p>
+
+<p>Brendan Fraser aurait également été<a href="/batgirl/56663/news/brendan-fraser-devrait-incarner-le-mechant-dans-le-film-batgirl"> choisi pour incarner le méchant du film</a> et Michael Keaton <a href="/batgirl/57594/news/le-batman-de-michael-keaton-semble-aussi-de-retour-dans-batgirl">aurait été pressenti pour reprendre son rôle de Batman</a>.</p>
+
+<p>Une image promotionnelle de Grace en <a href="/batgirl"><strong>Batgirl</strong></a> a révélé que le film utiliserait le nouveau costume de Batgirl et qu'il s'agirait d'une sorte d'origin story selon la scénariste Christina Hodson.</p>
+
+<figure itemscope="" itemtype="https://schema.org/ImageObject"><img alt="Batgirl has reportedly been shelved." class="image blogroll" data-src="https://sm.ign.com/ign_fr/news/w/warner-bro/warner-bros-discovery-reportedly-wont-release-batgirl-in-the_rkv1.jpg" data-srcset="https://sm.ign.com/t/ign_fr/news/w/warner-bro/warner-bros-discovery-reportedly-wont-release-batgirl-in-the_rkv1.960.jpg, https://sm.ign.com/t/ign_fr/news/w/warner-bro/warner-bros-discovery-reportedly-wont-release-batgirl-in-the_rkv1.1920.jpg 2x" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9'%3E%3C/svg%3E"/><link href="https://sm.ign.com/ign_fr/news/w/warner-bro/warner-bros-discovery-reportedly-wont-release-batgirl-in-the_rkv1.jpg" itemprop="url"/></figure>
+
+<p>Il a été rapporté plus tôt cette année, après le rachat de WarnerMedia par Discovery, que les nouveaux dirigeants avaient pour priorité de remanier l'équipe chargée des films DC. Il s'agissait notamment de trouver une figure semblable à Kevin Feige pour gérer le catalogue et produire davantage de films comme le Joker. Les nouveaux dirigeants étaient également mécontents de la façon dont des personnages de premier plan comme Superman ont été laissés à l'abandon.</p>
+
+<p>Actuellement, DC se compose d'un méli-mélo de films et de projets différents, qu'il s'agisse du Batman de Matt Reeves et de ses nombreux spinoffs et suites, ou des films de l'univers Snyderverse comme <a href="/aquaman-2">Aquaman 2</a> et <a href="/the-flash">The Flash</a>. Il y a aussi des films standalone comme Shazam et Black Adam.</p>
+
+<hr/>
+<p><i>Habitant de la Citadelle et Grand éleveur de Chocobo, Aekonimi fait partie de la rédaction IGN France. Il spam l'actualité comme il peut. Suivez-le <a href="https://twitter.com/aekonimi" rel="noopener" target="_blank">sur Twitter</a>.</i></p>
+        
+        </div>
+        
+        
+        
+        
+        
+        
+        
+    </article>
+
+    <div class="right-rail">
+      
+      
+      <div class="ad-wrapper pgQSsticky">
+        <div class="desktopArticleAds mrec1"><div data-pogo="sidebar" class="zad sidebar" ></div></div>
+        
+  <div class="squarepromo">
+  
+  </div>
+
+
+      </div>
+    </div>
+  </section>
+</div>
+
+
+<div class="primary-object">
+  <div class="page-content ign-recommends-headline">Dans cet article</div>
+  <section class="object-summary embed">
+        <div class="object-info page-content">
+            <div class="object-thumbnail mini">
+                <img src="https://sm.ign.com/t/ign_fr/movie/b/batgirl/batgirl_1ca1.128.jpg" srcset="https://sm.ign.com/t/ign_fr/movie/b/batgirl/batgirl_1ca1.128.jpg, https://sm.ign.com/t/ign_fr/movie/b/batgirl/batgirl_1ca1.256.jpg 2x"" title="Batgirl" class="img-obj">
+            </div>
+            <h2 class="object-title"><a title="Batgirl" class="evidence opt-internal" href="https://fr.ign.com/batgirl">Batgirl</a></h2>
+            <div class="object-details">
+                <div class="meta">
+                    
+                    
+                    
+                </div>
+                <div class="platformdivider">
+                    
+                </div>
+            </div>
+        </div>
+  </section>
+</div>
+
+ 
+<div class="page-content">
+    <div class="three-column">
+        <div class="bottom-content">
+        
+        <div class="ign-recommends-headline">En savoir plus</div>
+        <div class="ign-recommends-item">
+           
+           <div class="related-left">
+           <article data-id="" class="content-item">
+               <div class="item-body">
+                   <div class="item-thumbnail">
+                       <div class="aspect-ratio-container aspect-ratio-16-9">
+                           <div class="aspect-ratio-child">
+                               <a title="Une projection « funéraire » secrète pour Batgirl" href="https://fr.ign.com/batgirl/61540/news/une-projection-funeraire-secrete-pour-batgirl" class="thumb score-wrapper">
+                                    <img src="https://sm.ign.com/t/ign_fr/news/s/secret-fun/secret-funeral-screening-of-batgirl-will-be-shown-on-wb-lot_t97e.280.jpg" alt="Une projection « funéraire » secrète pour Batgirl (News Batgirl)" class="thumb" srcset="https://sm.ign.com/t/ign_fr/news/s/secret-fun/secret-funeral-screening-of-batgirl-will-be-shown-on-wb-lot_t97e.280.jpg, https://sm.ign.com/t/ign_fr/news/s/secret-fun/secret-funeral-screening-of-batgirl-will-be-shown-on-wb-lot_t97e.600.jpg 2x">
+                                    
+                                    
+                                    
+                                </a>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="item-details">
+                   <a title="Une projection « funéraire » secrète pour Batgirl" href="https://fr.ign.com/batgirl/61540/news/une-projection-funeraire-secrete-pour-batgirl?utm_source=recirc" class="opt-internal">
+                       <div class="item-data">
+                           <span class="item-time-ago">4 mois, 2 semaines</span>
+                           <span class="comment-count">
+                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="jsx-563057029 ign-icon icon-comment"><title class="jsx-563057029">Comments</title><path d="M7.538 11.528l-3.14 2.048a.5.5 0 0 1-.773-.419v-1.993a4.375 4.375 0 0 1 1.749-8.383h5.252a4.374 4.374 0 1 1 0 8.747H7.538z" stroke="#DD3A3A" stroke-width="2" fill="none" fill-rule="evenodd" class="jsx-563057029"></path></svg>
+                           </span>
+                          <span class="disqus-comment-count" data-disqus-identifier="article_61540">
+                           </span>
+                       </div>
+                       <h3 data-timeago="4 mois, 2 semaines" class="item-title">
+                           <span class="item-title-link">Une projection « funéraire » secrète pour Batgirl</span>
+                       </h3>
+                   </a>
+               </div>
+               </div>
+           </article>
+           </div>
+           
+           <div class="related-right">
+           <article data-id="" class="content-item">
+               <div class="item-body">
+                   <div class="item-thumbnail">
+                       <div class="aspect-ratio-container aspect-ratio-16-9">
+                           <div class="aspect-ratio-child">
+                               <a title="DC aurait planifié un film sur Crisis On Infinite Earths avant son rachat par Discovery" href="https://fr.ign.com/batgirl/61279/news/dc-aurait-planifie-un-film-sur-crisis-on-infinite-earths-avant-son-rachat-par-discovery" class="thumb score-wrapper">
+                                    <img src="https://sm.ign.com/t/ign_fr/news/d/dc-was-rep/dc-was-reportedly-planning-a-crisis-on-infinite-earths-movie_6kvk.280.jpg" alt="DC aurait planifié un film sur Crisis On Infinite Earths avant son rachat par Discovery (News Batgirl)" class="thumb" srcset="https://sm.ign.com/t/ign_fr/news/d/dc-was-rep/dc-was-reportedly-planning-a-crisis-on-infinite-earths-movie_6kvk.280.jpg, https://sm.ign.com/t/ign_fr/news/d/dc-was-rep/dc-was-reportedly-planning-a-crisis-on-infinite-earths-movie_6kvk.600.jpg 2x">
+                                    
+                                    
+                                    
+                                </a>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="item-details">
+                   <a title="DC aurait planifié un film sur Crisis On Infinite Earths avant son rachat par Discovery" href="https://fr.ign.com/batgirl/61279/news/dc-aurait-planifie-un-film-sur-crisis-on-infinite-earths-avant-son-rachat-par-discovery?utm_source=recirc" class="opt-internal">
+                       <div class="item-data">
+                           <span class="item-time-ago">5 mois</span>
+                           <span class="comment-count">
+                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="jsx-563057029 ign-icon icon-comment"><title class="jsx-563057029">Comments</title><path d="M7.538 11.528l-3.14 2.048a.5.5 0 0 1-.773-.419v-1.993a4.375 4.375 0 0 1 1.749-8.383h5.252a4.374 4.374 0 1 1 0 8.747H7.538z" stroke="#DD3A3A" stroke-width="2" fill="none" fill-rule="evenodd" class="jsx-563057029"></path></svg>
+                           </span>
+                          <span class="disqus-comment-count" data-disqus-identifier="article_61279">
+                           </span>
+                       </div>
+                       <h3 data-timeago="5 mois" class="item-title">
+                           <span class="item-title-link">DC aurait planifié un film sur Crisis On Infinite Earths avant son rachat par Discovery</span>
+                       </h3>
+                   </a>
+               </div>
+               </div>
+           </article>
+           </div>
+           
+           <div class="related-left">
+           <article data-id="" class="content-item">
+               <div class="item-body">
+                   <div class="item-thumbnail">
+                       <div class="aspect-ratio-container aspect-ratio-16-9">
+                           <div class="aspect-ratio-child">
+                               <a title="Les réalisateurs de Batgirl ont reçu le soutien de Kevin Feige (Marvel Studios)" href="https://fr.ign.com/batgirl/61206/news/les-realisateurs-de-batgirl-ont-recu-le-soutien-de-kevin-feige-marvel-studios" class="thumb score-wrapper">
+                                    <img src="https://sm.ign.com/t/ign_fr/news/k/kevin-feig/kevin-feige-edgar-wright-and-james-gunn-have-reached-out-to_ctb3.280.jpg" alt="Les réalisateurs de Batgirl ont reçu le soutien de Kevin Feige (Marvel Studios) (News Batgirl)" class="thumb" srcset="https://sm.ign.com/t/ign_fr/news/k/kevin-feig/kevin-feige-edgar-wright-and-james-gunn-have-reached-out-to_ctb3.280.jpg, https://sm.ign.com/t/ign_fr/news/k/kevin-feig/kevin-feige-edgar-wright-and-james-gunn-have-reached-out-to_ctb3.600.jpg 2x">
+                                    
+                                    
+                                    
+                                </a>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="item-details">
+                   <a title="Les réalisateurs de Batgirl ont reçu le soutien de Kevin Feige (Marvel Studios)" href="https://fr.ign.com/batgirl/61206/news/les-realisateurs-de-batgirl-ont-recu-le-soutien-de-kevin-feige-marvel-studios?utm_source=recirc" class="opt-internal">
+                       <div class="item-data">
+                           <span class="item-time-ago">5 mois, 1 semaine</span>
+                           <span class="comment-count">
+                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="jsx-563057029 ign-icon icon-comment"><title class="jsx-563057029">Comments</title><path d="M7.538 11.528l-3.14 2.048a.5.5 0 0 1-.773-.419v-1.993a4.375 4.375 0 0 1 1.749-8.383h5.252a4.374 4.374 0 1 1 0 8.747H7.538z" stroke="#DD3A3A" stroke-width="2" fill="none" fill-rule="evenodd" class="jsx-563057029"></path></svg>
+                           </span>
+                          <span class="disqus-comment-count" data-disqus-identifier="article_61206">
+                           </span>
+                       </div>
+                       <h3 data-timeago="5 mois, 1 semaine" class="item-title">
+                           <span class="item-title-link">Les réalisateurs de Batgirl ont reçu le soutien de Kevin Feige (Marvel Studios)</span>
+                       </h3>
+                   </a>
+               </div>
+               </div>
+           </article>
+           </div>
+           
+           <div class="related-right">
+           <article data-id="" class="content-item">
+               <div class="item-body">
+                   <div class="item-thumbnail">
+                       <div class="aspect-ratio-container aspect-ratio-16-9">
+                           <div class="aspect-ratio-child">
+                               <a title="Après l&#x27;annulation de Batgirl, c&#x27;est Supergirl qui serait en difficulté" href="https://fr.ign.com/batgirl/61169/news/apres-lannulation-de-batgirl-cest-supergirl-qui-serait-en-difficulte" class="thumb score-wrapper">
+                                    <img src="https://sm.ign.com/t/ign_fr/news/a/after-batg/after-batgirls-cancellation-supergirl-could-be-in-trouble-to_3wjk.280.jpg" alt="Après l&#x27;annulation de Batgirl, c&#x27;est Supergirl qui serait en difficulté (News Batgirl)" class="thumb" srcset="https://sm.ign.com/t/ign_fr/news/a/after-batg/after-batgirls-cancellation-supergirl-could-be-in-trouble-to_3wjk.280.jpg, https://sm.ign.com/t/ign_fr/news/a/after-batg/after-batgirls-cancellation-supergirl-could-be-in-trouble-to_3wjk.600.jpg 2x">
+                                    
+                                    
+                                    
+                                </a>
+                           </div>
+                       </div>
+                   </div>
+                   <div class="item-details">
+                   <a title="Après l&#x27;annulation de Batgirl, c&#x27;est Supergirl qui serait en difficulté" href="https://fr.ign.com/batgirl/61169/news/apres-lannulation-de-batgirl-cest-supergirl-qui-serait-en-difficulte?utm_source=recirc" class="opt-internal">
+                       <div class="item-data">
+                           <span class="item-time-ago">5 mois, 1 semaine</span>
+                           <span class="comment-count">
+                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" class="jsx-563057029 ign-icon icon-comment"><title class="jsx-563057029">Comments</title><path d="M7.538 11.528l-3.14 2.048a.5.5 0 0 1-.773-.419v-1.993a4.375 4.375 0 0 1 1.749-8.383h5.252a4.374 4.374 0 1 1 0 8.747H7.538z" stroke="#DD3A3A" stroke-width="2" fill="none" fill-rule="evenodd" class="jsx-563057029"></path></svg>
+                           </span>
+                          <span class="disqus-comment-count" data-disqus-identifier="article_61169">
+                           </span>
+                       </div>
+                       <h3 data-timeago="5 mois, 1 semaine" class="item-title">
+                           <span class="item-title-link">Après l&#x27;annulation de Batgirl, c&#x27;est Supergirl qui serait en difficulté</span>
+                       </h3>
+                   </a>
+               </div>
+               </div>
+           </article>
+           </div>
+           
+        </div>
+        
+        <div id="article_video_bottom">
+            
+        </div>
+        
+         <div class="block"><div data-pogo="comments" class="zad comments" ></div></div>
+        
+
+<div class="disqus" id="disqus">
+  <h5 class="blocktitle">Commentaires</h5>
+  <div id="disqus_thread"></div>
+  
+  <script type="text/javascript">
+    function disqus_config() {
+        var getCookieValue = function(a, b) { b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)'); return b ? b.pop() : ''; }
+        this.language = "fr";
+        this.sso = {
+              name: "IGN",
+              url:  "https://www.ign.com/sign-in?mobile_fallback=1&redirect="+encodeURIComponent("https://fr.ign.com/myign.iframe"),
+              logout:  "/myignlogout.sync?redirect="+encodeURIComponent(window.location.href.toString().split("?")[0]),
+              button: "https://oystatic.ignimgs.com/src/core/img/widgets/disqus/ign-sso-button.png"
+        };
+        this.page.remote_auth_s3 = getCookieValue("dsqSSO");
+        if (!this.page.remote_auth_s3) { this.page.remote_auth_s3 = "b'KHt9KQ==' 97c165af4dfa6b1d40fca13a54f73932f742513f 1673347200"; }
+        this.page.api_key = "o3Y4oGq4ug3ODe9L3WLewWxe4vEbpJpVUnai4E473qdFiUA3USX6te17hMPACady";
+        /* this.callbacks.onNewComment.push(function (comment) { ga_comment(comment); }); */
+    }
+  
+    var disqus_shortname = 'ign-fr';
+    var disqus_identifier = 'article_61130';
+    var disqus_url = 'https://fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming';
+  
+    var disqus_title = 'Warner Bros. Discovery ne sortirait pas Batgirl au cinéma ou en streaming';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+(function(){
+  var _loadDisqus = function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  };
+  if (!window.IntersectionObserver) { return _loadDisqus(); }
+  var lazyDsqObserver = new IntersectionObserver(function(entries, observer) {
+    var entry = entries[0];
+    if (entry.isIntersecting || entry.isVisible) { _loadDisqus(); lazyDsqObserver.unobserve(entry.target); }
+  },{ rootMargin: '500px', threshold: 0 });
+  lazyDsqObserver.observe(document.getElementById('disqus_thread'));
+})();
+  </script>
+  
+  <noscript>Veuillez activer le Java Script pour afficher les commentaires.</noscript>
+</div>
+
+
+        </div>
+         <div class="right-rail">
+            <div class="ad-wrapper pgQSsticky">
+              <div data-pogo="sidebar" class="zad sidebar" ></div>
+            </div>
+            <div class="ad-wrapper pgQSsticky">
+              
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+<div id="sidebar"></div>
+
+
+<div data-pogo="footer" class="zad footer" ></div>
+<div id="adsense" style="visibility: hidden">Ad</div>
+
+<footer id="footer" class="limitedScroll">
+  <div id="footerMain" class="wrap">
+    <div class="legal">
+      <a href="https://world.ziffdavis.com"><svg id="zdlogoblue" data-name="Ziff Davis Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 298.63 174.94"><path d="M102,15.57H83.2V.09H102ZM83.2,26.16H102V94.57H83.2Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M117,38.73H105.72V26.16H117v-5.3C117,8.69,124.51.09,139.86.09c3.31,0,6.75.4,9.92.53v14a58.78,58.78,0,0,0-6.88-.4c-5.16,0-7.14,2.12-7.14,7.81v4.1h13V38.73h-13V94.57H117Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M154.59,38.73H143.34V26.16h11.25v-5.3c0-12.17,7.54-20.77,22.89-20.77,3.31,0,6.75.4,9.92.53v14a58.78,58.78,0,0,0-6.88-.4c-5.16,0-7.14,2.12-7.14,7.81v4.1h13V38.73h-13V94.57H154.59Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M31.37,73.6l-2.95,3.5H50.91a31.52,31.52,0,0,1,13.77,3,29.66,29.66,0,0,1,6.68,4.44,30.31,30.31,0,0,1,7.46,10.07H.77V78.14L4.58,73.6l3-3.57L51.44,17.56H4.75V.09H79.1V16.48L34.35,70Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M80.57,103.2h-24c5.17,5.44,7.18,13.79,7.18,24.16,0,20.9-11.54,28.31-23.57,28.31H21.65V103.2H.86v69.94H41.62c28.83,0,42.87-20.38,42.87-47.76A58.44,58.44,0,0,0,80.57,103.2Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M148.78,157.93v-35.6c0-13.69-11.37-18.06-23-19.13a68.79,68.79,0,0,0-7-.31,8.43,8.43,0,0,0-.87,0c-15.08.17-30.26,5.69-31.3,22.84h18.79c.66-7.42,5.16-10.33,12.44-10.33,6.62,0,12.17,1.32,12.17,9.29.79,15.32-45.23-1.35-45.51,29.77,0,14,10.19,20.49,23.29,20.49,8.46,0,17-2.25,23-8.46a28.37,28.37,0,0,0,1.32,6.62h19.06C149.44,170.37,148.78,164.13,148.78,157.93ZM130,146.66c0,4.23-.52,15.77-15.22,15.77-6.06,0-11.51-1.87-11.51-8.73s5.31-9,11.13-10.09,12.44-1.18,15.6-4Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M195.32,104.72,180.9,151.44h-.27l-14.42-46.72H146.49l23.43,68.42h20.9L214,104.72Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M214.38,104.72v68.42h18.79V104.72Zm0-26.06V94.15h18.79V78.66Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M277.08,132c-10.57-2.5-21.31-3.44-21.31-10.16,0-5.72,6.24-6.38,10.46-6.38,6.76,0,12.31,2,12.83,9.29h17.88c-1.45-16.81-15.35-21.83-30.19-21.83S237,107.36,237,124.83c0,12.2,10.71,15.77,21.7,18.26C272.06,145.86,280,148,280,153.7c0,6.58-7,8.73-12.3,8.73-7.28,0-14.42-3.46-14.42-11.54H235.39C236.05,169,251.68,175,267.55,175c15.49,0,31.23-5.82,31.23-23.81C298.78,138.48,288.07,134.5,277.08,132Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M101.38,15.62H82.59V.14h18.79ZM82.59,26.21h18.79V94.62H82.59Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M116.35,38.78H105.11V26.21h11.24V20.92C116.35,8.74,123.9.14,139.24.14c3.31,0,6.75.4,9.93.53v14a58.78,58.78,0,0,0-6.88-.4c-5.16,0-7.15,2.12-7.15,7.81v4.1h13V38.78h-13V94.62H116.35Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M154,38.78H142.73V26.21H154V20.92C154,8.74,161.52.14,176.86.14c3.31,0,6.75.4,9.93.53v14a58.78,58.78,0,0,0-6.88-.4c-5.16,0-7.15,2.12-7.15,7.81v4.1h13V38.78h-13V94.62H154Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M30.76,73.65l-3,3.5H50.29a31.56,31.56,0,0,1,13.78,3,30,30,0,0,1,6.68,4.44,30.31,30.31,0,0,1,7.46,10.07H.15V78.19L4,73.65l3-3.57L50.82,17.61H4.14V.14H78.48V16.53L33.74,70.08Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M80,103.25h-24c5.16,5.44,7.17,13.79,7.17,24.16,0,20.9-11.54,28.31-23.56,28.31H21V103.25H.24v69.94H41c28.84,0,42.87-20.38,42.87-47.76A58.49,58.49,0,0,0,80,103.25Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M148.17,158v-35.6c0-13.69-11.37-18.06-23-19.13a69.11,69.11,0,0,0-7-.31,8.14,8.14,0,0,0-.86,0c-15.08.18-30.26,5.69-31.3,22.84h18.78c.66-7.41,5.17-10.32,12.45-10.32,6.62,0,12.16,1.31,12.16,9.28.8,15.32-45.23-1.35-45.51,29.78,0,14,10.19,20.48,23.3,20.48,8.45,0,17-2.25,23-8.46a28.26,28.26,0,0,0,1.32,6.62h19.06C148.83,170.42,148.17,164.18,148.17,158Zm-18.79-11.27c0,4.23-.52,15.77-15.21,15.77-6.07,0-11.51-1.87-11.51-8.73s5.3-9,11.13-10.09,12.44-1.18,15.59-3.95Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M194.71,104.78,180.29,151.5H180l-14.42-46.72H145.87l23.43,68.41h20.9l23.15-68.41Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M213.77,104.78v68.41h18.79V104.78Zm0-26.07V94.2h18.79V78.71Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path><path d="M276.47,132c-10.57-2.5-21.32-3.43-21.32-10.16,0-5.72,6.24-6.37,10.47-6.37,6.76,0,12.3,2,12.82,9.28h17.89C294.87,108,281,102.94,266.14,102.94s-29.77,4.47-29.77,21.94c0,12.2,10.71,15.77,21.69,18.26,13.38,2.78,21.32,4.89,21.32,10.61,0,6.58-7,8.73-12.3,8.73-7.28,0-14.42-3.46-14.42-11.54H234.77c.66,18.13,16.29,24.09,32.17,24.09,15.49,0,31.23-5.82,31.23-23.81C298.17,138.53,287.46,134.55,276.47,132Z" transform="translate(-0.15 -0.09)" style="fill:#221276"></path></svg></a>
+      <span class="licensee wrap"> IGN France is operated under license</span>
+    </div>
+  </div>
+</footer>
+
+<section id="js">
+  
+  <script type="text/javascript" src="https://pg.ignimgs.com/pogoadkit.js" async></script>
+  <script>var zad = zad || {'cmd': []}; zad.cmd.push(function() { window.zad.start(); })</script>
+  
+  
+  
+        <script>
+        function img_find() {
+                let page_content = document.querySelector('#id_text')
+                var imgs = page_content.querySelectorAll("img");
+                var imgSrcs = [];
+                var obj = new Object();
+                obj.title = "Warner Bros. Discovery ne sortirait pas Batgirl au cinéma ou en streaming"
+
+                obj.elements = []
+                for (var i = 0; i < imgs.length; i++) {
+                    caption = ''
+                    imgs[i].dataset.position = i
+                    if (imgs[i].closest('figure')) {
+                        let figcaption = imgs[i].closest('figure').querySelector('figcaption')
+                        if (figcaption) {
+                            caption = figcaption.innerHTML
+                        }  else { 
+                            caption = imgs[i].alt
+                        }
+                    }
+                    
+                    if (imgs[i].dataset.src) {
+                        src = imgs[i].dataset.src
+                    } else if (imgs[i].src) {
+                        src = imgs[i].src
+                    }
+                    obj.elements.push({'src': src, 'caption': caption});
+                }
+                return obj
+         }
+        
+      
+        initUgwArticle = function() {
+             const ugwArticle = new UGW(
+                 {
+                     'invoker': '#id_text img',
+                     'json':img_find(),
+                      translation: {
+                        'images': 'images',
+                        'of': 'OF',
+                        'fullscreen': 'Fullscreen'
+                    }
+                 }
+             )
+        }
+        ICMS.libs.push({
+            'url': '/s/js/universal_gallery_widget.js?501',
+                'onPageReady': initUgwArticle
+        });
+        </script>
+
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@id": "https://fr.ign.com/news/", "name": "News"}}, {"@type": "ListItem", "position": 2, "item": {"@id": "https://fr.ign.com/batgirl", "name": "Batgirl"}}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://fr.ign.com/batgirl/61130/news/warner-bros-discovery-ne-sortirait-pas-batgirl-au-cinema-ou-en-streaming"}, "headline": "Warner Bros. Discovery ne sortirait pas Batgirl au cin\u00e9ma ou en streaming", "image": ["https://sm.ign.com/ign_fr/news/w/warner-bro/warner-bros-discovery-reportedly-wont-release-batgirl-in-the_rkv1.jpg"], "description": "Batgirl aurait \u00e9t\u00e9 mise de c\u00f4t\u00e9.", "datePublished": "2022-08-03 07:12:28+00:00", "inLanguage": "fr", "about": {"@context": "https://schema.org", "@type": "Movie", "name": "Batgirl", "description": "Batgirl", "image": ["https://sm.ign.com/ign_fr/movie/b/batgirl/batgirl_1ca1.jpg"]}, "author": {"@type": "Person", "name": "Aekonimi", "additionalName": "Aekonimi", "givenName": "Aekonimi", "description": "Habitant de la Citadelle et \u00e9leveur de Chocobo, Aekonimi fait partie de la r\u00e9daction IGN France. Il spam l'actualit\u00e9 comme il peut. Suivez-le sur Twitter", "image": "https://sm.ign.com/ign_fr/user/a/aekonimi/aekonimi_7mxf.png"}, "publisher": {"@type": "Organization", "name": "IGN France", "url": "https://fr.ign.com", "logo": {"@type": "ImageObject", "url": "https://fr.ign.com/s/ign/ign_logo_micro.png", "width": 245, "height": 60}}, "dateModified": "2022-08-03 07:12:28+00:00"}</script>
+</section>
+</body>
+</html>

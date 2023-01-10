@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5b27b5d1d4efc40011702f5a&product=inline-share-buttons' async='async'></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Agence Comevents Brive">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#007bff">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="msapplication-config" content="/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="google-site-verification" content="s1LCe22LsGjZUvGBM5P4WkZHOkMln4Mxz5Rjn9zFDvw" />
+      <title>
+    Courgettes farcies au méli-mélo céréales et légumes secs Tipiak, potiron &amp; bacon  - Gourmets de France</title>
+  
+  <meta name="description" content="1/ Portez 30 cl d’eau à ébullition dans une poêle. Hors du feu, versez le contenu d’un sachet de Méli-Mélo Céréales et Légumes secs Tipiak et ajoutez une noix de beurre. Mélangez, couvrez et laissez gonfler 9 minutes. Réservez.	2/ Coupez la partie supérieure des courgettes et le potiron en tranches puis cuisez-les 10 minutes à la vapeur.	3/ Videz l’intérieur des courgettes et coupez en dés le potiron cuit et les tomates, puis mettez de côté dans un saladier.	4/ Dans une poêle, faites revenir l’oignon émincé dans l’huile d’olive puis ajoutez les tranches de bacon coupées en lanières, la chair des courgettes, les tomates et les dés de potiron. Faites cuire jusqu’à absorption totale du jus des légumes.	5/ Ajoutez en fin de préparation les olives, le persil et la coriandre hachés ainsi que la préparation Méli-Mélo Céréales et Légumes secs Tipiak.	6/ Réchauffez le tout pendant 2 à 3 minutes, puis farcissez les courgettes et enfournez pour 10 minutes à 160°C. ">         <meta property="og:title" content="Courgettes farcies au méli-mélo céréales et légumes secs Tipiak, potiron &amp; bacon - Gourmets de France" />
+  
+      <meta property="og:description" content="1/ Portez 30 cl d’eau à ébullition dans une poêle. Hors du feu, versez le contenu d’un sachet de Méli-Mélo Céréales et Légumes secs Tipiak et ajoutez une noix de beurre. Mélangez, couvrez et laissez gonfler 9 minutes. Réservez.	2/ Coupez la partie supérieure des courgettes et le potiron en tranches puis cuisez-les 10 minutes à la vapeur.	3/ Videz l’intérieur des courgettes et coupez en dés le potiron cuit et les tomates, puis mettez de côté dans un saladier.	4/ Dans une poêle, faites revenir l’oignon émincé dans l’huile d’olive puis ajoutez les tranches de bacon coupées en lanières, la chair des courgettes, les tomates et les dés de potiron. Faites cuire jusqu’à absorption totale du jus des légumes.	5/ Ajoutez en fin de préparation les olives, le persil et la coriandre hachés ainsi que la préparation Méli-Mélo Céréales et Légumes secs Tipiak.	6/ Réchauffez le tout pendant 2 à 3 minutes, puis farcissez les courgettes et enfournez pour 10 minutes à 160°C." />
+  
+    <meta property="og:type" content="article" /> 
+
+      <meta property="og:url" content="/recettes/courgettes-farcies-au-mli-mlo-crales-et-lgumes-secs-tipiak-potiron-bacon" />
+  
+      <meta property="og:image" content="/uploads/img/tipiak_courgettes_farcies.jpg" />
+  
+  <meta property="og:site_name" content="Gourmets de France" />
+  <meta property="og:locale" content="fr_FR" />
+
+        <meta name="twitter:title" content="Courgettes farcies au méli-mélo céréales et légumes secs Tipiak, potiron &amp; bacon - Gourmets de France" />
+  
+      <meta name="twitter:description" content="1/ Portez 30 cl d’eau à ébullition dans une poêle. Hors du feu, versez le contenu d’un sachet de Méli-Mélo Céréales et Légumes secs Tipiak et ajoutez une noix de beurre. Mélangez, couvrez et laissez gonfler 9 minutes. Réservez.	2/ Coupez la partie supérieure des courgettes et le potiron en tranches puis cuisez-les 10 minutes à la vapeur.	3/ Videz l’intérieur des courgettes et coupez en dés le potiron cuit et les tomates, puis mettez de côté dans un saladier.	4/ Dans une poêle, faites revenir l’oignon émincé dans l’huile d’olive puis ajoutez les tranches de bacon coupées en lanières, la chair des courgettes, les tomates et les dés de potiron. Faites cuire jusqu’à absorption totale du jus des légumes.	5/ Ajoutez en fin de préparation les olives, le persil et la coriandre hachés ainsi que la préparation Méli-Mélo Céréales et Légumes secs Tipiak.	6/ Réchauffez le tout pendant 2 à 3 minutes, puis farcissez les courgettes et enfournez pour 10 minutes à 160°C." />
+  
+  <meta name="twitter:card" content="summary" />
+
+      <meta name="twitter:url" content="/recettes/courgettes-farcies-au-mli-mlo-crales-et-lgumes-secs-tipiak-potiron-bacon" />
+  
+      <meta name="twitter:image" content="/uploads/img/tipiak_courgettes_farcies.jpg" />
+    <meta name="twitter:site" content="Gourmets de France" />
+
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/leaflet.css">
+  <link rel="stylesheet" href="/assets/css/frontoffice.css">
+  <link rel="stylesheet" href="/assets/css/responsive.css">
+      <!-- Facebook Pixel Code -->
+  <script>
+    !function (f, b, e, v, n, t, s)
+    {
+      if (f.fbq)
+        return;
+      n = f.fbq = function () {
+        n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq)
+        f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '266418647573678');
+    fbq('track', 'PageView');
+  </script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=266418647573678&ev=PageView&noscript=1"
+               /></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+<body>
+  <script>
+    fbq('track', 'ViewContent');
+  </script>
+          <div id="wrapper" class="">
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+            <header >
+                <div class="collapse bg-dark " id="navbarHeader">
+          <div class="container">
+            <form id="form-search-engine" action="/resultats-de-recherche" class="py-2" name="form-search-engine">
+              <div class="input-group bg-grey">
+                <label for="search[query]" class="d-none">Recherche</label>
+                <input id="search_engine" class="form-control" name="search[query]" placeholder="Rechercher ..." type="search" required />
+              </div>
+              <div id="header_search_results" class="d-none">
+                <div id="header_search_close"><a title="fermer" href="#/" id="close"><i class="fas fa-times"></i></a></div>
+                <div id="header_search_produits"></div>
+                <div id="header_search_membres"></div>
+                <div id="header_search_recettes"></div>
+              </div>
+              <div class="d-none"><button type="submit">Rechercher</button></div>
+            </form>
+          </div>
+        </div>
+        <div id="mobileMenu" class="container">
+                      <div class="row">
+              <div class="reseaux_sociaux_gdf col-6 col-md-4 order-2 order-md-1 no-padding">
+                <div class="block-call-to-action">
+                  <a rel="nofollow" title="Page facebook" href="https://fr-fr.facebook.com/GourmetsdeFrance/" class="text-gold" target="_blank">
+                    <i class="fab fa-facebook-square fa-lg"></i>
+                  </a>
+                  <a rel="nofollow" title="Page instagram" href="https://www.instagram.com/gourmets2france/" class="text-gold" target="_blank">
+                    <i class="fab fa-instagram fa-lg"></i>
+                  </a>
+                  <a rel="nofollow" title="Chaine youtube" href="https://www.youtube.com/channel/UCt48pY6PhcmQQMYVwWwMhLA" class="text-gold" target="_blank">
+                    <i class="fab fa-youtube-square fa-lg"></i>
+                  </a>
+                  <a rel="nofollow" title="Page Twitter" id="twitter_gdf_orig" href="https://twitter.com/gourmets2france/status/636927922570428416" class="text-gold" target="_blank">
+                    <i class="fab fa-twitter-square fa-lg"></i>
+                  </a>
+                </div>
+              </div>
+              <div class="col-12 col-md-4 order-1 order-md-2">
+                <a title="Accueil" href="/">
+                  <img src="/images/logo.png" alt="logo gourmets de france" class="logo-header img-fluid" />
+                </a>
+                <a rel="nofollow" title="Menu" href="#/" data-toggle="modal" data-target="#menuMobileModal" class="link-hamburger text-light text-gold" id="btn-hamburger-pages">
+                  <i class="fas fa-bars fa-2x text-gold"></i>
+                </a>
+              </div>
+              <div class="fonctionnalites_gdf col-6 col-md-4 order-3 order-md-3 no-padding">
+                <div class="block-call-to-action-bis">
+                  <a rel="nofollow" title="Page Twitter" id="twitter_gdf" href="https://twitter.com/gourmets2france/status/636927922570428416" class="text-gold">
+                    <i class="fab fa-twitter-square fa-lg"></i>
+                  </a>
+                  <a rel="nofollow" rel="nofollow" title="Rechercher" id="menu_search_button" href="#/" class="text-gold" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-search fa-lg"></i>
+                  </a>
+                  <a rel="nofollow" title="Partager" href="#/" class="text-gold" data-toggle="modal" data-target="#shareModal">
+                    <i class="fas fa-share-alt-square fa-lg"></i>
+                  </a>
+                                      <a title="Compte" id="user_login" href="/connexion" class="text-gold" title="Se connecter">
+                      <i class="fas fa-user fa-lg"></i>
+                    </a>                
+                                  </div>
+              </div>
+            </div>
+            <div class="row mb-2 mt-2 d-none d-md-block">
+              <div class="col-12">
+                <nav class="navbar navbar-light">
+                  <div id="navbarSupportedContent2" class="navbar-expand-md">
+                    <ul class="navbar-nav mx-auto">
+                      <li class="nav-item dropdown">
+                        <a title="Les Tests-produit" class="nav-link dropdown-toggle
+                                                      " href="#" rel="nofollow" id="navbarDropdown5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Les Tests-produit
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                          <a title="Le Concept" class="dropdown-item " href="/le-concept">Le Concept</a>
+                          <a title="Le label attribué Gourmets" class="dropdown-item " href="/le-label-gourmets-de-france">Le label attribué Gourmets</a>
+                          <a title="Making Of" class="dropdown-item " href="/making-of">Making Of</a>
+                          <a title="Témoignages des marques" class="dropdown-item " href="/temoignages">Témoignages des marques</a>
+                          <a title="Prochaines sessions" class="dropdown-item " href="/prochaines-sessions">Prochaines sessions</a>
+                        </div>
+                      </li>
+                      <li class="nav-item dropdown">
+                        <a title="Les produits testés" class="nav-link dropdown-toggle
+                                                      " href="#" rel="nofollow" id="navbarDropdown6" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Les produits testés
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown6">
+                          <a title="Charcuterie/Salaisons" class="dropdown-item " href="/tests-produit/charcuteries-et-salaisons">Charcuterie/Salaisons</a>
+                          <a title="Foie gras" class="dropdown-item " href="/tests-produit/foies-gras">Foie gras</a>
+                          <a title="Fromages" class="dropdown-item " href="/tests-produit/fromages">Fromages</a>
+                          <a title="Oeufs / produits laitiers" class="dropdown-item " href="/tests-produit/oeufs-et-produits-laitiers">Oeufs / produits laitiers</a>
+                          <a title="Fruits et légumes" class="dropdown-item " href="/tests-produit/fruits-et-legumes">Fruits et légumes</a>
+                          <a title="Produits de la mer" class="dropdown-item " href="/tests-produit/produits-de-la-mer">Produits de la mer</a>
+                          <a title="Produits transformés" class="dropdown-item " href="/tests-produit/produits-transformes-sale-sucre">Produits transformés</a>
+                          <a title="Viandes et volailles" class="dropdown-item " href="/tests-produit/viandes-et-volailles">Viandes et volailles</a>
+                          <a title="Liquides, vins et spiritueux" class="dropdown-item " href="/tests-produit/vins-et-spiritueux">Vins, spiritueux et liquides</a>
+                        </div>
+                      </li>
+                      <li class="nav-item">
+                        <a title="Dream Team" class="nav-link " href="/membres">Dream Team</a>
+                      </li>
+                      <li class="nav-item">
+                        <a title="Actualités" class="nav-link " href="/actualites">Actualités</a>
+                      </li>
+                      <li class="nav-item">
+                        <a title="Recettes" class="nav-link  active " href="/recettes">Recettes</a>
+                      </li>
+                      <li class="nav-item">
+                        <a title="Magazines" class="nav-link " href="/magazines">Magazines</a>
+                      </li>
+                      <li class="nav-item">
+                        <a title="Contact" class="nav-link " href="/contact">Contact</a>
+                      </li>
+                    </ul>
+                  </div>
+                </nav>
+              </div>
+            </div>
+                  </div>
+              </header>
+
+            <div id="page-content-area" class="pb-5">
+        <div class="container">
+                                                          </div>
+
+        
+  <div class="container">
+    <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="/" itemscope itemtype="http://schema.org/Thing" itemprop="item">
+          <i class="fas fa-home"></i>
+        </a>
+        <meta itemprop="position" content="1" />
+      </li>
+      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="/recettes" itemscope itemtype="http://schema.org/Thing" itemprop="item">
+          Recettes
+        </a>
+        <meta itemprop="position" content="2" />
+      </li>
+      <li class="breadcrumb-item active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <span itemscope itemtype="http://schema.org/Thing" itemprop="item">
+          Courgettes farcies au méli-mélo céréales et légumes secs Tipiak, potiron &amp; bacon
+        </span>
+        <meta itemprop="position" content="3" />
+      </li>
+    </ol>
+  </div>
+
+  
+  <div class="container">
+    <h1 class="page-header">Courgettes farcies au méli-mélo céréales et légumes secs Tipiak, potiron &amp; bacon</h1>
+        <div class="row">
+      <div class="col-12">
+        <div class="bg-black">
+          <div class="row">
+            <div class="col-12 mb-4 text-light">
+              <div class="cadre-recette mt-3">
+                <div class="center-left-responsive">
+                  <div class="row" style="font-size:0.9em;">
+                    <div class="col-12 col-md-4 col-lg-4 text-center">
+                                                                        1 personne <i class="fas fa-male text-gold"></i>
+                                                                  </div>
+                    <div class="col-12 col-md-4 col-lg-4 text-center">
+                                              <span>Préparation : 20 min <i class="far fa-clock text-gold"></i></span>
+                                            </div>
+                    <div class="col-12 col-md-4 col-lg-4 text-center">
+                                              <span>Cuisson : 35 min <i class="fas fa-fire text-gold"></i></span>
+                                            </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 text-light">
+              <div class="block-img-recette img-center d-block">
+                                                      <img src="/uploads/img/tipiak_courgettes_farcies.jpg" alt="tipiak_courgettes_farcies.jpg" class="img-fluid" />
+                                                </div>
+              <div class="p-4">
+                <div class="text-gold uppercase text-center mb-2" style="font-size:1.2em;">Ingrédients</div>
+                <div style="font-size:0.8em;text-justify: inter-word;">
+                  1 sachet de Méli-Mélo Céréales et Légumes secs Tipiak 8 courgettes rondes 2 tomates 250 g de potiron 1 cuillère soupe d’huile d’olive 1 oignon 5 tranches de bacon 20 olives noires dénoyautées coupées 2 cuillères à soupe de persil plat et de coriandre
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-6 text-light">
+              <div class="p-2">
+                <big class="text-gold uppercase" style="font-size:1.2em;">Préparation</big><br/>
+                <div style="font-size:0.9em;text-justify: inter-word;">
+                  1/ Portez 30 cl d’eau à ébullition dans une poêle. Hors du feu, versez le contenu d’un sachet de Méli-Mélo Céréales et Légumes secs Tipiak et ajoutez une noix de beurre. Mélangez, couvrez et laissez gonfler 9 minutes. Réservez.	2/ Coupez la partie supérieure des courgettes et le potiron en tranches puis cuisez-les 10 minutes à la vapeur.	3/ Videz l’intérieur des courgettes et coupez en dés le potiron cuit et les tomates, puis mettez de côté dans un saladier.	4/ Dans une poêle, faites revenir l’oignon émincé dans l’huile d’olive puis ajoutez les tranches de bacon coupées en lanières, la chair des courgettes, les tomates et les dés de potiron. Faites cuire jusqu’à absorption totale du jus des légumes.	5/ Ajoutez en fin de préparation les olives, le persil et la coriandre hachés ainsi que la préparation Méli-Mélo Céréales et Légumes secs Tipiak.	6/ Réchauffez le tout pendant 2 à 3 minutes, puis farcissez les courgettes et enfournez pour 10 minutes à 160°C.
+                </div>
+                <div class="center-right-responsive p-4">
+                  <a href="#/" class="text-gold" style="font-size:1.4em;" data-toggle="modal" data-target="#shareModal">
+                    <i class="fas fa-share-alt-square"></i>
+                  </a>
+                  <a target="_blank" href="/recettes/print/1184" class="text-gold ml-2" style="font-size:1.4em;">
+                    <i class="fas fa-download"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-5"></div>
+
+    
+  </div>
+      </div>
+
+      <!-- Footer -->
+      <footer id="footer">
+        <div class="bg-black text-light">
+          <div class="container pt-3 pb-3">
+            <div class="row">
+              <div class="col- col-md-9">
+                <div class="row">
+                  <div class="col-12 col-sm-6 col-md-4">
+                    <div class="footer_title">Gourmets de France</div>
+                    <hr class="mb-1 mt-1 bg-gold">
+                    <ul class="list-unstyled">
+                      <li>
+                        <a title="Produits testés" href="/tests-produit">Produits testés</a>
+                      </li>
+                      <li>
+                        <a title="Dream Team" href="/membres">Dream Team</a>
+                      </li>
+                      <li>
+                        <a title="Recettes" href="/recettes">Recettes</a>
+                      </li>
+                      <li>
+                        <a title="Magazines" href="/magazines">Magazines</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="col-12 col-sm-6 col-md-4">
+                    <div class="footer_title">Professionnels</div>
+                    <hr class="mb-1 mt-1 bg-gold">
+                    <ul class="list-unstyled">
+                      <li>
+                        <a title="Faire tester vos produits" href="/contact">Faire tester vos produits</a>
+                      </li>
+                      <li>
+                        <a title="Crédits photos" href="/credits-photos">Crédits photos</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="col-12 col-sm-6 col-md-4">
+                    <div class="footer_title">En plus</div>
+                    <hr class="mb-1 mt-1 bg-gold">
+                    <ul class="list-unstyled">
+                      <li>
+                        <a title="Nous contacter" href="https://tests-produit-gourmets.fr/contact">Nous contacter</a>
+                      </li>
+                      <li>
+                        <a title="Actualités" href="https://tests-produit-gourmets.fr/actualites">Actualités</a>
+                      </li>
+                      <li>
+                        <a title="Mentions légales" href="https://tests-produit-gourmets.fr/mentions-legales">Mentions légales</a>
+                      </li>
+                      <li>
+                        <a title="Plan du site" href="https://tests-produit-gourmets.fr/sitemap">Plan du site</a>
+                      </li>
+                      <li>
+                        <a title="Cookies" rel="nofollow" href="#/" onclick="tarteaucitron.userInterface.openPanel();">Cookies</a>
+                      </li>
+                      <li>
+                        <a title="Politique de confidentialité" href="/pages/politique-de-confidentialite">Politique de confidentialité</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="col-12 col-sm-6 d-xs-none d-sm-block d-md-none">
+                    <div class="footer_title">Contact</div>
+                    <hr class="mb-1 mt-1 bg-gold">
+                    <div class="mb-2 font-size-0_8" style="line-height:1.7em;">
+                      <span>Gourmets de France Production</span><br/>
+                      <span>11 rue du Lieutenant Paul Dhalluin</span><br/>
+                      <span>19100 Brive-La-Gaillarde</span><br/>
+                    </div>
+                    <div class="mb-3 font-size-0_8" style="line-height:1.7em;">
+                      <span>Gourmets de France Rédaction</span><br/>
+                      <span>33100 Bordeaux</span><br/>
+                    </div>
+                    <span><i class="fas fa-phone"></i> <a title="Appeler" href="tel:+33555881992">0 555 881 992</a></span>
+                  </div>
+                  <div class="col-12 d-none d-md-block">
+                    <div class="textes-avertissements">
+                      <span>"L'abus d'alcool est dangereux pour la santé, consommez avec modération"</span><br/>
+                      <span>"Pour votre santé, mangez au moins cinq fruits et légumes par jour"</span><br/>
+                      <span>"Pour votre santé, évitez de manger trop gras, trop sucré, trop salé"</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="entete_reseaux_sociaux" class="col-12 col-sm-6 col-md-3 d-block d-sm-none d-md-block">
+                <div class="footer_title">Contact</div>
+                <hr class="mb-1 mt-1 bg-gold">
+                <div class="mb-2 font-size-0_8" style="line-height:1.7em;">
+                  <span>Gourmets de France Production</span><br/>
+                  <span>11 rue du Lieutenant Paul Dhalluin</span><br/>
+                  <span>19100 Brive-La-Gaillarde</span><br/>
+                </div>
+                <div class="mb-3 font-size-0_8" style="line-height:1.7em;">
+                  <span>Gourmets de France Rédaction</span><br/>
+                  <span>33100 Bordeaux</span><br/>
+                </div>
+                <span><i class="fas fa-phone"></i> <a title="Appeler" href="tel:+33555881992">0 555 881 992</a></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="bg-black text-light pt-2 pb-2">
+          <div class="container">
+            <div class="row">
+              <div class="col-12 col-md-2 col-lg-2 col-xl-2 mb-2">
+                <span id="suivez-nous" class="d-block mt-1">SUIVEZ-NOUS</span>
+              </div>
+              <div class="col-12 col-md-4 co-lg-3 col-xl-2 mb-2">
+                <a rel="nofollow" title="Page facebook" href="https://fr-fr.facebook.com/GourmetsdeFrance/" class="social-network-icons mb-2" target="_blank" >
+                  <i class="fab fa-facebook-square"></i>
+                </a>
+                <a rel="nofollow" title="Page instagram" href="https://instagram.com/gourmets2france" class="social-network-icons mb-2" target="_blank">
+                  <i class="fab fa-instagram"></i>
+                </a>
+                <a rel="nofollow" title="Chaine youtube" href="https://www.youtube.com/user/Gourmets2France" class="social-network-icons mb-2" target="_blank">
+                  <i class="fab fa-youtube-square"></i>
+                </a>
+                <a rel="nofollow" title="Page twitter" href="https://twitter.com/gourmets2france" class="social-network-icons mb-2" target="_blank">
+                  <i class="fab fa-twitter-square"></i>
+                </a>
+                <a rel="nofollow" title="Partager" href="#/" data-toggle="modal" class="social-network-icons mb-2" data-target="#shareModal">
+                  <i class="fas fa-share-alt-square"></i>
+                </a>
+              </div>
+              <div class="col-12 col-md-6 co-lg-8 col-xl-8 mb-2">
+                <a title="Newsletter" href="#/" data-toggle="modal" data-target="#newslettersModal" class="btn btn-sm btn-gold mb-2">
+                  <span class="uppercase">m'inscrire</span>
+                  <span class="italic">à la Newsletter</span>
+                </a>
+                <span class="ml-4 font-size-0_8">© Comevents 2023</span>
+              </div>
+              <div class="col-12 d-block d-md-none">
+                <div class="textes-avertissements">
+                  <span>"L'abus d'alcool est dangereux pour la santé, consommez avec modération"</span><br/>
+                  <span>"Pour votre santé, mangez au moins cinq fruits et légumes par jour"</span><br/>
+                  <span>"Pour votre santé, évitez de manger trop gras, trop sucré, trop salé"</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- /#page-content-wrapper -->
+  </div>
+
+    <div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="modal-title" id="shareModalLabel">
+            <i class="fas fa-share-alt"></i> Partager
+          </div>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="sharethis-inline-share-buttons"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Modal NEWSLETTER -->
+  <div class="modal fade" id="newslettersModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <big class="modal-title" id="exampleModalLabel">Inscription à la newsletter</big>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form method="post" action="https://newsletter.infomaniak.com/external/submit" class="inf-form" target="_blank">
+            <label for="email" class="d-none">Email</label>
+            <input type="email" name="email" class="d-none" />
+            <input type="hidden" name="key" value="eyJpdiI6IkhGK3hQVVJHNVdQbVdCY1NzUHlQZmtiT1FFczVLZDJhY1lWdmhSckYxeDg9IiwidmFsdWUiOiIwempOM1hJMERWQkFTd0FVbkR2STJVVmFremM4Nkw2WFlxRk1tajRpTmN3PSIsIm1hYyI6ImJlODQ1OTBjNjEwZTc2NjNiMDk2MzVhZThiYzdjZTk2OTUzYzNhMDJiN2NlMjAwNzE4YmI1NzZlM2E5MDZhNTQifQ==">
+            <input type="hidden" name="webform_id" value="4038">
+            <style> 
+              .inf-main{ background-color:#f5f5f5; padding:25px 20px; margin:25px auto; }
+              .inf-main .inf-content { margin-top:13px;}
+              .inf-main h4, .inf-main span, .inf-main label, .inf-main input, .inf-main .inf-submit, .inf-main .inf-success p a { color:#555555; font-size:14px; }
+              .inf-main h4{ font-size:18px; margin:0px 0px 13px 0px; } 
+              .inf-main h4, .inf-main label{ font-weight:bold; } 
+              .inf-main .inf-input { margin-bottom:7px; }
+              .inf-main label { display:block;} 
+              .inf-main input{ height:35px; color:#999999; border: 1px solid #E9E9E9; border:none; padding-left:7px; } 
+              .inf-main .inf-input.inf-error label, .inf-main .inf-input.inf-error span.inf-message{ color: #cc0033; } 
+              .inf-main .inf-input.inf-error input{ border: 1px solid #cc0033; } 
+              .inf-main .inf-input input { width:100%;}
+              .inf-main .inf-input.inf-error span.inf-message { display: block; } 
+              .inf-main .inf-submit { text-align:right;}
+              .inf-main .inf-submit input{ background-color:#777777; color:#ffffff; border:none; font-weight: normal; height:auto; padding:7px; } 
+              .inf-main .inf-submit input.disabled{ opacity: 0.4; } 
+              .inf-btn { color: rgb(85, 85, 85); border: medium none; font-weight: normal; height: auto; padding: 7px; display: inline-block; background-color: white; box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.24); border-radius: 2px; line-height: 1em; } 
+              .inf-rgpd { margin:25px 0px 15px 0px; color:#555555; } 
+            </style> 
+            <div class="inf-main">
+              <div class="inf-success d-none"> 
+                <big>Votre inscription a été enregistrée avec succès !</big> 
+                <p> 
+                  <a title="succés" href="#" rel="nofollow" class="inf-btn">«</a>
+                </p>
+              </div>
+              <div class="inf-content">
+                <div class="inf-input inf-input-text">
+                  <label for="inf[1]" class="d-none">Inf</label>
+                  <input type="text" name="inf[1]" data-inf-meta = "1" data-inf-error = "Merci de renseigner une adresse email" required="required" placeholder="Email" > 
+                </div> 
+                <div class="inf-rgpd">Votre adresse de messagerie est uniquement utilisée pour vous envoyer notre lettre d'information ainsi que des informations concernant nos activités. Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans chacun de nos mails.</div>
+                <div class="inf-submit"> 
+                  <input type="submit" name="" value="Valider"> 
+                </div> 
+              </div> 
+            </div> 
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-gold" data-dismiss="modal">Fermer</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Modal MENU MOBILE -->
+  <div class="modal fade" id="menuMobileModal" tabindex="-1" role="dialog" aria-labelledby="menuMobileModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-12 text-right">
+              <a title="fermer" id="closeMenuMobileModal" href="#/" data-dismiss="modal" class="d-block text-light">
+                <i class="fas fa-times fa-2x"></i>
+              </a>
+            </div>
+          </div>
+          <nav class="navbar navbar-light">
+            <div id="navbarSupportedContent3">
+              <ul class="navbar-nav mx-auto">
+                <li class="nav-item dropdown">
+                  <a title="Les Tests-produit" class="nav-link dropdown-toggle
+                                          " href="#" rel="nofollow" id="navbarDropdown7" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Les Tests-produit
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown7">
+                    <a title="Le Concept" class="dropdown-item " href="/le-concept">Le Concept</a>
+                    <a title="Le label attribué Gourmets" class="dropdown-item " href="/le-label-gourmets-de-france">Le label attribué Gourmets</a>
+                    <a title="Making Of" class="dropdown-item " href="/making-of">Making Of</a>
+                    <a title="Témoignages des marques" class="dropdown-item " href="/temoignages">Témoignages des marques</a>
+                    <a title="Prochaines sessions" class="dropdown-item " href="/prochaines-sessions">Prochaines sessions</a>
+                  </div>
+                </li>
+                <li class="nav-item dropdown">
+                  <a title="Les produits testés" class="nav-link dropdown-toggle
+                                          " href="#" rel="nofollow" id="navbarDropdown8" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Les produits testés
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown8">
+                    <a title="Charcuterie/Salaisons" class="dropdown-item " href="/tests-produit/charcuteries-et-salaisons">Charcuterie/Salaisons</a>
+                    <a title="Foie gras" class="dropdown-item " href="/tests-produit/foies-gras">Foie gras</a>
+                    <a title="Fromages" class="dropdown-item " href="/tests-produit/fromages">Fromages</a>
+                    <a title="Oeufs / produits laitiers" class="dropdown-item " href="/tests-produit/oeufs-et-produits-laitiers">Oeufs / produits laitiers</a>
+                    <a title="Fruits et légumes" class="dropdown-item " href="/tests-produit/fruits-et-legumes">Fruits et légumes</a>
+                    <a title="Produits de la mer" class="dropdown-item " href="/tests-produit/produits-de-la-mer">Produits de la mer</a>
+                    <a title="Produits transformés" class="dropdown-item " href="/tests-produit/produits-transformes-sale-sucre">Produits transformés</a>
+                    <a title="Viandes et volailles" class="dropdown-item " href="/tests-produit/viandes-et-volailles">Viandes et volailles</a>
+                    <a title="Liquides, vins et spiritueux" class="dropdown-item " href="/tests-produit/vins-et-spiritueux">Liquides, vins et spiritueux</a>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a title="Dream Team" class="nav-link " href="/membres">Dream Team</a>
+                </li>
+                <li class="nav-item">
+                  <a title="Actualités" class="nav-link " href="/actualites">Actualités</a>
+                </li>
+                <li class="nav-item">
+                  <a title="Recettes" class="nav-link  active " href="/recettes">Recettes</a>
+                </li>
+                <li class="nav-item">
+                  <a title="Magazines" class="nav-link " href="/magazines">Magazines</a>
+                </li>
+                <li class="nav-item">
+                  <a title="Contact" class="nav-link " href="/contact">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+
+      <script src="/assets/js/jquery-3.2.1.min.js"></script>
+      <script src="/assets/js/popper.min.js"></script>
+      <script src="/assets/js/bootstrap.min.js"></script>
+      <script src="/assets/js/backoffice/apiImport.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    <script src="/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript">
+                          tarteaucitron.init({
+                            "hashtag": "#tarteaucitron", /* Ouverture automatique du panel avec le hashtag */
+                            "highPrivacy": false, /* désactiver le consentement implicite (en naviguant) ? */
+                            "orientation": "bottom", /* le bandeau doit être en haut (top) ou en bas (bottom) ? */
+                            "adblocker": false, /* Afficher un message si un adblocker est détecté */
+                            "showAlertSmall": false, /* afficher le petit bandeau en bas à droite ? */
+                            "cookieslist": true, /* Afficher la liste des cookies installés ? */
+                            "removeCredit": false /* supprimer le lien vers la source ? */
+                          });
+    </script>
+    <script type="text/javascript">
+      tarteaucitron.user.mapscallback = 'callback_function'; // optionnal - for markers
+      tarteaucitron.user.analyticsUa = 'UA-2787957-27';
+      tarteaucitron.user.analyticsMore = function () {};
+      (tarteaucitron.job = tarteaucitron.job || []).push('analytics');
+      (tarteaucitron.job = tarteaucitron.job || []).push('facebook');
+      (tarteaucitron.job = tarteaucitron.job || []).push('twitter');
+      (tarteaucitron.job = tarteaucitron.job || []).push('gplus');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2787957-27"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'UA-2787957-27');
+    </script>
+    <script>
+
+      $('#header_search_results #close').on('click', function () {
+        $('#header_search_results').hide();
+        $('#search_engine').val('');
+      });
+
+      function convertNoteIntoStars(note) {
+        var htmlToReturn = '<span class="font-size-0_7">';
+        if (note == null || note == 0) {
+          return '';
+        }
+        if (note < 20) {
+          htmlToReturn = '<i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>';
+        }
+        if (note == 1) {
+          htmlToReturn = '<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>';
+        }
+        if (note == 2) {
+          htmlToReturn = '<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>';
+        }
+        if (note == 3) {
+          htmlToReturn = '<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>';
+        }
+        if (note >= 20) {
+          htmlToReturn = '<i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>';
+        }
+        if (note >= 40) {
+          htmlToReturn = '<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>';
+        }
+        if (note >= 60) {
+          htmlToReturn = '<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i>';
+        }
+        if (note >= 80) {
+          htmlToReturn = '<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i>';
+        }
+        if (note == 100) {
+          htmlToReturn += '<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>';
+        }
+        htmlToReturn += '</span><br/>';
+        return htmlToReturn;
+      }
+
+      // Ferme les résultats d'autocomplétion lors d'un clic à l'extérieur de cet élement
+      $(document.body).click(function (e) {
+        var div_cliquable = $('#form-search-engine');
+        if (!$(e.target).is(div_cliquable) && !$.contains(div_cliquable[0], e.target)) {
+          $('#header_search_results').hide();
+        }
+      });
+
+      // Lance la recherche si l'utilisateur n'a pas saisie depuis 500ms
+      $('#search_engine').keyup(function () {
+        clearTimeout($.data(this, 'timer'));
+        var wait = setTimeout(searchAutocomplete, 500);
+        $(this).data('timer', wait);
+      });
+
+      function searchAutocomplete() {
+        searchProduits();
+        searchRecettes();
+        searchMembres();
+      }
+      // Recherche de produits pour l'autocompletion
+      function searchProduits() {
+        var nb_caractere_debut_recherche = 2;
+        if ($('#search_engine').val().length >= nb_caractere_debut_recherche) {
+          var parametres = {
+            term: $('#search_engine').val().replace(' ', '+'), // Terme à rechercher dans les titres de produits
+            limit: 3, // Nombre maximum de résultats à afficher
+            published: 1                                  // TRUE si on veut que les éléments publiés
+          };
+          $.ajax({
+            url: "/tests-produit-search",
+            type: 'get',
+            dataType: 'json',
+            beforeSend: function () {
+              $('#search_engine_picto').html('<i class="fas fa-spinner fa-pulse"></i>');
+            },
+            success: function (data) {
+              $('#search_engine_picto').html('<i class="fab fa-searchengin"></i>');
+              $('#header_search_results').show();
+              $('#header_search_results').removeClass('d-none');
+              var results_html = '';
+              var link_path = "/resultats-de-recherche?search%5Bquery%5D=termes&amp;type=produits";
+              link_path = link_path.replace('termes', $('#search_engine').val());
+              results_html = results_html + '<hr class="bg-light my-1">';
+              results_html = results_html + '<div class="autocomplete_categorie">Produits (<a title="Voir tous les produits" href="' + link_path + '"><i>Voir tous les produits</i></a>)</div>';
+              results_html += '<div class="row">';
+              if (data.data.produits.length > 0) {
+                $.each(data.data.produits, function (index, element) {
+                  results_html += '<div class="col-12 col-md-6 col-lg-4">';
+                  if (element.filename != null) {
+                    results_html += '<a title="' + element.titre + '" class="d-block p-2 text-light" href="/tests-produit/' + element.parent + '/' + element.slug + '">';
+                    results_html += '<div class="row">';
+                    results_html += '<div class="col-12 col-sm-3 col-lg-4 d-none d-sm-block">';
+                    results_html += '<div class="block-img-search-bar">';
+                    results_html += '<img class="img-fluid d-none d-sm-block img-search-bar" src="/uploads/img/' + element.filename + '" alt="' + element.alt + '" />';
+                    results_html += '</div>';
+                    results_html += '</div>';
+                    results_html += '<div class="col-12 col-sm-9 col-lg-8">';
+                    results_html += '<span class="text-gold uppercase italic font-size-0_9">' + element.titre + '</span><br/>';
+                    results_html += convertNoteIntoStars(element.note);
+                    results_html += '<div class="font-size-0_7" style="line-height:1.1;">' + element.contenu + '</div>';
+                    results_html += '</div>';
+                    results_html += '</div>';
+                    results_html += '</a>';
+                  } else {
+                    results_html += '<a title="' + element.titre + '" href="/tests-produit/' + element.slug + '">';
+                    results_html += element.titre;
+                    results_html += '</a>';
+                  }
+                  results_html += '</div>';
+                });
+              }
+              if (data.data.boissons.length > 0) {
+                $.each(data.data.boissons, function (index, element) {
+                  results_html += '<div class="col-12 col-md-6 col-lg-4">';
+                  if (element.filename != null) {
+                    results_html += '<a title="' + element.titre + '" class="d-block p-2 text-light" href="/tests-boisson/' + element.parent + '/' + element.slug + '">';
+                    results_html += '<div class="row">';
+                    results_html += '<div class="col-12 col-sm-3 col-lg-4 d-none d-sm-block">';
+                    results_html += '<div class="block-img-search-bar">';
+                    results_html += '<img class="img-fluid d-none d-sm-block img-search-bar" src="/uploads/img/' + element.filename + '" alt="' + element.alt + '" />';
+                    results_html += '</div>';
+                    results_html += '</div>';
+                    results_html += '<div class="col-12 col-sm-9 col-lg-8">';
+                    results_html += '<span class="text-gold uppercase italic font-size-0_9">' + element.titre + '</span><br/>';
+                    results_html += '<span class="font-size-0_7">' + convertNoteIntoStars(element.note) + '</span><br/>';
+                    results_html += '<div class="font-size-0_7" style="line-height:1.1;">' + element.contenu + '</div>';
+                    results_html += '</div>';
+                    results_html += '</div>';
+                    results_html += '</a>';
+                  } else {
+                    results_html += '<a title="' + element.titre + '" href="/tests-produit/' + element.slug + '">';
+                    results_html += element.titre;
+                    results_html += '</a>';
+                  }
+                  results_html += '</div>';
+                });
+              }
+              results_html += '</div>';
+              $('#header_search_produits').html(results_html);
+            },
+            data: parametres
+          });
+        }
+      }
+      // Recherche de recettes pour l'autocompletion
+      function searchRecettes() {
+        var nb_caractere_debut_recherche = 2;
+        if ($('#search_engine').val().length >= nb_caractere_debut_recherche) {
+          var parametres = {
+            term: $('#search_engine').val().replace(' ', '+'), // Terme à rechercher dans les titres de produits
+            limit: 3, // Nombre maximum de résultats à afficher
+            published: 1                                  // TRUE si on veut que les éléments publiés
+          };
+          $.ajax({
+            url: "/search-recettes",
+            type: 'get',
+            dataType: 'json',
+            beforeSend: function () {
+              $('#search_engine_picto').html('<i class="fas fa-spinner fa-pulse"></i>');
+            },
+            success: function (data) {
+              $('#search_engine_picto').html('<i class="fab fa-searchengin"></i>');
+              $('#header_search_results').show();
+              $('#header_search_results').removeClass('d-none');
+              var results_html = '';
+              var link_path = "/resultats-de-recherche?search%5Bquery%5D=termes&amp;type=recettes";
+              link_path = link_path.replace('termes', $('#search_engine').val());
+              results_html = results_html + '<hr class="bg-light my-1">';
+              results_html = results_html + '<div class="autocomplete_categorie">Recettes (<a title="Voir toutes les recettes" href="' + link_path + '"><i>Voir toutes les recettes</i></a>)</div>';
+              results_html += '<div class="row">';
+              $.each(data.data.recettes, function (index, element) {
+                results_html += '<div class="col-12 col-md-6 col-lg-4">';
+                if (element.filename != null) {
+                  results_html += '<a title="' + element.titre + '" class="d-block p-2 text-light" href="/recettes/' + element.slug + '">';
+                  results_html += '<div class="row">';
+                  results_html += '<div class="col-12 col-sm-3 col-lg-4 d-none d-sm-block">';
+                  results_html += '<div class="block-img-search-bar">';
+                  results_html += '<img class="img-fluid d-none d-sm-block img-search-bar" src="/uploads/img/' + element.filename + '" alt="' + element.alt + '" />';
+                  results_html += '</div>';
+                  results_html += '</div>';
+                  results_html += '<div class="col-12 col-sm-9 col-lg-8">';
+                  results_html += '<span class="text-gold uppercase italic font-size-0_8">' + element.titre + '</span><br/>';
+                  results_html += convertNoteIntoStars(element.averageNote);
+                  results_html += '<div class="font-size-0_7" style="line-height:1.1;"></div>';
+                  results_html += '</div>';
+                  results_html += '</div>';
+                  results_html += '</a>';
+                } else {
+                  results_html += '<a title="' + element.titre + '" href="/tests-produit/' + element.slug + '">';
+                  results_html += element.titre;
+                  results_html += '</a>';
+                }
+                results_html += '</div>';
+              });
+              results_html += '</div>';
+              $('#header_search_recettes').html(results_html);
+            },
+            data: parametres
+          });
+        }
+      }
+      // Recherche de membres de jury pour l'autocompletion
+      function searchMembres() {
+        var nb_caractere_debut_recherche = 2;
+        if ($('#search_engine').val().length >= nb_caractere_debut_recherche) {
+          var parametres = {
+            term: $('#search_engine').val().replace(' ', '+'), // Terme à rechercher dans les titres de produits
+            limit: 3, // Nombre maximum de résultats à afficher
+            published: 1 // TRUE si on veut que les éléments publiés
+          };
+          $.ajax({
+            url: "/membres-search",
+            type: 'get',
+            dataType: 'json',
+            beforeSend: function () {
+              $('#search_engine_picto').html('<i class="fas fa-spinner fa-pulse"></i>');
+            },
+            success: function (data) {
+              $('#search_engine_picto').html('<i class="fab fa-searchengin"></i>');
+              $('#header_search_results').show();
+              $('#header_search_results').removeClass('d-none');
+              var results_html = '';
+              var link_path = "/resultats-de-recherche?search%5Bquery%5D=termes&amp;type=chefs";
+              link_path = link_path.replace('termes', $('#search_engine').val());
+              results_html = results_html + '<hr class="bg-light my-1">';
+              results_html = results_html + '<div class="autocomplete_categorie">Chefs (<a title="Voir tous les chefs" href="' + link_path + '"><i>Voir tous les chefs</i></a>)</div>';
+              results_html += '<div class="row">';
+              $.each(data.data.membres, function (index, element) {
+                results_html += '<div class="col-12 col-md-6 col-lg-4">';
+                if (element.filename != null) {
+                  results_html += '<a title="' + element.titre + '" class="d-block p-2 text-light" href="/membres/' + element.slug + '">';
+                  results_html += '<div class="row">';
+                  results_html += '<div class="col-12 col-sm-3 col-lg-4 d-none d-sm-block">';
+                  results_html += '<div class="block-img-search-bar">';
+                  results_html += '<img class="img-fluid d-none d-sm-block img-search-bar" src="/uploads/img/' + element.filename + '" alt="' + element.alt + '" />';
+                  results_html += '</div>';
+                  results_html += '</div>';
+                  results_html += '<div class="col-12 col-sm-9 col-lg-8">';
+                  results_html += '<span class="text-gold uppercase italic font-size-0_9">' + element.titre + '</span><br/>';
+                  results_html += convertNoteIntoStars(element.etoiles);
+                  results_html += '<div class"font-size-0_7" style="line-height:1.1;">' + element.contenu + '</div>';
+                  results_html += '</div>';
+                  results_html += '</div>';
+                  results_html += '</a>';
+                } else {
+                  results_html += '<a title="' + element.titre + '" href="/tests-produit/' + element.slug + '">';
+                  results_html += element.titre;
+                  results_html += '</a>';
+                }
+                results_html += '</div>';
+              });
+              results_html += '</div>';
+              $('#header_search_membres').html(results_html);
+            },
+            data: parametres
+          });
+        }
+      }
+    </script>
+
+    <script>
+      $('.pagination li:first-child a').html('<i class="fas fa-caret-left"></i>');
+      $('.pagination li:last-child a').html('<i class="fas fa-caret-right"></i>');
+      $(window).on("scroll", function () {
+        var scrollHeight = $(document).height();
+        var scrollPosition = $(window).height() + $(window).scrollTop();
+        if ((scrollHeight - scrollPosition) / scrollHeight === 0) {
+          $('.arrow-down-index').hide();
+        } else {
+          $('.arrow-down-index').show();
+        }
+      });
+    </script>
+</body>
+</html>

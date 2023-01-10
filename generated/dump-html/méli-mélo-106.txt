@@ -1,0 +1,1106 @@
+<!DOCTYPE html>
+<html lang="fr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<head>
+  <title>Salade Méli-mélo de Céréales, figues, jambon de Parme et ses croûtons au...</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1. maximum-scale=1" />
+
+  <!-- prealod css et js -->
+  <link href="/css/notrefamille.css?version=0.3.725" rel="preload" as="style" />
+  <link href="/vendor/bayard-admin/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/notrefamille.css?version=0.3.725" rel="preload" as="style" />
+  <link href="/js/minimal.js?version=0.3.725" rel="preload" as="script" />
+  <link href="/js/app.js?version=0.3.725" rel="preload" as="script" />
+      <link href="/fonts/icomoon.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+      <link href="/fonts/opensans-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+      <link href="/fonts/opensans-bold-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+      <link href="/fonts/roboto-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+      <link href="/fonts/roboto-bold-latin.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous" />
+    <link href="/css/notrefamille.css?version=0.3.725" rel="stylesheet" type="text/css" />
+  
+  <!-- Preconnect to reduce loading time of external ressources -->
+  <link rel="preconnect" href="https://sso.notrefamille.com" />  <link rel="preconnect" href="https://i.notrefamille.com" />  <link rel="preconnect" href="https://sdk.privacy-center.org" />
+      <link rel="preconnect" href="t.notrefamille.com" />
+  
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" type="image/png" sizes="60x60" href="/apple-icon-60x60.png" />
+  <link rel="apple-touch-icon" type="image/png" sizes="72x72" href="/apple-icon-72x72.png" />
+  <link rel="apple-touch-icon" type="image/png" sizes="76x76" href="/apple-icon-76x76.png" />
+  <link rel="apple-touch-icon" type="image/png" sizes="114x114" href="/apple-icon-114x114.png" />
+  <link rel="apple-touch-icon" type="image/png" sizes="120x120" href="/apple-icon-120x120.png" />
+  <link rel="apple-touch-icon" type="image/png" sizes="144x144" href="/apple-icon-144x144.png" />
+  <link rel="apple-touch-icon" type="image/png" sizes="152x152" href="/apple-icon-152x152.png" />
+  <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/apple-icon-180x180.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png" />
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="publisher" href="https://plus.google.com/+notretemps" />
+
+  <meta name="apple-mobile-web-app-title" content="Notrefamille.com" />
+  <meta name="application-name" content="Notrefamille.com" />
+  <meta name="theme-color" content="#e8591e" />
+  <meta name="google-site-verification" content="Myxd22RWVwr4_IrEdeBevfnwtQ1V8CQ3I84ta54HPY8" />
+
+   <link rel="alternate" type="application/rss+xml" href="https://www.notrefamille.com/rss" />
+  <link rel="alternate" type="application/rss+xml" href="https://www.notrefamille.com/rss/56395" />
+  <link rel="alternate" type="application/rss+xml" href="https://www.notrefamille.com/rss/56399" />
+
+<meta name="description" content="Dans un saladier, versez 100 g de Méli-Mélo Tipiak, 125 ml d’eau bouillante, une noisette de beurre, mélangez et couvrez. Laissez gonfler pendant 9 min.Réservez le Méli-Mélo Tipiak au réfrigérateur.Coupez les figues en quatre.Coupez la feta et le melon en dés.Coupez le jambon de parme..." />
+<meta name="robots" content="index,follow" />
+<meta name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:5" />
+
+<meta property="fb:pages" content="" />
+<meta property="og:title" content="Salade Méli-mélo de Céréales, figues, jambon de Parme et ses croûtons au..." />
+<meta property="og:url" content="https://www.notrefamille.com/recettes/entrees/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081" />
+  <meta property="og:image" content="https://i.notrefamille.com/2000x1125/smart/2020/09/24/10094-large.jpg" />
+  <meta property="og:alt" content="10094 large" />
+  <meta property="og:image:width" content="2000" />
+  <meta property="og:image:height" content="1125" />
+  <meta property="og:image:type" content="image/jpeg" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="Dans un saladier, versez 100 g de Méli-Mélo Tipiak, 125 ml d’eau bouillante, une noisette de beurre, mélangez et couvrez. Laissez gonfler pendant 9 min.Réservez le Méli-Mélo Tipiak au réfrigérateur.Coupez les figues en quatre.Coupez la feta et le melon en dés.Coupez le jambon de parme..." />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:site_name" content="Notrefamille.com" />
+<meta property="og:article:published_time" content="2021-01-05T14:06:38+01:00" />
+<meta property="og:article:modified_time" content="2021-01-05T19:13:54+01:00" />
+<meta property="og:article:author" content="Notrefamille.com" />
+<meta property="og:article:section" content="Recettes" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Salade Méli-mélo de Céréales, figues, jambon de Parme et ses croûtons au pesto" />
+<meta name="twitter:url" content="https://www.notrefamille.com/recettes/entrees/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081" />
+<meta name="twitter:domain" content="Notrefamille.com" />
+<meta name="twitter:site" content="@Notrefamille" />
+<meta name="twitter:description" content="Dans un saladier, versez 100 g de Méli-Mélo Tipiak, 125 ml d’eau bouillante, une noisette de beurre, mélangez et couvrez. Laissez gonfler pendant 9 min.Réservez le Méli-Mélo Tipiak au réfrigérateur.Coupez les figues en quatre.Coupez la feta et le melon en dés.Coupez le jambon de parme..." />
+  <meta name="twitter:image" content="https://i.notrefamille.com/1800x0/smart/2020/09/24/10094-large.jpg" />
+
+            <script type="application/ld+json">
+        {"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":0,"name":"Accueil","item":"https:\/\/www.notrefamille.com\/"},{"@type":"ListItem","position":1,"name":"Recettes","item":"https:\/\/www.notrefamille.com\/recettes"},{"@type":"ListItem","position":2,"name":"Entr\u00e9es","item":"https:\/\/www.notrefamille.com\/recettes\/entrees"},{"@type":"ListItem","position":3,"name":"Salade M\u00e9li-m\u00e9lo de C\u00e9r\u00e9ales, figues, jambon de Parme et ses cro\u00fbtons au pesto","item":"https:\/\/www.notrefamille.com\/recettes\/entrees\/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081"}]}
+      </script>
+          <script type="application/ld+json">
+        {"@context":"https:\/\/schema.org","@type":"Recipe","name":"Salade M\u00e9li-m\u00e9lo de C\u00e9r\u00e9ales, figues, jambon de Parme et ses cro\u00fbtons au pesto","url":"https:\/\/www.notrefamille.com\/recettes\/entrees\/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081","headline":"Dans un saladier, versez 100 g de M\u00e9li-M\u00e9lo Tipiak, 125 ml d\u2019eau bouillante, une noisette de beurre, m\u00e9lang...","dateCreated":"2021-01-05T14:06:38+01:00","datePublished":"2021-01-05T14:06:38+01:00","dateModified":"2021-01-05T19:13:54+01:00","editor":"Notrefamille.com","description":"Dans un saladier, versez 100 g de M\u00e9li-M\u00e9lo Tipiak, 125 ml d\u2019eau bouillante, une noisette de beurre, m\u00e9langez et couvrez. Laissez gonfler pendant 9 min.R\u00e9servez le M\u00e9li-M\u00e9lo Tipiak au r\u00e9frig\u00e9rateur.Coupez les figues en quatre.Coupez la feta et le melon en d\u00e9s.Coupez le jambon de parme en l...","publisher":{"@type":"Organization","name":"Notrefamille.com","url":"https:\/\/www.notrefamille.com","logo":{"@type":"ImageObject","url":"https:\/\/www.notrefamille.com\/"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.notrefamille.com\/recettes\/entrees\/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081"},"recipeYield":"Pour 4 personnes","recipeCategory":"","recipeCuisine":"Salades Entr\u00e9es","nutrition":"","recipeIngredient":["<div id=\"\" class=\"text-color text-font block-html mb-4\">\n        <p>1\/2 sachet de M\u00e9li-m\u00e9lo Gourmand Tipiak (100 g)<br>\n1 melon<br>\n1 sachet de salade jeunes pousses<br>\n100 g de feta<br>\n100 g de jambon de parme<br>\n8 figues s\u00e8ches<br>\n1 sachet de Cro\u00fbtons de pain nature grill\u00e9s au four Tipiak<br>\n200 g d\u2019olives vertes d\u00e9noyaut\u00e9es<br>\n100 g de c\u00e2pres \u00e9goutt\u00e9es (ou 2 cuill\u00e8res \u00e0 soupe)<br>\n10 filets d\u2019anchois<br>\n15 cl d\u2019huile d\u2019olive<br>\n1 filet de jus de citron<br>\nPoivre noir<b>Pour l'assaisonnement :<\/b><ul>\n<li>1 cuill\u00e8re \u00e0 soupe de moutarde<br>\n1 cuill\u00e8re \u00e0 soupe de miel<br>\n1 cuill\u00e8re \u00e0 soupe de vinaigre de cidre<br>\n4 cuill\u00e8res \u00e0 soupe d\u2019huile d\u2019olive<br>\nSel, poivre<\/li>\n<\/ul><\/p>\n\n  <\/div>"],"recipeInstructions":["<div id=\"\" class=\"text-color text-font block-html mb-4\">\n        <ol>\n<li>Dans un saladier, versez 100 g de M\u00e9li-M\u00e9lo Tipiak, 125 ml d\u2019eau bouillante, une noisette de beurre, m\u00e9langez et couvrez. Laissez gonfler pendant 9 min.<\/li>\n<li>R\u00e9servez le M\u00e9li-M\u00e9lo Tipiak au r\u00e9frig\u00e9rateur.<\/li>\n<li>Coupez les figues en quatre.<\/li>\n<li>Coupez la feta et le melon en d\u00e9s.<\/li>\n<li>Coupez le jambon de parme en lani\u00e8res.<\/li>\n<li><b>Pr\u00e9parez la tapenade :<\/b><\/li>\n<li>Ecrasez les olives d\u00e9noyaut\u00e9es, filets d\u2019anchois, les c\u00e2pres avec un hachoir.<\/li>\n<li>Ajoutez un peu d\u2019huile d\u2019olive et continuez \u00e0 \u00e9craser jusqu\u2019\u00e0 l\u2019obtention d\u2019un m\u00e9lange plus ou moins fin.<\/li>\n<li>Assaisonnez avec du poivre et du jus de citron.<\/li>\n<li>Tartinez les cro\u00fbtons de tapenade.<\/li>\n<li><b>Derni\u00e8re \u00e9tape :<\/b><\/li>\n<li>Pr\u00e9parez l\u2019assaisonnement.<\/li>\n<li>Mettez dans un saladier ou un plat, la salade, M\u00e9li-M\u00e9lo Gourmand, le melon, les morceaux de figues, les morceaux de jambon de parme.<\/li>\n<li>Disposez ensuite les cro\u00fbtons tartin\u00e9s de tapenade comme d\u00e9coration.<\/li>\n<\/ol>\n\n  <\/div>"],"prepTime":"PT10M","cookTime":"PT15M","author":{"@type":"Organization","name":"Notrefamille.com","url":"https:\/\/www.notrefamille.com","logo":{"@type":"ImageObject","url":"https:\/\/www.notrefamille.com\/"}},"image":"https:\/\/i.notrefamille.com\/800x450\/smart\/2020\/09\/24\/10094-large.jpg"}
+      </script>
+      
+  <!-- Datalayer -->
+<script>
+  let gtm_pageload_id= Math.floor(Math.random() * 10000000000); 
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push(
+    {
+  "page":{"sitealias":"notrefamille","id":37081,"title":"Salade M\u00e9li-m\u00e9lo de C\u00e9r\u00e9ales, figues, jambon de Parme et ses cro\u00fbtons au pesto","type":"recette","created_at":"05\/01\/2021 14:06","updated_at":"05\/01\/2021 19:13","premium":0,"parution":"web","author":"","category":"recettes","subcategory":"entrees","categories":["recettes","entrees"],"utm_source":"","tags":["salades-entrees"]},
+  "user":{"loggedin":false,"sso_id":false,"email_sha256":false,"abonne_print":false,"abonne_news":false,"type":0,"ppid":"47n6qu143mfwhavt5jx94jwimxweuysv"}
+}
+  );
+  window.dataLayer.push({'pageload_id':gtm_pageload_id});
+</script>
+<!-- End Datalayer -->
+
+
+<!-- Google Tag Manager -->
+  <script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//t.notrefamille.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KP37JNG');
+
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//t.notrefamille.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PQ9M68D');
+  </script>
+<!-- End Google Tag Manager -->
+
+
+<script>
+ if ('serviceWorker' in navigator) {
+   const version = '0.3.725';
+   navigator.serviceWorker.register( '/serviceworker.js?version=' + version, { scope: '/' });
+   // Setup a listener to track Add to Homescreen events.
+   window.addEventListener( 'beforeinstallprompt', function(e){
+     e.userChoice.then( function(choiceResult){
+       ga('send', 'event', 'PWA', choiceResult.outcome);
+     });
+   });
+ }
+</script></head>
+<body class="page " data-id="37081" data-tagid="" >
+
+  <header id="header">
+  <div class="surheader d-print-none">
+    <div class="sociallinks  tiny ">
+
+              <a class="facebook" href="https://www.facebook.com/Familiscope" target="_blank" rel="noreferrer noopener" title="Page facebook"><i class="im im-facebook"></i></a>
+                    <a class="twitter" href="https://twitter.com/@Enfantcom" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-twitter"></i></a>
+                    <a class="pinterest" href="https://www.pinterest.fr/familiscope/" target="_blank" rel="noreferrer noopener" title="Page pinterest"><i class="im im-pinterest"></i></a>
+                    <a class="instagram" href="https://www.instagram.com/familiscope/" target="_blank" rel="noreferrer noopener" title="Page instagram"><i class="im im-instagram"></i></a>
+        </div>
+    <a href="https://www.familiscope.fr/activites-enfants/?utm_medium=ref&amp;utm_source=notrefamille.com&amp;utm_campaign=mea+activites+enfants&amp;utm_content=pre+header"  target="_blank" rel="noopener"   class="nav-link" data-event="surheader" data-eventvalue="Activités enfants">Activités enfants</a>
+  <a href="https://dictionnaire.notrefamille.com/?utm_medium=ref&amp;utm_source=notrefamille.com&amp;utm_campaign=mea+dictionnaire&amp;utm_content=pre+header"  target="_blank" rel="noopener"   class="nav-link" data-event="surheader" data-eventvalue="Dictionnaire">Dictionnaire</a>
+  <a href="https://www.familiscope.fr/concours/?utm_medium=ref&amp;utm_source=notrefamille.com&amp;utm_campaign=mea+activites+jeu+concours&amp;utm_content=pre+header"  target="_blank" rel="noopener"   class="nav-link" data-event="surheader" data-eventvalue="Jeux-concours">Jeux-concours</a>
+  <a href="https://e-bayard-jeunesse.com/offre-du-moment.html?utm_medium=ref&amp;utm_source=notrefamille.com&amp;utm_campaign=mea+btq+bj&amp;utm_content=pre+header"  target="_blank" rel="noopener"   class="nav-link" data-event="surheader" data-eventvalue="Nos magazines">Nos magazines</a>
+  <a href="https://www.notretemps.com/?utm_medium=ref&amp;utm_source=notrefamille.com&amp;utm_campaign=mea+site+nte&amp;utm_content=pre+header"  target="_blank" rel="noopener"   class="nav-link" data-event="surheader" data-eventvalue="Notretemps.com">Notretemps.com</a>
+  <a href="https://www.familiscope.fr/sorties-famille/?utm_medium=ref&amp;utm_source=notrefamille.com&amp;utm_campaign=mea+sortie+famille&amp;utm_content=pre+header"  target="_blank" rel="noopener"   class="nav-link" data-event="surheader" data-eventvalue="Sorties en famille">Sorties en famille</a>
+  </div>
+  <div class="middleheader text-start text-md-center">
+    <div class="nav-addons nav-addons-left d-print-none">
+      <div id="menuburgerlink" data-bs-toggle="collapse" data-bs-target="#mainmenu-burger" aria-controls="mainmenu-burger" aria-expanded="false" aria-label="Show Menu" class="d-inline-block mainmenu-toggler nav-link" role="button" data-event="menu" data-eventvalue="openburger">
+        <i class="im-menu"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></i><span class="d-lg-inline">Menu</span>
+      </div>
+      <div id="searchboxlink" data-bs-toggle="collapse" data-bs-target="#searchbox" class="position-relative nav-link" data-event="menu" data-eventvalue="opensearch">
+        <i class="im-search"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i><span class="d-lg-inline">Recherche</span>
+      </div>
+
+      <div class="collapse" id="searchbox">
+        <form class="form-inline" action="/recherche" method="GET" role="search">
+          <input class="form-control" value="" type="search" name="text" placeholder="Rechercher ..." aria-label="Rechercher">
+          <button class="btn" type="submit">OK</button>
+        </form>
+      </div>
+    </div>
+
+    <a class="navbar-brand" href="https://www.notrefamille.com" title="Notrefamille.com">
+      <img loading="lazy" src='https://www.notrefamille.com/images/notrefamille/logo.png' alt="Logo" class="img-fluid" />
+    </a>
+
+    <div class="nav-addons nav-addons-right d-print-none">
+      <span class="nav-link autofill-header-login" title="Connexion à mon compte">
+        <a href="#" data-google-interstitial="false" class="login-link autofill-account-link nav-link" data-target="https://www.notrefamille.com/mes-informations">
+          <i class="im-user"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>
+          <span class="d-lg-inline">Me connecter</span>
+        </a>
+      </span>
+
+      <a href="/mes-newsletters?origin=header" data-google-interstitial="false" class="nav-link subscribe-newsletters-module" title="Inscription à la newsletter" data-event="menu" data-eventvalue="newsletters">
+        <i class="im-mail"><span class="path1"></span><span class="path2"></span></i>
+        <span class="d-lg-inline">Newsletters</span>
+      </a>
+
+      <div class="abo abo-header"></div>
+    </div>
+  </div>
+
+  <div class="header-bottom d-none d-lg-block d-print-none">
+  <nav id="mainmenu"  class="nav-mainmenu navbar navbar-expand-lg">
+    <div class="collapse navbar-collapse mainmenu">
+
+			<ul class="navbar-nav">
+                                      <li class='nav-item'>
+                <a href="https://www.prenoms.com/?utm_medium=ref&amp;utm_source=notrefamille.com&amp;utm_campaign=mea+prenoms&amp;utm_content=mainmenu"   class="nav-link" data-event="mainmenu" data-eventvalue="Prénoms">Prénoms</a>
+            </li>
+                                        <li class='nav-item'>
+                <a href="https://www.notrefamille.com/grossesse"   class="nav-link" data-event="mainmenu" data-eventvalue="Grossesse">Grossesse</a>
+            </li>
+                                        <li class='nav-item'>
+                <a href="https://www.notrefamille.com/bebe"   class="nav-link" data-event="mainmenu" data-eventvalue="Bébé">Bébé</a>
+            </li>
+                                        <li class='nav-item'>
+                <a href="https://www.notrefamille.com/enfants"   class="nav-link" data-event="mainmenu" data-eventvalue="Enfants">Enfants</a>
+            </li>
+                                        <li class='nav-item'>
+                <a href="https://www.notrefamille.com/parents"   class="nav-link" data-event="mainmenu" data-eventvalue="Parents">Parents</a>
+            </li>
+                                        <li class='nav-item'>
+                <a href="https://www.notrefamille.com/sante"   class="nav-link" data-event="mainmenu" data-eventvalue="Santé">Santé</a>
+            </li>
+                                        <li class='nav-item'>
+                <a href="https://www.notrefamille.com/recettes"   class="nav-link" data-event="mainmenu" data-eventvalue="Recettes">Recettes</a>
+            </li>
+                                        <li class='nav-item'>
+                <a href="https://www.notrefamille.com/culture"   class="nav-link" data-event="mainmenu" data-eventvalue="Culture">Culture</a>
+            </li>
+                          <li class="nav-item">
+          <div data-bs-toggle="collapse" data-bs-target="#mainmenu-burger" aria-controls="mainmenu-burger" aria-expanded="false" aria-label="Show Menu" class="d-inline-block mainmenu-toggler nav-link" role="button">+</div>
+        </li>
+      </ul>
+
+    </div>
+  </nav>
+</div>
+
+<nav id="mainmenu-burger" class="mainmenu-burger navbar navbar-collapse d-print-none">
+  <ul class="navbar-nav">
+
+    
+
+    <li class="nav-item icons">
+      <a href="/mes-newsletters?origin=burger" data-google-interstitial="false" class="nav-link"><i class="im-mail"><span class="path1"></span><span class="path2"></span></i><span class="d-lg-inline">Inscription Newsletter</span></a>
+    </li>
+    <li class='nav-item icons autofill-header-login-burger'></li>
+
+    
+    <li class="nav-item search">
+      <div id="searchboxburger">
+        <form class="form-inline  my-lg-0" action="/recherche" method="GET" role="search">
+          <input class="form-control me-md-2" value="" type="search" name="text" placeholder="Rechercher ..." aria-label="Rechercher">
+          <button class="btn  mb-md-0" type="submit">OK</button>
+        </form>
+       </div>
+    </li>
+
+          <li class='nav-item  '>
+        <a href="https://www.prenoms.com/?utm_medium=ref&amp;utm_source=notrefamille.com&amp;utm_campaign=mea+prenoms&amp;utm_content=mainmenu"   class="nav-link" data-event="menuburger" data-eventvalue="Prénoms">Prénoms</a>
+        
+              </li>
+
+
+          <li class='nav-item   dropdown '>
+        <a href="https://www.notrefamille.com/grossesse"   class="nav-link" data-event="menuburger" data-eventvalue="Grossesse">Grossesse</a>
+                  <span data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-label="Menu 26" id="subnav26"><i class="im im-plus"></i></span>
+        
+                  <div class="dropdown-menu subnav-links ms-3" aria-labelledby="subnav26">
+                          <a href="/grossesse/tomber-enceinte"   class="nav-link" data-event="menuburger" data-eventvalue="Tomber enceinte">Tomber enceinte</a>
+                          <a href="/grossesse/arrivee-de-bebe"   class="nav-link" data-event="menuburger" data-eventvalue="Arrivée de bébé">Arrivée de bébé</a>
+                          <a href="/grossesse/accouchement"   class="nav-link" data-event="menuburger" data-eventvalue="Accouchement">Accouchement</a>
+                          <a href="/grossesse/sante-grossesse"   class="nav-link" data-event="menuburger" data-eventvalue="Santé grossesse">Santé grossesse</a>
+                          <a href="/grossesse/calendrier-de-grossesse"   class="nav-link" data-event="menuburger" data-eventvalue="Calendrier de grossesse">Calendrier de grossesse</a>
+                      </div>
+              </li>
+
+
+          <li class='nav-item   dropdown '>
+        <a href="https://www.notrefamille.com/bebe"   class="nav-link" data-event="menuburger" data-eventvalue="Bébé">Bébé</a>
+                  <span data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-label="Menu 27" id="subnav27"><i class="im im-plus"></i></span>
+        
+                  <div class="dropdown-menu subnav-links ms-3" aria-labelledby="subnav27">
+                          <a href="/bebe/allaitement"   class="nav-link" data-event="menuburger" data-eventvalue="Allaitement">Allaitement</a>
+                          <a href="/bebe/alimentation"   class="nav-link" data-event="menuburger" data-eventvalue="Alimentation">Alimentation</a>
+                          <a href="/bebe/toilette-hygiene"   class="nav-link" data-event="menuburger" data-eventvalue="Toilette / Hygiène">Toilette / Hygiène</a>
+                          <a href="/bebe/sommeil"   class="nav-link" data-event="menuburger" data-eventvalue="Sommeil">Sommeil</a>
+                          <a href="/bebe/sante-et-croissance"   class="nav-link" data-event="menuburger" data-eventvalue="Santé et croissance">Santé et croissance</a>
+                          <a href="/bebe/materiel"   class="nav-link" data-event="menuburger" data-eventvalue="Matériel">Matériel</a>
+                          <a href="/bebe/eveil-developpement"   class="nav-link" data-event="menuburger" data-eventvalue="Eveil, développement">Eveil, développement</a>
+                          <a href="/bebe/mode-de-garde"   class="nav-link" data-event="menuburger" data-eventvalue="Mode de garde">Mode de garde</a>
+                      </div>
+              </li>
+
+
+          <li class='nav-item   dropdown '>
+        <a href="https://www.notrefamille.com/enfants"   class="nav-link" data-event="menuburger" data-eventvalue="Enfants">Enfants</a>
+                  <span data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-label="Menu 28" id="subnav28"><i class="im im-plus"></i></span>
+        
+                  <div class="dropdown-menu subnav-links ms-3" aria-labelledby="subnav28">
+                          <a href="/enfants/a-lecole"   class="nav-link" data-event="menuburger" data-eventvalue="A l&#039;école">A l&#039;école</a>
+                          <a href="/enfants/garde"   class="nav-link" data-event="menuburger" data-eventvalue="Garde">Garde</a>
+                          <a href="/enfants/loisirs"   class="nav-link" data-event="menuburger" data-eventvalue="Loisirs">Loisirs</a>
+                          <a href="/enfants/ados"   class="nav-link" data-event="menuburger" data-eventvalue="Ados">Ados</a>
+                          <a href="/enfants/sante-enfants-ados"   class="nav-link" data-event="menuburger" data-eventvalue="Santé enfants ados">Santé enfants ados</a>
+                          <a href="/enfants/education-enfants"   class="nav-link" data-event="menuburger" data-eventvalue="Education enfants">Education enfants</a>
+                      </div>
+              </li>
+
+
+          <li class='nav-item   dropdown '>
+        <a href="https://www.notrefamille.com/parents"   class="nav-link" data-event="menuburger" data-eventvalue="Parents">Parents</a>
+                  <span data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-label="Menu 29" id="subnav29"><i class="im im-plus"></i></span>
+        
+                  <div class="dropdown-menu subnav-links ms-3" aria-labelledby="subnav29">
+                          <a href="/parents/vie-de-parents"   class="nav-link" data-event="menuburger" data-eventvalue="Vie de parents">Vie de parents</a>
+                          <a href="/parents/travail"   class="nav-link" data-event="menuburger" data-eventvalue="Travail">Travail</a>
+                          <a href="/parents/vie-a-deux"   class="nav-link" data-event="menuburger" data-eventvalue="Vie à deux">Vie à deux</a>
+                          <a href="/parents/vie-de-famille"   class="nav-link" data-event="menuburger" data-eventvalue="Vie de famille">Vie de famille</a>
+                          <a href="/parents/diy-brico-deco"   class="nav-link" data-event="menuburger" data-eventvalue="DIY Brico Déco">DIY Brico Déco</a>
+                          <a href="/parents/droits-de-la-famille"   class="nav-link" data-event="menuburger" data-eventvalue="Droits de la famille">Droits de la famille</a>
+                      </div>
+              </li>
+
+
+          <li class='nav-item   dropdown '>
+        <a href="https://www.notrefamille.com/sante"   class="nav-link" data-event="menuburger" data-eventvalue="Santé">Santé</a>
+                  <span data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-label="Menu 30" id="subnav30"><i class="im im-plus"></i></span>
+        
+                  <div class="dropdown-menu subnav-links ms-3" aria-labelledby="subnav30">
+                          <a href="/sante/nutrition"   class="nav-link" data-event="menuburger" data-eventvalue="Nutrition">Nutrition</a>
+                          <a href="/sante/psycho"   class="nav-link" data-event="menuburger" data-eventvalue="Psycho">Psycho</a>
+                          <a href="/sante/sexualite"   class="nav-link" data-event="menuburger" data-eventvalue="Sexualité">Sexualité</a>
+                          <a href="/sante/bien-etre"   class="nav-link" data-event="menuburger" data-eventvalue="Bien-être">Bien-être</a>
+                          <a href="/sante/gyneco"   class="nav-link" data-event="menuburger" data-eventvalue="Gynéco">Gynéco</a>
+                          <a href="/sante/au-quotidien"   class="nav-link" data-event="menuburger" data-eventvalue="Au quotidien">Au quotidien</a>
+                          <a href="/sante/beaute"   class="nav-link" data-event="menuburger" data-eventvalue="Beauté">Beauté</a>
+                          <a href="/sante/encyclopedie-sante"   class="nav-link" data-event="menuburger" data-eventvalue="Encyclopédie Santé">Encyclopédie Santé</a>
+                          <a href="/sante/examens"   class="nav-link" data-event="menuburger" data-eventvalue="Examens">Examens</a>
+                          <a href="/sante/maladies"   class="nav-link" data-event="menuburger" data-eventvalue="Maladies">Maladies</a>
+                      </div>
+              </li>
+
+
+          <li class='nav-item   dropdown '>
+        <a href="https://www.notrefamille.com/recettes"   class="nav-link" data-event="menuburger" data-eventvalue="Recettes">Recettes</a>
+                  <span data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-label="Menu 34" id="subnav34"><i class="im im-plus"></i></span>
+        
+                  <div class="dropdown-menu subnav-links ms-3" aria-labelledby="subnav34">
+                          <a href="/recettes/apprendre-a-cuisiner"   class="nav-link" data-event="menuburger" data-eventvalue="Apprendre à cuisiner">Apprendre à cuisiner</a>
+                          <a href="/recettes/aperitifs"   class="nav-link" data-event="menuburger" data-eventvalue="Apéritifs">Apéritifs</a>
+                          <a href="/recettes/boissons"   class="nav-link" data-event="menuburger" data-eventvalue="Boissons">Boissons</a>
+                          <a href="/recettes/desserts-et-gateaux"   class="nav-link" data-event="menuburger" data-eventvalue="Desserts et gâteaux">Desserts et gâteaux</a>
+                          <a href="/recettes/entrees"   class="nav-link" data-event="menuburger" data-eventvalue="Entrées">Entrées</a>
+                          <a href="/recettes/pains-et-viennoiseries"   class="nav-link" data-event="menuburger" data-eventvalue="Pains et viennoiseries">Pains et viennoiseries</a>
+                          <a href="/recettes/plats"   class="nav-link" data-event="menuburger" data-eventvalue="Plats">Plats</a>
+                          <a href="/recettes/tartes-et-pizzas"   class="nav-link" data-event="menuburger" data-eventvalue="Tartes et pizzas">Tartes et pizzas</a>
+                          <a href="/recettes/burgers-wraps-tartines"   class="nav-link" data-event="menuburger" data-eventvalue="Burgers, wraps, tartines">Burgers, wraps, tartines</a>
+                          <a href="/recettes/sauces"   class="nav-link" data-event="menuburger" data-eventvalue="Sauces">Sauces</a>
+                      </div>
+              </li>
+
+
+          <li class='nav-item   dropdown '>
+        <a href="https://www.notrefamille.com/culture"   class="nav-link" data-event="menuburger" data-eventvalue="Culture">Culture</a>
+                  <span data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-label="Menu 35" id="subnav35"><i class="im im-plus"></i></span>
+        
+                  <div class="dropdown-menu subnav-links ms-3" aria-labelledby="subnav35">
+                          <a href="/culture/se-cultiver-en-famille"   class="nav-link" data-event="menuburger" data-eventvalue="Se cultiver en famille">Se cultiver en famille</a>
+                          <a href="/culture/quiz"   class="nav-link" data-event="menuburger" data-eventvalue="Quiz">Quiz</a>
+                          <a href="/culture/histoire"   class="nav-link" data-event="menuburger" data-eventvalue="Histoire">Histoire</a>
+                          <a href="/culture/almanach"   class="nav-link" data-event="menuburger" data-eventvalue="Almanach">Almanach</a>
+                      </div>
+              </li>
+
+
+      </ul>
+
+  <div class="mt-3 mb-3">
+    <div class="sociallinks ">
+
+              <a class="facebook" href="https://www.facebook.com/Familiscope" target="_blank" rel="noreferrer noopener" title="Page facebook"><i class="im im-facebook"></i></a>
+                    <a class="twitter" href="https://twitter.com/@Enfantcom" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-twitter"></i></a>
+                    <a class="pinterest" href="https://www.pinterest.fr/familiscope/" target="_blank" rel="noreferrer noopener" title="Page pinterest"><i class="im im-pinterest"></i></a>
+                    <a class="instagram" href="https://www.instagram.com/familiscope/" target="_blank" rel="noreferrer noopener" title="Page instagram"><i class="im im-instagram"></i></a>
+        </div>
+  </div>
+</nav>
+
+
+</header>
+
+	<div id="habillage">
+    <main id="main">
+        <div class="breadcrumbs mb-3">
+  <ul>
+                  <li>
+                    <a href="https://www.notrefamille.com/" title="Accueil">
+            <span>Accueil</span>
+          </a>
+        </li>
+                        <li>
+                      <i></i>
+                    <a href="https://www.notrefamille.com/recettes" title="Recettes">
+            <span>Recettes</span>
+          </a>
+        </li>
+                        <li>
+                      <i></i>
+                    <a href="https://www.notrefamille.com/recettes/entrees" title="Entrées">
+            <span>Entrées</span>
+          </a>
+        </li>
+                      </ul>
+</div>
+
+  <article class="global-content type-recette"  data-premium="0" >
+    <div class="container-fluid pe-0 ps-0 mb-3">
+      <h1 class="title content mt-2 mb-3">Salade Méli-mélo de Céréales, figues, jambon de Parme et ses croûtons au pesto</h1>
+
+              <ul class="tags mt-3 mb-3">
+          <li class="tag">
+        <a title="Salades Entrées" href="https://www.notrefamille.com/tag/salades-entrees-129"><i class="im-link"></i> Salades Entrées</a>
+      </li>
+      </ul>
+      
+      
+      <div class="intro">
+
+                              <div class="media">
+              <div class="image image-centered bg-lightgrey  mb-3 ">
+                <img loading="lazy" src="https://i.notrefamille.com/1400x787/smart/2020/09/24/10094-large.jpg"
+                     width="1400"
+                     height="787"
+                     alt="10094 large"
+                     class="img-fluid" />
+                               </div>
+                          </div>
+                  
+        <div class="container-fluid pe-0 ps-0">
+          <div class="ads d-print-none" id="div-gpt-ad-interstitial"></div>
+          <div class="ads d-print-none" id="div-gpt-ad-top"></div>
+        </div>
+
+              </div>
+
+
+      <div class="ads d-print-none" id="div-gpt-ad-pave-mobile"></div>
+    </div>
+
+    <div class="container-fluid pe-0 ps-0 mb-3 main-content-container">
+      <div class="contenttools-container mb-3">
+        <div class="contenttools">
+          <a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.notrefamille.com/recettes/entrees/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081" rel="noopener" target="_blank" title="Partager sur Facebook" data-event="link" data-eventvalue="item-facebook">
+        <i class="im-facebook"></i>
+      </a>
+            <a class="twitter" href="https://twitter.com/intent/tweet?url=https://www.notrefamille.com/recettes/entrees/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081" rel="noopener" target="_blank" title="Partager sur Twitter" data-event="link" data-eventvalue="item-twitter">
+        <i class="im-twitter"></i>
+      </a>
+            <a class="pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.notrefamille.com/recettes/entrees/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081" rel="noopener" target="_blank" title="Partager sur Pinterest" data-event="link" data-eventvalue="item-pinterest">
+        <i class="im-pinterest"></i>
+      </a>
+            <a class="whatsapp" href="whatsapp://send?text=https://www.notrefamille.com/recettes/entrees/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081" data-action="share/whatsapp/share" rel="noopener" target="_blank" title="Partager sur Whatsapp" data-event="link" data-eventvalue="item-whatsapp">
+        <i class="im-whatsapp"></i>
+      </a>
+            <a class="sharelink" href="#" data-url="https://www.notrefamille.com/recettes/entrees/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081" title="Copier le lien" data-event="link" data-eventvalue="item-sharelink">
+        <i class="im-link"></i>
+      </a>
+              <a class="zoomin" href="#" title="Agrandir la taille du texte" data-event="link" data-eventvalue="item-zoomin">
+        <i class="im-zoom-in"></i>
+      </a>
+              <a class="zoomout" href="javascript:print();" title="Diminuer la taille du texte" data-event="link" data-eventvalue="item-zoomout">
+          <i class="im-zoom-out"></i>
+        </a>
+              <a class="print" href="javascript:print();" title="Imprimer" data-event="link" data-eventvalue="item-print">
+        <i class="im-print"></i>
+      </a>
+            </div>
+      </div>
+
+      <div class="main-content mb-3  has-sidebar  has-contenttools">
+        <div class="info row">
+          <div class="col-md-2 col-12 text-center">
+            <div><strong>Difficulté</strong></div>
+            <div>
+              <span class="circle active">&nbsp;</span>
+              <span class="circle ">&nbsp;</span>
+              <span class="circle ">&nbsp;</span>
+            </div>
+          </div>
+
+          <div class="col-md-2 col-12 text-center">
+            <div><strong>Coût</strong></div>
+            <div>
+              <span class="circle active">&nbsp;</span>
+              <span class="circle  active ">&nbsp;</span>
+              <span class="circle ">&nbsp;</span>
+            </div>
+          </div>
+
+                      <div class="col-md-2 col-12 text-center">
+              <div><strong>Préparation</strong></div>
+              <div>
+                                  10 min
+                              </div>
+            </div>
+          
+                      <div class="col-md-2 col-12 text-center">
+              <div><strong>Repos</strong></div>
+              <div>
+                                  0 min
+                              </div>
+            </div>
+          
+                      <div class="col-md-2 col-12 text-center">
+              <div><strong>Cuisson</strong></div>
+              <div>
+                                  15 min
+                              </div>
+            </div>
+          
+                      <div class="col-md-2 col-12 text-center">
+              <div><strong>Personnes</strong></div>
+              <div>
+                                  4
+                              </div>
+            </div>
+                  </div>
+
+
+        <div class="container mt-3 content-article ">
+          <h2>Ingrédients</h2>
+                      <div class="content-attribute">
+  <div id="" class="text-color text-font block-html mb-4">
+        <p>1/2 sachet de Méli-mélo Gourmand Tipiak (100 g)<br>
+1 melon<br>
+1 sachet de salade jeunes pousses<br>
+100 g de feta<br>
+100 g de jambon de parme<br>
+8 figues sèches<br>
+1 sachet de Croûtons de pain nature grillés au four Tipiak<br>
+200 g d’olives vertes dénoyautées<br>
+100 g de câpres égouttées (ou 2 cuillères à soupe)<br>
+10 filets d’anchois<br>
+15 cl d’huile d’olive<br>
+1 filet de jus de citron<br>
+Poivre noir<b>Pour l'assaisonnement :</b><ul>
+<li>1 cuillère à soupe de moutarde<br>
+1 cuillère à soupe de miel<br>
+1 cuillère à soupe de vinaigre de cidre<br>
+4 cuillères à soupe d’huile d’olive<br>
+Sel, poivre</li>
+</ul></p>
+
+  </div>
+</div>
+
+          
+                      <h2>Ustensiles</h2>
+            <p>1 hachoir
+</p>
+          
+          <h2>Préparation</h2>
+                      <div class="content-attribute">
+  <div id="" class="text-color text-font block-html mb-4">
+        <ol>
+<li>Dans un saladier, versez 100 g de Méli-Mélo Tipiak, 125 ml d’eau bouillante, une noisette de beurre, mélangez et couvrez. Laissez gonfler pendant 9 min.</li>
+<li>Réservez le Méli-Mélo Tipiak au réfrigérateur.</li>
+<li>Coupez les figues en quatre.</li>
+<li>Coupez la feta et le melon en dés.</li>
+<li>Coupez le jambon de parme en lanières.</li>
+<li><b>Préparez la tapenade :</b></li>
+<li>Ecrasez les olives dénoyautées, filets d’anchois, les câpres avec un hachoir.</li>
+<li>Ajoutez un peu d’huile d’olive et continuez à écraser jusqu’à l’obtention d’un mélange plus ou moins fin.</li>
+<li>Assaisonnez avec du poivre et du jus de citron.</li>
+<li>Tartinez les croûtons de tapenade.</li>
+<li><b>Dernière étape :</b></li>
+<li>Préparez l’assaisonnement.</li>
+<li>Mettez dans un saladier ou un plat, la salade, Méli-Mélo Gourmand, le melon, les morceaux de figues, les morceaux de jambon de parme.</li>
+<li>Disposez ensuite les croûtons tartinés de tapenade comme décoration.</li>
+</ol>
+
+  </div><div class="ads mt-4 mb-4" id="div-gpt-ad-native"></div>
+</div>
+
+          
+                      <h2>Conseils</h2>
+            <div class="content-attribute">
+  <div id="" class="text-color text-font block-html mb-4">
+        <p><br>
+- Vous pouvez remplacer les figues par des abricots secs.<br>
+- Vous pouvez remplacer le jambon de parme par du jambon sec, de la viande de grison …<br>
+- Vous pouvez acheter de la tapenade déjà préparée.</p>
+
+  </div>
+</div>
+
+          
+          
+                  </div>
+
+                          
+        <div class="mt-3 mb-3 text-center container-btn-comment">
+            <a class="btn btn-comment" href="#comments"><i class="im-chat"></i>J'écris un commentaire</a>
+        </div>
+
+          <div class="abo abo-aftercontent"></div>
+
+        <div id="digitekaplaceholder" class="mt-2 mb-2 ms-auto me-auto digitekaplaceholder" style="max-width:770px;"></div>
+      </div>
+
+              <aside class="sidebar-container mb-3">
+  <div class="sidebar">
+    <div class="block block-ads mb-3">
+    <div id="div-gpt-ad-sidebar-top" class="ads d-print-none"></div>
+  </div>
+                <div class="block block-html mb-3">
+          <div class="block-title">Abonnement BJ</div>
+        <div class="container-fluid">
+      <div class="row">
+        <div class="col-12">
+          <a href="https://www.bayard-jeunesse.com/nos-coulisses.html#products?utm_source=notrefamille.com&utm_medium=ref&utm_campaign=nf+edito+fil+rouge&utm_content=nf+bloc+all+rubrique"><img src="https://i.familiscope.fr/0x0/smart/2022/12/06/abonnement-bj.png"/></a>
+        </div>
+      </div>
+    </div>
+  </div>
+        </div>
+</aside>
+          </div>
+
+    <div class="container-fluid pe-0 ps-0 mb-3 main-content-container">
+      <div class="main-content mb-3  has-sidebar ">
+                  <div class="mb-3 ms-auto me-auto">
+  <div class="OUTBRAIN" data-src="https://www.notrefamille.com/recettes/entrees/salade-meli-melo-de-cereales-figues-jambon-de-parme-et-ses-croutons-au-pesto-37081" data-widget-id="AR_1" data-ob-template="NotreFamille" ></div>
+</div>
+        
+        <div class="comments mt-2 mb-2 d-print-none" id="comments">
+	<h3>Commentaires</h3>
+
+    	<ul class="mb-4 ps-3">
+  		  	</ul>
+      
+  <div data-user-status-mask="loggedin" data-mask-title="Vous devez être connecté pour déposer un commentaire" data-mask-button="Se connecter / S'inscrire"  id="comment-answer" class="comment-answer">
+    <form action="https://www.notrefamille.com/content-add-comments" class="form-comment" method="post" novalidate="novalidate">
+     <div class="container ps-0 pe-0">
+       <div class="row">
+         <div class="col-12">
+           <div class="content">
+             <label form="comment-answer-content">Votre commentaire:</label>
+             <textarea name="comment-answer-content" id="comment-answer-content" class="comment-answer-content" rows="3" cols="1" required=true></textarea>
+           </div>
+         </div>
+       </div>
+       <div class="row">
+
+         <div class="col-12 col-md-6">
+           <label>Noter l'article:</label>
+           <div class="rating-group">
+             <div class="rating-holder">
+               <div class="c-rating" data-rating-value="5">
+                                  <i class="note im-star-full active" data-value="1"></i>
+                                  <i class="note im-star-full active" data-value="2"></i>
+                                  <i class="note im-star-full active" data-value="3"></i>
+                                  <i class="note im-star-full active" data-value="4"></i>
+                                  <i class="note im-star-full active" data-value="5"></i>
+                               </div>
+             </div>
+           </div>
+         </div>
+
+         <div class="col-12 col-md-6">
+           <label for="comment-answer-author">Pseudo<span class="required">*</span>:</label>
+           <input id="comment-answer-author" class="comment-answer-authorname" type="text" name="comment-answer-author" value="">
+         </div>
+       </div>
+
+       <div class="row">
+         <div class="col-12 mt-3 text-end">
+           <button type="submit" class="btn send-comment">Envoyez votre commentaire</button>
+         </div>
+       </div>
+     </div>
+     <input type="hidden" name="comment-answer-itemid" value="37081">
+     <input type="hidden" name="comment-answer-parentid" value="0" class="comment-parent-id">
+   </form>
+  </div>
+</div>
+        <div class="row more-contents">
+                      <div class="col-md-6 col-12">
+              <div class="block block-bottom-content default mb-3">
+          <div class="block-title-2">Sur le même sujet</div>
+    
+    <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/aperitifs/bouchees-croustillantes-et-legumes-en-echiquier-29189" title="Bouchées croustillantes et légumes en échiquier">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/22099.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/22099.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/22099.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/22099.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/22099.jpg"
+                       width="800"
+                       height="500"
+                       alt="Bouchées croustillantes et légumes en échiquier"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/aperitifs/bouchees-croustillantes-et-legumes-en-echiquier-29189" title="Bouchées croustillantes et légumes en échiquier">Bouchées croustillantes et légumes en échiquier</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/bouchees-aperitives-95" title="Bouchées Apéritives"><i class="im-link"></i> Bouchées Apéritives</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/plats/salade-du-soleil-au-couscous-parfume-et-ses-croutons-au-tzatziki-48387" title="Salade du soleil au Couscous Parfumé et ses Croûtons au tzatziki">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/11/26/10093.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/11/26/10093.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/11/26/10093.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/11/26/10093.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/11/26/10093.jpg"
+                       width="800"
+                       height="500"
+                       alt="Salade du soleil au Couscous Parfumé et ses Croûtons au tzatziki"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/plats/salade-du-soleil-au-couscous-parfume-et-ses-croutons-au-tzatziki-48387" title="Salade du soleil au Couscous Parfumé et ses Croûtons au tzatziki">Salade du soleil au Couscous Parfumé et ses Croûtons au tzatziki</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/salades-plats-171" title="Salades Plats"><i class="im-link"></i> Salades Plats</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/entrees/soupe-de-petits-pois-fromage-de-chevre-et-meli-melo-gourmand-34982" title="Soupe de petits pois, fromage de chèvre et méli-mélo gourmand">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/53276-large.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/53276-large.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/53276-large.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/53276-large.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/53276-large.jpg"
+                       width="800"
+                       height="500"
+                       alt="Soupe de petits pois, fromage de chèvre et méli-mélo gourmand"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/entrees/soupe-de-petits-pois-fromage-de-chevre-et-meli-melo-gourmand-34982" title="Soupe de petits pois, fromage de chèvre et méli-mélo gourmand">Soupe de petits pois, fromage de chèvre et méli-mélo gourmand</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/soupes-chaudes-124" title="Soupes Chaudes"><i class="im-link"></i> Soupes Chaudes</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/entrees/muffins-figues-filet-mignon-seche-et-noix-34296" title="Muffins figues, filet mignon séché et noix">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/31222.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/31222.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/31222.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/31222.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/31222.jpg"
+                       width="800"
+                       height="500"
+                       alt="Muffins figues, filet mignon séché et noix"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/entrees/muffins-figues-filet-mignon-seche-et-noix-34296" title="Muffins figues, filet mignon séché et noix">Muffins figues, filet mignon séché et noix</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/souffles-entrees-116" title="Soufflés Entrées"><i class="im-link"></i> Soufflés Entrées</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/aperitifs/bouchees-croustillantes-de-tartare-de-saumon-29169" title="Bouchées croustillantes de tartare de saumon">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/53237.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/53237.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/53237.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/53237.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/53237.jpg"
+                       width="800"
+                       height="500"
+                       alt="Bouchées croustillantes de tartare de saumon"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/aperitifs/bouchees-croustillantes-de-tartare-de-saumon-29169" title="Bouchées croustillantes de tartare de saumon">Bouchées croustillantes de tartare de saumon</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/bouchees-aperitives-95" title="Bouchées Apéritives"><i class="im-link"></i> Bouchées Apéritives</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  </div>
+            </div>
+                    <div class="col-md-6 col-12">
+            <div class="block block-bottom-content default mb-3">
+          <div class="block-title-2">Pour aller plus loin</div>
+    
+    <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-fenouil-aux-oranges-37079" title="Salade de fenouil aux oranges">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/29370-large.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/29370-large.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/29370-large.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/29370-large.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/29370-large.jpg"
+                       width="800"
+                       height="500"
+                       alt="Salade de fenouil aux oranges"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-fenouil-aux-oranges-37079" title="Salade de fenouil aux oranges">Salade de fenouil aux oranges</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/salades-entrees-129" title="Salades Entrées"><i class="im-link"></i> Salades Entrées</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-farfale-a-la-mozzarella-de-bufloneau-basilic-aux-poivrons-marines-e-37075" title="Salade de farfale à la mozzarella de buflone,au basilic , aux poivrons marinés e">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/52304.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/52304.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/52304.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/52304.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/52304.jpg"
+                       width="800"
+                       height="500"
+                       alt="Salade de farfale à la mozzarella de buflone,au basilic , aux poivrons marinés e"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-farfale-a-la-mozzarella-de-bufloneau-basilic-aux-poivrons-marines-e-37075" title="Salade de farfale à la mozzarella de buflone,au basilic , aux poivrons marinés e">Salade de farfale à la mozzarella de buflone,au basilic , aux poivrons...</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/salades-entrees-129" title="Salades Entrées"><i class="im-link"></i> Salades Entrées</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-mais-37077" title="Salade de maïs">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/2145-large.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/2145-large.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/2145-large.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/2145-large.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/2145-large.jpg"
+                       width="800"
+                       height="500"
+                       alt="Salade de maïs"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-mais-37077" title="Salade de maïs">Salade de maïs</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/salades-entrees-129" title="Salades Entrées"><i class="im-link"></i> Salades Entrées</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-courgettes-et-olives-37076" title="Salade de courgettes et olives">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/40874.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/40874.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/40874.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/40874.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/40874.jpg"
+                       width="800"
+                       height="500"
+                       alt="Salade de courgettes et olives"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-courgettes-et-olives-37076" title="Salade de courgettes et olives">Salade de courgettes et olives</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/salades-entrees-129" title="Salades Entrées"><i class="im-link"></i> Salades Entrées</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  <div class="block-item recette">
+    <div class="container-fluid ps-1 pe-1">
+      <div class="row mb-3">
+                  <div class="col-12">
+                        <div class="image">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-courgettes-au-paprika-37078" title="Salade de courgettes au paprika">
+                <picture class="img-fluid">
+                  <source media="(min-width: 768px)" type="image/webp" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/29207.jpg" />
+                  <source media="(min-width: 768px)" type="image/jpeg" srcset="https://i.notrefamille.com/400x250/smart/2020/09/24/29207.jpg" />
+                  <source media="(max-width: 767px)" type="image/webp" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/29207.jpg" />
+                  <source media="(max-width: 767px)" type="image/jpeg" srcset="https://i.notrefamille.com/800x500/smart/2020/09/24/29207.jpg" />
+                  <img loading="lazy"
+                       src="https://i.notrefamille.com/800x500/smart/2020/09/24/29207.jpg"
+                       width="800"
+                       height="500"
+                       alt="Salade de courgettes au paprika"
+                       class="img-fluid" />
+                </picture>
+              </a>
+            </div>
+          </div>
+                <div class="col-12">
+                      <p class="title mb-2">
+              <a href="https://www.notrefamille.com/recettes/entrees/salade-de-courgettes-au-paprika-37078" title="Salade de courgettes au paprika">Salade de courgettes au paprika</a>
+            </p>
+          
+          
+                      <ul class="tags mb-2">
+                                                <li class="tag"><a href="https://www.notrefamille.com/tag/salades-entrees-129" title="Salades Entrées"><i class="im-link"></i> Salades Entrées</a></li>
+                                          </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+  </div>
+          </div>
+        </div>
+      </div>
+
+              <aside class="sidebar-container mb-3 sidebar-2">
+  <div class="sidebar">
+    <div class="block block-ads mb-3">
+    <div id="div-gpt-ad-sidebar-bottom" class="ads d-print-none"></div>
+  </div>
+        </div>
+</aside>
+          </div>
+  </article>
+    </main>
+	</div>
+
+  <footer id="footer" class="container-fluid align-items-center">
+  <div class="container">
+    <div class="row">
+  <div class="col-12 text-center">
+    <div class="mt-0 mb-5 mb-lg-2">
+      <p class="title footer mb-0">Nous suivre</p>
+      <p class="subtitle footer mb-3">sur les réseaux sociaux</p>
+      <div class="sociallinks ">
+
+              <a class="facebook" href="https://www.facebook.com/Familiscope" target="_blank" rel="noreferrer noopener" title="Page facebook"><i class="im im-facebook"></i></a>
+                    <a class="twitter" href="https://twitter.com/@Enfantcom" target="_blank" rel="noreferrer noopener" title="Page twitter"><i class="im im-twitter"></i></a>
+                    <a class="pinterest" href="https://www.pinterest.fr/familiscope/" target="_blank" rel="noreferrer noopener" title="Page pinterest"><i class="im im-pinterest"></i></a>
+                    <a class="instagram" href="https://www.instagram.com/familiscope/" target="_blank" rel="noreferrer noopener" title="Page instagram"><i class="im im-instagram"></i></a>
+        </div>
+    </div>
+  </div>
+</div>
+  </div>
+
+  <div class="menu small text-center mb-1">
+      <a href="https://www.groupebayard.com/index.php/fr/articles/rubrique/art/639"  target="_blank" rel="noopener"   class="nav-link" data-event="footer" data-eventvalue="Politique de confidentialité">Politique de confidentialité</a>
+ - 
+      <a href="https://www.notrefamille.com/conditions-generales-dutilisation"   class="nav-link" data-event="footer" data-eventvalue="CGU">CGU</a>
+ - 
+      <a href="https://www.notrefamille.com/mentions-legales"   class="nav-link" data-event="footer" data-eventvalue="Mentions légales">Mentions légales</a>
+ - 
+      <a href="https://www.groupebayard.com/index.php/fr/articles/rubrique/id/22"  target="_blank" rel="noopener"   class="nav-link" data-event="footer" data-eventvalue="Publicité">Publicité</a>
+ - 
+      <a href="https://www.notrefamille.com/contact"   class="nav-link" data-event="footer" data-eventvalue="Contact">Contact</a>
+ - 
+      <a href="/archives/2021"   class="nav-link" data-event="footer" data-eventvalue="Archives">Archives</a>
+ - 
+    <a href="javascript:Didomi.preferences.show();" class="cookie_consent d-inline-block nav-link">Gestion des cookies</a>
+</div>
+
+
+  <div class="text-center menu small mb-1">
+    &copy; 2023 BAYARD - Tous droits réservés
+  </div>
+</footer>
+
+  <div class="abo abo-abovecontent"></div>
+
+  <script src="https://sso.notrefamille.com/auth/js/keycloak.min.js"></script>
+  <script src="/js/minimal.js?version=0.3.725"></script>
+  <script src="/js/app.js?version=0.3.725"></script>
+        
+  <script>
+  $(document).ready(function(){
+    window.didomiEventListeners = window.didomiEventListeners || [];
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.gdprAppliesGlobally=true;
+    (function(){
+      function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+      else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+      var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+      if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+      var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];
+      n.parentNode.insertBefore(t,n)})("62d49a58-db6d-4c51-8765-ffeab500ecb9")
+    })();
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,1420 @@
+<!doctype html>
+<html class="no-js" lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="referrer" content="always" />
+    <title>Recettes de Méli-Mélo</title>
+    <link rel="stylesheet" href="/foundation/css/foundation-plus-icons.min.css" />
+
+<meta name="description" content="306 recettes de méli-mélo avec photos : Oeuf poché et son meli melo de légumes, Méli Mélo Au Poulet, Méli Mélo d'été aux deux melons et mozzarella..." />
+
+<link href="https://plus.google.com/116476124193650671947/" rel="publisher" />
+<meta property="fb:admins" content="706410516" />
+<meta property="og:site_name" content="Recettes de Cuisine"/>
+
+<link rel="next" href="https://recettes.de/meli-melo/2" />
+
+
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Recettes de Méli-Mélo"/>
+<meta property="og:url" content="https://recettes.de/meli-melo"/>
+<meta property="og:image" content="https://recettes.de/images/tags/meli-melo/banner-title-photo-6.jpg"/>
+<meta property="og:image" content="https://recettes.de/images/blogs/thecrazoven-recette-de-cuisine-et-de-patisserie-pour-tous/oeuf-poche-et-son-meli-melo-de-legumes.320x240.jpg"/>
+<meta property="og:image" content="https://recettes.de/images/blogs/la-cuisine-de-laety/meli-melo-au-poulet.640x480.jpg"/>
+<meta property="og:image" content="https://recettes.de/images/blogs/la-cuisine-gourmande-de-carmencita/meli-melo-d-ete-aux-deux-melons-et-mozzarella-1836.640x480.jpg"/>
+
+<meta property="og:description" content="306 recettes de méli-mélo avec photos : Oeuf poché et son meli melo de légumes, Méli Mélo Au Poulet, Méli Mélo d'été aux deux melons et mozzarella..."/>
+
+<meta name="flattr:id" content="w1rkv6">
+
+
+
+<script type="text/javascript" src="https://cache.consentframework.com/js/pa/28312/c/gPgO1/stub" referrerpolicy="unsafe-url" charset="utf-8"></script>
+<script type="text/javascript" src="https://choices.consentframework.com/js/pa/28312/c/gPgO1/cmp" referrerpolicy="unsafe-url" charset="utf-8" async></script>
+
+
+<script
+    data-cmp-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+    data-cmp-vendor="755"
+    data-cmp-purposes="1,3,4"
+    data-cmp-purposes-li="2,7,9,10">
+</script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5891878395074432",
+    enable_page_level_ads: true
+  });
+</script>
+
+
+<style type="text/css" media="all">
+
+.full-width{
+max-width: 100% !important;
+	.row{
+	  margin: 0 auto;
+	  max-width: 62.5rem;
+	  background: inherit;
+	}  
+}
+
+
+a, a:hover, a:visited {
+	color: #0053f9;
+}
+
+a.button {
+	color:white;
+}
+
+a:hover { text-decoration:underline}
+
+body { color: #000000 }
+
+h1 {
+  font-size: 1.6875rem; }
+
+h2 {
+  font-size: 1.375rem; }
+
+h3 {
+  font-size: 1.375rem; }
+
+h4 {
+  font-size: 1.125rem; }
+
+h5 {
+  font-size: 1.125rem; }
+
+h6 {
+  font-size: 1rem; }
+
+@media only screen and (min-width: 40em) {
+#q1 { min-width:20em}
+}
+
+@media only screen and (min-width: 50em) {
+#q1 { min-width:25em}
+}
+
+@media only screen and (min-width: 60em) {
+#q1 { min-width:30em}
+}
+  
+@media only screen and (min-width: 80em) {
+
+  .full-width {
+	padding-left:2em;
+	padding-right:2em;
+  }
+  
+  .top-bar {
+	padding-left:2em;
+	padding-right:2em;  
+  }
+  
+  #q { min-width:40em}
+  
+#side { max-width:480px }  
+
+}  
+
+  
+@media only screen and (min-width: 40.063em) {
+
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.4; }
+
+h1 {
+    font-size: 2.125rem; }
+
+h2 {
+    font-size: 2rem; }
+
+.news h3 {
+    font-size: 1.4375rem; }
+	
+h3 {
+	font-size: 1.375rem; }	
+
+h4 {
+    font-size: 1.4375rem; }
+
+h5 {
+    font-size: 1.125rem; }
+
+h6 {
+    font-size: 1rem; }
+}
+
+
+.top-bar.expanded .title-area {
+      background: #005800;
+}
+
+nav#top-bar {
+  margin-bottom: 1rem;
+}
+	  
+#search_button {
+margin-left:1rem;
+}
+
+#site_logo { margin:10px; }
+
+@media only screen and (max-width: 340px) {
+#site_logo { margin:0px; margin-bottom:2px; }
+}
+
+h1 {
+	margin:0;
+}
+
+#side h3 {
+	margin-top:2rem;
+	border-bottom: 1px dotted #6f6f6f;
+	font-size:1.5rem;
+	color: #6f6f6f;
+}
+
+.dark {
+	background-color: #005800;
+	color:#ddd;
+}
+
+footer {
+	margin-top:1rem;
+	border-top:1rem solid #006a00;
+	font-size:0.8rem;
+}
+
+footer li {
+	margin-top:1rem;
+	margin-bottom:1rem;
+	font-size:0.8rem;	
+}
+
+.dark a, .dark a:visited {
+	color:#fff;
+}
+
+.top-bar {
+	background-color:#005800;
+	margin-bottom:2rem;
+}
+
+#img_source {
+	color:#ccc;
+	background:transparent;
+	padding:10px;
+	font-size:0.8rem;	
+}
+
+#img_source a, #img_source a:visited {
+	color:#fff;
+}
+
+.button {
+	background-color:#006a00;
+}
+
+.button:hover {
+	background-color:#005800;
+}
+
+h1, h2, h3, h4, h5, h6 { font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; }
+
+
+
+@media only screen and (min-width: 40.063em) and (max-width:60em) {
+h1 { font-size: 1.8rem }
+h2 { font-size: 1.5rem }
+}
+
+@media only screen and (max-width:800px) {
+h1 { font-size: 1.5rem }
+.news_description { font-size: 0.9rem }
+}
+
+@media only screen and (max-width:400px) {
+h1 { font-size: 1.4rem }
+h3 {
+    font-size: 1.2rem; }
+}
+.news h3 {
+    font-size: 1.2rem; }
+}
+div.rateit
+{
+    display: -moz-inline-box;
+    display: inline-block;
+    position: relative;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+div.rateit div.rateit-range
+{
+    position: relative;
+    display: -moz-inline-box;
+    display: inline-block;
+    background: url(/js/rateit/star.png);
+    height: 16px;
+}
+
+/* for IE 6 */
+* html div.rateit, * html div.rateit div.rateit-range
+{
+    display: inline;
+}
+
+/* for IE 7 */
+* + html div.rateit, * + html div.rateit div.rateit-range
+{
+    display: inline;
+}
+
+div.rateit div.rateit-hover, div.rateit div.rateit-selected
+{
+    position: absolute;
+    left: 0px;
+}
+
+div.rateit div.rateit-hover-rtl, div.rateit div.rateit-selected-rtl
+{
+    left: auto;
+    right: 0px;
+}
+
+div.rateit div.rateit-hover
+{
+    background: url(/js/rateit/star.png) left -32px;
+}
+
+div.rateit div.rateit-hover-rtl
+{
+    background-position: right -32px;
+}
+
+div.rateit div.rateit-selected
+{
+    background: url(/js/rateit/star.png) left -16px;
+}
+
+div.rateit div.rateit-selected-rtl
+{
+    background-position: right -16px;
+}
+
+div.rateit div.rateit-preset
+{
+    background: url(/js/rateit/star.png) left -48px;
+}
+
+div.rateit div.rateit-preset-rtl
+{
+    background: url(/js/rateit/star.png) left -48px;
+}
+
+div.rateit div.rateit-reset
+{
+    background: url(/js/rateit/delete.gif) 0 0;
+    width: 16px;
+    height: 16px;
+    display: -moz-inline-box;
+    display: inline-block;
+    float: left;
+}
+
+div.rateit div.rateit-reset:hover
+{
+    background-position: 0 -16px;
+}
+
+.rateit {
+	display:inline;
+}
+
+#options {
+	margin-bottom:1rem;
+}
+		
+.news {
+	line-height:normal;
+}
+
+.news h3 {
+	line-height:110%;
+}
+		
+.buttonlike a { position:absolute;bottom:0px;margin-bottom:0px;width:100%;text-align:center;}
+
+.news_by_date { border-bottom: 1px solid #ddd; margin-bottom:5px; font-size:0.9rem; line-height:120%; }
+.news_date { display:inline-block;min-width:6rem; }
+.news_site {  }
+.news_tags { margin-left:0px; border-top: 1px solid #ddd; margin-top:5px; font-size:0.9rem; margin-bottom:0px; }		
+.news_tags li {
+	margin-left:0;
+	margin-right:1.5rem;
+}
+
+@media only screen and (max-width:400px) {
+.subscribe { margin-right:1rem;}
+.news_site { }
+.news_tags { line-height:2.5; margin-right:2rem; }
+.news_by_date { margin-top:20px;}
+}
+
+.like a > i {
+	color:#ccc;
+	text-shadow: 0 0 1px #fff;
+}
+
+.buttonlike a > i {
+	font-size:1rem;
+}
+
+.like a:hover > i {
+	color:red;
+	text-shadow: 0 0 5px #fff,0 0 10px #fff,0 0 15px red,0 0 20px red, 0 0 30px red;
+}
+
+.like a:hover {
+}
+
+a.liked > i {
+	color:red;
+}
+
+a.liked:hover > i {
+}
+
+.subscribe a {
+	cursor:pointer;
+	cursor:hand;
+	color:#ddd;
+	text-shadow: 0 0 1px #333;
+}		
+
+.subscribe a:hover {
+	color:gold;
+	text-shadow: 0 0 5px #fff,0 0 10px #fff,0 0 15px #fff,0 0 20px gold,0 0 30px gold;
+}
+
+a.subscribed {
+	color:gold;
+	text-shadow:none;
+}
+
+.news_by_date i {
+	font-size:1rem;
+}
+
+#news_info { padding-right:15px; }
+#options {
+	margin-top:20px;
+}
+
+#sort_options {float: left; padding:3px;}
+
+#space {
+	width:220px;height:30px;float:left;
+}
+
+#display { float:left; }
+
+a.news_link:visited {color:#400080; }
+
+#pages {
+	clear:both;
+	font-size:18px;
+	padding-top:10px;
+}
+#pages div {margin-left:5px; display:inline;}
+#current_page {font-weight:bold;}
+#breadcrumbs {clear:both;padding-top:20px;padding-bottom:2rem;}
+#breadcrumbs div {display:inline}
+
+#frontpage_li {
+	padding-bottom:10px;
+	margin-bottom:10px;
+}
+		
+
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6257384-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-6257384-7' );
+  
+  
+</script>
+
+
+
+	
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+
+
+
+<div class="row full-width collapse hide-for-small-only" style="max-width: 100% !important;background-color:#006a00">
+	<div class="large-4 columns">
+		<div class="row collapse">
+			<div class="small-12 medium-6 large-12 columns">
+		<a href="https://recettes.de/cuisine" title="Recettes de cuisine"><img id="site_logo" src="/images/misc/recettes-de.592x130.png" width="296" height="65" alt="Recettes de cuisine" /></a>
+
+			</div>
+			<div class="small-12 medium-6 large-12 columns hide-for-small-only">		
+				
+			</div>
+		</div>
+
+	</div>
+	<div class="large-8 columns">
+		<a id="img_link" href="/meli-melo"><img id="foundation_banner" src="/images/tags/meli-melo/banner-title-photo-6.jpg" alt="Recettes de MÃ©li-MÃ©lo" width="1000" height="180" />
+</a>
+	</div>
+</div>
+
+<nav class="top-bar" data-topbar role="navigation" id="top-bar">
+	<ul class="title-area">
+		<li class="name" style="background-color:#005800;">
+			<h2><a href="/cuisine" title="Les recettes de cuisine de tous les blogs">Recettes</a></h2>
+		</li>
+		<!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+		<li class="toggle-topbar menu-icon" style="background-color:#005800;"><a href="#"><span>Menu</span></a></li>
+	</ul>
+
+	<section class="top-bar-section">
+	<!-- Right Nav Section -->
+	<ul>
+		<li class="has-form right show-for-medium-up" style="background-color:#005800;">
+			<div class="row collapse">
+				<form action="/cgi/search.pl" id="search1">
+					<ul><li style="background-color:#005800;">
+						<input type="text" placeholder="Trouver une recette par nom de plat ou ingrédients" name="q" id="q1">
+					</li><li style="background-color:#005800;">
+					
+						<button type="submit" id="search_button"><i class="fi-magnifying-glass"></i><span class="show-for-large-up">&nbsp;&nbsp;Chercher</span></button>
+					</li></ul>
+				</form>
+			</div>
+		</li>
+		<li class="has-form show-for-small-only" style="background-color:#005800;">
+			<div class="row collapse">
+				<form action="/cgi/search.pl" id="search2">
+					<div class="large-8 small-8 columns">
+						<input type="text" placeholder="Trouver une recette" name="q" id="q2">
+					</div>
+					<div class="large-4 small-4 columns">
+						<button type="submit"><i class="fi-magnifying-glass"></i></button>
+					</div>
+				</form>
+			</div>
+		</li>			
+	</ul>
+
+	<!-- Left Nav Section -->	
+	<ul class="left">
+		<li class="divider"></li>
+		<li><a href="/mes-blogs-preferes" title="Les recettes de cuisine de mes blogs préférés" style="background-color:#005800;"><i class="fi-star" style="color:gold"></i> Mes blogs préférés</a></li>
+		<li class="show-for-large-up"><a href="/defis-cuisine" title="Les défis cuisine" style="background-color:#005800;">Défis</a></li>
+		<li class="show-for-large-up"><a href="/blogs-cuisine" title="La liste de tous les blogs cuisine francophones" style="background-color:#005800;">Classement</a></li>
+	</ul>
+	</section>
+</nav>
+
+
+
+<div class="row full-width" style="max-width: 100% !important">
+	<div class="small-12 medium-6 large-8 columns" style="margin-top:1rem;">
+
+
+
+
+
+
+
+<div class="hide-for-small-only" style="margin-top:1rem;margin-bottom:1rem;">
+<!-- recettes.de - leaderboard - top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5891878395074432"
+     data-ad-slot="1924933467"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<br/><div class="row">
+
+	<div class="small-12 columns">
+<h1 id="title">Les Recettes de Méli-Mélo</h1>
+<div class="hide-for-small-only">
+<div>306 recettes de méli-mélo avec photos : 306 recettes de méli-mélo à découvrir sur <a href="/cuisine">Recettes de Cuisine</a>.</div>
+
+</div>
+	</div>
+
+</div>
+
+<div class="row">
+
+	<div class="small-12 medium-12 large-12 columns hide-for-small-only">
+<p></p>
+	</div>
+
+	<div class="small-12 medium-12 large-12 columns show-for-large-up">
+<dl class="sub-nav">
+<dt><dt>
+<dd class="active"><a href="#">Nouvelles recettes</a></dd>
+<dd><a href="/meli-melo/top">Les plus appréciées</a></dd>
+</dl>
+	</div>
+</div>
+
+
+
+		
+<ul id="news_items" class="news1 small-block-grid-1 medium-block-grid-1 large-block-grid-2">
+
+<li class="dark news" id="frontpage_li">
+<div id="frontpage" itemscope itemtype="http://schema.org/Recipe">
+<div id="frontpage_title" class="right" style="margin-top:2px;margin-bottom:4px">La meilleure recette de méli-mélo du moment !</div>
+<h3 class="news_title" style="clear:right"><a href="http://thecrazyoven.com/2015/11/04/oeuf-poche-et-son-meli-melo-de-legumes/" title="Oeuf poché et son meli melo de légumes de Thecrazyoven" rel="nofollow" class="url fn item news_title" itemprop="name">Oeuf poché et son meli melo de légumes</a></h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://thecrazyoven.com/2015/11/04/oeuf-poche-et-son-meli-melo-de-legumes/" title="Oeuf poché et son meli melo de légumes de Thecrazyoven" rel="nofollow">
+<img itemprop="image" src="/images/blogs/thecrazoven-recette-de-cuisine-et-de-patisserie-pour-tous/oeuf-poche-et-son-meli-melo-de-legumes.320x240.jpg" width="320" height="240" alt="Oeuf poché et son meli melo de légumes" class="photo news_image_320" />
+
+</a>
+<span class="like buttonlike"><a class="button small" id="like_thecrazoven-recette-de-cuisine-et-de-patisserie-pour-tous.45" href="#"><i class="fi-heart"></i> Ajouter à mon carnet de recettes</a></span>
+</div>
+<div class="news_by_date">
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;04/11/15 <i class="fi-clock"></i>&nbsp;13:12</span><meta itemprop="datePublished" content="2015-11-04"><br/>
+<span class="news_site"><span class="subscribe"><a class="blog_thecrazoven-recette-de-cuisine-et-de-patisserie-pour-tous" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/thecrazoven-recette-de-cuisine-et-de-patisserie-pour-tous" class="author" itemprop="author" style="color:#d3d3d3">Thecrazyoven</a></span>
+</div>
+<span class="news_description summary" itemprop="description">Une envie de légumes et surtout un repas à préparer vite fait pour le repas du midi des enfants. Pour les protéines, j’ai choisi les œufs de mes poulettes et tant qu’on y est pochons les. C’est simple et bon. Allez hop c’est …</span>
+
+<div>
+<div>
+<div class="rateit" data-id="thecrazoven-recette-de-cuisine-et-de-patisserie-pour-tous.45" data-rateit-value="0" data-rateit-step="1" data-rateit-ispreset="true" style="background-color:white; background-color: rgba(255,255,255,0.9); color:black; padding:2px;"></div>
+    <span class="yourvote"> - votez pour ajouter à votre carnet</span>
+
+</div>
+</div>
+</div>
+</li>
+
+
+
+<li class="news">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout="image-middle"
+     data-ad-layout-key="-de+k-6y+5m+fg"
+     data-ad-client="ca-pub-5891878395074432"
+     data-ad-slot="6494733863"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</li>
+<li class="news">
+<h3 class="fn news_title"><a href="https://la-super-cuisine-de-laety.over-blog.com/2022/08/meli-melo-au-poulet.html" title="Méli Mélo Au Poulet de La cuisine de laëty " class="url" rel="nofollow">Méli Mélo Au Poulet</a>
+- <span class="inlinelike like"><a id="like_la-cuisine-de-laety.107" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://la-super-cuisine-de-laety.over-blog.com/2022/08/meli-melo-au-poulet.html" title="Méli Mélo Au Poulet de La cuisine de laëty " class="url" rel="nofollow">
+<img src="/images/blogs/la-cuisine-de-laety/meli-melo-au-poulet.160x120.jpg" srcset="/images/blogs/la-cuisine-de-laety/meli-melo-au-poulet.320x240.jpg 2x" width="160" height="120" alt="Méli Mélo Au Poulet" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_la-cuisine-de-laety" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/la-cuisine-de-laety" class="author" style="color:#2a2a2a">La cuisine de laëty </a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;01/09/22 <i class="fi-clock"></i>&nbsp;08:41</span>
+</div>
+<span class="news_description summary">Voici le Méli Mélo de Poulet 🐔 Recette simple, équilibrée, légère et tellement gourmande Ingrédients : ( 4 personnes ) 600g Poulet ( 4 escalopes de Poulet ) 1 Oignon 200g Eau 1 Kubors 1 Petite boîte de Petits Pois 1 Petite boîte d'Haricots verts 1 CS......</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/laety-cuisine" class="tag" rel="tag" style="color:#006a00">Laety Cuisine</a></li>
+<li><a href="/mijote" class="tag" rel="tag" style="color:#006a00">Mijote</a></li>
+<li><a href="/cookeo" class="tag" rel="tag" style="color:#006a00">Cookéo</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/poulet" class="tag" rel="tag" style="color:#006a00">Poulet</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="https://carmencuisine.over-blog.com/2022/08/meli-melo-d-ete-aux-deux-melons-et-mozzarella.html" title="Méli Mélo d'été aux deux melons et mozzarella de Cuisine gourmande de Carmencita" class="url" rel="nofollow">Méli Mélo d'été aux deux melons et mozzarella</a>
+- <span class="inlinelike like"><a id="like_la-cuisine-gourmande-de-carmencita.1836" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://carmencuisine.over-blog.com/2022/08/meli-melo-d-ete-aux-deux-melons-et-mozzarella.html" title="Méli Mélo d'été aux deux melons et mozzarella de Cuisine gourmande de Carmencita" class="url" rel="nofollow">
+<img src="/images/blogs/la-cuisine-gourmande-de-carmencita/meli-melo-d-ete-aux-deux-melons-et-mozzarella-1836.160x120.jpg" srcset="/images/blogs/la-cuisine-gourmande-de-carmencita/meli-melo-d-ete-aux-deux-melons-et-mozzarella-1836.320x240.jpg 2x" width="160" height="120" alt="Méli Mélo d'été aux deux melons et mozzarella" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_la-cuisine-gourmande-de-carmencita" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/la-cuisine-gourmande-de-carmencita" class="author" style="color:#6a3535">Cuisine gourmande de Carmencita</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;04/08/22 <i class="fi-clock"></i>&nbsp;14:21</span>
+</div>
+<span class="news_description summary">Celle ci j'ai mis 2 sortes de melons, des jeunes pousse d'épinards et en plus des pignons de pin, j'ai ajouté des graines de courge. Préparation : 15 min Ingrédients Pour 4 personnes 1 moitié de melon Charentais 1 grosse tranche de melon vert d’Espagne......</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/mozzarella" class="tag" rel="tag" style="color:#006a00">Mozzarella</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/melon" class="tag" rel="tag" style="color:#d3a44e">Melon</a></li>
+<li><a href="/ete" class="tag" rel="tag" style="color:#90d300">Été</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="https://cuisine.land/gigi-cuisine-gourmande/11781-recette-meli-melo-de-legumes-au-cake-factory.html" title="Méli mélo de légumes au cake factory de Gigi cuisine gourmande" class="url" rel="nofollow">Méli mélo de légumes au cake factory</a>
+- <span class="inlinelike like"><a id="like_gigi-cuisine-gourmande.1566" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://cuisine.land/gigi-cuisine-gourmande/11781-recette-meli-melo-de-legumes-au-cake-factory.html" title="Méli mélo de légumes au cake factory de Gigi cuisine gourmande" class="url" rel="nofollow">
+<img src="/images/blogs/gigi-cuisine-gourmande/meli-melo-de-legumes-au-cake-factory-1566.160x120.jpg" srcset="/images/blogs/gigi-cuisine-gourmande/meli-melo-de-legumes-au-cake-factory-1566.320x240.jpg 2x" width="160" height="120" alt="Méli mélo de légumes au cake factory" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_gigi-cuisine-gourmande" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/gigi-cuisine-gourmande" class="author" style="color:#009000">Gigi cuisine gourmande</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;06/04/22 <i class="fi-clock"></i>&nbsp;17:44</span>
+</div>
+<span class="news_description summary"><b>Préparation : <meta itemprop="prepTime" content="PT10M">10 min - Cuisson : <meta itemprop="cookTime" content="PT40M">40 min</b> Recette Méli mélo de légumes au cake factory proposée par Gigi61 sur son blog Gigi cuisine pour vous </span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/legumes" class="tag" rel="tag" style="color:#018200">Légumes</a></li>
+<li><a href="/cake" class="tag" rel="tag" style="color:#b0d365">Cake</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="http://passionsdeval.canalblog.com/archives/2022/02/09/39328657.html" title="Méli-mélo de choux et haddock en croûte de Le Palais des Saveurs" class="url" rel="nofollow">Méli-mélo de choux et haddock en croûte</a>
+- <span class="inlinelike like"><a id="like_le-palais-des-saveurs.2700" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://passionsdeval.canalblog.com/archives/2022/02/09/39328657.html" title="Méli-mélo de choux et haddock en croûte de Le Palais des Saveurs" class="url" rel="nofollow">
+<img src="/images/blogs/le-palais-des-saveurs/meli-melo-de-choux-et-haddock-en-croute-2700.160x120.jpg" srcset="/images/blogs/le-palais-des-saveurs/meli-melo-de-choux-et-haddock-en-croute-2700.320x240.jpg 2x" width="160" height="120" alt="Méli-mélo de choux et haddock en croûte" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_le-palais-des-saveurs" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/le-palais-des-saveurs" class="author" style="color:#b4d382">Le Palais des Saveurs</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;09/02/22 <i class="fi-clock"></i>&nbsp;12:00</span>
+</div>
+<span class="news_description summary">1er essai et réussite d'un pâté en croûte, au poisson. A 4 mains et grâce au livre "Pâté en croûte", voilà le résultat: </span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/haddock" class="tag" rel="tag" style="color:#006a00">Haddock</a></li>
+<li><a href="/croutes" class="tag" rel="tag" style="color:#006a00">Croûtes</a></li>
+<li><a href="/chou" class="tag" rel="tag" style="color:#006a00">Chou</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout="image-middle"
+     data-ad-layout-key="-de+k-6y+5m+fg"
+     data-ad-client="ca-pub-5891878395074432"
+     data-ad-slot="6494733863"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</li>
+<li class="news">
+<h3 class="fn news_title"><a href="https://poivreseb.fr/salade-meli-melo-hiver/" title="Salade méli mélo hiver de Poivré Seb" class="url" rel="nofollow">Salade méli mélo hiver</a>
+- <span class="inlinelike like"><a id="like_poivre-seb.789" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://poivreseb.fr/salade-meli-melo-hiver/" title="Salade méli mélo hiver de Poivré Seb" class="url" rel="nofollow">
+<img src="/images/blogs/poivre-seb/salade-meli-melo-hiver.160x120.jpg" srcset="/images/blogs/poivre-seb/salade-meli-melo-hiver.320x240.jpg 2x" width="160" height="120" alt="Salade méli mélo hiver" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_poivre-seb" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/poivre-seb" class="author" style="color:#00788f">Poivré Seb</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;22/01/22 <i class="fi-clock"></i>&nbsp;11:10</span>
+</div>
+<span class="news_description summary"><b>Préparation : <meta itemprop="prepTime" content="PT30M">30 min</b> Avant de vous présenter la recette qui va suivre, je tenais à vous présenter mes meilleurs vœux pour … </span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/betteraves" class="tag" rel="tag" style="color:#006a00">Betteraves</a></li>
+<li><a href="/legumes" class="tag" rel="tag" style="color:#018200">Légumes</a></li>
+<li><a href="/julienne" class="tag" rel="tag" style="color:#006a00">Julienne</a></li>
+<li><a href="/carottes" class="tag" rel="tag" style="color:#006a00">Carottes</a></li>
+<li><a href="/fruit-de-la-passion" class="tag" rel="tag" style="color:#006a00">Fruit de la passion</a></li>
+<li><a href="/sauces" class="tag" rel="tag" style="color:#006a00">Sauces</a></li>
+<li><a href="/salades" class="tag" rel="tag" style="color:#00b125">Salades</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="https://streetfoodetcuisinedumonde.blogspot.com/2014/02/recette-de-bento-lunchbox-pancakes.html" title="Bento lunchbox pancakes - crêpes citrouille, jambon cru, salade méli mélo de Street Food, Cuisine du Monde" class="url" rel="nofollow">Bento lunchbox pancakes - crêpes citrouille, jambon cru, salade méli mélo</a>
+- <span class="inlinelike like"><a id="like_street-food-cuisine-du-monde.1097" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://streetfoodetcuisinedumonde.blogspot.com/2014/02/recette-de-bento-lunchbox-pancakes.html" title="Bento lunchbox pancakes - crêpes citrouille, jambon cru, salade méli mélo de Street Food, Cuisine du Monde" class="url" rel="nofollow">
+<img src="/images/blogs/street-food-cuisine-du-monde/bento-lunchbox-pancakes-crepes-citrouille-jambon-cru-salade-meli-melo-1097.160x120.jpg" srcset="/images/blogs/street-food-cuisine-du-monde/bento-lunchbox-pancakes-crepes-citrouille-jambon-cru-salade-meli-melo-1097.320x240.jpg 2x" width="160" height="120" alt="Bento lunchbox pancakes - crêpes citrouille, jambon cru, salade méli mélo" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_street-food-cuisine-du-monde" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/street-food-cuisine-du-monde" class="author" style="color:#009000">Street Food, Cuisine du Monde</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;17/01/22 <i class="fi-clock"></i>&nbsp;09:06</span>
+</div>
+<span class="news_description summary">Dans ce délicieux bento, vous trouverez une crêpe à la citrouille ail et fines herbes, un pancake sandwich au jambon cru et au fromage ail et fines herbes (ou pancake croque-monsieur), une salade d'endive, de chou chinois, noix, Comté, un oeuf moulé en...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/jambon-cru" class="tag" rel="tag" style="color:#006a00">Jambon cru</a></li>
+<li><a href="/citrouille" class="tag" rel="tag" style="color:#d33c17">Citrouille</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/pancakes" class="tag" rel="tag" style="color:#af0407">Pancakes</a></li>
+<li><a href="/jambon" class="tag" rel="tag" style="color:#006a00">Jambon</a></li>
+<li><a href="/salades" class="tag" rel="tag" style="color:#00b125">Salades</a></li>
+<li><a href="/crepes" class="tag" rel="tag" style="color:#d31313">Crêpes</a></li>
+<li><a href="/bento" class="tag" rel="tag" style="color:#006a00">Bento</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="http://avecplaisirs.canalblog.com/archives/2022/01/10/39297443.html" title="Salade méli mélo de Mam's...Qu'est ce qu'on mange?" class="url" rel="nofollow">Salade méli mélo</a>
+- <span class="inlinelike like"><a id="like_mam-s-qu-est-ce-qu-on-mange.98" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://avecplaisirs.canalblog.com/archives/2022/01/10/39297443.html" title="Salade méli mélo de Mam's...Qu'est ce qu'on mange?" class="url" rel="nofollow">
+<img src="/images/blogs/mam-s-qu-est-ce-qu-on-mange/salade-meli-melo-98.160x120.jpg" srcset="/images/blogs/mam-s-qu-est-ce-qu-on-mange/salade-meli-melo-98.320x240.jpg 2x" width="160" height="120" alt="Salade méli mélo" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_mam-s-qu-est-ce-qu-on-mange" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/mam-s-qu-est-ce-qu-on-mange" class="author" style="color:#009000">Mam's...Qu'est ce qu'on mange?</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;10/01/22 <i class="fi-clock"></i>&nbsp;11:51</span>
+</div>
+<span class="news_description summary">L'appétit n'étant pas tous les jours au rendez vous, une salade est toujours la bienvenue. J'ai décidé ce mois ci de limiter au strict nécessaire les courses, d'une part il y a encore quelques restes à finir et d'autre part les placards et congélateurs...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/salades" class="tag" rel="tag" style="color:#00b125">Salades</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="https://www.chezvanda.com/poivrons-farcis-au-meli-melo-de-thon.html" title="Poivrons farcis au méli mélo de thon de Chez Vanda" class="url" rel="nofollow">Poivrons farcis au méli mélo de thon</a>
+- <span class="inlinelike like"><a id="like_chez-vanda.2431" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://www.chezvanda.com/poivrons-farcis-au-meli-melo-de-thon.html" title="Poivrons farcis au méli mélo de thon de Chez Vanda" class="url" rel="nofollow">
+<img src="/images/blogs/chez-vanda/poivrons-farcis-au-meli-melo-de-thon.160x120.jpg" srcset="/images/blogs/chez-vanda/poivrons-farcis-au-meli-melo-de-thon.320x240.jpg 2x" width="160" height="120" alt="Poivrons farcis au méli mélo de thon" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_chez-vanda" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/chez-vanda" class="author" style="color:#ac2b9d">Chez Vanda</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;29/10/21 <i class="fi-clock"></i>&nbsp;20:39</span>
+</div>
+<span class="news_description summary"><b>Cuisson : <meta itemprop="cookTime" content="PT50M">50 min</b> Pour le moment, nos poivrons ont été épargnés par les petites gelées matinales, alors profitons-en tant qu'il en reste au jardin. Ayant en réserve 1 paquet de céréales Tipiak (méli mélo gourmand blé, lentilles, orge et pois) j'ai improvisé des poivrons......</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/recette-ww" class="tag" rel="tag" style="color:#006a00">Recette Ww</a></li>
+<li><a href="/omnicuiseur" class="tag" rel="tag" style="color:#006a00">Omnicuiseur</a></li>
+<li><a href="/cuisine-minceur" class="tag" rel="tag" style="color:#006a00">Cuisine Minceur</a></li>
+<li><a href="/poivrons-farcis" class="tag" rel="tag" style="color:#006a00">Poivrons farcis</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/poivrons" class="tag" rel="tag" style="color:#006a00">Poivrons</a></li>
+<li><a href="/farcis" class="tag" rel="tag" style="color:#006a00">Farcis</a></li>
+<li><a href="/thon" class="tag" rel="tag" style="color:#006a00">Thon</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout="image-middle"
+     data-ad-layout-key="-de+k-6y+5m+fg"
+     data-ad-client="ca-pub-5891878395074432"
+     data-ad-slot="6494733863"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</li>
+<li class="news">
+<h3 class="fn news_title"><a href="http://passionsdeval.canalblog.com/archives/2021/10/17/39143545.html" title="Salade d'hiver méli-mélo de Le Palais des Saveurs" class="url" rel="nofollow">Salade d'hiver méli-mélo</a>
+- <span class="inlinelike like"><a id="like_le-palais-des-saveurs.2591" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://passionsdeval.canalblog.com/archives/2021/10/17/39143545.html" title="Salade d'hiver méli-mélo de Le Palais des Saveurs" class="url" rel="nofollow">
+<img src="/images/blogs/le-palais-des-saveurs/salade-d-hiver-meli-melo-2591.160x120.jpg" srcset="/images/blogs/le-palais-des-saveurs/salade-d-hiver-meli-melo-2591.320x240.jpg 2x" width="160" height="120" alt="Salade d'hiver méli-mélo" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_le-palais-des-saveurs" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/le-palais-des-saveurs" class="author" style="color:#b4d382">Le Palais des Saveurs</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;17/10/21 <i class="fi-clock"></i>&nbsp;12:00</span>
+</div>
+<span class="news_description summary">Chez "Les épices rient", j'ai trouvé cette salade, histoire de manger encore des fruits et légumes même quand il fait plus froid. </span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/salades" class="tag" rel="tag" style="color:#00b125">Salades</a></li>
+</ul>
+</li>
+			
+
+
+<li class="news">
+<h3 class="fn news_title"><a href="https://happypapilles.fr/meli-melo-salade-tomates-echalion-sumac-pignons-pin-yotam-ottolenghi/" title="Méli-mélo de tomates, échalion au sumac et pignons de pin de Yotam Ottolenghi de Happy papilles" class="url" rel="nofollow">Méli-mélo de tomates, échalion au sumac et pignons de pin de Yotam Ottolenghi</a>
+- <span class="inlinelike like"><a id="like_douceurs-delices.3465" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://happypapilles.fr/meli-melo-salade-tomates-echalion-sumac-pignons-pin-yotam-ottolenghi/" title="Méli-mélo de tomates, échalion au sumac et pignons de pin de Yotam Ottolenghi de Happy papilles" class="url" rel="nofollow">
+<img src="/images/blogs/douceurs-delices/meli-melo-de-tomates-echalion-au-sumac-et-pignons-de-pin-de-yotam-ottolenghi.160x120.jpg" srcset="/images/blogs/douceurs-delices/meli-melo-de-tomates-echalion-au-sumac-et-pignons-de-pin-de-yotam-ottolenghi.320x240.jpg 2x" width="160" height="120" alt="Méli-mélo de tomates, échalion au sumac et pignons de pin de Yotam Ottolenghi" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_douceurs-delices" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/douceurs-delices" class="author" style="color:#b00032">Happy papilles</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;20/09/21 <i class="fi-clock"></i>&nbsp;05:56</span>
+</div>
+<span class="news_description summary"><b>Préparation : <meta itemprop="prepTime" content="PT9M">9 min - Cuisson : <meta itemprop="cookTime" content="PT2M">2 min</b> Les tomates sont désormais à pleine maturité, mais je me lasse vite des salades de tomates. Je cherches donc des version comportant une touche d’originalité et j’ai donc trouvé mon bonheur avec cette recette de méli-mélo de tomates, échalion au sumac et...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/tomates" class="tag" rel="tag" style="color:#be3411">Tomates</a></li>
+<li><a href="/sumac" class="tag" rel="tag" style="color:#006a00">Sumac</a></li>
+</ul>
+</li>
+			
+
+
+<li class="news">
+<h3 class="fn news_title"><a href="https://mamyloumichel.blogspot.com/2021/07/meli-melo-de-salade-au-jambon-fume-et.html" title="Méli-mélo de salade au jambon fumé et saumon fumé de Patipati cuisinons pour le plaisir" class="url" rel="nofollow">Méli-mélo de salade au jambon fumé et saumon fumé</a>
+- <span class="inlinelike like"><a id="like_patipati.977" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://mamyloumichel.blogspot.com/2021/07/meli-melo-de-salade-au-jambon-fume-et.html" title="Méli-mélo de salade au jambon fumé et saumon fumé de Patipati cuisinons pour le plaisir" class="url" rel="nofollow">
+<img src="/images/blogs/patipati/meli-melo-de-salade-au-jambon-fume-et-saumon-fume-977.160x120.jpg" srcset="/images/blogs/patipati/meli-melo-de-salade-au-jambon-fume-et-saumon-fume-977.320x240.jpg 2x" width="160" height="120" alt="Méli-mélo de salade au jambon fumé et saumon fumé" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_patipati" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/patipati" class="author" style="color:#d36200">Patipati cuisinons pour le plaisir</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;09/07/21 <i class="fi-clock"></i>&nbsp;15:33</span>
+</div>
+<span class="news_description summary">Ingrédients:- 1 petite laitue - 1 petite frisée rouge - 100 g de roquette - 12 tomates cerise (rouge, jaune et orange) - 6 tranches de jambon fumé - 4 tranches de saumon fumé - 40 g de parmesan en copeaux - 1 filet d'huile aux piments - 1 filet d'huile...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/salade-au-jambon-fume" class="tag" rel="tag" style="color:#006a00">Salade au jambon fumé</a></li>
+<li><a href="/salade-au-jambon" class="tag" rel="tag" style="color:#006a00">Salade au jambon</a></li>
+<li><a href="/saumon-fume" class="tag" rel="tag" style="color:#006a00">Saumon fumé</a></li>
+<li><a href="/jambon-fume" class="tag" rel="tag" style="color:#006a00">Jambon fumé</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/saumon" class="tag" rel="tag" style="color:#d35313">Saumon</a></li>
+<li><a href="/salades" class="tag" rel="tag" style="color:#00b125">Salades</a></li>
+<li><a href="/jambon" class="tag" rel="tag" style="color:#006a00">Jambon</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="https://www.chezvanda.com/petits-flans-de-meli-melo-aux-carottes.html" title="Petits flans de méli mélo aux carottes de Chez Vanda" class="url" rel="nofollow">Petits flans de méli mélo aux carottes</a>
+- <span class="inlinelike like"><a id="like_chez-vanda.2331" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://www.chezvanda.com/petits-flans-de-meli-melo-aux-carottes.html" title="Petits flans de méli mélo aux carottes de Chez Vanda" class="url" rel="nofollow">
+<img src="/images/blogs/chez-vanda/petits-flans-de-meli-melo-aux-carottes.160x120.jpg" srcset="/images/blogs/chez-vanda/petits-flans-de-meli-melo-aux-carottes.320x240.jpg 2x" width="160" height="120" alt="Petits flans de méli mélo aux carottes" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_chez-vanda" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/chez-vanda" class="author" style="color:#ac2b9d">Chez Vanda</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;01/07/21 <i class="fi-clock"></i>&nbsp;20:54</span>
+</div>
+<span class="news_description summary">En faisant du rangement dans les placards, j'ai trouvé un sachet de méli mélo de chez Tipiak . Il y a bien longtemps que je n'ai pas cuisiné cet excellent féculent. Pour cette fois, j'ai eu envie de le cuisiner différemment. Et pourquoi pas en faire des......</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/recette-ww" class="tag" rel="tag" style="color:#006a00">Recette Ww</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/carottes" class="tag" rel="tag" style="color:#006a00">Carottes</a></li>
+<li><a href="/flan" class="tag" rel="tag" style="color:#006a00">Flan</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout="image-middle"
+     data-ad-layout-key="-de+k-6y+5m+fg"
+     data-ad-client="ca-pub-5891878395074432"
+     data-ad-slot="6494733863"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</li>
+<li class="news">
+<h3 class="fn news_title"><a href="http://babethcuisine.blogspot.com/2021/05/un-peu-de-sucre-quand-meme-avec-un-meli.html" title="Peu de sucré quand même, avec un méli-mélo de recette très adaptable de Babeth's cuisine" class="url" rel="nofollow">Peu de sucré quand même, avec un méli-mélo de recette très adaptable</a>
+- <span class="inlinelike like"><a id="like_babeth-s-cuisine.158" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://babethcuisine.blogspot.com/2021/05/un-peu-de-sucre-quand-meme-avec-un-meli.html" title="Peu de sucré quand même, avec un méli-mélo de recette très adaptable de Babeth's cuisine" class="url" rel="nofollow">
+<img src="/images/blogs/babeth-s-cuisine/peu-de-sucre-quand-meme-avec-un-meli-melo-de-recette-tres-adaptable-158.160x120.jpg" srcset="/images/blogs/babeth-s-cuisine/peu-de-sucre-quand-meme-avec-un-meli-melo-de-recette-tres-adaptable-158.320x240.jpg 2x" width="160" height="120" alt="Peu de sucré quand même, avec un méli-mélo de recette très adaptable" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_babeth-s-cuisine" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/babeth-s-cuisine" class="author" style="color:#d3d3d3">Babeth's cuisine</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;19/05/21 <i class="fi-clock"></i>&nbsp;18:44</span>
+</div>
+<span class="news_description summary">Beaucoup de salé dans les rares articles depuis le début de l’année. Alors un petit truc sympathique pour le goûter ça changera. On commence par une photo ? Ça vous donnera peut-être envie de continuer à lire. Ce sont donc des petits gâteaux. À la datte...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/sucre" class="tag" rel="tag" style="color:#006a00">Sucre</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="http://www.certiferme.com/blog/article-46-145505-normale-meli-melo-de-pommes-et-quelques-jolies-fraises.html" title="Méli-mélo de pommes et quelques jolies fraises de Titanique" class="url" rel="nofollow">Méli-mélo de pommes et quelques jolies fraises</a>
+- <span class="inlinelike like"><a id="like_titanique.4384" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://www.certiferme.com/blog/article-46-145505-normale-meli-melo-de-pommes-et-quelques-jolies-fraises.html" title="Méli-mélo de pommes et quelques jolies fraises de Titanique" class="url" rel="nofollow">
+<img src="/images/blogs/titanique/meli-melo-de-pommes-et-quelques-jolies-fraises.160x120.jpg" srcset="/images/blogs/titanique/meli-melo-de-pommes-et-quelques-jolies-fraises.320x240.jpg 2x" width="160" height="120" alt="Méli-mélo de pommes et quelques jolies fraises" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_titanique" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/titanique" class="author" style="color:#d3d3d3">Titanique</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;23/04/21 <i class="fi-clock"></i>&nbsp;01:54</span>
+</div>
+<span class="news_description summary">Avec trois ou quatre pommes, une pâte feuilletée, un bol, un peu de compote, du sucre roux! Vous pouvez faire une jolie tarte finalement! N'&... </span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/fraises" class="tag" rel="tag" style="color:#d30b0b">Fraises</a></li>
+<li><a href="/pomme" class="tag" rel="tag" style="color:#d3432c">Pomme</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="http://isaetsatable.canalblog.com/archives/2021/03/19/38874974.html" title="Méli-mélo d'asperges et crudités au jambon de parme de la nouvelle table d'isa" class="url" rel="nofollow">Méli-mélo d'asperges et crudités au jambon de parme</a>
+- <span class="inlinelike like"><a id="like_la-nouvelle-table-d-isa.486" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://isaetsatable.canalblog.com/archives/2021/03/19/38874974.html" title="Méli-mélo d'asperges et crudités au jambon de parme de la nouvelle table d'isa" class="url" rel="nofollow">
+<img src="/images/blogs/la-nouvelle-table-d-isa/meli-melo-d-asperges-et-crudites-au-jambon-de-parme-486.160x120.jpg" srcset="/images/blogs/la-nouvelle-table-d-isa/meli-melo-d-asperges-et-crudites-au-jambon-de-parme-486.320x240.jpg 2x" width="160" height="120" alt="Méli-mélo d'asperges et crudités au jambon de parme" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_la-nouvelle-table-d-isa" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/la-nouvelle-table-d-isa" class="author" style="color:#009000">la nouvelle table d'isa</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;19/03/21 <i class="fi-clock"></i>&nbsp;18:39</span>
+</div>
+<span class="news_description summary">Méli-mélo d'asperges et crudités au jambon de parme Petit mélange de légumes crus et d'asperges présentés autour d'un ruban fait en feuille de brick . J'ai ajouté quelques pousses germées de roquette et une tuile de parmesan . La sauce est faite d'un mélange...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/jambon-de-parme" class="tag" rel="tag" style="color:#006a00">Jambon de Parme</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/asperges" class="tag" rel="tag" style="color:#53b400">Asperges</a></li>
+<li><a href="/crudites" class="tag" rel="tag" style="color:#006a00">Crudités</a></li>
+<li><a href="/jambon" class="tag" rel="tag" style="color:#006a00">Jambon</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="http://mariatotal.com/recettes/consulter/meli-melo-tomates-echalion-sumac-pignons" title="Méli-mélo de tomates, échalion au sumac et pignons de mariatotal.com" class="url" rel="nofollow">Méli-mélo de tomates, échalion au sumac et pignons</a>
+- <span class="inlinelike like"><a id="like_mariatotal-com.1160" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://mariatotal.com/recettes/consulter/meli-melo-tomates-echalion-sumac-pignons" title="Méli-mélo de tomates, échalion au sumac et pignons de mariatotal.com" class="url" rel="nofollow">
+<img src="/images/blogs/mariatotal-com/meli-melo-de-tomates-echalion-au-sumac-et-pignons.160x120.jpg" srcset="/images/blogs/mariatotal-com/meli-melo-de-tomates-echalion-au-sumac-et-pignons.320x240.jpg 2x" width="160" height="120" alt="Méli-mélo de tomates, échalion au sumac et pignons" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_mariatotal-com" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/mariatotal-com" class="author" style="color:#c91a00">mariatotal.com</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;13/03/21 <i class="fi-clock"></i>&nbsp;20:11</span>
+</div>
+<span class="news_description summary"><b>Préparation : <meta itemprop="prepTime" content="PT30M">30 min</b> Ici, tout dépend de la qualité des tomates qui doivent être bien mûres. J’avoue avoir fait cette salade, signée Yotam Ottolenghi (“Simple”), au début du printemps, largement avant la saison. Les tomates étaient donc vraisemblablement d’importation, mais...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/tomates" class="tag" rel="tag" style="color:#be3411">Tomates</a></li>
+<li><a href="/sumac" class="tag" rel="tag" style="color:#006a00">Sumac</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout="image-middle"
+     data-ad-layout-key="-de+k-6y+5m+fg"
+     data-ad-client="ca-pub-5891878395074432"
+     data-ad-slot="6494733863"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</li>
+<li class="news">
+<h3 class="fn news_title"><a href="https://www.chezvanda.com/2019/07/meli-melo-de-semoules-aux-fruits.html" title="Méli-mélo de semoules aux fruits de Chez Vanda" class="url" rel="nofollow">Méli-mélo de semoules aux fruits</a>
+- <span class="inlinelike like"><a id="like_chez-vanda.2251" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://www.chezvanda.com/2019/07/meli-melo-de-semoules-aux-fruits.html" title="Méli-mélo de semoules aux fruits de Chez Vanda" class="url" rel="nofollow">
+<img src="/images/blogs/chez-vanda/meli-melo-de-semoules-aux-fruits-2251.160x120.jpg" srcset="/images/blogs/chez-vanda/meli-melo-de-semoules-aux-fruits-2251.320x240.jpg 2x" width="160" height="120" alt="Méli-mélo de semoules aux fruits" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_chez-vanda" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/chez-vanda" class="author" style="color:#ac2b9d">Chez Vanda</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;10/02/21 <i class="fi-clock"></i>&nbsp;12:08</span>
+</div>
+<span class="news_description summary">Hier matin , j'ai profité d'une baisse des températures pour allumer le four et vous préparer cette nouvelle gourmandise . Avec les bons abricots commandés directement chez le producteur , je ne pouvais que me régaler !!!! Pêches...nectarines.... ou autres......</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/recette-weightwatchers" class="tag" rel="tag" style="color:#006a00">Recette Weightwatchers</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/semoule" class="tag" rel="tag" style="color:#006a00">Semoule</a></li>
+<li><a href="/fruits" class="tag" rel="tag" style="color:#890070">Fruits</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="http://cuisinetcouleurs.canalblog.com/archives/2020/12/22/38720413.html" title="Verrine apéro méli mélo de Cuisine et Couleurs" class="url" rel="nofollow">Verrine apéro méli mélo</a>
+- <span class="inlinelike like"><a id="like_cuisine-et-couleurs.902" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://cuisinetcouleurs.canalblog.com/archives/2020/12/22/38720413.html" title="Verrine apéro méli mélo de Cuisine et Couleurs" class="url" rel="nofollow">
+<img src="/images/blogs/cuisine-et-couleurs/verrine-apero-meli-melo.160x120.jpg" srcset="/images/blogs/cuisine-et-couleurs/verrine-apero-meli-melo.320x240.jpg 2x" width="160" height="120" alt="Verrine apéro méli mélo" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_cuisine-et-couleurs" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/cuisine-et-couleurs" class="author" style="color:#00890b">Cuisine et Couleurs</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;22/12/20 <i class="fi-clock"></i>&nbsp;14:25</span>
+</div>
+<span class="news_description summary">Je propose cet " assemblage " ( on ne peut dire recette ) aux filles du CMUM Le challenge de cette édition est sur le thème de l'apéro festif Pour tout dire j'ai concocté ces petites verrines avec vraiment les ressources du moment, issues de [...]</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/verrines" class="tag" rel="tag" style="color:#208900">Verrines</a></li>
+<li><a href="/apero" class="tag" rel="tag" style="color:#006a00">Apéro</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="http://bellatrice.canalblog.com/archives/2020/12/12/38705880.html" title="Verrines de gambas, meli-melo de poivron, avocat, oignon rouge et ananas, mayonnaise a l'avovat de   Du jardin et du marché à l'assiette et à la bouche !  " class="url" rel="nofollow">Verrines de gambas, meli-melo de poivron, avocat, oignon rouge et ananas, mayonnaise a l'avovat</a>
+- <span class="inlinelike like"><a id="like_du-jardin-et-du-marche-a-l-assiette-et-a-la-bouche.1512" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="http://bellatrice.canalblog.com/archives/2020/12/12/38705880.html" title="Verrines de gambas, meli-melo de poivron, avocat, oignon rouge et ananas, mayonnaise a l'avovat de   Du jardin et du marché à l'assiette et à la bouche !  " class="url" rel="nofollow">
+<img src="/images/blogs/du-jardin-et-du-marche-a-l-assiette-et-a-la-bouche/verrines-de-gambas-meli-melo-de-poivron-avocat-oignon-rouge-et-ananas-mayonnaise-a-l-avovat-1512.160x120.jpg" srcset="/images/blogs/du-jardin-et-du-marche-a-l-assiette-et-a-la-bouche/verrines-de-gambas-meli-melo-de-poivron-avocat-oignon-rouge-et-ananas-mayonnaise-a-l-avovat-1512.320x240.jpg 2x" width="160" height="120" alt="Verrines de gambas, meli-melo de poivron, avocat, oignon rouge et ananas, mayonnaise a l'avovat" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_du-jardin-et-du-marche-a-l-assiette-et-a-la-bouche" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/du-jardin-et-du-marche-a-l-assiette-et-a-la-bouche" class="author" style="color:#009000">" Du jardin et du marché à l'assiette et...</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;12/12/20 <i class="fi-clock"></i>&nbsp;23:27</span>
+</div>
+<span class="news_description summary">Une petite entrée qui peut tout à fait avoir sa place sur une table de fêtes... Et que l'on peut aussi décliner en petit amuse-bouche en prenant une petite verrine et une gamba par personne... Le "méli-mélo" est fort en saveurs et se rapproche d'une salade...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/mayonnaise" class="tag" rel="tag" style="color:#006a00">Mayonnaise</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+<li><a href="/verrines" class="tag" rel="tag" style="color:#208900">Verrines</a></li>
+<li><a href="/poivrons" class="tag" rel="tag" style="color:#006a00">Poivrons</a></li>
+<li><a href="/oignons" class="tag" rel="tag" style="color:#006a00">Oignons</a></li>
+<li><a href="/gambas" class="tag" rel="tag" style="color:#b20000">Gambas</a></li>
+<li><a href="/avocat" class="tag" rel="tag" style="color:#507c00">Avocat</a></li>
+<li><a href="/ananas" class="tag" rel="tag" style="color:#006a00">Ananas</a></li>
+</ul>
+</li>
+			
+<li class="news">
+<h3 class="fn news_title"><a href="https://www.amourdecuisine.fr/article-meli-melo-sur-panna-cotta-a-la-mozarella.html" title="Meli melo sur panna cotta à la mozarella de amour de cuisine chez soulef" class="url" rel="nofollow">Meli melo sur panna cotta à la mozarella</a>
+- <span class="inlinelike like"><a id="like_amour-de-cuisine-chez-soulef.4494" href="#" title="Ajouter à mon carnet de recettes"><i class="fi-heart"></i></a></span>
+</h3>
+<div class="left" style="position:relative;margin-right:15px;">
+<a href="https://www.amourdecuisine.fr/article-meli-melo-sur-panna-cotta-a-la-mozarella.html" title="Meli melo sur panna cotta à la mozarella de amour de cuisine chez soulef" class="url" rel="nofollow">
+<img src="/images/blogs/amour-de-cuisine-chez-soulef/meli-melo-sur-panna-cotta-a-la-mozarella-4494.160x120.jpg" srcset="/images/blogs/amour-de-cuisine-chez-soulef/meli-melo-sur-panna-cotta-a-la-mozarella-4494.320x240.jpg 2x" width="160" height="120" alt="Meli melo sur panna cotta à la mozarella" class="photo news_image_160" />
+
+</a>
+</div>
+<div class="news_by_date">
+<span class="news_site"><span class="subscribe hide-for-small-only"><a class="blog_amour-de-cuisine-chez-soulef" href="#" title="S'abonner"><i class="fi-star"></i></a></span> <a href="/amour-de-cuisine-chez-soulef" class="author" style="color:#540000">amour de cuisine chez soulef</a></span>
+<span class="news_date hide-for-small-only"><i class="fi-calendar"></i>&nbsp;06/10/20 <i class="fi-clock"></i>&nbsp;11:00</span>
+</div>
+<span class="news_description summary">Meli melo sur panna cotta à la mozarella Bonjour tout le monde, Je ne vous raconte qu’est ce qu’il est delicieux ce meli melo sur panna cotta à la mozarella. La première fois que j’avais vu cette délicieuse recette, c’était sur le blog de Viviane lors de...</span>
+<ul class="news_tags inline-list hide-for-small-only"><li><a href="/entrees" class="tag" rel="tag" style="color:#006a00">Entrées</a></li>
+<li><a href="/entree-froide" class="tag" rel="tag" style="color:#006a00">Entree Froide</a></li>
+<li><a href="/aperitif" class="tag" rel="tag" style="color:#006a00">Apéritif</a></li>
+<li><a href="/aperitif-dinatoire" class="tag" rel="tag" style="color:#006a00">Apéritif Dinatoire</a></li>
+<li><a href="/cuisine-facile" class="tag" rel="tag" style="color:#006a00">Cuisine Facile</a></li>
+<li><a href="/cremes" class="tag" rel="tag" style="color:#006a00">Crèmes</a></li>
+<li><a href="/verrine-salee" class="tag" rel="tag" style="color:#006a00">Verrine Salee</a></li>
+<li><a href="/panna-cotta" class="tag" rel="tag" style="color:#006a00">Panna Cotta</a></li>
+<li><a href="/meli-melo" class="tag" rel="tag" style="color:#006a00">Méli-Mélo</a></li>
+</ul>
+</li>
+			
+
+</ul>
+
+<p id='more_pages'>Découvrez plein d'autres recettes de <TAGS> sur les autres pages :</p><ul id="pages" class="pagination"><li class="unavailable">Pages : </li><li class="current"><a href="">1</a></li> <li><a href="/meli-melo/2">2</a></li> <li><a href="/meli-melo/3">3</a></li> <li><a href="/meli-melo/4">4</a></li> <li class="unavailable">&hellip;</li><li><a href="/meli-melo/14">14</a></li> <li><a href="/meli-melo/15">15</a></li> <li><a href="/meli-melo/16">16</a></li> <li><a href="/meli-melo/2">Suivante</a></li> </ul><div id="breadcrumbs"><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+  <a href="https://recettes.de/cuisine" itemprop="url">
+    <span itemprop="title">Recettes</span>
+  </a> ›
+</div>
+<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+  <a href="https://recettes.de/meli-melo" itemprop="url">
+    <span itemprop="title">Méli-Mélo</span>
+  </a></div></div>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-5891878395074432"
+     data-ad-slot="1623030260"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>		
+ 
+
+	</div>
+	
+	
+	<div class="small-12 medium-6 large-4 columns" id="side">
+	
+
+<div class="block">
+
+<div class="block_content">
+<br/>
+<!-- recettes-side-top-adapt -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5891878395074432"
+     data-ad-slot="5233718665"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+
+<div class="block">
+<h3>Les recettes de méli-mélo</h3>
+<div class="block_content">
+<p>De quel genre de recette de méli-mélo avez-vous envie ? Choisissez un plat ou un ingrédient pour voir les recettes correspondantes.</p><p>&rarr; <a href="/recette-meli-melo-facile">Recettes faciles de méli-mélo</a> (sélection des recettes les plus faciles et rapides)</p><nav><div class="tag_cloud"><a href="/meli-melo/agrumes" title="5 recettes" style="font-size:10px;color:#006a00">Agrumes</a> <a href="/meli-melo/asperges" title="9 recettes" style="font-size:11px;color:#53b400">Asperges</a> <a href="/meli-melo/avocat" title="11 recettes" style="font-size:12px;color:#507c00">Avocat</a> <a href="/meli-melo/basilic" title="8 recettes" style="font-size:11px;color:#006a00">Basilic</a> <a href="/meli-melo/carottes" title="14 recettes" style="font-size:13px;color:#006a00">Carottes</a> <a href="/meli-melo/cereale" title="6 recettes" style="font-size:10px;color:#006a00">Céréale</a> <a href="/meli-melo/chevre" title="6 recettes" style="font-size:10px;color:#006a00">Chèvre</a> <a href="/meli-melo/chorizo" title="5 recettes" style="font-size:10px;color:#006a00">Chorizo</a> <a href="/meli-melo/chou" title="6 recettes" style="font-size:10px;color:#006a00">Chou</a> <a href="/meli-melo/citrons" title="7 recettes" style="font-size:11px;color:#9bd300">Citrons</a> <a href="/meli-melo/courge" title="5 recettes" style="font-size:10px;color:#006a00">Courge</a> <a href="/meli-melo/courgettes" title="9 recettes" style="font-size:11px;color:#2d8200">Courgettes</a> <a href="/meli-melo/cremes" title="9 recettes" style="font-size:11px;color:#006a00">Crèmes</a> <a href="/meli-melo/crevettes" title="10 recettes" style="font-size:12px;color:#d35d54">Crevettes</a> <a href="/meli-melo/crudites" title="5 recettes" style="font-size:10px;color:#006a00">Crudités</a> <a href="/meli-melo/cuisine-facile" title="8 recettes" style="font-size:11px;color:#006a00">Cuisine&nbsp;Facile</a> <a href="/meli-melo/cuisine-rapide" title="6 recettes" style="font-size:10px;color:#006a00">Cuisine&nbsp;Rapide</a> <a href="/meli-melo/cuisine-saine" title="5 recettes" style="font-size:10px;color:#006a00">Cuisine&nbsp;Saine</a> <a href="/meli-melo/curry" title="8 recettes" style="font-size:11px;color:#006a00">Curry</a> <a href="/meli-melo/endives" title="5 recettes" style="font-size:10px;color:#006a00">Endives</a> <a href="/meli-melo/entrees" title="10 recettes" style="font-size:12px;color:#006a00">Entrées</a> <a href="/meli-melo/ete" title="8 recettes" style="font-size:11px;color:#90d300">Été</a> <a href="/meli-melo/fleurs" title="4 recettes" style="font-size:10px;color:#006a00">Fleurs</a> <a href="/meli-melo/fruits" title="17 recettes" style="font-size:14px;color:#890070">Fruits</a> <a href="/meli-melo/haricots" title="6 recettes" style="font-size:10px;color:#006a00">Haricots</a> <a href="/meli-melo/jambon" title="12 recettes" style="font-size:12px;color:#006a00">Jambon</a> <a href="/meli-melo/lait" title="4 recettes" style="font-size:10px;color:#006a00">Lait</a> <a href="/meli-melo/legumes" title="62 recettes" style="font-size:30px;color:#018200">Légumes</a> <a href="/meli-melo/lentilles" title="7 recettes" style="font-size:11px;color:#006a00">Lentilles</a> <a href="/meli-melo/mangue" title="5 recettes" style="font-size:10px;color:#006a00">Mangue</a> <a href="/meli-melo/melon" title="15 recettes" style="font-size:13px;color:#d3a44e">Melon</a> <a href="/meli-melo/mozzarella" title="11 recettes" style="font-size:12px;color:#006a00">Mozzarella</a> <a href="/meli-melo/oeufs" title="11 recettes" style="font-size:12px;color:#006a00">Œufs</a> <a href="/meli-melo/olive" title="5 recettes" style="font-size:10px;color:#006a00">Olive</a> <a href="/meli-melo/pates" title="6 recettes" style="font-size:10px;color:#006a00">Pâtes</a> <a href="/meli-melo/poisson" title="9 recettes" style="font-size:11px;color:#0099cc">Poisson</a> <a href="/meli-melo/poivrons" title="9 recettes" style="font-size:11px;color:#006a00">Poivrons</a> <a href="/meli-melo/pomme" title="5 recettes" style="font-size:10px;color:#d3432c">Pomme</a> <a href="/meli-melo/pomme-de-terre" title="7 recettes" style="font-size:11px;color:#006a00">Pomme&nbsp;de&nbsp;terre</a> <a href="/meli-melo/poulet" title="11 recettes" style="font-size:12px;color:#006a00">Poulet</a> <a href="/meli-melo/printemps" title="6 recettes" style="font-size:10px;color:#006a00">Printemps</a> <a href="/meli-melo/salades" title="53 recettes" style="font-size:26px;color:#00b125">Salades</a> <a href="/meli-melo/sauces" title="9 recettes" style="font-size:11px;color:#006a00">Sauces</a> <a href="/meli-melo/saumon" title="8 recettes" style="font-size:11px;color:#d35313">Saumon</a> <a href="/meli-melo/sucre" title="5 recettes" style="font-size:10px;color:#006a00">Sucre</a> <a href="/meli-melo/tartes" title="6 recettes" style="font-size:10px;color:#d36200">Tartes</a> <a href="/meli-melo/thon" title="8 recettes" style="font-size:11px;color:#006a00">Thon</a> <a href="/meli-melo/tomates" title="28 recettes" style="font-size:18px;color:#be3411">Tomates</a> <a href="/meli-melo/verrines" title="6 recettes" style="font-size:10px;color:#208900">Verrines</a> <a href="/meli-melo/vinaigrette" title="6 recettes" style="font-size:10px;color:#006a00">Vinaigrette</a> </div></nav>
+</div>
+</div>
+
+<div class="block">
+<h3>Se connecter</h3>
+<div class="block_content">
+<p>Connectez-vous sur <b>Recettes de Cuisine</b> pour enregistrer vos recettes préférées dans votre carnet de recettes.</p>
+
+
+
+<p>Se connecter avec Facebook : <fb:login-button autologoutlink="true" perms="email"></fb:login-button></p>
+
+
+<p>Ou utilisez votre compte sur Recettes de Cuisine :</p>
+
+<form method="post" action="/cgi/session.pl">
+Nom d'utilisateur :<br />
+<input type="text" name="user_id" tabindex="1" style="width:220px;" /><br />
+Mot de passe<br />
+<input type="password" name="password" tabindex="2" style="width:220px;" /><br />
+<input type="checkbox" name="remember_me" value="on" tabindex="3" /><label>Se souvenir de moi</label><br />
+<input type="submit" tabindex="4" name=".submit" value="Se connecter" />
+</form>
+<p>Pas encore inscrit(e) ? <a href="/cgi/user.pl">Créez votre compte</a> pour découvrir et partager des recettes avec d'autres blogueurs et lecteurs passionnés de cuisine.</p>
+
+</div>
+</div>
+
+<div class="block">
+<h3>Inscrivez votre blog !</h3>
+<div class="block_content">
+Si vous publiez des recettes originales sur votre blog et si vous souhaitez qu'elles soient référencées sur <b>Recettes de Cuisine</b>, <a href="/cgi/blog.pl">proposez votre blog</a> !
+
+</div>
+</div>
+
+
+	</div>
+</div>
+
+<footer>
+
+<div class="dark row" style="max-width: 100% !important">
+<div class="small-12 columns">
+
+<ul class="small-block-grid-2 medium-block-grid-4">
+	<li>
+	
+	
+<a href="https://recettes.de/cuisine">Recettes de Cuisine</a>
+de France, du Québec, de Belgique, et d'ailleurs !<br />
+Copyright &copy; 2010 - 2021 Stéphane Gigandet
+<ul>
+<li><a href="/mentions-legales">Mentions légales</a></li>
+<li><a href="/conditions-d-utilisation">Conditions d'utilisation</a></li>
+</ul>
+
+	</li>
+
+	<li>
+<a href="https://recettes.de/cuisine">Recettes de Cuisine</a> référence les recettes publiées sur une sélection de blogs de cuisine.
+<ul>
+<li><a href="/a-propos">Je veux en savoir plus !</a></li>
+<li><a href="/qui-sommes-nous">Je veux savoir qui a créé ce site.</a></li>
+<li><a href="/contact">Je veux contacter le créateur.</a></li>
+<li><a href="http://blog.recettes.de/">le blog</a> -- <a href="http://twitter.com/recettesde">@recettesde</a> sur Twitter</li>
+</ul>
+
+	</li>
+
+	<li>
+
+Pour les blogueuses et blogueurs&nbsp;:
+<ul>
+<li><a href="/cgi/blog.pl">Inscrivez votre blog</a></li>
+<li><a href="/mode-d-emploi">Comment fonctionne le site ?</a></li>
+<li><a href="/faq">Foire Aux Questions</a></li>
+<li><a href="/logos">Logo personnalisable</a></li>
+<li><a href="/couronnes">Le jeu des Royaumes de la Cuisine</a></li>
+</ul>
+	</li>
+
+	<li>
+Pour les gourmands et les gourmets&nbsp;:
+<ul>
+<li><a href="/blogs-cuisine">La liste des blogs cuisine en français</a></li>
+<li><a href="/livres-de-cuisine">Les livres de cuisine</a> des blogueurs</li>
+<li><a href="http://blogsvins.fr">Blogs Vins</a> pour les amoureux du vin</li>
+<li><a href="http://cuisinevg.fr">Cuisine VG</a> pour les végétariens et végétaliens</li>
+<li><a href="http://cuisine.cool">Cuisine Cool</a> pour cuisiner cool avec un minimum d'ingrédients en un minimum de temps</li>
+</ul>
+	</li>
+	
+	<li>
+For English speakers:
+<ul>
+<li><a href="http://verygoodrecipes.com">Very Good Recipes</a></li>
+</ul>
+		<li>
+Pour manger sain :
+<ul>
+<li>les <a href="http://informationsnutritionnelles.fr">Informations Nutritionnelles</a> des aliments courants</li>
+<li><a href="http://fr.openfoodfacts.org">Open Food Facts</a> base de produits alimentaires collaborative, libre et ouverte</li>
+</ul>
+	</li>
+	
+	
+</ul>
+
+</div>
+</div>
+
+
+
+</footer>
+
+ 
+
+<script src="/foundation/js/foundation-all.js"></script>
+<script>
+	$(document).foundation();
+</script>
+
+<script type="text/javascript">
+(function(e){function n(c){var h=c.originalEvent.changedTouches[0],g="";switch(c.type){case "touchmove":g="mousemove";break;case "touchend":g="mouseup";break;default:return}var e=document.createEvent("MouseEvent");e.initMouseEvent(g,!0,!0,window,1,h.screenX,h.screenY,h.clientX,h.clientY,!1,!1,!1,!1,0,null);h.target.dispatchEvent(e);c.preventDefault()}e.fn.rateit=function(c,h){var g={},k="init";if(0==this.length)return this;var i=e.type(c);if("object"==i||void 0===c||null==c)g=e.extend({},e.fn.rateit.defaults,
+c);else{if("string"==i&&void 0===h)return this.data("rateit"+(c.charAt(0).toUpperCase()+c.substr(1)));"string"==i&&(k="setvalue")}return this.each(function(){var d=e(this),a=function(a,b){arguments[0]="rateit"+(a.charAt(0).toUpperCase()+a.substr(1));return d.data.apply(d,arguments)};d.hasClass("rateit")||d.addClass("rateit");var i="rtl"!=d.css("direction");if("setvalue"==k){if(!a("init"))throw"Can't set value before init";"readonly"==c&&!a("readonly")&&(d.find(".rateit-range").unbind(),a("wired",
+!1));"value"==c&&null==h&&(h=a("min"));if(a("backingfld")){var b=e(a("backingfld"));"value"==c&&b.val(h);"min"==c&&b[0].min&&(b[0].min=h);"max"==c&&b[0].max&&(b[0].max=h);"step"==c&&b[0].step&&(b[0].step=h)}a(c,h)}if(!a("init")){a("min",a("min")||g.min);a("max",a("max")||g.max);a("step",a("step")||g.step);a("readonly",void 0!==a("readonly")?a("readonly"):g.readonly);a("resetable",void 0!==a("resetable")?a("resetable"):g.resetable);a("backingfld",a("backingfld")||g.backingfld);a("starwidth",a("starwidth")||
+g.starwidth);a("starheight",a("starheight")||g.starheight);a("value",a("value")||g.value||g.min);a("ispreset",void 0!==a("ispreset")?a("ispreset"):g.ispreset);if(a("backingfld")){b=e(a("backingfld"));a("value",b.hide().val());a("readonly",b[0].disabled);if("INPUT"==b[0].nodeName&&("range"==b[0].type||"text"==b[0].type))a("min",parseInt(b.attr("min"))||a("min")),a("max",parseInt(b.attr("max"))||a("max")),a("step",parseInt(b.attr("step"))||a("step"));"SELECT"==b[0].nodeName&&1<b[0].options.length&&
+(a("min",Number(b[0].options[0].value)),a("max",Number(b[0].options[b[0].length-1].value)),a("step",Number(b[0].options[1].value)-Number(b[0].options[0].value)))}d.append('<div class="rateit-reset"></div><div class="rateit-range"><div class="rateit-selected" style="height:'+a("starheight")+'px"></div><div class="rateit-hover" style="height:'+a("starheight")+'px"></div></div>');i||(d.find(".rateit-reset").css("float","right"),d.find(".rateit-selected").addClass("rateit-selected-rtl"),d.find(".rateit-hover").addClass("rateit-hover-rtl"));
+a("init",!0)}var f=d.find(".rateit-range");f.width(a("starwidth")*(a("max")-a("min"))).height(a("starheight"));var j="rateit-preset"+(i?"":"-rtl");a("ispreset")?d.find(".rateit-selected").addClass(j):d.find(".rateit-selected").removeClass(j);if(null!=a("value")){var l=(a("value")-a("min"))*a("starwidth");d.find(".rateit-selected").width(l)}var b=d.find(".rateit-reset"),m=function(b,d){var c=(d.changedTouches?d.changedTouches[0].pageX:d.pageX)-e(b).offset().left;i||(c=f.width()-c);c>f.width()&&(c=
+f.width());0>c&&(c=0);return l=Math.ceil(c/a("starwidth")*(1/a("step")))};a("readonly")?b.hide():(a("resetable")?b.click(function(){a("value",a("min"));f.find(".rateit-hover").hide().width(0);f.find(".rateit-selected").width(0).show();a("backingfld")&&e(a("backingfld")).val(a("min"));d.trigger("reset")}):b.hide(),a("wired")||(f.bind("touchmove touchend",n),f.mousemove(function(b){var b=m(this,b),c=b*a("starwidth")*a("step"),e=f.find(".rateit-hover");e.data("width")!=c&&(f.find(".rateit-selected").hide(),
+e.width(c).show().data("width",c),b=[b*a("step")+a("min")],d.trigger("hover",b).trigger("over",b))}),f.mouseleave(function(){f.find(".rateit-hover").hide().width(0).data("width","");d.trigger("hover",[null]).trigger("over",[null]);f.find(".rateit-selected").show()}),f.mouseup(function(b){var b=m(this,b),c=b*a("step")+a("min");a("value",c);a("backingfld")&&e(a("backingfld")).val(c);a("ispreset")&&(f.find(".rateit-selected").removeClass(j),a("ispreset",!1));f.find(".rateit-hover").hide();f.find(".rateit-selected").width(b*
+a("starwidth")*a("step")).show();d.trigger("hover",[null]).trigger("over",[null]).trigger("rated",[c])}),a("wired",!0)),a("resetable")&&b.show())})};e.fn.rateit.defaults={min:0,max:5,step:0.5,starwidth:16,starheight:16,readonly:!1,resetable:!0,ispreset:!1};e(function(){e("div.rateit").rateit()})})(jQuery);
+</script>
+<script type="text/javascript">
+  // <![CDATA[
+
+$(document).ready(function(){
+    $("#news_items a[href^=http]")
+        .not('[href*="recettes.de"]')
+		        .click(function() {
+			new Image().src = "https://recettes.de/clicks/" + this.href;         
+    });
+	
+
+	
+	$(".buttonlike a").click(function (event) {
+		$(this).toggleClass("liked");
+		if ($(this).hasClass("liked")) {
+			$(this).html('<i class="fi-heart"></i> ' + "Retirer de mon carnet de recettes");
+		}
+		else {
+			$(this).html('<i class="fi-heart"></i> ' + "Ajouter à mon carnet de recettes");
+		}
+		$.get("/cgi/like.pl", { id: event.target.id, liked: $(this).hasClass("liked") } );
+		return false;
+    });
+	
+	$(".inlinelike a").click(function (event) {
+		$(this).toggleClass("liked");
+		if ($(this).hasClass("liked")) {
+			$(this).attr("title", "Retirer de mon carnet de recettes");
+		}
+		else {
+			$(this).attr("title", "Ajouter à mon carnet de recettes");
+		}
+		$.get("/cgi/like.pl", { id: $(this).attr('id'), liked: $(this).hasClass("liked") } );
+		return false;
+    });	
+	
+	$(".subscribe a").click(function (event) {
+	
+		var blogclass = 'blogid_';
+		var classList = $(this).attr('class').split(/ /);
+		$.each( classList, function(index, item){
+			if (item.match(/blog_/)) {
+				blogclass = item;
+			}
+		});
+	
+		$("." + blogclass).toggleClass("subscribed");
+		if ($("." + blogclass).hasClass("subscribed")) {
+			$("." + blogclass).attr("title", "Se désabonner");
+		}
+		else {
+			$("." + blogclass).attr("title", "S'abonner");
+		}
+		$.get("/cgi/subscribe.pl", { blogclass: blogclass, subscribed: $(this).hasClass("subscribed") } );
+		return false;
+    });	
+	
+
+	
+});
+  // ]]>
+</script>
+
+
+<script>
+$(function() {
+$('#news_items .rateit').bind('rated reset', function (e) {
+         var ri = $(this);
+         var value = ri.rateit('value');
+         var id = ri.data('id');
+		  
+         // ri.rateit('readonly', true);
+		 
+		 var yourvote = "votez pour ajouter à votre carnet";
+		 if (value > 0) {
+			yourvote = "votre vote : " + value;
+		 }
+		 
+		 ri.parent().find('.yourvote').html(" - " + yourvote);
+ 
+         $.ajax({
+             url: '/cgi/vote.pl', //your server side script
+             data: { id: 'vote_' + id, vote: value }, //our data
+             type: 'POST'
+         });
+     });
+
+});
+</script>
+
+
+</body>
+</html>

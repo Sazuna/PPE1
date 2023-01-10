@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html lang="fr" dir="ltr" class="no-js ie8"><![endif]-->
+<!--[if IE 9 ]><html lang="fr" dir="ltr" class="no-js ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="fr" dir="ltr" class="no-js"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link rel="alternate" type="application/rss+xml" title="/%" href="https://www.drupal.fr/taxonomy/term/3525/all/feed" />
+<link rel="shortcut icon" href="https://www.drupal.fr/sites/all/themes/dfrtheme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.drupal.fr/tags-2" />
+<link rel="shortlink" href="https://www.drupal.fr/tags-2" />
+  <!--[if lte IE 8]>
+    <div style=' text-align:center; clear: both; padding:0 0 0 15px; position: relative;'>
+      <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+        <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+      </a>
+    </div>
+  <![endif]-->
+  <title>/% | Drupal France</title>
+  <meta name="viewport" content="width=device-width">
+  <!--[if LT IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <style type="text/css" media="all">
+@import url("https://www.drupal.fr/modules/system/system.base.css?rjmwco");
+@import url("https://www.drupal.fr/modules/system/system.menus.css?rjmwco");
+@import url("https://www.drupal.fr/modules/system/system.messages.css?rjmwco");
+@import url("https://www.drupal.fr/modules/system/system.theme.css?rjmwco");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.drupal.fr/modules/book/book.css?rjmwco");
+</style>
+<style type="text/css" media="screen">
+@import url("https://www.drupal.fr/sites/all/modules/contrib/codefilter/codefilter.css?rjmwco");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.drupal.fr/modules/comment/comment.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/modules/contrib/date/date_api/date.css?rjmwco");
+@import url("https://www.drupal.fr/modules/field/theme/field.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/modules/contrib/mollom/mollom.css?rjmwco");
+@import url("https://www.drupal.fr/modules/node/node.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/modules/contrib/scald_file/scald_file.css?rjmwco");
+@import url("https://www.drupal.fr/modules/search/search.css?rjmwco");
+@import url("https://www.drupal.fr/modules/forum/forum.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/modules/contrib/views/css/views.css?rjmwco");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.drupal.fr/sites/all/modules/contrib/ctools/css/ctools.css?rjmwco");
+</style>
+<style type="text/css" media="screen">
+@import url("https://www.drupal.fr/sites/all/themes/dfrtheme/css/boilerplate.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/themes/dfrtheme/css/layout.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/themes/dfrtheme/css/style.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/themes/dfrtheme/css/blocks.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/themes/dfrtheme/css/user.css?rjmwco");
+@import url("https://www.drupal.fr/sites/all/themes/dfrtheme/css/pages.css?rjmwco");
+</style>
+  <script type="text/javascript" src="https://www.drupal.fr/sites/default/files/js/js_VecHkdFFzHmI10lNWW0NMmhQ47_3u8gBu9iBjil2vAY.js"></script>
+<script type="text/javascript" src="https://www.drupal.fr/sites/default/files/js/js_Xdog1yvbsHUl33-wo9ctRnQMgE_3uBBG15y3yJm_2eY.js"></script>
+<script type="text/javascript" src="https://www.drupal.fr/sites/default/files/js/js_aGc8_2EcmYA0Dile0dBkojEK1d1wck1KXjxwPEN2yVM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-337512-4", {"cookieDomain":".drupal.fr"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.drupal.fr/sites/default/files/js/js_ypPaO9eWjHoc7jTOSUIN4nUdjGQf8tXA0J8-SgtDJtY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dfrtheme","theme_token":"PMr4jdkQ39OEM0cdTtQpNXw1X668oDYiyO4GPgomeME","js":{"\/\/platform.twitter.com\/widgets.js":1,"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/codefilter\/codefilter.js":1,"public:\/\/languages\/fr_9cIonP-se_vK2IlTh1NSK8pBLbfD2H9nOxSiGSvXJFw.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/dfrtheme\/js\/dfrtheme.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/contrib\/codefilter\/codefilter.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/scald_file\/scald_file.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/dfrtheme\/css\/boilerplate.css":1,"sites\/all\/themes\/dfrtheme\/css\/layout.css":1,"sites\/all\/themes\/dfrtheme\/css\/style.css":1,"sites\/all\/themes\/dfrtheme\/css\/blocks.css":1,"sites\/all\/themes\/dfrtheme\/css\/user.css":1,"sites\/all\/themes\/dfrtheme\/css\/pages.css":1}},"googleanalytics":{"trackOutbound":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1,"trackCrossDomains":["drupalfr.org","emploi.drupalfr.org","planete.drupalfr.org"]},"urlIsAjaxTrusted":{"\/tags-2":true,"\/tags-2?destination=taxonomy\/term\/3525":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-3525 section-tags-2" >
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" role="banner" class="clearfix">
+      <div class="inner">
+        <div class="branding">
+                      <a href="/" title="Accueil" rel="home" id="logo">
+              <img src="https://www.drupal.fr/sites/all/themes/dfrtheme/drupal-france-site-officiel-logo.png" alt="Accueil" />
+            </a>
+          
+                      <div id="site-name-and-slogan">
+            
+                          <p id="site-slogan">Site Officiel</p>
+                        </div>
+                  </div><!-- /.branding -->
+
+                    <div class="region region-menu">
+    <section id="block-system-main-menu" class="block block-system block-menu block-odd block-1">
+
+        <h2 class="block-title element-invisible">Menu principal</h2>
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf documentation mid-457"><a href="/documentation" title="">Documentation</a></li>
+<li class="leaf  mid-6040"><a href="https://planete.drupal.fr">Planète</a></li>
+<li class="leaf contribuer mid-6524"><a href="/contribuer" title="">Contribuer</a></li>
+<li class="leaf slack mid-8094"><a href="/slack" title="Rejoindre la communauté française sur slack">Slack</a></li>
+<li class="leaf association mid-1125"><a href="/association" title="A propos de l&#039;association Drupal France et Francophonie">Association</a></li>
+<li class="last leaf annuaire mid-17"><a href="/annuaire-pro" title="">Annuaire</a></li>
+</ul>  </div><!-- /.content -->
+
+</section><!-- /.block -->  </div>
+              </div>
+    </header><!-- /#header -->
+
+    
+    <div id="main-wrapper">
+      <div class="inner">
+
+      
+              <div id="breadcrumb" class="clearfix"><a href="/">Accueil</a> &raquo; <span class="current" title="Vous êtes ici">/%</span></div>
+      
+      <div id="main" class="clearfix">
+        <div id="content" class="column" role="main">
+          <div class="section">
+            
+                                      <h1 class="title" id="page-title">/%</h1>
+                        
+                          <div class="tabs"></div>
+            
+            
+            
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-even block-1">
+
+      
+  <div class="content">
+    <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-page view-dom-id-bfe87a53b9674bcd569f07d6de53999b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <article id="node-32256" class="node node-forum node-teaser node-teaser clearfix">
+
+  <header>
+      </header>
+
+  <div class="content">
+
+        <h3><a href="/forum/support/support-general/32256-creer-une-seule-vue-type-au-lieu-de-plusieurs-avec-1-critere-de-">Créer une seule vue type /% au lieu de plusieurs avec 1 critère de filtrage différent</a></h3>
+    
+        
+    <p class="submitted">
+      Submitted by <a href="/profil/amelije" title="Voir le profil utilisateur." class="username">Amelije</a> on       <time pubdate datetime="2012-03-28T15:05:26">
+      28 Mars, 2012 - 15:05      </time>
+    </p>
+    
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Bonjour à tous,</p>
+<p>j'aurai voulu avoir un petit conseil pour rassembler plusieurs vues en une seule.<br />
+Et m'extirper de ce méli-mélo drupalien...</p>
+<p>Je m'explique :</p>
+<p>j'ai créé 1 vue pour chacun de mes 4 groupes (liste hmtl des personnes du groupe) alors que seul le nom groupe change dans le critère de filtrage. Les champs et les critères de trie restent les mêmes.</p>
+<p>Il serait donc plus logique de faire une seule vue qui se décline pour les 4 groupes, non?<br />
+à écrire comme ça : "/groupe/%" ? mais comment faire "après"?</p>
+</div></div></div>  </div><!-- /.content -->
+
+      <footer>
+            <ul class="links inline"><li class="node-readmore first"><a href="/forum/support/support-general/32256-creer-une-seule-vue-type-au-lieu-de-plusieurs-avec-1-critere-de-" rel="tag" title="Créer une seule vue type /% au lieu de plusieurs avec 1 critère de filtrage différent">Lire la suite<span class="element-invisible"> de Créer une seule vue type /% au lieu de plusieurs avec 1 critère de filtrage différent</span></a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=comment/reply/32256%23comment-form">Connectez-vous</a> ou <a href="/user/register?destination=comment/reply/32256%23comment-form">inscrivez-vous</a> pour publier un commentaire</span></li>
+</ul>    </footer>
+  
+  
+</article><!-- /.node -->
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div><!-- /.content -->
+
+</div><!-- /.block --><div id="block-block-19" class="block block-block block-odd block-2">
+
+      
+  <div class="content">
+    <iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/7XhL/NfQ" width="100%"></iframe><script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>  </div><!-- /.content -->
+
+</div><!-- /.block -->  </div>
+          </div><!-- /.section -->
+        </div><!-- /#content -->
+
+                  <aside id="sidebar-first" class="column sidebar" role="complementary">
+            <div class="section">
+                <div class="region region-sidebar-first">
+    <section id="block-drupalfr-search-solr-search" class="block block-drupalfr-search block-even block-1">
+
+        <h2 class="block-title">Rechercher</h2>
+    
+  <div class="content">
+    <form action="/tags-2" method="post" id="drupalfr-search-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <div class="form-item form-type-textfield form-item-keys">
+ <input type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Rechercher" class="form-submit" /><input type="hidden" name="form_build_id" value="form-UKYu7hUtYjc7ttJTM9vsKdmYigBym4v_fOIvAqqfzHI" />
+<input type="hidden" name="form_id" value="drupalfr_search_form" />
+</div>
+</div></form>  </div><!-- /.content -->
+
+</section><!-- /.block --><section id="block-system-navigation" class="block block-system block-menu block-odd block-2">
+
+        <h2 class="block-title">Navigation</h2>
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf mon-panier mid-6754"><a href="/cart" title="">Mon panier</a></li>
+<li class="leaf mon-compte mid-6325"><a href="/user" title="">Mon compte</a></li>
+<li class="leaf  mid-6289"><a href="/tracker2" title="">Dernières contributions</a></li>
+<li class="leaf ressources-drupalfr-org mid-6326"><a href="/documentation/ressources-presentations-utilisees-durant-les-rencontres-meetup-camp">Ressources Drupalfr.org</a></li>
+<li class="last leaf livres mid-6525"><a href="/livres">Livres</a></li>
+</ul>  </div><!-- /.content -->
+
+</section><!-- /.block --><section id="block-user-login" class="block block-user block-even block-3">
+
+        <h2 class="block-title">Connexion utilisateur</h2>
+    
+  <div class="content">
+    <form action="/tags-2?destination=taxonomy/term/3525" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Nom d'utilisateur <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-U-4JZNmHTv1bS2Gnb3QSNe98tH8C-SKVnCU65vJqTfw" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Mot de passe <span class="form-required" title="Ce champ est requis.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Se connecter" class="form-submit" /></div><div class="item-list"><ul><li class="first"><a href="/user/register" title="Créer un nouveau compte utilisateur.">Créer un nouveau compte</a></li>
+<li class="last"><a href="/user/password" title="Demander un nouveau mot de passe par courriel.">Demander un nouveau mot de passe</a></li>
+</ul></div></div></form>  </div><!-- /.content -->
+
+</section><!-- /.block --><section id="block-block-14" class="block block-block block-odd block-4">
+
+        <h2 class="block-title">Adhésion individuelle</h2>
+    
+  <div class="content">
+    <p>Vous devez être connecté pour pouvoir prendre une adhésion individuelle.</p>
+  </div><!-- /.content -->
+
+</section><!-- /.block --><section id="block-twitter-block-1" class="block block-twitter-block block-even block-5">
+
+        <h2 class="block-title">Twitter @drupalfr</h2>
+    
+  <div class="content">
+    <a href="https://twitter.com/drupalfr" class="twitter-timeline" data-widget-id="599864995044790273" data-chrome="noheader nofooter noborders noscrollbar transparent" lang="fr" data-tweet-limit="5" data-aria-polite="assertive">Tweets by drupalfr</a><a href="http://twitter.com/drupalfr" class="btn-link">Compte @drupalfr</a>  </div><!-- /.content -->
+
+</section><!-- /.block -->  </div>
+            </div><!-- /.section -->
+          </aside><!-- /#sidebar-first -->
+              </div><!-- /#main -->
+
+      
+      </div>
+    </div><!-- /#main-wrapper -->
+
+          <aside id="footer-top" role="complementary">
+        <div class="inner">
+            <div class="region region-footer-top">
+    <section id="block-dfr-blocks-about-us" class="block block-dfr-blocks block-odd block-1">
+
+        <h2 class="block-title">Qui sommes-nous ?</h2>
+    
+  <div class="content">
+    <p>Drupalfr.org offre des services à la communauté Drupal française et francophone. Notre site est opéré et géré par une petite équipe de bénévoles.</p><a href="/association" class="btn-link">En savoir plus</a><a href="/contact" class="btn-link">Nous contacter</a>  </div><!-- /.content -->
+
+</section><!-- /.block --><section id="block-views-offres-block-1" class="block block-views block-even block-2">
+
+        <h2 class="block-title">Dernières offres d'emploi</h2>
+    
+  <div class="content">
+    <div class="view view-offres view-id-offres view-display-id-block_1 view-dom-id-b424b140508d064d060ae663e67ad15f">
+        
+  
+  
+      <div class="view-empty">
+      <p>Il n'y a aucune offre pour le moment, pourquoi ne pas <a href="/user/login?destination=node/add/offre">proposer la vôtre</a> ?</p>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/node/add/offre" class="btn-link">Déposer une offre</a> <a href="https://emploi.drupal.fr/" class="btn-link">Voir toutes les offres</a>    </div>
+  
+  
+</div>  </div><!-- /.content -->
+
+</section><!-- /.block -->  </div>
+        </div>
+      </aside>
+    
+          <footer id="footer" role="contentinfo">
+        <div class="inner">
+            <div class="region region-footer">
+    <div id="block-block-10" class="block block-block block-odd block-1">
+
+      
+  <div class="content">
+    <p>Ce site est réalisé par l'<a href="/contact" rel="nofollow">équipe de Drupalfr.org</a>, son contenu est mis à disposition selon le contrat <a href="http://creativecommons.org/licenses/by-sa/2.0/fr/" rel="nofollow">Paternité-ShareAlike 2.0 France</a>.</p>
+<p>
+Drupal est <a href="http://buytaert.net/drupal-trademark-policy-forthcoming" rel="nofollow">une marque déposée</a> de Dries Buytaert - Consulter les <a href="/mentions-legales" rel="nofollow">mentions légales</a> - Icones BUEditor fournies par <a href="http://www.famfamfam.com/lab/icons/silk/" rel="nofollow">FamFamFam</a>.
+</p>
+  </div><!-- /.content -->
+
+</div><!-- /.block -->  </div>
+        </div>
+      </footer><!-- /#footer -->
+    
+  </div><!-- /#page -->
+</div><!-- /#page-wrapper -->
+  <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+</body>
+</html>

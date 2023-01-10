@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-FR" xmlns:og="http://ogp.me/ns#">
+<head>
+  <meta charset="utf-8">
+  <meta name="language" content="fr-FR" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700" rel="stylesheet">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.png" type="image/png">
+  <link rel="icon" sizes="32x32" href="/sites/all/themes/slatefr/static/favicons/favicon-32.png" type="image/png">
+  <link rel="icon" sizes="64x64" href="/sites/all/themes/slatefr/static/favicons/favicon-64.png" type="image/png">
+  <link rel="icon" sizes="96x96" href="/sites/all/themes/slatefr/static/favicons/favicon-96.png" type="image/png">
+  <link rel="icon" sizes="196x196" href="/sites/all/themes/slatefr/static/favicons/favicon-196.png" type="image/png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/slatefr/static/favicons/favicon-152.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/slatefr/static/favicons/favicon-60.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/slatefr/static/favicons/favicon-76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/slatefr/static/favicons/favicon-114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/slatefr/static/favicons/favicon-120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/slatefr/static/favicons/favicon-144.png">
+  <meta name="msapplication-TileImage" content="/sites/all/themes/slatefr/static/favicons/favicon-144.png">
+  <meta name="msapplication-TileColor" content="#F8F2F4">
+  <meta name="msapplication-config" content="/sites/all/themes/slatefr/static/favicons/browserconfig.xml" />
+  <link rel="manifest" href="/manifest.webmanifest">
+  
+  <link rel="alternate" type="application/rss+xml" title="Slate.fr" href="/rss.xml" />
+
+  <link rel="stylesheet" href="/sites/all/themes/slatefr/styles/main.css?v=117">
+
+  <link rel="amphtml" href="https://www.slate.fr/story/225195/non-pas-chorizo-vraie-paella-valence-recette-cuisine?amp">
+        <link rel="canonical" href="https://www.slate.fr/story/225195/non-pas-chorizo-vraie-paella-valence-recette-cuisine" />
+  <meta name="robots" content="index,follow" />  
+  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
+  <title>Non, il n'y a pas de chorizo dans la paella | Slate.fr</title>
+  <meta name="description" content="La recette de la véritable paella de Valence se limite à seulement dix ingrédients, parmi lesquels deux viandes seulement: lapin et poulet." />
+      <script type="text/javascript" src="https://choices.consentframework.com/js/pa/23723/c/dWua2/stub" charset="utf-8"></script>
+  <script type="text/javascript" src="https://choices.consentframework.com/js/pa/23723/c/dWua2/cmp" charset="utf-8" async></script>
+    <script>
+  __tcfapi('addEventListener', 2, function(tcData, success) {
+    if (success) {
+      const listenerId = tcData.listenerId;
+      const eventStatus = tcData.eventStatus;
+      if (!eventStatus && tcData.gdprApplies) {
+        return;
+      }
+      if (eventStatus === "tcloaded" || eventStatus === "useractioncomplete" || !tcData.gdprApplies || (eventStatus === "cmpuishown" && (tcData.tcString && tcData.vendor.consents[42] && ((tcData.purpose.consents[1] && !tcData.purposeOneTreatment) || (tcData.publisherCC === 'DE' && tcData.purposeOneTreatment))))) {
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        !function (e, f, u, i) {
+          if (!document.getElementById(i)){
+            e.async = 1;
+            e.src = u;
+            e.id = i;
+            f.parentNode.insertBefore(e, f);
+          }
+        }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/slatefr-slatefr/loader.js',
+        'tb_loader_script');
+        if(window.performance && typeof window.performance.mark == 'function')
+          {window.performance.mark('tbl_ic');}
+        __tcfapi('removeEventListener', 2, () => {}, listenerId);
+        return;
+      }
+    }
+  });
+  </script>
+    <script type="text/javascript" id="optidigital-ad-init" async config='{"adUnit": "/21685585667/slate.fr/article", "pageTargeting": {"categories": "Boire & manger", "tags": ["Gastronomie","Espagne","Valence","recette de cuisine","lapins"], "no_ad": "0", "article_id": "225195"}}' src="//scripts.opti-digital.com/tags/?site=slate"></script>
+  
+    
+  <meta property="og:title" content="Non, il n'y a pas de chorizo dans la paella" />
+  <meta property="og:locale" content="fr_FR" />
+  <meta property="og:url" content="https://www.slate.fr/story/225195/non-pas-chorizo-vraie-paella-valence-recette-cuisine" />
+  <meta property="og:image" content="https://www.slate.fr/sites/default/files/styles/1200x680/public/paella-3397457_960_720.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="680" />
+  <meta property="og:description" content="La recette de la véritable paella de Valence se limite à seulement dix ingrédients, parmi lesquels deux viandes seulement: lapin et poulet." />
+  <meta property="og:site_name" content="Slate.fr" />
+  <meta property="fb:admins" content="587894481" />
+  <meta property="fb:app_id" content="4351730011592700" />
+  <meta property="fb:pages" content="77978221232" />
+      <meta property="og:type" content="article" />
+  <meta property="article:section" content="Boire & manger" />
+  <meta property="article:tag" content="Gastronomie-Espagne-Valence-recette de cuisine-lapins" />
+  <meta property="article:published_time" content="2022-04-08T07:00:00+02:00" />
+  <meta property="article:modified_time" content="2022-04-08T07:00:00+02:00" />
+  
+  <meta property="twitter:account_id" content="20224969" />
+  <meta name="twitter:site" content="@Slatefr" />
+  <meta name="twitter:domain" content="Slate.fr" />
+  <meta name="twitter:title" content="Non, il n'y a pas de chorizo dans la paella" />
+  <meta name="twitter:description" content="La recette de la véritable paella de Valence se limite à seulement dix ingrédients, parmi lesquels deux viandes seulement: lapin et poulet." />
+  <meta name="twitter:image:src" content="https://www.slate.fr/sites/default/files/styles/1200x680/public/paella-3397457_960_720.jpg" />
+  <meta name="twitter:url" content="https://www.slate.fr/story/225195/non-pas-chorizo-vraie-paella-valence-recette-cuisine" />
+    <meta name="twitter:card" content="summary_large_image" />
+    
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Slate.fr",
+    "url": "https://www.slate.fr",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.slate.fr/search?mot-cle={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Slate.fr",
+    "url": "https://www.slate.fr",
+    "logo": "https://www.slate.fr/sites/all/themes/slatefr/static/images/logo-square.png",
+    "sameAs": [
+      "https://www.facebook.com/SlateFrance/",
+      "https://twitter.com/slatefr",
+      "https://fr.linkedin.com/company/slate-fr",
+      "https://www.youtube.com/c/slatefr",
+      "https://www.instagram.com/slatefrance/"
+    ]
+  }
+  </script>
+    <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://www.slate.fr",
+          "name": "Slate.fr"
+        }
+      }
+            ,{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://www.slate.fr/boire-manger/",
+          "name": "Boire & manger"
+        }
+      }
+          ]
+  }
+  </script>
+      <meta name="author" content="Slate.fr">    <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "relatedLink": [
+            "https://www.slate.fr/story/224958/cuisine-recette-meilleure-facon-faire-cuire-crevettes",
+            "https://www.slate.fr/life/68081/vraie-recette-carbonara",
+            "https://www.slate.fr/boire-manger/top-chef-2022-les-recaps-en-gif-et-en-acceng-du-sud/saison-13-episode-8"          ]
+  }
+  </script>
+      <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage":"https://www.slate.fr/story/225195/non-pas-chorizo-vraie-paella-valence-recette-cuisine",
+    "headline": "Non, il n'y a pas de chorizo dans la paella | Slate.fr",
+    "alternativeHeadline": "La recette de la véritable paella de Valence se limite à seulement dix ingrédients, parmi lesquels deux viandes seulement: lapin et poulet.",
+    "description": "La recette de la véritable paella de Valence se limite à seulement dix ingrédients, parmi lesquels deux viandes seulement: lapin et poulet.",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://www.slate.fr/sites/default/files/styles/1200x680/public/paella-3397457_960_720.jpg",
+      "height": 680,
+      "width": 1200    },
+    "datePublished": "2022-04-08T07:00:00+02:00",
+    "dateModified": "2022-04-08T07:00:00+02:00",
+    "keywords":["Gastronomie","Espagne","Valence","recette de cuisine","lapins"],
+    "articleSection":"Boire & manger",
+    "author": {
+      "@type": "Person",
+      "name": "Slate.fr"    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Slate.fr",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.slate.fr/sites/all/themes/slate_amp/images/logo_amp.png",
+        "width": 600,
+        "height": 60
+      }
+    }
+  }
+  </script>
+            
+  <script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="481164" async="async"></script>
+  
+  
+  <script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '714463525321423');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=714463525321423&ev=PageView&noscript=1" /></noscript>
+</head>
+<body class="story" name="story">
+  
+  <div class="wallpaper-wrapper">
+  <div class="ad wallpaper"></div>
+</div>
+<div class="app">
+  <div class="layout layout--article">
+        <div class="ad banner">
+<div id="optidigital-adslot-Wallpaper" style="display:none;" class="Wallpaper"></div></div>
+<article>
+  <div class="article-header grid-container">
+    <div class="row">
+      <div class="article-header__inner col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+        <div class="article-header__breadcrumb">
+                              <a href="/boire-manger/">Boire & manger</a>
+                  </div>
+                <h1 class="article-header__title">Non, il n'y a pas de chorizo dans la paella</h1>
+        <span class="article-header__reading-time">Temps de lecture : 2 min</span>        <p class="article-header__infos article-infos">
+                                  Repéré par <a class="author" href="/source/88407/yann-champion">Yann Champion</a>
+                                                    — <time datetime="2022-04-08 07:00:00">8 avril 2022 à 7h00</time>        </p>
+        <h2 class="article-header__chapo">La recette de la véritable paella de Valence se limite à seulement dix ingrédients, parmi lesquels deux viandes seulement: lapin et poulet.</h2>
+      </div>
+    </div>
+  </div>
+  <div class="article-content-wrapper grid-container">
+    <div class="article-thumb-wrapper">
+      <div class="article-thumb">
+        <figure class="preload article-image">
+          <div class="image-container">
+                        <img class="image image--full lazyload" data-full-src="/sites/default/files/styles/1060x523/public/paella-3397457_960_720.jpg" alt="Paella valenciana.&amp;nbsp;| Antociano via Pixabay">
+                      </div>
+          <figcaption class="legend-container">
+            <div class="legend">
+              <span class="caption-picture"><em>Paella valenciana.</em>&nbsp;| Antociano <a href="https://pixabay.com/fr/photos/paella-riz-cuisine-espagnole-3397457/" target="_blank">via Pixabay</a>
+</span>
+            </div>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="sharing-tools-wrapper">
+        <form method="post" target="_blank">
+  <div class="sharing-tools">
+    <button class="sharing-btn sharing-btn--circle sharing-btn--fb" onclick="openShare('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlLnBocD91PWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMjUxOTUlMkZub24tcGFzLWNob3Jpem8tdnJhaWUtcGFlbGxhLXZhbGVuY2UtcmVjZXR0ZS1jdWlzaW5l');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--fb">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-fb.svg" alt="Partager sur Facebook" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--messenger" onclick="openShare('ZmItbWVzc2VuZ2VyOi8vc2hhcmUvP2xpbms9aHR0cHMlM0ElMkYlMkZ3d3cuc2xhdGUuZnIlMkZzdG9yeSUyRjIyNTE5NSUyRm5vbi1wYXMtY2hvcml6by12cmFpZS1wYWVsbGEtdmFsZW5jZS1yZWNldHRlLWN1aXNpbmUmYXBwX2lkPTMyODIyNTcwNzY5ODY4Nw==');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--messenger">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-messenger-white.svg" alt="Partager sur Facebook Messenger" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--messenger sharing-btn--messenger-desktop" onclick="openShare('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2RpYWxvZy9zZW5kP2FwcF9pZD0zMjgyMjU3MDc2OTg2ODcmbGluaz1odHRwcyUzQSUyRiUyRnd3dy5zbGF0ZS5mciUyRnN0b3J5JTJGMjI1MTk1JTJGbm9uLXBhcy1jaG9yaXpvLXZyYWllLXBhZWxsYS12YWxlbmNlLXJlY2V0dGUtY3Vpc2luZSZyZWRpcmVjdF91cmk9aHR0cHM6Ly93d3cuc2xhdGUuZnIv');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--messenger">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-messenger-white.svg" alt="Partager sur Facebook Messenger" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--twitter" onclick="openShare('aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMjUxOTUlMkZub24tcGFzLWNob3Jpem8tdnJhaWUtcGFlbGxhLXZhbGVuY2UtcmVjZXR0ZS1jdWlzaW5lJnRleHQ9Tm9uJTJDK2lsK24lMjd5K2ErcGFzK2RlK2Nob3Jpem8rZGFucytsYStwYWVsbGEmdmlhPXNsYXRlZnI=');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--twitter">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-twitter.svg" alt="Partager sur Twitter" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--linkedin" onclick="openShare('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2N3cy9zaGFyZT91cmw9aHR0cHMlM0ElMkYlMkZ3d3cuc2xhdGUuZnIlMkZzdG9yeSUyRjIyNTE5NSUyRm5vbi1wYXMtY2hvcml6by12cmFpZS1wYWVsbGEtdmFsZW5jZS1yZWNldHRlLWN1aXNpbmU=');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--linkedin">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-linkedin.svg" alt="Partager sur LinkedIn" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--whatsapp" onclick="openShare('d2hhdHNhcHA6Ly9zZW5kP3RleHQ9aHR0cHMlM0ElMkYlMkZ3d3cuc2xhdGUuZnIlMkZzdG9yeSUyRjIyNTE5NSUyRm5vbi1wYXMtY2hvcml6by12cmFpZS1wYWVsbGEtdmFsZW5jZS1yZWNldHRlLWN1aXNpbmU=');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--whatsapp">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-whatsapp.svg" alt="Partager sur LinkedIn" />
+      </div>
+    </button>
+  </div>
+</form>      </div>
+    </div>
+    <div class="article-content row">
+      <div class="ad banner">
+      <div id="optidigital-adslot-Billboard_1" style="display:none;" class="Billboard_1"></div>      </div>
+      <div class="content-left col-md-8 col-auto">
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+          <div class="field-items">
+            <div class="field-item even">
+            <p class="article-infos article-infos--top-article">Temps de lecture: 2 min — Repéré sur <a href='https://elpais.com/espana/comunidad-valenciana/2022-03-14/los-10-ingredientes-esenciales-de-la-paella-valenciana-arroz-pollo-conejo-garrofon.html' target='_blank'>El País</a></p>
+                        <p>Le mot paella vous &eacute;voque un grand m&eacute;li-m&eacute;lo &agrave; base de riz et d'<a href="https://twitter.com/NZadourian/status/1503434130456993797?s=20&amp;t=MOYQe1H5VsPDNpK8pEYBLw" rel="noreferrer" target="_blank">&agrave; peu pr&egrave;s n'importe quoi</a>? C'est que vous n'&ecirc;tes certainement pas espagnol et encore moins de la r&eacute;gion de Valence, d'o&ugrave; est originaire le c&eacute;l&egrave;bre plat ib&eacute;rique. Une <a href="http://www.sciencedirect.com/science/article/abs/pii/S1878450X21001293#preview-section-introduction" rel="noreferrer" target="_blank">&eacute;tude tr&egrave;s s&eacute;rieuse</a> r&eacute;alis&eacute;e par des chercheurs de l'Universit&eacute; de Valence et publi&eacute;e r&eacute;cemment dans le prestigieux International Journal of Gastronomy and Food Science a, en effet, &eacute;tabli que la <a href="https://www.slate.fr/dossier/60497/recette-de-cuisine" rel="noreferrer" target="_blank">recette</a> de la v&eacute;ritable <em>paella valenciana</em> se limite essentiellement &agrave; dix ingr&eacute;dients: riz, eau, huile d'olive, sel, safran, tomate, haricots plats, <em>garrof&oacute;n</em> (haricots de Valence), poulet et lapin.</p><p>Ce r&eacute;sultat a &eacute;t&eacute; obtenu apr&egrave;s une enqu&ecirc;te minutieuse dirig&eacute;e par l'anthropologue Pablo Vidal et men&eacute;e dans 266 communes de la province de Valence aupr&egrave;s de pr&egrave;s de 400 cuisiniers non professionnels &acirc;g&eacute;s de plus de 50 ans. L'enqu&ecirc;te a aussi montr&eacute; que, outre les dix ingr&eacute;dients essentiels (utilis&eacute;s par plus de 90% des personnes interrog&eacute;es), cinquante autres ingr&eacute;dients &eacute;taient utilis&eacute;s plus ou moins couramment, mais dans des proportions bien moindres, avec en t&ecirc;te le paprika (62,5%), le romarin (52,2%) et l'artichaut (46,3%, mais en hiver uniquement). Le site participatif <a href="https://wikipaella.org/ingredientes/" rel="noreferrer" target="_blank">wikipaella.org</a>, qui le premier s'&eacute;tait donn&eacute; pour mission de recenser les ingr&eacute;dients de la v&eacute;ritable paella de Valence, &eacute;voque aussi la possibilit&eacute; d'y mettre&hellip; des escargots.</p><div class="article_insert showcase">
+<div class="element clearfix">
+<p><strong><a href="https://www.slate.fr/story/224958/cuisine-recette-meilleure-facon-faire-cuire-crevettes" rel="noreferrer" target="_blank"><img src="/sites/default/files/megan-bucknall-rh0yhbinkf4-unsplash.jpeg" style="height: 79px; width: 160px;"></a>&Agrave; LIRE AUSSI </strong></p>
+
+<p><a href="https://www.slate.fr/story/224958/cuisine-recette-meilleure-facon-faire-cuire-crevettes" rel="noreferrer" target="_blank">La meilleure fa&ccedil;on de faire cuire des crevettes</a><br>
+<br>
+ </p>
+</div>
+</div><h3>&laquo;Attentat gastronomique&raquo;</h3><p><a href="http://elpais.com/espana/comunidad-valenciana/2022-03-14/los-10-ingredientes-esenciales-de-la-paella-valenciana-arroz-pollo-conejo-garrofon.html" rel="noreferrer" target="_blank">Cit&eacute;s par le journal El Pa&iacute;s</a>, les auteurs de l'&eacute;tude affirment que ces r&eacute;sultats <em>&laquo;permettent enfin d'exclure les ingr&eacute;dients qui ne sont jamais utilis&eacute;s et doivent &ecirc;tre &eacute;vit&eacute;s dans une v&eacute;ritable </em>paella valenciana. <em>[&hellip;]</em> <em>Si l'on utilise ce nom, il faut s'en tenir &agrave; ces dix ingr&eacute;dients de base. On peut, bien s&ucirc;r, aussi utiliser les autres ingr&eacute;dients occasionnels, mais il faut &eacute;viter tout ce qui sort de cette liste &eacute;tendue.&raquo;</em> Ils proposent d'appeler ces plats peu respectueux de la v&eacute;ritable recette<em> &laquo;riz &agrave; quelque chose, ou &agrave; la rigueur &ldquo;paella&rdquo;, mais sans l'adjectif &ldquo;valenciana&rdquo;&raquo;.</em></p><p>Faut-il, alors, donner tort &agrave; Michel Audiard qui, dans <em>Un singe en hiver</em>, <a href="https://www.topito.com/top-repliques-jean-paul-belmondo-les-punchlines-de-bebel" rel="noreferrer" target="_blank">faisait dire &agrave; Jean-Paul Belmondo</a> que <em>&laquo;Une paella sans coquillage, c'est comme un gigot sans ail, un escroc sans rosette: quelque chose qui d&eacute;pla&icirc;t &agrave; Dieu&raquo;</em>? On pourrait&hellip; mais n'allons pas trop vite en besogne. Comme on peut le constater sur wikipaella.org, la <em>paella marinera </em>(&laquo;paella de la mer&raquo;) a parfaitement droit de cit&eacute; parmi les plats typiques de la r&eacute;gion, mais elle est alors r&eacute;alis&eacute;e sans viande.</p><p>Et le chorizo, que l'on retrouve dans la quasi-totalit&eacute; des recettes de paella fran&ccedil;aises? S'il y a bien un ingr&eacute;dient &agrave; proscrire pour pr&eacute;parer une paella authentique, il semble que ce soit celui-l&agrave;. En 2020, le chef espagnol Karlos Argui&ntilde;ano s'est attir&eacute; les foudres des puristes de la paella en proposant une <em><a href="https://twitter.com/karguinano/status/1291299100856483840" rel="noreferrer" target="_blank">&laquo;paella mixte&raquo;</a></em> &agrave; base de poulet, fruits de mer&hellip; et chorizo. Enric Morera, pr&eacute;sident du Parlement de la r&eacute;gion de Valence, est all&eacute; jusqu'&agrave; qualifier la recette d'<em>&laquo;attentat gastronomique&raquo;</em>:</p><div>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="ca"><a href="https://twitter.com/enricmorera?ref_src=twsrc%5Etfw" rel="noreferrer" target="_blank">@enricmorera</a>, president de les Corts, qualifica d'"atemptat gastron&ograve;mic" la paella d'<a href="https://twitter.com/karguinano?ref_src=twsrc%5Etfw" rel="noreferrer" target="_blank">@karguinano</a> i demana que rectifique p&uacute;blicament i que li lleve el xori&ccedil;&#129368; <a href="https://twitter.com/hashtag/LaTerrassa?src=hash&amp;ref_src=twsrc%5Etfw" rel="noreferrer" target="_blank">#LaTerrassa</a> <a href="https://twitter.com/hashtag/Compartim%C3%80Punt?src=hash&amp;ref_src=twsrc%5Etfw" rel="noreferrer" target="_blank">#Compartim&Agrave;Punt</a> <a href="https://twitter.com/apunt_media?ref_src=twsrc%5Etfw" rel="noreferrer" target="_blank">@apunt_media</a> <a href="https://twitter.com/cortsval?ref_src=twsrc%5Etfw" rel="noreferrer" target="_blank">@cortsval</a> <a href="https://t.co/nImPvUlpMT" rel="noreferrer" target="_blank">pic.twitter.com/nImPvUlpMT</a></p>
+&mdash; La Terrassa (@laterrassaapunt) <a href="https://twitter.com/laterrassaapunt/status/1291774691405893632?ref_src=twsrc%5Etfw" rel="noreferrer" target="_blank">August 7, 2020</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div><p>Cela n'&eacute;tait pas sans rappeler le <a href="https://www.20minutes.fr/monde/1937819-20161006-chef-cuisinier-jamie-oliver-declenche-paellagate-chorizo" rel="noreferrer" target="_blank">&laquo;paellagate&raquo;</a> d&eacute;clench&eacute; en 2016 par le tr&egrave;s m&eacute;diatique chef britannique Jamie Oliver qui, en proposant <a href="https://www.jamieoliver.com/recipes/rice-recipes/chicken-chorizo-paella/" rel="noreferrer" target="_blank">une recette de paella</a> incluant du chorizo, avait suscit&eacute; de nombreuses moqueries de l'autre c&ocirc;t&eacute; des Pyr&eacute;n&eacute;es.</p><div>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">My version of fish and chips combines aubergines with duck.</p>
+&mdash; Antonio Villarreal (@bajoelbillete) <a href="https://twitter.com/bajoelbillete/status/783260182025539585?ref_src=twsrc%5Etfw" rel="noreferrer" target="_blank">October 4, 2016</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div><p class="legend-container"><em>&laquo;Ma version du fish and chips combine aubergines et canard.&raquo;</em></p>
+            </div>
+          </div>
+        </div>
+        <div class="tags-container tags-container--border-top">
+          <span class="tags__label">En savoir plus:</span>
+          <div class="tags">
+                                    <a class="tag" href="/boire-manger/">
+              <span class="tag__label">Boire & manger</span>
+            </a>
+                                                                        <a class="tag" href="/dossier/257/gastronomie">
+              <span class="tag__label">Gastronomie</span>
+            </a>
+                                                <a class="tag" href="/dossier/727/espagne">
+              <span class="tag__label">Espagne</span>
+            </a>
+                                                <a class="tag" href="/dossier/28313/valence">
+              <span class="tag__label">Valence</span>
+            </a>
+                                                <a class="tag" href="/dossier/60497/recette-de-cuisine">
+              <span class="tag__label">recette de cuisine</span>
+            </a>
+                                                <a class="tag" href="/dossier/13453/lapins">
+              <span class="tag__label">lapins</span>
+            </a>
+                                              </div>
+        </div>
+
+        
+                <div class="bottom-content">
+          <div id="taboola-below-article-thumbnails"></div>
+          <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+              mode: 'alternating-thumbnails-a',
+              container: 'taboola-below-article-thumbnails',
+              placement: 'Below Article Thumbnails',
+              target_type: 'mix'
+            });
+          </script>
+
+          <script data-wid="auto" type="text/javascript" src="https://content.viralize.tv/display/?zid=AAEej-9DvLcFkZYu"></script>
+
+          <div id="taboola-below-article-thumbnails1"></div>
+          <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({
+              mode: 'alternating-thumbnails-a',
+              container: 'taboola-below-article-thumbnails1',
+              placement: 'Below Article Thumbnails1',
+              target_type: 'mix'
+            });
+          </script>
+        </div>
+              </div>
+      <aside class="content-right col-md-4 col-300">
+        <div class="ad-container ad-container--aside">
+          <div id="optidigital-adslot-HalfpageAd_1" style="display:none;" class="HalfpageAd_1"></div>        </div>
+        
+        
+                <div id="taboola-right-rail-thumbnails" style="margin-top:95px"></div>
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({
+            mode: 'thumbnails-rr',
+            container: 'taboola-right-rail-thumbnails',
+            placement: 'Right Rail Thumbnails',
+            target_type: 'mix'
+          });
+        </script>
+                
+        <div class="ad-container ad-container--aside ad-container--sticky">
+          <div id="optidigital-adslot-HalfpageAd_2" style="display:none;" class="HalfpageAd_2"></div>        </div>
+      </aside>
+    </div>
+  </div>
+</article>
+
+<section class="crossing-block relance-newsletter">
+  <div class="crossing-block__inner">
+    <div class="crossing-block__title">
+      <p class="crossing-block-title">Newsletters</p>
+    </div>
+    <div class="slider-container">
+      <div class="crossing-block__content slides">
+        <div class="newsletter-block slide">
+          <div class="newsletter-block__inner">
+            <p class="newsletter-title">La quotidienne <br />de Slate</p>
+            <p class="newsletter-description">Une sélection personnalisée des articles de Slate tous les matins dans votre boîte mail.</p>
+            <div>
+              <div class="status"></div>
+              <form id="ownpage-form" novalidate class="validate newsletter-form">
+                <div class="newsletter-form__input">
+                  <input required type="email" value="" name="email" class="required email">
+                  <label for="email">Votre e-mail</label>
+                </div>
+                <div class="newsletter-form__submit">
+                  <button type="submit" name="subscribe">S’abonner</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="newsletter-block slide">
+          <div class="newsletter-block__inner">
+            <p class="newsletter-title">La kotiidienne <br />de <span style="color:#FFCC00">korii.</span></p>
+            <p class="newsletter-description">Retrouvez chaque matin le meilleur des articles de korii, le site biz et tech par Slate.</p>
+            <div>
+              <form action="//slate.us11.list-manage.com/subscribe/post?u=22e9f19b5e27265bddef2006d&amp;id=bcc0e283b6" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate class="validate newsletter-form">
+                <div class="mc-field-group newsletter-form__input">
+                  <input type="email" value="" name="EMAIL" class="required email">
+                  <label for="mce-EMAIL">Votre e-mail</label>
+                </div>
+                <div class="newsletter-form__submit">
+                  <button type="submit" name="subscribe">S’abonner</button>
+                </div>
+                <div class="clear">
+                  <div class="response" style="display:none"></div>
+                  <div class="response" style="display:none"></div>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;">
+                  <input type="text" name="b_22e9f19b5e27265bddef2006d_bcc0e283b6" tabindex="-1" value="">
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script type="text/javascript" src="/sites/all/themes/slatefr/scripts/click/subscribe.js"></script><div class="article article-list">
+  <div class="row article-list__inner grid-container">
+    <div class="article-list__cover-wrapper col-sm-4">
+      <a href="/story/238756/meilleure-facon-cuire-courge-butternut-rotie-four-poele-vapeur-micro-ondes">
+        <span class="cover-container">
+          <img class="article-list__cover cover fit lazyload" data-full-src="/sites/default/files/styles/1680x840/public/sara-dubler-ubkjke6ij3i-unsplash.jpeg" alt="La meilleure façon de cuire la courge butternut">
+        </span>
+      </a>
+      <div class="sharing-layer">
+  <div class="sharing__container">
+    <form method="post" target="_blank">
+      <button class="sharing__btn" onclick="openShare('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlLnBocD91PWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMzg3NTYlMkZtZWlsbGV1cmUtZmFjb24tY3VpcmUtY291cmdlLWJ1dHRlcm51dC1yb3RpZS1mb3VyLXBvZWxlLXZhcGV1ci1taWNyby1vbmRlcw==');return false;">
+        <div class="icon icon--fb">
+          <img src="/sites/all/themes/slatefr/static/svg/icon-fb.svg" alt="Partager sur Facebook" />
+        </div>
+      </button>
+      <button class="sharing__btn" onclick="openShare('aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMzg3NTYlMkZtZWlsbGV1cmUtZmFjb24tY3VpcmUtY291cmdlLWJ1dHRlcm51dC1yb3RpZS1mb3VyLXBvZWxlLXZhcGV1ci1taWNyby1vbmRlcyZ0ZXh0PUxhK21laWxsZXVyZStmYSVDMyVBN29uK2RlK2N1aXJlK2xhK2NvdXJnZStidXR0ZXJudXQmdmlhPXNsYXRlZnI=');return false;">
+        <div class="icon icon--twitter">
+          <img src="/sites/all/themes/slatefr/static/svg/icon-twitter.svg" alt="Partager sur Twitter" />
+        </div>
+      </button>
+    </form>
+  </div>
+</div>    </div>
+    <div class="article-list__content col-sm-8">
+      <p class="content__title"><a href="/story/238756/meilleure-facon-cuire-courge-butternut-rotie-four-poele-vapeur-micro-ondes">La meilleure façon de cuire la courge butternut</a></p>
+      <p class="content__chapo">En épargnant votre cuisine (et votre santé mentale).</p>
+      <p class="article-infos">
+                                        <span class="author">Ella Quittner</span>
+                                <span class="separator"> —</span> 10 janvier 2023        <span class="separator"> —</span> Temps de lecture : 10 min      </p>
+    </div>
+  </div>
+</div>
+<div class="article article-list">
+  <div class="row article-list__inner grid-container">
+    <div class="article-list__cover-wrapper col-sm-4">
+      <a href="/story/238603/helene-darroze-cuisiniere-6-etoiles-michelin-deuxieme-femme-cheffe-plus-recompensee-restaurants-cuisine-sud-ouest">
+        <span class="cover-container">
+          <img class="article-list__cover cover fit lazyload" data-full-src="/sites/default/files/styles/1680x840/public/1_helene_darroze_c_pierre_olivier_pour_m6_0.jpg" alt="Hélène Darroze, une cuisinière qui fait voyager dans les étoiles">
+        </span>
+      </a>
+      <div class="sharing-layer">
+  <div class="sharing__container">
+    <form method="post" target="_blank">
+      <button class="sharing__btn" onclick="openShare('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlLnBocD91PWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMzg2MDMlMkZoZWxlbmUtZGFycm96ZS1jdWlzaW5pZXJlLTYtZXRvaWxlcy1taWNoZWxpbi1kZXV4aWVtZS1mZW1tZS1jaGVmZmUtcGx1cy1yZWNvbXBlbnNlZS1yZXN0YXVyYW50cy1jdWlzaW5lLXN1ZC1vdWVzdA==');return false;">
+        <div class="icon icon--fb">
+          <img src="/sites/all/themes/slatefr/static/svg/icon-fb.svg" alt="Partager sur Facebook" />
+        </div>
+      </button>
+      <button class="sharing__btn" onclick="openShare('aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMzg2MDMlMkZoZWxlbmUtZGFycm96ZS1jdWlzaW5pZXJlLTYtZXRvaWxlcy1taWNoZWxpbi1kZXV4aWVtZS1mZW1tZS1jaGVmZmUtcGx1cy1yZWNvbXBlbnNlZS1yZXN0YXVyYW50cy1jdWlzaW5lLXN1ZC1vdWVzdCZ0ZXh0PUglQzMlQTlsJUMzJUE4bmUrRGFycm96ZSUyQyt1bmUrY3Vpc2luaSVDMyVBOHJlK3F1aStmYWl0K3ZveWFnZXIrZGFucytsZXMrJUMzJUE5dG9pbGVzJnZpYT1zbGF0ZWZy');return false;">
+        <div class="icon icon--twitter">
+          <img src="/sites/all/themes/slatefr/static/svg/icon-twitter.svg" alt="Partager sur Twitter" />
+        </div>
+      </button>
+    </form>
+  </div>
+</div>    </div>
+    <div class="article-list__content col-sm-8">
+      <p class="content__title"><a href="/story/238603/helene-darroze-cuisiniere-6-etoiles-michelin-deuxieme-femme-cheffe-plus-recompensee-restaurants-cuisine-sud-ouest">Hélène Darroze, une cuisinière qui fait voyager dans les étoiles</a></p>
+      <p class="content__chapo">Déjà sacrée meilleure cheffe du monde en 2015, cette passionnée des produits du Sud-Ouest, originaire des Landes, a obtenu sa sixième étoile en mars 2022. Un parcours impressionnant qui fait d'elle la deuxième cheffe la plus récompensée de la planète.</p>
+      <p class="article-infos">
+                                        <span class="author">Nicolas de Rabaudy</span>
+                                <span class="separator"> —</span> 8 janvier 2023        <span class="separator"> —</span> Temps de lecture : 7 min      </p>
+    </div>
+  </div>
+</div>
+<div class="article article-list">
+  <div class="row article-list__inner grid-container">
+    <div class="article-list__cover-wrapper col-sm-4">
+      <a href="/story/238597/meilleurs-pires-regimes-alimentaires-alimentation-nutrition">
+        <span class="cover-container">
+          <img class="article-list__cover cover fit lazyload" data-full-src="/sites/default/files/styles/1680x840/public/photo_article_regime_alimentaire.jpg" alt="Les meilleurs et les pires régimes alimentaires">
+        </span>
+      </a>
+      <div class="sharing-layer">
+  <div class="sharing__container">
+    <form method="post" target="_blank">
+      <button class="sharing__btn" onclick="openShare('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlLnBocD91PWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMzg1OTclMkZtZWlsbGV1cnMtcGlyZXMtcmVnaW1lcy1hbGltZW50YWlyZXMtYWxpbWVudGF0aW9uLW51dHJpdGlvbg==');return false;">
+        <div class="icon icon--fb">
+          <img src="/sites/all/themes/slatefr/static/svg/icon-fb.svg" alt="Partager sur Facebook" />
+        </div>
+      </button>
+      <button class="sharing__btn" onclick="openShare('aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMzg1OTclMkZtZWlsbGV1cnMtcGlyZXMtcmVnaW1lcy1hbGltZW50YWlyZXMtYWxpbWVudGF0aW9uLW51dHJpdGlvbiZ0ZXh0PUxlcyttZWlsbGV1cnMrZXQrbGVzK3BpcmVzK3IlQzMlQTlnaW1lcythbGltZW50YWlyZXMmdmlhPXNsYXRlZnI=');return false;">
+        <div class="icon icon--twitter">
+          <img src="/sites/all/themes/slatefr/static/svg/icon-twitter.svg" alt="Partager sur Twitter" />
+        </div>
+      </button>
+    </form>
+  </div>
+</div>    </div>
+    <div class="article-list__content col-sm-8">
+      <p class="content__title"><a href="/story/238597/meilleurs-pires-regimes-alimentaires-alimentation-nutrition">Les meilleurs et les pires régimes alimentaires</a></p>
+      <p class="content__chapo">Le panel d'experts du US News & World Report a voté et sa sentence est irrévocable.</p>
+      <p class="article-infos">
+                Repéré par <span class="author">Aurore Maubian</span>
+                <span class="separator"> —</span> 5 janvier 2023        <span class="separator"> —</span> Temps de lecture : 2 min      </p>
+    </div>
+  </div>
+</div>
+  </div>
+  <footer class="footer-main">
+  <a class="slate-logo" href="/">
+    <img src="/sites/all/themes/slatefr/static/svg/slate-fr.svg" alt="Slate.fr" />
+  </a>
+  <nav class="footer__links">
+    <a class="footer__link" href="https://www.slate.com" target="_blank">Slate.com</a>
+    <a class="footer__link" href="https://www.slate.fr/studio/" target="_blank">Annonceurs</a>
+    <a class="footer__link" href="/contacts">Contacts</a>
+    <a class="footer__link" href="/qui-sommes-nous">Qui sommes-nous</a>
+    <a class="footer__link" href="/story/28817/mentions-legales">Mentions légales</a>
+    <a class="footer__link" href="#" onclick="window.Sddan.cmp.displayUI();return false;">Gestion des données personnelles</a>
+  </nav>
+  <nav class="footer__socials">
+    <span class="socials__title">Suivez-nous :</span>
+    <form method="post" target="_blank">
+      <div class="social-links">
+        <button class="social-link" onclick="openShare('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1NsYXRlRnJhbmNlLw==');return false;">
+          <div class="icon icon--fb icon--circle"></div>
+        </button>
+        <button class="social-link" onclick="openShare('aHR0cHM6Ly90d2l0dGVyLmNvbS9zbGF0ZWZy');return false;">
+          <div class="icon icon--twitter icon--circle"></div>
+        </button>
+        <button class="social-link" onclick="openShare('aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQzF5TEJoaDhlRFNQbS1fSGd6OEF2TkE=');return false;">
+          <div class="icon icon--youtube icon--circle"></div>
+        </button>
+        <button class="social-link" onclick="openShare('aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zbGF0ZWZyYW5jZS8=');return false;">
+          <div class="icon icon--instagram icon--circle"></div>
+        </button>
+      </div>
+    </form>
+  </nav>
+</footer></div>
+<header class="header  is-single">
+  <button class="header-menu-icon">
+    <div class="menu-icon-bars">
+      <div class="menu-icon-bar"></div>
+      <div class="menu-icon-bar"></div>
+      <div class="menu-icon-bar"></div>
+    </div>
+  </button>
+  <div class="categories-navigation">
+    <span class="link-categorie other-click" data-id="L2F1ZGlvLw==">Podcasts</span>
+    <span class="link-categorie other-click" data-id="L2dyYW5kLWZvcm1hdC8=">Grands Formats</span>
+    <span class="link-categorie other-click" data-id="L3Nlcmllcw==">Séries</span>
+  </div>
+  <a class="slate-logo" href="/">
+        <div class="slate-logo__fr purple"></div>
+        <img src="/sites/all/themes/slatefr/static/svg/slate-purple.svg" alt="Slate.fr" />
+      </a>
+    <div class="header-right-part">
+                <div class="sharing-container">
+      <form method="post" target="_blank">
+  <div class="sharing-tools">
+    <button class="sharing-btn sharing-btn--circle sharing-btn--fb" onclick="openShare('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlLnBocD91PWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMjUxOTUlMkZub24tcGFzLWNob3Jpem8tdnJhaWUtcGFlbGxhLXZhbGVuY2UtcmVjZXR0ZS1jdWlzaW5l');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--fb">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-fb.svg" alt="Partager sur Facebook" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--messenger" onclick="openShare('ZmItbWVzc2VuZ2VyOi8vc2hhcmUvP2xpbms9aHR0cHMlM0ElMkYlMkZ3d3cuc2xhdGUuZnIlMkZzdG9yeSUyRjIyNTE5NSUyRm5vbi1wYXMtY2hvcml6by12cmFpZS1wYWVsbGEtdmFsZW5jZS1yZWNldHRlLWN1aXNpbmUmYXBwX2lkPTMyODIyNTcwNzY5ODY4Nw==');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--messenger">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-messenger-white.svg" alt="Partager sur Facebook Messenger" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--messenger sharing-btn--messenger-desktop" onclick="openShare('aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2RpYWxvZy9zZW5kP2FwcF9pZD0zMjgyMjU3MDc2OTg2ODcmbGluaz1odHRwcyUzQSUyRiUyRnd3dy5zbGF0ZS5mciUyRnN0b3J5JTJGMjI1MTk1JTJGbm9uLXBhcy1jaG9yaXpvLXZyYWllLXBhZWxsYS12YWxlbmNlLXJlY2V0dGUtY3Vpc2luZSZyZWRpcmVjdF91cmk9aHR0cHM6Ly93d3cuc2xhdGUuZnIv');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--messenger">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-messenger-white.svg" alt="Partager sur Facebook Messenger" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--twitter" onclick="openShare('aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNsYXRlLmZyJTJGc3RvcnklMkYyMjUxOTUlMkZub24tcGFzLWNob3Jpem8tdnJhaWUtcGFlbGxhLXZhbGVuY2UtcmVjZXR0ZS1jdWlzaW5lJnRleHQ9Tm9uJTJDK2lsK24lMjd5K2ErcGFzK2RlK2Nob3Jpem8rZGFucytsYStwYWVsbGEmdmlhPXNsYXRlZnI=');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--twitter">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-twitter.svg" alt="Partager sur Twitter" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--linkedin" onclick="openShare('aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2N3cy9zaGFyZT91cmw9aHR0cHMlM0ElMkYlMkZ3d3cuc2xhdGUuZnIlMkZzdG9yeSUyRjIyNTE5NSUyRm5vbi1wYXMtY2hvcml6by12cmFpZS1wYWVsbGEtdmFsZW5jZS1yZWNldHRlLWN1aXNpbmU=');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--linkedin">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-linkedin.svg" alt="Partager sur LinkedIn" />
+      </div>
+    </button>
+    <button class="sharing-btn sharing-btn--circle sharing-btn--whatsapp" onclick="openShare('d2hhdHNhcHA6Ly9zZW5kP3RleHQ9aHR0cHMlM0ElMkYlMkZ3d3cuc2xhdGUuZnIlMkZzdG9yeSUyRjIyNTE5NSUyRm5vbi1wYXMtY2hvcml6by12cmFpZS1wYWVsbGEtdmFsZW5jZS1yZWNldHRlLWN1aXNpbmU=');return false;">
+      <span class="sharing-btn__bg"></span>
+      <div class="icon icon--whatsapp">
+        <img src="/sites/all/themes/slatefr/static/svg/icon-whatsapp.svg" alt="Partager sur LinkedIn" />
+      </div>
+    </button>
+  </div>
+</form>      <span class="separator"></span>
+    </div>
+            <div class="btns">
+      <button class="btn btn--search u-reset-btn">
+        <div class="icon icon--search purple"></div>
+      </button>
+      <button class="btn btn--close-search u-reset-btn">
+        <div class="icon icon--cross">
+          <span class="icon__bar"></span>
+          <span class="icon__bar"></span>
+        </div>
+      </button>
+    </div>
+    <span class="separator"></span>
+    <span class="studio other-click" data-id="L3N0dWRpby9wcm9kdWN0aW9ucw==">Slate Studio</span>
+    <span class="separator"></span>
+    <a href="https://korii.slate.fr/" target="_blank" class="korii-logo"><img src="/sites/all/themes/slatefr/static/svg/korii.svg" height="18" width="auto" alt="korii." /></a>
+  </div>
+  </header><div class="main-menu-container">
+  <div class="layer--dark layer"></div>
+  <div class="layer--light layer col-md-4"></div>
+  <div class="row main-menu__inner">
+    <div class="col-md-4 main-menu__navigation">
+      <button class="navigation__close-btn">
+        <div class="icon icon--cross">
+          <span class="icon__bar"></span>
+          <span class="icon__bar"></span>
+        </div>
+        <span class="label">Fermer</span>
+      </button>
+      <nav>
+        <ul class="navigation__inner vs" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+          <li class="navigation__link">
+            <a href="/">Accueil</a>
+          </li>
+          <li class="navigation__link navigation__link--hover navigation__link--current" itemprop="name">
+            <a itemprop="url" href="/monde/" name="monde">Monde</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/societe/" name="societe">Société</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/politique/" name="politique">Politique</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/economie/" name="economie">Économie</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/culture/" name="culture">Culture</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/tech-internet/" name="internet">Tech & internet</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/medias/" name="medias">Médias</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/egalites/" name="egalites">Égalités</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/enfants/" name="enfants">Parents & enfants</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/boire-manger/" name="boire-manger">Boire & manger</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/sciences/" name="science">Sciences</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/sante/" name="sante">Santé</a>
+          </li>
+          <li class="navigation__link navigation__link--hover" itemprop="name">
+            <a itemprop="url" href="/sports/" name="sports">Sports</a>
+          </li>
+          <li class="navigation__separator"></li>
+          <li class="navigation__link" itemprop="name">
+            <a itemprop="url" href="/grand-format/">Grands formats</a>
+          </li>
+          <li class="navigation__separator"></li>
+          <li class="navigation__link" itemprop="name">
+            <a itemprop="url" href="/audio/">Podcasts</a>
+          </li>
+          <li class="navigation__separator"></li>
+          <li class="navigation__link" itemprop="name">
+            <a itemprop="url" href="/series">Séries</a>
+          </li>
+          <li class="navigation__separator"></li>
+          <li class="navigation__link">
+            <a href="/newsletters">Newsletters</a>
+          </li>
+          <li class="navigation__separator"></li>
+          <li class="navigation__link">
+            <a href="/studio/productions">Slate Studio</a>
+          </li>
+          <li class="navigation__separator"></li>
+          <li class="navigation__link">
+            <a href="https://korii.slate.fr/" target="_blank"><img src="/sites/all/themes/slatefr/static/svg/korii.svg" height="20" width="auto" alt="korii." /></a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="col-auto main-menu__feed">
+      <div class="feed__inner vs"></div>
+    </div>
+  </div>
+</div>
+  
+<script type="text/javascript">
+var initWallpaper = function(prog = false) {
+  document.body.classList.add('skin');
+  document.body.classList.add('skin-opti');
+  if(prog === false || typeof prog !== 'boolean') {
+    var wallpaper = document.getElementById('optidigital-adslot-Wallpaper');
+    var billboard = document.getElementById('optidigital-adslot-Billboard_1');
+    if(wallpaper !== null && billboard !== null) wallpaper.appendChild(billboard);
+  } else {
+    document.body.classList.add('skin-prog');
+  }
+  window.scrollTo(0,0);
+}
+</script>
+
+<!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-7229822-2', 'auto', {
+  'cookieExpires': 31560000
+});
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview', {
+  'dimension1':  'Slate.fr'
+});
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+
+<!-- comScore -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "14078442" });
+(function() {
+  var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+  s.async = true;
+  s.src = 'https://sb.scorecardresearch.com/beacon.js';
+  el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+  <img src="https://b.scorecardresearch.com/p?c1=2&amp;c2=14078442&amp;cv=2.0&amp;cj=1" alt="" />
+</noscript>
+
+<!-- Quantcast -->
+<script>
+var _qevents = _qevents || [];
+(function() {
+  var elem = document.createElement('script');
+  elem.src = 'https://secure.quantserve.com/quant.js';
+  elem.async = true;
+  elem.type = "text/javascript";
+  var scpt = document.getElementsByTagName('script')[0];
+  scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({qacct:"p-wmHYJbTCYsARY"});
+</script>
+<noscript>
+<div style="display:none;">
+  <img src="//pixel.quantserve.com/pixel/p-wmHYJbTCYsARY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+<!-- Impactify -->
+<script>
+window.impactifyTag = window.impactifyTag || [];
+impactifyTag.push({
+  "appId": "slate.fr",
+  "format": "screen",
+  "style": "impact",
+  "onNoAd": function(){},
+  "onReady": function(api){
+    top.myImpactifyApi = api;
+  }
+});
+(function(d, s, id) {
+  var js, ijs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://ad.impactify.io/static/ad/tag.js';
+  ijs.parentNode.insertBefore(js, ijs);
+
+  if(typeof window.orientation !== "undefined" || navigator.userAgent.indexOf('IEMobile') !== -1) {
+    const taboolaDiv = document.querySelector('.bottom-content');
+    if(taboolaDiv !== null) {
+      let observer = new IntersectionObserver((entries, self) => {
+        entries.forEach(entry => {
+          if(entry.isIntersecting) {
+            top.myImpactifyApi.close();
+            self.disconnect();
+          }
+        });
+      });
+      observer.observe(taboolaDiv);
+    }
+  }
+}(document, 'script', 'impactify-sdk'));
+</script>
+
+<!-- Gravity --> 
+<script>
+var grvt_customProperties = {};
+var grvt_siteToken = 'slate_20';
+var grvt_processingToken = 'missouri-apart';
+var script = document.createElement('script');
+script.src = 'https://tag.agrvt.com/tag/v2/wrapper.js';
+document.head.appendChild(script);
+</script>
+
+<script>
+(function(){
+  function loadOwnpageScript(e){var t="https://script.ownpage.fr/v1/",a=document.createElement("script"),n=document.getElementsByTagName("script")[0];a.type="text/javascript",a.defer=1,a.async=1,a.src=t+"ownpage.js",a.onload=e,a.readyState?a.onreadystatechange=function(){("loaded"==a.readyState||"complete"==a.readyState)&&(a.onreadystatechange=null,e&&"function"==typeof e&&e())}:a.onload=function(){e&&"function"==typeof e&&e()},n.parentNode.insertBefore(a,n)}
+
+  loadOwnpageScript(function () {
+    var USER_ID = ""; // TODO: set to known user ID (if logged in) or leave empty
+    Ownpage.trackPage("fa6344252432420c", USER_ID);
+  });
+})();
+</script>
+
+
+<!-- Mediasquare -->
+<script type="text/javascript" src="https://cdn.mediasquare.fr/scripts/msq_cookie_sync.js" async></script>
+
+<!-- BeOp -->
+<script>
+window.beOpAsyncInit = function() {
+  BeOpSDK.init({
+    account: "6023abf4878338529b2306bf"
+  });
+  BeOpSDK.watch();
+};
+</script>
+<script async src="https://widget.beop.io/sdk.js"></script>
+
+  <script src="/sites/all/themes/slatefr/scripts/vendors/tweenmax.min.js"></script>
+  <script src="/sites/all/themes/slatefr/scripts/main.js?v=15"></script>
+    <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+  </script>
+    <script src="/sites/all/themes/slatefr/scripts/click/click.js?v=10"></script>
+  <script src="/sites/all/themes/slatefr/scripts/share.js?v=11"></script>
+</body>
+</html>
