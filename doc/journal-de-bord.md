@@ -200,6 +200,10 @@ Après avoir mis en place le cadre du css, nous avons rencontré de nombreux pro
 ### Création de page d'acceuil （Yingzi）
 Comme les styles sur bulma étaient plutôt classiques et ne répondaient pas à nos besoins pour créer une page d'acceuil originale, j'ai commencé à chercher d'autres modèles css sur internet et grâce à cela, j'ai appris beaucoup de choses sur le Web design, ce qui m'a rendu heureux et m'a donné plus de motivation! À la fin, j'ai trouvé un template sur internet et j'ai créé une page d'acceuil pour notre propre projet.
 
+## 2022-01-08
+### Création d'un nouveau site sur notre projet
+Vu que des problèmes de redirection de pages et de formats n'ont pas été résolus, j'ai décidé de refaire le site web de notre projet en utilisant directement notre template de page d'accueil et en fusionnant tous les fichiers html dans le nouveau site web. Le nouveau site web présente de meilleurs graphismes, des options de menu plus variées et est plus proche de nos attentes que le site précédent.
+
 ## 2022-01-09
 ### Mise à jour du corpus
 Je me suis rendue compte que le mot dazahui avait plusieurs emplois grammaticaux: d'abord, dans un contexte "c'est comme un dazahui", puis "un dazahui de quelque chose" (utilisé comme adjectif d'un nom ou complément du nom), enfin tout simplement "c'est un dazahui". Un autre mot, dazahuishi, qui est le mot dazahui suivi du morphème "shi" qui veut dire "le modèle / le mode".
